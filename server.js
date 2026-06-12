@@ -236,6 +236,7 @@ async function quote(symbol) {
   const data = JSON.parse(await fetchText(url));
   const result = data.chart?.result?.[0];
   const meta = result?.meta;
+  const timestamps = result?.timestamp || [];
   const closes = result?.indicators?.quote?.[0]?.close?.filter((value) => Number.isFinite(value)) || [];
   const latest = meta?.regularMarketPrice ?? closes.at(-1);
   const previous = meta?.chartPreviousClose ?? closes.at(-2);
@@ -247,6 +248,8 @@ async function quote(symbol) {
     changePct,
     previousClose: previous ?? null,
     marketTime: meta?.regularMarketTime ? new Date(meta.regularMarketTime * 1000).toISOString() : null,
+    closes,
+    dates: timestamps.map((value) => new Date(value * 1000).toISOString()),
   };
 }
 

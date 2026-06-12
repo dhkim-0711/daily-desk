@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-06-12T07:01:33.269Z",
+  "generatedAt": "2026-06-12T07:33:22.877Z",
   "news": {
     "articles": [
       {
@@ -219,6 +219,23 @@ window.__DASHBOARD_DATA__ = {
         "score": 18
       },
       {
+        "title": "AI 반도체 호황 TSMC의 고민…웨이 CEO \"가장 부족한 건 사람\" - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yUm1SaUFlb1dBbjVmV2paZ3VnWHl6MFhtZ2RZOUNxazBOQlBBSkdra1JCTFhFR29aTWVYRFd1REtKcU9RY3JOa05hRGF4ZzY4UV9jREc0N0xVMnpITUl4UGx0NXR2YUU?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 06:54:11 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yUm1SaUFlb1dBbjVmV2paZ3VnWHl6MFhtZ2RZOUNxazBOQlBBSkdra1JCTFhFR29aTWVYRFd1REtKcU9RY3JOa05hRGF4ZzY4UV9jREc0N0xVMnpITUl4UGx0NXR2YUU?oc=5\" target=\"_blank\">AI 반도체 호황 TSMC의 고민…웨이 CEO \"가장 부족한 건 사람\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "outlet": "뉴스1",
+        "outletUrl": "https://www.news1.kr",
+        "source": "국내 AI 정책",
+        "companyHits": [
+          "Google",
+          "TSMC"
+        ],
+        "taxonomyHits": [
+          "파운드리·공정"
+        ],
+        "score": 17
+      },
+      {
         "title": "Google Explores Samsung Foundry for Advanced AI Chip Production - Electronics For You BUSINESS",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkdUTUF4Z3JndnlOal9xZ3gxMG50TVBYVnB0b3lhMkh3SE1QVHdvWWhwb3pmbklNV0NXREw4dVUwcjFEUWhtWk5HZ0hOdDIxbWlBZUVsS2NocXo0cDVkcTYzZ2JHYV82VnpBcWpybmgtM0c5VmUyY0d5RUFZbmFVbzBXWnRsdWNhQkliU2MwRjU4dXFsYkhOQlVpQ0dKdG1WWXBVM0pxTEY4cDZzX0hYOUxn?oc=5",
         "publishedAt": "Fri, 12 Jun 2026 06:53:48 GMT",
@@ -291,23 +308,6 @@ window.__DASHBOARD_DATA__ = {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZG1KeFR2aTN0WHE4c050Z1VlTmlqT3VlWXlueDdCRXR3dUpJZXU0ZkN5UjdscVo4OVRnak9MelhyTXpHMU5NT1NadXZlNDVZWGZkZFI2UEhmS0ZpSGVlV2tSLXIzeFR3WjB5YVhJaDI4eVB3MC1lVS1hYXdOelFXMTA3N1R3WUpEYUZnNU16Y2pjTnk0R2haSXNQQjVURjZnS1p5WU5jcU44QQ?oc=5",
         "publishedAt": "Thu, 11 Jun 2026 19:17:22 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZG1KeFR2aTN0WHE4c050Z1VlTmlqT3VlWXlueDdCRXR3dUpJZXU0ZkN5UjdscVo4OVRnak9MelhyTXpHMU5NT1NadXZlNDVZWGZkZFI2UEhmS0ZpSGVlV2tSLXIzeFR3WjB5YVhJaDI4eVB3MC1lVS1hYXdOelFXMTA3N1R3WUpEYUZnNU16Y2pjTnk0R2haSXNQQjVURjZnS1p5WU5jcU44QQ?oc=5\" target=\"_blank\">TSMC May revenue jumps 30% as AI chip demand stays strong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-        "outlet": "MSN",
-        "outletUrl": "https://www.msn.com",
-        "source": "해외 AI반도체",
-        "companyHits": [
-          "Google",
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "파운드리·공정"
-        ],
-        "score": 17
-      },
-      {
-        "title": "TSMC posts record May sales on AI chip boom - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcW9fcWthaTdYMHBST3BfdjRzeVBEbTJrdGs3blQ1Q3hXRUlWU3VTb1N2R2tvZXJfaFB3RmJ4bWVnSmhueUNMNXJUak5zWmFncFljYVBqZEU2Ukt2MHlsUTVaNjZubVhwZU4xeUVSN19sbnVJRGZpTHZhOVRRRnRDU1RGVEpmNGpXQ1VsbmlETktXejBad0U4OGg0WTJLN3RETVgtZ3M0ZldfY3hFS2FHdENWVUhsWEt1cEwzdjdQX0Jrblc3UUhfZ2xyLWZkSjVCd1NDdnBnVkhHOVZrV2c?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 13:18:59 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcW9fcWthaTdYMHBST3BfdjRzeVBEbTJrdGs3blQ1Q3hXRUlWU3VTb1N2R2tvZXJfaFB3RmJ4bWVnSmhueUNMNXJUak5zWmFncFljYVBqZEU2Ukt2MHlsUTVaNjZubVhwZU4xeUVSN19sbnVJRGZpTHZhOVRRRnRDU1RGVEpmNGpXQ1VsbmlETktXejBad0U4OGg0WTJLN3RETVgtZ3M0ZldfY3hFS2FHdENWVUhsWEt1cEwzdjdQX0Jrblc3UUhfZ2xyLWZkSjVCd1NDdnBnVkhHOVZrV2c?oc=5\" target=\"_blank\">TSMC posts record May sales on AI chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
         "outlet": "MSN",
         "outletUrl": "https://www.msn.com",
         "source": "해외 AI반도체",
@@ -445,23 +445,6 @@ window.__DASHBOARD_DATA__ = {
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAwazNsNXFOSDg3STFSaWRORS1qRGV4Z0hlTkFzZGtqUDlNT1RoaWx6RmQ4emlabHI2ckI4MmlRdE5nd3F3Y24yMW91dTMyNlUzNjFxa0ZlNlFfRlI1cXFDWWVydXZfcHBQWEcxcGprcnJLcGFfU2N5TDgtV1NPdw?oc=5\" target=\"_blank\">TSMC Sets Record May Revenue On Surging AI Chip Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dataconomy</font>",
         "outlet": "Dataconomy",
         "outletUrl": "https://dataconomy.com",
-        "source": "해외 AI반도체",
-        "companyHits": [
-          "Google",
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "파운드리·공정"
-        ],
-        "score": 16
-      },
-      {
-        "title": "TSMC’s monthly sales up 30% on sustained AI chip demand - The Edge Malaysia",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sUU5fT3VuamN4RmxXY3dGX2poTTNnUWpOZS1CTVBXTHdmUmJEUkNNQXdRZkFTcEZNN3JHWHgzOGo4TTA2NjI5VDg0a1NSa3A0?oc=5",
-        "publishedAt": "Wed, 10 Jun 2026 08:23:06 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sUU5fT3VuamN4RmxXY3dGX2poTTNnUWpOZS1CTVBXTHdmUmJEUkNNQXdRZkFTcEZNN3JHWHgzOGo4TTA2NjI5VDg0a1NSa3A0?oc=5\" target=\"_blank\">TSMC’s monthly sales up 30% on sustained AI chip demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Edge Malaysia</font>",
-        "outlet": "The Edge Malaysia",
-        "outletUrl": "https://theedgemalaysia.com",
         "source": "해외 AI반도체",
         "companyHits": [
           "Google",
@@ -626,23 +609,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 15
       },
       {
-        "title": "대만 시장 넓힌 모빌린트, 상용화 가능성 검증 받았나 - newstheai.com",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XS1IxSkJmcFlDUFZNX1VmQkNEVVJ2V3VNd3lGVndfVlpsNWlZWVlfaEJTNzhmcGZoa2JwT1NUMW9sWG1hQXgyUTFIVF9ITlNMWlFhbmZDQ2xKeXptNHNSdkg4TWxoc082c0E?oc=5",
-        "publishedAt": "Tue, 09 Jun 2026 07:23:23 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9XS1IxSkJmcFlDUFZNX1VmQkNEVVJ2V3VNd3lGVndfVlpsNWlZWVlfaEJTNzhmcGZoa2JwT1NUMW9sWG1hQXgyUTFIVF9ITlNMWlFhbmZDQ2xKeXptNHNSdkg4TWxoc082c0E?oc=5\" target=\"_blank\">대만 시장 넓힌 모빌린트, 상용화 가능성 검증 받았나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newstheai.com</font>",
-        "outlet": "newstheai.com",
-        "outletUrl": "http://www.newstheai.com",
-        "source": "국내 NPU 기업",
-        "companyHits": [
-          "Google",
-          "모빌린트"
-        ],
-        "taxonomyHits": [
-          "데이터센터"
-        ],
-        "score": 15
-      },
-      {
         "title": "Nvidia and SK hynix expand AI chip partnership - gasworld",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzhBLVZmV1doaXY2TDV6aGFNZVlIZFhHek1rTEpQcGtSOFR3T3U3Q1B5azFZZk55djNOS2ZPVEp3QWZoRWVBWmtUNFV3MDFCM3VTeTB3TE9WN3ViZzZfNkI0Y3VEY2UxUDZXclJZWG1TZi1lMk9TWTdYdXp3WENuMXFweWpBNFhuWmNES3cteWU0cmxxVUlSUFR3?oc=5",
         "publishedAt": "Mon, 08 Jun 2026 10:11:52 GMT",
@@ -728,12 +694,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 14
       },
       {
-        "title": "Google Bets on Samsung for Its Next-Gen AI Chip - varindia.com",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY2NCMjhCenprZVdMMzFDc3N1ZF9RdTZCYlBmS3ExSkhxZm03T2E2ZnByQUxraERYTzJiTjVWU0p2Z3ZYTVpUeW1Bd2JDbzdRYXRfdHFvSFZGcDQtUE9ER0J2a2VwY2V0SUZZVHZZUkY0WXlncGxnOUFyNndnQzY2TjFRSQ?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 05:19:34 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOY2NCMjhCenprZVdMMzFDc3N1ZF9RdTZCYlBmS3ExSkhxZm03T2E2ZnByQUxraERYTzJiTjVWU0p2Z3ZYTVpUeW1Bd2JDbzdRYXRfdHFvSFZGcDQtUE9ER0J2a2VwY2V0SUZZVHZZUkY0WXlncGxnOUFyNndnQzY2TjFRSQ?oc=5\" target=\"_blank\">Google Bets on Samsung for Its Next-Gen AI Chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">varindia.com</font>",
-        "outlet": "varindia.com",
-        "outletUrl": "https://www.varindia.com",
+        "title": "Samsung reportedly in talks to help make Google's next AI chip - theinvestor.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01cTMwbUpodW5lLV9LbUhyOHZ5YU1kNl9pejd0WW1pblVGU2FKeWFLWjU5ZmZWdXFFYVpJNW43VlZ4QVJwSmdfYmM5b0lFVjJmV0NRMkI5cklTdw?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 06:00:18 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE01cTMwbUpodW5lLV9LbUhyOHZ5YU1kNl9pejd0WW1pblVGU2FKeWFLWjU5ZmZWdXFFYVpJNW43VlZ4QVJwSmdfYmM5b0lFVjJmV0NRMkI5cklTdw?oc=5\" target=\"_blank\">Samsung reportedly in talks to help make Google's next AI chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theinvestor.co.kr</font>",
+        "outlet": "theinvestor.co.kr",
+        "outletUrl": "https://www.theinvestor.co.kr",
         "source": "해외 AI반도체",
         "companyHits": [
           "Google",
@@ -743,12 +709,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 14
       },
       {
-        "title": "Samsung reportedly in talks to help make Google's next AI chip - The Korea Herald",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1od2o0WTFfbGRlaUxmRzExdjFobVdIbTdBU2lhX3VBU2YxRmNzbk5Xem8xWmZSRXVUb3VOU1FCMy1sb2o3SEhkWVZTU2RjcVo3ZjNvZXlVVQ?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 02:42:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1od2o0WTFfbGRlaUxmRzExdjFobVdIbTdBU2lhX3VBU2YxRmNzbk5Xem8xWmZSRXVUb3VOU1FCMy1sb2o3SEhkWVZTU2RjcVo3ZjNvZXlVVQ?oc=5\" target=\"_blank\">Samsung reportedly in talks to help make Google's next AI chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
-        "outlet": "The Korea Herald",
-        "outletUrl": "https://www.koreaherald.com",
+        "title": "Google Bets on Samsung for Its Next-Gen AI Chip - varindia.com",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY2NCMjhCenprZVdMMzFDc3N1ZF9RdTZCYlBmS3ExSkhxZm03T2E2ZnByQUxraERYTzJiTjVWU0p2Z3ZYTVpUeW1Bd2JDbzdRYXRfdHFvSFZGcDQtUE9ER0J2a2VwY2V0SUZZVHZZUkY0WXlncGxnOUFyNndnQzY2TjFRSQ?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 05:19:34 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOY2NCMjhCenprZVdMMzFDc3N1ZF9RdTZCYlBmS3ExSkhxZm03T2E2ZnByQUxraERYTzJiTjVWU0p2Z3ZYTVpUeW1Bd2JDbzdRYXRfdHFvSFZGcDQtUE9ER0J2a2VwY2V0SUZZVHZZUkY0WXlncGxnOUFyNndnQzY2TjFRSQ?oc=5\" target=\"_blank\">Google Bets on Samsung for Its Next-Gen AI Chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">varindia.com</font>",
+        "outlet": "varindia.com",
+        "outletUrl": "https://www.varindia.com",
         "source": "해외 AI반도체",
         "companyHits": [
           "Google",
@@ -970,6 +936,23 @@ window.__DASHBOARD_DATA__ = {
         "score": 14
       },
       {
+        "title": "대만 시장 넓힌 모빌린트, 상용화 가능성 검증 받았나 - newstheai.com",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XS1IxSkJmcFlDUFZNX1VmQkNEVVJ2V3VNd3lGVndfVlpsNWlZWVlfaEJTNzhmcGZoa2JwT1NUMW9sWG1hQXgyUTFIVF9ITlNMWlFhbmZDQ2xKeXptNHNSdkg4TWxoc082c0E?oc=5",
+        "publishedAt": "Tue, 09 Jun 2026 07:23:23 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9XS1IxSkJmcFlDUFZNX1VmQkNEVVJ2V3VNd3lGVndfVlpsNWlZWVlfaEJTNzhmcGZoa2JwT1NUMW9sWG1hQXgyUTFIVF9ITlNMWlFhbmZDQ2xKeXptNHNSdkg4TWxoc082c0E?oc=5\" target=\"_blank\">대만 시장 넓힌 모빌린트, 상용화 가능성 검증 받았나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newstheai.com</font>",
+        "outlet": "newstheai.com",
+        "outletUrl": "http://www.newstheai.com",
+        "source": "국내 NPU 기업",
+        "companyHits": [
+          "Google",
+          "모빌린트"
+        ],
+        "taxonomyHits": [
+          "데이터센터"
+        ],
+        "score": 14
+      },
+      {
         "title": "Marvell Tapped for S&P 500: Can the AI Chip Rival Emerge as the Next Nvidia? - NAI500",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUViX2lXbUtEQThBMkY1QTUtTGNRbERTN1dFU1lienVnX3puakY5ZHBCbU1jMnJOUFNMZVE1aEdVa3QxSjZGeVA4UWlRVERhbEhVQlNTMHlzRl9kQUlBRkFIMGQwZzczYXo5Z0xSY29rOURDejdLUG1IVDNkd2pTY01MMGthTHlIOHJLRTB5ZmpkN2JZOG5QOUNhWWtNVkdJWWxLODM1azM0QQ?oc=5",
         "publishedAt": "Tue, 09 Jun 2026 01:42:21 GMT",
@@ -1039,6 +1022,22 @@ window.__DASHBOARD_DATA__ = {
         "score": 14
       },
       {
+        "title": "신한자산운용, 과학기술혁신펀드 1163억원 출자...AI·반도체 등 국가전략기술 투자 확대 - 핀포인트뉴스",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0Rkg2R0QyeGRwSEVCa3ZZWWh4SFNKbzlMS2IwS0pjNjM1T21rVVUydDh6NzktZDBvazVuSzN5NUdsby1ZaGQwRG1ield2QTVnQTFjNlZGSmszZExUSGV1c2ZmeVBaU0tkU1BkdWdIT1kzRjTSAXdBVV95cUxOYWljTy1paG9mcmxUME83X2ZVVDVPaWVnU09zdHgwbUI3VTVnUTFkYlM5MVNhaDktYy02djU3cUZtVC15RTA4ZDVHaXo1NGdha1FRS3lsTHdSMjQ3cjZHU3FXbldhUWF0a2E1ZkVhSWZScFJ6Snowbw?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 07:00:34 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA0Rkg2R0QyeGRwSEVCa3ZZWWh4SFNKbzlMS2IwS0pjNjM1T21rVVUydDh6NzktZDBvazVuSzN5NUdsby1ZaGQwRG1ield2QTVnQTFjNlZGSmszZExUSGV1c2ZmeVBaU0tkU1BkdWdIT1kzRjTSAXdBVV95cUxOYWljTy1paG9mcmxUME83X2ZVVDVPaWVnU09zdHgwbUI3VTVnUTFkYlM5MVNhaDktYy02djU3cUZtVC15RTA4ZDVHaXo1NGdha1FRS3lsTHdSMjQ3cjZHU3FXbldhUWF0a2E1ZkVhSWZScFJ6Snowbw?oc=5\" target=\"_blank\">신한자산운용, 과학기술혁신펀드 1163억원 출자...AI·반도체 등 국가전략기술 투자 확대</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">핀포인트뉴스</font>",
+        "outlet": "핀포인트뉴스",
+        "outletUrl": "https://www.pinpointnews.co.kr",
+        "source": "국내 AI 정책",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "투자·M&A"
+        ],
+        "score": 13
+      },
+      {
         "title": "한미반도체, 스페이스X에 500억 베팅…\"미래 성장성에 투자\"(종합) - 금융소비자뉴스",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85dEMybW5IUzVCUk1Hb1JVOXBXUE0yMkdaYVJ3Y2I2YmdxV2psYjZFVnZlc1VZak40TlVSM0pHbFJwcC1EVWZ4VGQ0azY5NmQtU2w3NzZVdndqZEJfOGg4U2dwZDBiWGpHTWc?oc=5",
         "publishedAt": "Fri, 12 Jun 2026 06:53:56 GMT",
@@ -1051,6 +1050,22 @@ window.__DASHBOARD_DATA__ = {
         ],
         "taxonomyHits": [
           "투자·M&A"
+        ],
+        "score": 13
+      },
+      {
+        "title": "AI 반도체 소재 공급망 선점 속도…산업부, 내달 '그래핀 상용화 로드맵' 발표 - 미디어펜",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkQ1UyRVdsR0Q1QjU5d0Q5dERuWUFhanRWNjdDN2lObEJ1UlVIay1KcXBFY1c4cDhOeFpNQ3JoQnN3dzlnMDFfdkQ5ZW50S1o2c2hjSdIBWEFVX3lxTE1hSTltcXlueFQycVVhQmIxeE1MYk1SLXlJM3ZzUFkzcEdWU29FMGxGc0dfY1ZXQkZfY0dmZE51a2ZzcWF4WkdHeUJHLS0zWHZNMVlqRDJpQm4?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 06:52:52 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkQ1UyRVdsR0Q1QjU5d0Q5dERuWUFhanRWNjdDN2lObEJ1UlVIay1KcXBFY1c4cDhOeFpNQ3JoQnN3dzlnMDFfdkQ5ZW50S1o2c2hjSdIBWEFVX3lxTE1hSTltcXlueFQycVVhQmIxeE1MYk1SLXlJM3ZzUFkzcEdWU29FMGxGc0dfY1ZXQkZfY0dmZE51a2ZzcWF4WkdHeUJHLS0zWHZNMVlqRDJpQm4?oc=5\" target=\"_blank\">AI 반도체 소재 공급망 선점 속도…산업부, 내달 '그래핀 상용화 로드맵' 발표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어펜</font>",
+        "outlet": "미디어펜",
+        "outletUrl": "https://www.mediapen.com",
+        "source": "국내 AI 정책",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "수출통제·공급망"
         ],
         "score": 13
       },
@@ -1072,11 +1087,11 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "\"中반도체산업에 투자\"…KB자산운용, 차이나AI반도체 추천 - 중소기업신문",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoLTdDaTFXRU8ycUtrWkZ2YVdxLVg0Yk83WUhmQWNWTnY1THJQalJzazBPRkpYV1RYQW82TV83cUJOLUVVYUVfci16YnlwVVhsTlVuai1BVl90dWswYl9DSWo4S0RkUXRoMWpNeA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15b1dxV2hNV2NyajlySTREZ2pXeTNuQVlHRURuTkFzYWJyNU1sakZNRjVEZ2FUUEtQUmVBZjdURDlmWG5aanliQUNDWHIxLU5TM1R4QXJfX19GNzdWZzdNWFpoTEtGS2R6RG16eDBR?oc=5",
         "publishedAt": "Fri, 12 Jun 2026 04:43:57 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBoLTdDaTFXRU8ycUtrWkZ2YVdxLVg0Yk83WUhmQWNWTnY1THJQalJzazBPRkpYV1RYQW82TV83cUJOLUVVYUVfci16YnlwVVhsTlVuai1BVl90dWswYl9DSWo4S0RkUXRoMWpNeA?oc=5\" target=\"_blank\">\"中반도체산업에 투자\"…KB자산운용, 차이나AI반도체 추천</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중소기업신문</font>",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE15b1dxV2hNV2NyajlySTREZ2pXeTNuQVlHRURuTkFzYWJyNU1sakZNRjVEZ2FUUEtQUmVBZjdURDlmWG5aanliQUNDWHIxLU5TM1R4QXJfX19GNzdWZzdNWFpoTEtGS2R6RG16eDBR?oc=5\" target=\"_blank\">\"中반도체산업에 투자\"…KB자산운용, 차이나AI반도체 추천</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중소기업신문</font>",
         "outlet": "중소기업신문",
-        "outletUrl": "http://www.smedaily.co.kr",
+        "outletUrl": "https://www.smedaily.co.kr",
         "source": "국내 AI 정책",
         "companyHits": [
           "Google"
@@ -1183,6 +1198,22 @@ window.__DASHBOARD_DATA__ = {
         "score": 13
       },
       {
+        "title": "한미반도체, 스페이스X에 500억 원 전략 투자…AI 반도체 넘어 우주 인프라 베팅 - Queen 이코노미퀸",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yalZTellXRi13NkZqTmdSZjNiaElRejZYNHB3LWZHZHlRQnJyOFVtcFVSMDdFdkQxTkNOY0VBSjdIZUJuMnJwaWFhd1dhZXQ5VjM1LWhRNUtGaUo2UzhnbkhOX1hMdHR4aFE?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 02:02:30 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9yalZTellXRi13NkZqTmdSZjNiaElRejZYNHB3LWZHZHlRQnJyOFVtcFVSMDdFdkQxTkNOY0VBSjdIZUJuMnJwaWFhd1dhZXQ5VjM1LWhRNUtGaUo2UzhnbkhOX1hMdHR4aFE?oc=5\" target=\"_blank\">한미반도체, 스페이스X에 500억 원 전략 투자…AI 반도체 넘어 우주 인프라 베팅</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Queen 이코노미퀸</font>",
+        "outlet": "Queen 이코노미퀸",
+        "outletUrl": "https://www.queen.co.kr",
+        "source": "국내 AI 정책",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "투자·M&A"
+        ],
+        "score": 13
+      },
+      {
         "title": "삼성전자, 구글 차세대 AI칩 생산 논의…파운드리 경쟁력 재조명 - seouleconews.com",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQlB4bGhvN3B1QXBPb2owWHRBZE1JenYxbDc4Y0RkZEU4V2Q1RXp5SFRWamw5NkoxRjhHODNfVnJ0WUpQdG5OT2FvYk1nMlhGWEVuQmR4WmhDQkN2WlhYUjZTakxOUk9tbFpycVJn?oc=5",
         "publishedAt": "Fri, 12 Jun 2026 01:50:26 GMT",
@@ -1247,6 +1278,22 @@ window.__DASHBOARD_DATA__ = {
         "score": 13
       },
       {
+        "title": "iM증권, 대구서 우수고객 투자 세미나 개최 - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TZGlrOFpkaU1EVzR2X0h4SWcwNFU4S254dDI0TlprYmpiTHVnYXdmal9lODQ3SmY3VTM0eEZmMVJJWTlnRGk5aWNwT1UtYkpnbVpRbzY3eEpyQlR0?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 01:23:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TZGlrOFpkaU1EVzR2X0h4SWcwNFU4S254dDI0TlprYmpiTHVnYXdmal9lODQ3SmY3VTM0eEZmMVJJWTlnRGk5aWNwT1UtYkpnbVpRbzY3eEpyQlR0?oc=5\" target=\"_blank\">iM증권, 대구서 우수고객 투자 세미나 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+        "outlet": "뉴스핌",
+        "outletUrl": "https://www.newspim.com",
+        "source": "국내 AI 정책",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "투자·M&A"
+        ],
+        "score": 13
+      },
+      {
         "title": "AI·반도체 투자 해법 제시...iM증권, 우수고객 대상 하반기 전략 세미나 - 핀포인트뉴스",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnVTc5SW1WX0RYX3Z3ZVQwSGo3WXBPOGJGSjVuV2RHLTVYTzBXQmw5R3dZcnpYSFh0aVFZTUFOS29OMlJTeldwODFFcFNLdHg2ejNnMU9FNnZHdkJZZTQtMFg2TXVNQ0NEUDI3dmcxX1NIeG_SAXdBVV95cUxOQWZnQjlJNHpuelpLS21TNlVJYlVpbEoyOWYzU0dkRjE1VXo3cVN6cGFjT1loYVdZbjg1X1VQTmw5V3U5VGYtV3FLSWYzeDNOY3k2SGNTWWsyRTRZUDhlcTl2VWVzd2hyZHFTejF6SnZ1WEZSQmlkQQ?oc=5",
         "publishedAt": "Fri, 12 Jun 2026 01:19:44 GMT",
@@ -1277,54 +1324,6 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "score": 13
-      },
-      {
-        "title": "한미반도체, 미국 스페이스X에 500억원 투자...\"AI·우주 인프라 대응\" - 아이뉴스24",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05b0lpZTlaUXVBeW9FX2hmR1lTbWhCc2dEYVdKM19sWkxjR21uYmY5WWV2NUZSX2RWc3VWRnJ4dDVYWXJFYkhpRV80Mk4?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 00:58:14 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE05b0lpZTlaUXVBeW9FX2hmR1lTbWhCc2dEYVdKM19sWkxjR21uYmY5WWV2NUZSX2RWc3VWRnJ4dDVYWXJFYkhpRV80Mk4?oc=5\" target=\"_blank\">한미반도체, 미국 스페이스X에 500억원 투자...\"AI·우주 인프라 대응\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아이뉴스24</font>",
-        "outlet": "아이뉴스24",
-        "outletUrl": "https://www.inews24.com",
-        "source": "국내 AI 정책",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "투자·M&A"
-        ],
-        "score": 13
-      },
-      {
-        "title": "'초호황기' 반도체 장비 지출액 사상 최고치…AI 인프라 투자 급증 - 더구루",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JV2YyVGJrUHhxUy13NHExUWw1WTNVNlVDamJQUjdKRVY2bUswMzh2Nko1QlgzZHFpNXpfUEdaWXE0bFM2M2ptLU1yN1dIWTI1aTVpbEdXelJMay1fSUxBM0FtMA?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 00:55:31 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JV2YyVGJrUHhxUy13NHExUWw1WTNVNlVDamJQUjdKRVY2bUswMzh2Nko1QlgzZHFpNXpfUEdaWXE0bFM2M2ptLU1yN1dIWTI1aTVpbEdXelJMay1fSUxBM0FtMA?oc=5\" target=\"_blank\">'초호황기' 반도체 장비 지출액 사상 최고치…AI 인프라 투자 급증</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더구루</font>",
-        "outlet": "더구루",
-        "outletUrl": "https://www.theguru.co.kr",
-        "source": "국내 AI 정책",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "투자·M&A"
-        ],
-        "score": 13
-      },
-      {
-        "title": "한미반도체, 스페이스X에 500억 투자…“AI·우주산업 성장성 주목” [코주부] - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LRUpfNklsZEduMXlsY0oyeUV4c1RFdWdMZ2pkM3NpV041OGpQVWY1LThVWGFtRExBV2hQcnpsNTZ2ZzVLMVY0aFFPTklKZHFqX1HSAVNBVV95cUxNajRycTFPS0JXbmFudGNKNmJhY3JkVTlzeXBoMi1qQ0tRLThLTHVkaUFJeV9YRWtjaFRCTEVZdHpUODVNUjhFRnpobVM5Mlg1SVlaRQ?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 00:51:01 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LRUpfNklsZEduMXlsY0oyeUV4c1RFdWdMZ2pkM3NpV041OGpQVWY1LThVWGFtRExBV2hQcnpsNTZ2ZzVLMVY0aFFPTklKZHFqX1HSAVNBVV95cUxNajRycTFPS0JXbmFudGNKNmJhY3JkVTlzeXBoMi1qQ0tRLThLTHVkaUFJeV9YRWtjaFRCTEVZdHpUODVNUjhFRnpobVM5Mlg1SVlaRQ?oc=5\" target=\"_blank\">한미반도체, 스페이스X에 500억 투자…“AI·우주산업 성장성 주목” [코주부]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
-        "outlet": "서울경제",
-        "outletUrl": "https://www.sedaily.com",
-        "source": "국내 AI 정책",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "투자·M&A"
-        ],
-        "score": 13
       }
     ],
     "errors": []
@@ -1339,7 +1338,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "USD",
         "changePct": -6.30659471325345,
         "previousClose": 218.66,
-        "marketTime": "2026-06-11T20:00:01.000Z"
+        "marketTime": "2026-06-11T20:00:01.000Z",
+        "closes": [
+          205.10000610351562,
+          208.63999938964844,
+          208.19000244140625,
+          200.4199981689453,
+          204.8699951171875
+        ],
+        "dates": [
+          "2026-06-05T13:30:00.000Z",
+          "2026-06-08T13:30:00.000Z",
+          "2026-06-09T13:30:00.000Z",
+          "2026-06-10T13:30:00.000Z",
+          "2026-06-11T13:30:00.000Z"
+        ]
       },
       {
         "symbol": "GOOGL",
@@ -1349,7 +1362,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "USD",
         "changePct": -3.8743652435584015,
         "previousClose": 372.19,
-        "marketTime": "2026-06-11T20:00:01.000Z"
+        "marketTime": "2026-06-11T20:00:01.000Z",
+        "closes": [
+          368.5299987792969,
+          363.30999755859375,
+          364.260009765625,
+          356.3800048828125,
+          357.7699890136719
+        ],
+        "dates": [
+          "2026-06-05T13:30:00.000Z",
+          "2026-06-08T13:30:00.000Z",
+          "2026-06-09T13:30:00.000Z",
+          "2026-06-10T13:30:00.000Z",
+          "2026-06-11T13:30:00.000Z"
+        ]
       },
       {
         "symbol": "AMD",
@@ -1359,7 +1386,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "USD",
         "changePct": -6.641819571865454,
         "previousClose": 523.2,
-        "marketTime": "2026-06-11T20:00:01.000Z"
+        "marketTime": "2026-06-11T20:00:01.000Z",
+        "closes": [
+          466.3800048828125,
+          490.3299865722656,
+          475.510009765625,
+          452.3999938964844,
+          488.45001220703125
+        ],
+        "dates": [
+          "2026-06-05T13:30:00.000Z",
+          "2026-06-08T13:30:00.000Z",
+          "2026-06-09T13:30:00.000Z",
+          "2026-06-10T13:30:00.000Z",
+          "2026-06-11T13:30:00.000Z"
+        ]
       },
       {
         "symbol": "AVGO",
@@ -1369,7 +1410,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "USD",
         "changePct": -7.958750089518042,
         "previousClose": 418.91,
-        "marketTime": "2026-06-11T20:00:01.000Z"
+        "marketTime": "2026-06-11T20:00:01.000Z",
+        "closes": [
+          385.7300109863281,
+          396.6000061035156,
+          392.1600036621094,
+          372.1000061035156,
+          385.57000732421875
+        ],
+        "dates": [
+          "2026-06-05T13:30:00.000Z",
+          "2026-06-08T13:30:00.000Z",
+          "2026-06-09T13:30:00.000Z",
+          "2026-06-10T13:30:00.000Z",
+          "2026-06-11T13:30:00.000Z"
+        ]
       },
       {
         "symbol": "TSM",
@@ -1379,7 +1434,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "USD",
         "changePct": -5.36051424975277,
         "previousClose": 444.92,
-        "marketTime": "2026-06-11T20:00:03.000Z"
+        "marketTime": "2026-06-11T20:00:03.000Z",
+        "closes": [
+          415.1700134277344,
+          426.79998779296875,
+          427.9200134277344,
+          408.75,
+          421.07000732421875
+        ],
+        "dates": [
+          "2026-06-05T13:30:00.000Z",
+          "2026-06-08T13:30:00.000Z",
+          "2026-06-09T13:30:00.000Z",
+          "2026-06-10T13:30:00.000Z",
+          "2026-06-11T13:30:00.000Z"
+        ]
       },
       {
         "symbol": "ARM",
@@ -1389,7 +1458,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "USD",
         "changePct": -13.015961773078482,
         "previousClose": 393.44,
-        "marketTime": "2026-06-11T20:00:01.000Z"
+        "marketTime": "2026-06-11T20:00:01.000Z",
+        "closes": [
+          342.92999267578125,
+          346.3900146484375,
+          324.8599853515625,
+          307.42999267578125,
+          342.2300109863281
+        ],
+        "dates": [
+          "2026-06-05T13:30:00.000Z",
+          "2026-06-08T13:30:00.000Z",
+          "2026-06-09T13:30:00.000Z",
+          "2026-06-10T13:30:00.000Z",
+          "2026-06-11T13:30:00.000Z"
+        ]
       },
       {
         "symbol": "MU",
@@ -1399,7 +1482,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "USD",
         "changePct": -0.013052208835340908,
         "previousClose": 996,
-        "marketTime": "2026-06-11T20:00:00.000Z"
+        "marketTime": "2026-06-11T20:00:00.000Z",
+        "closes": [
+          864.010009765625,
+          949.280029296875,
+          935.8900146484375,
+          891.8800048828125,
+          995.8699951171875
+        ],
+        "dates": [
+          "2026-06-05T13:30:00.000Z",
+          "2026-06-08T13:30:00.000Z",
+          "2026-06-09T13:30:00.000Z",
+          "2026-06-10T13:30:00.000Z",
+          "2026-06-11T13:30:00.000Z"
+        ]
       },
       {
         "symbol": "SMCI",
@@ -1409,7 +1506,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "USD",
         "changePct": -31.83368869936034,
         "previousClose": 46.9,
-        "marketTime": "2026-06-11T20:00:00.000Z"
+        "marketTime": "2026-06-11T20:00:00.000Z",
+        "closes": [
+          41.63999938964844,
+          43.9900016784668,
+          40.63999938964844,
+          29.270000457763672,
+          31.969999313354492
+        ],
+        "dates": [
+          "2026-06-05T13:30:00.000Z",
+          "2026-06-08T13:30:00.000Z",
+          "2026-06-09T13:30:00.000Z",
+          "2026-06-10T13:30:00.000Z",
+          "2026-06-11T13:30:00.000Z"
+        ]
       },
       {
         "symbol": "005930.KS",
@@ -1419,7 +1530,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "KRW",
         "changePct": -1.9756838905775076,
         "previousClose": 329000,
-        "marketTime": "2026-06-12T06:30:25.000Z"
+        "marketTime": "2026-06-12T06:30:25.000Z",
+        "closes": [
+          295500,
+          322000,
+          302500,
+          299000,
+          322500
+        ],
+        "dates": [
+          "2026-06-08T00:00:00.000Z",
+          "2026-06-09T00:00:00.000Z",
+          "2026-06-10T00:00:00.000Z",
+          "2026-06-11T00:00:00.000Z",
+          "2026-06-12T00:00:00.000Z"
+        ]
       },
       {
         "symbol": "000660.KS",
@@ -1429,7 +1554,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "KRW",
         "changePct": 3.864734299516908,
         "previousClose": 2070000,
-        "marketTime": "2026-06-12T06:30:13.000Z"
+        "marketTime": "2026-06-12T06:30:13.000Z",
+        "closes": [
+          1911000,
+          2215000,
+          2048000,
+          2101000,
+          2150000
+        ],
+        "dates": [
+          "2026-06-08T00:00:00.000Z",
+          "2026-06-09T00:00:00.000Z",
+          "2026-06-10T00:00:00.000Z",
+          "2026-06-11T00:00:00.000Z",
+          "2026-06-12T00:00:00.000Z"
+        ]
       },
       {
         "symbol": "091990.KQ",
@@ -1446,7 +1585,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "USD",
         "changePct": -3.806423624052212,
         "previousClose": 26830.96,
-        "marketTime": "2026-06-11T21:15:59.000Z"
+        "marketTime": "2026-06-11T21:15:59.000Z",
+        "closes": [
+          25709.4296875,
+          25929.66015625,
+          25678.8203125,
+          25169.5,
+          25809.66015625
+        ],
+        "dates": [
+          "2026-06-05T13:30:00.000Z",
+          "2026-06-08T13:30:00.000Z",
+          "2026-06-09T13:30:00.000Z",
+          "2026-06-10T13:30:00.000Z",
+          "2026-06-11T13:30:00.000Z"
+        ]
       },
       {
         "symbol": "^SOX",
@@ -1455,7 +1608,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "USD",
         "changePct": -3.2756526528364227,
         "previousClose": 13617.5,
-        "marketTime": "2026-06-11T21:15:59.000Z"
+        "marketTime": "2026-06-11T21:15:59.000Z",
+        "closes": [
+          12220.759765625,
+          12906.6904296875,
+          12657.8095703125,
+          12206.4599609375,
+          13171.4404296875
+        ],
+        "dates": [
+          "2026-06-05T13:30:00.000Z",
+          "2026-06-08T13:30:00.000Z",
+          "2026-06-09T13:30:00.000Z",
+          "2026-06-10T13:30:00.000Z",
+          "2026-06-11T13:30:00.000Z"
+        ]
       },
       {
         "symbol": "^GSPC",
@@ -1464,7 +1631,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "USD",
         "changePct": -2.50530371253285,
         "previousClose": 7584.31,
-        "marketTime": "2026-06-11T20:56:18.000Z"
+        "marketTime": "2026-06-11T20:56:18.000Z",
+        "closes": [
+          7383.740234375,
+          7405.72998046875,
+          7386.64990234375,
+          7266.990234375,
+          7394.2998046875
+        ],
+        "dates": [
+          "2026-06-05T13:30:00.000Z",
+          "2026-06-08T13:30:00.000Z",
+          "2026-06-09T13:30:00.000Z",
+          "2026-06-10T13:30:00.000Z",
+          "2026-06-11T13:30:00.000Z"
+        ]
       },
       {
         "symbol": "^KS11",
@@ -1473,7 +1654,21 @@ window.__DASHBOARD_DATA__ = {
         "currency": "KRW",
         "changePct": -0.4530309695745069,
         "previousClose": 8160.59,
-        "marketTime": "2026-06-12T06:32:50.000Z"
+        "marketTime": "2026-06-12T06:32:50.000Z",
+        "closes": [
+          7484.41015625,
+          8096.93017578125,
+          7730.81982421875,
+          7763.9501953125,
+          8123.6201171875
+        ],
+        "dates": [
+          "2026-06-08T00:00:00.000Z",
+          "2026-06-09T00:00:00.000Z",
+          "2026-06-10T00:00:00.000Z",
+          "2026-06-11T00:00:00.000Z",
+          "2026-06-12T00:00:00.000Z"
+        ]
       },
       {
         "symbol": "^KQ11",
@@ -1482,17 +1677,31 @@ window.__DASHBOARD_DATA__ = {
         "currency": "KRW",
         "changePct": 2.654522963967908,
         "previousClose": 1002.44,
-        "marketTime": "2026-06-12T06:33:00.000Z"
+        "marketTime": "2026-06-12T06:33:00.000Z",
+        "closes": [
+          911.3900146484375,
+          967.8099975585938,
+          951.6300048828125,
+          996.9299926757812,
+          1029.050048828125
+        ],
+        "dates": [
+          "2026-06-08T00:00:00.000Z",
+          "2026-06-09T00:00:00.000Z",
+          "2026-06-10T00:00:00.000Z",
+          "2026-06-11T00:00:00.000Z",
+          "2026-06-12T00:00:00.000Z"
+        ]
       }
     ],
-    "generatedAt": "2026-06-12T07:01:33.208Z"
+    "generatedAt": "2026-06-12T07:33:22.877Z"
   },
   "briefing": {
     "date": "2026년 6월 12일 금요일",
     "summary": [
       "오늘 가장 강한 신호는 \"NVIDIA’s Feynman AI Chip Poised to Break the CoWoS Size Barrier as TSMC Rushes CoPoS to 2028 Production – Analyst - Wccftech\"입니다.",
-      "반복 출현 기술 키워드: 파운드리·공정(24), 투자·M&A(21), 데이터센터(9), 수출통제·공급망(7), 온디바이스(4), 공공조달·실증(2), 인퍼런스(1)",
-      "관측 기업: Google(80), TSMC(22), Samsung(17), NVIDIA(10), 리벨리온(7), AMD(7), 퓨리오사(5), Broadcom(5)"
+      "반복 출현 기술 키워드: 파운드리·공정(23), 투자·M&A(21), 데이터센터(9), 수출통제·공급망(8), 온디바이스(4), 공공조달·실증(2), 인퍼런스(1)",
+      "관측 기업: Google(80), TSMC(21), Samsung(17), NVIDIA(10), 리벨리온(7), AMD(7), 퓨리오사(5), Broadcom(5)"
     ],
     "leadArticles": [
       {
@@ -1643,7 +1852,7 @@ window.__DASHBOARD_DATA__ = {
       "technologies": [
         [
           "파운드리·공정",
-          24
+          23
         ],
         [
           "투자·M&A",
@@ -1655,7 +1864,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "수출통제·공급망",
-          7
+          8
         ],
         [
           "온디바이스",
@@ -1677,7 +1886,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "TSMC",
-          22
+          21
         ],
         [
           "Samsung",

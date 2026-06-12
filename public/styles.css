@@ -1,16 +1,17 @@
 :root {
   color-scheme: light;
-  --bg: #f5f7f9;
+  --bg: #f4f6f8;
   --panel: #ffffff;
-  --ink: #17202a;
-  --muted: #637083;
-  --line: #dbe2ea;
-  --blue: #2252a3;
-  --blue-weak: #e7eefb;
-  --green: #0d7f5f;
-  --red: #b83f3f;
-  --amber: #9b6a16;
-  --shadow: 0 18px 48px rgba(22, 32, 42, 0.08);
+  --ink: #1c2530;
+  --muted: #657386;
+  --line: #d9e0e8;
+  --soft: #eef2f6;
+  --blue: #2557a7;
+  --blue-soft: #eaf1ff;
+  --green: #0f7b61;
+  --red: #b34545;
+  --amber: #9a6818;
+  --shadow: 0 12px 32px rgba(28, 37, 48, 0.06);
 }
 
 * {
@@ -29,19 +30,19 @@ body {
 }
 
 button,
-input,
 select {
   font: inherit;
 }
 
 a {
   color: inherit;
+  text-decoration: none;
 }
 
 .app-shell {
-  width: min(1480px, calc(100% - 40px));
+  width: min(1280px, calc(100% - 40px));
   margin: 0 auto;
-  padding: 24px 0 48px;
+  padding: 22px 0 56px;
 }
 
 .topbar {
@@ -49,11 +50,11 @@ a {
   align-items: flex-end;
   justify-content: space-between;
   gap: 24px;
-  padding: 18px 0 24px;
+  padding: 12px 0 18px;
 }
 
 .eyebrow {
-  margin: 0 0 6px;
+  margin: 0 0 5px;
   color: var(--blue);
   font-size: 12px;
   font-weight: 800;
@@ -64,32 +65,40 @@ a {
 h1,
 h2,
 h3,
+h4,
 p {
   margin-top: 0;
 }
 
 h1 {
   margin-bottom: 0;
-  font-size: clamp(28px, 4vw, 44px);
-  line-height: 1.12;
+  font-size: 34px;
+  line-height: 1.15;
+  letter-spacing: 0;
 }
 
 h2 {
   margin-bottom: 0;
   font-size: 22px;
-  line-height: 1.2;
+  line-height: 1.25;
 }
 
 .toolbar {
   display: flex;
   align-items: center;
-  gap: 14px;
-  flex-wrap: wrap;
   justify-content: flex-end;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.updated-at {
+  color: var(--muted);
+  font-size: 13px;
 }
 
 .primary-btn,
-.filter {
+.filter,
+.view-tab {
   min-height: 38px;
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -99,118 +108,189 @@ h2 {
 }
 
 .primary-btn {
-  padding: 0 18px;
+  padding: 0 16px;
   background: var(--blue);
-  color: #fff;
   border-color: var(--blue);
+  color: #ffffff;
   font-weight: 700;
 }
 
-.updated-at {
+.view-tabs {
+  display: flex;
+  gap: 8px;
+  padding: 6px;
+  margin-bottom: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #e9eef4;
+}
+
+.view-tab {
+  flex: 0 0 auto;
+  min-width: 124px;
+  padding: 0 14px;
+  background: transparent;
+  border-color: transparent;
   color: var(--muted);
-  font-size: 13px;
+  font-weight: 700;
 }
 
-.brief-grid {
+.view-tab.active {
+  background: var(--panel);
+  border-color: var(--line);
+  color: var(--ink);
+  box-shadow: 0 4px 12px rgba(28, 37, 48, 0.06);
+}
+
+.view {
+  display: none;
+}
+
+.view.active {
+  display: block;
+}
+
+.brief-layout {
   display: grid;
-  grid-template-columns: minmax(0, 1.4fr) minmax(360px, 0.8fr);
-  gap: 18px;
+  grid-template-columns: minmax(0, 1.35fr) minmax(320px, 0.65fr);
+  gap: 16px;
+  margin-bottom: 16px;
 }
 
-.brief-panel,
+.brief-card,
 .section-band,
-.source-band {
+.controls-band,
+.issue-card,
+.market-panel {
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: 8px;
   box-shadow: var(--shadow);
 }
 
-.brief-panel {
-  padding: 22px;
-  min-height: 212px;
+.brief-card {
+  padding: 20px;
 }
 
-.section-title,
-.section-heading {
+.section-kicker,
+.section-heading,
+.issue-head,
+.market-top,
+.market-bottom,
+.policy-top {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
   gap: 16px;
-  margin-bottom: 18px;
 }
 
-.section-title span,
-.section-title strong {
+.section-kicker {
+  margin-bottom: 14px;
   color: var(--muted);
   font-size: 13px;
 }
 
-.summary-list {
+.brief-summary {
   display: grid;
-  gap: 12px;
+  gap: 10px;
 }
 
-.summary-item {
-  padding-left: 14px;
-  border-left: 3px solid var(--blue);
-  color: #2a3544;
+.brief-line {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+  color: #2d3846;
   font-size: 16px;
   line-height: 1.55;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
 }
 
-.signal-columns {
+.brief-line:last-child {
+  border-bottom: 0;
+}
+
+.signal-card {
   display: grid;
-  grid-template-columns: 1fr 1fr;
   gap: 16px;
 }
 
-.signal-columns h2 {
-  margin-bottom: 10px;
-  font-size: 14px;
+.signal-block h2 {
+  margin-bottom: 9px;
   color: var(--muted);
+  font-size: 13px;
 }
 
 .chips {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 7px;
+  min-width: 0;
 }
 
 .chip {
   display: inline-flex;
   align-items: center;
-  min-height: 30px;
-  padding: 4px 10px;
+  gap: 4px;
+  max-width: 100%;
+  min-height: 28px;
+  padding: 4px 9px;
   border-radius: 999px;
-  background: var(--blue-weak);
+  background: var(--blue-soft);
   color: var(--blue);
+  font-size: 12px;
+  font-weight: 700;
+  overflow-wrap: anywhere;
+}
+
+.chip.pale {
+  background: var(--soft);
+  color: #435163;
+}
+
+.muted-text {
+  color: var(--muted);
   font-size: 13px;
+}
+
+.controls-band {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 18px 20px;
+  margin-bottom: 16px;
+}
+
+.control-row {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.control-row label {
+  display: grid;
+  gap: 5px;
+  color: var(--muted);
+  font-size: 12px;
   font-weight: 700;
 }
 
-.content-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 430px;
-  gap: 18px;
-  margin-top: 18px;
-  align-items: start;
-}
-
-.section-band {
-  padding: 22px;
-  margin-bottom: 18px;
-}
-
-.section-heading.tight {
-  margin-bottom: 14px;
+select {
+  min-width: 128px;
+  min-height: 38px;
+  padding: 0 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--ink);
 }
 
 .filters {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
-  justify-content: flex-end;
+  gap: 7px;
 }
 
 .filter {
@@ -219,186 +299,228 @@ h2 {
 }
 
 .filter.active {
-  background: #17202a;
-  color: #fff;
-  border-color: #17202a;
+  background: #1c2530;
+  border-color: #1c2530;
+  color: #ffffff;
 }
 
-.article-list {
+.issue-list {
   display: grid;
-  gap: 12px;
+  gap: 14px;
 }
 
-.article-card {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 16px;
-  padding: 16px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: #fbfcfe;
+.issue-card {
+  padding: 18px;
 }
 
-.article-card h3 {
-  margin-bottom: 8px;
-  font-size: 18px;
-  line-height: 1.35;
-}
-
-.article-card p {
-  margin-bottom: 10px;
-  color: var(--muted);
-  line-height: 1.5;
-}
-
-.meta-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
+.issue-head {
   align-items: center;
+  margin-bottom: 10px;
+}
+
+.issue-date {
+  margin-bottom: 4px;
   color: var(--muted);
   font-size: 13px;
 }
 
-.source-link {
-  color: var(--blue);
-  font-weight: 700;
+.issue-card h3 {
+  margin-bottom: 0;
+  font-size: 21px;
+  line-height: 1.3;
 }
 
-.score-pill {
-  align-self: start;
-  min-width: 54px;
-  padding: 8px 10px;
-  border-radius: 8px;
-  background: #eef2f6;
-  color: #293849;
-  text-align: center;
-  font-weight: 800;
+.issue-summary {
+  margin-bottom: 14px;
+  color: #495668;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
 }
 
-.policy-list,
-.market-list {
+.article-stack {
   display: grid;
-  gap: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.article-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 14px;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.article-row:last-child {
+  border-bottom: 0;
+}
+
+.article-row:hover .article-title {
+  color: var(--blue);
+}
+
+.article-title {
+  min-width: 0;
+  font-weight: 700;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
+.article-meta {
+  color: var(--muted);
+  font-size: 13px;
+  white-space: nowrap;
+}
+
+.section-band {
+  padding: 22px;
+}
+
+.section-heading {
+  margin-bottom: 18px;
+}
+
+.policy-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
 }
 
 .policy-card {
-  padding: 15px;
+  padding: 18px;
   border: 1px solid var(--line);
   border-radius: 8px;
-  background: #fbfcfe;
-}
-
-.policy-top {
-  display: flex;
-  justify-content: space-between;
-  gap: 10px;
-  margin-bottom: 8px;
+  background: #fbfcfd;
 }
 
 .policy-card h3 {
   margin-bottom: 0;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.35;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
 }
 
 .priority {
-  white-space: nowrap;
+  flex: 0 0 auto;
   color: var(--amber);
   font-size: 12px;
   font-weight: 800;
 }
 
 .policy-card p {
-  margin-bottom: 8px;
-  color: var(--muted);
+  margin-bottom: 10px;
+  color: #4f5d70;
   font-size: 14px;
-  line-height: 1.45;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
+.policy-card p:last-child {
+  margin-bottom: 0;
 }
 
 .policy-card strong {
+  display: block;
+  margin-bottom: 3px;
   color: var(--ink);
 }
 
-.subhead {
-  margin: 14px 0 8px;
-  color: var(--muted);
-  font-size: 13px;
-}
-
-.market-row {
+.market-layout {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto auto;
-  align-items: center;
-  gap: 10px;
-  padding: 10px 0;
-  border-bottom: 1px solid var(--line);
-  font-size: 14px;
+  gap: 18px;
 }
 
-.market-row:last-child {
-  border-bottom: 0;
+.market-panel {
+  padding: 18px;
+  box-shadow: none;
 }
 
-.ticker {
+.market-panel h3 {
+  margin-bottom: 14px;
+  font-size: 17px;
+}
+
+.market-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.market-card {
+  min-width: 0;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fbfcfd;
+  color: var(--muted);
+}
+
+.market-card.up {
+  color: var(--green);
+}
+
+.market-card.down {
+  color: var(--red);
+}
+
+.market-top h4 {
+  margin-bottom: 4px;
+  color: var(--ink);
+  font-size: 15px;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+}
+
+.market-top span,
+.market-bottom small {
   color: var(--muted);
   font-size: 12px;
 }
 
-.price {
-  font-weight: 800;
+.market-top strong {
+  flex: 0 0 auto;
+  font-size: 17px;
 }
 
-.up {
-  color: var(--green);
-}
-
-.down {
-  color: var(--red);
-}
-
-.source-band {
-  padding: 22px;
-}
-
-.source-list {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 10px;
-}
-
-.source-item {
-  padding: 12px;
-  border-radius: 8px;
-  background: #eef2f6;
-  color: var(--muted);
-  overflow-wrap: anywhere;
-}
-
-.source-item strong {
+.spark {
+  width: 100%;
+  height: 54px;
+  margin: 10px 0;
   display: block;
+}
+
+.empty-spark {
+  border-radius: 8px;
+  background: repeating-linear-gradient(90deg, #eef2f6 0, #eef2f6 8px, #f7f9fb 8px, #f7f9fb 16px);
+}
+
+.market-bottom span {
   color: var(--ink);
-  margin-bottom: 4px;
+  font-weight: 800;
 }
 
 .empty,
 .error {
   padding: 16px;
   border-radius: 8px;
-  background: #fff4e3;
+  background: #fff7e8;
   color: #68470f;
 }
 
 .skeleton {
   height: 22px;
   border-radius: 6px;
-  background: linear-gradient(90deg, #e9eef4, #f7f9fb, #e9eef4);
+  background: linear-gradient(90deg, #e9eef4, #f8fafc, #e9eef4);
   background-size: 200% 100%;
   animation: pulse 1.3s infinite;
 }
 
 .skeleton.short {
-  width: 74%;
+  width: 72%;
 }
 
 @keyframes pulse {
@@ -410,47 +532,61 @@ h2 {
   }
 }
 
-@media (max-width: 1100px) {
-  .brief-grid,
-  .content-grid {
+@media (max-width: 980px) {
+  .brief-layout,
+  .policy-grid {
     grid-template-columns: 1fr;
   }
 
-  .side-column {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 18px;
+  .controls-band,
+  .topbar {
+    align-items: flex-start;
+    flex-direction: column;
   }
 
-  .side-column .section-band {
-    margin-bottom: 0;
+  .market-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
-@media (max-width: 760px) {
+@media (max-width: 680px) {
   .app-shell {
-    width: min(100% - 24px, 1480px);
-    padding-top: 12px;
+    width: min(100% - 24px, 1280px);
   }
 
-  .topbar,
-  .section-heading,
-  .section-title {
+  h1 {
+    font-size: 28px;
+  }
+
+  .view-tabs {
+    overflow-x: auto;
+  }
+
+  .control-row,
+  .filters {
+    width: 100%;
+  }
+
+  .control-row label,
+  select,
+  .filter {
+    flex: 1 1 130px;
+  }
+
+  .issue-head,
+  .article-row,
+  .market-top,
+  .market-bottom,
+  .policy-top {
+    grid-template-columns: 1fr;
     display: grid;
   }
 
-  .toolbar,
-  .filters {
-    justify-content: flex-start;
+  .article-meta {
+    white-space: normal;
   }
 
-  .side-column,
-  .signal-columns,
-  .source-list {
-    grid-template-columns: 1fr;
-  }
-
-  .article-card {
+  .market-grid {
     grid-template-columns: 1fr;
   }
 }
