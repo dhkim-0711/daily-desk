@@ -231,37 +231,6 @@ const technologySignalOrder = [
 
 const domesticNpuCompanies = ["리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"];
 
-const policyIssueTerms = [
-  "정책",
-  "예산",
-  "사업공고",
-  "지원사업",
-  "공모",
-  "보도자료",
-  "과기정통부",
-  "과학기술정보통신부",
-  "nipa",
-  "정보통신산업진흥원",
-  "iitp",
-  "정보통신기획평가원",
-  "정부",
-  "부처",
-  "조달",
-  "규제",
-  "수출통제",
-  "공급망",
-  "policy",
-  "subsidy",
-  "government",
-  "ministry",
-  "regulation",
-  "export control",
-  "sanction",
-  "procurement",
-  "chips act",
-  "white house",
-];
-
 const marketIssueTerms = [
   "시장",
   "매출",
@@ -309,6 +278,43 @@ const marketIssueTerms = [
   "micron",
 ];
 
+const policyOrgTerms = [
+  "과기정통부",
+  "과학기술정보통신부",
+  "nipa",
+  "정보통신산업진흥원",
+  "iitp",
+  "정보통신기획평가원",
+  "정부",
+  "부처",
+  "ministry",
+  "government",
+  "white house",
+];
+
+const policyActionTerms = [
+  "정책",
+  "예산",
+  "사업공고",
+  "지원사업",
+  "공모",
+  "보도자료",
+  "조달",
+  "규제",
+  "수출통제",
+  "보조금",
+  "지원",
+  "선정",
+  "실증사업",
+  "policy",
+  "subsidy",
+  "regulation",
+  "export control",
+  "sanction",
+  "procurement",
+  "chips act",
+];
+
 function countTermHits(text, terms) {
   return terms.reduce((count, term) => count + (text.includes(term.toLowerCase()) ? 1 : 0), 0);
 }
@@ -316,14 +322,16 @@ function countTermHits(text, terms) {
 function classifyIssue(text, taxonomyHits = [], companyHits = []) {
   const taxonomy = new Set(taxonomyHits);
   const companies = new Set(companyHits);
-  const policyScore = countTermHits(text, policyIssueTerms);
+  const policyOrgScore = countTermHits(text, policyOrgTerms);
+  const policyActionScore = countTermHits(text, policyActionTerms);
   const marketScore = countTermHits(text, marketIssueTerms);
   const hasDomesticNpuCompany = domesticNpuCompanies.some((company) => companies.has(company) || text.includes(company.toLowerCase()));
+  const strongPolicy = policyActionScore >= 2 || (policyOrgScore >= 1 && policyActionScore >= 1);
 
-  if (policyScore >= 2 && marketScore < 3) return "정책";
+  if (marketScore >= 2 && !strongPolicy) return "AI시장";
   if (hasDomesticNpuCompany) return "NPU";
   if (marketScore >= 1 || taxonomy.has("AI시장") || taxonomy.has("투자·M&A")) return "AI시장";
-  if (policyScore >= 2 || (taxonomy.has("정책") && marketScore === 0)) return "정책";
+  if (strongPolicy || (taxonomy.has("정책") && policyOrgScore >= 1 && policyActionScore >= 1)) return "정책";
   if (taxonomy.has("NPU") || taxonomy.has("K-엔비디아")) return "NPU";
 
   for (const key of ["AI인프라", "데이터센터", "온디바이스AI", "인퍼런스", "AI에이전트", "파운드리·패키징", "수출통제·공급망", "실증·조달"]) {
@@ -422,13 +430,14 @@ function parseRss(xml, source) {
 }
 
 function scoreArticle(article) {
+  const contentText = `${article.title} ${article.summary}`.toLowerCase();
   const text = `${article.title} ${article.summary} ${article.source}`.toLowerCase();
-  const companyHits = watchCompanies.filter((company) => text.includes(company.toLowerCase()));
+  const companyHits = watchCompanies.filter((company) => contentText.includes(company.toLowerCase()));
   const taxonomyHits = keywordTaxonomy
-    .filter((group) => group.terms.some((term) => text.includes(term.toLowerCase())))
+    .filter((group) => group.terms.some((term) => contentText.includes(term.toLowerCase())))
     .map((group) => group.key);
-  const aiBoost = /\bai\b|artificial intelligence|인공지능|생성형|llm|agent|gpu|tpu|npu/i.test(text) ? 5 : 0;
-  const policyBoost = /nipa|정보통신산업진흥원|과기정통부|과학기술정보통신부|iitp|정보통신기획평가원|사업공고|지원사업|보도자료|공모/i.test(text) ? 10 : 0;
+  const aiBoost = /\bai\b|artificial intelligence|인공지능|생성형|llm|agent|gpu|tpu|npu/i.test(contentText) ? 5 : 0;
+  const policyBoost = /nipa|정보통신산업진흥원|과기정통부|과학기술정보통신부|iitp|정보통신기획평가원|사업공고|지원사업|보도자료|공모/i.test(contentText) ? 10 : 0;
   const recency = article.publishedAt ? Math.max(0, 8 - Math.floor((Date.now() - Date.parse(article.publishedAt)) / 86400000)) : 0;
   const normalizeCompany = (hit) => ({
     Nvidia: "NVIDIA",
@@ -451,7 +460,7 @@ function scoreArticle(article) {
   return {
     companyHits: normalizedCompanyHits,
     taxonomyHits: uniqueTaxonomyHits,
-    issueCategory: classifyIssue(text, uniqueTaxonomyHits, normalizedCompanyHits),
+    issueCategory: classifyIssue(contentText, uniqueTaxonomyHits, normalizedCompanyHits),
     score: companyHits.length * 4 + taxonomyHits.length * 3 + aiBoost + policyBoost + recency,
   };
 }

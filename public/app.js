@@ -52,8 +52,9 @@ const searchAliases = {
 };
 
 const domesticNpuCompanies = ["리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"];
-const policyIssueTerms = ["정책", "예산", "사업공고", "지원사업", "공모", "보도자료", "과기정통부", "과학기술정보통신부", "nipa", "정보통신산업진흥원", "iitp", "정보통신기획평가원", "정부", "부처", "조달", "규제", "수출통제", "공급망", "policy", "subsidy", "government", "ministry", "regulation", "export control", "sanction", "procurement", "chips act", "white house"];
 const marketIssueTerms = ["시장", "매출", "실적", "수요", "공급", "투자", "상장", "인수", "합병", "주가", "밸류에이션", "기업가치", "자금조달", "펀딩", "고객", "계약", "수주", "market", "revenue", "earnings", "sales", "demand", "supply", "forecast", "outlook", "guidance", "investment", "funding", "valuation", "ipo", "m&a", "acquisition", "merger", "shares", "stock", "capex", "orders", "customer", "contract", "tsmc", "broadcom", "amd", "arm", "micron"];
+const policyOrgTerms = ["과기정통부", "과학기술정보통신부", "nipa", "정보통신산업진흥원", "iitp", "정보통신기획평가원", "정부", "부처", "ministry", "government", "white house"];
+const policyActionTerms = ["정책", "예산", "사업공고", "지원사업", "공모", "보도자료", "조달", "규제", "수출통제", "보조금", "지원", "선정", "실증사업", "policy", "subsidy", "regulation", "export control", "sanction", "procurement", "chips act"];
 
 function countTermHits(text, terms) {
   return terms.reduce((count, term) => count + (text.includes(term.toLowerCase()) ? 1 : 0), 0);
@@ -129,12 +130,16 @@ function articleText(article) {
   return `${article.source} ${article.title} ${article.summary} ${(article.taxonomyHits || []).join(" ")} ${(article.companyHits || []).join(" ")}`.toLowerCase();
 }
 
-function articleMatches(article) {
+function articleContentText(article) {
+  return `${article.title} ${article.summary}`.toLowerCase();
+}
+
+function articleMatches(article, options = {}) {
   const haystack = articleText(article);
   if (state.month !== "all" && monthKey(article.publishedAt) !== state.month) return false;
   if (state.date !== "all" && dayKey(article.publishedAt) !== state.date) return false;
   if (state.tag && !haystack.includes(state.tag.toLowerCase())) return false;
-  if (state.issue && issueName(article) !== state.issue) return false;
+  if (!options.ignoreIssue && state.issue && issueName(article) !== state.issue) return false;
   if (state.search) {
     const terms = expandSearchTerms(state.search);
     if (!terms.every((group) => group.some((term) => haystack.includes(term)))) return false;
@@ -142,7 +147,7 @@ function articleMatches(article) {
   if (state.filter === "all") return true;
   if (state.filter === "domestic") return /국내|korea|리벨리온|퓨리오사|하이퍼엑셀|딥엑스|모빌린트|삼성|하이닉스|k-엔비디아/.test(haystack);
   if (state.filter === "global") return /해외|global|nvidia|엔비디아|google|구글|alphabet|알파벳|gemini|제미나이|deepmind|딥마인드|amd|broadcom|tsmc|arm|micron/.test(haystack);
-  if (state.filter === "policy") return issueName(article) === "정책" || /정책|policy|subsidy|export control|sanction|수출통제|공급망|예산|조달|규제|과기정통부|과학기술정보통신부|nipa|정보통신산업진흥원|iitp|정보통신기획평가원|보도자료|사업공고|지원사업|공모/.test(haystack);
+  if (state.filter === "policy") return issueName(article) === "정책";
   if (state.filter === "market") return issueName(article) === "AI시장" || /시장|market|investment|funding|ipo|datacenter|데이터센터|투자|valuation|earnings|spending|revenue|매출|실적|수요|주가|계약|수주|capex|forecast|outlook/.test(haystack);
   return true;
 }
@@ -157,17 +162,19 @@ function expandSearchTerms(value) {
 
 function issueName(article) {
   if (article.issueCategory) return article.issueCategory;
-  const text = articleText(article);
+  const text = articleContentText(article);
   const taxonomy = new Set(article.taxonomyHits || []);
   const companies = new Set(article.companyHits || []);
-  const policyScore = countTermHits(text, policyIssueTerms);
+  const policyOrgScore = countTermHits(text, policyOrgTerms);
+  const policyActionScore = countTermHits(text, policyActionTerms);
   const marketScore = countTermHits(text, marketIssueTerms);
   const hasDomesticNpuCompany = domesticNpuCompanies.some((company) => companies.has(company) || text.includes(company.toLowerCase()));
+  const strongPolicy = policyActionScore >= 2 || (policyOrgScore >= 1 && policyActionScore >= 1);
 
-  if (policyScore >= 2 && marketScore < 3) return "정책";
+  if (marketScore >= 2 && !strongPolicy) return "AI시장";
   if (hasDomesticNpuCompany) return "NPU";
   if (marketScore >= 1 || taxonomy.has("AI시장") || taxonomy.has("투자·M&A")) return "AI시장";
-  if (policyScore >= 2 || (taxonomy.has("정책") && marketScore === 0)) return "정책";
+  if (strongPolicy || (taxonomy.has("정책") && policyOrgScore >= 1 && policyActionScore >= 1)) return "정책";
   if (taxonomy.has("NPU") || taxonomy.has("K-엔비디아")) return "NPU";
   const hit = [...taxonomy].find((item) => issueOrder.includes(item));
   if (hit) return hit;
@@ -285,11 +292,10 @@ function renderIssues(data) {
             <div class="issue-head">
               <div>
                 <p class="issue-date">${dayLabel(dayKey(lead.publishedAt))} · 기사 ${group.items.length}건</p>
-                <h3>${escapeHtml(group.name)}</h3>
+                <button class="issue-title" type="button" data-issue-modal="${escapeHtml(group.name)}">${escapeHtml(group.name)}</button>
               </div>
               <div class="chips">${topTags.map((tag) => tagButton(tag, null, "pale")).join("")}</div>
             </div>
-            <p class="issue-summary">${escapeHtml(cleanSummary(lead.summary))}</p>
             <div class="article-stack">
               ${group.items.slice(0, 6).map((article) => `
                 <a class="article-row" href="${article.link}" target="_blank" rel="noreferrer">
@@ -302,6 +308,30 @@ function renderIssues(data) {
         `;
       }).join("")
     : `<div class="empty">선택한 조건에 맞는 이슈가 없습니다.</div>`;
+}
+
+function openIssueModal(issue) {
+  const articles = state.data?.news?.articles
+    ?.filter((article) => articleMatches(article, { ignoreIssue: true }) && issueName(article) === issue)
+    ?.sort((a, b) => Date.parse(b.publishedAt || 0) - Date.parse(a.publishedAt || 0)) || [];
+  if (!articles.length) return;
+  $("#issueModalTitle").textContent = issue;
+  $("#issueModalCount").textContent = `기사 ${articles.length}건`;
+  $("#issueModalBody").innerHTML = `
+    <div class="modal-article-list">
+      ${articles.slice(0, 30).map((article) => `
+        <a class="modal-article" href="${article.link}" target="_blank" rel="noreferrer">
+          <span class="modal-article-title">${escapeHtml(article.title)}</span>
+          <span class="modal-article-meta">${escapeHtml(article.outlet)} · ${formatDate(article.publishedAt, { short: true })}</span>
+        </a>
+      `).join("")}
+    </div>
+  `;
+  $("#issueModal").hidden = false;
+}
+
+function closeIssueModal() {
+  $("#issueModal").hidden = true;
 }
 
 function renderPolicyIdeas(data) {
@@ -480,12 +510,21 @@ document.addEventListener("click", (event) => {
   const policy = event.target.closest("[data-policy-index]");
   if (policy) {
     openPolicyModal(Number(policy.dataset.policyIndex));
+    return;
+  }
+  const issue = event.target.closest("[data-issue-modal]");
+  if (issue) {
+    openIssueModal(issue.dataset.issueModal);
   }
 });
 
 $("#policyModalClose").addEventListener("click", closePolicyModal);
 $("#policyModal").addEventListener("click", (event) => {
   if (event.target.id === "policyModal") closePolicyModal();
+});
+$("#issueModalClose").addEventListener("click", closeIssueModal);
+$("#issueModal").addEventListener("click", (event) => {
+  if (event.target.id === "issueModal") closeIssueModal();
 });
 
 $$(".view-tab").forEach((button) => {

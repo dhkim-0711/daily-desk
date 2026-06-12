@@ -386,10 +386,23 @@ select {
   font-size: 13px;
 }
 
-.issue-card h3 {
+.issue-title {
   margin-bottom: 0;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
   font-size: 21px;
+  font-weight: 800;
   line-height: 1.3;
+  text-align: left;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
+.issue-title:hover {
+  color: var(--blue);
 }
 
 .issue-summary {
@@ -614,6 +627,10 @@ select {
   box-shadow: 0 24px 70px rgba(28, 37, 48, 0.22);
 }
 
+.issue-modal-panel {
+  width: min(860px, 100%);
+}
+
 .modal-close {
   position: absolute;
   top: 14px;
@@ -658,6 +675,40 @@ select {
   line-height: 1.6;
   overflow-wrap: anywhere;
   word-break: keep-all;
+}
+
+.modal-article-list {
+  display: grid;
+  gap: 0;
+  border-top: 1px solid var(--line);
+}
+
+.modal-article {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 16px;
+  align-items: center;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.modal-article:hover .modal-article-title {
+  color: var(--blue);
+}
+
+.modal-article-title {
+  min-width: 0;
+  color: var(--ink);
+  font-weight: 750;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
+.modal-article-meta {
+  color: var(--muted);
+  font-size: 13px;
+  white-space: nowrap;
 }
 
 .skeleton {
@@ -727,6 +778,7 @@ select {
 
   .issue-head,
   .article-row,
+  .modal-article,
   .market-top,
   .market-bottom,
   .policy-top {
@@ -734,7 +786,8 @@ select {
     display: grid;
   }
 
-  .article-meta {
+  .article-meta,
+  .modal-article-meta {
     white-space: normal;
   }
 
