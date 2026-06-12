@@ -156,6 +156,34 @@ const policyCandidateIdeas = [
   },
 ];
 
+const policyDomains = [
+  { name: "공공 AI서비스", target: "민원, 문서요약, 보안관제, 콜센터 등 공공 AI서비스", reason: "공공 부문은 초기 레퍼런스를 만들고 조달 전환까지 연결하기 쉽습니다.", signal: "정책" },
+  { name: "AI 데이터센터", target: "민간·공공 데이터센터의 추론 워크로드", reason: "전력비와 냉각비 절감은 국산 NPU 도입의 가장 직접적인 경제성 근거입니다.", signal: "데이터센터" },
+  { name: "온디바이스 산업현장", target: "제조, 모빌리티, 보안, 의료기기 현장의 온디바이스 AI", reason: "데이터 반출 제한과 저전력 요구가 있는 현장은 국산 NPU의 차별점이 명확합니다.", signal: "온디바이스AI" },
+  { name: "금융·보안 폐쇄망", target: "금융, 보안, 공공기관의 폐쇄망 AI 워크로드", reason: "민감 데이터 환경은 해외 클라우드 GPU보다 국내 통제 가능한 AI컴퓨팅 수요가 큽니다.", signal: "수출통제·공급망" },
+  { name: "AI 서비스기업", target: "SaaS, SI, 생성형 AI 서비스 기업의 추론 API 사용 수요", reason: "서비스 기업의 초기 전환비를 낮춰야 AI 시장 수요가 국내 NPU 매출로 연결됩니다.", signal: "AI시장" },
+  { name: "중소 클라우드·IDC", target: "중소 클라우드와 IDC의 GPU 대체·보완 워크로드", reason: "대형 GPU 확보가 어려운 사업자에게 비용 효율형 AI컴퓨팅 대안이 필요합니다.", signal: "AI인프라" },
+  { name: "해외 PoC 거점", target: "해외 클라우드, SI, AI서비스 파트너의 현지 검증 수요", reason: "국내 시장만으로는 스케일업이 어려우므로 해외 고객 접점과 검증자료가 필요합니다.", signal: "투자·M&A" },
+  { name: "조달 후보 업무", target: "공공기관이 반복 구매 가능한 AI 추론·검색·요약 업무", reason: "반복 구매 가능한 업무를 먼저 정의해야 조달 카탈로그와 단가 기준을 만들 수 있습니다.", signal: "실증·조달" },
+];
+
+const policyMechanisms = [
+  { name: "구매전환 바우처", action: "PoC 비용과 초기 구매비를 함께 지원", kpi: "유료 전환율, 구매계약액, 국산 NPU 사용시간" },
+  { name: "성능검증 인증", action: "제3자 시험기관을 통해 성능, 전력효율, 보안성, 호환성을 검증", kpi: "인증 제품 수, 공개 벤치마크 수, 인증 기반 계약액" },
+  { name: "운영비 절감 실증", action: "기존 GPU 대비 전력, 냉각, 운영비 절감 효과를 실제 워크로드에서 측정", kpi: "전력 절감률, 랙당 처리량, 운영비 절감액" },
+  { name: "조달 카탈로그", action: "제품·서비스 사양, 가격 기준, SLA, 구매 가이드를 표준화", kpi: "카탈로그 등록 수, 조달 등록 건수, 구매 리드타임" },
+  { name: "수요처 매칭 트랙", action: "수요기업과 NPU 기업을 매칭하고 8-12주 단기 실증을 지원", kpi: "매칭 건수, PoC 착수율, 후속 상담 건수" },
+  { name: "전환 컨설팅", action: "GPU 워크로드를 진단하고 NPU 전환 가능성, 비용, 일정, 리스크를 설계", kpi: "전환진단 보고서 수, PoC 전환율, 예상 비용절감률" },
+  { name: "해외 레퍼런스 패키지", action: "현지 PoC, 공동 데모, 벤치마크 리포트, 계약 컨설팅을 묶어 지원", kpi: "해외 PoC 수, MOU·계약 건수, 후속 투자상담 건수" },
+  { name: "운영인력 전환교육", action: "MLOps, 모델 최적화, NPU 운영 담당자 교육과 실습환경을 제공", kpi: "수료자 수, 모델 전환 성공률, 교육 후 PoC 착수율" },
+];
+
+function hashString(value = "") {
+  let hash = 0;
+  for (const char of value) hash = ((hash << 5) - hash + char.charCodeAt(0)) | 0;
+  return Math.abs(hash);
+}
+
 function countTermHits(text, terms) {
   return terms.reduce((count, term) => count + (text.includes(term.toLowerCase()) ? 1 : 0), 0);
 }
@@ -434,20 +462,72 @@ function closeIssueModal() {
   $("#issueModal").hidden = true;
 }
 
+function policyStorageKey(data = state.data) {
+  const day = dayKey(data?.generatedAt || new Date().toISOString());
+  return `daily-desk-policy-ideas:${day}`;
+}
+
+function loadSavedPolicyIdeas(data) {
+  try {
+    const raw = localStorage.getItem(policyStorageKey(data));
+    if (!raw) return null;
+    const saved = JSON.parse(raw);
+    if (!Array.isArray(saved?.ideas)) return null;
+    if (saved.ideas.length !== data.briefing.policyIdeas.length) return null;
+    return saved.ideas.map((idea) => ({ ...idea }));
+  } catch {
+    return null;
+  }
+}
+
+function savePolicyIdeas() {
+  if (!state.data || !state.policyIdeas) return;
+  try {
+    localStorage.setItem(policyStorageKey(), JSON.stringify({
+      savedAt: new Date().toISOString(),
+      ideas: state.policyIdeas,
+    }));
+  } catch {
+    // 저장이 막힌 환경에서는 현재 화면 상태만 유지합니다.
+  }
+}
+
 function currentPolicyIdeas(data = state.data) {
   if (!state.policyIdeas && data?.briefing?.policyIdeas) {
-    state.policyIdeas = data.briefing.policyIdeas.map((idea) => ({ ...idea }));
+    state.policyIdeas = loadSavedPolicyIdeas(data) || data.briefing.policyIdeas.map((idea) => ({ ...idea }));
   }
   return state.policyIdeas || [];
 }
 
 function replacementPolicyIdea(index, usedTitles = new Set(currentPolicyIdeas().map((idea) => idea.title))) {
-  const signalTags = new Set(state.data?.briefing?.signals?.technologies?.map(([label]) => label) || []);
-  const preferred = policyCandidateIdeas.filter((idea) => signalTags.has(idea.trigger) && !usedTitles.has(idea.title));
-  const pool = preferred.length ? preferred : policyCandidateIdeas.filter((idea) => !usedTitles.has(idea.title));
-  const candidates = pool.length ? pool : policyCandidateIdeas;
-  const seed = Date.now() + index + usedTitles.size;
-  return { ...candidates[seed % candidates.length] };
+  const signalTags = new Set(state.data?.briefing?.signals?.technologies?.filter(([, count]) => count > 0).map(([label]) => label) || []);
+  const marketCount = state.data?.news?.articles?.filter((article) => issueName(article) === "AI시장").length || 0;
+  const base = [
+    state.data?.generatedAt,
+    [...signalTags].join("|"),
+    marketCount,
+    index,
+    Date.now(),
+    usedTitles.size,
+  ].join(":");
+  let seed = hashString(base);
+  for (let attempt = 0; attempt < policyDomains.length * policyMechanisms.length; attempt += 1) {
+    const preferredDomains = policyDomains.filter((domain) => signalTags.has(domain.signal));
+    const domains = preferredDomains.length ? preferredDomains : policyDomains;
+    const domain = domains[(seed + attempt) % domains.length];
+    const mechanism = policyMechanisms[(Math.floor(seed / 7) + attempt) % policyMechanisms.length];
+    const title = `${domain.name} ${mechanism.name}`;
+    if (usedTitles.has(title) && attempt < policyDomains.length * policyMechanisms.length - 1) continue;
+    return {
+      title,
+      trigger: domain.signal,
+      budgetItem: `${domain.target}을 대상으로 ${mechanism.action}하는 비R&D 패키지 사업`,
+      why: `${domain.reason} ${mechanism.name} 방식은 구매자 리스크를 낮추고 실증 결과를 계약·조달 근거로 전환하기 쉽습니다.`,
+      kpi: mechanism.kpi,
+      priority: signalTags.has(domain.signal) || marketCount > 40 ? "상" : "중",
+    };
+  }
+  return { ...policyCandidateIdeas[(seed + index) % policyCandidateIdeas.length] };
 }
 
 function regenerateSelectedPolicies() {
@@ -463,6 +543,7 @@ function regenerateSelectedPolicies() {
     }
   }
   state.policyIdeas = ideas;
+  savePolicyIdeas();
   renderPolicyIdeas(state.data);
 }
 
@@ -647,12 +728,12 @@ async function loadDashboard(force = false) {
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       state.data = await response.json();
     }
-    state.policyIdeas = state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));
+    state.policyIdeas = loadSavedPolicyIdeas(state.data) || state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));
     render();
   } catch (error) {
     if (window.__DASHBOARD_DATA__) {
       state.data = window.__DASHBOARD_DATA__;
-      state.policyIdeas = state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));
+      state.policyIdeas = loadSavedPolicyIdeas(state.data) || state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));
       render();
     } else {
       $("#issueList").innerHTML = `<div class="error">데이터를 불러오지 못했습니다. 로컬 네트워크 또는 뉴스/금융 API 접근 상태를 확인해주세요. ${escapeHtml(error.message)}</div>`;
