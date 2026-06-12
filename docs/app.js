@@ -305,7 +305,7 @@ function candleChart(candles = []) {
     const highY = y(item.high);
     const lowY = y(item.low);
     const up = item.close >= item.open;
-    const color = up ? "var(--green)" : "var(--red)";
+    const color = up ? "var(--up)" : "var(--down)";
     const bodyY = Math.min(openY, closeY);
     const bodyH = Math.max(2, Math.abs(closeY - openY));
     return `

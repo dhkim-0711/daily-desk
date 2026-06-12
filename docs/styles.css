@@ -8,8 +8,8 @@
   --soft: #eef2f6;
   --blue: #2557a7;
   --blue-soft: #eaf1ff;
-  --green: #0f7b61;
-  --red: #b34545;
+  --up: #d64545;
+  --down: #2563b8;
   --amber: #9a6818;
   --shadow: 0 12px 32px rgba(28, 37, 48, 0.06);
 }
@@ -522,11 +522,11 @@ select {
 }
 
 .market-card.up {
-  color: var(--green);
+  color: var(--up);
 }
 
 .market-card.down {
-  color: var(--red);
+  color: var(--down);
 }
 
 .market-top h4 {
