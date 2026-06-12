@@ -15,7 +15,19 @@ const newsQueries = [
   {
     id: "ai-market-global",
     label: "AI 시장 전체",
-    query: '("AI market" OR "generative AI" OR "AI adoption" OR "AI revenue" OR "AI spending" OR "AI infrastructure")',
+    query: '("AI market" OR "generative AI" OR "AI adoption" OR "AI revenue" OR "AI spending" OR "AI investment" OR "AI demand")',
+    lang: "en",
+  },
+  {
+    id: "ai-market-business",
+    label: "AI 시장·비즈니스",
+    query: '("AI startup" OR "AI SaaS" OR "enterprise AI" OR "AI app" OR "AI search" OR "AI model revenue" OR "AI subscription")',
+    lang: "en",
+  },
+  {
+    id: "ai-investment-market",
+    label: "AI 투자·자본시장",
+    query: '("AI funding" OR "AI IPO" OR "AI M&A" OR "AI stocks" OR "AI capex" OR "AI valuation" OR "AI earnings")',
     lang: "en",
   },
   {
@@ -93,7 +105,7 @@ const newsQueries = [
   {
     id: "korea-ai-market",
     label: "국내 AI 시장",
-    query: "(생성형 AI OR AI 에이전트 OR 인공지능 서비스 OR AI 데이터센터 OR 온디바이스 AI OR AI 반도체)",
+    query: "(생성형 AI OR AI 에이전트 OR 인공지능 서비스 OR AI 데이터센터 OR 온디바이스 AI OR AI 반도체 OR AI 투자 OR AI 매출 OR AI 수요 OR AI 도입 OR AI 스타트업 OR AI 서비스)",
     lang: "ko",
   },
   {
@@ -184,7 +196,7 @@ const indices = [
 
 const keywordTaxonomy = [
   { key: "정책", terms: ["정책", "예산", "사업공고", "지원사업", "공모", "보도자료", "과기정통부", "과학기술정보통신부", "nipa", "정보통신산업진흥원", "iitp", "정보통신기획평가원"] },
-  { key: "AI시장", terms: ["ai market", "ai adoption", "ai spending", "ai revenue", "enterprise ai", "생성형 ai", "인공지능 서비스"] },
+  { key: "AI시장", terms: ["ai market", "ai adoption", "ai spending", "ai revenue", "ai investment", "ai demand", "ai funding", "ai ipo", "ai m&a", "ai capex", "ai valuation", "ai earnings", "enterprise ai", "ai startup", "ai saas", "생성형 ai", "인공지능 서비스", "ai 투자", "ai 매출", "ai 수요", "ai 도입", "ai 스타트업", "ai 서비스"] },
   { key: "AI에이전트", terms: ["ai agent", "agentic ai", "에이전트", "agent"] },
   { key: "AI인프라", terms: ["ai infrastructure", "ai compute", "accelerated computing", "cloud", "클라우드", "ai 컴퓨팅", "가속 컴퓨팅"] },
   { key: "데이터센터", terms: ["ai datacenter", "datacenter", "data center", "데이터센터", "data centre", "rack", "랙", "liquid cooling", "냉각"] },
@@ -216,6 +228,111 @@ const technologySignalOrder = [
   "AI에이전트",
   "파운드리·패키징",
 ];
+
+const domesticNpuCompanies = ["리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"];
+
+const policyIssueTerms = [
+  "정책",
+  "예산",
+  "사업공고",
+  "지원사업",
+  "공모",
+  "보도자료",
+  "과기정통부",
+  "과학기술정보통신부",
+  "nipa",
+  "정보통신산업진흥원",
+  "iitp",
+  "정보통신기획평가원",
+  "정부",
+  "부처",
+  "조달",
+  "규제",
+  "수출통제",
+  "공급망",
+  "policy",
+  "subsidy",
+  "government",
+  "ministry",
+  "regulation",
+  "export control",
+  "sanction",
+  "procurement",
+  "chips act",
+  "white house",
+];
+
+const marketIssueTerms = [
+  "시장",
+  "매출",
+  "실적",
+  "수요",
+  "공급",
+  "투자",
+  "상장",
+  "인수",
+  "합병",
+  "주가",
+  "밸류에이션",
+  "기업가치",
+  "자금조달",
+  "펀딩",
+  "고객",
+  "계약",
+  "수주",
+  "market",
+  "revenue",
+  "earnings",
+  "sales",
+  "demand",
+  "supply",
+  "forecast",
+  "outlook",
+  "guidance",
+  "investment",
+  "funding",
+  "valuation",
+  "ipo",
+  "m&a",
+  "acquisition",
+  "merger",
+  "shares",
+  "stock",
+  "capex",
+  "orders",
+  "customer",
+  "contract",
+  "tsmc",
+  "broadcom",
+  "amd",
+  "arm",
+  "micron",
+];
+
+function countTermHits(text, terms) {
+  return terms.reduce((count, term) => count + (text.includes(term.toLowerCase()) ? 1 : 0), 0);
+}
+
+function classifyIssue(text, taxonomyHits = [], companyHits = []) {
+  const taxonomy = new Set(taxonomyHits);
+  const companies = new Set(companyHits);
+  const policyScore = countTermHits(text, policyIssueTerms);
+  const marketScore = countTermHits(text, marketIssueTerms);
+  const hasDomesticNpuCompany = domesticNpuCompanies.some((company) => companies.has(company) || text.includes(company.toLowerCase()));
+
+  if (policyScore >= 2 && marketScore < 3) return "정책";
+  if (hasDomesticNpuCompany) return "NPU";
+  if (marketScore >= 1 || taxonomy.has("AI시장") || taxonomy.has("투자·M&A")) return "AI시장";
+  if (policyScore >= 2 || (taxonomy.has("정책") && marketScore === 0)) return "정책";
+  if (taxonomy.has("NPU") || taxonomy.has("K-엔비디아")) return "NPU";
+
+  for (const key of ["AI인프라", "데이터센터", "온디바이스AI", "인퍼런스", "AI에이전트", "파운드리·패키징", "수출통제·공급망", "실증·조달"]) {
+    if (taxonomy.has(key)) return key;
+  }
+  if (companies.has("NVIDIA")) return "NVIDIA";
+  if (companies.has("Google")) return "Google";
+  return "";
+}
 
 function sendJson(res, status, body) {
   res.writeHead(status, {
@@ -329,9 +446,12 @@ function scoreArticle(article) {
     DEEPX: "딥엑스",
     Mobilint: "모빌린트",
   }[hit] || hit);
+  const normalizedCompanyHits = [...new Set(companyHits.map(normalizeCompany))];
+  const uniqueTaxonomyHits = [...new Set(taxonomyHits)];
   return {
-    companyHits: [...new Set(companyHits.map(normalizeCompany))],
-    taxonomyHits: [...new Set(taxonomyHits)],
+    companyHits: normalizedCompanyHits,
+    taxonomyHits: uniqueTaxonomyHits,
+    issueCategory: classifyIssue(text, uniqueTaxonomyHits, normalizedCompanyHits),
     score: companyHits.length * 4 + taxonomyHits.length * 3 + aiBoost + policyBoost + recency,
   };
 }
