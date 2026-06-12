@@ -201,7 +201,7 @@ const keywordTaxonomy = [
   { key: "AI인프라", terms: ["ai infrastructure", "ai compute", "accelerated computing", "cloud", "클라우드", "ai 컴퓨팅", "가속 컴퓨팅"] },
   { key: "데이터센터", terms: ["ai datacenter", "datacenter", "data center", "데이터센터", "data centre", "rack", "랙", "liquid cooling", "냉각"] },
   { key: "NPU", terms: ["npu", "neural processing unit", "신경망처리장치", "ai반도체", "인공지능 반도체"] },
-  { key: "인퍼런스", terms: ["inference", "serving", "llm inference", "추론"] },
+  { key: "추론", terms: ["inference", "serving", "llm inference", "추론"] },
   { key: "온디바이스AI", terms: ["edge ai", "on-device", "ai pc", "smartphone", "device", "엣지", "온디바이스", "온디바이스 ai"] },
   { key: "K-엔비디아", terms: ["k-엔비디아", "k-nvidia", "국산 npu", "국내 npu"] },
   { key: "리벨리온", terms: ["리벨리온", "rebellions"] },
@@ -224,7 +224,7 @@ const technologySignalOrder = [
   "AI인프라",
   "데이터센터",
   "온디바이스AI",
-  "인퍼런스",
+  "추론",
   "AI에이전트",
   "파운드리·패키징",
 ];
@@ -334,7 +334,7 @@ function classifyIssue(text, taxonomyHits = [], companyHits = []) {
   if (strongPolicy || (taxonomy.has("정책") && policyOrgScore >= 1 && policyActionScore >= 1)) return "정책";
   if (taxonomy.has("NPU") || taxonomy.has("K-엔비디아")) return "NPU";
 
-  for (const key of ["AI인프라", "데이터센터", "온디바이스AI", "인퍼런스", "AI에이전트", "파운드리·패키징", "수출통제·공급망", "실증·조달"]) {
+  for (const key of ["AI인프라", "데이터센터", "온디바이스AI", "추론", "AI에이전트", "파운드리·패키징", "수출통제·공급망", "실증·조달"]) {
     if (taxonomy.has(key)) return key;
   }
   if (companies.has("NVIDIA")) return "NVIDIA";
@@ -424,14 +424,15 @@ function parseRss(xml, source) {
       summary: pick("description"),
       outlet: sourceMatch ? stripTags(sourceMatch[2]) : "Google News",
       outletUrl: sourceMatch ? decodeEntities(sourceMatch[1]) : "https://news.google.com",
-      source,
+      source: source.label,
+      sourceLang: source.lang,
+      region: source.lang === "ko" ? "domestic" : "global",
     };
   });
 }
 
 function scoreArticle(article) {
   const contentText = `${article.title} ${article.summary}`.toLowerCase();
-  const text = `${article.title} ${article.summary} ${article.source}`.toLowerCase();
   const companyHits = watchCompanies.filter((company) => contentText.includes(company.toLowerCase()));
   const taxonomyHits = keywordTaxonomy
     .filter((group) => group.terms.some((term) => contentText.includes(term.toLowerCase())))
@@ -482,7 +483,7 @@ async function loadNews() {
   const settled = await Promise.allSettled(
     newsQueries.map(async (source) => {
       const xml = await fetchText(googleNewsUrl(source));
-      return parseRss(xml, source.label);
+      return parseRss(xml, source);
     }),
   );
   const articles = settled.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
@@ -576,7 +577,7 @@ function generatePolicyIdeas(articles, market) {
       budgetItem: "비R&D 성격으로 수요기관의 PoC 비용, 클라우드 전환비, 성능검증, 초기 구매비를 패키지로 지원",
       why: "국내 NPU 기업은 기술개발 이후 레퍼런스, 구매사례, 운영검증이 부족해 매출 전환이 지연됩니다.",
       kpi: "유료 전환 PoC 수, 구매계약 금액, 국산 NPU 사용 시간, 고객 재구매율",
-      priority: techKeys.has("실증·조달") || techKeys.has("인퍼런스") ? "상" : "중",
+      priority: techKeys.has("실증·조달") || techKeys.has("추론") ? "상" : "중",
     },
     {
       title: "AI 서비스 기업·NPU 기업 매칭형 마켓플레이스",
@@ -624,7 +625,7 @@ function generatePolicyIdeas(articles, market) {
       budgetItem: "수요기업의 기존 GPU 워크로드를 진단하고 국산 NPU 적용 가능성, 비용, 전력, 전환 일정을 설계해주는 컨설팅 지원",
       why: "수요기업은 국산 NPU를 쓰고 싶어도 모델 변환, 운영비 비교, 리스크 판단을 자체적으로 하기 어렵습니다.",
       kpi: "전환진단 보고서 수, 전환 가능 워크로드 수, 실제 PoC 착수율, 예상 비용 절감액",
-      priority: techKeys.has("인퍼런스") || techKeys.has("AI인프라") ? "상" : "중",
+      priority: techKeys.has("추론") || techKeys.has("AI인프라") ? "상" : "중",
     },
     {
       title: "NPU 친화형 AI서비스 바우처",
@@ -648,7 +649,7 @@ function generatePolicyIdeas(articles, market) {
       budgetItem: "AI 서비스 개발자, MLOps 담당자, 공공 정보화 담당자를 대상으로 NPU 모델 최적화·운영 교육 제공",
       why: "칩 도입은 하드웨어 구매만으로 끝나지 않고 운영인력이 있어야 반복 사용과 확산이 가능합니다.",
       kpi: "교육 수료자 수, 기업별 적용 프로젝트 수, 모델 변환 성공률, 교육 후 PoC 착수율",
-      priority: techKeys.has("NPU") || techKeys.has("인퍼런스") ? "상" : "중",
+      priority: techKeys.has("NPU") || techKeys.has("추론") ? "상" : "중",
     },
     {
       title: "온디바이스 AI 실증처 발굴 프로그램",

@@ -7,6 +7,7 @@ const state = {
   issue: "",
   search: "",
   view: "briefing",
+  policyIdeas: null,
 };
 
 const $ = (selector) => document.querySelector(selector);
@@ -19,7 +20,7 @@ const issueOrder = [
   "AI인프라",
   "데이터센터",
   "온디바이스AI",
-  "인퍼런스",
+  "추론",
   "AI에이전트",
   "K-엔비디아",
   "NVIDIA",
@@ -55,6 +56,105 @@ const domesticNpuCompanies = ["리벨리온", "퓨리오사AI", "하이퍼엑셀
 const marketIssueTerms = ["시장", "매출", "실적", "수요", "공급", "투자", "상장", "인수", "합병", "주가", "밸류에이션", "기업가치", "자금조달", "펀딩", "고객", "계약", "수주", "market", "revenue", "earnings", "sales", "demand", "supply", "forecast", "outlook", "guidance", "investment", "funding", "valuation", "ipo", "m&a", "acquisition", "merger", "shares", "stock", "capex", "orders", "customer", "contract", "tsmc", "broadcom", "amd", "arm", "micron"];
 const policyOrgTerms = ["과기정통부", "과학기술정보통신부", "nipa", "정보통신산업진흥원", "iitp", "정보통신기획평가원", "정부", "부처", "ministry", "government", "white house"];
 const policyActionTerms = ["정책", "예산", "사업공고", "지원사업", "공모", "보도자료", "조달", "규제", "수출통제", "보조금", "지원", "선정", "실증사업", "policy", "subsidy", "regulation", "export control", "sanction", "procurement", "chips act"];
+
+const policyCandidateIdeas = [
+  {
+    title: "국산 NPU 전환 컨설팅 바우처",
+    trigger: "수요 전환",
+    budgetItem: "AI 서비스 기업의 GPU 워크로드를 진단하고 국산 NPU 전환 가능성, 비용, 성능, 일정 설계를 지원",
+    why: "수요기업은 어떤 모델과 서비스가 국산 NPU에 맞는지 판단하기 어렵습니다. 초기 진단비를 낮추면 PoC 진입 장벽이 줄어듭니다.",
+    kpi: "전환진단 보고서 수, PoC 착수율, 예상 비용절감률, 전환 대상 워크로드 수",
+    priority: "상",
+  },
+  {
+    title: "공공 AI서비스 국산 NPU 우선 실증 트랙",
+    trigger: "공공 실증",
+    budgetItem: "민원, 문서요약, 보안관제, 콜센터 등 공공 AI서비스 일부를 국산 NPU 기반으로 운영 검증",
+    why: "비R&D 사업은 실제 운영 레퍼런스를 만드는 데 강점이 있습니다. 공공 수요는 초기 신뢰 확보에 특히 유효합니다.",
+    kpi: "공공 워크로드 수, 월간 사용시간, 운영비 절감률, 후속 구매전환 건수",
+    priority: "상",
+  },
+  {
+    title: "AI 서비스·NPU 공동 가격표준 파일럿",
+    trigger: "시장 형성",
+    budgetItem: "국산 NPU 추론 서비스의 과금 단위, SLA, 성능 기준, 견적 템플릿을 수요기업과 공동 검증",
+    why: "수요기업은 가격과 성능을 비교할 기준이 부족합니다. 표준 견적 체계가 생기면 구매 의사결정이 빨라집니다.",
+    kpi: "표준 견적 발급 건수, 유료 전환율, 평균 견적 소요기간, 고객 재문의율",
+    priority: "중",
+  },
+  {
+    title: "K-NPU 해외 레퍼런스 쇼케이스",
+    trigger: "해외진출",
+    budgetItem: "해외 클라우드, SI, AI 서비스 기업을 대상으로 공동 데모, 현지 PoC, 벤치마크 리포트 제작 지원",
+    why: "국내 기업의 해외 매출 전환에는 신뢰 가능한 현지 레퍼런스가 필요합니다. 전시보다 검증자료 중심 지원이 효과적입니다.",
+    kpi: "해외 PoC 수, MOU·계약 건수, 벤치마크 다운로드 수, 후속 투자상담 건수",
+    priority: "중",
+  },
+  {
+    title: "온디바이스 AI 수요처 매칭 챌린지",
+    trigger: "온디바이스AI",
+    budgetItem: "제조, 모빌리티, 의료기기, 보안 분야 수요처와 국내 NPU 기업을 매칭해 현장형 실증비 지원",
+    why: "온디바이스 AI는 데이터 반출 제한과 저전력 요구가 명확한 영역에서 시장성이 높습니다.",
+    kpi: "매칭 수요처 수, 제품 탑재 건수, 지연시간 개선, 전력 절감률",
+    priority: "중",
+  },
+  {
+    title: "국산 AI컴퓨팅 인증·성능 리포트 사업",
+    trigger: "성능검증",
+    budgetItem: "제3자 시험기관을 통해 추론 성능, 전력효율, 호환성, 보안성 검증 리포트를 발급",
+    why: "구매자는 홍보자료보다 검증된 비교 데이터를 요구합니다. 인증형 리포트는 조달과 민간 구매의 공통 근거가 됩니다.",
+    kpi: "인증 제품 수, 공개 벤치마크 수, 인증 기반 계약액, 조달 등록 건수",
+    priority: "상",
+  },
+  {
+    title: "AI 데이터센터 전력절감 구매연계 실증",
+    trigger: "데이터센터",
+    budgetItem: "데이터센터 일부 추론 워크로드를 국산 NPU로 이전하고 전력, 냉각, 운영비 절감 효과를 측정",
+    why: "AI 인프라 비용과 전력 이슈가 커지면서 국산 NPU의 경제성 검증 수요가 커지고 있습니다.",
+    kpi: "전력 절감률, 랙당 처리량, 운영비 절감액, 구매전환 워크로드 수",
+    priority: "상",
+  },
+  {
+    title: "NPU 친화형 AI서비스 크레딧",
+    trigger: "AI시장",
+    budgetItem: "AI 서비스 기업이 국산 NPU 기반 추론 API나 클라우드 자원을 구매할 수 있는 사용권 지원",
+    why: "서비스 기업의 초기 전환비를 낮춰야 AI 시장 수요가 국내 NPU 매출로 연결됩니다.",
+    kpi: "크레딧 사용 기업 수, 국산 NPU 사용액, 서비스 출시 건수, 월간 추론 처리량",
+    priority: "상",
+  },
+  {
+    title: "국산 NPU 조달 카탈로그 고도화",
+    trigger: "조달",
+    budgetItem: "공공기관이 국산 AI컴퓨팅을 쉽게 구매할 수 있도록 제품·서비스 카탈로그, 가격 기준, 구매 가이드 마련",
+    why: "조달 규격과 가격 기준이 불명확하면 실제 구매로 이어지기 어렵습니다.",
+    kpi: "카탈로그 등록 제품 수, 조달 등록 건수, 공공 구매액, 구매 리드타임 단축률",
+    priority: "중",
+  },
+  {
+    title: "AI반도체 수요기업 운영인력 전환 교육",
+    trigger: "운영역량",
+    budgetItem: "MLOps, 인프라 운영, 모델 최적화 담당자를 대상으로 국산 NPU 적용 교육과 실습 환경 제공",
+    why: "도입은 하드웨어 구매만으로 끝나지 않습니다. 운영인력이 있어야 반복 사용과 확산이 가능합니다.",
+    kpi: "교육 수료자 수, 기업별 적용 프로젝트 수, 모델 전환 성공률, 교육 후 PoC 착수율",
+    priority: "중",
+  },
+  {
+    title: "국산 NPU 금융·보안 특화 레퍼런스",
+    trigger: "고신뢰 수요",
+    budgetItem: "금융, 보안, 공공 데이터처럼 외부 전송 제한이 큰 워크로드를 대상으로 폐쇄망 실증 지원",
+    why: "민감 데이터 영역은 온프레미스·저전력 국산 NPU의 차별점이 뚜렷합니다.",
+    kpi: "폐쇄망 실증 수, 보안성 검증 통과율, 도입기관 수, 운영비 절감률",
+    priority: "중",
+  },
+  {
+    title: "K-엔비디아 공동 영업자료 패키지",
+    trigger: "시장 접점",
+    budgetItem: "5개 NPU 기업의 제품별 적용 분야, 성능, 가격, 도입 절차를 비교 가능한 공동 영업자료로 제작",
+    why: "수요기업 입장에서는 기업별 정보를 따로 확인하는 비용이 큽니다. 비교 가능한 자료가 있어야 상담 전환이 쉬워집니다.",
+    kpi: "자료 배포 수, 상담 신청 건수, 공동 데모 요청 수, PoC 전환율",
+    priority: "중",
+  },
+];
 
 function countTermHits(text, terms) {
   return terms.reduce((count, term) => count + (text.includes(term.toLowerCase()) ? 1 : 0), 0);
@@ -145,10 +245,10 @@ function articleMatches(article, options = {}) {
     if (!terms.every((group) => group.some((term) => haystack.includes(term)))) return false;
   }
   if (state.filter === "all") return true;
-  if (state.filter === "domestic") return /국내|korea|리벨리온|퓨리오사|하이퍼엑셀|딥엑스|모빌린트|삼성|하이닉스|k-엔비디아/.test(haystack);
-  if (state.filter === "global") return /해외|global|nvidia|엔비디아|google|구글|alphabet|알파벳|gemini|제미나이|deepmind|딥마인드|amd|broadcom|tsmc|arm|micron/.test(haystack);
+  if (state.filter === "domestic") return article.region === "domestic" || (!article.region && article.sourceLang === "ko");
+  if (state.filter === "global") return article.region === "global" || (!article.region && article.sourceLang === "en");
   if (state.filter === "policy") return issueName(article) === "정책";
-  if (state.filter === "market") return issueName(article) === "AI시장" || /시장|market|investment|funding|ipo|datacenter|데이터센터|투자|valuation|earnings|spending|revenue|매출|실적|수요|주가|계약|수주|capex|forecast|outlook/.test(haystack);
+  if (state.filter === "market") return issueName(article) === "AI시장";
   return true;
 }
 
@@ -334,10 +434,47 @@ function closeIssueModal() {
   $("#issueModal").hidden = true;
 }
 
+function currentPolicyIdeas(data = state.data) {
+  if (!state.policyIdeas && data?.briefing?.policyIdeas) {
+    state.policyIdeas = data.briefing.policyIdeas.map((idea) => ({ ...idea }));
+  }
+  return state.policyIdeas || [];
+}
+
+function replacementPolicyIdea(index, usedTitles = new Set(currentPolicyIdeas().map((idea) => idea.title))) {
+  const signalTags = new Set(state.data?.briefing?.signals?.technologies?.map(([label]) => label) || []);
+  const preferred = policyCandidateIdeas.filter((idea) => signalTags.has(idea.trigger) && !usedTitles.has(idea.title));
+  const pool = preferred.length ? preferred : policyCandidateIdeas.filter((idea) => !usedTitles.has(idea.title));
+  const candidates = pool.length ? pool : policyCandidateIdeas;
+  const seed = Date.now() + index + usedTitles.size;
+  return { ...candidates[seed % candidates.length] };
+}
+
+function regenerateSelectedPolicies() {
+  const selected = $$(".policy-check:checked").map((item) => Number(item.dataset.policyCheck));
+  if (!selected.length) return;
+  const ideas = currentPolicyIdeas().map((idea) => ({ ...idea }));
+  const usedTitles = new Set(ideas.map((idea) => idea.title));
+  for (const index of selected) {
+    if (Number.isInteger(index) && ideas[index]) {
+      usedTitles.delete(ideas[index].title);
+      ideas[index] = replacementPolicyIdea(index, usedTitles);
+      usedTitles.add(ideas[index].title);
+    }
+  }
+  state.policyIdeas = ideas;
+  renderPolicyIdeas(state.data);
+}
+
 function renderPolicyIdeas(data) {
-  $("#policyIdeas").innerHTML = data.briefing.policyIdeas.map((idea, index) => `
+  const ideas = currentPolicyIdeas(data);
+  $("#policyIdeas").innerHTML = ideas.map((idea, index) => `
     <article class="policy-card">
       <div class="policy-top">
+        <label class="policy-check-label">
+          <input class="policy-check" type="checkbox" data-policy-check="${index}">
+          <span>교체</span>
+        </label>
         <button class="policy-title" type="button" data-policy-index="${index}">${escapeHtml(idea.title)}</button>
         <span class="priority">우선순위 ${escapeHtml(idea.priority)}</span>
       </div>
@@ -349,7 +486,7 @@ function renderPolicyIdeas(data) {
 }
 
 function openPolicyModal(index) {
-  const idea = state.data?.briefing?.policyIdeas?.[index];
+  const idea = currentPolicyIdeas()[index];
   if (!idea) return;
   $("#policyModalTitle").textContent = idea.title;
   $("#policyModalBody").innerHTML = `
@@ -462,10 +599,12 @@ async function loadDashboard(force = false) {
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       state.data = await response.json();
     }
+    state.policyIdeas = state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));
     render();
   } catch (error) {
     if (window.__DASHBOARD_DATA__) {
       state.data = window.__DASHBOARD_DATA__;
+      state.policyIdeas = state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));
       render();
     } else {
       $("#issueList").innerHTML = `<div class="error">데이터를 불러오지 못했습니다. 로컬 네트워크 또는 뉴스/금융 API 접근 상태를 확인해주세요. ${escapeHtml(error.message)}</div>`;
@@ -551,6 +690,8 @@ $("#searchInput").addEventListener("input", (event) => {
   state.issue = "";
   render();
 });
+
+$("#regenPolicyBtn").addEventListener("click", regenerateSelectedPolicies);
 
 $("#monthSelect").addEventListener("change", (event) => {
   state.month = event.target.value;

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:28:54.280Z",
+  "generatedAt": "2026-06-12T08:41:33.232Z",
   "news": {
     "articles": [
       {
@@ -10,6 +10,8 @@
         "outlet": "베타뉴스",
         "outletUrl": "https://www.betanews.net",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Google",
@@ -32,6 +34,8 @@
         "outlet": "시사저널e",
         "outletUrl": "https://www.sisajournal-e.com",
         "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온",
           "퓨리오사AI",
@@ -54,6 +58,8 @@
         "outlet": "글로벌이코노믹",
         "outletUrl": "https://www.g-enews.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU",
@@ -75,6 +81,8 @@
         "outlet": "NVIDIA Blog",
         "outletUrl": "https://blogs.nvidia.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "Google",
@@ -95,6 +103,8 @@
         "outlet": "simplywall.st",
         "outletUrl": "https://simplywall.st",
         "source": "AI 시장 전체",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -115,6 +125,8 @@
         "outlet": "인베스트조선",
         "outletUrl": "https://www.investchosun.com",
         "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온",
           "퓨리오사AI"
@@ -135,6 +147,8 @@
         "outlet": "디일렉",
         "outletUrl": "https://www.thelec.kr",
         "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "리벨리온",
@@ -157,6 +171,8 @@
         "outlet": "아이티데일리",
         "outletUrl": "http://www.itdaily.kr",
         "source": "국내 AI 시장",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책",
@@ -174,6 +190,8 @@
         "outlet": "24/7 Wall St.",
         "outletUrl": "https://247wallst.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "Google"
@@ -194,6 +212,8 @@
         "outlet": "네이트",
         "outletUrl": "https://news.nate.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU",
@@ -214,6 +234,8 @@
         "outlet": "digitimes",
         "outletUrl": "https://www.digitimes.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
           "TSMC",
@@ -234,6 +256,8 @@
         "outlet": "SBSBiz",
         "outletUrl": "https://biz.sbs.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU",
@@ -254,6 +278,8 @@
         "outlet": "미디어픽",
         "outletUrl": "https://www.mediapic.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Google",
@@ -274,6 +300,8 @@
         "outlet": "v.daum.net",
         "outletUrl": "https://v.daum.net",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU",
@@ -294,6 +322,8 @@
         "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "Arm"
@@ -313,6 +343,8 @@
         "outlet": "TradingView",
         "outletUrl": "https://www.tradingview.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "AMD"
@@ -332,6 +364,8 @@
         "outlet": "Wccftech",
         "outletUrl": "https://wccftech.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "TSMC"
@@ -351,6 +385,8 @@
         "outlet": "뉴시스",
         "outletUrl": "https://www.newsis.com",
         "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온"
         ],
@@ -369,6 +405,8 @@
         "outlet": "CNBC",
         "outletUrl": "https://www.cnbc.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "Google"
@@ -382,13 +420,15 @@
         "score": 31
       },
       {
-        "title": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95R1lfM1hpZllFNXRLbTlHZzFnVkVONmE3YnRKdUtnU1NsLXBCU3NaNWJiWmJuWVNSbGg5VnZyc1UwLU1OUXFFbHJSM2lIbllGZExSVw?oc=5",
+        "title": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 - 아주경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtQ1JoTVlXZDVVeE8zQ25MckVTMVZZczhSc0FIdmhFZXNJdTRIUmJXck96MGp4NkNoMFN5RWl5VTV5OHE0aEY3OEtzMWZtQlNzREFESXRzQndBUdIBWEFVX3lxTE9DSTBQX1Z1MlBJWDBFOFhFQVotVnR3bVBINGdnMUhza0F4NTJsYjgzWjQyZUdXaVRKZEI0Z05WV2RBMmRIZzUxUnVzYUFNX3F6ZjBteXZaZXI?oc=5",
         "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
+        "summary": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 &nbsp;&nbsp; 아주경제",
+        "outlet": "아주경제",
+        "outletUrl": "https://www.ajunews.com",
         "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온"
         ],
@@ -402,13 +442,15 @@
         "score": 31
       },
       {
-        "title": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 - 아주경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtQ1JoTVlXZDVVeE8zQ25MckVTMVZZczhSc0FIdmhFZXNJdTRIUmJXck96MGp4NkNoMFN5RWl5VTV5OHE0aEY3OEtzMWZtQlNzREFESXRzQndBUdIBWEFVX3lxTE9DSTBQX1Z1MlBJWDBFOFhFQVotVnR3bVBINGdnMUhza0F4NTJsYjgzWjQyZUdXaVRKZEI0Z05WV2RBMmRIZzUxUnVzYUFNX3F6ZjBteXZaZXI?oc=5",
+        "title": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmUHBnQ2Y3WWh3T1pKdTFvRnlDUGxJeG01cXBxZTBXRTZIS3hqRUJ3ZDlOMGZvZUROYlB4Z2NFeXJsYnZQRVI2bGo4NA?oc=5",
         "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 &nbsp;&nbsp; 아주경제",
-        "outlet": "아주경제",
-        "outletUrl": "https://www.ajunews.com",
+        "summary": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 &nbsp;&nbsp; v.daum.net",
+        "outlet": "v.daum.net",
+        "outletUrl": "https://v.daum.net",
         "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온"
         ],
@@ -429,13 +471,15 @@
         "outlet": "테크월드",
         "outletUrl": "https://www.epnc.co.kr",
         "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온"
         ],
         "taxonomyHits": [
           "정책",
           "NPU",
-          "인퍼런스",
+          "추론",
           "리벨리온"
         ],
         "issueCategory": "NPU",
@@ -449,6 +493,8 @@
         "outlet": "녹색경제신문",
         "outletUrl": "https://www.greened.kr",
         "source": "딥엑스",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "딥엑스"
         ],
@@ -469,6 +515,8 @@
         "outlet": "v.daum.net",
         "outletUrl": "https://v.daum.net",
         "source": "딥엑스",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "딥엑스"
         ],
@@ -489,16 +537,18 @@
         "outlet": "v.daum.net",
         "outletUrl": "https://v.daum.net",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Google"
         ],
         "taxonomyHits": [
-          "인퍼런스",
+          "추론",
           "NVIDIA",
           "Google"
         ],
-        "issueCategory": "인퍼런스",
+        "issueCategory": "추론",
         "score": 30
       },
       {
@@ -509,6 +559,8 @@
         "outlet": "뉴시스",
         "outletUrl": "https://www.newsis.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Google"
@@ -529,16 +581,18 @@
         "outlet": "데이터넷",
         "outletUrl": "https://www.datanet.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Google"
         ],
         "taxonomyHits": [
-          "인퍼런스",
+          "추론",
           "NVIDIA",
           "Google"
         ],
-        "issueCategory": "인퍼런스",
+        "issueCategory": "추론",
         "score": 30
       },
       {
@@ -549,6 +603,8 @@
         "outlet": "simplywall.st",
         "outletUrl": "https://simplywall.st",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -568,6 +624,8 @@
         "outlet": "qz.com",
         "outletUrl": "https://qz.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -580,25 +638,6 @@
         "score": 30
       },
       {
-        "title": "NVIDIA Corporation (NVDA) Expands Partnership with Microsoft For Agentic AI Deployment - Yahoo Finance Singapore",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzJxM3BwS2lUcFk4alBHX0F0Vk1wNGliX0RUbzhycmFPR2V2amZmcGJSM3NRcWo3Z3oxZ3FBYVdQUTYzQ1pqR3ljcWJNdU5WbVFhRGlSbGgybjdsVEl2Y3Y4Wnk3LS03YmNmRG5meVpIa3ZkYnZPdmwtc3owbzB6amJoYV96TjNKemFSSHA2dm1zSHlLZnAw?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 10:36:40 GMT",
-        "summary": "NVIDIA Corporation (NVDA) Expands Partnership with Microsoft For Agentic AI Deployment &nbsp;&nbsp; Yahoo Finance Singapore",
-        "outlet": "Yahoo Finance Singapore",
-        "outletUrl": "https://sg.finance.yahoo.com",
-        "source": "NVIDIA 이슈",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "NVIDIA",
-          "실증·조달"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 30
-      },
-      {
         "title": "엔비디아 대항마로 뜬 퓨리오사AI... 아이티센글로벌 주가 폭등랠리 - 핀포인트뉴스",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jbGVVOVNCT1VMRzJLbWNadS1NcDJSNldsWnVzY3gwckxzTldFdExlaGNpeTdwSzNRX1VEb2ZXbXFscmFJN2NBejIyeDdJSDRXcVEwdGM4Z2Rxd3RnS0lqM0wwem0zVzlNT0FwM1ZTeUVVYzdpUHRJ0gF3QVVfeXFMTmNsZVU5U0JPVUxHMkttY1p1LU1wMlI2V2xadXNjeDByTHNOV0V0TGVoY2l5N3BLM1FfVURvZldtcWxyYUk3Y0F6MjJ4N0lINFdxUTB0YzhnZHF3dGdLSWozTDB6bTNXOU1PQXAzVlN5RVVjN2lQdEk?oc=5",
         "publishedAt": "Thu, 11 Jun 2026 04:19:23 GMT",
@@ -606,6 +645,8 @@
         "outlet": "핀포인트뉴스",
         "outletUrl": "https://www.pinpointnews.co.kr",
         "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "퓨리오사AI"
@@ -625,6 +666,8 @@
         "outlet": "초이스스탁",
         "outletUrl": "https://www.choicestock.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Google",
@@ -645,6 +688,8 @@
         "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "Google"
@@ -664,6 +709,8 @@
         "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "TSMC"
@@ -684,6 +731,8 @@
         "outlet": "네이트",
         "outletUrl": "https://news.nate.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Google",
@@ -698,6 +747,24 @@
         "score": 29
       },
       {
+        "title": "노타, ‘2026 대한민국 인공지능산업대상’ 부총리 겸 과기정통부 장관상 수상 - KIPOST",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNdFdscnIzQTE3VHlFdVM2d0lkeHJzQldIZTJacTY5OHU1RjNTWG0weldyWVJKYTdxdUhOb2RXcXJnU3lrZzZCRU9YV1BscV9USl9BOGh2Tl8tUS1xTlY4TTF1OXRhRGhm0gFsQVVfeXFMTmM4RFY2amRUUXVpczVBWkx6d1FoeFFadUhMcUp1V0RGVlVMWUNyQnphdU8yODdYTm1aM0hyMHpNZm5nM0NaTEpaWW9EMnlsTG1WQWVrZW1VSl9oQlN1RFVnc1BIVXVINmMxdm1u?oc=5",
+        "publishedAt": "Thu, 11 Jun 2026 23:50:00 GMT",
+        "summary": "노타, ‘2026 대한민국 인공지능산업대상’ 부총리 겸 과기정통부 장관상 수상 &nbsp;&nbsp; KIPOST",
+        "outlet": "KIPOST",
+        "outletUrl": "https://www.kipost.net",
+        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 29
+      },
+      {
         "title": "AMD-backed Lemonade local AI server adds NVIDIA CUDA support - VideoCardz.com",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT09ReUkxbjU4YkVYOVZzdDJ3YUw5NmtUNVpUcFpTYUxnMlFKeWtGNURCeTNoeFZ0M1FHVC1nWmpESTE3Nlc3SHBGOENkMW1HU2sxWUotcFJEU2NrOWxvYVM1alZIZFZmTWdxVHhmb2ZnY0l1VENXLXhSWW9TX2NYcm1tcXR3NUg2MDBQWFVXdFFSQQ?oc=5",
         "publishedAt": "Fri, 12 Jun 2026 06:43:47 GMT",
@@ -705,6 +772,8 @@
         "outlet": "VideoCardz.com",
         "outletUrl": "https://videocardz.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "AMD"
@@ -723,6 +792,8 @@
         "outlet": "Engineering.com",
         "outletUrl": "https://www.engineering.com",
         "source": "해외 정책·투자",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -742,6 +813,8 @@
         "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "Google"
@@ -761,6 +834,8 @@
         "outlet": "조선일보",
         "outletUrl": "https://www.chosun.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU",
@@ -781,6 +856,8 @@
         "outlet": "CNBC",
         "outletUrl": "https://www.cnbc.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "Google"
@@ -800,6 +877,8 @@
         "outlet": "v.daum.net",
         "outletUrl": "https://v.daum.net",
         "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온"
         ],
@@ -819,6 +898,8 @@
         "outlet": "이투데이",
         "outletUrl": "https://www.etoday.co.kr",
         "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온"
         ],
@@ -838,6 +919,8 @@
         "outlet": "아이티비즈",
         "outletUrl": "https://www.it-b.co.kr",
         "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온"
         ],
@@ -857,6 +940,8 @@
         "outlet": "테크월드",
         "outletUrl": "https://www.epnc.co.kr",
         "source": "딥엑스",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "딥엑스"
         ],
@@ -876,6 +961,8 @@
         "outlet": "Chosunbiz",
         "outletUrl": "https://biz.chosun.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "Gemini"
@@ -895,6 +982,8 @@
         "outlet": "디지털데일리",
         "outletUrl": "https://www.ddaily.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Google"
@@ -914,6 +1003,8 @@
         "outlet": "Insider Monkey",
         "outletUrl": "https://www.insidermonkey.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -932,6 +1023,8 @@
         "outlet": "ET Telecom",
         "outletUrl": "https://telecom.economictimes.indiatimes.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -950,6 +1043,8 @@
         "outlet": "피치원미디어",
         "outletUrl": "http://www.pitchone.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TSMC"
@@ -969,6 +1064,8 @@
         "outlet": "mstoday.co.kr",
         "outletUrl": "https://www.mstoday.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TSMC"
@@ -988,6 +1085,8 @@
         "outlet": "헤럴드경제",
         "outletUrl": "https://biz.heraldcorp.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -1007,6 +1106,8 @@
         "outlet": "simplywall.st",
         "outletUrl": "https://simplywall.st",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google"
         ],
@@ -1025,6 +1126,8 @@
         "outlet": "smartbizn.com",
         "outletUrl": "https://www.smartbizn.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -1044,6 +1147,8 @@
         "outlet": "v.daum.net",
         "outletUrl": "https://v.daum.net",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -1063,6 +1168,8 @@
         "outlet": "테크월드",
         "outletUrl": "https://www.epnc.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Google"
@@ -1082,6 +1189,8 @@
         "outlet": "South China Morning Post",
         "outletUrl": "https://www.scmp.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1100,6 +1209,8 @@
         "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TSMC"
@@ -1119,6 +1230,8 @@
         "outlet": "simplywall.st",
         "outletUrl": "https://simplywall.st",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1137,6 +1250,8 @@
         "outlet": "simplywall.st",
         "outletUrl": "https://simplywall.st",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1155,6 +1270,8 @@
         "outlet": "Investing.com",
         "outletUrl": "https://www.investing.com",
         "source": "AI 시장 전체",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1173,6 +1290,8 @@
         "outlet": "The National Law Review",
         "outletUrl": "https://natlawreview.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
           "Arm"
@@ -1192,6 +1311,8 @@
         "outlet": "TechSpot",
         "outletUrl": "https://www.techspot.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1210,6 +1331,8 @@
         "outlet": "crn.com",
         "outletUrl": "https://www.crn.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1228,6 +1351,8 @@
         "outlet": "TradingView",
         "outletUrl": "https://www.tradingview.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1246,6 +1371,8 @@
         "outlet": "Barron's",
         "outletUrl": "https://www.barrons.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1264,6 +1391,8 @@
         "outlet": "GuruFocus",
         "outletUrl": "https://www.gurufocus.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1282,6 +1411,8 @@
         "outlet": "Connect CRE",
         "outletUrl": "https://www.connectcre.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1300,6 +1431,8 @@
         "outlet": "Reuters",
         "outletUrl": "https://www.reuters.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1318,6 +1451,8 @@
         "outlet": "Seeking Alpha",
         "outletUrl": "https://seekingalpha.com",
         "source": "AI 시장 전체",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1336,6 +1471,8 @@
         "outlet": "이코노미트리뷴",
         "outletUrl": "https://www.economytribune.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -1355,6 +1492,8 @@
         "outlet": "Barchart.com",
         "outletUrl": "https://www.barchart.com",
         "source": "AI 서비스·클라우드",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1373,6 +1512,8 @@
         "outlet": "WSJ",
         "outletUrl": "https://www.wsj.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1391,6 +1532,8 @@
         "outlet": "Google DeepMind",
         "outletUrl": "https://deepmind.google",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
           "DeepMind"
@@ -1410,6 +1553,8 @@
         "outlet": "MIT Technology Review",
         "outletUrl": "https://www.technologyreview.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
           "DeepMind"
@@ -1429,6 +1574,8 @@
         "outlet": "Phoronix",
         "outletUrl": "https://www.phoronix.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "AMD"
@@ -1447,6 +1594,8 @@
         "outlet": "파이낸스스코프",
         "outletUrl": "https://www.finance-scope.com",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책",
@@ -1463,6 +1612,8 @@
         "outlet": "GuruFocus",
         "outletUrl": "https://www.gurufocus.com",
         "source": "해외 정책·투자",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -1482,6 +1633,8 @@
         "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
         "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책",
@@ -1500,6 +1653,8 @@
         "outlet": "Chosunbiz",
         "outletUrl": "https://biz.chosun.com",
         "source": "과기정통부 AI반도체",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책",
@@ -1518,6 +1673,8 @@
         "outlet": "v.daum.net",
         "outletUrl": "https://v.daum.net",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1533,6 +1690,8 @@
         "outlet": "헬로티",
         "outletUrl": "https://www.hellot.net",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1548,6 +1707,8 @@
         "outlet": "네이트",
         "outletUrl": "https://news.nate.com",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1563,6 +1724,8 @@
         "outlet": "네이트",
         "outletUrl": "https://news.nate.com",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1578,6 +1741,8 @@
         "outlet": "공유경제신문",
         "outletUrl": "https://www.seconomy.kr",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1593,6 +1758,8 @@
         "outlet": "e4ds news",
         "outletUrl": "https://www.e4ds.com",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1608,6 +1775,8 @@
         "outlet": "네이트",
         "outletUrl": "https://news.nate.com",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1623,6 +1792,8 @@
         "outlet": "2news.co.kr",
         "outletUrl": "https://www.2news.co.kr",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1638,6 +1809,8 @@
         "outlet": "와우테일",
         "outletUrl": "https://wowtale.net",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1653,6 +1826,8 @@
         "outlet": "v.daum.net",
         "outletUrl": "https://v.daum.net",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1668,6 +1843,8 @@
         "outlet": "데일리안",
         "outletUrl": "https://www.dailian.co.kr",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1683,6 +1860,8 @@
         "outlet": "데일리한국",
         "outletUrl": "https://daily.hankooki.com",
         "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1698,6 +1877,8 @@
         "outlet": "뉴스핌",
         "outletUrl": "https://www.newspim.com",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1713,6 +1894,8 @@
         "outlet": "WION",
         "outletUrl": "https://www.wionews.com",
         "source": "AI 시장 전체",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google"
         ],
@@ -1732,6 +1915,8 @@
         "outlet": "The Futurum Group",
         "outletUrl": "https://futurumgroup.com",
         "source": "AI 시장·비즈니스",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "TPU"
         ],
@@ -1751,6 +1936,8 @@
         "outlet": "디지털투데이",
         "outletUrl": "https://www.digitaltoday.co.kr",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -1766,6 +1953,8 @@
         "outlet": "No Jitter",
         "outletUrl": "https://www.nojitter.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google"
         ],
@@ -1785,6 +1974,8 @@
         "outlet": "citybiz",
         "outletUrl": "https://www.citybiz.co",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google"
         ],
@@ -1797,26 +1988,6 @@
         "score": 26
       },
       {
-        "title": "NTT DATA Expands Collaboration with Google Cloud to Accelerate Enterprise AI from Pilots to Production - Business Wire",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS0kySWFqUXpjbVlOMGxIWG1tbW1LNnUxVHY2VVlQWVlYRWo3MjVEVWNVOF9Wa2w1cFprQ3NrcW1EY3loZl9Jc25VVTEtT1RDZm12Y09CbnRMbjBfWVJJWXduYjJDTUtySllvTlRDeWxLMnpEN2czYTlSQlF6X3otOHFIS2RJV2U0Y0hLVEhjajBkZFV2anNYa1VPTmR2a2Q1NXFsQmlQNU03MVRnVkRPM0pRbGJQd0lnTWdERlNsWFhKNzFOTEs4RHZtUTdrTWlicDQwMTJMVWV5UW8wRThiUlVncmpqZEtIMVdVOFFDejE?oc=5",
-        "publishedAt": "Mon, 08 Jun 2026 12:00:00 GMT",
-        "summary": "NTT DATA Expands Collaboration with Google Cloud to Accelerate Enterprise AI from Pilots to Production &nbsp;&nbsp; Business Wire",
-        "outlet": "Business Wire",
-        "outletUrl": "https://www.businesswire.com",
-        "source": "AI 시장·비즈니스",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "AI인프라",
-          "Google",
-          "실증·조달"
-        ],
-        "issueCategory": "AI시장",
-        "score": 26
-      },
-      {
         "title": "퓨리오사AI-브로드컴 '맞손'… K-엔비디아 '도전장' - the-biz.co.kr",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBybHgxM2ljVWVsamlTYURrNG45TFFMV3VtbVc2TlNLRDdvam05bURTeFoxRXk5WHhRUjNCdWRvTTBmS0ZzWFI2Q3VreUk1YnFWZ05uY1RRYm80a1JBVTNkMHhBZlVCRFFsSFI0?oc=5",
         "publishedAt": "Fri, 29 May 2026 07:00:00 GMT",
@@ -1824,6 +1995,8 @@
         "outlet": "the-biz.co.kr",
         "outletUrl": "http://www.the-biz.co.kr",
         "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "퓨리오사AI"
@@ -1844,6 +2017,8 @@
         "outlet": "더퍼블릭",
         "outletUrl": "https://www.thepublic.kr",
         "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "퓨리오사AI"
@@ -1864,6 +2039,8 @@
         "outlet": "이데일리",
         "outletUrl": "https://www.edaily.co.kr",
         "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "퓨리오사AI"
@@ -1884,6 +2061,8 @@
         "outlet": "뉴스핌",
         "outletUrl": "https://www.newspim.com",
         "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "퓨리오사AI"
@@ -1904,6 +2083,8 @@
         "outlet": "네이트",
         "outletUrl": "https://news.nate.com",
         "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "퓨리오사AI"
@@ -1924,6 +2105,8 @@
         "outlet": "조선일보",
         "outletUrl": "https://www.chosun.com",
         "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "퓨리오사AI"
@@ -1944,6 +2127,8 @@
         "outlet": "v.daum.net",
         "outletUrl": "https://v.daum.net",
         "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "퓨리오사AI"
@@ -1964,6 +2149,8 @@
         "outlet": "머니투데이",
         "outletUrl": "https://www.mt.co.kr",
         "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온",
           "퓨리오사AI"
@@ -1984,6 +2171,8 @@
         "outlet": "유니콘팩토리",
         "outletUrl": "https://www.unicornfactory.co.kr",
         "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온",
           "퓨리오사AI"
@@ -2004,6 +2193,8 @@
         "outlet": "마켓잉크",
         "outletUrl": "https://www.market-ink.co.kr",
         "source": "딥엑스",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Arm",
@@ -2025,35 +2216,17 @@
         "outlet": "Tech Times",
         "outletUrl": "https://www.techtimes.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
         "taxonomyHits": [
-          "인퍼런스",
+          "추론",
           "NVIDIA",
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
-        "score": 25
-      },
-      {
-        "title": "Smartsheet Adds ChatGPT, Microsoft Copilot and Google Cloud Gemini Enterprise Connections for its MCP Server - Press Release Hub",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVjhFNnBrNzNLZDdXOVdMb1NsUkN5dEhrMVFkbGJfQTUyZE1MLXlQMGk3RnRYdlRKcm5KOExhVkc3ZlRLSmJMQVY5X2FiT1ZBeDNERHkzOV9xSlU0ekU0ZVg5TDNoVzh4VnpyVE1FOVFZLXRCeFloRkpvOEx6RXhmcE0yVnVaZHpvYWROMEJCdHJsUHZxRm0ydHFxX3lkaXBseEpqTzhmeXRveVJxZVVzS1ZwYTZfQ0lTNEtrM3JKWjlidHEwNWl0Z1NzT3o4NmQ0Nnl2T1JJZUtsYU16dmlXcWFYY0hnRC1rVmtsVlV4TVQ?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 13:49:07 GMT",
-        "summary": "Smartsheet Adds ChatGPT, Microsoft Copilot and Google Cloud Gemini Enterprise Connections for its MCP Server &nbsp;&nbsp; Press Release Hub",
-        "outlet": "Press Release Hub",
-        "outletUrl": "https://pressreleasehub.pa.media",
-        "source": "Google AI 이슈",
-        "companyHits": [
-          "Google",
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "Google",
-          "실증·조달"
-        ],
-        "issueCategory": "AI인프라",
         "score": 25
       },
       {
@@ -2064,6 +2237,8 @@
         "outlet": "New Castle News",
         "outletUrl": "https://www.ncnewsonline.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
           "Gemini"
@@ -2084,6 +2259,8 @@
         "outlet": "디지털데일리",
         "outletUrl": "https://www.ddaily.co.kr",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -2099,6 +2276,8 @@
         "outlet": "PR Newswire",
         "outletUrl": "https://www.prnewswire.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google"
         ],
@@ -2118,6 +2297,8 @@
         "outlet": "뉴스후플러스",
         "outletUrl": "https://www.newswhoplus.com",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -2133,6 +2314,8 @@
         "outlet": "FutureCIO",
         "outletUrl": "https://futurecio.tech",
         "source": "AI 시장·비즈니스",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google"
         ],
@@ -2152,6 +2335,8 @@
         "outlet": "사회적경제뉴스",
         "outletUrl": "http://www.senews.kr",
         "source": "AI반도체 공공사업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -2167,6 +2352,8 @@
         "outlet": "매일경제",
         "outletUrl": "https://www.mk.co.kr",
         "source": "국내 AI 시장",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "TSMC"
         ],
@@ -2186,6 +2373,8 @@
         "outlet": "YTN 사이언스",
         "outletUrl": "https://science.ytn.co.kr",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -2201,6 +2390,8 @@
         "outlet": "디스커버리뉴스(DISCOVERYNEWS)",
         "outletUrl": "https://www.discoverynews.kr",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -2216,6 +2407,8 @@
         "outlet": "네이트",
         "outletUrl": "https://news.nate.com",
         "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2235,6 +2428,8 @@
         "outlet": "Data Center Dynamics",
         "outletUrl": "https://www.datacenterdynamics.com",
         "source": "AI 서비스·클라우드",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "AMD"
         ],
@@ -2254,6 +2449,8 @@
         "outlet": "네이트",
         "outletUrl": "https://m.news.nate.com",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -2269,6 +2466,8 @@
         "outlet": "누리일보",
         "outletUrl": "https://www.nuriilbo.com",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -2284,6 +2483,8 @@
         "outlet": "디지털투데이",
         "outletUrl": "https://www.digitaltoday.co.kr",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -2299,6 +2500,8 @@
         "outlet": "인공지능신문",
         "outletUrl": "https://www.aitimes.kr",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -2314,6 +2517,8 @@
         "outlet": "매일경제",
         "outletUrl": "https://www.mk.co.kr",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -2329,21 +2534,8 @@
         "outlet": "디일렉",
         "outletUrl": "https://www.thelec.kr",
         "source": "국내 NPU 기업",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
-        "score": 25
-      },
-      {
-        "title": "과기정통부·방미통위, 정책협의회 가동…AI·미디어 협력 - 프라임경제",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLYkk3OGR1ckRROHBsMzQ1RzRpdmtHX0hHMlh4Qi1LeXVZWTJHS0prN0ZiU1lwWU4wU09iY2hZY2JMYXR3aXpDbXpYT0pXU1l2T1JfQTlCbEMyeDNPZjdfdg?oc=5",
-        "publishedAt": "Wed, 10 Jun 2026 08:33:05 GMT",
-        "summary": "과기정통부·방미통위, 정책협의회 가동…AI·미디어 협력 &nbsp;&nbsp; 프라임경제",
-        "outlet": "프라임경제",
-        "outletUrl": "https://www.newsprime.co.kr",
-        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책"
@@ -2359,6 +2551,8 @@
         "outlet": "디지털투데이",
         "outletUrl": "https://www.digitaltoday.co.kr",
         "source": "해외 정책·투자",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2377,6 +2571,8 @@
         "outlet": "Chosunbiz",
         "outletUrl": "https://biz.chosun.com",
         "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "퓨리오사AI"
         ],
@@ -2395,6 +2591,8 @@
         "outlet": "네이트",
         "outletUrl": "https://news.nate.com",
         "source": "AI반도체 공공사업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책",
@@ -2411,6 +2609,26 @@
         "outlet": "v.daum.net",
         "outletUrl": "https://v.daum.net",
         "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "NPU"
+        ],
+        "issueCategory": "NPU",
+        "score": 25
+      },
+      {
+        "title": "국가유산 행정부터 AI반도체까지…과기정통부, K-AI 확산 사례 공개 - 아주경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uWjBNdmdYSlp3dzl6Y2dkaVRxSldyUmpnTm5taEJSS2lTdWhuYkxlaTNIeHhRWlA1YmdkdEVpN1ZtdmlQeWNLYU5CLU1udFBiT2oxN3dKbnotUdIBWEFVX3lxTE9pTUFLdmFha2V2VXlzbnc5UDBaeGZvUldRd1dlLWtmbFpYaVhiRjlqdkxVOFJ5eE5SRlFjZ0gwVjFJazljdFc2SnI0RVJVd0RGRGZOYzd2OXM?oc=5",
+        "publishedAt": "Mon, 08 Jun 2026 01:43:16 GMT",
+        "summary": "국가유산 행정부터 AI반도체까지…과기정통부, K-AI 확산 사례 공개 &nbsp;&nbsp; 아주경제",
+        "outlet": "아주경제",
+        "outletUrl": "https://www.ajunews.com",
+        "source": "AI반도체 공공사업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책",
@@ -2427,13 +2645,15 @@
         "outlet": "서울경제",
         "outletUrl": "https://www.sedaily.com",
         "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "리벨리온"
         ],
         "taxonomyHits": [
           "NPU",
-          "인퍼런스",
+          "추론",
           "리벨리온",
           "NVIDIA"
         ],
@@ -2448,13 +2668,15 @@
         "outlet": "네이트",
         "outletUrl": "https://news.nate.com",
         "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "리벨리온"
         ],
         "taxonomyHits": [
           "NPU",
-          "인퍼런스",
+          "추론",
           "리벨리온",
           "NVIDIA"
         ],
@@ -2469,6 +2691,8 @@
         "outlet": "AI타임스",
         "outletUrl": "https://www.aitimes.com",
         "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "리벨리온"
@@ -2490,6 +2714,8 @@
         "outlet": "파이낸셜포스트",
         "outletUrl": "https://www.financialpost.co.kr",
         "source": "하이퍼엑셀",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "하이퍼엑셀"
@@ -2511,6 +2737,8 @@
         "outlet": "Open Source For You",
         "outletUrl": "https://www.opensourceforu.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2528,6 +2756,8 @@
         "outlet": "Electronics For You BUSINESS",
         "outletUrl": "https://www.electronicsforyou.biz",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2545,6 +2775,8 @@
         "outlet": "디일렉",
         "outletUrl": "https://www.thelec.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -2563,6 +2795,8 @@
         "outlet": "경향신문",
         "outletUrl": "https://www.khan.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "Samsung"
@@ -2581,6 +2815,8 @@
         "outlet": "theinvestor.co.kr",
         "outletUrl": "https://www.theinvestor.co.kr",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
           "Samsung"
@@ -2599,6 +2835,8 @@
         "outlet": "Memeburn",
         "outletUrl": "https://memeburn.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2616,6 +2854,8 @@
         "outlet": "the-biz.co.kr",
         "outletUrl": "https://www.the-biz.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -2634,6 +2874,8 @@
         "outlet": "녹색경제신문",
         "outletUrl": "https://www.greened.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -2652,6 +2894,8 @@
         "outlet": "TweakTown",
         "outletUrl": "https://www.tweaktown.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2669,6 +2913,8 @@
         "outlet": "Moomoo",
         "outletUrl": "https://www.moomoo.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2686,6 +2932,8 @@
         "outlet": "디지털투데이",
         "outletUrl": "https://www.digitaltoday.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -2704,6 +2952,8 @@
         "outlet": "AI타임스",
         "outletUrl": "https://www.aitimes.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -2722,6 +2972,8 @@
         "outlet": "KGAN",
         "outletUrl": "https://cbs2iowa.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2739,6 +2991,8 @@
         "outlet": "Businesskorea",
         "outletUrl": "https://www.businesskorea.co.kr",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
           "Samsung"
@@ -2757,6 +3011,8 @@
         "outlet": "케이트렌디뉴스",
         "outletUrl": "http://www.k-trendynews.com",
         "source": "국내 AI 시장",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2774,6 +3030,8 @@
         "outlet": "중소기업신문",
         "outletUrl": "http://www.smedaily.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -2792,6 +3050,8 @@
         "outlet": "조선일보",
         "outletUrl": "https://www.chosun.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
           "Samsung"
@@ -2810,6 +3070,8 @@
         "outlet": "뉴데일리",
         "outletUrl": "https://biz.newdaily.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -2828,6 +3090,8 @@
         "outlet": "파이낸스스코프",
         "outletUrl": "https://www.finance-scope.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -2846,6 +3110,8 @@
         "outlet": "MLQ.ai",
         "outletUrl": "https://mlq.ai",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
           "DeepMind"
@@ -2864,6 +3130,8 @@
         "outlet": "매일경제",
         "outletUrl": "https://www.mk.co.kr",
         "source": "국내 AI 시장",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책",
@@ -2880,6 +3148,8 @@
         "outlet": "이데일리",
         "outletUrl": "https://www.edaily.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU"
@@ -2898,6 +3168,8 @@
         "outlet": "Yanko Design",
         "outletUrl": "https://www.yankodesign.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2915,6 +3187,8 @@
         "outlet": "CU Today",
         "outletUrl": "https://www.cutoday.info",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2932,6 +3206,8 @@
         "outlet": "WPEC",
         "outletUrl": "https://cbs12.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2949,6 +3225,8 @@
         "outlet": "The American Bazaar",
         "outletUrl": "https://americanbazaaronline.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
           "Samsung"
@@ -2967,6 +3245,8 @@
         "outlet": "The Business Journals",
         "outletUrl": "https://www.bizjournals.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -2984,6 +3264,8 @@
         "outlet": "아웃소싱타임스",
         "outletUrl": "https://www.outsourcing.co.kr",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "Gemini"
@@ -3002,6 +3284,8 @@
         "outlet": "Ynetnews",
         "outletUrl": "https://www.ynetnews.com",
         "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
           "Gemini"
@@ -3020,6 +3304,8 @@
         "outlet": "MakeUseOf",
         "outletUrl": "https://www.makeuseof.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3037,6 +3323,8 @@
         "outlet": "thestreet.com",
         "outletUrl": "https://www.thestreet.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3054,6 +3342,8 @@
         "outlet": "PYMNTS.com",
         "outletUrl": "https://www.pymnts.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3071,6 +3361,8 @@
         "outlet": "XDA",
         "outletUrl": "https://www.xda-developers.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3088,6 +3380,8 @@
         "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3105,6 +3399,8 @@
         "outlet": "WLUK",
         "outletUrl": "https://fox11online.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3122,6 +3418,8 @@
         "outlet": "TweakTown",
         "outletUrl": "https://www.tweaktown.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3139,6 +3437,8 @@
         "outlet": "TradingView",
         "outletUrl": "https://www.tradingview.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3156,6 +3456,8 @@
         "outlet": "Seeking Alpha",
         "outletUrl": "https://seekingalpha.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3173,6 +3475,8 @@
         "outlet": "AOL.com",
         "outletUrl": "https://www.aol.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3190,6 +3494,8 @@
         "outlet": "조선일보",
         "outletUrl": "https://www.chosun.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3207,6 +3513,8 @@
         "outlet": "Blocks & Files",
         "outletUrl": "https://www.blocksandfiles.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3224,6 +3532,8 @@
         "outlet": "simplywall.st",
         "outletUrl": "https://simplywall.st",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3241,6 +3551,8 @@
         "outlet": "PYMNTS.com",
         "outletUrl": "https://www.pymnts.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3258,6 +3570,46 @@
         "outlet": "Barchart.com",
         "outletUrl": "https://www.barchart.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "NVIDIA CEO tells graduates to embrace AI or risk falling behind - National Desk",
+        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOalBNZUhnWmM5c2N6UjdzZnQ3RnNaM0I4SjM4eG1oVWwyUTRIRUE1bFg3VmpfakstWUxKRWFzeVpiZWdqNFRBOXR4aTVJMFJxLWQ3TVM0c1pIbjV6M1lqdmo5LTJkQTRLMXZtU25HRmNmSTZMN2tIS0RmQm9JQ2otd0ZpSV9mZkN5S3FmeGxHb0JWZjY0UFlCQkVVam1WX2dkRkExay1tYlNsYjVKeTBOVGxWMzdfUjlnM21GSml4OE0tWXVIdm5BbmJDTGFmYzFCbnJRUGdLclhUenE3RHE5Sjc1UFllRGM4cDhCTGdhSXlBbHJoSW02SnlzYS1JLS1QVUxTNHd0V0h4WmtlbnotT1JrZXc1dUFLNUdITkdPQUxhYzh2RXRmOWNfSVpzQkJZVzBNdXBEV0RrWHRodDBxbVlUeTRub1FZWTdYZ180cF85UUk?oc=5",
+        "publishedAt": "Thu, 11 Jun 2026 14:13:31 GMT",
+        "summary": "NVIDIA CEO tells graduates to embrace AI or risk falling behind &nbsp;&nbsp; National Desk",
+        "outlet": "National Desk",
+        "outletUrl": "https://thenationaldesk.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 24
+      },
+      {
+        "title": "3 Stocks Cashing In on AI While Everyone Watches NVIDIA - MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTNBRXR5b09Sbi1GMlppTnB3Nk1lYzdjU1ZDNGV1SmlMVGpXZGFFR1FyN1hqUFllYkxDNmZfTVZ2Q2FlZVRHdG40eFRwTDM2UXhpNDZ4cjdIZi01eGxFOERoQnlqQXFDYkIxZ04waWc4cFFaX2pLbUUwUEJTTVJDbFZGcXRCOC12X2pjNmtXYkp1VThsem1FOQ?oc=5",
+        "publishedAt": "Thu, 11 Jun 2026 14:06:17 GMT",
+        "summary": "3 Stocks Cashing In on AI While Everyone Watches NVIDIA &nbsp;&nbsp; MarketBeat",
+        "outlet": "MarketBeat",
+        "outletUrl": "https://www.marketbeat.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -6126,13 +6478,13 @@
         ]
       }
     ],
-    "generatedAt": "2026-06-12T08:28:53.877Z"
+    "generatedAt": "2026-06-12T08:41:32.840Z"
   },
   "briefing": {
     "date": "2026년 6월 12일 금요일",
     "summary": [
       "오늘의 최상위 이슈: TSMC 병목에 구글·엔비디아 ‘인텔 카드’ 부상…AI 반도체 공급망 재편 신호 - 베타뉴스",
-      "강한 기술·시장 신호: NPU 19, AI인프라 27, 데이터센터 6, 온디바이스AI 4, 인퍼런스 6",
+      "강한 기술·시장 신호: NPU 20, AI인프라 25, 데이터센터 6, 온디바이스AI 4, 추론 6",
       "주요 기업 신호: 리벨리온 15, 퓨리오사AI 14, 딥엑스 5, 하이퍼엑셀 1, 모빌린트 0"
     ],
     "leadArticles": [
@@ -6144,6 +6496,8 @@
         "outlet": "베타뉴스",
         "outletUrl": "https://www.betanews.net",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Google",
@@ -6166,6 +6520,8 @@
         "outlet": "시사저널e",
         "outletUrl": "https://www.sisajournal-e.com",
         "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온",
           "퓨리오사AI",
@@ -6188,6 +6544,8 @@
         "outlet": "글로벌이코노믹",
         "outletUrl": "https://www.g-enews.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU",
@@ -6209,6 +6567,8 @@
         "outlet": "NVIDIA Blog",
         "outletUrl": "https://blogs.nvidia.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "Google",
@@ -6229,6 +6589,8 @@
         "outlet": "simplywall.st",
         "outletUrl": "https://simplywall.st",
         "source": "AI 시장 전체",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -6249,6 +6611,8 @@
         "outlet": "인베스트조선",
         "outletUrl": "https://www.investchosun.com",
         "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "리벨리온",
           "퓨리오사AI"
@@ -6269,6 +6633,8 @@
         "outlet": "디일렉",
         "outletUrl": "https://www.thelec.kr",
         "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "리벨리온",
@@ -6291,6 +6657,8 @@
         "outlet": "아이티데일리",
         "outletUrl": "http://www.itdaily.kr",
         "source": "국내 AI 시장",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [],
         "taxonomyHits": [
           "정책",
@@ -6308,6 +6676,8 @@
         "outlet": "24/7 Wall St.",
         "outletUrl": "https://247wallst.com",
         "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "Google"
@@ -6328,6 +6698,8 @@
         "outlet": "네이트",
         "outletUrl": "https://news.nate.com",
         "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google",
           "TPU",
@@ -6345,11 +6717,11 @@
       "technologies": [
         [
           "NPU",
-          19
+          20
         ],
         [
           "AI인프라",
-          27
+          25
         ],
         [
           "데이터센터",
@@ -6360,12 +6732,12 @@
           4
         ],
         [
-          "인퍼런스",
+          "추론",
           6
         ],
         [
           "AI에이전트",
-          9
+          8
         ],
         [
           "파운드리·패키징",
@@ -6395,11 +6767,11 @@
         ],
         [
           "NVIDIA",
-          86
+          87
         ],
         [
           "Google",
-          58
+          56
         ],
         [
           "TPU",
@@ -6418,8 +6790,8 @@
           5
         ],
         [
-          "Gemini",
-          5
+          "AMD",
+          4
         ]
       ]
     },
