@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI반도체 데일리 인텔리전스</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">AI Semiconductor Strategy Desk</p>
+          <h1>AI반도체 데일리 인텔리전스</h1>
+        </div>
+        <div class="toolbar">
+          <button id="refreshBtn" class="primary-btn" type="button">새로고침</button>
+          <span id="updatedAt" class="updated-at">데이터 대기 중</span>
+        </div>
+      </header>
+
+      <main>
+        <section class="brief-grid">
+          <article class="brief-panel">
+            <div class="section-title">
+              <span>오늘의 브리핑</span>
+              <strong id="briefDate">-</strong>
+            </div>
+            <div id="summaryList" class="summary-list">
+              <div class="skeleton"></div>
+              <div class="skeleton short"></div>
+            </div>
+          </article>
+
+          <article class="brief-panel compact">
+            <div class="section-title">
+              <span>관측 신호</span>
+              <strong>기술·기업</strong>
+            </div>
+            <div class="signal-columns">
+              <div>
+                <h2>기술</h2>
+                <div id="techSignals" class="chips"></div>
+              </div>
+              <div>
+                <h2>기업</h2>
+                <div id="companySignals" class="chips"></div>
+              </div>
+            </div>
+          </article>
+        </section>
+
+        <section class="content-grid">
+          <div class="main-column">
+            <section class="section-band">
+              <div class="section-heading">
+                <div>
+                  <p class="eyebrow">Evidence Feed</p>
+                  <h2>주요 이슈와 기사</h2>
+                </div>
+                <div class="filters" role="tablist" aria-label="뉴스 필터">
+                  <button class="filter active" data-filter="all" type="button">전체</button>
+                  <button class="filter" data-filter="국내" type="button">국내</button>
+                  <button class="filter" data-filter="해외" type="button">해외</button>
+                  <button class="filter" data-filter="정책" type="button">정책</button>
+                  <button class="filter" data-filter="시장" type="button">시장</button>
+                </div>
+              </div>
+              <div id="articleList" class="article-list"></div>
+            </section>
+          </div>
+
+          <aside class="side-column">
+            <section class="section-band">
+              <div class="section-heading tight">
+                <div>
+                  <p class="eyebrow">Policy Pipeline</p>
+                  <h2>신규 예산·정책 아이템</h2>
+                </div>
+              </div>
+              <div id="policyIdeas" class="policy-list"></div>
+            </section>
+
+            <section class="section-band">
+              <div class="section-heading tight">
+                <div>
+                  <p class="eyebrow">Market Pulse</p>
+                  <h2>경제·주식 시황</h2>
+                </div>
+              </div>
+              <h3 class="subhead">지수</h3>
+              <div id="indexList" class="market-list"></div>
+              <h3 class="subhead">AI·반도체 종목</h3>
+              <div id="equityList" class="market-list"></div>
+            </section>
+          </aside>
+        </section>
+
+        <section class="source-band">
+          <div>
+            <p class="eyebrow">Source Map</p>
+            <h2>수집 쿼리와 출처</h2>
+          </div>
+          <div id="sourceList" class="source-list"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="data-snapshot.js"></script>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
