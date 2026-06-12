@@ -433,6 +433,62 @@ function generatePolicyIdeas(articles, market) {
       priority: techKeys.has("투자·M&A") || techKeys.has("Google") ? "상" : "중",
     },
     {
+      title: "K-엔비디아 기업 공동 데모룸·상설 쇼케이스",
+      trigger: "판로·홍보",
+      budgetItem: "5개 NPU 기업의 제품을 공공·민간 수요자가 직접 비교 체험할 수 있는 상설 데모룸과 온라인 쇼케이스 운영",
+      why: "비R&D 사업은 수요자가 실제 성능과 적용 시나리오를 이해하도록 만드는 접점이 중요합니다.",
+      kpi: "방문 수요기관 수, 데모 신청 건수, 후속 상담 건수, PoC 전환율",
+      priority: techKeys.has("K-엔비디아") || techKeys.has("NPU") ? "상" : "중",
+    },
+    {
+      title: "국산 NPU 도입 컨설팅·전환 설계 지원단",
+      trigger: "수요 전환",
+      budgetItem: "수요기업의 기존 GPU 워크로드를 진단하고 국산 NPU 적용 가능성, 비용, 전력, 전환 일정을 설계해주는 컨설팅 지원",
+      why: "수요기업은 국산 NPU를 쓰고 싶어도 모델 변환, 운영비 비교, 리스크 판단을 자체적으로 하기 어렵습니다.",
+      kpi: "전환진단 보고서 수, 전환 가능 워크로드 수, 실제 PoC 착수율, 예상 비용 절감액",
+      priority: techKeys.has("인퍼런스") || techKeys.has("AI인프라") ? "상" : "중",
+    },
+    {
+      title: "NPU 친화형 AI서비스 바우처",
+      trigger: "AI시장",
+      budgetItem: "AI 서비스 기업이 국산 NPU 기반 추론 API나 클라우드 자원을 구매할 때 사용 가능한 바우처 지급",
+      why: "AI 시장 전체 수요를 NPU 기업 매출로 연결하려면 서비스 기업의 초기 전환비를 낮춰야 합니다.",
+      kpi: "바우처 사용 기업 수, 국산 NPU 사용액, 서비스 출시 건수, 월간 추론 처리량",
+      priority: techKeys.has("AI시장") ? "상" : "중",
+    },
+    {
+      title: "국산 NPU 조달 카탈로그·가격 기준 마련",
+      trigger: "조달 제도",
+      budgetItem: "공공기관이 국산 AI컴퓨팅을 쉽게 구매할 수 있도록 제품·서비스 카탈로그, 가격 기준, 구매 가이드 마련",
+      why: "공공 수요는 있어도 구매 규격과 가격 기준이 없으면 실제 계약으로 이어지기 어렵습니다.",
+      kpi: "카탈로그 등록 제품 수, 조달 등록 건수, 공공 구매 금액, 구매 리드타임 단축률",
+      priority: techKeys.has("실증·조달") ? "상" : "중",
+    },
+    {
+      title: "AI반도체 현장전문인력 전환 교육",
+      trigger: "인력·운영",
+      budgetItem: "AI 서비스 개발자, MLOps 담당자, 공공 정보화 담당자를 대상으로 NPU 모델 최적화·운영 교육 제공",
+      why: "칩 도입은 하드웨어 구매만으로 끝나지 않고 운영인력이 있어야 반복 사용과 확산이 가능합니다.",
+      kpi: "교육 수료자 수, 기업별 적용 프로젝트 수, 모델 변환 성공률, 교육 후 PoC 착수율",
+      priority: techKeys.has("NPU") || techKeys.has("인퍼런스") ? "상" : "중",
+    },
+    {
+      title: "온디바이스 AI 실증처 발굴 프로그램",
+      trigger: "온디바이스",
+      budgetItem: "제조, 보안, 모빌리티, 의료기기 분야에서 국산 NPU 모듈을 적용할 수요처를 발굴하고 실증 운영비 지원",
+      why: "데이터 외부 전송이 어렵거나 저전력이 중요한 분야는 국산 NPU가 차별화될 수 있는 초기 시장입니다.",
+      kpi: "실증처 수, 제품 탑재 건수, 지연시간 개선, 전력 절감률",
+      priority: techKeys.has("온디바이스") ? "상" : "중",
+    },
+    {
+      title: "국산 NPU 기반 AI 데이터센터 전력절감 실증",
+      trigger: "AI인프라",
+      budgetItem: "공공·민간 데이터센터 일부 워크로드를 국산 NPU로 이전해 전력, 냉각, 비용 절감 효과를 검증",
+      why: "AI 인프라 비용과 전력 문제가 커질수록 GPU 대체·보완재로서 국산 NPU의 정책 명분이 커집니다.",
+      kpi: "전력 절감률, 랙당 처리량, 운영비 절감액, 전환 대상 워크로드 수",
+      priority: techKeys.has("AI인프라") ? "상" : "중",
+    },
+    {
       title: "AI컴퓨팅 공급망·수출통제 대응 컨설팅",
       trigger: "수출통제·공급망",
       budgetItem: "국내 NPU 기업과 수요기업에 수출통제, 클라우드 리전, 보안인증, 공급망 리스크 컨설팅을 제공",
@@ -452,7 +508,7 @@ function generatePolicyIdeas(articles, market) {
       priority: "상",
     });
   }
-  return ideas.sort((a, b) => (a.priority === b.priority ? 0 : a.priority === "상" ? -1 : 1)).slice(0, 6);
+  return ideas.sort((a, b) => (a.priority === b.priority ? 0 : a.priority === "상" ? -1 : 1)).slice(0, 10);
 }
 
 function makeBriefing(news, market) {

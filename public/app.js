@@ -5,6 +5,7 @@ const state = {
   date: "all",
   tag: "",
   issue: "",
+  search: "",
   view: "briefing",
 };
 
@@ -108,6 +109,10 @@ function articleMatches(article) {
   if (state.date !== "all" && dayKey(article.publishedAt) !== state.date) return false;
   if (state.tag && !haystack.includes(state.tag.toLowerCase())) return false;
   if (state.issue && issueName(article) !== state.issue) return false;
+  if (state.search) {
+    const terms = state.search.toLowerCase().split(/\s+/).filter(Boolean);
+    if (!terms.every((term) => haystack.includes(term))) return false;
+  }
   if (state.filter === "all") return true;
   if (state.filter === "domestic") return /국내|korea|리벨리온|퓨리오사|하이퍼엑셀|딥엑스|모빌린트|삼성|하이닉스|k-엔비디아/.test(haystack);
   if (state.filter === "global") return /해외|global|nvidia|google|alphabet|gemini|deepmind|amd|broadcom|tsmc|arm|micron/.test(haystack);
@@ -160,7 +165,7 @@ function renderChips(container, entries, limit = 8) {
 function renderActiveTag() {
   const container = $("#activeTag");
   if (!container) return;
-  const label = state.issue ? `브리핑: ${state.issue}` : state.tag ? `태그 검색: ${state.tag}` : "";
+  const label = state.issue ? `브리핑: ${state.issue}` : state.tag ? `태그 검색: ${state.tag}` : state.search ? `검색: ${state.search}` : "";
   container.innerHTML = label
     ? `<button class="active-tag" type="button" id="clearTagBtn">${escapeHtml(label)} ×</button>`
     : `<span class="muted-text">핵심신호 태그를 누르면 관련 이슈만 볼 수 있습니다.</span>`;
@@ -397,6 +402,8 @@ document.addEventListener("click", (event) => {
   if (tag) {
     state.tag = tag.dataset.tag;
     state.issue = "";
+    state.search = "";
+    $("#searchInput").value = "";
     state.view = "briefing";
     $$(".view-tab").forEach((item) => item.classList.toggle("active", item.dataset.view === "briefing"));
     $$(".view").forEach((view) => view.classList.toggle("active", view.id === "briefingView"));
@@ -406,6 +413,8 @@ document.addEventListener("click", (event) => {
   if (event.target.closest("#clearTagBtn")) {
     state.tag = "";
     state.issue = "";
+    state.search = "";
+    $("#searchInput").value = "";
     render();
     return;
   }
@@ -413,6 +422,8 @@ document.addEventListener("click", (event) => {
   if (brief) {
     state.issue = brief.dataset.briefIssue;
     state.tag = "";
+    state.search = "";
+    $("#searchInput").value = "";
     render();
     $("#issueList")?.scrollIntoView({ behavior: "smooth", block: "start" });
     return;
@@ -444,6 +455,13 @@ $$(".filter").forEach((button) => {
     state.issue = "";
     render();
   });
+});
+
+$("#searchInput").addEventListener("input", (event) => {
+  state.search = event.target.value.trim();
+  state.tag = "";
+  state.issue = "";
+  render();
 });
 
 $("#monthSelect").addEventListener("change", (event) => {
