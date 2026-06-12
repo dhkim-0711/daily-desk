@@ -633,6 +633,83 @@ select {
   font-weight: 800;
 }
 
+.review-panel {
+  display: grid;
+  gap: 16px;
+}
+
+.review-hero {
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fbfcfd;
+}
+
+.review-hero h3 {
+  max-width: 920px;
+  margin-bottom: 14px;
+  font-size: 22px;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
+.review-metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.review-metric {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 30px;
+  padding: 5px 10px;
+  border-radius: 999px;
+  background: var(--blue-soft);
+  color: var(--blue);
+  font-size: 13px;
+  font-weight: 750;
+}
+
+.review-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.review-card {
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+}
+
+.review-card h3 {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.review-card p,
+.review-card li {
+  color: #435163;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
+.review-card p {
+  margin-bottom: 12px;
+}
+
+.review-card ul {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  padding-left: 18px;
+}
+
 .empty,
 .error {
   padding: 16px;
@@ -773,7 +850,8 @@ select {
 
 @media (max-width: 980px) {
   .brief-layout,
-  .policy-grid {
+  .policy-grid,
+  .review-grid {
     grid-template-columns: 1fr;
   }
 

@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-06-12T08:41:33.232Z",
+  "generatedAt": "2026-06-12T08:48:00.548Z",
   "news": {
     "articles": [
       {
@@ -161,6 +161,30 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "NPU",
+        "score": 33
+      },
+      {
+        "title": "Groq boosts Samsung Foundry output as Nvidia drives Korea inference push - CHOSUNBIZ - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UYy1kZThOSUttSVB4cGxva0t5YjI3ZzhFNDk2eE16c1VtbFRVTXVwOF90bGFfLURtR1l0U1hrVlRwR1VNZnh4ejV6SDZ4Y3p1RVZiZGNna0xqbUpybnRuMHFVQTRTMERBdGNoNEFkQjI0VzVmMDFhd21n0gGOAUFVX3lxTE8tTERqbDlacXluWk5LODBxa2h3WGtkNllzek5iRm9JSVJ2dHRyTmhHbDRnTm5yazZGODBtck9tNzV1ZE5UTnhmS2dYX3lSbE1LQWNHWU9jMS1VZVFHaE5iek9ibkZ3dS1qR29LaWdhYXJ6OGw1TEFUNEZiaG9MODBZazlJdnd5U1ZoamduSXc?oc=5",
+        "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
+        "summary": "Groq boosts Samsung Foundry output as Nvidia drives Korea inference push - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+        "outlet": "Chosunbiz",
+        "outletUrl": "https://biz.chosun.com",
+        "source": "HyperAccel global",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "TPU",
+          "Samsung"
+        ],
+        "taxonomyHits": [
+          "추론",
+          "NVIDIA",
+          "Google",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "추론",
         "score": 33
       },
       {
@@ -724,12 +748,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 30
       },
       {
-        "title": "엔비디아 이어 구글까지…바빠진 TSMC에 삼성 파운드리 반사이익, 흑자 기대감도 '솔솔' - 네이트",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WVkRvYmcwSHFvM0l0dXFXejdaQUpnQ29uSnJSMmpEYlJya1dlWWpNQ1dNa0pWY09JbEpIa25ONW5lWDR0MlYyNWhDMjF1ZDhxWmhj?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 07:27:00 GMT",
-        "summary": "엔비디아 이어 구글까지…바빠진 TSMC에 삼성 파운드리 반사이익, 흑자 기대감도 '솔솔' &nbsp;&nbsp; 네이트",
-        "outlet": "네이트",
-        "outletUrl": "https://news.nate.com",
+        "title": "엔비디아 이어 구글까지…바빠진 TSMC에 삼성 파운드리 반사이익, 흑자 기대감도 ’솔솔’ - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qMF8xWGRZV0MwdWxvWE5aY2xfMXYzblljZ3lWeEZ6bzFuX1prSG5neXdZVjQwOHNYSDFiU0VwcS1yc2FEd2FBMDBMeWRHQzg?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 07:28:50 GMT",
+        "summary": "엔비디아 이어 구글까지…바빠진 TSMC에 삼성 파운드리 반사이익, 흑자 기대감도 ’솔솔’ &nbsp;&nbsp; v.daum.net",
+        "outlet": "v.daum.net",
+        "outletUrl": "https://v.daum.net",
         "source": "해외 빅테크 국내 보도",
         "sourceLang": "ko",
         "region": "domestic",
@@ -1137,27 +1161,6 @@ window.__DASHBOARD_DATA__ = {
           "수출통제·공급망"
         ],
         "issueCategory": "AI시장",
-        "score": 27
-      },
-      {
-        "title": "구글, 삼성 파운드리와 '차세대 TPU' 협업하나…\"2나노 제조 논의\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8teE5kajVDWGxWaFN2UlVmV0swX3hJam9KVmZGV2g1NTF2NXVHNzMwNjdQTERMVXUxVWdxYlBoNEV4T3RCQWdyNmg4cFM4aG8?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 00:36:00 GMT",
-        "summary": "구글, 삼성 파운드리와 '차세대 TPU' 협업하나…\"2나노 제조 논의\" &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google",
-          "TPU"
-        ],
-        "taxonomyHits": [
-          "Google",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "파운드리·패키징",
         "score": 27
       },
       {
@@ -2186,6 +2189,28 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
+        "title": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea - CHOSUNBIZ - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLOGpGTUtfbmxscTBKMUpDcDJuS0lCWWNPXzJQWnUyLVVyRVFyWFRwYXh3RVlQeGVEZS16VUZRbVhzdHoyYU1wLXdIMDdnVDdaOExfUE9UcU1UcGo1YlVmNHpOREh2bzRwTjd4NFQyLVI1OTRheW5jYm9R0gGOAUFVX3lxTE9tVU52SDVGLUpxQXN3dE1RZUpLSk1vbmtOdE9fd3JjTVJEM1JLVE5Qdy1XdzhXcGU1Z0ZQZHJzVEZHdjR1ekEtOEJkbVVsbTZlaVdMbWxYTWZhZDNvMmdiSUpCWHBjWW1KYkVZaG5FVUh0M21uaGFQdXh0UHg3ZUhwenp0eF8zbkxGRTktN3c?oc=5",
+        "publishedAt": "Sat, 04 Apr 2026 07:00:00 GMT",
+        "summary": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+        "outlet": "Chosunbiz",
+        "outletUrl": "https://biz.chosun.com",
+        "source": "HyperAccel global",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "하이퍼엑셀"
+        ],
+        "taxonomyHits": [
+          "추론",
+          "하이퍼엑셀",
+          "NVIDIA"
+        ],
+        "issueCategory": "NPU",
+        "score": 26
+      },
+      {
         "title": "딥엑스, 삼성전자와 세계 최초 2나노 AI NPU 개발...특허로 엔비디아·ARM·퀄컴도 제쳐 - 마켓잉크",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PX096MVQzZkdTRGduekp1dWk1cllHSm1FVkgwLW4wOW1CYUhPbWRBNlhrMFRoeFg4Ymo3eERhc3ctYXU3QXFDOHp5ZVhPbXNpWUJnOHRLQ2oydzNlcFBpb2FNVldLaXRzc3B0Tk93?oc=5",
         "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
@@ -2227,6 +2252,28 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
+        "score": 25
+      },
+      {
+        "title": "Smartsheet Adds ChatGPT, Microsoft Copilot and Google Cloud Gemini Enterprise Connections for its MCP Server - Press Release Hub",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVjhFNnBrNzNLZDdXOVdMb1NsUkN5dEhrMVFkbGJfQTUyZE1MLXlQMGk3RnRYdlRKcm5KOExhVkc3ZlRLSmJMQVY5X2FiT1ZBeDNERHkzOV9xSlU0ekU0ZVg5TDNoVzh4VnpyVE1FOVFZLXRCeFloRkpvOEx6RXhmcE0yVnVaZHpvYWROMEJCdHJsUHZxRm0ydHFxX3lkaXBseEpqTzhmeXRveVJxZVVzS1ZwYTZfQ0lTNEtrM3JKWjlidHEwNWl0Z1NzT3o4NmQ0Nnl2T1JJZUtsYU16dmlXcWFYY0hnRC1rVmtsVlV4TVQ?oc=5",
+        "publishedAt": "Thu, 11 Jun 2026 13:49:07 GMT",
+        "summary": "Smartsheet Adds ChatGPT, Microsoft Copilot and Google Cloud Gemini Enterprise Connections for its MCP Server &nbsp;&nbsp; Press Release Hub",
+        "outlet": "Press Release Hub",
+        "outletUrl": "https://pressreleasehub.pa.media",
+        "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google",
+          "Gemini"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google",
+          "실증·조달"
+        ],
+        "issueCategory": "AI인프라",
         "score": 25
       },
       {
@@ -2517,23 +2564,6 @@ window.__DASHBOARD_DATA__ = {
         "outlet": "매일경제",
         "outletUrl": "https://www.mk.co.kr",
         "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
-        "score": 25
-      },
-      {
-        "title": "과기정통부, AI·ICT 미래 유니콘 15개사 선정 - 디일렉",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96eEkxRU0tMnlQN0dkd09tVHQxVk54a3JXaFowUE5Sbk5SS0dvbmpZWGMtWE5jR2dRTEJXc1lxa3FVaDhIRmc2b3VWN3E2ZmtnU09kY1VhRTNBdTlpdTF3UU5BTnFtZw?oc=5",
-        "publishedAt": "Wed, 10 Jun 2026 08:43:14 GMT",
-        "summary": "과기정통부, AI·ICT 미래 유니콘 15개사 선정 &nbsp;&nbsp; 디일렉",
-        "outlet": "디일렉",
-        "outletUrl": "https://www.thelec.kr",
-        "source": "국내 NPU 기업",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [],
@@ -3598,25 +3628,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "NVIDIA",
-        "score": 24
-      },
-      {
-        "title": "3 Stocks Cashing In on AI While Everyone Watches NVIDIA - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTNBRXR5b09Sbi1GMlppTnB3Nk1lYzdjU1ZDNGV1SmlMVGpXZGFFR1FyN1hqUFllYkxDNmZfTVZ2Q2FlZVRHdG40eFRwTDM2UXhpNDZ4cjdIZi01eGxFOERoQnlqQXFDYkIxZ04waWc4cFFaX2pLbUUwUEJTTVJDbFZGcXRCOC12X2pjNmtXYkp1VThsem1FOQ?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 14:06:17 GMT",
-        "summary": "3 Stocks Cashing In on AI While Everyone Watches NVIDIA &nbsp;&nbsp; MarketBeat",
-        "outlet": "MarketBeat",
-        "outletUrl": "https://www.marketbeat.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
         "score": 24
       }
     ],
@@ -6478,14 +6489,14 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-06-12T08:41:32.840Z"
+    "generatedAt": "2026-06-12T08:48:00.548Z"
   },
   "briefing": {
     "date": "2026년 6월 12일 금요일",
     "summary": [
       "오늘의 최상위 이슈: TSMC 병목에 구글·엔비디아 ‘인텔 카드’ 부상…AI 반도체 공급망 재편 신호 - 베타뉴스",
-      "강한 기술·시장 신호: NPU 20, AI인프라 25, 데이터센터 6, 온디바이스AI 4, 추론 6",
-      "주요 기업 신호: 리벨리온 15, 퓨리오사AI 14, 딥엑스 5, 하이퍼엑셀 1, 모빌린트 0"
+      "강한 기술·시장 신호: NPU 20, AI인프라 26, 데이터센터 6, 온디바이스AI 4, 추론 8",
+      "주요 기업 신호: 리벨리온 15, 퓨리오사AI 14, 딥엑스 5, 하이퍼엑셀 2, 모빌린트 0"
     ],
     "leadArticles": [
       {
@@ -6650,6 +6661,30 @@ window.__DASHBOARD_DATA__ = {
         "score": 33
       },
       {
+        "title": "Groq boosts Samsung Foundry output as Nvidia drives Korea inference push - CHOSUNBIZ - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UYy1kZThOSUttSVB4cGxva0t5YjI3ZzhFNDk2eE16c1VtbFRVTXVwOF90bGFfLURtR1l0U1hrVlRwR1VNZnh4ejV6SDZ4Y3p1RVZiZGNna0xqbUpybnRuMHFVQTRTMERBdGNoNEFkQjI0VzVmMDFhd21n0gGOAUFVX3lxTE8tTERqbDlacXluWk5LODBxa2h3WGtkNllzek5iRm9JSVJ2dHRyTmhHbDRnTm5yazZGODBtck9tNzV1ZE5UTnhmS2dYX3lSbE1LQWNHWU9jMS1VZVFHaE5iek9ibkZ3dS1qR29LaWdhYXJ6OGw1TEFUNEZiaG9MODBZazlJdnd5U1ZoamduSXc?oc=5",
+        "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
+        "summary": "Groq boosts Samsung Foundry output as Nvidia drives Korea inference push - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+        "outlet": "Chosunbiz",
+        "outletUrl": "https://biz.chosun.com",
+        "source": "HyperAccel global",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "TPU",
+          "Samsung"
+        ],
+        "taxonomyHits": [
+          "추론",
+          "NVIDIA",
+          "Google",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "추론",
+        "score": 33
+      },
+      {
         "title": "[위크픽 클라우드] 과기정통부, ‘베라루빈’ 등 GPU 9,704장 확보…‘AI 팩토리’ 연합 출범 - 아이티데일리",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81bkVUZjVrTFpCbkZsdWdEVVVhWVl4LUFESVB5ZFoxOGt3Sll5Z0UyOWZ3cFZ6TDYxcTkzNkdSTk1qb1JPemg4WmwzeFFzaGtiT0F0UEg3c056cU9ZNlk4ZDRHVE9iNm8?oc=5",
         "publishedAt": "Fri, 12 Jun 2026 07:28:26 GMT",
@@ -6689,28 +6724,6 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "AI인프라",
         "score": 32
-      },
-      {
-        "title": "삼성, TSMC 독주 흔드나…구글 TPU용 2나노 생산 논의 - 네이트",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uT1Vhd2pfV1NROG5McXpHRlNOYXg0YWJNVE5GZGVUNlNnalZDZDhldnNIOGw5dm9yZlF2SU1BLWhCY1VyQVFPQWhkdnFVdndfMzFj?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 06:21:00 GMT",
-        "summary": "삼성, TSMC 독주 흔드나…구글 TPU용 2나노 생산 논의 &nbsp;&nbsp; 네이트",
-        "outlet": "네이트",
-        "outletUrl": "https://news.nate.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google",
-          "TPU",
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "Google",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
-        "score": 31
       }
     ],
     "signals": {
@@ -6721,7 +6734,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI인프라",
-          25
+          26
         ],
         [
           "데이터센터",
@@ -6733,7 +6746,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "추론",
-          6
+          8
         ],
         [
           "AI에이전트",
@@ -6759,7 +6772,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "하이퍼엑셀",
-          1
+          2
         ],
         [
           "모빌린트",
@@ -6767,7 +6780,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          87
+          88
         ],
         [
           "Google",
@@ -6783,15 +6796,15 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "Samsung",
-          6
+          7
         ],
         [
           "DeepMind",
           5
         ],
         [
-          "AMD",
-          4
+          "Gemini",
+          5
         ]
       ]
     },
@@ -6876,7 +6889,70 @@ window.__DASHBOARD_DATA__ = {
         "kpi": "공공 워크로드 수, 서비스 가동률, 비용 절감률, GPU 대비 전력 절감률",
         "priority": "중"
       }
-    ]
+    ],
+    "review": {
+      "headline": "오늘 브리핑은 AI시장 신호가 가장 크고, 기술 축에서는 NPU 관련 흐름을 우선 봐야 합니다.",
+      "metrics": [
+        [
+          "AI시장",
+          45
+        ],
+        [
+          "NPU",
+          35
+        ],
+        [
+          "정책",
+          11
+        ],
+        [
+          "국내 기사",
+          97
+        ],
+        [
+          "해외 기사",
+          83
+        ]
+      ],
+      "sections": [
+        {
+          "title": "시사점",
+          "body": "AI 수요, 투자, 공급망 재편 기사가 기술 기사보다 넓게 잡히고 있습니다. 국내 NPU 정책은 단순 칩 개발보다 실제 AI서비스 수요와 데이터센터 운영비 절감 문제에 붙어야 설득력이 커집니다.",
+          "bullets": [
+            "NPU 신호는 예산기획에서 핵심 기술축으로 유지",
+            "시장 기사는 수요와 투자 논리를 만들고, 정책 기사는 집행 근거를 보강하는 용도로 분리 활용",
+            "모빌린트 노출은 제한적이므로 보도자료, 공시, 기업 블로그 등 보조 채널을 별도로 확인 필요"
+          ]
+        },
+        {
+          "title": "정부정책 방향",
+          "body": "비R&D 사업은 기술개발비보다 구매자 리스크를 줄이는 장치로 설계하는 편이 좋습니다. 수요기관이 성능, 가격, 전력효율, 보안성을 검증하고 실제 계약으로 넘어갈 수 있는 구조가 필요합니다.",
+          "bullets": [
+            "국산 NPU 실증 바우처와 구매전환 옵션을 한 패키지로 설계",
+            "공공 AI서비스, 보안·금융, 데이터센터 전력절감처럼 명확한 수요처부터 선별",
+            "기업별 지원보다 공동 성능검증, 조달 카탈로그, 가격비교 체계를 우선 구축"
+          ]
+        },
+        {
+          "title": "주의 신호",
+          "body": "시장 지표가 크게 흔들리지는 않지만 AI 인프라 투자 경쟁은 계속 비용 부담을 키우고 있습니다. 전력효율과 운영비 절감 근거를 정책 언어로 더 강하게 만들어야 합니다.",
+          "bullets": [
+            "해외 GPU·파운드리 공급망 이슈를 국산 NPU 도입 명분으로만 쓰지 말고 실제 대체 가능한 워크로드를 특정",
+            "기업 홍보성 기사와 실제 계약·매출 전환 기사를 분리해서 해석",
+            "정책 태그 기사는 사업공고·보도자료 중심으로 보고, 시장 태그 기사는 수요·투자·실적 근거로 활용"
+          ]
+        },
+        {
+          "title": "다음 액션",
+          "body": "우선 검토할 정책 아이템은 \"투자위축 대응형 구매확약·스케일업 보증\"입니다. 오늘 신호만 보면 신규 예산은 제품 개발보다 수요처 발굴, 실증 운영비, 성능검증, 구매전환 조건을 묶는 방향이 적합합니다.",
+          "bullets": [
+            "이번 주 내 5개 NPU 기업별 레퍼런스·고객·제품성숙도 표를 업데이트",
+            "시장 기사에서 나온 수요 분야를 공공 실증 후보 업무로 매핑",
+            "노출이 적은 기업은 기사 검색 외에 공식 채널과 투자·행사 자료를 별도 수집"
+          ]
+        }
+      ]
+    }
   },
   "sources": [
     {
@@ -6932,12 +7008,28 @@ window.__DASHBOARD_DATA__ = {
       "url": "https://news.google.com/rss/search?q=(%ED%95%98%EC%9D%B4%ED%8D%BC%EC%97%91%EC%85%80%20OR%20HyperAccel)%20(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20LLM%20OR%20%EC%B6%94%EB%A1%A0%20OR%20K-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84)&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
+      "label": "하이퍼엑셀 확장",
+      "url": "https://news.google.com/rss/search?q=(%ED%95%98%EC%9D%B4%ED%8D%BC%EC%97%91%EC%85%80%20OR%20HyperAccel%20OR%20HyperDex)&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "label": "HyperAccel global",
+      "url": "https://news.google.com/rss/search?q=(%22HyperAccel%22%20OR%20%22HyperDex%22%20OR%20%22Latency%20Processing%20Unit%22)&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
       "label": "딥엑스",
       "url": "https://news.google.com/rss/search?q=(%EB%94%A5%EC%97%91%EC%8A%A4%20OR%20DEEPX)%20(NPU%20OR%20%EC%98%A8%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20AI%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%97%A3%EC%A7%80AI%20OR%20K-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84)&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
       "label": "모빌린트",
       "url": "https://news.google.com/rss/search?q=(%EB%AA%A8%EB%B9%8C%EB%A6%B0%ED%8A%B8%20OR%20Mobilint)%20(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%97%90%EC%A7%80%20AI%20OR%20%EC%B6%94%EB%A1%A0%20OR%20K-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84)&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "label": "모빌린트 확장",
+      "url": "https://news.google.com/rss/search?q=%EB%AA%A8%EB%B9%8C%EB%A6%B0%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "label": "Mobilint global",
+      "url": "https://news.google.com/rss/search?q=Mobilint&hl=en-US&gl=US&ceid=US:en"
     },
     {
       "label": "국내 AI 시장",

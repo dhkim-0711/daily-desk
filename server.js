@@ -91,6 +91,18 @@ const newsQueries = [
     lang: "ko",
   },
   {
+    id: "hyperaccel-broad",
+    label: "하이퍼엑셀 확장",
+    query: "(하이퍼엑셀 OR HyperAccel OR HyperDex)",
+    lang: "ko",
+  },
+  {
+    id: "hyperaccel-global",
+    label: "HyperAccel global",
+    query: '("HyperAccel" OR "HyperDex" OR "Latency Processing Unit")',
+    lang: "en",
+  },
+  {
     id: "deepx",
     label: "딥엑스",
     query: "(딥엑스 OR DEEPX) (NPU OR 온디바이스 AI OR AI반도체 OR 인공지능 반도체 OR 엣지AI OR K-엔비디아)",
@@ -101,6 +113,18 @@ const newsQueries = [
     label: "모빌린트",
     query: "(모빌린트 OR Mobilint) (NPU OR AI반도체 OR 인공지능 반도체 OR 에지 AI OR 추론 OR K-엔비디아)",
     lang: "ko",
+  },
+  {
+    id: "mobilint-broad",
+    label: "모빌린트 확장",
+    query: "모빌린트",
+    lang: "ko",
+  },
+  {
+    id: "mobilint-global",
+    label: "Mobilint global",
+    query: "Mobilint",
+    lang: "en",
   },
   {
     id: "korea-ai-market",
@@ -690,11 +714,86 @@ function generatePolicyIdeas(articles, market) {
   return ideas.sort((a, b) => (a.priority === b.priority ? 0 : a.priority === "상" ? -1 : 1)).slice(0, 10);
 }
 
+function countByIssue(articles) {
+  const counts = new Map();
+  for (const article of articles) {
+    const key = article.issueCategory || "기타";
+    counts.set(key, (counts.get(key) || 0) + 1);
+  }
+  return [...counts.entries()].sort((a, b) => b[1] - a[1]);
+}
+
+function generateBriefingReview(articles, market, signals, policyIdeas) {
+  const issueCounts = countByIssue(articles);
+  const topIssue = issueCounts[0]?.[0] || "AI시장";
+  const topTech = signals.technologies.find(([, count]) => count > 0)?.[0] || "NPU";
+  const companySignals = Object.fromEntries(signals.companies);
+  const weakCompanies = ["하이퍼엑셀", "모빌린트"].filter((name) => (companySignals[name] || 0) <= 1);
+  const aiMarketCount = issueCounts.find(([key]) => key === "AI시장")?.[1] || 0;
+  const npuCount = issueCounts.find(([key]) => key === "NPU")?.[1] || 0;
+  const policyCount = issueCounts.find(([key]) => key === "정책")?.[1] || 0;
+  const semisWeak = market.indices.some((item) => /SOX|Semiconductor/i.test(`${item.symbol} ${item.name}`) && item.changePct < -1);
+  const headline = `오늘 브리핑은 ${topIssue} 신호가 가장 크고, 기술 축에서는 ${topTech} 관련 흐름을 우선 봐야 합니다.`;
+  return {
+    headline,
+    metrics: [
+      ["AI시장", aiMarketCount],
+      ["NPU", npuCount],
+      ["정책", policyCount],
+      ["국내 기사", articles.filter((article) => article.region === "domestic").length],
+      ["해외 기사", articles.filter((article) => article.region === "global").length],
+    ],
+    sections: [
+      {
+        title: "시사점",
+        body: aiMarketCount >= npuCount
+          ? "AI 수요, 투자, 공급망 재편 기사가 기술 기사보다 넓게 잡히고 있습니다. 국내 NPU 정책은 단순 칩 개발보다 실제 AI서비스 수요와 데이터센터 운영비 절감 문제에 붙어야 설득력이 커집니다."
+          : "국내 NPU 기업과 제품화 이슈가 강하게 잡힙니다. 이제 정책 초점은 연구개발보다 레퍼런스, 구매전환, 운영검증으로 이동해야 합니다.",
+        bullets: [
+          `${topTech} 신호는 예산기획에서 핵심 기술축으로 유지`,
+          "시장 기사는 수요와 투자 논리를 만들고, 정책 기사는 집행 근거를 보강하는 용도로 분리 활용",
+          weakCompanies.length ? `${weakCompanies.join(", ")} 노출은 제한적이므로 보도자료, 공시, 기업 블로그 등 보조 채널을 별도로 확인 필요` : "K-엔비디아 5개 기업 신호는 비교적 고르게 포착",
+        ],
+      },
+      {
+        title: "정부정책 방향",
+        body: "비R&D 사업은 기술개발비보다 구매자 리스크를 줄이는 장치로 설계하는 편이 좋습니다. 수요기관이 성능, 가격, 전력효율, 보안성을 검증하고 실제 계약으로 넘어갈 수 있는 구조가 필요합니다.",
+        bullets: [
+          "국산 NPU 실증 바우처와 구매전환 옵션을 한 패키지로 설계",
+          "공공 AI서비스, 보안·금융, 데이터센터 전력절감처럼 명확한 수요처부터 선별",
+          "기업별 지원보다 공동 성능검증, 조달 카탈로그, 가격비교 체계를 우선 구축",
+        ],
+      },
+      {
+        title: "주의 신호",
+        body: semisWeak
+          ? "반도체 지수 약세가 확인됩니다. 민간 투자심리가 약할 때는 정부 예산이 직접 보조보다 초기 구매확약, 보증, 수요연계 방식으로 설계되어야 합니다."
+          : "시장 지표가 크게 흔들리지는 않지만 AI 인프라 투자 경쟁은 계속 비용 부담을 키우고 있습니다. 전력효율과 운영비 절감 근거를 정책 언어로 더 강하게 만들어야 합니다.",
+        bullets: [
+          "해외 GPU·파운드리 공급망 이슈를 국산 NPU 도입 명분으로만 쓰지 말고 실제 대체 가능한 워크로드를 특정",
+          "기업 홍보성 기사와 실제 계약·매출 전환 기사를 분리해서 해석",
+          "정책 태그 기사는 사업공고·보도자료 중심으로 보고, 시장 태그 기사는 수요·투자·실적 근거로 활용",
+        ],
+      },
+      {
+        title: "다음 액션",
+        body: `우선 검토할 정책 아이템은 "${policyIdeas[0]?.title || "국산 NPU 수요연계 실증·구매전환 바우처"}"입니다. 오늘 신호만 보면 신규 예산은 제품 개발보다 수요처 발굴, 실증 운영비, 성능검증, 구매전환 조건을 묶는 방향이 적합합니다.`,
+        bullets: [
+          "이번 주 내 5개 NPU 기업별 레퍼런스·고객·제품성숙도 표를 업데이트",
+          "시장 기사에서 나온 수요 분야를 공공 실증 후보 업무로 매핑",
+          "노출이 적은 기업은 기사 검색 외에 공식 채널과 투자·행사 자료를 별도 수집",
+        ],
+      },
+    ],
+  };
+}
+
 function makeBriefing(news, market) {
   const articles = news.articles;
   const signals = topSignals(articles);
   const policyIdeas = generatePolicyIdeas(articles, market);
   const leadArticles = articles.slice(0, 10);
+  const review = generateBriefingReview(articles, market, signals, policyIdeas);
   return {
     date: new Intl.DateTimeFormat("ko-KR", { dateStyle: "full", timeZone: "Asia/Seoul" }).format(new Date()),
     summary: [
@@ -705,6 +804,7 @@ function makeBriefing(news, market) {
     leadArticles,
     signals,
     policyIdeas,
+    review,
   };
 }
 

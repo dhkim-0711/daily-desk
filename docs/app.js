@@ -567,6 +567,53 @@ function renderMarket(data) {
   $("#equityList").innerHTML = data.market.equities.map(marketCard).join("");
 }
 
+function fallbackReview(data) {
+  const signals = data.briefing.signals;
+  const topTech = signals.technologies.find(([, count]) => count > 0)?.[0] || "NPU";
+  return {
+    headline: `오늘 브리핑은 ${topTech}를 중심으로 정책 연결 가능성을 점검해야 합니다.`,
+    metrics: signals.technologies.slice(0, 5),
+    sections: [
+      {
+        title: "시사점",
+        body: "AI 시장 수요와 국내 NPU 기업의 사업화 이슈를 함께 봐야 합니다.",
+        bullets: ["기술개발보다 레퍼런스 확보가 중요", "시장 기사와 정책 기사를 분리해서 해석", "수요처 발굴형 비R&D 사업으로 연결"],
+      },
+      {
+        title: "정부정책 방향",
+        body: "구매자 리스크를 줄이는 실증, 검증, 조달 연계 프로그램이 필요합니다.",
+        bullets: ["실증 바우처", "성능검증 인증", "조달 카탈로그", "해외 PoC"],
+      },
+    ],
+  };
+}
+
+function renderReview(data) {
+  const review = data.briefing.review || fallbackReview(data);
+  $("#reviewPanel").innerHTML = `
+    <article class="review-hero">
+      <p class="eyebrow">오늘의 판단</p>
+      <h3>${escapeHtml(review.headline)}</h3>
+      <div class="review-metrics">
+        ${(review.metrics || []).map(([label, value]) => `
+          <span class="review-metric"><b>${escapeHtml(label)}</b>${escapeHtml(value)}</span>
+        `).join("")}
+      </div>
+    </article>
+    <div class="review-grid">
+      ${(review.sections || []).map((section) => `
+        <article class="review-card">
+          <h3>${escapeHtml(section.title)}</h3>
+          <p>${escapeHtml(section.body)}</p>
+          <ul>
+            ${(section.bullets || []).map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+          </ul>
+        </article>
+      `).join("")}
+    </div>
+  `;
+}
+
 function renderErrors(data) {
   if (!data.news.errors?.length) return;
   $("#issueList").insertAdjacentHTML(
@@ -585,6 +632,7 @@ function render() {
   renderIssues(data);
   renderPolicyIdeas(data);
   renderMarket(data);
+  renderReview(data);
   renderErrors(data);
 }
 
