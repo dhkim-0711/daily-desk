@@ -14,11 +14,14 @@ const $$ = (selector) => [...document.querySelectorAll(selector)];
 
 const issueOrder = [
   "정책",
-  "AI시장",
-  "AI에이전트",
-  "AI인프라",
-  "K-엔비디아",
   "NPU",
+  "AI인프라",
+  "데이터센터",
+  "온디바이스AI",
+  "인퍼런스",
+  "AI에이전트",
+  "AI시장",
+  "K-엔비디아",
   "리벨리온",
   "퓨리오사AI",
   "하이퍼엑셀",
@@ -26,8 +29,6 @@ const issueOrder = [
   "모빌린트",
   "NVIDIA",
   "Google",
-  "인퍼런스",
-  "온디바이스",
   "파운드리·패키징",
   "수출통제·공급망",
   "투자·M&A",
@@ -156,6 +157,10 @@ function issueName(article) {
   if (hit) return hit;
   const text = articleText(article);
   if (/리벨리온|퓨리오사|하이퍼엑셀|딥엑스|모빌린트|k-엔비디아/.test(text)) return "국내 NPU";
+  if (/npu|ai반도체|인공지능 반도체|신경망처리장치/.test(text)) return "NPU";
+  if (/datacenter|data center|데이터센터|rack|liquid cooling|냉각/.test(text)) return "데이터센터";
+  if (/ai infrastructure|ai compute|accelerated computing|클라우드|ai 컴퓨팅|가속 컴퓨팅/.test(text)) return "AI인프라";
+  if (/edge ai|on-device|온디바이스|ai pc|스마트폰|엣지/.test(text)) return "온디바이스AI";
   if (/ai market|ai adoption|생성형|인공지능 서비스|enterprise ai/.test(text)) return "AI시장";
   if (/정책|policy|export|subsidy|예산|조달|과기정통부|과학기술정보통신부|nipa|정보통신산업진흥원|iitp|정보통신기획평가원|보도자료|사업공고|지원사업|공모/.test(text)) return "정책";
   return article.source || "기타 이슈";

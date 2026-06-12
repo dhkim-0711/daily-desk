@@ -186,10 +186,11 @@ const keywordTaxonomy = [
   { key: "정책", terms: ["정책", "예산", "사업공고", "지원사업", "공모", "보도자료", "과기정통부", "과학기술정보통신부", "nipa", "정보통신산업진흥원", "iitp", "정보통신기획평가원"] },
   { key: "AI시장", terms: ["ai market", "ai adoption", "ai spending", "ai revenue", "enterprise ai", "생성형 ai", "인공지능 서비스"] },
   { key: "AI에이전트", terms: ["ai agent", "agentic ai", "에이전트", "agent"] },
-  { key: "AI인프라", terms: ["ai infrastructure", "ai datacenter", "datacenter", "data center", "cloud", "데이터센터", "클라우드"] },
+  { key: "AI인프라", terms: ["ai infrastructure", "ai compute", "accelerated computing", "cloud", "클라우드", "ai 컴퓨팅", "가속 컴퓨팅"] },
+  { key: "데이터센터", terms: ["ai datacenter", "datacenter", "data center", "데이터센터", "data centre", "rack", "랙", "liquid cooling", "냉각"] },
   { key: "NPU", terms: ["npu", "neural processing unit", "신경망처리장치", "ai반도체", "인공지능 반도체"] },
   { key: "인퍼런스", terms: ["inference", "serving", "llm inference", "추론"] },
-  { key: "온디바이스", terms: ["edge ai", "on-device", "ai pc", "smartphone", "device", "엣지", "온디바이스"] },
+  { key: "온디바이스AI", terms: ["edge ai", "on-device", "ai pc", "smartphone", "device", "엣지", "온디바이스", "온디바이스 ai"] },
   { key: "K-엔비디아", terms: ["k-엔비디아", "k-nvidia", "국산 npu", "국내 npu"] },
   { key: "리벨리온", terms: ["리벨리온", "rebellions"] },
   { key: "퓨리오사AI", terms: ["퓨리오사ai", "퓨리오사", "furiosaai", "furiosa"] },
@@ -205,6 +206,16 @@ const keywordTaxonomy = [
 ];
 
 let cache = new Map();
+
+const technologySignalOrder = [
+  "NPU",
+  "AI인프라",
+  "데이터센터",
+  "온디바이스AI",
+  "인퍼런스",
+  "AI에이전트",
+  "파운드리·패키징",
+];
 
 function sendJson(res, status, body) {
   res.writeHead(status, {
@@ -410,7 +421,7 @@ function topSignals(articles) {
     for (const key of article.taxonomyHits || []) counts.set(key, (counts.get(key) || 0) + 1);
     for (const company of article.companyHits || []) companyCounts.set(company, (companyCounts.get(company) || 0) + 1);
   }
-  for (const key of ["정책", "NPU", "K-엔비디아", "리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"]) {
+  for (const key of ["정책", ...technologySignalOrder, "K-엔비디아", "리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"]) {
     if (!counts.has(key)) counts.set(key, 0);
   }
   for (const key of ["리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"]) {
@@ -418,11 +429,7 @@ function topSignals(articles) {
   }
   const pinnedCompanies = ["리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"];
   return {
-    technologies: [...counts.entries()].sort((a, b) => {
-      const pinned = ["정책", "NPU", "K-엔비디아"];
-      const pinScore = pinned.includes(b[0]) - pinned.includes(a[0]);
-      return pinScore || b[1] - a[1];
-    }).slice(0, 12),
+    technologies: technologySignalOrder.map((key) => [key, counts.get(key) || 0]),
     companies: [...companyCounts.entries()].sort((a, b) => {
       const pinScore = pinnedCompanies.includes(b[0]) - pinnedCompanies.includes(a[0]);
       return pinScore || b[1] - a[1];
@@ -516,19 +523,19 @@ function generatePolicyIdeas(articles, market) {
     },
     {
       title: "온디바이스 AI 실증처 발굴 프로그램",
-      trigger: "온디바이스",
+      trigger: "온디바이스AI",
       budgetItem: "제조, 보안, 모빌리티, 의료기기 분야에서 국산 NPU 모듈을 적용할 수요처를 발굴하고 실증 운영비 지원",
       why: "데이터 외부 전송이 어렵거나 저전력이 중요한 분야는 국산 NPU가 차별화될 수 있는 초기 시장입니다.",
       kpi: "실증처 수, 제품 탑재 건수, 지연시간 개선, 전력 절감률",
-      priority: techKeys.has("온디바이스") ? "상" : "중",
+      priority: techKeys.has("온디바이스AI") ? "상" : "중",
     },
     {
       title: "국산 NPU 기반 AI 데이터센터 전력절감 실증",
-      trigger: "AI인프라",
+      trigger: "데이터센터",
       budgetItem: "공공·민간 데이터센터 일부 워크로드를 국산 NPU로 이전해 전력, 냉각, 비용 절감 효과를 검증",
       why: "AI 인프라 비용과 전력 문제가 커질수록 GPU 대체·보완재로서 국산 NPU의 정책 명분이 커집니다.",
       kpi: "전력 절감률, 랙당 처리량, 운영비 절감액, 전환 대상 워크로드 수",
-      priority: techKeys.has("AI인프라") ? "상" : "중",
+      priority: techKeys.has("데이터센터") || techKeys.has("AI인프라") ? "상" : "중",
     },
     {
       title: "AI컴퓨팅 공급망·수출통제 대응 컨설팅",
