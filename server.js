@@ -102,6 +102,30 @@ const newsQueries = [
     query: "(AI 반도체 OR 인공지능 반도체 OR 국가 AI OR AI 컴퓨팅 OR 데이터센터) (정책 OR 예산 OR 투자 OR 사업 OR 조달)",
     lang: "ko",
   },
+  {
+    id: "nipa-msit-policy",
+    label: "NIPA·과기정통부 정책",
+    query: "(NIPA OR 정보통신산업진흥원 OR 과기정통부 OR 과학기술정보통신부 OR IITP OR 정보통신기획평가원) (AI OR 인공지능 OR AI반도체 OR 인공지능반도체 OR NPU OR 데이터센터 OR 사업공고 OR 보도자료 OR 지원사업 OR 공모)",
+    lang: "ko",
+  },
+  {
+    id: "msit-ai-chip",
+    label: "과기정통부 AI반도체",
+    query: "과기정통부 AI 반도체 NPU 인공지능반도체",
+    lang: "ko",
+  },
+  {
+    id: "nipa-ai-chip",
+    label: "NIPA AI반도체",
+    query: "정보통신산업진흥원 NIPA AI반도체 NPU 지원사업 사업공고",
+    lang: "ko",
+  },
+  {
+    id: "ai-chip-public-program",
+    label: "AI반도체 공공사업",
+    query: "(AI반도체 OR 인공지능반도체 OR NPU OR K-엔비디아 OR 국산 AI반도체) (보도자료 OR 사업공고 OR 지원사업 OR 공모 OR 실증 OR 바우처 OR 조달 OR 과기정통부 OR NIPA)",
+    lang: "ko",
+  },
 ];
 
 const watchCompanies = [
@@ -122,7 +146,6 @@ const watchCompanies = [
   "TSMC",
   "Arm",
   "Samsung",
-  "SK hynix",
   "리벨리온",
   "Rebellions",
   "퓨리오사",
@@ -160,6 +183,7 @@ const indices = [
 ];
 
 const keywordTaxonomy = [
+  { key: "정책", terms: ["정책", "예산", "사업공고", "지원사업", "공모", "보도자료", "과기정통부", "과학기술정보통신부", "nipa", "정보통신산업진흥원", "iitp", "정보통신기획평가원"] },
   { key: "AI시장", terms: ["ai market", "ai adoption", "ai spending", "ai revenue", "enterprise ai", "생성형 ai", "인공지능 서비스"] },
   { key: "AI에이전트", terms: ["ai agent", "agentic ai", "에이전트", "agent"] },
   { key: "AI인프라", terms: ["ai infrastructure", "ai datacenter", "datacenter", "data center", "cloud", "데이터센터", "클라우드"] },
@@ -276,6 +300,7 @@ function scoreArticle(article) {
     .filter((group) => group.terms.some((term) => text.includes(term.toLowerCase())))
     .map((group) => group.key);
   const aiBoost = /\bai\b|artificial intelligence|인공지능|생성형|llm|agent|gpu|tpu|npu/i.test(text) ? 5 : 0;
+  const policyBoost = /nipa|정보통신산업진흥원|과기정통부|과학기술정보통신부|iitp|정보통신기획평가원|사업공고|지원사업|보도자료|공모/i.test(text) ? 10 : 0;
   const recency = article.publishedAt ? Math.max(0, 8 - Math.floor((Date.now() - Date.parse(article.publishedAt)) / 86400000)) : 0;
   const normalizeCompany = (hit) => ({
     Nvidia: "NVIDIA",
@@ -296,7 +321,7 @@ function scoreArticle(article) {
   return {
     companyHits: [...new Set(companyHits.map(normalizeCompany))],
     taxonomyHits: [...new Set(taxonomyHits)],
-    score: companyHits.length * 4 + taxonomyHits.length * 3 + aiBoost + recency,
+    score: companyHits.length * 4 + taxonomyHits.length * 3 + aiBoost + policyBoost + recency,
   };
 }
 
@@ -324,7 +349,7 @@ async function loadNews() {
   const errors = settled
     .map((result, index) => (result.status === "rejected" ? `${newsQueries[index].label}: ${result.reason.message}` : null))
     .filter(Boolean);
-  return { articles: dedupeArticles(articles).slice(0, 140), errors };
+  return { articles: dedupeArticles(articles).slice(0, 180), errors };
 }
 
 function finiteAt(values, index) {
@@ -385,7 +410,7 @@ function topSignals(articles) {
     for (const key of article.taxonomyHits || []) counts.set(key, (counts.get(key) || 0) + 1);
     for (const company of article.companyHits || []) companyCounts.set(company, (companyCounts.get(company) || 0) + 1);
   }
-  for (const key of ["NPU", "K-엔비디아", "리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"]) {
+  for (const key of ["정책", "NPU", "K-엔비디아", "리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"]) {
     if (!counts.has(key)) counts.set(key, 0);
   }
   for (const key of ["리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"]) {
@@ -394,7 +419,7 @@ function topSignals(articles) {
   const pinnedCompanies = ["리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"];
   return {
     technologies: [...counts.entries()].sort((a, b) => {
-      const pinned = ["NPU", "K-엔비디아"];
+      const pinned = ["정책", "NPU", "K-엔비디아"];
       const pinScore = pinned.includes(b[0]) - pinned.includes(a[0]);
       return pinScore || b[1] - a[1];
     }).slice(0, 12),

@@ -13,6 +13,7 @@ const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => [...document.querySelectorAll(selector)];
 
 const issueOrder = [
+  "정책",
   "AI시장",
   "AI에이전트",
   "AI인프라",
@@ -48,6 +49,10 @@ const searchAliases = {
   블랙웰: ["blackwell", "블랙웰", "nvidia", "엔비디아"],
   루빈: ["rubin", "루빈", "nvidia", "엔비디아"],
   쿠다: ["cuda", "쿠다", "nvidia", "엔비디아"],
+  과기정통부: ["과기정통부", "과학기술정보통신부", "msit", "정책", "보도자료"],
+  과학기술정보통신부: ["과학기술정보통신부", "과기정통부", "msit", "정책", "보도자료"],
+  nipa: ["nipa", "정보통신산업진흥원", "정책", "사업공고", "지원사업"],
+  정보통신산업진흥원: ["정보통신산업진흥원", "nipa", "정책", "사업공고", "지원사업"],
 };
 
 function escapeHtml(value = "") {
@@ -133,7 +138,7 @@ function articleMatches(article) {
   if (state.filter === "all") return true;
   if (state.filter === "domestic") return /국내|korea|리벨리온|퓨리오사|하이퍼엑셀|딥엑스|모빌린트|삼성|하이닉스|k-엔비디아/.test(haystack);
   if (state.filter === "global") return /해외|global|nvidia|엔비디아|google|구글|alphabet|알파벳|gemini|제미나이|deepmind|딥마인드|amd|broadcom|tsmc|arm|micron/.test(haystack);
-  if (state.filter === "policy") return /정책|policy|subsidy|export|수출|공급망|예산|사업|조달|규제/.test(haystack);
+  if (state.filter === "policy") return /정책|policy|subsidy|export|수출|공급망|예산|사업|조달|규제|과기정통부|과학기술정보통신부|nipa|정보통신산업진흥원|iitp|정보통신기획평가원|보도자료|사업공고|지원사업|공모/.test(haystack);
   if (state.filter === "market") return /시장|market|investment|funding|ipo|datacenter|데이터센터|투자|valuation|earnings|spending|revenue/.test(haystack);
   return true;
 }
@@ -152,7 +157,7 @@ function issueName(article) {
   const text = articleText(article);
   if (/리벨리온|퓨리오사|하이퍼엑셀|딥엑스|모빌린트|k-엔비디아/.test(text)) return "국내 NPU";
   if (/ai market|ai adoption|생성형|인공지능 서비스|enterprise ai/.test(text)) return "AI시장";
-  if (/정책|policy|export|subsidy|예산|조달/.test(text)) return "정책·제도";
+  if (/정책|policy|export|subsidy|예산|조달|과기정통부|과학기술정보통신부|nipa|정보통신산업진흥원|iitp|정보통신기획평가원|보도자료|사업공고|지원사업|공모/.test(text)) return "정책";
   return article.source || "기타 이슈";
 }
 
