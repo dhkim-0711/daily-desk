@@ -3,13 +3,26 @@ const state = {
   filter: "all",
   month: "all",
   date: "all",
+  tag: "",
   view: "briefing",
 };
 
 const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => [...document.querySelectorAll(selector)];
 
-const issueOrder = ["인퍼런스", "온디바이스", "데이터센터", "파운드리·공정", "수출통제·공급망", "투자·M&A", "공공조달·실증"];
+const issueOrder = [
+  "AI시장",
+  "AI에이전트",
+  "AI인프라",
+  "NVIDIA",
+  "Google",
+  "인퍼런스",
+  "온디바이스",
+  "파운드리·패키징",
+  "수출통제·공급망",
+  "투자·M&A",
+  "실증·조달",
+];
 
 function escapeHtml(value = "") {
   return String(value)
@@ -74,26 +87,33 @@ function formatPct(value) {
 function cleanSummary(text = "") {
   const normalized = text.replace(/\s+-\s+[^-]+$/, "").replace(/\s+/g, " ").trim();
   if (!normalized) return "요약문이 제공되지 않았습니다.";
-  return normalized.length > 150 ? `${normalized.slice(0, 150).trim()}...` : normalized;
+  return normalized.length > 170 ? `${normalized.slice(0, 170).trim()}...` : normalized;
+}
+
+function articleText(article) {
+  return `${article.source} ${article.title} ${article.summary} ${(article.taxonomyHits || []).join(" ")} ${(article.companyHits || []).join(" ")}`.toLowerCase();
 }
 
 function articleMatches(article) {
-  const haystack = `${article.source} ${article.title} ${article.summary} ${(article.taxonomyHits || []).join(" ")} ${(article.companyHits || []).join(" ")}`.toLowerCase();
+  const haystack = articleText(article);
   if (state.month !== "all" && monthKey(article.publishedAt) !== state.month) return false;
   if (state.date !== "all" && dayKey(article.publishedAt) !== state.date) return false;
+  if (state.tag && !haystack.includes(state.tag.toLowerCase())) return false;
   if (state.filter === "all") return true;
   if (state.filter === "domestic") return /국내|korea|리벨리온|퓨리오사|하이퍼엑셀|딥엑스|모빌린트|삼성|하이닉스|k-엔비디아/.test(haystack);
-  if (state.filter === "global") return /해외|global|nvidia|google|amd|broadcom|tsmc|arm|alphabet|micron/.test(haystack);
+  if (state.filter === "global") return /해외|global|nvidia|google|alphabet|gemini|deepmind|amd|broadcom|tsmc|arm|micron/.test(haystack);
   if (state.filter === "policy") return /정책|policy|subsidy|export|수출|공급망|예산|사업|조달|규제/.test(haystack);
-  if (state.filter === "market") return /시장|market|investment|funding|ipo|datacenter|데이터센터|투자|valuation|earnings/.test(haystack);
+  if (state.filter === "market") return /시장|market|investment|funding|ipo|datacenter|데이터센터|투자|valuation|earnings|spending|revenue/.test(haystack);
   return true;
 }
 
 function issueName(article) {
   const hit = (article.taxonomyHits || []).find((item) => issueOrder.includes(item));
   if (hit) return hit;
-  if (/국내|리벨리온|퓨리오사|하이퍼엑셀|딥엑스|모빌린트|K-엔비디아/.test(article.source + article.title)) return "국내 NPU";
-  if (/정책|policy|export|subsidy|예산|조달/.test(`${article.source} ${article.title} ${article.summary}`.toLowerCase())) return "정책·제도";
+  const text = articleText(article);
+  if (/리벨리온|퓨리오사|하이퍼엑셀|딥엑스|모빌린트|k-엔비디아/.test(text)) return "국내 NPU";
+  if (/ai market|ai adoption|생성형|인공지능 서비스|enterprise ai/.test(text)) return "AI시장";
+  if (/정책|policy|export|subsidy|예산|조달/.test(text)) return "정책·제도";
   return article.source || "기타 이슈";
 }
 
@@ -113,10 +133,27 @@ function groupByIssue(articles) {
     .sort((a, b) => b.score - a.score || b.items.length - a.items.length);
 }
 
+function tagButton(label, count, variant = "") {
+  const active = state.tag.toLowerCase() === String(label).toLowerCase();
+  return `
+    <button class="chip tag-chip ${variant} ${active ? "active" : ""}" type="button" data-tag="${escapeHtml(label)}">
+      ${escapeHtml(label)}${Number.isFinite(count) ? ` <b>${count}</b>` : ""}
+    </button>
+  `;
+}
+
 function renderChips(container, entries, limit = 8) {
   container.innerHTML = entries?.length
-    ? entries.slice(0, limit).map(([label, count]) => `<span class="chip">${escapeHtml(label)} <b>${count}</b></span>`).join("")
+    ? entries.slice(0, limit).map(([label, count]) => tagButton(label, count)).join("")
     : `<span class="muted-text">신호 없음</span>`;
+}
+
+function renderActiveTag() {
+  const container = $("#activeTag");
+  if (!container) return;
+  container.innerHTML = state.tag
+    ? `<button class="active-tag" type="button" id="clearTagBtn">태그 검색: ${escapeHtml(state.tag)} ×</button>`
+    : `<span class="muted-text">핵심신호 태그를 누르면 관련 이슈만 볼 수 있습니다.</span>`;
 }
 
 function renderBriefing(data) {
@@ -130,8 +167,8 @@ function renderBriefing(data) {
   $("#summaryList").innerHTML = summary.slice(0, 3).map((item) => `
     <div class="brief-line">${escapeHtml(item)}</div>
   `).join("");
-  renderChips($("#techSignals"), data.briefing.signals.technologies, 6);
-  renderChips($("#companySignals"), data.briefing.signals.companies, 6);
+  renderChips($("#techSignals"), data.briefing.signals.technologies, 8);
+  renderChips($("#companySignals"), data.briefing.signals.companies, 8);
 }
 
 function renderSelectors(data) {
@@ -156,10 +193,10 @@ function renderSelectors(data) {
 
 function renderIssues(data) {
   const articles = data.news.articles.filter(articleMatches);
-  const groups = groupByIssue(articles).slice(0, 10);
+  const groups = groupByIssue(articles).slice(0, 12);
   $("#issueList").innerHTML = groups.length
     ? groups.map((group) => {
-        const topTags = [...new Set(group.items.flatMap((item) => [...(item.taxonomyHits || []), ...(item.companyHits || [])]))].slice(0, 7);
+        const topTags = [...new Set(group.items.flatMap((item) => [...(item.taxonomyHits || []), ...(item.companyHits || [])]))].slice(0, 8);
         const lead = group.items[0];
         return `
           <article class="issue-card">
@@ -168,11 +205,11 @@ function renderIssues(data) {
                 <p class="issue-date">${dayLabel(dayKey(lead.publishedAt))} · 기사 ${group.items.length}건</p>
                 <h3>${escapeHtml(group.name)}</h3>
               </div>
-              <div class="chips">${topTags.map((tag) => `<span class="chip pale">${escapeHtml(tag)}</span>`).join("")}</div>
+              <div class="chips">${topTags.map((tag) => tagButton(tag, null, "pale")).join("")}</div>
             </div>
             <p class="issue-summary">${escapeHtml(cleanSummary(lead.summary))}</p>
             <div class="article-stack">
-              ${group.items.slice(0, 5).map((article) => `
+              ${group.items.slice(0, 6).map((article) => `
                 <a class="article-row" href="${article.link}" target="_blank" rel="noreferrer">
                   <span class="article-title">${escapeHtml(article.title)}</span>
                   <span class="article-meta">${escapeHtml(article.outlet)} · ${formatDate(article.publishedAt, { short: true })}</span>
@@ -192,34 +229,51 @@ function renderPolicyIdeas(data) {
         <h3>${escapeHtml(idea.title)}</h3>
         <span class="priority">우선순위 ${escapeHtml(idea.priority)}</span>
       </div>
-      <p><strong>예산화</strong>${escapeHtml(idea.budgetItem)}</p>
-      <p><strong>근거</strong>${escapeHtml(idea.why)}</p>
-      <p><strong>KPI</strong>${escapeHtml(idea.kpi)}</p>
+      <p><strong>비R&D 예산화</strong>${escapeHtml(idea.budgetItem)}</p>
+      <p><strong>추진 근거</strong>${escapeHtml(idea.why)}</p>
+      <p><strong>관리 KPI</strong>${escapeHtml(idea.kpi)}</p>
     </article>
   `).join("");
 }
 
-function sparkline(values = []) {
-  const points = values.filter(Number.isFinite);
-  if (points.length < 2) return `<div class="spark empty-spark"></div>`;
-  const min = Math.min(...points);
-  const max = Math.max(...points);
+function candleChart(candles = []) {
+  const data = candles.slice(-20);
+  if (data.length < 2) return `<div class="candle-chart empty-spark"></div>`;
+  const highs = data.map((item) => item.high);
+  const lows = data.map((item) => item.low);
+  const max = Math.max(...highs);
+  const min = Math.min(...lows);
   const range = max - min || 1;
-  const coords = points.map((value, index) => {
-    const x = (index / (points.length - 1)) * 100;
-    const y = 34 - ((value - min) / range) * 28;
-    return `${x.toFixed(2)},${y.toFixed(2)}`;
-  }).join(" ");
+  const width = 180;
+  const height = 76;
+  const slot = width / data.length;
+  const bodyWidth = Math.max(3, Math.min(7, slot * 0.52));
+  const y = (value) => height - 8 - ((value - min) / range) * (height - 16);
+  const candlesSvg = data.map((item, index) => {
+    const x = index * slot + slot / 2;
+    const openY = y(item.open);
+    const closeY = y(item.close);
+    const highY = y(item.high);
+    const lowY = y(item.low);
+    const up = item.close >= item.open;
+    const color = up ? "var(--green)" : "var(--red)";
+    const bodyY = Math.min(openY, closeY);
+    const bodyH = Math.max(2, Math.abs(closeY - openY));
+    return `
+      <line x1="${x.toFixed(2)}" y1="${highY.toFixed(2)}" x2="${x.toFixed(2)}" y2="${lowY.toFixed(2)}" stroke="${color}" stroke-width="1.2"></line>
+      <rect x="${(x - bodyWidth / 2).toFixed(2)}" y="${bodyY.toFixed(2)}" width="${bodyWidth.toFixed(2)}" height="${bodyH.toFixed(2)}" rx="1" fill="${color}"></rect>
+    `;
+  }).join("");
   return `
-    <svg class="spark" viewBox="0 0 100 40" preserveAspectRatio="none" aria-hidden="true">
-      <polyline points="${coords}" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></polyline>
+    <svg class="candle-chart" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none" aria-label="최근 20거래일 일봉 차트">
+      <line x1="0" y1="${height - 8}" x2="${width}" y2="${height - 8}" stroke="#d9e0e8" stroke-width="1"></line>
+      ${candlesSvg}
     </svg>
   `;
 }
 
 function marketCard(item) {
   const trendClass = item.changePct > 0 ? "up" : item.changePct < 0 ? "down" : "";
-  const series = item.closes || [];
   return `
     <article class="market-card ${trendClass}">
       <div class="market-top">
@@ -229,10 +283,10 @@ function marketCard(item) {
         </div>
         <strong>${item.error ? "-" : formatPct(item.changePct)}</strong>
       </div>
-      ${sparkline(series)}
+      ${candleChart(item.candles || [])}
       <div class="market-bottom">
         <span>${item.error ? "수집 실패" : formatNumber(item.price, item.currency)}</span>
-        <small>${item.error ? escapeHtml(item.error) : "최근 5거래일"}</small>
+        <small>${item.error ? escapeHtml(item.error) : "최근 20거래일 일봉"}</small>
       </div>
     </article>
   `;
@@ -256,6 +310,7 @@ function render() {
   if (!data) return;
   $("#updatedAt").textContent = `갱신 ${formatDate(data.generatedAt, { time: true })}`;
   renderSelectors(data);
+  renderActiveTag();
   renderBriefing(data);
   renderIssues(data);
   renderPolicyIdeas(data);
@@ -287,6 +342,22 @@ async function loadDashboard(force = false) {
     $("#refreshBtn").textContent = "새로고침";
   }
 }
+
+document.addEventListener("click", (event) => {
+  const tag = event.target.closest("[data-tag]");
+  if (tag) {
+    state.tag = tag.dataset.tag;
+    state.view = "briefing";
+    $$(".view-tab").forEach((item) => item.classList.toggle("active", item.dataset.view === "briefing"));
+    $$(".view").forEach((view) => view.classList.toggle("active", view.id === "briefingView"));
+    render();
+    return;
+  }
+  if (event.target.closest("#clearTagBtn")) {
+    state.tag = "";
+    render();
+  }
+});
 
 $$(".view-tab").forEach((button) => {
   button.addEventListener("click", () => {

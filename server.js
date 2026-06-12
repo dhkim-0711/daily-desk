@@ -13,15 +13,39 @@ const CACHE_MS = 1000 * 60 * 20;
 
 const newsQueries = [
   {
+    id: "ai-market-global",
+    label: "AI 시장 전체",
+    query: '("AI market" OR "generative AI" OR "AI adoption" OR "AI revenue" OR "AI spending" OR "AI infrastructure")',
+    lang: "en",
+  },
+  {
+    id: "ai-agents-cloud",
+    label: "AI 서비스·클라우드",
+    query: '("AI agent" OR "enterprise AI" OR "AI cloud" OR "AI datacenter" OR "LLM inference" OR "AI search")',
+    lang: "en",
+  },
+  {
+    id: "nvidia-ai",
+    label: "NVIDIA 이슈",
+    query: '(NVIDIA OR Nvidia) (AI OR GPU OR Blackwell OR Rubin OR "AI chip" OR datacenter OR inference)',
+    lang: "en",
+  },
+  {
+    id: "google-ai",
+    label: "Google AI 이슈",
+    query: '(Google OR Alphabet OR Gemini OR TPU OR DeepMind) (AI OR "AI chip" OR datacenter OR cloud OR inference)',
+    lang: "en",
+  },
+  {
     id: "global-ai-chip",
     label: "해외 AI반도체",
-    query: '("AI chip" OR NPU OR "AI accelerator" OR "inference chip") (NVIDIA OR Google OR AMD OR Broadcom OR TSMC OR Arm)',
+    query: '("AI chip" OR NPU OR "AI accelerator" OR "inference chip") (AMD OR Broadcom OR TSMC OR Arm OR Samsung OR SK hynix)',
     lang: "en",
   },
   {
     id: "global-policy",
     label: "해외 정책·투자",
-    query: '("AI semiconductor" OR "advanced chips") (policy OR subsidy OR export OR fab OR datacenter OR sovereign AI)',
+    query: '("AI semiconductor" OR "advanced chips" OR "AI infrastructure") (policy OR subsidy OR export OR investment OR sovereign AI)',
     lang: "en",
   },
   {
@@ -31,22 +55,27 @@ const newsQueries = [
     lang: "ko",
   },
   {
-    id: "ai-market",
-    label: "AI 시장·수요",
-    query: '("generative AI" OR "AI datacenter" OR "edge AI" OR "AI PC" OR "on-device AI" OR "LLM inference") semiconductor',
-    lang: "en",
+    id: "korea-ai-market",
+    label: "국내 AI 시장",
+    query: "(생성형 AI OR AI 에이전트 OR 인공지능 서비스 OR AI 데이터센터 OR 온디바이스 AI OR AI 반도체)",
+    lang: "ko",
   },
   {
     id: "korea-ai-policy",
     label: "국내 AI 정책",
-    query: "(AI 반도체 OR 인공지능 반도체 OR 온디바이스 AI OR 데이터센터 OR 국가 AI) (정책 OR 예산 OR 투자 OR 사업)",
+    query: "(AI 반도체 OR 인공지능 반도체 OR 국가 AI OR AI 컴퓨팅 OR 데이터센터) (정책 OR 예산 OR 투자 OR 사업 OR 조달)",
     lang: "ko",
   },
 ];
 
 const watchCompanies = [
   "NVIDIA",
+  "Nvidia",
   "Google",
+  "Alphabet",
+  "Gemini",
+  "DeepMind",
+  "TPU",
   "AMD",
   "Broadcom",
   "TSMC",
@@ -55,6 +84,7 @@ const watchCompanies = [
   "SK hynix",
   "리벨리온",
   "퓨리오사",
+  "퓨리오사AI",
   "하이퍼엑셀",
   "딥엑스",
   "모빌린트",
@@ -83,13 +113,17 @@ const indices = [
 ];
 
 const keywordTaxonomy = [
-  { key: "인퍼런스", terms: ["inference", "추론", "serving", "inference chip", "LLM inference"] },
-  { key: "온디바이스", terms: ["edge AI", "on-device", "AI PC", "smartphone", "device", "엣지", "온디바이스"] },
-  { key: "데이터센터", terms: ["datacenter", "data center", "rack", "HBM", "liquid cooling", "데이터센터", "전력"] },
-  { key: "파운드리·공정", terms: ["TSMC", "Samsung Foundry", "process", "packaging", "advanced packaging", "CoWoS", "파운드리", "패키징"] },
-  { key: "수출통제·공급망", terms: ["export control", "sanction", "supply chain", "China", "sovereign", "수출통제", "공급망"] },
-  { key: "투자·M&A", terms: ["funding", "investment", "valuation", "IPO", "acquisition", "투자", "상장", "인수"] },
-  { key: "공공조달·실증", terms: ["procurement", "pilot", "deployment", "PoC", "실증", "조달", "레퍼런스"] },
+  { key: "AI시장", terms: ["ai market", "ai adoption", "ai spending", "ai revenue", "enterprise ai", "생성형 ai", "인공지능 서비스"] },
+  { key: "AI에이전트", terms: ["ai agent", "agentic ai", "에이전트", "agent"] },
+  { key: "AI인프라", terms: ["ai infrastructure", "ai datacenter", "datacenter", "data center", "cloud", "데이터센터", "클라우드"] },
+  { key: "인퍼런스", terms: ["inference", "serving", "llm inference", "추론"] },
+  { key: "온디바이스", terms: ["edge ai", "on-device", "ai pc", "smartphone", "device", "엣지", "온디바이스"] },
+  { key: "NVIDIA", terms: ["nvidia", "blackwell", "rubin", "cuda"] },
+  { key: "Google", terms: ["google", "alphabet", "gemini", "deepmind", "tpu"] },
+  { key: "파운드리·패키징", terms: ["tsmc", "samsung foundry", "process", "packaging", "advanced packaging", "cowos", "파운드리", "패키징"] },
+  { key: "수출통제·공급망", terms: ["export control", "sanction", "supply chain", "china", "sovereign", "수출통제", "공급망"] },
+  { key: "투자·M&A", terms: ["funding", "investment", "valuation", "ipo", "acquisition", "투자", "상장", "인수"] },
+  { key: "실증·조달", terms: ["procurement", "pilot", "deployment", "poc", "실증", "조달", "레퍼런스"] },
 ];
 
 let cache = new Map();
@@ -100,15 +134,6 @@ function sendJson(res, status, body) {
     "cache-control": "no-store",
   });
   res.end(JSON.stringify(body, null, 2));
-}
-
-function escapeHtml(value = "") {
-  return String(value)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
 }
 
 function decodeEntities(value = "") {
@@ -122,7 +147,7 @@ function decodeEntities(value = "") {
 }
 
 function stripTags(value = "") {
-  return decodeEntities(String(value).replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim());
+  return decodeEntities(String(value)).replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
 }
 
 function googleNewsUrl({ query, lang }) {
@@ -191,16 +216,17 @@ function parseRss(xml, source) {
 }
 
 function scoreArticle(article) {
-  const text = `${article.title} ${article.summary}`.toLowerCase();
+  const text = `${article.title} ${article.summary} ${article.source}`.toLowerCase();
   const companyHits = watchCompanies.filter((company) => text.includes(company.toLowerCase()));
   const taxonomyHits = keywordTaxonomy
     .filter((group) => group.terms.some((term) => text.includes(term.toLowerCase())))
     .map((group) => group.key);
-  const recency = article.publishedAt ? Math.max(0, 6 - Math.floor((Date.now() - Date.parse(article.publishedAt)) / 86400000)) : 0;
+  const aiBoost = /\bai\b|artificial intelligence|인공지능|생성형|llm|agent|gpu|tpu|npu/i.test(text) ? 5 : 0;
+  const recency = article.publishedAt ? Math.max(0, 8 - Math.floor((Date.now() - Date.parse(article.publishedAt)) / 86400000)) : 0;
   return {
-    companyHits,
-    taxonomyHits,
-    score: companyHits.length * 4 + taxonomyHits.length * 3 + recency,
+    companyHits: [...new Set(companyHits.map((hit) => (hit === "Nvidia" ? "NVIDIA" : hit)))],
+    taxonomyHits: [...new Set(taxonomyHits)],
+    score: companyHits.length * 4 + taxonomyHits.length * 3 + aiBoost + recency,
   };
 }
 
@@ -228,16 +254,31 @@ async function loadNews() {
   const errors = settled
     .map((result, index) => (result.status === "rejected" ? `${newsQueries[index].label}: ${result.reason.message}` : null))
     .filter(Boolean);
-  return { articles: dedupeArticles(articles).slice(0, 80), errors };
+  return { articles: dedupeArticles(articles).slice(0, 140), errors };
+}
+
+function finiteAt(values, index) {
+  const value = values?.[index];
+  return Number.isFinite(value) ? value : null;
 }
 
 async function quote(symbol) {
-  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?range=5d&interval=1d`;
+  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?range=1mo&interval=1d`;
   const data = JSON.parse(await fetchText(url));
   const result = data.chart?.result?.[0];
   const meta = result?.meta;
   const timestamps = result?.timestamp || [];
-  const closes = result?.indicators?.quote?.[0]?.close?.filter((value) => Number.isFinite(value)) || [];
+  const q = result?.indicators?.quote?.[0] || {};
+  const candles = timestamps
+    .map((timestamp, index) => ({
+      date: new Date(timestamp * 1000).toISOString(),
+      open: finiteAt(q.open, index),
+      high: finiteAt(q.high, index),
+      low: finiteAt(q.low, index),
+      close: finiteAt(q.close, index),
+    }))
+    .filter((candle) => [candle.open, candle.high, candle.low, candle.close].every(Number.isFinite));
+  const closes = candles.map((candle) => candle.close);
   const latest = meta?.regularMarketPrice ?? closes.at(-1);
   const previous = meta?.chartPreviousClose ?? closes.at(-2);
   const changePct = latest && previous ? ((latest - previous) / previous) * 100 : null;
@@ -249,7 +290,7 @@ async function quote(symbol) {
     previousClose: previous ?? null,
     marketTime: meta?.regularMarketTime ? new Date(meta.regularMarketTime * 1000).toISOString() : null,
     closes,
-    dates: timestamps.map((value) => new Date(value * 1000).toISOString()),
+    candles,
   };
 }
 
@@ -271,12 +312,12 @@ function topSignals(articles) {
   const counts = new Map();
   const companyCounts = new Map();
   for (const article of articles) {
-    for (const key of article.taxonomyHits) counts.set(key, (counts.get(key) || 0) + 1);
-    for (const company of article.companyHits) companyCounts.set(company, (companyCounts.get(company) || 0) + 1);
+    for (const key of article.taxonomyHits || []) counts.set(key, (counts.get(key) || 0) + 1);
+    for (const company of article.companyHits || []) companyCounts.set(company, (companyCounts.get(company) || 0) + 1);
   }
   return {
-    technologies: [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 7),
-    companies: [...companyCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8),
+    technologies: [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10),
+    companies: [...companyCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10),
   };
 }
 
@@ -285,71 +326,79 @@ function generatePolicyIdeas(articles, market) {
   const techKeys = new Set(signals.technologies.map(([key]) => key));
   const ideas = [
     {
-      title: "국산 NPU 레퍼런스 확보형 공공 AI 추론 바우처",
-      trigger: "공공조달·실증",
-      budgetItem: "공공·민간 수요기관이 국산 NPU 기반 추론 서비스를 구매하면 클라우드 사용료와 전환 비용을 지원",
-      why: "국내 팹리스의 가장 큰 병목은 칩 성능 홍보가 아니라 운영 레퍼런스와 소프트웨어 검증 데이터입니다.",
-      kpi: "국산 NPU 상용 추론 워크로드 30건, 월간 토큰 처리량, 전력당 처리성능, 고객 재구매율",
-      priority: techKeys.has("공공조달·실증") || techKeys.has("인퍼런스") ? "상" : "중",
+      title: "국산 NPU 수요연계 실증·구매전환 바우처",
+      trigger: "실증·조달",
+      budgetItem: "비R&D 성격으로 수요기관의 PoC 비용, 클라우드 전환비, 성능검증, 초기 구매비를 패키지로 지원",
+      why: "국내 NPU 기업은 기술개발 이후 레퍼런스, 구매사례, 운영검증이 부족해 매출 전환이 지연됩니다.",
+      kpi: "유료 전환 PoC 수, 구매계약 금액, 국산 NPU 사용 시간, 고객 재구매율",
+      priority: techKeys.has("실증·조달") || techKeys.has("인퍼런스") ? "상" : "중",
     },
     {
-      title: "K-NPU 소프트웨어 스택 상호운용성 사업",
-      trigger: "인퍼런스",
-      budgetItem: "컴파일러, 런타임, 모델 최적화, 벤치마크를 공동 레이어로 구축하고 기업별 SDK 차이를 흡수",
-      why: "칩 자체보다 개발자 전환 비용이 시장 진입을 늦춥니다. 공통 도구와 검증 체계가 생태계 확장의 지렛대입니다.",
-      kpi: "지원 모델 수, ONNX/PyTorch 변환 성공률, 개발자 온보딩 시간, 벤치마크 공개 횟수",
-      priority: techKeys.has("인퍼런스") ? "상" : "중",
+      title: "AI 서비스 기업·NPU 기업 매칭형 마켓플레이스",
+      trigger: "AI시장",
+      budgetItem: "AI 서비스·SaaS·SI 기업이 국산 NPU에서 모델을 시험하고 견적을 비교할 수 있는 중개 플랫폼 운영",
+      why: "비R&D 사업은 기술 자체보다 수요 발굴과 거래비용 절감이 중요합니다. 시장 접점을 만들면 기업 간 매칭 속도가 올라갑니다.",
+      kpi: "등록 수요기업 수, 매칭 건수, PoC 전환율, 상용 계약 전환율",
+      priority: techKeys.has("AI시장") || techKeys.has("AI에이전트") ? "상" : "중",
     },
     {
-      title: "온디바이스 AI 실증 패키지",
-      trigger: "온디바이스",
-      budgetItem: "제조·모빌리티·보안·의료기기 분야에 저전력 NPU 모듈, 모델 경량화, 인증 컨설팅을 묶어 지원",
-      why: "데이터 주권, 지연시간, 전력 이슈가 커질수록 국내 NPU가 글로벌 GPU와 다른 시장을 만들 수 있습니다.",
-      kpi: "제품 탑재 건수, 배터리 사용시간 개선, 지연시간, 개인정보 외부 전송 감소율",
-      priority: techKeys.has("온디바이스") ? "상" : "중",
+      title: "국산 AI컴퓨팅 성능·전력 검증 인증제",
+      trigger: "AI인프라",
+      budgetItem: "민간 시험기관과 연계해 추론 성능, 전력효율, 호환성, 보안성을 검증하고 인증마크를 부여",
+      why: "구매자는 칩 홍보자료보다 제3자 검증 데이터를 요구합니다. 인증 체계는 조달·금융·해외진출의 공통 근거가 됩니다.",
+      kpi: "인증 제품 수, 공개 벤치마크 수, 조달 등록 건수, 인증 기반 계약 금액",
+      priority: techKeys.has("AI인프라") || techKeys.has("NVIDIA") ? "상" : "중",
     },
     {
-      title: "AI반도체 패키징·HBM 연계 테스트베드",
-      trigger: "파운드리·공정",
-      budgetItem: "국내 메모리·패키징·EDA 역량과 NPU 팹리스를 묶는 MPW, 패키징, 신뢰성 평가 지원",
-      why: "차세대 AI반도체 경쟁은 칩 설계와 메모리 대역폭, 패키징, 전력·열 설계가 함께 움직입니다.",
-      kpi: "시제품 tape-out, 패키징 수율, HBM 연동 성능, 해외 고객 평가 진입 건수",
-      priority: techKeys.has("파운드리·공정") || techKeys.has("데이터센터") ? "상" : "중",
+      title: "공공 AI서비스 국산 NPU 우선 실증 트랙",
+      trigger: "공공 실증",
+      budgetItem: "민원, 문서요약, 보안관제, 제조안전 등 공공 AI서비스에 국산 NPU 적용 가능성을 평가하는 운영비 지원",
+      why: "공공 부문은 초기 레퍼런스 시장을 열 수 있습니다. 단순 R&D 과제가 아니라 운영 워크로드 확보에 초점을 둬야 합니다.",
+      kpi: "공공 워크로드 수, 서비스 가동률, 비용 절감률, GPU 대비 전력 절감률",
+      priority: techKeys.has("실증·조달") ? "상" : "중",
     },
     {
-      title: "수출통제 대응형 AI컴퓨팅 주권 과제",
+      title: "K-NPU 해외 PoC·전시·파트너링 지원",
+      trigger: "글로벌 진출",
+      budgetItem: "해외 클라우드·디바이스·AI서비스 파트너 대상 데모 환경, 현지 PoC, 전시회 공동관, 법무·계약 컨설팅 지원",
+      why: "국내 시장만으로는 스케일업이 어렵습니다. 비R&D 예산은 해외 고객 접점과 신뢰 확보에 쓰일 때 효과가 큽니다.",
+      kpi: "해외 PoC 수, 파트너 MOU, 수출계약 금액, 후속 투자 유치",
+      priority: techKeys.has("투자·M&A") || techKeys.has("Google") ? "상" : "중",
+    },
+    {
+      title: "AI컴퓨팅 공급망·수출통제 대응 컨설팅",
       trigger: "수출통제·공급망",
-      budgetItem: "제재·공급망 리스크 시나리오별 대체 칩, 국내 클라우드, 공공 필수 AI서비스 운영계획 수립",
-      why: "글로벌 고성능 GPU 접근성이 정책 리스크가 되면 국산 AI컴퓨팅 역량은 산업정책이자 안보정책이 됩니다.",
-      kpi: "필수 서비스별 대체 가능성, 국산 칩 전환 기간, 공급망 리스크 지표, 공공 클라우드 적용 건수",
+      budgetItem: "국내 NPU 기업과 수요기업에 수출통제, 클라우드 리전, 보안인증, 공급망 리스크 컨설팅을 제공",
+      why: "글로벌 GPU 접근성과 수출통제 리스크가 커질수록 국산 AI컴퓨팅 도입의 정책 명분이 커집니다.",
+      kpi: "컨설팅 기업 수, 리스크 진단 보고서, 대체 도입 계획, 규제 대응 완료 건수",
       priority: techKeys.has("수출통제·공급망") ? "상" : "중",
     },
   ];
   const weakMarket = market.equities.some((item) => item.changePct < -3);
   if (weakMarket) {
     ideas.unshift({
-      title: "시장 변동성 대응형 스케일업 금융·구매확약",
-      trigger: "시장 급락",
-      budgetItem: "민간 투자 위축기에 R&D 후속자금, 선구매, 조건부 구매확약을 결합해 성장 공백을 방지",
-      why: "상장 빅테크·반도체주의 변동성이 커지면 비상장 팹리스의 투자 유치와 고객 PoC도 지연될 수 있습니다.",
-      kpi: "후속투자 유치, 구매확약 금액, 고용 유지, 해외 PoC 지속률",
+      title: "투자위축 대응형 구매확약·스케일업 보증",
+      trigger: "시장 변동성",
+      budgetItem: "비R&D 금융·판로 사업으로 구매확약, 보증, 레퍼런스 확보를 묶어 민간 투자 공백을 완화",
+      why: "AI·반도체 주가 변동성이 커지면 비상장 팹리스의 투자 유치와 고객 PoC가 동시에 지연될 수 있습니다.",
+      kpi: "구매확약 금액, 보증 연계 금액, 후속 투자 유치, 고용 유지",
       priority: "상",
     });
   }
-  return ideas.sort((a, b) => (a.priority === b.priority ? 0 : a.priority === "상" ? -1 : 1)).slice(0, 5);
+  return ideas.sort((a, b) => (a.priority === b.priority ? 0 : a.priority === "상" ? -1 : 1)).slice(0, 6);
 }
 
 function makeBriefing(news, market) {
   const articles = news.articles;
   const signals = topSignals(articles);
   const policyIdeas = generatePolicyIdeas(articles, market);
-  const leadArticles = articles.slice(0, 8);
+  const leadArticles = articles.slice(0, 10);
   return {
     date: new Intl.DateTimeFormat("ko-KR", { dateStyle: "full", timeZone: "Asia/Seoul" }).format(new Date()),
     summary: [
-      leadArticles[0]?.title ? `오늘 가장 강한 신호는 "${leadArticles[0].title}"입니다.` : "아직 수집된 뉴스가 없습니다.",
-      signals.technologies.length ? `반복 출현 기술 키워드: ${signals.technologies.map(([key, count]) => `${key}(${count})`).join(", ")}` : "기술 키워드 신호가 약합니다.",
-      signals.companies.length ? `관측 기업: ${signals.companies.map(([key, count]) => `${key}(${count})`).join(", ")}` : "기업명 직접 언급은 제한적입니다.",
+      leadArticles[0]?.title ? `오늘의 최상위 이슈: ${leadArticles[0].title}` : "아직 수집된 뉴스가 없습니다.",
+      signals.technologies.length ? `강한 기술·시장 신호: ${signals.technologies.slice(0, 5).map(([key, count]) => `${key} ${count}`).join(", ")}` : "기술·시장 신호가 약합니다.",
+      signals.companies.length ? `주요 기업 신호: ${signals.companies.slice(0, 5).map(([key, count]) => `${key} ${count}`).join(", ")}` : "기업 직접 언급은 제한적입니다.",
     ],
     leadArticles,
     signals,
