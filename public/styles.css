@@ -196,6 +196,12 @@ h2 {
 }
 
 .brief-line {
+  width: 100%;
+  display: grid;
+  gap: 5px;
+  text-align: left;
+  border: 0;
+  background: transparent;
   padding: 12px 0;
   border-bottom: 1px solid var(--line);
   color: #2d3846;
@@ -203,10 +209,26 @@ h2 {
   line-height: 1.55;
   overflow-wrap: anywhere;
   word-break: keep-all;
+  cursor: pointer;
 }
 
 .brief-line:last-child {
   border-bottom: 0;
+}
+
+.brief-line span {
+  color: var(--blue);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.brief-line strong {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.brief-line:hover strong {
+  color: var(--blue);
 }
 
 .signal-card {
@@ -420,12 +442,27 @@ select {
   background: #fbfcfd;
 }
 
-.policy-card h3 {
+.policy-card h3,
+.policy-title {
   margin-bottom: 0;
   font-size: 17px;
   line-height: 1.35;
   overflow-wrap: anywhere;
   word-break: keep-all;
+}
+
+.policy-title {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--ink);
+  text-align: left;
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.policy-title:hover {
+  color: var(--blue);
 }
 
 .priority {
@@ -535,6 +572,77 @@ select {
   border-radius: 8px;
   background: #fff7e8;
   color: #68470f;
+}
+
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: rgba(28, 37, 48, 0.38);
+}
+
+.modal-backdrop[hidden] {
+  display: none;
+}
+
+.modal-panel {
+  position: relative;
+  width: min(720px, 100%);
+  max-height: min(780px, calc(100vh - 48px));
+  overflow: auto;
+  padding: 26px;
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: 0 24px 70px rgba(28, 37, 48, 0.22);
+}
+
+.modal-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 22px;
+  line-height: 1;
+}
+
+.modal-panel h2 {
+  margin-right: 40px;
+  margin-bottom: 18px;
+}
+
+.modal-body dl {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+}
+
+.modal-body div {
+  padding: 13px 0;
+  border-top: 1px solid var(--line);
+}
+
+.modal-body dt {
+  margin-bottom: 5px;
+  color: var(--blue);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.modal-body dd {
+  margin: 0;
+  color: #435163;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
 }
 
 .skeleton {

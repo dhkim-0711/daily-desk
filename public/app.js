@@ -4,6 +4,7 @@ const state = {
   month: "all",
   date: "all",
   tag: "",
+  issue: "",
   view: "briefing",
 };
 
@@ -14,6 +15,13 @@ const issueOrder = [
   "AI시장",
   "AI에이전트",
   "AI인프라",
+  "K-엔비디아",
+  "NPU",
+  "리벨리온",
+  "퓨리오사AI",
+  "하이퍼엑셀",
+  "딥엑스",
+  "모빌린트",
   "NVIDIA",
   "Google",
   "인퍼런스",
@@ -99,6 +107,7 @@ function articleMatches(article) {
   if (state.month !== "all" && monthKey(article.publishedAt) !== state.month) return false;
   if (state.date !== "all" && dayKey(article.publishedAt) !== state.date) return false;
   if (state.tag && !haystack.includes(state.tag.toLowerCase())) return false;
+  if (state.issue && issueName(article) !== state.issue) return false;
   if (state.filter === "all") return true;
   if (state.filter === "domestic") return /국내|korea|리벨리온|퓨리오사|하이퍼엑셀|딥엑스|모빌린트|삼성|하이닉스|k-엔비디아/.test(haystack);
   if (state.filter === "global") return /해외|global|nvidia|google|alphabet|gemini|deepmind|amd|broadcom|tsmc|arm|micron/.test(haystack);
@@ -151,8 +160,9 @@ function renderChips(container, entries, limit = 8) {
 function renderActiveTag() {
   const container = $("#activeTag");
   if (!container) return;
-  container.innerHTML = state.tag
-    ? `<button class="active-tag" type="button" id="clearTagBtn">태그 검색: ${escapeHtml(state.tag)} ×</button>`
+  const label = state.issue ? `브리핑: ${state.issue}` : state.tag ? `태그 검색: ${state.tag}` : "";
+  container.innerHTML = label
+    ? `<button class="active-tag" type="button" id="clearTagBtn">${escapeHtml(label)} ×</button>`
     : `<span class="muted-text">핵심신호 태그를 누르면 관련 이슈만 볼 수 있습니다.</span>`;
 }
 
@@ -161,11 +171,14 @@ function renderBriefing(data) {
   const filtered = data.news.articles.filter(articleMatches);
   const groups = groupByIssue(filtered).slice(0, 3);
   const summary = groups.length
-    ? groups.map((group) => `${group.name}: ${group.items[0].title}`)
-    : data.briefing.summary;
+    ? groups.map((group) => ({ issue: group.name, title: group.items[0].title, count: group.items.length }))
+    : data.briefing.summary.map((title) => ({ issue: "", title, count: null }));
 
   $("#summaryList").innerHTML = summary.slice(0, 3).map((item) => `
-    <div class="brief-line">${escapeHtml(item)}</div>
+    <button class="brief-line" type="button" ${item.issue ? `data-brief-issue="${escapeHtml(item.issue)}"` : ""}>
+      <span>${item.issue ? `${escapeHtml(item.issue)}${item.count ? ` · ${item.count}건` : ""}` : "요약"}</span>
+      <strong>${escapeHtml(item.title)}</strong>
+    </button>
   `).join("");
   renderChips($("#techSignals"), data.briefing.signals.technologies, 8);
   renderChips($("#companySignals"), data.briefing.signals.companies, 8);
@@ -174,12 +187,13 @@ function renderBriefing(data) {
 function renderSelectors(data) {
   const articles = data.news.articles;
   const months = [...new Set(articles.map((article) => monthKey(article.publishedAt)))].filter(Boolean).sort().reverse();
-  const dates = [...new Set(articles
-    .filter((article) => state.month === "all" || monthKey(article.publishedAt) === state.month)
-    .map((article) => dayKey(article.publishedAt)))]
-    .filter(Boolean)
-    .sort()
-    .reverse();
+  const dateCounts = new Map();
+  for (const article of articles) {
+    if (state.month !== "all" && monthKey(article.publishedAt) !== state.month) continue;
+    const key = dayKey(article.publishedAt);
+    dateCounts.set(key, (dateCounts.get(key) || 0) + 1);
+  }
+  const dates = calendarDaysForSelection(months);
 
   $("#monthSelect").innerHTML = [`<option value="all">전체 월</option>`, ...months.map((key) => (
     `<option value="${key}" ${state.month === key ? "selected" : ""}>${monthLabel(key)}</option>`
@@ -187,8 +201,22 @@ function renderSelectors(data) {
 
   if (state.date !== "all" && !dates.includes(state.date)) state.date = "all";
   $("#dateSelect").innerHTML = [`<option value="all">전체 일자</option>`, ...dates.map((key) => (
-    `<option value="${key}" ${state.date === key ? "selected" : ""}>${dayLabel(key)}</option>`
+    `<option value="${key}" ${state.date === key ? "selected" : ""}>${dayLabel(key)} (${dateCounts.get(key) || 0})</option>`
   ))].join("");
+}
+
+function calendarDaysForSelection(months) {
+  const today = new Date();
+  const targetMonth = state.month === "all" ? months[0] : state.month;
+  if (!targetMonth || targetMonth === "unknown") return [];
+  const [year, month] = targetMonth.split("-").map(Number);
+  const lastDay = today.getFullYear() === year && today.getMonth() + 1 === month
+    ? today.getDate()
+    : new Date(year, month, 0).getDate();
+  return Array.from({ length: lastDay }, (_, index) => {
+    const day = lastDay - index;
+    return `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+  });
 }
 
 function renderIssues(data) {
@@ -223,10 +251,10 @@ function renderIssues(data) {
 }
 
 function renderPolicyIdeas(data) {
-  $("#policyIdeas").innerHTML = data.briefing.policyIdeas.map((idea) => `
+  $("#policyIdeas").innerHTML = data.briefing.policyIdeas.map((idea, index) => `
     <article class="policy-card">
       <div class="policy-top">
-        <h3>${escapeHtml(idea.title)}</h3>
+        <button class="policy-title" type="button" data-policy-index="${index}">${escapeHtml(idea.title)}</button>
         <span class="priority">우선순위 ${escapeHtml(idea.priority)}</span>
       </div>
       <p><strong>비R&D 예산화</strong>${escapeHtml(idea.budgetItem)}</p>
@@ -234,6 +262,27 @@ function renderPolicyIdeas(data) {
       <p><strong>관리 KPI</strong>${escapeHtml(idea.kpi)}</p>
     </article>
   `).join("");
+}
+
+function openPolicyModal(index) {
+  const idea = state.data?.briefing?.policyIdeas?.[index];
+  if (!idea) return;
+  $("#policyModalTitle").textContent = idea.title;
+  $("#policyModalBody").innerHTML = `
+    <dl>
+      <div><dt>사업유형</dt><dd>비R&D 수요창출·실증·조달 연계 사업</dd></div>
+      <div><dt>대상</dt><dd>국내 NPU 기업, AI 서비스 기업, 공공·민간 수요기관</dd></div>
+      <div><dt>예산화 방향</dt><dd>${escapeHtml(idea.budgetItem)}</dd></div>
+      <div><dt>추진 근거</dt><dd>${escapeHtml(idea.why)}</dd></div>
+      <div><dt>주요 KPI</dt><dd>${escapeHtml(idea.kpi)}</dd></div>
+      <div><dt>1차 실행안</dt><dd>수요기관 모집 → 국산 NPU 매칭 → 8-12주 PoC → 성능·전력 검증 → 구매전환 또는 후속 실증으로 연결</dd></div>
+    </dl>
+  `;
+  $("#policyModal").hidden = false;
+}
+
+function closePolicyModal() {
+  $("#policyModal").hidden = true;
 }
 
 function candleChart(candles = []) {
@@ -347,6 +396,7 @@ document.addEventListener("click", (event) => {
   const tag = event.target.closest("[data-tag]");
   if (tag) {
     state.tag = tag.dataset.tag;
+    state.issue = "";
     state.view = "briefing";
     $$(".view-tab").forEach((item) => item.classList.toggle("active", item.dataset.view === "briefing"));
     $$(".view").forEach((view) => view.classList.toggle("active", view.id === "briefingView"));
@@ -355,8 +405,27 @@ document.addEventListener("click", (event) => {
   }
   if (event.target.closest("#clearTagBtn")) {
     state.tag = "";
+    state.issue = "";
     render();
+    return;
   }
+  const brief = event.target.closest("[data-brief-issue]");
+  if (brief) {
+    state.issue = brief.dataset.briefIssue;
+    state.tag = "";
+    render();
+    $("#issueList")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    return;
+  }
+  const policy = event.target.closest("[data-policy-index]");
+  if (policy) {
+    openPolicyModal(Number(policy.dataset.policyIndex));
+  }
+});
+
+$("#policyModalClose").addEventListener("click", closePolicyModal);
+$("#policyModal").addEventListener("click", (event) => {
+  if (event.target.id === "policyModal") closePolicyModal();
 });
 
 $$(".view-tab").forEach((button) => {
@@ -372,6 +441,7 @@ $$(".filter").forEach((button) => {
     $$(".filter").forEach((item) => item.classList.remove("active"));
     button.classList.add("active");
     state.filter = button.dataset.filter;
+    state.issue = "";
     render();
   });
 });

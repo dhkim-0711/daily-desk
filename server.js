@@ -55,6 +55,36 @@ const newsQueries = [
     lang: "ko",
   },
   {
+    id: "rebellions",
+    label: "리벨리온",
+    query: "(리벨리온 OR Rebellions) (NPU OR AI반도체 OR 인공지능 반도체 OR 데이터센터 OR 추론 OR K-엔비디아)",
+    lang: "ko",
+  },
+  {
+    id: "furiosa",
+    label: "퓨리오사AI",
+    query: "(퓨리오사AI OR 퓨리오사 OR FuriosaAI OR Furiosa) (NPU OR AI반도체 OR 인공지능 반도체 OR RNGD OR 추론 OR K-엔비디아)",
+    lang: "ko",
+  },
+  {
+    id: "hyperaccel",
+    label: "하이퍼엑셀",
+    query: "(하이퍼엑셀 OR HyperAccel) (NPU OR AI반도체 OR 인공지능 반도체 OR LLM OR 추론 OR K-엔비디아)",
+    lang: "ko",
+  },
+  {
+    id: "deepx",
+    label: "딥엑스",
+    query: "(딥엑스 OR DEEPX) (NPU OR 온디바이스 AI OR AI반도체 OR 인공지능 반도체 OR 엣지AI OR K-엔비디아)",
+    lang: "ko",
+  },
+  {
+    id: "mobilint",
+    label: "모빌린트",
+    query: "(모빌린트 OR Mobilint) (NPU OR AI반도체 OR 인공지능 반도체 OR 에지 AI OR 추론 OR K-엔비디아)",
+    lang: "ko",
+  },
+  {
     id: "korea-ai-market",
     label: "국내 AI 시장",
     query: "(생성형 AI OR AI 에이전트 OR 인공지능 서비스 OR AI 데이터센터 OR 온디바이스 AI OR AI 반도체)",
@@ -83,11 +113,17 @@ const watchCompanies = [
   "Samsung",
   "SK hynix",
   "리벨리온",
+  "Rebellions",
   "퓨리오사",
   "퓨리오사AI",
+  "Furiosa",
+  "FuriosaAI",
   "하이퍼엑셀",
+  "HyperAccel",
   "딥엑스",
+  "DEEPX",
   "모빌린트",
+  "Mobilint",
 ];
 
 const equities = [
@@ -116,8 +152,15 @@ const keywordTaxonomy = [
   { key: "AI시장", terms: ["ai market", "ai adoption", "ai spending", "ai revenue", "enterprise ai", "생성형 ai", "인공지능 서비스"] },
   { key: "AI에이전트", terms: ["ai agent", "agentic ai", "에이전트", "agent"] },
   { key: "AI인프라", terms: ["ai infrastructure", "ai datacenter", "datacenter", "data center", "cloud", "데이터센터", "클라우드"] },
+  { key: "NPU", terms: ["npu", "neural processing unit", "신경망처리장치", "ai반도체", "인공지능 반도체"] },
   { key: "인퍼런스", terms: ["inference", "serving", "llm inference", "추론"] },
   { key: "온디바이스", terms: ["edge ai", "on-device", "ai pc", "smartphone", "device", "엣지", "온디바이스"] },
+  { key: "K-엔비디아", terms: ["k-엔비디아", "k-nvidia", "국산 npu", "국내 npu"] },
+  { key: "리벨리온", terms: ["리벨리온", "rebellions"] },
+  { key: "퓨리오사AI", terms: ["퓨리오사ai", "퓨리오사", "furiosaai", "furiosa"] },
+  { key: "하이퍼엑셀", terms: ["하이퍼엑셀", "hyperaccel"] },
+  { key: "딥엑스", terms: ["딥엑스", "deepx"] },
+  { key: "모빌린트", terms: ["모빌린트", "mobilint"] },
   { key: "NVIDIA", terms: ["nvidia", "blackwell", "rubin", "cuda"] },
   { key: "Google", terms: ["google", "alphabet", "gemini", "deepmind", "tpu"] },
   { key: "파운드리·패키징", terms: ["tsmc", "samsung foundry", "process", "packaging", "advanced packaging", "cowos", "파운드리", "패키징"] },
@@ -223,8 +266,18 @@ function scoreArticle(article) {
     .map((group) => group.key);
   const aiBoost = /\bai\b|artificial intelligence|인공지능|생성형|llm|agent|gpu|tpu|npu/i.test(text) ? 5 : 0;
   const recency = article.publishedAt ? Math.max(0, 8 - Math.floor((Date.now() - Date.parse(article.publishedAt)) / 86400000)) : 0;
+  const normalizeCompany = (hit) => ({
+    Nvidia: "NVIDIA",
+    Rebellions: "리벨리온",
+    Furiosa: "퓨리오사AI",
+    FuriosaAI: "퓨리오사AI",
+    퓨리오사: "퓨리오사AI",
+    HyperAccel: "하이퍼엑셀",
+    DEEPX: "딥엑스",
+    Mobilint: "모빌린트",
+  }[hit] || hit);
   return {
-    companyHits: [...new Set(companyHits.map((hit) => (hit === "Nvidia" ? "NVIDIA" : hit)))],
+    companyHits: [...new Set(companyHits.map(normalizeCompany))],
     taxonomyHits: [...new Set(taxonomyHits)],
     score: companyHits.length * 4 + taxonomyHits.length * 3 + aiBoost + recency,
   };
@@ -315,9 +368,23 @@ function topSignals(articles) {
     for (const key of article.taxonomyHits || []) counts.set(key, (counts.get(key) || 0) + 1);
     for (const company of article.companyHits || []) companyCounts.set(company, (companyCounts.get(company) || 0) + 1);
   }
+  for (const key of ["NPU", "K-엔비디아", "리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"]) {
+    if (!counts.has(key)) counts.set(key, 0);
+  }
+  for (const key of ["리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"]) {
+    if (!companyCounts.has(key)) companyCounts.set(key, 0);
+  }
+  const pinnedCompanies = ["리벨리온", "퓨리오사AI", "하이퍼엑셀", "딥엑스", "모빌린트"];
   return {
-    technologies: [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10),
-    companies: [...companyCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10),
+    technologies: [...counts.entries()].sort((a, b) => {
+      const pinned = ["NPU", "K-엔비디아"];
+      const pinScore = pinned.includes(b[0]) - pinned.includes(a[0]);
+      return pinScore || b[1] - a[1];
+    }).slice(0, 12),
+    companies: [...companyCounts.entries()].sort((a, b) => {
+      const pinScore = pinnedCompanies.includes(b[0]) - pinnedCompanies.includes(a[0]);
+      return pinScore || b[1] - a[1];
+    }).slice(0, 12),
   };
 }
 
