@@ -28,9 +28,9 @@ npm.cmd run build:data
 
 ## GitHub Pages로 열기
 
-이 저장소를 GitHub에 올린 뒤 Pages 설정에서 배포 소스를 `main` 브랜치의 `/public` 폴더로 지정하면 정적 대시보드로 열 수 있습니다.
+이 저장소를 GitHub에 올린 뒤 Pages 설정에서 배포 소스를 `main` 브랜치의 `/docs` 폴더로 지정하면 정적 대시보드로 열 수 있습니다.
 
-포함된 GitHub Actions 워크플로우 [build-pages-data.yml](./.github/workflows/build-pages-data.yml)은 매일 한국시간 오전 7시쯤 뉴스·시황 데이터를 갱신해 `public/data-snapshot.js`와 `public/data/dashboard.json`을 커밋하도록 구성되어 있습니다.
+포함된 GitHub Actions 워크플로우 [build-pages-data.yml](./.github/workflows/build-pages-data.yml)은 매일 한국시간 오전 7시쯤 뉴스·시황 데이터를 갱신해 `public`과 `docs`의 스냅샷 데이터를 커밋하도록 구성되어 있습니다.
 
 ## 제공 기능
 

@@ -21,4 +21,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Refresh dashboard data"
-          file_pattern: public/data-snapshot.js public/data/dashboard.json
+          file_pattern: public/data-snapshot.js public/data/dashboard.json docs/data-snapshot.js docs/data/dashboard.json
