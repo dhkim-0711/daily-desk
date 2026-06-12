@@ -33,6 +33,23 @@ const issueOrder = [
   "실증·조달",
 ];
 
+const searchAliases = {
+  구글: ["구글", "google", "alphabet", "알파벳", "gemini", "제미나이", "deepmind", "딥마인드", "tpu"],
+  google: ["google", "구글", "alphabet", "알파벳", "gemini", "제미나이", "deepmind", "딥마인드", "tpu"],
+  알파벳: ["alphabet", "알파벳", "google", "구글"],
+  alphabet: ["alphabet", "알파벳", "google", "구글"],
+  제미나이: ["gemini", "제미나이", "google", "구글"],
+  gemini: ["gemini", "제미나이", "google", "구글"],
+  딥마인드: ["deepmind", "딥마인드", "google", "구글"],
+  deepmind: ["deepmind", "딥마인드", "google", "구글"],
+  엔비디아: ["엔비디아", "nvidia", "nvda", "blackwell", "블랙웰", "rubin", "루빈", "cuda", "쿠다", "gpu"],
+  nvidia: ["nvidia", "엔비디아", "nvda", "blackwell", "블랙웰", "rubin", "루빈", "cuda", "쿠다", "gpu"],
+  nvda: ["nvda", "nvidia", "엔비디아"],
+  블랙웰: ["blackwell", "블랙웰", "nvidia", "엔비디아"],
+  루빈: ["rubin", "루빈", "nvidia", "엔비디아"],
+  쿠다: ["cuda", "쿠다", "nvidia", "엔비디아"],
+};
+
 function escapeHtml(value = "") {
   return String(value)
     .replaceAll("&", "&amp;")
@@ -110,15 +127,23 @@ function articleMatches(article) {
   if (state.tag && !haystack.includes(state.tag.toLowerCase())) return false;
   if (state.issue && issueName(article) !== state.issue) return false;
   if (state.search) {
-    const terms = state.search.toLowerCase().split(/\s+/).filter(Boolean);
-    if (!terms.every((term) => haystack.includes(term))) return false;
+    const terms = expandSearchTerms(state.search);
+    if (!terms.every((group) => group.some((term) => haystack.includes(term)))) return false;
   }
   if (state.filter === "all") return true;
   if (state.filter === "domestic") return /국내|korea|리벨리온|퓨리오사|하이퍼엑셀|딥엑스|모빌린트|삼성|하이닉스|k-엔비디아/.test(haystack);
-  if (state.filter === "global") return /해외|global|nvidia|google|alphabet|gemini|deepmind|amd|broadcom|tsmc|arm|micron/.test(haystack);
+  if (state.filter === "global") return /해외|global|nvidia|엔비디아|google|구글|alphabet|알파벳|gemini|제미나이|deepmind|딥마인드|amd|broadcom|tsmc|arm|micron/.test(haystack);
   if (state.filter === "policy") return /정책|policy|subsidy|export|수출|공급망|예산|사업|조달|규제/.test(haystack);
   if (state.filter === "market") return /시장|market|investment|funding|ipo|datacenter|데이터센터|투자|valuation|earnings|spending|revenue/.test(haystack);
   return true;
+}
+
+function expandSearchTerms(value) {
+  return value
+    .toLowerCase()
+    .split(/\s+/)
+    .filter(Boolean)
+    .map((term) => searchAliases[term] || [term]);
 }
 
 function issueName(article) {
