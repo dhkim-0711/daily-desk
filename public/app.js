@@ -770,6 +770,93 @@ function isSameWeeklyIssue(article, selected) {
   return false;
 }
 
+function weeklyRegion(article) {
+  return article.region === "domestic" || (!article.region && article.sourceLang === "ko") ? "domestic" : "global";
+}
+
+function selectBalancedWeeklyIssues(articles, limit = 7) {
+  const targets = { domestic: Math.ceil(limit / 2), global: Math.floor(limit / 2) };
+  const counts = { domestic: 0, global: 0 };
+  const selected = [];
+
+  for (const article of articles) {
+    const region = weeklyRegion(article);
+    if (counts[region] >= targets[region]) continue;
+    if (selected.some((item) => isSameWeeklyIssue(article, item))) continue;
+    selected.push(article);
+    counts[region] += 1;
+    if (selected.length >= limit) return selected;
+  }
+
+  for (const article of articles) {
+    if (selected.includes(article)) continue;
+    if (selected.some((item) => isSameWeeklyIssue(article, item))) continue;
+    selected.push(article);
+    if (selected.length >= limit) break;
+  }
+  return selected;
+}
+
+function translateForeignTitle(title = "") {
+  const cleanTitle = title.replace(/\s+-\s+[^-]+$/, "").replace(/\s+/g, " ").trim();
+  if (!cleanTitle || /[가-힣]/.test(cleanTitle)) return cleanTitle || title;
+
+  const lower = cleanTitle.toLowerCase();
+  if (lower.includes("nvidia accelerates google deepmind") && lower.includes("diffusiongemma")) {
+    return "엔비디아, 구글 딥마인드의 로컬 AI용 DiffusionGemma 가속";
+  }
+  if (lower.includes("ai infrastructure spending") && lower.includes("700 billion")) {
+    return "AI 인프라 지출, 2026년 7,000억 달러 돌파 전망";
+  }
+  if (lower.includes("nvidia pitches arm-based vera cpus") && lower.includes("chinese clients")) {
+    return "엔비디아, 중국 고객에 Arm 기반 Vera CPU 제안...8월 출하 목표";
+  }
+  if (lower.includes("jensen huang") && lower.includes("tsmc")) {
+    return "젠슨 황, TSMC의 AI 수익성을 강조...TSMC 투자 관점 부각";
+  }
+
+  return cleanTitle
+    .replace(/\bNVIDIA\b/gi, "엔비디아")
+    .replace(/\bNvidia\b/g, "엔비디아")
+    .replace(/\bGoogle DeepMind\b/gi, "구글 딥마인드")
+    .replace(/\bGoogle\b/gi, "구글")
+    .replace(/\bTSMC\b/g, "TSMC")
+    .replace(/\bSamsung\b/gi, "삼성")
+    .replace(/\bArm-Based\b/gi, "Arm 기반")
+    .replace(/\bArm\b/g, "Arm")
+    .replace(/\bVera CPUs\b/gi, "Vera CPU")
+    .replace(/\bAI Infrastructure\b/gi, "AI 인프라")
+    .replace(/\bData Center\b/gi, "데이터센터")
+    .replace(/\bData Centers\b/gi, "데이터센터")
+    .replace(/\bSpending\b/gi, "지출")
+    .replace(/\bAccelerates\b/gi, "가속")
+    .replace(/\bTargets\b/gi, "목표")
+    .replace(/\bShipments\b/gi, "출하")
+    .replace(/\bChinese Clients\b/gi, "중국 고객")
+    .replace(/\bLocal AI\b/gi, "로컬 AI")
+    .replace(/\bAnalysis\b/gi, "분석")
+    .replace(/\bForecast\b/gi, "전망")
+    .replace(/\bExceed\b/gi, "돌파")
+    .replace(/\bBillion\b/gi, "십억 달러")
+    .replace(/\bTrillion\b/gi, "조 달러")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function weeklyDisplayTitle(article) {
+  return weeklyRegion(article) === "global" ? translateForeignTitle(article.title) : article.title;
+}
+
+function weeklyDisplaySummary(article) {
+  if (weeklyRegion(article) !== "global") return cleanSummary(article.summary);
+  const tags = [...new Set([issueName(article), ...(article.taxonomyHits || []), ...(article.companyHits || [])])]
+    .filter(Boolean)
+    .slice(0, 3)
+    .join(", ");
+  const focus = tags || "AI반도체 시장";
+  return `외신 보도 기준으로 ${focus} 흐름과 연결되는 이슈입니다. 국내 NPU 생태계 관점에서는 수요, 공급망, 실증 가능성을 함께 확인할 필요가 있습니다.`;
+}
+
 function weeklyIssueBriefing(data) {
   const generatedAt = asDate(data.generatedAt) || new Date();
   const weekStart = new Date(generatedAt.getTime() - 7 * 24 * 60 * 60 * 1000);
@@ -791,13 +878,7 @@ function weeklyIssueBriefing(data) {
     })
     .sort((a, b) => b.weeklyScore - a.weeklyScore);
 
-  const selected = [];
-  for (const article of articles) {
-    if (selected.some((item) => isSameWeeklyIssue(article, item))) continue;
-    selected.push(article);
-    if (selected.length >= 7) break;
-  }
-  return selected;
+  return selectBalancedWeeklyIssues(articles, 7);
 }
 
 function weeklyIssueInsights(topIssues) {
@@ -868,12 +949,14 @@ function renderWeeklyIssueBriefing(data, topIssues = weeklyIssueBriefing(data)) 
       <div class="weekly-list">
         ${topIssues.map((article, index) => {
           const tags = [...new Set([issueName(article), ...(article.taxonomyHits || []), ...(article.companyHits || [])])].filter(Boolean).slice(0, 5);
+          const displayTitle = weeklyDisplayTitle(article);
+          const originalTitle = displayTitle !== article.title ? ` title="${escapeHtml(article.title)}"` : "";
           return `
-            <a class="weekly-item" href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer">
+            <a class="weekly-item" href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer"${originalTitle}>
               <strong>${index + 1}</strong>
               <span class="weekly-copy">
-                <b>${escapeHtml(article.title)}</b>
-                <em>${escapeHtml(cleanSummary(article.summary))}</em>
+                <b>${escapeHtml(displayTitle)}</b>
+                <em>${escapeHtml(weeklyDisplaySummary(article))}</em>
                 <small>${escapeHtml(article.source)} · ${formatDate(article.publishedAt, { short: true })}</small>
                 <span class="weekly-tags">
                   ${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}
