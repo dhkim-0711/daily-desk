@@ -885,27 +885,6 @@ select {
   word-break: keep-all;
 }
 
-.weekly-signal-list {
-  display: grid;
-  gap: 12px;
-}
-
-.weekly-signal-list div {
-  display: grid;
-  gap: 5px;
-}
-
-.weekly-signal-list b {
-  color: var(--ink);
-  font-size: 13px;
-  font-weight: 820;
-}
-
-.weekly-signal-list p {
-  padding-left: 10px;
-  border-left: 2px solid var(--line);
-}
-
 .empty,
 .error {
   padding: 16px;
