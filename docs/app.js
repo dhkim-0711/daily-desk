@@ -887,6 +887,10 @@ function weeklyArticleAnalysis(article) {
   const tags = [...new Set([issueName(article), ...(article.taxonomyHits || []), ...(article.companyHits || [])])].filter(Boolean);
   const tagText = tags.slice(0, 4).join(", ") || "AI 반도체";
   const isGlobal = weeklyRegion(article) === "global";
+  const normalizedSummary = (article.summary || "").replace(/\s+-\s+[^-]+$/, "").replace(/\s+/g, " ").trim();
+  const detailedSummary = normalizedSummary
+    ? normalizedSummary.length > 320 ? `${normalizedSummary.slice(0, 320).trim()}...` : normalizedSummary
+    : "기사 요약 정보가 제한적이어서 제목과 태그를 중심으로 이슈를 해석했습니다.";
   const hasSupplyChain = articleHasAny(article, ["samsung", "삼성", "tsmc", "foundry", "파운드리", "2나노", "공급망", "tpu", "ai chip"]);
   const hasInfrastructure = articleHasAny(article, ["data center", "데이터센터", "ai infrastructure", "gpu", "ai factory", "투자", "spending", "cloud"]);
   const hasDomesticNpu = articleHasAny(article, ["리벨리온", "퓨리오사", "딥엑스", "모빌린트", "하이퍼엑셀", "npu", "온디바이스", "국산"]);
@@ -929,8 +933,10 @@ function weeklyArticleAnalysis(article) {
     outlook += " 해외 기사이므로 국내 적용 시에는 한국 기업의 공급망 접근성, 고객 확보 가능성, 규제·조달 환경 차이를 함께 보정해 해석해야 합니다.";
   }
 
+  core = `${article.source}가 ${formatDate(article.publishedAt, { short: true })}에 보도한 기사입니다. 기사 주요내용 요약: ${detailedSummary} 추가로 봐야 할 지점은 ${core} 관련 태그는 ${tagText}이며, 단순 뉴스 소비보다 국내 NPU 생태계의 수요 창출, 실증 기회, 공급망 대응 관점에서 후속 정책 아이템으로 연결해볼 필요가 있습니다.`;
+
   return [
-    { title: "핵심내용", body: core },
+    { title: "주요내용", body: core },
     { title: "산업적 파급효과", body: impact },
     { title: "전망", body: outlook },
     { title: "정책 방향 추천", body: policy },
