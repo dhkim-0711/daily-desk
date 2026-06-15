@@ -720,16 +720,46 @@ function weeklyIssueBriefing(data) {
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
-  }).slice(0, 5);
+  }).slice(0, 7);
 }
 
-function renderWeeklyIssueBriefing(data) {
-  const topIssues = weeklyIssueBriefing(data);
+function weeklyIssueInsights(topIssues) {
+  const categoryCounts = new Map();
+  const tagCounts = new Map();
+  const companyCounts = new Map();
+  let domesticCount = 0;
+  let globalCount = 0;
+
+  for (const article of topIssues) {
+    const category = issueName(article);
+    categoryCounts.set(category, (categoryCounts.get(category) || 0) + 1);
+    if (article.region === "domestic") domesticCount += 1;
+    if (article.region === "global") globalCount += 1;
+    for (const tag of article.taxonomyHits || []) tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
+    for (const company of article.companyHits || []) companyCounts.set(company, (companyCounts.get(company) || 0) + 1);
+  }
+
+  const topCategory = [...categoryCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] || "AI시장";
+  const topTag = [...tagCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] || "NPU";
+  const topCompany = [...companyCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] || "주요 기업";
+  const regionSignal = domesticCount >= globalCount ? "국내 보도 흐름이 더 강하게 잡혔습니다" : "해외 보도 흐름이 더 강하게 잡혔습니다";
+
+  return {
+    headline: `이번 주는 ${topCategory} 이슈가 가장 두드러졌고, ${topTag} 신호를 중심으로 후속 정책 판단이 필요합니다.`,
+    bullets: [
+      `${regionSignal}. 국내 기사 ${domesticCount}건, 해외 기사 ${globalCount}건이 Top 7에 포함됐습니다.`,
+      `${topCompany} 관련 신호는 단순 기업 뉴스로 보기보다 수요처, 공급망, 실증 가능성으로 나누어 후속 확인이 필요합니다.`,
+      `비R&D 정책 아이템은 ${topTag} 관련 수요기업 발굴, 성능검증, 조달 전환 조건을 한 묶음으로 설계하는 방향이 적절합니다.`,
+    ],
+  };
+}
+
+function renderWeeklyIssueBriefing(data, topIssues = weeklyIssueBriefing(data)) {
   if (!topIssues.length) {
     return `
       <article class="weekly-brief review-card">
         <p class="eyebrow">Weekly Issue Briefing</p>
-        <h3>주간 이슈 브리핑 Top 5</h3>
+        <h3>주간 이슈 브리핑 Top 7</h3>
         <p>최근 7일 이내 수집된 기사 중 선별할 수 있는 이슈가 아직 없습니다.</p>
       </article>
     `;
@@ -740,7 +770,7 @@ function renderWeeklyIssueBriefing(data) {
       <div class="weekly-brief-head">
         <div>
           <p class="eyebrow">Weekly Issue Briefing</p>
-          <h3>주간 이슈 브리핑 Top 5</h3>
+          <h3>주간 이슈 브리핑 Top 7</h3>
         </div>
         <span>최근 7일 기준</span>
       </div>
@@ -763,6 +793,31 @@ function renderWeeklyIssueBriefing(data) {
         }).join("")}
       </div>
     </article>
+  `;
+}
+
+function renderWeeklyInsights(topIssues) {
+  if (!topIssues.length) return "";
+  const insight = weeklyIssueInsights(topIssues);
+  return `
+    <article class="weekly-insight review-card">
+      <p class="eyebrow">Issue Takeaways</p>
+      <h3>주목할 만한 점·시사점</h3>
+      <p>${escapeHtml(insight.headline)}</p>
+      <ul>
+        ${insight.bullets.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+      </ul>
+    </article>
+  `;
+}
+
+function renderWeeklyPage(data) {
+  const panel = $("#weeklyPanel");
+  if (!panel) return;
+  const topIssues = weeklyIssueBriefing(data);
+  panel.innerHTML = `
+    ${renderWeeklyIssueBriefing(data, topIssues)}
+    ${renderWeeklyInsights(topIssues)}
   `;
 }
 
@@ -799,7 +854,6 @@ function renderReview(data) {
         `).join("")}
       </div>
     </article>
-    ${renderWeeklyIssueBriefing(data)}
     <div class="review-grid">
       ${(review.sections || []).map((section) => `
         <article class="review-card">
@@ -832,6 +886,7 @@ function render() {
   renderIssues(data);
   renderPolicyIdeas(data);
   renderMarket(data);
+  renderWeeklyPage(data);
   renderReview(data);
   renderErrors(data);
 }
