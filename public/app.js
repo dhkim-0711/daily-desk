@@ -202,6 +202,52 @@ function asDate(value) {
   return Number.isNaN(date.getTime()) ? null : date;
 }
 
+const autoRefreshSlots = [
+  { hour: 7, minute: 10 },
+  { hour: 10, minute: 10 },
+  { hour: 13, minute: 10 },
+  { hour: 16, minute: 10 },
+  { hour: 19, minute: 10 },
+  { hour: 22, minute: 10 },
+];
+
+function formatClock(value) {
+  const date = asDate(value);
+  if (!date) return "-";
+  return new Intl.DateTimeFormat("ko-KR", {
+    timeZone: "Asia/Seoul",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+    hourCycle: "h23",
+  }).format(date);
+}
+
+function getKstClock(date = new Date()) {
+  const parts = new Intl.DateTimeFormat("ko-KR", {
+    timeZone: "Asia/Seoul",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+    hourCycle: "h23",
+  }).formatToParts(date);
+  return {
+    hour: Number(parts.find((part) => part.type === "hour")?.value || 0),
+    minute: Number(parts.find((part) => part.type === "minute")?.value || 0),
+  };
+}
+
+function formatRefreshSlot(slot) {
+  return `${String(slot.hour).padStart(2, "0")}:${String(slot.minute).padStart(2, "0")}`;
+}
+
+function nextAutoRefreshLabel(now = new Date()) {
+  const { hour, minute } = getKstClock(now);
+  const currentMinutes = hour * 60 + minute;
+  const nextSlot = autoRefreshSlots.find((slot) => slot.hour * 60 + slot.minute > currentMinutes);
+  return nextSlot ? formatRefreshSlot(nextSlot) : `내일 ${formatRefreshSlot(autoRefreshSlots[0])}`;
+}
+
 function formatDate(value, options = {}) {
   const date = asDate(value);
   if (!date) return "-";
@@ -706,7 +752,7 @@ function renderErrors(data) {
 function render() {
   const { data } = state;
   if (!data) return;
-  $("#updatedAt").textContent = `갱신 ${formatDate(data.generatedAt, { time: true })}`;
+  $("#updatedAt").textContent = `최근 데이터 생성 ${formatClock(data.generatedAt)} · 다음 자동 갱신 ${nextAutoRefreshLabel()}`;
   renderSelectors(data);
   renderActiveTag();
   renderBriefing(data);
