@@ -724,32 +724,52 @@ function weeklyIssueBriefing(data) {
 }
 
 function weeklyIssueInsights(topIssues) {
-  const categoryCounts = new Map();
-  const tagCounts = new Map();
-  const companyCounts = new Map();
-  let domesticCount = 0;
-  let globalCount = 0;
+  const corpus = topIssues.map((article) => articleText(article)).join(" ");
+  const hasAny = (terms) => terms.some((term) => corpus.includes(term.toLowerCase()));
+  const hasSupplyChain = hasAny(["samsung", "삼성", "tsmc", "파운드리", "foundry", "2나노", "공급망", "tpu", "ai chip"]);
+  const hasInfrastructure = hasAny(["data center", "데이터센터", "ai infrastructure", "gpu", "ai factory", "팩토리", "투자", "spending"]);
+  const hasDomesticNpu = hasAny(["리벨리온", "퓨리오사", "딥엑스", "모빌린트", "하이퍼엑셀", "npu", "국민성장펀드", "코스닥"]);
+  const hasPolicy = hasAny(["과기정통부", "정부", "공모전", "확보", "정책", "공공", "nipa", "조달"]);
 
-  for (const article of topIssues) {
-    const category = issueName(article);
-    categoryCounts.set(category, (categoryCounts.get(category) || 0) + 1);
-    if (article.region === "domestic") domesticCount += 1;
-    if (article.region === "global") globalCount += 1;
-    for (const tag of article.taxonomyHits || []) tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
-    for (const company of article.companyHits || []) companyCounts.set(company, (companyCounts.get(company) || 0) + 1);
-  }
+  const focus = [
+    hasSupplyChain ? "AI칩 공급망 재편" : "",
+    hasInfrastructure ? "AI 인프라 투자 확대" : "",
+    hasDomesticNpu ? "국내 NPU 기업의 사업화·자금조달" : "",
+    hasPolicy ? "정부 주도 AI 인프라·공공 수요 형성" : "",
+  ].filter(Boolean);
 
-  const topCategory = [...categoryCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] || "AI시장";
-  const topTag = [...tagCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] || "NPU";
-  const topCompany = [...companyCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] || "주요 기업";
-  const regionSignal = domesticCount >= globalCount ? "국내 보도 흐름이 더 강하게 잡혔습니다" : "해외 보도 흐름이 더 강하게 잡혔습니다";
-
+  const focusText = focus.length ? focus.join(", ") : "AI 시장 수요와 반도체 공급 역학";
   return {
-    headline: `이번 주는 ${topCategory} 이슈가 가장 두드러졌고, ${topTag} 신호를 중심으로 후속 정책 판단이 필요합니다.`,
-    bullets: [
-      `${regionSignal}. 국내 기사 ${domesticCount}건, 해외 기사 ${globalCount}건이 Top 7에 포함됐습니다.`,
-      `${topCompany} 관련 신호는 단순 기업 뉴스로 보기보다 수요처, 공급망, 실증 가능성으로 나누어 후속 확인이 필요합니다.`,
-      `비R&D 정책 아이템은 ${topTag} 관련 수요기업 발굴, 성능검증, 조달 전환 조건을 한 묶음으로 설계하는 방향이 적절합니다.`,
+    headline: `이번 주 Top 7은 ${focusText}가 맞물리며 AI반도체 정책의 초점이 기술개발에서 수요·실증·공급망 전략으로 이동하고 있음을 보여줍니다.`,
+    sections: [
+      {
+        title: "핵심내용",
+        body: hasSupplyChain
+          ? "구글, 엔비디아, 삼성, TSMC 등 빅테크·파운드리 이슈가 함께 등장하면서 AI 칩 경쟁이 단일 기업 성능 경쟁을 넘어 생산 파트너, 공급 안정성, 전용칩 확보 경쟁으로 확장되고 있습니다."
+          : "Top 7 기사는 AI 서비스 수요, 인프라 투자, 국내 기업 사업화가 동시에 움직이는 흐름을 보여주며, 단발성 뉴스보다 시장 구조 변화의 신호로 해석할 필요가 있습니다.",
+      },
+      {
+        title: "산업적 파급",
+        body: hasInfrastructure
+          ? "AI 인프라 투자와 데이터센터 수요 확대는 GPU 중심 병목을 심화시키는 동시에 추론 비용·전력 효율을 낮출 대체 컴퓨팅 수요를 키웁니다. 이는 국산 NPU가 데이터센터, 공공 AI서비스, 온디바이스 영역으로 진입할 수 있는 실증 명분을 강화합니다."
+          : "AI 반도체 수요는 모델 개발 자체보다 서비스 운영비, 전력, 공급망 안정성 문제와 결합되고 있어 국내 기업에는 성능 수치뿐 아니라 운영 경제성을 입증할 기회가 생기고 있습니다.",
+      },
+      {
+        title: "기대효과",
+        body: hasDomesticNpu
+          ? "리벨리온·퓨리오사AI 등 국내 NPU 기업 이슈는 자금조달, 상장, 공공·민간 PoC와 연결될 때 산업 생태계 확장 효과가 커집니다. 수요처가 명확한 실증이 누적되면 투자 유치와 조달 전환의 근거가 동시에 만들어질 수 있습니다."
+          : "국내 생태계 관점에서는 기사 흐름을 수요기업 발굴, 벤치마크 축적, 레퍼런스 확보로 연결할 때 정책 투입의 기대효과가 커집니다.",
+      },
+      {
+        title: "전망",
+        body: "단기적으로는 엔비디아와 글로벌 빅테크 중심의 AI 인프라 투자가 시장 방향을 계속 좌우할 가능성이 큽니다. 다만 중기적으로는 추론 워크로드 증가, 전력비 부담, 공급망 다변화 요구가 커지면서 전용 NPU와 국산 AI컴퓨팅의 정책적 활용 공간이 넓어질 수 있습니다.",
+      },
+      {
+        title: "정책적 방향성",
+        body: hasPolicy
+          ? "비R&D 사업은 단순 보조보다 수요처 매칭, 성능·전력 검증, 공공 조달 전환, 해외 PoC를 하나의 패키지로 묶는 방식이 적절합니다. 특히 정부가 확보하는 GPU·AI 인프라 사업과 국산 NPU 실증 트랙을 병행 설계하면 정책 효과를 더 명확히 측정할 수 있습니다."
+          : "정책은 기업별 지원보다 공통 실증 인프라, 표준 벤치마크, 수요기업 전환 바우처, 조달 카탈로그 구축처럼 시장 실패를 줄이는 비R&D 수단에 집중하는 편이 효과적입니다.",
+      },
     ],
   };
 }
@@ -802,11 +822,16 @@ function renderWeeklyInsights(topIssues) {
   return `
     <article class="weekly-insight review-card">
       <p class="eyebrow">Issue Takeaways</p>
-      <h3>주목할 만한 점·시사점</h3>
+      <h3>종합분석</h3>
       <p>${escapeHtml(insight.headline)}</p>
-      <ul>
-        ${insight.bullets.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
-      </ul>
+      <div class="weekly-analysis-grid">
+        ${insight.sections.map((section) => `
+          <section>
+            <h4>${escapeHtml(section.title)}</h4>
+            <p>${escapeHtml(section.body)}</p>
+          </section>
+        `).join("")}
+      </div>
     </article>
   `;
 }

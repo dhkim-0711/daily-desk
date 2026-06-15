@@ -834,6 +834,35 @@ select {
   margin-bottom: 10px;
 }
 
+.weekly-analysis-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.weekly-analysis-grid section {
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+}
+
+.weekly-analysis-grid h4 {
+  margin-bottom: 7px;
+  color: var(--blue);
+  font-size: 14px;
+}
+
+.weekly-analysis-grid p {
+  margin-bottom: 0;
+  color: #465568;
+  font-size: 14px;
+  line-height: 1.65;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
 .empty,
 .error {
   padding: 16px;
@@ -975,6 +1004,7 @@ select {
 @media (max-width: 980px) {
   .brief-layout,
   .policy-grid,
+  .weekly-analysis-grid,
   .review-grid {
     grid-template-columns: 1fr;
   }
