@@ -1,5 +1,8 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+
 :root {
   color-scheme: light;
+  --font-sans: "Pretendard", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", system-ui, sans-serif;
   --bg: #f6f7f9;
   --panel: #ffffff;
   --panel-soft: #fafbfc;
@@ -28,11 +31,11 @@ body {
   background:
     linear-gradient(180deg, #eef2f6 0, var(--bg) 220px);
   color: var(--ink);
-  font-family:
-    "Segoe UI",
-    "Noto Sans KR",
-    system-ui,
-    sans-serif;
+  font-family: var(--font-sans);
+  font-variant-numeric: tabular-nums;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 button,
@@ -64,7 +67,7 @@ a {
   margin: 0 0 5px;
   color: var(--blue);
   font-size: 12px;
-  font-weight: 800;
+  font-weight: 820;
   letter-spacing: 0;
   text-transform: uppercase;
 }
@@ -80,6 +83,7 @@ p {
 h1 {
   margin-bottom: 0;
   font-size: 34px;
+  font-weight: 820;
   line-height: 1.15;
   letter-spacing: 0;
 }
@@ -87,6 +91,7 @@ h1 {
 h2 {
   margin-bottom: 0;
   font-size: 22px;
+  font-weight: 780;
   line-height: 1.25;
 }
 
@@ -119,7 +124,7 @@ h2 {
   background: var(--blue);
   border-color: var(--blue);
   color: #ffffff;
-  font-weight: 700;
+  font-weight: 760;
 }
 
 .view-tabs {
@@ -231,7 +236,7 @@ h2 {
 
 .brief-line strong {
   color: var(--ink);
-  font-weight: 700;
+  font-weight: 760;
 }
 
 .brief-line:hover strong {
@@ -400,7 +405,7 @@ select {
   color: var(--ink);
   cursor: pointer;
   font-size: 21px;
-  font-weight: 800;
+  font-weight: 790;
   line-height: 1.3;
   text-align: left;
   overflow-wrap: anywhere;
@@ -443,7 +448,7 @@ select {
 
 .article-title {
   min-width: 0;
-  font-weight: 700;
+  font-weight: 730;
   line-height: 1.45;
   overflow-wrap: anywhere;
   word-break: keep-all;
@@ -531,7 +536,7 @@ select {
   color: var(--ink);
   text-align: left;
   cursor: pointer;
-  font-weight: 800;
+  font-weight: 780;
 }
 
 .policy-title:hover {
@@ -636,7 +641,7 @@ select {
 
 .market-bottom span {
   color: var(--ink);
-  font-weight: 800;
+  font-weight: 780;
 }
 
 .review-panel {
@@ -821,7 +826,7 @@ select {
 .modal-article-title {
   min-width: 0;
   color: var(--ink);
-  font-weight: 750;
+  font-weight: 740;
   line-height: 1.45;
   overflow-wrap: anywhere;
   word-break: keep-all;
