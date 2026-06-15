@@ -847,16 +847,6 @@ function weeklyDisplayTitle(article) {
   return weeklyRegion(article) === "global" ? translateForeignTitle(article.title) : article.title;
 }
 
-function weeklyDisplaySummary(article) {
-  if (weeklyRegion(article) !== "global") return cleanSummary(article.summary);
-  const tags = [...new Set([issueName(article), ...(article.taxonomyHits || []), ...(article.companyHits || [])])]
-    .filter(Boolean)
-    .slice(0, 3)
-    .join(", ");
-  const focus = tags || "AI반도체 시장";
-  return `외신 보도 기준으로 ${focus} 흐름과 연결되는 이슈입니다. 국내 NPU 생태계 관점에서는 수요, 공급망, 실증 가능성을 함께 확인할 필요가 있습니다.`;
-}
-
 function weeklyIssueBriefing(data) {
   const generatedAt = asDate(data.generatedAt) || new Date();
   const weekStart = new Date(generatedAt.getTime() - 7 * 24 * 60 * 60 * 1000);
@@ -930,7 +920,7 @@ function renderWeeklyIssueBriefing(data, topIssues = weeklyIssueBriefing(data)) 
   if (!topIssues.length) {
     return `
       <article class="weekly-brief review-card">
-        <p class="eyebrow">Weekly Issue Briefing</p>
+        <p class="eyebrow">Weekly Issue Top 7</p>
         <h3>주간 이슈 브리핑 Top 7</h3>
         <p>최근 7일 이내 수집된 기사 중 선별할 수 있는 이슈가 아직 없습니다.</p>
       </article>
@@ -941,7 +931,7 @@ function renderWeeklyIssueBriefing(data, topIssues = weeklyIssueBriefing(data)) 
     <article class="weekly-brief review-card">
       <div class="weekly-brief-head">
         <div>
-          <p class="eyebrow">Weekly Issue Briefing</p>
+          <p class="eyebrow">Weekly Issue Top 7</p>
           <h3>주간 이슈 브리핑 Top 7</h3>
         </div>
         <span>최근 7일 기준</span>
@@ -956,7 +946,7 @@ function renderWeeklyIssueBriefing(data, topIssues = weeklyIssueBriefing(data)) 
               <strong>${index + 1}</strong>
               <span class="weekly-copy">
                 <b>${escapeHtml(displayTitle)}</b>
-                <em>${escapeHtml(weeklyDisplaySummary(article))}</em>
+                <em>${escapeHtml(cleanSummary(article.summary))}</em>
                 <small>${escapeHtml(article.source)} · ${formatDate(article.publishedAt, { short: true })}</small>
                 <span class="weekly-tags">
                   ${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}
