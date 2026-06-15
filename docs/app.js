@@ -301,11 +301,11 @@ function cleanSummary(text = "") {
 }
 
 function articleText(article) {
-  return `${article.source} ${article.title} ${article.summary} ${(article.taxonomyHits || []).join(" ")} ${(article.companyHits || []).join(" ")}`.toLowerCase();
+  return `${article.source} ${article.title} ${article.summary} ${article.fullSummary || ""} ${article.fullText || ""} ${(article.taxonomyHits || []).join(" ")} ${(article.companyHits || []).join(" ")}`.toLowerCase();
 }
 
 function articleContentText(article) {
-  return `${article.title} ${article.summary}`.toLowerCase();
+  return `${article.title} ${article.summary} ${article.fullSummary || ""} ${article.fullText || ""}`.toLowerCase();
 }
 
 function articleMatches(article, options = {}) {
@@ -509,14 +509,7 @@ function closeIssueModal() {
 }
 
 function weeklyAnalysisSectionBody(section) {
-  if (section.title !== "주요내용") return `<p>${escapeHtml(section.body)}</p>`;
-  const [headline, ...paragraphs] = section.body.split(/\n\s*\n/);
-  return `
-    <p class="weekly-main-content">
-      <strong>${escapeHtml(headline)}</strong>
-      <span>${escapeHtml(paragraphs.join("\n\n"))}</span>
-    </p>
-  `;
+  return `<p>${escapeHtml(section.body)}</p>`;
 }
 
 function openWeeklyAnalysisModal(index) {
@@ -908,7 +901,7 @@ function weeklyArticleAnalysis(article) {
   const tags = [...new Set([issueName(article), ...(article.taxonomyHits || []), ...(article.companyHits || [])])].filter(Boolean);
   const tagText = tags.slice(0, 4).join(", ") || "AI 반도체";
   const isGlobal = weeklyRegion(article) === "global";
-  const normalizedSummary = (article.summary || "").replace(/\s+-\s+[^-]+$/, "").replace(/\s+/g, " ").trim();
+  const normalizedSummary = (article.fullSummary || article.summary || "").replace(/\s+-\s+[^-]+$/, "").replace(/\s+/g, " ").trim();
   const detailedSummary = articleMainSummaryText(normalizedSummary);
   const companyTags = (article.companyHits || []).filter((tag) => !["AI시장", "정책", "NPU"].includes(tag)).slice(0, 3);
   const companyText = companyTags.length ? companyTags.join(", ") : "관련 기업";
@@ -954,7 +947,7 @@ function weeklyArticleAnalysis(article) {
     outlook += " 해외 기사이므로 국내 적용 시에는 한국 기업의 공급망 접근성, 고객 확보 가능성, 규제·조달 환경 차이를 함께 보정해 해석해야 합니다.";
   }
 
-  core = `${title}\n\n${detailedSummary}`;
+  core = detailedSummary;
 
   return [
     { title: "주요내용", body: core },

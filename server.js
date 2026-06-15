@@ -387,6 +387,81 @@ function stripTags(value = "") {
   return decodeEntities(String(value)).replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
 }
 
+function stripHtmlToText(value = "") {
+  return decodeEntities(String(value)
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ")
+    .replace(/<noscript[\s\S]*?<\/noscript>/gi, " ")
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<\/(p|div|article|section|h[1-6]|li)>/gi, "\n")
+    .replace(/<[^>]*>/g, " "))
+    .replace(/\s+\n/g, "\n")
+    .replace(/\n\s+/g, "\n")
+    .replace(/[ \t]+/g, " ")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+function normalizeArticleText(text = "") {
+  return text
+    .replace(/\[[^\]]{1,30}\]/g, " ")
+    .replace(/ⓒ|©/g, " ")
+    .replace(/무단전재|재배포 금지|All rights reserved|저작권자|Copyright/gi, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function extractJsonLdArticleBody(html = "") {
+  const scripts = [...html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)];
+  for (const [, raw] of scripts) {
+    try {
+      const parsed = JSON.parse(decodeEntities(raw).trim());
+      const nodes = Array.isArray(parsed) ? parsed : [parsed, ...(parsed["@graph"] || [])];
+      for (const node of nodes.filter(Boolean)) {
+        const type = Array.isArray(node["@type"]) ? node["@type"].join(" ") : node["@type"] || "";
+        if (/Article|NewsArticle|BlogPosting/i.test(type) && node.articleBody) {
+          return normalizeArticleText(node.articleBody);
+        }
+      }
+    } catch {
+      // Ignore invalid publisher JSON-LD and continue with DOM extraction.
+    }
+  }
+  return "";
+}
+
+function extractArticleBody(html = "") {
+  const jsonLdBody = extractJsonLdArticleBody(html);
+  if (jsonLdBody.length > 300) return jsonLdBody;
+
+  const candidates = [
+    /<article[^>]*>([\s\S]*?)<\/article>/gi,
+    /<div[^>]+(?:id|class)=["'][^"']*(?:article|content|본문|news|view|story)[^"']*["'][^>]*>([\s\S]*?)<\/div>/gi,
+    /<section[^>]+(?:id|class)=["'][^"']*(?:article|content|news|story)[^"']*["'][^>]*>([\s\S]*?)<\/section>/gi,
+  ];
+  const blocks = [];
+  for (const pattern of candidates) {
+    for (const match of html.matchAll(pattern)) {
+      const text = normalizeArticleText(stripHtmlToText(match[1]));
+      if (text.length > 180) blocks.push(text);
+    }
+  }
+  const best = blocks.sort((a, b) => b.length - a.length)[0] || normalizeArticleText(stripHtmlToText(html));
+  return best.length > 5000 ? best.slice(0, 5000) : best;
+}
+
+function summarizeArticleText(text = "", fallback = "") {
+  const normalized = normalizeArticleText(text || fallback);
+  if (!normalized) return "";
+  const sentences = normalized
+    .split(/(?<=[.!?。！？])\s+|(?<=다\.)\s+|(?<=요\.)\s+/)
+    .map((sentence) => sentence.trim())
+    .filter((sentence) => sentence.length >= 18 && !/기자|제보|구독|광고|관련기사|바로가기/.test(sentence));
+  const picked = sentences.slice(0, 4);
+  const body = picked.length ? picked.join(" ") : normalized;
+  return body.length > 700 ? `${body.slice(0, 700).trim()}...` : body;
+}
+
 function googleNewsUrl({ query, lang }) {
   const locale = lang === "ko" ? "hl=ko&gl=KR&ceid=KR:ko" : "hl=en-US&gl=US&ceid=US:en";
   return `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&${locale}`;
@@ -502,6 +577,38 @@ function dedupeArticles(articles) {
     .sort((a, b) => b.score - a.score || Date.parse(b.publishedAt || 0) - Date.parse(a.publishedAt || 0));
 }
 
+async function enrichArticleFromOriginal(article) {
+  if (!article.link) return article;
+  try {
+    const html = await fetchText(article.link);
+    const fullText = extractArticleBody(html);
+    const fullSummary = summarizeArticleText(fullText, article.summary);
+    if (!fullSummary || fullSummary.length < (article.summary || "").length * 0.6) return article;
+    return {
+      ...article,
+      fullText,
+      fullSummary,
+      summarySource: fullText.length > 300 ? "article" : "rss",
+    };
+  } catch {
+    return article;
+  }
+}
+
+async function enrichArticlesFromOriginals(articles, limit = 80, concurrency = 6) {
+  const targets = articles.slice(0, limit);
+  const enriched = new Array(targets.length);
+  let cursor = 0;
+  await Promise.all(Array.from({ length: concurrency }, async () => {
+    while (cursor < targets.length) {
+      const index = cursor;
+      cursor += 1;
+      enriched[index] = await enrichArticleFromOriginal(targets[index]);
+    }
+  }));
+  return [...enriched, ...articles.slice(limit)];
+}
+
 async function loadNews() {
   const settled = await Promise.allSettled(
     newsQueries.map(async (source) => {
@@ -513,7 +620,9 @@ async function loadNews() {
   const errors = settled
     .map((result, index) => (result.status === "rejected" ? `${newsQueries[index].label}: ${result.reason.message}` : null))
     .filter(Boolean);
-  return { articles: dedupeArticles(articles).slice(0, 180), errors };
+  const deduped = dedupeArticles(articles).slice(0, 180);
+  const enriched = await enrichArticlesFromOriginals(deduped);
+  return { articles: enriched, errors };
 }
 
 function finiteAt(values, index) {
