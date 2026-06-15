@@ -164,58 +164,6 @@ const newsQueries = [
   },
 ];
 
-const directNewsFeeds = [
-  {
-    id: "nvidia-blog",
-    label: "NVIDIA Blog",
-    url: "https://blogs.nvidia.com/feed/",
-    lang: "en",
-    outlet: "NVIDIA Blog",
-  },
-  {
-    id: "nvidia-blog-korea",
-    label: "NVIDIA Blog Korea",
-    url: "https://blogs.nvidia.co.kr/feed/",
-    lang: "ko",
-    outlet: "NVIDIA Blog Korea",
-  },
-  {
-    id: "google-ai-blog",
-    label: "Google AI Blog",
-    url: "https://blog.google/technology/ai/rss/",
-    lang: "en",
-    outlet: "Google Blog",
-  },
-  {
-    id: "google-research-blog",
-    label: "Google Research Blog",
-    url: "https://research.google/blog/rss/",
-    lang: "en",
-    outlet: "Google Research",
-  },
-  {
-    id: "deepmind-blog",
-    label: "Google DeepMind Blog",
-    url: "https://deepmind.google/blog/rss.xml",
-    lang: "en",
-    outlet: "Google DeepMind",
-  },
-  {
-    id: "deepx-feed",
-    label: "DEEPX",
-    url: "https://www.deepx.ai/feed/",
-    lang: "ko",
-    outlet: "DEEPX",
-  },
-  {
-    id: "hyperaccel-feed",
-    label: "HyperAccel",
-    url: "https://hyperaccel.ai/feed/",
-    lang: "en",
-    outlet: "HyperAccel",
-  },
-];
-
 const watchCompanies = [
   "NVIDIA",
   "Nvidia",
@@ -432,9 +380,7 @@ function decodeEntities(value = "") {
     .replaceAll("&gt;", ">")
     .replaceAll("&quot;", '"')
     .replaceAll("&#39;", "'")
-    .replaceAll("&apos;", "'")
-    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
-    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCodePoint(parseInt(code, 16)));
+    .replaceAll("&apos;", "'");
 }
 
 function stripTags(value = "") {
@@ -459,15 +405,6 @@ function stripHtmlToText(value = "") {
 function normalizeArticleText(text = "") {
   return text
     .replace(/\[[^\]]{1,30}\]/g, " ")
-    .replace(/\b(Media Coverage|Korean News|Press Release|Newsroom|Blog)\b/gi, " ")
-    .replace(/https?:\/\/\S+/gi, " ")
-    .replace(/\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}\s+by\s+[^.]{1,80}/gi, " ")
-    .replace(/\d{1,2}월\s+\d{1,2},\s+\d{4}\s+by\s+[^.]{1,80}/gi, " ")
-    .replace(/^\s*(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}\s+/i, " ")
-    .replace(/^\s*\d{1,2}월\s+\d{1,2},\s+\d{4}\s+/i, " ")
-    .replace(/\b\d+\s+Comments?\b/gi, " ")
-    .replace(/\bShare\s+(?:Share\s+)?This\s+Article\b/gi, " ")
-    .replace(/\bShare\s+Email\b/gi, " ")
     .replace(/ⓒ|©/g, " ")
     .replace(/무단전재|재배포 금지|All rights reserved|저작권자|Copyright/gi, " ")
     .replace(/\s+/g, " ")
@@ -513,12 +450,8 @@ function extractArticleBody(html = "") {
   return best.length > 5000 ? best.slice(0, 5000) : best;
 }
 
-function summarizeArticleText(text = "", fallback = "", title = "") {
-  const normalizedTitle = normalizeArticleText(title);
-  let normalized = normalizeArticleText(text || fallback);
-  if (normalizedTitle && normalized.toLowerCase().startsWith(normalizedTitle.toLowerCase())) {
-    normalized = normalizeArticleText(normalized.slice(normalizedTitle.length).trim());
-  }
+function summarizeArticleText(text = "", fallback = "") {
+  const normalized = normalizeArticleText(text || fallback);
   if (!normalized) return "";
   const sentences = normalized
     .split(/(?<=[.!?。！？])\s+|(?<=다\.)\s+|(?<=요\.)\s+/)
@@ -581,23 +514,14 @@ function parseRss(xml, source) {
       const found = item.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i"));
       return found ? stripTags(found[1].replace(/^<!\[CDATA\[/, "").replace(/\]\]>$/, "")) : "";
     };
-    const pickRaw = (tag) => {
-      const found = item.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i"));
-      return found ? found[1].replace(/^<!\[CDATA\[/, "").replace(/\]\]>$/, "") : "";
-    };
     const sourceMatch = item.match(/<source[^>]*url="([^"]+)"[^>]*>([\s\S]*?)<\/source>/i);
-    const title = pick("title");
-    const summary = pick("description");
-    const feedContent = normalizeArticleText(stripHtmlToText(pickRaw("content:encoded") || pickRaw("content") || ""));
-    const fullSummary = feedContent.length > 250 ? summarizeArticleText(feedContent, summary, title) : "";
     return {
-      title,
+      title: pick("title"),
       link: pick("link"),
       publishedAt: pick("pubDate"),
-      summary,
-      ...(fullSummary ? { fullText: feedContent.slice(0, 5000), fullSummary, summarySource: "feed" } : {}),
-      outlet: sourceMatch ? stripTags(sourceMatch[2]) : source.outlet || "Google News",
-      outletUrl: sourceMatch ? decodeEntities(sourceMatch[1]) : source.url || "https://news.google.com",
+      summary: pick("description"),
+      outlet: sourceMatch ? stripTags(sourceMatch[2]) : "Google News",
+      outletUrl: sourceMatch ? decodeEntities(sourceMatch[1]) : "https://news.google.com",
       source: source.label,
       sourceLang: source.lang,
       region: source.lang === "ko" ? "domestic" : "global",
@@ -606,7 +530,7 @@ function parseRss(xml, source) {
 }
 
 function scoreArticle(article) {
-  const contentText = `${article.title} ${article.summary} ${article.fullSummary || ""} ${article.fullText || ""}`.toLowerCase();
+  const contentText = `${article.title} ${article.summary}`.toLowerCase();
   const companyHits = watchCompanies.filter((company) => contentText.includes(company.toLowerCase()));
   const taxonomyHits = keywordTaxonomy
     .filter((group) => group.terms.some((term) => contentText.includes(term.toLowerCase())))
@@ -658,7 +582,7 @@ async function enrichArticleFromOriginal(article) {
   try {
     const html = await fetchText(article.link);
     const fullText = extractArticleBody(html);
-    const fullSummary = summarizeArticleText(fullText, article.summary, article.title);
+    const fullSummary = summarizeArticleText(fullText, article.summary);
     if (!fullSummary || fullSummary.length < (article.summary || "").length * 0.6) return article;
     return {
       ...article,
@@ -686,26 +610,16 @@ async function enrichArticlesFromOriginals(articles, limit = 80, concurrency = 6
 }
 
 async function loadNews() {
-  const directSettled = await Promise.allSettled(
-    directNewsFeeds.map(async (source) => {
-      const xml = await fetchText(source.url);
-      return parseRss(xml, source);
-    }),
-  );
-  const googleSettled = await Promise.allSettled(
+  const settled = await Promise.allSettled(
     newsQueries.map(async (source) => {
       const xml = await fetchText(googleNewsUrl(source));
       return parseRss(xml, source);
     }),
   );
-  const directArticles = directSettled.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
-  const googleArticles = googleSettled.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
-  const errors = [
-    ...directSettled.map((result, index) => (result.status === "rejected" ? `${directNewsFeeds[index].label}: ${result.reason.message}` : null)),
-    ...googleSettled.map((result, index) => (result.status === "rejected" ? `${newsQueries[index].label}: ${result.reason.message}` : null)),
-  ]
+  const articles = settled.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
+  const errors = settled
+    .map((result, index) => (result.status === "rejected" ? `${newsQueries[index].label}: ${result.reason.message}` : null))
     .filter(Boolean);
-  const articles = [...directArticles, ...googleArticles];
   const deduped = dedupeArticles(articles).slice(0, 180);
   const enriched = await enrichArticlesFromOriginals(deduped);
   return { articles: enriched, errors };
@@ -1011,10 +925,7 @@ export async function dashboardData(force = false) {
     news,
     market,
     briefing: makeBriefing(news, market),
-    sources: [
-      ...directNewsFeeds.map((source) => ({ label: source.label, url: source.url })),
-      ...newsQueries.map((source) => ({ label: source.label, url: googleNewsUrl(source) })),
-    ],
+    sources: newsQueries.map((source) => ({ label: source.label, url: googleNewsUrl(source) })),
   };
 }
 
