@@ -898,6 +898,18 @@ function weeklyArticleAnalysis(article) {
   const hasDomesticNpu = articleHasAny(article, ["리벨리온", "퓨리오사", "딥엑스", "모빌린트", "하이퍼엑셀", "npu", "온디바이스", "국산"]);
   const hasPolicy = articleHasAny(article, ["과기정통부", "정부", "nipa", "공모", "정책", "공공", "조달", "예산", "사업"]);
   const hasMarket = articleHasAny(article, ["market", "시장", "매출", "수요", "점유율", "실적", "전망", "valuation", "funding"]);
+  const hasFoundry = articleHasAny(article, ["foundry", "파운드리", "2나노", "4나노", "samsung foundry", "tsmc"]);
+  const hasPackaging = articleHasAny(article, ["packaging", "패키징", "hbm", "cowos", "advanced package"]);
+  const hasCustomChip = articleHasAny(article, ["tpu", "custom chip", "자체칩", "ai chip", "asic", "deepmind", "gemini"]);
+  const hasCapex = articleHasAny(article, ["capex", "spending", "투자", "데이터센터 투자", "ai factory", "인프라 투자"]);
+  const hasInferenceCost = articleHasAny(article, ["inference", "추론", "전력", "power", "latency", "지연시간", "운영비", "비용", "저전력"]);
+  const hasProduction = articleHasAny(article, ["양산", "mass production", "sample", "샘플", "시제품", "tape-out", "테이프아웃", "launch"]);
+  const hasCustomerProof = articleHasAny(article, ["고객", "계약", "공급", "파트너", "협약", "mou", "poc", "실증", "레퍼런스", "도입"]);
+  const hasFunding = articleHasAny(article, ["funding", "투자 유치", "펀드", "국민성장펀드", "ipo", "상장", "valuation", "기업가치"]);
+  const hasSoftwareStack = articleHasAny(article, ["sdk", "software", "소프트웨어", "compiler", "컴파일러", "개발도구", "모델 포팅"]);
+  const hasProcurement = articleHasAny(article, ["조달", "공공", "공모", "사업공고", "예산", "바우처", "지원사업"]);
+  const hasEarnings = articleHasAny(article, ["earnings", "revenue", "매출", "실적", "가이던스", "주가", "수익"]);
+  const hasModelPlatform = articleHasAny(article, ["model", "모델", "gemini", "deepmind", "agent", "local ai", "온디바이스", "diffusion", "llm"]);
 
   let impact = `${source}의 이번 이슈는 ${issue} 영역에서 기술 성능보다 실제 도입 조건이 중요해지고 있음을 보여줍니다. 산업적으로는 ${companyText}를 포함한 공급자들이 고객 레퍼런스, 가격 경쟁력, 전력 효율, 운용 안정성을 함께 증명해야 하는 방향으로 압력이 커집니다.`;
   let outlook = `앞으로는 "${title}" 이슈가 단발 보도에 그치는지, 후속 고객 발표·제품 일정·투자 반응으로 이어지는지가 관건입니다. 1~3개월 안에 같은 주제가 다른 매체나 기업 발표에서 반복되는지 확인해야 합니다.`;
@@ -923,6 +935,81 @@ function weeklyArticleAnalysis(article) {
     impact = `시장 이슈는 투자자 평가 기준과 고객 구매 타이밍에 영향을 줍니다. ${companyText} 관련 실적·투자·수요 뉴스가 강해질수록 국내 NPU 기업도 기술 가능성보다 매출 전환성, 고객군의 질, 단가 경쟁력, 양산 일정의 현실성을 더 엄격하게 검증받게 됩니다.`;
     outlook = "후속으로는 CAPEX 변화, 고객 계약, 투자 유치, 주가 반응, AI 서비스 매출 전환 여부를 봐야 합니다. 같은 시장 신호가 반복되면 국내 기업에도 '기술 보유'보다 '팔 수 있는 제품' 압력이 커질 가능성이 큽니다.";
     policy = "정책은 보조금 배분보다 민간 자금이 들어올 조건을 만드는 쪽이 효과적입니다. 수요 기반 실증, 투자 연계 IR, 해외 고객 검증, 성능·비용 절감 지표 표준화가 비R&D 사업 후보입니다.";
+  }
+
+  const detailedRule = [
+    {
+      when: hasFoundry || hasPackaging,
+      impact: `이 기사의 파급효과는 칩 설계보다 제조 가능성과 공급망 실행력에서 나타납니다. ${companyText} 관련 이슈가 파운드리·패키징·공정 선택과 연결될수록 국내 NPU 기업은 성능 발표만으로는 부족하고, 어느 공정에서 언제 만들 수 있는지와 검증·납기 리스크를 함께 설명해야 합니다.`,
+      outlook: "후속으로는 생산 파트너 공개, 공정 노드 확정, 시제품 일정, 패키징 병목 해소 여부를 확인해야 합니다. 같은 이슈가 반복되면 시장의 관심은 칩 아키텍처보다 양산 가능성과 공급 안정성으로 이동할 가능성이 큽니다.",
+      policy: "비R&D 사업은 공급망 연결을 직접 돕는 방향이 적합합니다. 파운드리·패키징 상담회, MPW 연계, 시제품 검증 바우처, 수요기업 공동 테스트베드를 묶으면 기사에서 드러난 병목과 바로 연결됩니다.",
+    },
+    {
+      when: hasCustomChip && !hasDomesticNpu,
+      impact: "빅테크 자체칩 또는 전용 AI칩 이슈는 GPU 중심 조달 구조가 특정 워크로드별 전용 가속기 경쟁으로 쪼개지고 있음을 보여줍니다. 국내 기업 입장에서는 범용 GPU 대체보다 특정 모델·서비스·비용 구조에 맞춘 틈새 가속기 전략의 중요성이 커집니다.",
+      outlook: "후속으로는 해당 칩이 실제 클라우드 서비스나 모델 배포에 쓰이는지, 외부 고객에게 개방되는지, 기존 GPU 구매 계획을 줄이는지 봐야 합니다. 자체칩 뉴스가 서비스 적용 사례로 이어질 때 시장 신호가 강해집니다.",
+      policy: "정책은 자체칩 경쟁을 따라가기보다 국산 NPU가 들어갈 수 있는 특화 워크로드를 정의하는 쪽이 좋습니다. 공공 LLM 추론, 검색·추천, 영상분석, 온디바이스 AI처럼 수요처와 모델을 함께 묶은 실증 과제가 적합합니다.",
+    },
+    {
+      when: hasCapex && hasInfrastructure,
+      impact: "AI 인프라 투자 이슈는 칩 수요가 단발 구매가 아니라 데이터센터, 전력, 냉각, 클라우드 상품 구성까지 묶인 설비투자 문제로 바뀌고 있음을 보여줍니다. 국내 NPU 기업에는 칩 단품 판매보다 서버·클라우드·운영비 절감 패키지로 제안해야 하는 압력이 커집니다.",
+      outlook: "후속으로는 CAPEX 계획이 실제 장비 발주로 이어지는지, GPU 외 대체 가속기 검토가 포함되는지, 전력비와 서버 효율 지표가 공개되는지 확인해야 합니다.",
+      policy: "비R&D 사업은 데이터센터 운영자와 NPU 기업을 한 테이블에 앉히는 방식이 좋습니다. 공공·민간 IDC 실증, 전력 대비 처리량 벤치마크, 추론 운영비 절감 리포트 발간을 사업 산출물로 잡을 수 있습니다.",
+    },
+    {
+      when: hasInferenceCost,
+      impact: "추론 비용·전력·지연시간 신호는 AI 반도체 경쟁의 기준이 학습 성능에서 서비스 운영 효율로 이동하고 있음을 뜻합니다. 국내 NPU에는 대규모 학습 경쟁보다 반복 추론, 엣지·온프레미스, 공공서비스 같은 비용 민감 영역에서 기회가 생깁니다.",
+      outlook: "후속으로는 전력 대비 성능, 지연시간, 동시 사용자 처리량, 모델별 포팅 결과가 공개되는지 봐야 합니다. 실제 운영비 절감 수치가 나오면 단순 기술 기사보다 시장성이 강한 신호입니다.",
+      policy: "정책은 '성능이 좋다'보다 '운영비가 줄었다'를 검증하게 설계해야 합니다. 국산 NPU 추론비용 벤치마크, 공공서비스 적용 실증, 모델 포팅 지원, 전력계측 기반 성과지표가 필요합니다.",
+    },
+    {
+      when: hasDomesticNpu && hasProduction,
+      impact: `${companyText} 이슈는 국내 NPU 기업이 연구개발 설명에서 양산·시제품 검증 단계로 이동하는 신호입니다. 산업적으로는 TOPS 수치보다 수율, 보드·서버 형태, 고객 테스트 일정, 반복 공급 가능성이 더 중요한 평가 기준으로 올라옵니다.`,
+      outlook: "후속으로는 샘플 제공 대상, 양산 착수 시점, 실제 고객 테스트 결과, 서버·모듈 파트너 공개 여부를 확인해야 합니다. 일정이 구체화될수록 투자와 조달 판단의 신뢰도가 올라갑니다.",
+      policy: "비R&D 사업은 양산 직전 기업의 고객 검증을 돕는 쪽이 효과적입니다. 시제품 검증 바우처, 수요기업 테스트 비용 지원, 공공 PoC 장비 임차, 양산 전 레퍼런스 확보 프로그램을 검토할 수 있습니다.",
+    },
+    {
+      when: hasDomesticNpu && hasCustomerProof,
+      impact: `${companyText} 관련 고객·협약·실증 이슈는 국내 NPU 기업의 병목이 기술개발보다 레퍼런스 확보에 있음을 보여줍니다. 산업적으로는 고객 이름, 적용 업무, 반복 구매 가능성이 기업 신뢰도를 좌우합니다.`,
+      outlook: "후속으로는 협약이 실제 납품·유료 PoC·상용 서비스로 전환되는지 봐야 합니다. 특히 고객사의 산업군이 금융, 공공, 제조, 데이터센터 중 어디인지에 따라 파급 범위가 달라집니다.",
+      policy: "정책은 수요처 매칭 이후의 전환율을 관리해야 합니다. 단순 매칭 행사가 아니라 PoC 비용, 보안 검증, 조달 전환, 성과 데이터 공개까지 이어지는 단계형 비R&D 사업이 적합합니다.",
+    },
+    {
+      when: hasDomesticNpu && hasFunding,
+      impact: `${companyText} 관련 투자·상장·펀드 이슈는 국내 NPU 기업이 기술 가능성보다 성장 자금과 시장 신뢰를 확보하는 단계에 들어섰다는 뜻입니다. 산업적으로는 자금 유입이 양산, 인력, 고객 검증 속도를 좌우할 수 있습니다.`,
+      outlook: "후속으로는 투자금 사용처, 양산 일정, 주요 고객 확보, 상장 심사 또는 후속 투자 여부를 확인해야 합니다. 자금 뉴스가 고객·매출 뉴스로 이어지는지가 핵심입니다.",
+      policy: "정책은 민간 투자와 공공 실증을 연결하는 방식이 좋습니다. 투자 연계 IR, 정책금융 보증, 해외 고객 검증 바우처, 공공 레퍼런스 제공을 묶으면 자금 조달 효과를 사업화로 연결할 수 있습니다.",
+    },
+    {
+      when: hasSoftwareStack,
+      impact: "소프트웨어·SDK·모델 포팅 이슈는 AI칩 경쟁이 하드웨어 성능만으로 결정되지 않는다는 신호입니다. 개발자가 쉽게 모델을 올리고 운영할 수 있어야 고객 전환비용이 낮아지기 때문에, 국내 NPU 생태계에는 도구와 문서화가 중요한 경쟁 자산이 됩니다.",
+      outlook: "후속으로는 지원 모델 수, 개발자 문서, 오픈소스 공개, 클라우드 이미지 제공, 실제 포팅 사례가 늘어나는지 봐야 합니다. 소프트웨어 개선이 고객 도입 속도로 이어지는지가 관찰 포인트입니다.",
+      policy: "비R&D 사업은 NPU 개발자 생태계 조성으로 설계할 수 있습니다. 모델 포팅 챌린지, SDK 교육, 공통 벤치마크, 개발자 크레딧, 수요기업 PoC 템플릿을 지원하는 방식이 적합합니다.",
+    },
+    {
+      when: hasPolicy && hasProcurement,
+      impact: "공공 조달·공모·예산 이슈는 정책이 시장을 만들 수 있는지 보여주는 신호입니다. 사업 설계가 실증과 조달로 이어지면 국내 NPU 기업의 첫 레퍼런스가 될 수 있지만, 행사성 지원에 머물면 산업 파급은 제한됩니다.",
+      outlook: "후속으로는 공고문에 수요처, 실증 환경, 조달 전환, 성능 지표가 명시되는지 확인해야 합니다. 예산 규모보다 실제 구매 가능성이 있는 구조인지가 더 중요합니다.",
+      policy: "정책 방향은 명확합니다. 공공 수요기관 컨소시엄, 실증 후 조달 전환, 전력·성능 데이터 공개, 보안 검증을 한 사업 안에 묶어야 비R&D 사업 효과가 납니다.",
+    },
+    {
+      when: hasEarnings || (hasMarket && hasCapex),
+      impact: "실적·매출·CAPEX 이슈는 AI 반도체 수요가 기대감에서 실제 지출로 전환되는지 판단하는 신호입니다. 국내 NPU 기업도 기술 서사보다 고객 예산, 구매 주기, 단가 경쟁력에 맞춘 사업화 논리가 필요해집니다.",
+      outlook: "후속으로는 기업 실적 발표, CAPEX 가이던스, 데이터센터 발주, AI 서비스 매출 전환을 확인해야 합니다. 숫자가 반복되면 시장은 더 냉정하게 비용 대비 효과를 요구할 것입니다.",
+      policy: "정책은 민간 지출을 보완하는 방향이 적합합니다. 수요기업 바우처, 투자 연계 실증, 비용 절감 성과지표, 해외 고객 검증 프로그램을 통해 민간 구매 결정을 앞당기는 것이 좋습니다.",
+    },
+    {
+      when: hasModelPlatform,
+      impact: "모델·플랫폼 이슈는 AI 반도체 수요가 특정 모델의 실행 방식과 함께 움직인다는 점을 보여줍니다. 병렬 생성, 로컬 AI, 에이전트형 워크로드처럼 모델 특성이 달라지면 필요한 가속기와 소프트웨어 최적화 방향도 달라집니다.",
+      outlook: "후속으로는 해당 모델이 실제 서비스에 배포되는지, 로컬·온디바이스 실행 요구가 커지는지, 특정 하드웨어 최적화 사례가 늘어나는지 봐야 합니다.",
+      policy: "비R&D 사업은 모델 중심 실증으로 설계할 수 있습니다. 공공·산업별 대표 모델을 정하고, 국산 NPU에서 포팅·최적화·운영비 절감까지 검증하는 트랙을 만드는 방식이 적합합니다.",
+    },
+  ].find((rule) => rule.when);
+
+  if (detailedRule) {
+    impact = detailedRule.impact;
+    outlook = detailedRule.outlook;
+    policy = detailedRule.policy;
   }
 
   if (isGlobal) {
