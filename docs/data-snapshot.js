@@ -1,29 +1,615 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-06-15T00:20:45.132Z",
+  "generatedAt": "2026-06-15T06:37:05.592Z",
   "news": {
     "articles": [
       {
-        "title": "[Weekly Issue] 삼성 파운드리, 2나노 공정서 구글 차세대 AI 칩 일부 생산 유력…엔비디아 자율주행칩도 가세 - KIPOST",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yY0EwTnVKVE0wUHUtSXVCV0ViNWlhLU1EcmM4aktZUlRHTGJvWGdzVmdHOHd1djFOV2g2NDZkcnkzbGJuRnROVzVJNmJhOHREdzJmei1JSDNMU2NqbXJfS3Yxa2sxTmFN0gFsQVVfeXFMT0x2eTdWajFPUlJtbk9nQk9UQjdUbl8yVnNVYWoyX0NvX2NlTlE2YUZVbjBseGZ0N0t4MUR4aHYzYVdCZ2Q3eTRHcEJXSnRabV9PTEhPRXF1Z2FhQWJDRXVnZmJmb3R0NWZ4ekF1?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 06:12:00 GMT",
-        "summary": "[Weekly Issue] 삼성 파운드리, 2나노 공정서 구글 차세대 AI 칩 일부 생산 유력…엔비디아 자율주행칩도 가세 &nbsp;&nbsp; KIPOST",
-        "outlet": "KIPOST",
-        "outletUrl": "https://www.kipost.net",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
+        "title": "[CEO Interview] Korean startup targets Nvidia-dominated AI inference market with 2027 chip launch",
+        "link": "https://hyperaccel.ai/korean-startup-targets-nvidia-dominated-ai-inference-market-with-2027-chip-launch/",
+        "publishedAt": "Wed, 18 Mar 2026 05:01:14 +0000",
+        "summary": "Hyper Accel CEO Kim Joo-young poses for a photo with the company’s first AI chip, codenamed Bertha 500, during an... 게시물 [CEO Interview] Korean startup targets Nvidia-dominated AI inference market with 2027 chip launch 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "Korean startup targets Nvidia-dominated AI inference market with 2027 chip launch 3월 18, 2026 Hyper Accel CEO Kim Joo-young poses for a photo with the company’s first AI chip, codenamed Bertha 500, during an interview with the Korea JoongAng Daily on March 10. A small Korean fabless startup, Hyper Accel, says its first AI chip — designed for language-model inference in data centers — could outperform Nvidia GPUs by up to five times in terms of efficiency when it launches next year. The first samples of the startup’s AI chip, code-named Bertha 500, recently came out, built on Samsung Foundry’s 4-nanometer logic processing and co-developed with Naver Cloud. Hyper Accel CEO and founder Kim Joo-young is targeting mass production of Bertha 500 in early 2027, with initial supply planned for Naver Cloud and potential global Big Tech customers. “We are looking beyond the domestic market and are in discussions with several global technology companies, although those talks are still at an early stage,” Kim said at a recent interview with the Korea JoongAng Daily at the startup’s office in southern Seoul. Following its release, the Bertha 500 will enter the bring-up phase, when engineers activate the hardware and load the full software stack, a process expected to take three to four months. The chips will then be packaged into PCIe accelerator cards to be installed into servers, with following proof-of-concept tests planned for September. “If everything goes well, we will begin supplying the chips to customers and move toward mass production the following year.” The AI chip market is rapidly shifting from training models to running them in real-world applications, known as inference. The shift is represented by Nvidia’s $20 billion investment in U.S. AI chip startup Groq, its largest deal yet, integrating Groq’s processors with Nvidia’s Vera Rubin platform. Hyper Accel CEO Kim Joo-young speaks during an interview with the Korea JoongAng Daily on March 10. Kim has been quietly working on similar ideas for several years. In 2022, he presented research at the Hot Chips conference describing a specialized processor for running language models — what is now widely known as a language processing unit (LPU). The concept later gained wider attention when Groq coined the concept as LPU in 2023 to distinguish its chips from Nvidia’s GPUs and Google’s tensor processing units (TPUs). Before founding Hyper Accel, Kim spent nine years at Microsoft, working on chip development at Microsoft Research and Azure. He then returned to his alma meter as an associate professor at KAIST’s School of Electrical Engineering in 2019. There, he began exploring how the transformer model — the foundation of today’s AI models — could be optimized with special hardware capable of running large language models (LLMs) end to end. After presenting the research at Hot Chips, AMD engineers approached him to praise the work, saying that he was on the right track, he recalled. “2022 was the year ChatGPT boom was ignited,” Kim reminisced. “I impulsively felt that might be my last chance to start a company based on this research.” Kim founded Hyper Accel in January 2023, raising 55 billion won ($36.9 million) in Series A funding. The company is now undergoing a Series B round expected to close by June. The startup has about 80 employees, with 65 chip engineers. While working toward Bertha 500’s mass production, the same engineering team is simultaneously developing a second AI chip, a much smaller on-device LPU with LG Electronics. The chip, code-named Bertha 100, will be roughly one-tenth the size of Bertha 500. It will enable home appliances to understand and execute human language commands, and could eventually power humanoid robots. Unlike Bertha 500, which is being manufactured by Samsung, the Bertha 100 chips will be produced using TSMC’s 6-nanometer process. The following are excerpts from the interview on Kim’s vision for his company, edited for length and clarity. Q. How do you believe that Alto can top the performances of existing GPUs? A. GPUs are designed as general-purpose processors, with thousands of small cores that can handle many types of AI workloads, from training to inference. But when running LLMs, this architecture requires constant data transfers between memory buffers and its many small cores, creating large inefficiencies. Hyper Accel takes a different approach. Its LPU chips are built specifically for LLM inference, using dozens of much larger cores that can execute the entire inference pipeline within each core. Data flows through the cores only once in a streamlined pipeline, greatly reducing the back-and-forth data movement common in GPUs. While many AI chips rely on high bandwidth memory (HBM) to overcome memory bottlenecks, Hyper Accel instead uses low-power double data rate (LPDDR) memory combined with a dataflow-optimized architecture. Although LPDDR offers lower peak bandwidth, the design allows the chip to utilize around 90",
+        "fullSummary": "Hyper Accel CEO Kim Joo-young poses for a photo with the company’s first AI chip, codenamed Bertha 500, during an interview with the Korea JoongAng Daily on March 10. A small Korean fabless startup, Hyper Accel, says its first AI chip — designed for language-model inference in data centers — could outperform Nvidia GPUs by up to five times in terms of efficiency when it launches next year. The first samples of the startup’s AI chip, code-named Bertha 500, recently came out, built on Samsung Foundry’s 4-nanometer logic processing and co-developed with Naver Cloud. Hyper Accel CEO and founder Kim Joo-young is targeting mass production of Bertha 500 in early 2027, with initial supply planned fo...",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
-          "Google"
+          "Google",
+          "TPU",
+          "AMD",
+          "TSMC",
+          "Samsung",
+          "하이퍼엑셀"
         ],
         "taxonomyHits": [
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "하이퍼엑셀",
           "NVIDIA",
           "Google",
           "파운드리·패키징",
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
-        "score": 33
+        "score": 64
+      },
+      {
+        "title": "[CEO Interview] ‘World’s First LPU AI Chip’ Achieved by Korean Startup: “2.4 Times Better Performance Than Conventional GPUs” [Future of K-Semiconductors ①]",
+        "link": "https://hyperaccel.ai/newsroom-ceointerview-260112-en/",
+        "publishedAt": "Mon, 12 Jan 2026 03:57:44 +0000",
+        "summary": "Kim Joo-Young, CEO of HyperAccelSpecialized Chip for Advanced LLM Operation2.4 Times the Performance of AI GPUs50% Faster Processing SpeedPrimarily Used... 게시물 [CEO Interview] ‘World’s First LPU AI Chip’ Achieved by Korean Startup: “2.4 Times Better Performance Than Conventional GPUs” [Future of K-Semiconductors ①] 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "‘World’s First LPU AI Chip’ Achieved by Korean Startup: “2.4 Times Better Performance Than Conventional GPUs” 1월 12, 2026 Kim Joo-Young, CEO of HyperAccel Specialized Chip for Advanced LLM Operation 2.4 Times the Performance of AI GPUs 50% Faster Processing Speed Primarily Used on Naver Cloud On-Device Chip Co-Developed with LG Electronics To Be The headquarters of HyperAccel is located in Seocho-dong, Seocho-gu, Seoul. Upon entering the office of CEO Kim Jooyoung, a large whiteboard covering the entire right wall immediately catches the eye. The whiteboard is filled with various formulas, figures, and arithmetic symbols arranged in irregular patterns. HyperAccel employees use the whiteboards placed throughout the company to let their imaginations run free. CEO Kim explained, “I set up whiteboards everywhere, inspired by my time working at Microsoft from 2010 to 2019,” adding, “I wanted to create an environment where team members can jot down and organize their ideas as soon as they come to mind.” Kim Joo-Young, CEO of HyperAccel, is being interviewed on the 3rd at HyperAccel in Seocho-gu, Seoul. Photo by Kang Jinhyung HyperAccel and CEO Kim plan to put the blueprints written on those whiteboards into action this year. In March, the company will launch the world’s first Language Processing Unit (LPU), which it developed independently. This LPU is expected to be mainly used by Naver Cloud. At the end of the year, an on-device chip co-developed with LG Electronics will also be released. CEO Kim said, “If 2025 was a year of development, this year is a year of launches. For a startup, releasing two chips in one year is not easy, so it will be a meaningful year.” Based on this, the company aims to increase sales and challenge itself to go public around 2028. The industry is particularly paying attention to the LPU. It is an AI chip first conceived by HyperAccel in 2023. The LPU is a type of Neural Processing Unit (NPU) specialized in advancing the operation of Large Language Models (LLMs). This chip enhances the inference capabilities of AI. Last November, HyperAccel completed all development and design work related to the LPU product and handed over the blueprints to Samsung Electronics Foundry for mass production. The 4-nanometer (nm; 1nm = one billionth of a meter) process is being used for manufacturing. HyperAccel’s LPU is evaluated to be 50% faster in processing speed and up to 2.4 times more cost-effective in terms of performance compared to AI Graphics Processing Units (GPUs) currently available on the market. HyperAccel’s LPU to be released this March and its proprietary full-stack software architecture applied. HyperAccel Kim Joo-Young, CEO of HyperAccel, is being interviewed on the 3rd at HyperAccel in Seocho-gu, Seoul. Photo by Kang Jinhyung HyperAccel has also introduced innovation in its internal architecture. CEO Kim explained, “While conventional GPUs and NPUs are architectures made up of thousands of small cores, the LPU is composed of several large cores rather than many small ones. When there are too many cores, the bandwidth (the maximum amount of data that can be transmitted per hour) can be reduced as data moves back and forth multiple times. By increasing the size of the cores and reducing their number, we designed an ‘end-to-end’ structure that allows data to flow in a single pass, thereby maintaining nearly 90% of the bandwidth for greater efficiency.” The AI market is already considered to have entered a period of upheaval since last year. The structure in which Nvidia exclusively supplied GPUs and took the lion’s share of profits began to show signs of disruption with the emergence of Google’s Tensor Processing Unit (TPU). The TPU is an application-specific integrated circuit (ASIC) developed by Google to accelerate deep learning computations. CEO Kim said, “GPUs, especially the Blackwell series, consume much more power than an entire building. As the market seeks more economical alternatives with higher energy efficiency, TPUs have attracted significant attention.” He emphasized that HyperAccel’s LPU, which is designed to minimize both cost and power consumption, “has ample potential” in this context. Looking beyond the LPU, CEO Kim stressed that for Korea to establish a leading position in AI, there must also be cultural changes such as ‘open collaboration’ among startups and ‘social inclusiveness’ for talented individuals. He stated, “The AI market changes so rapidly that it’s difficult to keep up alone. In the United States, startups routinely share what they need and collaborate to develop products. That’s how they keep pace with the market.” CEO Kim also noted, “Due to trade conflicts between the United States and China, AI companies must now consider trade regulations, such as reporting related information to the US and other countries after developing new products. There are many different regulations, but if we can reduce them, Korean semiconductors will gain even more attenti",
+        "fullSummary": "Kim Joo-Young, CEO of HyperAccel Specialized Chip for Advanced LLM Operation 2.4 Times the Performance of AI GPUs 50% Faster Processing Speed Primarily Used on Naver Cloud On-Device Chip Co-Developed with LG Electronics To Be The headquarters of HyperAccel is located in Seocho-dong, Seocho-gu, Seoul. Upon entering the office of CEO Kim Jooyoung, a large whiteboard covering the entire right wall immediately catches the eye. The whiteboard is filled with various formulas, figures, and arithmetic symbols arranged in irregular patterns. HyperAccel employees use the whiteboards placed throughout the company to let their imaginations run free.",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "TPU",
+          "Samsung",
+          "하이퍼엑셀"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI인프라",
+          "NPU",
+          "추론",
+          "온디바이스AI",
+          "하이퍼엑셀",
+          "NVIDIA",
+          "Google",
+          "파운드리·패키징",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "AI시장",
+        "score": 59
+      },
+      {
+        "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
+        "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
+        "publishedAt": "Wed, 10 Jun 2026 16:15:20 +0000",
+        "summary": "Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to output whole blocks of text, opening a new, low-latency frontier for the kind of single-user workloads that developers, […]",
+        "fullText": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI The new DiffusionGemma open model generates text in parallel — not one token at a time — and is optimized to run on the NVIDIA RTX PRO platform, NVIDIA DGX Spark systems and GeForce RTX GPUs. nk Link copied! Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to output whole blocks of text, opening a new, low-latency frontier for the kind of single-user workloads that developers, researchers and AI enthusiasts run every day. Features of the new model include: Parallel generation: DiffusionGemma denoises up to 256 tokens per step instead of predicting one at a time. Built on Gemma 4: DiffusionGemma is built on Gemma 4, a 26-billion-parameter mixture-of-experts model that activates just 3.8 billion parameters per step, pairing a diffusion head with Google’s Gemma 4 architecture. Up to 4x faster performance: The boost means fast text generation, where single-user generation usually stalls — on local hardware. Open and local: DiffusionGemma is open weights under a permissive Apache 2.0 license and runs entirely on RTX and DGX Spark — no cloud, no per-token cost — with day-zero support in Hugging Face Transformers , vLLM and Unsloth. A Different Way to Generate Text Almost every large language model (LLM) in wide use today is autoregressive — meaning it generates text one token at a time, with each new word depending on the one before it. That sequential process is what makes interactive AI feel like it’s typing. DiffusionGemma takes a different path. Built on the Gemma 4 26B mixture-of-experts architecture, it generates text the way diffusion models generate images: by starting from noise and refining a whole block of text at once. Each step denoises up to 256 tokens in parallel rather than emitting a single token and waiting to compute the next. The result is a model that thinks in blocks instead of sequentially. For latency-sensitive, single-user work — such as interactive chat, agentic loops or on-device assistants that plan and act — that parallelism translates into responses fast enough to keep pace with how developers think and iterate. DiffusionGemma Flies on NVIDIA GPUs Generating one token at a time is fundamentally a memory-bound problem — a traditional LLM spends most of its time waiting on memory bandwidth, not doing math , which leaves a lot of compute on the table. Diffusion flips the equation. Pulling a full 256-token block through the transformer in parallel is a compute-bound workload — exactly what NVIDIA GPUs are built for. NVIDIA Tensor Cores accelerate the dense parallel math, and the CUDA software stack lets the model run efficiently from day one without bespoke tuning. In short, the model’s design plays directly to the GPU ’ ‘ s strengths. That shows up in the numbers. DiffusionGemma delivers 1,000 tokens/sec on a single NVIDIA H100 Tensor Core GPU, 150 tokens/sec on NVIDIA DGX Spark and up to 2,000 tokens/sec on NVIDIA DGX Station — roughly 4x faster than an equivalent autoregressive model running in the same single-user regime. That advantage holds across NVIDIA’s full lineup, running : Locally on the NVIDIA DGX Spark deskside personal AI supercomputer — powered by the NVIDIA GB10 Grace Blackwell Superchip with 128GB of unified memory — with the preinstalled NVIDIA AI software stack ready for prototyping, fine-tuning and fully local agent workflows. On NVIDIA RTX PRO 6000 workstations, providing developers, researchers and AI professionals with the headroom to run local low-latency generation and agentic loops as part of a professional workflow. On DGX Station, delivering best-in-class, local high-speed inference with up to 2,000 tokens/sec for low-latency text generation and agentic loops with 748GB of coherent memory. On GeForce RTX GPUs, with llama.cpp support coming soon. Get Started Locally The fastest way to start testing and prototyping the model is through Hugging Face Transformers, which runs DiffusionGemma on a GeForce RTX 5090 or DGX Spark out of the box. For higher-throughput inference, vLLM provides day-zero serving support. For adapting the model to a specific task or domain, fine-tuning is available through Unsloth and NVIDIA NeMo framework, with ready-made DGX Spark playbooks to get a local environment running quickly. Check out the vLLM playbooks for DGX Spark , RTX PRO and DGX Station . Try Diffusion Gemma on Hugging Face or test it for free using NVIDIA-hosted application programming interfaces at build.nvidia.com . Go deeper on the architecture and local deployment by reading the NVIDIA technical and the Google DeepMind announcement . #ICYMI: The Latest From RTX AI ",
+        "fullSummary": "The new DiffusionGemma open model generates text in parallel — not one token at a time — and is optimized to run on the NVIDIA RTX PRO platform, NVIDIA DGX Spark systems and GeForce RTX GPUs. Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to output whole blocks of text, opening a new, low-latency frontier for the kind of single-user workloads that d...",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "DeepMind",
+          "TPU"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "추론",
+          "온디바이스AI",
+          "NVIDIA",
+          "Google",
+          "파운드리·패키징",
+          "실증·조달"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 53
+      },
+      {
+        "title": "NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI",
+        "link": "https://blogs.nvidia.co.kr/blog/rtx-ai-garage-local-gemma-diffusion/",
+        "publishedAt": "Fri, 12 Jun 2026 05:41:50 +0000",
+        "summary": "NVIDIA는 구글 딥마인드(Google DeepMind)의 디퓨전젬마(DiffusionGemma)가 NVIDIA GeForce RTX GPU, NVIDIA RTX PRO 플랫폼, NVIDIA DGX Spark 시스템 전반에서 더욱 빠르게 실행되도록 최적화했습니다. 이를 통해 로컬 PC부터 클라우드 환경까지 폭넓은 활용이 가능해졌는데요. 디퓨전젬마는 텍스트를 한 번에 한 단어씩 생성하는 대신 여러 단어를 병렬로 생성해 텍스트 블록 전체를 출력합니다. 이를 통해 개발자와 연구자, AI 애호가들이 일상적으로 사용하는 블로그 읽기 The post NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI appeared first on NVIDIA Blog Korea .",
+        "fullText": "NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI 새로운 DiffusionGemma 오픈 모델은 한 번에 하나의 토큰이 아니라 병렬로 텍스트를 생성하며, NVIDIA RTX PRO 플랫폼과 NVIDIA DGX Spark 시스템, NVIDIA GeForce RTX GPU에서 실행되도록 최적화됐습니다. 가 NVIDIA GeForce RTX GPU, NVIDIA RTX PRO 플랫폼, NVIDIA DGX Spark 시스템 전반에서 더욱 빠르게 실행되도록 최적화했습니다. 이를 통해 로컬 PC부터 클라우드 환경까지 폭넓은 활용이 가능해졌는데요. 디퓨전젬마는 텍스트를 한 번에 한 단어씩 생성하는 대신 여러 단어를 병렬로 생성해 텍스트 블록 전체를 출력합니다. 이를 통해 개발자와 연구자, AI 애호가들이 일상적으로 사용하는 단일 사용자 워크로드에서 혁신적인 저지연 AI 경험을 제공하는 새로운 지평을 열었습니다. 디퓨전젬마의 주요 특징은 아래와 같습니다: 병렬 생성 : 디퓨전젬마는 토큰을 한 번에 하나씩 예측하는 대신, 단계마다 최대 256개의 토큰에서 노이즈를 제거합니다. 젬마 (Gemma) 4 기반으로 구축: 디퓨전젬마는 젬마 4를 기반으로 구축됐는데요. 이는 260억 개의 파라미터를 갖춘 전문가 혼합(MoE) 모델로 단계마다 38억 개의 파라미터를 활성화하며, 구글의 젬마 4 아키텍처에 디퓨전 헤드를 결합합니다. 최대 4배 향상된 성능: 단일 사용자 생성 환경에서 일반적으로 발생하는 지연 현상을 줄여 로컬 하드웨어에서도 빠른 텍스트 생성을 지원합니다. 오픈 로컬 실행 : 디퓨전젬마는 아파치(Apache) 2.0 라이선스 기반의 오픈 웨이트 모델로 제공되며, RTX와 DGX Spark에서 완전히 로컬로 실행됩니다. 클라우드나 토큰당 비용이 필요 없으며, 허깅페이스 트랜스포머(Hugging Face Transformers) , vLLM, 언슬로스(Unsloth)에서 기본 지원됩니다. &nbsp; 텍스트를 생성하는 새로운 방식 오늘날 널리 사용되는 대부분의 거대 언어 모델(LLM)은 자기회귀(autoregressive) 방식으로 작동합니다. 이는 새로운 단어가 이전 단어에 의존하는 형태로, 텍스트를 토큰 단위로 하나씩 순차적으로 생성하는 방식인데요. 이러한 순차적 생성 과정 때문에 대화형 AI는 마치 글자를 입력하는 것처럼 응답하죠. 디퓨전젬마는 이와 다른 방식을 채택했습니다. 디퓨전젬마는 젬마 4 26B 전문가 혼합 아키텍처를 기반으로 구축돼, 디퓨전 모델이 이미지를 생성하는 방식과 같이 텍스트를 생성합니다. 즉, 노이즈에서 시작해 텍스트 블록 전체를 한 번에 정제하는데요. 단일 토큰을 생성한 뒤 다음 토큰을 계산하기 위해 대기하는 대신, 각 단계에서 최대 256개의 토큰에서 병렬로 노이즈를 제거합니다. 그 결과, 디퓨전젬마는 텍스트를 순차적으로 생성하는 대신 블록 단위로 처리하는 모델이 됐습니다. 이러한 병렬 처리 방식은 지연 시간에 민감한 단일 사용자 작업에서 개발자의 사고와 반복 속도에 발맞춘 빠른 응답을 제공하죠. 대화형 채팅, 에이전틱 루프, 계획과 실행을 수행하는 온디바이스 어시스턴트와 같은 작업이 여기에 해당합니다. &nbsp; NVIDIA GPU에서 더욱 강력해진 디퓨전젬마 토큰을 한 번에 하나씩 생성하는 방식은 본질적으로 메모리 병목형 문제인데요. 기존 LLM은 대부분의 시간을 연산 수행이 아닌 메모리 대역폭 대기에 사용하기 때문에 컴퓨팅 자원을 충분히 활용하지 못합니다. 디퓨전 방식은 이러한 구조를 뒤바꿉니다. 256개 토큰으로 구성된 전체 블록을 트랜스포머를 통해 병렬로 처리하는 워크로드는 컴퓨팅 성능에 의해 좌우되죠. 여기서 NVIDIA GPU가 두각을 드러냅니다. NVIDIA Tensor 코어는 대규모 병렬 연산을 가속하며, CUDA 소프트웨어 스택은 별도의 튜닝 없이도 출시 즉시 모델의 효율적 실행을 지원합니다. 이와 같이 디퓨전젬마는 GPU의 강점을 최대한 활용하도록 설계됐습니다. 이러한 장점은 실제 성능에서도 확인할 수 있습니다. 디퓨전젬마는 단일 NVIDIA H100 Tensor 코어 GPU에서 초당 1,000개 토큰, NVIDIA DGX Spark에서 초당 150개 토큰, NVIDIA DGX Station에서 최대 초당 2,000개 토큰의 성능을 제공합니다. 이는 동일한 단일 사용자 환경에서 실행되는 동급 자기회귀 모델 대비 약 4배 빠른 수준이죠. 이러한 성능의 이점이 NVIDIA의 제품군 전반에서 제공됩니다: NVIDIA DGX Spark 데스크사이드 개인용 AI 슈퍼컴퓨터에서 로컬 실행: 128GB 통합 메모리를 탑재한 NVIDIA GB10 Grace Blackwell 슈퍼칩을 기반으로 구동됩니다. 프로토타이핑, 파인튜닝, 완전한 로컬 에이전트 워크플로우를 위한 NVIDIA AI 소프트웨어 스택이 사전 설치돼 있죠. NVIDIA RTX PRO 6000 워크스테이션에서 실행: 개발자와 연구자, AI 전문가에게 전문 워크플로우의 일부로 로컬 저지연 생성과 에이전틱 루프를 실행할 수 있는 충분한 성능 여유를 제공합니다. DGX Station에서 실행: 748GB의 통합(coherent) 메모리를 기반으로, 저지연 텍스트 생성과 에이전틱 루프를 위해 초당 최대 2,000개 토큰의 업계 최고 수준의 로컬 고속 추론 성능을 제공합니다. GeForce RTX GPU에서 실행: 향후 라마.cpp(llama.cpp) 지원이 추가될 예정입니다. &nbsp; 로컬 환경에서 시작하기 허깅페이스 트랜스포머를 활용하면 모델을 가장 빠르게 테스트하고 프로토타이핑할 수 있습니다. 이는 GeForce RTX 5090 또는 DGX Spark에서 별도 설정 없이 디퓨전젬마 실행을 기본 지원합니다. 더 높은 처리량의 추론이 필요한 경우에는 vLLM을 활용하면 됩니다. 특정 작업이나 도메인에 맞게 모델을 적용하려는 경우, 언슬로스와 NVIDIA NeMo 프레임워크를 통해 파인튜닝을 수행할 수 있습니다. 또한 로컬 환경을 신속하게 실행할 수 있도록 사전 구성된 DGX Spark 플레이북도 제공되는데요. DGX Spark , RTX PRO , DGX Station 용 vLLM 플레이북도 확인해 보세요. 허깅페이스에서 디퓨전젬마를 직접 사용해 보거나, build.nvidia.com 에서 NVIDIA가 호스팅하는 애플리케이션 프로그래밍 인터페이스를 통해 무료로 테스트해 보세요. NVIDIA 테크니컬 블로그 와 구글 딥마인드 발표 를 확인하고, 아키텍처와 로컬 배포에 대해 더 자세히 알아보세요. &nbsp; #ICYMI: RTX AI Garage 최신 소식 🎬 NVIDIA 연구진이 SANA-WM을 공개했습니다. 이는 단일 이미지와 카메라 경로만으로 정밀한 6-DoF 제어가 가능한 720p 해상도의 1분 길이 비디오를 생성하는 오픈소스 월드 모델인데요. 26억 개 파라미터 규모의 증류 버전은 NVFP4 포맷을 활용해 단일 GeForce RTX 5090 GPU에서 34초 만에 60초 분량의 비디오를 생성할 수 있습니다. 단일 GPU에서 실행되면서도 유사한 오픈 모델 대비 최대 36배 높은 처리량을 제공하죠. 논문 에서 확인해 보세요. 🛠️ 윈도우 (Windows) 에이전트 구축 환경이 한층 강화됐습니다. NVIDIA와 마이크로소프트(Microsoft) 는 기본 윈도우 환경에서 활용 가능한 턴키 에이전트 샌드박싱 기능을 공개했습니다. 이는 마이크로소프트 실행 컨테이너(eXecution Containers)와 NVIDIA OpenShell 런타임을 제공하는 동시에, 에이전틱 추론 속도를 최대 2배 향상시키고 헤르메스 에이전트(Hermes Agent)의 기본 윈도우 지원을 추가했습니다. 🤖 DGX Spark는 개봉 후 몇 분 만에 에이전트를 실행할 수 있는 환경을 제공합니다. 간소화된 NVIDIA NemoClaw 설치 과정을 통해 개발자는 로컬 에이전트를 빠르게 활용할 수 있으며, 큐원(Qwen)3.6-35B는 vLLM에서 최대 2.6배 빠르게 실행됩니다. 또한 NVIDIA Sync의 새로운 클러스터 어시스턴트는 최대 4대의 DGX Spark를 하나의 512GB 풀로 연결해 약 4,000억 개 파라미터 규모의 모델을 실행할 수 있습니다. 페이스북 (Facebook) , 인스타그램 (Instagram) , 틱톡 (TikTok) , X 에서 RTX Spark를 팔로우하고, RTX Spark 뉴스레터 를 구독해 최신 소식을 받아보세요 . 소프트웨어 제품 정보에 관한 공지 를 살펴보세요 . 카테고리: AI 태그: Agentic AI | Artificial Intelligence | DGX Spark | Local AI | NVIDIA RTX | open source | RTX AI Garage | RTX Spark All NVIDIA News NVIDIA Blackwell, 업계 최초 에이전틱 AI 인프라 벤치마크에서 선두 기록",
+        "fullSummary": "새로운 DiffusionGemma 오픈 모델은 한 번에 하나의 토큰이 아니라 병렬로 텍스트를 생성하며, NVIDIA RTX PRO 플랫폼과 NVIDIA DGX Spark 시스템, NVIDIA GeForce RTX GPU에서 실행되도록 최적화됐습니다. 가 NVIDIA GeForce RTX GPU, NVIDIA RTX PRO 플랫폼, NVIDIA DGX Spark 시스템 전반에서 더욱 빠르게 실행되도록 최적화했습니다. 이를 통해 로컬 PC부터 클라우드 환경까지 폭넓은 활용이 가능해졌는데요. 디퓨전젬마는 텍스트를 한 번에 한 단어씩 생성하는 대신 여러 단어를 병렬로 생성해 텍스트 블록 전체를 출력합니다.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog Korea",
+        "outletUrl": "https://blogs.nvidia.co.kr/feed/",
+        "source": "NVIDIA Blog Korea",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "DeepMind"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "추론",
+          "온디바이스AI",
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 52
+      },
+      {
+        "title": "하이퍼엑셀, 대만 어드밴텍과 양해각서 체결··· ‘LPU 확산에 시동’",
+        "link": "https://hyperaccel.ai/https-hyperaccel-ai-hyperaccel-and-advantech-sign-mou-kr/",
+        "publishedAt": "Tue, 03 Feb 2026 09:07:01 +0000",
+        "summary": "AI 반도체 기술 기업 하이퍼엑셀이 대만의 산업용 디바이스 및 사물인터넷 전문 제조 기업 어드밴텍(Advantech)과 AI 인프라 기술 협력을 위한 양해각서를... 게시물 하이퍼엑셀, 대만 어드밴텍과 양해각서 체결··· ‘LPU 확산에 시동’ 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "하이퍼엑셀, 대만 어드밴텍과 양해각서 체결··· ‘LPU 확산에 시동’ 2월 03, 2026 AI 반도체 기술 기업 하이퍼엑셀이 대만의 산업용 디바이스 및 사물인터넷 전문 제조 기업 어드밴텍(Advantech)과 AI 인프라 기술 협력을 위한 양해각서를 체결했다. 하이퍼엑셀은 대규모 언어 모델(LLM) 추론에 최적화된 고효율 AI 가속기인 LPU(LLM Processing Unit)을 자체 설계하며 올 상반기 중 4나노미터 공정 기반의 LPDDR5 기반 반도체 ‘베르다(Bertha)’를 출시할 예정이다. 어드밴텍은 산업용 사물인터넷(IoT) 및 임베디드 보드 등 산업용 컴퓨터 분야에서 전 세계 약 30%~40% 점유율을 갖춘 업계 1위 기업이다. 하이퍼엑셀의 베르다(Bertha) 500 LPU AI 가속기 / 출처=하이퍼엑셀 이번 양해각서는 지난 2월 2일 서울 하이퍼엑셀 본사에서 진행됐으며, AI 반도체 분야에 대한 기술 협력 방안을 논의하고 중장기적으로 전략적 파트너십을 구축하기 위한 협력 기반을 마련했다. 두 기업은 앞으로 AI 인프라 기술 전반에 대한 기술 교류를 진행하는 것은 물론 양사 기술 전문성과 노하우를 바탕으로 협력 가능성을 논의한다. 어드밴텍은 하이퍼엑셀을 포함해 전 세계 AI 스타트업 및 반도체 업계 기업들과 공동전선을 구축 중이다. 지난해 12월에는 딥엑스(DEEPX)와 손잡고 엣지 AI용 모듈을 선보인 바 있으며, 유럽의 엣지 AI 반도체 기업인 악셀레라 AI(Axelera AI)와도 전략적 파트너십을 맺고 AI 가속 모듈 공동 개발은 물론 산업 자동화 및 로보틱스 등의 분야에서 협력하고 있다. 지난해 1월에는 이스라엘 헤일로(Hailo)와 고효율 비전 AI 애플리케이션을 위한 가속 모듈을 출시하기도 했다. 생태계 측면에서는 퀄컴 계열의 엣지 AI 플랫폼 전문 기업인 엣지임펄스(Edge Impulse)와 함꼐 엣지 AI 기술 공동 개발을 약속했고, 우리나라의 양자화 기술 기업인 에너자이(ENERZAi)와 손잡고 산업용 소프트웨어인 어드밴텍 WEDA(WISE-Edge Developer Architecture)용 엣지 AI 서비스 개발 및 배포를 함께 하기로도 한 상태다. 밀러 창(Miller Chang) 어드밴텍 임베디드 사업부 사장(좌)과 김주영 하이퍼엑셀 대표(우) / 출처=하이퍼엑셀 하이퍼엑셀과 어드밴텍과의 협력을 통해 국내 AI 반도체 업계의 글로벌 공급망 진입의 문은 점차 넓어지고 있다. 어드밴텍은 앞서 모빌린트, 딥엑스 등의 AI 반도체 기업들과도 협력 관계를 맺었고, 지난해 말에는 딥엑스 DX-M1을 탑재한 EAI-1961같은 실질적인 상품화도 진행됐다. 국내 AI 반도체 기업은 판매 활로를 넓히고, 어드밴텍 입장에서는 다각적인 수요에 대응하는 윈-윈 전략인 셈이다. 김주영 하이퍼엑셀 대표는 “어드밴텍과의 양해각서 체결을 통해 글로벌 AI 인프라 기술 협력을 본격적으로 논의하고, 하이퍼엑셀의 A 반도체 설계 기술이 전 세계로 나아갈 수 있도록 장기적인 협력 관계로 발전시켜 나가겠다”라는 뜻을 밝혔다. 밀러 창(Miller Chang) 어드밴텍 임베디드 사업부 사장 역시 “어드밴텍은 다양한 산업 환경에 적용 가능한 AI 컴퓨팅 기술을 지속적으로 확장해 왔다”며, “AI 추론 효율에 강점을 가진 하이퍼엑셀과의 협력을 통해 향후 AI 반도체 기술을 중심으로 새로운 협력 가능성과 시너지를 기대하고 있다”라고 말했다. IT동아 남시현 기자 (sh@itdonga.com)",
+        "fullSummary": "AI 반도체 기술 기업 하이퍼엑셀이 대만의 산업용 디바이스 및 사물인터넷 전문 제조 기업 어드밴텍(Advantech)과 AI 인프라 기술 협력을 위한 양해각서를 체결했다. 하이퍼엑셀은 대규모 언어 모델(LLM) 추론에 최적화된 고효율 AI 가속기인 LPU(LLM Processing Unit)을 자체 설계하며 올 상반기 중 4나노미터 공정 기반의 LPDDR5 기반 반도체 ‘베르다(Bertha)’를 출시할 예정이다. 어드밴텍은 산업용 사물인터넷(IoT) 및 임베디드 보드 등 산업용 컴퓨터 분야에서 전 세계 약 30%~40% 점유율을 갖춘 업계 1위 기업이다. 하이퍼엑셀의 베르다(Bertha) 500 LPU AI 가속기 / 출처=하이퍼엑셀 이번 양해각서는 지난 2월 2일 서울 하이퍼엑셀 본사에서 진행됐으며, AI 반도체 분야에 대한 기술 협력 방안을 논의하고 중장기적으로 전략적 파트너십을 구축하기 위한 협력 기반을 마련했다.",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "하이퍼엑셀",
+          "딥엑스",
+          "모빌린트"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI인프라",
+          "추론",
+          "온디바이스AI",
+          "하이퍼엑셀",
+          "딥엑스",
+          "모빌린트",
+          "파운드리·패키징",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "AI시장",
+        "score": 52
+      },
+      {
+        "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+        "link": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+        "publishedAt": "Fri, 12 Jun 2026 21:00:08 +0000",
+        "summary": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA […]",
+        "fullText": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark New AgentPerf results from Artificial Analysis show how accelerated computing systems handle real-world agentic workloads, with NVIDIA GB300 NVL72 running up to 20x more agents per megawatt than NVIDIA Hopper. k Link copied! AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA Hopper. Agentic AI is a fundamentally different workload than conversational AI. A single chat completion is a sprint: one large language model (LLM) call, one response. An agent functions more like a relay: It breaks a goal into many steps and keeps going until the task is done. Agents chain together multiple LLM calls and tool calls to gather context, observe, reason and act. That results in dozens to hundreds of LLM calls chained together, each passing growing context to the next, with tool calls like code compile and execution, database search and web browsing at every handoff. The complexity isn’t additive; it’s multiplicative. The distinction matters enormously for performance measurement. Existing AI inference benchmarks measure one LLM call: how fast an LLM responds to a single request and how many simultaneous requests a system can handle. They weren’t designed for agentic workloads, where chained LLM calls, tool call delays and growing context stress accelerated computing systems in fundamentally different ways than a single LLM call ever could. For companies building and deploying agents at scale, it’s important to understand how responsive agents are, how many can be deployed simultaneously and how much useful work AI infrastructure can deliver for every dollar and watt invested. NVIDIA GB300 NVL72 Runs 20x More Agents per Megawatt In this first round, AgentPerf measures agentic performance with DeepSeek V4 Pro , a large mixture-of-experts (MoE) model that represents the class of frontier models powering today’s most capable agents. On this workload, NVIDIA GB300 NVL72 delivers the highest performance in the benchmark, running up to 20x more agents per megawatt than the NVIDIA HGX H200 system. NVIDIA GB300 NVL72 supports far more concurrent agents per megawatt than NVIDIA H200 at both service-level objectives of 20 and 60 tokens per second per agent. The performance advantage comes from extreme codesign across the full stack. GB300 NVL72 connects 72 GPUs into a single rack-scale system, enabling large MoE models like DeepSeek V4 Pro to distribute model execution efficiently at scale. CUDA kernels accelerate this further by overlapping communication and compute, so the cost of coordinating across experts is absorbed rather than added to latency. NVIDIA TensorRT LLM sustains efficiency as concurrent agent sessions scale. For example, it separates the processing of inputs from the generation of outputs so each can be optimized independently. These results are grounded in a benchmark methodology built from the ground up to reflect how agentic AI actually works in production. Artificial Analysis AgentPerf: Built on Real-World Agentic Workloads AgentPerf is built based on real coding agent trajectories: an agent receives a task, reads files, writes and edits code, executes commands and iterates based on the results — all drawn from real public code repositories across 12+ programming languages. The long sequence lengths, tool call patterns and delays are all representative of real-world coding workflows. AgentPerf then measures how many of these agentic tasks a platform can support simultaneously while meeting defined performance thresholds for responsiveness and output token rate. Tool calls are not executed but simulated using representative CPU processing time, so differences in results reflect accelerated computing performance only. The results translate directly into infrastructure decisions: how many concurrent agentic tasks can be run per accelerator and per megawatt of power. For enterprises deploying AI agents at scale, those numbers determine how much productive work a given infrastructure investment can actually deliver. NVIDIA Ecosystem Partners Harness Blackwell’s Leading Performance Leading inference providers including Baseten, DeepInfra and Together AI are already serving agentic workloads on frontier models such as DeepSeek V4 Pro on NVIDIA Blackwell and powering production agentic applications today. Together AI powers real-time inference for Cursor , an AI-powered agentic coding platform, on NVIDIA Blackwell. Cursor’s agents debug issues, generate features and execute refactors while developers continue working. DeepInfra powers Pam.ai , an AI workforce platform for car dealerships, which deploys agents to book servi",
+        "fullSummary": "New AgentPerf results from Artificial Analysis show how accelerated computing systems handle real-world agentic workloads, with NVIDIA GB300 NVL72 running up to 20x more agents per megawatt than NVIDIA Hopper. AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA Hopper. Agentic AI is a fundamentally different workload than conversational AI.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "TPU"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "데이터센터",
+          "NPU",
+          "추론",
+          "NVIDIA",
+          "Google",
+          "파운드리·패키징",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 50
+      },
+      {
+        "title": "[CTO Interview] HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea",
+        "link": "https://hyperaccel.ai/cto-interview-hyperaccel-bets-lpu-to-cut-llm-inference-costs-and-challenge-nvidia-in-korea/",
+        "publishedAt": "Sat, 04 Apr 2026 00:31:27 +0000",
+        "summary": "Korean startup’s LPU chip targets cheaper LLM inference with DRAM and Samsung 4nm backing “The core goal is to bring... 게시물 [CTO Interview] HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea 4월 04, 2026 Korean startup’s LPU chip targets cheaper LLM inference with DRAM and Samsung 4nm backing “The core goal is to bring AI service fees down from the current 30,000-won range to around 5,000 won.” Lee Jin-won, chief technology officer (CTO) of HyperAccel, shared this blueprint in an interview with ChosunBiz at the company’s headquarters in Seocho-dong, Seoul, on Feb. 11. Even if it cannot completely replace the current AI infrastructure dominated by Nvidia graphics processing units (GPUs), the ambition is to wage a “cost-effectiveness competition” with a dedicated chip specialized for large language model (LLM) inference. Lee is a former system semiconductor design engineer from the System LSI division at Samsung Electronics. He designed application processors (APs), the “brains” of smartphones. He joined HyperAccel as CTO in 2023 after a stint at the AI Semiconductor startup NewBula in 2021. He currently oversees AI Semiconductor architecture development. At HyperAccel headquarters in Seocho-dong, Seoul, on the 11th of last month, Lee Jin-won, CTO, explains the company’s blueprint./Courtesy of Choi Hyo-jung HyperAccel is a homegrown fabless (semiconductor design) startup developing Bertha, an AI Semiconductor specialized for LLM inference (generating results). Produced on Samsung Electronics’ foundry 4-nanometer process, this chip differs from conventional GPUs in its design philosophy. The key is its proprietary architecture, the Language Processing Unit (LPU), and the use of low-cost LPDDR5X instead of expensive high-bandwidth memory (HBM). Lee identified “memory access” as the main bottleneck for current AI Semiconductors. “It’s not that the raw compute performance is lacking and slowing things down; congestion occurs because the process of reading and writing data from memory is too complex,” Lee said. “GPUs repeatedly move data from HBM to internal SRAM and then back to the compute units, and bottlenecks appear in this process.” HyperAccel completely changed this structure. Bertha minimizes intermediate storage (buffers) and is designed to fire data directly from external memory to the compute unit (LPU). “GPU memory bandwidth utilization is roughly around 50%, and our goal is to raise it to about 90%,” Lee said. This architectural shift translates into “expense” innovation. For corporations running AI services today, the biggest burden is total cost of ownership (TCO), which combines equipment prices and electricity charges. “A single Nvidia H100 GPU approaches 70 million to 80 million won, and it’s not uncommon for one server to exceed 1 billion won,” Lee said. “By leveraging LPDDR to reduce both equipment costs and power consumption at the same time, our goal is to cut TCO to about one-third of GPUs.” HyperAccel’s ambitions are not confined to data centers. It is also squarely targeting the “On-device AI” market, where devices such as home appliances and robots process AI locally. The company is working with LG Electronics on an AI accelerator for appliances, aiming to exploit Bertha’s high-efficiency architecture for real-time processing in power-constrained environments. This is currently at the proof-of-concept (PoC) stage, with ongoing collaboration for integration into future commercial products. HyperAccel expects meaningful revenue after Bertha enters mass production. Initially, the company plans to expand supply centered on data center customers, then move into cloud providers and the On-device AI market. The following is a Q&A with Lee. — What stage is the chip development at? “The chip design is complete, and it is scheduled to come out this month. After validating performance and reliability in real environments, we are aiming for mass production in the second half of this year.” — How does the LPU differ from a GPU? “If a GPU is a ‘general-purpose accelerator’ that does a bit of everything well, an LPU is a ‘specialized architecture’ that concentrates all firepower solely on LLM inference. We optimized the chip architecture itself to the data flow of transformer models.” — Wouldn’t using LPDDR instead of HBM be slower? “While raw bandwidth is lower, our strategy is to raise ‘real efficiency’ by optimizing data movement paths. Thanks to that, we can serve more concurrent users on the same budget.” — You are working with the domestic semiconductor ecosystem, including Samsung Electronics’ foundry and design houses. “AI Semiconductor is not an industry achieved by design alone; I see it as a kind of ‘comprehensive art’ that spans foundry, design houses, packaging, and servers. In developing Bertha, we are collaborating with Samsung Electronics’ foundry and conducting design work with design houses. I believe that accumulating this experience domestically is necessary so that, in the long term, the system semiconductor ecosystem can form a virtuous cycle.” — Who are your main customers? “Data center operat",
+        "fullSummary": "Korean startup’s LPU chip targets cheaper LLM inference with DRAM and Samsung 4nm backing “The core goal is to bring AI service fees down from the current 30,000-won range to around 5,000 won.” Lee Jin-won, chief technology officer (CTO) of HyperAccel, shared this blueprint in an interview with ChosunBiz at the company’s headquarters in Seocho-dong, Seoul, on Feb. Even if it cannot completely replace the current AI infrastructure dominated by Nvidia graphics processing units (GPUs), the ambition is to wage a “cost-effectiveness competition” with a dedicated chip specialized for large language model (LLM) inference. Lee is a former system semiconductor design engineer from the System LSI divi...",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Samsung",
+          "하이퍼엑셀"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "하이퍼엑셀",
+          "NVIDIA",
+          "파운드리·패키징",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 48
+      },
+      {
+        "title": "[CTO 인터뷰] LLM 추론 특화 AI 반도체 설계 회사 하이퍼엑셀… 이진원 CTO “GPU 대신 비용 절감형 LPU로 승부”",
+        "link": "https://hyperaccel.ai/cto-interview-llm-inference/",
+        "publishedAt": "Sat, 04 Apr 2026 00:35:46 +0000",
+        "summary": "비싼 HBM 버리고 가성비 D램 채택“LLM 추론 효율 엔비디아 압도할 것”삼성 4나노로 ‘베르다’ 시제품 제작네이버·LG와 손잡고 데이터센터·가전 정조준 “인공지능(AI) 서비스... 게시물 [CTO 인터뷰] LLM 추론 특화 AI 반도체 설계 회사 하이퍼엑셀… 이진원 CTO “GPU 대신 비용 절감형 LPU로 승부” 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "LLM 추론 특화 AI 반도체 설계 회사 하이퍼엑셀… 이진원 CTO “GPU 대신 비용 절감형 LPU로 승부” 4월 04, 2026 비싼 HBM 버리고 가성비 D램 채택 “LLM 추론 효율 엔비디아 압도할 것” 삼성 4나노로 ‘베르다’ 시제품 제작 네이버·LG와 손잡고 데이터센터·가전 정조준 “인공지능(AI) 서비스 이용료를 지금의 3만원대에서 5000원 수준으로 끌어내리는 것이 핵심 목표다.” 이진원 하이퍼엑셀 최고기술책임자(CTO)는 지난달 11일 서울 서초동 본사에서 조선비즈와 만나 이 같은 청사진을 밝혔다. 엔비디아 그래픽처리장치(GPU)가 지배하는 현재 AI 인프라 구조를 통째로 대체할 순 없더라도, 대규모언어모델(LLM) 추론 특화 전용 반도체로 ‘가성비 경쟁’을 벌이겠다는 포부다. 이 CTO는 삼성전자 시스템LSI 사업부의 시스템 반도체 설계 엔지니어 출신이다. 스마트폰의 ‘두뇌’ 역할을 하는 애플리케이션프로세서(AP)를 설계했다. 그는 2021년 AI 반도체 스타트업 뉴블라를 거쳐 2023년 설립된 하이퍼엑셀에 CTO로 합류했다. 현재 AI 반도체 아키텍처 개발을 총괄하고 있다. 지난달 11일 서울 서초동 하이퍼엑셀 본사에서 만난 이진원 CTO가 회사의 청사진을 설명하고 있다./최효정 기자 하이퍼엑셀은 LLM 추론(결과 생성)에 특화된 AI 반도체 ‘베르다(Bertha)’를 개발하는 토종 팹리스(반도체 설계) 스타트업이다. 삼성전자 파운드리 4나노 공정에서 생산되는 이 칩은 기존 GPU와 설계 철학부터 다르다. 핵심은 자체 아키텍처인 ‘LPU(Language Processing Unit)’와 비싼 고대역폭메모리(HBM) 대신 저렴한 저전력 D램(LPDDR5X)을 채택했다는 점이다. 이 CTO는 현재 AI 반도체의 주요 병목을 ‘메모리 접근’으로 꼽았다. 그는 “연산 성능 자체가 부족해서 느려지는 것이 아니라, 메모리에서 데이터를 읽고 쓰는 과정이 너무 복잡해 정체가 발생한다”며 “GPU는 HBM에서 내부 S램으로 데이터를 옮겼다가 다시 연산기로 보내는 과정을 반복하는데, 이 과정에서 병목이 나타난다”고 설명했다. 하이퍼엑셀은 이 구조를 완전히 바꿨다. 베르다는 중간 저장소(버퍼)를 최소화하고, 외부 메모리에서 연산 장치(LPU)로 데이터를 직접 쏘아주는 구조를 설계했다. 이 CTO는 “GPU의 메모리 대역폭 활용률이 대략 50% 수준인데, 우리는 이를 90% 수준까지 끌어올리는 것이 목표”라고 했다. 이러한 구조 변화는 ‘비용’ 혁신으로 연결된다. 현재 AI 서비스를 운영하는 기업들에 가장 큰 부담은 장비 가격과 전력 요금을 합친 총소유비용(TCO)이다. 이 CTO는 “엔비디아 H100 GPU는 개당 7000만~8000만원에 육박하고, 서버 한 대를 구성하면 10억원을 넘는 경우가 적지 않다”며 “베르다는 LPDDR을 활용해 장비비와 전력 소모를 동시에 줄임으로써, GPU 대비 TCO를 3분의 1 수준까지 낮추는 것이 목표”라고 했다. 하이퍼엑셀의 목표는 데이터센터에 머물지 않는다. 가전, 로봇 등 기기 자체에서 AI를 처리하는 ‘온디바이스 AI’ 시장도 정조준하고 있다. 현재 LG전자와 협력해 가전용 AI 가속기 개발을 진행 중이며, 전력 제약이 큰 환경에서 실시간 처리가 중요한 만큼 베르다의 고효율 아키텍처를 활용하려는 전략이다. 다만 이는 현재 PoC(기술 검증) 단계로, 향후 상용 제품 탑재를 위한 협력을 이어가고 있다. 하이퍼엑셀은 베르다 양산 이후 본격적인 매출 발생을 기대하고 있다. 회사 측은 초기에는 데이터센터 고객사를 중심으로 공급을 확대하고, 이후 클라우드 사업자와 온디바이스 AI 시장까지 확장하는 것을 목표로 하고 있다. 다음은 이 CTO와의 일문일답. ―칩 개발은 어느 단계인가. “칩 설계는 완료됐으며, 이달 중 나올 예정이다. 실제 환경에서 성능과 신뢰성을 검증한 뒤, 올해 하반기 양산을 목표로 하고 있다.” ―LPU는 GPU와 어떤 점이 다른가. “GPU가 이것저것 다 잘하는 ‘범용 가속기’라면, LPU는 오직 LLM 추론 작업에만 모든 화력을 쏟아붓는 ‘특화 구조’다. 칩 구조 자체를 트랜스포머 모델의 데이터 흐름에 맞춰 최적화했다.” ―HBM 대신 LPDDR을 쓰면 속도가 느리지 않나. “단순 대역폭은 낮지만, 데이터 이동 경로를 최적화해 ‘실제 효율’을 높이는 것이 우리의 전략이다. 덕분에 같은 예산으로 더 많은 동시 사용자에게 서비스를 제공할 수 있다.” ―삼성전자 파운드리, 디자인하우스 등 국내 반도체 생태계와 협력하고 있는데. “AI 반도체는 설계만으로 되는 산업이 아니라 파운드리, 디자인하우스, 패키징, 서버로 이어지는 일종의 ‘종합 예술’이라고 생각한다. 이번 베르다 개발 과정에서도 삼성전자 파운드리와 협력하고 디자인하우스와 함께 설계 작업을 진행하고 있다. 국내에서도 이런 경험이 축적돼야 장기적으로 시스템 반도체 생태계가 선순환 구조를 만들 수 있다고 본다.” ―주요 고객은 어디인가. “데이터센터 사업자가 핵심이다. 네이버클라우드와는 이미 PoC를 진행 중이며, K-클라우드 사업과 연계해 사례를 확대할 계획이다. 특정 영역에서 확실한 가성비 경쟁력을 보여주겠다.”",
+        "fullSummary": "비싼 HBM 버리고 가성비 D램 채택 “LLM 추론 효율 엔비디아 압도할 것” 삼성 4나노로 ‘베르다’ 시제품 제작 네이버·LG와 손잡고 데이터센터·가전 정조준 “인공지능(AI) 서비스 이용료를 지금의 3만원대에서 5000원 수준으로 끌어내리는 것이 핵심 목표다.” 이진원 하이퍼엑셀 최고기술책임자(CTO)는 지난달 11일 서울 서초동 본사에서 조선비즈와 만나 이 같은 청사진을 밝혔다. 엔비디아 그래픽처리장치(GPU)가 지배하는 현재 AI 인프라 구조를 통째로 대체할 순 없더라도, 대규모언어모델(LLM) 추론 특화 전용 반도체로 ‘가성비 경쟁’을 벌이겠다는 포부다. 이 CTO는 삼성전자 시스템LSI 사업부의 시스템 반도체 설계 엔지니어 출신이다. 스마트폰의 ‘두뇌’ 역할을 하는 애플리케이션프로세서(AP)를 설계했다.",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "하이퍼엑셀"
+        ],
+        "taxonomyHits": [
+          "정책",
+          "AI시장",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "하이퍼엑셀",
+          "NVIDIA",
+          "파운드리·패키징",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 47
+      },
+      {
+        "title": "From Startup Stage to Global Stage: DEEPX at COMPUTEX TAIPEI 2026",
+        "link": "https://deepx.ai/from-startup-stage-to-global-stage-deepx-at-computex-taipei-2026/",
+        "publishedAt": "Tue, 09 Jun 2026 01:41:55 +0000",
+        "summary": "Part 1 of 2 — The Taiwan Story When DEEPX first walked into COMPUTEX InnoVEX in 2023, we were a young Korean fabless startup with a bold bet: that the next frontier of AI wouldn’t be in the cloud — it would be in the physical world. Three years later, we’re back. Not as a […]",
+        "fullText": "From Startup Stage to Global Stage: DEEPX at COMPUTEX TAIPEI 2026 - DEEPX: Pioneering Innovation in Edge AI Semiconductors Skip to content AI Chips Available for Evaluation AI Chips Available for Testing Apply Now Products DX-M1 DX-M1M DX-H1 Quattro DX-H1 V-NPU DX-AIPlayer DXNN® SDK Solutions Edge Computing Smart Mobility Smart Factory Smart City VMS Developers About Us Our Story Career Contact Us CES On! Products DX-M1 DX-M1M DX-H1 Quattro DX-H1 V-NPU DX-AIPlayer DXNN® SDK Solutions Edge Computing Smart Mobility Smart Factory Smart City VMS Developers About Us Our Story Career Contact Us CES On! DX TechBridge Program Sales Distributors DX TechBridge Program Sales Distributors Shop Now From Startup Stage to Global Stage: DEEPX at COMPUTEX TAIPEI 2026 09 June, 2026 Part 1 of 2 — The Taiwan Story When DEEPX first walked into COMPUTEX InnoVEX in 2023, we were a young Korean fabless startup with a bold bet: that the next frontier of AI wouldn’t be in the cloud — it would be in the physical world. Three years later, we’re back. Not as a startup on a stage, but as a company whose chips are running inside products from over 30 global hardware partners across the show floor. This is the story of how that happened — and why Taiwan was always at the center of it. Why COMPUTEX? Why Taiwan? COMPUTEX TAIPEI isn’t just a trade show. It’s where the global hardware ecosystem decides what comes next. Nvidia, Qualcomm, Intel, Marvell, NXP — the CEOs of the world’s most influential AI and semiconductor companies come here to lay out their visions for the next generation of computing infrastructure. For an AI chip company, there’s no more important room to be in. Taiwan, more broadly, is the single most critical proving ground for any serious semiconductor business. Industrial PCs, embedded computing, servers, network equipment, storage, motherboards — if it runs AI at the edge, chances are it was designed, built, or distributed through Taiwan’s hardware ecosystem. When DEEPX was deciding where to establish its global presence, the answer was clear. As our CEO Lokwon Kim put it: “If you want to catch a tiger, you have to go into the tiger’s den.” 2025 Computex Taipei A Relationship Built Over Years Our connection to Taiwan’s hardware industry didn’t begin this year. It didn’t even begin at COMPUTEX 2025, when we co-exhibited with more than 15 leading Taiwanese industrial PC and server companies. It started in 2023, when DEEPX won the COMPUTEX InnoVEX Innovation Award — recognition that our ultra-low-power AI semiconductor technology had genuine potential in the edge AI market. That win opened doors. It started conversations. It put us on the radar of an ecosystem that evaluates companies not by where they’re from, but by what they’ve actually built. In 2024, Digitimes — Taiwan’s most influential IT industry publication — placed an interview with our CEO directly opposite their feature interview with Nvidia’s Jensen Huang. The message was clear: DEEPX was being watched as one of the next significant players in on-device AI semiconductors. What we found in Taiwan surprised us. CEO Kim reflected on it this way: “What I actually experienced in the Taiwan market wasn’t barriers or bias against foreign companies. It was a remarkably open, merit-driven ecosystem — one that evaluates technology and product competitiveness on its own terms, and connects you with better partners when you prove yourself.” That openness is why DEEPX was able to build deep, early-stage partnerships with Taiwan’s hardware ecosystem while many larger Korean companies were still deciding whether to show up. The Shift: From Award Winner to Ecosystem Player Between 2023 and today, something fundamental changed for DEEPX. We went from a company demonstrating technology to a company shipping products. In August last year, we launched our first commercial AI semiconductor and module lineup into mass production. That transition — from tech validation to commercial deployment — changes everything about how the industry sees you. It changes the conversations you can have. It changes the partnerships available to you. And it changes what you can show at an event like COMPUTEX. At COMPUTEX TAIPEI 2026 (June 2–5, Taipei, Taiwan), DEEPX will operate its own dedicated exhibition booth — but more importantly, our products will appear simultaneously across the official booths of over 30 global hardware manufacturers, system integrators, and software partners. Those partners include: Advantech, ASRock, MSI, AAEON, QNAP, BIOSTAR, Apacer, Lanner, iEi, Portwell, Aetina, Sintrones, ARBOR, DFI, Axiomtek , and more — alongside global distribution partners Avnet and WPG . This is what it looks like when a fabless semiconductor company becomes part of the global hardware infrastructure. What Is Physical AI, and Why Does It Matter Now? The global AI industry has grown explosively around large language models and generative AI. But AI’s next wave is moving beyond data centers — into r",
+        "fullSummary": "- DEEPX: Pioneering Innovation in Edge AI Semiconductors Skip to content AI Chips Available for Evaluation AI Chips Available for Testing Apply Now Products DX-M1 DX-M1M DX-H1 Quattro DX-H1 V-NPU DX-AIPlayer DXNN® SDK Solutions Edge Computing Smart Mobility Smart Factory Smart City VMS Developers About Us Our Story Career Contact Us CES On! Products DX-M1 DX-M1M DX-H1 Quattro DX-H1 V-NPU DX-AIPlayer DXNN® SDK Solutions Edge Computing Smart Mobility Smart Factory Smart City VMS Developers About Us Our Story Career Contact Us CES On! DX TechBridge Program Sales Distributors DX TechBridge Program Sales Distributors Shop Now From Startup Stage to Global Stage: DEEPX at COMPUTEX TAIPEI 2026 09 Ju...",
+        "summarySource": "article",
+        "outlet": "DEEPX",
+        "outletUrl": "https://www.deepx.ai/feed/",
+        "source": "DEEPX",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI인프라",
+          "데이터센터",
+          "NPU",
+          "추론",
+          "온디바이스AI",
+          "딥엑스",
+          "NVIDIA",
+          "실증·조달"
+        ],
+        "issueCategory": "NPU",
+        "score": 46
+      },
+      {
+        "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+        "link": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+        "publishedAt": "Tue, 09 Jun 2026 22:34:27 +0000",
+        "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging […]",
+        "fullText": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute NVIDIA GPUs to support server-side inference for Apple Intelligence, announced at WWDC. Link copied! NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models , custom-built by Apple and Google, leveraging the technologies behind the Gemini family of models. NVIDIA is collaborating with Apple and Google to support some of the next-generation Apple Intelligence features, using NVIDIA Blackwell GPUs with Confidential Computing integrated into Private Cloud Compute’s hardware security architecture running on Google Cloud. Confidential Computing Matters for the Era of AI Experiences NVIDIA Confidential Computing provides a hardware-based security layer for accelerated AI workloads. The technology protects data while it’s being processed by isolating workloads in trusted execution environments and enabling systems to cryptographically verify that the infrastructure has not been tampered with before any sensitive data is sent to the server. For end users, NVIDIA Confidential Computing means that no one, not even the system’s builders, can look at their data, chats or conversations. Adoption of NVIDIA Confidential Computing at this scale reflects a broader shift in AI infrastructure: As AI experiences combine on-device and cloud-based processing for their tasks, there’s a need for high-performance, server-side inference while maintaining strong privacy and security guarantees. How Confidential Computing Enforces Privacy and Trust NVIDIA Confidential Computing reflects NVIDIA’s commitment to trustworthy AI and includes these key capabilities: Hardware-rooted trust , helping establish that systems are running on genuine, untampered NVIDIA GPUs. Encrypted communication paths , helping protect data as it moves between components. Remote attestation , enabling software to verify the security state of the platform before releasing sensitive data. Support for accelerated AI inference and training , helping organizations run privacy-sensitive workloads without moving away from GPU performance. These capabilities are increasingly relevant for AI services that need to process sensitive information while maintaining strong user privacy controls. Learn more about NVIDIA Confidential Computing and NVIDIA AI cybersecurity solutions. Watch NVIDIA CEO Jensen Huang’s GTC Taipei Keynote June 1, 11 a.m. Taipei Time Add to Calendar Recent News AI Infrastructure NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark June 12, 2026",
+        "fullSummary": "NVIDIA GPUs to support server-side inference for Apple Intelligence, announced at WWDC. NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models , custom-built by Apple and Google, leveraging the technologies behind the Gemini family of models. NVIDIA is collaborating with Apple and Google to support some of the next-generation Apple Intelligence features, using NVIDIA Blackwell GPUs with Confidential Computing inte...",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "Gemini"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "NVIDIA",
+          "Google",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 45
+      },
+      {
+        "title": "Korean Startup Takes On Cost and Latency With LLM-Specific Chip",
+        "link": "https://hyperaccel.ai/korean-startup-takes-on-cost-and-latency-with-llm-specific-chip/",
+        "publishedAt": "Wed, 18 Feb 2026 05:36:00 +0000",
+        "summary": "HyperAccel is also working with LG on an SoC version for edge appliances and robots. South Korean AI chip startup... 게시물 Korean Startup Takes On Cost and Latency With LLM-Specific Chip 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "Korean Startup Takes On Cost and Latency With LLM-Specific Chip 2월 18, 2026 HyperAccel is also working with LG on an SoC version for edge appliances and robots. South Korean AI chip startup HyperAccel is preparing to launch its Bertha 500 chip, an LLM inference accelerator designed for economical token generation in the data center. The company already has an FPGA-based server on the market with a data center chip and an edge chip imminent. Startup competitors in this field have found success delivering very fast tokens, attacking a perceived weakness in incumbent GPU architectures—their single-user token speeds. By contrast, rather than compete directly on performance, HyperAccel’s key value proposition is based on economics, Yongwoong Jung, chief strategy officer at HyperAccel, told EE Times. “We are trying to be a more affordable provider… that’s why we chose LPDDR, which is only one-tenth of HBM’s bandwidth, but since we are utilizing that bandwidth twice as well as GPUs, and because of the architecture of our computation units, we can produce 5× more tokens per second ,” Jung said. “That’s how we overcome the weakness of our DRAM bandwidth, but we still achieve value for money; that’s our value proposition.” Making better use of DRAM bandwidth means HyperAccel has perfectly good performance at human-readable speeds, a key target application for LLMs today. The most expensive GPUs are often overkill in this scenario, Jung said. “Our approach is to reduce the cost, sacrificing a little performance if needed, but targeting a very large market,” he said. “For current GPU products, only big companies can use them because of the price.” That said, even big companies such as OpenAI have requirements for cheaper hardware so they can service users still at the free tier, Jung said. The result will be an increasingly heterogeneous AI data center. “We are not trying to replace GPUs for the entire world, we are trying to find our own sweet spot,” Jung said. “Whether it’s the prefill stage or decode stage, or it could be the bigger model or smaller model—we are trying to find the sweet spots.” FPGA-based server HyperAccel was founded by KAIST Professor Jooyoung Kim, along with a group of his students at the beginning of 2023. After presenting at Hot Chips in 2023, the group received an offer for their AI accelerator IP, but chose instead to become a chip company and decided to raise a seed round, HyperAccel cofounder Seungjae Moon told EE Times. HyperAccel’s first product is an FPGA-based server, Orion, with the company’s AI accelerator chip IP. FPGAs are fairly resource-limited by AI standards, but Orion was sufficient to get the attention of some big tech companies such as Korean hyperscaler Naver Cloud, with whom the company now has a joint development agreement, Moon said. “We wanted to understand their needs instead of just creating the highest spec product we can make,” he said. The startup also has a partnership with LG to make an edge chip for on-device AI acceleration. Architecture The key differences between HyperAccel’s LPU and leading GPUs lie in its use of LPDDR instead of expensive HBM, compensating for lower bandwidth by achieving around 90% memory bandwidth utilization. This is done largely by eliminating traditional memory hierarchies, Moon said. Further efficiencies come from specializing in inference and transformer/LLM workloads. “GPUs have a huge structural mismatch ,” Moon said. “When running LLM inference, they are only able to achieve around 45% memory bandwidth utilization because of their complex hierarchy—going from memory to compute cores needs to go all the way through the hierarchy. They also have too many compute units for what LLM inference needs, so they only achieve around 30% compute utilization. And because they are too highly spec’d , they have a high price.” HyperAccel has closely matched memory bandwidth to compute so that data can be streamed in quickly rather than having to go through caches. Local memory units are exactly sized for LLM inference, and the instruction scheduling unit is able to stream all the AI model data without any stalling, Moon said. GPUs also require data to be reformatted or reshaped between HBM and SRAM, Moon said, whereas HyperAccel stores formatted data in its DRAM, which can be loaded directly into compute, bypassing SRAM, and avoiding any back-and-forth. HyperAccel also uses one large compute core instead of many small cores. These architectural features mean the company can get more tokens per second from less compute—around 5× the tokens per second when normalized to the amount of compute power, relative to Nvidia Hopper-generation GPUs, Moon said. Bertha 500 has taped out on Samsung 4 nm. It will offer 768 TOPS (INT8, but also support FP16 and other 16, 8, and 4-bit formats) from 32 LPU cores with 256 MB SRAM. There are also quad Arm Cortex-A53 cores on the chip. It has DRAM bandwidth of 560 GB/s (8 channels of LPDDR5x). Batch sizes up to 1024 ",
+        "fullSummary": "HyperAccel is also working with LG on an SoC version for edge appliances and robots. South Korean AI chip startup HyperAccel is preparing to launch its Bertha 500 chip, an LLM inference accelerator designed for economical token generation in the data center. The company already has an FPGA-based server on the market with a data center chip and an edge chip imminent. Startup competitors in this field have found success delivering very fast tokens, attacking a perceived weakness in incumbent GPU architectures—their single-user token speeds.",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Arm",
+          "Samsung",
+          "하이퍼엑셀"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "하이퍼엑셀",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 43
+      },
+      {
+        "title": "NVIDIA Blackwell, 업계 최초 에이전틱 AI 인프라 벤치마크에서 선두 기록",
+        "link": "https://blogs.nvidia.co.kr/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+        "publishedAt": "Mon, 15 Jun 2026 03:50:38 +0000",
+        "summary": "NVIDIA GB300 NVL72가 업계 최초 에이전틱 AI 인프라 벤치마크 AgentPerf에서 NVIDIA Hopper 대비 메가와트당 최대 20배 높은 에이전트 처리량을 달성했습니다. Blackwell 기반 에이전틱 워크로드 결과를 자세히 확인하세요. The post NVIDIA Blackwell, 업계 최초 에이전틱 AI 인프라 벤치마크에서 선두 기록 appeared first on NVIDIA Blog Korea .",
+        "fullText": "NVIDIA Blackwell, 업계 최초 에이전틱 AI 인프라 벤치마크에서 선두 기록 NVIDIA GB300 NVL72가 업계 최초 에이전틱 AI 인프라 벤치마크 AgentPerf에서 NVIDIA Hopper 대비 메가와트당 최대 20배 높은 에이전트 처리량을 달성했습니다. Blackwell 기반 에이전틱 워크로드 결과를 자세히 확인하세요. 개발자, 기업, 인프라 제공업체에게 에이전틱 AI 시스템을 비교할 수 있는 명확한 기준을 제시합니다. 첫 번째 공개 결과에서 NVIDIA Blackwell Ultra NVL72 플랫폼이 선두를 기록했으며, NVIDIA Hopper 대비 메가와트당 20배 많은 에이전트를 처리하는 것으로 나타났습니다. 에이전틱 AI는 기존 대화형 AI와 근본적으로 다른 워크로드입니다. 단순한 채팅 완성은 짧은 스프린트와 같은데요, LLM(거대 언어 모델) 호출 한 번에 응답 한 번으로 끝나죠. 반면 에이전트는 릴레이에 더 가깝습니다. 목표를 여러 단계로 분해하고, 작업이 완료될 때까지 계속 실행합니다. 에이전트는 여러 LLM 호출과 툴 호출을 연결해 컨텍스트를 수집하고, 상황을 관찰하며, 추론하고, 행동합니다. 이 과정에서 수십에서 수백 개의 LLM 호출이 연쇄적으로 연결되는데, 각 호출은 점점 커지는 컨텍스트를 다음 호출로 전달하며, 코드 컴파일·실행, 데이터베이스 검색, 웹 브라우징 같은 툴 호출이 모든 연결 지점마다 발생합니다. 복잡성은 단순히 더해지는 것이 아니라 곱해지는 셈이죠. 이러한 차이는 성능 측정에서도 매우 중요한 의미를 지닙니다. 기존 AI 추론 벤치마크는 단일 LLM 호출만을 측정합니다. LLM이 단일 요청에 얼마나 빠르게 응답하는지, 동시에 얼마나 많은 요청을 처리할 수 있는지를 보는 것이죠. 그러나 이러한 벤치마크는 에이전틱 워크로드를 위해 설계된 것이 아닙니다. 연쇄적인 LLM 호출, 툴 호출 지연, 늘어나는 컨텍스트는 단일 LLM 호출과는 전혀 다른 방식으로 가속 컴퓨팅 시스템에 부담을 줍니다. 대규모 에이전트를 구축·배포하는 기업 입장에서는 에이전트의 응답성, 동시에 배포 가능한 에이전트 수, 그리고 투자한 비용과 전력 대비 AI 인프라가 실질적으로 제공하는 작업량을 정확히 파악하는 것이 중요합니다. NVIDIA GB300 NVL72, 메가와트당 에이전트 처리량 최대 20배 달성 이번 첫 번째 결과에서 AgentPerf는 오늘날 최고 수준의 에이전트를 구동하는 대규모 MoE(혼합 전문가) 모델인 DeepSeek V4 Pro를 사용해 에이전틱 성능을 측정했습니다. 이 워크로드에서 NVIDIA GB300 NVL72는 벤치마크 최고 성능을 기록하며, NVIDIA HGX H200 시스템 대비 메가와트당 최대 20배 많은 에이전트를 처리했습니다. NVIDIA GB300 NVL72는 에이전트당 초당 20토큰과 60토큰, 두 가지 서비스 수준 목표(SLO) 모두에서 NVIDIA H200보다 메가와트당 훨씬 많은 동시 에이전트를 지원합니다. 이러한 성능 우위는 전체 스택에 걸친 정밀한 코디자인에서 비롯됩니다. GB300 NVL72는 72개의 GPU를 단일 랙 규모 시스템으로 연결하며, DeepSeek V4 Pro 같은 대규모 MoE 모델이 대규모 환경에서 효율적으로 모델 실행을 분산할 수 있도록 지원합니다. CUDA 커널은 통신과 컴퓨팅을 중첩하여 성능을 더욱 끌어올리는데요, 전문가 간 조율 비용이 지연 시간에 더해지는 것이 아니라 흡수되어 전체 처리 효율이 크게 향상됩니다. NVIDIA TensorRT LLM은 동시 에이전트 세션이 증가해도 효율을 유지합니다. 예를 들어, 입력 처리와 출력 생성을 분리해 각각을 독립적으로 최적화하는 방식을 활용합니다. 이러한 결과는 실제 에이전틱 AI가 프로덕션에서 작동하는 방식을 처음부터 반영하여 설계된 벤치마크 방법론을 기반으로 합니다. Artificial Analysis AgentPerf: 실제 에이전틱 워크로드 기반 구축 AgentPerf는 실제 코딩 에이전트 궤적을 기반으로 구축되었습니다. 에이전트는 작업을 받고 파일을 읽으며, 코드를 작성·수정하고, 명령을 실행한 뒤 결과를 바탕으로 반복 작업을 수행합니다. 이 데이터는 12개 이상의 프로그래밍 언어를 아우르는 실제 공개 코드 저장소에서 수집한 것으로, 긴 시퀀스 길이와 툴 호출 패턴, 지연 시간 모두 실제 코딩 워크플로를 그대로 반영합니다. AgentPerf는 플랫폼이 응답성과 출력 토큰 비율에 대해 정의된 성능 임계값을 충족하면서 동시에 지원할 수 있는 에이전틱 태스크의 수를 측정합니다. 툴 호출은 실제로 실행되지 않고 대표적인 CPU 처리 시간으로 시뮬레이션되므로, 결과의 차이는 가속 컴퓨팅 성능만을 반영합니다. 이 결과는 곧 인프라 의사결정으로 이어집니다. 가속기당, 전력 메가와트당 몇 개의 동시 에이전틱 태스크를 실행할 수 있는지가 핵심이며, 대규모로 AI 에이전트를 배포하는 기업에게는 이 수치가 주어진 인프라 투자로 실질적으로 얼마나 많은 업무를 처리할 수 있는지를 결정합니다. NVIDIA 에코시스템 파트너, Blackwell의 선도적 성능 활용 Baseten, DeepInfra, Together AI를 비롯한 주요 추론 서비스 제공업체들이 이미 NVIDIA Blackwell에서 DeepSeek V4 Pro 같은 최신 모델로 에이전틱 워크로드를 서비스하며 실제 에이전틱 애플리케이션을 구동하고 있습니다. Together AI는 NVIDIA Blackwell 기반으로 AI 에이전틱 코딩 플랫폼인 Cursor에 실시간 추론을 제공합니다. Cursor의 에이전트는 개발자가 계속 작업하는 동안 문제를 디버깅하고, 기능을 생성하며, 리팩토링을 실행합니다. DeepInfra는 자동차 대리점을 위한 AI 인력 플랫폼인 Pam.ai를 지원하는데요, 전적으로 NVIDIA Blackwell에서 구동되는 에이전트를 통해 서비스 예약, 전화 응대, 아웃바운드 영업 캠페인을 자동화합니다. NVIDIA와 오픈 소스 에코시스템이 에이전틱 워크로드를 위한 추론 소프트웨어를 지속적으로 최적화함에 따라, 성능과 효율은 계속해서 향상될 것입니다. 한편 NVIDIA Vera Rubin 아키텍처는 현재 양산 단계에 들어서, 확장되는 에이전틱 AI 수요를 충족할 차세대 인프라 역량을 갖춰가고 있습니다. AgentPerf 방법론과 에이전틱 AI를 위한 NVIDIA의 전체 스택 최적화에 대한 자세한 내용은 기술 블로그 에서 확인하세요. 카테고리: AI Infrastructure | Hardware | Networking | Software 태그: Agentic AI | cuda | Inference All NVIDIA News NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI",
+        "fullSummary": "NVIDIA GB300 NVL72가 업계 최초 에이전틱 AI 인프라 벤치마크 AgentPerf에서 NVIDIA Hopper 대비 메가와트당 최대 20배 높은 에이전트 처리량을 달성했습니다. Blackwell 기반 에이전틱 워크로드 결과를 자세히 확인하세요. 개발자, 기업, 인프라 제공업체에게 에이전틱 AI 시스템을 비교할 수 있는 명확한 기준을 제시합니다. 첫 번째 공개 결과에서 NVIDIA Blackwell Ultra NVL72 플랫폼이 선두를 기록했으며, NVIDIA Hopper 대비 메가와트당 20배 많은 에이전트를 처리하는 것으로 나타났습니다.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog Korea",
+        "outletUrl": "https://blogs.nvidia.co.kr/feed/",
+        "source": "NVIDIA Blog Korea",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI에이전트",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 42
+      },
+      {
+        "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+        "link": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+        "publishedAt": "Mon, 08 Jun 2026 06:00:57 +0000",
+        "summary": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’s infrastructure, startups […]",
+        "fullText": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies A year after declaring itself an “AI maker, not an AI taker,” the UK is delivering sovereign compute, showcasing breakthrough startup and enterprise AI deployments across biology, agentic AI, coding and more. Link copied! A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration : the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’s infrastructure, startups and enterprises. U.K. technology leaders are innovating across healthcare and life sciences, coding, agentic AI, inference and more — all running on sovereign AI deployments. “A year ago, we said the U.K. would be an AI maker, not an AI taker,” said U.K. AI Minister Kanishka Narayan. “Today we’re delivering on that — with sovereign compute powering British startups to push the boundaries of what AI can do, from drug discovery to healthcare to robotics. This is what it looks like when a country backs its own talent with the infrastructure to match. “NVIDIA’s decision to invest billions here is a reflection of the strength of what’s being built in Britain,” he added. “We are determined to make sure the next generation of AI breakthroughs happens in this country, and we have everything we need to make it happen.” Commitment to Compute Over the past year, the number of AI cloud providers planning to deploy AI infrastructure on U.K. soil has doubled. Nebius has announced plans to expand customers and cloud capabilities with three new deployments of advanced NVIDIA AI infrastructure, as the NVIDIA AI Cloud ecosystem partner continues to build out its commercial and AI R&D hub in London. Combined, the deployments are expected to reach 65 megawatts when fully ramped up in 2027. CoreWeave is building in the U.K. Government’s AI Growth Zones, and seven more NVIDIA AI Cloud ecosystem partners have plans in the pipeline. BT and Nscale announced plans to build sovereign AI data centers across three existing BT sites in the U.K., combining NVIDIA AI infrastructure, Nscale’s full stack and BT’s trusted nationwide connectivity backbone. From Fund to Frontier Central to that sovereign compute story is Isambard-AI — the U.K.’s most powerful computer. Built on 5,400 NVIDIA GH200 Grace Hopper Superchips and running entirely on zero-carbon electricity, it’s the engine behind some of the U.K.’s most ambitious AI research. The U.K. government’s Sovereign AI Fund is putting that capability to work by backing homegrown companies and providing the domestic infrastructure needed to scale their ambitions. Among its first recipients is Ineffable Intelligence , which recently announced a collaboration with NVIDIA to build the future of reinforcement learning infrastructure. Other recipients include four U.K.-based NVIDIA Inception startups, each pushing the AI frontier using Isambard-AI. These startups are: Cosine Builds Sovereign Coding Platform Cosine is building an end-to-end sovereign AI coding platform for highly regulated industries such as financial services, critical infrastructure and national security. Using Isambard, Cosine is training a new, large-parameter, mixture-of-experts , multimodal agentic LLM for natively handling data types beyond text and image. “Access to Isambard enables the project, full stop,” said Alistair Pullen, cofounder and CEO of Cosine. “We already have the people who know how to do this. We have the data. We have the infrastructure and the training. The thing we’ve never had is this level of compute.” Cursive Trains Self-Improving AI Systems Cursive is building self-improving AI systems that learn continuously from real-world data, enabling them to operate autonomously over long periods of time. This is unlocked through new memory-augmented architectures with dramatically larger context windows, currently in development using the Sovereign AI Fund resources. In addition, the team recently adopted the NVIDIA Megatron-LM framework for distributed training at scale. “The Sovereign AI Fund is more than just processing power — it’s a statement about investing in AI in the U.K.,” said Talfan Evans, cofounder and CEO of Cursive. “Sovereignty is actually now a buying criterion — and it’s a challenge to tap into the resources we uniquely have as U.K. and European companies.” Doubleword Optimizes Inference to Deliver Abundant Intelligence Tokens Doubleword , the U.K.’s first dedicated inference lab, optimizes every layer of the AI stack to maximize what it calls “IQ per dollar.” The company deploys open models including NVIDIA Nemotron 3 Super 120B and builds on the NVIDIA Dynamo inference framework. On Isambard, Doubleword’s early results achieved 70x faster model cold starts — aka model loading times — and 4x lossless KV cache compression , critical advancements for long-running agentic workl",
+        "fullSummary": "A year after declaring itself an “AI maker, not an AI taker,” the UK is delivering sovereign compute, showcasing breakthrough startup and enterprise AI deployments across biology, agentic AI, coding and more. A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration : the U.K. would be an AI maker, not an AI taker.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Arm"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "NVIDIA",
+          "파운드리·패키징",
+          "수출통제·공급망",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 42
+      },
+      {
+        "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+        "link": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+        "publishedAt": "Sun, 07 Jun 2026 23:00:36 +0000",
+        "summary": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, power generation and advanced electronics materials […]",
+        "fullText": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure Companies to explore robotics, AI factory power solutions and advanced electronics materials for next-generation data center systems. Link copied! NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, power generation and advanced electronics materials to support next-generation AI infrastructure. Doosan Group’s businesses span several layers of the AI factory ecosystem, from intelligent robotics systems to the full spectrum of large-scale power solutions and advanced electronics materials for AI data center equipment. NVIDIA and Doosan will explore how NVIDIA’s physical AI stack, NVIDIA DSX AI factory platform, NVIDIA MGX and accelerated computing platforms can support these areas. Advancing Physical AI and Robotics Doosan Robotics is integrating NVIDIA Isaac Sim and NVIDIA Isaac Lab open robotics frameworks, NVIDIA Cosmos open world foundation models , the open source Newton physics engine and NVIDIA Jetson Thor to advance its Agentic Robot OS — an AI-powered platform connecting perception, reasoning, simulation, learning and on-device inference. By integrating NVIDIA’s physical AI technologies , Doosan Robotics aims to help industrial robots better perceive, reason and act in complex and dynamic environments. Simulation-to-real workflows, physics calibration and AI reasoning will make collaborative robots more adaptable, task-specialized and ready for scalable deployment. The companies are also looking to develop reference use cases for high-value industrial tasks such as depalletizing and sanding, as well as new robot form factors including dual-arm and humanoid platforms. Built on Agentic Robot OS, these capabilities aim to help Doosan Robotics evolve from a robot arm provider into a full-stack AI-first robotics solution company. The work is part of a broader, Doosan Group-wide direction for physical AI that extends beyond robotics into areas such as construction machinery and power equipment. Doosan Bobcat also plans to explore integrating NVIDIA physical AI technologies into equipment used across construction, landscaping, agriculture and material handling applications. This work will help accelerate the development of specialized world models that enable Doosan Bobcat’s equipment to perceive diverse operating environments, reason about changing conditions and perform tasks more autonomously. The companies also aim to help establish an industry-standard ecosystem for compact autonomous equipment. Exploring AI Factory Power Solutions Doosan Enerbility is exploring opportunities to support NVIDIA AI factories and the NVIDIA DSX AI factory platform through its large-scale power infrastructure portfolio, including gas turbines, steam turbines and small modular reactors, together with Doosan Fuel Cell’s hydrogen fuel-cell systems. These technologies are relevant to AI data centers that require reliable, high efficiency and continuously available power. Future collaboration could include power supply design for AI factory deployments, optimization of generation equipment and evaluation of low-carbon power sources such as small modular reactors. By aligning AI infrastructure requirements with energy system expertise, Doosan Enerbility could help address the growing power demands of accelerated computing. Supporting the NVIDIA MGX Ecosystem With Advanced PCB Materials Doosan Corporation Electro-Materials BG is supporting next-generation AI data center infrastructure through copper clad laminate, or CCL, a key foundational material for printed circuit boards. High-performance CCLs are used in printed circuit boards (PCBs) for networking equipment, AI accelerators and AI server motherboards, where low signal loss and high reliability are critical. NVIDIA MGX provides a modular reference architecture for accelerated systems, helping system manufacturers and ecosystem partners build servers and rack-scale AI factory infrastructure. As AI servers and networking systems increase in performance and bandwidth, advanced PCB materials such as CCL can play an important role in enabling high-speed signal integrity across the data center equipment ecosystem. Learn more about NVIDIA DSX and MGX . Featured image courtesy of Doosan Group. Watch NVIDIA CEO Jensen Huang’s GTC Taipei Keynote June 1, 11 a.m. Taipei Time Add to Calendar Recent News AI Infrastructure NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark June 12, 2026",
+        "fullSummary": "Companies to explore robotics, AI factory power solutions and advanced electronics materials for next-generation data center systems. NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, power generation and advanced electronics materials to support next-generation AI infrastructure. Doosan Group’s businesses span several layers of the AI factory ecos...",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Arm"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "NVIDIA",
+          "투자·M&A",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 42
+      },
+      {
+        "title": "NVIDIA-두산그룹, 피지컬 AI와 AI 팩토리 인프라 발전 위해 협력하다",
+        "link": "https://blogs.nvidia.co.kr/blog/nvidia-and-doosan-group-physical-ai/",
+        "publishedAt": "Tue, 09 Jun 2026 01:19:11 +0000",
+        "summary": "NVIDIA는 두산그룹(Doosan Group)과 피지컬 AI, 로보틱스, AI 팩토리 인프라 전반의 신사업 기회 발굴을 위해 협력을 확대합니다. 이번 협력은 두산로보틱스(Doosan Robotics), 두산밥캣(Doosan Bobcat), 두산에너빌리티(Doosan Enerbility), 두산 전자BG(Doosan Corporation Electro-Materials BG) 등 두산그룹의 주요 계열사로 확대됩니다. 이번 협력을 통해 NVIDIA의 풀스택 가속 컴퓨팅 플랫폼과 두산그룹의 산업 자동화, 에너지, 첨단 전자 소재 분야의 역량이 결합되어, 차세대 AI 인프라 블로그 읽기 The post NVIDIA-두산그룹, 피지컬 AI와 AI 팩토리 인프라 발전 위해 협력하다 appeared first on NVIDIA Blog Korea .",
+        "fullText": "NVIDIA-두산그룹, 피지컬 AI와 AI 팩토리 인프라 발전 위해 협력하다 기업들은 차세대 데이터센터 시스템을 위한 로보틱스, AI 팩토리 전력 솔루션, 첨단 전자 소재 분야의 협력에 나섭니다. 반의 신사업 기회 발굴을 위해 협력을 확대합니다. 이번 협력은 두산로보틱스(Doosan Robotics), 두산밥캣(Doosan Bobcat), 두산에너빌리티(Doosan Enerbility), 두산 전자BG(Doosan Corporation Electro-Materials BG) 등 두산그룹의 주요 계열사로 확대됩니다. 이번 협력을 통해 NVIDIA의 풀스택 가속 컴퓨팅 플랫폼과 두산그룹의 산업 자동화, 에너지, 첨단 전자 소재 분야의 역량이 결합되어, 차세대 AI 인프라 구축을 지원할 예정입니다. 두산그룹의 사업 영역은 지능형 로봇 시스템부터 대규모 전력 솔루션 전반, AI 데이터센터 장비용 첨단 전자 소재에 이르기까지 AI 팩토리 생태계의 다방면에 걸쳐 있는데요. NVIDIA의 피지컬 AI 스택, NVIDIA DSX AI 팩토리 플랫폼, NVIDIA MGX , 가속 컴퓨팅 플랫폼이 이러한 분야를 어떻게 지원할 수 있을지 함께 모색할 계획입니다. 피지컬 AI와 로보틱스 발전 두산로보틱스는 NVIDIA Isaac Sim , NVIDIA Isaac Lab 오픈 로보틱스 프레임워크, NVIDIA Cosmos 오픈 월드 파운데이션 모델 , 오픈 소스 Newton 물리 엔진 , NVIDIA Jetson Thor 를 통합해, 인식, 추론, 시뮬레이션, 훈련, 온디바이스 추론을 연결하는 AI 기반 플랫폼인 에이전틱 로봇 OS(Agentic Robot OS)를 발전시키고 있습니다. 두산로보틱스는 NVIDIA의 피지컬 AI 기술 을 통합함으로써, 산업용 로봇이 복잡하고 역동적인 환경에서 사물을 더욱 정확히 인식하고, 추론하며, 행동할 수 있도록 지원할 계획인데요. 특히 시뮬레이션을 현실로 구현하는 시뮬레이션 투 리얼(Simulation-to-real) 워크플로우와 물리적 보정 기술, AI 추론 기술이 협동 로봇의 적응력을 높이고, 특정 작업에 최적화되며, 대규모 현장 배치를 본격화할 수 있을 것으로 기대됩니다. 또한 NVIDIA와 두산로보틱스는 물품 하역작업(depalletizing)과 표면 연마작업(sanding)과 같은 고부가가치 산업 공정을 위한 레퍼런스 사례를 공동 개발하고, 듀얼 암(dual-arm)과 휴머노이드 플랫폼을 포함한 새로운 로봇 개발에도 나설 계획입니다. 두산로보틱스는 에이전틱 로봇 OS로 구축된 이러한 기술을 통해 단순한 로봇 팔 공급업체를 넘어 AI 중심의 풀스택 로보틱스 솔루션 기업으로 진화할 계획이죠. 이번 협력은 두산그룹 피지컬 AI 전략의 일환으로, 로보틱스를 넘어 건설 기계, 동력 장비 등의 분야까지 확장됩니다. 두산밥캣은 건설, 조경, 농업, 물류 등 다양한 장비에 NVIDIA의 피지컬 AI 기술을 통합하는 방안을 추진합니다. 이 작업은 두산밥캣의 장비가 다양한 작업 환경을 인식하고, 변화하는 상황을 추론하며, 보다 자율적으로 작업을 수행하도록 지원하는 특화형 월드 모델 개발을 가속화하는 데 기여할 텐데요. 아울러 양사는 소형 자율 장비 분야의 산업 표준 생태계 구축을 지원하는 것을 목표로 하고 있습니다. AI 팩토리 전력 솔루션 모색 두산에너빌리티는 가스터빈, 증기터빈, 소형 모듈형 원자로(SMR) 등 대규모 전력 인프라 포트폴리오와 두산퓨얼셀(Doosan Fuel Cell)의 수소 연료전지 시스템을 결합해 NVIDIA AI 팩토리와 NVIDIA DSX AI 팩토리 플랫폼을 지원할 수 있는 사업 기회를 모색하고 있습니다. 이러한 기술들은 안정적인 고효율 전력의 지속적인 공급이 필요한 AI 데이터센터에 적합하죠. 향후에는 AI 팩토리 구축을 위한 전력 공급 설계를 비롯해 발전 설비 최적화, SMR 등 저탄소 전원 평가 등으로 협력이 확대될 전망입니다. 두산에너빌리티는 AI 인프라 요구 사항에 에너지 시스템 기술을 결합함으로써, 가속 컴퓨팅 도입으로 증가하는 전력 수요 문제를 해결하는 데 기여할 것으로 기대됩니다. 첨단 PCB 소재로 NVIDIA MGX 생태계 지원 두산 전자BG는 인쇄회로기판(PCB)의 핵심 기초 소재인 동박적층판(CCL)을 통해 차세대 AI 데이터센터 인프라 지원에 나섭니다. 고성능 CCL은 신호 손실이 적고, 높은 신뢰성이 필수적인 네트워킹 장비, AI 가속기, AI 서버 메인보드 등의 PCB에 주로 사용되죠. NVIDIA MGX는 가속 시스템을 위한 모듈형 레퍼런스 아키텍처를 제공해, 시스템 제조업체와 생태계 파트너들이 서버와 랙 규모의 AI 팩토리 인프라를 원활히 구축할 수 있도록 지원합니다. AI 서버와 네트워킹 시스템의 성능과 대역폭이 향상됨에 따라, CCL과 같은 첨단 PCB 소재는 데이터센터 장비 생태계 전반에서 고속 신호 무결성을 확보하는 핵심적인 역할을 수행합니다. NVIDIA DSX 와 MGX 에 대한 자세한 정보는 홈페이지를 통해 확인할 수 있습니다. 사진제공: 두산그룹 카테고리: AI Infrastructure | Robotics 태그: Agentic AI | AI Factory | Artificial Intelligence | Cosmos | energy | Hardware | Industrial and Manufacturing | Isaac | Jetson | Physical AI | robotics | Simulation and Design All NVIDIA News NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI",
+        "fullSummary": "기업들은 차세대 데이터센터 시스템을 위한 로보틱스, AI 팩토리 전력 솔루션, 첨단 전자 소재 분야의 협력에 나섭니다. 반의 신사업 기회 발굴을 위해 협력을 확대합니다. 이번 협력은 두산로보틱스(Doosan Robotics), 두산밥캣(Doosan Bobcat), 두산에너빌리티(Doosan Enerbility), 두산 전자BG(Doosan Corporation Electro-Materials BG) 등 두산그룹의 주요 계열사로 확대됩니다. 이번 협력을 통해 NVIDIA의 풀스택 가속 컴퓨팅 플랫폼과 두산그룹의 산업 자동화, 에너지, 첨단 전자 소재 분야의 역량이 결합되어, 차세대 AI 인프라 구축을 지원할 예정입니다.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog Korea",
+        "outletUrl": "https://blogs.nvidia.co.kr/feed/",
+        "source": "NVIDIA Blog Korea",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "Arm"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "NVIDIA",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 40
+      },
+      {
+        "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+        "link": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
+        "publishedAt": "Wed, 10 Jun 2026 19:00:12 +0000",
+        "summary": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem […]",
+        "fullText": "For Robotaxis, Safety Must Be Built In, Not Bolted On nk Link copied! A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem accelerating the pace of deployment. New collaborations announced at NVIDIA GTC Taipei reflect robotaxi programs spinning up around the world: Uber and Autobrains are launching a robotaxi program in Munich on the NVIDIA DRIVE Hyperion platform, using Autobrains’ agentic AI to support scalable operations. Foxconn is expanding its collaboration with NVIDIA to deploy robotaxi fleets, combining its services with NVIDIA DRIVE Hyperion for rapid integration and scaling in Taiwan. VinFast is working with Autobrains to bring level 4 vehicles built on DRIVE Hyperion to the Southeast Asia market. HUMAIN is working to bring DRIVE Hyperion-powered robotaxis to Saudi Arabia, expanding the platform’s global footprint into the Middle East. Building a Safe Software Foundation As the robotaxi industry scales, safety is paramount. Regulators, certification bodies and developers are scrutinizing what safe deployment at scale requires. Industry discussion on level 4 autonomy often centers on what the vehicle can perceive and decide. That discussion is well-founded. Accurate perception, sound decision-making and handling the unexpected are difficult problems, and real progress toward solving them is being made. But perception and decisions alone are not the whole story. Regulators require something more: proof that the overall system behaves reliably, isolates faults before they escalate and never operates outside the boundaries it was designed for. Robotaxi safety requires solving four distinct challenges simultaneously: A safety-certifiable operating system Safe, standardized hardware and software interfaces AI that operates within verifiable guardrails Validation at scale before vehicles touch public roads To help solve these challenges, the recently introduced Halos Operating System (OS) — a component of the NVIDIA Halos full-stack, comprehensive safety system — offers a unified, production-ready safety foundation for AI-driven vehicles, built on NVIDIA DRIVE Hyperion. It comprises: Halos Core: A Certified OS Foundation At the foundation of NVIDIA Halos OS is Halos Core, which is the next generation of NVIDIA DriveOS and certified to automotive safety standards. It’s audited, documented and proven to behave predictably under fault conditions, with a hypervisor — a specialized software layer — that isolates safety-critical functions so failures can’t reach vehicle controls. Halos Core is compliant with ISO 26262 ASIL D, includes safety-certified support for NVIDIA CUDA and TensorRT, and provides the TensorRT Edge-LLM open source framework for high-performance large language model inference. Halos SDK: Standardized and Safe Interfaces A robotaxi integrates cameras, radar, lidar and other sensors, each streaming data in a different format at a different rate. Without a standardized middleware layer, every hardware change forces teams to manually rebuild those integrations. Halos SDK removes that burden. Its sensor abstraction layer decouples the autonomous driving stack from individual sensor drivers, so adding or swapping a sensor no longer causes ripples through application code, while a vehicle abstraction layer connects the autonomous driving stack to the rest of the vehicle through a single, consistent interface. On top, Halos SDK provides the runtime building blocks that safety-critical software demands: a deterministic application-level scheduler for predictable timing, zero-copy inter-process communication that moves data without added latency, a comprehensive system error-handling framework and a robust scenario data recorder — delivering the foundation for highly reliable and low-latency automotive applications. Halos Applications: Safety Guardrails for AI AI models can match human driving behavior, but regulators require more than performance. The Halos Applications layer provides safety guardrails for AI through deterministic, rule-based functions, analyzed and designed to behave within defined bounds. It includes world model perception and the top-rated NVIDIA DRIVE active safety stack featuring automatic emergency braking, lane departure warning, blind spot monitoring, collision warning and more. In addition, in Halos Applications, Halos OS can be combined with end-to-end AI models for which explainability and transparency are essential. This includes the NVIDIA Alpamayo family of open models for autonomous vehicle development, which enables chain-of-thought reasoning, continuously evaluating the road, planning next steps and adapting to changing conditions. The Halos Safety Evaluation Framework Halos Infra is the cloud-side developmen",
+        "fullSummary": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem accelerating the pace of deployment.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "추론",
+          "NVIDIA",
+          "파운드리·패키징",
+          "투자·M&A",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 38
+      },
+      {
+        "title": "NVIDIA와 SK텔레콤, 한국 AI 혁신 이끌 AI 인프라 구축하다",
+        "link": "https://blogs.nvidia.co.kr/blog/sk-telecom-ai-infrastructure/",
+        "publishedAt": "Mon, 08 Jun 2026 05:30:57 +0000",
+        "summary": "SK텔레콤은 NVIDIA DSX AI 팩토리 아키텍처 기반의 NVIDIA AI 클라우드 용량을 확장해, 국내 AI 스타트업, 로보틱스와 산업용 피지컬 AI를 가속화합니다. The post NVIDIA와 SK텔레콤, 한국 AI 혁신 이끌 AI 인프라 구축하다 appeared first on NVIDIA Blog Korea .",
+        "fullText": "NVIDIA와 SK텔레콤, 한국 AI 혁신 이끌 AI 인프라 구축하다 SK텔레콤은 NVIDIA DSX AI 팩토리 아키텍처 기반의 NVIDIA AI 클라우드 용량을 확장해, 국내 AI 스타트업, 로보틱스와 산업용 피지컬 AI를 가속화합니다. W)급 AI 클라우드를 구축할 계획입니다. 오는 2027년 첫 번째 AI 팩토리 가동을 목표로 하고 있죠. AI 클라우드는 데이터로부터 인텔리전스의 기본 단위인 토큰을 생산하는 AI 팩토리 중심의 대규모 AI 인프라인데요. 범용 클라우드 서비스를 제공하는 기존의 대규모 제공업체와 달리, AI 클라우드는 모델 훈련, 추론, 에이전틱 AI 등 AI 워크로드 처리에 특화된 GPU 기반의 클라우드 컴퓨팅 서비스를 제공합니다. SK텔레콤의 AI 클라우드는 소프트웨어, 하드웨어, 운영 전반을 아우르는 NVIDIA DSX 풀스택 레퍼런스 아키텍처를 기반으로 구축됩니다. 이는 에너지 효율을 극대화하는 동시에 최저 수준의 토큰당 생성 비용을 실현합니다. SK텔레콤의 AI 클라우드는 한국 전역의 기업과 산업을 위한 소버린 AI, 피지컬 AI, 기업용 AI 서비스를 포함해 모델 훈련, 추론, 에이전틱 워크로드 처리를 전방위적으로 지원하게 됩니다. 더 나아가 향후 아시아 전역으로 서비스를 확대해 나간다는 비전인데요. 이번 협력은 한국이 세계에서 가장 앞선 AI 산업 국가 중 하나임을 보여주는데요. 한국 기업들은 통신, 메모리, 반도체, 제조, 로보틱스, 모빌리티, 소비자 기술 분야를 선도하고 있습니다. 이러한 산업 전반에서 AI는 연구실과 챗봇 수준을 넘어 안전한 생산 환경에 본격적으로 도입되고 있죠. NVIDIA 창립자 겸 CEO 젠슨 황(Jensen Huang)은 “통신 네트워크는 국가 AI 인프라로 진화하고 있습니다. 사람과 기업, 기기, 기계를 연결하고, 새로운 AI 클라우드의 핵심 기반이 될 것이죠. SK텔레콤은 NVIDIA DSX를 기반으로 대규모 소버린 AI 클라우드를 구축하고, 한국과 세계를 이끄는 기업과 산업 전반에서 에이전트, 기업용 AI, 피지컬 AI를 제공할 계획”이라고 말했습니다. 최태원 SK그룹 회장은 “NVIDIA와의 긴밀한 파트너십을 통해 반도체 칩부터 데이터센터 운영에 이르기까지 풀스택 AI 인프라 역량을 확보하게 됐습니다. 앞으로 NVIDIA와 협력해 GPU, 메모리, 에너지 측면의 도전 과제들을 함께 해결해 나가는 한편, 아시아 AI 생태계를 선도하는 AI 팩토리 기업으로 도약할 것”이라고 말했습니다. SK 텔레콤 AI 클라우드, 산업과 기업 위한 에이전틱 AI와 피지컬 AI 확장 지원 새로운 SK텔레콤 AI 클라우드(SK Telecom AI Cloud)는 AI 컴퓨팅 성장이 가속화됨에 따라 증가하는 AI 인프라 수요를 충족하기 위해 설계됐습니다. 이 인프라는 피지컬 AI와 에이전틱 AI 개발 분야에서 SK텔레콤의 리더십을 기반으로 하고 있는데요. SK텔레콤은 지난주 열린 NVIDIA GTC Taipei에서 NVIDIA Omniverse TM 라이브러리를 활용해 SK하이닉스(SK hynix) 반도체 팹에 디지털 트윈을 적용 한 최신 개발 성과를 공개했습니다. 복잡한 대규모 제조 환경에 최적화된 기술을 선보였죠. 또한 지난 4월에는 한국 정부의 독자 AI 파운데이션 모델 프로젝트(Sovereign AI Foundation Model Project)의 일환으로, A.X K1 모델 훈련에 오픈소스 NVIDIA Nemotron TM 데이터셋을 채택한 바 있습니다. 또한 이번 협력의 일환으로 SK텔레콤은 NVIDIA 클라우드 파트너(NCP)로 참여하게 됩니다. 참여 기업은 NVIDIA의 최신 AI 인프라, 소프트웨어, 개발자 생태계를 활용할 수 있는데요. 이를 통해 우수한 AI 성능과 뛰어난 경제성을 갖춘 AI 클라우드 서비스를 제공할 수 있습니다. NVIDIA DSX 플랫폼으로 신속한 설계와 초고효율 운영 제공 NVIDIA DSX 플랫폼은 AI 팩토리를 위해 처음부터 공동 설계로 엔지니어링된 플랫폼입니다. 이는 NVIDIA 칩, 시스템, 소프트웨어, 시설, 파트너 기술 전반을 아우르며, 토큰당 비용을 최소화하고, 초기 양산 시점을 앞당길 수 있도록 지원하죠. NVIDIA DSX MaxLPS TM 소프트웨어는 메가와트당 토큰 성능을 극대화해 최저 수준의 토큰 비용을 제공합니다. 또한 NVIDIA DSX OS TM 는 라이프사이클 관리, 런타임 일관성, 상태 자동화, 복원력, 멀티테넌트 AI 팩토리 운영 등을 위한 오픈소스 모듈형 소프트웨어를 제공하죠. 이를 통해 클라우드 서비스 제공업체는 수익성을 높이고 운영 효율성을 향상시킬 수 있습니다. NVIDIA 와 SK그룹, 차세대 AI 인프라 구축 위한 공동 연구 추진 NVIDIA와 SK그룹은 인프라 구축 단계를 넘어 협력을 확대하며, 차세대 AI 팩토리 아키텍처 공동 개발을 위한 공동 연구를 추진할 계획입니다. 가속 컴퓨팅, 메모리 기술, 데이터센터 운영 전반에 걸쳐 반도체부터 전력망까지 아우르는 혁신에 집중할 방침입니다. 또한 NVIDIA와 SK텔레콤을 포함한 SK그룹 관계사들은 한층 효율적이고 확장 가능하며 복원력이 뛰어난 AI 서비스를 구현하기 위해 풀스택 AI 팩토리 최적화 프로젝트를 함께 모색할 예정입니다. 카테고리: AI Infrastructure All NVIDIA News NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI",
+        "fullSummary": "SK텔레콤은 NVIDIA DSX AI 팩토리 아키텍처 기반의 NVIDIA AI 클라우드 용량을 확장해, 국내 AI 스타트업, 로보틱스와 산업용 피지컬 AI를 가속화합니다. W)급 AI 클라우드를 구축할 계획입니다. 오는 2027년 첫 번째 AI 팩토리 가동을 목표로 하고 있죠. AI 클라우드는 데이터로부터 인텔리전스의 기본 단위인 토큰을 생산하는 AI 팩토리 중심의 대규모 AI 인프라인데요.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog Korea",
+        "outletUrl": "https://blogs.nvidia.co.kr/feed/",
+        "source": "NVIDIA Blog Korea",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI에이전트",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "NVIDIA",
+          "수출통제·공급망",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 38
+      },
+      {
+        "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+        "link": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+        "publishedAt": "Mon, 01 Jun 2026 05:00:56 +0000",
+        "summary": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and developers scaling agentic AI applications. NVIDIA AI Clouds are a growing ecosystem of purpose-built clouds serving the exploding token demand behind today’s most popular AI applications. […]",
+        "fullText": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand Fast-growing ecosystem helps enterprises, startups, nations, AI labs and developers scale agentic AI applications. nk copied! The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructur e. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and developers scaling agentic AI applications. NVIDIA AI Clouds are a growing ecosystem of purpose-built clouds serving the exploding token demand behind today’s most popular AI applications. These AI clouds have been co-designed with NVIDIA’s full-stack AI infrastructure to meet surging demand for AI from enterprises, startups and nations looking for new vendors and regional capacity. They combine NVIDIA accelerated computing, networking and AI software to help partners support training, fine-tuning, inference, agentic AI, physical AI and sovereign AI deployments. Specific configurations vary by partner and workload. AI cloud partners choose NVIDIA for the best economics — lowest token cost, best throughput per watt — to run frontier and open source AI. Built with NVIDIA accelerated computing, networking and AI software, these clouds bring AI factories closer to where data, developers, users and industries are, helping customers train, tune and run agentic AI applications at scale. The ecosystem spans nearly every geography, supporting regional and sovereign AI capacity for frontier model builders, enterprises, startups, software providers and national AI programs. “Every company and every country needs AI factory infrastructure to turn data into intelligence,” said Jensen Huang, founder and CEO of NVIDIA . “NVIDIA AI Clouds bring full-stack AI factories closer to the regions, industries and developers building the next generation of AI, from model training to real-time inference and AI agents that will transform how people and organizations work.” Broad AI Cloud Ecosystem AI cloud providers, telcos, sovereign AI builders and vertically integrated infrastructure providers are building AI factories with NVIDIA to serve customers across frontier AI, enterprise AI, telecommunications, developer clouds and national AI programs. Regional growth is accelerating across Southeast Asia, Australia and the Americas, with NVIDIA AI Clouds now reaching six continents following the addition of Cassava in Africa and Claro in South America. NVIDIA AI Clouds are pairing large-scale AI factory buildouts with demand from leading AI labs, enterprises, governments and digital service providers. Partners including CoreWeave , Firmus , IREN, Nebius and Nscale are expanding AI infrastructure to support frontier model development, enterprise AI, agentic applications and high-volume inference. Across regions, NVIDIA AI Clouds are bringing AI factories closer to local industries and sovereign AI ecosystems. Partners including Firebird , GMI Cloud , I ndosat Ooredoo Hutchison , Lambda , Naver Cloud , Sharon AI , Yotta and YTL are supporting emerging AI companies, national AI initiatives, financial services, telecommunications, manufacturing, education, healthcare and developer ecosystems. For governments and regulated industries, regional AI clouds can support sovereign controls and local compliance requirements. For developers and enterprises, they can reduce friction in accessing accelerated infrastructure for AI agents, enterprise copilots, digital workers and other AI services that must run close to users and data. Firmus Expands AI Factory Footprint Across Australia and Asia-Pacific Firmus Technologies is expanding its AI factory footprint across South Australia and Southeast Asia, building energy-efficient infrastructure to support growing demand for large-scale training, inference and agentic AI workloads. Through Project Southgate, Firmus is developing AI factories in Tasmania, Melbourne, South Australia and New South Wales, with an emphasis on renewable power, advanced cooling and modular infrastructure that can bring capacity online faster. The company has also deployed AI infrastructure in Singapore through a partnership with ST Telemedia Global Data Centres. Firmus is using NVIDIA’s accelerated computing and reference architecture as part of its buildout, with NVIDIA DSX helping streamline AI factory design, deployment and operations. Engineered in alignment with the NVIDIA DSX platform, the liquid-cooled Firmus HyperCube is designed to fast-track modular AI Factory builds and optimize for low cost per token. Firmus is innovating across the AI factory supply chain, including cooling and energy. “AI agents are creating a new class of industrial-scale demand for tokens, and Asia-Pacific needs AI factories that can be built faster, liquid-cooled more efficiently and operated at gigawatt scale,” said Tim Rosenfield, co-CEO of Firmus . “Together with NVIDIA, Firmus is building liquid-cooled, AI infrastructure designed to deliver AI t",
+        "fullSummary": "Fast-growing ecosystem helps enterprises, startups, nations, AI labs and developers scale agentic AI applications. The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructur e. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and developers scaling agentic AI applications. NVIDIA AI Clouds are a growing ecosystem of purpose-built clouds serving the exploding token demand behind today’s most popular AI applications.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI에이전트",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "NVIDIA",
+          "수출통제·공급망",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 37
+      },
+      {
+        "title": "서울의 비전: NVIDIA와 한국이 함께 여는 AI의 미래",
+        "link": "https://blogs.nvidia.co.kr/blog/korea-ecosystem-2026/",
+        "publishedAt": "Fri, 05 Jun 2026 05:00:31 +0000",
+        "summary": "NVIDIA 젠슨 황 CEO는 서울을 방문해 한국의 AI 개발자들과 인프라 파트너들, 그리고 게이밍 커뮤니티들을 만나고 있습니다. The post 서울의 비전: NVIDIA와 한국이 함께 여는 AI의 미래 appeared first on NVIDIA Blog Korea .",
+        "fullText": "서울의 비전: NVIDIA와 한국이 함께 여는 AI의 미래 NVIDIA 젠슨 황 CEO는 서울을 방문해 한국의 AI 개발자들과 인프라 파트너들, 그리고 게이밍 커뮤니티들을 만나고 있습니다. 중 하나가 자리한 곳인 한국은, 전 세계 AI의 핵심 거점 중 하나입니다. NVIDIA 젠슨 황 CEO는 이번 주 서울을 방문해 이러한 성과 뒤에 있는 파트너들과 빌더들을 만나고 있습니다. 아래에서 실시간 업데이트를 계속 확인해 주세요. 6월 8일(월), 저녁 7시 산업 리더십에서 게임과 AI까지: 고, 코리아(Go Korea)! “여러분의 우정에 감사드립니다. 파트너십에 감사드립니다. 고 코리아(Go Korea)!” NVIDIA 젠슨 황 CEO는 한국 AI 생태계 전 영역을 아우르는 약 200여 명의 파트너들이 한자리에 모인 리셉션에서 이렇게 인사말을 전했습니다. 이들은 NVIDIA가 말하는 ‘5단 케이크(five-layer cake)’에 대응하는 다양한 계층의 파트너들입니다. “이렇게 여러분 모두와 함께할 수 있어 정말 기쁩니다. 이것이 바로 한국의 생태계입니다.” 젠슨 황 CEO는 “여기가 산업 기반이고, 여기가 벤처 투자자들이며, 여기가 젊은 창업가들입니다. 우리가 이들을 모두 한자리에 모았습니다. 솔직히 말해, 내년에는 이 자리가 지금보다 2배가 아니라 10배는 더 커지길 바랍니다.”라고 덧붙였습니다. 서울 신라호텔 영빈관에서 열린 이번 행사는, 게임·산업·AI가 만나는 교차점에서 한국이 차지하는 위상과, 그다음을 함께 만들어 가는 다양한 파트너십을 조명한 젠슨 황 CEO의 방한 일정을 마무리하는 자리였습니다. PC방 깜짝 방문과, 일주일 전 발표된 윈도우 PC를 재정의하는 신규 슈퍼칩 ‘NVIDIA RTX Spark’ 공개에 이어, 젠슨 황 CEO는 NVIDIA의 시작과 한국 기술 생태계의 뿌리를 초기 컴퓨터 그래픽스 시절까지 거슬러 올라가며 게임과 e스포츠 이야기를 풀어냈습니다. “위대한 기술의 상당수는 장난감에서 출발했습니다.” 그는 “저희는 컴퓨터 게임이 현실을 재현하려 하기 때문에 굉장히 복잡하다는 점을 깨달았습니다. 현실을 재현하려면 뛰어난 알고리즘과 막강한 컴퓨팅 기술이 필요합니다. 그리고 그 시작점에서 언젠가 세계에서 가장 중요한 기술 기업 중 하나가 되자는 꿈을 꾸었습니다. 그게 저희의 꿈이었고, 벌써 33년 전 일입니다.”라고 회상했습니다. 그 꿈이 “게임 산업에 혁신을 가져왔습니다”고 젠슨 황 CEO는 말합니다. “한 세대 전체를 바꿔 놓았고, 비디오 게임을 단순한 오락을 넘어, 진지하게 도전하고 최고를 지향할 만한 분야로 만들었습니다. 이제 한국은 e스포츠 분야에서 세계적인 리더가 되었습니다.” 젠슨 황 CEO는 또 한국을 “중공업 분야의 세계적인 리더이자, 이제는 AI 분야의 세계적 리더”라고 평가했습니다. “저희는 지금 세계 최고 수준의 제조, 세계 최고 수준의 전자 기술, 세계 최고 수준의 소프트웨어 역량을 갖춘 나라, 그리고 이제 세계 최고 수준의 AI를 보유한 나라에 와 있습니다.” 이번 리셉션은 LG그룹, SK그룹, 현대자동차그룹, 네이버, 두산 등과의 연쇄적인 미팅으로 이어진 한 주 일정을 마무리하는 자리이기도 했습니다. 이 미팅들을 통해 한국의 AI 인프라를 강화하고, 에이전틱 AI와 피지컬 AI를 포함한 차세대 기술 발전을 위한 협력을 한층 확대했습니다. 젠슨 황 CEO는 환호하는 참석자들을 향해 “여러분은 필요한 모든 것을 이미 갖추고 있습니다. 저희는 여러분과 동반자가 되기 위해 이곳에 와 있습니다. 저 역시 여러분과 파트너가 되기 위해 이 자리에 있습니다.”라고 강조하며 인사를 마무리했습니다. 6월 8일(월), 오후 3시 한국에 기가와트급 AI 팩토리를 구축하다 NAVER는 NVIDIA DSX를 기반으로 한국에 풀스택 NVIDIA AI 팩토리를 구축하고 있습니다. NVIDIA 젠슨 황 CEO는 방한 기간 중 NAVER 이해진 창업자 겸 이사회 의장을 만나, 세종에 위치한 NAVER GAK 데이터센터의 AI 인프라를 55메가와트 규모로 확장하고, 나아가 기가와트급으로 고도화하려는 NAVER의 계획을 논의 했습니다. 유용한 AI가 점차 실제 서비스와 운영 환경에 도입됨에 따라, AI 팩토리 는 학습, 후처리(포스트 트레이닝), 추론을 수행하는 핵심 인프라로 중요성이 커지고 있는데요, NVIDIA 가속 컴퓨팅과 NVIDIA DSX 플랫폼으로 구축되는 NAVER의 AI 팩토리는, 국내 기업, 제조사, 공공기관, AI 클라우드 고객을 위한 지능형 서비스를 구현하는 한국형 주권 AI 기반으로 자리매김할 전망입니다. 또한 NAVER는 사전 학습, 후처리, 강화학습 전 단계에 걸쳐 오픈 모델 개발에 기여해 글로벌 AI 혁신을 가속화하기 위해 구성된 NVIDIA Nemotron Coalition에 참여하는 첫 번째 한국 기업입니다. NAVER는 NVIDIA NemoClaw Blueprint를 기반으로, 올해 하반기 국내에 AI 에이전트 플랫폼을 선보일 계획입니다. 6월 8일(월), 오후 2시 NVIDIA와 현대자동차그룹 AI는 차량, 공장, 로봇이 설계되고 제작되는 방식을 바꾸고 있습니다. NVIDIA 젠슨 황 CEO는 현대자동차그룹(HMG) 리더십과 만나, 모빌리티와 물리 AI 전 영역에 걸친 NVIDIA와 현대자동그룹의 협력 방안을 논의했습니다. 6월 8일(월), 오후 12시 서울대에서의 빌드-어-클로(Build-a-Claw) NVIDIA 젠슨 황 CEO는 서울대학교를 찾아, 학생·개발자·AI 연구자들이 지능형 에이전트를 처음부터 직접 만들어 보는 ‘빌드-어-클로(Build-a-Claw)’ 팝업 행사에 함께했습니다. “지금 산업 전체, 그리고 전 세계가 변하고 있습니다. 여러분과 마찬가지로 모두가 같은 출발선에 서 있습니다.” 젠슨 황은 참석자들에게 이렇게 말하며, “여러분이 이 기술을 만들어 가고, 적용해 나갈 수 있는 아주 좋은 기회입니다. 완전히 새로운 기술이기 때문에, 바로 여러분이 전문가입니다.”라고 강조했습니다. 6월 8일(월), 오전 11시 NVIDIA와 LG의 협력 확대 NVIDIA와 LG그룹은 로봇, 자율주행, 데이터센터 기술, GPU 클라우드 서비스를 지원하기 위한 AI 팩토리 구축 계획을 발표 했습니다. 방한 중이던 NVIDIA 젠슨 황 CEO는 LG그룹 구광모 회장과 만나 양사의 AI 협력을 확대하기 위한 논의를 진행했는데요, 글로벌 생산 거점에서 축적된 LG의 생산기술 데이터와 노하우에 NVIDIA의 AI 인프라 및 디지털 트윈 기술을 결합함으로써, AI 기반 제조 경쟁력을 한층 강화하는 데 기여할 것으로 기대됩니다. 두 회사는 원자재 수급부터 생산, 물류, 고객 인도에 이르는 전 과정을 데이터와 AI로 실시간 연결하는 자율형 제조 생태계를 구축하고, 이를 새로운 글로벌 스마트팩토리 표준으로 정립해 나갈 계획입니다. 6월 8일(월), 오전 9시 SK 사옥에서 기자들과 만난 자리에서 NVIDIA 젠슨 황 CEO와 SK그룹 최태원 회장은 한층 강화된 AI 파트너십 구상을 공유했습니다. 이는 오늘 발표된 다년간의 파트너십 을 바탕으로, AI 인프라, 개인용 AI, 피지컬 AI 전반에 걸쳐 네 가지 NVIDIA 플랫폼용 메모리를 공동 개발하기 위한 협력을 확장한 것입니다. NVIDIA와 SK의 협력은 AI 인프라 분야로도 이어지고 있는데요, SK텔레콤 은 NVIDIA DSX 플랫폼을 기반으로 한국에 기가와트 규모의 AI 클라우드를 구축해, 소버린 AI, 피지컬 AI, 에이전틱 AI 서비스를 지원할 계획입니다. 6월 7일(일), 오후 5시 두산 베어스 경기에서의 시구 일요일 저녁, 서울 잠실야구장에서 NVIDIA 젠슨 황 CEO가 두산 베어스 경기의 시구를 맡았습니다. 현장에는 두산그룹 박정원 회장도 함께해 의미를 더했습니다. 특히 이번 시구 행사는 두산로보틱스, 두산밥캣, 두산에너빌리티, 두산전자BG 등 다양한 계열사를 아우르며 피지컬 AI, 로보틱스, AI 팩토리 인프라 분야에서 새로운 기회를 발굴하기 위해 확장되고 있는 NVIDIA와 두산그룹의 협력 을 다시 한 번 보여주는 자리였습니다. 양사는 NVIDIA의 풀스택 가속 컴퓨팅 플랫폼과 두산그룹이 보유한 산업 자동화, 발전, 첨단 전자소재 역량을 결합해 차세대 AI 인프라를 뒷받침하는 다양한 프로젝트를 함께 모색하고 있습니다. 6월 7일(일), 오후 2시 NVIDIA, KRAFTON, NC와 ‘리그 오브 레전드’ 디펜딩 챔피언 T1, 한국 PC방에서 RTX Spark를 함께 기념하다 지난 금요일 서울에서, 젠슨 황 CEO는 한국 최고의 e스포츠 팀 중 하나인 T1이 운영하는 PC방 ‘T1 베이스캠프’를 찾았습니다. 이곳에서 그는 RTX Spark를 공개하기 위해, 6회 월드 챔피언에 오른 이상혁 ‘페이커’를 포함한 리그 오브 레전드 현 월드 챔피언 팀 T1 선수들을 만났습니다. 또한 방한 3일차인 오늘 젠슨 황은 서울 강남구로 향해, 크래프톤과 엔씨와 함께 PC방 게이머들에게 RTX Spark를 처음으로 선보이며 깜짝 방문을 했습니다. 첫 번째 방문지인 ‘옵티멈존 PC’에서 젠슨 황 CEO와 크래프톤 장병규 의장은 RTX Spark로 구동되는 ‘PUBG: 배틀그라운드’와 ‘서브노티카 2’를 현장을 가득 메운 게이머들에게 선보였습니다. 이어서 젠슨 황 CEO는 또 다른 PC방인 ‘Portal PC방’을 찾았고, 이곳에서는 엔씨의 공동 대표 김택진의 지원 아래 RTX Spark로 구동되는 ‘CINDER CITY’와 ‘AION 2’를 선보였습니다. 자세한 내용은 여기서 확인하세요. 6월 10일(토), 밤 12시 네이버, LG그룹, SK그룹 임원들과의 삽겹살 회동 금요일 밤, 외부에 모인 군중의 “Welcome to Korea” 환호 속에서 NVIDIA 젠슨 황 CEO가 서울의 대표 상권인 홍대 일대를 찾아 한국 주요 기술기업 경영진과 함께하는 삼겹살 만찬 자리에 참석했습니다. 젠슨 황 CEO는 SK그룹 최태원 회장, LG그룹 구광모 회장, 네이버 이해진 창업자(이사회 의장)와 함께 식사를 나누며 화기애애한 분위기 속에서 건배를 이어갔는데요, 잔을 들며 그는 “Go Korea, go SK, go LG, go Naver”라고 외치며 한국과 파트너 기업들을 응원했습니다. 특히 만찬 중 젠슨 황",
+        "fullSummary": "NVIDIA 젠슨 황 CEO는 서울을 방문해 한국의 AI 개발자들과 인프라 파트너들, 그리고 게이밍 커뮤니티들을 만나고 있습니다. 중 하나가 자리한 곳인 한국은, 전 세계 AI의 핵심 거점 중 하나입니다. NVIDIA 젠슨 황 CEO는 이번 주 서울을 방문해 이러한 성과 뒤에 있는 파트너들과 빌더들을 만나고 있습니다. 아래에서 실시간 업데이트를 계속 확인해 주세요.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog Korea",
+        "outletUrl": "https://blogs.nvidia.co.kr/feed/",
+        "source": "NVIDIA Blog Korea",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI에이전트",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 34
+      },
+      {
+        "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+        "link": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
+        "publishedAt": "Tue, 02 Jun 2026 02:00:40 +0000",
+        "summary": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson […]",
+        "fullText": "NVIDIA Jetson Brings Agentic AI to the Physical World With NVIDIA JetPack 7.2 and NVIDIA NemoClaw support, Jetson is agentic-ready, giving developers a production-grade stack to deliver next-level intelligence to robotics, inspection and industrial automation. opied! Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson . JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin , a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson Thor . NVIDIA’s Asier Arrnaz shows how Build-a-Claw brings AI to the edge, a personalized, always-on assistant running right on NVIDIA Jetson. The launch coincides with the GTC Taipei Build-a-Claw event , bringing the popular hands-on event from GTC San Jose to Taiwan, one of the world’s premier global technology hubs. The release lands NemoClaw, NVIDIA’s agentic AI framework , on the production-grade Jetson stack — taking agentic AI from servers and workstations into the physical world, across robotics, inspection and industrial automation. “Agentic AI is here, and Jetson’s programmability and high performance enable developers to instantly deploy physical AI agents in production at the edge,” said Deepu Talla, vice president of robotics and edge computing at NVIDIA. “With purpose-built skills for agentic development and workflows, developers can accelerate time to market, cut total cost of ownership and deploy at scale — all on a memory-optimized platform.” Jetson is already a multi-generation platform — Orin , Thor and beyond — powering edge AI in robotics, autonomous systems, industrial inspection and medical devices. JetPack 7.2 builds on that foundation; NemoClaw extends it. Three layers ship in this release. JetPack 7.2 at the base — operating system (OS), compute, deterministic performance. A new layer of agent skills in the middle, automating developer tasks. And NemoClaw at the top. JetPack 7.2 brings major upgrades to the Jetson software foundation. Yocto-based OS support gives industrial customers a leaner, more customizable Linux foundation — important for memory-bound deployments. CUDA 13 on Jetson Orin brings the latest compute stack to existing devices. MIG plus real-time kernel on Jetson Thor lets developers reserve dedicated GPU resources for deterministic workloads, like robot perception systems that can’t pause for unrelated AI inference. Jetson AGX Orin 32GB also gets a performance boost to 241 TOPS of AI compute, up 20% above its original spec. The middle layer — agent skills — accelerates the work of building a Jetson-based system itself. Jetson agent skills now include Linux customization, memory optimization, model benchmarking and similar developer tasks. These are now available as agent-deployable skills, developed from NVIDIA documentation and design guides. The result: a task that used to take weeks resolves in days. At the top, NemoClaw deploys to Jetson with a single command. The pairing lands agentic AI on a production-grade robotics and vision AI stack, accelerating task automation for industrial systems. Developers can go further with NVIDIA Metropolis VSS blueprint skills , adding visual reasoning agents that watch, interpret and act on what they see. Agentic AI already arriving with Jetson The Jetson platform is already in deployment across fields such as robotics, industrial automation, drones, healthcare devices, agricultural machinery, humanoid systems and more. Solomon uses NemoClaw to coordinate AI agents on a humanoid robot. Solomon uses NVIDIA NemoClaw to coordinate AI agents on a humanoid robot, integrating reasoning, perception, sensor fusion, locomotion and manipulation into a single workflow. With Solomon’s active perception technology, powered by NVIDIA’s open source foundation model, the robot can understand tasks, optimize positioning for picking and adapt dynamically. All this enables reliable and autonomous operations in complex environments. Advantech is building and deploying an agentic factory brain within its own manufacturing facilities to enable AI-native operations using NVIDIA NemoClaw, NVIDIA Nemotron 3 and NVIDIA Jetson Thor. The platform automates robot fleet management, intelligent defect detection and autonomous decision-making to drive next-generation industrial operations. Across industries, the builds are already shipping. Rebotnix makes smart city cameras with agentic reasoning capabilities for faster city-level decision-making. Spingence builds manufacturing defect agents to identify root causes and process improvement recommendations through analytics and knowledge reasoning. And ANIWEAVE and Avalanche Computing are partnering to transform real estate spaces into immersive 3D touring experiences with AI-powered conversational agents. More AI, less memory Image courtesy of SandStar. SandStar uses NVIDIA Jetson Orin NX and NemoC",
+        "fullSummary": "With NVIDIA JetPack 7.2 and NVIDIA NemoClaw support, Jetson is agentic-ready, giving developers a production-grade stack to deliver next-level intelligence to robotics, inspection and industrial automation. Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson . JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin , a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson Thor .",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "추론",
+          "온디바이스AI",
+          "NVIDIA",
+          "파운드리·패키징",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 34
       },
       {
         "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI - HPCwire",
@@ -45,6 +631,33 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "NVIDIA",
+        "score": 33
+      },
+      {
+        "title": "NVIDIA-LG그룹, 피지컬 AI·모빌리티·AI 인프라 발전 위해 AI 팩토리 구축한다",
+        "link": "https://blogs.nvidia.co.kr/blog/nvidia-and-lg-group-ai-factory/",
+        "publishedAt": "Tue, 09 Jun 2026 00:57:11 +0000",
+        "summary": "NVIDIA는 LG그룹(LG Group)과 함께 AI 팩토리를 구축하고 있습니다. 이를 통해 로보틱스, 자율주행, 데이터센터 기술, GPU 클라우드 서비스 등 LG그룹의 차세대 AI 기반 사업 성장을 가속화합니다. 이번에 구축되는 AI 팩토리는 LG그룹의 핵심 사업 전반에 걸쳐 AI 기반 애플리케이션의 훈련과 시뮬레이션, 검증, 배포를 지원하는 가속 컴퓨팅 인프라를 제공할 것입니다. 이번 협력은 NVIDIA의 풀스택 엔드투엔드 AI 팩토리 플랫폼과 블로그 읽기 The post NVIDIA-LG그룹, 피지컬 AI·모빌리티·AI 인프라 발전 위해 AI 팩토리 구축한다 appeared first on NVIDIA Blog Korea .",
+        "fullText": "NVIDIA-LG그룹, 피지컬 AI·모빌리티·AI 인프라 발전 위해 AI 팩토리 구축한다 NVIDIA는 로보틱스, 자율주행, 데이터센터 기술, GPU 클라우드 서비스 등 LG그룹의 기반이 될 차세대 AI 팩토리를 지원합니다. . 이를 통해 로보틱스, 자율주행, 데이터센터 기술, GPU 클라우드 서비스 등 LG그룹의 차세대 AI 기반 사업 성장을 가속화합니다. 이번에 구축되는 AI 팩토리는 LG그룹의 핵심 사업 전반에 걸쳐 AI 기반 애플리케이션의 훈련과 시뮬레이션, 검증, 배포를 지원하는 가속 컴퓨팅 인프라를 제공할 것입니다. 이번 협력은 NVIDIA의 풀스택 엔드투엔드 AI 팩토리 플랫폼과 LG그룹이 보유한 가전, 로보틱스, 모빌리티 부품, 스마트 공간 솔루션, 데이터센터 기술 분야에서 세계적 수준의 기술력이 결합됩니다. AI 모델 개발과 피지컬 AI 데이터 생성, 로봇 시뮬레이션과 훈련, 엣지 환경 배포와 실제 공장 규모의 디지털 트윈 제작을 하나의 통합 워크플로우로 연결해, 피지컬 AI 시스템의 구축을 함께 지원할 계획입니다. 피지컬 AI와 로보틱스의 혁신 가속화 글로벌 제조 현장에서 축적된 LG그룹의 생산 기술 데이터와 노하우가 NVIDIA의 AI 인프라, 디지털 트윈과 결합해 제조 분야의 AI 경쟁력을 강화할 것으로 기대되는데요. NVIDIA와 LG그룹은 원자재 조달부터 생산, 물류, 배송에 이르는 전 과정을 데이터와 AI로 실시간 연결하는 자율형 제조 생태계를 구축하고, 이를 글로벌 스마트 팩토리의 새로운 표준으로 확립해 나갈 방침입니다. LG전자(LG Electronics)는 일상 속 편의를 더하고, 삶의 질을 높일 수 있도록 가사 노동을 돕는 가정용 로봇 ‘클로이드(CLoiD)’ 등을 개발하고 있는데요. 이 같은 개발 워크플로우에 NVIDIA Isaac Sim 과 NVIDIA Isaac Lab 오픈 로보틱스 프레임워크를 통합했습니다. 이를 통해 가정용 협동로봇을 실제 현장에 배치하기에 앞서 물리적으로 정확한 가상 환경에서 시뮬레이션을 진행하고 훈련과 검증을 마칠 수 있습니다. 아울러 LG전자는 자사의 가정용 로봇과 모듈형 로보틱스 플랫폼 모두에 오픈 추론 비전 액션 언어 모델인 NVIDIA Isaac GR00T 를 적용하는 방안을 검토하고 있는데요. GR00T 모델이 도입되면 LG 로봇은 인간과 유사한 추론 능력과 복잡한 작업 수행 역량을 갖출 수 있습니다. 또한 NVIDIA와 LG전자가 공동 개발하는 레퍼런스 로봇을 통해 LG 로봇들이 NVIDIA Isaac GR00T 생태계의 일원으로 자리매김하게 될 것으로 기대됩니다. LG전자는 로보틱스 부문의 훈련 데이터 과제를 극복하는 데 도움을 주기 위해, 국내외 기업들의 피지컬 AI 프로젝트 가속화를 지원할 피지컬 AI 데이터 팩토리를 개발하고 있습니다. LG그룹은 컴퓨팅 자원을 데이터로 전환해 로보틱스와 산업용 AI 프로젝트에 필요한 고품질 훈련 데이터를 제공하려는 노력의 일환으로 합성 데이터 생성 과 증강을 위한 NVIDIA Cosmos 월드 파운데이션 모델 을 활용합니다. LG이노텍(LG Innotek)은 세계적 수준의 광학 기술력을 바탕으로, NVIDIA의 개발 환경과 GPU 아키텍처에 최적화된 센싱 솔루션 등 최첨단 로보틱스 부품을 공급할 예정입니다. LG씨엔에스(LG CNS)는 제조와 물류 현장에서 AI 로봇 도입을 더욱 손쉽게 만들어줄 생태계를 구축합니다. NVIDIA Isaac 오픈 로보틱스 프레임워크 와 NVIDIA Cosmos 오픈 월드 모델, Isaac GR00T 로봇 파운데이션 모델 등 NVIDIA 로보틱스 기술 을 자사의 산업용 로봇 플랫폼인 ‘피지컬웍스(PhysicalWorks)’에 통합해 물류와 제조 현장의 AI 전환을 선도할 계획입니다. NVIDIA DSX 기반 AI 팩토리 인프라 구축 LG그룹과의 협력은 AI 시대를 뒷받침할 차세대 AI 팩토리 분야에서도 확대됩니다. LG전자는 냉각수 분배 장치(cooling distribution unit, CDU)와 콜드플레이트 등 AI 팩토리 열 관리용 냉각 솔루션 분야에서 NVIDIA와 인증을 함께하고 있습니다. 이에 더해 프리패브(prefabricated) 모듈 설계 기술 협력을 통해 AI 팩토리 역량을 한층 강화하죠. 이는 NVIDIA DSX AI 팩토리 플랫폼과 궤를 같이하며, 확장 가능한 고성능 슈퍼컴퓨팅 인프라의 신속한 구축을 뒷받침합니다. 이러한 기술에는 차세대 수랭식 AI 팩토리에 요구되는 전력과 열, 배포 요건을 충족시킬 CDU와 콜드플레이트, 프리패브 모듈 설계 기술 등이 포함됩니다. LG그룹 계열 통신사인 LG유플러스(LG U+)는 LG전자, LG에너지솔루션(LG Energy Solution)과 협력해 NVIDIA DSX를 기반으로 확장 가능하고 전력 효율적인 AI 팩토리를 구축할 계획입니다. 이를 통해 NVIDIA 가속 컴퓨팅과 AI 팩토리 레퍼런스 아키텍처를 LG그룹의 인프라와 에너지, 통신 역량과 결합시키고, 향후 AI 클라우드와 GPU 서비스 부문 사업을 지원합니다. LG씨엔에스는 NVIDIA GPU로 구동되는 NVIDIA DSX 기반의 확장 가능하고 전력 효율적인 고성능 AI 팩토리를 구축할 계획입니다. LG유플러스는 최신 NVIDIA GPU 탑재가 가능한 대규모 AI 데이터센터 구축에 나섭니다. LG에너지솔루션은 NVIDIA와의 협력으로 800볼트 직류 데이터센터 에너지 솔루션 분야에서 NVIDIA BESS Self-Qualification 을 준수해 차세대 GPU 발전에 발맞추고자 합니다. 자율주행과 모빌리티 AI 발전 가속 모빌리티 분야에서 LG전자는 NVIDIA와 협력을 통해 첨단 운전자 보조 시스템(advanced driver-assistance system, ADAS)과 차내 AI 시스템을 NVIDIA DRIVE 플랫폼에 맞춰 최적화하고 있습니다. 이번 협력은 센서와 컴퓨팅, 소프트웨어 아키텍처를 NVIDIA DRIVE Hyperion 아키텍처에 맞추는 데 중점을 두고 있는데요. 이를 통해 자율주행과 ADAS, 소프트웨어 정의 차량 부문에 걸친 LG전자 로드맵을 지원할 예정이죠. LG전자는 또한 AI 기반 콕핏과 엣지 AI 처리 등을 아우르는 미래 모빌리티 애플리케이션에 NVIDIA DRIVE AGX 가속 컴퓨팅을 활용할 계획입니다. 이를 통해 LG전자는 전장 포트폴리오를 강화하면서 글로벌 제조사들을 위한 AI 기반 모빌리티 솔루션 개발을 가속할 방침입니다. LG이노텍은 세계 최고 수준의 센싱, 커넥티비티, 조명 솔루션으로 구성된 핵심 포트폴리오를 앞세워 자율주행 시장에서의 선도적 입지를 빠르게 굳혀 나가고 있습니다. LG이노텍은 NVIDIA와의 협업을 통해 NVIDIA 아키텍처에 최적화된 차세대 부품 개발에도 힘쓸 예정입니다. 엑사원을 통한 소버린 AI 기술 고도화 LG AI연구원(LG AI Research)은 NVIDIA와 함께 한국을 대표하는 소버린 AI 모델이자 개발자와 기업, 연구자들이 활용 가능한 오픈 모델 제품군인 엑사원(EXAONE)의 고도화를 위해 협력하고 있습니다. LG AI연구원은 엑사원 모델 개발을 지원하기 위해 NVIDIA Blackwell GPU와 NVIDIA NeMo 프레임워크 , NVIDIA Nemotron 오픈 데이터셋을 활용했죠. 또한 최적화된 배포를 위한 고성능 추론 엔진 구축에는 NVIDIA TensorRT-LLM 소프트웨어를 사용했습니다. LG그룹은 엑사원 기반 기업용 챗봇 서비스인 챗엑사원(ChatEXAONE) 등의 플랫폼을 통해 그룹 전반에서 엑사원과 에이전틱 AI 기술 활용 확대를 검토하고 있습니다. NVIDIA의 지원을 통해 LG AI연구원의 소버린 AI 모델은 LG그룹의 다양한 사업 포트폴리오에서 엔터프라이즈 AI 전환과 소프트웨어 정의 운영, 생산성을 가속할 예정입니다. NVIDIA DSX 플랫폼 에 대한 자세한 정보를 확인하세요. 사진 제공: LG그룹 카테고리: AI Infrastructure | Corporate | Robotics 태그: #NVIDIA DRIVE | Agentic AI | AI Factory | Artificial Intelligence | Cosmos | energy | Hardware | Inference | Isaac | mobility | Nemotron | NVIDIA Blackwell | NVIDIA NEMO | open source | Physical AI | robotics | Sovereign AI All NVIDIA News NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI",
+        "fullSummary": "NVIDIA는 로보틱스, 자율주행, 데이터센터 기술, GPU 클라우드 서비스 등 LG그룹의 기반이 될 차세대 AI 팩토리를 지원합니다. 이를 통해 로보틱스, 자율주행, 데이터센터 기술, GPU 클라우드 서비스 등 LG그룹의 차세대 AI 기반 사업 성장을 가속화합니다. 이번에 구축되는 AI 팩토리는 LG그룹의 핵심 사업 전반에 걸쳐 AI 기반 애플리케이션의 훈련과 시뮬레이션, 검증, 배포를 지원하는 가속 컴퓨팅 인프라를 제공할 것입니다. 이번 협력은 NVIDIA의 풀스택 엔드투엔드 AI 팩토리 플랫폼과 LG그룹이 보유한 가전, 로보틱스, 모빌리티 부품, 스마트 공간 솔루션, 데이터센터 기술 분야에서 세계적 수준의 기술력이 결합됩니다.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog Korea",
+        "outletUrl": "https://blogs.nvidia.co.kr/feed/",
+        "source": "NVIDIA Blog Korea",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "NVIDIA",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
         "score": 33
       },
       {
@@ -96,6 +709,78 @@ window.__DASHBOARD_DATA__ = {
         "score": 33
       },
       {
+        "title": "[Weekly Issue] 삼성 파운드리, 2나노 공정서 구글 차세대 AI 칩 일부 생산 유력…엔비디아 자율주행칩도 가세 - KIPOST",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yY0EwTnVKVE0wUHUtSXVCV0ViNWlhLU1EcmM4aktZUlRHTGJvWGdzVmdHOHd1djFOV2g2NDZkcnkzbGJuRnROVzVJNmJhOHREdzJmei1JSDNMU2NqbXJfS3Yxa2sxTmFN0gFsQVVfeXFMT0x2eTdWajFPUlJtbk9nQk9UQjdUbl8yVnNVYWoyX0NvX2NlTlE2YUZVbjBseGZ0N0t4MUR4aHYzYVdCZ2Q3eTRHcEJXSnRabV9PTEhPRXF1Z2FhQWJDRXVnZmJmb3R0NWZ4ekF1?oc=5",
+        "publishedAt": "Sun, 14 Jun 2026 06:12:00 GMT",
+        "summary": "[Weekly Issue] 삼성 파운드리, 2나노 공정서 구글 차세대 AI 칩 일부 생산 유력…엔비디아 자율주행칩도 가세 &nbsp;&nbsp; KIPOST",
+        "outlet": "KIPOST",
+        "outletUrl": "https://www.kipost.net",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "Google",
+          "파운드리·패키징",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 32
+      },
+      {
+        "title": "NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI - NVIDIA Blog Korea",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFc2h3eXJsUmFIVnZhTkJqMndsWHp1OFU4VjM0SVdQMXVkMXVGdl9rU0hLeFRhOENhNE5YWkVrdFhZTDEtR2NLWnVUWmVGN1pIZ1VmS3c2Qm96QmNOaUluRlhPNGtLa1VaWlY2OE9wdjV4a1BIRVlv?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 06:16:08 GMT",
+        "summary": "NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI &nbsp;&nbsp; NVIDIA Blog Korea",
+        "outlet": "NVIDIA Blog Korea",
+        "outletUrl": "https://blogs.nvidia.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "DeepMind"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 32
+      },
+      {
+        "title": "NVIDIA와 네이버, AI 인프라 확장으로 글로벌 수요에 대응하다",
+        "link": "https://blogs.nvidia.co.kr/blog/naver-ai-infrastructure/",
+        "publishedAt": "Mon, 08 Jun 2026 05:24:50 +0000",
+        "summary": "네이버는 에이전트 AI와 피지컬 AI를 구동하기 위해 NVIDIA DSX 기반 AI 팩토리를 구축합니다. The post NVIDIA와 네이버, AI 인프라 확장으로 글로벌 수요에 대응하다 appeared first on NVIDIA Blog Korea .",
+        "fullText": "NVIDIA와 네이버, AI 인프라 확장으로 글로벌 수요에 대응하다 네이버는 에이전트 AI와 피지컬 AI를 구동하기 위해 NVIDIA DSX 기반 AI 팩토리를 구축합니다. . 초기 55메가와트(MW) 규모로 시작해 향후 기가와트(GW)급까지 확장할 예정인데요. 기업·산업계·정부를 지원할 풀스택 엔드투엔드 AI 플랫폼을 신속하게 설계하고 구축, 확장해 나갈 계획입니다. NVIDIA 창립자 겸 CEO 젠슨 황(Jensen Huang)은 “실용적인 AI 시대가 도래하면서 AI 팩토리에 대한 수요가 폭발적으로 증가하고 있습니다. 네이버는 기업, 개발자, 산업 생태계를 지원할 AI 팩토리 인프라를 구축하고 있죠. 저희는 NVIDIA DSX를 통해 한국이 AI 에이전트부터 AI 팩토리, 피지컬 AI에 이르는 에이전틱 시대의 소버린 인텔리전스 인프라를 확장할 수 있도록 지원할 것”이라고 말했습니다. 네이버 이해진 의장은 “네이버는 신뢰할 수 있는 고성능 AI를 바탕으로 국내 산업계와 글로벌 고객 모두에게 서비스를 제공할 소버린 AI 인프라를 구축하고 있습니다. NVIDIA DSX 플랫폼을 기반으로 고객들이 단순한 AI 실험 단계를 넘어 실제 모델, 에이전트, 서비스를 구동하는 생산적인 AI 팩토리로 전환할 수 있도록 지원할 것”이라고 말했습니다. 최근 실용적인 AI가 점차 실제 운영 환경에 도입됨에 따라, AI 팩토리 는 모델 훈련과 사후 훈련, 추론 작업을 수행하는 핵심 인프라로 주목받고 있습니다. NVIDIA 가속 컴퓨팅 기반의 DSX 플랫폼으로 구축되는 네이버의 AI 팩토리는 국내 기업, 제조업, 정부 기관, AI 클라우드 고객들이 자체적인 지능형 솔루션을 창출할 수 있는 독자적인 기반이 될 예정입니다. NVIDIA DSX 기반 AI 클라우드, 네이버의 데이터센터 ‘각 세종’ 확장하다 새로운 DSX 기반 클라우드는 네이버의 차세대 하이퍼스케일 데이터센터인 ‘각(GAK) 세종’의 인프라 확장에 투입됩니다. 세종특별자치시에 위치한 각 세종은 네이버의 급성장하는 AI 인프라와 클라우드 서비스를 뒷받침하기 위해 구축된 핵심 거점이죠. 고밀도 NVIDIA 가속 컴퓨팅 환경에 맞춰 설계된 각 세종은 첨단 자동화, 지속 가능성 기능, 강력한 재해 복구 능력을 바탕으로 안정적이고 에너지 효율적인 운영이 가능합니다. 네이버는 각 세종을 통해 국내는 물론 글로벌 시장을 아우르는 대규모 디지털 서비스와 기술 혁신을 주도해 나갈 계획입니다. 네이버는 유럽과 중동 전역에 인프라를 구축해 소버린 AI 수요를 충족시키고 있습니다. 자사의 하이퍼스케일 데이터센터 역량과 NVIDIA DSX를 결합해, 각국 정부와 기업 고객에게 현지 규제와 데이터 주권 기준을 준수하는 안전한 고성능 디지털 서비스를 위한 신뢰할 수 있는 대안을 제공하고자 하죠. 네이버는 NVIDIA 풀스택 AI 플랫폼을 활용해 소버린 AI 모델과 에이전틱 AI 서비스 구동은 물론, 자사 AI 데이터센터 사업도 가속화할 예정입니다. 모델 개발 협력 기반의 AI 클라우드 인프라를 구축하다 새로운 AI 클라우드 인프라는 국내 소버린 AI와 피지컬 AI 모델 고도화를 위해 NVIDIA와 네이버가 맺은 파트너십을 바탕으로 구축됩니다. 네이버는 NVIDIA Nemotron™ 3 Ultra 오픈 모델을 자체 데이터와 훈련 전문성으로 파인튜닝해 하이퍼클로바X(HyperCLOVA X) 모델을 고도화하는데요. 이를 통해 국내외 기업 고객에게 한층 뛰어난 성능과 문화적 이해도를 갖춘 모델을 제공합니다. NVIDIA Nemotron을 기반으로 한 하이퍼클로바X 모델은 유럽과 중동 지역의 소버린 AI 이니셔티브를 지원하는 플랫폼 역할도 수행하게 됩니다. 네이버는 NVIDIA Nemotron 연합(Coalition) 에 참여한 최초의 한국 기업입니다. 사전 훈련, 사후 훈련, 강화 학습 전반에 걸친 오픈 모델 개발에 기여해 글로벌 AI 혁신을 가속화하죠. 또한 올해 하반기에는 NVIDIA NemoClaw™ 블루프린트를 기반으로 한 ‘AI 에이전트 플랫폼(AI Agent Platform)’을 국내에 출시할 계획입니다. 아울러 NVIDIA Cosmos™ 월드 파운데이션 모델을 기반으로 보유하고 있는 도시 거리뷰 데이터와 공간 모델링 기술을 활용해 ‘서울 월드 모델(Seoul World Model)’을 개발하고 있습니다. NVIDIA DSX 플랫폼, 네이버의 신속한 인프라 확장 견인한다 NVIDIA DSX 플랫폼은 AI 팩토리에 최적화된 엔드투엔드 공동 설계 스택입니다. 칩, 시스템, 소프트웨어, 인프라 시설, 파트너 기술을 아우르며 토큰 비용을 최소화하고 첫 운영 개시까지의 걸리는 시간을 단축하죠. NVIDIA DSX 플랫폼은 대규모 자체 GPU 클러스터와 하이퍼스케일 데이터센터 구축 및 운영에 대한 네이버의 기술 역량과 결합하게 됩니다. NVIDIA DSX MaxLPS™ 소프트웨어는 메가와트당 토큰 처리량을 극대화해 최저 토큰 비용을 달성합니다. 또한 NVIDIA DSX OS™는 수명주기 관리, 일관된 런타임 운영, 상태 자동화, 복원력, 멀티 테넌트 AI 팩토리 관리를 위한 오픈소스 모듈형 소프트웨어를 통해 클라우드 서비스 제공업체가 매출을 증대하고 마진을 개선할 수 있도록 돕는 운영 계층을 제공합니다. 카테고리: AI Infrastructure 태그: AI Infrastructure All NVIDIA News NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI",
+        "fullSummary": "네이버는 에이전트 AI와 피지컬 AI를 구동하기 위해 NVIDIA DSX 기반 AI 팩토리를 구축합니다. 초기 55메가와트(MW) 규모로 시작해 향후 기가와트(GW)급까지 확장할 예정인데요. 기업·산업계·정부를 지원할 풀스택 엔드투엔드 AI 플랫폼을 신속하게 설계하고 구축, 확장해 나갈 계획입니다. NVIDIA 창립자 겸 CEO 젠슨 황(Jensen Huang)은 “실용적인 AI 시대가 도래하면서 AI 팩토리에 대한 수요가 폭발적으로 증가하고 있습니다.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog Korea",
+        "outletUrl": "https://blogs.nvidia.co.kr/feed/",
+        "source": "NVIDIA Blog Korea",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI에이전트",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 32
+      },
+      {
         "title": "AI Infrastructure Spending to Exceed $700 Billion in 2026: Nvidia and AMD Analysis - News and Statistics - IndexBox",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2NNWmpZd0M2eGtBeEJMTmdodFZqbUNyTGlVSExPbkJ0WGZrNklOXzVoX1RGS3R2eVlXNVpQM2FqNHpic2NsbWRaallxRXhoSTBxUENZOVlOaVFleUZxdUhGV2ZRSnk1Z1NQLVRlNnN5d0E1LTJWd1BxbmxBd2NkaEZFRElIaGx2TzNxbldzN2JkMWk2WlNkbQ?oc=5",
         "publishedAt": "Sun, 14 Jun 2026 14:20:00 GMT",
@@ -140,12 +825,66 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95R1lfM1hpZllFNXRLbTlHZzFnVkVONmE3YnRKdUtnU1NsLXBCU3NaNWJiWmJuWVNSbGg5VnZyc1UwLU1OUXFFbHJSM2lIbllGZExSVw?oc=5",
+        "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+        "link": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
+        "publishedAt": "Fri, 05 Jun 2026 05:38:37 +0000",
+        "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Monday, June 8, 10:00 a.m. […]",
+        "fullText": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI NVIDIA founder and CEO Jensen Huang takes to Seoul, meeting Korea’s AI builders, sovereign infrastructure partners and gaming community. Link copied! Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Monday, June 8, 10:00 a.m. PT From Industrial Leadership to Gaming and AI: Go Korea! “Thank you for your friendship. Thank you for your partnership. Go Korea!” NVIDIA founder and CEO Jensen Huang said, addressing a reception that brought together roughly 200 partners from every part of the Korea AI ecosystem, corresponding to the five‑layer cake . “I’m very happy to be here with all of you. This is Korea’s ecosystem,” Huang said. “This is the industrial base. This is the venture investors. This is the young entrepreneurs. We brought them all together. Frankly, next year I hope to see this be 10 times larger — not two times larger, 10 times larger.” Hosted at the Young Bin Gwan at The Shilla Seoul, the gathering rounded out Huang’s trip, which spotlighted Korea’s place at the intersection of gaming, industry and AI, and the many partnerships shaping what comes next. Off of a series of surprise visits to PC bangs and the announcement a week earlier of NVIDIA RTX Spark — a new superchip reinventing Windows PCs — Huang kicked off remarks on gaming and esports, tracing NVIDIA’s origins and Korea’s tech roots back to its earliest bet on computer graphics. “Almost all great technology started out as toys,” he said. “And we realized that computer games were complicated, because they were trying to reproduce reality. Reproducing reality requires extraordinary algorithms, extraordinary computing technology. And we dreamed from that beginning, we could someday be one of the world’s most important technology companies. That was our dream. That was 33 years ago.” That dream has “revolutionized the gaming industry,” Huang said. “It transformed an entire generation. It made video games something fun into something worthy to endeavor, to be great at. Now, Korea is the world leader in esports.” Huang described Korea also as a “world-class leader in heavy industries” — and now in AI. “Now we’re sitting in a country where you are world-class at manufacturing, world-class at electronics, world-class at software — and you are now world-class at AI.” The gathering capped off a week of meetings with partners — including LG Group , SK Group , Hyundai Motor Group , Naver and Doosan — expanding collaborations that support the nation’s AI infrastructure and setting the stage for advancements in agentic AI, physical AI and beyond. “You have everything that it takes,” he told the cheering crowd. “We are here to partner with you. I’m here to partner with you.” Monday, June 8, 12:00 a.m. PT Building AI Factories at Gigawatt Scale in Korea NAVER is building a full-stack NVIDIA AI factory in Korea with NVIDIA DSX. NVIDIA founder and CEO Jensen Huang met with NAVER founder and chairman Haejin Lee while in Korea as NAVER plans to expand its GAK Sejong AI data center to 55 megawatts and beyond to gigawatt scale. As useful AI increasingly moves to production, AI factories are becoming critical infrastructure for training, post-training and inference. Built with the NVIDIA DSX platform with NVIDIA accelerated computing, NAVER’s AI factories will give Korea a sovereign foundation to create intelligence for enterprises, manufacturers, government organizations and AI cloud customers. NAVER is also the first Korean company to participate in the NVIDIA Nemotron Coalition , contributing to open model development across pretraining, post-training and reinforcement learning to accelerate global AI innovation. It plans to launch an AI Agent Platform in Korea in the second half of the year, powered by NVIDIA NemoClaw blueprints. Sunday, June 7, 11:00 p.m. PT NVIDIA and Hyundai Motor Group AI is changing how vehicles, factories and robots are built. NVIDIA founder and CEO Jensen Huang met with Hyundai Motor Group leadership to discuss NVIDIA and HMG’s work across mobility and physical AI. Sunday, June 7, 9:00 p.m. PT Build-a-Claw at Seoul National University The next generation of AI builders brought the energy. NVIDIA founder and CEO Jensen Huang stopped by Seoul National University for a Build-a-Claw pop-up, packed with students, developers and AI researchers building intelligent agents from the ground up. “The entire industry, the entire world is changing. Everyone is in the same starting line just like you,” Huang told the crowd. “It’s a great opportunity for you to shape this technology, to apply this technology. It’s brand new technology, so you are the expert.” Sunday, June 7, 8:00 p.m. PT NVIDIA and LG Expand Collaboration Today, NVIDIA",
+        "fullSummary": "NVIDIA founder and CEO Jensen Huang takes to Seoul, meeting Korea’s AI builders, sovereign infrastructure partners and gaming community. Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Monday, June 8, 10:00 a.m.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "AI시장",
+        "score": 31
+      },
+      {
+        "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+        "link": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+        "publishedAt": "Tue, 02 Jun 2026 22:00:58 +0000",
+        "summary": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes. At GTC Taipei at COMPUTEX, NVIDIA and more than a dozen engineering software […]",
+        "fullText": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw Showcased at GTC Taipei at COMPUTEX, autonomous AI engineers compress weeks of simulation work into just hours. Link copied! Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes. At GTC Taipei at COMPUTEX, NVIDIA and more than a dozen engineering software providers are showcasing how autonomous AI agents automate this entire workflow. These AI engineers are based on NVIDIA NemoClaw , an open blueprint for building specialized, long-running agents with a secure runtime and frontier models. NemoClaw includes a choice of harness — meaning it can be integrated with various orchestration frameworks enterprises use to deploy and coordinate agents, such as OpenClaw and Hermes — as well as a model router and NVIDIA NeMo libraries for customization. Users can easily deploy NemoClaw from NVIDIA DGX Spark personal AI supercomputers, as well as through enterprise data centers and cloud service providers. NVIDIA OpenShell — the open source runtime at its core — governs how each agent accesses files, networks and tools, enforcing policy-based security at every layer. Industrial Engineering Leaders Build AI Agents Across Design, Engineering, Simulation Industrial software leaders are building AI engineers for computer-aided engineering (CAE) and electronic design automation (EDA) use cases across automotive, aerospace, semiconductors and manufacturing. Cadence is building an autonomous register-transfer level (RTL) engineer with NemoClaw that orchestrates Cadence Design Systems ChipStack for design and verification. The workflow was featured yesterday in a GTC Taipei keynote demo and is cutting time for RTL verification — a key step in digital circuit design — from weeks to hours. Dassault Systèmes is actively productizing the 3DEXPERIENCE Agentic Platform to operate long-running and autonomous agents for design, simulation and manufacturing operations, in a secured environment powered by NVIDIA NemoClaw and OpenShell. Siemens is integrating NVIDIA NemoClaw and OpenShell into Fuse EDA AI Agent, a purpose-built autonomous agent that plans and orchestrates domain-scoped multi-tool workflows across semiconductor, 3D integrated circuit and printed circuit board system design. Synopsys is collaborating with NVIDIA to apply agents to end-to-end engineering workflows with NVIDIA NemoClaw. Ansys Icepak, part of the Synopsys portfolio, is being demoed on the COMPUTEX show floor this week, used within a NemoClaw-based autonomous AI engineer to mesh, simulate and optimize GPU electronics cooling designs. Image courtesy of Synopsys. Startups Extend the Reach of Agentic AI In addition, cutting-edge startups are building AI engineers for their workflows — all using NVIDIA NemoClaw. Flexcompute is applying OpenShell to its Tidy3D and PhotonForge agents for multiphysics co-packaged optics design. Flexcompute’s autonomous AI workflow combines optical, electrical and thermal simulation to explore thousands of design variants overnight, producing higher-performing components with lower energy consumption. NVIDIA is using Flexcompute technology for the design and optimization of advanced optical and photonic devices. &nbsp; Video courtesy of Flexcompute. Luminary is building a long-running AI engineer using NemoClaw to dramatically reduce the time and complexity of training AI physics models by autonomously orchestrating data generation, machine learning model selection, and training and re-training loops. &nbsp; Video courtesy of Luminary. Neural Concept is deploying an agent for electric motor design. The workflow chains electromagnetic, structural and noise, vibration and harness simulations in a multistep engineering pipeline. Watch the full demo . &nbsp; Video courtesy of Neural Concept. nTop , the geometry engine behind JetZero’s blended-wing-body aircraft program, is using NVIDIA NemoClaw to run autonomous design workflows that compress days of geometry iteration into hours. &nbsp; Video courtesy of nTop. PhysicsX is partnering with the Microsoft Surface team to build an electronics thermal simulation agent that compresses weeks of manual CAE workflows into automated, AI-driven design cycles. Bringing together the PhysicsX platform, Microsoft Discovery and NVIDIA NemoClaw, the agent automates the full thermal simulation lifecycle for consumer devices such as Microsoft Surface laptops — from mesh sensitivity analysis and simulation data generation, through physics AI model training and optimization-loop execution, to continuous accuracy monitoring across the design exploration process. &nbsp; Video courtesy of PhysicsX. P-1 AI is building Archie, an AI mechanical ",
+        "fullSummary": "Showcased at GTC Taipei at COMPUTEX, autonomous AI engineers compress weeks of simulation work into just hours. Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes. At GTC Taipei at COMPUTEX, NVIDIA and more than a dozen engineering software providers are showcasing how autonomous AI agents automate this entire workflow.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "데이터센터",
+          "온디바이스AI",
+          "NVIDIA",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 31
+      },
+      {
+        "title": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 - 아주경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtQ1JoTVlXZDVVeE8zQ25MckVTMVZZczhSc0FIdmhFZXNJdTRIUmJXck96MGp4NkNoMFN5RWl5VTV5OHE0aEY3OEtzMWZtQlNzREFESXRzQndBUdIBWEFVX3lxTE9DSTBQX1Z1MlBJWDBFOFhFQVotVnR3bVBINGdnMUhza0F4NTJsYjgzWjQyZUdXaVRKZEI0Z05WV2RBMmRIZzUxUnVzYUFNX3F6ZjBteXZaZXI?oc=5",
         "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
+        "summary": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 &nbsp;&nbsp; 아주경제",
+        "outlet": "아주경제",
+        "outletUrl": "https://www.ajunews.com",
         "source": "리벨리온",
         "sourceLang": "ko",
         "region": "domestic",
@@ -162,12 +901,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 - 아주경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtQ1JoTVlXZDVVeE8zQ25MckVTMVZZczhSc0FIdmhFZXNJdTRIUmJXck96MGp4NkNoMFN5RWl5VTV5OHE0aEY3OEtzMWZtQlNzREFESXRzQndBUdIBWEFVX3lxTE9DSTBQX1Z1MlBJWDBFOFhFQVotVnR3bVBINGdnMUhza0F4NTJsYjgzWjQyZUdXaVRKZEI0Z05WV2RBMmRIZzUxUnVzYUFNX3F6ZjBteXZaZXI?oc=5",
+        "title": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmUHBnQ2Y3WWh3T1pKdTFvRnlDUGxJeG01cXBxZTBXRTZIS3hqRUJ3ZDlOMGZvZUROYlB4Z2NFeXJsYnZQRVI2bGo4NA?oc=5",
         "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 &nbsp;&nbsp; 아주경제",
-        "outlet": "아주경제",
-        "outletUrl": "https://www.ajunews.com",
+        "summary": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 &nbsp;&nbsp; v.daum.net",
+        "outlet": "v.daum.net",
+        "outletUrl": "https://v.daum.net",
         "source": "리벨리온",
         "sourceLang": "ko",
         "region": "domestic",
@@ -335,22 +1074,30 @@ window.__DASHBOARD_DATA__ = {
         "score": 30
       },
       {
-        "title": "AI 시대 데이터센터 전자파 바로 알린다…과기정통부, 공모전 개최 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ib19LQ3ZuQzYxQjIwTWxXSTllYjByS1Fnd2Y3UG9FM1EwNHpXV0YxNFgteklUR2RwNEI4WWlOVmxQSzFqNnVvdEU3WFhTRU5OUGpsLTBncV9FZ2gyamZIQtIBeEFVX3lxTE9lVjItWWx5U3d6M3lGLVVWRkZ5VC0xMkpoQ0dIdXF5MU1ka0EyZHVsZWMzSUhtbjZPenRjbFdqTjBWYllFdXhKTzBwNWhPcW1nR0phaDZnNThJMzVZWjBPQXZBbGY2d0IyazQ4NW5XWDhyaWo0aGtkYw?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 03:00:00 GMT",
-        "summary": "AI 시대 데이터센터 전자파 바로 알린다…과기정통부, 공모전 개최 &nbsp;&nbsp; 뉴시스",
-        "outlet": "뉴시스",
-        "outletUrl": "https://www.newsis.com",
-        "source": "NIPA·과기정통부 정책",
+        "title": "지능형 공장에 새로운 AI 두뇌 제공하는 NVIDIA FOX 블루프린트",
+        "link": "https://blogs.nvidia.co.kr/blog/factory-operations-fox-blueprint-ai-brain/",
+        "publishedAt": "Tue, 09 Jun 2026 06:12:29 +0000",
+        "summary": "공장 인프라가 고립된 자동화 단계에서 공장 전체 지능화 단계로 진화하고 있습니다. 이에 따라 제조 기업들은 실시간 기계 신호, 품질 시스템, 작업 지침서, 운영 경보를 하나의 통합 의사결정 레이어로 연결할 수 있는 AI 시스템을 필요로 하고 있죠. 이번에 발표된 NVIDIA Factory Operations 블루프린트(FOX)는 자율 공장 관리자 에이전트 구축용 레퍼런스 디자인입니다. 실시간 데이터 전반을 지속적으로 모니터링하고 추론하며, 블로그 읽기 The post 지능형 공장에 새로운 AI 두뇌 제공하는 NVIDIA FOX 블루프린트 appeared first on NVIDIA Blog Korea .",
+        "fullText": "지능형 공장에 새로운 AI 두뇌 제공하는 NVIDIA FOX 블루프린트 공장 운영을 위한 NVIDIA Factory Operations 블루프린트는 자율 공장 관리자 에이전트를 구축하는 레퍼런스 디자인으로, 전체 공장 가시성을 제공해 더욱 빠르고 나은 의사 결정을 지원합니다. . 이에 따라 제조 기업들은 실시간 기계 신호, 품질 시스템, 작업 지침서, 운영 경보를 하나의 통합 의사결정 레이어로 연결할 수 있는 AI 시스템을 필요로 하고 있죠. 이번에 발표된 NVIDIA Factory Operations 블루프린트(FOX)는 자율 공장 관리자 에이전트 구축용 레퍼런스 디자인입니다. 실시간 데이터 전반을 지속적으로 모니터링하고 추론하며, 다양한 특화 에이전트와 기계를 조율해 대규모 문제를 신속하게 해결하도록 지원합니다. FOX는 개발자가 품질 관리, 자재 운송, 작업자 안전을 담당하는 특화 산업용 AI 에이전트를 조율하고 최적화할 수 있도록 보안성이 뛰어난 중앙 집중형 공장 관리자 에이전트 구축을 지원합니다. 이는 NVIDIA NemoClaw , AI-Q Blueprint , NVIDIA Nemotron 오픈 모델 을 기반으로 설계됐으며, 공장 시스템 연결과 모델 개발 자동화, 대규모 지능형 운영 구동을 위한 맞춤형 기반을 제공합니다. 또한, 공장 관리자를 위한 최상의 데스크사이드 AI 슈퍼컴퓨터 동반자인 NVIDIA DGX Station 에서 구동되도록 최적화됐습니다. DGX Station은 NVIDIA GB300 Grace Blackwell Ultra Desktop 슈퍼칩을 탑재했습니다. 이 슈퍼칩은 20 페타플롭스의 FP4 성능과 748GB 코히어런트 메모리를 갖추고 있는데요. 최대 1조 개 파라미터 수준의 대형 AI 모델을 구동할 수 있어 강력한 AI 에이전트를 로컬 환경에서 개발하고 실행하는 데 이상적입니다. 또한 해당 슈퍼칩은 NVIDIA NVLink-C2C 인터커넥트를 통해 고성능 NVIDIA Grace CPU와 연결된 NVIDIA Blackwell Ultra GPU를 탑재해, 동급 최고 수준 시스템 통신과 성능을 제공합니다. 이는 NemoClaw와 AI 모델 사이 초고속 상호작용을 구현하는 데 탁월한 효율성을 발휘하죠. FOX 블루프린트의 핵심 기능은 다음과 같습니다. 공장 시스템과 에이전트 연결: FOX는 산업용 데이터 소스, 기계, 애플리케이션, 로봇 플릿(fleet)과 통합되며, 표준 API와 에이전트 기술을 통해 글로벌 선도 소프트웨어 개발사들의 특화 에이전트와 연결할 수 있습니다. AI 모델 훈련 자동화: 공장 관리자 에이전트는 NVIDIA TAO 기술을 활용해 정확도 격차 식별, 훈련 데이터 소싱 또는 합성 생성, 모델 파인튜닝, 프로덕션 환경 재배포 등 전체 모델 훈련 라이프사이클을 자동화할 수 있습니다. 지능형 공장 워크플로우 운영: 영상 검색과 요약용(video search and summarization, VSS) NVIDIA Metropolis Blueprint 를 포함해 NVIDIA 오픈 모델과 블루프린트로 시각 검사, 프로세스 준수, 자재 운송 에이전트를 관리할 수 있습니다. 실시간 공장 데이터는 NVIDIA Omniverse 라이브러리로 구축된 운영 트윈을 통해 시각화가 가능합니다. 대만 제조사인 어드밴텍(Advantech) , 폭스콘(Foxconn), 페가트론(Pegatron), 위스트론(Wistron)은 NVIDIA FOX 블루프린트와 NemoClaw를 활용해 자율 공장 관리자 에이전트를 가장 먼저 도입한 기업들입니다. 세계 최대 전자제품 제조업체인 폭스콘은 FOX 블루프린트와 NemoClaw를 도입해 제조 운영 멀티 에이전트 시스템인 MoM클로(MoMClaw)를 구축하고 있죠. 실제 생산 작업과 병행해 구동되는 MoM클로는 센서, 기계 신호, 기타 디지털 시스템을 단일 에이전틱 레이어 내 수백 개의 특화 에이전트와 연결합니다. 이를 통해 공장 관리자와 작업자에게 NVIDIA OpenShell 프라이버시 보호 제어 기능과 안전 가드레일을 갖춘 자연어 인터페이스를 제공하며, 실시간 답변과 행동 계획을 도출합니다. 폭스콘은 MoM클로 도입을 통해 근본 원인 분석 시간 80% 단축, 노동 생산성 15% 향상, 기계 고장률 10% 감소 효과를 거둘 것으로 전망하고 있습니다. 페가트론은 FOX 블루프린트와 NemoClaw를 활용해 자재 운송, AI 검사, 표준 작업 절차 안내, 기계 간 협업을 담당하는 특화 에이전트들을 조율하는 공장 관리자 에이전트를 구축하고 있는데요. 페가트론은 이 공장 관리자 에이전트를 통해 로봇 활용을 더욱 효율적으로 조율함으로써 값비싼 대기 장비의 필요성을 제거했으며, 자산 중복 비용을 약 15% 절감할 것으로 추정합니다. 어드밴텍은 FOX 블루프린트와 NemoClaw로 구축된 공장 관리자 에이전트 중심의 지능형 멀티 에이전트 시스템인 AI 팩토리 브레인(AI Factory Brain)을 도입했습니다. 어드밴텍은 이 공장 관리자 에이전트를 자사 공장에 배포해 냉난방공조(HVAC)와 조명 특화 에이전트 전반의 에너지를 자율적으로 관리하고 있는데요. 이를 통해 에너지 소비량을 10% 감축할 계획입니다. 위스트론은 FOX 블루프린트를 채택하고 NVIDIA Cosmos , NVIDIA Nemotron 오픈 모델, NVIDIA Metropolis VSS 블루프린트 를 활용해 표면 실장 기술(SMT) 에이전트를 구축하고 있죠. 이 에이전트는 생산 라인 운영을 분석하고 조율해 실시간 근본 원인 분석과 품질 관리를 가능하게 합니다. 제조 운영 모니터링, 품질 향상, 표준 작업 절차 검증, 작업자 안전 개선을 위해 딥하우(DeepHow) , 오버뷰 AI(Overview AI) , 로보플로우(Roboflow) , 스핑전스(Spingence) 등의 기업들도 NVIDIA AI와 NVIDIA VSS Blueprint 기반의 특화 에이전트를 구축하고 있습니다. 딥하우는 Metropolis VSS 블루프린트와 Cosmos 3를 활용해 폭스콘을 위한 표준 작업 절차 에이전트를 개발하고 있습니다. 이 에이전트는 NVIDIA GB300 서버용 비앙카(Bianca) 보드 조립을 지원하죠. NVIDIA RTX PRO 서버에서 구동되는 이 에이전트는 복잡한 조립 동작을 정확하게 이해해 초도 수율을 3% 향상시키고 재작업과 생산 폐기물을 최소화하도록 돕습니다. 스핑전스는 NVIDIA Defect Image Generation 기술, NVIDIA Cosmos 오픈 비전 언어 모델(vision language model, VLM), 파인튜닝용 NVIDIA TAO 툴킷을 활용해 쿨러마스터(Cooler Master)용 공장 관리자 에이전트를 개발하고 있죠. 이 에이전트는 자동 광학 검사와 모델 구축 에이전트를 연결해 결함 재현율(defect recall) 99.6% 달성, 결함 유출 78% 감소, 검사 용량 3배 증대 성과를 거두었습니다. 오버뷰 AI는 결함 이미지 생성을 위한 NVIDIA 에이전트 기술과 NVIDIA Cosmos를 도입해 암페놀(Amphenol)이 고도화된 생성형 AI 툴킷(Advanced GenAI Toolkit)으로 제조 효율성을 높이도록 지원하는데요. 이 툴킷은 합성 결함 데이터를 생성하고 시각 검사 AI 모델을 12배 빠르게 배포해, 300개 이상의 제품 전반에서 첫 추론까지 걸리는 시간을 30분 미만으로 단축합니다. 로보플로우는 NVIDIA Cosmos를 활용해 코닝 파이버 옵틱스(Corning Fiber Optics)용 모델 구축 에이전트를 개발하고 있습니다. 이 에이전트는 훈련 데이터가 제한적일 때 합성 결함 이미지를 생성해 완벽에 가까운 검출률을 제공하며, 일일 수동 이미지 검토 작업을 줄일 수 있는 잠재력을 입증하고 있죠. NVIDIA FOX 블루프린트 출시 알림을 신청 해 보세요. 이제 Metropolis VSS 블루프린트 3 가 정식 출시됐습니다. 여기에는 클로드 코드(Claude Code), 코덱스(Codex), 헤르메스(Hermes), NemoClaw와 같은 외부 에이전트가 VSS 구성 요소에 접근하고 비디오 분석 AI 에이전트를 신속하게 구축하고 운영할 수 있도록 지원하는 기술 이 포함됩니다. NVIDIA 창립자 겸 CEO 젠슨 황의 키노트 를 시청하고, NVIDIA GTC Taipei 에 관해 자세한 내용을 확인하세요. 카테고리: AI Infrastructure | Corporate | Robotics 태그: Agentic AI | COMPUTEX 2026 | Industrial and Manufacturing | Metropolis All NVIDIA News NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI",
+        "fullSummary": "공장 운영을 위한 NVIDIA Factory Operations 블루프린트는 자율 공장 관리자 에이전트를 구축하는 레퍼런스 디자인으로, 전체 공장 가시성을 제공해 더욱 빠르고 나은 의사 결정을 지원합니다. 이에 따라 제조 기업들은 실시간 기계 신호, 품질 시스템, 작업 지침서, 운영 경보를 하나의 통합 의사결정 레이어로 연결할 수 있는 AI 시스템을 필요로 하고 있죠. 이번에 발표된 NVIDIA Factory Operations 블루프린트(FOX)는 자율 공장 관리자 에이전트 구축용 레퍼런스 디자인입니다. 실시간 데이터 전반을 지속적으로 모니터링하고 추론하며, 다양한 특화 에이전트와 기계를 조율해 대규모 문제를 신속하게 해결하도록 지원합니다.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog Korea",
+        "outletUrl": "https://blogs.nvidia.co.kr/feed/",
+        "source": "NVIDIA Blog Korea",
         "sourceLang": "ko",
         "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "데이터센터"
+        "companyHits": [
+          "NVIDIA"
         ],
-        "issueCategory": "정책",
-        "score": 29
+        "taxonomyHits": [
+          "AI시장",
+          "AI에이전트",
+          "추론",
+          "NVIDIA",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 30
       },
       {
         "title": "Nvidia CEO Jensen Huang Calls AI ‘Insanely Profitable’ for TSMC. How to Play TSM Stock Here. - Barchart.com",
@@ -374,67 +1121,79 @@ window.__DASHBOARD_DATA__ = {
         "score": 29
       },
       {
-        "title": "삼성, TSMC 독주 흔드나…구글 TPU용 2나노 생산 논의 - 조세일보",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxZHZqQ1N4Nzdid2UwS1BwVEQ2c2xJNm8waUt6ekUxSDFxTHJXOEFjLVgyY3d4Mk5OS2lwN2k5dGRRWmt1aW1OZzRsWUd6NDlNRnoyNkFnMjlfV1NOWVRF?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 06:20:28 GMT",
-        "summary": "삼성, TSMC 독주 흔드나…구글 TPU용 2나노 생산 논의 &nbsp;&nbsp; 조세일보",
-        "outlet": "조세일보",
-        "outletUrl": "https://m.joseilbo.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
+        "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+        "link": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+        "publishedAt": "Mon, 08 Jun 2026 03:00:50 +0000",
+        "summary": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses. The collaboration brings […]",
+        "fullText": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure New AI factory to serve as the foundation for LG Group’s robotics, autonomous driving, data center technologies and GPU cloud services. Link copied! NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses. The collaboration brings together NVIDIA’s full-stack, end-to-end AI factory platform with LG Group’s global leadership in consumer electronics, robotics, mobility components, smart spaces and data center technologies. Together, the companies are connecting AI model development, physical AI data generation, robot simulation and training, edge deployment and factory-scale digital twins into a unified workflow for building physical AI systems. Advancing Physical AI and Robotics The combination of LG’s production technology data and know-how from global manufacturing sites with NVIDIA’s AI infrastructure and digital twin technologies will help enhance AI-driven manufacturing AI competitiveness. The two companies will collaborate to build an autonomous manufacturing ecosystem in which the entire process — from raw material procurement to production, logistics and customer delivery — is connected in real time through data and AI, and establish it as a new global smart factory standard. LG Electronics is developing home-based robots like CLoiD to help with a wide range of indoor household tasks, enhancing everyday convenience and improving quality of life. By integrating the NVIDIA Isaac Sim and NVIDIA Isaac Lab open robotics frameworks into their development workflows, LG can simulate, train and validate these home cobots in physically accurate virtual environments before deployment. The company is exploring using the NVIDIA Isaac GR00T open, reasoning vision action language model for both its home robots and modular robotics platforms. The GR00T model will provide LG robots humanlike reasoning and the ability to execute complex tasks. NVIDIA and LG Electronics also plan to jointly develop reference robots, positioning LG’s robots as part of the NVIDIA Isaac GR00T ecosystem . To help overcome the training data challenge for robotics, LG Electronics is developing a physical AI data factory poised to help Korean and global companies accelerate physical AI projects. By turning compute into data, LG will be providing high-quality training data for robotics and industrial AI projects, using NVIDIA Cosmos world foundation models for synthetic data generation and augmentation. LG Innotek, harnessing its world-class optical expertise, plans to provide state-of-the-art robotics components, including sensing solutions, specifically optimized for NVIDIA’s development environments and GPU architecture. LG CNS is building an ecosystem that enables anyone to easily adopt AI robots in manufacturing and logistics sites. By integrating NVIDIA’s robotics technologies including Isaac open robotics frameworks , NVIDIA Cosmos open world models and Isaac GR00T robotic foundation models into its PhysicalWorks industrial robot platform, the company is accelerating the AI transformation of logistics and manufacturing floors. Building an NVIDIA DSX-Aligned AI Factory Infrastructure The two companies will also expand cooperation in the field of next-generation AI factories, which will support the AI era. Beyond its certification cooperation with NVIDIA on cooling solutions for AI factory thermal management — including cooling distribution units (CDUs) and cold plates — LG Electronics is further elevating its AI factory capabilities through technical collaboration on prefabricated modular design technologies. This initiative aligns with the NVIDIA DSX AI factory platform, enabling the rapid deployment of scalable, high-performance supercomputing infrastructure. These technologies include CDUs, cold plates and prefab modular design capabilities to help address the power, thermal and deployment requirements of next-generation liquid-cooled AI factories. In collaboration with LG Electronics and LG Energy Solution, LG Uplus — a telecommunications provider under LG Corp. — plans to build scalable, power-efficient AI factories based on NVIDIA DSX. The effort is expected to combine NVIDIA accelerated computing and AI factory reference architectures with LG’s infrastructure, energy and telecommunications capabilities to support future AI cloud and GPU service opportunities. LG CNS plans to build scalable, power-efficient, high-performance AI factories powered by NVIDIA GPUs based on NVIDIA DSX. LG Uplus plans to build a large-scale AI data center capable of accommodating the latest NVIDIA GPUs. LG Energy Solution plans to collaborate with NVIDIA on eme",
+        "fullSummary": "New AI factory to serve as the foundation for LG Group’s robotics, autonomous driving, data center technologies and GPU cloud services. NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses. The collaboration brings together NVIDIA’s full-stack, end-to-end AI factory platform with LG Group’s global leadership in consumer electronics, robotics, mobility components, smart spaces and data cen...",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
-          "Google",
-          "TPU",
-          "TSMC"
+          "NVIDIA"
         ],
         "taxonomyHits": [
-          "Google",
-          "파운드리·패키징"
+          "AI인프라",
+          "데이터센터",
+          "NVIDIA",
+          "파운드리·패키징",
+          "실증·조달"
         ],
         "issueCategory": "AI시장",
         "score": 29
       },
       {
-        "title": "구글 TPU, 삼성 택한 이유는?…\"TSMC와 나눠 생산\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UOUMtZ3J4YlhmQU1UeEhNZXpJMlljRjVGbUNfd1dmOVZXbXhKMFplSERfTWJkbHdhN3g5a0xtTzVVMkxFSzkwZnJYR05BRm8?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 04:33:07 GMT",
-        "summary": "구글 TPU, 삼성 택한 이유는?…\"TSMC와 나눠 생산\" &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
+        "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+        "link": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+        "publishedAt": "Wed, 03 Jun 2026 15:00:57 +0000",
+        "summary": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that […]",
+        "fullText": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale New NVIDIA Research breakthroughs show how training at scale — across gripper types, driving scenarios and virtual worlds — creates AI that generalizes to diverse applications. nk copied! Your browser doesn't support HTML5 video. Here is a link to the video instead. What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that it can do so quickly enough on the hardware actually installed in the car. What makes a virtual agent capable is exposure to as many different environments as possible before it faces the real world. At this year’s Computer Vision and Pattern Recognition (CVPR) conference, NVIDIA Research is presenting three papers that address each of these challenges — and share a common theme: training at scale creates systems that generalize across diverse applications. The three papers cover different challenges in physical AI research: GraspGen-X , the first foundation model for zero-shot grasping, was trained on billions of simulated grasps to work with any gripper it’s shown. LCDrive introduces a model that replaces expensive text-based reasoning with compact latent representations, letting autonomous vehicles think faster on embedded hardware. NitroGen is a generalized gameplay AI foundation model that harnesses the NVIDIA Isaac GR00T robot foundation model architecture to help train embodied agents in virtual environments across tens of thousands of hours of interaction. NVIDIA also unveiled at CVPR new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. NitroGen and another NVIDIA-authored paper, PixelDIT , were named best paper finalists at the conference — an accolade given to just 15 of over 4,000 accepted papers at CVPR. The First Foundation Model for Grasping Most AI systems for robotic grasping are specialists. A vision-language-action policy trained for a two-finger gripper only learns to grasp with those two fingers. Similarly, a policy for dextrous grasping will only work for the bespoke multi-fingered gripper it’s trained on. For every new embodiment, the process typically needs to be repeated — requiring new training data, fine-tuning and validation. This constraint means most robotics companies pick a gripper, train for it and stick with it. GraspGen-X is the first foundation model for grasping built to eliminate this bottleneck. Like a large language model that can apply its understanding of language to a new task without retraining, GraspGen-X applies its understanding of geometry and contact to any robotic gripper it encounters. Given the geometry of a new gripper and an unknown object it’s never seen before, the model generates reliable grasp pose proposals to enable the robot to grasp the object. To get there, the researchers needed a dataset that’s impossible to collect in the real world at scale. They generated 2 billion simulated grasps across thousands of object shapes and synthetic gripper configurations, spanning the diversity of form factors a deployed robot might encounter. For robot developers, this foundation model eliminates the need for per-gripper training cycles and can be applied out of the box for several commonly used grippers. GraspGenX can be used in conjunction with curoboV2 , a new CUDA-accelerated motion planning library, to achieve these grasp poses in unknown environments. Building on the GraspGen research foundation, another paper, Grasp-MPC — presented at ICRA 2026 — advances the next step in the pipeline: moving from grasp generation to closed-loop grasp execution. Teaching Autonomous Vehicles to Think Faster In recent years, researchers have found that letting an AI reason — generating intermediate thinking steps before committing to an answer — reliably improves its decision-making. For autonomous vehicles, the challenge is doing that reasoning on the hardware inside an actual vehicle. Text-based chain-of-thought reasoning generates words, and every word is a token that takes time to produce. On the processor running inside a car, token count is a real constraint on how fast the system can respond. LCDrive tackles this problem by replacing words with compressed latent representations. Instead of generating human-readable reasoning steps, the system thinks in a compact latent space — states that capture spatial information rather than producing text. The architecture alternates between two kinds of thinking: proposing candidate actions, then predicting what the world will look like if those actions are taken. It uses that predicted world state to refine its next step. It’s the same reasoning loop — just in a more computationally efficient form than natu",
+        "fullSummary": "New NVIDIA Research breakthroughs show how training at scale — across gripper types, driving scenarios and virtual worlds — creates AI that generalizes to diverse applications. Your browser doesn't support HTML5 video. Here is a link to the video instead. What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
-          "Google",
-          "TPU",
-          "TSMC"
+          "NVIDIA",
+          "TPU"
         ],
         "taxonomyHits": [
+          "AI에이전트",
+          "NVIDIA",
           "Google",
           "파운드리·패키징"
         ],
-        "issueCategory": "AI시장",
+        "issueCategory": "AI에이전트",
         "score": 29
       },
       {
-        "title": "삼성 파운드리, 구글 TPU 수주 눈앞?…TSMC 독주에 균열 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wSVh2LVZDOTFfbms4S2ZEcHFPaUtjd1E0M1dGV1ZWQ29kUlFYb2l0aUVEakJPM0FGQXJkZmtDUk5zSVdnLUZOZlVOaW1TWGs?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 00:22:02 GMT",
-        "summary": "삼성 파운드리, 구글 TPU 수주 눈앞?…TSMC 독주에 균열 &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
+        "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+        "link": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+        "publishedAt": "Wed, 03 Jun 2026 15:00:35 +0000",
+        "summary": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them — reconstructing real-world scenes, generating edge-case scenarios, training policies, evaluating […]",
+        "fullText": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI New physical AI agent skills, powered by NVIDIA Cosmos 3, help researchers accelerate data generation, simulation, policy training and evaluation for autonomous system development. Link copied! Your browser doesn't support HTML5 video. Here is a link to the video instead. At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles , robots and vision AI systems . The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them — reconstructing real-world scenes, generating edge-case scenarios, training policies, evaluating behavior and rapidly iterating. Today, these steps are fragmented across separate tools, slowing the pace of experimentation as researchers struggle to piece them together. Earlier this week, NVIDIA announced NVIDIA Cosmos 3 , the open frontier model for physical AI and the world’s first full omnimodel unifying vision reasoning, world and action generation. Leading across the open model public leaderboards central to physical AI, the world foundation model provides core capabilities for physical AI development. NVIDIA physical AI skills pair with Cosmos, NVIDIA libraries and simulation frameworks to help researchers move from model capabilities to scalable end-to-end workflows faster than ever. Advancing Autonomous Vehicle Research Beyond Recorded Miles For AV researchers, the problem is the “long tail” of driving — rare interactions, unusual road geometry, lighting changes and edge-case behaviors that are difficult to repeatedly collect, but critical for training and validation. &nbsp; Neural Reconstruction skill demo in OpenClaw, showing a video re-rendered from an elevated virtual sensor viewpoint. With NVIDIA autonomous vehicle skills, researchers and developers can task AI agents to automate workflows for scene reconstruction from fleet data and generate synthetic scenarios. Neural Reconstruction skills help AI agents turn fleet-captured data into editable 3D scenes for simulation and synthetic data generation, while technologies including NVIDIA Omniverse NuRec , InstantNuRec , Harmonizer and HiGS accelerated renderer help accelerate reconstruction, improve scene realism and generate new views. &nbsp; InstantNuRec enables fast 3D Gaussian road-scene reconstruction from images without per-scene optimization. For AV researchers, repeatable simulation helps vary conditions, compare system responses and uncover failure modes across scenarios beyond what can be captured in real-world data. NVIDIA AlpaGym , an open source closed-loop reinforcement learning framework, extends that approach by connecting policy rollouts and high-fidelity simulation with agent skills, scaling across thousands of GPUs, to help researchers move through setup, rollout and evaluation. NVIDIA OmniDreams , an action-conditioned generative world model, adds photorealistic rendering to the simulation loop, generating camera frames that respond directly to policy actions in real time. NVIDIA is also advancing AV research with its most powerful open driving foundation model to date: NVIDIA Alpamayo 2 Super , an open 32-billion-parameter reasoning vision language action (VLA) model that reasons, plans and acts across the full driving stack for safer, scalable level 4 development and deployment. Advancing Vision AI Systems for the Real World For vision AI research, the bottleneck is creating enough controlled examples to study how models behave when visual conditions, object states or temporal events change. Work in zero-shot anomaly detection, synthetic anomaly generation and few-shot defect recognition all run into the same data wall. &nbsp; New skills for visual inspection generates multiple rare defects on different surfaces. New NVIDIA Metropolis skills are helping researchers and developers use AI agents to generate synthetic visual scenarios, including anomalies, augment data and support pseudo-labeling. These skills benefit from Cosmos 3’s mixture-of-transformers architecture, which uses a reasoning transformer to analyze observations and feed instructions to a generation tower, helping scale physically grounded virtual worlds. Researchers building high-accuracy visual inspection models can use the Defect Image Generation skill to create examples of different defects across different surfaces using real images. The workflow combines NVIDIA Isaac Sim for simulation, Cosmos 3 and NVIDIA OSMO for orchestration and vision language reasoning — letting researchers create rare visual cases and assess whether models respond correctly. &nbsp; New NVIDIA Metropolis VSS Blueprint skills extract insights from massive volumes of video data. For video AI agents, the NVIDIA Metropolis Blueprint for video search and summarization (VSS) , NVIDIA TAO and Video Augmentation sk",
+        "fullSummary": "New physical AI agent skills, powered by NVIDIA Cosmos 3, help researchers accelerate data generation, simulation, policy training and evaluation for autonomous system development. Your browser doesn't support HTML5 video. Here is a link to the video instead. At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles , robots and vision AI systems .",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
-          "Google",
-          "TPU",
-          "TSMC"
+          "NVIDIA",
+          "Arm"
         ],
         "taxonomyHits": [
-          "Google",
-          "파운드리·패키징"
+          "AI에이전트",
+          "NVIDIA",
+          "투자·M&A",
+          "실증·조달"
         ],
         "issueCategory": "AI시장",
         "score": 29
@@ -457,6 +1216,24 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI시장",
+        "score": 28
+      },
+      {
+        "title": "AI 시대 데이터센터 전자파 바로 알린다…과기정통부, 공모전 개최 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ib19LQ3ZuQzYxQjIwTWxXSTllYjByS1Fnd2Y3UG9FM1EwNHpXV0YxNFgteklUR2RwNEI4WWlOVmxQSzFqNnVvdEU3WFhTRU5OUGpsLTBncV9FZ2gyamZIQtIBeEFVX3lxTE9lVjItWWx5U3d6M3lGLVVWRkZ5VC0xMkpoQ0dIdXF5MU1ka0EyZHVsZWMzSUhtbjZPenRjbFdqTjBWYllFdXhKTzBwNWhPcW1nR0phaDZnNThJMzVZWjBPQXZBbGY2d0IyazQ4NW5XWDhyaWo0aGtkYw?oc=5",
+        "publishedAt": "Sun, 14 Jun 2026 03:00:00 GMT",
+        "summary": "AI 시대 데이터센터 전자파 바로 알린다…과기정통부, 공모전 개최 &nbsp;&nbsp; 뉴시스",
+        "outlet": "뉴시스",
+        "outletUrl": "https://www.newsis.com",
+        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "데이터센터"
+        ],
+        "issueCategory": "정책",
         "score": 28
       },
       {
@@ -503,46 +1280,141 @@ window.__DASHBOARD_DATA__ = {
         "score": 28
       },
       {
-        "title": "Navitas Semiconductor (NVTS) Stock Valuation After New SiC Package And NVIDIA AI Data Center Role - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM1lhdDg4VFk2UWQ4YUZpNzJPZWlpQUU3VWFhNjlBRnlhTGJPQ25tS3gyRW01NVh0M2VmQ2tUaVRNeTAwSzA3VGVtcnBXbE5RUHI4a1lSblNvWDV6NDhhQmZqNUI4czJaOEVzOVlYVkQzYmtsTnNNVEVUZTMtYnRhTGtEbDVYZmZaUzNhVVJuQmN6bGp1Y3pDQWkwSzZ6bDZacWE0dXhxTVVoZjB1dW5USG1iMEpVMktmLUNIYnVBYVBMaFlzX1NEVmpCcThaUy15SEpQSXpXWllKRHFpUENB0gHkAUFVX3lxTE9oWjV0WWtaRERxcUhFUUZvNVF3WFlQdjBJaXpwMkNOQ25RVDBLMmpYMjZsdDRfTGluei1HYWZOYW1WVWxlSDY0dVdNandVUmxBZmgxUWVvaU5Wa01rdGk1Q0RueUVaYUt3N2pINDcwZ0tYS1kxTUlrQWRWRnBGX2pSTm1wa1dsSkNFdUk5a1dsU1l4cG0xczJiN1NtTC1VTkZQcDdaUGFYZGlXQi1pUHhVdkhBY19ja2tpZmhjTWdGVDJIX3Q5WTlFZWJPb2ROaHluTEN4ckVYXzRuTXhKSVVhTzU3eA?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 01:41:50 GMT",
-        "summary": "Navitas Semiconductor (NVTS) Stock Valuation After New SiC Package And NVIDIA AI Data Center Role &nbsp;&nbsp; simplywall.st",
-        "outlet": "simplywall.st",
-        "outletUrl": "https://simplywall.st",
-        "source": "NVIDIA 이슈",
+        "title": "삼성, TSMC 독주 흔드나…구글 TPU용 2나노 생산 논의 - 조세일보",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxZHZqQ1N4Nzdid2UwS1BwVEQ2c2xJNm8waUt6ekUxSDFxTHJXOEFjLVgyY3d4Mk5OS2lwN2k5dGRRWmt1aW1OZzRsWUd6NDlNRnoyNkFnMjlfV1NOWVRF?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 06:20:28 GMT",
+        "summary": "삼성, TSMC 독주 흔드나…구글 TPU용 2나노 생산 논의 &nbsp;&nbsp; 조세일보",
+        "outlet": "조세일보",
+        "outletUrl": "https://m.joseilbo.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google",
+          "TPU",
+          "TSMC"
+        ],
+        "taxonomyHits": [
+          "Google",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "AI시장",
+        "score": 28
+      },
+      {
+        "title": "구글 TPU, 삼성 택한 이유는?…\"TSMC와 나눠 생산\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UOUMtZ3J4YlhmQU1UeEhNZXpJMlljRjVGbUNfd1dmOVZXbXhKMFplSERfTWJkbHdhN3g5a0xtTzVVMkxFSzkwZnJYR05BRm8?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 04:33:07 GMT",
+        "summary": "구글 TPU, 삼성 택한 이유는?…\"TSMC와 나눠 생산\" &nbsp;&nbsp; v.daum.net",
+        "outlet": "v.daum.net",
+        "outletUrl": "https://v.daum.net",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google",
+          "TPU",
+          "TSMC"
+        ],
+        "taxonomyHits": [
+          "Google",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "AI시장",
+        "score": 28
+      },
+      {
+        "title": "삼성 파운드리, 구글 TPU 수주 눈앞?…TSMC 독주에 균열 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wSVh2LVZDOTFfbms4S2ZEcHFPaUtjd1E0M1dGV1ZWQ29kUlFYb2l0aUVEakJPM0FGQXJkZmtDUk5zSVdnLUZOZlVOaW1TWGs?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 00:22:02 GMT",
+        "summary": "삼성 파운드리, 구글 TPU 수주 눈앞?…TSMC 독주에 균열 &nbsp;&nbsp; v.daum.net",
+        "outlet": "v.daum.net",
+        "outletUrl": "https://v.daum.net",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google",
+          "TPU",
+          "TSMC"
+        ],
+        "taxonomyHits": [
+          "Google",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "AI시장",
+        "score": 28
+      },
+      {
+        "title": "과기정통부, 'AI 미래 유니콘 기업'에 리벨리온 등 15개사 선정 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5UXBrd0U0ZVhrdXQyWXNvRmlYM0JuYzNmOXVKOHJkUVk3TTBNZ0RfQkM3ckNTQmZfS04zYnBmdVdGT29ITi1CME8tQWJVbXNRTGxxZzBuUkk5SFRjVFBFZdIBeEFVX3lxTE50WFo5Nk9MTndLLTBfaE5qdzNWazZ2dERpNEM2NHFQbHRyakZqYzMzRnBFb1c2SHZlTjNwSUcyQWZsUXF5NzNUTGx4eGFzaUtVS1ptMlRMY2NDYTl6RHh5Yk5TdGFMRi1OQkZCZS1ETkRUam9SU0tfZg?oc=5",
+        "publishedAt": "Wed, 10 Jun 2026 05:00:00 GMT",
+        "summary": "과기정통부, 'AI 미래 유니콘 기업'에 리벨리온 등 15개사 선정 &nbsp;&nbsp; 뉴시스",
+        "outlet": "뉴시스",
+        "outletUrl": "https://www.newsis.com",
+        "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "리벨리온"
+        ],
+        "taxonomyHits": [
+          "정책",
+          "리벨리온"
+        ],
+        "issueCategory": "NPU",
+        "score": 28
+      },
+      {
+        "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+        "link": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+        "publishedAt": "Tue, 02 Jun 2026 19:00:08 +0000",
+        "summary": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
+        "fullText": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local At Microsoft Build, the companies showcased how developers can build, run and scale agentic and physical AI across Windows devices, Azure cloud and local deployments through a unified accelerated computing stack. Link copied! The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA founder and CEO Jensen Huang joined Microsoft chairman and CEO Satya Nadella’s keynote via livestream from Taipei to discuss the expanded partnership: NVIDIA RTX Spark and DGX Station for Windows , NVIDIA GPU-accelerated Microsoft Fabric, NVIDIA open models on Microsoft Foundry, the NVIDIA OpenShell secure runtime in GitHub Copilot and the next generation of NVIDIA-powered AI factories. Reinventing Windows for Agents: From RTX Spark to DGX Station for Windows NVIDIA and Microsoft are reimagining Windows PCs for the age of AI agents. With RTX Spark laptops and small desktops, and DGX Station for Windows deskside AI supercomputers, developers can build, tune and run agents natively on Windows. RTX Spark is a new beginning, powering the world’s first Windows PCs purpose-built for personal agents, with 1 petaflop of AI performance, up to 128GB of unified memory, all-day battery life, and full AI and graphics performance unplugged. Bringing over 30 years of NVIDIA innovation, including CUDA, RTX, DLSS and TensorRT, systems arrive this fall from Microsoft Surface, ASUS, Dell, HP, Lenovo and MSI. DGX Station for Windows is the most powerful deskside AI supercomputer for building and running agents on Windows enterprise applications and workflows. Powered by the NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip with up to 748GB of coherent memory and 20 petaflops of FP4 performance, it runs frontier models of up to 1 trillion parameters for always-on enterprise agents. Systems are expected from ASUS, Dell, GIGABYTE, HP, MSI and Supermicro in Q4. Both products run NVIDIA OpenShell, a secure-by-design runtime for autonomous agents. Read more in this Microsoft : “ Introducing a powerful new chapter for Windows PCs, accelerated by NVIDIA RTX Spark ” Powering Agentic Workflows at Enterprise Scale With NVIDIA Open Models on Microsoft Foundry Agentic AI runs on a system of models. With NVIDIA, Anthropic and OpenAI models — plus Hermes special agents — now on the hosted agents in Foundry Agent Service, enterprises can bring agentic systems to life on Azure with built-in identity and governance. Anthropic’s Claude models now run natively on NVIDIA GB300 Blackwell Ultra systems on Azure, with customer availability in the weeks ahead. NVIDIA Nemotron 3 Ultra, a new open frontier reasoning model for long-running agents across coding, research and enterprise workflows, is available this month on Foundry managed compute, alongside Nemotron 3.5 ASR for speech recognition and Nemotron 3.5 Content Safety. Developers can compose Nemotron alongside frontier and local models, optimizing cost and quality for each workflow. NVIDIA’s open model portfolio on Foundry now spans agentic, physical and scientific AI. NVIDIA Cosmos 3 , the first fully open omnimodel for physical AI, brings vision reasoning, world simulation and action generation. NVIDIA Earth-2 AI weather models are available through Microsoft Planetary Computer Pro and Foundry for enterprise forecasting and risk analysis. NVIDIA Agent Toolkit and NVIDIA NemoClaw blueprints give developers an open source platform to build production agents on Foundry. NVIDIA CUDA-X libraries including cuDF, cuOpt, AI-Q and NeMo are now accessible to agents as domain-specific skills. Learn more in this Build breakout session: “ Orchestrate Special Agents with NVIDIA Nemotron Models on Microsoft Foundry .” Accelerating Enterprise Data Warehouses for the AI Era Data fuels agentic AI, and fast access to it is critical. NVIDIA accelerated computing is now built into Microsoft Fabric Data Warehouse, with Microsoft’s internal benchmarking delivering SQL execution up to 6x faster than the CPU-powered baseline and up to 7x faster than three other leading cloud data warehouse providers for high-concurrency workloads. The enterprise data layer can now keep pace with AI agents that continuously query and reason over data, the result of years of deep engineering collaboration between NVIDIA and Microsoft, from research to production. Read more in this Microsoft : “ Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases ” Advancing Physical AI and Autonomous Systems Physical AI is the next frontier for agents. Microsoft is integrating NVIDIA’s open source physical AI skills and tool",
+        "fullSummary": "At Microsoft Build, the companies showcased how developers can build, run and scale agentic and physical AI across Windows devices, Azure cloud and local deployments through a unified accelerated computing stack. The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
         "taxonomyHits": [
-          "데이터센터",
+          "AI에이전트",
+          "AI인프라",
+          "온디바이스AI",
           "NVIDIA",
-          "투자·M&A"
+          "실증·조달"
         ],
         "issueCategory": "AI시장",
         "score": 28
       },
       {
-        "title": "알파벳, 'TPU' 승부수…엔비디아 독주 흔들리나 | 뉴스 - 초이스스탁",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFZ1FRVEpuZWlhWTlXU1gzMjB6SVhPSnFQYUFPbHZPN0VpWUtqU3hRQjNnYTRUcXc3QjV0aE9oc1JhbWl3emJ2ejFYMHdaN1VibWhMUHJhNEdRd2xzRVcyNTVoQkJWTTA?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 02:50:40 GMT",
-        "summary": "알파벳, 'TPU' 승부수…엔비디아 독주 흔들리나 | 뉴스 &nbsp;&nbsp; 초이스스탁",
-        "outlet": "초이스스탁",
-        "outletUrl": "https://www.choicestock.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
+        "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+        "link": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+        "publishedAt": "Tue, 02 Jun 2026 06:00:36 +0000",
+        "summary": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems. Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between what […]",
+        "fullText": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence Link copied! Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems. Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between what institutions know and what their AI can reason over — creating a major opportunity for the industry to build intelligence using proprietary data. NVIDIA’s 2026 State of AI in Financial Services report shows 65% of institutions now use AI, with nearly 90% deploying or assessing it and almost all maintaining or increasing spend. But as AI scales, so does complexity, and fragmented model architectures become the limiting factor. Leading firms are tackling this challenge by rethinking the architecture itself. Where the industry once relied on statistical and machine learning algorithms purpose-built for each line of business, transformer-based transaction foundation models now make it possible to learn a single, unified representation of consumer behavior trained entirely on proprietary data. Transaction foundation models are large-scale AI systems trained on billions of financial events — such as payments, transfers, product interactions and behavioral signals — that transform raw data into intelligence, helping firms better serve their customers. The shift is structural. A traditional fraud model evaluates isolated signals. A foundation model interprets behavior in context where timing, device, location and prior activity shape meaning. More importantly, it brings the power of transformer architectures to tabular data, extracting signals previously invisible to traditional algorithms. A payment at midnight means something different when it’s the fourth in 10 minutes, on an unfamiliar device, in a city the customer’s never transacted from before. That contextual depth improves performance across tasks, not just within them. In collaboration with NVIDIA, Revolut built PRAGMA — a family of transformer-based foundation models trained on 24 billion events across 26 million user records spanning over 100 countries. Powered by NVIDIA’s full AI stack — including NVIDIA Hopper GPUs , the NVIDIA cuDF library and NVIDIA Nemotron open models — running on Nebius cloud, a single foundation model outperforms strong task-specific models across domains like credit scoring, fraud detection and product recommendations while reducing reliance on handcrafted features. “We move from weeks, or even in some cases months, in feature engineering to no time required for it at all,” said Tadas Kriščiūnas, head of group credit data science at Revolut. Any institution can now adopt this approach using NVIDIA’s new Build Your Own Transaction Foundation Model developer example, which enables teams to start building transformer embeddings on tabular transaction data — integrating into existing pipelines without rebuilding from scratch. The Cost of Fragmentation The problem isn’t today’s models, it’s the trajectory. Every new use case adds another model. Every new market needs retraining. Models that can’t share context leave value on the table. Mastercard is developing a proprietary large tabular foundation model for payments, trained on billions of anonymized transactions today and designed to scale to hundreds of billions across additional datasets including fraud, authorization, chargeback, merchant location and loyalty data. Built with capabilities from NVIDIA, AWS and Databricks — including the NVIDIA NeMo AutoModel open library, part of NVIDIA NeMo framework , and accelerated computing — the model is intended to reduce reliance on a multitude of AI models across markets, customers and use cases. Early testing shows it outperforming standard machine learning techniques, with promising applications in cybersecurity, fraud detection, loyalty, personalization, portfolio optimization and analytics. Adyen has also deployed transaction foundation models at scale, processing $1 trillion in payments. Using reinforcement learning, Adyen maximizes conversion and minimizes risk for merchants. “Even fractional improvements like a 0.1% uplift in authorization can translate to massive incremental gross merchandise value and substantial cost reductions,” said Dhruv Ghulati, principal AI product manager at Adyen. Semantic Layer for Agentic Commerce Forty-two percent of financial firms are already using or assessing agentic AI. As these systems begin to execute transactions — like managing subscriptions, routing payments and making purchases — the nature of financial behavior is changing. Stripe is using the NVIDIA and AWS platform to build foundation models that understand the full context of transactional behavior rather than reacting to i",
+        "fullSummary": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems. Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between what institutions know and what their AI can reason over — creating a major opportunity for the industry to build intelligence using proprietary data.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
-          "NVIDIA",
-          "Google",
-          "TPU"
+          "NVIDIA"
         ],
         "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "온디바이스AI",
           "NVIDIA",
-          "Google"
+          "파운드리·패키징"
         ],
-        "issueCategory": "NVIDIA",
+        "issueCategory": "AI시장",
         "score": 28
       },
       {
@@ -630,9 +1502,56 @@ window.__DASHBOARD_DATA__ = {
         "score": 28
       },
       {
+        "title": "하이퍼엑셀-업스테이지, ‘독파모’ 합류…LLM 추론 인프라 고도화 나선다",
+        "link": "https://hyperaccel.ai/hyperaccel-upstage/",
+        "publishedAt": "Tue, 24 Feb 2026 03:01:30 +0000",
+        "summary": "AI 반도체 스타트업 하이퍼엑셀이 업스테이지 컨소시엄을 통해 정부 ‘독자 AI 파운데이션 모델(독파모)’ 협력 생태계에 합류한다. 하이퍼엑셀은 생성형 AI의 실제 응용... 게시물 하이퍼엑셀-업스테이지, ‘독파모’ 합류…LLM 추론 인프라 고도화 나선다 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "하이퍼엑셀-업스테이지, ‘독파모’ 합류…LLM 추론 인프라 고도화 나선다 2월 24, 2026 AI 반도체 스타트업 하이퍼엑셀이 업스테이지 컨소시엄을 통해 정부 ‘독자 AI 파운데이션 모델(독파모)’ 협력 생태계에 합류한다. 하이퍼엑셀은 생성형 AI의 실제 응용 환경에 최적화된 LLM 추론 전용 AI 반도체를 설계·개발하는 기업이다. 초거대 언어모델(LLM) 서비스 단계에서 발생하는 연산 병목과 전력·운영 비용 문제를 해결하기 위해 독자 아키텍처 기반의 LPU(LLM Processing Unit)를 개발해왔다. 하이퍼엑셀은 이번 컨소시엄 참여를 통해 독자 AI 모델 확산을 위한 추론 인프라 고도화 및 효율화 협력을 추진한다. LLM 추론에 특화된 LPU 설계 및 성능 고도화, 생성형 AI 응용 환경에 최적화된 추론 가속 기술 연구개발을 기반으로 ▲고효율·저비용 AI 서비스 인프라 구현 ▲vLLM·PyTorch 기반 고가용성(HA) Full-stack 소프트웨어 스택 개발 및 제공 등을 중심 역할로 수행할 계획이다. 특히 하이퍼엑셀은 단순 반도체 공급을 넘어, 하드웨어와 서빙 소프트웨어를 통합한 구조를 구축함으로써 초거대 모델의 상용화 과정에서 요구되는 처리 효율, 전력 대비 성능, 운영 안정성을 동시에 확보하는 데 주력할 계획이다. 이를 통해 독자 AI 파운데이션 모델이 실제 데이터센터 및 산업 서비스 환경에서 경제성과 확장성을 갖춘 형태로 운영될 수 있도록 지원한다는 방침이다. 하이퍼엑셀 김주영 대표는 “초거대 AI 경쟁은 모델 규모뿐 아니라, 이를 얼마나 효율적으로 서비스할 수 있는지에 달려 있다”며 “LPU 기반의 추론 가속 기술을 통해 국내 AI 인프라의 기술 자립과 글로벌 수준의 비용 경쟁력 확보에 기여하겠다”고 밝혔다.",
+        "fullSummary": "AI 반도체 스타트업 하이퍼엑셀이 업스테이지 컨소시엄을 통해 정부 ‘독자 AI 파운데이션 모델(독파모)’ 협력 생태계에 합류한다. 하이퍼엑셀은 생성형 AI의 실제 응용 환경에 최적화된 LLM 추론 전용 AI 반도체를 설계·개발하는 기업이다. 초거대 언어모델(LLM) 서비스 단계에서 발생하는 연산 병목과 전력·운영 비용 문제를 해결하기 위해 독자 아키텍처 기반의 LPU(LLM Processing Unit)를 개발해왔다. 하이퍼엑셀은 이번 컨소시엄 참여를 통해 독자 AI 모델 확산을 위한 추론 인프라 고도화 및 효율화 협력을 추진한다.",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "하이퍼엑셀"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "데이터센터",
+          "추론",
+          "하이퍼엑셀",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "NPU",
+        "score": 28
+      },
+      {
+        "title": "구글 딥마인드, ‘멀티 AI 에이전트 협업 따른 집단지능 위험’ 경고 - 아이티데일리",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oRi15S0VFRVhpbHFRcktoeENjN2RiQXkyUFM2ellxNk5CeERfRWdQTEJ1dXBSeHFtcUNLNlIxanhEd0FHZnF3THlVZ0V4SWIzdjJrbUQxMUJ1b29HMGVBTHBrOEZsVjQ?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 05:42:01 GMT",
+        "summary": "구글 딥마인드, ‘멀티 AI 에이전트 협업 따른 집단지능 위험’ 경고 &nbsp;&nbsp; 아이티데일리",
+        "outlet": "아이티데일리",
+        "outletUrl": "http://www.itdaily.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google",
+          "DeepMind"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "Google"
+        ],
+        "issueCategory": "AI에이전트",
+        "score": 27
+      },
+      {
         "title": "Nvidia (NVDA) Stock After New SharonAI Data Center Deal Is The AI Leader Still Undervalued - simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0ZuZEgwZ3Bjd2tQMEVralNTZERNd2U5empEdWJaZlJGU1lfWk11WW1iTWNjRU56RXdtNHdkeUdrUGhGSTA4c2ZmRmgyNmNjc2FTM2NmVWxuQ181SkJwQTl5NFNFeVJmWVdrelhtVFVNMFRxWjh4U2pOWHQwbjQ2Ti15aWFaWDJpY1Nnd3doNHhOc0EtSlJKUGZFTHBrdG1OTGl1MXdSSEp3bHhkWXhERERpT0x0Wk16clBfcXkya2lwQ1B1X05nTWo3VdIB0AFBVV95cUxNV2dQc3drZmZ2Qzc4N0JmNmp0TUV5Mi10YUNMUkRaWDU1T3dmTmhRUTVZWTBSRWJKcmxGTk1yV001UmlrVGR0Q0JjMmpuS0RLWHlqYTRUS2dBQUxpaEZFbWxpdERjaEg1STFMakUwejctLXlMT0RaWmp4RlBWUXA0elBHN194SDdHRmZYNktmQmRDVEJueW1LQmZaOTQwY2IzZVJlcHZCbXBiYVd5d2gwMnhvdXg1N2ZpV1JQU0x3MEEzTlZlUlI0OHBEQXpMZFNK?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 23:34:17 GMT",
+        "publishedAt": "Mon, 15 Jun 2026 03:03:17 GMT",
         "summary": "Nvidia (NVDA) Stock After New SharonAI Data Center Deal Is The AI Leader Still Undervalued &nbsp;&nbsp; simplywall.st",
         "outlet": "simplywall.st",
         "outletUrl": "https://simplywall.st",
@@ -650,10 +1569,30 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "Google DeepMind backs multi-agent AI safety call | ETIH EdTech News - EdTech Innovation Hub",
+        "title": "NVIDIA, KKR Back Helix Platform to Accelerate Next-Gen AI Infrastructure Development - The Fast Mode",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObHRFMTdhSkphcTdOVWc0NUVnX2p2anFWZFFRQUdHU3Z4WVQ2LUNLZVJheVFtUDJpNG5Zb0U0RUFtcjVQV2gzQmJicmJDRDliWmxpSXhwcVNRSHZfUEdjVUNGX0REd3I3T3cwOGd4R0lTdC1rOGEwU0ktTTVxRlp3ZnVSQVpPTzExcVozdFB6LVZKNUVEei14THFqVl8xWENUcUZQRDBLT1A2cER1ZkRuUTR1UE5lcWo1US0yeWdoMnNlTDYwLTNDdTFHUTBnTzJuR1EwUw?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 02:12:02 GMT",
+        "summary": "NVIDIA, KKR Back Helix Platform to Accelerate Next-Gen AI Infrastructure Development &nbsp;&nbsp; The Fast Mode",
+        "outlet": "The Fast Mode",
+        "outletUrl": "https://www.thefastmode.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 27
+      },
+      {
+        "title": "Google DeepMind and partners put $10M behind multi-agent AI safety research - EdTech Innovation Hub",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPekFzN2VSVEQ1RjJqLWRNdklFc2YzNGNjei1oMW5CdnRxbUdzcUpQdUFaQV9YTlZvNGpIUXIyZEo2Nk5HVlRySGdmV0YwMS1qRFg2X0FoU3RrTHhwV1hBZnU0alRSdHNIRkEzZ2lYQ2lWdnJ1UmJ2QWZIOHNWMEdXaEx1Mkh1ekxjQmhwN2VyX3RFRXI2OHlnaDZYMUwzSzdPTjlBLVpmZ09IQ2t3d2trLUpUTmlxZw?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 23:06:38 GMT",
-        "summary": "Google DeepMind backs multi-agent AI safety call | ETIH EdTech News &nbsp;&nbsp; EdTech Innovation Hub",
+        "publishedAt": "Sun, 14 Jun 2026 23:01:27 GMT",
+        "summary": "Google DeepMind and partners put $10M behind multi-agent AI safety research &nbsp;&nbsp; EdTech Innovation Hub",
         "outlet": "EdTech Innovation Hub",
         "outletUrl": "https://www.edtechinnovationhub.com",
         "source": "Google AI 이슈",
@@ -751,47 +1690,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "Helix Digital Infrastructure: $10B+ AI Infrastructure Venture by KIA, NVIDIA, KKR, Vistra - News and Statistics - IndexBox",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckhjOG5OV1c5cGw2RmVkckNfeTZuc20tUkNVOTVOd0l2S2JBQkktMlpXNVkxTmtnYXBma0dicVk0d0tkTXNhYzYxd3JIRFRJYnNtM3A3NkhPVkY5Z1FVeEJ2OUNCVHB3NWk2bGpvNlBkQzRtZFZCN1pNcDdOZFh2QXZpT1BaMTRLajlselRKclU4OGNuV1Z5SXJFaGEyM0dPRk1aUkpUVDF1QmZPV1JRZA?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 10:41:00 GMT",
-        "summary": "Helix Digital Infrastructure: $10B+ AI Infrastructure Venture by KIA, NVIDIA, KKR, Vistra - News and Statistics &nbsp;&nbsp; IndexBox",
-        "outlet": "IndexBox",
-        "outletUrl": "https://www.indexbox.io",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 27
-      },
-      {
-        "title": "\"테슬라, 엔비디아 이어 구글까지\"…삼성전자, 구글 차세대 AI칩 수주 유력 - 서울STV뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9INm5FVUt6QlFVNlZLeWJkVkNfQjRLMEdZWFBkZk16TEUzN3Z0ZlJ3cy12WnNrODhTYXEyNlAwU1dOeUpXM0VTRjJhbWkzalBWdk5kTjJJRUNmdGZhWHRmcmZOUmhLaXM?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 05:29:44 GMT",
-        "summary": "\"테슬라, 엔비디아 이어 구글까지\"…삼성전자, 구글 차세대 AI칩 수주 유력 &nbsp;&nbsp; 서울STV뉴스",
-        "outlet": "서울STV뉴스",
-        "outletUrl": "https://www.stvnews.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "issueCategory": "AI시장",
-        "score": 27
-      },
-      {
         "title": "AMD challenges Nvidia's DGX Spark with $3,999 Ryzen AI Halo with Windows 11 support — Strix Halo desktop undercuts Nvidia by $700, packs 128GB of unified memory - Tom's Hardware",
         "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNcHhzNGxaQWNsOVZhWGR6c1U5RkcyRm85b0I0VXlmWm5NbU9FLXBZeHdwc1pvTVFzbENCUjVrcUtsLXR3dVhoOGEyTUhodEhrNmxtSXI2OEVGdE1RdldNQy1aWWtCV3VkMkQ0c0lnb0taWnp5cUZ6bEpCZDhYYUM1N1oxUnRVeGwzbTE5ZUZtazREdm1fVTV2U3h5WVFMb3h0VHVPV3VnT1JZYWNuM3BISzFVeTdrYmF2VVdEOGFscXVOWU1OcjRmSm1yN2hnWXlGcVBaQUhxc3JuTVQ1XzBpQUkybTdaaW5IZUcxQjh3bzd3M0pNQ1NVXy13SnpaSUoydmRaSFhPaVZaX3dKNEZSblVwck44OUx0eWlPYi0tS2ZxbnFnOW5WVUxOUDh2emp3?oc=5",
         "publishedAt": "Sat, 13 Jun 2026 14:12:34 GMT",
@@ -835,13 +1733,37 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "KKR is launching a $10 billion AI infrastructure company with Nvidia and Kuwait's sovereign fund - qz.com",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WZ0pyWk41NTN5QlR0ZGJrdjhNbVFpcFVvRU41OUctN0FDVW5nd2Y4cFA5OWFXdHNxYm5jVEJWS0hsdWFUTEpBTEZMcE5hRE5RZTFyel8tVXlrTkxFazJUWlZqcmFJbTROX3VqbXRxMWdrcGE3ZDVBXzZVbw?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 13:16:44 GMT",
-        "summary": "KKR is launching a $10 billion AI infrastructure company with Nvidia and Kuwait's sovereign fund &nbsp;&nbsp; qz.com",
-        "outlet": "qz.com",
-        "outletUrl": "https://qz.com",
-        "source": "해외 정책·투자",
+        "title": "Navitas Semiconductor (NVTS) Stock Valuation After New SiC Package And NVIDIA AI Data Center Role - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM1lhdDg4VFk2UWQ4YUZpNzJPZWlpQUU3VWFhNjlBRnlhTGJPQ25tS3gyRW01NVh0M2VmQ2tUaVRNeTAwSzA3VGVtcnBXbE5RUHI4a1lSblNvWDV6NDhhQmZqNUI4czJaOEVzOVlYVkQzYmtsTnNNVEVUZTMtYnRhTGtEbDVYZmZaUzNhVVJuQmN6bGp1Y3pDQWkwSzZ6bDZacWE0dXhxTVVoZjB1dW5USG1iMEpVMktmLUNIYnVBYVBMaFlzX1NEVmpCcThaUy15SEpQSXpXWllKRHFpUENB0gHkAUFVX3lxTE9oWjV0WWtaRERxcUhFUUZvNVF3WFlQdjBJaXpwMkNOQ25RVDBLMmpYMjZsdDRfTGluei1HYWZOYW1WVWxlSDY0dVdNandVUmxBZmgxUWVvaU5Wa01rdGk1Q0RueUVaYUt3N2pINDcwZ0tYS1kxTUlrQWRWRnBGX2pSTm1wa1dsSkNFdUk5a1dsU1l4cG0xczJiN1NtTC1VTkZQcDdaUGFYZGlXQi1pUHhVdkhBY19ja2tpZmhjTWdGVDJIX3Q5WTlFZWJPb2ROaHluTEN4ckVYXzRuTXhKSVVhTzU3eA?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 01:41:50 GMT",
+        "summary": "Navitas Semiconductor (NVTS) Stock Valuation After New SiC Package And NVIDIA AI Data Center Role &nbsp;&nbsp; simplywall.st",
+        "outlet": "simplywall.st",
+        "outletUrl": "https://simplywall.st",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 27
+      },
+      {
+        "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+        "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
+        "publishedAt": "Thu, 11 Jun 2026 13:00:17 +0000",
+        "summary": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But […]",
+        "fullText": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings Level up with the best value in gaming, ‘Guild Wars’ and rewards, plus eight new games this week. py link Link copied! The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But getting there can be complicated — setups take space, hardware takes planning and downloads take time. GeForce NOW removes the barriers and delivers instant access to games, high-performance GeForce RTX power in the cloud and the ability to play across nearly any device — all with one membership. Regular upgrades and new features continue to expand the experience, building the value of that membership over time. Plus, GeForce NOW is always delivering new games — including epic adventures across Tyria. Guild Wars 3 is coming to GeForce NOW, bringing its next-generation massively multiplayer online role-playing game (MMORPG) experience to the cloud at launch. While awaiting its arrival, the journey begins today with Guild Wars 2 and Guild Wars Reforged, along with limited-time exclusive rewards. Instantly Elevate Every Device PC gaming demands more from players than ever. Bigger game files and more frequent updates can turn the urge to play into a long list of to-dos. GeForce NOW streamlines that experience. Installs, patches and updates are handled in the cloud, so games are ready to launch in just a click. Time that would’ve been spent waiting on progress bars can go back into playtime, making it easier to fit gaming into quick breaks on busy days. High-performance NVIDIA GPUs in the cloud means access to always-ready GeForce RTX performance without having to purchase new hardware. Members can tap into powerful servers that meet rising game requirements and keep pace with today’s games. And memberships continue to improve with platform upgrades — like the free Ultimate upgrade to the NVIDIA Blackwell architecture — extending their value, as well as the life of gamers’ devices, over time. All of the gaming. Laptops, phones, tablets and TVs — devices most gamers have at home and already use for school, work and everyday life — can all act as gaming screens. Streaming means not having to worry about hard drive space for installs and updates, or needing the latest devices. Level up playing on Linux. These benefits are reinforced by continuous quality-of-life improvements like smoother sign-ins, new platforms — like Linux and Amazon Fire TV — and refinements that make it faster and easier to get into a gaming session. Together, these benefits make GeForce NOW the easiest way to enjoy PC gaming both instantly and over time, while keeping the focus on what matters most to gamers: getting into the game. The Biggest Gaming Upgrade, the Best Price of the Year Sale-ing into summer with huge savings. For a limited time this summer, GeForce NOW memberships are available at some of the year’s best pricing — with major savings on 12-month memberships: $35 off a 12-month Performance membership $70 off a 12-month Ultimate membership The Performance membership delivers smooth, high-quality cloud gaming across devices, with streaming up to 1080p at 60 frames per second (fps) and access to RTX-powered servers for supported games. The Ultimate membership steps things up with RTX 4080‑ or 5080‑class performance in the cloud, supporting up to 4K and beyond on ultrawide displays, up to 120 fps, and advanced features like ray tracing, NVIDIA DLSS and NVIDIA Reflex for a more responsive, visually rich experience. These limited-time discounts won’t last long — beat the heat and jump into GeForce NOW. A New Legend Rises One of the best things about the cloud is that every week, new games become available to stream — including new AAA games at launch and the latest content and rewards. The land of Orr awaits. Guild Wars 3 marks the next adventure in Tyria — an action-adventure MMORPG where fluid combat, deep character building and a living world of magic and mystery shape every journey. Alliances are forged, spirits awaken and every step forward leaves a lasting mark on an untamed frontier. Be among the first to raise the banner. Gamers can add Guild Wars 3 to their wishlist today and stay up to date on every reveal as it marches toward launch. While the next chapter in Tyria prepares to unfold, its legacy is ready to be played today. Return to adventure in Guild Wars 2 and Guild Wars Reforged , and unlock exclusive in-game rewards for a limited time — available for GeForce NOW Premium members today through Saturday, July 11, and free to all members beginning Friday, June 12. Be on the lookout for an email with codes to redeem. In Guild Wars 2 , the “Masterpiece Emote Tome” turns every victory into a moment of flair — a chef’s kiss to triumph. Start playing b",
+        "fullSummary": "Level up with the best value in gaming, ‘Guild Wars’ and rewards, plus eight new games this week. py link Link copied! The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
@@ -849,10 +1771,10 @@ window.__DASHBOARD_DATA__ = {
         ],
         "taxonomyHits": [
           "AI인프라",
-          "NVIDIA",
-          "수출통제·공급망"
+          "온디바이스AI",
+          "NVIDIA"
         ],
-        "issueCategory": "AI인프라",
+        "issueCategory": "AI시장",
         "score": 27
       },
       {
@@ -874,6 +1796,49 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
+        "score": 27
+      },
+      {
+        "title": "엔비디아 대항마로 뜬 퓨리오사AI... 아이티센글로벌 주가 폭등랠리 - 핀포인트뉴스",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lbTdpMDV1TUwwVHdUSDVDSWtmTjJ0ZGJ6X2lCYklVeEVUdWczOFhLRFRvY3c4bnlHRzFjVU1NVU45TWJvWWJXZE5aSE1ZR01QVlVXdkE2WnhiZVdUU3dySDg1d09KWFhhUE9IT1dESkhOazTSAXdBVV95cUxOY2xlVTlTQk9VTEcyS21jWnUtTXAyUjZXbFp1c2N4MHJMc05XRXRMZWhjaXk3cEszUV9VRG9mV21xbHJhSTdjQXoyMng3SUg0V3FRMHRjOGdkcXd0Z0tJajNMMHptM1c5TU9BcDNWU3lFVWM3aVB0SQ?oc=5",
+        "publishedAt": "Thu, 11 Jun 2026 04:15:03 GMT",
+        "summary": "엔비디아 대항마로 뜬 퓨리오사AI... 아이티센글로벌 주가 폭등랠리 &nbsp;&nbsp; 핀포인트뉴스",
+        "outlet": "핀포인트뉴스",
+        "outletUrl": "https://www.pinpointnews.co.kr",
+        "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "퓨리오사AI"
+        ],
+        "taxonomyHits": [
+          "퓨리오사AI",
+          "NVIDIA"
+        ],
+        "issueCategory": "NPU",
+        "score": 27
+      },
+      {
+        "title": "알파벳, 'TPU' 승부수…엔비디아 독주 흔들리나 | 뉴스 - 초이스스탁",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFZ1FRVEpuZWlhWTlXU1gzMjB6SVhPSnFQYUFPbHZPN0VpWUtqU3hRQjNnYTRUcXc3QjV0aE9oc1JhbWl3emJ2ejFYMHdaN1VibWhMUHJhNEdRd2xzRVcyNTVoQkJWTTA?oc=5",
+        "publishedAt": "Thu, 11 Jun 2026 02:50:40 GMT",
+        "summary": "알파벳, 'TPU' 승부수…엔비디아 독주 흔들리나 | 뉴스 &nbsp;&nbsp; 초이스스탁",
+        "outlet": "초이스스탁",
+        "outletUrl": "https://www.choicestock.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "TPU"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "NVIDIA",
         "score": 27
       },
       {
@@ -918,6 +1883,33 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
+        "title": "DEEPX and Ultralytics Forge Strategic Alliance to Define the Global Standard for Physical AI in the YOLO Community",
+        "link": "https://deepx.ai/deepx-and-ultralytics-forge-strategic-alliance-to-define-the-global-standard-for-physical-ai-in-the-yolo-community/",
+        "publishedAt": "Thu, 21 May 2026 08:25:29 +0000",
+        "summary": "Empowering the world’s largest computer vision ecosystem with a unified, one-click NPU hardware standard for building the next generation of real-world AI applications DEEPX, a leading fabless AI semiconductor company specializing in ultra-low-power Neural Processing Units (NPUs), today announced a visionary partnership with Ultralytics, the company behind Ultralytics YOLO, the most widely deployed computer vision […]",
+        "fullText": "Ultralytics is committed to democratizing AI by building state-of-the-art vision AI models that run flawlessly on the most efficient edge architectures. Partnering with DEEPX allows our massive developer community to seamlessly translate our Ultralytics YOLO models into powerful, low-power Physical AI solutions. Together, we are shaping how vision AI interacts with the physical world. Glenn Jocher Ultralytics CEO",
+        "fullSummary": "Ultralytics is committed to democratizing AI by building state-of-the-art vision AI models that run flawlessly on the most efficient edge architectures. Partnering with DEEPX allows our massive developer community to seamlessly translate our Ultralytics YOLO models into powerful, low-power Physical AI solutions. Together, we are shaping how vision AI interacts with the physical world. Glenn Jocher Ultralytics CEO",
+        "summarySource": "article",
+        "outlet": "DEEPX",
+        "outletUrl": "https://www.deepx.ai/feed/",
+        "source": "DEEPX",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI인프라",
+          "NPU",
+          "딥엑스",
+          "파운드리·패키징",
+          "실증·조달"
+        ],
+        "issueCategory": "NPU",
+        "score": 27
+      },
+      {
         "title": "과기정통부, SKT 데이터센터 방문…국산 NPU 활용 현장점검 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxdnIwM2ZXUnRuWW1KclQ5RTh5RENjanl1TGNBNHd2Yjc1dmxzX0NxVHV0eTNBaml2dE4yaW53OFlRYmU2bnJUWXNSaHlOdw?oc=5",
         "publishedAt": "Wed, 29 Apr 2026 07:00:00 GMT",
@@ -935,6 +1927,33 @@ window.__DASHBOARD_DATA__ = {
           "K-엔비디아"
         ],
         "issueCategory": "NPU",
+        "score": 27
+      },
+      {
+        "title": "DEEPX and Hyundai Motor Group Robotics LAB Partner to Develop Physical AI Compute Platform for Robotics",
+        "link": "https://deepx.ai/deepx-and-hyundai-motor-group-robotics-lab-partner-to-develop-physical-ai-compute-platform-for-robotics/",
+        "publishedAt": "Thu, 23 Apr 2026 01:41:25 +0000",
+        "summary": "The AI industry is rapidly shifting from data center-centric models to a Physical AI era, where intelligence expands into real-world systems. The next five years will be decisive in reshaping the industry. In the Physical AI era, ultra-low-power computing technology capable of running AI in real- world systems — robots, vehicles, industrial devices — will […]",
+        "fullText": "The AI industry is rapidly shifting from data center-centric models to a Physical AI era, where intelligence expands into real-world systems. The next five years will be decisive in reshaping the industry. In the Physical AI era, ultra-low-power computing technology capable of running AI in real- world systems — robots, vehicles, industrial devices — will become the core infrastructure. DEEPX aims to become the global leader in Physical AI computing platforms that power AI across robotics and industrial systems. CEO, Lokwon Kim DEEPX",
+        "fullSummary": "The AI industry is rapidly shifting from data center-centric models to a Physical AI era, where intelligence expands into real-world systems. The next five years will be decisive in reshaping the industry. In the Physical AI era, ultra-low-power computing technology capable of running AI in real- world systems — robots, vehicles, industrial devices — will become the core infrastructure. DEEPX aims to become the global leader in Physical AI computing platforms that power AI across robotics and industrial systems.",
+        "summarySource": "article",
+        "outlet": "DEEPX",
+        "outletUrl": "https://www.deepx.ai/feed/",
+        "source": "DEEPX",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "딥엑스",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
         "score": 27
       },
       {
@@ -958,24 +1977,75 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "CVC Capital Partners (ENXTAM:CVC) Stock And The AI Push With Google Cloud Is The Undervaluation Case Compelling - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNelRlU2U5OFBDdE8wR3FRdVg1UnV5ZHF1dkxJUEJIUXc0WFdTeEg5WEtiYmk5WVU5Y1YybmYyTjMyR1NSV1BhWTFxWE5idkhONlFVLWctNkJidUxLbmNjdVVRNXEzVGFKSTR4WWszeldwSzhfQnU2ZHFqVWRqSC1fYnJhMzExZnJsb3RyT0JMVWVyNzRMRXNob200NHBJNUtXeU5GN1hXVmQwejdRMGJ1d1p4Q2VKUzR2alpWOTYtRkxyQkZkWlh6VUNSS2I0VVlNT1RJUFZPMDlqRDBnZ0tjWW9nQ2hiNGFTLXRBY9IB8gFBVV95cUxQMDU5SFFCUVRCQjY4TV9UajBSV0dQWHNyVC1zaVZBNDR4NV9ObERMeTNCOWdfWDV1V21mcUppTHlONjUxTkFXVFpwcy05SThrY0tRcWRNYUp3Ty1hb2toV0tZYzJkc3RwMHEwRi0tNFRGaXZDU19pZnl0eUE1NTE5TmY4QUN6RlV4NERUeF9OSndlTmhUWTI5amxpOVkyOW56Q0drZ2stM3hHUWlLei13WUktUTYzTU1LQ1pQYXo5bUJTcS00aS1NZnI5Z1AxczlFUl9pR2dzZ2l1RkNKMTJHTWxjX3VkY1VhY2YzUGxtLU93UQ?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 23:34:17 GMT",
-        "summary": "CVC Capital Partners (ENXTAM:CVC) Stock And The AI Push With Google Cloud Is The Undervaluation Case Compelling &nbsp;&nbsp; simplywall.st",
-        "outlet": "simplywall.st",
-        "outletUrl": "https://simplywall.st",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
+        "title": "전북대 김성륜 교수팀, AI 반도체 발열 잡는 절연 방열소재 개발 - 보도자료 | 기사 - 더팩트",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCNzZtNVVKV3pwTlJRYnh2Mk95Z3VCd1pLMWRnM1FjZ1A1Ukt4dzZkaTlaRHhHVjktWmQ3eEhwQUYwbC1ZRXdtUUVXV0E0Y2JGVlBzQ3pLaGRpMGFwMmlv?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 05:20:46 GMT",
+        "summary": "전북대 김성륜 교수팀, AI 반도체 발열 잡는 절연 방열소재 개발 - 보도자료 | 기사 &nbsp;&nbsp; 더팩트",
+        "outlet": "더팩트",
+        "outletUrl": "https://news.tf.co.kr",
+        "source": "AI반도체 공공사업",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
+        "score": 26
+      },
+      {
+        "title": "과기정통부, 가상융합대학원 인재양성 성과 한눈에...'인공지능 전환(AX) 시대를 이끌다, 가상융합의 진화' - 대한민국교육신문",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rd3c5eUo4eDQwdHUzSl9LVVRYWkhPSFZyX25wUGVtaWVoVjNrTWVUNHpfNWxRODN3cWN5OXVqVjhlMzFVTkktUFVsYVhGWEVNQWhFUUlINk9XTGpXblJxQTZOZw?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 01:20:32 GMT",
+        "summary": "과기정통부, 가상융합대학원 인재양성 성과 한눈에...'인공지능 전환(AX) 시대를 이끌다, 가상융합의 진화' &nbsp;&nbsp; 대한민국교육신문",
+        "outlet": "대한민국교육신문",
+        "outletUrl": "https://www.kedupress.com",
+        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
+        "score": 26
+      },
+      {
+        "title": "엔비디아, 첫 에이전트 AI 벤치마크 ‘에이전트퍼프’ 공개…블랙웰 첫 등판 - AI 매터스",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xa3B3UE0yX3MxaG9IZXFkamFTckFqcWVrQlhFQmFPVG5HdVRKcWN5RVVkMzVJRUs3MEpmODZtdFYzbW84dUlDRDBQeWxZR05qbHVISw?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 01:05:02 GMT",
+        "summary": "엔비디아, 첫 에이전트 AI 벤치마크 ‘에이전트퍼프’ 공개…블랙웰 첫 등판 &nbsp;&nbsp; AI 매터스",
+        "outlet": "AI 매터스",
+        "outletUrl": "https://aimatters.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
-          "Google"
+          "NVIDIA"
         ],
         "taxonomyHits": [
-          "AI인프라",
-          "Google",
-          "투자·M&A"
+          "AI에이전트",
+          "데이터센터",
+          "NVIDIA"
         ],
-        "issueCategory": "AI시장",
+        "issueCategory": "데이터센터",
+        "score": 26
+      },
+      {
+        "title": "이민형 K-문샷 ‘AI 과학자’ PD 사의 표명…과기정통부 “사업은 예정대로 추진” - 테크월드",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54aTV0Q1RyektIdUhFZUFsSUVWSkxkbGhUX29vLVEtSHg5WWpRRFd0ZzJNRGZwMHh3ZHN6MC1wTlpFQWJMSkRMYWxhcmxmSTBQcXZwN19oX09GdDBJS1pEMHdTWDhTUmg3?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 00:31:26 GMT",
+        "summary": "이민형 K-문샷 ‘AI 과학자’ PD 사의 표명…과기정통부 “사업은 예정대로 추진” &nbsp;&nbsp; 테크월드",
+        "outlet": "테크월드",
+        "outletUrl": "https://www.epnc.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
         "score": 26
       },
       {
@@ -1038,45 +2108,24 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "NTT DATA와 구글 클라우드, 비즈니스 혁신을 위한 500명의 AI 에이전트 준비 - VOI.id",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTcG5XaGYtZlRsUkVTUGNCSE81Rm5UWVNJWlpZcG1KMlk1aGxmaEpHOFg2VTFiUG9idFhtNTNCRjc4ellBcWc4NEpvTdIBQkFVX3lxTE83Y0FEYndTQmVUalA3VWQ4RDNDYXJPRkxwVVBLU3hfMDJ3cnBtSXBnTXhWa1FYdTU2cWpZZUZDOHp4dw?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 12:36:35 GMT",
-        "summary": "NTT DATA와 구글 클라우드, 비즈니스 혁신을 위한 500명의 AI 에이전트 준비 &nbsp;&nbsp; VOI.id",
-        "outlet": "VOI.id",
-        "outletUrl": "https://voi.id",
+        "title": "\"테슬라, 엔비디아 이어 구글까지\"…삼성전자, 구글 차세대 AI칩 수주 유력 - 서울STV뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9INm5FVUt6QlFVNlZLeWJkVkNfQjRLMEdZWFBkZk16TEUzN3Z0ZlJ3cy12WnNrODhTYXEyNlAwU1dOeUpXM0VTRjJhbWkzalBWdk5kTjJJRUNmdGZhWHRmcmZOUmhLaXM?oc=5",
+        "publishedAt": "Sun, 14 Jun 2026 05:29:44 GMT",
+        "summary": "\"테슬라, 엔비디아 이어 구글까지\"…삼성전자, 구글 차세대 AI칩 수주 유력 &nbsp;&nbsp; 서울STV뉴스",
+        "outlet": "서울STV뉴스",
+        "outletUrl": "https://www.stvnews.kr",
         "source": "해외 빅테크 국내 보도",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
+          "NVIDIA",
           "Google"
         ],
         "taxonomyHits": [
-          "AI에이전트",
-          "AI인프라",
+          "NVIDIA",
           "Google"
         ],
-        "issueCategory": "AI인프라",
-        "score": 26
-      },
-      {
-        "title": "NTT DATA and Google Cloud Prepare 500 AI Agents for Business Transformation - VOI.id",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tOW51cFpLcmpNTEhkR3VBVlNpQ0xCd3BOVmlQMU1oV2Z0Zy1iZjFZNnpCMkd1Q0U5TmhTdVBvM25FVEx5bmtzMnkzMNIBQkFVX3lxTE1CeXZDUDZTd1MtVVAyNXNnYmZNN1ptRS1VeWFsajN4NkJGQl9wM0h3ZHh4dU0xMm8xdlBhempYTG9Cdw?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 11:27:37 GMT",
-        "summary": "NTT DATA and Google Cloud Prepare 500 AI Agents for Business Transformation &nbsp;&nbsp; VOI.id",
-        "outlet": "VOI.id",
-        "outletUrl": "https://voi.id",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
+        "issueCategory": "AI시장",
         "score": 26
       },
       {
@@ -1120,26 +2169,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "Nvidia vs AMD: The Better AI Stock Is A Better Buy This June - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVG92aklMUkoyUThISTRyTUNjVzdqTDEtOTFhZVptdXpwZE5UVjJ5NnRSbDRkOFM0VzRHajZoRXdxaFRKZGxidTllcWZvYjBkYXJRcGdXVVFwM1l6RGU3bkIweDBHMnFyUUlaZjR1MXdYc0VlRkRnSnVwaDNqSVp0MEtNX0JJRVYtUkxJeFRiU1dEZw?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 16:53:02 GMT",
-        "summary": "Nvidia vs AMD: The Better AI Stock Is A Better Buy This June &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 26
-      },
-      {
         "title": "Nvidia vs AMD: The Better AI Stock Is A Better Buy This June - 24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeTc1bU16Rko0MGdhMG5sYUc3UFYzeW5UMkFKSkZjcFZiRnpaLVNZdlN4X240RFVjYWVtMExncUdOdlI1MmhrZnVqdGFmd2JPSW1nUWtzMnMyRFJ3R3J3dG9HbG5kYVV5OGhocVJWczJ3UTNWWGtpUG5FOWRURUp4UlF0NGx6RDhjLWpON2czYkNXZGpySThxVjBlVkdGUVpYSkM0dzN3?oc=5",
         "publishedAt": "Fri, 12 Jun 2026 16:53:02 GMT",
@@ -1178,45 +2207,23 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "인텔 파운드리 ‘구글 TPU’ 수주...TSMC 균열 내나 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWmkzU2c2c2N5WG1FckpBajJiZUttMzk0LXdzNklxNTVOV2tRVEY1Y2lkZlFrdDc4MzJmckRXMXotUmlvZjJzQkJnM1dObHdpZjFKLVR3bEJrd3A5MVdIZnJhSDloUlFYaFpxV0NPd3VMU0ktRkZVU1F0OVBCbU9QRUQ5MA?oc=5",
-        "publishedAt": "Tue, 09 Jun 2026 06:34:29 GMT",
-        "summary": "인텔 파운드리 ‘구글 TPU’ 수주...TSMC 균열 내나 &nbsp;&nbsp; 조선일보",
-        "outlet": "조선일보",
-        "outletUrl": "https://www.chosun.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
+        "title": "Investing in multi-agent AI safety research",
+        "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+        "publishedAt": "Wed, 10 Jun 2026 10:21:19 +0000",
+        "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+        "outlet": "Google DeepMind",
+        "outletUrl": "https://deepmind.google/blog/rss.xml",
+        "source": "Google DeepMind Blog",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "Google",
-          "TPU",
-          "TSMC"
+          "DeepMind"
         ],
         "taxonomyHits": [
+          "AI에이전트",
           "Google",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
-        "score": 26
-      },
-      {
-        "title": "인텔 파운드리 ‘구글 TPU’ 수주...TSMC 균열 내나 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01VU14NHh3aEY5cHNNZG0zMFlkLVVVenYyZHBDbldSc0NfTXliWnh6Wk1fTG16WloycHdPOVljVzRpbEpIVzVUSnZRWQ?oc=5",
-        "publishedAt": "Tue, 09 Jun 2026 06:30:02 GMT",
-        "summary": "인텔 파운드리 ‘구글 TPU’ 수주...TSMC 균열 내나 &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google",
-          "TPU",
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "Google",
-          "파운드리·패키징"
+          "투자·M&A"
         ],
         "issueCategory": "AI시장",
         "score": 26
@@ -1442,6 +2449,28 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
+        "title": "\"엔비디아 경쟁 제품과 성능은 동등하고 전력효율은 더 좋다\"... 국내 AI 추론칩 기술력 선보인 퓨리오사AI - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUltUk5fRldtcmpNMV9FbHNIVGh6SlVGbG1abHNsZ2RFZkN5aVhSLUJvbnowZnFzbUFMaGh3TDdzY0h3MzRDdUpCcUVURExzSEhGY0dXa3pRR1F1R1lHV1JoWDg5TWNtdkxaY05tcGVxY1Z3eFpzeGg5UWhjSlVldnVJYw?oc=5",
+        "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+        "summary": "\"엔비디아 경쟁 제품과 성능은 동등하고 전력효율은 더 좋다\"... 국내 AI 추론칩 기술력 선보인 퓨리오사AI &nbsp;&nbsp; 조선일보",
+        "outlet": "조선일보",
+        "outletUrl": "https://www.chosun.com",
+        "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "퓨리오사AI"
+        ],
+        "taxonomyHits": [
+          "추론",
+          "퓨리오사AI",
+          "NVIDIA"
+        ],
+        "issueCategory": "NPU",
+        "score": 26
+      },
+      {
         "title": "[이슈] 딥엑스·리벨리온의 ‘K-AI칩’ 도전, 엔비디아 아성 무너뜨리나 - M이코노미뉴스",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93eVdlWEU5MnMzdmhRYXRZSkk2YUU1WjVKZ0FOdHdBZ0c5c29LVGZGVHVhWnBmRk85Q0RodDFrMWFjNUMwYkhOUVRtQ3J5c1NMU2JxLXBwN2JOZVFmN3MtRjhMQlhsNUk?oc=5",
         "publishedAt": "Sun, 08 Mar 2026 08:00:00 GMT",
@@ -1506,6 +2535,26 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "데이터센터",
+        "score": 25
+      },
+      {
+        "title": "OpenAI, AWS, NVIDIA and the New AI Deployment Race - HackerNoon",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBraG5UcmZ1c2dKUC1ENFJOZFE0RUpJSUVDd3dRVTZDN0FoeUc0d1dWUThnRHQ1aHhJVkg4N0ZoZzIzM0pxYmZ5VlpHQkQ1ZTkyVGtXTk1RRk9JeERDWDFpNzRXY1JMVXhkYmZKQ0JILUhkTVZVUjV3SlNvaw?oc=5",
+        "publishedAt": "Sat, 13 Jun 2026 00:23:43 GMT",
+        "summary": "OpenAI, AWS, NVIDIA and the New AI Deployment Race &nbsp;&nbsp; HackerNoon",
+        "outlet": "HackerNoon",
+        "outletUrl": "https://hackernoon.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "실증·조달"
+        ],
+        "issueCategory": "실증·조달",
         "score": 25
       },
       {
@@ -1651,86 +2700,23 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "[DD퇴근길] 이러다 엔비디아 기술 인질될라…삼성, 구글 AI 칩 생산으로 돌파? - 디지털데일리",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Dai1pWldVQkpzR1p1cGJmeXRyZ2lGQXJrLVl6NTR1ZjB0eVhpckQ0Q2RuZzZOcnhXTnN5VTZzT3pWbkxNLWs1QXNtOGRLZnNtODhFQ0pZX0xoenlMZWJYdmdNb3Y?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 08:00:00 GMT",
-        "summary": "[DD퇴근길] 이러다 엔비디아 기술 인질될라…삼성, 구글 AI 칩 생산으로 돌파? &nbsp;&nbsp; 디지털데일리",
-        "outlet": "디지털데일리",
-        "outletUrl": "https://www.ddaily.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 25
-      },
-      {
-        "title": "구글 AI칩도 삼성 품나…'TSMC 독주' 균열 조짐 - mstoday.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FM3ZSUktOYkl0WjF4X2diUVlEQ0dZSm9VS09OcFpJS2VlSy03di1KSDN3TU03T1BGU2NvaDRFRFA0UEFmWElKckRHU3pULXpoRkJFTC1sTEYzdXp5WVVHZTZLY2pYRnZlQmoxVw?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 01:22:21 GMT",
-        "summary": "구글 AI칩도 삼성 품나…'TSMC 독주' 균열 조짐 &nbsp;&nbsp; mstoday.co.kr",
-        "outlet": "mstoday.co.kr",
-        "outletUrl": "https://www.mstoday.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google",
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "Google",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
-        "score": 25
-      },
-      {
-        "title": "Apple Taps Google Cloud For Siri AI Power Shaping Alphabet’s Role - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWF9kSlZMOGdfM1NRRlRDb283ZjZ0dlVSekp5M0RZQVNtTG1YM2YtXzMzVEJTUmxCcXFVT1FDUnVxdm11bVNvN1UyMWwxbHdXUzdVTnBySkNYaThDRkRKMVhnNWNua3VBRFlTSXNzU0VWQnVFWnp3Z1o4YTloUUlGNmhKdEtMLWRUeGotWXZkc3BZVFEwZVpwbl9NaXplemhYa19Lam84WFhldUdQeGc5NlNDWXdMYkZoME56MmxNZTVkUdIBxwFBVV95cUxQUDBFZW9lSnlfM0FhSkhYcm9ZWmdzeVprWmtEQ0JWa0Q3TFRicmNtOTVnT1h6Zy0waEJLTUlsb0pNX09qYmF6a25zNzRyN3czank1bG5uSC12d0piRW04NHZvVzdXQm9uRW53WlVaYzhVVk9aQ2FvUks3Ql82ZnkyRjJ3dUF1WDZEWE5aOVRiQ2FmMElQWmZvbU45YU9UbmMxVUllVmJDSTE5ZFlSam9nRjA0TDZzdnkzUVlGT3VJS1V3MXFpandN?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 00:51:46 GMT",
-        "summary": "Apple Taps Google Cloud For Siri AI Power Shaping Alphabet’s Role &nbsp;&nbsp; simplywall.st",
-        "outlet": "simplywall.st",
-        "outletUrl": "https://simplywall.st",
-        "source": "Google AI 이슈",
+        "title": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra - Indiatimes",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSFgtSVVmOHdnT0lpaWpXc1B6bDgxRm5Kcll6cEIyZkxha1RUWTRoRDlLRWhNeDZtckFtNzZ6MzlFWDN5UWZaRm5wVDl4UjJSazBTN3BYNmY0LTdmQkRJWXUyam4wU29HdnJvN1kyMHpra1g4UVoya3ZWRm9ickhzWFZqb3JZRkhIbm5DM0lOc19JT0Z5R0YxYkFna0hQR01tc0pBeDJ1UFE3V2xHelNtVXBOWTVHZE5tT0pSRS1CV1pLUDl1d1MyZzlzdzZNbjlXd21JZmdPTF9TMlU4UWotMm14Yw?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 07:30:06 GMT",
+        "summary": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra &nbsp;&nbsp; Indiatimes",
+        "outlet": "Indiatimes",
+        "outletUrl": "https://enterpriseai.economictimes.indiatimes.com",
+        "source": "해외 정책·투자",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "Google"
+          "NVIDIA"
         ],
         "taxonomyHits": [
           "AI인프라",
-          "Google"
+          "NVIDIA"
         ],
         "issueCategory": "AI인프라",
-        "score": 25
-      },
-      {
-        "title": "구글, 삼성 파운드리와 '차세대 TPU' 협업하나…\"2나노 제조 논의\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8teE5kajVDWGxWaFN2UlVmV0swX3hJam9KVmZGV2g1NTF2NXVHNzMwNjdQTERMVXUxVWdxYlBoNEV4T3RCQWdyNmg4cFM4aG8?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 00:36:00 GMT",
-        "summary": "구글, 삼성 파운드리와 '차세대 TPU' 협업하나…\"2나노 제조 논의\" &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google",
-          "TPU"
-        ],
-        "taxonomyHits": [
-          "Google",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "파운드리·패키징",
         "score": 25
       },
       {
@@ -1752,6 +2738,28 @@ window.__DASHBOARD_DATA__ = {
           "수출통제·공급망"
         ],
         "issueCategory": "AI인프라",
+        "score": 25
+      },
+      {
+        "title": "인텔 파운드리 ‘구글 TPU’ 수주...TSMC 균열 내나 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWmkzU2c2c2N5WG1FckpBajJiZUttMzk0LXdzNklxNTVOV2tRVEY1Y2lkZlFrdDc4MzJmckRXMXotUmlvZjJzQkJnM1dObHdpZjFKLVR3bEJrd3A5MVdIZnJhSDloUlFYaFpxV0NPd3VMU0ktRkZVU1F0OVBCbU9QRUQ5MA?oc=5",
+        "publishedAt": "Tue, 09 Jun 2026 06:34:29 GMT",
+        "summary": "인텔 파운드리 ‘구글 TPU’ 수주...TSMC 균열 내나 &nbsp;&nbsp; 조선일보",
+        "outlet": "조선일보",
+        "outletUrl": "https://www.chosun.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google",
+          "TPU",
+          "TSMC"
+        ],
+        "taxonomyHits": [
+          "Google",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "AI시장",
         "score": 25
       },
       {
@@ -1782,6 +2790,29 @@ window.__DASHBOARD_DATA__ = {
         "summary": "박성현 리벨리온 대표 “이젠 NPU 시대…K추론으로 엔비디아 독점 깰 것”[서울포럼 2026] &nbsp;&nbsp; 서울경제",
         "outlet": "서울경제",
         "outletUrl": "https://www.sedaily.com",
+        "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "리벨리온"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "추론",
+          "리벨리온",
+          "NVIDIA"
+        ],
+        "issueCategory": "NPU",
+        "score": 25
+      },
+      {
+        "title": "박성현 리벨리온 대표 \"이젠 NPU 시대…K추론으로 엔비디아 독점 깰 것\"[서울포럼 2026] - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82aVhOYVduVnlZUHJaUXVfRlpxb1g4MkwwR1Z6dS1fV0VnamtZSGs5ZFk2ak82cV9ucTh1MEtrU0FvMGVvbHhaaVE0bWdoT3JwQmxZ?oc=5",
+        "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
+        "summary": "박성현 리벨리온 대표 \"이젠 NPU 시대…K추론으로 엔비디아 독점 깰 것\"[서울포럼 2026] &nbsp;&nbsp; 네이트",
+        "outlet": "네이트",
+        "outletUrl": "https://news.nate.com",
         "source": "리벨리온",
         "sourceLang": "ko",
         "region": "domestic",
@@ -1845,6 +2876,82 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
+        "title": "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWHZKLWFpLUZyOWlkZmdQenBKWUdhZ1UzUUlWNnh3TkFqd3oxOWJnMDBXT19FS1Naa3BNNkdBSXc5M0lTTHdtR3B3QzlreU1lUXBfM3V0QWlZQkRwSGZIS0hlbXotX05HNGVnTTZ0aE9sYVhjekxGR0M2aGZHT05BWEpCdjRDRVN2VWR2blhqX1JlZDRMd2xRY1BGOHZ6M2ROQ3lZeHlMeFI?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 04:22:42 GMT",
+        "summary": "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge &nbsp;&nbsp; WSJ",
+        "outlet": "WSJ",
+        "outletUrl": "https://www.wsj.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 24
+      },
+      {
+        "title": "ByteDance in talks to acquire AI chips from Iluvatar CoreX in push away from Nvidia - Crypto Briefing",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kTU12d2ZmSDJ6YWxjZGN4ZWlkd1gzUEtZcm1MTmdyVzlpYW5IYUp0YXFhVFM4OXJvVjlxUlF1b3plRUFwLVlYNFkzSzl6dFU2eHR5bTNHbVhSVHRMMXNPN204MlN4U285cGlDQ2d3?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 03:45:37 GMT",
+        "summary": "ByteDance in talks to acquire AI chips from Iluvatar CoreX in push away from Nvidia &nbsp;&nbsp; Crypto Briefing",
+        "outlet": "Crypto Briefing",
+        "outletUrl": "https://cryptobriefing.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 24
+      },
+      {
+        "title": "Inside NVIDIA and LG Group’s New Blueprint for Physical AI - microwire.info",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdE5Iek8tRHJZTVdld3AyTmZUMmxESzRnNWYyMU1LaGpTUmFRMEg3MmFyNXlvTHBOTXhUUjdoLWg5b0dvTnFZcTgxUHNOOGdjcERmWDFhcUZYMXIzeTFlSVlwTW0xMWlTb21lTGJyeDJsLU51RjFjOThkdTR5Zm9WTzF2S1IxMzYz?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 03:41:25 GMT",
+        "summary": "Inside NVIDIA and LG Group’s New Blueprint for Physical AI &nbsp;&nbsp; microwire.info",
+        "outlet": "microwire.info",
+        "outletUrl": "https://microwire.info",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 24
+      },
+      {
+        "title": "Nvidia Hires Intel's Former Top Lobbyist as AI Chip Wars Heat Up in Washington - Memeburn",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHhObnZHNTMtVnRrYW8yUEhJMkU2bG5FU3J5MG9HT1lMX1k1bHd2SnFEMUZwMDVjeTVkMElSSzZXc0tudGRZekJDR2o3aHdOQ3pIbE16aFJ4OFNPMHo4QThxSE5WRnhQVnQ2YTBYSzdJT3NiS0xjMVo0Y0ttMXNzNmRGQjhZc2JXMXBHaWZHemx0VHZ5NEFQNzNUU0RibmFp?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 02:15:15 GMT",
+        "summary": "Nvidia Hires Intel's Former Top Lobbyist as AI Chip Wars Heat Up in Washington &nbsp;&nbsp; Memeburn",
+        "outlet": "Memeburn",
+        "outletUrl": "https://memeburn.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 24
+      },
+      {
         "title": "NVIDIA (NVDA): AI Factory Demand Shows How Growth Can Stay High Without Balance Sheet Strain - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYTl5Tmw4MThFQTdhcWFURVZ5TkFYSk5IYm5hTF80S0o1NkdFX1U0SjRTczdUdmFWRk5LWmZhWmNxYVdOOVlHaklRT3E1cmY3Y2VuM3RCMmNmZXJmaU9YMDQzZzFwYkYxRjd5el96ZEw5N2t6Zm1yelI2NHhKUXVCMng3N1ZkVy0tSDRlM0FsM1dXazZPdjNySE5R?oc=5",
         "publishedAt": "Sun, 14 Jun 2026 19:44:42 GMT",
@@ -1866,7 +2973,7 @@ window.__DASHBOARD_DATA__ = {
       {
         "title": "‘The cost of compute is far beyond the costs of the employee’: Nvidia executive says right now AI is more expensive than paying human workers - Fortune",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeV9wM2RIR2Vwai1TQTBPRERLWXBGY1A2aFRLT0F1ODducUUxbXhxTC1lWXBOMTVuTnhhSElaZmU0ZnFHUGE3cUl6VUV6MDkxaG9XQXZldnZBdjV5RTNPTnRoMWVoSTJ6U1ZoZ2wxbmx6VVdZVVNPcWtzcUxTREozcENLN1FPVl84V0U3SnRacXRlcmRzZTRGdA?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 15:58:14 GMT",
+        "publishedAt": "Sun, 14 Jun 2026 15:23:51 GMT",
         "summary": "‘The cost of compute is far beyond the costs of the employee’: Nvidia executive says right now AI is more expensive than paying human workers &nbsp;&nbsp; Fortune",
         "outlet": "Fortune",
         "outletUrl": "https://fortune.com",
@@ -1903,25 +3010,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Better AI Growth Buy Right Now: Nvidia vs Micron - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR0FNQ1YyVTB5bkhUX3JwN1pUTmhxeTkwRk1naW1rbkYyVHhMTlNVWjZHdzNQZFRrOXc5R0ttZl9IZThHTF9JUlZrS09Dc1I5RnU3eENRb2ZkNXIxdGthY19IYlZTY1RVeWptcmZlYW45RGhGV2JYOFF3UG5kTkN1LXp3VGY1Vm1BSEVDQldiMDhGN3oy?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 11:10:00 GMT",
-        "summary": "Better AI Growth Buy Right Now: Nvidia vs Micron &nbsp;&nbsp; The Motley Fool",
-        "outlet": "The Motley Fool",
-        "outletUrl": "https://www.fool.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 24
-      },
-      {
         "title": "Google Gemini AI Predicts Jaw-Dropping XRP Price For Next 90 Days - Cryptonews",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUjBYb0xOckFLZmhmQmRCUzJscnp4UDRydEFZT2lMREhoSEJacjc5SEVWQWhPRFY1TDRZR0cyeXRHbGZUTm51ZG5mYUoxQmxPUDBQdV96ejMwajhDc3R0WFRGb25GYTRualp6V2lpUVY2Q01ZQ0pya3J3QmRoOUtMOXJfUFdfTEthZHhlTXYwaWkzNjl1bl9wRzFLTHZCQQ?oc=5",
         "publishedAt": "Sun, 14 Jun 2026 11:02:37 GMT",
@@ -1939,25 +3027,6 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "Google",
-        "score": 24
-      },
-      {
-        "title": "Better AI Growth Buy Right Now: Nvidia vs Micron - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWE0bEFFdG53blNMVDdNUGFKeUthajJsWjRaRDNhbEtmRjRJampCQ0w2dUlkUlFLYmhsTTdiTFdsandHeEVjdkhZWlVOdUdTLTQyZVRiVnpsQklMX0hVdzZrNTlzM1h5SE8tZEM2aU9mYnBWWWdxVjF3UXgzOE9EWjdGSWtvMWRRTUVNRVhVQ1dyUDg?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 10:30:00 GMT",
-        "summary": "Better AI Growth Buy Right Now: Nvidia vs Micron &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
         "score": 24
       },
       {
@@ -1980,33 +3049,13 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "'2.5 million messages, 9,000 fake websites': Google says Chinese cybercrime group used Gemini AI to target hundreds of thousands in scam campaign - WION",
-        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWVE4SlR2TW8yUGctMHlJMW9IMEh0a2taNG0yb1YwV21vdzNiajUxOUc5TXI2amJfdFV4MmY2S19nMGhnMzFBVHdTYWQxcS1odTBLWlNwSTZSWVcwSk9sUFpFS3pzcGZoQkozajVfakNMd3BNSkp2N1A1RkZQM2NYbmlMbVgwdFkwc1NMXzh0TFhnb0l2N3I2NUtRVXZVTGtHOVBELU5hMDdLcVlpeUFGSnl3RHQ0RmxlQjZtZlJYeTBpWG1qYndLQWppQ0txQjY5SE96ZTJZdEZEUXlVUklRWkxHMnhmZlh4aElmTWc4cHVfeWcwUnh1VXBYYWdVenozX0FfaGs0dktXMXI2cFhEQVpDQk9femZrS0HSAZ8CQVVfeXFMT2dlZ3lGdVk5TVRfUmR4UXJIdmRPTzBPWnlLTGtLVEc5dWdrcVllUTlFelNwbzZCVXh1VjVHSUxSMXhQMWowQXRGMS1FNDNFcXFaTGZxUDVCbHZyWENYdUZnR1E2S3htQ1dQdEtZWjJERW9fcHlJNmNSUmlKdE9HSzZfTEJiLTF2OUNWSHB3ekVkUEpwUFVLNUg3LVlkNEpwWHV2VkFCaEdGaXhRRFFqWFkwT000dXo5U3dfNzZMUlJCbkZCRWxmdTlISE9tNlhBUWZVYW1hanJBcmlMRi1MOEJmUnlNbUVtek80bEdkNmM1LVI3a1Bxemd2LVExeDNuUVNFVFVMY2p5MDdHLVhRWWR5MEd5MXhfdHo3RG9NZ1U?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 08:37:00 GMT",
-        "summary": "'2.5 million messages, 9,000 fake websites': Google says Chinese cybercrime group used Gemini AI to target hundreds of thousands in scam campaign &nbsp;&nbsp; WION",
-        "outlet": "WION",
-        "outletUrl": "https://www.wionews.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 24
-      },
-      {
         "title": "[ABC방송이 리더에게 묻는다=홍진배 IITP 원장] 대한민국은 AI 풀스택 국가가 될 수 있는 몇 안 되는 나라다 - 아주경제",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00YVY4SWYtOEFKWTU3dUFSaWF2VU9JdHJTZGNjb0NKcktRd3d0eEFNLXZIb2pNUFRCVFM1N0U4SVBNYU10Y191X3M4eGJNME1SVVotVGc5RWpBd9IBWEFVX3lxTE5DSkNVWmhDVUdvOGVaWTBjWXNfTEZIZGFYWTF0Nk9vMk03eFk2cVdMc2VhNERaYzlPOVNjd2dicTlkVnExVDBpNXR0cUZEQS1XUld0UHNrVHI?oc=5",
         "publishedAt": "Fri, 12 Jun 2026 22:45:52 GMT",
         "summary": "[ABC방송이 리더에게 묻는다=홍진배 IITP 원장] 대한민국은 AI 풀스택 국가가 될 수 있는 몇 안 되는 나라다 &nbsp;&nbsp; 아주경제",
         "outlet": "아주경제",
         "outletUrl": "https://www.ajunews.com",
-        "source": "국내 AI 시장",
+        "source": "NIPA·과기정통부 정책",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [],
@@ -2161,163 +3210,44 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "과기정통부, 'K-문샷' 본격 가동…AI로 신약·휴머노이드·양자 등 국가 난제 푼다 - 네이트",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56Y3hoUW5WZjVOc0w3S283bE9Bdi1ldXhUQlBaV0NsTGVHMW9UdTBPekxKVE44STR3aDhqU0lYOGk4emJuMzFjanUxVEFxZ3h1QU80?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 05:41:00 GMT",
-        "summary": "과기정통부, 'K-문샷' 본격 가동…AI로 신약·휴머노이드·양자 등 국가 난제 푼다 &nbsp;&nbsp; 네이트",
-        "outlet": "네이트",
-        "outletUrl": "https://news.nate.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 24
-      },
-      {
-        "title": "과기정통부, 벨기에·EU와 AI·양자·첨단바이오 협력 확대 - 공유경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83eGZNZ0hFRFZPRVp0TWhINXlPM19Lb0p2Snd2S01sSm9CbUFOQlJ4ckgxN0J4RGRrY1l5Z19qejBzOVV1dEVvdmdseTUybnp3aF94SDNkcHA1aV9UeW5YQ0IzWHFvZzVyaXc?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 03:52:24 GMT",
-        "summary": "과기정통부, 벨기에·EU와 AI·양자·첨단바이오 협력 확대 &nbsp;&nbsp; 공유경제신문",
-        "outlet": "공유경제신문",
-        "outletUrl": "https://www.seconomy.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 24
-      },
-      {
-        "title": "노타, ‘대한민국 인공지능산업대상’ 과기정통부 장관상 수상 - e4ds news",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fMUw2aUpEZTNIWGtsS3RQRVZmeVNoSi1UdmRYcGY3RlBCR3Q5eG0xajlzM2NCM0RfZzhvWHFBLTNTNU9fOWxGbWFBcU5ZQTdTN0d4SWo5OXZ4dGUyY00yVzJ3?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 03:23:00 GMT",
-        "summary": "노타, ‘대한민국 인공지능산업대상’ 과기정통부 장관상 수상 &nbsp;&nbsp; e4ds news",
-        "outlet": "e4ds news",
-        "outletUrl": "https://www.e4ds.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 24
-      },
-      {
-        "title": "[카드] 노타, '대한민국 인공지능산업대상' 부총리 겸 과기정통부 장관상 수상 - 네이트",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tR3ZBaGs0Q0NuaGdxemdIb2N1bkpWSU5BTm56UzBLMVZLZE9EQzhtRUVpWnRqVGRRcVc2RzFtMDFSSjZ4WFd6azNjZDR5UHVYLVh3?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 01:06:00 GMT",
-        "summary": "[카드] 노타, '대한민국 인공지능산업대상' 부총리 겸 과기정통부 장관상 수상 &nbsp;&nbsp; 네이트",
-        "outlet": "네이트",
-        "outletUrl": "https://news.nate.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 24
-      },
-      {
-        "title": "과기정통부, 인공지능 기반 첨단바이오 자율실험실 구축 착수 - 2news.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Vd3d0b0R4U3hCNGFlQzRZcXM3VDFURXVZemtaTVIzSkVUOVlpejBjT3AtVTVndHpsVmVBVjhNYmtXY181TEVWNjhDQVI0bGtRLUxjbTYwRkJGcVBGMUl3bUxRcktpTXkx?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 01:05:00 GMT",
-        "summary": "과기정통부, 인공지능 기반 첨단바이오 자율실험실 구축 착수 &nbsp;&nbsp; 2news.co.kr",
-        "outlet": "2news.co.kr",
-        "outletUrl": "https://www.2news.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 24
-      },
-      {
-        "title": "과기정통부, AI-네이티브 첨단바이오 자율실험실 6곳 구축 시동 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5keExpUnFjRVV0Q19ucmpnQjliN1B6cngxbURHSjN4V0JBXzZ0V2RwZzBWOUt6VzFiUS1JTDZfZVh1MW1kMlh2THhnZXh0VVE?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 01:01:37 GMT",
-        "summary": "과기정통부, AI-네이티브 첨단바이오 자율실험실 6곳 구축 시동 &nbsp;&nbsp; v.daum.net",
+        "title": "삼성 파운드리, 구글과 접점 커질까…TPU 핵심 부품 수주 기대감 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wS1lYU2Fiem1mQVNGeC1CNFFJcFNaVjRGaDJtd3RxSWljd0x5ZHRfbE00cW5BQXBuVThrWFBicm55ZTI3N3R3YWhzXzUxSFk?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 01:20:55 GMT",
+        "summary": "삼성 파운드리, 구글과 접점 커질까…TPU 핵심 부품 수주 기대감 &nbsp;&nbsp; v.daum.net",
         "outlet": "v.daum.net",
         "outletUrl": "https://v.daum.net",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 24
-      },
-      {
-        "title": "과기정통부, AI-네이티브 자율실험실 구축 착수…신약개발 혁신 시동 - 데일리안",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUXp4cmdTQnpjRTZSZkVNWHNSdE4zUlU3c0lnUllucmJtMk1kdFVIYUhBWWtwRkMxaDU1bElnZ1R2THFNUEtSS0hCNVN5MmRJZld4LXNNY01GWFdqckdKbFZSZW5sWnJFTHp1U3JXVHVtSlF6Q29sSVZnSWk5eVI5TzVzc1hxMmthQlpxdzJtam4tOU5DemtnSGVqbFRSNUpuOHpRRTNST1djUEM1eFlCMFIwc1hydl9VMm55SWluX2xleVBENWJ2SHI4anlwXzM4RFJqQXBiSlRrWGR3YVlDeXRLdkdkdFdzSU9mWGY5SjZJMkp6QmI5YVdaVW9oRFg1bE5NTC1Qbk9ZdEd00gGPAkFVX3lxTE1JV2JmOGZmMWpFY01LYWV3OHdKc0NyTGpHYzdGNlY0OFdST091Y0U1RENtT3FjQUZZamU3cW9wS2h2LTBKYTVCQjJ1dGFTeGdvZElXRjJvc1JVOHFUZFA2TUpPUS11ZEJwQjE4cURjaXA0bFNwcE40VVlyYUxVdXNOTG1YX01qX1BnVXR4TGRWTDFMdTI1Zl8xQUp6N01NNkk2NE1zNk1ZX0RNRmV0TU84aUlWQmR5SGY2N3VKUG5jOGFRNm5mSFM3djlNQnI0al9vY0RWbnpUX3ZSbDBVM04zS1hmendkSVRtMzNyZGN4NTFPNTBMREt6YlhKWUhzY0xDZjcyNjZkV3pZcWxYQ1E?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 01:01:00 GMT",
-        "summary": "과기정통부, AI-네이티브 자율실험실 구축 착수…신약개발 혁신 시동 &nbsp;&nbsp; 데일리안",
-        "outlet": "데일리안",
-        "outletUrl": "https://www.dailian.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 24
-      },
-      {
-        "title": "How Nvidia’s South Korean AI deals could fuel ‘the next industrial revolution’ - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdy1xc1JabEdrSi0tSzdIaGFlR0VENGR5dDZCbzNIRVFCVF9EeGpiMnJRcFpTUFNFMXRpcjBQN25oaFdUcHdUUjluVUxfWUktUHcwVVY4elhUa21yd1pTTjBtR2s2VlFZa2lSNUh3MmQ5TWpLaHh5YTY3Slk1d1RxZGFGa3N2NGktU3NJZE96amVZVHR0bHpuUHY0dEVIdUhEZGI2OThvQjRnRklGdDhVVExkd0lUX1hzY2l3OW5CbmRkVnB3TGQ00gHHAUFVX3lxTE0zZFBLYW42UGhRNjg0X3dnbEJDQk9kZ1ZOS0FwOUZJdVY1UTJwMkJNdGNYWHZvTzI2ZVdBV2VyYWhZMGUwWDhfYldLbzNhd2c0c1dydkdXQnhfSXZCSTZybUR5SENYcldSdkZMeExfWmZ5WXctVWE4MVBwRE5vSGV0NWNzeGstVFF6S2E4ekZTS2NsWm9jcUVKOGJyRUw0bjRSS0ZRRDN1bmpRTTJxTUJGNVBWTzBpSTczY2NHeWRVY2R1dUlWTTg?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 00:00:13 GMT",
-        "summary": "How Nvidia’s South Korean AI deals could fuel ‘the next industrial revolution’ &nbsp;&nbsp; South China Morning Post",
-        "outlet": "South China Morning Post",
-        "outletUrl": "https://www.scmp.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "수출통제·공급망"
-        ],
-        "issueCategory": "수출통제·공급망",
-        "score": 24
-      },
-      {
-        "title": "구글 차세대 AI칩, TSMC 생산 병목 대안으로 삼성전자 고려 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Oc2hEaXQwWm5XVXVWWl91TEV1VFNYMzZ4TVFOYnpIY0RLaDZhQnRPaURlTFlUZVhLbm5CdVdPUTN1Z0Q1UU5hWm5aU0MzQQ?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 22:41:09 GMT",
-        "summary": "구글 차세대 AI칩, TSMC 생산 병목 대안으로 삼성전자 고려 &nbsp;&nbsp; 전자신문",
-        "outlet": "전자신문",
-        "outletUrl": "https://www.etnews.com",
         "source": "해외 빅테크 국내 보도",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
           "Google",
-          "TSMC"
+          "TPU"
         ],
         "taxonomyHits": [
           "Google",
           "파운드리·패키징"
         ],
         "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "Apple Taps Google Cloud For Siri AI Power Shaping Alphabet’s Role - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWF9kSlZMOGdfM1NRRlRDb283ZjZ0dlVSekp5M0RZQVNtTG1YM2YtXzMzVEJTUmxCcXFVT1FDUnVxdm11bVNvN1UyMWwxbHdXUzdVTnBySkNYaThDRkRKMVhnNWNua3VBRFlTSXNzU0VWQnVFWnp3Z1o4YTloUUlGNmhKdEtMLWRUeGotWXZkc3BZVFEwZVpwbl9NaXplemhYa19Lam84WFhldUdQeGc5NlNDWXdMYkZoME56MmxNZTVkUdIBxwFBVV95cUxQUDBFZW9lSnlfM0FhSkhYcm9ZWmdzeVprWmtEQ0JWa0Q3TFRicmNtOTVnT1h6Zy0waEJLTUlsb0pNX09qYmF6a25zNzRyN3czank1bG5uSC12d0piRW04NHZvVzdXQm9uRW53WlVaYzhVVk9aQ2FvUks3Ql82ZnkyRjJ3dUF1WDZEWE5aOVRiQ2FmMElQWmZvbU45YU9UbmMxVUllVmJDSTE5ZFlSam9nRjA0TDZzdnkzUVlGT3VJS1V3MXFpandN?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 00:51:46 GMT",
+        "summary": "Apple Taps Google Cloud For Siri AI Power Shaping Alphabet’s Role &nbsp;&nbsp; simplywall.st",
+        "outlet": "simplywall.st",
+        "outletUrl": "https://simplywall.st",
+        "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI인프라",
         "score": 24
       },
       {
@@ -2662,6 +3592,86 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
+        "title": "SK Hynix to test ChatGPT and Copilot as Samsung widens enterprise AI use - digitimes",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSENKbm9vaEFvQ1I3QmJqRU16ZWdLd3BYaFo3X3J2Sno3THpTbmVhTDZKczlMU1RhVDFRanZnWWZoTkhzZFhzNUttX0M0YnMtNFlFYUZNU2xWZDNWc2o5b1NKam8xdy1pTllSSUt5dXRQeDVrY3ZKNEFFSXVQNjVZNVZQaFJPQWVna2x3?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 05:58:48 GMT",
+        "summary": "SK Hynix to test ChatGPT and Copilot as Samsung widens enterprise AI use &nbsp;&nbsp; digitimes",
+        "outlet": "digitimes",
+        "outletUrl": "https://www.digitimes.com",
+        "source": "AI 시장·비즈니스",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Samsung"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "구글, 데이터센터 대신 GPU 11만개 빌린다…SK하이닉스 HBM 호황 이어진다 - 네이버 프리미엄콘텐츠",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWE1aeklKZTBJN3lNLTJZTV9wSkQ5X2ktRmFtcWVQWVoySWpFTGxpcTk1SkpnZmhkbDExZThYUmRIcGs3d2dtMWJCZnZKV3dHM25WdmpURnlVQ1YtOWdGLUt4VlRxdUh1b1RrR1hHVzYtMThyNFdmeWRUNm9CUWM4c2V0YWpFUQ?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 04:12:00 GMT",
+        "summary": "구글, 데이터센터 대신 GPU 11만개 빌린다…SK하이닉스 HBM 호황 이어진다 &nbsp;&nbsp; 네이버 프리미엄콘텐츠",
+        "outlet": "네이버 프리미엄콘텐츠",
+        "outletUrl": "https://contents.premium.naver.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "Google"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 23
+      },
+      {
+        "title": "구글, AI 울트라 구독자 대상 ‘정보 에이전트’ 기능 선행 출시 - 디지털 인사이트 DIGITAL iNSIGHT",
+        "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNOG9LVlIzWm8yRWdnZ3VQbWNqVGtRMnY5eC03QVQ1RTlnazhrc013bHdlNGRmeVRQT0VzSEtBT2UyT1puaG16MGdyUkRBQURVS2ZLaUtrRjR4b25wV2FyZGRKV2FWQkV2V242dDE3Q3psN2dGRG9BNFlTZGhJd0NkbXljLTZuV1VseDdnMU1BX3NiandkODJTa05KNExJNUFSeUJDT1Y1VXZHOGRLT29EUmZtWlA1TGNCRUZwcnd1TzUxNEZDNjVrNTBkelZVbFRSY3ZRU2gwYXdDVTkyUlM1a2NOME1EUnVtOGhuTEVWRFNRSkdDZkdFU3F3bVRnQmdFSHNUb3JKQ0p6dTBzZldyOHFsYmlIbDQzVndxV2JOU09yZGlLdUhzWlNTazlaVXBKLXE0X2Rn?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 02:52:38 GMT",
+        "summary": "구글, AI 울트라 구독자 대상 ‘정보 에이전트’ 기능 선행 출시 &nbsp;&nbsp; 디지털 인사이트 DIGITAL iNSIGHT",
+        "outlet": "디지털 인사이트 DIGITAL iNSIGHT",
+        "outletUrl": "https://ditoday.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "Google"
+        ],
+        "issueCategory": "AI에이전트",
+        "score": 23
+      },
+      {
+        "title": "정원석의 매크로 리뷰 엔비디아의 차세대 산업혁명 데이터센터를 공장으로… AI 팩토리가 바꾸는 산업 지도 - economychosun.com",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hS05uYUE4ODNZMkxUZ1BKVFVHUkpPeDdGWDRTTWdJeTU0Y0ZjTWxRNkpIWUtIOHYtdjA3UDFlUEtqR3Q5ZUh4NVlkX1ZwZ240UzRPS0tGN3pBS3pXNHlXZ05Ha19CWUdKbXFoeHBzdkFyMnVWS3lGZVFEeG9NR1k?oc=5",
+        "publishedAt": "Mon, 15 Jun 2026 02:00:00 GMT",
+        "summary": "정원석의 매크로 리뷰 엔비디아의 차세대 산업혁명 데이터센터를 공장으로… AI 팩토리가 바꾸는 산업 지도 &nbsp;&nbsp; economychosun.com",
+        "outlet": "economychosun.com",
+        "outletUrl": "https://economychosun.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "NVIDIA"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 23
+      },
+      {
         "title": "GitLab (GTLB): Google Cloud Expansion Shows How AI Is Deepening Enterprise DevSecOps Demand - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVgzNmo2YW9TWVhNQlFvdUtyQWl0ZEhVX0dRQjBldVYwUFdWY2lmTHlUdVJaVlFTWXd1UVRkWFRUWENCd0JEQWpWM2FWRTVkeTRQQ0RfVm9ULVNsSXFIMExBTWpJWnV3ZWNqYUFicDh2QzZhd0NJc3FFVFB6bWE0QkpLN1dEWWQ2WXczb2tjNVdBdlRGWVh6LWR0dU81eUt1?oc=5",
         "publishedAt": "Sun, 14 Jun 2026 19:45:36 GMT",
@@ -2728,7 +3738,7 @@ window.__DASHBOARD_DATA__ = {
         "summary": "엔비디아가 한국을 찾은 진짜 이유…AI 시대 핵심은 GPU 너머 ‘메모리·전력·데이터센터’ &nbsp;&nbsp; 베타뉴스",
         "outlet": "베타뉴스",
         "outletUrl": "https://www.betanews.net",
-        "source": "해외 빅테크 국내 보도",
+        "source": "국내 AI 시장",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
@@ -2739,46 +3749,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "데이터센터",
-        "score": 23
-      },
-      {
-        "title": "삼성 파운드리, 커지는 흑자전환 기대감…구글 차세대 AI칩 수주 유력 - 아시아타임즈",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43MkdfV05uZWNUbXpScS1nVzhHdnJ3dXc4YkZjZVBhN0ZhN1RKc1RSZ2toOFE0TnIzMjAtcnJsR3RhaXpvZ3JEYnJPcFZLMTItVGwzbDVCMFd2a29ENUE?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 05:40:00 GMT",
-        "summary": "삼성 파운드리, 커지는 흑자전환 기대감…구글 차세대 AI칩 수주 유력 &nbsp;&nbsp; 아시아타임즈",
-        "outlet": "아시아타임즈",
-        "outletUrl": "https://www.asiatime.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "Gemini Spark Is the Best AI Agent I've Tested...But It Has a Big Problem - PCMag",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNenVqY0pMU3RnQUtJc05kdmNxUzU5MHBseEFJSW1pUUthWERfZzlobHlxMnVzN1ZHdmczYXBYcUZHdEhUdlg1S2hyd1F5N1Z3djc0eWJYSVBELXlVclZPdFRXM2Z0UGJGc2h0RUotSWdUUmhfSVdKUE5DeGx3UC1kd1gwRjBtMWFQbzhFazRkWjRJYnI4MXROSm9Law?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 05:30:24 GMT",
-        "summary": "Gemini Spark Is the Best AI Agent I've Tested...But It Has a Big Problem &nbsp;&nbsp; PCMag",
-        "outlet": "PCMag",
-        "outletUrl": "https://www.pcmag.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "Google"
-        ],
-        "issueCategory": "AI에이전트",
         "score": 23
       },
       {
@@ -2859,51 +3829,81 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Navitas Semiconductor (NVTS) Is Down 6.7% After Nvidia AI MGX Showcase Tie‑In And $500M ATM Plan - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1d6WGEtMzFSUm92Ti1sODdla0RZdHpUUEZRc0RJMm10TTFmV1dDTUh2aHI0R0I5ZUVhajBqb0E2YWIzdFZOTWJ1cDdDcWhfMG5BcFdoR01NLXE4VjA5LWRWeTduX3FURjFsMk9iQUpyTlgyUjlJWUNjY0VYZG5tX1RHRjVFRm9lY21IdEFwOGdNNmd3MTl4R24xTEx0R2M?oc=5",
-        "publishedAt": "Sat, 13 Jun 2026 04:13:00 GMT",
-        "summary": "Navitas Semiconductor (NVTS) Is Down 6.7% After Nvidia AI MGX Showcase Tie‑In And $500M ATM Plan &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
+        "title": "과기정통부, 'K-문샷' 본격 가동…AI로 신약·휴머노이드·양자 등 국가 난제 푼다 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wN3N6NlllV1phWEYzTzVpQlNfcXBUbEtOdlhrYzlaTkIyVGtXTFp2anAxQUdUaEJJVk4zMG12TEZGWmRvOWJ3TWRfSHNPY3B3ZUV3cFprQnltMk1VSWFaaGZ2Q2o3bmvSAWxBVV95cUxOQktEdXB6LVpRLURydmlkNmFYVW5wTjdjZjNMdFE5dEM2dmhMN0hfd3RQZElOb2RyM2JZUTdIVkxaUjlZeHZCNFZBTUx0R20wcjBKa2lueTlhZzZiX2pkcVpEQTEwWk1CX0tqZGY?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 05:40:35 GMT",
+        "summary": "과기정통부, 'K-문샷' 본격 가동…AI로 신약·휴머노이드·양자 등 국가 난제 푼다 - 머니투데이 &nbsp;&nbsp; 머니투데이",
+        "outlet": "머니투데이",
+        "outletUrl": "https://www.mt.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
         "taxonomyHits": [
-          "NVIDIA"
+          "정책"
         ],
-        "issueCategory": "NVIDIA",
+        "issueCategory": "",
         "score": 23
       },
       {
-        "title": "NVIDIA grant boosts UH Mānoa research in AI-powered wireless networks - University of Hawaii System",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yV01sNzRfejUyMWI1ZEluaUs4SGd6Q3J0dENCV0hpOWpiZVBVM01oOHk2V3BBeThEUnAzSFM2MUo1N0FYR2dsRGpFcmY5YkZxS3FoT1hOQTQ5VHhWMTExb2lhSEh0VThHUFVHYnJmUi1sR0FJZXdF?oc=5",
-        "publishedAt": "Sat, 13 Jun 2026 01:10:46 GMT",
-        "summary": "NVIDIA grant boosts UH Mānoa research in AI-powered wireless networks &nbsp;&nbsp; University of Hawaii System",
-        "outlet": "University of Hawaii System",
-        "outletUrl": "https://www.hawaii.edu",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
+        "title": "노타, ‘대한민국 인공지능산업대상’ 과기정통부 장관상 수상 - e4ds news",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fMUw2aUpEZTNIWGtsS3RQRVZmeVNoSi1UdmRYcGY3RlBCR3Q5eG0xajlzM2NCM0RfZzhvWHFBLTNTNU9fOWxGbWFBcU5ZQTdTN0d4SWo5OXZ4dGUyY00yVzJ3?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 03:23:00 GMT",
+        "summary": "노타, ‘대한민국 인공지능산업대상’ 과기정통부 장관상 수상 &nbsp;&nbsp; e4ds news",
+        "outlet": "e4ds news",
+        "outletUrl": "https://www.e4ds.com",
+        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
         "taxonomyHits": [
-          "NVIDIA"
+          "정책"
         ],
-        "issueCategory": "NVIDIA",
+        "issueCategory": "",
         "score": 23
       },
       {
-        "title": "노타, 대한민국 인공지능산업대상 부총리 겸 과기정통부 장관상 수상 - 데일리한국",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lNXpibEVOaFVXcEIzNGpSMEdobGRyWkJQOTJZSWM2UjJyTG1tb1czaGdRRUZ3MGgybXNDOFM2SkdGLVd5UExfbTRXQ3B6UUs1RzVNdG1ZWVB4cHU4NDBaRTZIVUUteEhVTUg3bE9GQdIBc0FVX3lxTE9DVWpFWlBZejd4YnBhWWhIai1zN1RfQ0lNbjJlMlJFc2hnay15UFN4cHJwUHVxLTZBVmJNNVhDVERqbWpQV3FCU2FMTzRBaGNZcXkzWFVQQTVjX25sRUZoamFBbGJ1MFVuMUZlWXBpWkdlN1U?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 23:50:55 GMT",
-        "summary": "노타, 대한민국 인공지능산업대상 부총리 겸 과기정통부 장관상 수상 &nbsp;&nbsp; 데일리한국",
-        "outlet": "데일리한국",
-        "outletUrl": "https://daily.hankooki.com",
-        "source": "국내 NPU 기업",
+        "title": "과기정통부, '글로벌 ICT 미래 유니콘 육성사업' 15개사 선정… AI·제조·헬스케어 혁신기업 총출동 - 와우테일",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FTDVBbmJvbWtQRW9kUnVlNlpRQWs2QVdKWUdxSG8xZ2xJWFE5WmhIZXRTWlZTTUtHckhWejROVEY2T0VwVmRyajRsc1hWNm8?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 01:02:50 GMT",
+        "summary": "과기정통부, '글로벌 ICT 미래 유니콘 육성사업' 15개사 선정… AI·제조·헬스케어 혁신기업 총출동 &nbsp;&nbsp; 와우테일",
+        "outlet": "와우테일",
+        "outletUrl": "https://wowtale.net",
+        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "정책",
+        "score": 23
+      },
+      {
+        "title": "과기정통부, AI-네이티브 첨단바이오 자율실험실 6곳 구축 시동 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5keExpUnFjRVV0Q19ucmpnQjliN1B6cngxbURHSjN4V0JBXzZ0V2RwZzBWOUt6VzFiUS1JTDZfZVh1MW1kMlh2THhnZXh0VVE?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 01:01:37 GMT",
+        "summary": "과기정통부, AI-네이티브 첨단바이오 자율실험실 6곳 구축 시동 &nbsp;&nbsp; v.daum.net",
+        "outlet": "v.daum.net",
+        "outletUrl": "https://v.daum.net",
+        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
+        "score": 23
+      },
+      {
+        "title": "과기정통부, AI-네이티브 자율실험실 구축 착수…신약개발 혁신 시동 - 데일리안",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUXp4cmdTQnpjRTZSZkVNWHNSdE4zUlU3c0lnUllucmJtMk1kdFVIYUhBWWtwRkMxaDU1bElnZ1R2THFNUEtSS0hCNVN5MmRJZld4LXNNY01GWFdqckdKbFZSZW5sWnJFTHp1U3JXVHVtSlF6Q29sSVZnSWk5eVI5TzVzc1hxMmthQlpxdzJtam4tOU5DemtnSGVqbFRSNUpuOHpRRTNST1djUEM1eFlCMFIwc1hydl9VMm55SWluX2xleVBENWJ2SHI4anlwXzM4RFJqQXBiSlRrWGR3YVlDeXRLdkdkdFdzSU9mWGY5SjZJMkp6QmI5YVdaVW9oRFg1bE5NTC1Qbk9ZdEd00gGPAkFVX3lxTE1JV2JmOGZmMWpFY01LYWV3OHdKc0NyTGpHYzdGNlY0OFdST091Y0U1RENtT3FjQUZZamU3cW9wS2h2LTBKYTVCQjJ1dGFTeGdvZElXRjJvc1JVOHFUZFA2TUpPUS11ZEJwQjE4cURjaXA0bFNwcE40VVlyYUxVdXNOTG1YX01qX1BnVXR4TGRWTDFMdTI1Zl8xQUp6N01NNkk2NE1zNk1ZX0RNRmV0TU84aUlWQmR5SGY2N3VKUG5jOGFRNm5mSFM3djlNQnI0al9vY0RWbnpUX3ZSbDBVM04zS1hmendkSVRtMzNyZGN4NTFPNTBMREt6YlhKWUhzY0xDZjcyNjZkV3pZcWxYQ1E?oc=5",
+        "publishedAt": "Fri, 12 Jun 2026 01:01:00 GMT",
+        "summary": "과기정통부, AI-네이티브 자율실험실 구축 착수…신약개발 혁신 시동 &nbsp;&nbsp; 데일리안",
+        "outlet": "데일리안",
+        "outletUrl": "https://www.dailian.co.kr",
+        "source": "NIPA·과기정통부 정책",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [],
@@ -2946,697 +3946,6 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "",
         "score": 23
-      },
-      {
-        "title": "IBM, Google Cloud plan to release industry-specific AI agents - No Jitter",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcG1WZTZYT3ZKN3dWYmVUQlpiVEJfUjM5QmY1MDVlR1hQbHBnZndvNFBGY1hIOURKRkdjam5PSzJqb1pZLTI1TnNib0RHNWhSVUtMaGhqOS1CeTU5R1VheUl6cUJxeXhST1lEaXI5U0JoOFhPMXRSLTVOWmxPY1g4Y0drMkpkZThaRmpHZUhubU52WmxUTlZzNEhya0pmVWlrUjRJ?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 16:56:17 GMT",
-        "summary": "IBM, Google Cloud plan to release industry-specific AI agents &nbsp;&nbsp; No Jitter",
-        "outlet": "No Jitter",
-        "outletUrl": "https://www.nojitter.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 23
-      },
-      {
-        "title": "과기정통부, EU와 AI·디지털 협력 확대…호라이즌 유럽 성과도 확인 - 네이트",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VbWdDNlBLaUdSZkZMMno4X3FHWmZMUGRxSURnZzF3OVh4SDNYNHpma2g3SzhpMU0xUTByZjJxVEdvNTdIUldKbG1RWF9Tb0xRbUQ4?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 07:19:00 GMT",
-        "summary": "과기정통부, EU와 AI·디지털 협력 확대…호라이즌 유럽 성과도 확인 &nbsp;&nbsp; 네이트",
-        "outlet": "네이트",
-        "outletUrl": "https://news.nate.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 23
-      },
-      {
-        "title": "과기정통부, EU와 AI·양자 맞손…'연구동맹' 확장 - 뉴스후플러스",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxeU94eVhtZ1dQZFZ5c0JIMW1pSHNrTzhqeEQyYzlaakVhcE91eUw0QUVqQ3ZXMWRMb1NvQm1rdEg3NnI0RUNrSWphUEtuTzBGSUtraVFRT2syTlZrcjhoa1pXbjdXTlV5WFZLLUdR?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 06:50:09 GMT",
-        "summary": "과기정통부, EU와 AI·양자 맞손…'연구동맹' 확장 &nbsp;&nbsp; 뉴스후플러스",
-        "outlet": "뉴스후플러스",
-        "outletUrl": "https://www.newswhoplus.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 23
-      },
-      {
-        "title": "안보 AI에서 산업 AX까지…S2W, 과기정통부 장관상 수상 - 네이트",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDSnk0NTF5UmxYd3VHNDdLY2VaN29mVWJlOFhpMWNLc1B0b0lWVVkwck80aWlwZlg0eVZyZ1BXRnZNUS1uY3FFSTFYTWxYbjdhbXZ3?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 06:30:00 GMT",
-        "summary": "안보 AI에서 산업 AX까지…S2W, 과기정통부 장관상 수상 &nbsp;&nbsp; 네이트",
-        "outlet": "네이트",
-        "outletUrl": "https://news.nate.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 23
-      },
-      {
-        "title": "NTT DATA and Google Cloud partner to accelerate enterprise AI adoption - FutureCIO",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUhVa2hmYlMxNUU5MW9JbXNYcWVQemVpeVQzZFN1eGplTG9EczFrRF8tMXZaNXRLSFNUeVJrY1ZFeFBDcmlkTzdDcGZrUnk3MzBKMlFxZEdzN0VWZHJqWTdvc0Y5c20yS0NvTFRhbW1GeUVHSktCcEEyay05Tms2VWEydkktZ2diakk5VWZKM01McXpQR0Rjakdn?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 06:00:00 GMT",
-        "summary": "NTT DATA and Google Cloud partner to accelerate enterprise AI adoption &nbsp;&nbsp; FutureCIO",
-        "outlet": "FutureCIO",
-        "outletUrl": "https://futurecio.tech",
-        "source": "AI 시장·비즈니스",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "“AI 투자 사이클 꺾이지 않았다”...TSMC 월매출 20조원 돌파 ‘사상 최대’ - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzS2ViejJmWEhmdDFUcnZ3bDBjZGVvQVBxY1F1M2U1NDNUcGhISXFFSnotbUEwUXpUa1gtdENyRVA2TVNqZl80X1phRWY2d1FndDVzQXpB?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 03:21:48 GMT",
-        "summary": "“AI 투자 사이클 꺾이지 않았다”...TSMC 월매출 20조원 돌파 ‘사상 최대’ &nbsp;&nbsp; 매일경제",
-        "outlet": "매일경제",
-        "outletUrl": "https://www.mk.co.kr",
-        "source": "국내 AI 시장",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "파운드리·패키징",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "국가유산 행정부터 AI반도체까지…과기정통부, K-AI 확산 사례 공개 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CdDlaX0s4cFI5VVJMeFpiV0ZCWDU4UWpmeWpLOExQRWhuWWZJS1FFOUhWMUYtdDVyZS05QTMzODdCbWY1ckF3UHJlQXF1QTA?oc=5",
-        "publishedAt": "Mon, 08 Jun 2026 01:43:24 GMT",
-        "summary": "국가유산 행정부터 AI반도체까지…과기정통부, K-AI 확산 사례 공개 &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "NPU"
-        ],
-        "issueCategory": "NPU",
-        "score": 23
-      },
-      {
-        "title": "과기부, 퓨리오사AI·리벨리온 반도체 검증...\"‘서비스별 성능 만족\" - AI타임스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YdVFkMFRFZk81aUNwSElOME1sT1I5ZGJxTTIwWTVhN29mMUc1VFJCMklVWkI5QldMWHpWWERiQjVmVjdxRTBJYUpDTGZ4VlpVb2NtTE05MHZsQ2kxSVF2UXQzX1FHd2kwMFE?oc=5",
-        "publishedAt": "Thu, 04 Jun 2026 08:28:27 GMT",
-        "summary": "과기부, 퓨리오사AI·리벨리온 반도체 검증...\"‘서비스별 성능 만족\" &nbsp;&nbsp; AI타임스",
-        "outlet": "AI타임스",
-        "outletUrl": "https://www.aitimes.com",
-        "source": "국내 NPU 기업",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 23
-      },
-      {
-        "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-        "publishedAt": "Sun, 31 May 2026 07:00:00 GMT",
-        "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing &nbsp;&nbsp; NVIDIA Newsroom",
-        "outlet": "NVIDIA Newsroom",
-        "outletUrl": "https://nvidianews.nvidia.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "Samsung Foundry Likely to Win Anthropic \"Claude AI Chip\" Orders Following Tesla and Nvidia - 아시아경제",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JRzRZQlZETjRWSFJ3YXBhZ1hweHhHTVBCUnZ0Um9DRnh3QjhDQlgzcjIxX0dkcmhSTFRVU3BYbFBoVUZ4RXBhUHR1bHQ0clo3UTVwLWNhWUQ1ZnEycjdxcWRXQUU?oc=5",
-        "publishedAt": "Fri, 29 May 2026 07:00:00 GMT",
-        "summary": "Samsung Foundry Likely to Win Anthropic \"Claude AI Chip\" Orders Following Tesla and Nvidia &nbsp;&nbsp; 아시아경제",
-        "outlet": "아시아경제",
-        "outletUrl": "https://www.asiae.co.kr",
-        "source": "해외 AI반도체",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Samsung"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "FuriosaAI Ditches GPU Playbook For 2nm Broadcom-Built Inference Chip, Claims HBM4/E Bandwidth Beats Even The Most Efficient GPUs - Wccftech",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUlBFY2RvSTREZDBGWk8wWWFqUVJRemZVZlVEUllWN2RUaVZyQ1ExanVadVZuOVVmMF9yX3ZGMjBUNG8zdFR2ZnRZSklYRVFBR0VDRy1CUzdFTVJ3WTZhaFZxT1FUSTEtWlZ5Sjg1NWxIaHFROFc0clI3TXlQLTQ2bzg5T3hsTE55MHRuYkN1RS1YSDNNRVJnazYycmZtbzZsWmVsYk5MM2dLNmhwTkNIY1BadWdaXzZUV20za2tqa0lxS1HSAcgBQVVfeXFMTk1JeUw3Y2ZnNDRPYzYxelYySGRodnR1YW03Zy1jdnc3bGxpMXJfWlNQTWRXYncyUnR3MDIxd1h6U0xqdFpuSU1EcHdQSnZPQ19xWnBHS3RyM3BSTER0bHdpc2xuNlRMMzl0dTN6b2tpbzdwaV9IUV9CeEkwWll5Y2JBcDZ1djNQakdheVJZX3p5d0ZrRlZLakM3T0lCVUFlYXFqdFFYUmJSYmloYTNCOUFscW5HNEZFZ1k4ZmEybF9BNDJ6NTFvbGY?oc=5",
-        "publishedAt": "Wed, 27 May 2026 07:00:00 GMT",
-        "summary": "FuriosaAI Ditches GPU Playbook For 2nm Broadcom-Built Inference Chip, Claims HBM4/E Bandwidth Beats Even The Most Efficient GPUs &nbsp;&nbsp; Wccftech",
-        "outlet": "Wccftech",
-        "outletUrl": "https://wccftech.com",
-        "source": "해외 AI반도체",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Broadcom",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "추론",
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 23
-      },
-      {
-        "title": "시장 뛰어든 리벨리온·퓨리오사AI “양산 순항 중” - newstheai.com",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VbXlUXzEzM0ZmbGlUNmVGMVI4Ulp3OGpTUEF0NXM2R0Z5cURqNzlMNXJfRFNKWlc1T3hIS0tHQnVXdng1blVhOFdfLTZLVTk1cWpDZFA3b3J5RjJjc0pDRG12MWhOWjBHVGc?oc=5",
-        "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
-        "summary": "시장 뛰어든 리벨리온·퓨리오사AI “양산 순항 중” &nbsp;&nbsp; newstheai.com",
-        "outlet": "newstheai.com",
-        "outletUrl": "http://www.newstheai.com",
-        "source": "리벨리온",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 23
-      },
-      {
-        "title": "정부, 리벨리온·퓨리오사AI 등 국산 'AI 칩' 수출 지원 나섰다 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zSXJ0dUwzTXkxY1BRU1BpQVdGNU9DUUZEaFkwN0lfelB0RG1sb2lfZEdodDhsc19fWnpjU213YkpvVldON0J6Wk42STlxUQ?oc=5",
-        "publishedAt": "Tue, 10 Jun 2025 07:00:00 GMT",
-        "summary": "정부, 리벨리온·퓨리오사AI 등 국산 'AI 칩' 수출 지원 나섰다 &nbsp;&nbsp; 전자신문",
-        "outlet": "전자신문",
-        "outletUrl": "https://www.etnews.com",
-        "source": "과기정통부 AI반도체",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 23
-      },
-      {
-        "title": "\"탈 엔비디아\" 저커버그가 탐낸 한국기업…'퓨리오사AI' 기술력 보니 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rTVdOd1dNOVlBNzZ5WUl2N0xDVTJ1T3ItZTZILWdrY25tVlZxWFZYM2k1QzBKV25uZE8zdmp5LUFfVk9ZQXI3ZTBua0xETWdGc2FJLTNvdkZwejJZUDNYU1h4Ujl6T2J0NUHSAW9BVV95cUxQWS0xNGc3eXk0dExobHFxMHdaVm05U1F3QjZfbjV4ZU16dG80Z1dYekhnZkplUHhjdldkQWhaYmVfUW5OamdxZ184Ym55eFJfRHlzTWVHUGtMNEdwV1VSWUtQaFNuV3hxSnNLbVU4d0U?oc=5",
-        "publishedAt": "Thu, 13 Feb 2025 08:00:00 GMT",
-        "summary": "\"탈 엔비디아\" 저커버그가 탐낸 한국기업…'퓨리오사AI' 기술력 보니 - 머니투데이 &nbsp;&nbsp; 머니투데이",
-        "outlet": "머니투데이",
-        "outletUrl": "https://www.mt.co.kr",
-        "source": "하이퍼엑셀",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "퓨리오사AI",
-          "NVIDIA"
-        ],
-        "issueCategory": "NPU",
-        "score": 23
-      },
-      {
-        "title": "Nvidia RTX Pro 6000 Blackwell Price Jumps to $13,250 — 55% Above Launch Price - Gizchina.com",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWllwWVowSExjTVlzcVRHeVJxdmVOWHB0WFhVazZhc2x5RVNuY0ctSl9PUjQzbFYyOVdTSGFFYkVQQXNyNU9RU2RLTmhYbmd2T21wYWRoa0NMZkJlRzVyVGJFMktYZEJLemljYmJ5eU9HVWRpN1NLakNXRXk4S2pkeTNoQkFkMEFBN3QwSTNwQnJzcDh3Z0FLRlU2N1YyRXo4WlJub0otZw?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 07:08:08 GMT",
-        "summary": "Nvidia RTX Pro 6000 Blackwell Price Jumps to $13,250 — 55% Above Launch Price &nbsp;&nbsp; Gizchina.com",
-        "outlet": "Gizchina.com",
-        "outletUrl": "https://www.gizchina.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "수출통제·공급망"
-        ],
-        "issueCategory": "수출통제·공급망",
-        "score": 22
-      },
-      {
-        "title": "Alphabet Ties Global Cables And Anthropic Pact To AI Infrastructure Growth - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHZYTEZ3RC1SdjdWVWhHN0FRS3VKdFBEdUUyb1daaWRHSHJaNi1jYzVsdW94NmhyQUNXaVdKZFZraVVqWTc5TnEzY2ZJNHJuY2QwTGhmaHFOOGpKXy1FdjZwbHppbl9KVVpjZlBZVGZjQ1V2Q3pPbjhkUXNzczI5VUs5RTQ5MXFoeE1GRUFEemNsY2pwLWMzbF9QV2VIR1hLemlpRDRBcUxYYW9OQXhuNW5ieWFnS2VsUjJIRjc1RmhGSmPSAcgBQVVfeXFMT3pmNHdjY0c4QWF6QkpaZ0xDWE5JRFF5QVpOYi1IUUlveEJSOGFZY2x6YWR2a0h1ZW5xS1FUdFNjNGlqOF9XMXYxQ0RLREZkMjRxM1lrY2dUMWdXWlNCZ2lHdDZqZVk5UFE3b1YwaXJQQldOQ2E3bElwdHd4aExxLWJYbEd3Qk1DWk84RHJYU2dKY1dZVHRCTnA2ZTB6bmVHR3dGbmF6YUx2YkNyeEhYOE9WbTkyc051b000TU5RSi04UkVoN0Y5Rzg?oc=5",
-        "publishedAt": "Sat, 13 Jun 2026 20:33:58 GMT",
-        "summary": "Alphabet Ties Global Cables And Anthropic Pact To AI Infrastructure Growth &nbsp;&nbsp; simplywall.st",
-        "outlet": "simplywall.st",
-        "outletUrl": "https://simplywall.st",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 22
-      },
-      {
-        "title": "TSMC Revenue Surges 30% in May on Relentless AI Demand. TSM Stock Is Still Undervalued Here. - Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLUE5bTNFMlhWQUU4NF85Z1NaTkEtNUQxeEFCTUN0MVAzclhCNnZlS1RZUTRsMF9IczJrTkNwcmE0WHhQMDdQQWlSdmNUdWpuTzdQZ3FVSmIyU0NsYjViTDRqbGY4cnNTenlkR0xlREhnMi01MDF3VVZUMG9kWGE0QjhBYmlZYVBvSmNWaU1vcGlNZDQzZmlqNGhrQ1g2TjNmRkZmMUlGdGpXbm5zTno2eHhScGdCcE80U01uZUg0Y2ZhMGZlbEJ4TXB3YnpDZw?oc=5",
-        "publishedAt": "Sat, 13 Jun 2026 15:00:03 GMT",
-        "summary": "TSMC Revenue Surges 30% in May on Relentless AI Demand. TSM Stock Is Still Undervalued Here. &nbsp;&nbsp; Barchart.com",
-        "outlet": "Barchart.com",
-        "outletUrl": "https://www.barchart.com",
-        "source": "AI 시장 전체",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "Gemini Spark Is the Best AI Agent I've Tested...But It Has a Big Problem - PCMag UK",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSzhDWGZuaGsxTG9JNFpmNXRmVFlxQkFWbzA1bDRJaFJmSFhzS1pDVWl0a2pReTkwT3lISzF4YnZLZ1VtOGVUWDdLRDltYTNxTzNtYmtwWUxYU2czcXdpS1pxaG4tQXJhampJNzJ5SnFLZnVwWHZvTGw1cjlLMkRLdW9qdktmVHlESHpZVkNqRC1fTkJIeVlCSVdtei1vNDdv?oc=5",
-        "publishedAt": "Sat, 13 Jun 2026 14:00:00 GMT",
-        "summary": "Gemini Spark Is the Best AI Agent I've Tested...But It Has a Big Problem &nbsp;&nbsp; PCMag UK",
-        "outlet": "PCMag UK",
-        "outletUrl": "https://uk.pcmag.com",
-        "source": "AI 서비스·클라우드",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "Google"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 22
-      },
-      {
-        "title": "Google's OKF wants to be the lingua franca for AI agent knowledge - PPC Land",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSXhPak5SbG9IUjJUTTlsRW9GeHZaa3F0Tk5mZ0pZWVF0cFRYcS1zMFRiMHVmT3lnVWo5T0FCc0J4YUJTSVJETzZfNjF5NWRueHl0UG1TdmRmXzN5dDVoMThIVnBPS0E4cWlhR2FCbFN5VDYyN1R6U2lsUEJHQzdmYlJjaVZJVTUyMWc?oc=5",
-        "publishedAt": "Sat, 13 Jun 2026 13:14:49 GMT",
-        "summary": "Google's OKF wants to be the lingua franca for AI agent knowledge &nbsp;&nbsp; PPC Land",
-        "outlet": "PPC Land",
-        "outletUrl": "https://ppc.land",
-        "source": "AI 서비스·클라우드",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "Google"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 22
-      },
-      {
-        "title": "구글, AI 환각 잡는 ‘메타인지’ 제시…“에이전트 시대 필수 조건” - AI타임스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oX0dyOGNDcGZVdm9PeTJfUWZqMVRSMEtldVdvQXluN2kwRXJtcmZ5Z2RVTGtqSUJ3UzNLb0ZHMjFFOGtaRGVUZ3hlQ3NIWlgwRGNLcUFLUEdubk5TUV9Hbl9WWlBCa1QwNmc?oc=5",
-        "publishedAt": "Sat, 13 Jun 2026 04:18:08 GMT",
-        "summary": "구글, AI 환각 잡는 ‘메타인지’ 제시…“에이전트 시대 필수 조건” &nbsp;&nbsp; AI타임스",
-        "outlet": "AI타임스",
-        "outletUrl": "https://www.aitimes.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "Google"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 22
-      },
-      {
-        "title": "Hacking a Server-Grade NVIDIA GPU Into a Home Desktop - Hackster.io",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnFoNEQwYkRVQzlBaUV5QnRLMHhGUE1vSURXTjcxUGVwOGc5SV82anpzcm5qaXFsZWtxWWtBZkNWaWpGekVhZlNpa3NHdXdnMXA3dVBuTE5YR1ZvN0kzV3liY29XYmtEQm44OGhfOHZEbExZdGYtZkFIZEFmUTZHTGExcHhSbE9kX0NEalp2cE5vNlY1SVNiODhDUdIBoAFBVV95cUxQTWx6TkQzdXJUSkxYVHVCWXZxUXVBVHNkdlF1TGNvaUo4NEhKODViRDl3UlJVZ1BuQkJ6RTRXVXRWREhhM2lSSkpPSXItZUJsZXRfd2tOZlhmTHJaemlJU1NXY0FpeTVsU25TWk55Q2pqTmVPM3dNRTRCLUNIdkxMbVl0WllHcGxtalp1LVF1WDQ5U3k2Wm9uVUVXWkp2d3NC?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 21:13:56 GMT",
-        "summary": "Hacking a Server-Grade NVIDIA GPU Into a Home Desktop &nbsp;&nbsp; Hackster.io",
-        "outlet": "Hackster.io",
-        "outletUrl": "https://www.hackster.io",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 22
-      },
-      {
-        "title": "Jensen Huang's pork belly diplomacy seals Nvidia AI alliance with Korea - upi.com",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVTFySVJyZkZrS0ZQdUJBa1NBS0J1SkhKdFlFUW5NRmtJR0R4OUVYOXZQcjRlNFkzRnRvOE85Sl9QVlBfcE8zNGFMSW5hZlNvdE5PQmlNTHJlZG1rVmdwSHU2a1dsbllHV2VwNmZxeDh4T0NrU00xUjZSbVNNRmVraWJlYXBOLXVTcUtGQWpYNzFaZDZlU1NTWWJJbFrSAaIBQVVfeXFMTzl0bFdLNHNQU3YxY1JveGhUSDVRTllCNC1XejI5ZkhZQTdpRXZ0WFJ2cGNUVkgteF9HN1A5TzRoOE80Q29GVGFRMUI0N1hsRTlQbWU3M1Jpd0lIMlVmZTJwbGpUdlM0bW9YS1dkY3JFVjRLQ3NqSldoU0lHOFVWNGdYTXRHVUZ5T3dlMVVWVEtMejlVMUZwTTZCZGFaeDZpSzZ3?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 19:11:28 GMT",
-        "summary": "Jensen Huang's pork belly diplomacy seals Nvidia AI alliance with Korea &nbsp;&nbsp; upi.com",
-        "outlet": "upi.com",
-        "outletUrl": "https://www.upi.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 22
-      },
-      {
-        "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing - The Hacker News",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZkt5QXhPMGpqbTZUX0RMeWlfYVJWbGRJeWRENUtmekl0MDRCYnQtQlBBYXdrQm9qS3ZqXzdyWDNvd253S0xHMzdndTRQY1FRQnF4NWw3UTlORHRzS0FROEtmN0UyajVqNW5TZTJqWWc1TXVlYUdfU1cxSmpCMmdXNA?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 18:59:00 GMT",
-        "summary": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing &nbsp;&nbsp; The Hacker News",
-        "outlet": "The Hacker News",
-        "outletUrl": "https://thehackernews.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 22
-      },
-      {
-        "title": "Nvidia, Abridge collaborate to develop healthcare-specific AI model - Fierce Healthcare",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEo0S0t2SGt1NGM1azFfMmpvRERvcG9DWFFocUtpMUFxMlN4Q0VoZEJJdjAzZ1E5YVh4djA5Sy1SMmhSVXVCbUVjNnJfdlNZREZUN0J6eXQ3LWRCYnNRc1BPSjR5SzJzbzdmR2hGbkREbk16UFlGdkdidkprMzRjUExkcUlaR1dVWWR6aTh2TnBjV2o4Vlc4S1VKMVBDekNmeUhKYzRJVGZKVmh4bHJxTWZ5YzJWaGd3a2RZYg?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 16:30:00 GMT",
-        "summary": "Nvidia, Abridge collaborate to develop healthcare-specific AI model &nbsp;&nbsp; Fierce Healthcare",
-        "outlet": "Fierce Healthcare",
-        "outletUrl": "https://www.fiercehealthcare.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 22
-      },
-      {
-        "title": "Unreleased Nvidia RTX 2080 Ti SUPER GPU spotted with big upgrades - OC3D",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVlJCOU0zMUpFRlpiUW0zQ1dISy1oTkdCNXNEOFMtOC1pdmZ4Y09oOTU0NDBtd2ZJeVdaQTFtbFVrNlRnZXFWV0pscHZVLTBqbVRGYmYtc0ZjcVF3aXVycWZoX2lzWHEtdER5aGFra1NYanhzUVEwQ2otUktGaXNWMWIyQ09NT0dFXzBqaTBXbWNiUi1rd2tmRElSZEJMWENCTTJjNVR6NXQzMmZP?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 15:59:28 GMT",
-        "summary": "Unreleased Nvidia RTX 2080 Ti SUPER GPU spotted with big upgrades &nbsp;&nbsp; OC3D",
-        "outlet": "OC3D",
-        "outletUrl": "https://overclock3d.net",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 22
-      },
-      {
-        "title": "Nvidia Is Telling Chinese Customers It Could Be Ready to Sell Them More Advanced AI Chips Soon - Investopedia",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZER5cl9UMXpnZ0cwd185VThBaWk0Z3ZsZ1N6d1hmdnpUSGQ4MHo2cWd2WkpZX2tRYWhsNHQ1di00aXZ6SWFIU0hVMGxGQ1ZsUUVSTzJGa05uWFpwWjFfbldXX05sbTR0MUVrR3gyc2NyRWpNUXpOemZvYTB0a0htMDRkRzhvZWl6MHI4LXBmZVhROU8wN1ByUkF2X2lHaHZFakQ3bFg3NUQxM1lzNklIRC0yMVBJRXhxQ2VqSXVpd2xJeFg0TW9qUTlSNEFadnZlT0tr?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 15:18:27 GMT",
-        "summary": "Nvidia Is Telling Chinese Customers It Could Be Ready to Sell Them More Advanced AI Chips Soon &nbsp;&nbsp; Investopedia",
-        "outlet": "Investopedia",
-        "outletUrl": "https://www.investopedia.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "Lyria 3: Google DeepMind’s High-Fidelity Sonic Revolution - AI Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEZmRHRNWXVLWHA4OFhNMzJLY3EyT2oyYjZNNUVPTXo0NEpTX0JlYnRBQWpjU0dvMkM4cm8tOGxHM0txaFlKT0YxRnU2Y2pyM3Q5NE1zQkhpVEsyWEpHVkdSaU9vOG1CTE1DVU1ZVkFlUDhWdXhnTlRwNmJpTjFJVEJ2X3YyS1VyaldR?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 15:17:26 GMT",
-        "summary": "Lyria 3: Google DeepMind’s High-Fidelity Sonic Revolution &nbsp;&nbsp; AI Magazine",
-        "outlet": "AI Magazine",
-        "outletUrl": "https://aimagazine.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "DeepMind"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 22
-      },
-      {
-        "title": "Google Gemini AI Exploited In Massive International Cybercrime Scam - Ubergizmo",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TcnBRczNGMF90UUVUYTJSbkg4VGh1LXZVSXdsZnZGR3g1ZzMxVHBvQUk4ZEJMN3BpV0YtUGNMN1RRbWhkcEdqR3BsOUxxdW1JNGJRMGNxQ0w2eFF0S01iVXduRDZBLVB1UEFneDNtSEV5bHJwSEE4?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 15:09:03 GMT",
-        "summary": "Google Gemini AI Exploited In Massive International Cybercrime Scam &nbsp;&nbsp; Ubergizmo",
-        "outlet": "Ubergizmo",
-        "outletUrl": "https://www.ubergizmo.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 22
-      },
-      {
-        "title": "Scammers Used Gemini AI to Help Build Spam Messages, Google Says - Insurance Journal",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QRExxVFNzSWVrNkVZVFMzZXFIUEhjN000QklNVnAwWHdBUXIta1dFSTZDd0k3N29KNmpxMDFibVI3S3hMWFFBWnNGYzNBWV9TbktITDhuenh3ZnpMT1VSWGxhZUpIbnEtNHAzRXAxWGlGdVd2WjJB?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 14:24:25 GMT",
-        "summary": "Scammers Used Gemini AI to Help Build Spam Messages, Google Says &nbsp;&nbsp; Insurance Journal",
-        "outlet": "Insurance Journal",
-        "outletUrl": "https://www.insurancejournal.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 22
-      },
-      {
-        "title": "This AI Stock Is Australia’s Answer to CoreWeave. It Just Notched a Deal With Nvidia. - Barron's",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PVmNqVXJSVXE2aGp4aEF3ZlAyMVpuTkFBZHZoUEVHalBGSGpKaU1zSUVFR08xcGhkbnZuRlVqREx1VHF6TjkzUFlCZjJVVXdvNDNUeUpreGlXSlh5LTVMc2V0TXhiV01SZllUcm9xdWx5aGxT?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 13:58:00 GMT",
-        "summary": "This AI Stock Is Australia’s Answer to CoreWeave. It Just Notched a Deal With Nvidia. &nbsp;&nbsp; Barron's",
-        "outlet": "Barron's",
-        "outletUrl": "https://www.barrons.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "Sharon AI Shares Jump on Major NVIDIA Compute Infrastructure Partnership (SHAZ) - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGhnakFoVl9BSER6dl9hbE1fZHhXNnBuSFBjYkJKU08xbk9mX3l3UXBXaTlNV1pyWkt3RTZEMWNxX0xRQ1g4ZjlEWnlqeVVpZEtfRnYyQ1ZhM29mRFM0b0Y5TFVPTjc3aE1tdFV6UFRseU5QX2hGRmZQemF5azVHOGkzNWx0VVpKU3o0cU5TeGJIMVF6UkpRNlVSNjg?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 12:58:01 GMT",
-        "summary": "Sharon AI Shares Jump on Major NVIDIA Compute Infrastructure Partnership (SHAZ) &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "Everyone's Buying NVIDIA - Here Are 2 Smarter AI Stocks for 2026 - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUhVRENuVDB4YkRJbnhFTk85di1COU1YM3V6bjJQTXJjQzFabkN1N2JzNWpJWW1xUmNyX25qQzhXRGNjLVFVbzlkakFoV0RiSFBFT1gzd2hKaENtU3BLbkg5RlE1MTVRYi1lMjE2b3lTckJZa1htU05mVW8tRW9hOEpEMjRVbW1YSnN6R2FzakJoZ1NpUmlPWlVlQy1RSHM?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 11:48:00 GMT",
-        "summary": "Everyone's Buying NVIDIA - Here Are 2 Smarter AI Stocks for 2026 &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "AI 투자·자본시장",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "Google Sues Chinese Scammers Using Gemini AI For Fraud - Engadget",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5haC1MYWdnUGozXy1JYnZrX0lHLUh3d01OcTZDdmM0bTlaY1hCVTh6LXJsSHBXTzdLMDdyUF9FR0JxNG02SXZPMGhiNlh5MmpOX1ZPNVMtZXNpU3VQX1RoOXRhTmQ1bUM3SzlRVTBIZXV6TnM1X0pj?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 10:46:49 GMT",
-        "summary": "Google Sues Chinese Scammers Using Gemini AI For Fraud &nbsp;&nbsp; Engadget",
-        "outlet": "Engadget",
-        "outletUrl": "https://www.engadget.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 22
-      },
-      {
-        "title": "Google sues the cybercrime ring that turned Gemini AI into a phishing machine - Startup Fortune",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFpQTU9zQS02ZUpyUHV1cjhGNWRPV2NDekFmdWt0UE5Vb09BVGVibzZpY2xKV2NHT0dLdXBReDdtSURzeFIzaTNpQTlNUXpxNFdRdjNpOXB4SHctS0p5Nmt6YkkyZDdadWhrS0JxdFE1OHVSelVITEY0czlzNlU4YXgyOVhpeVVDTHNlb2RhMWtiTFFsbVJQNzJqOWpxY0I4M0daNVV6d0U?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 10:11:54 GMT",
-        "summary": "Google sues the cybercrime ring that turned Gemini AI into a phishing machine &nbsp;&nbsp; Startup Fortune",
-        "outlet": "Startup Fortune",
-        "outletUrl": "https://startupfortune.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 22
-      },
-      {
-        "title": "Scammers Used Gemini AI to Help Build Spam Messages, Google Says - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWnVhTlBadlg3Ull2NE5iZTlIbExOQVJ6cnRKRWl4d3FyUFE0X0lNbGdkbE5zOXA5ckdtZThXZHQ3d05kRk5PMGltSm1yME5BQVU0Unp6czZJWDk3RFRxUmxZdHd3UWoxQ09sWFY5clRXaDlGbms5blZMM2Z1Z0JkdUxBREhQOFgtM0hvVGVVV3MyQ295MVg2OUVteUZTcU5ybHhXdENxa2lOdFJPRjdtZEZPMm4?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 09:00:00 GMT",
-        "summary": "Scammers Used Gemini AI to Help Build Spam Messages, Google Says &nbsp;&nbsp; Bloomberg.com",
-        "outlet": "Bloomberg.com",
-        "outletUrl": "https://www.bloomberg.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 22
       }
     ],
     "errors": []
@@ -5167,11 +5476,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "005930.KS",
         "name": "삼성전자",
         "market": "KR",
-        "price": 342500,
+        "price": 337250,
         "currency": "KRW",
-        "changePct": 26.617375231053604,
+        "changePct": 24.67652495378928,
         "previousClose": 270500,
-        "marketTime": "2026-06-15T00:00:38.000Z",
+        "marketTime": "2026-06-15T06:16:46.000Z",
         "closes": [
           270500,
           281000,
@@ -5192,7 +5501,7 @@ window.__DASHBOARD_DATA__ = {
           302500,
           299000,
           322500,
-          342500
+          337250
         ],
         "candles": [
           {
@@ -5331,9 +5640,9 @@ window.__DASHBOARD_DATA__ = {
           {
             "date": "2026-06-15T00:00:00.000Z",
             "open": 342500,
-            "high": 343500,
-            "low": 341500,
-            "close": 342500
+            "high": 344500,
+            "low": 334000,
+            "close": 337250
           }
         ]
       },
@@ -5341,11 +5650,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "000660.KS",
         "name": "SK하이닉스",
         "market": "KR",
-        "price": 2291000,
+        "price": 2288000,
         "currency": "KRW",
-        "changePct": 25.94832325453546,
+        "changePct": 25.783397471137988,
         "previousClose": 1819000,
-        "marketTime": "2026-06-15T00:00:38.000Z",
+        "marketTime": "2026-06-15T06:16:46.000Z",
         "closes": [
           1819000,
           1840000,
@@ -5366,7 +5675,7 @@ window.__DASHBOARD_DATA__ = {
           2048000,
           2101000,
           2150000,
-          2291000
+          2288000
         ],
         "candles": [
           {
@@ -5505,9 +5814,9 @@ window.__DASHBOARD_DATA__ = {
           {
             "date": "2026-06-15T00:00:00.000Z",
             "open": 2283000,
-            "high": 2293000,
-            "low": 2281000,
-            "close": 2291000
+            "high": 2322000,
+            "low": 2265000,
+            "close": 2288000
           }
         ]
       }
@@ -6083,11 +6392,11 @@ window.__DASHBOARD_DATA__ = {
       {
         "symbol": "^KS11",
         "name": "KOSPI",
-        "price": 8534.44,
+        "price": 8540.18,
         "currency": "KRW",
-        "changePct": 13.896102856197237,
+        "changePct": 13.972705847183706,
         "previousClose": 7493.18,
-        "marketTime": "2026-06-15T00:00:40.000Z",
+        "marketTime": "2026-06-15T06:16:40.000Z",
         "closes": [
           7493.18017578125,
           7516.0400390625,
@@ -6108,7 +6417,7 @@ window.__DASHBOARD_DATA__ = {
           7730.81982421875,
           7763.9501953125,
           8123.6201171875,
-          8534.4404296875
+          8540.1796875
         ],
         "candles": [
           {
@@ -6247,20 +6556,20 @@ window.__DASHBOARD_DATA__ = {
           {
             "date": "2026-06-15T00:00:00.000Z",
             "open": 8526.1201171875,
-            "high": 8534.4404296875,
-            "low": 8526.1201171875,
-            "close": 8534.4404296875
+            "high": 8603.48046875,
+            "low": 8450.240234375,
+            "close": 8540.1796875
           }
         ]
       },
       {
         "symbol": "^KQ11",
         "name": "KOSDAQ",
-        "price": 1048.2,
+        "price": 1031.81,
         "currency": "KRW",
-        "changePct": -7.224159600644341,
+        "changePct": -8.674833159264308,
         "previousClose": 1129.82,
-        "marketTime": "2026-06-15T00:00:40.000Z",
+        "marketTime": "2026-06-15T06:16:40.000Z",
         "closes": [
           1129.8199462890625,
           1111.0899658203125,
@@ -6281,7 +6590,7 @@ window.__DASHBOARD_DATA__ = {
           951.6300048828125,
           996.9299926757812,
           1029.050048828125,
-          1048.199951171875
+          1031.81005859375
         ],
         "candles": [
           {
@@ -6420,328 +6729,423 @@ window.__DASHBOARD_DATA__ = {
           {
             "date": "2026-06-15T00:00:00.000Z",
             "open": 1048.18994140625,
-            "high": 1048.199951171875,
-            "low": 1048.18994140625,
-            "close": 1048.199951171875
+            "high": 1054.3199462890625,
+            "low": 1025.4200439453125,
+            "close": 1031.81005859375
           }
         ]
       }
     ],
-    "generatedAt": "2026-06-15T00:20:44.969Z"
+    "generatedAt": "2026-06-15T06:36:47.882Z"
   },
   "briefing": {
     "date": "2026년 6월 15일 월요일",
     "summary": [
-      "오늘의 최상위 이슈: [Weekly Issue] 삼성 파운드리, 2나노 공정서 구글 차세대 AI 칩 일부 생산 유력…엔비디아 자율주행칩도 가세 - KIPOST",
-      "강한 기술·시장 신호: NPU 26, AI인프라 31, 데이터센터 10, 온디바이스AI 8, 추론 4",
-      "주요 기업 신호: 리벨리온 20, 퓨리오사AI 18, 딥엑스 7, 하이퍼엑셀 1, 모빌린트 0"
+      "오늘의 최상위 이슈: [CEO Interview] Korean startup targets Nvidia-dominated AI inference market with 2027 chip launch",
+      "강한 기술·시장 신호: NPU 30, AI인프라 55, 데이터센터 34, 온디바이스AI 27, 추론 31",
+      "주요 기업 신호: 리벨리온 19, 퓨리오사AI 15, 딥엑스 11, 하이퍼엑셀 8, 모빌린트 1"
     ],
     "leadArticles": [
       {
-        "title": "[Weekly Issue] 삼성 파운드리, 2나노 공정서 구글 차세대 AI 칩 일부 생산 유력…엔비디아 자율주행칩도 가세 - KIPOST",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yY0EwTnVKVE0wUHUtSXVCV0ViNWlhLU1EcmM4aktZUlRHTGJvWGdzVmdHOHd1djFOV2g2NDZkcnkzbGJuRnROVzVJNmJhOHREdzJmei1JSDNMU2NqbXJfS3Yxa2sxTmFN0gFsQVVfeXFMT0x2eTdWajFPUlJtbk9nQk9UQjdUbl8yVnNVYWoyX0NvX2NlTlE2YUZVbjBseGZ0N0t4MUR4aHYzYVdCZ2Q3eTRHcEJXSnRabV9PTEhPRXF1Z2FhQWJDRXVnZmJmb3R0NWZ4ekF1?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 06:12:00 GMT",
-        "summary": "[Weekly Issue] 삼성 파운드리, 2나노 공정서 구글 차세대 AI 칩 일부 생산 유력…엔비디아 자율주행칩도 가세 &nbsp;&nbsp; KIPOST",
-        "outlet": "KIPOST",
-        "outletUrl": "https://www.kipost.net",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
+        "title": "[CEO Interview] Korean startup targets Nvidia-dominated AI inference market with 2027 chip launch",
+        "link": "https://hyperaccel.ai/korean-startup-targets-nvidia-dominated-ai-inference-market-with-2027-chip-launch/",
+        "publishedAt": "Wed, 18 Mar 2026 05:01:14 +0000",
+        "summary": "Hyper Accel CEO Kim Joo-young poses for a photo with the company’s first AI chip, codenamed Bertha 500, during an... 게시물 [CEO Interview] Korean startup targets Nvidia-dominated AI inference market with 2027 chip launch 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "Korean startup targets Nvidia-dominated AI inference market with 2027 chip launch 3월 18, 2026 Hyper Accel CEO Kim Joo-young poses for a photo with the company’s first AI chip, codenamed Bertha 500, during an interview with the Korea JoongAng Daily on March 10. A small Korean fabless startup, Hyper Accel, says its first AI chip — designed for language-model inference in data centers — could outperform Nvidia GPUs by up to five times in terms of efficiency when it launches next year. The first samples of the startup’s AI chip, code-named Bertha 500, recently came out, built on Samsung Foundry’s 4-nanometer logic processing and co-developed with Naver Cloud. Hyper Accel CEO and founder Kim Joo-young is targeting mass production of Bertha 500 in early 2027, with initial supply planned for Naver Cloud and potential global Big Tech customers. “We are looking beyond the domestic market and are in discussions with several global technology companies, although those talks are still at an early stage,” Kim said at a recent interview with the Korea JoongAng Daily at the startup’s office in southern Seoul. Following its release, the Bertha 500 will enter the bring-up phase, when engineers activate the hardware and load the full software stack, a process expected to take three to four months. The chips will then be packaged into PCIe accelerator cards to be installed into servers, with following proof-of-concept tests planned for September. “If everything goes well, we will begin supplying the chips to customers and move toward mass production the following year.” The AI chip market is rapidly shifting from training models to running them in real-world applications, known as inference. The shift is represented by Nvidia’s $20 billion investment in U.S. AI chip startup Groq, its largest deal yet, integrating Groq’s processors with Nvidia’s Vera Rubin platform. Hyper Accel CEO Kim Joo-young speaks during an interview with the Korea JoongAng Daily on March 10. Kim has been quietly working on similar ideas for several years. In 2022, he presented research at the Hot Chips conference describing a specialized processor for running language models — what is now widely known as a language processing unit (LPU). The concept later gained wider attention when Groq coined the concept as LPU in 2023 to distinguish its chips from Nvidia’s GPUs and Google’s tensor processing units (TPUs). Before founding Hyper Accel, Kim spent nine years at Microsoft, working on chip development at Microsoft Research and Azure. He then returned to his alma meter as an associate professor at KAIST’s School of Electrical Engineering in 2019. There, he began exploring how the transformer model — the foundation of today’s AI models — could be optimized with special hardware capable of running large language models (LLMs) end to end. After presenting the research at Hot Chips, AMD engineers approached him to praise the work, saying that he was on the right track, he recalled. “2022 was the year ChatGPT boom was ignited,” Kim reminisced. “I impulsively felt that might be my last chance to start a company based on this research.” Kim founded Hyper Accel in January 2023, raising 55 billion won ($36.9 million) in Series A funding. The company is now undergoing a Series B round expected to close by June. The startup has about 80 employees, with 65 chip engineers. While working toward Bertha 500’s mass production, the same engineering team is simultaneously developing a second AI chip, a much smaller on-device LPU with LG Electronics. The chip, code-named Bertha 100, will be roughly one-tenth the size of Bertha 500. It will enable home appliances to understand and execute human language commands, and could eventually power humanoid robots. Unlike Bertha 500, which is being manufactured by Samsung, the Bertha 100 chips will be produced using TSMC’s 6-nanometer process. The following are excerpts from the interview on Kim’s vision for his company, edited for length and clarity. Q. How do you believe that Alto can top the performances of existing GPUs? A. GPUs are designed as general-purpose processors, with thousands of small cores that can handle many types of AI workloads, from training to inference. But when running LLMs, this architecture requires constant data transfers between memory buffers and its many small cores, creating large inefficiencies. Hyper Accel takes a different approach. Its LPU chips are built specifically for LLM inference, using dozens of much larger cores that can execute the entire inference pipeline within each core. Data flows through the cores only once in a streamlined pipeline, greatly reducing the back-and-forth data movement common in GPUs. While many AI chips rely on high bandwidth memory (HBM) to overcome memory bottlenecks, Hyper Accel instead uses low-power double data rate (LPDDR) memory combined with a dataflow-optimized architecture. Although LPDDR offers lower peak bandwidth, the design allows the chip to utilize around 90",
+        "fullSummary": "Hyper Accel CEO Kim Joo-young poses for a photo with the company’s first AI chip, codenamed Bertha 500, during an interview with the Korea JoongAng Daily on March 10. A small Korean fabless startup, Hyper Accel, says its first AI chip — designed for language-model inference in data centers — could outperform Nvidia GPUs by up to five times in terms of efficiency when it launches next year. The first samples of the startup’s AI chip, code-named Bertha 500, recently came out, built on Samsung Foundry’s 4-nanometer logic processing and co-developed with Naver Cloud. Hyper Accel CEO and founder Kim Joo-young is targeting mass production of Bertha 500 in early 2027, with initial supply planned fo...",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
-          "Google"
+          "Google",
+          "TPU",
+          "AMD",
+          "TSMC",
+          "Samsung",
+          "하이퍼엑셀"
         ],
         "taxonomyHits": [
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "하이퍼엑셀",
           "NVIDIA",
           "Google",
           "파운드리·패키징",
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
-        "score": 33
+        "score": 64
       },
       {
-        "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI - HPCwire",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZXdSTmVFMlRHVFl1cW1Sblc1eW1ZNHZBb0dNcGlVMXpKVUpPVkJxRXBLZUZqaTlSdUk5XzdIbTIzTFBzazdaeVB3Z2ZjbUlwemEtZWYzaVRmendkR2ZkUVhFS3pkd0VPcThDSWNZVTJqczdhNlEteTRIR255bFoySUhuZ1Q3LTdUV3otNHc4M3p1M1pUVWxVcGR0LURKQWpocUllSEFDaElzUQ?oc=5",
-        "publishedAt": "Fri, 12 Jun 2026 20:51:49 GMT",
-        "summary": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI &nbsp;&nbsp; HPCwire",
-        "outlet": "HPCwire",
-        "outletUrl": "https://www.hpcwire.com",
-        "source": "NVIDIA 이슈",
+        "title": "[CEO Interview] ‘World’s First LPU AI Chip’ Achieved by Korean Startup: “2.4 Times Better Performance Than Conventional GPUs” [Future of K-Semiconductors ①]",
+        "link": "https://hyperaccel.ai/newsroom-ceointerview-260112-en/",
+        "publishedAt": "Mon, 12 Jan 2026 03:57:44 +0000",
+        "summary": "Kim Joo-Young, CEO of HyperAccelSpecialized Chip for Advanced LLM Operation2.4 Times the Performance of AI GPUs50% Faster Processing SpeedPrimarily Used... 게시물 [CEO Interview] ‘World’s First LPU AI Chip’ Achieved by Korean Startup: “2.4 Times Better Performance Than Conventional GPUs” [Future of K-Semiconductors ①] 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "‘World’s First LPU AI Chip’ Achieved by Korean Startup: “2.4 Times Better Performance Than Conventional GPUs” 1월 12, 2026 Kim Joo-Young, CEO of HyperAccel Specialized Chip for Advanced LLM Operation 2.4 Times the Performance of AI GPUs 50% Faster Processing Speed Primarily Used on Naver Cloud On-Device Chip Co-Developed with LG Electronics To Be The headquarters of HyperAccel is located in Seocho-dong, Seocho-gu, Seoul. Upon entering the office of CEO Kim Jooyoung, a large whiteboard covering the entire right wall immediately catches the eye. The whiteboard is filled with various formulas, figures, and arithmetic symbols arranged in irregular patterns. HyperAccel employees use the whiteboards placed throughout the company to let their imaginations run free. CEO Kim explained, “I set up whiteboards everywhere, inspired by my time working at Microsoft from 2010 to 2019,” adding, “I wanted to create an environment where team members can jot down and organize their ideas as soon as they come to mind.” Kim Joo-Young, CEO of HyperAccel, is being interviewed on the 3rd at HyperAccel in Seocho-gu, Seoul. Photo by Kang Jinhyung HyperAccel and CEO Kim plan to put the blueprints written on those whiteboards into action this year. In March, the company will launch the world’s first Language Processing Unit (LPU), which it developed independently. This LPU is expected to be mainly used by Naver Cloud. At the end of the year, an on-device chip co-developed with LG Electronics will also be released. CEO Kim said, “If 2025 was a year of development, this year is a year of launches. For a startup, releasing two chips in one year is not easy, so it will be a meaningful year.” Based on this, the company aims to increase sales and challenge itself to go public around 2028. The industry is particularly paying attention to the LPU. It is an AI chip first conceived by HyperAccel in 2023. The LPU is a type of Neural Processing Unit (NPU) specialized in advancing the operation of Large Language Models (LLMs). This chip enhances the inference capabilities of AI. Last November, HyperAccel completed all development and design work related to the LPU product and handed over the blueprints to Samsung Electronics Foundry for mass production. The 4-nanometer (nm; 1nm = one billionth of a meter) process is being used for manufacturing. HyperAccel’s LPU is evaluated to be 50% faster in processing speed and up to 2.4 times more cost-effective in terms of performance compared to AI Graphics Processing Units (GPUs) currently available on the market. HyperAccel’s LPU to be released this March and its proprietary full-stack software architecture applied. HyperAccel Kim Joo-Young, CEO of HyperAccel, is being interviewed on the 3rd at HyperAccel in Seocho-gu, Seoul. Photo by Kang Jinhyung HyperAccel has also introduced innovation in its internal architecture. CEO Kim explained, “While conventional GPUs and NPUs are architectures made up of thousands of small cores, the LPU is composed of several large cores rather than many small ones. When there are too many cores, the bandwidth (the maximum amount of data that can be transmitted per hour) can be reduced as data moves back and forth multiple times. By increasing the size of the cores and reducing their number, we designed an ‘end-to-end’ structure that allows data to flow in a single pass, thereby maintaining nearly 90% of the bandwidth for greater efficiency.” The AI market is already considered to have entered a period of upheaval since last year. The structure in which Nvidia exclusively supplied GPUs and took the lion’s share of profits began to show signs of disruption with the emergence of Google’s Tensor Processing Unit (TPU). The TPU is an application-specific integrated circuit (ASIC) developed by Google to accelerate deep learning computations. CEO Kim said, “GPUs, especially the Blackwell series, consume much more power than an entire building. As the market seeks more economical alternatives with higher energy efficiency, TPUs have attracted significant attention.” He emphasized that HyperAccel’s LPU, which is designed to minimize both cost and power consumption, “has ample potential” in this context. Looking beyond the LPU, CEO Kim stressed that for Korea to establish a leading position in AI, there must also be cultural changes such as ‘open collaboration’ among startups and ‘social inclusiveness’ for talented individuals. He stated, “The AI market changes so rapidly that it’s difficult to keep up alone. In the United States, startups routinely share what they need and collaborate to develop products. That’s how they keep pace with the market.” CEO Kim also noted, “Due to trade conflicts between the United States and China, AI companies must now consider trade regulations, such as reporting related information to the US and other countries after developing new products. There are many different regulations, but if we can reduce them, Korean semiconductors will gain even more attenti",
+        "fullSummary": "Kim Joo-Young, CEO of HyperAccel Specialized Chip for Advanced LLM Operation 2.4 Times the Performance of AI GPUs 50% Faster Processing Speed Primarily Used on Naver Cloud On-Device Chip Co-Developed with LG Electronics To Be The headquarters of HyperAccel is located in Seocho-dong, Seocho-gu, Seoul. Upon entering the office of CEO Kim Jooyoung, a large whiteboard covering the entire right wall immediately catches the eye. The whiteboard is filled with various formulas, figures, and arithmetic symbols arranged in irregular patterns. HyperAccel employees use the whiteboards placed throughout the company to let their imaginations run free.",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
         "sourceLang": "en",
         "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "TPU",
+          "Samsung",
+          "하이퍼엑셀"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI인프라",
+          "NPU",
+          "추론",
+          "온디바이스AI",
+          "하이퍼엑셀",
+          "NVIDIA",
+          "Google",
+          "파운드리·패키징",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "AI시장",
+        "score": 59
+      },
+      {
+        "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
+        "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
+        "publishedAt": "Wed, 10 Jun 2026 16:15:20 +0000",
+        "summary": "Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to output whole blocks of text, opening a new, low-latency frontier for the kind of single-user workloads that developers, […]",
+        "fullText": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI The new DiffusionGemma open model generates text in parallel — not one token at a time — and is optimized to run on the NVIDIA RTX PRO platform, NVIDIA DGX Spark systems and GeForce RTX GPUs. nk Link copied! Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to output whole blocks of text, opening a new, low-latency frontier for the kind of single-user workloads that developers, researchers and AI enthusiasts run every day. Features of the new model include: Parallel generation: DiffusionGemma denoises up to 256 tokens per step instead of predicting one at a time. Built on Gemma 4: DiffusionGemma is built on Gemma 4, a 26-billion-parameter mixture-of-experts model that activates just 3.8 billion parameters per step, pairing a diffusion head with Google’s Gemma 4 architecture. Up to 4x faster performance: The boost means fast text generation, where single-user generation usually stalls — on local hardware. Open and local: DiffusionGemma is open weights under a permissive Apache 2.0 license and runs entirely on RTX and DGX Spark — no cloud, no per-token cost — with day-zero support in Hugging Face Transformers , vLLM and Unsloth. A Different Way to Generate Text Almost every large language model (LLM) in wide use today is autoregressive — meaning it generates text one token at a time, with each new word depending on the one before it. That sequential process is what makes interactive AI feel like it’s typing. DiffusionGemma takes a different path. Built on the Gemma 4 26B mixture-of-experts architecture, it generates text the way diffusion models generate images: by starting from noise and refining a whole block of text at once. Each step denoises up to 256 tokens in parallel rather than emitting a single token and waiting to compute the next. The result is a model that thinks in blocks instead of sequentially. For latency-sensitive, single-user work — such as interactive chat, agentic loops or on-device assistants that plan and act — that parallelism translates into responses fast enough to keep pace with how developers think and iterate. DiffusionGemma Flies on NVIDIA GPUs Generating one token at a time is fundamentally a memory-bound problem — a traditional LLM spends most of its time waiting on memory bandwidth, not doing math , which leaves a lot of compute on the table. Diffusion flips the equation. Pulling a full 256-token block through the transformer in parallel is a compute-bound workload — exactly what NVIDIA GPUs are built for. NVIDIA Tensor Cores accelerate the dense parallel math, and the CUDA software stack lets the model run efficiently from day one without bespoke tuning. In short, the model’s design plays directly to the GPU ’ ‘ s strengths. That shows up in the numbers. DiffusionGemma delivers 1,000 tokens/sec on a single NVIDIA H100 Tensor Core GPU, 150 tokens/sec on NVIDIA DGX Spark and up to 2,000 tokens/sec on NVIDIA DGX Station — roughly 4x faster than an equivalent autoregressive model running in the same single-user regime. That advantage holds across NVIDIA’s full lineup, running : Locally on the NVIDIA DGX Spark deskside personal AI supercomputer — powered by the NVIDIA GB10 Grace Blackwell Superchip with 128GB of unified memory — with the preinstalled NVIDIA AI software stack ready for prototyping, fine-tuning and fully local agent workflows. On NVIDIA RTX PRO 6000 workstations, providing developers, researchers and AI professionals with the headroom to run local low-latency generation and agentic loops as part of a professional workflow. On DGX Station, delivering best-in-class, local high-speed inference with up to 2,000 tokens/sec for low-latency text generation and agentic loops with 748GB of coherent memory. On GeForce RTX GPUs, with llama.cpp support coming soon. Get Started Locally The fastest way to start testing and prototyping the model is through Hugging Face Transformers, which runs DiffusionGemma on a GeForce RTX 5090 or DGX Spark out of the box. For higher-throughput inference, vLLM provides day-zero serving support. For adapting the model to a specific task or domain, fine-tuning is available through Unsloth and NVIDIA NeMo framework, with ready-made DGX Spark playbooks to get a local environment running quickly. Check out the vLLM playbooks for DGX Spark , RTX PRO and DGX Station . Try Diffusion Gemma on Hugging Face or test it for free using NVIDIA-hosted application programming interfaces at build.nvidia.com . Go deeper on the architecture and local deployment by reading the NVIDIA technical and the Google DeepMind announcement . #ICYMI: The Latest From RTX AI ",
+        "fullSummary": "The new DiffusionGemma open model generates text in parallel — not one token at a time — and is optimized to run on the NVIDIA RTX PRO platform, NVIDIA DGX Spark systems and GeForce RTX GPUs. Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to output whole blocks of text, opening a new, low-latency frontier for the kind of single-user workloads that d...",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "DeepMind",
+          "TPU"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "추론",
+          "온디바이스AI",
+          "NVIDIA",
+          "Google",
+          "파운드리·패키징",
+          "실증·조달"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 53
+      },
+      {
+        "title": "NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI",
+        "link": "https://blogs.nvidia.co.kr/blog/rtx-ai-garage-local-gemma-diffusion/",
+        "publishedAt": "Fri, 12 Jun 2026 05:41:50 +0000",
+        "summary": "NVIDIA는 구글 딥마인드(Google DeepMind)의 디퓨전젬마(DiffusionGemma)가 NVIDIA GeForce RTX GPU, NVIDIA RTX PRO 플랫폼, NVIDIA DGX Spark 시스템 전반에서 더욱 빠르게 실행되도록 최적화했습니다. 이를 통해 로컬 PC부터 클라우드 환경까지 폭넓은 활용이 가능해졌는데요. 디퓨전젬마는 텍스트를 한 번에 한 단어씩 생성하는 대신 여러 단어를 병렬로 생성해 텍스트 블록 전체를 출력합니다. 이를 통해 개발자와 연구자, AI 애호가들이 일상적으로 사용하는 블로그 읽기 The post NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI appeared first on NVIDIA Blog Korea .",
+        "fullText": "NVIDIA 기술로 더 빨라지는 Google DeepMind DiffusionGemma 기반 로컬 AI 새로운 DiffusionGemma 오픈 모델은 한 번에 하나의 토큰이 아니라 병렬로 텍스트를 생성하며, NVIDIA RTX PRO 플랫폼과 NVIDIA DGX Spark 시스템, NVIDIA GeForce RTX GPU에서 실행되도록 최적화됐습니다. 가 NVIDIA GeForce RTX GPU, NVIDIA RTX PRO 플랫폼, NVIDIA DGX Spark 시스템 전반에서 더욱 빠르게 실행되도록 최적화했습니다. 이를 통해 로컬 PC부터 클라우드 환경까지 폭넓은 활용이 가능해졌는데요. 디퓨전젬마는 텍스트를 한 번에 한 단어씩 생성하는 대신 여러 단어를 병렬로 생성해 텍스트 블록 전체를 출력합니다. 이를 통해 개발자와 연구자, AI 애호가들이 일상적으로 사용하는 단일 사용자 워크로드에서 혁신적인 저지연 AI 경험을 제공하는 새로운 지평을 열었습니다. 디퓨전젬마의 주요 특징은 아래와 같습니다: 병렬 생성 : 디퓨전젬마는 토큰을 한 번에 하나씩 예측하는 대신, 단계마다 최대 256개의 토큰에서 노이즈를 제거합니다. 젬마 (Gemma) 4 기반으로 구축: 디퓨전젬마는 젬마 4를 기반으로 구축됐는데요. 이는 260억 개의 파라미터를 갖춘 전문가 혼합(MoE) 모델로 단계마다 38억 개의 파라미터를 활성화하며, 구글의 젬마 4 아키텍처에 디퓨전 헤드를 결합합니다. 최대 4배 향상된 성능: 단일 사용자 생성 환경에서 일반적으로 발생하는 지연 현상을 줄여 로컬 하드웨어에서도 빠른 텍스트 생성을 지원합니다. 오픈 로컬 실행 : 디퓨전젬마는 아파치(Apache) 2.0 라이선스 기반의 오픈 웨이트 모델로 제공되며, RTX와 DGX Spark에서 완전히 로컬로 실행됩니다. 클라우드나 토큰당 비용이 필요 없으며, 허깅페이스 트랜스포머(Hugging Face Transformers) , vLLM, 언슬로스(Unsloth)에서 기본 지원됩니다. &nbsp; 텍스트를 생성하는 새로운 방식 오늘날 널리 사용되는 대부분의 거대 언어 모델(LLM)은 자기회귀(autoregressive) 방식으로 작동합니다. 이는 새로운 단어가 이전 단어에 의존하는 형태로, 텍스트를 토큰 단위로 하나씩 순차적으로 생성하는 방식인데요. 이러한 순차적 생성 과정 때문에 대화형 AI는 마치 글자를 입력하는 것처럼 응답하죠. 디퓨전젬마는 이와 다른 방식을 채택했습니다. 디퓨전젬마는 젬마 4 26B 전문가 혼합 아키텍처를 기반으로 구축돼, 디퓨전 모델이 이미지를 생성하는 방식과 같이 텍스트를 생성합니다. 즉, 노이즈에서 시작해 텍스트 블록 전체를 한 번에 정제하는데요. 단일 토큰을 생성한 뒤 다음 토큰을 계산하기 위해 대기하는 대신, 각 단계에서 최대 256개의 토큰에서 병렬로 노이즈를 제거합니다. 그 결과, 디퓨전젬마는 텍스트를 순차적으로 생성하는 대신 블록 단위로 처리하는 모델이 됐습니다. 이러한 병렬 처리 방식은 지연 시간에 민감한 단일 사용자 작업에서 개발자의 사고와 반복 속도에 발맞춘 빠른 응답을 제공하죠. 대화형 채팅, 에이전틱 루프, 계획과 실행을 수행하는 온디바이스 어시스턴트와 같은 작업이 여기에 해당합니다. &nbsp; NVIDIA GPU에서 더욱 강력해진 디퓨전젬마 토큰을 한 번에 하나씩 생성하는 방식은 본질적으로 메모리 병목형 문제인데요. 기존 LLM은 대부분의 시간을 연산 수행이 아닌 메모리 대역폭 대기에 사용하기 때문에 컴퓨팅 자원을 충분히 활용하지 못합니다. 디퓨전 방식은 이러한 구조를 뒤바꿉니다. 256개 토큰으로 구성된 전체 블록을 트랜스포머를 통해 병렬로 처리하는 워크로드는 컴퓨팅 성능에 의해 좌우되죠. 여기서 NVIDIA GPU가 두각을 드러냅니다. NVIDIA Tensor 코어는 대규모 병렬 연산을 가속하며, CUDA 소프트웨어 스택은 별도의 튜닝 없이도 출시 즉시 모델의 효율적 실행을 지원합니다. 이와 같이 디퓨전젬마는 GPU의 강점을 최대한 활용하도록 설계됐습니다. 이러한 장점은 실제 성능에서도 확인할 수 있습니다. 디퓨전젬마는 단일 NVIDIA H100 Tensor 코어 GPU에서 초당 1,000개 토큰, NVIDIA DGX Spark에서 초당 150개 토큰, NVIDIA DGX Station에서 최대 초당 2,000개 토큰의 성능을 제공합니다. 이는 동일한 단일 사용자 환경에서 실행되는 동급 자기회귀 모델 대비 약 4배 빠른 수준이죠. 이러한 성능의 이점이 NVIDIA의 제품군 전반에서 제공됩니다: NVIDIA DGX Spark 데스크사이드 개인용 AI 슈퍼컴퓨터에서 로컬 실행: 128GB 통합 메모리를 탑재한 NVIDIA GB10 Grace Blackwell 슈퍼칩을 기반으로 구동됩니다. 프로토타이핑, 파인튜닝, 완전한 로컬 에이전트 워크플로우를 위한 NVIDIA AI 소프트웨어 스택이 사전 설치돼 있죠. NVIDIA RTX PRO 6000 워크스테이션에서 실행: 개발자와 연구자, AI 전문가에게 전문 워크플로우의 일부로 로컬 저지연 생성과 에이전틱 루프를 실행할 수 있는 충분한 성능 여유를 제공합니다. DGX Station에서 실행: 748GB의 통합(coherent) 메모리를 기반으로, 저지연 텍스트 생성과 에이전틱 루프를 위해 초당 최대 2,000개 토큰의 업계 최고 수준의 로컬 고속 추론 성능을 제공합니다. GeForce RTX GPU에서 실행: 향후 라마.cpp(llama.cpp) 지원이 추가될 예정입니다. &nbsp; 로컬 환경에서 시작하기 허깅페이스 트랜스포머를 활용하면 모델을 가장 빠르게 테스트하고 프로토타이핑할 수 있습니다. 이는 GeForce RTX 5090 또는 DGX Spark에서 별도 설정 없이 디퓨전젬마 실행을 기본 지원합니다. 더 높은 처리량의 추론이 필요한 경우에는 vLLM을 활용하면 됩니다. 특정 작업이나 도메인에 맞게 모델을 적용하려는 경우, 언슬로스와 NVIDIA NeMo 프레임워크를 통해 파인튜닝을 수행할 수 있습니다. 또한 로컬 환경을 신속하게 실행할 수 있도록 사전 구성된 DGX Spark 플레이북도 제공되는데요. DGX Spark , RTX PRO , DGX Station 용 vLLM 플레이북도 확인해 보세요. 허깅페이스에서 디퓨전젬마를 직접 사용해 보거나, build.nvidia.com 에서 NVIDIA가 호스팅하는 애플리케이션 프로그래밍 인터페이스를 통해 무료로 테스트해 보세요. NVIDIA 테크니컬 블로그 와 구글 딥마인드 발표 를 확인하고, 아키텍처와 로컬 배포에 대해 더 자세히 알아보세요. &nbsp; #ICYMI: RTX AI Garage 최신 소식 🎬 NVIDIA 연구진이 SANA-WM을 공개했습니다. 이는 단일 이미지와 카메라 경로만으로 정밀한 6-DoF 제어가 가능한 720p 해상도의 1분 길이 비디오를 생성하는 오픈소스 월드 모델인데요. 26억 개 파라미터 규모의 증류 버전은 NVFP4 포맷을 활용해 단일 GeForce RTX 5090 GPU에서 34초 만에 60초 분량의 비디오를 생성할 수 있습니다. 단일 GPU에서 실행되면서도 유사한 오픈 모델 대비 최대 36배 높은 처리량을 제공하죠. 논문 에서 확인해 보세요. 🛠️ 윈도우 (Windows) 에이전트 구축 환경이 한층 강화됐습니다. NVIDIA와 마이크로소프트(Microsoft) 는 기본 윈도우 환경에서 활용 가능한 턴키 에이전트 샌드박싱 기능을 공개했습니다. 이는 마이크로소프트 실행 컨테이너(eXecution Containers)와 NVIDIA OpenShell 런타임을 제공하는 동시에, 에이전틱 추론 속도를 최대 2배 향상시키고 헤르메스 에이전트(Hermes Agent)의 기본 윈도우 지원을 추가했습니다. 🤖 DGX Spark는 개봉 후 몇 분 만에 에이전트를 실행할 수 있는 환경을 제공합니다. 간소화된 NVIDIA NemoClaw 설치 과정을 통해 개발자는 로컬 에이전트를 빠르게 활용할 수 있으며, 큐원(Qwen)3.6-35B는 vLLM에서 최대 2.6배 빠르게 실행됩니다. 또한 NVIDIA Sync의 새로운 클러스터 어시스턴트는 최대 4대의 DGX Spark를 하나의 512GB 풀로 연결해 약 4,000억 개 파라미터 규모의 모델을 실행할 수 있습니다. 페이스북 (Facebook) , 인스타그램 (Instagram) , 틱톡 (TikTok) , X 에서 RTX Spark를 팔로우하고, RTX Spark 뉴스레터 를 구독해 최신 소식을 받아보세요 . 소프트웨어 제품 정보에 관한 공지 를 살펴보세요 . 카테고리: AI 태그: Agentic AI | Artificial Intelligence | DGX Spark | Local AI | NVIDIA RTX | open source | RTX AI Garage | RTX Spark All NVIDIA News NVIDIA Blackwell, 업계 최초 에이전틱 AI 인프라 벤치마크에서 선두 기록",
+        "fullSummary": "새로운 DiffusionGemma 오픈 모델은 한 번에 하나의 토큰이 아니라 병렬로 텍스트를 생성하며, NVIDIA RTX PRO 플랫폼과 NVIDIA DGX Spark 시스템, NVIDIA GeForce RTX GPU에서 실행되도록 최적화됐습니다. 가 NVIDIA GeForce RTX GPU, NVIDIA RTX PRO 플랫폼, NVIDIA DGX Spark 시스템 전반에서 더욱 빠르게 실행되도록 최적화했습니다. 이를 통해 로컬 PC부터 클라우드 환경까지 폭넓은 활용이 가능해졌는데요. 디퓨전젬마는 텍스트를 한 번에 한 단어씩 생성하는 대신 여러 단어를 병렬로 생성해 텍스트 블록 전체를 출력합니다.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog Korea",
+        "outletUrl": "https://blogs.nvidia.co.kr/feed/",
+        "source": "NVIDIA Blog Korea",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "Google",
           "DeepMind"
         ],
         "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "추론",
+          "온디바이스AI",
           "NVIDIA",
           "Google"
         ],
-        "issueCategory": "NVIDIA",
-        "score": 33
+        "issueCategory": "AI인프라",
+        "score": 52
       },
       {
-        "title": "퓨리오사AI·리벨리온·딥엑스, 실증 넘어 양산 경쟁 본격화···사업화 시험대 - 시사저널e",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zMENyNWNrT3k5UFJoSzhndUZTQWY1TC1NOHlsbVlCS09WS3FfVXUydnI3Yi0tODNJTkVNck51eTBMeFg0V2FpRnBvdHM4aFcyN2V4akdYWDAxWUZ5TE1SX3g2U1FJMTc0OFJBRmlUZExSd9IBdkFVX3lxTE9rR204RVVtcXVXNWVFYTJoN1doNGRpbXR3NDk1MjFEbmUtSk1SandBa1M1Wm9TUDQtVVViTHpPRTk4bmx1NFNxei1HRmJ1ZUR6aUZXc0dLeUlCR2JSQmJiRHp5ckplQTFyMnBJTjNvUFBadjFndVE?oc=5",
-        "publishedAt": "Fri, 05 Jun 2026 20:00:00 GMT",
-        "summary": "퓨리오사AI·리벨리온·딥엑스, 실증 넘어 양산 경쟁 본격화···사업화 시험대 &nbsp;&nbsp; 시사저널e",
-        "outlet": "시사저널e",
-        "outletUrl": "https://www.sisajournal-e.com",
-        "source": "국내 NPU 기업",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온",
-          "퓨리오사AI",
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "리벨리온",
-          "퓨리오사AI",
-          "딥엑스",
-          "실증·조달"
-        ],
-        "issueCategory": "NPU",
-        "score": 33
-      },
-      {
-        "title": "퓨리오사AI-리벨리온, 국민성장펀드 'K-엔비디아' 유력 - 디일렉",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PbGhMQnFXSXJ0WW1yNDF0VmN1QkZPU0ZXU1NUMmRydGg0LVl3TXllSXBSUmNJdmRVT25fTUV0VExjblozWElhZkp4NVVfRVhvelVWdjY5a2YzTXFiNGlfQ1VERFBndw?oc=5",
-        "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
-        "summary": "퓨리오사AI-리벨리온, 국민성장펀드 'K-엔비디아' 유력 &nbsp;&nbsp; 디일렉",
-        "outlet": "디일렉",
-        "outletUrl": "https://www.thelec.kr",
-        "source": "퓨리오사AI",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "K-엔비디아",
-          "리벨리온",
-          "퓨리오사AI",
-          "NVIDIA"
-        ],
-        "issueCategory": "NPU",
-        "score": 33
-      },
-      {
-        "title": "AI Infrastructure Spending to Exceed $700 Billion in 2026: Nvidia and AMD Analysis - News and Statistics - IndexBox",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2NNWmpZd0M2eGtBeEJMTmdodFZqbUNyTGlVSExPbkJ0WGZrNklOXzVoX1RGS3R2eVlXNVpQM2FqNHpic2NsbWRaallxRXhoSTBxUENZOVlOaVFleUZxdUhGV2ZRSnk1Z1NQLVRlNnN5d0E1LTJWd1BxbmxBd2NkaEZFRElIaGx2TzNxbldzN2JkMWk2WlNkbQ?oc=5",
-        "publishedAt": "Sun, 14 Jun 2026 14:20:00 GMT",
-        "summary": "AI Infrastructure Spending to Exceed $700 Billion in 2026: Nvidia and AMD Analysis - News and Statistics &nbsp;&nbsp; IndexBox",
-        "outlet": "IndexBox",
-        "outletUrl": "https://www.indexbox.io",
-        "source": "NVIDIA 이슈",
+        "title": "하이퍼엑셀, 대만 어드밴텍과 양해각서 체결··· ‘LPU 확산에 시동’",
+        "link": "https://hyperaccel.ai/https-hyperaccel-ai-hyperaccel-and-advantech-sign-mou-kr/",
+        "publishedAt": "Tue, 03 Feb 2026 09:07:01 +0000",
+        "summary": "AI 반도체 기술 기업 하이퍼엑셀이 대만의 산업용 디바이스 및 사물인터넷 전문 제조 기업 어드밴텍(Advantech)과 AI 인프라 기술 협력을 위한 양해각서를... 게시물 하이퍼엑셀, 대만 어드밴텍과 양해각서 체결··· ‘LPU 확산에 시동’ 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "하이퍼엑셀, 대만 어드밴텍과 양해각서 체결··· ‘LPU 확산에 시동’ 2월 03, 2026 AI 반도체 기술 기업 하이퍼엑셀이 대만의 산업용 디바이스 및 사물인터넷 전문 제조 기업 어드밴텍(Advantech)과 AI 인프라 기술 협력을 위한 양해각서를 체결했다. 하이퍼엑셀은 대규모 언어 모델(LLM) 추론에 최적화된 고효율 AI 가속기인 LPU(LLM Processing Unit)을 자체 설계하며 올 상반기 중 4나노미터 공정 기반의 LPDDR5 기반 반도체 ‘베르다(Bertha)’를 출시할 예정이다. 어드밴텍은 산업용 사물인터넷(IoT) 및 임베디드 보드 등 산업용 컴퓨터 분야에서 전 세계 약 30%~40% 점유율을 갖춘 업계 1위 기업이다. 하이퍼엑셀의 베르다(Bertha) 500 LPU AI 가속기 / 출처=하이퍼엑셀 이번 양해각서는 지난 2월 2일 서울 하이퍼엑셀 본사에서 진행됐으며, AI 반도체 분야에 대한 기술 협력 방안을 논의하고 중장기적으로 전략적 파트너십을 구축하기 위한 협력 기반을 마련했다. 두 기업은 앞으로 AI 인프라 기술 전반에 대한 기술 교류를 진행하는 것은 물론 양사 기술 전문성과 노하우를 바탕으로 협력 가능성을 논의한다. 어드밴텍은 하이퍼엑셀을 포함해 전 세계 AI 스타트업 및 반도체 업계 기업들과 공동전선을 구축 중이다. 지난해 12월에는 딥엑스(DEEPX)와 손잡고 엣지 AI용 모듈을 선보인 바 있으며, 유럽의 엣지 AI 반도체 기업인 악셀레라 AI(Axelera AI)와도 전략적 파트너십을 맺고 AI 가속 모듈 공동 개발은 물론 산업 자동화 및 로보틱스 등의 분야에서 협력하고 있다. 지난해 1월에는 이스라엘 헤일로(Hailo)와 고효율 비전 AI 애플리케이션을 위한 가속 모듈을 출시하기도 했다. 생태계 측면에서는 퀄컴 계열의 엣지 AI 플랫폼 전문 기업인 엣지임펄스(Edge Impulse)와 함꼐 엣지 AI 기술 공동 개발을 약속했고, 우리나라의 양자화 기술 기업인 에너자이(ENERZAi)와 손잡고 산업용 소프트웨어인 어드밴텍 WEDA(WISE-Edge Developer Architecture)용 엣지 AI 서비스 개발 및 배포를 함께 하기로도 한 상태다. 밀러 창(Miller Chang) 어드밴텍 임베디드 사업부 사장(좌)과 김주영 하이퍼엑셀 대표(우) / 출처=하이퍼엑셀 하이퍼엑셀과 어드밴텍과의 협력을 통해 국내 AI 반도체 업계의 글로벌 공급망 진입의 문은 점차 넓어지고 있다. 어드밴텍은 앞서 모빌린트, 딥엑스 등의 AI 반도체 기업들과도 협력 관계를 맺었고, 지난해 말에는 딥엑스 DX-M1을 탑재한 EAI-1961같은 실질적인 상품화도 진행됐다. 국내 AI 반도체 기업은 판매 활로를 넓히고, 어드밴텍 입장에서는 다각적인 수요에 대응하는 윈-윈 전략인 셈이다. 김주영 하이퍼엑셀 대표는 “어드밴텍과의 양해각서 체결을 통해 글로벌 AI 인프라 기술 협력을 본격적으로 논의하고, 하이퍼엑셀의 A 반도체 설계 기술이 전 세계로 나아갈 수 있도록 장기적인 협력 관계로 발전시켜 나가겠다”라는 뜻을 밝혔다. 밀러 창(Miller Chang) 어드밴텍 임베디드 사업부 사장 역시 “어드밴텍은 다양한 산업 환경에 적용 가능한 AI 컴퓨팅 기술을 지속적으로 확장해 왔다”며, “AI 추론 효율에 강점을 가진 하이퍼엑셀과의 협력을 통해 향후 AI 반도체 기술을 중심으로 새로운 협력 가능성과 시너지를 기대하고 있다”라고 말했다. IT동아 남시현 기자 (sh@itdonga.com)",
+        "fullSummary": "AI 반도체 기술 기업 하이퍼엑셀이 대만의 산업용 디바이스 및 사물인터넷 전문 제조 기업 어드밴텍(Advantech)과 AI 인프라 기술 협력을 위한 양해각서를 체결했다. 하이퍼엑셀은 대규모 언어 모델(LLM) 추론에 최적화된 고효율 AI 가속기인 LPU(LLM Processing Unit)을 자체 설계하며 올 상반기 중 4나노미터 공정 기반의 LPDDR5 기반 반도체 ‘베르다(Bertha)’를 출시할 예정이다. 어드밴텍은 산업용 사물인터넷(IoT) 및 임베디드 보드 등 산업용 컴퓨터 분야에서 전 세계 약 30%~40% 점유율을 갖춘 업계 1위 기업이다. 하이퍼엑셀의 베르다(Bertha) 500 LPU AI 가속기 / 출처=하이퍼엑셀 이번 양해각서는 지난 2월 2일 서울 하이퍼엑셀 본사에서 진행됐으며, AI 반도체 분야에 대한 기술 협력 방안을 논의하고 중장기적으로 전략적 파트너십을 구축하기 위한 협력 기반을 마련했다.",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "NVIDIA",
-          "AMD"
+          "하이퍼엑셀",
+          "딥엑스",
+          "모빌린트"
         ],
         "taxonomyHits": [
+          "AI시장",
           "AI인프라",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 31
-      },
-      {
-        "title": "구글, TPU 공급망 ‘이원화’ 검토… 삼성 2나노, TSMC 독점 균열 신호탄 - 글로벌이코노믹",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzNTSFBaeHRTdTBPWGhEQ05rTlpOVE9MZHNKdUowX0RSNHNwUnd6UGZsRmRXUFF0c2VleU5VOFA4THpKU0h3U05iNzlvZVk1TEJLTkk3S1pHYnRFTDBCUUEzSkxKdDh6R1oyTVA2UlhaYkFqS2JPNGJVdk9rSlZuclBwVWRsNUhm?oc=5",
-        "publishedAt": "Thu, 11 Jun 2026 21:58:38 GMT",
-        "summary": "구글, TPU 공급망 ‘이원화’ 검토… 삼성 2나노, TSMC 독점 균열 신호탄 &nbsp;&nbsp; 글로벌이코노믹",
-        "outlet": "글로벌이코노믹",
-        "outletUrl": "https://www.g-enews.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google",
-          "TPU",
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "Google",
+          "추론",
+          "온디바이스AI",
+          "하이퍼엑셀",
+          "딥엑스",
+          "모빌린트",
           "파운드리·패키징",
           "수출통제·공급망"
         ],
         "issueCategory": "AI시장",
-        "score": 31
+        "score": 52
       },
       {
-        "title": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95R1lfM1hpZllFNXRLbTlHZzFnVkVONmE3YnRKdUtnU1NsLXBCU3NaNWJiWmJuWVNSbGg5VnZyc1UwLU1OUXFFbHJSM2lIbllGZExSVw?oc=5",
-        "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "리벨리온",
-        "sourceLang": "ko",
-        "region": "domestic",
+        "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+        "link": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+        "publishedAt": "Fri, 12 Jun 2026 21:00:08 +0000",
+        "summary": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA […]",
+        "fullText": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark New AgentPerf results from Artificial Analysis show how accelerated computing systems handle real-world agentic workloads, with NVIDIA GB300 NVL72 running up to 20x more agents per megawatt than NVIDIA Hopper. k Link copied! AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA Hopper. Agentic AI is a fundamentally different workload than conversational AI. A single chat completion is a sprint: one large language model (LLM) call, one response. An agent functions more like a relay: It breaks a goal into many steps and keeps going until the task is done. Agents chain together multiple LLM calls and tool calls to gather context, observe, reason and act. That results in dozens to hundreds of LLM calls chained together, each passing growing context to the next, with tool calls like code compile and execution, database search and web browsing at every handoff. The complexity isn’t additive; it’s multiplicative. The distinction matters enormously for performance measurement. Existing AI inference benchmarks measure one LLM call: how fast an LLM responds to a single request and how many simultaneous requests a system can handle. They weren’t designed for agentic workloads, where chained LLM calls, tool call delays and growing context stress accelerated computing systems in fundamentally different ways than a single LLM call ever could. For companies building and deploying agents at scale, it’s important to understand how responsive agents are, how many can be deployed simultaneously and how much useful work AI infrastructure can deliver for every dollar and watt invested. NVIDIA GB300 NVL72 Runs 20x More Agents per Megawatt In this first round, AgentPerf measures agentic performance with DeepSeek V4 Pro , a large mixture-of-experts (MoE) model that represents the class of frontier models powering today’s most capable agents. On this workload, NVIDIA GB300 NVL72 delivers the highest performance in the benchmark, running up to 20x more agents per megawatt than the NVIDIA HGX H200 system. NVIDIA GB300 NVL72 supports far more concurrent agents per megawatt than NVIDIA H200 at both service-level objectives of 20 and 60 tokens per second per agent. The performance advantage comes from extreme codesign across the full stack. GB300 NVL72 connects 72 GPUs into a single rack-scale system, enabling large MoE models like DeepSeek V4 Pro to distribute model execution efficiently at scale. CUDA kernels accelerate this further by overlapping communication and compute, so the cost of coordinating across experts is absorbed rather than added to latency. NVIDIA TensorRT LLM sustains efficiency as concurrent agent sessions scale. For example, it separates the processing of inputs from the generation of outputs so each can be optimized independently. These results are grounded in a benchmark methodology built from the ground up to reflect how agentic AI actually works in production. Artificial Analysis AgentPerf: Built on Real-World Agentic Workloads AgentPerf is built based on real coding agent trajectories: an agent receives a task, reads files, writes and edits code, executes commands and iterates based on the results — all drawn from real public code repositories across 12+ programming languages. The long sequence lengths, tool call patterns and delays are all representative of real-world coding workflows. AgentPerf then measures how many of these agentic tasks a platform can support simultaneously while meeting defined performance thresholds for responsiveness and output token rate. Tool calls are not executed but simulated using representative CPU processing time, so differences in results reflect accelerated computing performance only. The results translate directly into infrastructure decisions: how many concurrent agentic tasks can be run per accelerator and per megawatt of power. For enterprises deploying AI agents at scale, those numbers determine how much productive work a given infrastructure investment can actually deliver. NVIDIA Ecosystem Partners Harness Blackwell’s Leading Performance Leading inference providers including Baseten, DeepInfra and Together AI are already serving agentic workloads on frontier models such as DeepSeek V4 Pro on NVIDIA Blackwell and powering production agentic applications today. Together AI powers real-time inference for Cursor , an AI-powered agentic coding platform, on NVIDIA Blackwell. Cursor’s agents debug issues, generate features and execute refactors while developers continue working. DeepInfra powers Pam.ai , an AI workforce platform for car dealerships, which deploys agents to book servi",
+        "fullSummary": "New AgentPerf results from Artificial Analysis show how accelerated computing systems handle real-world agentic workloads, with NVIDIA GB300 NVL72 running up to 20x more agents per megawatt than NVIDIA Hopper. AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA Hopper. Agentic AI is a fundamentally different workload than conversational AI.",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
-          "리벨리온"
+          "NVIDIA",
+          "TPU"
         ],
         "taxonomyHits": [
-          "정책",
+          "AI에이전트",
           "AI인프라",
-          "NPU",
-          "리벨리온"
-        ],
-        "issueCategory": "NPU",
-        "score": 31
-      },
-      {
-        "title": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 - 아주경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtQ1JoTVlXZDVVeE8zQ25MckVTMVZZczhSc0FIdmhFZXNJdTRIUmJXck96MGp4NkNoMFN5RWl5VTV5OHE0aEY3OEtzMWZtQlNzREFESXRzQndBUdIBWEFVX3lxTE9DSTBQX1Z1MlBJWDBFOFhFQVotVnR3bVBINGdnMUhza0F4NTJsYjgzWjQyZUdXaVRKZEI0Z05WV2RBMmRIZzUxUnVzYUFNX3F6ZjBteXZaZXI?oc=5",
-        "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 &nbsp;&nbsp; 아주경제",
-        "outlet": "아주경제",
-        "outletUrl": "https://www.ajunews.com",
-        "source": "리벨리온",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "AI인프라",
-          "NPU",
-          "리벨리온"
-        ],
-        "issueCategory": "NPU",
-        "score": 31
-      },
-      {
-        "title": "가비아, 정부 AI 컴퓨팅 지원사업 참여…리벨리온 NPU 무상 제공 - 데이터뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yaVpnbHQ4b0tTcmMzdEVVTWppSkVpZ0FKZGM5U0NqUlY1a0g4SXdwV0d4MHpxMTVLaS1pUS11MDFPY2NOa0pSN2p3RmtJdW53ZzEyTHB1eE5xMldsOFBDZ1RMSnY?oc=5",
-        "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "가비아, 정부 AI 컴퓨팅 지원사업 참여…리벨리온 NPU 무상 제공 &nbsp;&nbsp; 데이터뉴스",
-        "outlet": "데이터뉴스",
-        "outletUrl": "https://www.datanews.co.kr",
-        "source": "리벨리온",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "AI인프라",
-          "NPU",
-          "리벨리온"
-        ],
-        "issueCategory": "NPU",
-        "score": 31
-      },
-      {
-        "title": "가비아, 고성능 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU로 AI 추론 지원 - 테크월드",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wTHVidVZJYlduVlROOHZ1N2VGTlBiaHVscjZxQkVwWlBTcTVSb01xYTFlbjRfWE9nd0xUMXpseVZzaHFIS3M4TzZUbklIS0tDZ0RDZm1SMjB2RWxfbHVpUnZWUDhNZzY4?oc=5",
-        "publishedAt": "Tue, 26 May 2026 00:25:47 GMT",
-        "summary": "가비아, 고성능 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU로 AI 추론 지원 &nbsp;&nbsp; 테크월드",
-        "outlet": "테크월드",
-        "outletUrl": "https://www.epnc.co.kr",
-        "source": "리벨리온",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온"
-        ],
-        "taxonomyHits": [
-          "정책",
+          "데이터센터",
           "NPU",
           "추론",
-          "리벨리온"
+          "NVIDIA",
+          "Google",
+          "파운드리·패키징",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 50
+      },
+      {
+        "title": "[CTO Interview] HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea",
+        "link": "https://hyperaccel.ai/cto-interview-hyperaccel-bets-lpu-to-cut-llm-inference-costs-and-challenge-nvidia-in-korea/",
+        "publishedAt": "Sat, 04 Apr 2026 00:31:27 +0000",
+        "summary": "Korean startup’s LPU chip targets cheaper LLM inference with DRAM and Samsung 4nm backing “The core goal is to bring... 게시물 [CTO Interview] HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea 4월 04, 2026 Korean startup’s LPU chip targets cheaper LLM inference with DRAM and Samsung 4nm backing “The core goal is to bring AI service fees down from the current 30,000-won range to around 5,000 won.” Lee Jin-won, chief technology officer (CTO) of HyperAccel, shared this blueprint in an interview with ChosunBiz at the company’s headquarters in Seocho-dong, Seoul, on Feb. 11. Even if it cannot completely replace the current AI infrastructure dominated by Nvidia graphics processing units (GPUs), the ambition is to wage a “cost-effectiveness competition” with a dedicated chip specialized for large language model (LLM) inference. Lee is a former system semiconductor design engineer from the System LSI division at Samsung Electronics. He designed application processors (APs), the “brains” of smartphones. He joined HyperAccel as CTO in 2023 after a stint at the AI Semiconductor startup NewBula in 2021. He currently oversees AI Semiconductor architecture development. At HyperAccel headquarters in Seocho-dong, Seoul, on the 11th of last month, Lee Jin-won, CTO, explains the company’s blueprint./Courtesy of Choi Hyo-jung HyperAccel is a homegrown fabless (semiconductor design) startup developing Bertha, an AI Semiconductor specialized for LLM inference (generating results). Produced on Samsung Electronics’ foundry 4-nanometer process, this chip differs from conventional GPUs in its design philosophy. The key is its proprietary architecture, the Language Processing Unit (LPU), and the use of low-cost LPDDR5X instead of expensive high-bandwidth memory (HBM). Lee identified “memory access” as the main bottleneck for current AI Semiconductors. “It’s not that the raw compute performance is lacking and slowing things down; congestion occurs because the process of reading and writing data from memory is too complex,” Lee said. “GPUs repeatedly move data from HBM to internal SRAM and then back to the compute units, and bottlenecks appear in this process.” HyperAccel completely changed this structure. Bertha minimizes intermediate storage (buffers) and is designed to fire data directly from external memory to the compute unit (LPU). “GPU memory bandwidth utilization is roughly around 50%, and our goal is to raise it to about 90%,” Lee said. This architectural shift translates into “expense” innovation. For corporations running AI services today, the biggest burden is total cost of ownership (TCO), which combines equipment prices and electricity charges. “A single Nvidia H100 GPU approaches 70 million to 80 million won, and it’s not uncommon for one server to exceed 1 billion won,” Lee said. “By leveraging LPDDR to reduce both equipment costs and power consumption at the same time, our goal is to cut TCO to about one-third of GPUs.” HyperAccel’s ambitions are not confined to data centers. It is also squarely targeting the “On-device AI” market, where devices such as home appliances and robots process AI locally. The company is working with LG Electronics on an AI accelerator for appliances, aiming to exploit Bertha’s high-efficiency architecture for real-time processing in power-constrained environments. This is currently at the proof-of-concept (PoC) stage, with ongoing collaboration for integration into future commercial products. HyperAccel expects meaningful revenue after Bertha enters mass production. Initially, the company plans to expand supply centered on data center customers, then move into cloud providers and the On-device AI market. The following is a Q&A with Lee. — What stage is the chip development at? “The chip design is complete, and it is scheduled to come out this month. After validating performance and reliability in real environments, we are aiming for mass production in the second half of this year.” — How does the LPU differ from a GPU? “If a GPU is a ‘general-purpose accelerator’ that does a bit of everything well, an LPU is a ‘specialized architecture’ that concentrates all firepower solely on LLM inference. We optimized the chip architecture itself to the data flow of transformer models.” — Wouldn’t using LPDDR instead of HBM be slower? “While raw bandwidth is lower, our strategy is to raise ‘real efficiency’ by optimizing data movement paths. Thanks to that, we can serve more concurrent users on the same budget.” — You are working with the domestic semiconductor ecosystem, including Samsung Electronics’ foundry and design houses. “AI Semiconductor is not an industry achieved by design alone; I see it as a kind of ‘comprehensive art’ that spans foundry, design houses, packaging, and servers. In developing Bertha, we are collaborating with Samsung Electronics’ foundry and conducting design work with design houses. I believe that accumulating this experience domestically is necessary so that, in the long term, the system semiconductor ecosystem can form a virtuous cycle.” — Who are your main customers? “Data center operat",
+        "fullSummary": "Korean startup’s LPU chip targets cheaper LLM inference with DRAM and Samsung 4nm backing “The core goal is to bring AI service fees down from the current 30,000-won range to around 5,000 won.” Lee Jin-won, chief technology officer (CTO) of HyperAccel, shared this blueprint in an interview with ChosunBiz at the company’s headquarters in Seocho-dong, Seoul, on Feb. Even if it cannot completely replace the current AI infrastructure dominated by Nvidia graphics processing units (GPUs), the ambition is to wage a “cost-effectiveness competition” with a dedicated chip specialized for large language model (LLM) inference. Lee is a former system semiconductor design engineer from the System LSI divi...",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Samsung",
+          "하이퍼엑셀"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "하이퍼엑셀",
+          "NVIDIA",
+          "파운드리·패키징",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 48
+      },
+      {
+        "title": "[CTO 인터뷰] LLM 추론 특화 AI 반도체 설계 회사 하이퍼엑셀… 이진원 CTO “GPU 대신 비용 절감형 LPU로 승부”",
+        "link": "https://hyperaccel.ai/cto-interview-llm-inference/",
+        "publishedAt": "Sat, 04 Apr 2026 00:35:46 +0000",
+        "summary": "비싼 HBM 버리고 가성비 D램 채택“LLM 추론 효율 엔비디아 압도할 것”삼성 4나노로 ‘베르다’ 시제품 제작네이버·LG와 손잡고 데이터센터·가전 정조준 “인공지능(AI) 서비스... 게시물 [CTO 인터뷰] LLM 추론 특화 AI 반도체 설계 회사 하이퍼엑셀… 이진원 CTO “GPU 대신 비용 절감형 LPU로 승부” 이 HyperAccel 에 처음 등장했습니다.",
+        "fullText": "LLM 추론 특화 AI 반도체 설계 회사 하이퍼엑셀… 이진원 CTO “GPU 대신 비용 절감형 LPU로 승부” 4월 04, 2026 비싼 HBM 버리고 가성비 D램 채택 “LLM 추론 효율 엔비디아 압도할 것” 삼성 4나노로 ‘베르다’ 시제품 제작 네이버·LG와 손잡고 데이터센터·가전 정조준 “인공지능(AI) 서비스 이용료를 지금의 3만원대에서 5000원 수준으로 끌어내리는 것이 핵심 목표다.” 이진원 하이퍼엑셀 최고기술책임자(CTO)는 지난달 11일 서울 서초동 본사에서 조선비즈와 만나 이 같은 청사진을 밝혔다. 엔비디아 그래픽처리장치(GPU)가 지배하는 현재 AI 인프라 구조를 통째로 대체할 순 없더라도, 대규모언어모델(LLM) 추론 특화 전용 반도체로 ‘가성비 경쟁’을 벌이겠다는 포부다. 이 CTO는 삼성전자 시스템LSI 사업부의 시스템 반도체 설계 엔지니어 출신이다. 스마트폰의 ‘두뇌’ 역할을 하는 애플리케이션프로세서(AP)를 설계했다. 그는 2021년 AI 반도체 스타트업 뉴블라를 거쳐 2023년 설립된 하이퍼엑셀에 CTO로 합류했다. 현재 AI 반도체 아키텍처 개발을 총괄하고 있다. 지난달 11일 서울 서초동 하이퍼엑셀 본사에서 만난 이진원 CTO가 회사의 청사진을 설명하고 있다./최효정 기자 하이퍼엑셀은 LLM 추론(결과 생성)에 특화된 AI 반도체 ‘베르다(Bertha)’를 개발하는 토종 팹리스(반도체 설계) 스타트업이다. 삼성전자 파운드리 4나노 공정에서 생산되는 이 칩은 기존 GPU와 설계 철학부터 다르다. 핵심은 자체 아키텍처인 ‘LPU(Language Processing Unit)’와 비싼 고대역폭메모리(HBM) 대신 저렴한 저전력 D램(LPDDR5X)을 채택했다는 점이다. 이 CTO는 현재 AI 반도체의 주요 병목을 ‘메모리 접근’으로 꼽았다. 그는 “연산 성능 자체가 부족해서 느려지는 것이 아니라, 메모리에서 데이터를 읽고 쓰는 과정이 너무 복잡해 정체가 발생한다”며 “GPU는 HBM에서 내부 S램으로 데이터를 옮겼다가 다시 연산기로 보내는 과정을 반복하는데, 이 과정에서 병목이 나타난다”고 설명했다. 하이퍼엑셀은 이 구조를 완전히 바꿨다. 베르다는 중간 저장소(버퍼)를 최소화하고, 외부 메모리에서 연산 장치(LPU)로 데이터를 직접 쏘아주는 구조를 설계했다. 이 CTO는 “GPU의 메모리 대역폭 활용률이 대략 50% 수준인데, 우리는 이를 90% 수준까지 끌어올리는 것이 목표”라고 했다. 이러한 구조 변화는 ‘비용’ 혁신으로 연결된다. 현재 AI 서비스를 운영하는 기업들에 가장 큰 부담은 장비 가격과 전력 요금을 합친 총소유비용(TCO)이다. 이 CTO는 “엔비디아 H100 GPU는 개당 7000만~8000만원에 육박하고, 서버 한 대를 구성하면 10억원을 넘는 경우가 적지 않다”며 “베르다는 LPDDR을 활용해 장비비와 전력 소모를 동시에 줄임으로써, GPU 대비 TCO를 3분의 1 수준까지 낮추는 것이 목표”라고 했다. 하이퍼엑셀의 목표는 데이터센터에 머물지 않는다. 가전, 로봇 등 기기 자체에서 AI를 처리하는 ‘온디바이스 AI’ 시장도 정조준하고 있다. 현재 LG전자와 협력해 가전용 AI 가속기 개발을 진행 중이며, 전력 제약이 큰 환경에서 실시간 처리가 중요한 만큼 베르다의 고효율 아키텍처를 활용하려는 전략이다. 다만 이는 현재 PoC(기술 검증) 단계로, 향후 상용 제품 탑재를 위한 협력을 이어가고 있다. 하이퍼엑셀은 베르다 양산 이후 본격적인 매출 발생을 기대하고 있다. 회사 측은 초기에는 데이터센터 고객사를 중심으로 공급을 확대하고, 이후 클라우드 사업자와 온디바이스 AI 시장까지 확장하는 것을 목표로 하고 있다. 다음은 이 CTO와의 일문일답. ―칩 개발은 어느 단계인가. “칩 설계는 완료됐으며, 이달 중 나올 예정이다. 실제 환경에서 성능과 신뢰성을 검증한 뒤, 올해 하반기 양산을 목표로 하고 있다.” ―LPU는 GPU와 어떤 점이 다른가. “GPU가 이것저것 다 잘하는 ‘범용 가속기’라면, LPU는 오직 LLM 추론 작업에만 모든 화력을 쏟아붓는 ‘특화 구조’다. 칩 구조 자체를 트랜스포머 모델의 데이터 흐름에 맞춰 최적화했다.” ―HBM 대신 LPDDR을 쓰면 속도가 느리지 않나. “단순 대역폭은 낮지만, 데이터 이동 경로를 최적화해 ‘실제 효율’을 높이는 것이 우리의 전략이다. 덕분에 같은 예산으로 더 많은 동시 사용자에게 서비스를 제공할 수 있다.” ―삼성전자 파운드리, 디자인하우스 등 국내 반도체 생태계와 협력하고 있는데. “AI 반도체는 설계만으로 되는 산업이 아니라 파운드리, 디자인하우스, 패키징, 서버로 이어지는 일종의 ‘종합 예술’이라고 생각한다. 이번 베르다 개발 과정에서도 삼성전자 파운드리와 협력하고 디자인하우스와 함께 설계 작업을 진행하고 있다. 국내에서도 이런 경험이 축적돼야 장기적으로 시스템 반도체 생태계가 선순환 구조를 만들 수 있다고 본다.” ―주요 고객은 어디인가. “데이터센터 사업자가 핵심이다. 네이버클라우드와는 이미 PoC를 진행 중이며, K-클라우드 사업과 연계해 사례를 확대할 계획이다. 특정 영역에서 확실한 가성비 경쟁력을 보여주겠다.”",
+        "fullSummary": "비싼 HBM 버리고 가성비 D램 채택 “LLM 추론 효율 엔비디아 압도할 것” 삼성 4나노로 ‘베르다’ 시제품 제작 네이버·LG와 손잡고 데이터센터·가전 정조준 “인공지능(AI) 서비스 이용료를 지금의 3만원대에서 5000원 수준으로 끌어내리는 것이 핵심 목표다.” 이진원 하이퍼엑셀 최고기술책임자(CTO)는 지난달 11일 서울 서초동 본사에서 조선비즈와 만나 이 같은 청사진을 밝혔다. 엔비디아 그래픽처리장치(GPU)가 지배하는 현재 AI 인프라 구조를 통째로 대체할 순 없더라도, 대규모언어모델(LLM) 추론 특화 전용 반도체로 ‘가성비 경쟁’을 벌이겠다는 포부다. 이 CTO는 삼성전자 시스템LSI 사업부의 시스템 반도체 설계 엔지니어 출신이다. 스마트폰의 ‘두뇌’ 역할을 하는 애플리케이션프로세서(AP)를 설계했다.",
+        "summarySource": "article",
+        "outlet": "HyperAccel",
+        "outletUrl": "https://hyperaccel.ai/feed/",
+        "source": "HyperAccel",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "하이퍼엑셀"
+        ],
+        "taxonomyHits": [
+          "정책",
+          "AI시장",
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "하이퍼엑셀",
+          "NVIDIA",
+          "파운드리·패키징",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 47
+      },
+      {
+        "title": "From Startup Stage to Global Stage: DEEPX at COMPUTEX TAIPEI 2026",
+        "link": "https://deepx.ai/from-startup-stage-to-global-stage-deepx-at-computex-taipei-2026/",
+        "publishedAt": "Tue, 09 Jun 2026 01:41:55 +0000",
+        "summary": "Part 1 of 2 — The Taiwan Story When DEEPX first walked into COMPUTEX InnoVEX in 2023, we were a young Korean fabless startup with a bold bet: that the next frontier of AI wouldn’t be in the cloud — it would be in the physical world. Three years later, we’re back. Not as a […]",
+        "fullText": "From Startup Stage to Global Stage: DEEPX at COMPUTEX TAIPEI 2026 - DEEPX: Pioneering Innovation in Edge AI Semiconductors Skip to content AI Chips Available for Evaluation AI Chips Available for Testing Apply Now Products DX-M1 DX-M1M DX-H1 Quattro DX-H1 V-NPU DX-AIPlayer DXNN® SDK Solutions Edge Computing Smart Mobility Smart Factory Smart City VMS Developers About Us Our Story Career Contact Us CES On! Products DX-M1 DX-M1M DX-H1 Quattro DX-H1 V-NPU DX-AIPlayer DXNN® SDK Solutions Edge Computing Smart Mobility Smart Factory Smart City VMS Developers About Us Our Story Career Contact Us CES On! DX TechBridge Program Sales Distributors DX TechBridge Program Sales Distributors Shop Now From Startup Stage to Global Stage: DEEPX at COMPUTEX TAIPEI 2026 09 June, 2026 Part 1 of 2 — The Taiwan Story When DEEPX first walked into COMPUTEX InnoVEX in 2023, we were a young Korean fabless startup with a bold bet: that the next frontier of AI wouldn’t be in the cloud — it would be in the physical world. Three years later, we’re back. Not as a startup on a stage, but as a company whose chips are running inside products from over 30 global hardware partners across the show floor. This is the story of how that happened — and why Taiwan was always at the center of it. Why COMPUTEX? Why Taiwan? COMPUTEX TAIPEI isn’t just a trade show. It’s where the global hardware ecosystem decides what comes next. Nvidia, Qualcomm, Intel, Marvell, NXP — the CEOs of the world’s most influential AI and semiconductor companies come here to lay out their visions for the next generation of computing infrastructure. For an AI chip company, there’s no more important room to be in. Taiwan, more broadly, is the single most critical proving ground for any serious semiconductor business. Industrial PCs, embedded computing, servers, network equipment, storage, motherboards — if it runs AI at the edge, chances are it was designed, built, or distributed through Taiwan’s hardware ecosystem. When DEEPX was deciding where to establish its global presence, the answer was clear. As our CEO Lokwon Kim put it: “If you want to catch a tiger, you have to go into the tiger’s den.” 2025 Computex Taipei A Relationship Built Over Years Our connection to Taiwan’s hardware industry didn’t begin this year. It didn’t even begin at COMPUTEX 2025, when we co-exhibited with more than 15 leading Taiwanese industrial PC and server companies. It started in 2023, when DEEPX won the COMPUTEX InnoVEX Innovation Award — recognition that our ultra-low-power AI semiconductor technology had genuine potential in the edge AI market. That win opened doors. It started conversations. It put us on the radar of an ecosystem that evaluates companies not by where they’re from, but by what they’ve actually built. In 2024, Digitimes — Taiwan’s most influential IT industry publication — placed an interview with our CEO directly opposite their feature interview with Nvidia’s Jensen Huang. The message was clear: DEEPX was being watched as one of the next significant players in on-device AI semiconductors. What we found in Taiwan surprised us. CEO Kim reflected on it this way: “What I actually experienced in the Taiwan market wasn’t barriers or bias against foreign companies. It was a remarkably open, merit-driven ecosystem — one that evaluates technology and product competitiveness on its own terms, and connects you with better partners when you prove yourself.” That openness is why DEEPX was able to build deep, early-stage partnerships with Taiwan’s hardware ecosystem while many larger Korean companies were still deciding whether to show up. The Shift: From Award Winner to Ecosystem Player Between 2023 and today, something fundamental changed for DEEPX. We went from a company demonstrating technology to a company shipping products. In August last year, we launched our first commercial AI semiconductor and module lineup into mass production. That transition — from tech validation to commercial deployment — changes everything about how the industry sees you. It changes the conversations you can have. It changes the partnerships available to you. And it changes what you can show at an event like COMPUTEX. At COMPUTEX TAIPEI 2026 (June 2–5, Taipei, Taiwan), DEEPX will operate its own dedicated exhibition booth — but more importantly, our products will appear simultaneously across the official booths of over 30 global hardware manufacturers, system integrators, and software partners. Those partners include: Advantech, ASRock, MSI, AAEON, QNAP, BIOSTAR, Apacer, Lanner, iEi, Portwell, Aetina, Sintrones, ARBOR, DFI, Axiomtek , and more — alongside global distribution partners Avnet and WPG . This is what it looks like when a fabless semiconductor company becomes part of the global hardware infrastructure. What Is Physical AI, and Why Does It Matter Now? The global AI industry has grown explosively around large language models and generative AI. But AI’s next wave is moving beyond data centers — into r",
+        "fullSummary": "- DEEPX: Pioneering Innovation in Edge AI Semiconductors Skip to content AI Chips Available for Evaluation AI Chips Available for Testing Apply Now Products DX-M1 DX-M1M DX-H1 Quattro DX-H1 V-NPU DX-AIPlayer DXNN® SDK Solutions Edge Computing Smart Mobility Smart Factory Smart City VMS Developers About Us Our Story Career Contact Us CES On! Products DX-M1 DX-M1M DX-H1 Quattro DX-H1 V-NPU DX-AIPlayer DXNN® SDK Solutions Edge Computing Smart Mobility Smart Factory Smart City VMS Developers About Us Our Story Career Contact Us CES On! DX TechBridge Program Sales Distributors DX TechBridge Program Sales Distributors Shop Now From Startup Stage to Global Stage: DEEPX at COMPUTEX TAIPEI 2026 09 Ju...",
+        "summarySource": "article",
+        "outlet": "DEEPX",
+        "outletUrl": "https://www.deepx.ai/feed/",
+        "source": "DEEPX",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI인프라",
+          "데이터센터",
+          "NPU",
+          "추론",
+          "온디바이스AI",
+          "딥엑스",
+          "NVIDIA",
+          "실증·조달"
         ],
         "issueCategory": "NPU",
-        "score": 31
+        "score": 46
+      },
+      {
+        "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+        "link": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+        "publishedAt": "Tue, 09 Jun 2026 22:34:27 +0000",
+        "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging […]",
+        "fullText": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute NVIDIA GPUs to support server-side inference for Apple Intelligence, announced at WWDC. Link copied! NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models , custom-built by Apple and Google, leveraging the technologies behind the Gemini family of models. NVIDIA is collaborating with Apple and Google to support some of the next-generation Apple Intelligence features, using NVIDIA Blackwell GPUs with Confidential Computing integrated into Private Cloud Compute’s hardware security architecture running on Google Cloud. Confidential Computing Matters for the Era of AI Experiences NVIDIA Confidential Computing provides a hardware-based security layer for accelerated AI workloads. The technology protects data while it’s being processed by isolating workloads in trusted execution environments and enabling systems to cryptographically verify that the infrastructure has not been tampered with before any sensitive data is sent to the server. For end users, NVIDIA Confidential Computing means that no one, not even the system’s builders, can look at their data, chats or conversations. Adoption of NVIDIA Confidential Computing at this scale reflects a broader shift in AI infrastructure: As AI experiences combine on-device and cloud-based processing for their tasks, there’s a need for high-performance, server-side inference while maintaining strong privacy and security guarantees. How Confidential Computing Enforces Privacy and Trust NVIDIA Confidential Computing reflects NVIDIA’s commitment to trustworthy AI and includes these key capabilities: Hardware-rooted trust , helping establish that systems are running on genuine, untampered NVIDIA GPUs. Encrypted communication paths , helping protect data as it moves between components. Remote attestation , enabling software to verify the security state of the platform before releasing sensitive data. Support for accelerated AI inference and training , helping organizations run privacy-sensitive workloads without moving away from GPU performance. These capabilities are increasingly relevant for AI services that need to process sensitive information while maintaining strong user privacy controls. Learn more about NVIDIA Confidential Computing and NVIDIA AI cybersecurity solutions. Watch NVIDIA CEO Jensen Huang’s GTC Taipei Keynote June 1, 11 a.m. Taipei Time Add to Calendar Recent News AI Infrastructure NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark June 12, 2026",
+        "fullSummary": "NVIDIA GPUs to support server-side inference for Apple Intelligence, announced at WWDC. NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models , custom-built by Apple and Google, leveraging the technologies behind the Gemini family of models. NVIDIA is collaborating with Apple and Google to support some of the next-generation Apple Intelligence features, using NVIDIA Blackwell GPUs with Confidential Computing inte...",
+        "summarySource": "article",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com/feed/",
+        "source": "NVIDIA Blog",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "Gemini"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "데이터센터",
+          "추론",
+          "온디바이스AI",
+          "NVIDIA",
+          "Google",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 45
       }
     ],
     "signals": {
       "technologies": [
         [
           "NPU",
-          26
+          30
         ],
         [
           "AI인프라",
-          31
+          55
         ],
         [
           "데이터센터",
-          10
+          34
         ],
         [
           "온디바이스AI",
-          8
+          27
         ],
         [
           "추론",
-          4
+          31
         ],
         [
           "AI에이전트",
-          16
+          33
         ],
         [
           "파운드리·패키징",
-          20
+          29
         ]
       ],
       "companies": [
         [
           "리벨리온",
-          20
+          19
         ],
         [
           "퓨리오사AI",
-          18
+          15
         ],
         [
           "딥엑스",
-          7
+          11
         ],
         [
           "하이퍼엑셀",
-          1
+          8
         ],
         [
           "모빌린트",
-          0
+          1
         ],
         [
           "NVIDIA",
-          79
+          101
         ],
         [
           "Google",
-          50
-        ],
-        [
-          "TSMC",
-          14
-        ],
-        [
-          "Gemini",
-          13
+          39
         ],
         [
           "TPU",
+          13
+        ],
+        [
+          "TSMC",
           9
         ],
         [
           "DeepMind",
-          4
+          8
         ],
         [
-          "AMD",
-          4
+          "Arm",
+          7
+        ],
+        [
+          "Samsung",
+          6
         ]
       ]
     },
@@ -6832,23 +7236,23 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          47
+          59
         ],
         [
           "NPU",
-          43
+          44
         ],
         [
           "정책",
-          3
+          4
         ],
         [
           "국내 기사",
-          91
+          96
         ],
         [
           "해외 기사",
-          89
+          84
         ]
       ],
       "sections": [
@@ -6892,6 +7296,34 @@ window.__DASHBOARD_DATA__ = {
     }
   },
   "sources": [
+    {
+      "label": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/feed/"
+    },
+    {
+      "label": "NVIDIA Blog Korea",
+      "url": "https://blogs.nvidia.co.kr/feed/"
+    },
+    {
+      "label": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/"
+    },
+    {
+      "label": "Google Research Blog",
+      "url": "https://research.google/blog/rss/"
+    },
+    {
+      "label": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/rss.xml"
+    },
+    {
+      "label": "DEEPX",
+      "url": "https://www.deepx.ai/feed/"
+    },
+    {
+      "label": "HyperAccel",
+      "url": "https://hyperaccel.ai/feed/"
+    },
     {
       "label": "AI 시장 전체",
       "url": "https://news.google.com/rss/search?q=(%22AI%20market%22%20OR%20%22generative%20AI%22%20OR%20%22AI%20adoption%22%20OR%20%22AI%20revenue%22%20OR%20%22AI%20spending%22%20OR%20%22AI%20investment%22%20OR%20%22AI%20demand%22)&hl=en-US&gl=US&ceid=US:en"
