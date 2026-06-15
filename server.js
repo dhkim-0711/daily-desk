@@ -207,7 +207,6 @@ const equities = [
   { symbol: "SMCI", name: "Supermicro", market: "US" },
   { symbol: "005930.KS", name: "삼성전자", market: "KR" },
   { symbol: "000660.KS", name: "SK하이닉스", market: "KR" },
-  { symbol: "091990.KQ", name: "셀바스AI", market: "KR AI proxy" },
 ];
 
 const indices = [
