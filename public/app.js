@@ -1056,7 +1056,6 @@ function renderWeeklyIssueBriefing(data, topIssues = weeklyIssueBriefing(data)) 
               <strong>${index + 1}</strong>
               <a class="weekly-copy" href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer"${originalTitle}>
                 <b>${escapeHtml(displayTitle)}</b>
-                <em>${escapeHtml(cleanSummary(article.summary))}</em>
                 <small>${escapeHtml(article.source)} · ${formatDate(article.publishedAt, { short: true })}</small>
                 <span class="weekly-tags">
                   ${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}
