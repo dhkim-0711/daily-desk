@@ -3,7 +3,7 @@ name: Build dashboard data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 22 * * *"
+    - cron: "10 22,1,4,7,10,13 * * *"
 
 permissions:
   contents: write
