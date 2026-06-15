@@ -889,9 +889,8 @@ function weeklyArticleAnalysis(article) {
   const isGlobal = weeklyRegion(article) === "global";
   const normalizedSummary = (article.summary || "").replace(/\s+-\s+[^-]+$/, "").replace(/\s+/g, " ").trim();
   const detailedSummary = normalizedSummary
-    ? normalizedSummary.length > 320 ? `${normalizedSummary.slice(0, 320).trim()}...` : normalizedSummary
-    : "기사 요약 정보가 제한적이어서 제목과 태그를 중심으로 이슈를 해석했습니다.";
-  const sourceLine = `출처 : ${article.source}(${formatDate(article.publishedAt, { short: true })})`;
+    ? normalizedSummary.length > 520 ? `${normalizedSummary.slice(0, 520).trim()}...` : normalizedSummary
+    : "기사 요약 정보가 제한적으로 제공되어 주요내용을 자세히 표시하기 어렵습니다.";
   const companyTags = (article.companyHits || []).filter((tag) => !["AI시장", "정책", "NPU"].includes(tag)).slice(0, 3);
   const companyText = companyTags.length ? companyTags.join(", ") : "관련 기업";
   const hasSupplyChain = articleHasAny(article, ["samsung", "삼성", "tsmc", "foundry", "파운드리", "2나노", "공급망", "tpu", "ai chip"]);
@@ -936,7 +935,7 @@ function weeklyArticleAnalysis(article) {
     outlook += " 해외 기사이므로 국내 적용 시에는 한국 기업의 공급망 접근성, 고객 확보 가능성, 규제·조달 환경 차이를 함께 보정해 해석해야 합니다.";
   }
 
-  core = `"${title}" 기사 주요내용은 다음과 같습니다. ${detailedSummary}\n\n${sourceLine}`;
+  core = detailedSummary;
 
   return [
     { title: "주요내용", body: core },
