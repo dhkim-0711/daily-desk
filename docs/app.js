@@ -508,6 +508,36 @@ function closeIssueModal() {
   $("#issueModal").hidden = true;
 }
 
+function openWeeklyAnalysisModal(index) {
+  const topIssues = weeklyIssueBriefing(state.data);
+  const article = topIssues[index];
+  if (!article) return;
+  const sections = weeklyArticleAnalysis(article);
+  const isGlobal = weeklyRegion(article) === "global";
+  const sourceMeta = `${issueName(article)} · ${article.source} · ${formatDate(article.publishedAt, { short: true })}`;
+  $("#weeklyAnalysisKicker").textContent = isGlobal ? `${sourceMeta} · 외신 제목 번역` : sourceMeta;
+  $("#weeklyAnalysisTitle").textContent = weeklyDisplayTitle(article);
+  $("#weeklyAnalysisBody").innerHTML = `
+    <div class="weekly-modal-meta">
+      <a href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer">원문 기사 보기</a>
+      ${(article.taxonomyHits || []).slice(0, 4).map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}
+    </div>
+    <div class="weekly-analysis-grid weekly-modal-grid">
+      ${sections.map((section) => `
+        <section>
+          <h4>${escapeHtml(section.title)}</h4>
+          <p>${escapeHtml(section.body)}</p>
+        </section>
+      `).join("")}
+    </div>
+  `;
+  $("#weeklyAnalysisModal").hidden = false;
+}
+
+function closeWeeklyAnalysisModal() {
+  $("#weeklyAnalysisModal").hidden = true;
+}
+
 function policyStorageKey(data = state.data) {
   const day = dayKey(data?.generatedAt || new Date().toISOString());
   return `daily-desk-policy-ideas:${day}`;
@@ -847,6 +877,66 @@ function weeklyDisplayTitle(article) {
   return weeklyRegion(article) === "global" ? translateForeignTitle(article.title) : article.title;
 }
 
+function articleHasAny(article, terms) {
+  const haystack = articleText(article);
+  return terms.some((term) => haystack.includes(term.toLowerCase()));
+}
+
+function weeklyArticleAnalysis(article) {
+  const title = weeklyDisplayTitle(article);
+  const tags = [...new Set([issueName(article), ...(article.taxonomyHits || []), ...(article.companyHits || [])])].filter(Boolean);
+  const tagText = tags.slice(0, 4).join(", ") || "AI 반도체";
+  const isGlobal = weeklyRegion(article) === "global";
+  const hasSupplyChain = articleHasAny(article, ["samsung", "삼성", "tsmc", "foundry", "파운드리", "2나노", "공급망", "tpu", "ai chip"]);
+  const hasInfrastructure = articleHasAny(article, ["data center", "데이터센터", "ai infrastructure", "gpu", "ai factory", "투자", "spending", "cloud"]);
+  const hasDomesticNpu = articleHasAny(article, ["리벨리온", "퓨리오사", "딥엑스", "모빌린트", "하이퍼엑셀", "npu", "온디바이스", "국산"]);
+  const hasPolicy = articleHasAny(article, ["과기정통부", "정부", "nipa", "공모", "정책", "공공", "조달", "예산", "사업"]);
+  const hasMarket = articleHasAny(article, ["market", "시장", "매출", "수요", "점유율", "실적", "전망", "valuation", "funding"]);
+
+  let core = `"${title}" 이슈는 ${tagText} 흐름과 연결되는 기사로, 단일 기업 소식보다 AI 반도체 생태계의 수요와 실행 조건을 함께 봐야 하는 신호입니다.`;
+  let impact = "관련 기업에는 성능 경쟁뿐 아니라 레퍼런스 확보, 공급 안정성, 상용 검증 속도가 동시에 중요한 경쟁 축으로 부상합니다.";
+  let outlook = "단기적으로는 대형 고객과 공공 실증 사례가 뉴스 흐름을 좌우하고, 중기적으로는 전력 효율과 실제 운용비 절감 효과가 시장 채택을 가르는 기준이 될 가능성이 큽니다.";
+  let policy = "비R&D 관점에서는 기술개발 보조보다 수요처 발굴, 실증 환경 제공, 조달 연계, 해외 PoC 지원처럼 시장 진입 장벽을 낮추는 사업 설계가 적합합니다.";
+
+  if (hasSupplyChain) {
+    core = `"${title}"은 AI칩 경쟁이 설계 성능을 넘어 파운드리, 패키징, 고객사 확보 등 공급망 실행력으로 확장되고 있음을 보여줍니다.`;
+    impact = "국내 NPU 기업에는 자체 칩 완성도만큼 생산 파트너십, 검증 일정, 수율 리스크 관리가 사업화 신뢰도를 좌우하는 요인으로 커집니다.";
+    outlook = "대형 빅테크와 반도체 제조사의 협력이 더 촘촘해질수록 중소 NPU 기업은 특정 응용처와 저전력 추론 시장에서 차별화된 포지션을 잡아야 합니다.";
+    policy = "공급망 매칭, MPW·시제품 제작 연계, 패키징·검증 바우처, 수요기업 공동 PoC를 묶은 비R&D형 사업이 정책 효과를 내기 쉽습니다.";
+  } else if (hasInfrastructure) {
+    core = `"${title}"은 AI 인프라 투자가 데이터센터, GPU 병목, 전력 비용, 클라우드 운용비 문제와 함께 움직이고 있음을 보여줍니다.`;
+    impact = "국산 NPU는 GPU 대체재라기보다 추론 워크로드의 비용과 전력 효율을 낮추는 보완재로 포지셔닝할 여지가 커집니다.";
+    outlook = "AI 서비스가 대규모 추론 단계로 넘어갈수록 전력 대비 성능, 운영 안정성, 클라우드·온프레미스 적용성이 중요한 구매 기준이 될 전망입니다.";
+    policy = "공공·민간 데이터센터에서 국산 NPU 기반 추론 서비스를 실증하고, 운영비 절감 데이터를 공개 벤치마크로 축적하는 사업이 필요합니다.";
+  } else if (hasDomesticNpu) {
+    core = `"${title}"은 국내 NPU 기업이 연구개발 단계를 지나 실제 고객, 자금, 양산, 상장, 서비스 적용과 연결되는 사업화 국면에 들어섰다는 신호입니다.`;
+    impact = "기업별 기술 우위보다 레퍼런스 확보 속도와 산업별 적용 사례가 투자·조달·해외 진출의 핵심 근거가 될 가능성이 큽니다.";
+    outlook = "국내 NPU 생태계는 개별 기업 지원보다 공동 실증, 소프트웨어 스택, 개발자 접근성, 수요기업 전환비용을 함께 낮추는 방향으로 경쟁력이 갈릴 것입니다.";
+    policy = "비R&D 사업은 K-엔비디아 참여기업별 수요처 매칭, PoC 패키지, 해외 전시·고객검증, 공공서비스 적용 트랙을 분리해 운영하는 편이 효과적입니다.";
+  } else if (hasPolicy) {
+    core = `"${title}"은 정부·공공기관의 AI 정책과 사업이 민간 수요 창출, 인프라 확보, 생태계 조성으로 연결되는 흐름을 보여줍니다.`;
+    impact = "정책 사업이 단발성 지원에 그치지 않으려면 국내 NPU 기업이 실제 고객 환경에서 성능과 운영성을 입증할 수 있는 장치가 함께 필요합니다.";
+    outlook = "AI 반도체 정책은 R&D 중심에서 실증, 조달, 표준 벤치마크, 데이터센터 적용 같은 시장 형성형 사업으로 무게가 옮겨갈 가능성이 큽니다.";
+    policy = "NIPA·과기정통부 사업과 연계해 수요기업 컨소시엄, 공공 레퍼런스, 조달 전환, 성과 데이터 공개까지 이어지는 비R&D 패키지로 설계하는 것이 좋습니다.";
+  } else if (hasMarket) {
+    core = `"${title}"은 AI 시장의 수요, 투자, 실적 기대가 반도체와 인프라 기업의 가치평가에 직접 반영되고 있음을 보여줍니다.`;
+    impact = "시장 기대가 커질수록 국내 NPU 기업에도 기술 설명보다 매출 전환 가능성, 고객군, 단가 경쟁력, 양산 계획을 증명하라는 압력이 커집니다.";
+    outlook = "단기적으로는 빅테크 투자와 주가 흐름이 시장 분위기를 좌우하겠지만, 중기적으로는 추론 비용 절감과 산업별 적용 사례가 성장성을 검증할 것입니다.";
+    policy = "정책은 보조금 배분보다 수요 기반 실증, 투자 연계 IR, 해외 고객 검증, 성과지표 표준화를 통해 민간 자금이 들어올 수 있는 조건을 만드는 데 집중해야 합니다.";
+  }
+
+  if (isGlobal) {
+    outlook += " 해외 기사이므로 국내 적용 시에는 한국 기업의 공급망 접근성, 고객 확보 가능성, 규제·조달 환경 차이를 함께 보정해 해석해야 합니다.";
+  }
+
+  return [
+    { title: "핵심내용", body: core },
+    { title: "산업적 파급효과", body: impact },
+    { title: "전망", body: outlook },
+    { title: "정책 방향 추천", body: policy },
+  ];
+}
+
 function weeklyIssueBriefing(data) {
   const generatedAt = asDate(data.generatedAt) || new Date();
   const weekStart = new Date(generatedAt.getTime() - 7 * 24 * 60 * 60 * 1000);
@@ -942,17 +1032,18 @@ function renderWeeklyIssueBriefing(data, topIssues = weeklyIssueBriefing(data)) 
           const displayTitle = weeklyDisplayTitle(article);
           const originalTitle = displayTitle !== article.title ? ` title="${escapeHtml(article.title)}"` : "";
           return `
-            <a class="weekly-item" href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer"${originalTitle}>
+            <article class="weekly-item">
               <strong>${index + 1}</strong>
-              <span class="weekly-copy">
+              <a class="weekly-copy" href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer"${originalTitle}>
                 <b>${escapeHtml(displayTitle)}</b>
                 <em>${escapeHtml(cleanSummary(article.summary))}</em>
                 <small>${escapeHtml(article.source)} · ${formatDate(article.publishedAt, { short: true })}</small>
                 <span class="weekly-tags">
                   ${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}
                 </span>
-              </span>
-            </a>
+              </a>
+              <button class="weekly-analysis-btn" type="button" data-weekly-analysis-index="${index}">분석</button>
+            </article>
           `;
         }).join("")}
       </div>
@@ -1123,6 +1214,11 @@ document.addEventListener("click", (event) => {
     openPolicyModal(Number(policy.dataset.policyIndex));
     return;
   }
+  const weeklyAnalysis = event.target.closest("[data-weekly-analysis-index]");
+  if (weeklyAnalysis) {
+    openWeeklyAnalysisModal(Number(weeklyAnalysis.dataset.weeklyAnalysisIndex));
+    return;
+  }
   const issue = event.target.closest("[data-issue-modal]");
   if (issue) {
     openIssueModal(issue.dataset.issueModal);
@@ -1136,6 +1232,10 @@ $("#policyModal").addEventListener("click", (event) => {
 $("#issueModalClose").addEventListener("click", closeIssueModal);
 $("#issueModal").addEventListener("click", (event) => {
   if (event.target.id === "issueModal") closeIssueModal();
+});
+$("#weeklyAnalysisModalClose").addEventListener("click", closeWeeklyAnalysisModal);
+$("#weeklyAnalysisModal").addEventListener("click", (event) => {
+  if (event.target.id === "weeklyAnalysisModal") closeWeeklyAnalysisModal();
 });
 
 $$(".view-tab").forEach((button) => {

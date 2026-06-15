@@ -756,8 +756,9 @@ select {
 
 .weekly-item {
   display: grid;
-  grid-template-columns: 34px minmax(0, 1fr);
+  grid-template-columns: 34px minmax(0, 1fr) auto;
   gap: 12px;
+  align-items: flex-start;
   padding: 14px 0;
   border-bottom: 1px solid var(--line);
 }
@@ -782,6 +783,7 @@ select {
   display: grid;
   gap: 6px;
   min-width: 0;
+  text-decoration: none;
 }
 
 .weekly-copy b {
@@ -824,6 +826,25 @@ select {
   color: var(--blue);
   font-size: 12px;
   font-weight: 720;
+}
+
+.weekly-analysis-btn {
+  min-height: 32px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--blue);
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.weekly-analysis-btn:hover {
+  border-color: var(--blue-hover);
+  background: var(--blue-soft);
+  color: var(--blue-hover);
 }
 
 .weekly-insight {
@@ -898,6 +919,10 @@ select {
 
 .issue-modal-panel {
   width: min(860px, 100%);
+}
+
+.weekly-modal-panel {
+  width: min(900px, 100%);
 }
 
 .modal-close {
@@ -980,6 +1005,34 @@ select {
   white-space: nowrap;
 }
 
+.weekly-modal-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 0 0 14px !important;
+  border-top: 0 !important;
+}
+
+.weekly-modal-meta a,
+.weekly-modal-meta span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 4px 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel-soft);
+  color: var(--blue);
+  font-size: 12px;
+  font-weight: 760;
+}
+
+.weekly-modal-grid {
+  padding: 0 !important;
+  border-top: 0 !important;
+  margin-top: 0;
+}
+
 .skeleton {
   height: 22px;
   border-radius: 6px;
@@ -1055,6 +1108,15 @@ select {
   .policy-top {
     grid-template-columns: 1fr;
     display: grid;
+  }
+
+  .weekly-item {
+    grid-template-columns: 30px minmax(0, 1fr);
+  }
+
+  .weekly-analysis-btn {
+    grid-column: 2;
+    justify-self: flex-start;
   }
 
   .article-meta,
