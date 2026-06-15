@@ -885,6 +885,21 @@ select {
   word-break: keep-all;
 }
 
+.weekly-main-content {
+  display: grid;
+  gap: 12px;
+}
+
+.weekly-main-content strong {
+  color: var(--ink);
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+.weekly-main-content span {
+  color: #465568;
+}
+
 .empty,
 .error {
   padding: 16px;

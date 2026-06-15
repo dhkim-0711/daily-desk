@@ -508,6 +508,17 @@ function closeIssueModal() {
   $("#issueModal").hidden = true;
 }
 
+function weeklyAnalysisSectionBody(section) {
+  if (section.title !== "주요내용") return `<p>${escapeHtml(section.body)}</p>`;
+  const [headline, ...paragraphs] = section.body.split(/\n\s*\n/);
+  return `
+    <p class="weekly-main-content">
+      <strong>${escapeHtml(headline)}</strong>
+      <span>${escapeHtml(paragraphs.join("\n\n"))}</span>
+    </p>
+  `;
+}
+
 function openWeeklyAnalysisModal(index) {
   const topIssues = weeklyIssueBriefing(state.data);
   const article = topIssues[index];
@@ -524,9 +535,9 @@ function openWeeklyAnalysisModal(index) {
     </div>
     <div class="weekly-analysis-grid weekly-modal-grid">
       ${sections.map((section) => `
-        <section>
+        <section class="${section.title === "주요내용" ? "weekly-main-section" : ""}">
           <h4>${escapeHtml(section.title)}</h4>
-          <p>${escapeHtml(section.body)}</p>
+          ${weeklyAnalysisSectionBody(section)}
         </section>
       `).join("")}
     </div>
@@ -882,15 +893,23 @@ function articleHasAny(article, terms) {
   return terms.some((term) => haystack.includes(term.toLowerCase()));
 }
 
+function articleMainSummaryText(summary) {
+  if (!summary) return "기사 요약 정보가 제한적으로 제공되어 주요내용을 자세히 표시하기 어렵습니다.";
+  const sentences = summary
+    .split(/(?<=[.!?。！？])\s+|(?<=다\.)\s+|(?<=요\.)\s+/)
+    .map((sentence) => sentence.trim())
+    .filter(Boolean);
+  const body = sentences.length > 1 ? sentences.slice(0, 4).join(" ") : summary;
+  return body.length > 620 ? `${body.slice(0, 620).trim()}...` : body;
+}
+
 function weeklyArticleAnalysis(article) {
   const title = weeklyDisplayTitle(article);
   const tags = [...new Set([issueName(article), ...(article.taxonomyHits || []), ...(article.companyHits || [])])].filter(Boolean);
   const tagText = tags.slice(0, 4).join(", ") || "AI 반도체";
   const isGlobal = weeklyRegion(article) === "global";
   const normalizedSummary = (article.summary || "").replace(/\s+-\s+[^-]+$/, "").replace(/\s+/g, " ").trim();
-  const detailedSummary = normalizedSummary
-    ? normalizedSummary.length > 520 ? `${normalizedSummary.slice(0, 520).trim()}...` : normalizedSummary
-    : "기사 요약 정보가 제한적으로 제공되어 주요내용을 자세히 표시하기 어렵습니다.";
+  const detailedSummary = articleMainSummaryText(normalizedSummary);
   const companyTags = (article.companyHits || []).filter((tag) => !["AI시장", "정책", "NPU"].includes(tag)).slice(0, 3);
   const companyText = companyTags.length ? companyTags.join(", ") : "관련 기업";
   const hasSupplyChain = articleHasAny(article, ["samsung", "삼성", "tsmc", "foundry", "파운드리", "2나노", "공급망", "tpu", "ai chip"]);
@@ -935,7 +954,7 @@ function weeklyArticleAnalysis(article) {
     outlook += " 해외 기사이므로 국내 적용 시에는 한국 기업의 공급망 접근성, 고객 확보 가능성, 규제·조달 환경 차이를 함께 보정해 해석해야 합니다.";
   }
 
-  core = detailedSummary;
+  core = `${title}\n\n${detailedSummary}`;
 
   return [
     { title: "주요내용", body: core },
