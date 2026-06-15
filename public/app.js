@@ -694,6 +694,82 @@ function renderMarket(data) {
   $("#equityList").innerHTML = data.market.equities.map(marketCard).join("");
 }
 
+const weeklyIssueStopwords = new Set([
+  "ai",
+  "the",
+  "and",
+  "for",
+  "with",
+  "from",
+  "news",
+  "weekly",
+  "issue",
+  "국내",
+  "해외",
+  "기자",
+  "관련",
+  "이번",
+  "지난",
+  "통해",
+  "대한",
+  "위한",
+  "시장",
+  "기업",
+  "산업",
+  "반도체",
+  "이슈",
+  "투자",
+  "확대",
+]);
+
+function weeklyIssueTerms(article) {
+  const raw = `${article.title || ""} ${article.summary || ""}`
+    .toLowerCase()
+    .replace(/\s+-\s+[^-]+$/, " ");
+  const terms = new Set(
+    (raw.match(/[a-z0-9]{2,}|[가-힣]{2,}/g) || [])
+      .map((term) => term.trim())
+      .filter((term) => term.length >= 2 && !weeklyIssueStopwords.has(term)),
+  );
+
+  for (const tag of [...(article.taxonomyHits || []), ...(article.companyHits || [])]) {
+    const normalized = String(tag).toLowerCase().replace(/\s+/g, "");
+    if (normalized && !weeklyIssueStopwords.has(normalized)) terms.add(normalized);
+  }
+  return terms;
+}
+
+function countSharedItems(left = [], right = [], ignored = new Set()) {
+  const rightSet = new Set(right.filter((item) => !ignored.has(item)));
+  return left.filter((item) => !ignored.has(item) && rightSet.has(item)).length;
+}
+
+function termOverlapRatio(leftTerms, rightTerms) {
+  if (!leftTerms?.size || !rightTerms?.size) return 0;
+  let shared = 0;
+  for (const term of leftTerms) {
+    if (rightTerms.has(term)) shared += 1;
+  }
+  return shared / Math.min(leftTerms.size, rightTerms.size);
+}
+
+function isSameWeeklyIssue(article, selected) {
+  const titleKey = article.title.replace(/\s+-\s+[^-]+$/, "").replace(/\s+/g, " ").trim().toLowerCase();
+  const selectedTitleKey = selected.title.replace(/\s+-\s+[^-]+$/, "").replace(/\s+/g, " ").trim().toLowerCase();
+  if (titleKey === selectedTitleKey) return true;
+
+  const overlap = termOverlapRatio(article.weeklyTerms, selected.weeklyTerms);
+  const sharedCompanies = countSharedItems(article.companyHits || [], selected.companyHits || []);
+  const sharedTaxonomy = countSharedItems(article.taxonomyHits || [], selected.taxonomyHits || [], new Set(["AI시장"]));
+  const sameCategory = issueName(article) === issueName(selected);
+
+  if (overlap >= 0.58) return true;
+  if (sameCategory && sharedCompanies >= 2 && overlap >= 0.36) return true;
+  if (sameCategory && sharedCompanies >= 1 && overlap >= 0.48) return true;
+  if (sameCategory && sharedTaxonomy >= 2 && overlap >= 0.42) return true;
+  return false;
+}
+
 function weeklyIssueBriefing(data) {
   const generatedAt = asDate(data.generatedAt) || new Date();
   const weekStart = new Date(generatedAt.getTime() - 7 * 24 * 60 * 60 * 1000);
@@ -709,18 +785,19 @@ function weeklyIssueBriefing(data) {
       const issueScore = issueName(article) === "AI시장" ? 4 : issueName(article) === "정책" ? 3 : 2;
       return {
         ...article,
+        weeklyTerms: weeklyIssueTerms(article),
         weeklyScore: (article.score || 0) + tagScore + issueScore + Math.max(0, 7 - ageDays),
       };
     })
     .sort((a, b) => b.weeklyScore - a.weeklyScore);
 
-  const seen = new Set();
-  return articles.filter((article) => {
-    const key = article.title.replace(/\s+/g, " ").trim().toLowerCase();
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  }).slice(0, 7);
+  const selected = [];
+  for (const article of articles) {
+    if (selected.some((item) => isSameWeeklyIssue(article, item))) continue;
+    selected.push(article);
+    if (selected.length >= 7) break;
+  }
+  return selected;
 }
 
 function weeklyIssueInsights(topIssues) {
