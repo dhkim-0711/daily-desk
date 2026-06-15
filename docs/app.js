@@ -921,7 +921,7 @@ function renderWeeklyIssueBriefing(data, topIssues = weeklyIssueBriefing(data)) 
     return `
       <article class="weekly-brief review-card">
         <p class="eyebrow">Weekly Issue Top 7</p>
-        <h3>주간 이슈 브리핑 Top 7</h3>
+        <h3>주간 이슈 Top 7</h3>
         <p>최근 7일 이내 수집된 기사 중 선별할 수 있는 이슈가 아직 없습니다.</p>
       </article>
     `;
@@ -932,7 +932,7 @@ function renderWeeklyIssueBriefing(data, topIssues = weeklyIssueBriefing(data)) 
       <div class="weekly-brief-head">
         <div>
           <p class="eyebrow">Weekly Issue Top 7</p>
-          <h3>주간 이슈 브리핑 Top 7</h3>
+          <h3>주간 이슈 Top 7</h3>
         </div>
         <span>최근 7일 기준</span>
       </div>
