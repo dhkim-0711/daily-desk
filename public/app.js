@@ -891,6 +891,7 @@ function weeklyArticleAnalysis(article) {
   const detailedSummary = normalizedSummary
     ? normalizedSummary.length > 320 ? `${normalizedSummary.slice(0, 320).trim()}...` : normalizedSummary
     : "기사 요약 정보가 제한적이어서 제목과 태그를 중심으로 이슈를 해석했습니다.";
+  const sourceLine = `출처 : ${article.source}(${formatDate(article.publishedAt, { short: true })})`;
   const companyTags = (article.companyHits || []).filter((tag) => !["AI시장", "정책", "NPU"].includes(tag)).slice(0, 3);
   const companyText = companyTags.length ? companyTags.join(", ") : "관련 기업";
   const hasSupplyChain = articleHasAny(article, ["samsung", "삼성", "tsmc", "foundry", "파운드리", "2나노", "공급망", "tpu", "ai chip"]);
@@ -935,7 +936,7 @@ function weeklyArticleAnalysis(article) {
     outlook += " 해외 기사이므로 국내 적용 시에는 한국 기업의 공급망 접근성, 고객 확보 가능성, 규제·조달 환경 차이를 함께 보정해 해석해야 합니다.";
   }
 
-  core = `${article.source}가 ${formatDate(article.publishedAt, { short: true })}에 보도한 기사입니다. 기사 주요내용 요약: ${detailedSummary} 추가로 봐야 할 지점은 ${core} 관련 태그는 ${tagText}이며, 단순 뉴스 소비보다 국내 NPU 생태계의 수요 창출, 실증 기회, 공급망 대응 관점에서 후속 정책 아이템으로 연결해볼 필요가 있습니다.`;
+  core = `"${title}" 기사 주요내용은 다음과 같습니다. ${detailedSummary}\n\n${sourceLine}`;
 
   return [
     { title: "주요내용", body: core },
