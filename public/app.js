@@ -694,6 +694,78 @@ function renderMarket(data) {
   $("#equityList").innerHTML = data.market.equities.map(marketCard).join("");
 }
 
+function weeklyIssueBriefing(data) {
+  const generatedAt = asDate(data.generatedAt) || new Date();
+  const weekStart = new Date(generatedAt.getTime() - 7 * 24 * 60 * 60 * 1000);
+  const articles = data.news.articles
+    .filter((article) => {
+      const publishedAt = asDate(article.publishedAt);
+      return publishedAt && publishedAt >= weekStart && publishedAt <= generatedAt;
+    })
+    .map((article) => {
+      const publishedAt = asDate(article.publishedAt);
+      const ageDays = publishedAt ? Math.max(0, (generatedAt - publishedAt) / (24 * 60 * 60 * 1000)) : 7;
+      const tagScore = (article.taxonomyHits?.length || 0) * 2 + (article.companyHits?.length || 0);
+      const issueScore = issueName(article) === "AI시장" ? 4 : issueName(article) === "정책" ? 3 : 2;
+      return {
+        ...article,
+        weeklyScore: (article.score || 0) + tagScore + issueScore + Math.max(0, 7 - ageDays),
+      };
+    })
+    .sort((a, b) => b.weeklyScore - a.weeklyScore);
+
+  const seen = new Set();
+  return articles.filter((article) => {
+    const key = article.title.replace(/\s+/g, " ").trim().toLowerCase();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  }).slice(0, 5);
+}
+
+function renderWeeklyIssueBriefing(data) {
+  const topIssues = weeklyIssueBriefing(data);
+  if (!topIssues.length) {
+    return `
+      <article class="weekly-brief review-card">
+        <p class="eyebrow">Weekly Issue Briefing</p>
+        <h3>주간 이슈 브리핑 Top 5</h3>
+        <p>최근 7일 이내 수집된 기사 중 선별할 수 있는 이슈가 아직 없습니다.</p>
+      </article>
+    `;
+  }
+
+  return `
+    <article class="weekly-brief review-card">
+      <div class="weekly-brief-head">
+        <div>
+          <p class="eyebrow">Weekly Issue Briefing</p>
+          <h3>주간 이슈 브리핑 Top 5</h3>
+        </div>
+        <span>최근 7일 기준</span>
+      </div>
+      <div class="weekly-list">
+        ${topIssues.map((article, index) => {
+          const tags = [...new Set([issueName(article), ...(article.taxonomyHits || []), ...(article.companyHits || [])])].filter(Boolean).slice(0, 5);
+          return `
+            <a class="weekly-item" href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer">
+              <strong>${index + 1}</strong>
+              <span class="weekly-copy">
+                <b>${escapeHtml(article.title)}</b>
+                <em>${escapeHtml(cleanSummary(article.summary))}</em>
+                <small>${escapeHtml(article.source)} · ${formatDate(article.publishedAt, { short: true })}</small>
+                <span class="weekly-tags">
+                  ${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}
+                </span>
+              </span>
+            </a>
+          `;
+        }).join("")}
+      </div>
+    </article>
+  `;
+}
+
 function fallbackReview(data) {
   const signals = data.briefing.signals;
   const topTech = signals.technologies.find(([, count]) => count > 0)?.[0] || "NPU";
@@ -727,6 +799,7 @@ function renderReview(data) {
         `).join("")}
       </div>
     </article>
+    ${renderWeeklyIssueBriefing(data)}
     <div class="review-grid">
       ${(review.sections || []).map((section) => `
         <article class="review-card">
