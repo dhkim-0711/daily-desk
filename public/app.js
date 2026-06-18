@@ -1411,6 +1411,6 @@ $("#dateSelect").addEventListener("change", (event) => {
   render();
 });
 
-$("#refreshBtn").addEventListener("click", () => loadDashboard(true));
+$("#refreshBtn").addEventListener("click", () => location.reload());
 
 loadDashboard();
