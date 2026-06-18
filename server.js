@@ -831,6 +831,32 @@ function countByIssue(articles) {
   return [...counts.entries()].sort((a, b) => b[1] - a[1]);
 }
 
+function articleTextForReview(article) {
+  return `${article.source || ""} ${article.title || ""} ${article.summary || ""} ${article.fullSummary || ""} ${article.fullText || ""} ${(article.taxonomyHits || []).join(" ")} ${(article.companyHits || []).join(" ")}`.toLowerCase();
+}
+
+function buildReviewSignalProfile(articles) {
+  const corpus = articles.map(articleTextForReview).join(" ");
+  const hasAny = (terms) => terms.some((term) => corpus.includes(term.toLowerCase()));
+  return {
+    supplyChain: hasAny(["samsung", "삼성", "tsmc", "파운드리", "foundry", "2나노", "공급망", "supply chain"]),
+    foundryPackaging: hasAny(["파운드리", "foundry", "tsmc", "패키징", "packaging", "hbm", "cowos", "첨단공정"]),
+    infrastructure: hasAny(["data center", "데이터센터", "ai infrastructure", "gpu", "ai factory", "팩토리", "투자", "spending", "capex"]),
+    inferenceCost: hasAny(["inference", "추론", "전력", "power", "latency", "지연시간", "운영비", "비용", "저전력"]),
+    domesticNpu: hasAny(["리벨리온", "퓨리오사", "딥엑스", "모빌린트", "하이퍼엑셀", "npu", "국민성장펀드", "코스닥"]),
+    production: hasAny(["양산", "mass production", "sample", "샘플", "시제품", "tape-out", "테이프아웃", "출시"]),
+    customerProof: hasAny(["고객", "계약", "공급", "파트너", "협약", "mou", "poc", "실증", "레퍼런스", "도입"]),
+    policy: hasAny(["과기정통부", "정부", "공모전", "정책", "공공", "nipa", "정보통신산업진흥원", "조달", "사업공고"]),
+    procurement: hasAny(["조달", "공공", "공모", "사업공고", "지원사업", "바우처", "구매", "실증사업"]),
+    investment: hasAny(["funding", "투자 유치", "펀드", "국민성장펀드", "ipo", "상장", "valuation", "기업가치", "m&a"]),
+    onDevice: hasAny(["온디바이스", "on-device", "edge ai", "엣지", "저전력", "디바이스", "모빌리티"]),
+    softwareStack: hasAny(["sdk", "software", "소프트웨어", "compiler", "컴파일러", "개발도구", "모델 포팅", "runtime"]),
+    exportControl: hasAny(["수출통제", "export control", "sanction", "제재", "규제", "안보", "sovereign ai", "칩스법", "chips act"]),
+    modelPlatform: hasAny(["model", "모델", "gemini", "deepmind", "agent", "에이전트", "local ai", "llm", "api", "서비스"]),
+    earnings: hasAny(["earnings", "revenue", "매출", "실적", "가이던스", "주가", "수익", "수익화"]),
+  };
+}
+
 function generateBriefingReview(articles, market, signals, policyIdeas) {
   const issueCounts = countByIssue(articles);
   const topIssue = issueCounts[0]?.[0] || "AI시장";
@@ -839,7 +865,84 @@ function generateBriefingReview(articles, market, signals, policyIdeas) {
   const npuCount = issueCounts.find(([key]) => key === "NPU")?.[1] || 0;
   const policyCount = issueCounts.find(([key]) => key === "정책")?.[1] || 0;
   const semisWeak = market.indices.some((item) => /SOX|Semiconductor/i.test(`${item.symbol} ${item.name}`) && item.changePct < -1);
-  const headline = `${topIssue} 신호가 가장 크며, 정책 설계의 기준 기술축은 ${topTech}로 잡는 것이 적절합니다.`;
+  const profile = buildReviewSignalProfile(articles);
+  const focus = [
+    profile.exportControl ? "수출통제·AI컴퓨팅 안보" : "",
+    profile.foundryPackaging ? "파운드리·패키징 병목" : "",
+    profile.infrastructure ? "AI 인프라 투자" : "",
+    profile.inferenceCost ? "추론비용·전력효율" : "",
+    profile.domesticNpu ? "국내 NPU 사업화" : "",
+    profile.policy ? "공공 수요·정책 집행" : "",
+    profile.softwareStack ? "NPU 소프트웨어 생태계" : "",
+    profile.onDevice ? "온디바이스AI" : "",
+  ].filter(Boolean);
+  const focusText = focus.slice(0, 3).join(", ") || `${topIssue}·${topTech}`;
+  const headline = `${focusText} 신호를 중심으로, 신규 예산은 기술개발보다 수요 검증·운영 데이터·조달 전환을 강화하는 방향이 적절합니다.`;
+
+  let policyInsightBody = aiMarketCount >= npuCount
+    ? "시장 신호가 기술 신호보다 넓게 잡히고 있어, 신규 예산은 기술공급 지원보다 수요처 확보와 구매전환 구조를 중심에 두는 편이 타당합니다."
+    : "NPU 및 제품화 신호가 강하므로, 신규 예산은 연구개발보다 레퍼런스 확보, 운영검증, 성능인증을 통해 상용 전환을 앞당기는 방향이 적절합니다.";
+  let policyInsightBullets = [
+    `${topTech}는 예산기획의 핵심 기술축으로 유지`,
+    "시장 기사는 수요·투자 근거, 정책 기사는 집행근거와 제도개선 근거로 분리 활용",
+    "기업별 보조보다 공동 검증·공동 조달·공동 수요처 발굴 체계가 정책효과 측정에 유리",
+  ];
+  let marketTechBody = "AI 인프라 투자 확대와 공급망 재편은 국산 NPU에 기회지만, 실제 도입은 성능·전력·가격·운영 안정성 비교자료가 있어야 가능합니다.";
+  let marketTechBullets = [
+    "데이터센터 전력비와 추론비용 절감은 가장 설득력 있는 시장 진입 논리",
+    "온디바이스AI와 보안·금융 등 폐쇄망 수요는 해외 GPU 대비 차별화 가능성이 큼",
+    "파운드리·공급망 이슈는 국산 NPU 정책의 필요조건이지만, 구매전환을 보장하지는 않음",
+  ];
+  let governmentBody = semisWeak
+    ? "반도체 투자심리가 약한 구간에서는 직접 보조보다 구매확약, 보증, 실증비, 운영비 절감 검증처럼 민간 리스크를 줄이는 방식이 적합합니다."
+    : "시장 여건이 크게 위축되지 않은 구간에서는 공공 실증과 민간 수요처 매칭을 동시에 추진해 초기 매출 레퍼런스를 만드는 방식이 적합합니다.";
+  let governmentBullets = [
+    "실증과 구매전환을 분리하지 말고 한 사업 안에서 단계형으로 설계",
+    "공공 AI서비스, 보안·금융, 데이터센터, 온디바이스 산업현장처럼 수요가 명확한 분야부터 선별",
+    "성과지표는 과제 수가 아니라 사용시간, 전력절감률, 유료전환율, 구매계약액으로 설정",
+  ];
+  let budgetBody = `우선 검토할 정책 아이템은 "${policyIdeas[0]?.title || "국산 NPU 수요연계 실증·구매전환 바우처"}"입니다. 신규 예산은 제품 개발비보다 수요처 발굴, 실증 운영비, 성능검증, 구매전환 조건을 묶는 방향이 적합합니다.`;
+  let budgetBullets = [
+    "기업별 제품성숙도, 적용 가능 워크로드, 목표 수요처를 표준 양식으로 비교",
+    "시장 기사에서 반복되는 수요 분야를 공공 실증 후보 업무로 매핑",
+    "사업 공고에는 성능검증, 보안검증, 가격비교, 구매전환 조건을 필수 항목으로 포함",
+  ];
+
+  if (profile.exportControl) {
+    policyInsightBody = "수출통제와 AI컴퓨팅 안보 신호가 강하면 국산 NPU 정책의 논리는 산업육성만이 아니라 안정적 조달과 국가 통제 가능한 AI 인프라 확보로 확장됩니다.";
+    policyInsightBullets = ["공공·보안·폐쇄망을 우선 실증 시장으로 설정", "해외 GPU 접근 리스크를 국산 AI컴퓨팅 도입 명분으로 정리", "수출통제 대응 컨설팅과 조달 카탈로그를 함께 설계"];
+    governmentBody = "정부정책은 대체 컴퓨팅 확보와 보안검증을 묶어야 합니다. 단순 장비지원보다 공공기관이 실제로 사용할 수 있는 조달·보안·운영 기준을 만드는 것이 우선입니다.";
+    governmentBullets = ["공공 폐쇄망 AI서비스 실증 트랙 신설", "국산 NPU 보안성·공급 안정성 검증 리포트 발급", "수출통제 리스크 진단과 대체 도입계획 컨설팅 지원"];
+  } else if (profile.infrastructure && profile.inferenceCost) {
+    policyInsightBody = "AI 인프라 투자와 추론비용 신호가 함께 강하면 신규 예산의 초점은 칩 개발보다 실제 데이터센터에서 비용·전력 절감 효과를 입증하는 쪽으로 이동해야 합니다.";
+    marketTechBody = "GPU 증설 경쟁이 이어지더라도 서비스 운영 단계에서는 전력비, 냉각비, 랙당 처리량이 더 중요한 구매 기준이 됩니다. 국산 NPU는 이 기준에서 보완재 가능성을 보여줘야 합니다.";
+    marketTechBullets = ["전력계측 기반 실증 데이터를 확보해야 구매 설득 가능", "학습보다 반복 추론 워크로드를 우선 공략", "공공 IDC와 민간 IDC를 나눠 적용 가능성을 비교"];
+    budgetBody = `우선 검토할 정책 아이템은 "${policyIdeas.find((item) => /데이터센터|전력|성능/.test(item.title))?.title || policyIdeas[0]?.title || "국산 NPU 기반 AI 데이터센터 전력절감 실증"}"입니다. 사업 산출물은 발표자료가 아니라 GPU 대비 운영비·전력·처리량 비교표가 되어야 합니다.`;
+    budgetBullets = ["공공·민간 IDC 실증 컨소시엄 구성", "워크로드 이전 비용과 계측 장비 비용 지원", "전력절감률, 랙당 처리량, 월간 사용시간을 KPI로 설정"];
+  } else if (profile.domesticNpu && profile.customerProof) {
+    policyInsightBody = "국내 NPU 기업의 고객·PoC·공급 신호가 잡히면 정책은 기업별 기술지원보다 고객 검증 이후 구매전환을 관리하는 방향으로 정교화되어야 합니다.";
+    marketTechBody = "국내 기업은 기술 발표보다 레퍼런스 품질이 중요해지는 구간에 있습니다. PoC가 반복되고 유료 계약으로 이어지는지가 투자유치와 조달 확산의 핵심 근거가 됩니다.";
+    marketTechBullets = ["고객군, 적용 워크로드, 유료전환 여부를 함께 추적", "기업별 제품 강점과 수요 분야를 분리해 매칭", "PoC 이후 운영 데이터 공개 여부를 중요 신호로 판단"];
+    governmentBody = "정부는 매칭 행사보다 단계형 전환 프로그램을 설계해야 합니다. 수요처 발굴, PoC 비용, 보안검증, 조달 등록을 하나의 흐름으로 연결하는 편이 효과적입니다.";
+    governmentBullets = ["수요기관 컨소시엄 기반 실증 공모", "PoC 종료 후 구매전환 조건 명시", "성과지표를 상담 건수가 아니라 유료전환율과 구매계약액으로 설정"];
+  } else if (profile.foundryPackaging) {
+    policyInsightBody = "파운드리·패키징 신호가 강하면 국산 NPU 지원은 설계 이후의 제조 접근성, 시제품 검증, 양산 전 고객 신뢰 확보까지 포함해야 합니다.";
+    marketTechBody = "AI칩 경쟁은 성능 경쟁을 넘어 첨단공정 접근, 패키징 병목, 검증 기간 경쟁으로 확장됩니다. 국내 팹리스는 제조 파트너와 검증 인프라가 부족하면 사업화 일정이 밀릴 수 있습니다.";
+    marketTechBullets = ["MPW·패키징·검증 병목을 기업별로 파악", "양산 가능성은 고객 PoC와 투자유치에 직접 영향", "파운드리 이슈는 구매전환보다는 공급 안정성 리스크로 해석"];
+    governmentBody = "정부정책은 제조 연계 비R&D 패키지로 설계하는 것이 적합합니다. 파운드리 상담, 패키징 검증, 시제품 신뢰성 테스트를 수요기업 PoC와 연결해야 합니다.";
+    governmentBullets = ["MPW·패키징 검증 바우처 운영", "파운드리·OSAT 상담 매칭 정례화", "시제품 검증 결과를 수요기업 PoC 자료로 활용"];
+  } else if (profile.softwareStack) {
+    policyInsightBody = "소프트웨어 스택 신호가 강하면 NPU 확산의 병목은 칩 가격보다 모델 포팅 난이도와 개발자 경험에 있을 가능성이 큽니다.";
+    marketTechBody = "수요기업은 하드웨어 스펙보다 기존 모델을 얼마나 쉽게 옮기고 안정적으로 운영할 수 있는지를 봅니다. SDK, 컴파일러, 레퍼런스 모델이 시장 진입 속도를 좌우합니다.";
+    marketTechBullets = ["모델 포팅 시간과 성공률을 핵심 성과로 관리", "공통 벤치마크와 개발문서가 구매 리스크를 낮춤", "기업별 도구를 공통 교육·실습 환경과 연결"];
+    governmentBody = "정부정책은 개발자 생태계와 수요기업 기술지원에 초점을 맞춰야 합니다. 교육, 실습, 헬프데스크, 모델 포팅 챌린지를 비R&D 사업으로 묶을 수 있습니다.";
+    governmentBullets = ["NPU 모델 포팅 챌린지 운영", "SDK·컴파일러 실습형 교육 지원", "수요기업 PoC용 기술지원 헬프데스크 설치"];
+  } else if (profile.policy && profile.procurement) {
+    policyInsightBody = "정책·조달 신호가 강한 경우에는 예산 규모보다 실제 구매로 넘어가는 제도 설계가 핵심입니다. 실증, 검증, 조달 전환이 분리되면 정책 효과가 약해집니다.";
+    governmentBody = "NIPA·과기정통부 사업은 공공 수요기관을 사업 설계 단계부터 포함해야 합니다. 검증 결과가 조달 카탈로그와 가격 기준으로 이어질 때 산업 파급이 커집니다.";
+    governmentBullets = ["실증 후 조달 전환 경로를 공고문에 명시", "제품·서비스 카탈로그와 가격 기준 마련", "성능·전력·보안 데이터 공개를 사업 산출물로 설정"];
+  }
+
   return {
     headline,
     metrics: [
@@ -852,43 +955,23 @@ function generateBriefingReview(articles, market, signals, policyIdeas) {
     sections: [
       {
         title: "정책수립 시사점",
-        body: aiMarketCount >= npuCount
-          ? "시장 신호가 기술 신호보다 넓게 잡히고 있어, 신규 예산은 기술공급 지원보다 수요처 확보와 구매전환 구조를 중심에 두는 편이 타당합니다."
-          : "NPU 및 제품화 신호가 강하므로, 신규 예산은 연구개발보다 레퍼런스 확보, 운영검증, 성능인증을 통해 상용 전환을 앞당기는 방향이 적절합니다.",
-        bullets: [
-          `${topTech}는 예산기획의 핵심 기술축으로 유지`,
-          "시장 기사는 수요·투자 근거, 정책 기사는 집행근거와 제도개선 근거로 분리 활용",
-          "기업별 보조보다 공동 검증·공동 조달·공동 수요처 발굴 체계가 정책효과 측정에 유리",
-        ],
+        body: policyInsightBody,
+        bullets: policyInsightBullets,
       },
       {
         title: "시장·기술동향 판단",
-        body: "AI 인프라 투자 확대와 공급망 재편은 국산 NPU에 기회지만, 실제 도입은 성능·전력·가격·운영 안정성 비교자료가 있어야 가능합니다.",
-        bullets: [
-          "데이터센터 전력비와 추론비용 절감은 가장 설득력 있는 시장 진입 논리",
-          "온디바이스AI와 보안·금융 등 폐쇄망 수요는 해외 GPU 대비 차별화 가능성이 큼",
-          "파운드리·공급망 이슈는 국산 NPU 정책의 필요조건이지만, 구매전환을 보장하지는 않음",
-        ],
+        body: marketTechBody,
+        bullets: marketTechBullets,
       },
       {
         title: "정부정책 방향",
-        body: semisWeak
-          ? "반도체 투자심리가 약한 구간에서는 직접 보조보다 구매확약, 보증, 실증비, 운영비 절감 검증처럼 민간 리스크를 줄이는 방식이 적합합니다."
-          : "시장 여건이 크게 위축되지 않은 구간에서는 공공 실증과 민간 수요처 매칭을 동시에 추진해 초기 매출 레퍼런스를 만드는 방식이 적합합니다.",
-        bullets: [
-          "실증과 구매전환을 분리하지 말고 한 사업 안에서 단계형으로 설계",
-          "공공 AI서비스, 보안·금융, 데이터센터, 온디바이스 산업현장처럼 수요가 명확한 분야부터 선별",
-          "성과지표는 과제 수가 아니라 사용시간, 전력절감률, 유료전환율, 구매계약액으로 설정",
-        ],
+        body: governmentBody,
+        bullets: governmentBullets,
       },
       {
         title: "예산기획 체크포인트",
-        body: `우선 검토할 정책 아이템은 "${policyIdeas[0]?.title || "국산 NPU 수요연계 실증·구매전환 바우처"}"입니다. 신규 예산은 제품 개발비보다 수요처 발굴, 실증 운영비, 성능검증, 구매전환 조건을 묶는 방향이 적합합니다.`,
-        bullets: [
-          "기업별 제품성숙도, 적용 가능 워크로드, 목표 수요처를 표준 양식으로 비교",
-          "시장 기사에서 반복되는 수요 분야를 공공 실증 후보 업무로 매핑",
-          "사업 공고에는 성능검증, 보안검증, 가격비교, 구매전환 조건을 필수 항목으로 포함",
-        ],
+        body: budgetBody,
+        bullets: budgetBullets,
       },
     ],
   };

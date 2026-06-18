@@ -1047,47 +1047,97 @@ function weeklyIssueBriefing(data) {
   return selectBalancedWeeklyIssues(articles, 7);
 }
 
-function weeklyIssueInsights(topIssues) {
+function weeklySignalProfile(topIssues) {
   const corpus = topIssues.map((article) => articleText(article)).join(" ");
   const hasAny = (terms) => terms.some((term) => corpus.includes(term.toLowerCase()));
-  const hasSupplyChain = hasAny(["samsung", "삼성", "tsmc", "파운드리", "foundry", "2나노", "공급망", "tpu", "ai chip"]);
-  const hasInfrastructure = hasAny(["data center", "데이터센터", "ai infrastructure", "gpu", "ai factory", "팩토리", "투자", "spending"]);
-  const hasDomesticNpu = hasAny(["리벨리온", "퓨리오사", "딥엑스", "모빌린트", "하이퍼엑셀", "npu", "국민성장펀드", "코스닥"]);
-  const hasPolicy = hasAny(["과기정통부", "정부", "공모전", "확보", "정책", "공공", "nipa", "조달"]);
+  return {
+    supplyChain: hasAny(["samsung", "삼성", "tsmc", "파운드리", "foundry", "2나노", "공급망", "supply chain"]),
+    foundryPackaging: hasAny(["파운드리", "foundry", "tsmc", "삼성전자", "2나노", "4나노", "패키징", "packaging", "hbm", "cowos"]),
+    infrastructure: hasAny(["data center", "데이터센터", "ai infrastructure", "gpu", "ai factory", "팩토리", "투자", "spending", "capex"]),
+    inferenceCost: hasAny(["inference", "추론", "전력", "power", "latency", "지연시간", "운영비", "비용", "저전력"]),
+    domesticNpu: hasAny(["리벨리온", "퓨리오사", "딥엑스", "모빌린트", "하이퍼엑셀", "npu", "국민성장펀드", "코스닥"]),
+    production: hasAny(["양산", "mass production", "sample", "샘플", "시제품", "tape-out", "테이프아웃", "출시"]),
+    customerProof: hasAny(["고객", "계약", "공급", "파트너", "협약", "mou", "poc", "실증", "레퍼런스", "도입"]),
+    policy: hasAny(["과기정통부", "정부", "공모전", "확보", "정책", "공공", "nipa", "정보통신산업진흥원", "조달", "사업공고"]),
+    procurement: hasAny(["조달", "공공", "공모", "사업공고", "지원사업", "바우처", "구매", "실증사업"]),
+    investment: hasAny(["funding", "투자 유치", "펀드", "국민성장펀드", "ipo", "상장", "valuation", "기업가치", "m&a"]),
+    onDevice: hasAny(["온디바이스", "on-device", "edge ai", "엣지", "저전력", "디바이스", "모빌리티"]),
+    softwareStack: hasAny(["sdk", "software", "소프트웨어", "compiler", "컴파일러", "개발도구", "모델 포팅", "runtime"]),
+    exportControl: hasAny(["수출통제", "export control", "sanction", "제재", "규제", "안보", "sovereign ai", "칩스법", "chips act"]),
+    modelPlatform: hasAny(["model", "모델", "gemini", "deepmind", "agent", "에이전트", "local ai", "llm", "api", "서비스"]),
+    earnings: hasAny(["earnings", "revenue", "매출", "실적", "가이던스", "주가", "수익", "수익화"]),
+  };
+}
+
+function weeklyIssueInsights(topIssues) {
+  const profile = weeklySignalProfile(topIssues);
 
   const focus = [
-    hasSupplyChain ? "AI칩 공급망 재편" : "",
-    hasInfrastructure ? "AI 인프라 투자 확대" : "",
-    hasDomesticNpu ? "국내 NPU 기업의 사업화·자금조달" : "",
-    hasPolicy ? "정부 주도 AI 인프라·공공 수요 형성" : "",
+    profile.exportControl ? "AI컴퓨팅 안보·수출통제" : "",
+    profile.foundryPackaging ? "파운드리·패키징 공급망" : "",
+    profile.infrastructure ? "AI 인프라 투자 확대" : "",
+    profile.inferenceCost ? "추론비용·전력효율" : "",
+    profile.domesticNpu ? "국내 NPU 기업의 사업화" : "",
+    profile.policy ? "정부 주도 공공 수요 형성" : "",
+    profile.softwareStack ? "NPU 소프트웨어 생태계" : "",
+    profile.onDevice ? "온디바이스 AI 수요" : "",
   ].filter(Boolean);
 
   const focusText = focus.length ? focus.join(", ") : "AI 시장 수요와 반도체 공급 역학";
+  let core = "Top 7 기사는 AI 서비스 수요, 인프라 투자, 국내 기업 사업화가 동시에 움직이는 흐름을 보여주며, 단발성 뉴스보다 시장 구조 변화의 신호로 해석할 필요가 있습니다.";
+  let impact = "AI 반도체 수요는 모델 개발 자체보다 서비스 운영비, 전력, 공급망 안정성 문제와 결합되고 있어 국내 기업에는 성능 수치뿐 아니라 운영 경제성을 입증할 기회가 생기고 있습니다.";
+  let outlook = "단기적으로는 엔비디아와 글로벌 빅테크 중심의 AI 인프라 투자가 시장 방향을 계속 좌우할 가능성이 큽니다. 다만 중기적으로는 추론 워크로드 증가, 전력비 부담, 공급망 다변화 요구가 커지면서 전용 NPU와 국산 AI컴퓨팅의 정책적 활용 공간이 넓어질 수 있습니다.";
+  let policy = "정책은 기업별 지원보다 공통 실증 인프라, 표준 벤치마크, 수요기업 전환 바우처, 조달 카탈로그 구축처럼 시장 실패를 줄이는 비R&D 수단에 집중하는 편이 효과적입니다.";
+
+  if (profile.exportControl) {
+    core = "수출통제와 AI컴퓨팅 안보 이슈가 잡히는 주간에는 GPU 확보 문제가 단순 구매 이슈를 넘어 국가별 AI 인프라 주권과 공급망 리스크 관리 문제로 확장됩니다.";
+    impact = "해외 고성능 GPU 접근성이 흔들리면 국내 데이터센터와 AI 서비스 기업은 대체 컴퓨팅 옵션을 검토할 수밖에 없습니다. 국산 NPU에는 성능 경쟁만이 아니라 안정적 조달, 보안 통제, 국내 운용 가능성이라는 별도의 시장 명분이 생깁니다.";
+    outlook = "향후에는 특정 칩 성능보다 클라우드 리전, 수출허가, 공급 가능 물량, 보안인증 여부가 도입 판단에 더 크게 작용할 수 있습니다. 국내 NPU는 공공·보안·폐쇄망 수요에서 먼저 기회를 만들 가능성이 큽니다.";
+    policy = "비R&D 사업은 공급망 리스크 대응형으로 설계하는 것이 좋습니다. 공공기관·보안산업 대상 대체 컴퓨팅 실증, 수출통제 리스크 컨설팅, 국내 AI컴퓨팅 조달 카탈로그, 보안검증 트랙을 묶어야 합니다.";
+  } else if (profile.foundryPackaging) {
+    core = "파운드리와 패키징 이슈가 부각되는 주간에는 AI칩 경쟁의 핵심이 설계 성능뿐 아니라 제조 파트너, 첨단공정 접근성, HBM·패키징 병목으로 이동하고 있음을 봐야 합니다.";
+    impact = "국내 NPU 기업은 칩 설계 역량만으로는 시장 진입을 완결하기 어렵습니다. 시제품 제작, 패키징, 검증, 양산 일정이 고객 신뢰와 투자 유치에 직접 연결되므로 공급망 지원이 사업화 속도를 좌우합니다.";
+    outlook = "글로벌 빅테크의 자체칩 경쟁과 파운드리 선점이 이어질수록 중소 팹리스의 생산 슬롯 확보 부담은 커질 가능성이 큽니다. 국내 기업은 공정 선택, 패키징 파트너, 검증 데이터 확보가 더 중요해질 것입니다.";
+    policy = "정책은 MPW·패키징·검증 바우처와 파운드리 상담 매칭을 비R&D 패키지로 묶는 방향이 적합합니다. 단순 개발비보다 시제품 검증과 고객 PoC까지 이어지는 제조 연계 지원이 필요합니다.";
+  } else if (profile.infrastructure && profile.inferenceCost) {
+    core = "AI 인프라 투자와 추론비용 이슈가 함께 잡히면 시장의 관심은 학습용 GPU 증설에서 실제 서비스 운영비, 전력효율, 데이터센터 수용력 문제로 넓어지고 있다는 뜻입니다.";
+    impact = "데이터센터 전력과 냉각 비용이 커질수록 GPU 일변도 구조의 부담이 분명해집니다. 국산 NPU는 특정 추론 워크로드에서 처리량 대비 전력, 랙당 효율, 운영비 절감을 증명할 경우 보완재 시장을 만들 수 있습니다.";
+    outlook = "단기 투자는 여전히 GPU 중심으로 움직이겠지만, 서비스형 AI의 사용량이 늘어날수록 저비용 추론 인프라 수요가 커질 것입니다. 비용 검증 자료를 확보한 NPU 기업이 수요처 협상에서 유리해질 가능성이 있습니다.";
+    policy = "비R&D 사업은 데이터센터 실증 중심으로 잡아야 합니다. 실제 워크로드 이전, 전력계측, GPU 대비 비용 비교, SLA 검증을 사업 산출물로 만들고 공공 IDC와 민간 IDC를 함께 참여시키는 구조가 적합합니다.";
+  } else if (profile.domesticNpu && profile.customerProof) {
+    core = "국내 NPU 기업 관련 기사에서 고객, PoC, 공급, 협약 신호가 함께 잡히면 기술 발표 단계에서 실제 수요 검증 단계로 이동하는지 확인해야 합니다.";
+    impact = "국내 기업에 가장 중요한 파급효과는 레퍼런스 축적입니다. 고객사가 실서비스 워크로드를 맡기고 비용·성능 데이터를 공개할수록 후속 투자, 조달 등록, 민간 구매 전환 가능성이 함께 커집니다.";
+    outlook = "앞으로는 칩 스펙보다 고객군의 성격, PoC 이후 유료 전환 여부, 반복 구매 가능성이 핵심 지표가 될 것입니다. 특정 기업의 발표보다 여러 수요처에서 재현 가능한 성과가 있는지를 봐야 합니다.";
+    policy = "정책은 기업 홍보보다 수요처 매칭 이후의 전환율을 관리해야 합니다. PoC 비용, 보안검증, 성능측정, 조달 전환을 단계형으로 묶고 성과지표를 유료전환율과 구매계약액으로 잡는 것이 좋습니다.";
+  } else if (profile.domesticNpu && profile.production) {
+    core = "국내 NPU 기업에서 샘플, 양산, 출시, 테이프아웃 신호가 잡히면 제품 성숙도가 올라가는 구간으로 볼 수 있습니다. 이때는 기술개발 지원보다 시장 진입 장벽 제거가 더 중요합니다.";
+    impact = "제품화 단계 기업은 고객 검증과 공급 안정성을 동시에 요구받습니다. 초기 양산 물량, 소프트웨어 호환성, 벤치마크 신뢰도가 부족하면 좋은 칩도 실제 매출로 연결되기 어렵습니다.";
+    outlook = "국내 NPU 기업의 다음 경쟁축은 양산 일정 자체보다 적용 워크로드 확보, 모델 포팅 편의성, 고객지원 능력이 될 가능성이 큽니다. 제품별 강점 분야가 뚜렷해질수록 정책 지원도 세분화되어야 합니다.";
+    policy = "비R&D 사업은 양산 전후 고객 검증을 돕는 방향이 맞습니다. 시제품 검증 바우처, 수요기업 테스트 비용 지원, 공동 벤치마크, 공공 PoC 장비 임차를 검토할 수 있습니다.";
+  } else if (profile.softwareStack) {
+    core = "SDK, 컴파일러, 모델 포팅 같은 소프트웨어 신호가 잡히면 AI반도체 경쟁이 하드웨어 스펙에서 개발자 경험과 생태계 경쟁으로 이동하고 있다는 의미입니다.";
+    impact = "수요기업은 칩 성능보다 모델을 얼마나 쉽게 옮기고 운영할 수 있는지를 봅니다. 소프트웨어 스택이 약하면 PoC 비용이 커지고, 강하면 같은 하드웨어라도 적용 가능한 서비스 범위가 넓어집니다.";
+    outlook = "NPU 도입 확산은 개발도구, 레퍼런스 모델, 운영 문서, 기술지원 체계가 얼마나 빠르게 쌓이는지에 좌우될 것입니다. 기업 단독 대응보다 공통 생태계 구축이 중요해질 가능성이 큽니다.";
+    policy = "정책은 개발자 생태계 지원으로 좁히는 것이 좋습니다. 모델 포팅 챌린지, SDK 교육, 공통 벤치마크, 개발자 크레딧, 기술지원 헬프데스크를 비R&D 사업으로 설계할 수 있습니다.";
+  } else if (profile.policy && profile.procurement) {
+    core = "정책과 조달 신호가 강한 주간에는 정부 발표 자체보다 실제 공고, 지원대상, 구매전환 조건, 성과지표가 시장을 만들 수 있는지를 봐야 합니다.";
+    impact = "공공사업이 실증과 조달로 이어지면 국내 NPU 기업의 첫 매출 레퍼런스가 될 수 있습니다. 반대로 행사나 단기 공모 중심이면 산업 파급은 제한되고 기업은 별도 영업비용을 계속 부담하게 됩니다.";
+    outlook = "향후 정책 효과는 예산 규모보다 집행 방식에서 갈릴 가능성이 큽니다. 수요기관이 참여하고, 검증 결과가 공개되며, 조달 전환 경로가 명확한 사업이 더 큰 신호가 됩니다.";
+    policy = "NIPA·과기정통부 사업은 수요기관 컨소시엄, 실증 후 조달 전환, 성능·전력 데이터 공개, 보안검증을 한 사업 안에 묶어야 합니다. 비R&D 사업은 구매자와 운용 현장을 만드는 구조여야 합니다.";
+  } else if (profile.modelPlatform || profile.earnings) {
+    core = "모델, API, 실적, 수익화 신호가 잡히면 AI 시장의 관심이 기술 시연에서 실제 사용량과 매출 모델로 이동하고 있다고 볼 수 있습니다.";
+    impact = "AI 서비스 수익화가 본격화될수록 추론량, 지연시간, 단가가 인프라 선택의 핵심 변수가 됩니다. 이는 국산 NPU가 가격 대비 성능과 안정적 운영 데이터를 제시해야 하는 압력으로 이어집니다.";
+    outlook = "빅테크는 자체 모델과 자체칩을 결합해 비용을 낮추려 할 가능성이 큽니다. 국내 기업은 범용 경쟁보다 산업별 반복 워크로드, 공공 서비스, 폐쇄망 서비스에서 실증 기회를 확보해야 합니다.";
+    policy = "정책은 AI 서비스 기업을 직접 수요자로 끌어들이는 방식이 좋습니다. 국산 NPU 추론 API 크레딧, 서비스기업 전환 바우처, 산업별 대표 모델 포팅 지원을 검토할 수 있습니다.";
+  }
+
   return {
-    headline: `이번 주 Top 7은 ${focusText}가 맞물리며 AI반도체 정책의 초점이 기술개발에서 수요·실증·공급망 전략으로 이동하고 있음을 보여줍니다.`,
+    headline: `이번 주 Top 7은 ${focusText}를 중심으로 AI반도체 정책의 우선순위를 다시 점검해야 한다는 신호를 줍니다.`,
     sections: [
-      {
-        title: "핵심내용",
-        body: hasSupplyChain
-          ? "구글, 엔비디아, 삼성, TSMC 등 빅테크·파운드리 이슈가 함께 등장하면서 AI 칩 경쟁이 단일 기업 성능 경쟁을 넘어 생산 파트너, 공급 안정성, 전용칩 확보 경쟁으로 확장되고 있습니다."
-          : "Top 7 기사는 AI 서비스 수요, 인프라 투자, 국내 기업 사업화가 동시에 움직이는 흐름을 보여주며, 단발성 뉴스보다 시장 구조 변화의 신호로 해석할 필요가 있습니다.",
-      },
-      {
-        title: "산업적 파급효과",
-        body: hasInfrastructure
-          ? "AI 인프라 투자와 데이터센터 수요 확대는 GPU 중심 병목을 심화시키는 동시에 추론 비용·전력 효율을 낮출 대체 컴퓨팅 수요를 키웁니다. 이는 국산 NPU가 데이터센터, 공공 AI서비스, 온디바이스 영역으로 진입할 수 있는 실증 명분을 강화합니다."
-          : "AI 반도체 수요는 모델 개발 자체보다 서비스 운영비, 전력, 공급망 안정성 문제와 결합되고 있어 국내 기업에는 성능 수치뿐 아니라 운영 경제성을 입증할 기회가 생기고 있습니다.",
-      },
-      {
-        title: "전망",
-        body: "단기적으로는 엔비디아와 글로벌 빅테크 중심의 AI 인프라 투자가 시장 방향을 계속 좌우할 가능성이 큽니다. 다만 중기적으로는 추론 워크로드 증가, 전력비 부담, 공급망 다변화 요구가 커지면서 전용 NPU와 국산 AI컴퓨팅의 정책적 활용 공간이 넓어질 수 있습니다.",
-      },
-      {
-        title: "정책 방향 추천",
-        body: hasPolicy
-          ? "비R&D 사업은 단순 보조보다 수요처 매칭, 성능·전력 검증, 공공 조달 전환, 해외 PoC를 하나의 패키지로 묶는 방식이 적절합니다. 특히 정부가 확보하는 GPU·AI 인프라 사업과 국산 NPU 실증 트랙을 병행 설계하면 정책 효과를 더 명확히 측정할 수 있습니다."
-          : "정책은 기업별 지원보다 공통 실증 인프라, 표준 벤치마크, 수요기업 전환 바우처, 조달 카탈로그 구축처럼 시장 실패를 줄이는 비R&D 수단에 집중하는 편이 효과적입니다.",
-      },
+      { title: "핵심내용", body: core },
+      { title: "산업적 파급효과", body: impact },
+      { title: "전망", body: outlook },
+      { title: "정책 방향 추천", body: policy },
     ],
   };
 }
