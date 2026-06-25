@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-06-25T15:44:30.174Z",
+  "generatedAt": "2026-06-25T23:42:25.584Z",
   "news": {
     "articles": [
       {
@@ -43,28 +43,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 35
       },
       {
-        "title": "qBraid Integrates NVIDIA CUDA-Q Remote Targets, Expands GPU Fleet, and Deploys Google Cloud AlphaEvolve for Error Correction - Quantum Computing Report",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORnUyV3BRa3cwUlBzdFdNcTVEQnhuWUI5Y2dLSGVCLTdIanBNa3RQM1kxb1RhVUJHaDdldnE2bF80MlBHQWExanhKMmMyN2sxb2xHVk5GQW1aUm5NSkkxaFhaVzJIeGt3LXh1Vkl3cEUxV3FaN0dzVXEtblVCZnhRMXZDMDJfeUtpSUhRcy1CazJHUWhrN0RHUGNLUDN4VG5aVnYyUkw2LVFmVVl4dmQ2cUJRcEFRRDF0bDREN1VjNTJIclpKZnFLWEFfVGZFcFpBUzAwTnVlNl9GeWpMUk9XWUZhQjNPWER5aEtlYUZ6RdIB9AFBVV95cUxPa3Brb2s4LU90MVRySmxEWnhOV1BILXJYZnF1VnZsQ1dteTJoNTRtNmFxTENOanNsT1NPNVJYX29JUVNXd3kycDJub1dVOGNuV0xpUzZPY2o5SldiY2pxVVRya2JVaTdJSllJcWdyZ2VoQ21EQ2V3VEdLQ2hBMlhhdXA5WjdtSEpEc2stNm1MUXBRbWFXMkhuaFBRdVM1ckpxSkYzOEtnTHJ2aUxWM2o2NEFNMWFtcGZXc01ZOS0yWUxNc1BCUk9OZWo4Wlo5RlVoQVdSY1hIT1d2MTJzanNadEY5XzhSaHNQek5xZ0dOMXJSODVq?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 14:59:58 GMT",
-        "summary": "qBraid Integrates NVIDIA CUDA-Q Remote Targets, Expands GPU Fleet, and Deploys Google Cloud AlphaEvolve for Error Correction &nbsp;&nbsp; Quantum Computing Report",
-        "outlet": "Quantum Computing Report",
-        "outletUrl": "https://quantumcomputingreport.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 33
-      },
-      {
         "title": "퓨리오사AI·리벨리온·딥엑스, 실증 넘어 양산 경쟁 본격화···사업화 시험대 - 시사저널e",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zMENyNWNrT3k5UFJoSzhndUZTQWY1TC1NOHlsbVlCS09WS3FfVXUydnI3Yi0tODNJTkVNck51eTBMeFg0V2FpRnBvdHM4aFcyN2V4akdYWDAxWUZ5TE1SX3g2U1FJMTc0OFJBRmlUZExSd9IBdkFVX3lxTE9rR204RVVtcXVXNWVFYTJoN1doNGRpbXR3NDk1MjFEbmUtSk1SandBa1M1Wm9TUDQtVVViTHpPRTk4bmx1NFNxei1HRmJ1ZUR6aUZXc0dLeUlCR2JSQmJiRHp5ckplQTFyMnBJTjNvUFBadjFndVE?oc=5",
         "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
@@ -95,7 +73,7 @@ window.__DASHBOARD_DATA__ = {
         "summary": "퓨리오사AI-리벨리온, 국민성장펀드 'K-엔비디아' 유력 &nbsp;&nbsp; 디일렉",
         "outlet": "디일렉",
         "outletUrl": "https://www.thelec.kr",
-        "source": "퓨리오사AI",
+        "source": "리벨리온",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
@@ -113,9 +91,30 @@ window.__DASHBOARD_DATA__ = {
         "score": 33
       },
       {
+        "title": "Battle of the Artificial Intelligence (AI) Computing Companies: Is AMD, Broadcom, Nvidia, or Marvell the Best Stock to Buy Now? - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2g2Z040cXhzcGd6YTRpVDRDWEJIMWxFRHRIckZQSXZycU9SYzdsWGRXQVNqcHR3RVRJX3h4dUx4LWppblBmV3B4S1VIOUUzRU5lQ3Bjd1dsV0RTYmxQaks2N1lDMUlrYVRjSmpxalVRazZUWFFpY3AxMmllMXpUd3VrMTlQUWZodWI5ZFdTUzFfVko5bjdDZnI3TzcyMloxUm83NWFPVXRrVkU?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 20:37:00 GMT",
+        "summary": "Battle of the Artificial Intelligence (AI) Computing Companies: Is AMD, Broadcom, Nvidia, or Marvell the Best Stock to Buy Now? &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "AMD",
+          "Broadcom"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 32
+      },
+      {
         "title": "[게시판] 메가존클라우드, NIPA 국산 AI 반도체 인프라 실증 사업 참여 등 단신 - AI타임스",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OUxSSFh2T1pPZm5NNmJHVDRQRlY4T05vRW41dmg3ZVFKSjhGZ3F3NUR1eVNxdkI2WUxiY1AzQmpJclJ0OFNSRm1YdEc4YzFMZ1pMblJiSHQwM19KZUJkQVY5YlJhZ3VvMnc?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 09:46:33 GMT",
+        "publishedAt": "Thu, 25 Jun 2026 08:00:00 GMT",
         "summary": "[게시판] 메가존클라우드, NIPA 국산 AI 반도체 인프라 실증 사업 참여 등 단신 &nbsp;&nbsp; AI타임스",
         "outlet": "AI타임스",
         "outletUrl": "https://www.aitimes.com",
@@ -192,6 +191,28 @@ window.__DASHBOARD_DATA__ = {
         "score": 32
       },
       {
+        "title": "엔비디아, 로컬 AI 위한 구글 딥마인드 디퓨전젬마 가속화 > 뉴스 - 브레인박스",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdml1RjFVU21XcWN2cktKNWdyQS00N0tmZjJXUW8tUDJrWjJvVkFvdTJHUGdYV3NBWU1mbUNRbTgwdkRGSDRQRGdHMjczclFyVXBHUTFTRmNSa0VBOTdtalFYa2c5dnN6N01ldWlnWHplWnJFOTBHak4yekZZbzFManExSHpIMmNn?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 10:41:57 GMT",
+        "summary": "엔비디아, 로컬 AI 위한 구글 딥마인드 디퓨전젬마 가속화 > 뉴스 &nbsp;&nbsp; 브레인박스",
+        "outlet": "브레인박스",
+        "outletUrl": "https://www.brainbox.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "DeepMind"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 31
+      },
+      {
         "title": "가비아, 고성능 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU로 AI 추론 지원 - 테크월드",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wTHVidVZJYlduVlROOHZ1N2VGTlBiaHVscjZxQkVwWlBTcTVSb01xYTFlbjRfWE9nd0xUMXpseVZzaHFIS3M4TzZUbklIS0tDZ0RDZm1SMjB2RWxfbHVpUnZWUDhNZzY4?oc=5",
         "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
@@ -215,7 +236,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xSXRrZ25EdllKeUFsZC1UVHlGNUlRVmhCUmpPdkV5NU9DRTdYeU9tVzVmMmNJVG1KMGdnUXBiQTl4d2NKb1E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zLW9YelE2Ukw2V1I3RUdtWXV2Q2ZuR3NEcEctLWVuOWJXUklCUlVNYVY5ZmVXSE9pWTVnbmV0YnNQVDNVNmxGRHhzcWxLYmc?oc=5",
         "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
         "summary": "가비아, 정부 AI 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU 제공 &nbsp;&nbsp; v.daum.net",
         "outlet": "v.daum.net",
@@ -258,28 +279,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "과기정통부, 포스코 DX·딥엑스 방문…국산 온디바이스 AI반도체 활용 현장 점검 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWX05LVkVEN0ZEbzVhemgzYXp2YjhyRmxVNlhyZ0w2bDVNOTV2WVdDNjhlQjBfN1Q4WXUxU1drMktRM1ZfakE?oc=5",
-        "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
-        "summary": "과기정통부, 포스코 DX·딥엑스 방문…국산 온디바이스 AI반도체 활용 현장 점검 &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "딥엑스",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "NPU",
-          "온디바이스AI",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 31
-      },
-      {
         "title": "과기정통부, 포스코 DX·딥엑스 방문…국산 온디바이스 AI반도체 활용 현장 점검 - 이투데이",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQbWs2cWQzWk5yY2xDTUpIWFdxajY2REE3d1ZzTDdwYlRnTW94X0FFb05vTXFhV2taUUd1TUpBWWZMUDlvdnVpWVp4c0Fvb3NlT0FBaA?oc=5",
         "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
@@ -302,56 +301,13 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "Meet the Spectacular ETF With 32.8% of Its Portfolio Parked in Nvidia, Apple, Broadcom, and Alphabet - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjVUZGUwbmpQMWpVWjFpUC1PWXZnSzZmRGdFS0dLT0FUNFlEbzVQUFBHV0tJVm9JZVJON2sxTDNPZkQtbG5SaXBrX2d2SUJ0SHZrcG1iUDhPUHVvcWd4SnlYSGJjRUEwdDVINlhmaEhFY1pBX2VVQk9iV0hlY0kta0FrVk54YlVTOE9xUWpla0F3UVlq?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 09:38:00 GMT",
-        "summary": "Meet the Spectacular ETF With 32.8% of Its Portfolio Parked in Nvidia, Apple, Broadcom, and Alphabet &nbsp;&nbsp; The Motley Fool",
-        "outlet": "The Motley Fool",
-        "outletUrl": "https://www.fool.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Google",
-          "Broadcom"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "issueCategory": "AI시장",
-        "score": 30
-      },
-      {
-        "title": "Jensen Huang Boasts at NVIDIA Shareholders' Meeting: Blackwell - \"King of Inference\", Vera CPU for Agents, CUDA Moat - 36Kr",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mdVU3WXBYX3BOY25FdE1xNUhTQjhaX0d5REdCRXdUMnpkY2dpdkhxN3hfbFpodWIzOWExZHFsRFBGbjlGX2c5cjZEYlBNcGNlZzlR?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 03:14:28 GMT",
-        "summary": "Jensen Huang Boasts at NVIDIA Shareholders' Meeting: Blackwell - \"King of Inference\", Vera CPU for Agents, CUDA Moat &nbsp;&nbsp; 36Kr",
-        "outlet": "36Kr",
-        "outletUrl": "https://eu.36kr.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "추론",
-          "NVIDIA"
-        ],
-        "issueCategory": "추론",
-        "score": 30
-      },
-      {
         "title": "메가존클라우드, 퓨리오사AI 반도체 실증 인프라 구축 맡는다 - 네이트",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Od180ZHVFOVo1Mk9HcW1UZkVFSVRlVkJBb24zeFBMSllxWFBnY1FNaExmaEZXZWlSWEIzd2UxdjhBX29OaXVLVHpHWkhJYnlUcjhz?oc=5",
         "publishedAt": "Thu, 25 Jun 2026 00:20:00 GMT",
         "summary": "메가존클라우드, 퓨리오사AI 반도체 실증 인프라 구축 맡는다 &nbsp;&nbsp; 네이트",
         "outlet": "네이트",
         "outletUrl": "https://news.nate.com",
-        "source": "국내 AI 정책",
+        "source": "국내 NPU 기업",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
@@ -423,18 +379,18 @@ window.__DASHBOARD_DATA__ = {
         "score": 29
       },
       {
-        "title": "Trending: OpenAI, Broadcom target Nvidia's AI chip dominance; Wendy's sees meme stock boost - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFZEWkRzenQ0dVhoV1B0OUFLMnhvYkF1NWJpS2MwdVp3MC0wSEtUSHVUS0ZHRUwyYjVfYVF2X05PalRvbDBTaVBUZmI4N0NSVDQxbE9GVkpiX1NZZUExMDRkdU0yZDkwR0NTTXVyRml6Y2FEU0JNczN5STdGaHRUYXJqNmE3UDZjSUxvZXpJcw?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 19:47:22 GMT",
-        "summary": "Trending: OpenAI, Broadcom target Nvidia's AI chip dominance; Wendy's sees meme stock boost &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
+        "title": "AI Stock Face-Off: Is Nvidia or AMD the Smarter Long-Term Buy? - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0gwdlBQakpUeVN3OUlYUXFuUGhRbFBiR21QeVp3bE9HRmNKSzdDVnJoOWpPQTZKYjRFT2ppaEQ1a1ZkZHhtZHM5REROU3pyUHpEMGdGdDYwZTVyYnc2NFZ3bG5Da196YmZYZHpNR3F3S3c1UXdldHU5X2UxWTRXLVNZeHA0WjRzLVdaN1AzcFE5V1ByNldrNzJuVHBEUUFvSkR1UFhJRFdrMm9hRkhYYUo0T3hZQi15cVpaVzVxMnhTcVhUSnJ2RmtJU0FUTnpGSHZwZnc5ajZHVU0?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 20:58:20 GMT",
+        "summary": "AI Stock Face-Off: Is Nvidia or AMD the Smarter Long-Term Buy? &nbsp;&nbsp; The Globe and Mail",
+        "outlet": "The Globe and Mail",
+        "outletUrl": "https://www.theglobeandmail.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
           "NVIDIA",
-          "Broadcom"
+          "AMD"
         ],
         "taxonomyHits": [
           "NVIDIA"
@@ -443,45 +399,83 @@ window.__DASHBOARD_DATA__ = {
         "score": 28
       },
       {
-        "title": "AI investment: How Nvidia and DDN maximize GPUs - SiliconANGLE",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOXzZsT21TQjR5RXBtRno2VzhDVDh3QU9DNVJCN29xYjBVMkNhbVVneXlDRTlOcWlWTXh4NnlKTWluQlJBVng5Y2FwRHEzNWdtbmVhV0hTaV9OTVNJcFVmOVJNRGhkMWxUcjZsb2I5ZUZ0VFRZQjNHbW1Scm9ybVdKaWVraTh4NlRHUjBJVWJIbXJ1a3NWdkZVNDlmNUY2bm8?oc=5",
-        "publishedAt": "Tue, 23 Jun 2026 14:00:56 GMT",
-        "summary": "AI investment: How Nvidia and DDN maximize GPUs &nbsp;&nbsp; SiliconANGLE",
-        "outlet": "SiliconANGLE",
-        "outletUrl": "https://siliconangle.com",
-        "source": "해외 정책·투자",
+        "title": "AI Stock Face-Off: Is Nvidia or AMD the Smarter Long-Term Buy? - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlQzOXZRZVNrTUs0dlV4RlVLcklyR2J4VTNKUUZveTB1Vk56VXVqcjVETXVWUG1HTkdpbWRpT1NNOE9WT09kd1RkUFI5YTEzcmVQVEk3QUw0amowdkVtcmgwT2wzbEJwMjhxTTk3ZEZGaWVoQXAtU1RmNlF2LVZiaXB1bU9zSFJJZmk0?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 20:30:56 GMT",
+        "summary": "AI Stock Face-Off: Is Nvidia or AMD the Smarter Long-Term Buy? &nbsp;&nbsp; The Motley Fool",
+        "outlet": "The Motley Fool",
+        "outletUrl": "https://www.fool.com",
+        "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI시장",
           "NVIDIA",
-          "투자·M&A"
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
         ],
         "issueCategory": "AI시장",
         "score": 28
       },
       {
-        "title": "Why Alphabet (GOOGL) Is Building Its Enterprise AI Case Around Google Cloud and HSBC - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVRpVVRHNWdocVNuTnBWeWIzaFBROEpsV0dDaHhaSEh3clc4OE8yYlFNVWxhb1FSazd0NEptNzdpYzFHR0tJbHpmR1NVMEphMmQ2ZDROa19YMEw1ajlZT2tFZk9SdkVoRDNZMHM3TXBUU1JWNHJtRWxSMlFHa1FvVm1YN0k4NkplY3JKVkZ0MVkwQTg0MWQ0TjUzZl9ZTXp0MjNsUQ?oc=5",
-        "publishedAt": "Mon, 22 Jun 2026 19:09:42 GMT",
-        "summary": "Why Alphabet (GOOGL) Is Building Its Enterprise AI Case Around Google Cloud and HSBC &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "AI 시장·비즈니스",
+        "title": "5 Top Google AI Brains Bolted in 7 Days as Gemini Falls Behind, and Alphabet Stock Is Feeling It - 24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZTVlaFNuYVdhbU5BbWQ3WnhzUkhTWkdENXlkSFQ5RThER3VyQUp1UGtyOGtDRkFaSTNyZ2NNbENyNU40YjN0MzNXSWM0WjhsS2F6REJfaWxrcXVhVzVsTzhXTTZTMERvLTZmZG9QbEg1MGFGcTNISER3bExvbU5sT0l6YnE1enZtblpLc2locTVhZEtLVk1UTWJtV2hpVUhBbUlTWmZxa2U3andGeGY1amJ1a0pwZDh1NDh3bVY3N0tWR1BjOUZKVWNMX1ZvTGpfTEQzTThB?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 18:59:32 GMT",
+        "summary": "5 Top Google AI Brains Bolted in 7 Days as Gemini Falls Behind, and Alphabet Stock Is Feeling It &nbsp;&nbsp; 24/7 Wall St.",
+        "outlet": "24/7 Wall St.",
+        "outletUrl": "https://247wallst.com",
+        "source": "Google AI 이슈",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "Google"
+          "Google",
+          "Gemini"
         ],
         "taxonomyHits": [
-          "AI시장",
-          "AI인프라",
           "Google"
         ],
         "issueCategory": "AI시장",
+        "score": 28
+      },
+      {
+        "title": "과기정통부, AI반도체 대학원 3개 대학 신규 선정 - 아이뉴스24",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ckZqZWtpdVpLWmsxNmpOTmJpNWlNQzhsQ21jZEZMX04zMDNBT0dhcTZCSTgzR3ZpOU9VeVpycUFPVlFXT1pHN0hhd1AwVS1jY25XbmNB?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 08:57:02 GMT",
+        "summary": "과기정통부, AI반도체 대학원 3개 대학 신규 선정 &nbsp;&nbsp; 아이뉴스24",
+        "outlet": "아이뉴스24",
+        "outletUrl": "https://mobile.inews24.com",
+        "source": "AI반도체 공공사업",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "NPU"
+        ],
+        "issueCategory": "정책",
+        "score": 28
+      },
+      {
+        "title": "알파벳, 'TPU' 승부수…엔비디아 독주 흔들리나 | 뉴스 - 초이스스탁",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFZ1FRVEpuZWlhWTlXU1gzMjB6SVhPSnFQYUFPbHZPN0VpWUtqU3hRQjNnYTRUcXc3QjV0aE9oc1JhbWl3emJ2ejFYMHdaN1VibWhMUHJhNEdRd2xzRVcyNTVoQkJWTTA?oc=5",
+        "publishedAt": "Mon, 22 Jun 2026 09:55:09 GMT",
+        "summary": "알파벳, 'TPU' 승부수…엔비디아 독주 흔들리나 | 뉴스 &nbsp;&nbsp; 초이스스탁",
+        "outlet": "초이스스탁",
+        "outletUrl": "https://www.choicestock.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "TPU"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "NVIDIA",
         "score": 28
       },
       {
@@ -499,27 +493,6 @@ window.__DASHBOARD_DATA__ = {
           "정책",
           "데이터센터",
           "NPU"
-        ],
-        "issueCategory": "NPU",
-        "score": 28
-      },
-      {
-        "title": "가비아, '2026년 고성능 컴퓨팅 지원사업' 선정…리벨리온 NPU 공급 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9uSzNzQlp2Q21tSGU1a19BNHBocmVUX0xPQWlQYllJc0JOS2UzRnFXOHdYNzdsNFpLZVBPV2hLWWc3dkFlblE?oc=5",
-        "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "가비아, '2026년 고성능 컴퓨팅 지원사업' 선정…리벨리온 NPU 공급 &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "리벨리온",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "NPU",
-          "리벨리온"
         ],
         "issueCategory": "NPU",
         "score": 28
@@ -546,12 +519,73 @@ window.__DASHBOARD_DATA__ = {
         "score": 28
       },
       {
-        "title": "NVIDIA (NVDA) Projects $1 Trillion in AI Infrastructure Demand By 2027 - Insider Monkey",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRkRW9Cbm1HbDdSeERlcjNtb25VNXVsdG1nZ3FuMlZCd3IwR05HcV96WllFZlo5SGNsRVlIVGFIS1g4dEMwQVNGLTM1emx6RTY4bHIzLVBhcTNOSk9qQzBLcENYX2paMlhuNVp5M0FPbGozMTdVMk10ZzBqX0VhMWp0U01qWUNWTHA0Y0RWWjRCMU1mS3dfWGJhaWlpNzhNQ25sNWtPdWhVbXlLVkFEWNIBuAFBVV95cUxPMkJDTE45a084bmpBVDE2dG55bmc4Z2drMFRDU3otcXlRYTNlRi1KQnZuRWhWQzlNQ2J1RnE1WW95aGFsVlpMVUtxYkxSTVNzWmxHa0owdTNlRTNWbl92bkRYemVmdDFycE9XSm1WemF3dWlBTXc5TDMwYWlOYUxWVmJ0SDF6dVA5bFNqU0dGMnVuWm9pQnlUVGYzbklPLUlrVm9mYWhZOFVqMlhva2pTWmx6d19oWDVO?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 15:40:41 GMT",
-        "summary": "NVIDIA (NVDA) Projects $1 Trillion in AI Infrastructure Demand By 2027 &nbsp;&nbsp; Insider Monkey",
-        "outlet": "Insider Monkey",
-        "outletUrl": "https://www.insidermonkey.com",
+        "title": "Nokia (NYSE:NOK) Partners With Google Cloud On Gemini AI Network Platform - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTENBUnFaSjN0WkpxWkdZbUZrQTdIYUNaYW1xNmNoQjJ3ZzJUdThFbzBYcHU0QWludGQxajNEN0FJMV9SVm91SjNEX2syTTYxLVV3bFUwMzZDUDlGQkQtVmpyTlYzZnFNZm9KeU9QSjlzTTVFWjJJMEJrWVBqZlhsbS0wYVR5OWtra2E3c0hPYXY1MnBnM0RuODZ6T3FRVUdCejBFdmpWUDIzeHVwdFNPLVp4YkJWZWVuWjliRWxB0gHDAUFVX3lxTE8zb19POXNMaW91RnNna2NrN1pmOEFMaWFmMUdBZUVjdDZaVU9sNjlSUGJmbjNWN3FMUENxQ2p5NmpONlcta0NnaEl1cjB6ZjdpclFEbDl3b2U1MXlDTl9WQ1BhcHdvbGhYdmJfN2UzWWJxV3B2NTItQk1LU2Y0a2xrMHpXZmpvdF83UzRkUmR3QzlscVd3dkxEOEhFMFJTdkw0d1ppQkVpeEZuMFZja0ZaVXI2M3BUNFl2OHQwM2FXY29zTQ?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 19:18:01 GMT",
+        "summary": "Nokia (NYSE:NOK) Partners With Google Cloud On Gemini AI Network Platform &nbsp;&nbsp; simplywall.st",
+        "outlet": "simplywall.st",
+        "outletUrl": "https://simplywall.st",
+        "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google",
+          "Gemini"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 27
+      },
+      {
+        "title": "Nvidia Thinks It Can Solve One of AI’s Biggest Data Center Problems - Memeburn",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0UzSzBiM2FMY3JtWDFzQW80R2w0ck9LcFc2eGVXTURuNVRyNFpDM3B4U0ZzSmtwN3A3T1ZEeXlLVUhmdldaeWZEZTZuYTc0YzF5U1BzcEh4SWt0ZHNjeGg4VENXZjV4RENXbFJvaVdkTVpCaEFIczNINnJhcTdXaGNkMHlVWGs1Qk1ic3BZSkZydw?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 18:41:53 GMT",
+        "summary": "Nvidia Thinks It Can Solve One of AI’s Biggest Data Center Problems &nbsp;&nbsp; Memeburn",
+        "outlet": "Memeburn",
+        "outletUrl": "https://memeburn.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "NVIDIA"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 27
+      },
+      {
+        "title": "Nvidia and AWS Deepen Ties to Speed AI Inference and Vector Search - Tech Times",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFRyaThXTTdLTVhsTmwtdE90WlB4dG1UdlNVUEczaHVFVUE4aFRZcWJwYW9QakNMMWlSalo4RXMyLWI0Q0hTcHFfbjBhcnV6a3dUOURHdTVGQTl5Y0RBa1hKSmhnc0g4VmN0ZDEtMW9uS2p3WXZscnh4M2Y5QWZ1TUVOX2JsWlBHOW4xWXZkNGR2VFl1OEtFMFJiME9WWmNZV2QwcWlwT2kwTXhUU2pB?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 17:08:20 GMT",
+        "summary": "Nvidia and AWS Deepen Ties to Speed AI Inference and Vector Search &nbsp;&nbsp; Tech Times",
+        "outlet": "Tech Times",
+        "outletUrl": "https://www.techtimes.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "추론",
+          "NVIDIA"
+        ],
+        "issueCategory": "추론",
+        "score": 27
+      },
+      {
+        "title": "NVIDIA (NVDA) Projects $1 Trillion in AI Infrastructure Demand By 2027 - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSlFhUW5KY1BpTktPTElCbFNzVk9SOTF0VlN3M3J0TURBcWxRRUdtQUZtNTE2akF3TTdXQTMxOUZWRHppa2tzVDdoeGVWRkpINmVrNDk1cWl3X19TYjctWFQwdi01REZSdXdTYjV0NXV0dFZwTnVwZWZlUWhSNkQ3TGJGU1g0NncxcDFsOHh6NHdHTGphaHZWNU9odw?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 15:38:27 GMT",
+        "summary": "NVIDIA (NVDA) Projects $1 Trillion in AI Infrastructure Demand By 2027 &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
@@ -646,10 +680,30 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "Nvidia's banned Blackwell AI servers are selling for $1.1 million on China's black market - TechSpot",
+        "title": "NVIDIA shares climb on back of new AI agent toolkit and robotics platform launches - eciks.org",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ERzVCRTExV250MUctMW41ejFycXZuTVp2NktlY0c1TkhlQXNOTHBReEZJdk5pNTZDcDRmM2t3bURfQjFhcTB2LWpXa0M0M2hfNkNtck04SGFtb1V6ZTdoRmhWdlhCTTlV?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 11:27:19 GMT",
+        "summary": "NVIDIA shares climb on back of new AI agent toolkit and robotics platform launches &nbsp;&nbsp; eciks.org",
+        "outlet": "eciks.org",
+        "outletUrl": "https://eciks.org",
+        "source": "AI 서비스·클라우드",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 27
+      },
+      {
+        "title": "Nvidia's banned AI servers are selling for $1.1 million on China's black market - TechSpot",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHgwdGJPblVibFBYSFNnamlJQ1REejJGb1pTY1cxbV9yWVpIY3NVa3BLbjlVWFZ5anItN3Q4blpfZFVHeGtQX1JNeUkybnhveTRyekh3R1JIUFN5ZzFTNmNHejFuTU5QM3l0MVBHUHp3ZkttOTl5S3lpR2dLcnBfOGdNWGNUeHpqTjFNd29aLWpCOGp6VVJpS0RnUQ?oc=5",
         "publishedAt": "Thu, 25 Jun 2026 11:06:00 GMT",
-        "summary": "Nvidia's banned Blackwell AI servers are selling for $1.1 million on China's black market &nbsp;&nbsp; TechSpot",
+        "summary": "Nvidia's banned AI servers are selling for $1.1 million on China's black market &nbsp;&nbsp; TechSpot",
         "outlet": "TechSpot",
         "outletUrl": "https://www.techspot.com",
         "source": "NVIDIA 이슈",
@@ -663,26 +717,6 @@ window.__DASHBOARD_DATA__ = {
           "수출통제·공급망"
         ],
         "issueCategory": "AI시장",
-        "score": 27
-      },
-      {
-        "title": "NVIDIA (NVDA) Advances with 800V HVDC Power Rack for AI Servers - GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGpLaVNzaHdFMmRyd2xiNV82TU5XYW9aemJuZmJxU0hDR0Y2RUNkQUV6QkV6dUsyX19GUWtEcTl1a09DLXk5b21HRmF1cG5VN2dHWDdDWm1HRVYzQTdSd1h3QkF6dTJNMGFvMzEtelhoQkdDRVVyQ2FxZ2pkS3A0NWVfQzQxbkFOR000NDhCNkJ2REVGSUhXNEdaWVdHV0lvU1E?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 10:46:56 GMT",
-        "summary": "NVIDIA (NVDA) Advances with 800V HVDC Power Rack for AI Servers &nbsp;&nbsp; GuruFocus",
-        "outlet": "GuruFocus",
-        "outletUrl": "https://www.gurufocus.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "데이터센터",
-          "NVIDIA"
-        ],
-        "issueCategory": "데이터센터",
         "score": 27
       },
       {
@@ -726,12 +760,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "NVIDIA Discusses Future of AI Infrastructure at Shareholder Meeting - GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWV2T2FabnBkZ3NzRmlGYVlFNDktSUZaZ3B2WkZ2aGM3ak1BT1N5d25mdF9MeVJPNzlQLWYwcUNvMmxGZ2h3a2tRTVFWLTM2QnBzU3l6NDhjUlZyVk9wSVhiMDVQYkc1RnBqenAxbnI3eTY0ODFESEtFTFg2Qmd3dEJ2R2laZnIta21lREJVNWNBamZNVGZ1blVldzVZTVJIUTVidWstaG9hUQ?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 05:56:32 GMT",
-        "summary": "NVIDIA Discusses Future of AI Infrastructure at Shareholder Meeting &nbsp;&nbsp; GuruFocus",
-        "outlet": "GuruFocus",
-        "outletUrl": "https://www.gurufocus.com",
+        "title": "Tecan accelerates Data-Driven Lab journey with Agentic AI developments powered by NVIDIA - News-Medical",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSGRxXzRLdDRJVG0zS1UzdUt2bXhUMEFPWTNqUjg3ZDEtMGtNaVMwSDA2Z3lwSVFSOExIdVlRemN2RldUamZNdWJaVzZWZkduanlRRTdvTzJGNFd2MWowcmxYZXhZbmlOSkZDRUZxNWZMNC1UTXNKRUhFTnh2VGpaOTVNd0tUNGw5d0FEakNTTjJsMjh2cUpNandjSGxjRXBtQ2owOEJUU0ttR2hnNWJtdkNRYlRBYlgtUmdodjM2ajZOaUpGaGtKb0FuMnhHRzdJbXc?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 04:51:00 GMT",
+        "summary": "Tecan accelerates Data-Driven Lab journey with Agentic AI developments powered by NVIDIA &nbsp;&nbsp; News-Medical",
+        "outlet": "News-Medical",
+        "outletUrl": "https://www.news-medical.net",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
@@ -739,10 +773,10 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "taxonomyHits": [
-          "AI인프라",
+          "AI에이전트",
           "NVIDIA"
         ],
-        "issueCategory": "AI인프라",
+        "issueCategory": "AI에이전트",
         "score": 27
       },
       {
@@ -766,81 +800,21 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "Nvidia And Western Digital Lead 3 AI Infrastructure Stocks Retail Investors Are Watching - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYl9uNlRaeVRRbGdyQWozQ2R6eVRtVE1sdExLOHp1cFdlQ04zNkJvVUhWa296cTFlemJqZ2cwMVZ6aVpiM2xPa094aEhHVzM2dndPQ2wybnlIY0wzTzVEYVRoZzBxSHZxRHJDWmxhSi1TcjZYeTk5cU53NDV5T2ZyV0V2bXAtd2tsM1ppeGtVX0wxcXBNOFlvRHg5VXlwUjFibjVEcDg0RTlrRF9OdTRVeHRWWkFxcGp1VElqYlU5TUpDUVRINnJwN9IBzgFBVV95cUxNZTdnYkd3bGpOeGJldTdSMGx6R1ZYMngxc0FXWDNDOGMzaENTY1N4UW1Nb0M4aGdGblQwR3BPWjFfcEJFVHFPWDhOR0xhMm5CX1d3SXMxeDV4S1hRd3BFUkxiZGJVSlJMOUV1S0hiRW1EWmJWU0t6N0NJUnJYQjV0aWJWLVdMTVBQdUcyejhYMHR6U3N5WFZ5NExCYjNKOGRudU04UktJNnNPYlBmTGpGN04wOW9jaUFYZjVzTnJuXzlTU0duYTJjQkhkeW5wQQ?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 00:51:10 GMT",
-        "summary": "Nvidia And Western Digital Lead 3 AI Infrastructure Stocks Retail Investors Are Watching &nbsp;&nbsp; simplywall.st",
-        "outlet": "simplywall.st",
-        "outletUrl": "https://simplywall.st",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 27
-      },
-      {
-        "title": "Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPODFGMmIwMnhuZ3A5dmxKV0pYRi1KTXdpdUxGcGFELVV5R0NkbHJsTUgtYjh4c0p4LVlpYU5GOEh2Tjc0TmtlWm4tYzIzdTJnUGdnaDVQeUxTVV9LMUhFSzdYQ1JObWhkTkNyZXk0Wmsya2RfQWZTU2ZPWkNxdkhuQlowaV9SekNrMVRYZzlyNzZtY2k4QXNlVzNkTzdJT0xaSlNoLU5JMG0yb3VXRXJOQzlWbXp5N2FnWVlSdVZ6Y1owYjlhMXZrN0g3aWZWRU03eDg4QlNodlE1WXc4TFpfaWxNTTlNQQ?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 19:30:00 GMT",
-        "summary": "Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia &nbsp;&nbsp; Yahoo Finance",
+        "title": "Trending: OpenAI, Broadcom target Nvidia's AI chip dominance; Wendy's sees meme stock boost - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFZEWkRzenQ0dVhoV1B0OUFLMnhvYkF1NWJpS2MwdVp3MC0wSEtUSHVUS0ZHRUwyYjVfYVF2X05PalRvbDBTaVBUZmI4N0NSVDQxbE9GVkpiX1NZZUExMDRkdU0yZDkwR0NTTXVyRml6Y2FEU0JNczN5STdGaHRUYXJqNmE3UDZjSUxvZXpJcw?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 19:47:22 GMT",
+        "summary": "Trending: OpenAI, Broadcom target Nvidia's AI chip dominance; Wendy's sees meme stock boost &nbsp;&nbsp; Yahoo Finance",
         "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "데이터센터",
-          "NVIDIA"
-        ],
-        "issueCategory": "데이터센터",
-        "score": 27
-      },
-      {
-        "title": "Groq Raises $650M After Nvidia's $20B Deal to Bet Everything on AI Inference - Memeburn",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42bTJtekpyRFAyU21uY3RUY3ZFeEN5UUYyOE9GS3FMNmdEQ1VxMURhLW85WmZNaV9vV185N2Q3bEhjd1NtRkhNNmd0QzNDdm9SRUpNcFF0RmlCZTVjdzc0RnlVYW1wemFWREFmR3dR?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 19:15:38 GMT",
-        "summary": "Groq Raises $650M After Nvidia's $20B Deal to Bet Everything on AI Inference &nbsp;&nbsp; Memeburn",
-        "outlet": "Memeburn",
-        "outletUrl": "https://memeburn.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "추론",
-          "NVIDIA"
-        ],
-        "issueCategory": "추론",
-        "score": 27
-      },
-      {
-        "title": "This AI Memory Stock Soars 600% - Could Be the Next NVIDIA - Zacks Investment Research",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZjNSTUYyX3lTeTVyTmVad3pJUWJvaTROclZvRGg3SHZma1RwaXpUcVJNV3VtS1Q2Ym1wRkRGZThGeE1jdndyRy1la05nMWhCSUNVaWxyNHlOUGlpOXRYLXc4TlNFYlBaQ1hWbGtJc0FhRlMyNENselNIY0hDdmRUZjZSY1RCS3dnY3dfWVRNMTd0MWp3cDNoTHRncnVCX2c?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 18:30:45 GMT",
-        "summary": "This AI Memory Stock Soars 600% - Could Be the Next NVIDIA &nbsp;&nbsp; Zacks Investment Research",
-        "outlet": "Zacks Investment Research",
-        "outletUrl": "https://www.zacks.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
           "NVIDIA",
-          "투자·M&A"
+          "Broadcom"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
         ],
         "issueCategory": "AI시장",
         "score": 27
@@ -866,28 +840,8 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "Nvidia, Micron, AMD lead tech sell-off as AI trade cools - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWQ3UzZaY1JCdkpMTC1WYlZKWXhZU05OZWpYVS1rRHZXcm12NzVGaC1LbzZfTmVDRkRCNVdwdjRUSEhxY0VyTFZNSXExTHotVm81T0toYWdldk5QbW1lenFnRWRDWVYwdmd2M3dZa0pUdjMzdWVCZGd2bDdfdU5hajJaRDBsYnNmZ291SHB4QjNqenc3YmszOFd4b1QwNklfRFA5Wk9wVmFkMjRuYVNGZHNXYUNoVENvaUE?oc=5",
-        "publishedAt": "Tue, 23 Jun 2026 20:40:29 GMT",
-        "summary": "Nvidia, Micron, AMD lead tech sell-off as AI trade cools &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 27
-      },
-      {
         "title": "디밀리언, NIPA 'AI 에이전트 융합·확산 지원 사업' 선정 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVNHNjXzBpQWdIb0xXMlZiUmtfUi1WVXZEV0JNblQ0VGZVeURCYm5fWUFzVFV4UlNNVUlEVDVLVFRKQzVnMkRfRy0yTndzWUdTOUpQcEVPMzdGTVlJSFlXQXdHVDlraEpjU0Q3YkNhbloyUdIBckFVX3lxTFBVNHNjXzBpQWdIb0xXMlZiUmtfUi1WVXZEV0JNblQ0VGZVeURCYm5fWUFzVFV4UlNNVUlEVDVLVFRKQzVnMkRfRy0yTndzWUdTOUpQcEVPMzdGTVlJSFlXQXdHVDlraEpjU0Q3YkNhbloyUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtYmd4WnQzbnJGTVNmcDNISk81VGp1ejQxbTNSX1RxY2IydHlUeEI0RnNQMHZCbzZaQUZudTliRmNtYzFELWVVSnZ4ejQ2bFFwd0JYVkNTN0pETDZkZ1lldmdaYjR4Y1FIMmFKdNIBckFVX3lxTFBVNHNjXzBpQWdIb0xXMlZiUmtfUi1WVXZEV0JNblQ0VGZVeURCYm5fWUFzVFV4UlNNVUlEVDVLVFRKQzVnMkRfRy0yTndzWUdTOUpQcEVPMzdGTVlJSFlXQXdHVDlraEpjU0Q3YkNhbloyUQ?oc=5",
         "publishedAt": "Tue, 23 Jun 2026 06:55:41 GMT",
         "summary": "디밀리언, NIPA 'AI 에이전트 융합·확산 지원 사업' 선정 - 머니투데이 &nbsp;&nbsp; 머니투데이",
         "outlet": "머니투데이",
@@ -901,6 +855,27 @@ window.__DASHBOARD_DATA__ = {
           "AI에이전트"
         ],
         "issueCategory": "정책",
+        "score": 27
+      },
+      {
+        "title": "Why Alphabet (GOOGL) Is Building Its Enterprise AI Case Around Google Cloud and HSBC - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVRpVVRHNWdocVNuTnBWeWIzaFBROEpsV0dDaHhaSEh3clc4OE8yYlFNVWxhb1FSazd0NEptNzdpYzFHR0tJbHpmR1NVMEphMmQ2ZDROa19YMEw1ajlZT2tFZk9SdkVoRDNZMHM3TXBUU1JWNHJtRWxSMlFHa1FvVm1YN0k4NkplY3JKVkZ0MVkwQTg0MWQ0TjUzZl9ZTXp0MjNsUQ?oc=5",
+        "publishedAt": "Mon, 22 Jun 2026 19:09:42 GMT",
+        "summary": "Why Alphabet (GOOGL) Is Building Its Enterprise AI Case Around Google Cloud and HSBC &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
+        "source": "AI 시장·비즈니스",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI시장",
         "score": 27
       },
       {
@@ -966,6 +941,48 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "NPU",
         "score": 27
+      },
+      {
+        "title": "샤로나이 홀딩스, 16억 달러 규모 자금 조달…엔비디아 협력 및 AI 팩토리 구축 목적 - 데이터투자",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzNkY4cWlUMnROOWRGM0hhVEJnVUhrdGFoY2V4aWg2X18zdXhNekltMllmeWZYZWphZmlwenNPUHdiWGdrS2JDY1QtQ2V1eDNzVlYtdmozalpQYXpITmVSQ3JGSl9WMWFNZVRHS3otbE9IV3M?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 21:04:24 GMT",
+        "summary": "샤로나이 홀딩스, 16억 달러 규모 자금 조달…엔비디아 협력 및 AI 팩토리 구축 목적 &nbsp;&nbsp; 데이터투자",
+        "outlet": "데이터투자",
+        "outletUrl": "https://www.datatooza.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "투자·M&A",
+          "실증·조달"
+        ],
+        "issueCategory": "AI시장",
+        "score": 26
+      },
+      {
+        "title": "AMD Is Trading at 97 Times Forward Earnings While Nvidia Trades at 21 Times -- Someone's Valuation Model Is Wrong. Here's Who I Think It Is. - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0NCaTF3aktObkYyNDd0RXJRTXlkVGJLX0pEbnh2U0JaRkFPVkl2eU5nZUpfX2hfWjVoRHpxeFo1bV93dURnLVFRTUhSbWh3b2NqMjN4d2FEUlJkemRhZTJJbUtTakY5c3N3Ul92UE81UkdHSXZZeWFPbFVuQmpaV2x1Y0Y2MVFJbEZfVDhpa3RIM1I1djkwQQ?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 19:45:00 GMT",
+        "summary": "AMD Is Trading at 97 Times Forward Earnings While Nvidia Trades at 21 Times -- Someone's Valuation Model Is Wrong. Here's Who I Think It Is. &nbsp;&nbsp; The Motley Fool",
+        "outlet": "The Motley Fool",
+        "outletUrl": "https://www.fool.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 26
       },
       {
         "title": "Google Pushes Enterprise AI Agents Into Workflows - DesignRush",
@@ -1048,20 +1065,23 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "뉴시스 IT 포럼 강연하는 김경만 과학기술정보통신부 인공지능정책실장 - 네이트",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaaXVkMVc0UW80MUZWOEJtMjBJYzJEb1BValZETThob1Nhd0lUemU4eHVLaTluR0pGNFgxRDBmRjU0VkJmUGVOSUZsMHZYYVFQeHRF?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 23:12:00 GMT",
-        "summary": "뉴시스 IT 포럼 강연하는 김경만 과학기술정보통신부 인공지능정책실장 &nbsp;&nbsp; 네이트",
-        "outlet": "네이트",
-        "outletUrl": "https://news.nate.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
+        "title": "Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPODFGMmIwMnhuZ3A5dmxKV0pYRi1KTXdpdUxGcGFELVV5R0NkbHJsTUgtYjh4c0p4LVlpYU5GOEh2Tjc0TmtlWm4tYzIzdTJnUGdnaDVQeUxTVV9LMUhFSzdYQ1JObWhkTkNyZXk0Wmsya2RfQWZTU2ZPWkNxdkhuQlowaV9SekNrMVRYZzlyNzZtY2k4QXNlVzNkTzdJT0xaSlNoLU5JMG0yb3VXRXJOQzlWbXp5N2FnWVlSdVZ6Y1owYjlhMXZrN0g3aWZWRU03eDg4QlNodlE1WXc4TFpfaWxNTTlNQQ?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 19:30:00 GMT",
+        "summary": "Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
         ],
-        "issueCategory": "정책",
+        "taxonomyHits": [
+          "데이터센터",
+          "NVIDIA"
+        ],
+        "issueCategory": "데이터센터",
         "score": 26
       },
       {
@@ -1225,24 +1245,23 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "Google Is Using Nvidia’s Playbook to Build a Rival AI Chip Business - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmFaN3pTeVAxSml4aXpYZlZMdi1tTGtkU3JncjZUR2h2a196eklrVWt1cklqTkh2bWh2VmNMZlgtTTlmZFFqS05rMlF1WG1mYnA4eVg3SGJDQWlDNVdnRDhQZ3dtd3FCMlZPckExSUVKRS1XU1JoQ1Awc3lxYkJkYkZodmJwM1NlcTJONnRHWjF3NmpBM2RFRUs5UkVROGdpd1hac2VR?oc=5",
-        "publishedAt": "Sat, 20 Jun 2026 07:00:00 GMT",
-        "summary": "Google Is Using Nvidia’s Playbook to Build a Rival AI Chip Business &nbsp;&nbsp; WSJ",
-        "outlet": "WSJ",
-        "outletUrl": "https://www.wsj.com",
+        "title": "Nvidia, Micron, AMD lead tech sell-off as AI trade cools - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWQ3UzZaY1JCdkpMTC1WYlZKWXhZU05OZWpYVS1rRHZXcm12NzVGaC1LbzZfTmVDRkRCNVdwdjRUSEhxY0VyTFZNSXExTHotVm81T0toYWdldk5QbW1lenFnRWRDWVYwdmd2M3dZa0pUdjMzdWVCZGd2bDdfdU5hajJaRDBsYnNmZ291SHB4QjNqenc3YmszOFd4b1QwNklfRFA5Wk9wVmFkMjRuYVNGZHNXYUNoVENvaUE?oc=5",
+        "publishedAt": "Tue, 23 Jun 2026 20:40:29 GMT",
+        "summary": "Nvidia, Micron, AMD lead tech sell-off as AI trade cools &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
           "NVIDIA",
-          "Google"
+          "AMD"
         ],
         "taxonomyHits": [
-          "NVIDIA",
-          "Google"
+          "NVIDIA"
         ],
-        "issueCategory": "NVIDIA",
+        "issueCategory": "AI시장",
         "score": 26
       },
       {
@@ -1262,50 +1281,6 @@ window.__DASHBOARD_DATA__ = {
         "taxonomyHits": [
           "리벨리온",
           "퓨리오사AI",
-          "투자·M&A"
-        ],
-        "issueCategory": "NPU",
-        "score": 26
-      },
-      {
-        "title": "국민성장펀드, 퓨리오사AI에 직접 8천억…K-엔비디아 키운다 - jabon.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EdDN1dEdmY0VISjJPVThJbmNDOW9BZ29TOG9rMlZzQUtsMTV0QVYzMjU2bkdmUU9XUE9Pamxrd3dtVHA0aUl6S19IdEFmYmNyUEp2cVN6UFVGYVhiU3JSWXFlb2JSTTA?oc=5",
-        "publishedAt": "Fri, 29 May 2026 07:00:00 GMT",
-        "summary": "국민성장펀드, 퓨리오사AI에 직접 8천억…K-엔비디아 키운다 &nbsp;&nbsp; jabon.co.kr",
-        "outlet": "jabon.co.kr",
-        "outletUrl": "https://www.jabon.co.kr",
-        "source": "퓨리오사AI",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "K-엔비디아",
-          "퓨리오사AI",
-          "NVIDIA"
-        ],
-        "issueCategory": "NPU",
-        "score": 26
-      },
-      {
-        "title": "'K엔비디아'에 8000억 베팅… 국민성장펀드, 퓨리오사AI 대규모 투자 - 더퍼블릭",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CaUJWUHVQQ3FwaUV2T3BXMzBjRG50S0s1LV9ScHpYU2piS09CVWJMR3VfaEJRZkYxbV9YY3AxcUdYRDRPdDJ6SWRKS0JrRTVQb01tZVZFVnlHVmxOR3cwQlp5bnFSS3ZLeUdJ0gFvQVVfeXFMT3pWa0NUNk1ZakxlQlY4blNhbFc2LXBFQzcyT0padE8wMC1FUkFxNHI5RkwtdUJVRXRKMWRTR1BpTnlNUXI4UWRVZklsRFloVE5RRkZ5aE1IeGIzR3U2T1Q5bGlUclVQeE9kLVBndGo0?oc=5",
-        "publishedAt": "Fri, 29 May 2026 07:00:00 GMT",
-        "summary": "'K엔비디아'에 8000억 베팅… 국민성장펀드, 퓨리오사AI 대규모 투자 &nbsp;&nbsp; 더퍼블릭",
-        "outlet": "더퍼블릭",
-        "outletUrl": "https://www.thepublic.kr",
-        "source": "퓨리오사AI",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "퓨리오사AI",
-          "NVIDIA",
           "투자·M&A"
         ],
         "issueCategory": "NPU",
@@ -1356,28 +1331,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "국민성장펀드, 퓨리오사AI에 8000억 투입…'K-엔비디아' 육성 속도 - 네이트",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rV1hYZXJTWGJHVVNGbHA2X21JNHI5Q050ckNVdnRtNTFFYjdQT1ZwY3kzdGplblhFLUF0X2xYWDBBUUw3MmJhYVV3ckZfSUNib2h3?oc=5",
-        "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "국민성장펀드, 퓨리오사AI에 8000억 투입…'K-엔비디아' 육성 속도 &nbsp;&nbsp; 네이트",
-        "outlet": "네이트",
-        "outletUrl": "https://news.nate.com",
-        "source": "퓨리오사AI",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "K-엔비디아",
-          "퓨리오사AI",
-          "NVIDIA"
-        ],
-        "issueCategory": "NPU",
-        "score": 26
-      },
-      {
         "title": "퓨리오사AI社 간 금융위원장 \"K-엔비디아 육성\" - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVBkNU5rV3RvLUp1ZTVNdzRMUFVOd3pPVUM0cXdBbzItalBBZXhCdVBRZ0w4U1pycnVzekswUVgwazFZRmxFbVBvclI0b2gxbWdYOUNMRVloQnVLQnJsLVowa0FfTHFQa2dacGhLeHJzSE9vVElCLVFpTFBKY2JyZzlyNEdYYzVualdn?oc=5",
         "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
@@ -1417,51 +1370,6 @@ window.__DASHBOARD_DATA__ = {
           "K-엔비디아",
           "퓨리오사AI",
           "NVIDIA"
-        ],
-        "issueCategory": "NPU",
-        "score": 26
-      },
-      {
-        "title": "구글, TPU 키우고 엔비디아도 품었다…AI 인프라 양손 전략[구글 클라우드 넥스트 2026] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OZ2Y0bTRXZmd6cXNBWWh0UDI2SFNuTEpwZUE4Uk51MmNXUEs2cU1BNVFMMktqc3pJdm9ROXhBY0JxX0dzemF1ZjZEbDZqMTA?oc=5",
-        "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
-        "summary": "구글, TPU 키우고 엔비디아도 품었다…AI 인프라 양손 전략[구글 클라우드 넥스트 2026] &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "Google",
-          "TPU"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 26
-      },
-      {
-        "title": "AI반도체 리벨리온·퓨리오사AI, 같지만 다른 감사 결과 이유는[비하인드 칩스] - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10YUJOZWhTYzJqVG9xNGNkVU53SWR6WklxcDJFb0U0MFN3UURZbkNUbGZCVlN2Z09uaHVhLWhpeThEWUloRXFlNGtxT1ltVUFWZ2NiZVF5NGVhb1dMaXJTODk3MWs4UWJ1TGfSAW9BVV95cUxNLUFQTVlBYmlLWlhhcWdIQnlDQ3ZfMXhILWtHeklOTVRkczh4R0tHU1BNM3ByTl9OX0FOQWRWZUhFdVVCU3lrcEFfVW1YcDRjb2ZlejhYc0hNeG5JdzZHTTI5eWlDc2lOTk1ENlBQTEk?oc=5",
-        "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-        "summary": "AI반도체 리벨리온·퓨리오사AI, 같지만 다른 감사 결과 이유는[비하인드 칩스] - 머니투데이 &nbsp;&nbsp; 머니투데이",
-        "outlet": "머니투데이",
-        "outletUrl": "https://www.mt.co.kr",
-        "source": "리벨리온",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "리벨리온",
-          "퓨리오사AI"
         ],
         "issueCategory": "NPU",
         "score": 26
@@ -1533,6 +1441,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
+        "title": "[이슈] 딥엑스·리벨리온의 ‘K-AI칩’ 도전, 엔비디아 아성 무너뜨리나 - M이코노미뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93eVdlWEU5MnMzdmhRYXRZSkk2YUU1WjVKZ0FOdHdBZ0c5c29LVGZGVHVhWnBmRk85Q0RodDFrMWFjNUMwYkhOUVRtQ3J5c1NMU2JxLXBwN2JOZVFmN3MtRjhMQlhsNUk?oc=5",
+        "publishedAt": "Sun, 08 Mar 2026 08:00:00 GMT",
+        "summary": "[이슈] 딥엑스·리벨리온의 ‘K-AI칩’ 도전, 엔비디아 아성 무너뜨리나 &nbsp;&nbsp; M이코노미뉴스",
+        "outlet": "M이코노미뉴스",
+        "outletUrl": "https://www.m-economynews.com",
+        "source": "리벨리온",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "리벨리온",
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "리벨리온",
+          "딥엑스",
+          "NVIDIA"
+        ],
+        "issueCategory": "NPU",
+        "score": 26
+      },
+      {
         "title": "딥엑스, 삼성전자와 세계 최초 2나노 AI NPU 개발...특허로 엔비디아·ARM·퀄컴도 제쳐 - 마켓잉크",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PX096MVQzZkdTRGduekp1dWk1cllHSm1FVkgwLW4wOW1CYUhPbWRBNlhrMFRoeFg4Ymo3eERhc3ctYXU3QXFDOHp5ZVhPbXNpWUJnOHRLQ2oydzNlcFBpb2FNVldLaXRzc3B0Tk93?oc=5",
         "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
@@ -1562,7 +1493,7 @@ window.__DASHBOARD_DATA__ = {
         "summary": "[현장+] ‘양산 돌입’ 모빌린트·리벨리온·퓨리오사 “AI 반도체, 산업 전략이 관건” &nbsp;&nbsp; 녹색경제신문",
         "outlet": "녹색경제신문",
         "outletUrl": "https://www.greened.kr",
-        "source": "모빌린트",
+        "source": "리벨리온",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
@@ -1574,6 +1505,28 @@ window.__DASHBOARD_DATA__ = {
           "리벨리온",
           "퓨리오사AI",
           "모빌린트"
+        ],
+        "issueCategory": "NPU",
+        "score": 26
+      },
+      {
+        "title": "퓨리오사AI, ‘엔비디아 천하’에 균열 낸다… 초고효율 추론 칩 ‘RNGD’ 양산 돌입 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3c1R2hDWU1vNHQxRDhEM0loS2o2OGlPWFpDQzljb3U5eVUxcS11UU1MWWsxSjlIVFpDc3MzV0hoaFFJSDFVazlCYlFqRGJnTkduN0JwVUItSTNiTGtDTGNqT1B5VDdCNFNNSTE3RXUwdDFDUnd6NS05S3FWbXRmU3dvaVJiY19a?oc=5",
+        "publishedAt": "Sun, 04 Jan 2026 08:00:00 GMT",
+        "summary": "퓨리오사AI, ‘엔비디아 천하’에 균열 낸다… 초고효율 추론 칩 ‘RNGD’ 양산 돌입 &nbsp;&nbsp; 글로벌이코노믹",
+        "outlet": "글로벌이코노믹",
+        "outletUrl": "https://www.g-enews.com",
+        "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "퓨리오사AI"
+        ],
+        "taxonomyHits": [
+          "추론",
+          "퓨리오사AI",
+          "NVIDIA"
         ],
         "issueCategory": "NPU",
         "score": 26
@@ -1596,6 +1549,23 @@ window.__DASHBOARD_DATA__ = {
           "실증·조달"
         ],
         "issueCategory": "NPU",
+        "score": 25
+      },
+      {
+        "title": "뉴시스 IT 포럼 강연하는 김경만 과학기술정보통신부 인공지능정책실장 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaaXVkMVc0UW80MUZWOEJtMjBJYzJEb1BValZETThob1Nhd0lUemU4eHVLaTluR0pGNFgxRDBmRjU0VkJmUGVOSUZsMHZYYVFQeHRF?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 23:12:00 GMT",
+        "summary": "뉴시스 IT 포럼 강연하는 김경만 과학기술정보통신부 인공지능정책실장 &nbsp;&nbsp; 네이트",
+        "outlet": "네이트",
+        "outletUrl": "https://news.nate.com",
+        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "정책",
         "score": 25
       },
       {
@@ -1715,64 +1685,24 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "Nvidia: AI-Driven Investment Ecosystem (NASDAQ:NVDA) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0ppeU9PM1R0eVp4VXZvc055SjdQT2NhQ0E2MTBqWE5sNGZ0T1V3NTU1Rl9YZ2RxS1lURHVYakhlYnplamdkN29nRncyMjV0R3Q4MmhSXzZQRTRFT2FDUWNYalJUMDF2RTZHTFNLVWhWdW1YamU2SmtNSW1LYmJwTklnV3c?oc=5",
-        "publishedAt": "Mon, 22 Jun 2026 19:57:01 GMT",
-        "summary": "Nvidia: AI-Driven Investment Ecosystem (NASDAQ:NVDA) &nbsp;&nbsp; Seeking Alpha",
-        "outlet": "Seeking Alpha",
-        "outletUrl": "https://seekingalpha.com",
+        "title": "Google Is Using Nvidia’s Playbook to Build a Rival AI Chip Business - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmFaN3pTeVAxSml4aXpYZlZMdi1tTGtkU3JncjZUR2h2a196eklrVWt1cklqTkh2bWh2VmNMZlgtTTlmZFFqS05rMlF1WG1mYnA4eVg3SGJDQWlDNVdnRDhQZ3dtd3FCMlZPckExSUVKRS1XU1JoQ1Awc3lxYkJkYkZodmJwM1NlcTJONnRHWjF3NmpBM2RFRUs5UkVROGdpd1hac2VR?oc=5",
+        "publishedAt": "Fri, 19 Jun 2026 01:09:00 GMT",
+        "summary": "Google Is Using Nvidia’s Playbook to Build a Rival AI Chip Business &nbsp;&nbsp; WSJ",
+        "outlet": "WSJ",
+        "outletUrl": "https://www.wsj.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "NVIDIA"
+          "NVIDIA",
+          "Google"
         ],
         "taxonomyHits": [
           "NVIDIA",
-          "투자·M&A"
+          "Google"
         ],
-        "issueCategory": "AI시장",
-        "score": 25
-      },
-      {
-        "title": "Nvidia says its new data center design will fix AI’s water problem - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGJUNFVsQWxocmsxbkFWQ0tsYmo3c3FhdUFIaVRxUEZLbGZVQmJkMkNxVkdyWng2MzZzMFc2dk84d0dfNjQzbTh5TGdMaEJPcF8wOVRxVFFZMHptTHBYS3VZX3lxSzJ1ejc3elZGaUtaUUhIdUFSNUNyMUh1R0hvZmZ1MDRqd09hQ2V2MFhDOA?oc=5",
-        "publishedAt": "Mon, 22 Jun 2026 18:51:00 GMT",
-        "summary": "Nvidia says its new data center design will fix AI’s water problem &nbsp;&nbsp; Fortune",
-        "outlet": "Fortune",
-        "outletUrl": "https://fortune.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "데이터센터",
-          "NVIDIA"
-        ],
-        "issueCategory": "데이터센터",
-        "score": 25
-      },
-      {
-        "title": "'국산 NPU로 AI 신약개발 가속'… 생명연-퓨리오사AI 협약 - 쿠키뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yQXo2Y0RaenIwSjRhY2JjYlhzX2pHX3lMTDdObmpBRllfU0prbmpEWVUxWG81RlNtUE1ja05DN3U1LWpaUXFQWUlndUZEWmw4NHFIanp0dERZa01TZGpDRUgwcw?oc=5",
-        "publishedAt": "Sat, 20 Jun 2026 04:39:57 GMT",
-        "summary": "'국산 NPU로 AI 신약개발 가속'… 생명연-퓨리오사AI 협약 &nbsp;&nbsp; 쿠키뉴스",
-        "outlet": "쿠키뉴스",
-        "outletUrl": "https://www.kukinews.com",
-        "source": "퓨리오사AI",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "K-엔비디아",
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
+        "issueCategory": "NVIDIA",
         "score": 25
       },
       {
@@ -1910,11 +1840,126 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "Nvidia Price Prediction: The Forecast Climbs Again. Here’s Where the AI Leader Heads Next - AOL.com",
+        "title": "Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market - Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN25EbElUVENuS3FRTHIzWVBvOGRCWWYtWVhTbmpkVjRrY1J1bzdRSDFNcmFuejlvOWYxRC01c2pIRXM5ejdNZTd2UXFFdHpYczFLV2s0RHFpYnhncGZ0Wi1nZ1MtN2k0a2tYTUNzX1lzUURmZ1ZaeHNNMmpsa3E5eDlTZlcxU1VmX2UyeVIzekdadTk3VkN2Z1ZYN080ZFV4bDM2U21NNDZycWNCeFdHYm0wOVZSVzJVd1ltR2l0MnFaY2JTTVAtMHVtcw?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 20:37:00 GMT",
+        "summary": "Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market &nbsp;&nbsp; Investor's Business Daily",
+        "outlet": "Investor's Business Daily",
+        "outletUrl": "https://www.investors.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "Missed NVIDIA's 900% Run? Micron Could Be AI's Next Big Winner - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX01kaVVLb0d0Y29MR0F0T2tuOHhwM21zQVZ6c0RjaUpkRUllN2JxMk5WMlJGWW9VN0lGOUwzaVdqYzBVQnlYLUFGTjhDd3lCcnpYWXJGa0F0emFESzgwM01rcVQ0XzEwbWNpbjFrVEVITm9ReTBwVmpOaXlzRDNSenBEV1IxbHFUV1A2U2tMVWJfdXEwRUk0M1BnRVNneXc3c2ZCSFRRVklNNVZ1V0RZYlpkQjFmb0E?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 19:00:00 GMT",
+        "summary": "Missed NVIDIA's 900% Run? Micron Could Be AI's Next Big Winner &nbsp;&nbsp; TradingView",
+        "outlet": "TradingView",
+        "outletUrl": "https://www.tradingview.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "Banned Nvidia AI servers are selling on the Chinese black market for $1,1 million. - GameGPU",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVAxbkY4V2libnNtZXI0b2NVYXEtOFdRNDlyaVlyejZtRkRQRUNhODN2d2VlWHM4cllfTUJfZHprdEpGWHlFOVJIemxrZEdTeG1hNGtTUjFzMUVaOEhEbjRQRmY4QzFKMWdqR3FjOC16bjI1ckVrVkxGWXg2OXJzLVZmaGo5OXJBTE5tYXRhdW9fU1BsYldUTk85ZDBRa1padDltRk9YUTR4SU9HaTJjR1hFelpOZ1hPMEE?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 17:36:00 GMT",
+        "summary": "Banned Nvidia AI servers are selling on the Chinese black market for $1,1 million. &nbsp;&nbsp; GameGPU",
+        "outlet": "GameGPU",
+        "outletUrl": "https://en.gamegpu.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "Google Gemini AI Predicts Jaw-Dropping Micron Technology Stock Price by End of 2026 - Cryptonews",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmllSkFkUmFnMjVNWVBmWVFjTFp2LWR6NEs3YV9GWUp3V0NUaUpnYU9yblhwVXk5dGg5YjZsNHlrN2VTbVozTktIY25QaFA5T2c1YlBUVDVtT3NVdUFMVFBzelFhdUo3a2ttNHBBYl8ybVVSVnllZlJBWUwtUnVkbEQ3V2J2a09VZF95TE9hRGVOQUpaTk9xcnBqMXhLaF8ya0ViRTFUQTRFZEdEMXRoa1hR?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 17:30:00 GMT",
+        "summary": "Google Gemini AI Predicts Jaw-Dropping Micron Technology Stock Price by End of 2026 &nbsp;&nbsp; Cryptonews",
+        "outlet": "Cryptonews",
+        "outletUrl": "https://cryptonews.com",
+        "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google",
+          "Gemini"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "How Nvidia’s New Cooling Technology Could Reshape the AI Industry as We Know It - MarketWise",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLV9MNHgyVDltLXpLSk5KakFuUkJJeFAxN2IxM2duVnBVb3FPcy1SNWFxYVdLS1RnNzFhYjhURGJNVXJuUUZ2UllOUHUwbkxqd0NHdnppdTZ4NEF0REJvZUQzMDE4VDNfYldKNXA1NnlSS01ST3B2Z2hWakpHenRpR0V0Y3Z5OE1LSzhv?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 15:56:19 GMT",
+        "summary": "How Nvidia’s New Cooling Technology Could Reshape the AI Industry as We Know It &nbsp;&nbsp; MarketWise",
+        "outlet": "MarketWise",
+        "outletUrl": "https://marketwise.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "Nvidia Wants to Make Humanoid AI Robots Safer Around Humans - marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTU1mN1ZNVDFEOHBkZklxYkQwaU1ZbFJmWmkzUTgwa3J5dmhjanp1WnYtNVd4X1ZVSnNIbkdvZzIyZXlmTkZFNmZDaS1vS0dMWWZDWGtlQ1Y5TENEd2NhVWg3U195b2Ixby1tYnFRQjhpNlItSzNBdGZfOWkydEdjblVWajFDd0o3VzdIQkhuWG1nYnhOelV3OTJLQ3ZlNWZFaXNUWVhBMC1NQ0JTRHpWS3lB?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 15:52:10 GMT",
+        "summary": "Nvidia Wants to Make Humanoid AI Robots Safer Around Humans &nbsp;&nbsp; marketscreener.com",
+        "outlet": "marketscreener.com",
+        "outletUrl": "https://www.marketscreener.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "Nvidia Price Prediction: The Forecast Climbs Again. Here’s Where the AI Leader Heads Next - aol.com",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUZkRVlzMXJKaFNmc0lQdHVwWmV6WnptMzFKSGZzem1qY2U1b0lSTnJydXh0Q2xaWVdCdVdHZVI3Vi1udGpUaEJfamlOQzBuNVRsMjhGNUdZUnNneGttVUgzZ001SXlpMG1zRGNlVnpsNVZsWnhCZFFTcFE5VnM4bXpxOHBwelNrSWtv?oc=5",
         "publishedAt": "Thu, 25 Jun 2026 15:06:15 GMT",
-        "summary": "Nvidia Price Prediction: The Forecast Climbs Again. Here’s Where the AI Leader Heads Next &nbsp;&nbsp; AOL.com",
-        "outlet": "AOL.com",
+        "summary": "Nvidia Price Prediction: The Forecast Climbs Again. Here’s Where the AI Leader Heads Next &nbsp;&nbsp; aol.com",
+        "outlet": "aol.com",
         "outletUrl": "https://www.aol.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -1967,26 +2012,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Google, Gemini transforms World Cup 2026 experience with AI-powered fan tools - Businessday NG",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNem1jQWxfbF9HTk04T0R2Qm9MOGYxd0NtcmZIQ0ZKR3hoSjB2d1pidENjclc5QmRtQnJXU3MtUHNJMXhwN0d4eHA1ZDBfYTZhR1g1VmhWeTVuVWxBMlVkbk5EZ0tybUJBal9PRExKU0tSZlVVRzBfZElwQ0RZOFcyeUo4V0lpYktoMGlheVhrbzNZNkhJcjBsOF9jLXAxRlh1QXRIWG5HVHU0d3praWJJWFNpZ2F3NmNua0xN?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 14:08:28 GMT",
-        "summary": "Google, Gemini transforms World Cup 2026 experience with AI-powered fan tools &nbsp;&nbsp; Businessday NG",
-        "outlet": "Businessday NG",
-        "outletUrl": "https://businessday.ng",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 24
-      },
-      {
         "title": "Nvidia: AI Dominance With More Room To Run (NASDAQ:NVDA) - Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVzVtVHpMaE5reXVtY3FQSHFMLVZ2bnRVUnpMTE81aXU5Uk5hRmlrZTcyeFRTUjExQ2Y5YUxIS1drV2VqWkg1RmZ5WXFxUUhUVEFlQ2szT082TS1FdmpVd0tONGE4MW0wYV9JMXpnb3ZxOVFGVnU4NFpTbGdwcW1jX1Nlb09zNGhGamc?oc=5",
         "publishedAt": "Thu, 25 Jun 2026 14:06:24 GMT",
@@ -2026,6 +2051,25 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
+        "title": "OpenAI debuts Jalapeño, its first custom AI chip to cut ChatGPT costs and reduce Nvidia dependency - TechSpot",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkJSTHlhWWU5Zy1Wem9aeV9TZjZBajc1TU01ak5wQ0lZNWxPdlNZWEsyZEI5U0cwWUlmd3ZoaFNvaDRDTUpuRTFraHFiVHdhZzV3c2ZMa0NJOVdFeWg0WkNWY1dsMHVEMmthdElMbDd1Vl8tczlIR3ZVWkl0ZEl4R3Q4Zmt3QTRKZTV3R0N0Wm8xN3RCWTJ1Xw?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 13:06:00 GMT",
+        "summary": "OpenAI debuts Jalapeño, its first custom AI chip to cut ChatGPT costs and reduce Nvidia dependency &nbsp;&nbsp; TechSpot",
+        "outlet": "TechSpot",
+        "outletUrl": "https://www.techspot.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 24
+      },
+      {
         "title": "NVIDIA Highlights Eco Wave Power's AI-Powered Wave Energy Technology in New Corporate Blog - TMX Newsfile",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbVIzQzNlb2Zvdk1RU0g0LU1JdG5xbHdOLS1Dc0MxODFqcXZxMktzZ0EyNWpuME9kLThyaDZuMUUtZjYzeFQ3RzZVV2lMbEkxSUwxY2ZLa3RUbnYwZHpQakIydGp3Sk1rVzFKcjVvUVdkWDJlVG1OVXhFOHRLdUdNcXREU0Fnb2VJMC1TOTZVZzBCR09tS05BTU9ic3l0NTdxcHd6NUZjZGJMRDJ1eV9lZk9NZVlJUjE5SUQ2R2JLeVNxLTliWEt6UmlMMWs?oc=5",
         "publishedAt": "Thu, 25 Jun 2026 12:30:00 GMT",
@@ -2045,12 +2089,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Nvidia Stock Gains but AI Chip Rivals Are Circling - Barron's",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51T3lNTFhRNDFIal9vQVh2R1F4TVYxYjh6akh6VHB6OTZ0OUFQWmdmYmc4RHljaVpuTG5GUHhELWF5LUQyRHI2TWlqeTJWSDM2VnpfSmFuWUZkR3F0VDNsRkpqWEVwVk52S0Q4WnNmLXJnWkdQNDNxbw?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 12:17:00 GMT",
-        "summary": "Nvidia Stock Gains but AI Chip Rivals Are Circling &nbsp;&nbsp; Barron's",
-        "outlet": "Barron's",
-        "outletUrl": "https://www.barrons.com",
+        "title": "NVIDIA Highlights Eco Wave Power's AI-Powered Wave Energy Technology in New Corporate Blog - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM0VxWFhBcENQNVNDQWJPNXg5RDFudVNFSk15UEY2aDYwcGVwaXlOZTYzRmhXNVJfVU9MS1hsakJKdEZWQm41ZWtrOFZ0Q0pQb0NsTG90MWFhd2ZOaGFsbE53SUV6VlJBZ20wVGwtdkp0Ry03M0VwcVVnU3RPc3RJLTNWTy1PZUtBcTN2OXZmUTBDRzBELVFJR1pnQVk3TXJramdpUEZYN1FfcWZoZERPdFVVcnZNNTVVZmg2LUtfNkpOQkVPeWRXc0haemIzVThOQ1h4cnpHOEVKVkxieVZhY1hXWF9IOUl2?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 12:30:00 GMT",
+        "summary": "NVIDIA Highlights Eco Wave Power's AI-Powered Wave Energy Technology in New Corporate Blog &nbsp;&nbsp; TradingView",
+        "outlet": "TradingView",
+        "outletUrl": "https://www.tradingview.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
@@ -2060,7 +2104,26 @@ window.__DASHBOARD_DATA__ = {
         "taxonomyHits": [
           "NVIDIA"
         ],
-        "issueCategory": "AI시장",
+        "issueCategory": "NVIDIA",
+        "score": 24
+      },
+      {
+        "title": "Nvidia Partners With Abridge to Build Specialized Clinical Conversation AI Model - The Healthcare Technology Report.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGhrbUZoa2xCOEtOOVkyYjR3aU1YNE9YQnlnZmNfaEZpc2k0TE0yMk4xLVo5cl82QVhtTk1JaWtBSXB6TEcxUC1sZGYyVENrcjhNVTNVZjlnNE9EUlIxZVphU0dZREFvYmo3R25KSENHZzBfbnpEMUhUVHQxdkdhT01BN3Frdl9RRENoRkEyQ0dLUFU2LVhQa1JHN1NJTlQ5U2xMRlk3dE5IZHZvZm9hM1hRWXFKMjdtU1BFYk9KNUI?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 12:21:19 GMT",
+        "summary": "Nvidia Partners With Abridge to Build Specialized Clinical Conversation AI Model &nbsp;&nbsp; The Healthcare Technology Report.",
+        "outlet": "The Healthcare Technology Report.",
+        "outletUrl": "https://thehealthcaretechnologyreport.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
         "score": 24
       },
       {
@@ -2102,31 +2165,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Micron’s Jaw-Dropping Earnings Show It Is Leaving Nvidia Behind in the AI Boom - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcjlzb3Ffc0duSVlEQzFIR3pJWk9FbmVoYnhoUEw4S1Z2Mmd2bTMtd01yYmZvVnZqSkVhd3hLcHFoeVpId2ZCRHRuejQ3X0E1NUgtTTN5QkxWdS03OWtYSHNZd2paRjg4M19OdUpJX1BVMjZHc2FiNFFXWTJEN21FUUtJUjV3MVV1Sjlnc0NaZFhVTG03aXhaT1k5TWtMX3c?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 11:44:28 GMT",
-        "summary": "Micron’s Jaw-Dropping Earnings Show It Is Leaving Nvidia Behind in the AI Boom &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 24
-      },
-      {
-        "title": "What to Watch at Nvidia’s 2026 Shareholders Meeting? Jensen Huang: Every Token Is Profit, AI Monetization Already Has an Answer - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa2YtWGNCR2lwUmJZaGtybXA1c1VlRmRzUUtXbjFoVlhKS3Fnd3ZWb3l5XzJTM0h5M0ktbHYwTkpYUEh2eXIxQ0g1NDFJRXB2NmFwQjdLYmcya2hsMWtkRlBoOFBtTTBXMmFoaWktT1ZTWWo3eVdsVzhPcERSUTItNmJIejVKbHBGbHgxUEFGbnR1dnh5S29fcXVjNktGU3ItcGRadTNQSTczd3JneWgyOThaLUtobXNsUFlDVE1EdmlWSEZMcmY4eFRMSVNaOXVVR3BoYQ?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 11:28:40 GMT",
-        "summary": "What to Watch at Nvidia’s 2026 Shareholders Meeting? Jensen Huang: Every Token Is Profit, AI Monetization Already Has an Answer &nbsp;&nbsp; TradingKey",
-        "outlet": "TradingKey",
-        "outletUrl": "https://www.tradingkey.com",
+        "title": "Can AI-Designed Chips Rival Blackwell in 9 Months? OpenAI's \"Spicy Chip\" Bypasses Nvidia's Main Battlefield, Jensen Huang's GPU Hegemony Teeters - 36 Kr",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRQkhJYzRGOC1ycFh2TEV5WUNWd0gzal9qSHB2eUdzYndETTdRYXA1YXlEa3FWblU3THJjU3g1Zm12YjZtdUYtZGFsWVd4WnlyeDRr?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 10:40:10 GMT",
+        "summary": "Can AI-Designed Chips Rival Blackwell in 9 Months? OpenAI's \"Spicy Chip\" Bypasses Nvidia's Main Battlefield, Jensen Huang's GPU Hegemony Teeters &nbsp;&nbsp; 36 Kr",
+        "outlet": "36 Kr",
+        "outletUrl": "https://eu.36kr.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
@@ -2137,6 +2181,25 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "NVIDIA",
+        "score": 24
+      },
+      {
+        "title": "Nvidia Stock Gains Even as AI Chip Competition Hots Up - Barron's",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjc0ZFNZa2NranFMdzZpNDRqQkZNRGtBV1ozY1BNcFVEdHNwTVFUajBpbnkydVhDczhrbmVYbldCaXhrT2dIMk1OZFY5NE1PU0tvaWR0RkFJRzhSaFBNdzdFeUJvb1lzcFk3Y0JUcXlSV1N2dUpZa2dnZlZRU21EQXlzNlFPeVlWWDN0dHhEbjFDSDVsdkE?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 10:16:00 GMT",
+        "summary": "Nvidia Stock Gains Even as AI Chip Competition Hots Up &nbsp;&nbsp; Barron's",
+        "outlet": "Barron's",
+        "outletUrl": "https://www.barrons.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
         "score": 24
       },
       {
@@ -2215,25 +2278,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Is NVIDIA (NVDA) One of the Most Promising AI Stocks to Buy and Hold for the Next 2 Years? - Insider Monkey",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLTRMbGhoWWpfY005dXZyM0pEbVdHRWFrdFlzTlZuNlZqRmU0dzJZMzI3dWZrS3hfMGc5S1lOM184d2ZMS0g4MU5WTWg1cWloam14Snp5OXhPaTZOQ1VtYkZnNGRjSm9zN1ZGV1JYNk1xSTlXY1JOSWk1TElYU25PTlk0Qzg4bFktNV9FbmhZTS1LRGpzYjhVWmJDdGZUT2w2dlNwN3d5a01ScUdoWG1fajhvSk5NVlJCVWVONWxmMVhiOEQtVFN3WFplSdIB0wFBVV95cUxPazJLYmpFUndtQlRCX2x6UEZkNXluaVUxWHN5dEk4N2VOd0o2bC04dVRRU3N0TWJSVzFmbldjQU9CNFllUlNJOWNGc0JpOUgzQTlxT0RQVVNsel9aaHl3amplSVBqdU52LUxSOXplZUtnZERaOVRTVEpuN0YxM19Ya2daR19lSU5oWGZIYnhBTUhIZFRiR0dHcmdjWkV3UWUtOFhzNzM3T000dUg0U01KU25VZkZCZGRKZ0JQaWVVaUN6WmwyS2x2blBqN09xNGdxWEc0?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 08:21:56 GMT",
-        "summary": "Is NVIDIA (NVDA) One of the Most Promising AI Stocks to Buy and Hold for the Next 2 Years? &nbsp;&nbsp; Insider Monkey",
-        "outlet": "Insider Monkey",
-        "outletUrl": "https://www.insidermonkey.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 24
-      },
-      {
         "title": "Is NVIDIA (NVDA) One of the Most Promising AI Stocks to Buy and Hold for the Next 2 Years? - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdk90LU5FVHQtSU8wRWN6WHRVQ1ViSWlQalRHcENJd2p6bEJKdEZZaWFPeXc2eWk2ZVdETnpESFdwV1R3ajBBOWl3dFBwN0JUVUliNkFyNGFQUEFGNFVZanhKYTc1aFFQaWZTa09mUk5penVIWVRSamVzbk92M2lBdmJhNmlueEVaNlJxSy1YNjBIQmZIVUFqdHNB?oc=5",
         "publishedAt": "Thu, 25 Jun 2026 08:18:22 GMT",
@@ -2271,22 +2315,43 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Nvidia's AI Empire Continues to Expand - Intellectia AI",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NQ2t6b1ZwQUZxR3ZpMmVMS0dQRmxUVlZEQ0pheGY5cjVLV1hibzZIZF96T1hkM0NEdTUzSkpWb0pDbnR3TGEwcEhrLTZEaVZoQWNEZDhkME5RS09qb2lBZlZCNi01V0U3SGJQWEEyeWRJVUxIRmlUWThnaw?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 08:06:30 GMT",
-        "summary": "Nvidia's AI Empire Continues to Expand &nbsp;&nbsp; Intellectia AI",
-        "outlet": "Intellectia AI",
-        "outletUrl": "https://intellectia.ai",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
+        "title": "구글 제미나이 제친 中 즈푸AI...'딥시크 쇼크 2' 오나 - 한경매거진&북",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvSHFPTDBoNkJ0dlVmMTFLWUtfakR5TTRKSjZLUmtSaUl5WGxsb1R6WTNzZHptZkpSdDl4MDd0eF81aktHTHlKdk5ILTNlOC12MVlBQWYxT3NEWlNDTEN3TGdxVkpYNmtIQklnZg?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 08:00:00 GMT",
+        "summary": "구글 제미나이 제친 中 즈푸AI...'딥시크 쇼크 2' 오나 &nbsp;&nbsp; 한경매거진&북",
+        "outlet": "한경매거진&북",
+        "outletUrl": "https://magazine.hankyung.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
-          "NVIDIA"
+          "Google",
+          "Gemini"
         ],
         "taxonomyHits": [
-          "NVIDIA"
+          "Google"
         ],
-        "issueCategory": "NVIDIA",
+        "issueCategory": "Google",
+        "score": 24
+      },
+      {
+        "title": "\"AI 챗봇 대다수 '좌편향' 답변…구글 제미나이만 균형 유지\"-WP - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TcXVDUnpseVF2UDc3N3J6QWxUanVpZW9VV2ZjT3g0LWJlSlN3NVFTMU1RU2VfSU95WlZTMl92T0pPNUhoQWtxTmwzZ0xxaVMtQ0k3aFBGZ1o?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 07:58:59 GMT",
+        "summary": "\"AI 챗봇 대다수 '좌편향' 답변…구글 제미나이만 균형 유지\"-WP &nbsp;&nbsp; 뉴스1",
+        "outlet": "뉴스1",
+        "outletUrl": "https://www.news1.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google",
+          "Gemini"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
         "score": 24
       },
       {
@@ -2330,7 +2395,7 @@ window.__DASHBOARD_DATA__ = {
       {
         "title": "NVIDIA (NVDA) in Spotlight for Facilitating France’s AI Advancement Efforts - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSk0xVzRPNFFRWUtHVThXWXFfczVnaFRQRjJYaWxnbElSYTVDNXNudk52LUZCenl0WjZleWFFMjJyVElqcC1BbXRxbTQwLXZIU2ZBTHRyY3U4bFVCMEVNUktjcHRfLXJtV3lFVmZrTnFwUTJrN0VlVmhpNm11X1BTbEhZYlpHTnRuTDQ3YUZxRUtFcGQzaHQ1a0pCVFZqbHgyR3JyWmljN0s?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 06:01:00 GMT",
+        "publishedAt": "Thu, 25 Jun 2026 06:01:59 GMT",
         "summary": "NVIDIA (NVDA) in Spotlight for Facilitating France’s AI Advancement Efforts &nbsp;&nbsp; Yahoo Finance",
         "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
@@ -2347,22 +2412,43 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "NVIDIA's Promising AI Future: Insights from Annual Shareholder M - GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTTJIYWVsWEdkNmlvY05JZ25rX0lhUDdTVllReDUxbFNxX1BBQkU3dzRQYlBFb3dkcVJ0LUJRMEp0UDRUcWJhSXFfTW5INjhEdG5SWVJtQi1ZSVItN2EyNnAyZUY2NjZhSnUzQmtzTjNBTTFMTUlnbC15dkJLUHozS2RsN2llZnZUQ2hjZkFKZVZjcWJ5R09CVngyQVVuckhxOWdXQVd3Z3ZYNEJvcGVmNXdB?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 05:56:31 GMT",
-        "summary": "NVIDIA's Promising AI Future: Insights from Annual Shareholder M &nbsp;&nbsp; GuruFocus",
-        "outlet": "GuruFocus",
-        "outletUrl": "https://www.gurufocus.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
+        "title": "구글, '제미나이 3.5 프로' 출시 연기...타사와 성능 격차 부담됐나 - AI타임스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41b20zTGt5Y3BsMW1tSEc1cUpDRkxNeDUxYjFvZlBOQ3hwcHFEQi1JWnlCaUduQVV6bDl1TU1Jb25hUHVOZjBic2ZqSVY1TUNLTk9tc3g3SXJwWWNCSm9WTVkzTnhmQkNxc1E?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 05:53:14 GMT",
+        "summary": "구글, '제미나이 3.5 프로' 출시 연기...타사와 성능 격차 부담됐나 &nbsp;&nbsp; AI타임스",
+        "outlet": "AI타임스",
+        "outletUrl": "https://www.aitimes.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
-          "NVIDIA"
+          "Google",
+          "Gemini"
         ],
         "taxonomyHits": [
-          "NVIDIA"
+          "Google"
         ],
-        "issueCategory": "NVIDIA",
+        "issueCategory": "Google",
+        "score": 24
+      },
+      {
+        "title": "구글 AI 두뇌 유출 비상…'제미나이' 개발 중추 2명도 빠진다 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tcE1MaERkWkV3d3Vhbkw1WEo0RzJkNktibG8xZ0pqWUdHYUZSdFdsTmR4Y09DTXlVS3RWUXEtcWVWT2NFa1NtcWI3czlvdw?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 05:13:36 GMT",
+        "summary": "구글 AI 두뇌 유출 비상…'제미나이' 개발 중추 2명도 빠진다 &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
+        "outletUrl": "https://www.etnews.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google",
+          "Gemini"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
         "score": 24
       },
       {
@@ -2381,25 +2467,6 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
-        "score": 24
-      },
-      {
-        "title": "Nvidia and Genentech make the case for AI-driven drug discovery at BIO2026 - Crypto Briefing",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iSjZQSWV2UTNJVWJab3RKZGZ0Q01TdDRFYjJvU2ZIVnJiSDQwN3RRZWJwUENibHhTVk1WLTFhQkNNcjl5WEF1ZHFSaWdHQVZ3ZGtJQ29udlpBS0FNQV81MU9FOVByVnhIOVNuYy1YZ3BfVWlhMTBXblFn?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 03:52:37 GMT",
-        "summary": "Nvidia and Genentech make the case for AI-driven drug discovery at BIO2026 &nbsp;&nbsp; Crypto Briefing",
-        "outlet": "Crypto Briefing",
-        "outletUrl": "https://cryptobriefing.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
         "score": 24
       },
       {
@@ -2437,143 +2504,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "NVIDIA",
-        "score": 24
-      },
-      {
-        "title": "Nvidia pours cold water on AI fears - thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03T3NTTjhmOWV2ZTZWaEwxalFuWnZmOWoxcHdGN2llNk9peXVldjN4YmwtV3YtNWNFQl91VjVTVEVCNWQxV2dUd0dGb1JuekNaLXRfWHdING51QjRJbTg4aFFrNW05bzhISGUtWWNYRGZMY191WG1FT0lDZk4?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 21:01:45 GMT",
-        "summary": "Nvidia pours cold water on AI fears &nbsp;&nbsp; thestreet.com",
-        "outlet": "thestreet.com",
-        "outletUrl": "https://www.thestreet.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 24
-      },
-      {
-        "title": "Alphabet shares continue downward slide as AI talent departs DeepMind for Anthropic - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSE91TWxZOXI5SldEbW1LcFpoeF9PVE5leDAtb2t5bmdONXd2TEwzV3ItTWtFYTJnRmd6bzctUHJpLS1pOVgwbUg4cEhYM3lrRG1fN3RrQmlmZXJMb2pNUVBHNC1Ja1pCUHZGOGNYUlM1YW5PX2tUMjBNZ2pGeVdZR1hrSEdFSDRPX0tHTHN4eTJEN3BKVlhYTi1fOVhxQllQeVhEX2ppMm9GM1ps?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 20:54:00 GMT",
-        "summary": "Alphabet shares continue downward slide as AI talent departs DeepMind for Anthropic &nbsp;&nbsp; CNBC",
-        "outlet": "CNBC",
-        "outletUrl": "https://www.cnbc.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "DeepMind"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "AI시장",
-        "score": 24
-      },
-      {
-        "title": "A24 Teams with Google DeepMind on New AI Filmmaking Tools - EURweb",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zeXZBbXBzdHRuVVFXTlYyTUF6VkgydFkzdkNOVW1FcXdHYnBYa1NQam9MZXJnMkhEaWFzSTd4Z2JCc0JISWpGSW9vQVM0VXNkS0VuYThvZW4waWoxdFd6SW5QWFhLajJVMGtN?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 20:00:25 GMT",
-        "summary": "A24 Teams with Google DeepMind on New AI Filmmaking Tools &nbsp;&nbsp; EURweb",
-        "outlet": "EURweb",
-        "outletUrl": "https://eurweb.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "DeepMind"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 24
-      },
-      {
-        "title": "OpenAI Distances Itself From Nvidia With Jalapeño, Its First In-House AI Chip - Gizmodo",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnJUZ0FDaEdiZHh6TTBTaWs4dGpxLW1xcTR6b0J1NlM4Qmh5N0JPdkxUNHJzcmJQLTVmSUdVejZfNm1EY0pJZFpNc29iZVJ5ZkJ2dHhmMmtNTXdjT1JwVVVkTE1VbnJoQ3dGRnp4OVRsZHBkTDVld012ZjQ2czRkOUh0NjdmcEFTbERYdzYxRVlhX2xsSmVzZFUwR3BqbkVLSWk3VFQyXzl4LUE?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 18:40:24 GMT",
-        "summary": "OpenAI Distances Itself From Nvidia With Jalapeño, Its First In-House AI Chip &nbsp;&nbsp; Gizmodo",
-        "outlet": "Gizmodo",
-        "outletUrl": "https://gizmodo.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 24
-      },
-      {
-        "title": "Google delays Gemini 3.5 Pro launch to July as it tweaks its new frontier AI model - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQREwxNHVteGEyX2VHdWc4NDlHYzlocExKY1VpMExkZnl2SmM1WXJpbjM2SU5yOWhZb25DWTNSVnJYUzduSE1HY3F5MER0Y0VKQXlkX2M2LVlEUDRZUDlNcWEtU19IRURPSFJYV0VRM19BTHNBcmptaGlkZjJpTkJONngtS0liTG44NW90aEpkbHBLakk?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 18:39:00 GMT",
-        "summary": "Google delays Gemini 3.5 Pro launch to July as it tweaks its new frontier AI model &nbsp;&nbsp; Business Insider",
-        "outlet": "Business Insider",
-        "outletUrl": "https://www.businessinsider.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 24
-      },
-      {
-        "title": "Google’s Gemini-powered AI home speaker starts sales - The Seattle Times",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkJqa2Via19ZNUgyUnJPU09SUmwxR2pkc0drWXNCLXR6MV9heHVJYXU3a2hrbDdpRkhaYllGX29yYTk5cVlSRmVxQXRsMjRsSmc3YjI3dE9ZUEY3NUdIU0ZuazdycmFLdF82ZllhNW1YWlhEbTg0bHRBZDRzRV9ZVlY5S090dEpjb2tZX3pWdlJyeWpi?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 18:25:45 GMT",
-        "summary": "Google’s Gemini-powered AI home speaker starts sales &nbsp;&nbsp; The Seattle Times",
-        "outlet": "The Seattle Times",
-        "outletUrl": "https://www.seattletimes.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "Gemini"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "AI시장",
-        "score": 24
-      },
-      {
-        "title": "KKR & Nvidia’s $10B Helix Venture: Solving the AI Power Crisis - MarketWise",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQWWtrRENmWE5WV1JKNm50em1yd2I5TE9DODEtSm5mcThON2NiWl9sYjljUWNkNjgwRUZkQ2U5NjFTMFFJN1U4UUFyQkotcU1Ba3JUWUM5ZHR3U1Y4aktFVHhsQV9KVWhycTUycEtjTXhLelR1X1E0?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 18:07:08 GMT",
-        "summary": "KKR & Nvidia’s $10B Helix Venture: Solving the AI Power Crisis &nbsp;&nbsp; MarketWise",
-        "outlet": "MarketWise",
-        "outletUrl": "https://marketwise.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
         "score": 24
       },
       {
@@ -2649,6 +2579,27 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
+        "title": "\"미래 AI 에이전트 기능은 인터랙션 API 중심으로\"...구글, '인터랙션 API' 정식 출시 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxQkNwYVh2Um1MV2dReWpBbUpQVmU5UDJBRjNPckgtMVdLekNLMG9NWnFDSjN3Ny0tcG1PWXdsVktna3NudlhWR1BzLWkyelNOUWo0MzFQUG41cHV3QW5UU0l0UDRoY00?oc=5",
+        "publishedAt": "Tue, 23 Jun 2026 07:57:51 GMT",
+        "summary": "\"미래 AI 에이전트 기능은 인터랙션 API 중심으로\"...구글, '인터랙션 API' 정식 출시 &nbsp;&nbsp; 인공지능신문",
+        "outlet": "인공지능신문",
+        "outletUrl": "https://www.aitimes.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "데이터센터",
+          "Google"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 24
+      },
+      {
         "title": "과기정통부 청년자문단 3기 출범…AI·과학기술 정책에 2030 목소리 - 문화일보",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44dlFfYmxkRDNQWDRMRDFkVzR1V21PVGwxVkhXZW9taGRhYm9ySWgxUnNDZGFXYVVUemJ0Ulo5cHRWSU5nRFdUUThTVUVoakhy?oc=5",
         "publishedAt": "Tue, 23 Jun 2026 07:11:11 GMT",
@@ -2717,47 +2668,49 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "과기정통부, K-AI 모델 전문영역 확산 공개...\"암 치료·국방·반도체 설계까지\" - 디지털투데이",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GQVYzZzVYNDZZLTlDQkdXRk1STWIzTGdHcTJnejZubTdfRmhsNnQ3TGFOaXgtaVhiV2F6ZURZbHJpV2hVVHFVR1dYOC1aY3JwNjVvNGczVmFzcnkwRWlUNXhkRUVPWEgwRTN2MDRCMDBjZ28?oc=5",
-        "publishedAt": "Mon, 22 Jun 2026 21:16:00 GMT",
-        "summary": "과기정통부, K-AI 모델 전문영역 확산 공개...\"암 치료·국방·반도체 설계까지\" &nbsp;&nbsp; 디지털투데이",
-        "outlet": "디지털투데이",
-        "outletUrl": "https://www.digitaltoday.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 24
-      },
-      {
-        "title": "A24 Accepts $75 Million in AI Funding from Google - Consequence of Sound",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWbTBnYVhMeFlTUnhoOEs2OFlpNERXVHFPd2xTRWdOb0pDd3h5ZE90d0tad3RqNS1xckt5dVJJMGV6V1FGakJXU0o4QzZsaHNTUFFwUFlGQ09RYk5aVm50eVhDUDhFdU50VVpsOFRWREdWWnM?oc=5",
-        "publishedAt": "Mon, 22 Jun 2026 17:55:19 GMT",
-        "summary": "A24 Accepts $75 Million in AI Funding from Google &nbsp;&nbsp; Consequence of Sound",
-        "outlet": "Consequence of Sound",
-        "outletUrl": "https://consequence.net",
-        "source": "AI 투자·자본시장",
+        "title": "Nvidia: AI-Driven Investment Ecosystem (NASDAQ:NVDA) - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0ppeU9PM1R0eVp4VXZvc055SjdQT2NhQ0E2MTBqWE5sNGZ0T1V3NTU1Rl9YZ2RxS1lURHVYakhlYnplamdkN29nRncyMjV0R3Q4MmhSXzZQRTRFT2FDUWNYalJUMDF2RTZHTFNLVWhWdW1YamU2SmtNSW1LYmJwTklnV3c?oc=5",
+        "publishedAt": "Mon, 22 Jun 2026 19:57:01 GMT",
+        "summary": "Nvidia: AI-Driven Investment Ecosystem (NASDAQ:NVDA) &nbsp;&nbsp; Seeking Alpha",
+        "outlet": "Seeking Alpha",
+        "outletUrl": "https://seekingalpha.com",
+        "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "Google"
+          "NVIDIA"
         ],
         "taxonomyHits": [
-          "AI시장",
-          "Google",
+          "NVIDIA",
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
         "score": 24
       },
       {
+        "title": "Nvidia says its new data center design will fix AI’s water problem - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGJUNFVsQWxocmsxbkFWQ0tsYmo3c3FhdUFIaVRxUEZLbGZVQmJkMkNxVkdyWng2MzZzMFc2dk84d0dfNjQzbTh5TGdMaEJPcF8wOVRxVFFZMHptTHBYS3VZX3lxSzJ1ejc3elZGaUtaUUhIdUFSNUNyMUh1R0hvZmZ1MDRqd09hQ2V2MFhDOA?oc=5",
+        "publishedAt": "Mon, 22 Jun 2026 18:51:00 GMT",
+        "summary": "Nvidia says its new data center design will fix AI’s water problem &nbsp;&nbsp; Fortune",
+        "outlet": "Fortune",
+        "outletUrl": "https://fortune.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "NVIDIA"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 24
+      },
+      {
         "title": "Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI | NVIDIA Technical Blog - NVIDIA Developer",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNV9BV19OQ1lLWnZpSmpwaTFZYzF0R0FtOVU3TlNmb19CeDIyenZOb00wXzczemhJSGRoaEtBRHFXbzZQaFRyMUZsUGFiZHA0THEwS0QyYl9SaUMzU3l0LXNDbVlhOG1samRwX2haR2FMQnhYLXV6THYwLW1MbkJQcWZ2Q2tscWtBY0p5WkxHemNqSXFVQ0YzODhZTjJBYlU?oc=5",
-        "publishedAt": "Mon, 22 Jun 2026 15:19:50 GMT",
+        "publishedAt": "Mon, 22 Jun 2026 15:19:30 GMT",
         "summary": "Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
         "outlet": "NVIDIA Developer",
         "outletUrl": "https://developer.nvidia.com",
@@ -2895,50 +2848,31 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
+        "title": "과기정통부, 국산 AI반도체 해외실증 전폭 지원…8개 컨소시엄 선정 - 대한민국 정책브리핑",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pak9jcW14V1ZLdnZlalRZTVdmRFBPelVrazZlbk9qTmRsM2IwUl8tM0VMd0FXaU16eUJROGdwVU5yc2FwdGZBOFRRb3N1V2UtV3BkUmRJYW9BRUNkRVY4ZGdkTmZpM2puOS1MSw?oc=5",
+        "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+        "summary": "과기정통부, 국산 AI반도체 해외실증 전폭 지원…8개 컨소시엄 선정 &nbsp;&nbsp; 대한민국 정책브리핑",
+        "outlet": "대한민국 정책브리핑",
+        "outletUrl": "https://www.korea.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "NPU",
+          "실증·조달"
+        ],
+        "issueCategory": "정책",
+        "score": 24
+      },
+      {
         "title": "과기정통부, 국산 온디바이스AI반도체 활용 현장 점검 - 지디넷코리아",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JQjZ6RGJwN1JpaVRmekIxM21qM081bHVfd294VGNWNlRIYnZJSDhEZncwQ19YSFVfQ19HcV9rRU9aV1RUY2FzbWY3cldYQjRKTG1ZMDJ3?oc=5",
         "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
         "summary": "과기정통부, 국산 온디바이스AI반도체 활용 현장 점검 &nbsp;&nbsp; 지디넷코리아",
         "outlet": "지디넷코리아",
         "outletUrl": "https://zdnet.co.kr",
-        "source": "딥엑스",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "NPU",
-          "온디바이스AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 24
-      },
-      {
-        "title": "과기정통부, 국산 온디바이스 AI반도체 현장 점검…\"피지컬 AI 대응\" - 신아일보",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8temYycS1oSkZTdkRoOHRvWXg3UURHVWN6SEF0elNHdktwemJiUjJGZmgyN3NKenloZ2pReFpsZXpBbGg4WktXN0Y0X282aDZuYnZQMndXUE9pT2lVY2hDc2xhMVBjcHNPUGRIMHlVX3o?oc=5",
-        "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
-        "summary": "과기정통부, 국산 온디바이스 AI반도체 현장 점검…\"피지컬 AI 대응\" &nbsp;&nbsp; 신아일보",
-        "outlet": "신아일보",
-        "outletUrl": "https://www.shinailbo.co.kr",
-        "source": "딥엑스",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "NPU",
-          "온디바이스AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 24
-      },
-      {
-        "title": "과기정통부, 제조·물류 현장서 국산 온디바이스 AI반도체 활용 점검 - 벤처스퀘어",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UNUd5UFNId3NoNEE3aTFzSmZtbklTMk82a1NmV1pxQVQyNEduaVBOX016bkJTUGk2RmlMV2o1Q2xydjQtb2NnVlExM2dMMEk?oc=5",
-        "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
-        "summary": "과기정통부, 제조·물류 현장서 국산 온디바이스 AI반도체 활용 점검 &nbsp;&nbsp; 벤처스퀘어",
-        "outlet": "벤처스퀘어",
-        "outletUrl": "https://www.venturesquare.net",
         "source": "딥엑스",
         "sourceLang": "ko",
         "region": "domestic",
@@ -2966,6 +2900,44 @@ window.__DASHBOARD_DATA__ = {
           "정책",
           "NPU",
           "K-엔비디아"
+        ],
+        "issueCategory": "NPU",
+        "score": 24
+      },
+      {
+        "title": "과기정통부, 국산 AI반도체 공공 조달 밀착 지원 나서 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96VlJYbmpHUVcwNjBGa1lDdUpsTGpuWUFBMG83VDlvMXF5bEhmX0RuY3Bodk5LZnJMSFFNMjFMSkpLZmpYVDJiVHZDX0N1aVl2c2NGcWp6Yk9yanNhRHVN?oc=5",
+        "publishedAt": "Wed, 04 Feb 2026 08:00:00 GMT",
+        "summary": "과기정통부, 국산 AI반도체 공공 조달 밀착 지원 나서 &nbsp;&nbsp; 뉴스1",
+        "outlet": "뉴스1",
+        "outletUrl": "https://www.news1.kr",
+        "source": "과기정통부 AI반도체",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "NPU",
+          "실증·조달"
+        ],
+        "issueCategory": "정책",
+        "score": 24
+      },
+      {
+        "title": "토종 NPU에 ‘국가대표 AI’ 모델 구동...NIPA, 올해 실증 나선다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyMzlETGtEMkFhMmFvUS1ybElpQ3djSWU2Y2JmR1RDaU9jS3BRTjF0TDJuR2lDYURyaGs0cy0tUUlpRXNqLUJPRzhWT0h2LU0?oc=5",
+        "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+        "summary": "토종 NPU에 ‘국가대표 AI’ 모델 구동...NIPA, 올해 실증 나선다 &nbsp;&nbsp; v.daum.net",
+        "outlet": "v.daum.net",
+        "outletUrl": "https://v.daum.net",
+        "source": "NIPA AI반도체",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "NPU",
+          "실증·조달"
         ],
         "issueCategory": "NPU",
         "score": 24
@@ -3047,6 +3019,86 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
+        "title": "오픈AI도 AI칩 직접 만들어 쓴다… 엔비디아 독주 견제·추론 비용 절감 총력 - 조선비즈 - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZEtoNmVPVFFDeWNwclFYS0xRZXhTaExfRXdOa29ETXctLXg5VjhRUGZHNEZQcTBfZ0FCbzZuazJpdnpTb1hSRXFEazBaeWtQZUtSRFlLbW9FbDA4SE9VQ0wwMVJJM3poMHc2R3BreF9aRVRRMUJhaGFkYXRsSUFNTkpB0gGWAUFVX3lxTE42UXZxY00xeDZQZ3VoUHR5WFB6dW9zOGlyZ0dQZ19USjJUejhpbmlYVzRJMkhTODhBRHJZV19fN1Z5TlBwdTd5bWMzaHBfc0dSNWV3UUdYWEw0UDlkY0hWWEU0ODhXN3FPcnBBRzBNQ3p3aFZJZ2w1UEFLM3F3YWEyd3JMUWh0Z1RCSFJxb3hzWGtWLUQzZw?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 21:00:00 GMT",
+        "summary": "오픈AI도 AI칩 직접 만들어 쓴다… 엔비디아 독주 견제·추론 비용 절감 총력 - 조선비즈 &nbsp;&nbsp; Chosunbiz",
+        "outlet": "Chosunbiz",
+        "outletUrl": "https://biz.chosun.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "추론",
+          "NVIDIA"
+        ],
+        "issueCategory": "추론",
+        "score": 23
+      },
+      {
+        "title": "The Real Reason Nvidia Holds an Unshakable Monopoly Over AMD Has Nothing to Do with Raw Computing Power - 24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX1d6VFhmQWg2Y3kyTzRVX2k0RzB1TE9oUFlSVWppYXgxRGFsY0ZPZy1DckllZkJuTFl4ODJYMWxkZGsxRVFrR0M0OUdnMzdNak9leFRTcTJvazdKZ3RhQ0xYbDJlWjR1eEJoZXdTZjV4aEhJSGNpSVhxZS1WNG1zNFFCX05mRnhEN19GbWRXSUdnbXk2N2x5Nk9CWkFxLUFkWGppNm8wVWZ4bXpvUWlmallOa3lzY3YtTmEtMzl6MWxsNE5ZUGZ0NjlzRzVKblNGdV8wVkFvZElaSFNpQm9aZw?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 18:18:33 GMT",
+        "summary": "The Real Reason Nvidia Holds an Unshakable Monopoly Over AMD Has Nothing to Do with Raw Computing Power &nbsp;&nbsp; 24/7 Wall St.",
+        "outlet": "24/7 Wall St.",
+        "outletUrl": "https://247wallst.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "Why I Continue to Prioritize AMD Stock Over Nvidia - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkZnbUw4R0pVcjl3OEs1ekl3akZSa2V4Qjc2c21mWDNxRTNfU1Q1WkFmLTFiREtDN09GVC1VSUhidHdvem5GVWM3QUJuOFhuS2xvOFd3Nm1RWEdVSkxoN1Zxb2pISVQ1aXpoRWNJUHhkRkdidUlSVzlhejlsMWMxR1ludzEwRG1raXVESnRlT0lnTzVvb1lXTw?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 16:45:00 GMT",
+        "summary": "Why I Continue to Prioritize AMD Stock Over Nvidia &nbsp;&nbsp; The Motley Fool",
+        "outlet": "The Motley Fool",
+        "outletUrl": "https://www.fool.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "Why I Continue to Prioritize AMD Stock Over Nvidia - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcUxxdzU3c3ZqdWZMTzFjU1FhNERrdU5sWm85T0dvVEtBRVc2OTlvSjAzQVBqeTN1WFlzNHBxSU5MTmNneU1MQXQ1V21fZGdwUWp5MEl3RW5OeW1TQmh3NHRPal9DWVBSS2pIRjlQZlB5LVZ2ZmJLZkREWTRnclB0dlZZWVlqbnpFWi1uTGVlVVREX0xEWi1JcGo5aEJZNGFwSFNSRGVuQk9RYW5RRmU1cGJtWllBOTRUcEVpZ3Z1T1F1NGFOSFUyeGZfNEdYZw?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 16:13:19 GMT",
+        "summary": "Why I Continue to Prioritize AMD Stock Over Nvidia &nbsp;&nbsp; The Globe and Mail",
+        "outlet": "The Globe and Mail",
+        "outletUrl": "https://www.theglobeandmail.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
         "title": "Jack Henry expands Google Cloud partnership for AI security By Investing.com - Investing.com Canada",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcEIxYzFoNmRqTjhzY1IwNnJkcV9sVTBfMlpSRm51bFFKdHF6X21TWVdCWlVnNlA5b2ZFeFNyTm9DNm5TVTlucW81UnBPRlRJVVU1emF2U0IzZWhhaklpZnJ3b2pNY3lHQjJYMGpZOHc4N25YM0xlelVQSEk3VW0yTFZfOGQ3ZEdMZ3NxbnBQMnAwMm56dU9xSHpxMndBV1pSd0JYZWduYVVHcXdhYTl6V0p6M281cVVmZTZ6Rg?oc=5",
         "publishedAt": "Thu, 25 Jun 2026 15:40:30 GMT",
@@ -3056,6 +3108,26 @@ window.__DASHBOARD_DATA__ = {
         "source": "Google AI 이슈",
         "sourceLang": "en",
         "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 23
+      },
+      {
+        "title": "잭 헨리, AI 보안 강화 위해 구글 클라우드와 파트너십 확대 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uRW1pRFE1b3lfMHVCNnZNSGtWZ2E2ZjBURm1qY0lMMHozdjI0Y0ZnakNhY0FQRDBBc2lvY2FGa2lvMVBIYnRnQ1k5MjA4Wk1kbnEzT3E2NWRVTmlGUzM3eVJlTlNDMWx1dG01VzNIRXA?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 15:38:00 GMT",
+        "summary": "잭 헨리, AI 보안 강화 위해 구글 클라우드와 파트너십 확대 &nbsp;&nbsp; Investing.com 한국어",
+        "outlet": "Investing.com 한국어",
+        "outletUrl": "https://kr.investing.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "Google"
         ],
@@ -3107,10 +3179,10 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Why Amazon, Microsoft, Google are pouring $57 billion to build India's AI infrastructure - Moneycontrol.com",
+        "title": "Why Amazon, Microsoft, Google are pouring $57 billion to build AI infrastructure in India - Moneycontrol.com",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZGpLZmNmT2xvSjFoV1lOZGhJYXlpZWFTS1MzMnJwWWJCczNTYjMxTHlJeFl0VnY2U3dhQ2djRVpIRlpfUkVrLU5wMU12dTF2OGJNenVnblozT0QyenJBVnVkVDI1Mk9ObjRzUnNwME9MRmplT2JqX3VPYnJlQ2lObU16NjB0dnBqbzE4aS1NTnJUU3ljR05MbC1MZmFpVklMWWk3ejNhaHNobEVtbzlPMHhmQ1dhLTJwNzB0c3JzNVpBb1hOS241eFN1TTdWTW44WExKN1dNS1BlSnoxQkdjVHRvbkVPY2JPUDNpbVNGTWZkZ9IB9wFBVV95cUxOUFFlWmNQb3FtU1NlTkF4ZUY0TXdiWndkamhDYXdtYUVfRnRIVVh1MnIyRmFRVWNZN2oxOGFqSW4xZlZ5QV9zMk4yWm1lT1MyU1RzS2tndWhlRnVqR0k0dklGNlllVDVqVmk5TmxwdEJhY2tLT0laelNZMmQzSk9XR2hUVkU0WXM2bmo2QXRnUFpOazNQb1JuSkRvWnNZRFZPcUVsWngzU0NteVIxY3VTbGdqbVZKeVAwWXRsZ19GUmlFcVhQLWxqV1FpQ0pzdjdEcVoyU1ZQcXY5TWpfYXRHcEsxQjVkbi1vQnJvdEd0OWp2WnBaOS1N?oc=5",
         "publishedAt": "Thu, 25 Jun 2026 11:57:49 GMT",
-        "summary": "Why Amazon, Microsoft, Google are pouring $57 billion to build India's AI infrastructure &nbsp;&nbsp; Moneycontrol.com",
+        "summary": "Why Amazon, Microsoft, Google are pouring $57 billion to build AI infrastructure in India &nbsp;&nbsp; Moneycontrol.com",
         "outlet": "Moneycontrol.com",
         "outletUrl": "https://www.moneycontrol.com",
         "source": "해외 정책·투자",
@@ -3127,9 +3199,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
+        "title": "[#클라우드 월드] 웹케시 '자사주 30억' 취득·LG CNS '에이전틱 AI ERP' 출시·와이즈넛 '공공 AI 박람회' 참가·포티투마루 '멀티모달 AI 워크숍'·씽크포비엘 '군산대 AI 교육'·구글플레이 '창구 알럼나이 데이'·KACI 'K-AI PaaS 서밋' 개최·KDATA 'AI 문제해결은행' 고도화 - 뉴스웍스",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsZlgyME1aWGI5c2pQd01TdGFwTkxMcGZhMnljTVE4WmlwWVMyMUg1T19pWDUxckhHbW1JamNkeHpvSW9DREZkbXZuRmE5Wm9vWkg5amN2b0luaWdZS3dlRmx4eExCX0w4eXRZX1BHRdIBc0FVX3lxTE14QTh2Tm5lcFdBVUc4M3dKbC1WVFVVelNnc3hRWFBNVEdhaUdOT3FWTndVN2Q1dVp6UVFzWGRJNVJZT0U5bnozclg1aFdwVjhCQWNndGtBNnJpOF9fX0ZhbkRVeHdpeHhIWkNqc3JRd0lZcms?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 09:22:44 GMT",
+        "summary": "[#클라우드 월드] 웹케시 '자사주 30억' 취득·LG CNS '에이전틱 AI ERP' 출시·와이즈넛 '공공 AI 박람회' 참가·포티투마루 '멀티모달 AI 워크숍'·씽크포비엘 '군산대 AI 교육'·구글플레이 '창구 알럼나이 데이'·KACI 'K-AI PaaS 서밋' 개최·KDATA 'AI 문제해결은행' 고도화 &nbsp;&nbsp; 뉴스웍스",
+        "outlet": "뉴스웍스",
+        "outletUrl": "https://www.newsworks.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 23
+      },
+      {
         "title": "Why is Google suddenly losing AI talent? The lure of pre-IPO equity is strong. - Business Insider",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3M4MjVjazR3SUxvRzNzM1JoN1dOcndKRUxnY3ZxbkNHb092LWJZclprdnNQaE55eWhwMWkxWWt6Ynkxb04wVS1ZOEM0RnZoVVFUdHlKVURRemc1UW9qNzlYa1J3Unk4WGZEZ3ZuenlzTU02Y24wNndqRWM3OFV0bjV1MFBQaTU1YjcyZUVjWGtERFlOQTFxUzQ4d05nUi1lbEZYOWpn?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 09:00:00 GMT",
+        "publishedAt": "Thu, 25 Jun 2026 09:00:19 GMT",
         "summary": "Why is Google suddenly losing AI talent? The lure of pre-IPO equity is strong. &nbsp;&nbsp; Business Insider",
         "outlet": "Business Insider",
         "outletUrl": "https://www.businessinsider.com",
@@ -3147,43 +3239,63 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Gartner Names Advanced Micro Devices, Inc. (AMD) “The Company to Beat for Enterprise AI Server CPUs - Insider Monkey",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcmZmRVJ3Nlcwc2FrQkpQclYtMmJvU1lDSWlGSEhzRTBnNVBBZmJGbXpzcWQ1WUhjdF9Vd000WkpFWU1KWk1vTlVLOVdkY2JIU1d2NXFzYlVGbWJIdjM2U1JkVXM3b2VEdnhFMTkxb1JzbmJHTG02T0FQSXdPSF92dVZHZGtpVEZQOTFZUmpCSkdZVzJZcjY1UERTaXVKT1ZncG1sRkg0TzBCaUxheHotaUoxVDE2QXRaQ2pvNW16UlVtTEc0NmQxRkozYnJZMzRmUmVHZ9IB3AFBVV95cUxNQ1RDb29wcEV2eTFHNXZfbW9nQXZwT3lPU0lLd3VNTXlzNjh6eEl6N0JLVkpjU1o3SGpoQ3VrZldhbHZlZmlWUVhNLWlUUnhJRGRnV3NhYnpEWGY5NXhIY0lseHd4V2hwNUVxMTFUYkQteUdBV3BaQWQ0VGxCaU5IN1dXaXdUSmphM20yLV9JQzlDaEs5ZjY4Yk5hVDNOeUFtbmRPU0ZKbXR3NXpuaXdpcmxLc0pzM0dmNHRHNDFkRlFGVDloY3NaaFhPbGw4VmZLOHFhVjNveE5HWjBf?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 07:21:56 GMT",
-        "summary": "Gartner Names Advanced Micro Devices, Inc. (AMD) “The Company to Beat for Enterprise AI Server CPUs &nbsp;&nbsp; Insider Monkey",
-        "outlet": "Insider Monkey",
-        "outletUrl": "https://www.insidermonkey.com",
-        "source": "AI 시장·비즈니스",
-        "sourceLang": "en",
-        "region": "global",
+        "title": "오픈AI, 엔비디아 블랙웰 대항마 공개...연내 실전 투입 [종합] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9udXhCOTk1N3R2ejBDN2FPaU10LThIdmliUDl3R0I5ZXpTeENlS3RKQnQ2TjZVeUw3OW56SG1MeFVyN240TGRHYUN6a19tdkU?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 06:49:03 GMT",
+        "summary": "오픈AI, 엔비디아 블랙웰 대항마 공개...연내 실전 투입 [종합] &nbsp;&nbsp; v.daum.net",
+        "outlet": "v.daum.net",
+        "outletUrl": "https://v.daum.net",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
-          "AMD"
+          "NVIDIA"
         ],
         "taxonomyHits": [
-          "AI시장",
-          "온디바이스AI"
+          "데이터센터",
+          "NVIDIA"
         ],
-        "issueCategory": "AI시장",
+        "issueCategory": "데이터센터",
         "score": 23
       },
       {
-        "title": "HCLTech expands Google Cloud & ServiceNow AI tie-up - ChannelLife Australia",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2MwclF4TjJTOFV0S0kwZUhYUWpWZEVwMWFaRlB2V21uMFppVU1tRmpkaXM3NElNRE0ta19PSHltQzhhTnhPUGpVd05wMk02bXZ4d3dhRm5XRjRGZTNVYXRtNVFxTkZfdFhlemZMMllydlRibVo5MmIzT1JxZFhVdFI4NWpIWTJFcGc?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 04:57:00 GMT",
-        "summary": "HCLTech expands Google Cloud & ServiceNow AI tie-up &nbsp;&nbsp; ChannelLife Australia",
-        "outlet": "ChannelLife Australia",
-        "outletUrl": "https://channellife.com.au",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
+        "title": "[AI 이슈] 오픈AI, AI 추론칩 '할라페뇨' 공개…엔비디아 의존 탈피 위한 '풀스택 AI' 전략 본격화 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vdTQxNGQ2bmUxWUpqZVJ1Q3hRTk92cm8xbjZ2MkFKZ2VnZVlGZUhadWFRNnFIdDA5UnpCTlFYMllKczByYVZnQTFiYmRJOXZqRm53NnkzNzkyVXFRdGxUb3BTMVE2U00?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 06:31:09 GMT",
+        "summary": "[AI 이슈] 오픈AI, AI 추론칩 '할라페뇨' 공개…엔비디아 의존 탈피 위한 '풀스택 AI' 전략 본격화 &nbsp;&nbsp; 인공지능신문",
+        "outlet": "인공지능신문",
+        "outletUrl": "https://www.aitimes.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
-          "Google"
+          "NVIDIA"
         ],
         "taxonomyHits": [
-          "AI인프라",
-          "Google"
+          "추론",
+          "NVIDIA"
         ],
-        "issueCategory": "AI인프라",
+        "issueCategory": "추론",
+        "score": 23
+      },
+      {
+        "title": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’ 공개…엔비디아 의존도 낮춘다 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSDNBZWxOYXBMcmxiNVlnMlFMNEh2SVNaRFZtT2JGRThvTTQwT1RtUGlwRUdZc1VuZl93b0FUYlhvTkJTM3BoakZidWhxa0lvNUxEQlJJSEE1QzAzYTBOSg?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 06:00:00 GMT",
+        "summary": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’ 공개…엔비디아 의존도 낮춘다 &nbsp;&nbsp; 한겨레",
+        "outlet": "한겨레",
+        "outletUrl": "https://www.hani.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "추론",
+          "NVIDIA"
+        ],
+        "issueCategory": "추론",
         "score": 23
       },
       {
@@ -3207,43 +3319,23 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "HCLTech Expands Google Cloud, ServiceNow AI Partnership; Shares Flat - HDFC Sky",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWVKSWZ2d0ZBRzNGcWVyTlAzY1I1ZWJQWElDMWpNaFpvX1NIbEhObGNjcVhSalg4c29pMEZRRU1BbWhwMDFOVXViclJSTHZfbzR2OUlhU01PSEZLOEFWbU0xQUZMdWxVQWZfRDRXZDIyeVBxQjJ2TUhjbVUzRGVlVHhORjFYZXNpQjJtSWUzZjNvVzc3QUE?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 04:26:54 GMT",
-        "summary": "HCLTech Expands Google Cloud, ServiceNow AI Partnership; Shares Flat &nbsp;&nbsp; HDFC Sky",
-        "outlet": "HDFC Sky",
-        "outletUrl": "https://hdfcsky.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
+        "title": "퀄컴, AI 데이터센터 인프라 승부수…엔비디아에 도전 [IT썰] - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jOEpXRnhYUlZ5OVlFYkI3azQzSlFzb01pRHZ6SFdGcU0tVzgxb3hhZnBwRFRxYW1MN2pTcEY4R0xCZzRGMUZRd2Q1eEl2anFBNTY3V2U5b2RFY1B5YWsyY1FFZDNTN0XSAWxBVV95cUxOU0xMUU5xWTNtMmJVNmtDZEdUcjB5bmJwLWd2bDZmRkZYMkllNGJReVRVT0owUl9rb0Nvc0w3aGVQanpZSmlnZllQcVZSMGFjSS1CRmd6MDlPeVN2WGZFbzhLdGptRHphdnpfM0c?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 04:00:00 GMT",
+        "summary": "퀄컴, AI 데이터센터 인프라 승부수…엔비디아에 도전 [IT썰] - 머니투데이 &nbsp;&nbsp; 머니투데이",
+        "outlet": "머니투데이",
+        "outletUrl": "https://www.mt.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
-          "Google"
+          "NVIDIA"
         ],
         "taxonomyHits": [
-          "AI인프라",
-          "Google"
+          "데이터센터",
+          "NVIDIA"
         ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "Philippines & Google Cloud expand AI & cyber defence - IT Brief Asia",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQW44OUkwX0JoQ2FwdHY2UlpPWFpyVnlsMkRYa1NXWGt1eEN3WXNGOTRXeklvRWJfbXlpZVZUQ3NoUjFleHU0aVVFdmo0OW5nam9IVDd3ZWVacHRXM2otMXpiNGtGMlVRWXR3S1JLVEhXMEdudGUtNzFPS1d5V1FlRw?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 03:25:00 GMT",
-        "summary": "Philippines & Google Cloud expand AI & cyber defence &nbsp;&nbsp; IT Brief Asia",
-        "outlet": "IT Brief Asia",
-        "outletUrl": "https://itbrief.asia",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
+        "issueCategory": "데이터센터",
         "score": 23
       },
       {
@@ -3267,23 +3359,161 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Alphabet Joins The Dow As AI Infrastructure Royalty (Rating Upgrade) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemNQTHBPSllzXzNfeE5EQzJ3SnRBTkZLTUdlamw4dnkxVFowQ0xtRDRLNk13b1hhTFFjeXNxT2NwMzZqcHBFYkJzNWtRSUNrMmo0eVp5VzBRTGtnZ1lJQS1zLVZLLUR5bkJNZXlTemFKdDR5VUVLX0hpQWVVVjZFZm5PTmV4SktJVWxqQmVvazZmUkE4bU51eUt0eTc5eU1sOVhCRzk4SUg1SE0?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 18:51:21 GMT",
-        "summary": "Alphabet Joins The Dow As AI Infrastructure Royalty (Rating Upgrade) &nbsp;&nbsp; Seeking Alpha",
-        "outlet": "Seeking Alpha",
-        "outletUrl": "https://seekingalpha.com",
+        "title": "\"엔비디아 의존 낮춘다\"…오픈AI-브로드컴, 첫 자체 AI 추론 칩 `할라피뇨` 전격 공개 - 디지털데일리",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qLUdwMkt2RjhOUEF6STVDYi1GZlNkVUdBX2lmVlowMkNqSkhKQW1VS282SXVrTUszbjdKSEJyVjdjQUl4STd2ZjNvX3FpakhTbnFGamlUdXY4ckhrS1ZYWldvU2g?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 23:54:05 GMT",
+        "summary": "\"엔비디아 의존 낮춘다\"…오픈AI-브로드컴, 첫 자체 AI 추론 칩 `할라피뇨` 전격 공개 &nbsp;&nbsp; 디지털데일리",
+        "outlet": "디지털데일리",
+        "outletUrl": "https://www.ddaily.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "추론",
+          "NVIDIA"
+        ],
+        "issueCategory": "추론",
+        "score": 23
+      },
+      {
+        "title": "구글 AI 핵심 인력 이탈 가속화… '제미나이' 주역 2명 앤트로픽행 예고 - AI타임스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40MU4td0J3YzFjNG0ySG5IcXdJcWgxVjhGQjNaZm5ZcGdER3RIRTk3M0ZGV3VrWHJ2N1U0Q1cyaGlkWmswaFdybV91cFlGN3Nja0xnSmUySUt1aXk4RThyVzFCQzhGZ0NOZ1E?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 23:35:38 GMT",
+        "summary": "구글 AI 핵심 인력 이탈 가속화… '제미나이' 주역 2명 앤트로픽행 예고 &nbsp;&nbsp; AI타임스",
+        "outlet": "AI타임스",
+        "outletUrl": "https://www.aitimes.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google",
+          "Gemini"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 23
+      },
+      {
+        "title": "\"이수페타시스, 구글 TPU 기판 점유율 하락 우려 과도\"-NH - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95a3RGWTE1enVQMjduamcyd3hGUEo0ZmNSdFVjSmVTSjVMa1BfSUlvVVRCSndWeG15QWdpNHR4bnhMX09yS2dhbHlBTmF5RC10ZFA3ctIBVEFVX3lxTE95a3RGWTE1enVQMjduamcyd3hGUEo0ZmNSdFVjSmVTSjVMa1BfSUlvVVRCSndWeG15QWdpNHR4bnhMX09yS2dhbHlBTmF5RC10ZFA3cg?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 22:50:56 GMT",
+        "summary": "\"이수페타시스, 구글 TPU 기판 점유율 하락 우려 과도\"-NH &nbsp;&nbsp; 한국경제",
+        "outlet": "한국경제",
+        "outletUrl": "https://www.hankyung.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google",
+          "TPU"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 23
+      },
+      {
+        "title": "Nvidia pours cold water on AI fears - thestreet.com",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03T3NTTjhmOWV2ZTZWaEwxalFuWnZmOWoxcHdGN2llNk9peXVldjN4YmwtV3YtNWNFQl91VjVTVEVCNWQxV2dUd0dGb1JuekNaLXRfWHdING51QjRJbTg4aFFrNW05bzhISGUtWWNYRGZMY191WG1FT0lDZk4?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 21:01:45 GMT",
+        "summary": "Nvidia pours cold water on AI fears &nbsp;&nbsp; thestreet.com",
+        "outlet": "thestreet.com",
+        "outletUrl": "https://www.thestreet.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 23
+      },
+      {
+        "title": "Alphabet shares continue downward slide as AI talent departs DeepMind for Anthropic - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSE91TWxZOXI5SldEbW1LcFpoeF9PVE5leDAtb2t5bmdONXd2TEwzV3ItTWtFYTJnRmd6bzctUHJpLS1pOVgwbUg4cEhYM3lrRG1fN3RrQmlmZXJMb2pNUVBHNC1Ja1pCUHZGOGNYUlM1YW5PX2tUMjBNZ2pGeVdZR1hrSEdFSDRPX0tHTHN4eTJEN3BKVlhYTi1fOVhxQllQeVhEX2ppMm9GM1ps?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 20:54:00 GMT",
+        "summary": "Alphabet shares continue downward slide as AI talent departs DeepMind for Anthropic &nbsp;&nbsp; CNBC",
+        "outlet": "CNBC",
+        "outletUrl": "https://www.cnbc.com",
         "source": "Google AI 이슈",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "Google"
+          "Google",
+          "DeepMind"
         ],
         "taxonomyHits": [
-          "AI인프라",
           "Google"
         ],
-        "issueCategory": "AI인프라",
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "OpenAI Distances Itself From Nvidia With Jalapeño, Its First In-House AI Chip - Gizmodo",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnJUZ0FDaEdiZHh6TTBTaWs4dGpxLW1xcTR6b0J1NlM4Qmh5N0JPdkxUNHJzcmJQLTVmSUdVejZfNm1EY0pJZFpNc29iZVJ5ZkJ2dHhmMmtNTXdjT1JwVVVkTE1VbnJoQ3dGRnp4OVRsZHBkTDVld012ZjQ2czRkOUh0NjdmcEFTbERYdzYxRVlhX2xsSmVzZFUwR3BqbkVLSWk3VFQyXzl4LUE?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 18:40:24 GMT",
+        "summary": "OpenAI Distances Itself From Nvidia With Jalapeño, Its First In-House AI Chip &nbsp;&nbsp; Gizmodo",
+        "outlet": "Gizmodo",
+        "outletUrl": "https://gizmodo.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 23
+      },
+      {
+        "title": "Google delays Gemini 3.5 Pro launch to July as it tweaks its new frontier AI model - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQREwxNHVteGEyX2VHdWc4NDlHYzlocExKY1VpMExkZnl2SmM1WXJpbjM2SU5yOWhZb25DWTNSVnJYUzduSE1HY3F5MER0Y0VKQXlkX2M2LVlEUDRZUDlNcWEtU19IRURPSFJYV0VRM19BTHNBcmptaGlkZjJpTkJONngtS0liTG44NW90aEpkbHBLakk?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 18:39:00 GMT",
+        "summary": "Google delays Gemini 3.5 Pro launch to July as it tweaks its new frontier AI model &nbsp;&nbsp; Business Insider",
+        "outlet": "Business Insider",
+        "outletUrl": "https://www.businessinsider.com",
+        "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google",
+          "Gemini"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 23
+      },
+      {
+        "title": "Google’s Gemini-powered AI home speaker starts sales - The Seattle Times",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkJqa2Via19ZNUgyUnJPU09SUmwxR2pkc0drWXNCLXR6MV9heHVJYXU3a2hrbDdpRkhaYllGX29yYTk5cVlSRmVxQXRsMjRsSmc3YjI3dE9ZUEY3NUdIU0ZuazdycmFLdF82ZllhNW1YWlhEbTg0bHRBZDRzRV9ZVlY5S090dEpjb2tZX3pWdlJyeWpi?oc=5",
+        "publishedAt": "Wed, 24 Jun 2026 18:25:45 GMT",
+        "summary": "Google’s Gemini-powered AI home speaker starts sales &nbsp;&nbsp; The Seattle Times",
+        "outlet": "The Seattle Times",
+        "outletUrl": "https://www.seattletimes.com",
+        "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google",
+          "Gemini"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "AI시장",
         "score": 23
       },
       {
@@ -3362,225 +3592,6 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "NVIDIA",
         "score": 23
-      },
-      {
-        "title": "과기정통부, 데이터 반출 없이 의료 데이터 공유하는 ‘의료데이터 스페이스’ 실증 착수 - MIT 테크놀로지 리뷰",
-        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPUEh1ZjZjdkxUY3VsMzZvUmNRR21sMGFjTzRfcXk1amcza3NiMkRpMDZ6NVZKMDE4UkJQXzAzMVZQaXdOR0tuM19kU2NCM1NfemlSMHB3czhhdHRkQ1piNkNNdjdUb2ZWT1dqTGRYSDRUd3BaSl9odlhKTGFZYTVpMkpyY2tUX0NJRUxIbFpmNEJQcHBkZU1Ha2VrRTFiMXo0dV9MN2c4TXpZX2syVGJScl9EM1JLa212aTRid2NEYnlQczFYMEVjTUplSmFVTEFibG54ZDgwcGxmS1RMSVMyUW0zX0t2cFBCQnNPenZMUkk2aDlhYmVKNk1vUC1lWk9Pa0JPS2xZWmlYVGNZSFFUV0FrUTNCSHFXTERZRmluaEkyd3lEOS1lcWNWSHNtOUZNMjZUMzdMdTR4SWxSNktlVlJXR3ZXSG41S0ZYWUV0RWIteG9KM3h1ZQ?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 08:00:57 GMT",
-        "summary": "과기정통부, 데이터 반출 없이 의료 데이터 공유하는 ‘의료데이터 스페이스’ 실증 착수 &nbsp;&nbsp; MIT 테크놀로지 리뷰",
-        "outlet": "MIT 테크놀로지 리뷰",
-        "outletUrl": "https://www.technologyreview.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "실증·조달"
-        ],
-        "issueCategory": "실증·조달",
-        "score": 23
-      },
-      {
-        "title": "과기정통부·국정원, SW 공급망 보안 로드맵 발표 - 디지털투데이",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nYnVnOWtfbHlIb0NQTUlyU3BuWkYtcWtiaEx5NmYyNDVtcmlzcmMzdUxhU1hNbGZtZWJKWkJBdzNlTTZfR01HY1l4OEhsNzJvVy1zMGxQTUE2RW1qaG1BRndzMXV1Z2tfTHdzTV91UmF3RkU?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 05:20:00 GMT",
-        "summary": "과기정통부·국정원, SW 공급망 보안 로드맵 발표 &nbsp;&nbsp; 디지털투데이",
-        "outlet": "디지털투데이",
-        "outletUrl": "https://www.digitaltoday.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "수출통제·공급망"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "과기정통부·국정원, 소프트웨어(SW) 공급망 보안 로드맵 발표 - 아주경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoOHc2R1c2M19NUnJtRVd3SVp3TGlqU1RtWUhUSlFNWnRZU2J4OGpLQXR5RXBfSU54T1EtVU55LW5RbmNDTm5LT1IwRTVQWElxVTRKZUJPTVhqZ9IBWEFVX3lxTE54Q0l5M3NuMEI2WWlDbDlEdDZHNlZrX19TX3loN0h5bjJ1SW42MS1MVzNoaEx4N1FHMktYell3SnFScUNnbWtQR2NSa1RBMEZ1TzJOQi1OUWY?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 05:20:00 GMT",
-        "summary": "과기정통부·국정원, 소프트웨어(SW) 공급망 보안 로드맵 발표 &nbsp;&nbsp; 아주경제",
-        "outlet": "아주경제",
-        "outletUrl": "https://www.ajunews.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "수출통제·공급망"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "Better Artificial Intelligence (AI) Stock to Buy: SpaceX vs. Nvidia - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanNIbzN1S2tXS0RoeWdhSXIxRktFa3g4Uktvc3E5VlRzQUFQaDh3bnlQanFaSnFwRk9zZVJCZWJtQUxkN191bUhwVkE4MWkyaVNtLUlNMTdZRnNuVVkyZ2ZpazJCLUFONHNfUzRLbVJ6TnlIYzFTRjd1Z1NCdnZ0cWZ5ZF8zZjFOSW9waklNZmVXODZ5bEFtaQ?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 01:27:00 GMT",
-        "summary": "Better Artificial Intelligence (AI) Stock to Buy: SpaceX vs. Nvidia &nbsp;&nbsp; The Motley Fool",
-        "outlet": "The Motley Fool",
-        "outletUrl": "https://www.fool.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "투라인클라우드, GDIN ‘K-글로벌 해외진출 지원사업’ 선정… HyperDex 글로벌 시장 공략 - koreasprint.com",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41Y3BhRm02OGJWaEtYQW9KNXZtLVZmdkx4RTRnQXBQcmgwNkZXOGpnYTN6RlR2MWJGelJ6cXV2RC03cmE2NW14YktaeWhNSEFNeUhnY2dHMVE5Mnl1ckd2cExuYmtFTHZtWm03a0Fn?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 01:18:00 GMT",
-        "summary": "투라인클라우드, GDIN ‘K-글로벌 해외진출 지원사업’ 선정… HyperDex 글로벌 시장 공략 &nbsp;&nbsp; koreasprint.com",
-        "outlet": "koreasprint.com",
-        "outletUrl": "https://www.koreasprint.com",
-        "source": "하이퍼엑셀 확장",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "AI인프라"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "과기정통부, ‘의료 데이터 스페이스’ 실증 본격 착수 > 뉴스 - 한의신문",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00dmtEMWVQY1F0RkxXbHNSNFMyczM3MHJkbkU2Yk5oaUZtY3I2MExaMkNsS0xzV2Y3RkRyV2ZYam9wb0tJQy1MbngtbE92NGdLbUxwWWEwZFZuRVVIY2k4encxdEk1VjFpNjVTdDRxVjNydw?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 00:56:00 GMT",
-        "summary": "과기정통부, ‘의료 데이터 스페이스’ 실증 본격 착수 > 뉴스 &nbsp;&nbsp; 한의신문",
-        "outlet": "한의신문",
-        "outletUrl": "https://www.akomnews.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "실증·조달"
-        ],
-        "issueCategory": "실증·조달",
-        "score": 23
-      },
-      {
-        "title": "Better Artificial Intelligence (AI) Stock to Buy: SpaceX vs. Nvidia - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTFBSlNPdmdZaE5EYndsa3FldFFzanBrSHByWHJ2NzlCYWZwQzlsT201TngtTjluVG16bDlQbHhpQnlxZE9mcTY4c0ZhUjJTWEN0OHF0RjcwMGJBNm1DSlpLSEE0THdqOXd2Ym9yY2pybXVIcXJFcS1WaVJlbnhpRWc3VjRuMjNQR1ZYdlZkSDBaQ0NVTW12WU9tVjBqSndOeFdhWXpoMA?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 00:47:00 GMT",
-        "summary": "Better Artificial Intelligence (AI) Stock to Buy: SpaceX vs. Nvidia &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale - NVIDIA Blog",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6U3BuSWNRa0psZDR5Q2dMa25OYUVHZEthSmtzd0FnMFZCa3VKMWlzYUxSVzBJWFpVZ0gtbkNiWEJ2dGd3bG9TcnhESGNFUnpBQjd0MGMwNWdTR2NnN1RrT0FWa0wxLWZCOVJFcTVR?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 00:08:51 GMT",
-        "summary": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale &nbsp;&nbsp; NVIDIA Blog",
-        "outlet": "NVIDIA Blog",
-        "outletUrl": "https://blogs.nvidia.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 23
-      },
-      {
-        "title": "과기정통부, 의료 데이터 스페이스 실증사업 출범식…데이터 공유·AX 본격화 - IT비즈뉴스",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xZUpxc05id2xTQlRmWE02dEVJc1JtN1JuaTBxbnNxMnJxYXdmWnJ1d1VVd0w5NGsxZTZqZXhLQ3V2Mmd6d2Y0eFdBRDNkUERWZTcxY1MzanZ2bmlacW1yTVlYRU54NHB4cXFrRw?oc=5",
-        "publishedAt": "Tue, 23 Jun 2026 23:00:00 GMT",
-        "summary": "과기정통부, 의료 데이터 스페이스 실증사업 출범식…데이터 공유·AX 본격화 &nbsp;&nbsp; IT비즈뉴스",
-        "outlet": "IT비즈뉴스",
-        "outletUrl": "https://www.itbiznews.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "실증·조달"
-        ],
-        "issueCategory": "정책",
-        "score": 23
-      },
-      {
-        "title": "As top talent leaves Google DeepMind, some question if the lab can remain at the forefront of AI development - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT0lsTlMxVEZHdDhnN3pvRnktS0ZCMmhkb0xWMm9oYTJSV0N2ZlFQeHo4NXl6c0t2RFpZRDFWZkkxbEQxTDQ2M0xtZzRKZjN5UnhKMTBKQW9QWlVhbkFpNTF5czY1UmtpMWNOSm5lNFVVUkw5aE1xNjItRzAtdzh5cW8zWWZjRHlQcHVYNU1ZU3ZKTThXZnRDQWZmWmhOSGVwbTVPNGlSUXdoRjVmMDlzRXJTNTFHZmY5ZXo5SWJHYlB1dzBFXzlKdDhhMExXLUZmMkV0N0VQTHFqTXc?oc=5",
-        "publishedAt": "Tue, 23 Jun 2026 18:42:00 GMT",
-        "summary": "As top talent leaves Google DeepMind, some question if the lab can remain at the forefront of AI development &nbsp;&nbsp; Fortune",
-        "outlet": "Fortune",
-        "outletUrl": "https://fortune.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "DeepMind"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 23
-      },
-      {
-        "title": "과기정통부, 'AI 학습 데이터 지원' 등 적극행정 우수사례 7건 선정 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hWHZkRXFIMmxpODZwb25LTnNhVHRlSmVFem1OWXQtMG0yZWEtcFdUVlRmcjVrSGg1VllTOEs4MEtzVG1Mekw0dm9wZTFPZw?oc=5",
-        "publishedAt": "Mon, 22 Jun 2026 09:25:53 GMT",
-        "summary": "과기정통부, 'AI 학습 데이터 지원' 등 적극행정 우수사례 7건 선정 &nbsp;&nbsp; 전자신문",
-        "outlet": "전자신문",
-        "outletUrl": "https://www.etnews.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
-        "score": 23
-      },
-      {
-        "title": "과기정통부, 적극행정 우수사례 7건 선정…AI 데이터 활용·반도체 R&D 혁신 - 이데일리",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQVhCaDMtVE12NURUNGZZVHYxcTM5Tkd3ZEt2S0Z2eVpqSlA0MEtoNmRSel94TjFyUEFUei1OZEF2Ukd4bDZNR201bTI2Nk5MeDNIZHkzQjBOY0E3MDFKdDU3OFcxc0Y2QjRxTVFLREhEb1RWRWVWZi1oUVpWRTRCNQ?oc=5",
-        "publishedAt": "Mon, 22 Jun 2026 09:24:03 GMT",
-        "summary": "과기정통부, 적극행정 우수사례 7건 선정…AI 데이터 활용·반도체 R&D 혁신 &nbsp;&nbsp; 이데일리",
-        "outlet": "이데일리",
-        "outletUrl": "https://www.edaily.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
-        "score": 23
       }
     ],
     "errors": []
@@ -3591,11 +3602,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "NVDA",
         "name": "NVIDIA",
         "market": "US",
-        "price": 195.8,
+        "price": 195.74,
         "currency": "USD",
-        "changePct": -9.06979984210282,
+        "changePct": -9.097664050527099,
         "previousClose": 215.33,
-        "marketTime": "2026-06-25T15:44:27.000Z",
+        "marketTime": "2026-06-25T20:00:01.000Z",
         "closes": [
           214.86000061035156,
           212.60000610351562,
@@ -3618,7 +3629,7 @@ window.__DASHBOARD_DATA__ = {
           208.64999389648438,
           200.0399932861328,
           199,
-          195.8000030517578
+          195.74000549316406
         ],
         "candles": [
           {
@@ -3773,7 +3784,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 200.0800018310547,
             "high": 200.7899932861328,
             "low": 192.1300048828125,
-            "close": 195.8000030517578
+            "close": 195.74000549316406
           }
         ]
       },
@@ -3781,11 +3792,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "GOOGL",
         "name": "Alphabet",
         "market": "US",
-        "price": 341.4,
+        "price": 343.71,
         "currency": "USD",
-        "changePct": -10.854636133378607,
+        "changePct": -10.251455727602696,
         "previousClose": 382.97,
-        "marketTime": "2026-06-25T15:44:26.000Z",
+        "marketTime": "2026-06-25T20:00:01.000Z",
         "closes": [
           388.8800048828125,
           388.8299865722656,
@@ -3808,7 +3819,7 @@ window.__DASHBOARD_DATA__ = {
           349.67999267578125,
           346.1300048828125,
           345.2900085449219,
-          341.3999938964844
+          343.7099914550781
         ],
         "candles": [
           {
@@ -3961,9 +3972,9 @@ window.__DASHBOARD_DATA__ = {
           {
             "date": "2026-06-25T13:30:00.000Z",
             "open": 336.7200012207031,
-            "high": 343,
+            "high": 345.57000732421875,
             "low": 335.8399963378906,
-            "close": 341.3999938964844
+            "close": 343.7099914550781
           }
         ]
       },
@@ -3971,11 +3982,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "AMD",
         "name": "AMD",
         "market": "US",
-        "price": 519.625,
+        "price": 532.57,
         "currency": "USD",
-        "changePct": 11.14735513678852,
+        "changePct": 13.916279865671335,
         "previousClose": 467.51,
-        "marketTime": "2026-06-25T15:44:27.000Z",
+        "marketTime": "2026-06-25T20:00:01.000Z",
         "closes": [
           503.8900146484375,
           495.5400085449219,
@@ -3998,7 +4009,7 @@ window.__DASHBOARD_DATA__ = {
           551.6300048828125,
           519.8499755859375,
           519.739990234375,
-          519.625
+          532.5700073242188
         ],
         "candles": [
           {
@@ -4153,7 +4164,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 543.9299926757812,
             "high": 550.8800048828125,
             "low": 507,
-            "close": 519.625
+            "close": 532.5700073242188
           }
         ]
       },
@@ -4161,11 +4172,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "AVGO",
         "name": "Broadcom",
         "market": "US",
-        "price": 382.355,
+        "price": 378.91,
         "currency": "USD",
-        "changePct": -7.674940841261401,
+        "changePct": -8.506785145119999,
         "previousClose": 414.14,
-        "marketTime": "2026-06-25T15:44:26.000Z",
+        "marketTime": "2026-06-25T20:00:00.000Z",
         "closes": [
           422.010009765625,
           421.8599853515625,
@@ -4188,7 +4199,7 @@ window.__DASHBOARD_DATA__ = {
           392.1300048828125,
           380.1499938964844,
           382.07000732421875,
-          382.3550109863281
+          378.9100036621094
         ],
         "candles": [
           {
@@ -4343,7 +4354,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 386.57501220703125,
             "high": 388.79901123046875,
             "low": 372.70001220703125,
-            "close": 382.3550109863281
+            "close": 378.9100036621094
           }
         ]
       },
@@ -4351,11 +4362,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "TSM",
         "name": "TSMC ADR",
         "market": "US",
-        "price": 441.23,
+        "price": 434.99,
         "currency": "USD",
-        "changePct": 9.074953030752505,
+        "changePct": 7.532384060120643,
         "previousClose": 404.52,
-        "marketTime": "2026-06-25T15:44:24.000Z",
+        "marketTime": "2026-06-25T20:00:02.000Z",
         "closes": [
           412.32000732421875,
           422.7300109863281,
@@ -4378,7 +4389,7 @@ window.__DASHBOARD_DATA__ = {
           467.6700134277344,
           436.3900146484375,
           440.8299865722656,
-          441.2300109863281
+          434.989990234375
         ],
         "candles": [
           {
@@ -4532,8 +4543,8 @@ window.__DASHBOARD_DATA__ = {
             "date": "2026-06-25T13:30:00.000Z",
             "open": 452.8999938964844,
             "high": 452.55810546875,
-            "low": 433.44000244140625,
-            "close": 441.2300109863281
+            "low": 432.5,
+            "close": 434.989990234375
           }
         ]
       },
@@ -4541,11 +4552,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "ARM",
         "name": "Arm",
         "market": "US",
-        "price": 354.18,
+        "price": 347.71,
         "currency": "USD",
-        "changePct": 15.55251052167956,
+        "changePct": 13.441649538351111,
         "previousClose": 306.51,
-        "marketTime": "2026-06-25T15:44:24.000Z",
+        "marketTime": "2026-06-25T20:00:01.000Z",
         "closes": [
           321.2200012207031,
           302.7099914550781,
@@ -4568,7 +4579,7 @@ window.__DASHBOARD_DATA__ = {
           407.7200012207031,
           366.3900146484375,
           359.0799865722656,
-          354.17999267578125
+          347.7099914550781
         ],
         "candles": [
           {
@@ -4723,7 +4734,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 379.7650146484375,
             "high": 379.7650146484375,
             "low": 339.5201110839844,
-            "close": 354.17999267578125
+            "close": 347.7099914550781
           }
         ]
       },
@@ -4731,11 +4742,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "MU",
         "name": "Micron",
         "market": "US",
-        "price": 1192.06,
+        "price": 1213.56,
         "currency": "USD",
-        "changePct": 58.72969374167776,
+        "changePct": 61.59254327563248,
         "previousClose": 751,
-        "marketTime": "2026-06-25T15:44:27.000Z",
+        "marketTime": "2026-06-25T20:00:01.000Z",
         "closes": [
           895.8800048828125,
           928.4099731445312,
@@ -4758,7 +4769,7 @@ window.__DASHBOARD_DATA__ = {
           1211.3800048828125,
           1051.77001953125,
           1048.510009765625,
-          1192.06005859375
+          1213.56005859375
         ],
         "candles": [
           {
@@ -4913,7 +4924,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 1233.3499755859375,
             "high": 1255,
             "low": 1136.31005859375,
-            "close": 1192.06005859375
+            "close": 1213.56005859375
           }
         ]
       },
@@ -4921,11 +4932,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "SMCI",
         "name": "Supermicro",
         "market": "US",
-        "price": 31.93,
+        "price": 31.68,
         "currency": "USD",
-        "changePct": -10.258572231590778,
+        "changePct": -10.96121416526138,
         "previousClose": 35.58,
-        "marketTime": "2026-06-25T15:44:26.000Z",
+        "marketTime": "2026-06-25T20:00:00.000Z",
         "closes": [
           37.099998474121094,
           38.189998626708984,
@@ -4948,7 +4959,7 @@ window.__DASHBOARD_DATA__ = {
           35.459999084472656,
           33.31999969482422,
           32.45000076293945,
-          31.93000030517578
+          31.68000030517578
         ],
         "candles": [
           {
@@ -5102,8 +5113,8 @@ window.__DASHBOARD_DATA__ = {
             "date": "2026-06-25T13:30:00.000Z",
             "open": 33.34000015258789,
             "high": 33.68000030517578,
-            "low": 31.415000915527344,
-            "close": 31.93000030517578
+            "low": 31.359399795532227,
+            "close": 31.68000030517578
           }
         ]
       },
@@ -5137,7 +5148,8 @@ window.__DASHBOARD_DATA__ = {
           354000,
           353500,
           310000,
-          340500
+          340500,
+          358500
         ],
         "candles": [
           {
@@ -5286,6 +5298,13 @@ window.__DASHBOARD_DATA__ = {
             "high": 341000,
             "low": 314000,
             "close": 340500
+          },
+          {
+            "date": "2026-06-25T00:00:00.000Z",
+            "open": 359500,
+            "high": 362500,
+            "low": 352000,
+            "close": 358500
           }
         ]
       },
@@ -5319,7 +5338,8 @@ window.__DASHBOARD_DATA__ = {
           2764000,
           2919000,
           2555000,
-          2621000
+          2621000,
+          2917000
         ],
         "candles": [
           {
@@ -5468,6 +5488,13 @@ window.__DASHBOARD_DATA__ = {
             "high": 2703000,
             "low": 2453000,
             "close": 2621000
+          },
+          {
+            "date": "2026-06-25T00:00:00.000Z",
+            "open": 2865000,
+            "high": 2987000,
+            "low": 2749000,
+            "close": 2917000
           }
         ]
       }
@@ -5476,11 +5503,11 @@ window.__DASHBOARD_DATA__ = {
       {
         "symbol": "^IXIC",
         "name": "Nasdaq Composite",
-        "price": 25391.52,
+        "price": 25358.604,
         "currency": "USD",
-        "changePct": -3.6154383716653213,
+        "changePct": -3.740385370921701,
         "previousClose": 26343.97,
-        "marketTime": "2026-06-25T15:44:21.000Z",
+        "marketTime": "2026-06-25T21:15:59.000Z",
         "closes": [
           26656.1796875,
           26674.73046875,
@@ -5503,7 +5530,7 @@ window.__DASHBOARD_DATA__ = {
           26166.599609375,
           25587.0390625,
           25476.640625,
-          25391.51953125
+          25358.603515625
         ],
         "candles": [
           {
@@ -5658,18 +5685,18 @@ window.__DASHBOARD_DATA__ = {
             "open": 25724.779296875,
             "high": 25724.779296875,
             "low": 25123.42578125,
-            "close": 25391.51953125
+            "close": 25358.603515625
           }
         ]
       },
       {
         "symbol": "^SOX",
         "name": "PHLX Semiconductor",
-        "price": 13800.572,
+        "price": 13940.87,
         "currency": "USD",
-        "changePct": 13.095896428120696,
+        "changePct": 14.2456406616983,
         "previousClose": 12202.54,
-        "marketTime": "2026-06-25T15:44:26.000Z",
+        "marketTime": "2026-06-25T21:15:59.000Z",
         "closes": [
           12876.91015625,
           12702.1904296875,
@@ -5692,7 +5719,7 @@ window.__DASHBOARD_DATA__ = {
           14634.7197265625,
           13482.509765625,
           13458.2001953125,
-          13800.572265625
+          13940.8701171875
         ],
         "candles": [
           {
@@ -5847,18 +5874,18 @@ window.__DASHBOARD_DATA__ = {
             "open": 14156.4345703125,
             "high": 14194.6767578125,
             "low": 13379.943359375,
-            "close": 13800.572265625
+            "close": 13940.8701171875
           }
         ]
       },
       {
         "symbol": "^GSPC",
         "name": "S&P 500",
-        "price": 7376.47,
+        "price": 7357.49,
         "currency": "USD",
-        "changePct": -1.2979245250198368,
+        "changePct": -1.5518895506371266,
         "previousClose": 7473.47,
-        "marketTime": "2026-06-25T15:44:26.000Z",
+        "marketTime": "2026-06-25T20:46:21.000Z",
         "closes": [
           7519.1201171875,
           7520.35986328125,
@@ -5881,7 +5908,7 @@ window.__DASHBOARD_DATA__ = {
           7472.7900390625,
           7365.4599609375,
           7358.22021484375,
-          7376.47021484375
+          7357.490234375
         ],
         "candles": [
           {
@@ -6036,7 +6063,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 7404.91015625,
             "high": 7419.080078125,
             "low": 7323.5,
-            "close": 7376.47021484375
+            "close": 7357.490234375
           }
         ]
       },
@@ -6214,9 +6241,9 @@ window.__DASHBOARD_DATA__ = {
           },
           {
             "date": "2026-06-24T00:00:00.000Z",
-            "open": 8471.01953125,
-            "high": 8471.01953125,
-            "low": 8471.01953125,
+            "open": 8356.7900390625,
+            "high": 8577.51953125,
+            "low": 8080.990234375,
             "close": 8471.01953125
           }
         ]
@@ -6403,14 +6430,14 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-06-25T15:44:28.054Z"
+    "generatedAt": "2026-06-25T23:42:22.370Z"
   },
   "briefing": {
     "date": "2026년 6월 26일 금요일",
     "summary": [
       "오늘의 최상위 이슈: 메가존클라우드, 과기정통부 국산 AI반도체 실증 인프라 구축 참가 - v.daum.net",
-      "강한 기술·시장 신호: NPU 33, AI인프라 38, 데이터센터 9, 온디바이스AI 9, 추론 9",
-      "주요 기업 신호: 퓨리오사AI 19, 리벨리온 13, 딥엑스 8, 하이퍼엑셀 2, 모빌린트 1"
+      "강한 기술·시장 신호: NPU 31, AI인프라 32, 데이터센터 12, 온디바이스AI 5, 추론 13",
+      "주요 기업 신호: 퓨리오사AI 15, 리벨리온 12, 딥엑스 8, 하이퍼엑셀 2, 모빌린트 1"
     ],
     "leadArticles": [
       {
@@ -6454,28 +6481,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 35
       },
       {
-        "title": "qBraid Integrates NVIDIA CUDA-Q Remote Targets, Expands GPU Fleet, and Deploys Google Cloud AlphaEvolve for Error Correction - Quantum Computing Report",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORnUyV3BRa3cwUlBzdFdNcTVEQnhuWUI5Y2dLSGVCLTdIanBNa3RQM1kxb1RhVUJHaDdldnE2bF80MlBHQWExanhKMmMyN2sxb2xHVk5GQW1aUm5NSkkxaFhaVzJIeGt3LXh1Vkl3cEUxV3FaN0dzVXEtblVCZnhRMXZDMDJfeUtpSUhRcy1CazJHUWhrN0RHUGNLUDN4VG5aVnYyUkw2LVFmVVl4dmQ2cUJRcEFRRDF0bDREN1VjNTJIclpKZnFLWEFfVGZFcFpBUzAwTnVlNl9GeWpMUk9XWUZhQjNPWER5aEtlYUZ6RdIB9AFBVV95cUxPa3Brb2s4LU90MVRySmxEWnhOV1BILXJYZnF1VnZsQ1dteTJoNTRtNmFxTENOanNsT1NPNVJYX29JUVNXd3kycDJub1dVOGNuV0xpUzZPY2o5SldiY2pxVVRya2JVaTdJSllJcWdyZ2VoQ21EQ2V3VEdLQ2hBMlhhdXA5WjdtSEpEc2stNm1MUXBRbWFXMkhuaFBRdVM1ckpxSkYzOEtnTHJ2aUxWM2o2NEFNMWFtcGZXc01ZOS0yWUxNc1BCUk9OZWo4Wlo5RlVoQVdSY1hIT1d2MTJzanNadEY5XzhSaHNQek5xZ0dOMXJSODVq?oc=5",
-        "publishedAt": "Wed, 24 Jun 2026 14:59:58 GMT",
-        "summary": "qBraid Integrates NVIDIA CUDA-Q Remote Targets, Expands GPU Fleet, and Deploys Google Cloud AlphaEvolve for Error Correction &nbsp;&nbsp; Quantum Computing Report",
-        "outlet": "Quantum Computing Report",
-        "outletUrl": "https://quantumcomputingreport.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 33
-      },
-      {
         "title": "퓨리오사AI·리벨리온·딥엑스, 실증 넘어 양산 경쟁 본격화···사업화 시험대 - 시사저널e",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zMENyNWNrT3k5UFJoSzhndUZTQWY1TC1NOHlsbVlCS09WS3FfVXUydnI3Yi0tODNJTkVNck51eTBMeFg0V2FpRnBvdHM4aFcyN2V4akdYWDAxWUZ5TE1SX3g2U1FJMTc0OFJBRmlUZExSd9IBdkFVX3lxTE9rR204RVVtcXVXNWVFYTJoN1doNGRpbXR3NDk1MjFEbmUtSk1SandBa1M1Wm9TUDQtVVViTHpPRTk4bmx1NFNxei1HRmJ1ZUR6aUZXc0dLeUlCR2JSQmJiRHp5ckplQTFyMnBJTjNvUFBadjFndVE?oc=5",
         "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
@@ -6506,7 +6511,7 @@ window.__DASHBOARD_DATA__ = {
         "summary": "퓨리오사AI-리벨리온, 국민성장펀드 'K-엔비디아' 유력 &nbsp;&nbsp; 디일렉",
         "outlet": "디일렉",
         "outletUrl": "https://www.thelec.kr",
-        "source": "퓨리오사AI",
+        "source": "리벨리온",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
@@ -6524,9 +6529,30 @@ window.__DASHBOARD_DATA__ = {
         "score": 33
       },
       {
+        "title": "Battle of the Artificial Intelligence (AI) Computing Companies: Is AMD, Broadcom, Nvidia, or Marvell the Best Stock to Buy Now? - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2g2Z040cXhzcGd6YTRpVDRDWEJIMWxFRHRIckZQSXZycU9SYzdsWGRXQVNqcHR3RVRJX3h4dUx4LWppblBmV3B4S1VIOUUzRU5lQ3Bjd1dsV0RTYmxQaks2N1lDMUlrYVRjSmpxalVRazZUWFFpY3AxMmllMXpUd3VrMTlQUWZodWI5ZFdTUzFfVko5bjdDZnI3TzcyMloxUm83NWFPVXRrVkU?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 20:37:00 GMT",
+        "summary": "Battle of the Artificial Intelligence (AI) Computing Companies: Is AMD, Broadcom, Nvidia, or Marvell the Best Stock to Buy Now? &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "AMD",
+          "Broadcom"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 32
+      },
+      {
         "title": "[게시판] 메가존클라우드, NIPA 국산 AI 반도체 인프라 실증 사업 참여 등 단신 - AI타임스",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OUxSSFh2T1pPZm5NNmJHVDRQRlY4T05vRW41dmg3ZVFKSjhGZ3F3NUR1eVNxdkI2WUxiY1AzQmpJclJ0OFNSRm1YdEc4YzFMZ1pMblJiSHQwM19KZUJkQVY5YlJhZ3VvMnc?oc=5",
-        "publishedAt": "Thu, 25 Jun 2026 09:46:33 GMT",
+        "publishedAt": "Thu, 25 Jun 2026 08:00:00 GMT",
         "summary": "[게시판] 메가존클라우드, NIPA 국산 AI 반도체 인프라 실증 사업 참여 등 단신 &nbsp;&nbsp; AI타임스",
         "outlet": "AI타임스",
         "outletUrl": "https://www.aitimes.com",
@@ -6603,25 +6629,25 @@ window.__DASHBOARD_DATA__ = {
         "score": 32
       },
       {
-        "title": "가비아, 고성능 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU로 AI 추론 지원 - 테크월드",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wTHVidVZJYlduVlROOHZ1N2VGTlBiaHVscjZxQkVwWlBTcTVSb01xYTFlbjRfWE9nd0xUMXpseVZzaHFIS3M4TzZUbklIS0tDZ0RDZm1SMjB2RWxfbHVpUnZWUDhNZzY4?oc=5",
-        "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "가비아, 고성능 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU로 AI 추론 지원 &nbsp;&nbsp; 테크월드",
-        "outlet": "테크월드",
-        "outletUrl": "https://www.epnc.co.kr",
-        "source": "리벨리온",
+        "title": "엔비디아, 로컬 AI 위한 구글 딥마인드 디퓨전젬마 가속화 > 뉴스 - 브레인박스",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdml1RjFVU21XcWN2cktKNWdyQS00N0tmZjJXUW8tUDJrWjJvVkFvdTJHUGdYV3NBWU1mbUNRbTgwdkRGSDRQRGdHMjczclFyVXBHUTFTRmNSa0VBOTdtalFYa2c5dnN6N01ldWlnWHplWnJFOTBHak4yekZZbzFManExSHpIMmNn?oc=5",
+        "publishedAt": "Thu, 25 Jun 2026 10:41:57 GMT",
+        "summary": "엔비디아, 로컬 AI 위한 구글 딥마인드 디퓨전젬마 가속화 > 뉴스 &nbsp;&nbsp; 브레인박스",
+        "outlet": "브레인박스",
+        "outletUrl": "https://www.brainbox.co.kr",
+        "source": "해외 빅테크 국내 보도",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
-          "리벨리온"
+          "NVIDIA",
+          "Google",
+          "DeepMind"
         ],
         "taxonomyHits": [
-          "정책",
-          "NPU",
-          "추론",
-          "리벨리온"
+          "NVIDIA",
+          "Google"
         ],
-        "issueCategory": "NPU",
+        "issueCategory": "NVIDIA",
         "score": 31
       }
     ],
@@ -6629,27 +6655,27 @@ window.__DASHBOARD_DATA__ = {
       "technologies": [
         [
           "NPU",
-          33
+          31
         ],
         [
           "AI인프라",
-          38
+          32
         ],
         [
           "데이터센터",
-          9
+          12
         ],
         [
           "온디바이스AI",
-          9
+          5
         ],
         [
           "추론",
-          9
+          13
         ],
         [
           "AI에이전트",
-          9
+          11
         ],
         [
           "파운드리·패키징",
@@ -6659,11 +6685,11 @@ window.__DASHBOARD_DATA__ = {
       "companies": [
         [
           "퓨리오사AI",
-          19
+          15
         ],
         [
           "리벨리온",
-          13
+          12
         ],
         [
           "딥엑스",
@@ -6679,31 +6705,31 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          86
+          94
         ],
         [
           "Google",
-          30
+          33
+        ],
+        [
+          "Gemini",
+          12
+        ],
+        [
+          "AMD",
+          8
         ],
         [
           "Broadcom",
           5
         ],
         [
-          "Gemini",
-          5
-        ],
-        [
           "DeepMind",
-          4
-        ],
-        [
-          "AMD",
-          2
+          3
         ],
         [
           "TPU",
-          1
+          2
         ]
       ]
     },
@@ -6794,11 +6820,11 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          52
+          53
         ],
         [
           "NPU",
-          49
+          43
         ],
         [
           "정책",
@@ -6806,11 +6832,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "국내 기사",
-          82
+          87
         ],
         [
           "해외 기사",
-          98
+          93
         ]
       ],
       "sections": [
