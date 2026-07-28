@@ -475,36 +475,47 @@ async function getCached(key, loader) {
   return value;
 }
 
+const fetchHeaders = {
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36 AI-Processor-Daily-Desk/1.0",
+  accept: "application/rss+xml, application/xml, text/xml, application/json, text/plain, */*",
+};
+
+function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 async function fetchText(url) {
-  try {
-    const response = await fetch(url, {
-      headers: {
-        "user-agent": "AI-Chip-Intelligence/1.0 (+local strategy dashboard)",
-        accept: "application/rss+xml, application/xml, text/xml, application/json, text/plain, */*",
-      },
-    });
-    if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
-    return response.text();
-  } catch (error) {
-    if (process.platform !== "win32") throw error;
-    const script = [
-      "$ProgressPreference = 'SilentlyContinue'",
-      "[Console]::OutputEncoding = [System.Text.Encoding]::UTF8",
-      "$response = Invoke-WebRequest -UseBasicParsing -Uri $env:AI_CHIP_FETCH_URL -TimeoutSec 25",
-      "$response.Content",
-    ].join("; ");
-    const { stdout } = await execFileAsync(
-      "powershell.exe",
-      ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command", script],
-      {
-        env: { ...process.env, AI_CHIP_FETCH_URL: url },
-        timeout: 35000,
-        maxBuffer: 1024 * 1024 * 12,
-        windowsHide: true,
-      },
-    );
-    return stdout;
+  let lastError;
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    try {
+      const response = await fetch(url, { headers: fetchHeaders });
+      if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+      return response.text();
+    } catch (error) {
+      lastError = error;
+      if (attempt < 2) await delay(700 * (attempt + 1));
+    }
   }
+
+  if (process.platform !== "win32") throw lastError;
+  const script = [
+    "$ProgressPreference = 'SilentlyContinue'",
+    "[Console]::OutputEncoding = [System.Text.Encoding]::UTF8",
+    "$headers = @{ 'User-Agent' = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36 AI-Processor-Daily-Desk/1.0'; 'Accept' = 'application/rss+xml, application/xml, text/xml, application/json, text/plain, */*' }",
+    "$response = Invoke-WebRequest -UseBasicParsing -Uri $env:AI_CHIP_FETCH_URL -Headers $headers -TimeoutSec 25",
+    "$response.Content",
+  ].join("; ");
+  const { stdout } = await execFileAsync(
+    "powershell.exe",
+    ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command", script],
+    {
+      env: { ...process.env, AI_CHIP_FETCH_URL: url },
+      timeout: 35000,
+      maxBuffer: 1024 * 1024 * 12,
+      windowsHide: true,
+    },
+  );
+  return stdout;
 }
 
 function parseRss(xml, source) {
