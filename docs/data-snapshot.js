@@ -3651,7 +3651,34 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       }
     ],
-    "errors": []
+    "errors": [
+      "이번 자동 수집에서 Google News RSS가 모두 실패해 이전 정상 뉴스 180건을 유지했습니다.",
+      "AI 시장 전체: 503 Service Unavailable",
+      "AI 시장·비즈니스: 503 Service Unavailable",
+      "AI 투자·자본시장: 503 Service Unavailable",
+      "AI 서비스·클라우드: 503 Service Unavailable",
+      "NVIDIA 이슈: 503 Service Unavailable",
+      "Google AI 이슈: 503 Service Unavailable",
+      "해외 빅테크 국내 보도: 503 Service Unavailable",
+      "해외 AI반도체: 503 Service Unavailable",
+      "해외 정책·투자: 503 Service Unavailable",
+      "국내 NPU 기업: 503 Service Unavailable",
+      "리벨리온: 503 Service Unavailable",
+      "퓨리오사AI: 503 Service Unavailable",
+      "하이퍼엑셀: 503 Service Unavailable",
+      "하이퍼엑셀 확장: 503 Service Unavailable",
+      "HyperAccel global: 503 Service Unavailable",
+      "딥엑스: 503 Service Unavailable",
+      "모빌린트: 503 Service Unavailable",
+      "모빌린트 확장: 503 Service Unavailable",
+      "Mobilint global: 503 Service Unavailable",
+      "국내 AI 시장: 503 Service Unavailable",
+      "국내 AI 정책: 503 Service Unavailable",
+      "NIPA·과기정통부 정책: 503 Service Unavailable",
+      "과기정통부 AI반도체: 503 Service Unavailable",
+      "NIPA AI반도체: 503 Service Unavailable",
+      "AI반도체 공공사업: 503 Service Unavailable"
+    ]
   },
   "market": {
     "equities": [
@@ -6623,7 +6650,7 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-08-09T03:06:56.841Z"
+    "generatedAt": "2026-08-09T05:15:22.286Z"
   },
   "briefing": {
     "date": "2026년 8월 9일 일요일",
