@@ -30,7 +30,11 @@ npm.cmd run build:data
 
 이 저장소를 GitHub에 올린 뒤 Pages 설정에서 배포 소스를 `main` 브랜치의 `/docs` 폴더로 지정하면 정적 대시보드로 열 수 있습니다.
 
-포함된 GitHub Actions 워크플로우 [build-pages-data.yml](./.github/workflows/build-pages-data.yml)은 매일 한국시간 오전 7시쯤 뉴스·시황 데이터를 갱신해 `public`과 `docs`의 스냅샷 데이터를 커밋하도록 구성되어 있습니다.
+포함된 GitHub Actions 워크플로우 [build-pages-data.yml](./.github/workflows/build-pages-data.yml)은 한국시간 기준 07:10, 10:10, 13:10, 16:10, 19:10, 22:10에 뉴스·시황 데이터를 갱신해 `public`과 `docs`의 스냅샷 데이터를 커밋하도록 구성되어 있습니다.
+
+## 아키텍처
+
+데이터 수집, 정적 스냅샷 생성, GitHub Pages 배포, 장애 대응 구조는 [ARCHITECTURE.md](./ARCHITECTURE.md)에 정리되어 있습니다.
 
 ## 제공 기능
 
