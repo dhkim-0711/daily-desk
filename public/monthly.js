@@ -13,6 +13,11 @@ const monthlyStyles = `
   .monthly-document li { margin:6px 0; }
   .monthly-document blockquote { margin:0 0 24px; padding:14px 18px; border-left:4px solid rgba(15,23,42,.22); border-radius:8px; background:rgba(15,23,42,.035); color:var(--muted, #64748b); }
   .monthly-document code { padding:2px 5px; border-radius:5px; background:rgba(15,23,42,.06); font-size:.92em; }
+  .monthly-document a { color:inherit; text-decoration:underline; text-underline-offset:3px; }
+  .monthly-document .footnote-ref { margin-left:2px; font-size:.75em; vertical-align:super; }
+  .monthly-document .footnote-ref a { text-decoration:none; font-weight:800; }
+  .monthly-document .footnote-item { margin:7px 0; padding:7px 10px; border-radius:8px; background:rgba(15,23,42,.035); font-size:13px; color:var(--muted,#64748b); }
+  .monthly-document .footnote-item sup { display:inline-block; min-width:24px; color:inherit; font-weight:800; }
   .monthly-empty { padding:48px 20px; text-align:center; color:var(--muted, #64748b); }
   @media (max-width: 720px) { .monthly-document { padding:24px 20px; } .monthly-document h1 { font-size:25px; } }
 `;
@@ -26,7 +31,7 @@ function installMonthlyStyles() {
 }
 
 function escapeHtml(value = "") {
-  return value
+  return String(value)
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
     .replaceAll(">", "&gt;")
@@ -38,6 +43,8 @@ function inlineMarkdown(text = "") {
   let value = escapeHtml(text);
   value = value.replace(/`([^`]+)`/g, "<code>$1</code>");
   value = value.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+  value = value.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noreferrer">$1</a>');
+  value = value.replace(/\[\^([^\]]+)\]/g, '<sup class="footnote-ref"><a href="#fn-$1">[$1]</a></sup>');
   return value;
 }
 
@@ -48,13 +55,7 @@ function renderMarkdown(markdown = "") {
   let inQuote = false;
   let quoteLines = [];
 
-  const closeList = () => {
-    if (inList) {
-      html.push("</ul>");
-      inList = false;
-    }
-  };
-
+  const closeList = () => { if (inList) { html.push("</ul>"); inList = false; } };
   const closeQuote = () => {
     if (inQuote) {
       html.push(`<blockquote>${quoteLines.map(inlineMarkdown).join("<br>")}</blockquote>`);
@@ -66,49 +67,38 @@ function renderMarkdown(markdown = "") {
   for (const rawLine of lines) {
     const line = rawLine.trimEnd();
     const trimmed = line.trim();
-
     if (trimmed.startsWith(">")) {
       closeList();
       inQuote = true;
       quoteLines.push(trimmed.replace(/^>\s?/, ""));
       continue;
     }
-
     closeQuote();
+    if (!trimmed) { closeList(); continue; }
 
-    if (!trimmed) {
-      closeList();
-      continue;
-    }
-
+    const footnote = trimmed.match(/^\[\^([^\]]+)\]:\s*(.+)/);
     const h3 = trimmed.match(/^###\s+(.+)/);
     const h2 = trimmed.match(/^##\s+(.+)/);
     const h1 = trimmed.match(/^#\s+(.+)/);
     const bullet = trimmed.match(/^[-*]\s+(.+)/);
 
-    if (h3) {
+    if (footnote) {
       closeList();
-      html.push(`<h3>${inlineMarkdown(h3[1])}</h3>`);
+      html.push(`<p class="footnote-item" id="fn-${escapeHtml(footnote[1])}"><sup>[${escapeHtml(footnote[1])}]</sup>${inlineMarkdown(footnote[2])}</p>`);
+    } else if (h3) {
+      closeList(); html.push(`<h3>${inlineMarkdown(h3[1])}</h3>`);
     } else if (h2) {
-      closeList();
-      html.push(`<h2>${inlineMarkdown(h2[1])}</h2>`);
+      closeList(); html.push(`<h2>${inlineMarkdown(h2[1])}</h2>`);
     } else if (h1) {
-      closeList();
-      html.push(`<h1>${inlineMarkdown(h1[1])}</h1>`);
+      closeList(); html.push(`<h1>${inlineMarkdown(h1[1])}</h1>`);
     } else if (bullet) {
-      if (!inList) {
-        html.push("<ul>");
-        inList = true;
-      }
+      if (!inList) { html.push("<ul>"); inList = true; }
       html.push(`<li>${inlineMarkdown(bullet[1])}</li>`);
     } else if (!trimmed.startsWith("<!--")) {
-      closeList();
-      html.push(`<p>${inlineMarkdown(trimmed)}</p>`);
+      closeList(); html.push(`<p>${inlineMarkdown(trimmed)}</p>`);
     }
   }
-
-  closeQuote();
-  closeList();
+  closeQuote(); closeList();
   return html.join("\n");
 }
 
@@ -116,7 +106,6 @@ function ensureMonthlyView() {
   const nav = document.querySelector(".view-tabs");
   const main = document.querySelector("main");
   if (!nav || !main) return null;
-
   document.querySelector('[data-view="policy"]')?.remove();
   document.querySelector('[data-view="review"]')?.remove();
 
@@ -138,23 +127,14 @@ function ensureMonthlyView() {
     view.innerHTML = `
       <section class="section-band">
         <div class="monthly-head">
-          <div>
-            <p class="eyebrow">Monthly Intelligence</p>
-            <h2>월간 정책 인사이트</h2>
-          </div>
+          <div><p class="eyebrow">Monthly Intelligence</p><h2>월간 정책 인사이트</h2></div>
           <div class="monthly-controls">
-            <label>
-              <span>분석 월</span>
-              <select id="monthlySelect" aria-label="월간 분석 월 선택"></select>
-            </label>
+            <label><span>분석 월</span><select id="monthlySelect" aria-label="월간 분석 월 선택"></select></label>
             <span id="monthlyStatus" class="monthly-status">불러오는 중</span>
           </div>
         </div>
-        <article id="monthlyDocument" class="monthly-document">
-          <div class="monthly-empty">월간 분석을 불러오는 중입니다.</div>
-        </article>
-      </section>
-    `;
+        <article id="monthlyDocument" class="monthly-document"><div class="monthly-empty">월간 분석을 불러오는 중입니다.</div></article>
+      </section>`;
     main.appendChild(view);
   }
 
@@ -164,7 +144,6 @@ function ensureMonthlyView() {
     tab.classList.add("active");
     view.classList.add("active");
   });
-
   return view;
 }
 
@@ -172,15 +151,12 @@ async function loadMonthlyReport(entry) {
   const doc = document.getElementById("monthlyDocument");
   const status = document.getElementById("monthlyStatus");
   if (!doc || !status || !entry) return;
-
   status.textContent = entry.status || "월간 분석";
   doc.innerHTML = '<div class="monthly-empty">월간 분석을 불러오는 중입니다.</div>';
-
   try {
     const response = await fetch(`reports/monthly/${entry.file}?v=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const markdown = await response.text();
-    doc.innerHTML = renderMarkdown(markdown);
+    doc.innerHTML = renderMarkdown(await response.text());
   } catch (error) {
     console.error("Monthly report load failed", error);
     doc.innerHTML = '<div class="monthly-empty">월간 분석 파일을 불러오지 못했습니다.</div>';
@@ -192,27 +168,20 @@ async function initMonthlyReports() {
   installMonthlyStyles();
   const view = ensureMonthlyView();
   if (!view) return;
-
   const select = document.getElementById("monthlySelect");
   const status = document.getElementById("monthlyStatus");
-
   try {
     const response = await fetch(`reports/monthly/index.json?v=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
     const reports = Array.isArray(data) ? data : (data.reports || []);
-
     if (!reports.length) {
       select.innerHTML = '<option value="">등록된 월간 분석 없음</option>';
       status.textContent = "자료 없음";
       return;
     }
-
     reports.sort((a, b) => String(b.month).localeCompare(String(a.month)));
-    select.innerHTML = reports.map((entry, index) =>
-      `<option value="${index}">${escapeHtml(entry.label || entry.month || entry.title)}</option>`
-    ).join("");
-
+    select.innerHTML = reports.map((entry, index) => `<option value="${index}">${escapeHtml(entry.label || entry.month || entry.title)}</option>`).join("");
     const showSelected = () => loadMonthlyReport(reports[Number(select.value) || 0]);
     select.addEventListener("change", showSelected);
     select.value = "0";
@@ -224,8 +193,5 @@ async function initMonthlyReports() {
   }
 }
 
-if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", initMonthlyReports, { once: true });
-} else {
-  initMonthlyReports();
-}
+if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", initMonthlyReports, { once: true });
+else initMonthlyReports();
