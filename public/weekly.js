@@ -4,7 +4,7 @@ const weeklyAnalysisStyles = `
   .weekly-analysis-controls label { display:grid; gap:6px; font-size:12px; color:var(--muted,#64748b); }
   .weekly-analysis-controls select { min-width:220px; padding:10px 12px; border:1px solid rgba(15,23,42,.14); border-radius:10px; background:#fff; color:inherit; }
   .weekly-analysis-status { display:inline-flex; align-items:center; min-height:30px; padding:5px 10px; border-radius:999px; background:rgba(15,23,42,.06); font-size:12px; font-weight:700; }
-  .weekly-analysis-document { max-width:980px; margin:22px auto 0; padding:36px 42px; border:1px solid rgba(15,23,42,.08); border-radius:18px; background:#fff; box-shadow:0 18px 45px rgba(15,23,42,.06); line-height:1.8; }
+  .weekly-analysis-document { width:100%; max-width:none; margin:22px 0 0; padding:36px 42px; border:1px solid rgba(15,23,42,.08); border-radius:18px; background:#fff; box-shadow:0 18px 45px rgba(15,23,42,.06); line-height:1.8; }
   .weekly-analysis-document h1 { margin:0 0 24px; font-size:28px; line-height:1.35; letter-spacing:-.03em; }
   .weekly-analysis-document h2 { margin:34px 0 14px; padding-top:8px; border-top:1px solid rgba(15,23,42,.08); font-size:21px; line-height:1.45; }
   .weekly-analysis-document h3 { margin:22px 0 10px; font-size:17px; line-height:1.45; }
