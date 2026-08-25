@@ -43,7 +43,7 @@ function inlineMarkdown(text = "") {
   let value = escapeHtml(text);
   value = value.replace(/`([^`]+)`/g, "<code>$1</code>");
   value = value.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
-  value = value.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noreferrer">$1</a>');
+  value = value.replace(/\[(.+?)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noreferrer">$1</a>');
   value = value.replace(/\[\^([^\]]+)\]/g, '<sup class="footnote-ref"><a href="#fn-$1">[$1]</a></sup>');
   return value;
 }
