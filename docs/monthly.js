@@ -4,7 +4,7 @@ const monthlyStyles = `
   .monthly-controls label { display:grid; gap:6px; font-size:12px; color:var(--muted, #6b7280); }
   .monthly-controls select { min-width:180px; padding:10px 12px; border:1px solid rgba(15,23,42,.14); border-radius:10px; background:#fff; color:inherit; }
   .monthly-status { display:inline-flex; align-items:center; min-height:30px; padding:5px 10px; border-radius:999px; background:rgba(15,23,42,.06); font-size:12px; font-weight:700; }
-  .monthly-document { max-width:980px; margin:22px auto 0; padding:36px 42px; border:1px solid rgba(15,23,42,.08); border-radius:18px; background:#fff; box-shadow:0 18px 45px rgba(15,23,42,.06); line-height:1.8; }
+  .monthly-document { width:100%; max-width:none; margin:22px 0 0; padding:36px 42px; border:1px solid rgba(15,23,42,.08); border-radius:18px; background:#fff; box-shadow:0 18px 45px rgba(15,23,42,.06); line-height:1.8; }
   .monthly-document h1 { margin:0 0 24px; font-size:30px; line-height:1.3; letter-spacing:-.03em; }
   .monthly-document h2 { margin:38px 0 14px; padding-top:8px; border-top:1px solid rgba(15,23,42,.08); font-size:22px; line-height:1.4; }
   .monthly-document h3 { margin:24px 0 10px; font-size:18px; line-height:1.45; }
