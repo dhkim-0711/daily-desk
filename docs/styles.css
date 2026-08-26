@@ -1435,3 +1435,23 @@ select:focus {
   border-color: #0b2e4f;
   color: #0b2e4f;
 }
+
+
+/* Use dark gray for issue labels and category headings. */
+.brief-line span,
+.issue-title,
+.issue-head .chip,
+.issue-head .chip.pale {
+  color: #3f4750;
+}
+
+.issue-title:hover {
+  color: #24292f;
+  text-decoration: none;
+}
+
+.issue-head .chip,
+.issue-head .chip.pale {
+  border-color: #d0d7de;
+  background: #f6f8fa;
+}
