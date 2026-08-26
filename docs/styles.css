@@ -1130,3 +1130,213 @@ select {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* GitHub-inspired dashboard theme: Primer-like neutral surfaces and action colors. */
+:root {
+  --bg: #f6f8fa;
+  --panel: #ffffff;
+  --panel-soft: #f6f8fa;
+  --ink: #1f2328;
+  --muted: #59636e;
+  --line: #d0d7de;
+  --line-strong: #8c959f;
+  --soft: #f6f8fa;
+  --blue: #0969da;
+  --blue-hover: #0550ae;
+  --blue-soft: #ddf4ff;
+  --up: #cf222e;
+  --down: #0969da;
+  --amber: #9a6700;
+  --warning-bg: #fff8c5;
+  --warning-ink: #4d2d00;
+  --shadow: 0 1px 0 rgba(31, 35, 40, 0.04);
+}
+
+body {
+  background: var(--bg);
+}
+
+.app-shell {
+  width: min(1280px, calc(100% - 32px));
+  padding-top: 16px;
+}
+
+.topbar {
+  align-items: center;
+  padding: 24px 28px;
+  border: 1px solid #1f2328;
+  border-radius: 6px;
+  background: #24292f;
+}
+
+.topbar .eyebrow,
+.topbar .updated-at {
+  color: #8c959f;
+}
+
+.topbar h1 {
+  color: #f0f6fc;
+  font-size: 30px;
+  letter-spacing: -0.02em;
+}
+
+.topbar .toolbar {
+  gap: 14px;
+}
+
+.primary-btn {
+  min-height: 32px;
+  border-color: rgba(31, 35, 40, 0.15);
+  border-radius: 6px;
+  background: #1f883d;
+  color: #ffffff;
+  box-shadow: 0 1px 0 rgba(31, 35, 40, 0.1);
+}
+
+.primary-btn:hover {
+  background: #1a7f37;
+}
+
+.view-tabs {
+  gap: 0;
+  padding: 0 12px;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  border-radius: 0;
+  background: transparent;
+}
+
+.view-tab {
+  min-width: auto;
+  min-height: 48px;
+  padding: 0 18px;
+  border: 0;
+  border-radius: 0;
+  color: #57606a;
+}
+
+.view-tab:hover {
+  background: #f6f8fa;
+  color: var(--ink);
+}
+
+.view-tab.active {
+  border: 0;
+  border-bottom: 2px solid #fd8c73;
+  background: transparent;
+  color: var(--ink);
+  box-shadow: none;
+}
+
+.brief-card,
+.section-band,
+.controls-band,
+.issue-card,
+.market-panel,
+.policy-card,
+.market-card {
+  border-radius: 6px;
+  box-shadow: none;
+}
+
+.brief-card,
+.section-band,
+.controls-band,
+.issue-card,
+.market-panel {
+  border-color: var(--line);
+}
+
+.section-kicker,
+.issue-date,
+.article-meta,
+.updated-at {
+  color: #57606a;
+}
+
+.brief-line:hover,
+.article-row:hover {
+  background: #f6f8fa;
+}
+
+.brief-line strong,
+.issue-title,
+.article-title,
+.policy-title {
+  color: #0969da;
+}
+
+.brief-line:hover strong,
+.issue-title:hover,
+.article-row:hover .article-title,
+.policy-title:hover {
+  color: #0550ae;
+  text-decoration: underline;
+}
+
+.chip,
+.active-tag {
+  border: 1px solid #a5d6ff;
+  border-radius: 999px;
+  background: #ddf4ff;
+  color: #0969da;
+}
+
+.tag-chip:hover,
+.tag-chip.active,
+.filter.active {
+  border-color: #0969da;
+  background: #0969da;
+  color: #ffffff;
+}
+
+input[type="search"],
+select,
+.filter,
+.secondary-btn {
+  border-radius: 6px;
+}
+
+input[type="search"]:focus,
+select:focus {
+  border-color: #0969da;
+  outline: 2px solid rgba(9, 105, 218, 0.25);
+  outline-offset: -1px;
+}
+
+.secondary-btn {
+  color: #24292f;
+  box-shadow: 0 1px 0 rgba(31, 35, 40, 0.04);
+}
+
+.secondary-btn:hover {
+  border-color: #0969da;
+  color: #0969da;
+}
+
+.market-card,
+.policy-card {
+  background: #ffffff;
+}
+
+@media (max-width: 760px) {
+  .app-shell {
+    width: min(100% - 20px, 1280px);
+  }
+
+  .topbar {
+    padding: 20px;
+  }
+
+  .view-tabs {
+    padding: 0;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+  }
+
+  .view-tab {
+    flex: 0 0 auto;
+    padding: 0 14px;
+  }
+}
