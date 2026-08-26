@@ -1387,3 +1387,51 @@ select:focus {
   border-color: #1f4b73;
   color: #1f4b73;
 }
+
+
+/* Deep navy text accent refinement. */
+:root {
+  --blue: #0b2e4f;
+  --blue-hover: #071f36;
+  --blue-soft: #e6edf3;
+}
+
+.brief-line strong,
+.issue-title,
+.article-title,
+.policy-title,
+.chip,
+.active-tag {
+  color: #0b2e4f;
+}
+
+.brief-line:hover strong,
+.issue-title:hover,
+.article-row:hover .article-title,
+.policy-title:hover {
+  color: #071f36;
+}
+
+.chip,
+.active-tag {
+  border-color: #bfcedb;
+  background: #e6edf3;
+}
+
+.tag-chip:hover,
+.tag-chip.active,
+.filter.active {
+  border-color: #0b2e4f;
+  background: #0b2e4f;
+}
+
+input[type="search"]:focus,
+select:focus {
+  border-color: #0b2e4f;
+  outline-color: rgba(11, 46, 79, 0.25);
+}
+
+.secondary-btn:hover {
+  border-color: #0b2e4f;
+  color: #0b2e4f;
+}
