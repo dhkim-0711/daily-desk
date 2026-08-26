@@ -2,6 +2,13 @@ name: Build dashboard data
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/rebuild-news-archive.js"
+      - "scripts/build-static-data.js"
+      - "scripts/patch-archive-ui.js"
+      - ".github/workflows/build-pages-data.yml"
   schedule:
     - cron: "10 22,1,4,7,10,13 * * *"
 
@@ -13,12 +20,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 24
+      - name: Recover historical news archive
+        run: |
+          if [ ! -f docs/data/archive/index.json ]; then
+            node scripts/rebuild-news-archive.js
+          else
+            echo "Historical archive already exists; skipping one-time recovery."
+          fi
+      - name: Patch archive-aware UI
+        run: node scripts/patch-archive-ui.js
       - run: npm run build:data
       - name: Commit refreshed data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Refresh dashboard data"
-          file_pattern: public/data-snapshot.js public/data/dashboard.json docs/data-snapshot.js docs/data/dashboard.json
+          file_pattern: "public/data-snapshot.js public/data/dashboard.json public/data/archive/*.json docs/data-snapshot.js docs/data/dashboard.json docs/data/archive/*.json public/app.js docs/app.js"
