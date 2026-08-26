@@ -8,10 +8,91 @@ const state = {
   search: "",
   view: "briefing",
   policyIdeas: null,
+  archiveMonths: [],
+  archiveLoadedMonths: new Set(),
+  archiveIndexLoaded: false,
+  recentArticleKeys: new Set(),
 };
 
 const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => [...document.querySelectorAll(selector)];
+
+// NEWS_ARCHIVE_UI_V1
+function normalizeArchiveTitle(value = "") {
+  return String(value)
+    .toLowerCase()
+    .replace(/\s+-\s+[^-]+$/, "")
+    .replace(/[^\p{L}\p{N}]+/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function archiveArticleKey(article = {}) {
+  const title = normalizeArchiveTitle(article.title);
+  if (title) return `title:${title}`;
+  if (article.link) return `link:${article.link}`;
+  return `fallback:${article.publishedAt || ""}:${article.outlet || ""}:${article.source || ""}`;
+}
+
+function archiveArticleRichness(article = {}) {
+  return (article.fullSummary?.length || 0) * 3
+    + (article.summary?.length || 0)
+    + (article.taxonomyHits?.length || 0) * 50
+    + (article.companyHits?.length || 0) * 50;
+}
+
+function mergeArchiveArticles(current = [], archived = []) {
+  const map = new Map();
+  for (const article of [...current, ...archived]) {
+    const key = archiveArticleKey(article);
+    const existing = map.get(key);
+    if (!existing) {
+      map.set(key, article);
+      continue;
+    }
+    const primary = archiveArticleRichness(article) > archiveArticleRichness(existing) ? article : existing;
+    const secondary = primary === article ? existing : article;
+    map.set(key, {
+      ...secondary,
+      ...primary,
+      taxonomyHits: [...new Set([...(existing.taxonomyHits || []), ...(article.taxonomyHits || [])])],
+      companyHits: [...new Set([...(existing.companyHits || []), ...(article.companyHits || [])])],
+    });
+  }
+  return [...map.values()];
+}
+
+async function loadArchiveIndex() {
+  if (state.archiveIndexLoaded) return;
+  state.archiveIndexLoaded = true;
+  try {
+    const response = await fetch(`data/archive/index.json?v=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const payload = await response.json();
+    state.archiveMonths = (payload.months || [])
+      .map((entry) => typeof entry === "string" ? entry : entry.month)
+      .filter(Boolean)
+      .sort()
+      .reverse();
+  } catch (error) {
+    console.warn("News archive index is not available yet", error);
+    state.archiveMonths = [];
+  }
+}
+
+async function ensureArchiveMonthLoaded(month) {
+  if (!month || month === "all" || state.archiveLoadedMonths.has(month)) return;
+  try {
+    const response = await fetch(`data/archive/${month}.json?v=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const payload = await response.json();
+    state.data.news.articles = mergeArchiveArticles(state.data.news.articles, payload.articles || []);
+    state.archiveLoadedMonths.add(month);
+  } catch (error) {
+    console.warn(`News archive ${month} could not be loaded`, error);
+  }
+}
+
 
 const issueOrder = [
   "정책",
@@ -310,6 +391,7 @@ function articleContentText(article) {
 
 function articleMatches(article, options = {}) {
   const haystack = articleText(article);
+  if (state.month === "all" && state.recentArticleKeys.size && !state.recentArticleKeys.has(archiveArticleKey(article))) return false;
   if (state.month !== "all" && monthKey(article.publishedAt) !== state.month) return false;
   if (state.date !== "all" && dayKey(article.publishedAt) !== state.date) return false;
   if (state.tag && !haystack.includes(state.tag.toLowerCase())) return false;
@@ -421,16 +503,17 @@ function renderBriefing(data) {
 
 function renderSelectors(data) {
   const articles = data.news.articles;
-  const months = [...new Set(articles.map((article) => monthKey(article.publishedAt)))].filter(Boolean).sort().reverse();
+  const months = [...new Set([...state.archiveMonths, ...articles.map((article) => monthKey(article.publishedAt))])].filter(Boolean).sort().reverse();
   const dateCounts = new Map();
   for (const article of articles) {
+    if (state.month === "all" && state.recentArticleKeys.size && !state.recentArticleKeys.has(archiveArticleKey(article))) continue;
     if (state.month !== "all" && monthKey(article.publishedAt) !== state.month) continue;
     const key = dayKey(article.publishedAt);
     dateCounts.set(key, (dateCounts.get(key) || 0) + 1);
   }
   const dates = calendarDaysForSelection(months);
 
-  $("#monthSelect").innerHTML = [`<option value="all">전체 월</option>`, ...months.map((key) => (
+  $("#monthSelect").innerHTML = [`<option value="all">최근 피드</option>`, ...months.map((key) => (
     `<option value="${key}" ${state.month === key ? "selected" : ""}>${monthLabel(key)}</option>`
   ))].join("");
 
@@ -1297,11 +1380,19 @@ async function loadDashboard(force = false) {
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       state.data = await response.json();
     }
+    state.archiveLoadedMonths.clear();
+    state.archiveIndexLoaded = false;
+    state.recentArticleKeys = new Set((state.data?.news?.articles || []).map(archiveArticleKey));
+    await loadArchiveIndex();
     state.policyIdeas = loadSavedPolicyIdeas(state.data) || state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));
     render();
   } catch (error) {
     if (window.__DASHBOARD_DATA__) {
       state.data = window.__DASHBOARD_DATA__;
+      state.archiveLoadedMonths.clear();
+      state.archiveIndexLoaded = false;
+      state.recentArticleKeys = new Set((state.data?.news?.articles || []).map(archiveArticleKey));
+      await loadArchiveIndex();
       state.policyIdeas = loadSavedPolicyIdeas(state.data) || state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));
       render();
     } else {
@@ -1400,9 +1491,10 @@ $("#searchInput").addEventListener("input", (event) => {
 
 $("#regenPolicyBtn").addEventListener("click", regenerateSelectedPolicies);
 
-$("#monthSelect").addEventListener("change", (event) => {
+$("#monthSelect").addEventListener("change", async (event) => {
   state.month = event.target.value;
   state.date = "all";
+  await ensureArchiveMonthLoaded(state.month);
   render();
 });
 

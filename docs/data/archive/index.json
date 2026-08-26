@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-26T04:32:29.125Z",
+  "recovery": {
+    "source": "git-history",
+    "recoveredAt": "2026-08-26T04:32:26.161Z",
+    "commitsFound": 373,
+    "snapshotsScanned": 373,
+    "articleOccurrences": 66240,
+    "uniqueArticles": 8905
+  },
+  "totalArticles": 8921,
+  "months": [
+    {
+      "month": "2026-08",
+      "file": "2026-08.json",
+      "count": 2878,
+      "newestPublishedAt": "Wed, 26 Aug 2026 04:30:43 GMT",
+      "oldestPublishedAt": "Sat, 01 Aug 2026 00:19:00 GMT"
+    },
+    {
+      "month": "2026-07",
+      "file": "2026-07.json",
+      "count": 3575,
+      "newestPublishedAt": "Fri, 31 Jul 2026 23:39:00 GMT",
+      "oldestPublishedAt": "Wed, 01 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "month": "2026-06",
+      "file": "2026-06.json",
+      "count": 2302,
+      "newestPublishedAt": "Tue, 30 Jun 2026 23:51:49 GMT",
+      "oldestPublishedAt": "Mon, 01 Jun 2026 05:00:56 +0000"
+    },
+    {
+      "month": "2026-05",
+      "file": "2026-05.json",
+      "count": 52,
+      "newestPublishedAt": "Sun, 31 May 2026 07:00:00 GMT",
+      "oldestPublishedAt": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "month": "2026-04",
+      "file": "2026-04.json",
+      "count": 33,
+      "newestPublishedAt": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "oldestPublishedAt": "Thu, 02 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "month": "2026-03",
+      "file": "2026-03.json",
+      "count": 19,
+      "newestPublishedAt": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "oldestPublishedAt": "Sun, 08 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "month": "2026-02",
+      "file": "2026-02.json",
+      "count": 15,
+      "newestPublishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "oldestPublishedAt": "Tue, 03 Feb 2026 09:07:01 +0000"
+    },
+    {
+      "month": "2026-01",
+      "file": "2026-01.json",
+      "count": 11,
+      "newestPublishedAt": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "oldestPublishedAt": "Sun, 04 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "month": "2025-12",
+      "file": "2025-12.json",
+      "count": 6,
+      "newestPublishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "oldestPublishedAt": "Wed, 10 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "month": "2025-08",
+      "file": "2025-08.json",
+      "count": 3,
+      "newestPublishedAt": "Wed, 27 Aug 2025 07:00:00 GMT",
+      "oldestPublishedAt": "Mon, 11 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "month": "2025-07",
+      "file": "2025-07.json",
+      "count": 4,
+      "newestPublishedAt": "Thu, 31 Jul 2025 07:00:00 GMT",
+      "oldestPublishedAt": "Thu, 17 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "month": "2025-06",
+      "file": "2025-06.json",
+      "count": 7,
+      "newestPublishedAt": "Mon, 23 Jun 2025 07:00:00 GMT",
+      "oldestPublishedAt": "Tue, 10 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "month": "2025-05",
+      "file": "2025-05.json",
+      "count": 1,
+      "newestPublishedAt": "Fri, 09 May 2025 07:00:00 GMT",
+      "oldestPublishedAt": "Fri, 09 May 2025 07:00:00 GMT"
+    },
+    {
+      "month": "2025-04",
+      "file": "2025-04.json",
+      "count": 1,
+      "newestPublishedAt": "Wed, 09 Apr 2025 07:00:00 GMT",
+      "oldestPublishedAt": "Wed, 09 Apr 2025 07:00:00 GMT"
+    },
+    {
+      "month": "2025-02",
+      "file": "2025-02.json",
+      "count": 2,
+      "newestPublishedAt": "Thu, 27 Feb 2025 08:00:00 GMT",
+      "oldestPublishedAt": "Thu, 13 Feb 2025 08:00:00 GMT"
+    },
+    {
+      "month": "2024-12",
+      "file": "2024-12.json",
+      "count": 2,
+      "newestPublishedAt": "Mon, 30 Dec 2024 08:00:00 GMT",
+      "oldestPublishedAt": "Sun, 29 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "month": "2024-09",
+      "file": "2024-09.json",
+      "count": 1,
+      "newestPublishedAt": "Fri, 27 Sep 2024 07:00:00 GMT",
+      "oldestPublishedAt": "Fri, 27 Sep 2024 07:00:00 GMT"
+    },
+    {
+      "month": "2024-05",
+      "file": "2024-05.json",
+      "count": 1,
+      "newestPublishedAt": "Thu, 02 May 2024 07:00:00 GMT",
+      "oldestPublishedAt": "Thu, 02 May 2024 07:00:00 GMT"
+    },
+    {
+      "month": "2024-02",
+      "file": "2024-02.json",
+      "count": 1,
+      "newestPublishedAt": "Thu, 29 Feb 2024 08:00:00 GMT",
+      "oldestPublishedAt": "Thu, 29 Feb 2024 08:00:00 GMT"
+    },
+    {
+      "month": "2023-08",
+      "file": "2023-08.json",
+      "count": 1,
+      "newestPublishedAt": "Wed, 30 Aug 2023 07:00:00 GMT",
+      "oldestPublishedAt": "Wed, 30 Aug 2023 07:00:00 GMT"
+    },
+    {
+      "month": "2023-06",
+      "file": "2023-06.json",
+      "count": 2,
+      "newestPublishedAt": "Tue, 27 Jun 2023 07:00:00 GMT",
+      "oldestPublishedAt": "Mon, 26 Jun 2023 07:00:00 GMT"
+    },
+    {
+      "month": "2022-12",
+      "file": "2022-12.json",
+      "count": 4,
+      "newestPublishedAt": "Mon, 12 Dec 2022 08:00:00 GMT",
+      "oldestPublishedAt": "Mon, 12 Dec 2022 08:00:00 GMT"
+    }
+  ]
+}
