@@ -8,6 +8,7 @@ on:
       - "scripts/rebuild-news-archive.js"
       - "scripts/build-static-data.js"
       - "scripts/patch-archive-ui.js"
+      - "scripts/patch-archive-month-selector.js"
       - ".github/workflows/build-pages-data.yml"
   schedule:
     - cron: "10 22,1,4,7,10,13 * * *"
@@ -34,6 +35,8 @@ jobs:
           fi
       - name: Patch archive-aware UI
         run: node scripts/patch-archive-ui.js
+      - name: Keep month selector within collection period
+        run: node scripts/patch-archive-month-selector.js
       - run: npm run build:data
       - name: Commit refreshed data
         uses: stefanzweifel/git-auto-commit-action@v5
