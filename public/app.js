@@ -488,15 +488,28 @@ function renderBriefing(data) {
   const filtered = data.news.articles.filter(articleMatches);
   const groups = groupByIssue(filtered).slice(0, 3);
   const summary = groups.length
-    ? groups.map((group) => ({ issue: group.name, title: group.items[0].title, count: group.items.length }))
-    : data.briefing.summary.map((title) => ({ issue: "", title, count: null }));
+    ? groups.map((group) => ({
+      issue: group.name,
+      title: group.items[0].title,
+      count: group.items.length,
+      link: group.items[0].link || "",
+    }))
+    : data.briefing.summary.map((title) => ({
+      issue: "",
+      title,
+      count: null,
+      link: data.news.articles.find((article) => article.title === title)?.link || "",
+    }));
 
-  $("#summaryList").innerHTML = summary.slice(0, 3).map((item) => `
-    <button class="brief-line" type="button" ${item.issue ? `data-brief-issue="${escapeHtml(item.issue)}"` : ""}>
+  $("#summaryList").innerHTML = summary.slice(0, 3).map((item) => {
+    const content = `
       <span>${item.issue ? `${escapeHtml(item.issue)}${item.count ? ` · ${item.count}건` : ""}` : "요약"}</span>
       <strong>${escapeHtml(item.title)}</strong>
-    </button>
-  `).join("");
+    `;
+    return item.link
+      ? `<a class="brief-line" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">${content}</a>`
+      : `<button class="brief-line" type="button" ${item.issue ? `data-brief-issue="${escapeHtml(item.issue)}"` : ""}>${content}</button>`;
+  }).join("");
   renderChips($("#techSignals"), data.briefing.signals.technologies, 8);
   renderChips($("#companySignals"), data.briefing.signals.companies, 8);
 }
