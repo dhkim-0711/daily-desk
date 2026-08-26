@@ -1340,3 +1340,50 @@ select:focus {
     padding: 0 14px;
   }
 }
+
+
+/* Softer navy accent refinement. */
+:root {
+  --blue: #1f4b73;
+  --blue-hover: #163b5c;
+  --blue-soft: #e9f0f6;
+}
+
+.brief-line strong,
+.issue-title,
+.article-title,
+.policy-title {
+  color: #1f4b73;
+}
+
+.brief-line:hover strong,
+.issue-title:hover,
+.article-row:hover .article-title,
+.policy-title:hover {
+  color: #163b5c;
+}
+
+.chip,
+.active-tag {
+  border-color: #c9d8e5;
+  background: #e9f0f6;
+  color: #1f4b73;
+}
+
+.tag-chip:hover,
+.tag-chip.active,
+.filter.active {
+  border-color: #1f4b73;
+  background: #1f4b73;
+}
+
+input[type="search"]:focus,
+select:focus {
+  border-color: #1f4b73;
+  outline-color: rgba(31, 75, 115, 0.25);
+}
+
+.secondary-btn:hover {
+  border-color: #1f4b73;
+  color: #1f4b73;
+}
