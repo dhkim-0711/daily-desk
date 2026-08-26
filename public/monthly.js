@@ -106,8 +106,6 @@ function ensureMonthlyView() {
   const nav = document.querySelector(".view-tabs");
   const main = document.querySelector("main");
   if (!nav || !main) return null;
-  document.querySelector('[data-view="policy"]')?.remove();
-  document.querySelector('[data-view="review"]')?.remove();
 
   let tab = document.querySelector('[data-view="monthly"]');
   if (!tab) {
