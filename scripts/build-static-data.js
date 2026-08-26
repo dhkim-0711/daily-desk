@@ -170,11 +170,14 @@ async function updateNewsArchive(articles, seenAt) {
 
   const previousIndex = await readArchiveIndex();
   const files = (await readdir(docsArchiveDir)).filter((file) => /^\d{4}-\d{2}\.json$/.test(file));
-  const months = [];
+  const storedMonths = [];
+  let collectionStartedAt = previousIndex?.recovery?.collectionStartedAt || null;
+
   for (const file of files) {
     const payload = JSON.parse(await readFile(join(docsArchiveDir, file), "utf8"));
     const archived = sortArticles(payload.articles || []);
-    months.push({
+    for (const article of archived) collectionStartedAt = minIso(collectionStartedAt, article.firstSeenAt);
+    storedMonths.push({
       month: payload.month || file.replace(/\.json$/, ""),
       file,
       count: archived.length,
@@ -182,13 +185,22 @@ async function updateNewsArchive(articles, seenAt) {
       oldestPublishedAt: archived.at(-1)?.publishedAt || null,
     });
   }
-  months.sort((a, b) => b.month.localeCompare(a.month));
+  storedMonths.sort((a, b) => b.month.localeCompare(a.month));
+
+  const collectionStartMonth = collectionStartedAt ? monthKey(collectionStartedAt) : null;
+  const months = collectionStartMonth
+    ? storedMonths.filter((item) => item.month !== "unknown" && item.month >= collectionStartMonth)
+    : storedMonths.filter((item) => item.month !== "unknown");
+  const recovery = previousIndex?.recovery
+    ? { ...previousIndex.recovery, collectionStartedAt, collectionStartMonth }
+    : { collectionStartedAt, collectionStartMonth };
 
   await writeArchiveMirror("index.json", {
     version: 1,
     updatedAt: seenAt || new Date().toISOString(),
-    ...(previousIndex?.recovery ? { recovery: previousIndex.recovery } : {}),
+    recovery,
     totalArticles: months.reduce((sum, item) => sum + item.count, 0),
+    storedArticles: storedMonths.reduce((sum, item) => sum + item.count, 0),
     months,
   });
   return months;
@@ -207,4 +219,4 @@ await writeFile(join(docsDir, "data-snapshot.js"), `window.__DASHBOARD_DATA__ = 
 
 const archiveMonths = await updateNewsArchive(data.news.articles, data.generatedAt);
 console.log(`Wrote ${data.news.articles.length} recent-feed articles to public/ and docs/ snapshots`);
-console.log(`News archive now spans ${archiveMonths.length} publication months.`);
+console.log(`News archive exposes ${archiveMonths.length} collection-period months.`);
