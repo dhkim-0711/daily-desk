@@ -9,41 +9,72 @@
   <body>
     <div class="app-shell">
       <header class="topbar">
-        <div>
-          <p class="eyebrow">AI Processor Daily Desk</p>
+        <div class="topbar-copy">
+          <p class="eyebrow">AI Semiconductor Intelligence Desk</p>
           <h1>AI반도체 데일리 데스크</h1>
+          <p class="hero-summary">국내외 AI반도체, 정책, 시장 신호를 전략팀 시야로 압축해 보여주는 데일리 브리핑 허브.</p>
+          <div class="hero-badges">
+            <span class="hero-badge">NPU · AI 인프라 · 공급망</span>
+            <span class="hero-badge">시장 · 지수 · 종목 모니터링</span>
+            <span class="hero-badge">정책 아이템 발굴</span>
+          </div>
         </div>
-        <div class="toolbar">
-          <span id="updatedAt" class="updated-at">데이터 대기 중</span>
-          <button id="refreshBtn" class="primary-btn" type="button">새로고침</button>
+        <div class="topbar-meta">
+          <article class="meta-card live-card">
+            <p class="meta-label">Live Desk</p>
+            <strong id="updatedAt" class="updated-at">데이터 대기 중</strong>
+            <p class="meta-note">매일 정해진 슬롯으로 자동 갱신되며, 전략팀용 빠른 스캔에 맞춰 한 화면에 압축됩니다.</p>
+          </article>
+          <div class="toolbar">
+            <div class="meta-pill-group" aria-hidden="true">
+              <span class="meta-pill">국내·해외</span>
+              <span class="meta-pill">정책</span>
+              <span class="meta-pill">Market Pulse</span>
+            </div>
+            <button id="refreshBtn" class="primary-btn" type="button">새로고침</button>
+          </div>
         </div>
       </header>
 
       <nav class="view-tabs" aria-label="대시보드 메뉴">
         <button class="view-tab active" data-view="briefing" type="button">브리핑</button>
-        <button class="view-tab" data-view="market" type="button">경제·주식 시황</button>
+        <button class="view-tab" data-view="policy" type="button">정책 아이템</button>
+        <button class="view-tab" data-view="market" type="button">시장 시황</button>
         <button class="view-tab" data-view="weekly" type="button">주간 이슈</button>
         <button class="view-tab" data-view="monthly" type="button">월간 분석</button>
+        <button class="view-tab" data-view="review" type="button">총평</button>
       </nav>
 
       <main>
         <section id="briefingView" class="view active">
           <section class="brief-layout">
-            <article class="brief-card calm">
+            <article class="brief-card calm briefing-lead">
               <div class="section-kicker">
                 <span>오늘의 브리핑</span>
                 <strong id="briefDate">-</strong>
               </div>
-              <div id="summaryList" class="brief-summary">
-                <div class="skeleton"></div>
-                <div class="skeleton short"></div>
+              <div class="briefing-lead-grid">
+                <div id="summaryList" class="brief-summary">
+                  <div class="skeleton"></div>
+                  <div class="skeleton short"></div>
+                </div>
+                <aside class="brief-aside">
+                  <p class="brief-aside-label">Desk Focus</p>
+                  <h2>한눈에 보는 오늘의 관전 포인트</h2>
+                  <p>AI 인프라 투자, 국산 NPU 사업화, 공공 수요 형성 신호를 빠르게 연결해서 읽을 수 있도록 구성했습니다.</p>
+                  <div class="brief-aside-pills">
+                    <span>이슈 묶음</span>
+                    <span>태그 기반 탐색</span>
+                    <span>전략 총평 연계</span>
+                  </div>
+                </aside>
               </div>
             </article>
 
             <article class="brief-card signal-card">
               <div class="section-kicker">
                 <span>핵심 신호</span>
-                <strong>기술·기업</strong>
+                <strong>기술 · 기업</strong>
               </div>
               <div class="signal-block">
                 <h2>기술</h2>
@@ -150,7 +181,7 @@
       <div id="policyModal" class="modal-backdrop" hidden>
         <section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="policyModalTitle">
           <button id="policyModalClose" class="modal-close" type="button" aria-label="닫기">×</button>
-          <p class="eyebrow">비R&D 기획안 초안</p>
+          <p class="eyebrow">비R&amp;D 기획안 초안</p>
           <h2 id="policyModalTitle"></h2>
           <div id="policyModalBody" class="modal-body"></div>
         </section>
