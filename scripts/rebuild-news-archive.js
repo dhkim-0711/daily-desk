@@ -25,9 +25,15 @@ function articleKey(article = {}) {
   return `fallback:${article.publishedAt || ""}:${article.outlet || ""}:${article.source || ""}`;
 }
 
+function compactArticle(article = {}) {
+  // Keep metadata, summaries and source links for analysis/navigation, but do not
+  // replicate full publisher article bodies into the permanent archive.
+  const { fullText, ...rest } = article;
+  return rest;
+}
+
 function richness(article = {}) {
-  return (article.fullText?.length || 0) * 4
-    + (article.fullSummary?.length || 0) * 3
+  return (article.fullSummary?.length || 0) * 3
     + (article.summary?.length || 0)
     + (article.taxonomyHits?.length || 0) * 50
     + (article.companyHits?.length || 0) * 50
@@ -47,26 +53,27 @@ function maxIso(left, right) {
 }
 
 function mergeArticle(existing, incoming, seenAt) {
+  const cleanIncoming = compactArticle(incoming);
   if (!existing) {
     return {
-      ...incoming,
-      firstSeenAt: incoming.firstSeenAt || seenAt || null,
-      lastSeenAt: incoming.lastSeenAt || seenAt || null,
+      ...cleanIncoming,
+      firstSeenAt: cleanIncoming.firstSeenAt || seenAt || null,
+      lastSeenAt: cleanIncoming.lastSeenAt || seenAt || null,
     };
   }
 
-  const primary = richness(incoming) > richness(existing) ? incoming : existing;
-  const secondary = primary === incoming ? existing : incoming;
+  const primary = richness(cleanIncoming) > richness(existing) ? cleanIncoming : existing;
+  const secondary = primary === cleanIncoming ? existing : cleanIncoming;
   const merged = { ...secondary, ...primary };
 
   for (const [key, value] of Object.entries(secondary)) {
     if (merged[key] === undefined || merged[key] === null || merged[key] === "") merged[key] = value;
   }
 
-  merged.taxonomyHits = [...new Set([...(existing.taxonomyHits || []), ...(incoming.taxonomyHits || [])])];
-  merged.companyHits = [...new Set([...(existing.companyHits || []), ...(incoming.companyHits || [])])];
-  merged.firstSeenAt = minIso(existing.firstSeenAt, incoming.firstSeenAt || seenAt);
-  merged.lastSeenAt = maxIso(existing.lastSeenAt, incoming.lastSeenAt || seenAt);
+  merged.taxonomyHits = [...new Set([...(existing.taxonomyHits || []), ...(cleanIncoming.taxonomyHits || [])])];
+  merged.companyHits = [...new Set([...(existing.companyHits || []), ...(cleanIncoming.companyHits || [])])];
+  merged.firstSeenAt = minIso(existing.firstSeenAt, cleanIncoming.firstSeenAt || seenAt);
+  merged.lastSeenAt = maxIso(existing.lastSeenAt, cleanIncoming.lastSeenAt || seenAt);
   return merged;
 }
 
@@ -144,11 +151,7 @@ const recoveredAt = new Date().toISOString();
 const months = [];
 for (const [month, articles] of [...byMonth.entries()].sort((a, b) => b[0].localeCompare(a[0]))) {
   const sorted = sortArticles(articles);
-  const payload = {
-    month,
-    updatedAt: recoveredAt,
-    articles: sorted,
-  };
+  const payload = { month, updatedAt: recoveredAt, articles: sorted };
   await writeMirror(`${month}.json`, `${JSON.stringify(payload, null, 2)}\n`);
   months.push({
     month,
@@ -170,6 +173,7 @@ const index = {
     articleOccurrences,
     uniqueArticles: articleMap.size,
   },
+  totalArticles: articleMap.size,
   months,
 };
 await writeMirror("index.json", `${JSON.stringify(index, null, 2)}\n`);
