@@ -145,11 +145,19 @@ for (const path of targets) {
     "archive month load handler",
   );
 
-  const renderSequence = '    state.policyIdeas = loadSavedPolicyIdeas(state.data) || state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));\n    render();';
-  const archiveRenderSequence = '    state.archiveLoadedMonths.clear();\n    state.archiveIndexLoaded = false;\n    state.recentArticleKeys = new Set((state.data?.news?.articles || []).map(archiveArticleKey));\n    await loadArchiveIndex();\n    state.policyIdeas = loadSavedPolicyIdeas(state.data) || state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));\n    render();';
-  const count = source.split(renderSequence).length - 1;
-  if (count !== 2) throw new Error(`Expected two dashboard render sequences, found ${count}`);
-  source = source.split(renderSequence).join(archiveRenderSequence);
+  source = replaceOnce(
+    source,
+    '    state.policyIdeas = loadSavedPolicyIdeas(state.data) || state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));\n    render();',
+    '    state.archiveLoadedMonths.clear();\n    state.archiveIndexLoaded = false;\n    state.recentArticleKeys = new Set((state.data?.news?.articles || []).map(archiveArticleKey));\n    await loadArchiveIndex();\n    state.policyIdeas = loadSavedPolicyIdeas(state.data) || state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));\n    render();',
+    "primary dashboard render",
+  );
+
+  source = replaceOnce(
+    source,
+    '      state.policyIdeas = loadSavedPolicyIdeas(state.data) || state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));\n      render();',
+    '      state.archiveLoadedMonths.clear();\n      state.archiveIndexLoaded = false;\n      state.recentArticleKeys = new Set((state.data?.news?.articles || []).map(archiveArticleKey));\n      await loadArchiveIndex();\n      state.policyIdeas = loadSavedPolicyIdeas(state.data) || state.data.briefing.policyIdeas.map((idea) => ({ ...idea }));\n      render();',
+    "snapshot fallback render",
+  );
 
   await writeFile(path, source, "utf8");
   console.log(`Patched archive UI: ${path}`);
