@@ -503,7 +503,9 @@ function renderBriefing(data) {
 
 function renderSelectors(data) {
   const articles = data.news.articles;
-  const months = [...new Set([...state.archiveMonths, ...articles.map((article) => monthKey(article.publishedAt))])].filter(Boolean).sort().reverse();
+  // NEWS_ARCHIVE_MONTH_SELECTOR_V2
+  const recentMonths = [...new Set(articles.map((article) => monthKey(article.publishedAt)))].filter(Boolean).sort().reverse();
+  const months = state.archiveMonths.length ? [...state.archiveMonths] : recentMonths;
   const dateCounts = new Map();
   for (const article of articles) {
     if (state.month === "all" && state.recentArticleKeys.size && !state.recentArticleKeys.has(archiveArticleKey(article))) continue;
