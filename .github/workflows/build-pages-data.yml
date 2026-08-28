@@ -12,10 +12,9 @@ on:
       - "scripts/should-refresh-data.js"
       - ".github/workflows/build-pages-data.yml"
   schedule:
-    # Primary refresh slots: 07:10, 10:10, 13:10, 16:10, 19:10, 22:10 KST.
-    - cron: "10 22,1,4,7,10,13 * * *"
-    # Recovery slots run 15 minutes later only when the latest snapshot is stale.
-    - cron: "25 22,1,4,7,10,13 * * *"
+    # GitHub can delay or drop individual schedule events. The watchdog checks
+    # every 15 minutes and rebuilds only when the latest KST collection slot is missing.
+    - cron: "3,18,33,48 * * * *"
 
 permissions:
   contents: write
