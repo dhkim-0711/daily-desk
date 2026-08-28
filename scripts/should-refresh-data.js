@@ -3,8 +3,10 @@ import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const rootDir = fileURLToPath(new URL("..", import.meta.url));
-const recoveryCron = "25 22,1,4,7,10,13 * * *";
-const staleAfterMs = 70 * 60 * 1000;
+const refreshHoursKst = [7, 10, 13, 16, 19, 22];
+const refreshMinute = 10;
+const koreaOffsetMs = 9 * 60 * 60 * 1000;
+const emergencyStaleAfterMs = 4 * 60 * 60 * 1000;
 const schedule = process.argv[2] || "";
 
 async function setOutput(name, value) {
@@ -15,24 +17,56 @@ async function setOutput(name, value) {
   console.log(`${name}=${value}`);
 }
 
+function getLatestRefreshSlot(now) {
+  const kstNow = new Date(now.getTime() + koreaOffsetMs);
+  const dayStart = Date.UTC(
+    kstNow.getUTCFullYear(),
+    kstNow.getUTCMonth(),
+    kstNow.getUTCDate(),
+  ) - koreaOffsetMs;
+
+  for (const hour of [...refreshHoursKst].reverse()) {
+    const slot = dayStart + hour * 60 * 60 * 1000 + refreshMinute * 60 * 1000;
+    if (slot <= now.getTime()) {
+      return slot;
+    }
+  }
+
+  return dayStart - 24 * 60 * 60 * 1000 + 22 * 60 * 60 * 1000 + refreshMinute * 60 * 1000;
+}
+
 async function decideRefresh() {
-  if (schedule !== recoveryCron) {
-    console.log(`Regular refresh schedule received: ${schedule || "manual dispatch"}`);
-    return { shouldRefresh: true, reason: "regular" };
+  if (!schedule) {
+    console.log("Manual or push refresh received.");
+    return { shouldRefresh: true, reason: "manual_or_push" };
   }
 
   try {
     const snapshot = JSON.parse(await readFile(join(rootDir, "docs", "data", "dashboard.json"), "utf8"));
     const generatedAt = Date.parse(snapshot.generatedAt || "");
-    const ageMs = Number.isNaN(generatedAt) ? Infinity : Date.now() - generatedAt;
-    if (ageMs < staleAfterMs) {
-      console.log(`Recovery check skipped: snapshot age is ${Math.round(ageMs / 60000)} minutes.`);
-      return { shouldRefresh: false, reason: "fresh" };
+    const now = new Date();
+    const latestSlot = getLatestRefreshSlot(now);
+    const ageMs = Number.isNaN(generatedAt) ? Infinity : now.getTime() - generatedAt;
+
+    if (Number.isNaN(generatedAt)) {
+      console.warn("Watchdog refresh started: latest snapshot timestamp is missing.");
+      return { shouldRefresh: true, reason: "missing_timestamp" };
     }
-    console.log(`Recovery refresh started: snapshot age is ${Math.round(ageMs / 60000)} minutes.`);
-    return { shouldRefresh: true, reason: "stale" };
+
+    if (generatedAt >= latestSlot) {
+      console.log(`Watchdog check skipped: current KST slot was collected at ${snapshot.generatedAt}.`);
+      return { shouldRefresh: false, reason: "current_slot_collected" };
+    }
+
+    if (ageMs >= emergencyStaleAfterMs) {
+      console.warn(`Emergency refresh started: snapshot age is ${Math.round(ageMs / 60000)} minutes.`);
+      return { shouldRefresh: true, reason: "emergency_stale" };
+    }
+
+    console.log(`Missed-slot refresh started: latest snapshot predates the ${new Date(latestSlot).toISOString()} slot.`);
+    return { shouldRefresh: true, reason: "missed_slot" };
   } catch (error) {
-    console.warn("Recovery refresh started: latest snapshot could not be read.", error.message);
+    console.warn("Watchdog refresh started: latest snapshot could not be read.", error.message);
     return { shouldRefresh: true, reason: "missing_snapshot" };
   }
 }
