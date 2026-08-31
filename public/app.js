@@ -470,7 +470,7 @@ function tagButton(label, count, variant = "") {
 
 function renderChips(container, entries, limit = 8) {
   container.innerHTML = entries?.length
-    ? entries.slice(0, limit).map(([label, count]) => tagButton(label, count)).join("")
+    ? entries.slice(0, limit).map(([label]) => tagButton(label, null)).join("")
     : `<span class="muted-text">신호 없음</span>`;
 }
 
