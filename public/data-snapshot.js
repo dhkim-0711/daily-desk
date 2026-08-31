@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-08-31T07:47:29.306Z",
+  "generatedAt": "2026-08-31T07:50:43.624Z",
   "news": {
     "articles": [
       {
@@ -1805,28 +1805,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "아이에이·퓨리오사AI, 국산 NPU로 소형 AI 데이터센터 구축 나서 - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2NjRBeFdWVWZKYmNiMVV6NlpWSDZ1cHo1WV9LcE4wYmR3WXFsNnFZNWZ2LVZsdjd2N1NJWFdfQmFGMjVscnNRTVNiUkFtZw?oc=5",
-        "publishedAt": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "summary": "아이에이·퓨리오사AI, 국산 NPU로 소형 AI 데이터센터 구축 나서 &nbsp;&nbsp; 매일경제",
-        "outlet": "매일경제",
-        "outletUrl": "https://www.mk.co.kr",
-        "source": "퓨리오사AI",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "데이터센터",
-          "NPU",
-          "K-엔비디아",
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 25
-      },
-      {
         "title": "[도산아카데미] 백준호 퓨리오사AI 대표 “국산 NPU로 글로벌 추론 시장 공략” - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40ak1yTkN4SlJoOEYzVEZ2WnRQdEhicW44TVVYdTRUaHNIa3lUQ09YWjNCSWgwQzV1YmdHcHdUcllaWUtXWkt5WlI0YWNJZw?oc=5",
         "publishedAt": "Fri, 03 Jul 2026 07:00:00 GMT",
@@ -2126,25 +2104,6 @@ window.__DASHBOARD_DATA__ = {
         "summary": "Chipmakers Displace Big Tech as AI Era Winners: NVIDIA Quarter Confirms Shift &nbsp;&nbsp; Tech Times",
         "outlet": "Tech Times",
         "outletUrl": "https://www.techtimes.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 24
-      },
-      {
-        "title": "Buy Nvidia: Thinking Differently About AI Value Creation (NASDAQ:NVDA) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGxyVVlxYktFaS0xSjktc2dPUl96MDBtemdVNHdQMFZycWJFZmswR2JESl9pV0FsTXJmQ1JCYll0cjVHT3pDLWpjZ1dhcV9tVW5vaEoxM1luYVBUQlJkRG5uOTdac2g3YmZJenJSUEE1TndaME5sWnh1bFpReE5iY042MUlLQ0F2MXRYb3Y0cm5zQjVOTXhHWlliTko?oc=5",
-        "publishedAt": "Sun, 30 Aug 2026 07:50:36 GMT",
-        "summary": "Buy Nvidia: Thinking Differently About AI Value Creation (NASDAQ:NVDA) &nbsp;&nbsp; Seeking Alpha",
-        "outlet": "Seeking Alpha",
-        "outletUrl": "https://seekingalpha.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
@@ -2897,6 +2856,25 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
+        "title": "Buy Nvidia: Thinking Differently About AI Value Creation (NASDAQ:NVDA) - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGxyVVlxYktFaS0xSjktc2dPUl96MDBtemdVNHdQMFZycWJFZmswR2JESl9pV0FsTXJmQ1JCYll0cjVHT3pDLWpjZ1dhcV9tVW5vaEoxM1luYVBUQlJkRG5uOTdac2g3YmZJenJSUEE1TndaME5sWnh1bFpReE5iY042MUlLQ0F2MXRYb3Y0cm5zQjVOTXhHWlliTko?oc=5",
+        "publishedAt": "Sun, 30 Aug 2026 07:50:36 GMT",
+        "summary": "Buy Nvidia: Thinking Differently About AI Value Creation (NASDAQ:NVDA) &nbsp;&nbsp; Seeking Alpha",
+        "outlet": "Seeking Alpha",
+        "outletUrl": "https://seekingalpha.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 23
+      },
+      {
         "title": "Blue Owl Leads $2.4 Billion IREN AI Factory Financing For NVIDIA Blackwell Ultra Infrastructure - Pulse 2.0",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUEzUzF2a2NCdE5maE83blUzZGwxYkY3OVR5ZTgxQ0FORFl6Rk15OGo2UmtBbDZuU0hqY2JGWjl1X3dkbVk3Q29DUW9zOGxMR185dFFqYTZzOTZONkVQMWdtdFdQN0FrVElsTlFmVTV3dFRsZ2N5cVJaZFB1STFwSjF1djZwVGZSbkJMNlB1WVZOMTEwdVJlNWp5OTFvRHA5aVQxNnYzcWRCRU9BSXF5NXFMVWzSAboBQVVfeXFMTl8zTE9Gd0ViazlzTUctellORHo4eHZQOTBBdWVxSktRMURoUWpOZGszNVV2SXp6MzlSejZmZEMxNkJ2UnIwWE1ud3dhajVuNXR1WFUyYzZPSU92RE5EX2l4R0hIeC1LdGk1U3g3TGtHdXREY2o1VWJfRGdVcTBFb09oS3pVaGlkV3FFS08wa0ppTHoyMndsQzNDRXFCUGZwTXNiQ012MWVZZktydHVIMUhxal9XM0pCRHBB?oc=5",
         "publishedAt": "Sun, 30 Aug 2026 03:16:52 GMT",
@@ -3431,6 +3409,26 @@ window.__DASHBOARD_DATA__ = {
           "데이터센터"
         ],
         "issueCategory": "AI시장",
+        "score": 22
+      },
+      {
+        "title": "SWI becomes an NVIDIA Cloud Partner (NCP) - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0JwZHBmNlp0Z1Y5U2RPVWNQT3pUdTMwLWczdm5HcjkyZ0xZTkRUNURENjBCUklSRDhoT0Jlem1URFAzazN6R1dXR1ZEclFYUnpMSC1zb3VPUlVRUkIzeGV0bUtkREtIYUI3bHVSRG5sSWJVRlZKRGs2TWtfSU5pcHhjVm9DWHZoUHNwQ2llZ0hUS3Q3aFpYZEl6bw?oc=5",
+        "publishedAt": "Mon, 31 Aug 2026 06:00:00 GMT",
+        "summary": "SWI becomes an NVIDIA Cloud Partner (NCP) &nbsp;&nbsp; PR Newswire",
+        "outlet": "PR Newswire",
+        "outletUrl": "https://www.prnewswire.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI인프라",
         "score": 22
       },
       {
@@ -6542,14 +6540,14 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-08-31T07:47:26.207Z"
+    "generatedAt": "2026-08-31T07:50:41.258Z"
   },
   "briefing": {
     "date": "2026년 8월 31일 월요일",
     "summary": [
       "오늘의 최상위 이슈: Best AI Stocks After Nvidia Earnings: NVDA, AMD, Broadcom, Marvell or Arm? - TradingKey",
-      "강한 기술·시장 신호: NPU 40, AI인프라 34, 데이터센터 6, 온디바이스AI 2, 추론 8",
-      "주요 기업 신호: 퓨리오사AI 22, 리벨리온 19, 딥엑스 8, 모빌린트 4, 하이퍼엑셀 2"
+      "강한 기술·시장 신호: NPU 39, AI인프라 35, 데이터센터 5, 온디바이스AI 2, 추론 8",
+      "주요 기업 신호: 퓨리오사AI 21, 리벨리온 19, 딥엑스 8, 모빌린트 4, 하이퍼엑셀 2"
     ],
     "leadArticles": [
       {
@@ -6779,15 +6777,15 @@ window.__DASHBOARD_DATA__ = {
       "technologies": [
         [
           "NPU",
-          40
+          39
         ],
         [
           "AI인프라",
-          34
+          35
         ],
         [
           "데이터센터",
-          6
+          5
         ],
         [
           "온디바이스AI",
@@ -6809,7 +6807,7 @@ window.__DASHBOARD_DATA__ = {
       "companies": [
         [
           "퓨리오사AI",
-          22
+          21
         ],
         [
           "리벨리온",
@@ -6829,7 +6827,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          82
+          83
         ],
         [
           "Google",
@@ -6948,7 +6946,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NPU",
-          42
+          41
         ],
         [
           "정책",
@@ -6956,11 +6954,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "국내 기사",
-          98
+          97
         ],
         [
           "해외 기사",
-          82
+          83
         ]
       ],
       "sections": [
