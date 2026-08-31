@@ -5,6 +5,8 @@ import { fileURLToPath } from "node:url";
 const rootDir = fileURLToPath(new URL("..", import.meta.url));
 const refreshHoursKst = [7, 10, 13, 16, 19, 22];
 const refreshMinute = 10;
+const primarySchedule = "10 22,1,4,7,10,13 * * *";
+const watchdogSchedule = "43 * * * *";
 const koreaOffsetMs = 9 * 60 * 60 * 1000;
 const emergencyStaleAfterMs = 4 * 60 * 60 * 1000;
 const schedule = process.argv[2] || "";
@@ -39,6 +41,16 @@ async function decideRefresh() {
   if (!schedule) {
     console.log("Manual or push refresh received.");
     return { shouldRefresh: true, reason: "manual_or_push" };
+  }
+
+  if (schedule === primarySchedule) {
+    console.log("Primary 3-hour collection slot received.");
+    return { shouldRefresh: true, reason: "primary_slot" };
+  }
+
+  if (schedule !== watchdogSchedule) {
+    console.warn(`Unknown schedule received: ${schedule}. Treating it as a refresh request.`);
+    return { shouldRefresh: true, reason: "unknown_schedule" };
   }
 
   try {

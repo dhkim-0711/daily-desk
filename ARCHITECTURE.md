@@ -30,7 +30,7 @@ flowchart LR
 | 정적 데이터 생성 | [scripts/build-static-data.js](./scripts/build-static-data.js) | `dashboardData()` 결과를 `public`과 `docs`의 JSON/JS 스냅샷으로 저장 |
 | 화면 UI | [public/index.html](./public/index.html), [public/app.js](./public/app.js), [public/styles.css](./public/styles.css) | 로컬 실행 또는 원본 UI 소스 |
 | GitHub Pages 배포본 | [docs](./docs) | GitHub Pages가 직접 읽는 정적 배포 폴더 |
-| 자동 갱신 | [.github/workflows/build-pages-data.yml](./.github/workflows/build-pages-data.yml) | 3시간 간격으로 데이터를 다시 생성하고 스냅샷 파일을 자동 커밋 |
+| 자동 갱신 | [.github/workflows/build-pages-data.yml](./.github/workflows/build-pages-data.yml) | 정규 3시간 갱신과 보조 watchdog으로 데이터를 다시 생성하고 스냅샷 파일을 자동 커밋 |
 
 ## 데이터 수집 흐름
 
@@ -80,13 +80,15 @@ GitHub Pages는 `/docs` 폴더를 배포 대상으로 사용합니다.
 
 ## 자동 갱신 주기
 
-[build-pages-data.yml](./.github/workflows/build-pages-data.yml)은 UTC 기준 아래 시간에 실행됩니다.
+[build-pages-data.yml](./.github/workflows/build-pages-data.yml)은 정규 3시간 갱신 cron과 보조 watchdog cron을 함께 사용합니다.
 
 ```yaml
-cron: "10 22,1,4,7,10,13 * * *"
+schedule:
+  - cron: "10 22,1,4,7,10,13 * * *"
+  - cron: "43 * * * *"
 ```
 
-한국시간 기준으로는 매일 대략 다음 시각입니다.
+첫 번째 cron은 한국시간 기준으로 매일 다음 시각에 데이터를 직접 갱신합니다.
 
 - 07:10
 - 10:10
@@ -95,7 +97,7 @@ cron: "10 22,1,4,7,10,13 * * *"
 - 19:10
 - 22:10
 
-각 실행은 `npm run build:data`를 수행하고, 변경된 데이터 스냅샷을 `Refresh dashboard data` 커밋으로 저장합니다.
+두 번째 cron은 보조 watchdog입니다. 매시간 실행되며, 최신 KST 수집 슬롯이 이미 반영되어 있으면 스킵하고, 정규 슬롯이 GitHub Actions 지연 또는 누락으로 비어 있으면 `npm run build:data`를 수행합니다. 변경된 데이터 스냅샷은 `Refresh dashboard data` 커밋으로 저장됩니다.
 
 ## 장애 대응 구조
 
