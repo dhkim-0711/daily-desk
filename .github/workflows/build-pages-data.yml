@@ -9,6 +9,7 @@ on:
       - "scripts/build-static-data.js"
       - "scripts/patch-archive-ui.js"
       - "scripts/patch-archive-month-selector.js"
+      - "scripts/patch-report-intros.js"
       - "scripts/should-refresh-data.js"
       - ".github/workflows/build-pages-data.yml"
   schedule:
@@ -38,6 +39,9 @@ jobs:
       - name: Decide whether data refresh is needed
         id: freshness
         run: node scripts/should-refresh-data.js "${{ github.event.schedule }}"
+      - name: Patch report intro wording
+        if: steps.freshness.outputs.should_refresh == 'true'
+        run: node scripts/patch-report-intros.js
       - name: Recover historical news archive
         if: steps.freshness.outputs.should_refresh == 'true'
         run: |
@@ -60,4 +64,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Refresh dashboard data"
-          file_pattern: "public/data-snapshot.js public/data/dashboard.json public/data/archive/*.json docs/data-snapshot.js docs/data/dashboard.json docs/data/archive/*.json public/app.js docs/app.js"
+          file_pattern: "public/data-snapshot.js public/data/dashboard.json public/data/archive/*.json docs/data-snapshot.js docs/data/dashboard.json docs/data/archive/*.json public/app.js docs/app.js public/reports/weekly/*.md docs/reports/weekly/*.md public/reports/monthly/*.md docs/reports/monthly/*.md"
