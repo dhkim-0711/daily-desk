@@ -46,7 +46,9 @@ async function patchMonthly(base) {
     const dateLine = existingIntro.find((line) => /기준일/.test(line));
     const dateMatch = dateLine?.match(/(20\d{2}-\d{2}-\d{2})/);
     const analysisDate = dateMatch?.[1] || new Date().toISOString().slice(0, 10);
-    const body = lines.slice(firstSection);
+    const body = lines
+      .slice(firstSection)
+      .filter((line) => !/^\s*-\s*\*\*우선순위\*\*\s*:/.test(line));
     const title = lines[titleIndex];
     const intro = [
       title,
@@ -65,4 +67,4 @@ for (const base of roots) {
   await patchMonthly(base);
 }
 
-console.log("Patched current weekly/monthly report intro wording.");
+console.log("Patched current report intro wording and removed monthly policy-item priority fields.");
