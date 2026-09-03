@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "updatedAt": "2026-09-03T12:03:56.238Z",
+  "updatedAt": "2026-09-03T14:43:16.795Z",
   "articles": [
     {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
@@ -195,6 +195,8 @@
       "outlet": "연합뉴스",
       "outletUrl": "https://www.yna.co.kr",
       "source": "국내 NPU 기업",
+      "sourceLang": "ko",
+      "region": "domestic",
       "companyHits": [
         "Google",
         "AMD",
@@ -207,9 +209,10 @@
         "K-엔비디아",
         "퓨리오사AI"
       ],
+      "issueCategory": "NPU",
       "score": 15,
       "firstSeenAt": "2026-06-12T07:01:33.269Z",
-      "lastSeenAt": "2026-06-12T08:04:23.546Z"
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
     },
     {
       "title": "국민성장펀드, ′퓨리오사AI′에 8천억원 직접 투자 - 연합뉴스TV",
@@ -278,7 +281,7 @@
       "issueCategory": "AI시장",
       "score": 26,
       "firstSeenAt": "2026-06-12T08:04:23.546Z",
-      "lastSeenAt": "2026-09-03T12:03:56.238Z"
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
     },
     {
       "title": "국민성장펀드, 퓨리오사AI에 8000억 투입…'K-엔비디아' 육성 속도 - 뉴스핌",
@@ -302,7 +305,7 @@
       "issueCategory": "NPU",
       "score": 26,
       "firstSeenAt": "2026-06-12T08:04:23.546Z",
-      "lastSeenAt": "2026-09-03T12:03:56.238Z"
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
     },
     {
       "title": "국민성장펀드, '국산 AI 반도체' 퓨리오사AI에 8천억 직접투자 - 연합뉴스",
@@ -312,6 +315,8 @@
       "outlet": "연합뉴스",
       "outletUrl": "https://www.yna.co.kr",
       "source": "국내 NPU 기업",
+      "sourceLang": "ko",
+      "region": "domestic",
       "companyHits": [
         "퓨리오사AI"
       ],
@@ -321,9 +326,10 @@
         "퓨리오사AI",
         "투자·M&A"
       ],
+      "issueCategory": "NPU",
       "score": 25,
       "firstSeenAt": "2026-06-12T07:52:24.878Z",
-      "lastSeenAt": "2026-06-12T08:04:23.546Z"
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
     },
     {
       "title": "국민성장펀드, 퓨리오사AI에 8000억 투자 - 조선일보",
@@ -375,6 +381,8 @@
       "outlet": "연합뉴스",
       "outletUrl": "https://www.yna.co.kr",
       "source": "국내 NPU 기업",
+      "sourceLang": "ko",
+      "region": "domestic",
       "companyHits": [
         "퓨리오사AI"
       ],
@@ -382,11 +390,13 @@
         "NPU",
         "인퍼런스",
         "K-엔비디아",
-        "퓨리오사AI"
+        "퓨리오사AI",
+        "추론"
       ],
+      "issueCategory": "NPU",
       "score": 25,
       "firstSeenAt": "2026-06-12T07:52:24.878Z",
-      "lastSeenAt": "2026-06-12T08:04:23.546Z"
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
     },
     {
       "title": "[팹리스×대기업] ②리벨리온, 통신·금융 우군과 ‘비(非)엔비디아’ 정조준 - 시사저널e",
@@ -482,7 +492,7 @@
       "issueCategory": "NPU",
       "score": 22,
       "firstSeenAt": "2026-06-27T23:15:44.986Z",
-      "lastSeenAt": "2026-06-27T23:15:44.986Z"
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
     },
     {
       "title": "국민성장펀드, 국산 AI반도체 ‘퓨리오사AI’ 8000억원 직접투자 - 뉴데일리",
@@ -743,7 +753,7 @@
       "issueCategory": "NPU",
       "score": 23,
       "firstSeenAt": "2026-06-14T23:01:52.136Z",
-      "lastSeenAt": "2026-08-31T11:50:14.594Z"
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
     },
     {
       "title": "유라클 AI 자원관리 플랫폼, 퓨리오사AI NPU '성공적 연동'…\"사우디 아람코 PoC도 순항\" - 프라임경제",
@@ -879,7 +889,29 @@
       "issueCategory": "NPU",
       "score": 26,
       "firstSeenAt": "2026-06-12T08:04:23.546Z",
-      "lastSeenAt": "2026-09-03T12:03:56.238Z"
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
+    },
+    {
+      "title": "금융위, 퓨리오사AI 방문…“소버린 AI·국산 AI반도체 집중 지원” - 테크데일리",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1VVprdmVtS2htWlZMYWI2Mzg0MGdWalVfUzBPMFZKeXBDZWdGQ0tMajV3RmhLVHJUOGFZTDFnZzgwQ3plTnFVRFM2ajU4Y0o4R0JDc0tUV0lYamY1cm1XRTlhOFRobEdULVRlc2pB0gFyQVVfeXFMT2l1Q09peG1nQlNxcmVwaGpyRmV0d01uS0FwNVVydS15SWJRempJVndYTVAwZ2FOZGpzR2l1WTc4ZG42SS1sUkdyS3VuclN2U3VDVmJ0SmtXT0FyazhXZjFtbWVMeGZCODRIM3Y5c0ZPZHJ3?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+      "summary": "금융위, 퓨리오사AI 방문…“소버린 AI·국산 AI반도체 집중 지원” &nbsp;&nbsp; 테크데일리",
+      "outlet": "테크데일리",
+      "outletUrl": "https://www.techdaily.co.kr",
+      "source": "퓨리오사AI",
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "퓨리오사AI"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "퓨리오사AI"
+      ],
+      "issueCategory": "NPU",
+      "score": 19,
+      "firstSeenAt": "2026-09-03T14:43:16.795Z",
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
     },
     {
       "title": "과기정통부, 모빌린트·딥엑스 현장 점검… \"피지컬·에이전틱 AI 시대 국산 칩 키운다\" - 솔루션뉴스",
@@ -903,7 +935,7 @@
       "issueCategory": "NPU",
       "score": 32,
       "firstSeenAt": "2026-07-28T09:43:50.217Z",
-      "lastSeenAt": "2026-09-03T12:03:56.238Z"
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
     },
     {
       "title": "과기정통부, 딥엑스 등 온디바이스 AI반도체 필드 점검···\"지원 확대\" - 녹색경제신문",
@@ -1186,6 +1218,54 @@
       "score": 25,
       "firstSeenAt": "2026-06-12T07:52:24.878Z",
       "lastSeenAt": "2026-06-12T08:04:23.546Z"
+    },
+    {
+      "title": "노타-모빌린트, 국산 NPU 기반 온디바이스 AI 상용화 협력 - 디지털경제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zTjN1ZHEzN2U3Mk5VZXJ3R0NSTWw1UEg1UEd3dWVtamFPU0phTWFub3RaWU5TQUp1Z1ZuUThiS2gwQ2NsRnF4WGNmeTkzTlFYaWlhbDdFOUhYNXJodEhNbkdaRkhYODZ2Y1E?oc=5",
+      "publishedAt": "Fri, 08 May 2026 07:00:00 GMT",
+      "summary": "노타-모빌린트, 국산 NPU 기반 온디바이스 AI 상용화 협력 &nbsp;&nbsp; 디지털경제뉴스",
+      "outlet": "디지털경제뉴스",
+      "outletUrl": "https://www.denews.co.kr",
+      "source": "모빌린트 확장",
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "모빌린트"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "온디바이스AI",
+        "K-엔비디아",
+        "모빌린트"
+      ],
+      "issueCategory": "NPU",
+      "score": 21,
+      "firstSeenAt": "2026-09-03T14:43:16.795Z",
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
+    },
+    {
+      "title": "노타-모빌린트, 국산 NPU 기반 온디바이스AI 상용화 맞손 - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15bmh3dGdTaUNkZUlUUFF4TzZfc25TaTZVUUw2S2VjdVYwNkl4WHVLWkNZcUVEeWQ2M19ab0VEZEh0UC1nZkVMU2J6VEUxSVdxRXA5dk5xWUpnUW9TakI2RG0wNl8?oc=5",
+      "publishedAt": "Thu, 07 May 2026 07:00:00 GMT",
+      "summary": "노타-모빌린트, 국산 NPU 기반 온디바이스AI 상용화 맞손 &nbsp;&nbsp; MTN 머니투데이방송",
+      "outlet": "MTN 머니투데이방송",
+      "outletUrl": "https://news.mtn.co.kr",
+      "source": "모빌린트 확장",
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "모빌린트"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "온디바이스AI",
+        "K-엔비디아",
+        "모빌린트"
+      ],
+      "issueCategory": "NPU",
+      "score": 21,
+      "firstSeenAt": "2026-09-03T14:43:16.795Z",
+      "lastSeenAt": "2026-09-03T14:43:16.795Z"
     },
     {
       "title": "메타가 인수제안한 퓨리오사AI에… 한국거래소, 코스닥 기술특례 상장 제안 - 조선비즈 - Chosunbiz",
