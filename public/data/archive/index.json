@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T14:43:16.795Z",
+  "updatedAt": "2026-09-03T17:01:23.847Z",
   "recovery": {
     "source": "git-history",
     "recoveredAt": "2026-08-26T04:32:26.161Z",
@@ -11,27 +11,27 @@
     "collectionStartedAt": "2026-06-12T07:01:33.269Z",
     "collectionStartMonth": "2026-06"
   },
-  "totalArticles": 9716,
-  "storedArticles": 9887,
+  "totalArticles": 9840,
+  "storedArticles": 10016,
   "months": [
     {
       "month": "2026-09",
       "file": "2026-09.json",
-      "count": 373,
-      "newestPublishedAt": "Thu, 03 Sep 2026 14:15:00 GMT",
+      "count": 485,
+      "newestPublishedAt": "Thu, 03 Sep 2026 16:30:00 GMT",
       "oldestPublishedAt": "Tue, 01 Sep 2026 00:00:18 GMT"
     },
     {
       "month": "2026-08",
       "file": "2026-08.json",
-      "count": 3466,
+      "count": 3476,
       "newestPublishedAt": "Mon, 31 Aug 2026 23:55:00 GMT",
       "oldestPublishedAt": "Sat, 01 Aug 2026 00:19:00 GMT"
     },
     {
       "month": "2026-07",
       "file": "2026-07.json",
-      "count": 3575,
+      "count": 3577,
       "newestPublishedAt": "Fri, 31 Jul 2026 23:39:00 GMT",
       "oldestPublishedAt": "Wed, 01 Jul 2026 00:00:00 GMT"
     },
