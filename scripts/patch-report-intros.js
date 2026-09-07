@@ -24,10 +24,18 @@ function linkWeeklySourceNotes(text) {
   }
 
   const bareMarkerPattern = new RegExp(`\\[([${superscriptDigits}]+)\\](?!\\()`, "g");
-  const linkedHead = head.replace(bareMarkerPattern, (full, marker) => {
+  let linkedHead = head.replace(bareMarkerPattern, (full, marker) => {
     const url = sourceLinks.get(marker);
     return url ? `[${marker}](${url})` : full;
   });
+
+  // Keep multiple evidence links visually separated, matching prior weekly reports:
+  // [¹](URL) [²](URL), not [¹](URL)[²](URL).
+  const adjacentLinkedMarkerPattern = new RegExp(
+    `\\)\\s*\\[([${superscriptDigits}]+)\\]\\(`,
+    "g",
+  );
+  linkedHead = linkedHead.replace(adjacentLinkedMarkerPattern, `) [$1](`);
 
   return `${linkedHead}${tail}`;
 }
@@ -95,4 +103,4 @@ for (const base of roots) {
   await patchMonthly(base);
 }
 
-console.log("Patched report intros, restored clickable weekly source links, and removed monthly policy-item priority fields.");
+console.log("Patched report intros, restored spaced clickable weekly source links, and removed monthly policy-item priority fields.");
