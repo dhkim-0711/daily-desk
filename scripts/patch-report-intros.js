@@ -4,6 +4,33 @@ import { fileURLToPath } from "node:url";
 
 const rootDir = fileURLToPath(new URL("..", import.meta.url));
 const roots = ["docs", "public"];
+const superscriptDigits = "¹²³⁴⁵⁶⁷⁸⁹⁰";
+
+function linkWeeklySourceNotes(text) {
+  const sourceHeading = "\n### 출처 기사";
+  const sourceIndex = text.indexOf(sourceHeading);
+  if (sourceIndex < 0) return text;
+
+  const head = text.slice(0, sourceIndex);
+  const tail = text.slice(sourceIndex);
+  const sourceLinks = new Map();
+  const sourceLinePattern = new RegExp(
+    `^- \\*\\*([${superscriptDigits}]+)\\*\\*.*?\\[원문\\]\\((https?:\\/\\/[^)]+)\\)`,
+    "gm",
+  );
+
+  for (const match of tail.matchAll(sourceLinePattern)) {
+    sourceLinks.set(match[1], match[2]);
+  }
+
+  const bareMarkerPattern = new RegExp(`\\[([${superscriptDigits}]+)\\](?!\\()`, "g");
+  const linkedHead = head.replace(bareMarkerPattern, (full, marker) => {
+    const url = sourceLinks.get(marker);
+    return url ? `[${marker}](${url})` : full;
+  });
+
+  return `${linkedHead}${tail}`;
+}
 
 async function patchWeekly(base) {
   const dir = join(rootDir, base, "reports", "weekly");
@@ -27,6 +54,7 @@ async function patchWeekly(base) {
       "",
     ];
     text = [...intro, ...body].join("\n");
+    text = linkWeeklySourceNotes(text);
     await writeFile(path, text.endsWith("\n") ? text : `${text}\n`, "utf8");
   }
 }
@@ -67,4 +95,4 @@ for (const base of roots) {
   await patchMonthly(base);
 }
 
-console.log("Patched current report intro wording and removed monthly policy-item priority fields.");
+console.log("Patched report intros, restored clickable weekly source links, and removed monthly policy-item priority fields.");
