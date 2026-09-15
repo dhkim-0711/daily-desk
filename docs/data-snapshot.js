@@ -3597,7 +3597,34 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       }
     ],
-    "errors": []
+    "errors": [
+      "이번 자동 수집에서 Google News RSS가 모두 실패해 이전 정상 뉴스 180건을 유지했습니다.",
+      "AI 시장 전체: 503 Service Unavailable",
+      "AI 시장·비즈니스: 503 Service Unavailable",
+      "AI 투자·자본시장: 503 Service Unavailable",
+      "AI 서비스·클라우드: 503 Service Unavailable",
+      "NVIDIA 이슈: 503 Service Unavailable",
+      "Google AI 이슈: 503 Service Unavailable",
+      "해외 빅테크 국내 보도: 503 Service Unavailable",
+      "해외 AI반도체: 503 Service Unavailable",
+      "해외 정책·투자: 503 Service Unavailable",
+      "국내 NPU 기업: 503 Service Unavailable",
+      "리벨리온: 503 Service Unavailable",
+      "퓨리오사AI: 503 Service Unavailable",
+      "하이퍼엑셀: 503 Service Unavailable",
+      "하이퍼엑셀 확장: 503 Service Unavailable",
+      "HyperAccel global: 503 Service Unavailable",
+      "딥엑스: 503 Service Unavailable",
+      "모빌린트: 503 Service Unavailable",
+      "모빌린트 확장: 503 Service Unavailable",
+      "Mobilint global: 503 Service Unavailable",
+      "국내 AI 시장: 503 Service Unavailable",
+      "국내 AI 정책: 503 Service Unavailable",
+      "NIPA·과기정통부 정책: 503 Service Unavailable",
+      "과기정통부 AI반도체: 503 Service Unavailable",
+      "NIPA AI반도체: 503 Service Unavailable",
+      "AI반도체 공공사업: 503 Service Unavailable"
+    ]
   },
   "market": {
     "equities": [
@@ -4997,11 +5024,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "005930.KS",
         "name": "삼성전자",
         "market": "KR",
-        "price": 247500,
+        "price": 248500,
         "currency": "KRW",
-        "changePct": -9.836065573770492,
+        "changePct": -9.47176684881603,
         "previousClose": 274500,
-        "marketTime": "2026-09-15T05:01:12.000Z",
+        "marketTime": "2026-09-15T05:47:30.000Z",
         "closes": [
           268500,
           247500,
@@ -5023,7 +5050,7 @@ window.__DASHBOARD_DATA__ = {
           269000,
           259500,
           249000,
-          247500
+          248500
         ],
         "candles": [
           {
@@ -5170,8 +5197,8 @@ window.__DASHBOARD_DATA__ = {
             "date": "2026-09-15T00:00:00.000Z",
             "open": 248000,
             "high": 252000,
-            "low": 247000,
-            "close": 247500
+            "low": 246000,
+            "close": 248500
           }
         ]
       },
@@ -5179,11 +5206,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "000660.KS",
         "name": "SK하이닉스",
         "market": "KR",
-        "price": 1689000,
+        "price": 1693000,
         "currency": "KRW",
-        "changePct": 2.674772036474164,
+        "changePct": 2.917933130699088,
         "previousClose": 1645000,
-        "marketTime": "2026-09-15T05:01:12.000Z",
+        "marketTime": "2026-09-15T05:47:30.000Z",
         "closes": [
           1662000,
           1500000,
@@ -5205,7 +5232,7 @@ window.__DASHBOARD_DATA__ = {
           1853000,
           1812000,
           1697000,
-          1689000
+          1693000
         ],
         "candles": [
           {
@@ -5352,8 +5379,8 @@ window.__DASHBOARD_DATA__ = {
             "date": "2026-09-15T00:00:00.000Z",
             "open": 1690000,
             "high": 1729000,
-            "low": 1685000,
-            "close": 1689000
+            "low": 1671000,
+            "close": 1693000
           }
         ]
       }
@@ -5881,11 +5908,11 @@ window.__DASHBOARD_DATA__ = {
       {
         "symbol": "^KS11",
         "name": "KOSPI",
-        "price": 6622.92,
+        "price": 6643.59,
         "currency": "KRW",
-        "changePct": -5.087747959999649,
+        "changePct": -4.791528731975332,
         "previousClose": 6977.94,
-        "marketTime": "2026-09-15T05:01:10.000Z",
+        "marketTime": "2026-09-15T05:47:20.000Z",
         "closes": [
           6869.830078125,
           6471.169921875,
@@ -5907,7 +5934,7 @@ window.__DASHBOARD_DATA__ = {
           7033.919921875,
           6909.91015625,
           6684.3701171875,
-          6622.919921875
+          6643.58984375
         ],
         "candles": [
           {
@@ -6054,19 +6081,19 @@ window.__DASHBOARD_DATA__ = {
             "date": "2026-09-15T00:00:00.000Z",
             "open": 6659.25,
             "high": 6715.4599609375,
-            "low": 6617.169921875,
-            "close": 6622.919921875
+            "low": 6582.2001953125,
+            "close": 6643.58984375
           }
         ]
       },
       {
         "symbol": "^KQ11",
         "name": "KOSDAQ",
-        "price": 812.84,
+        "price": 814.48,
         "currency": "KRW",
-        "changePct": -5.9920198924420225,
+        "changePct": -5.802347770774297,
         "previousClose": 864.65,
-        "marketTime": "2026-09-15T05:01:10.000Z",
+        "marketTime": "2026-09-15T05:47:30.000Z",
         "closes": [
           834.2000122070312,
           824.4600219726562,
@@ -6088,7 +6115,7 @@ window.__DASHBOARD_DATA__ = {
           836.9199829101562,
           820.6400146484375,
           806.7899780273438,
-          812.8400268554688
+          814.47998046875
         ],
         "candles": [
           {
@@ -6236,12 +6263,12 @@ window.__DASHBOARD_DATA__ = {
             "open": 806.489990234375,
             "high": 824.3699951171875,
             "low": 801.969970703125,
-            "close": 812.8400268554688
+            "close": 814.47998046875
           }
         ]
       }
     ],
-    "generatedAt": "2026-09-15T05:21:13.440Z"
+    "generatedAt": "2026-09-15T06:07:31.126Z"
   },
   "briefing": {
     "date": "2026년 9월 15일 화요일",
