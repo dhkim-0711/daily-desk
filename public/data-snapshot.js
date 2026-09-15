@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-09-14T23:59:16.665Z",
+  "generatedAt": "2026-09-15T00:32:08.557Z",
   "news": {
     "articles": [
       {
@@ -9,7 +9,7 @@ window.__DASHBOARD_DATA__ = {
         "summary": "AI 스타트업 실리콘밸리 공략…과기정통부, 구글·엔비디아와 협력 논의 &nbsp;&nbsp; 디지털투데이",
         "outlet": "디지털투데이",
         "outletUrl": "https://www.digitaltoday.co.kr",
-        "source": "해외 빅테크 국내 보도",
+        "source": "NIPA·과기정통부 정책",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
@@ -26,11 +26,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 43
       },
       {
-        "title": "고동진 의원, 국산 NPU 수출길 넓힌다...리벨리온·퓨리오사AI·딥엑스 한자리 - 뉴스투데이",
+        "title": "고동진 의원, 국산 NPU 수출길 넓힌다...리벨리온·퓨리오사AI·딥엑스 한자리 - news2day.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56eFV4V1RqbHlXX2ZXdFIxQjN5c0RfYzhpbjV1OVBXamZxcHl3bVdvb21qOVVtTzlsSms4cFFyZnN3OXREMmpac1dacTBHQWJzZHZ4VFo5QzZXYlJfZFE?oc=5",
         "publishedAt": "Tue, 08 Sep 2026 12:01:00 GMT",
-        "summary": "고동진 의원, 국산 NPU 수출길 넓힌다...리벨리온·퓨리오사AI·딥엑스 한자리 &nbsp;&nbsp; 뉴스투데이",
-        "outlet": "뉴스투데이",
+        "summary": "고동진 의원, 국산 NPU 수출길 넓힌다...리벨리온·퓨리오사AI·딥엑스 한자리 &nbsp;&nbsp; news2day.co.kr",
+        "outlet": "news2day.co.kr",
         "outletUrl": "https://www.news2day.co.kr",
         "source": "국내 NPU 기업",
         "sourceLang": "ko",
@@ -104,7 +104,7 @@ window.__DASHBOARD_DATA__ = {
         "summary": "Google Cloud Announces Support For Nvidia RTX PRO 6000 Blackwell GPUs in Dataflow &nbsp;&nbsp; TradingView",
         "outlet": "TradingView",
         "outletUrl": "https://www.tradingview.com",
-        "source": "NVIDIA 이슈",
+        "source": "Google AI 이슈",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
@@ -189,7 +189,7 @@ window.__DASHBOARD_DATA__ = {
         "summary": "韓 AI ‘세계 3위’ 인증…NIPA, AA·엔비디아와 협력 확대 &nbsp;&nbsp; edaily.co.kr",
         "outlet": "edaily.co.kr",
         "outletUrl": "https://www.edaily.co.kr",
-        "source": "해외 빅테크 국내 보도",
+        "source": "NIPA·과기정통부 정책",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
@@ -267,11 +267,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "Meta, Alphabet and Microsoft Rise While Nvidia Falls After Three AI Chiefs Call For Slowing Down Frontier Models - finance.yahoo.com",
+        "title": "Meta, Alphabet and Microsoft Rise While Nvidia Falls After Three AI Chiefs Call For Slowing Down Frontier Models - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEptRGVfb2lha3ZSY0RrbUt6ekYtMkJBRnoxY01jVGwwOEtWNXBmVEpZM2doTmdBYTJtb0JZY1pZd0JrRUF2dHhuYXdfQVloRm9acnpTY19mSXJSdlZuZUJvRlIzcU0xNkRobE1pbFF2VDFOOW9IMlZoX29nYWNFUldUZjlmVFczdmpETXhpOG9CZlU4aVNOU19EZjFHXzQ?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 14:24:44 GMT",
-        "summary": "Meta, Alphabet and Microsoft Rise While Nvidia Falls After Three AI Chiefs Call For Slowing Down Frontier Models &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "Meta, Alphabet and Microsoft Rise While Nvidia Falls After Three AI Chiefs Call For Slowing Down Frontier Models &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -351,55 +351,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "과기정통부, AMD·국내 NPU 업계와 ‘개방형 AI 컴퓨팅 인프라 생태계’ 논의 - 이투데이",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVYmF5REZqWWJwUzBJY3NVM1Z6VEhqMmVwenk5WTdYX0VINjJYY1hqR1hOdERjd2s1U3V5QmpsbE03VjNVcXc5X1lVQmFOdTdKcWdSWg?oc=5",
-        "publishedAt": "Thu, 20 Aug 2026 07:00:00 GMT",
-        "summary": "과기정통부, AMD·국내 NPU 업계와 ‘개방형 AI 컴퓨팅 인프라 생태계’ 논의 &nbsp;&nbsp; 이투데이",
-        "outlet": "이투데이",
-        "outletUrl": "https://www.etoday.co.kr",
-        "source": "AI반도체 공공사업",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "AI인프라",
-          "NPU",
-          "K-엔비디아"
-        ],
-        "issueCategory": "AI시장",
-        "score": 31
-      },
-      {
-        "title": "과기정통부, AMD와 손잡고 국산 NPU 글로벌 진출 지원…개방형 AI 컴퓨팅 생태계 구축 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xaG12SEhna0lkQUZYRE04alVxOWpFeV9wVGdoMUhXNUdqMWlTbkVQU2V6YVN4a29xeDNjcWdXRkdPdkxuVS1kVms4VQ?oc=5",
-        "publishedAt": "Thu, 20 Aug 2026 07:00:00 GMT",
-        "summary": "과기정통부, AMD와 손잡고 국산 NPU 글로벌 진출 지원…개방형 AI 컴퓨팅 생태계 구축 &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "AI반도체 공공사업",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "AI인프라",
-          "NPU",
-          "K-엔비디아"
-        ],
-        "issueCategory": "AI시장",
-        "score": 31
-      },
-      {
-        "title": "리벨리온 NPU, 과기정통부 '혁신제품' 지정…국산 AI반도체 공공조달 물꼬 - newspim.com",
+        "title": "리벨리온 NPU, 과기정통부 '혁신제품' 지정…국산 AI반도체 공공조달 물꼬 - 뉴스핌",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14Y2FEcldqOExjdmxHaExkZmZtMktLcm9udFh6c1VDMnl6ekhob3BJU2ktNG8tMTI4RDVsUlRHaDkwTFVET09zU3hJRjF4UEhra2dFNkt6eWVKLUln?oc=5",
         "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-        "summary": "리벨리온 NPU, 과기정통부 '혁신제품' 지정…국산 AI반도체 공공조달 물꼬 &nbsp;&nbsp; newspim.com",
-        "outlet": "newspim.com",
+        "summary": "리벨리온 NPU, 과기정통부 '혁신제품' 지정…국산 AI반도체 공공조달 물꼬 &nbsp;&nbsp; 뉴스핌",
+        "outlet": "뉴스핌",
         "outletUrl": "https://www.newspim.com",
         "source": "리벨리온",
         "sourceLang": "ko",
@@ -439,11 +395,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "가비아, 고성능 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU로 AI 추론 지원 - 테크월드",
+        "title": "가비아, 고성능 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU로 AI 추론 지원 - epnc.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wTHVidVZJYlduVlROOHZ1N2VGTlBiaHVscjZxQkVwWlBTcTVSb01xYTFlbjRfWE9nd0xUMXpseVZzaHFIS3M4TzZUbklIS0tDZ0RDZm1SMjB2RWxfbHVpUnZWUDhNZzY4?oc=5",
         "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "가비아, 고성능 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU로 AI 추론 지원 &nbsp;&nbsp; 테크월드",
-        "outlet": "테크월드",
+        "summary": "가비아, 고성능 컴퓨팅 지원사업 공급기업 선정…리벨리온 NPU로 AI 추론 지원 &nbsp;&nbsp; epnc.co.kr",
+        "outlet": "epnc.co.kr",
         "outletUrl": "https://www.epnc.co.kr",
         "source": "리벨리온",
         "sourceLang": "ko",
@@ -683,11 +639,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 29
       },
       {
-        "title": "Mindgard Expands AI and Cloud Ecosystem with Anthropic, NVIDIA, Microsoft, Google Cloud and AWS - finance.yahoo.com",
+        "title": "Mindgard Expands AI and Cloud Ecosystem with Anthropic, NVIDIA, Microsoft, Google Cloud and AWS - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0lQMlBJNmJHdlhmRXZ6ZVl2MUdyYzgxem5rNzdOaVFkU01qQ3hFQzUxMHltc2VycTg0M2t4enFjTzBoYW5vV2I4WkE4MVJKaTVFM05DNVc1Q3B6ZnQ5cVREb1BKbjBxWFpUTDNCY2RhRnRJWmNNdTg5U2VCZ1o4S09NRzBWaFc2MzBkRmJYQTdMUkZtdlo0cml1ei1YNUI4?oc=5",
         "publishedAt": "Wed, 09 Sep 2026 13:20:00 GMT",
-        "summary": "Mindgard Expands AI and Cloud Ecosystem with Anthropic, NVIDIA, Microsoft, Google Cloud and AWS &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "Mindgard Expands AI and Cloud Ecosystem with Anthropic, NVIDIA, Microsoft, Google Cloud and AWS &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "Google AI 이슈",
         "sourceLang": "en",
@@ -751,11 +707,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 29
       },
       {
-        "title": "'공공 CCTV·유럽 DC·로봇'…K-NPU, 리벨리온·퓨리오사·딥엑스 '3색' 승부 - news1.kr",
+        "title": "'공공 CCTV·유럽 DC·로봇'…K-NPU, 리벨리온·퓨리오사·딥엑스 '3색' 승부 - 뉴스1",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93R0taMXRoTFdubHFPZERrZDg5TS0xb3FRQkt5ZTBSQWI5bTJmN2phd3JXU1RTUlhhNTdhYkd2eTE2anhFQk9iN0Z1NUZpRmpQOVRhUkFFblJQU2tr0gFiQVVfeXFMTXRHc1k5OUdid0U2SnhUel9qeXBzejRXRmVqUE5Qa0lmWDZ0UHZ1ZUxiZ3hmbU52bDgyR2ZBVnVncDFmaWR2WHdkeHN1LUtjc3FqTXpRWi14SGxybF9aNUMyd2c?oc=5",
         "publishedAt": "Sun, 06 Sep 2026 21:10:00 GMT",
-        "summary": "'공공 CCTV·유럽 DC·로봇'…K-NPU, 리벨리온·퓨리오사·딥엑스 '3색' 승부 &nbsp;&nbsp; news1.kr",
-        "outlet": "news1.kr",
+        "summary": "'공공 CCTV·유럽 DC·로봇'…K-NPU, 리벨리온·퓨리오사·딥엑스 '3색' 승부 &nbsp;&nbsp; 뉴스1",
+        "outlet": "뉴스1",
         "outletUrl": "https://www.news1.kr",
         "source": "리벨리온",
         "sourceLang": "ko",
@@ -927,11 +883,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 28
       },
       {
-        "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back - finance.yahoo.com",
+        "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGN6c3J6elM5ZkVXVTBHYTl6TGFmeTNYbHI5TDJfMXEtTjd5aUFLUTl2UW9mYXFyeW05NWVpNGhzUlBybnA0YjVRMC1haXJjaVU3azBkME5qX2VXbEpraEVlY0xCSmNpakJ5QTg0Q0tVeWNMZ21GMndPNElqMXJqdzl1T1hlVkVnY3gxaDZkQzc0b0Q0MHNCYQ?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 13:23:34 GMT",
-        "summary": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -987,11 +943,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 28
       },
       {
-        "title": "Broadcom vs. Nvidia: 3 Key Metrics Point to the Stronger AI Chipmaker to Buy After Earnings - finance.yahoo.com",
+        "title": "Broadcom vs. Nvidia: 3 Key Metrics Point to the Stronger AI Chipmaker to Buy After Earnings - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa2l5aUtfQWMwa2tyaWVmOXZNNlNCT2kzX2xyX2RmenJpbTZjMkxqRGFqZmNWTU1rRDBCVGhXTk1jMDZjbFJuQmR5NXFZTEFaZTA4dWZDSl9QWTBmMGVtQXB2VTFoY2dmb3BFWmhDRUlnVUQ0U3Q0NUxPLUtoR1pKUlpsbWd6eFVOUmg5ZkZ3WW0zUQ?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 10:20:00 GMT",
-        "summary": "Broadcom vs. Nvidia: 3 Key Metrics Point to the Stronger AI Chipmaker to Buy After Earnings &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "Broadcom vs. Nvidia: 3 Key Metrics Point to the Stronger AI Chipmaker to Buy After Earnings &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -1029,11 +985,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 28
       },
       {
-        "title": "[사이드B] '엔비디아 대항마' 리벨리온, 젠슨 황 손잡나…GPU+NPU 협력 주목 - inews24.com",
+        "title": "[사이드B] '엔비디아 대항마' 리벨리온, 젠슨 황 손잡나…GPU+NPU 협력 주목 - 아이뉴스24",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Qa0RLTFdxNHZwN2xsY0YtZXlCTTFDeklPUUNSQjNYOFpjNzgzQjE3amxRZ21kVmZXWWNmdGtyR3VZcUY3SGxMa21mNA?oc=5",
         "publishedAt": "Sat, 12 Sep 2026 22:00:01 GMT",
-        "summary": "[사이드B] '엔비디아 대항마' 리벨리온, 젠슨 황 손잡나…GPU+NPU 협력 주목 &nbsp;&nbsp; inews24.com",
-        "outlet": "inews24.com",
+        "summary": "[사이드B] '엔비디아 대항마' 리벨리온, 젠슨 황 손잡나…GPU+NPU 협력 주목 &nbsp;&nbsp; 아이뉴스24",
+        "outlet": "아이뉴스24",
         "outletUrl": "http://www.inews24.com",
         "source": "해외 빅테크 국내 보도",
         "sourceLang": "ko",
@@ -1096,27 +1052,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 28
       },
       {
-        "title": "딥엑스 NPU, 과기정통부 혁신제품 지정…공공 AI 시장 확대 - 팝콘뉴스",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50SGhTXzd4Z0pXT09KR2xvNi1EdXA1Q1E2TEpKUTVlbU9CWkQzQUE4WjkzcUpSQ3NueGpMODFYUjlxMGUydVlNQ2MxSVVjOWZuVmFLSGhUQ2FvbkUzUGI4ZEhqd0RGWnY4Q0UxaEZ30gFyQVVfeXFMT0NMSGx3RDV0b1NvcjN3eTlOSzUwTk1sWW9KQ29uRWt1dFJWdWVRSzFmUFNMSnZkbnZzN0V6YnctOFFLWEI2cHhkcTlUQVZZRV9Xa1dOUFZ0b0Rsa3NjNm5VRlJiMkZNYkYwbThveEMyNm9R?oc=5",
-        "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-        "summary": "딥엑스 NPU, 과기정통부 혁신제품 지정…공공 AI 시장 확대 &nbsp;&nbsp; 팝콘뉴스",
-        "outlet": "팝콘뉴스",
-        "outletUrl": "http://www.popcornnews.net",
-        "source": "딥엑스",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 28
-      },
-      {
         "title": "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 아성 흔들까 - 시사저널e",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xNUM0VnBvZTgwZGtZRVhfVWV5MWduY3RGZVo1T18yMnhWM0RKZTlQU0hTeTI2UFhtNzh2YnQ5QVdJallYczE0MkRzRkl0SGdvQ0xfQlhjdGplLWNTY25fQW9NbkVGTGx6eGkxaWpBMjNUUQ?oc=5",
         "publishedAt": "Tue, 14 Jul 2026 07:00:00 GMT",
@@ -1139,6 +1074,26 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "NPU",
         "score": 28
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang Makes Shocking Prediction About AI Market - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY1lENG5JOEFtc1JpT0JGQ04weDh1dzN6TjRNaVA2RXdmVG9GSnJrV1FvYzJmVF9CQWhwbXlVMERaLVoxZktVQkxkaGQ2OFRSWmRCR3kzWFhaQzU0OUhfZDE1a010WElVQkV1aTNqWWpOZ2diWGlocFNsVFdhZ1RUQUhSV1IwazE3QlNJXzBGRTJIVG1zR1RpZF9RZnRmZ0dXMThHb3JPUzRqMF85TGpUU3BkLS1VQjBySWk1MElsXzJDaGNaS3NWV3hybEF5ZmhDeDFJVWt6NmxMRENkR0tnSW8yZVQ5Vk0?oc=5",
+        "publishedAt": "Tue, 15 Sep 2026 00:22:39 GMT",
+        "summary": "Nvidia CEO Jensen Huang Makes Shocking Prediction About AI Market &nbsp;&nbsp; The Globe and Mail",
+        "outlet": "The Globe and Mail",
+        "outletUrl": "https://www.theglobeandmail.com",
+        "source": "AI 시장 전체",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 27
       },
       {
         "title": "Nvidia CEO Jensen Huang Makes Shocking Prediction About AI Market - The Motley Fool",
@@ -1223,7 +1178,7 @@ window.__DASHBOARD_DATA__ = {
       {
         "title": "Musk Says SpaceX Will Put Nvidia AI Computers in Orbit Next Year - finance.biggo.com",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BWE5vNXBZekcwMUJ0bUdkR0x2OVdKSW03TVhXSzNrbUJRVkRGVXFEdUZzTGNmZVJCVTZGQmFidWN1T1hOcVp0QUxnSXJrb0ZYNmJUem5TR2wwUklZaHhIOTdkd3lsUV84RFQwYkZHcEp6MDdCYnc?oc=5",
-        "publishedAt": "Mon, 14 Sep 2026 18:08:31 GMT",
+        "publishedAt": "Mon, 14 Sep 2026 18:05:00 GMT",
         "summary": "Musk Says SpaceX Will Put Nvidia AI Computers in Orbit Next Year &nbsp;&nbsp; finance.biggo.com",
         "outlet": "finance.biggo.com",
         "outletUrl": "https://finance.biggo.com",
@@ -1281,11 +1236,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "NVIDIA vs. Marvell: Which AI Infrastructure Stock Is the Better Buy? - finance.yahoo.com",
+        "title": "NVIDIA vs. Marvell: Which AI Infrastructure Stock Is the Better Buy? - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkRKVFNnNDR4d19VVXhqMEJia1JrTU15VGpzMDRiT0U5ckNudk1JVWx4NFk1a2dadGdoWTBfTl9BZWh3NzVOWWZIZlZkcHVOelR4MVVLTDFhTE1rbHhwQ2h2TjJWc3loYnlKTmdIT3pkdFBqUGtxTVc1M29zQWZBcm55eko0eFBMZjR4ZllFYm51R3dvbUNkczdUVXZhUzg2?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 13:44:00 GMT",
-        "summary": "NVIDIA vs. Marvell: Which AI Infrastructure Stock Is the Better Buy? &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "NVIDIA vs. Marvell: Which AI Infrastructure Stock Is the Better Buy? &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -1321,11 +1276,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "Broadcom’s Anthropic Ramp Puts Google’s TPU Business in a Different Light - finance.yahoo.com",
+        "title": "Broadcom’s Anthropic Ramp Puts Google’s TPU Business in a Different Light - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnJSMDVoRE4wZXdlbHRpd3NhaXplUDVzRWJWTUczbUhDRVBDZXVPVUFTOE05QlJTR3NuYjY3MXcwOFBVZm9xellQYTZMVHhiNXF6UEdsOFFJZXVLT2w5U3NBNTg2RVQxRDhGajZ0eWR0MnFUSzNxNmFmVnhQVVE1ZXlKLVJGZnphLXdDZm9mU0RUeUEyNmY4TFkxcTkzcG1J?oc=5",
         "publishedAt": "Sun, 13 Sep 2026 11:38:04 GMT",
-        "summary": "Broadcom’s Anthropic Ramp Puts Google’s TPU Business in a Different Light &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "Broadcom’s Anthropic Ramp Puts Google’s TPU Business in a Different Light &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "Google AI 이슈",
         "sourceLang": "en",
@@ -1405,7 +1360,7 @@ window.__DASHBOARD_DATA__ = {
       {
         "title": "Microsoft's $678B Backlog vs Alphabet's 82% Cloud Growth: The AI Capex Reckoning - finance.biggo.com",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zYkZXNFp1WUl5MmdOVGdTenUxdUs4Vjg1VC1adUlONDhOb3lxMW9Vb2ZqWmlPMFZvS2RCMVhtamNkdm10NzgyUjBlR3RjZTEtOEJXZ3pmRHFRQWRUR09sXy1FYVItVGVlSzRMVmZOR0tBWHBtbUE?oc=5",
-        "publishedAt": "Mon, 14 Sep 2026 18:17:00 GMT",
+        "publishedAt": "Mon, 14 Sep 2026 18:18:16 GMT",
         "summary": "Microsoft's $678B Backlog vs Alphabet's 82% Cloud Growth: The AI Capex Reckoning &nbsp;&nbsp; finance.biggo.com",
         "outlet": "finance.biggo.com",
         "outletUrl": "https://finance.biggo.com",
@@ -1462,6 +1417,23 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
+        "title": "경북도, AI최고급신진연구자지원사업 선정…국비 110억 확보 - 다경뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1JZ1Q0S09Ta3ZzTWpDM3NZTXhxaFNXLTJBcEZNclRXWTY2OWFEYmQyc1hmSXlYTG9GblJOel9uQ0syV1ZS?oc=5",
+        "publishedAt": "Mon, 14 Sep 2026 11:22:00 GMT",
+        "summary": "경북도, AI최고급신진연구자지원사업 선정…국비 110억 확보 &nbsp;&nbsp; 다경뉴스",
+        "outlet": "다경뉴스",
+        "outletUrl": "http://www.dkitnews.com",
+        "source": "AI반도체 공공사업",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "정책",
+        "score": 26
+      },
+      {
         "title": "과학기술정보통신부, 한-중앙아시아 미래 인공지능·과학기술 동반관계((파트너십) 장관회의 개최 - 저널25방송",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHOEJhVzJ4S3F6MXd2YlJKV2JnWFA2VERaY1pRZEpXbXBYOExreGhYSnRqczVsRlAxVFBCVjZ3XzZReUx6NG1NanBFYlZEemhNRW5naVhKT1hFbkxuOEdzVURHMlIxdHltbUtHSw?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 10:22:20 GMT",
@@ -1496,23 +1468,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "경북도, AI최고급신진연구자지원사업 선정…국비 110억 확보 - 전국안전신문",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Ra08waEtYY1hpb21Uc3NySmJwOFVDcUN3MlRzdVp1VFBZMm1TTUFZSHFJclpkVG1hYWZuWlJBbDE5V1YtdmVxNkRtVnA?oc=5",
-        "publishedAt": "Mon, 14 Sep 2026 09:19:00 GMT",
-        "summary": "경북도, AI최고급신진연구자지원사업 선정…국비 110억 확보 &nbsp;&nbsp; 전국안전신문",
-        "outlet": "전국안전신문",
-        "outletUrl": "http://www.kbsecuritynews.com",
-        "source": "AI반도체 공공사업",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
-        "score": 26
-      },
-      {
         "title": "미소정보기술, 과기정통부 에이전틱 AI 국가 R&D 사업 선정 - 데일리시큐",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yR0lzSFMyQ25rdV9SVUVjMkJCbVd6SEstbV94OW9DSWRzN0drM3NJM09yUWNnbEgydU44bi0yeW44S2c1YUF4Q2ZlSnJBd3Q4aV8wLTBPa3N3c0prSkRUZnYwTTU0Z1B4UmNBTQ?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 08:50:33 GMT",
@@ -1530,11 +1485,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "경북도·영남대, 정부 AI 신진연구자 지원사업 선정…국비 110억 확보 - eroun.net",
+        "title": "경북도·영남대, 정부 AI 신진연구자 지원사업 선정…국비 110억 확보 - 이로운넷",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zNGw5UFlnMUZXYjFXM1M1NDg4SnpPTW1JaWJzMFA5dlpXb042eXR5NDk2bWlGcGgwZVlXWWVQVC12SkkwbWJfNXVZQUVrS0FUaFRuRFd6T3NCS0hnaXl6MFZfN2lmdw?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 08:47:23 GMT",
-        "summary": "경북도·영남대, 정부 AI 신진연구자 지원사업 선정…국비 110억 확보 &nbsp;&nbsp; eroun.net",
-        "outlet": "eroun.net",
+        "summary": "경북도·영남대, 정부 AI 신진연구자 지원사업 선정…국비 110억 확보 &nbsp;&nbsp; 이로운넷",
+        "outlet": "이로운넷",
         "outletUrl": "https://www.eroun.net",
         "source": "NIPA·과기정통부 정책",
         "sourceLang": "ko",
@@ -1568,11 +1523,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "\"공공조달 판로 넓힌다\"…딥엑스, 저전력 K-NPU '녹색기술' 인증 - news1.kr",
+        "title": "\"공공조달 판로 넓힌다\"…딥엑스, 저전력 K-NPU '녹색기술' 인증 - 뉴스1",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YOVczQlJrRFk4RkZEUkhBakdCNjBvNU5MbDlRNzVTbmp1WGQ3eVU1enRyRi1NblM4Rmo1LWF5X2hjRm4xeDN4ZVY3M1lGVHVfMnh4MFpjX19LVUda0gFiQVVfeXFMTk01N0NCS1loUVNEZGZIcUlqLWpjYjhjUmczcHRaZEt6ekxNaFU1VnpNYlJQbTg2Mjk5amxSdWxXNEpScElJelFTb0Q5ZWVyWW45Wlh1TnRmTTlBWGpHWG9pdXc?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 08:30:32 GMT",
-        "summary": "\"공공조달 판로 넓힌다\"…딥엑스, 저전력 K-NPU '녹색기술' 인증 &nbsp;&nbsp; news1.kr",
-        "outlet": "news1.kr",
+        "summary": "\"공공조달 판로 넓힌다\"…딥엑스, 저전력 K-NPU '녹색기술' 인증 &nbsp;&nbsp; 뉴스1",
+        "outlet": "뉴스1",
         "outletUrl": "https://www.news1.kr",
         "source": "국내 NPU 기업",
         "sourceLang": "ko",
@@ -1623,11 +1578,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "'젠슨 황' 깜짝 방문 NIPA 글로벌 평가 협약식...박윤규 원장 \"'독자 AI' 해외 검증 강화\" - inews24.com",
+        "title": "'젠슨 황' 깜짝 방문 NIPA 글로벌 평가 협약식...박윤규 원장 \"'독자 AI' 해외 검증 강화\" - 아이뉴스24",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5SFQ5dk9RMXJJMDE0X1FhMm1vOEZDdVlTTjB0UlRabC0tZUpsQWtwQi0wcjZ1c003Z1BnaU1NNkVDeFVvMVlaTzlSaw?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 07:56:41 GMT",
-        "summary": "'젠슨 황' 깜짝 방문 NIPA 글로벌 평가 협약식...박윤규 원장 \"'독자 AI' 해외 검증 강화\" &nbsp;&nbsp; inews24.com",
-        "outlet": "inews24.com",
+        "summary": "'젠슨 황' 깜짝 방문 NIPA 글로벌 평가 협약식...박윤규 원장 \"'독자 AI' 해외 검증 강화\" &nbsp;&nbsp; 아이뉴스24",
+        "outlet": "아이뉴스24",
         "outletUrl": "http://www.inews24.com",
         "source": "NIPA·과기정통부 정책",
         "sourceLang": "ko",
@@ -1866,11 +1821,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "Prediction: Broadcom and Nvidia Will Be 2027's Best Performing AI Stocks - finance.yahoo.com",
+        "title": "Prediction: Broadcom and Nvidia Will Be 2027's Best Performing AI Stocks - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDdYX2xIeko5RFR1dlJ3TTZfMW1KdUNRQS0tcVJ4ZGNyRmhxb0dRUzRYR21udnF3NlB0VlhpenNjUDE4WU8tMDZKZ2xkQnVxdGpYTG9teDBFT29UMm9KYzkwazFFQm16V0FkTmNoWTNPNGtTS0JJVjk2Y2hDRjl1eFFaSzhLMUVFTVR3QTJ1NmRyeUNhRE5KZ3liRGtQellDN05QLQ?oc=5",
         "publishedAt": "Fri, 11 Sep 2026 10:50:00 GMT",
-        "summary": "Prediction: Broadcom and Nvidia Will Be 2027's Best Performing AI Stocks &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "Prediction: Broadcom and Nvidia Will Be 2027's Best Performing AI Stocks &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "AI 투자·자본시장",
         "sourceLang": "en",
@@ -1927,29 +1882,6 @@ window.__DASHBOARD_DATA__ = {
           "리벨리온",
           "NVIDIA",
           "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 25
-      },
-      {
-        "title": "'엔비디아 의존 벗어나자'... 정부, AMD와 국산 NPU 실증 약속 - 한국일보",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56dkdacDNqNmlHLUtaQ2dYdFRXclVoLVpBNVJ3R3ZESU9OdnRTU1VQeFJNV3pyZnpoRUxXbUtkZC1ody03N0hXYVdwSHlxTWRyalZUbl9KSm5WUDhJUDVxbXUyVmRpTFkweGNJMTd30gFzQVVfeXFMT21zblMwSy1LbGJGNkpIYkQ1Qlc3WXlfVWJwUEdpbXJDYV9FWFZCc0NtZ3BENWhEM0pIbms2Q1RoWmhoWGRCbFg4NVJqdE1yVVN6UXljZDJMMlFtYjh1cEFuU0NVVnViQWVyZ3dVUHJSalJaOA?oc=5",
-        "publishedAt": "Thu, 20 Aug 2026 07:00:00 GMT",
-        "summary": "'엔비디아 의존 벗어나자'... 정부, AMD와 국산 NPU 실증 약속 &nbsp;&nbsp; 한국일보",
-        "outlet": "한국일보",
-        "outletUrl": "https://www.hankookilbo.com",
-        "source": "AI반도체 공공사업",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "K-엔비디아",
-          "NVIDIA",
-          "실증·조달"
         ],
         "issueCategory": "AI시장",
         "score": 25
@@ -2059,11 +1991,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "박성현 리벨리온 대표 “이젠 NPU 시대…K추론으로 엔비디아 독점 깰 것”[서울포럼 2026] - sedaily.com",
+        "title": "박성현 리벨리온 대표 “이젠 NPU 시대…K추론으로 엔비디아 독점 깰 것”[서울포럼 2026] - 서울경제",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yS1IwRVd6RXFuUTE0RHN3U2pQSDQyX3VWVWJibFVDTkdkT2pqZWFTRDJsdjA0ajlINGVEdTdDdktPcVVOYXdRY0tjRXhTUmlyYWfSAVNBVV95cUxOZVZWS3UzR091MVRrZWw4XzBnaWNucWF3Ni1XTTJZcEZvZFpHM3ZSQ2VpYlN6a00tMjFHblZOWUFUeDF3LUJmYklaUFU0bDRKTEdlQQ?oc=5",
         "publishedAt": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "박성현 리벨리온 대표 “이젠 NPU 시대…K추론으로 엔비디아 독점 깰 것”[서울포럼 2026] &nbsp;&nbsp; sedaily.com",
-        "outlet": "sedaily.com",
+        "summary": "박성현 리벨리온 대표 “이젠 NPU 시대…K추론으로 엔비디아 독점 깰 것”[서울포럼 2026] &nbsp;&nbsp; 서울경제",
+        "outlet": "서울경제",
         "outletUrl": "https://www.sedaily.com",
         "source": "리벨리온",
         "sourceLang": "ko",
@@ -2105,9 +2037,47 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
+        "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms - Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3M1a2l6cFhqNFdBZ3lhb2xadWNzaTYtZnNqaHQ3RXRBVTBCMTFDd21yeS1BS3JPaW5qcVJPVTJ1aDBZbXlpVGM4NllDQkZlakFzRjg2V3Z4VzdrMHdXdVpJYkhrZlJfbVM1NDlqc29ieGhYSk8zdjZ6MW96OW1xRHpsZHdkSXJfSm1DMHlMVFN2T3Etb3l6WnJkNk1wUnRzclZvbU1IWm1FQmJsb1VscW84NzlPanhZUU1MOGNjYTI0NmZjTWp5RktBQnRQZw?oc=5",
+        "publishedAt": "Tue, 15 Sep 2026 00:14:00 GMT",
+        "summary": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms &nbsp;&nbsp; Investor's Business Daily",
+        "outlet": "Investor's Business Daily",
+        "outletUrl": "https://www.investors.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "Trump calls Nvidia's Jensen Huang onstage, dismisses AI safety as a hoax - Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWW15QW9PVFY1VkI1c1dCRXNNcjl4N3czbmhEWXpES0RRZkw0eFBQTC00aWJXcWsyUlFfMnpOU0RwWkwtZzlNRHZIWTBhXzN1N2UzRWZ6Y2RlUnV2YW8wNVFCZ2Nrc2JEaFZoRnl4b2RyallobUhFczBwNHNQcXV5elFOckFjT2tlOVVXU01DbDg5YmlNTWhZ?oc=5",
+        "publishedAt": "Tue, 15 Sep 2026 00:14:00 GMT",
+        "summary": "Trump calls Nvidia's Jensen Huang onstage, dismisses AI safety as a hoax &nbsp;&nbsp; Yahoo",
+        "outlet": "Yahoo",
+        "outletUrl": "https://www.yahoo.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 24
+      },
+      {
         "title": "In onstage call with Nvidia CEO, Trump deems AI fears a ‘hoax’ - The Washington Post",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3RBWGtraWt0SC0yTlFiNlNtUEtXcHZGMWpWR3MzTnJBNm9lb09NdEpfLWQ1OWg0by1uWmUwUTcwRGplNUVhRGs4OWNzV21VbkZPSzJFSWVSb1lrSHBLXzkxMVdPcGJlSVo1X2FCa1VLc3B4XzY0c1p1S2w0TllOVDZkOGU5Y3NZZEIxZUl5SmV3NG5kaWpDczZzN2NIOFAyYkNwU3AtbmREUQ?oc=5",
-        "publishedAt": "Mon, 14 Sep 2026 23:51:09 GMT",
+        "publishedAt": "Tue, 15 Sep 2026 00:10:04 GMT",
         "summary": "In onstage call with Nvidia CEO, Trump deems AI fears a ‘hoax’ &nbsp;&nbsp; The Washington Post",
         "outlet": "The Washington Post",
         "outletUrl": "https://www.washingtonpost.com",
@@ -2235,6 +2205,25 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "NVIDIA's RTX 5090 cards are ending up in AI servers in bulk instead of gaming PCs - TweakTown",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMk53em1jSEtzWHdFUUtkcUk3M29LazJQQ0VQWHY4bzZTRmRGV3BGR1paZDJHU0I4TWlUWkVhSmR5Z3Q5c2p4aUxwYW5vcmF3UG85QnIzYWN5bUJyX25pQlJPbUNqTWFPV3k2Sm9lUzNCV1ZCS3BqbWR5REFiRUVQY2lZUkppV09EU1NIUTlhYWIzSHE0TmxFZHE5MWRTT3piZEdHSFVNbm1iVUJhZFNVUDR6aWVidDBNY2ZGZHFhRnc1bG1wQVFYdw?oc=5",
+        "publishedAt": "Mon, 14 Sep 2026 21:10:12 GMT",
+        "summary": "NVIDIA's RTX 5090 cards are ending up in AI servers in bulk instead of gaming PCs &nbsp;&nbsp; TweakTown",
+        "outlet": "TweakTown",
+        "outletUrl": "https://www.tweaktown.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
         "score": 24
       },
       {
@@ -2409,11 +2398,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Trump Phones Jensen Huang Live Against AI Slowdown Fears. NVIDIA Stock Reacts - finance.yahoo.com",
+        "title": "Trump Phones Jensen Huang Live Against AI Slowdown Fears. NVIDIA Stock Reacts - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcEJMeC0zbnRRZ3Q2aUlHWWlPaGloRl90RDY3RU5NYnhUNWcwOWpsWk84Z2dPWlMtS1RTdmxfTjdWRHlfOHhRN2xlNUtoNmU2SlQ3bV9sMXVVUGpQMGExZTVMcVNtbGdtTUROTW45cnQtVWRuQTJqNmJKM0NpVFBLUHBHb1VjZlRrRHR3S1Y1OENJbXoxc21UN1Jn?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 20:11:54 GMT",
-        "summary": "Trump Phones Jensen Huang Live Against AI Slowdown Fears. NVIDIA Stock Reacts &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "Trump Phones Jensen Huang Live Against AI Slowdown Fears. NVIDIA Stock Reacts &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -2466,11 +2455,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "AI Leaders Say Slow Down. IREN Says Compute Demand May Never Be Satisfied. Nvidia Sits in the Middle - finance.yahoo.com",
+        "title": "AI Leaders Say Slow Down. IREN Says Compute Demand May Never Be Satisfied. Nvidia Sits in the Middle - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLTZwLTJYRjRkYTVjZm1lNXN3MnAzbk5tTFF6X1g2RWFRTVpGMzU3VkRMcTBvV0tGTVVWazBWVUhoYTJ5MkxqamMwZXN1aU9qd2loNjRMbTZaWmFTa25DbjE5WERvM3RLSDAtbmhzMmprb2hWZFNHVzlZWEJHNUN0dVBEbENOQ1ktLVY3VTNZdTg3WVk?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 19:05:19 GMT",
-        "summary": "AI Leaders Say Slow Down. IREN Says Compute Demand May Never Be Satisfied. Nvidia Sits in the Middle &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "AI Leaders Say Slow Down. IREN Says Compute Demand May Never Be Satisfied. Nvidia Sits in the Middle &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -2599,6 +2588,25 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
+        "title": "Nvidia's Rubin Ultra to Ship With Less Memory Than Predecessor, Analysts Say — First Reversal in Flagship GPU History - finance.biggo.com",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IS2R4QUpkWXNPY1ZtWk85RERtZWd2Zk1XMC1aNG5Lc3U2VURDNHdxa0tOTUhwR2twQjk1VmtJOXpLYTlkY2V1MUwwbE1aYUFzLVJjcVI5STFLejQ?oc=5",
+        "publishedAt": "Mon, 14 Sep 2026 18:13:16 GMT",
+        "summary": "Nvidia's Rubin Ultra to Ship With Less Memory Than Predecessor, Analysts Say — First Reversal in Flagship GPU History &nbsp;&nbsp; finance.biggo.com",
+        "outlet": "finance.biggo.com",
+        "outletUrl": "https://finance.biggo.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 24
+      },
+      {
         "title": "Nvidia's RTX 5090 vanishes from online retail in the US — third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU - Tom's Hardware",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOc0U3M2NmUWhvTkhvOHhvTWQxeVZyMnlCSnVmemNzXzFQeElZVHpnN3pZV3hFbEZTN2Nkd3doZC1UdEVwUjVXX3RxLTh5NzJIT25pazdKYmpsWXNhcDE4YTVkV0ZPNVRKNHpRcmpFdk1xTEdQckU2MGVNamFTTnFIblhxblZoRG04TFo3eEtDMUdfbXgyY1dNNzh3NjZUUDFtc29UUFlKYlJPRGtTSHFKc0lYdmJwQ19acjVfRzQ4dWZYYS1kU1FtdGlGQUZMVHRYRFY4TUZpdU4zWFBwc2hnUXByVTRvVmZWWS1FeS1sQUdHZjB0VmVqY0dwdU42TjhEQlh2NzRNOHU?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 17:41:01 GMT",
@@ -2637,11 +2645,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks - finance.yahoo.com",
+        "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGJmRmlEeW5IR201a1ZEU1V2TFl1dVFGRFk0VjJ5WThjc2ZuVVVlQU5ybmNTdTh2UnMyc0kycEpacndDN0ZKSlEwVkxCa1dhazJjYW9IcFFTUW5EbW5Gbmoydm5lSDFQeUlCUkJETU9HUWFlbVZaZG5sNVNLZTUyT2doS1pPdV9sS2lkdFZ0QmpUR2s0XzluU0NlempTQQ?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 17:40:04 GMT",
-        "summary": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -2675,11 +2683,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "SecEdge Extends Its AI-TRUST™ Platform to NVIDIA Jetson Orin Nano 2 - The National Law Review",
+        "title": "SecEdge Extends Its AI-TRUST™ Platform to NVIDIA Jetson Orin Nano 2 - natlawreview.com",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlZHMWxyYURxYnZSZlRzUm5hdmVsVWZRYlROU3BjcmhHekd4MldYWVdKVW91QXdKRWFDSVdNbzI2RkNobEhnZnNIWnNoc2NUY0lrOFAwTl9EOEpuRWIybzR0OEV6RlBDeHB2Q3otOUczV25xVTlXUG9MTktXRU15YzRkbDFKRUpJb2U5SFB1NUJuU2d4RThTakRSNk9YOWJkaEJmTmtkSlQ?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 16:51:04 GMT",
-        "summary": "SecEdge Extends Its AI-TRUST™ Platform to NVIDIA Jetson Orin Nano 2 &nbsp;&nbsp; The National Law Review",
-        "outlet": "The National Law Review",
+        "summary": "SecEdge Extends Its AI-TRUST™ Platform to NVIDIA Jetson Orin Nano 2 &nbsp;&nbsp; natlawreview.com",
+        "outlet": "natlawreview.com",
         "outletUrl": "https://natlawreview.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -2694,11 +2702,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Nvidia, Palantir Pull Back From Anthropic Models Over Fears AI Could Expose Corporate Secrets - finance.yahoo.com",
+        "title": "Nvidia, Palantir Pull Back From Anthropic Models Over Fears AI Could Expose Corporate Secrets - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkVqYlhKSFp5YWZUb0s2NWhMSnctcTZYdkNHemFJenk1d2VLTGNQemlYLTd6WWRNbllDSjBLcmtQcFVsV2xybm8tMXlOM3ZmY2RqV1ZxN3lpV0FpVjNSTGY1MmpJMUIyZGlZVHA0UWgtN1pKQzQ5VDg0bjdTN1N5WlhlRG50WmNSNC1vQTZTZGk0NnA1aF9FS1dVbjJXZ245?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 16:48:22 GMT",
-        "summary": "Nvidia, Palantir Pull Back From Anthropic Models Over Fears AI Could Expose Corporate Secrets &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "Nvidia, Palantir Pull Back From Anthropic Models Over Fears AI Could Expose Corporate Secrets &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -2732,11 +2740,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "RXT Stock Jumps As Nvidia, Palantir AI Push Gains Steam - StocksToTrade",
+        "title": "RXT Stock Jumps As Nvidia, Palantir AI Push Gains Steam - stockstotrade.com",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0I0VlBhU3BVMktES0JLRmVTNjRqbzZkVVh0SDZMLTFCTUY3ZGgyaHotcGxSRUl0c3pHWDFIZFExem5jWk1aRExkRXJNLVdDMTdjVm1fNG9oc3ZIaXhKemo0NTVIZm1fNDliU3BUV1N2ZXV1XzRBQTRCMjRoZ3U2dE9B?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 16:33:00 GMT",
-        "summary": "RXT Stock Jumps As Nvidia, Palantir AI Push Gains Steam &nbsp;&nbsp; StocksToTrade",
-        "outlet": "StocksToTrade",
+        "summary": "RXT Stock Jumps As Nvidia, Palantir AI Push Gains Steam &nbsp;&nbsp; stockstotrade.com",
+        "outlet": "stockstotrade.com",
         "outletUrl": "https://stockstotrade.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -2843,25 +2851,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "NVIDIA",
-        "score": 24
-      },
-      {
-        "title": "Watch Ex-Google DeepMind Insider: Why We Must Slow Down AI Now - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1BSRnNSeDRPUzVET1dRY1Q0V1VXVEFmMzlxNFFzUDZwaEZvVzlqbnNENWlFTFkzNkdSLTJNS1ZIV3JsTVo0WWgzVGRVREpyZXJDVnlxTHMwUWozVUdFQkdiU1RnWm83NDhxOW1xUVdVZ3ZyQjBXNmZRTUtNeU5aTmJ3c2pyTEYzWFdrUEg5ZEVtQWw5ZGt4aWhZNjVYTVBCampSTE9Rd2c2YndMeEFN?oc=5",
-        "publishedAt": "Mon, 14 Sep 2026 15:11:31 GMT",
-        "summary": "Watch Ex-Google DeepMind Insider: Why We Must Slow Down AI Now &nbsp;&nbsp; Bloomberg.com",
-        "outlet": "Bloomberg.com",
-        "outletUrl": "https://www.bloomberg.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
         "score": 24
       },
       {
@@ -3017,25 +3006,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Elon Musk Just Made a Huge Nvidia AI Prediction About Space - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ25hejBLNl9hMkZ3Y256TjNLaUk2WG9fVWowMjNjaVFld0dWeUY0ekg5UzNmY05FelJ6d1RxeFE5aUo3dFdJbURQU3ZPbzk2YmpBbWFHMTd3dGtSMDBJUW9aRGV5WUJ3c1hYZ2tDdXdpdHpfbl9WRTZaakpRUkZFU1ZNSzhzX1JtVUJ5aUJfVzFsOUJ0ZWt6SVBfUUZhd3V4cHVyNHNjZ2R0SUdDX0RMc1d2SGQtbl9IYlA0?oc=5",
-        "publishedAt": "Mon, 14 Sep 2026 12:04:00 GMT",
-        "summary": "Elon Musk Just Made a Huge Nvidia AI Prediction About Space &nbsp;&nbsp; TradingView",
-        "outlet": "TradingView",
-        "outletUrl": "https://www.tradingview.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 24
-      },
-      {
         "title": "I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner - The Guardian",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ293cEVsbzZabVBzajMtUW1fdmxKNzk3d05fNlUtTzJ3M2pZNi04STBQWlZwMkRxU0ZVVEpCRmpjRTVmcHh2OHhFQ1FEejZLVEhSSElLaXZZeWNtVDlteVhZMUJnYW85NUVOc3NmazhTeURSUjZoZlpfalVBU0IydlEwZ3I?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 12:00:00 GMT",
@@ -3094,22 +3064,22 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "‘We need more time’: Another researcher quits over AI risks, this time from Google DeepMind - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV3hFanQ3RE9BRElYcXpSZ2dQWlNsRUFxTmxCRU5sZFBMOVg5cExoWThQV0g1Wm9aNTlPQkc1M3lIRGFIb0o2M1dHN0tsM1Y4ZkhIRUJkVW9HQkJhQTVGR0xHX3VBcDUyUHVEQVphWXVkTDhOYTJZZnEtdFlGOXZoWjJRamRLcjNaR25Ca3BGV3dKNGxfcF9nOTI3ekgyOU5Ob0s3MGdJV3NsMmc5RFdKM0NwMWhnNGg2dmNISDM4UnFiWS1acm5z0gHOAUFVX3lxTFBxRFlabEE0MXAycFdIbDEtV29fTFVUTkZZRmtKRUZ4czdIc29fMERrS0JyLWQ3QkhJdlFmYWJpb0dYQ0N1WFlWd1pkMnQ5NDlmc1VYRk45Z19IY2d6Ni1DZDdxOFl5WXE2MjBXWURtZUJtNGY0UTdLODU1TWZXVkVLbkw0Yk5WUlJnRHBEX3JlTmdndUM2R1lDRWVDeU9jUVpLM0s0Rzg4V0ZQMVFjWDYyUWFLbzRGS0kzcEw3WGpwLTY4Ump1WFdCQ3BDOVJ3?oc=5",
-        "publishedAt": "Mon, 14 Sep 2026 10:34:17 GMT",
-        "summary": "‘We need more time’: Another researcher quits over AI risks, this time from Google DeepMind &nbsp;&nbsp; The Indian Express",
-        "outlet": "The Indian Express",
-        "outletUrl": "https://indianexpress.com",
-        "source": "Google AI 이슈",
+        "title": "Nasdaq futures slide as AI warnings rattle markets; Nvidia, other chip stocks retreat - WTVB",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0VsS1NCVU1hc1FqUUl0WjZPMHVDMWc2b1Y3U0x3TnppYm02V0p2RS1fd2NQZm1VTjhiUGVSbmhZeTE1Z1dzMDRrWTRHVHBpM3ZkTXZxdUZWSkdSR3VxVG45SEE5X0l3QzEtZFlEWlA5d2wxMF92c0dKak1Sa1hGTFZxUFl2ck1IZnQwZQ?oc=5",
+        "publishedAt": "Mon, 14 Sep 2026 10:40:37 GMT",
+        "summary": "Nasdaq futures slide as AI warnings rattle markets; Nvidia, other chip stocks retreat &nbsp;&nbsp; WTVB",
+        "outlet": "WTVB",
+        "outletUrl": "https://wtvbam.com",
+        "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "Google"
+          "NVIDIA"
         ],
         "taxonomyHits": [
-          "Google"
+          "NVIDIA"
         ],
-        "issueCategory": "Google",
+        "issueCategory": "AI시장",
         "score": 24
       },
       {
@@ -3190,11 +3160,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "퓨리오사AI, 싱가포르 법인 설립…아시아·태평양 AI 추론칩 거점으로 - 조선일보",
+        "title": "퓨리오사AI, 싱가포르 법인 설립…아시아·태평양 AI 추론칩 거점으로 - chosun.com",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeXJWYnBTaE9QcllrcndwRTB2bHFoYmk4U1l4VjBFRmVRc3dTTnpPOUZCUWdRRTB4ZHlnSEl6czFjNmw2UkwwUlZGRWx6TExMMDB2enNldU5zcjhib0ctS3JZVUIteGhwVXlLcTg1anJGM0o4RFB6cEhmMjB3dHF1UUhMZw?oc=5",
         "publishedAt": "Fri, 11 Sep 2026 02:06:06 GMT",
-        "summary": "퓨리오사AI, 싱가포르 법인 설립…아시아·태평양 AI 추론칩 거점으로 &nbsp;&nbsp; 조선일보",
-        "outlet": "조선일보",
+        "summary": "퓨리오사AI, 싱가포르 법인 설립…아시아·태평양 AI 추론칩 거점으로 &nbsp;&nbsp; chosun.com",
+        "outlet": "chosun.com",
         "outletUrl": "https://www.chosun.com",
         "source": "국내 NPU 기업",
         "sourceLang": "ko",
@@ -3230,11 +3200,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "퓨리오사AI, 아태 AI 추론 인프라 사업 속도 낸다…싱가포르 법인 설립 - it-b.co.kr",
+        "title": "퓨리오사AI, 아태 AI 추론 인프라 사업 속도 낸다…싱가포르 법인 설립 - 아이티비즈",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xbGJ6Z3ROcHJQMFJnZl83M2hGVEM3VVM3VjhQSF9EX3hqMjNTTHdoQWNWbFBRVmM3blgtV3k4Y08tUm9PeUQwYmN0Tm5SMXdJRHNzRktQX2xUb2Z3VnNtTXd1MmRNZ00?oc=5",
         "publishedAt": "Fri, 11 Sep 2026 01:07:51 GMT",
-        "summary": "퓨리오사AI, 아태 AI 추론 인프라 사업 속도 낸다…싱가포르 법인 설립 &nbsp;&nbsp; it-b.co.kr",
-        "outlet": "it-b.co.kr",
+        "summary": "퓨리오사AI, 아태 AI 추론 인프라 사업 속도 낸다…싱가포르 법인 설립 &nbsp;&nbsp; 아이티비즈",
+        "outlet": "아이티비즈",
         "outletUrl": "https://www.it-b.co.kr",
         "source": "국내 NPU 기업",
         "sourceLang": "ko",
@@ -3292,11 +3262,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Accenture and Google Cloud Launch Gemini Enterprise Business Group to Scale AI Adoption - finance.yahoo.com",
+        "title": "Accenture and Google Cloud Launch Gemini Enterprise Business Group to Scale AI Adoption - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2V4YTF2VUVQQV9fbGtGcDN6bjdFNHNYS1FmQ0ZFYi1CX2VnNmRFR3M4eXVpSE42ZWowdURJRFFsVHB0Z0drU1ctR281dGYySGNXNTgtX0RxZngwYU9pZWtiRkYyRkdyZU9haWE4TmtqUmlZdXpqSkRUcVRRQnZ0TFZGOGZvMXRVdFdRWnd5UVhyNnBZampQallsUWNDejhCY2c?oc=5",
         "publishedAt": "Tue, 08 Sep 2026 13:48:31 GMT",
-        "summary": "Accenture and Google Cloud Launch Gemini Enterprise Business Group to Scale AI Adoption &nbsp;&nbsp; finance.yahoo.com",
-        "outlet": "finance.yahoo.com",
+        "summary": "Accenture and Google Cloud Launch Gemini Enterprise Business Group to Scale AI Adoption &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
         "outletUrl": "https://finance.yahoo.com",
         "source": "Google AI 이슈",
         "sourceLang": "en",
@@ -3517,6 +3487,66 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
+        "title": "Samsung backs Nvidia rival Euclyd in $230M Series A - Dealroom",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbnUycUZ5Vmh1aDZ0NG9JOXpibjhpNmVBWXZSMS1RcHpDN19fQ29Wckx4UVBZcFRfaVFTbm1ORTU0eVI0eGRhY1hyR0Z2NGdhV1Q3cGZBSTFaS2QxVUgyeGlzVTN1dENqZmNQS3h6SVFtWVZ6RzdJM2o0V0dsc1c0d0d6Z1Z1WEJFSl9SdQ?oc=5",
+        "publishedAt": "Tue, 15 Sep 2026 00:19:04 GMT",
+        "summary": "Samsung backs Nvidia rival Euclyd in $230M Series A &nbsp;&nbsp; Dealroom",
+        "outlet": "Dealroom",
+        "outletUrl": "https://app.dealroom.co",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Samsung"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 23
+      },
+      {
+        "title": "MS·알파벳부터 앤트로픽·오픈AI까지…NH아문디, '에이전틱 AI' ETF 상장 - 비즈워치",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sYWI1elNjMEVGb2l2QS1XaHM3aXBaUTVCVnc5SGhiRzFGMmtYSk9ENk9HZEJsUjcxSU5uaEIzblhad0N4eEFsRnpLczB4VGlvdnpINFl4MXZncEluZ1VlOEFfNlptTWI2TlE?oc=5",
+        "publishedAt": "Tue, 15 Sep 2026 00:09:02 GMT",
+        "summary": "MS·알파벳부터 앤트로픽·오픈AI까지…NH아문디, '에이전틱 AI' ETF 상장 &nbsp;&nbsp; 비즈워치",
+        "outlet": "비즈워치",
+        "outletUrl": "https://news.bizwatch.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "“MS·구글 50% 집중 투자” ‘HANARO 미국에이전틱AI TOP2+’ ETF 상장 - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EY2VoTEFuSlpXcGVwdWZVNExIRzBwU3RLUGxOT1BrWENyZExxaWMwMGZ6NjF3dHkwOUZYbDk1QTc2RGd3XzhQZWZQcXlBdzVhTUHSAVNBVV95cUxOMk5YNjVWNVNPUjF5R2hsay1KaU05REZ4b2JseWZodXlIQldaaDdCNmZwLWY4aVljbC1ySDI0T3hJX1VXNmttek1XU1BnaWVxVEpmSQ?oc=5",
+        "publishedAt": "Tue, 15 Sep 2026 00:04:03 GMT",
+        "summary": "“MS·구글 50% 집중 투자” ‘HANARO 미국에이전틱AI TOP2+’ ETF 상장 &nbsp;&nbsp; 서울경제",
+        "outlet": "서울경제",
+        "outletUrl": "https://www.sedaily.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
         "title": "코넬리스, 엔비디아(NVDA.O) AI 생태계에 도전…2억500만달러 조달 - 알파경제",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45b3FtOWpmc2d2RW9kZXJrTTBwV2FINWo3X3ViWGg2YlR4RS1McGwzM3JMUUgzdFp4TFVNQllwNXRhczlzM1JJaHRjTjhBVFVpVkxGRXRGbW1CaXpZa3JMWGh1MlU2ZUhLTGNJZGtR?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 22:41:10 GMT",
@@ -3557,11 +3587,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "[Pocus 심층 진단] 네이버 AI탭·구글 AI 모드 비교, '플랫폼 연결'과 '웹 링크'의 차이 - eanews.kr",
+        "title": "[Pocus 심층 진단] 네이버 AI탭·구글 AI 모드 비교, '플랫폼 연결'과 '웹 링크'의 차이 - 얼리어답터뉴스",
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJT1hlazJDZTRfYUVVT01TeWxyQXBCQlJXMG5KU05FNFU3ZENWcFRmVktWNnNSbHBsQWo5VFphbmp2VXdMVnJmQ1JB?oc=5",
         "publishedAt": "Mon, 14 Sep 2026 20:33:01 GMT",
-        "summary": "[Pocus 심층 진단] 네이버 AI탭·구글 AI 모드 비교, '플랫폼 연결'과 '웹 링크'의 차이 &nbsp;&nbsp; eanews.kr",
-        "outlet": "eanews.kr",
+        "summary": "[Pocus 심층 진단] 네이버 AI탭·구글 AI 모드 비교, '플랫폼 연결'과 '웹 링크'의 차이 &nbsp;&nbsp; 얼리어답터뉴스",
+        "outlet": "얼리어답터뉴스",
         "outletUrl": "https://www.eanews.kr",
         "source": "해외 빅테크 국내 보도",
         "sourceLang": "ko",
@@ -3594,46 +3624,6 @@ window.__DASHBOARD_DATA__ = {
           "실증·조달"
         ],
         "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "What Anthropic's AI Slowdown Call Could Mean For Cloud Giants Amazon, Microsoft, Google - Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVEtHUDZXaTlRWlh2UzRXRTZFeW9HYVBRZDRPMktBSGRGMzZnSXVjUmVNbWo5a0NFMjQxU0FSam9QMl94V0lMejRDVmNRRUptZHd0djNVbGMxUUFTcENSUGd5TERyWEladmRRRUtiaWZONEdkSEdGcTcxT1A5cF9xZ1VNMUJ6UzZuaTFHTUloUjN0QQ?oc=5",
-        "publishedAt": "Mon, 14 Sep 2026 18:01:00 GMT",
-        "summary": "What Anthropic's AI Slowdown Call Could Mean For Cloud Giants Amazon, Microsoft, Google &nbsp;&nbsp; Investor's Business Daily",
-        "outlet": "Investor's Business Daily",
-        "outletUrl": "https://www.investors.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 23
-      },
-      {
-        "title": "How Jennifer Moceri Uses AI in Google’s Procurement Strategy - Procurement Magazine",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWFY2ZUlkVmRaTENVNjdweHpnMDJkSEdFOWd2M2ZSc25QckR3N0pqUGRfOHhyVnlqdUdZYVNwVS1IWHNrYTFES1ItWEE4eWN3RDEyZUY4cEQwRnVST2k4Z1JxNjhvSHozY2t2SHhYaVI3NTJmUWlWaDlmd1Vma3BaSVc2dmZ2amxhdVlHZk12SEJGekdDd2c?oc=5",
-        "publishedAt": "Mon, 14 Sep 2026 16:46:25 GMT",
-        "summary": "How Jennifer Moceri Uses AI in Google’s Procurement Strategy &nbsp;&nbsp; Procurement Magazine",
-        "outlet": "Procurement Magazine",
-        "outletUrl": "https://procurementmag.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google",
-          "실증·조달"
-        ],
-        "issueCategory": "실증·조달",
         "score": 23
       }
     ],
@@ -3669,8 +3659,7 @@ window.__DASHBOARD_DATA__ = {
           225.72999572753906,
           223.6699981689453,
           218.36000061035156,
-          218.2899932861328,
-          210.9600067138672
+          218.2899932861328
         ],
         "candles": [
           {
@@ -3805,13 +3794,6 @@ window.__DASHBOARD_DATA__ = {
             "high": 222,
             "low": 218.14999389648438,
             "close": 218.2899932861328
-          },
-          {
-            "date": "2026-09-14T13:30:00.000Z",
-            "open": 211.0800018310547,
-            "high": 212.77000427246094,
-            "low": 208.92999267578125,
-            "close": 210.9600067138672
           }
         ]
       },
@@ -3843,8 +3825,7 @@ window.__DASHBOARD_DATA__ = {
           338.3599853515625,
           330.6499938964844,
           332.6000061035156,
-          338.5,
-          349.3900146484375
+          338.5
         ],
         "candles": [
           {
@@ -3979,13 +3960,6 @@ window.__DASHBOARD_DATA__ = {
             "high": 342.9800109863281,
             "low": 335.0299987792969,
             "close": 338.5
-          },
-          {
-            "date": "2026-09-14T13:30:00.000Z",
-            "open": 343.20001220703125,
-            "high": 349.8999938964844,
-            "low": 342.2799987792969,
-            "close": 349.3900146484375
           }
         ]
       },
@@ -4017,8 +3991,7 @@ window.__DASHBOARD_DATA__ = {
           505.739990234375,
           521.0999755859375,
           503.6000061035156,
-          516.1300048828125,
-          493.4100036621094
+          516.1300048828125
         ],
         "candles": [
           {
@@ -4153,13 +4126,6 @@ window.__DASHBOARD_DATA__ = {
             "high": 521.0599975585938,
             "low": 501.3500061035156,
             "close": 516.1300048828125
-          },
-          {
-            "date": "2026-09-14T13:30:00.000Z",
-            "open": 486.1300048828125,
-            "high": 498.3900146484375,
-            "low": 480.3299865722656,
-            "close": 493.4100036621094
           }
         ]
       },
@@ -4191,8 +4157,7 @@ window.__DASHBOARD_DATA__ = {
           368.55999755859375,
           364.3800048828125,
           360.8299865722656,
-          361.989990234375,
-          344.7200012207031
+          361.989990234375
         ],
         "candles": [
           {
@@ -4327,13 +4292,6 @@ window.__DASHBOARD_DATA__ = {
             "high": 366.7799987792969,
             "low": 361.6400146484375,
             "close": 361.989990234375
-          },
-          {
-            "date": "2026-09-14T13:30:00.000Z",
-            "open": 349.4599914550781,
-            "high": 350.25,
-            "low": 343.9100036621094,
-            "close": 344.7200012207031
           }
         ]
       },
@@ -4365,8 +4323,7 @@ window.__DASHBOARD_DATA__ = {
           439,
           435.3599853515625,
           428.0299987792969,
-          433.239990234375,
-          418.010009765625
+          433.239990234375
         ],
         "candles": [
           {
@@ -4501,13 +4458,6 @@ window.__DASHBOARD_DATA__ = {
             "high": 435.3699951171875,
             "low": 428.8999938964844,
             "close": 433.239990234375
-          },
-          {
-            "date": "2026-09-14T13:30:00.000Z",
-            "open": 416.010009765625,
-            "high": 424.45001220703125,
-            "low": 416.0199890136719,
-            "close": 418.010009765625
           }
         ]
       },
@@ -4539,8 +4489,7 @@ window.__DASHBOARD_DATA__ = {
           261.5299987792969,
           264.2300109863281,
           254.17999267578125,
-          264.7900085449219,
-          239.00999450683594
+          264.7900085449219
         ],
         "candles": [
           {
@@ -4675,13 +4624,6 @@ window.__DASHBOARD_DATA__ = {
             "high": 267.7699890136719,
             "low": 253.05999755859375,
             "close": 264.7900085449219
-          },
-          {
-            "date": "2026-09-14T13:30:00.000Z",
-            "open": 242.3800048828125,
-            "high": 249.25,
-            "low": 238.0323028564453,
-            "close": 239.00999450683594
           }
         ]
       },
@@ -4713,8 +4655,7 @@ window.__DASHBOARD_DATA__ = {
           1000.260009765625,
           1027.77001953125,
           977.4099731445312,
-          975.260009765625,
-          924.030029296875
+          975.260009765625
         ],
         "candles": [
           {
@@ -4849,13 +4790,6 @@ window.__DASHBOARD_DATA__ = {
             "high": 993.989990234375,
             "low": 967.3800048828125,
             "close": 975.260009765625
-          },
-          {
-            "date": "2026-09-14T13:30:00.000Z",
-            "open": 906.75,
-            "high": 932.2100219726562,
-            "low": 902.5999755859375,
-            "close": 924.030029296875
           }
         ]
       },
@@ -4887,8 +4821,7 @@ window.__DASHBOARD_DATA__ = {
           40.2599983215332,
           38.93000030517578,
           37.380001068115234,
-          40.099998474121094,
-          36.7400016784668
+          40.099998474121094
         ],
         "candles": [
           {
@@ -5023,13 +4956,6 @@ window.__DASHBOARD_DATA__ = {
             "high": 40.45000076293945,
             "low": 37.560001373291016,
             "close": 40.099998474121094
-          },
-          {
-            "date": "2026-09-14T13:30:00.000Z",
-            "open": 37.41999816894531,
-            "high": 38.095001220703125,
-            "low": 36.380001068115234,
-            "close": 36.7400016784668
           }
         ]
       },
@@ -5037,13 +4963,12 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "005930.KS",
         "name": "삼성전자",
         "market": "KR",
-        "price": 249000,
+        "price": 248500,
         "currency": "KRW",
-        "changePct": -9.289617486338798,
+        "changePct": -9.47176684881603,
         "previousClose": 274500,
-        "marketTime": "2026-09-14T06:30:21.000Z",
+        "marketTime": "2026-09-15T00:12:04.000Z",
         "closes": [
-          274500,
           268500,
           247500,
           271000,
@@ -5063,16 +4988,10 @@ window.__DASHBOARD_DATA__ = {
           269500,
           269000,
           259500,
-          249000
+          249000,
+          248500
         ],
         "candles": [
-          {
-            "date": "2026-08-14T00:00:00.000Z",
-            "open": 275000,
-            "high": 275500,
-            "low": 266000,
-            "close": 274500
-          },
           {
             "date": "2026-08-18T00:00:00.000Z",
             "open": 283000,
@@ -5212,6 +5131,13 @@ window.__DASHBOARD_DATA__ = {
             "high": 254500,
             "low": 248500,
             "close": 249000
+          },
+          {
+            "date": "2026-09-15T00:00:00.000Z",
+            "open": 248000,
+            "high": 250000,
+            "low": 247500,
+            "close": 248500
           }
         ]
       },
@@ -5219,13 +5145,12 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "000660.KS",
         "name": "SK하이닉스",
         "market": "KR",
-        "price": 1697000,
+        "price": 1701000,
         "currency": "KRW",
-        "changePct": 3.1610942249240126,
+        "changePct": 3.404255319148936,
         "previousClose": 1645000,
-        "marketTime": "2026-09-14T06:30:02.000Z",
+        "marketTime": "2026-09-15T00:12:04.000Z",
         "closes": [
-          1645000,
           1662000,
           1500000,
           1691000,
@@ -5245,16 +5170,10 @@ window.__DASHBOARD_DATA__ = {
           1856000,
           1853000,
           1812000,
-          1697000
+          1697000,
+          1701000
         ],
         "candles": [
-          {
-            "date": "2026-08-14T00:00:00.000Z",
-            "open": 1695000,
-            "high": 1697000,
-            "low": 1626000,
-            "close": 1645000
-          },
           {
             "date": "2026-08-18T00:00:00.000Z",
             "open": 1736000,
@@ -5394,6 +5313,13 @@ window.__DASHBOARD_DATA__ = {
             "high": 1740000,
             "low": 1686000,
             "close": 1697000
+          },
+          {
+            "date": "2026-09-15T00:00:00.000Z",
+            "open": 1690000,
+            "high": 1707000,
+            "low": 1685000,
+            "close": 1701000
           }
         ]
       }
@@ -5921,13 +5847,12 @@ window.__DASHBOARD_DATA__ = {
       {
         "symbol": "^KS11",
         "name": "KOSPI",
-        "price": 6684.37,
+        "price": 6646.59,
         "currency": "KRW",
-        "changePct": -4.2071155670584695,
+        "changePct": -4.748536100912296,
         "previousClose": 6977.94,
-        "marketTime": "2026-09-14T06:32:40.000Z",
+        "marketTime": "2026-09-15T00:12:00.000Z",
         "closes": [
-          6977.93994140625,
           6869.830078125,
           6471.169921875,
           6852.580078125,
@@ -5946,16 +5871,10 @@ window.__DASHBOARD_DATA__ = {
           6954.52001953125,
           7051.64013671875,
           7033.919921875,
-          6909.91015625
+          6909.91015625,
+          6646.58984375
         ],
         "candles": [
-          {
-            "date": "2026-08-14T00:00:00.000Z",
-            "open": 6995.669921875,
-            "high": 7010.85986328125,
-            "low": 6848.43017578125,
-            "close": 6977.93994140625
-          },
           {
             "date": "2026-08-18T00:00:00.000Z",
             "open": 7127.77001953125,
@@ -6088,19 +6007,25 @@ window.__DASHBOARD_DATA__ = {
             "high": 6948.830078125,
             "low": 6802.5,
             "close": 6909.91015625
+          },
+          {
+            "date": "2026-09-15T00:00:00.000Z",
+            "open": 6659.25,
+            "high": 6674.3701171875,
+            "low": 6625.14990234375,
+            "close": 6646.58984375
           }
         ]
       },
       {
         "symbol": "^KQ11",
         "name": "KOSDAQ",
-        "price": 806.79,
+        "price": 803.92,
         "currency": "KRW",
-        "changePct": -6.6917249754235835,
+        "changePct": -7.0236511883421056,
         "previousClose": 864.65,
-        "marketTime": "2026-09-14T06:32:50.000Z",
+        "marketTime": "2026-09-15T00:12:00.000Z",
         "closes": [
-          864.6500244140625,
           834.2000122070312,
           824.4600219726562,
           840.8900146484375,
@@ -6119,16 +6044,10 @@ window.__DASHBOARD_DATA__ = {
           811.8800048828125,
           830.3699951171875,
           836.9199829101562,
-          820.6400146484375
+          820.6400146484375,
+          803.9199829101562
         ],
         "candles": [
-          {
-            "date": "2026-08-14T00:00:00.000Z",
-            "open": 868.0700073242188,
-            "high": 879.2899780273438,
-            "low": 845.4099731445312,
-            "close": 864.6500244140625
-          },
           {
             "date": "2026-08-18T00:00:00.000Z",
             "open": 866.5900268554688,
@@ -6261,18 +6180,25 @@ window.__DASHBOARD_DATA__ = {
             "high": 826.530029296875,
             "low": 816.9099731445312,
             "close": 820.6400146484375
+          },
+          {
+            "date": "2026-09-15T00:00:00.000Z",
+            "open": 806.489990234375,
+            "high": 810.52001953125,
+            "low": 801.969970703125,
+            "close": 803.9199829101562
           }
         ]
       }
     ],
-    "generatedAt": "2026-09-14T23:59:14.219Z"
+    "generatedAt": "2026-09-15T00:32:05.727Z"
   },
   "briefing": {
     "date": "2026년 9월 15일 화요일",
     "summary": [
       "오늘의 최상위 이슈: AI 스타트업 실리콘밸리 공략…과기정통부, 구글·엔비디아와 협력 논의 - 디지털투데이",
-      "강한 기술·시장 신호: NPU 44, AI인프라 22, 데이터센터 3, 온디바이스AI 0, 추론 9",
-      "주요 기업 신호: 리벨리온 22, 퓨리오사AI 21, 딥엑스 14, 모빌린트 2, 하이퍼엑셀 2"
+      "강한 기술·시장 신호: NPU 40, AI인프라 19, 데이터센터 3, 온디바이스AI 0, 추론 9",
+      "주요 기업 신호: 리벨리온 22, 퓨리오사AI 21, 딥엑스 13, 모빌린트 2, 하이퍼엑셀 2"
     ],
     "leadArticles": [
       {
@@ -6282,7 +6208,7 @@ window.__DASHBOARD_DATA__ = {
         "summary": "AI 스타트업 실리콘밸리 공략…과기정통부, 구글·엔비디아와 협력 논의 &nbsp;&nbsp; 디지털투데이",
         "outlet": "디지털투데이",
         "outletUrl": "https://www.digitaltoday.co.kr",
-        "source": "해외 빅테크 국내 보도",
+        "source": "NIPA·과기정통부 정책",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
@@ -6299,11 +6225,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 43
       },
       {
-        "title": "고동진 의원, 국산 NPU 수출길 넓힌다...리벨리온·퓨리오사AI·딥엑스 한자리 - 뉴스투데이",
+        "title": "고동진 의원, 국산 NPU 수출길 넓힌다...리벨리온·퓨리오사AI·딥엑스 한자리 - news2day.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56eFV4V1RqbHlXX2ZXdFIxQjN5c0RfYzhpbjV1OVBXamZxcHl3bVdvb21qOVVtTzlsSms4cFFyZnN3OXREMmpac1dacTBHQWJzZHZ4VFo5QzZXYlJfZFE?oc=5",
         "publishedAt": "Tue, 08 Sep 2026 12:01:00 GMT",
-        "summary": "고동진 의원, 국산 NPU 수출길 넓힌다...리벨리온·퓨리오사AI·딥엑스 한자리 &nbsp;&nbsp; 뉴스투데이",
-        "outlet": "뉴스투데이",
+        "summary": "고동진 의원, 국산 NPU 수출길 넓힌다...리벨리온·퓨리오사AI·딥엑스 한자리 &nbsp;&nbsp; news2day.co.kr",
+        "outlet": "news2day.co.kr",
         "outletUrl": "https://www.news2day.co.kr",
         "source": "국내 NPU 기업",
         "sourceLang": "ko",
@@ -6377,7 +6303,7 @@ window.__DASHBOARD_DATA__ = {
         "summary": "Google Cloud Announces Support For Nvidia RTX PRO 6000 Blackwell GPUs in Dataflow &nbsp;&nbsp; TradingView",
         "outlet": "TradingView",
         "outletUrl": "https://www.tradingview.com",
-        "source": "NVIDIA 이슈",
+        "source": "Google AI 이슈",
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
@@ -6462,7 +6388,7 @@ window.__DASHBOARD_DATA__ = {
         "summary": "韓 AI ‘세계 3위’ 인증…NIPA, AA·엔비디아와 협력 확대 &nbsp;&nbsp; edaily.co.kr",
         "outlet": "edaily.co.kr",
         "outletUrl": "https://www.edaily.co.kr",
-        "source": "해외 빅테크 국내 보도",
+        "source": "NIPA·과기정통부 정책",
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
@@ -6504,11 +6430,11 @@ window.__DASHBOARD_DATA__ = {
       "technologies": [
         [
           "NPU",
-          44
+          40
         ],
         [
           "AI인프라",
-          22
+          19
         ],
         [
           "데이터센터",
@@ -6542,7 +6468,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "딥엑스",
-          14
+          13
         ],
         [
           "모빌린트",
@@ -6554,23 +6480,23 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          99
+          104
         ],
         [
           "Google",
-          32
-        ],
-        [
-          "AMD",
-          12
+          30
         ],
         [
           "Broadcom",
           11
         ],
         [
+          "AMD",
+          9
+        ],
+        [
           "Samsung",
-          3
+          4
         ],
         [
           "TSMC",
@@ -6669,11 +6595,11 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          65
+          67
         ],
         [
           "NPU",
-          43
+          42
         ],
         [
           "정책",
@@ -6681,11 +6607,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "국내 기사",
-          82
+          80
         ],
         [
           "해외 기사",
-          98
+          100
         ]
       ],
       "sections": [
