@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-09-18T16:43:12.363Z",
+  "generatedAt": "2026-09-18T17:03:36.056Z",
   "news": {
     "articles": [
       {
@@ -399,11 +399,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "Nvidia vs. Broadcom: Whose AI Revenue Actually Grows Faster From Here? - The Motley Fool",
+        "title": "Nvidia vs. Broadcom: Whose AI Revenue Actually Grows Faster From Here? - fool.com",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2U5UmljOHlfMFNDYnJ1NHBBcXlYWnNFTWhaRHNNNXpYcVk3WE11MlNrc0YwVnZ4UTlLQXp4NVhZWDk3M2NLaGtwaW8xbHN3ZGFaamdYRmZVajB5Q3ZGanZVOUZLQUpvSGw0UnVuOVpxeXZJZ2VOWFdsUFJFdFBiLUxzWnRIT1dRRkhHZA?oc=5",
         "publishedAt": "Fri, 18 Sep 2026 09:33:00 GMT",
-        "summary": "Nvidia vs. Broadcom: Whose AI Revenue Actually Grows Faster From Here? &nbsp;&nbsp; The Motley Fool",
-        "outlet": "The Motley Fool",
+        "summary": "Nvidia vs. Broadcom: Whose AI Revenue Actually Grows Faster From Here? &nbsp;&nbsp; fool.com",
+        "outlet": "fool.com",
         "outletUrl": "https://www.fool.com",
         "source": "AI 시장 전체",
         "sourceLang": "en",
@@ -438,27 +438,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI시장",
-        "score": 31
-      },
-      {
-        "title": "Emerald AI, Google, and NVIDIA launch AI Energy Management Alliance - Digital Watch Observatory",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DVmRZdVM3SmxhU2x6Nll1NENPczgzLTFnS21qZzZfZDVDcHFCdzdzZkdhRE9GcUhyQ1Q3S2NWM3ZXRmxJcTlfbHVGazBMVFQ0S0dSMzlLNWNRT09FemJCSnlXZl83MDlMUURmb29WNA?oc=5",
-        "publishedAt": "Fri, 18 Sep 2026 06:44:59 GMT",
-        "summary": "Emerald AI, Google, and NVIDIA launch AI Energy Management Alliance &nbsp;&nbsp; Digital Watch Observatory",
-        "outlet": "Digital Watch Observatory",
-        "outletUrl": "https://dig.watch",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "issueCategory": "NVIDIA",
         "score": 31
       },
       {
@@ -1034,11 +1013,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "China's Homegrown AI Chip Push Just Got Faster. Is This a Real Threat to Nvidia? - The Motley Fool",
+        "title": "China's Homegrown AI Chip Push Just Got Faster. Is This a Real Threat to Nvidia? - fool.com",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckExeFNQbGE2SDdHQzBKSHI2cmdZaldaVkJfak5vcm5JYzY1bE4tR3ZUVFMxaEw1dVF6NEhGY2E3djQ2ZHoxTUFWQ1pfRVFpbE0tNGxzR3dMTUNqUVY0VlM5QnJqcFd3UWxvSWFpZXkxM3lUOXhvYjRKcVh4SGlFTjRYMWZhUGY5Wjl1cmdpSS1DZVdrYjB0RHhOLS0tR05URXVhekRvRC0tRksxUy01NHVtNzc3Q200bGFFaA?oc=5",
         "publishedAt": "Thu, 17 Sep 2026 23:40:00 GMT",
-        "summary": "China's Homegrown AI Chip Push Just Got Faster. Is This a Real Threat to Nvidia? &nbsp;&nbsp; The Motley Fool",
-        "outlet": "The Motley Fool",
+        "summary": "China's Homegrown AI Chip Push Just Got Faster. Is This a Real Threat to Nvidia? &nbsp;&nbsp; fool.com",
+        "outlet": "fool.com",
         "outletUrl": "https://www.fool.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -1211,26 +1190,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI에이전트",
-        "score": 27
-      },
-      {
-        "title": "China is building its own Nvidia: Huawei plans new AI chip every year - Ynetnews",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUYjVadk1xWEZHdzM0b2RYLTdtcXZCZEpBX0k2MU9FQld1bXZUbjRDbVVaN3pJUUgwUTVPdUNuNFk1c29XSVJwQy00VTRwMGJKaUFsYWMxRUVEUy11X2RCVlNTQ0daTEh0ZVNxOQ?oc=5",
-        "publishedAt": "Thu, 17 Sep 2026 20:08:15 GMT",
-        "summary": "China is building its own Nvidia: Huawei plans new AI chip every year &nbsp;&nbsp; Ynetnews",
-        "outlet": "Ynetnews",
-        "outletUrl": "https://www.ynetnews.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "수출통제·공급망"
-        ],
-        "issueCategory": "수출통제·공급망",
         "score": 27
       },
       {
@@ -1895,11 +1854,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea - CHOSUNBIZ - Chosunbiz",
+        "title": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea - CHOSUNBIZ - biz.chosun.com",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLOGpGTUtfbmxscTBKMUpDcDJuS0lCWWNPXzJQWnUyLVVyRVFyWFRwYXh3RVlQeGVEZS16VUZRbVhzdHoyYU1wLXdIMDdnVDdaOExfUE9UcU1UcGo1YlVmNHpOREh2bzRwTjd4NFQyLVI1OTRheW5jYm9R0gGOAUFVX3lxTE9tVU52SDVGLUpxQXN3dE1RZUpLSk1vbmtOdE9fd3JjTVJEM1JLVE5Qdy1XdzhXcGU1Z0ZQZHJzVEZHdjR1ekEtOEJkbVVsbTZlaVdMbWxYTWZhZDNvMmdiSUpCWHBjWW1KYkVZaG5FVUh0M21uaGFQdXh0UHg3ZUhwenp0eF8zbkxGRTktN3c?oc=5",
         "publishedAt": "Sat, 04 Apr 2026 07:00:00 GMT",
-        "summary": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
-        "outlet": "Chosunbiz",
+        "summary": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea - CHOSUNBIZ &nbsp;&nbsp; biz.chosun.com",
+        "outlet": "biz.chosun.com",
         "outletUrl": "https://biz.chosun.com",
         "source": "HyperAccel global",
         "sourceLang": "en",
@@ -1911,6 +1870,28 @@ window.__DASHBOARD_DATA__ = {
         "taxonomyHits": [
           "추론",
           "하이퍼엑셀",
+          "NVIDIA"
+        ],
+        "issueCategory": "NPU",
+        "score": 26
+      },
+      {
+        "title": "Rebellions to Boost AI Chip Production Under ‘K-NVIDIA’ Program - Businesskorea",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KNFRWTmhHR0t4NTJOakRjeF96V3BvWF9paGtrTzRKVVI0ZEhXSEhIdUdUQ3dFbE53MjlQOFM3cXNFV3VaajJ0ZFlXMTJzMy1xQWk1UUoyWlZNQ3B2WnVxTnctZWRwYm42S1hGQWlTejNGT285?oc=5",
+        "publishedAt": "Thu, 26 Mar 2026 07:00:00 GMT",
+        "summary": "Rebellions to Boost AI Chip Production Under ‘K-NVIDIA’ Program &nbsp;&nbsp; Businesskorea",
+        "outlet": "Businesskorea",
+        "outletUrl": "https://www.businesskorea.co.kr",
+        "source": "Mobilint global",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "리벨리온"
+        ],
+        "taxonomyHits": [
+          "K-엔비디아",
+          "리벨리온",
           "NVIDIA"
         ],
         "issueCategory": "NPU",
@@ -2521,6 +2502,25 @@ window.__DASHBOARD_DATA__ = {
         "summary": "NVIDIA to Debate Open and Closed AI Strategies at TechCrunch Disrupt 2026 | Ukraine news - #Mezha &nbsp;&nbsp; Межа. Новини України.",
         "outlet": "Межа. Новини України.",
         "outletUrl": "https://mezha.net",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 24
+      },
+      {
+        "title": "SiTime: This Hidden Gem In AI Just Posted Nvidia-Like Numbers, But There's A Catch (NVDA) - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSjNNZ1JWNXE4dGJvYi1keGxlTFFoVGZyOG5uWjlsOENxVVEwMVN3dUFySGhlaFQ5NzM1dHFaLWZjaUdlMW03MzVHTHVxSmFId3JXcUJmVDdrZjBSS19kdFNfY3MwNzR6ZnNGeE8xYkptRFJZbE9OdTNSTjNobEsxNzJwZ3lTX2ZQTG1ySldIbHc4WEpFeHZDZ0FCeFVUV0UyWGkxcDE1WVNTR1dnaklfNC1RZlV5OHVRNDExNA?oc=5",
+        "publishedAt": "Fri, 18 Sep 2026 16:00:40 GMT",
+        "summary": "SiTime: This Hidden Gem In AI Just Posted Nvidia-Like Numbers, But There's A Catch (NVDA) &nbsp;&nbsp; Seeking Alpha",
+        "outlet": "Seeking Alpha",
+        "outletUrl": "https://seekingalpha.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
@@ -3455,11 +3455,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Google CC AI agent expands to households - MSSP Alert",
+        "title": "Google CC AI agent expands to households - msspalert.com",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPTVA2N01IU2dTbnItbFVVYkpMODBOaFVHTmVnSjdsdzZFLWg0aEl4endfRVRJNGpwdzk1ajBPbDNabXR3UXRoSDZhVnVnWXlzZ0ttUlprUjZWSEJXTVo3TEhwdGFSOXZjb0FyLVVCYnJhRHE5dnhGUlJGNFM?oc=5",
         "publishedAt": "Fri, 18 Sep 2026 12:38:55 GMT",
-        "summary": "Google CC AI agent expands to households &nbsp;&nbsp; MSSP Alert",
-        "outlet": "MSSP Alert",
+        "summary": "Google CC AI agent expands to households &nbsp;&nbsp; msspalert.com",
+        "outlet": "msspalert.com",
         "outletUrl": "https://www.msspalert.com",
         "source": "AI 서비스·클라우드",
         "sourceLang": "en",
@@ -3603,11 +3603,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "NVDA",
         "name": "NVIDIA",
         "market": "US",
-        "price": 219.64,
+        "price": 219.715,
         "currency": "USD",
-        "changePct": -0.045508328024038744,
+        "changePct": -0.011377082006009686,
         "previousClose": 219.74,
-        "marketTime": "2026-09-18T16:43:08.000Z",
+        "marketTime": "2026-09-18T17:03:31.000Z",
         "closes": [
           219.74000549316406,
           217.55999755859375,
@@ -3631,7 +3631,7 @@ window.__DASHBOARD_DATA__ = {
           212.1699981689453,
           213.89999389648438,
           219.33999633789062,
-          219.63999938964844
+          219.71499633789062
         ],
         "candles": [
           {
@@ -3793,7 +3793,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 219.36000061035156,
             "high": 220.88999938964844,
             "low": 218.0399932861328,
-            "close": 219.63999938964844
+            "close": 219.71499633789062
           }
         ]
       },
@@ -3801,11 +3801,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "GOOGL",
         "name": "Alphabet",
         "market": "US",
-        "price": 350.05,
+        "price": 349.56,
         "currency": "USD",
-        "changePct": 1.6995932597327204,
+        "changePct": 1.557234166182456,
         "previousClose": 344.2,
-        "marketTime": "2026-09-18T16:43:05.000Z",
+        "marketTime": "2026-09-18T17:03:30.000Z",
         "closes": [
           344.20001220703125,
           344.7200012207031,
@@ -3829,7 +3829,7 @@ window.__DASHBOARD_DATA__ = {
           344.9800109863281,
           342.8699951171875,
           347.3299865722656,
-          350.04998779296875
+          349.55999755859375
         ],
         "candles": [
           {
@@ -3991,7 +3991,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 356.9200134277344,
             "high": 359.44000244140625,
             "low": 348.8900146484375,
-            "close": 350.04998779296875
+            "close": 349.55999755859375
           }
         ]
       },
@@ -3999,11 +3999,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "AMD",
         "name": "AMD",
         "market": "US",
-        "price": 543.43,
+        "price": 545.05,
         "currency": "USD",
-        "changePct": 12.18852577468568,
+        "changePct": 12.522967030698398,
         "previousClose": 484.39,
-        "marketTime": "2026-09-18T16:43:05.000Z",
+        "marketTime": "2026-09-18T17:03:31.000Z",
         "closes": [
           484.3900146484375,
           466.4200134277344,
@@ -4027,7 +4027,7 @@ window.__DASHBOARD_DATA__ = {
           504.20001220703125,
           512.5,
           545.0900268554688,
-          543.4299926757812
+          545.0499877929688
         ],
         "candles": [
           {
@@ -4189,7 +4189,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 547.5599975585938,
             "high": 552.9500122070312,
             "low": 541.5399780273438,
-            "close": 543.4299926757812
+            "close": 545.0499877929688
           }
         ]
       },
@@ -4197,11 +4197,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "AVGO",
         "name": "Broadcom",
         "market": "US",
-        "price": 354.34,
+        "price": 353.875,
         "currency": "USD",
-        "changePct": -6.752631578947375,
+        "changePct": -6.875000000000001,
         "previousClose": 380,
-        "marketTime": "2026-09-18T16:43:07.000Z",
+        "marketTime": "2026-09-18T17:03:32.000Z",
         "closes": [
           380,
           362.4800109863281,
@@ -4225,7 +4225,7 @@ window.__DASHBOARD_DATA__ = {
           339.2699890136719,
           339.510009765625,
           347.29998779296875,
-          354.3399963378906
+          353.875
         ],
         "candles": [
           {
@@ -4387,7 +4387,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 352.0799865722656,
             "high": 363.2817077636719,
             "low": 351.3500061035156,
-            "close": 354.3399963378906
+            "close": 353.875
           }
         ]
       },
@@ -4395,11 +4395,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "TSM",
         "name": "TSMC ADR",
         "market": "US",
-        "price": 429.27,
+        "price": 429.8,
         "currency": "USD",
-        "changePct": 3.8363851866186,
+        "changePct": 3.964587213661978,
         "previousClose": 413.41,
-        "marketTime": "2026-09-18T16:42:58.000Z",
+        "marketTime": "2026-09-18T17:03:29.000Z",
         "closes": [
           413.4100036621094,
           412.0899963378906,
@@ -4423,7 +4423,7 @@ window.__DASHBOARD_DATA__ = {
           413.75,
           417.7200012207031,
           430.260009765625,
-          429.2698059082031
+          429.79998779296875
         ],
         "candles": [
           {
@@ -4584,8 +4584,8 @@ window.__DASHBOARD_DATA__ = {
             "date": "2026-09-18T13:30:00.000Z",
             "open": 429.0400085449219,
             "high": 434.8164978027344,
-            "low": 429.1099853515625,
-            "close": 429.2698059082031
+            "low": 428.9800109863281,
+            "close": 429.79998779296875
           }
         ]
       },
@@ -4593,11 +4593,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "ARM",
         "name": "Arm",
         "market": "US",
-        "price": 267.18,
+        "price": 268.1,
         "currency": "USD",
-        "changePct": 5.471340596873525,
+        "changePct": 5.834517606189811,
         "previousClose": 253.32,
-        "marketTime": "2026-09-18T16:42:55.000Z",
+        "marketTime": "2026-09-18T17:03:29.000Z",
         "closes": [
           253.32000732421875,
           249.33999633789062,
@@ -4621,7 +4621,7 @@ window.__DASHBOARD_DATA__ = {
           241.8300018310547,
           243.97999572753906,
           264.8999938964844,
-          267.17999267578125
+          268.1000061035156
         ],
         "candles": [
           {
@@ -4783,7 +4783,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 269.6300048828125,
             "high": 269.989990234375,
             "low": 261.6549987792969,
-            "close": 267.17999267578125
+            "close": 268.1000061035156
           }
         ]
       },
@@ -4791,11 +4791,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "MU",
         "name": "Micron",
         "market": "US",
-        "price": 992.07,
+        "price": 996.08,
         "currency": "USD",
-        "changePct": 5.454100939665809,
+        "changePct": 5.88035205578469,
         "previousClose": 940.76,
-        "marketTime": "2026-09-18T16:43:07.000Z",
+        "marketTime": "2026-09-18T17:03:31.000Z",
         "closes": [
           940.760009765625,
           937.1099853515625,
@@ -4819,7 +4819,7 @@ window.__DASHBOARD_DATA__ = {
           927.5999755859375,
           926.5499877929688,
           977.5,
-          992.0700073242188
+          996.0800170898438
         ],
         "candles": [
           {
@@ -4981,7 +4981,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 981.7100219726562,
             "high": 998.739990234375,
             "low": 977.9249877929688,
-            "close": 992.0700073242188
+            "close": 996.0800170898438
           }
         ]
       },
@@ -4989,11 +4989,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "SMCI",
         "name": "Supermicro",
         "market": "US",
-        "price": 38.575,
+        "price": 38.685,
         "currency": "USD",
-        "changePct": 3.1141406041165633,
+        "changePct": 3.4081796311146904,
         "previousClose": 37.41,
-        "marketTime": "2026-09-18T16:43:06.000Z",
+        "marketTime": "2026-09-18T17:03:30.000Z",
         "closes": [
           37.40999984741211,
           36.58000183105469,
@@ -5017,7 +5017,7 @@ window.__DASHBOARD_DATA__ = {
           35.63999938964844,
           36.849998474121094,
           40.349998474121094,
-          38.57500076293945
+          38.685001373291016
         ],
         "candles": [
           {
@@ -5179,7 +5179,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 40.290000915527344,
             "high": 40.40999984741211,
             "low": 38.31999969482422,
-            "close": 38.57500076293945
+            "close": 38.685001373291016
           }
         ]
       },
@@ -5584,11 +5584,11 @@ window.__DASHBOARD_DATA__ = {
       {
         "symbol": "^IXIC",
         "name": "Nasdaq Composite",
-        "price": 26382.303,
+        "price": 26392.143,
         "currency": "USD",
-        "changePct": 0.35220243966175646,
+        "changePct": 0.3896315326414818,
         "previousClose": 26289.71,
-        "marketTime": "2026-09-18T16:43:08.000Z",
+        "marketTime": "2026-09-18T17:03:33.000Z",
         "closes": [
           26289.7109375,
           26331.08984375,
@@ -5612,7 +5612,7 @@ window.__DASHBOARD_DATA__ = {
           25981.5703125,
           25978.4296875,
           26418.30078125,
-          26382.302734375
+          26392.142578125
         ],
         "candles": [
           {
@@ -5774,18 +5774,18 @@ window.__DASHBOARD_DATA__ = {
             "open": 26522.08984375,
             "high": 26544.9296875,
             "low": 26333.982421875,
-            "close": 26382.302734375
+            "close": 26392.142578125
           }
         ]
       },
       {
         "symbol": "^SOX",
         "name": "PHLX Semiconductor",
-        "price": 11714.082,
+        "price": 11727.348,
         "currency": "USD",
-        "changePct": -2.321275201251443,
+        "changePct": -2.2106556953285583,
         "previousClose": 11992.46,
-        "marketTime": "2026-09-18T16:43:07.000Z",
+        "marketTime": "2026-09-18T17:03:32.000Z",
         "closes": [
           11992.4599609375,
           11738.23046875,
@@ -5809,7 +5809,7 @@ window.__DASHBOARD_DATA__ = {
           11175.5498046875,
           11246.1103515625,
           11599.490234375,
-          11714.08203125
+          11727.34765625
         ],
         "candles": [
           {
@@ -5971,18 +5971,18 @@ window.__DASHBOARD_DATA__ = {
             "open": 11691.0048828125,
             "high": 11788.783203125,
             "low": 11686.09375,
-            "close": 11714.08203125
+            "close": 11727.34765625
           }
         ]
       },
       {
         "symbol": "^GSPC",
         "name": "S&P 500",
-        "price": 7621.32,
+        "price": 7624.14,
         "currency": "USD",
-        "changePct": -0.9157852039065247,
+        "changePct": -0.8791225935286578,
         "previousClose": 7691.76,
-        "marketTime": "2026-09-18T16:43:08.000Z",
+        "marketTime": "2026-09-18T17:03:32.000Z",
         "closes": [
           7691.759765625,
           7707.97998046875,
@@ -6006,7 +6006,7 @@ window.__DASHBOARD_DATA__ = {
           7585.72998046875,
           7551.81005859375,
           7637.759765625,
-          7621.31982421875
+          7624.14013671875
         ],
         "candles": [
           {
@@ -6168,7 +6168,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 7657.169921875,
             "high": 7657.169921875,
             "low": 7610.52001953125,
-            "close": 7621.31982421875
+            "close": 7624.14013671875
           }
         ]
       },
@@ -6567,14 +6567,14 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-09-18T16:43:09.831Z"
+    "generatedAt": "2026-09-18T17:03:33.644Z"
   },
   "briefing": {
     "date": "2026년 9월 19일 토요일",
     "summary": [
       "오늘의 최상위 이슈: 고동진 의원, 국산 NPU 수출길 넓힌다...리벨리온·퓨리오사AI·딥엑스 한자리 - 뉴스투데이",
       "강한 기술·시장 신호: NPU 44, AI인프라 8, 데이터센터 25, 온디바이스AI 0, 추론 12",
-      "주요 기업 신호: 리벨리온 25, 퓨리오사AI 21, 딥엑스 11, 모빌린트 2, 하이퍼엑셀 2"
+      "주요 기업 신호: 리벨리온 26, 퓨리오사AI 21, 딥엑스 11, 모빌린트 2, 하이퍼엑셀 2"
     ],
     "leadArticles": [
       {
@@ -6838,7 +6838,7 @@ window.__DASHBOARD_DATA__ = {
       "companies": [
         [
           "리벨리온",
-          25
+          26
         ],
         [
           "퓨리오사AI",
@@ -6862,7 +6862,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "Google",
-          35
+          34
         ],
         [
           "AMD",
@@ -6973,7 +6973,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NPU",
-          45
+          46
         ],
         [
           "정책",
