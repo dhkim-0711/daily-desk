@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-09-26T00:09:04.227Z",
+  "generatedAt": "2026-09-26T00:34:33.010Z",
   "news": {
     "articles": [
       {
@@ -24,11 +24,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 39
       },
       {
-        "title": "국산 NPU 수출길 넓힌다…리벨리온·퓨리오사AI·딥엑스 국회 모인다 - straightnews.co.kr",
+        "title": "국산 NPU 수출길 넓힌다…리벨리온·퓨리오사AI·딥엑스 국회 모인다 - 스트레이트뉴스",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LSEJTRk1KMVRvWTV0dWg0bGNZdnV0MjlYRmp1NDI1Uk9iWXA4c0lsZlB2Q0t4V05PTTFIX2JQaXdNa1lpYXZZcGFCeG9QT3F2cU1mRlBzNHp3SEVBLUpYUHJ0TFc0UGxySjBGWkNiVmY4S0HSAXdBVV95cUxQaURWcmRaT0J4dS16Ylp5b2dJMTY3bVo1VE1GRWItOGp4VzB5dTVEdlBsaURMbmNLQmVhSXBwODJZMXFYS2Q2LWlJajNIRnZFbzctRjhZRm90X0Y4R2ZOZUx4THZvaWM4UmtxSEtlZDZKZGhXczYwSQ?oc=5",
         "publishedAt": "Tue, 08 Sep 2026 07:00:00 GMT",
-        "summary": "국산 NPU 수출길 넓힌다…리벨리온·퓨리오사AI·딥엑스 국회 모인다 &nbsp;&nbsp; straightnews.co.kr",
-        "outlet": "straightnews.co.kr",
+        "summary": "국산 NPU 수출길 넓힌다…리벨리온·퓨리오사AI·딥엑스 국회 모인다 &nbsp;&nbsp; 스트레이트뉴스",
+        "outlet": "스트레이트뉴스",
         "outletUrl": "https://www.straightnews.co.kr",
         "source": "리벨리온",
         "sourceLang": "ko",
@@ -222,6 +222,28 @@ window.__DASHBOARD_DATA__ = {
           "실증·조달"
         ],
         "issueCategory": "AI인프라",
+        "score": 29
+      },
+      {
+        "title": "'AI반도체 제왕' 엔비디아가 리벨리온을 만난 이유[비하인드 칩스] - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oVEQ1eGprUWRaclh2ZUpXU2szblZPdFViN2w5SEpqSnJ2cDhlQVdrdHlWTXdMaDVEd3R6Qm0ySnhvSm1ONUl5Y3NxZmpCUjM5N0UtbU54dzg4Y0dHTHM4ZkxSWHZLYlZkUWxEVS1iU2V4T01wSHg40gF8QVVfeXFMTmpZbUhGeExNVzdWeDczZFhaX19VdlNtTVZ3OFQ5SUxLOGJEUGN6WHo5ZmdmdDgwVGdDT0FZN1dacmZHVW5KcjUyR1ZSQXhfN3gyZUtITmdudG5TV1k2UG1WVm5DV3VaZWNJSnlMVFByQzRNZnRwMG5pZ3N0Wg?oc=5",
+        "publishedAt": "Fri, 25 Sep 2026 00:00:00 GMT",
+        "summary": "'AI반도체 제왕' 엔비디아가 리벨리온을 만난 이유[비하인드 칩스] - 머니투데이 &nbsp;&nbsp; 머니투데이",
+        "outlet": "머니투데이",
+        "outletUrl": "https://www.mt.co.kr",
+        "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "리벨리온"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "리벨리온",
+          "NVIDIA"
+        ],
+        "issueCategory": "NPU",
         "score": 29
       },
       {
@@ -535,11 +557,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 28
       },
       {
-        "title": "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 아성 흔들까 - 시사저널e",
+        "title": "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 아성 흔들까 - sisajournal-e.com",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xNUM0VnBvZTgwZGtZRVhfVWV5MWduY3RGZVo1T18yMnhWM0RKZTlQU0hTeTI2UFhtNzh2YnQ5QVdJallYczE0MkRzRkl0SGdvQ0xfQlhjdGplLWNTY25fQW9NbkVGTGx6eGkxaWpBMjNUUQ?oc=5",
         "publishedAt": "Tue, 14 Jul 2026 07:00:00 GMT",
-        "summary": "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 아성 흔들까 &nbsp;&nbsp; 시사저널e",
-        "outlet": "시사저널e",
+        "summary": "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 아성 흔들까 &nbsp;&nbsp; sisajournal-e.com",
+        "outlet": "sisajournal-e.com",
         "outletUrl": "https://www.sisajournal-e.com",
         "source": "퓨리오사AI",
         "sourceLang": "ko",
@@ -1233,27 +1255,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "오케스트로 그룹, 퓨리오사AI와 맞손∙∙∙국산 NPU AI 인프라 상용화 속도 - 한국M&A경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BYTB0NFg4bzJQTWprcFhXZFFXaFRwcFFUTUNtcFFrTGNqeXNlWnZvdjNPNGltVkVhdEh0Rm15X0xra0RtSEVGSGp5R0JmZnU1aFJCWWg4QWpfQ3NuUWJmVkwxdmxzdlA1YkE?oc=5",
-        "publishedAt": "Mon, 21 Sep 2026 00:23:00 GMT",
-        "summary": "오케스트로 그룹, 퓨리오사AI와 맞손∙∙∙국산 NPU AI 인프라 상용화 속도 &nbsp;&nbsp; 한국M&A경제신문",
-        "outlet": "한국M&A경제신문",
-        "outletUrl": "https://www.kmnanews.com",
-        "source": "국내 NPU 기업",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "K-엔비디아",
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 26
-      },
-      {
         "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers - NVIDIA Blog",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15OTJ6NjdTOEl1aTB3N08yYkU1Z3JiZjBDNnJjeXBzNHlJeFJ6aWh6ZVBiUGxhWmRPSk1iVXNLWXBFbWNhWDdGX3JuN2txV0RDYnk4NTJ6WHI2MG4wNzF3d1RsN0hnU0k5UVRsWA?oc=5",
         "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
@@ -1298,11 +1299,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "퓨리오사AI, NPU 내년 '4만장' 2배 증산…엔비디아 독점에 도전 - etnews.com",
+        "title": "퓨리오사AI, NPU 내년 '4만장' 2배 증산…엔비디아 독점에 도전 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjQVVYNFpsaTFoeHZtbVV1YV9QUENQTW9MTmxtTmZjb1hjczk1aTdrN0xnZi1BZEpFcER2SXp1WE9FT01uQTRoMDhMNE5fdw?oc=5",
         "publishedAt": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "summary": "퓨리오사AI, NPU 내년 '4만장' 2배 증산…엔비디아 독점에 도전 &nbsp;&nbsp; etnews.com",
-        "outlet": "etnews.com",
+        "summary": "퓨리오사AI, NPU 내년 '4만장' 2배 증산…엔비디아 독점에 도전 &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
         "source": "퓨리오사AI",
         "sourceLang": "ko",
@@ -1448,6 +1449,27 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "AI인프라",
+        "score": 25
+      },
+      {
+        "title": "오케스트로 그룹, 퓨리오사AI와 맞손∙∙∙국산 NPU AI 인프라 상용화 속도 - 한국M&A경제신문",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BYTB0NFg4bzJQTWprcFhXZFFXaFRwcFFUTUNtcFFrTGNqeXNlWnZvdjNPNGltVkVhdEh0Rm15X0xra0RtSEVGSGp5R0JmZnU1aFJCWWg4QWpfQ3NuUWJmVkwxdmxzdlA1YkE?oc=5",
+        "publishedAt": "Mon, 21 Sep 2026 00:23:00 GMT",
+        "summary": "오케스트로 그룹, 퓨리오사AI와 맞손∙∙∙국산 NPU AI 인프라 상용화 속도 &nbsp;&nbsp; 한국M&A경제신문",
+        "outlet": "한국M&A경제신문",
+        "outletUrl": "https://www.kmnanews.com",
+        "source": "국내 NPU 기업",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "퓨리오사AI"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "K-엔비디아",
+          "퓨리오사AI"
+        ],
+        "issueCategory": "NPU",
         "score": 25
       },
       {
@@ -1617,11 +1639,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "[도산아카데미] 백준호 퓨리오사AI 대표 “국산 NPU로 글로벌 추론 시장 공략” - etnews.com",
+        "title": "[도산아카데미] 백준호 퓨리오사AI 대표 “국산 NPU로 글로벌 추론 시장 공략” - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40ak1yTkN4SlJoOEYzVEZ2WnRQdEhicW44TVVYdTRUaHNIa3lUQ09YWjNCSWgwQzV1YmdHcHdUcllaWUtXWkt5WlI0YWNJZw?oc=5",
         "publishedAt": "Fri, 03 Jul 2026 07:00:00 GMT",
-        "summary": "[도산아카데미] 백준호 퓨리오사AI 대표 “국산 NPU로 글로벌 추론 시장 공략” &nbsp;&nbsp; etnews.com",
-        "outlet": "etnews.com",
+        "summary": "[도산아카데미] 백준호 퓨리오사AI 대표 “국산 NPU로 글로벌 추론 시장 공략” &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
         "source": "퓨리오사AI",
         "sourceLang": "ko",
@@ -1704,11 +1726,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Nvidia Wins Stay In AI Voice Data Class Action - Law360",
+        "title": "Nvidia Wins Stay In AI Voice Data Class Action - law360.com",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdjFJajRzVkNMV3V5TW9wUm1Db2NITVBEZmpkblF1OUExMG5fVnByMEM3VzFWNXVTaVhGSHhoZm9POVNUSWtsSC1NVFlFejE5OTJUS0hRMEQyXzFPZkZrNkpvMzdBb2RTMHV6dmVKUE84UnhBeFY4NUYzdjh1dEtSSzN0U0taYmNlSnhiM3o3a9IBVkFVX3lxTE5zVzZlTzNUeUUycmxFYUhYSFA4OU5BSTNQM1RobG5aMVNHbFRHNldObWJ5NE9WY1JwQXVCWHhybWVpQU9XLWN6dkZMV0NUa3ZMWHVnLURR?oc=5",
         "publishedAt": "Fri, 25 Sep 2026 19:53:54 GMT",
-        "summary": "Nvidia Wins Stay In AI Voice Data Class Action &nbsp;&nbsp; Law360",
-        "outlet": "Law360",
+        "summary": "Nvidia Wins Stay In AI Voice Data Class Action &nbsp;&nbsp; law360.com",
+        "outlet": "law360.com",
         "outletUrl": "https://www.law360.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -1729,25 +1751,6 @@ window.__DASHBOARD_DATA__ = {
         "summary": "Nvidia CEO Jensen Huang says basic math skills ‘don’t matter’ in AI era &nbsp;&nbsp; The American Bazaar",
         "outlet": "The American Bazaar",
         "outletUrl": "https://americanbazaaronline.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 24
-      },
-      {
-        "title": "NVIDIA Has GPUs If You Have Coin - GamersNexus",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kb1VSYi1nalVxQTVsdzd6T1BXR3ZuejhpRFVtQWxzRFZvMWhPa2Flb1VTYzJPVlFHMndkbUJKd1JGb0JBMEl2UllxaDV3UUVfbGlJaHNzU3RTaURvUmV5dENsZXA3NkplWWtlOGNR?oc=5",
-        "publishedAt": "Fri, 25 Sep 2026 18:09:00 GMT",
-        "summary": "NVIDIA Has GPUs If You Have Coin &nbsp;&nbsp; GamersNexus",
-        "outlet": "GamersNexus",
-        "outletUrl": "https://gamersnexus.net",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
@@ -2255,25 +2258,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Heads of SpaceX, Apple, Nvidia and AI giants joined Trump and Xi for dinner - Українські Національні Новини (УНН)",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQblVoZVBzTEl5RThxUUtWV24wLTQ0aGE2NjFOR2V3azF5TWYzRlV6MDN1RTBWQ3hZempxbTd1VnR4dHhUUlpYVXQtOUxLeUZocS1fbXVxQ1BkUWdnek1VbV91cnRhaXcxQU9iR0NBM1hRT2pQX0JYeC0ydnk2V0piTXI0bEp4YXdQMjdzcW1TUHdqRENkVUxZZFRuRWRGM2dKbUHSAaABQVVfeXFMT3VvQ0hranlyNXppTEVrRndaSXJja2lacWFidHpqWUh2T1ZpZWNsMjM1MXRTWU8tbU1uOUFNSEVnRXV4NUZETVhrOGdXazdqU0ZNa0NIMWszNUVQdV9zU3dXZmZlZk9uQVczdmV3bzJWc2hBSXpJUHRmTGl1VUp5Q1dGcmtuQ0pPNFM4dXlvNjEwTVEzN1piM0x4NlByMVhBZQ?oc=5",
-        "publishedAt": "Fri, 25 Sep 2026 07:16:40 GMT",
-        "summary": "Heads of SpaceX, Apple, Nvidia and AI giants joined Trump and Xi for dinner &nbsp;&nbsp; Українські Національні Новини (УНН)",
-        "outlet": "Українські Національні Новини (УНН)",
-        "outletUrl": "https://unn.ua",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 24
-      },
-      {
         "title": "Key facts: NVIDIA (NVDA) 71.1% gross margin; Huang urges AI controls - TradingView",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkVEZW8xb2lTWkFoaWNDdVVtdWs3aVRYQTJUZ3c2XzVTTFFYT0xUNUxORDR2U21lNmpRMjhBbFg3b1JVYVBBU3RIc1NNamZydWhYQXlqY3FpbjUyZWxjdmNieDZnOFBYQVBhVDFEOHNfUDVwWDZfZGNvT3BlQkRjaXRldFFTTmNkaVJGakxna0ZUaThsVzIzYlVKcjRKQlBtblE0czBRMUxjM1ZBRUxQZTZTYnJnd3ZGLTVpeWxJVElRV28?oc=5",
         "publishedAt": "Fri, 25 Sep 2026 07:00:00 GMT",
@@ -2728,11 +2712,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Google announces Project Suncatcher to develop AI data centers in space - yahoo.com",
+        "title": "Google announces Project Suncatcher to develop AI data centers in space - Yahoo",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY2xNYUlUVHk5X3YzYXV3M01fNW5Rald3NUtlWlZxZDFBbVU3UWk4NmlQSlIyZmgyZXozZTlwRlUyU29KLUp6SWgycXprNHZMSG9RYU9VMkVGXzU1enB4SzZEcWQzam9nNWhtcTNBRXFUMDRJeGJNMEU3SUtfaEU0SnNwMWdvTEdqZkxURkVkY3ZQV3VCQWFv?oc=5",
         "publishedAt": "Fri, 25 Sep 2026 18:38:00 GMT",
-        "summary": "Google announces Project Suncatcher to develop AI data centers in space &nbsp;&nbsp; yahoo.com",
-        "outlet": "yahoo.com",
+        "summary": "Google announces Project Suncatcher to develop AI data centers in space &nbsp;&nbsp; Yahoo",
+        "outlet": "Yahoo",
         "outletUrl": "https://www.yahoo.com",
         "source": "Google AI 이슈",
         "sourceLang": "en",
@@ -2834,26 +2818,6 @@ window.__DASHBOARD_DATA__ = {
         "summary": "Meta Vs. Alphabet: The Agentic AI Each Builds Will Be Very Different in 2027 &nbsp;&nbsp; aol.com",
         "outlet": "aol.com",
         "outletUrl": "https://www.aol.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "Google"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 23
-      },
-      {
-        "title": "Meta Vs. Alphabet: The Agentic AI Each Builds Will Be Very Different in 2027 - 24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHdhSUVtWlpqTkhDNEpnUDN6OG9rWlVxMkhrN3dFWUl0b0NUd0ZYWURxb3RtS1dHbXFiNnVETkk0X1FOTVpNUGJHMmNVZWNQTkVZTzFvbm5wTVRMbzdNYkV6ekExcGU4U2Y3MGtrWC1QUjFUR3h4aUJ1SFpST3RXNTlBSHVlLUZvRjlhX21qYXZTOU9UOXZ1LXRuNUZESno2YVVxbUI3cUZmOFE5RUtpSF9KN05kUWszSGc?oc=5",
-        "publishedAt": "Fri, 25 Sep 2026 16:45:00 GMT",
-        "summary": "Meta Vs. Alphabet: The Agentic AI Each Builds Will Be Very Different in 2027 &nbsp;&nbsp; 24/7 Wall St.",
-        "outlet": "24/7 Wall St.",
-        "outletUrl": "https://247wallst.com",
         "source": "Google AI 이슈",
         "sourceLang": "en",
         "region": "global",
@@ -3207,12 +3171,50 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
+        "title": "Anderson Cooper asks NVIDIA CEO about tech CEOs' being worried about AI - CNN",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yQVdSNndCTFlsR2FGOWhHMEVaZUxuazl5UDNMNFZrQWdwM2lleG1uV3lnS2RTVE5tRFh1eU9OM0JxNVA0NDUxWkRvT2ZxS0pUcy1KUWJ6WnVxSll6UWVxag?oc=5",
+        "publishedAt": "Thu, 24 Sep 2026 21:32:02 GMT",
+        "summary": "Anderson Cooper asks NVIDIA CEO about tech CEOs' being worried about AI &nbsp;&nbsp; CNN",
+        "outlet": "CNN",
+        "outletUrl": "https://www.cnn.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 23
+      },
+      {
         "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face - The Verge",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52cFhVWm8zb1IteG1tOUhib0VlN05Yd3RrVWI2eFJQcUtUMVRvQ2lhSzNKS0JDSnc2ejVkd2JCMUVOOTJiUVFiZ3dCU0NRV3RxZG03SWpIZXlLemhPbm84YlZOU25VenZrX0M1WDM4YmkzSWhMVmZFTDZCaw?oc=5",
         "publishedAt": "Thu, 24 Sep 2026 19:59:26 GMT",
         "summary": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face &nbsp;&nbsp; The Verge",
         "outlet": "The Verge",
         "outletUrl": "https://www.theverge.com",
+        "source": "Google AI 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 23
+      },
+      {
+        "title": "OPINION: Google Gemini on Campus: Why AI Should Concern Students - The University Daily Kansan",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcnF0YnBQS1AxV3V1cDBDeUNZTGhMazdPOC1PV3FmWmEzWUFlYkFUZWxJYWNYRU96OEhvYmpzbVM1M0NyMVRFR2R4UVdYNk5oTXJzLXpEUkNBR21tQzBacG5pRzZCc3BEZkZPZmFHM0VPcGEyb2RfYzNBcDVGcW5XX0QwTk4yQW1abmJJcnRzY1ZNQVVuZ21XRC1xWDVKTWVIQnFMc2xDcmlETXk4WEFSTUpYZGQ0aGlCVm1aaTNnN0tSMlh3bmtEcjcxNTY2a1dpdG5uakY5RHhIQlU?oc=5",
+        "publishedAt": "Thu, 24 Sep 2026 19:42:00 GMT",
+        "summary": "OPINION: Google Gemini on Campus: Why AI Should Concern Students &nbsp;&nbsp; The University Daily Kansan",
+        "outlet": "The University Daily Kansan",
+        "outletUrl": "https://www.kansan.com",
         "source": "Google AI 이슈",
         "sourceLang": "en",
         "region": "global",
@@ -3539,27 +3541,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "SKT는 국산 NPU를 어떻게 상용망에 넣었나…리벨리온 아톰맥스의 경우 - 디일렉",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LY2UwT1JuQmlyck5RbDF6N08tQVZjNnViTzR4ckdlTzREQ2N1cFFJOWs3dUl6WVVHVy1sbENMaWxSTjc0aU1MbGtjbEQ3SXppcjhKWTA0bFRmZVZ5UTBMZzFRVlZNZw?oc=5",
-        "publishedAt": "Tue, 22 Sep 2026 00:13:44 GMT",
-        "summary": "SKT는 국산 NPU를 어떻게 상용망에 넣었나…리벨리온 아톰맥스의 경우 &nbsp;&nbsp; 디일렉",
-        "outlet": "디일렉",
-        "outletUrl": "https://www.thelec.kr",
-        "source": "국내 NPU 기업",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "K-엔비디아",
-          "리벨리온"
-        ],
-        "issueCategory": "NPU",
-        "score": 23
-      },
-      {
         "title": "퓨리오사AI, 3세대 칩에 HBM 12개 탑재...HBM 물량 조달 어떻게 - 지디넷코리아",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Db1lfcTJhc0hGYXgwYzNIR2hOeXo0N0o1RXlfS0k0TkY1cmNsY3VhRHVkMllQaTNSNElHMmhVVEVGb2d1bElxcEdURW1UZy1kTUZzNHdn?oc=5",
         "publishedAt": "Mon, 21 Sep 2026 08:03:00 GMT",
@@ -3580,11 +3561,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "오케스트로·퓨리오사AI, NPU AI 인프라 상용화 '맞손'… GPU 편중·운용 한계 넘는다 - etnews.com",
+        "title": "오케스트로·퓨리오사AI, NPU AI 인프라 상용화 '맞손'… GPU 편중·운용 한계 넘는다 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mNUVDYVVRbWdPNjMyTlBIRzRvRUhDeXg3N0RBU2xlVUxlVkhlcDFoNHFaWmhaaG41THpYaUFWSlRrc3ktTGYtWHVJb1gtdw?oc=5",
         "publishedAt": "Mon, 21 Sep 2026 06:12:11 GMT",
-        "summary": "오케스트로·퓨리오사AI, NPU AI 인프라 상용화 '맞손'… GPU 편중·운용 한계 넘는다 &nbsp;&nbsp; etnews.com",
-        "outlet": "etnews.com",
+        "summary": "오케스트로·퓨리오사AI, NPU AI 인프라 상용화 '맞손'… GPU 편중·운용 한계 넘는다 &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
         "source": "국내 NPU 기업",
         "sourceLang": "ko",
@@ -3638,6 +3619,27 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "추론",
+        "score": 23
+      },
+      {
+        "title": "리벨리온·퓨리오사AI, 사우디 공략 속도…K-AI 풀스택 수출 본격화 - edaily.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2ZpVk02M05JVzZDVW1XaXFLNjdEZ0VlTUphb05felBKSXZLWWU3XzhYcUNWSXJWcTY0WllCWHduVWhTMERya0ZQZFc0c1BCZHN2cG5zTmlkQTNnRmItUC1VWWxGVDNzWGtSTTZCUFhZR2hEOEg1LVNvT3B4RV96WA?oc=5",
+        "publishedAt": "Wed, 09 Sep 2026 07:00:00 GMT",
+        "summary": "리벨리온·퓨리오사AI, 사우디 공략 속도…K-AI 풀스택 수출 본격화 &nbsp;&nbsp; edaily.co.kr",
+        "outlet": "edaily.co.kr",
+        "outletUrl": "https://www.edaily.co.kr",
+        "source": "퓨리오사AI",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "리벨리온",
+          "퓨리오사AI"
+        ],
+        "taxonomyHits": [
+          "리벨리온",
+          "퓨리오사AI"
+        ],
+        "issueCategory": "NPU",
         "score": 23
       }
     ],
@@ -6461,14 +6463,14 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-09-26T00:09:01.100Z"
+    "generatedAt": "2026-09-26T00:34:29.924Z"
   },
   "briefing": {
     "date": "2026년 9월 26일 토요일",
     "summary": [
       "오늘의 최상위 이슈: Google Stock Forecast: TPU Growth Strengthens Alphabet’s Challenge to Nvidia - TradingKey",
       "강한 기술·시장 신호: NPU 44, AI인프라 15, 데이터센터 24, 온디바이스AI 2, 추론 9",
-      "주요 기업 신호: 퓨리오사AI 28, 리벨리온 18, 딥엑스 9, 모빌린트 2, 하이퍼엑셀 2"
+      "주요 기업 신호: 퓨리오사AI 29, 리벨리온 19, 딥엑스 9, 모빌린트 2, 하이퍼엑셀 2"
     ],
     "leadArticles": [
       {
@@ -6493,11 +6495,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 39
       },
       {
-        "title": "국산 NPU 수출길 넓힌다…리벨리온·퓨리오사AI·딥엑스 국회 모인다 - straightnews.co.kr",
+        "title": "국산 NPU 수출길 넓힌다…리벨리온·퓨리오사AI·딥엑스 국회 모인다 - 스트레이트뉴스",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LSEJTRk1KMVRvWTV0dWg0bGNZdnV0MjlYRmp1NDI1Uk9iWXA4c0lsZlB2Q0t4V05PTTFIX2JQaXdNa1lpYXZZcGFCeG9QT3F2cU1mRlBzNHp3SEVBLUpYUHJ0TFc0UGxySjBGWkNiVmY4S0HSAXdBVV95cUxQaURWcmRaT0J4dS16Ylp5b2dJMTY3bVo1VE1GRWItOGp4VzB5dTVEdlBsaURMbmNLQmVhSXBwODJZMXFYS2Q2LWlJajNIRnZFbzctRjhZRm90X0Y4R2ZOZUx4THZvaWM4UmtxSEtlZDZKZGhXczYwSQ?oc=5",
         "publishedAt": "Tue, 08 Sep 2026 07:00:00 GMT",
-        "summary": "국산 NPU 수출길 넓힌다…리벨리온·퓨리오사AI·딥엑스 국회 모인다 &nbsp;&nbsp; straightnews.co.kr",
-        "outlet": "straightnews.co.kr",
+        "summary": "국산 NPU 수출길 넓힌다…리벨리온·퓨리오사AI·딥엑스 국회 모인다 &nbsp;&nbsp; 스트레이트뉴스",
+        "outlet": "스트레이트뉴스",
         "outletUrl": "https://www.straightnews.co.kr",
         "source": "리벨리온",
         "sourceLang": "ko",
@@ -6718,7 +6720,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI에이전트",
-          18
+          17
         ],
         [
           "파운드리·패키징",
@@ -6728,11 +6730,11 @@ window.__DASHBOARD_DATA__ = {
       "companies": [
         [
           "퓨리오사AI",
-          28
+          29
         ],
         [
           "리벨리온",
-          18
+          19
         ],
         [
           "딥엑스",
@@ -6863,7 +6865,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NPU",
-          42
+          43
         ],
         [
           "정책",
@@ -6871,11 +6873,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "국내 기사",
-          73
+          74
         ],
         [
           "해외 기사",
-          107
+          106
         ]
       ],
       "sections": [
