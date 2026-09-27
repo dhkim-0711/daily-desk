@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-09-27T17:17:01.107Z",
+  "generatedAt": "2026-09-27T17:41:59.673Z",
   "news": {
     "articles": [
       {
@@ -96,11 +96,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - etoday.co.kr",
+        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - 이투데이",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KeGVSMXRwLVBJWVJOWjR0SjRoV0hwVS1OTU1xZ3R4bFozdVdrbVY2cGtqU2pLOG4yMElfaEhXQjBfaEhOZ2pzTEZIR2s4QkM4VzJEbA?oc=5",
         "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; etoday.co.kr",
-        "outlet": "etoday.co.kr",
+        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; 이투데이",
+        "outlet": "이투데이",
         "outletUrl": "https://www.etoday.co.kr",
         "source": "딥엑스",
         "sourceLang": "ko",
@@ -118,11 +118,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "Kevin Durant started with a $100,000 investment in this AI startup eight years ago; Nvidia’s $12.9 billion - The Economic Times",
+        "title": "Kevin Durant started with a $100,000 investment in this AI startup eight years ago; Nvidia’s $12.9 billion - economictimes.com",
         "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxObTRSbVdrYmlzTzQwUXl1TFhRSGMwVjd1NzJscHpSblNTSzJ6MDRkMlpyQkJsRkdXU05MMl81MUlXNnkyYmZBUzA5bzFPVmNmaEpOZl8zMFlHNm1oWkp0ZmI4QVZFZ1dyUEhkYkZxWTdxclJaRDE2YWltTHIwcXUyamYtWElLdEtidXpPeDdhVHloekVIV3EyYjA5Q3NVMmUwRHdvNzV6eXFXX3RDbVdsd1VRMXhwUi1HcFFHQUdwcEQxVUZZdDNZUzd0UW03M0xnVVhNdW5qd1dGTEExOWNCZ3lKTTVuMEpMeHRvY3FVc29Qa1pFZ3JUQlo3S1pCZlY2UHBibkFGU3lxZDJGbGM2QWp2Mng2S3JOTWlZanZUeDlUY2FUNEFXZUllVi1aZDA4UU1hZ2hLSHRUWlF5VUd4MWlB0gHHAkFVX3lxTE00UWN5XzlfVGpHdzd5TGdRRG5IYWl3ZUNpOTl4c2l3ejUwNndRQng1Tm9JT0lIbFdkSjRLZGdEaHBGNVhwX05qRWtMU3hEQmdWemNudDJSQk1Ob3dYcTBBSEpxcHVRQnhZc0ZvTkplanR6VHpzQ2pRNkFqYUNBcVFyLWlicTFZT1p4Nm44WDhsU1dBN2hUQ0FZVzNJQ2lHVEVWLXRMMkItSlE0NGM5MGh6QnJtZnllYW56OEs4ZS1IWkpidTUzaEFpSTFFeGdLQjh5dWJEYVROM1hiR2NoS0R0R0R1YjV1RGt4YlpXekdxZ0JWRmZYNUUzcFNsX2JiajBPdEZWb1dnZGxtX2YxaDFHaDlYWmJKaGZaM3R2Z21TaFUxX1pxQk41MTh6M3lCZTFGUGxpcWFzZXpLQzJmSHFhYkNSX0V3TQ?oc=5",
         "publishedAt": "Sun, 27 Sep 2026 05:48:34 GMT",
-        "summary": "Kevin Durant started with a $100,000 investment in this AI startup eight years ago; Nvidia’s $12.9 billion &nbsp;&nbsp; The Economic Times",
-        "outlet": "The Economic Times",
+        "summary": "Kevin Durant started with a $100,000 investment in this AI startup eight years ago; Nvidia’s $12.9 billion &nbsp;&nbsp; economictimes.com",
+        "outlet": "economictimes.com",
         "outletUrl": "https://m.economictimes.com",
         "source": "AI 시장·비즈니스",
         "sourceLang": "en",
@@ -162,8 +162,8 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "A $1,000 Investment Split Between Alphabet and Nvidia Will Be Worth This Much by 2030 - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTUp3empzOTZyT2VDWm15bldvcmpkRDFZaVQ2Wk9SWGpSRFVtQzVLeEZwbHN3azlyUW92X2s5T2MxNnEtcTc1LWZlYmVVR0lHU0xoRm9uWFB1VlYzT0I1bF9MaE52bDFXenhydHpaQkg3QWVjb0F0WjBYY2xQa1VxUUdzNnc4UklRODM5dkx4Q2p4azg3Ukk3SVJ0OTZONmlTVS1zZ1czeFdjaGM2SnNhbWt3dkh6TWxwM3E4ZzE5aVhGT0FMNEdCVjVmUnpSaTk1SWJSUml5NjB4LWVaTzBIMUFRc29YT0otcnJVSzVyYW1iaDMtZkFLOW54Rjg?oc=5",
-        "publishedAt": "Sun, 27 Sep 2026 02:37:25 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRUdrVktvS041bDJsT1dlWHd2S1NLNDhadmJPbDBTRnhrYUhnOVZ4Q29DQ05ZUFMzbkw2aGZ5Yl9WYk9uU1d6UHVQcjl2bVVWdUZlNXo3RXJuYVgxWVpyWTVzSk9veGQxWWwtNWlEQWZMZ21xQll1UkJ5YTQzdFk3QzM0QVZTUk5ySWNkTmVES29RRS1QTFhDT3VQdWhmd3N2VUZUb3ZLQ0VPYklqblJaQmxuWEpYZEZFNkVWU1NpT1F2bUJSM2l0TmgtS1VGc2t2SC1panZ4YmpOcjdxWjJPQ3ZJeVExc1NZYXkxWTlhdk9qV1JwYnc?oc=5",
+        "publishedAt": "Sun, 27 Sep 2026 03:03:06 GMT",
         "summary": "A $1,000 Investment Split Between Alphabet and Nvidia Will Be Worth This Much by 2030 &nbsp;&nbsp; The Globe and Mail",
         "outlet": "The Globe and Mail",
         "outletUrl": "https://www.theglobeandmail.com",
@@ -561,11 +561,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "Google launches TPU satellite to test space-based AI data centers - CHOSUNBIZ - biz.chosun.com",
+        "title": "Google launches TPU satellite to test space-based AI data centers - CHOSUNBIZ - Chosunbiz",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxb1hkR0FZc0o2cmdacnlEOUtIQ0lLZlN3eU1zRk1WWHBYTWNaamxTaGN2Z2JYSHQ2eTBZaC1PcDAxSHF5S2tGWk45QzVfLVMzUTJXd1p1Vk1nUUs0MHdYTm03bUpsd3lxTURrcDBEYUEzYTFOVmtIZHB30gGOAUFVX3lxTFBhQk5TcXlkdDJ6R1VnN1l5UlRFa0FEMmtEcHN6RUp6UXZ4YmVhNDhYeGlIREQtWWJxbVlYdDBEZkRhbnJFUTZGeTE2UzdOT08wX2l5UGlVdzlKMGRKUWpzNzBRWTNfQU1sNmZjOUpYS3Y0azVWUTh4UDNRcWp5M2NpUnV4aU1UMWcyOTcydmc?oc=5",
         "publishedAt": "Sun, 27 Sep 2026 08:38:00 GMT",
-        "summary": "Google launches TPU satellite to test space-based AI data centers - CHOSUNBIZ &nbsp;&nbsp; biz.chosun.com",
-        "outlet": "biz.chosun.com",
+        "summary": "Google launches TPU satellite to test space-based AI data centers - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+        "outlet": "Chosunbiz",
         "outletUrl": "https://biz.chosun.com",
         "source": "Google AI 이슈",
         "sourceLang": "en",
@@ -993,11 +993,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea - CHOSUNBIZ - biz.chosun.com",
+        "title": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea - CHOSUNBIZ - Chosunbiz",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLOGpGTUtfbmxscTBKMUpDcDJuS0lCWWNPXzJQWnUyLVVyRVFyWFRwYXh3RVlQeGVEZS16VUZRbVhzdHoyYU1wLXdIMDdnVDdaOExfUE9UcU1UcGo1YlVmNHpOREh2bzRwTjd4NFQyLVI1OTRheW5jYm9R0gGOAUFVX3lxTE9tVU52SDVGLUpxQXN3dE1RZUpLSk1vbmtOdE9fd3JjTVJEM1JLVE5Qdy1XdzhXcGU1Z0ZQZHJzVEZHdjR1ekEtOEJkbVVsbTZlaVdMbWxYTWZhZDNvMmdiSUpCWHBjWW1KYkVZaG5FVUh0M21uaGFQdXh0UHg3ZUhwenp0eF8zbkxGRTktN3c?oc=5",
         "publishedAt": "Sat, 04 Apr 2026 07:00:00 GMT",
-        "summary": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea - CHOSUNBIZ &nbsp;&nbsp; biz.chosun.com",
-        "outlet": "biz.chosun.com",
+        "summary": "HyperAccel bets LPU to cut LLM inference costs and challenge Nvidia in Korea - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+        "outlet": "Chosunbiz",
         "outletUrl": "https://biz.chosun.com",
         "source": "HyperAccel global",
         "sourceLang": "en",
@@ -1055,11 +1055,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "Vsora CEO: We are the European Nvidia for AI inference - sdxcentral.com",
+        "title": "Vsora CEO: We are the European Nvidia for AI inference - SDxCentral",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVBJcnAyd0FXc0NVY1h5R0lOanlQX19mTUptdDJWd281MHVvYlIxVmE0R25jdldPX1JmWFpwY19ESkViNVVOTm02cGJ4alJiR1l3ZmxuMFpBQi11aUNsYWJPcEtMcnFLaEd2OGMwTFBlUDljMjlzTV9lNVRtU05yaVBvdzJGdkVLaGMxQVlYYw?oc=5",
         "publishedAt": "Fri, 25 Sep 2026 15:23:37 GMT",
-        "summary": "Vsora CEO: We are the European Nvidia for AI inference &nbsp;&nbsp; sdxcentral.com",
-        "outlet": "sdxcentral.com",
+        "summary": "Vsora CEO: We are the European Nvidia for AI inference &nbsp;&nbsp; SDxCentral",
+        "outlet": "SDxCentral",
         "outletUrl": "https://www.sdxcentral.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -1092,6 +1092,25 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "데이터센터",
+        "score": 25
+      },
+      {
+        "title": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화 - AI타임스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10OWRBQ3BWb1l5SlBsb2RHVm1OVVhrZDNlaDgxVFBQcE5CRTJRSGJibm02X2c2eVp4LXc4eHdhOGdtamNHeHVpelA1Y05ETDhfcFdwUzc3d3Bfb1FZc1MwR2dRLWJsYnF5R0E?oc=5",
+        "publishedAt": "Thu, 24 Sep 2026 13:29:05 GMT",
+        "summary": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화 &nbsp;&nbsp; AI타임스",
+        "outlet": "AI타임스",
+        "outletUrl": "https://www.aitimes.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
         "score": 25
       },
       {
@@ -1946,11 +1965,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "과기정통부, 국산 AI반도체 해외실증 전폭 지원…8개 컨소시엄 선정 - korea.kr",
+        "title": "과기정통부, 국산 AI반도체 해외실증 전폭 지원…8개 컨소시엄 선정 - 정책브리핑",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pak9jcW14V1ZLdnZlalRZTVdmRFBPelVrazZlbk9qTmRsM2IwUl8tM0VMd0FXaU16eUJROGdwVU5yc2FwdGZBOFRRb3N1V2UtV3BkUmRJYW9BRUNkRVY4ZGdkTmZpM2puOS1MSw?oc=5",
         "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "과기정통부, 국산 AI반도체 해외실증 전폭 지원…8개 컨소시엄 선정 &nbsp;&nbsp; korea.kr",
-        "outlet": "korea.kr",
+        "summary": "과기정통부, 국산 AI반도체 해외실증 전폭 지원…8개 컨소시엄 선정 &nbsp;&nbsp; 정책브리핑",
+        "outlet": "정책브리핑",
         "outletUrl": "https://www.korea.kr",
         "source": "과기정통부 AI반도체",
         "sourceLang": "ko",
@@ -2242,11 +2261,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "LG전자, 엔비디아 AI 생태계 올라탔다… 냉각사업 공략 가속 - 비즈트리뷴",
+        "title": "LG전자, 엔비디아 AI 생태계 올라탔다… 냉각사업 공략 가속 - biztribune.co.kr",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ISmFuX2ZrdzhEWjN0a055c2hWV2prVnR4ZU1UZGVJT1dDbzloaHJBS051Wm9jQm5QaFBJTGRSVXBOcVQtUTRtWDNxd3FIQ1Q2R0FYZ3BISUhoeEdHUmREMWxaWDVsWktMUVFscDd2T0w?oc=5",
         "publishedAt": "Sun, 27 Sep 2026 10:32:45 GMT",
-        "summary": "LG전자, 엔비디아 AI 생태계 올라탔다… 냉각사업 공략 가속 &nbsp;&nbsp; 비즈트리뷴",
-        "outlet": "비즈트리뷴",
+        "summary": "LG전자, 엔비디아 AI 생태계 올라탔다… 냉각사업 공략 가속 &nbsp;&nbsp; biztribune.co.kr",
+        "outlet": "biztribune.co.kr",
         "outletUrl": "https://www.biztribune.co.kr",
         "source": "해외 빅테크 국내 보도",
         "sourceLang": "ko",
@@ -2922,26 +2941,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "LG전자, 엔비디아 업고 'AI 데이터센터 냉각' 시장 넓힌다 - 데일리안",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNR21kOHBDX1drNEhlczVlQl9iVFVuczd0djUyOUFMdWZWYTkyb1ZodXdTRUhqUUQwVlNnelB2WHZEWENIUXoxbzM3bTdfc213Zk5iMGVzTlU2MTNIcU5LRFY2cnYwdTJIc19OSlpieFk2YmN3V1RDN2lMUEFxV2RZeS1mVkk0emN6SUpkbHN2YUdLQl9nT2VTRDVFVFEwZmV5NmtaLWRENWdTMXRtMGRhTmN1bGpldjlrbVJXQ3p3Y05IT3hCVGVvNUdzb2ptc1ZwSFJmVUVFdjhqOWxIOGQ5cXRRcVdLbXNseHBrbjk5R1pDX0ZjdmF3aw?oc=5",
-        "publishedAt": "Sun, 27 Sep 2026 01:43:00 GMT",
-        "summary": "LG전자, 엔비디아 업고 'AI 데이터센터 냉각' 시장 넓힌다 &nbsp;&nbsp; 데일리안",
-        "outlet": "데일리안",
-        "outletUrl": "https://www.dailian.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "데이터센터",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
         "title": "LG전자 엔비디아 파트너 등재…AI 냉각 시장 공략 - 자본시장뉴스",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2VUNhRURiVDNidjBnU0c2TXJvQmc4V2VURzlKSktQdDBxQUVSSUh3b2NnalZ0WGRybUQ2R0VCczVJckUzX2pfeC1OdVVia2ttbTNjV2UyVlRBUGl2ZFBZSnhHNDdscHc?oc=5",
         "publishedAt": "Sun, 27 Sep 2026 01:30:00 GMT",
@@ -3242,26 +3241,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Google is launching an AI data center into space on Oct. 1 - Mashable",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZkpzVVJDS0o2QmRhNW54S3cwUkJabFRjOE13TklLaUFsZFBITDFLMzRzaEh1Qmhnd3YzYTBHd0hEM0lyVHlVU2ZsNzJQT1RMOG1EcV9CS25yWFQwVlNSNk9STVhxcG0ydzlKenZkeWV1eFNvQjdZQTRDdUp2dEU?oc=5",
-        "publishedAt": "Sat, 26 Sep 2026 17:24:05 GMT",
-        "summary": "Google is launching an AI data center into space on Oct. 1 &nbsp;&nbsp; Mashable",
-        "outlet": "Mashable",
-        "outletUrl": "https://mashable.com",
-        "source": "Google AI 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "데이터센터",
-          "Google"
-        ],
-        "issueCategory": "데이터센터",
-        "score": 23
-      },
-      {
         "title": "Behold the horrors of DLSS 5, NVidia's real-time AI graphics improver - Boing Boing",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclJDVDBhdzhDQUhPNlhVRDFET19kZjc4NDBXM2N0SjNfZkIxZ2ZBWGJiVms2UmRoZERJSUQ4emhxUlRLaWk3RmpLcWtKaERMbzI3blhIVXdjX3NsN1p3NTNNT3dndWEtVklLYjhmVXVwOUt1UnIwSzg4amdaR0lQazNsejloM19XSGM3RGdIR29iMnBVMW1IbG5uc3NQRENWWTZBNkREbzZsd9IBrwFBVV95cUxQR3o0ZU9IZENJOUNra0pPMi1hS2pxTm1BS05yRk1QWFp1S1ZYLWh4bmlIc3oxdEtkZ0JVQmRNN3VkVC1lbm1CbEVYUmZrOGlZcm1SclpmNFhPZjlaQzIyYzJ3WGh0QVdIaHlJQm1TZm5oV0tLcDRiQ2RRTTEwc0JNZDJ1Umkybk9KUDhIcmtvMDlwZE1YSnZIY0NmTFh5TmRnejRzNnQwTVBNTndkQXFj?oc=5",
         "publishedAt": "Sat, 26 Sep 2026 16:04:09 GMT",
@@ -3414,31 +3393,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "NVIDIA CEO says to 'just stop' AI if worred - wkyt.com",
+        "title": "NVIDIA CEO says to 'just stop' AI if worred - WKYT",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHJmWE5CMnJ2eXkxSDREeGJDbGxSODdWYnJweTJ2MTdPM2wzOUl0QXVTM3BITHlUcXI1cGFCWHZZcUE5RjVjbTVOTTZPVW1Rd25NSDNfNXlMR1dWZ2RiLVpFNTVSV3FvZFJ2SWlnTGVENGRoYzFDQUYzNG1rVEdMbzE1RQ?oc=5",
         "publishedAt": "Sat, 26 Sep 2026 10:25:00 GMT",
-        "summary": "NVIDIA CEO says to 'just stop' AI if worred &nbsp;&nbsp; wkyt.com",
-        "outlet": "wkyt.com",
+        "summary": "NVIDIA CEO says to 'just stop' AI if worred &nbsp;&nbsp; WKYT",
+        "outlet": "WKYT",
         "outletUrl": "https://www.wkyt.com",
-        "source": "NVIDIA 이슈",
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 23
-      },
-      {
-        "title": "NVIDIA CEO says to 'just stop' AI if worred - FOX19 | Cincinnati",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVluZGxSVW5DYjF3U2llNE1KdGEtSVZWZDhEZU85LVdkWTRtcWFtcERIWF95Z21oM1hUc1I2RGZ3d1RCbFpxN1M5ZUczWjdXZGdnYXo2akdqYTktY0dmUFJqZm1KZWRyTkFaUnBfRFl3N0EzMGRzV1ItaDZxTUtLd1hiZkI?oc=5",
-        "publishedAt": "Sat, 26 Sep 2026 10:25:00 GMT",
-        "summary": "NVIDIA CEO says to 'just stop' AI if worred &nbsp;&nbsp; FOX19 | Cincinnati",
-        "outlet": "FOX19 | Cincinnati",
-        "outletUrl": "https://www.fox19.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
         "region": "global",
@@ -3566,11 +3526,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories - HPCwire",
+        "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories - hpcwire.com",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdU1GeDNpdDNOaXZoRFhiZENyTGFmNmNVRFo3SjZuSjhPZW5oZU14VUlIZ0RKeXc5Z2lEM0Qwb2FPbERUOWdrLTJXUDBYYWpVc2dtUkJrb0UzTFUzRGcyblpLWFVESm1oRTNSek5RLXhsVnNuZWFsSC1rUkpFcDN2cEFBN0hIMEpGaXNGYVlGODA1VGEzOXJBU0JZNzQtVVZfTm1Wak5xaDBVYUpvLWJVbEs4Rm1VSzBjV0E?oc=5",
         "publishedAt": "Fri, 25 Sep 2026 17:43:39 GMT",
-        "summary": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories &nbsp;&nbsp; HPCwire",
-        "outlet": "HPCwire",
+        "summary": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories &nbsp;&nbsp; hpcwire.com",
+        "outlet": "hpcwire.com",
         "outletUrl": "https://www.hpcwire.com",
         "source": "NVIDIA 이슈",
         "sourceLang": "en",
@@ -3665,6 +3625,44 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "추론",
+        "score": 23
+      },
+      {
+        "title": "Nvidia’s AI CPU Push Threatens Intel and AMD - 24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY24tZFZJTE1qeE1vc3poSjFlSG9wTVdvZ3BKV1FwZ3hLRWd5QjVfNkRUanB2ZEhoNGNTdFhPdm55Q0VrbDRZbnJTenVFYlowcHVDVUZIUVpkVUVqZXZMQlZNRFUtTXUwTWtvdmw5ZmdaZlFhMEZBZ3g2T0V5eUhiS1hBSTFYUFFkelBXRVRvbGw?oc=5",
+        "publishedAt": "Mon, 21 Sep 2026 18:18:00 GMT",
+        "summary": "Nvidia’s AI CPU Push Threatens Intel and AMD &nbsp;&nbsp; 24/7 Wall St.",
+        "outlet": "24/7 Wall St.",
+        "outletUrl": "https://247wallst.com",
+        "source": "NVIDIA 이슈",
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "KOSA, 과기정통부·NIA와 손잡고 국민 체감형 에이전틱 AI 서비스 발굴 연구 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fLTU2SWI3eERJRVpZa0hVVVBMbHA4QTdyVThLdWo5RjRxXzAtMzNBWjd5YWZBRnRlRHJLMTJDZEQxVzB4LVhicFUyT3AyQQ?oc=5",
+        "publishedAt": "Mon, 21 Sep 2026 04:29:59 GMT",
+        "summary": "KOSA, 과기정통부·NIA와 손잡고 국민 체감형 에이전틱 AI 서비스 발굴 연구 &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
+        "outletUrl": "https://www.etnews.com",
+        "source": "NIPA·과기정통부 정책",
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "AI시장"
+        ],
+        "issueCategory": "AI시장",
         "score": 23
       }
     ],
@@ -6552,13 +6550,13 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-09-27T17:16:58.088Z"
+    "generatedAt": "2026-09-27T17:41:57.267Z"
   },
   "briefing": {
     "date": "2026년 9월 28일 월요일",
     "summary": [
       "오늘의 최상위 이슈: 퓨리오사AI·리벨리온 출격… 엔비디아 독주에 도전하는 한국 NPU - 핀포인트뉴스",
-      "강한 기술·시장 신호: NPU 41, AI인프라 13, 데이터센터 65, 온디바이스AI 0, 추론 8",
+      "강한 기술·시장 신호: NPU 41, AI인프라 13, 데이터센터 63, 온디바이스AI 0, 추론 8",
       "주요 기업 신호: 퓨리오사AI 25, 리벨리온 19, 딥엑스 7, 모빌린트 2, 하이퍼엑셀 1"
     ],
     "leadArticles": [
@@ -6656,11 +6654,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - etoday.co.kr",
+        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - 이투데이",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KeGVSMXRwLVBJWVJOWjR0SjRoV0hwVS1OTU1xZ3R4bFozdVdrbVY2cGtqU2pLOG4yMElfaEhXQjBfaEhOZ2pzTEZIR2s4QkM4VzJEbA?oc=5",
         "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; etoday.co.kr",
-        "outlet": "etoday.co.kr",
+        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; 이투데이",
+        "outlet": "이투데이",
         "outletUrl": "https://www.etoday.co.kr",
         "source": "딥엑스",
         "sourceLang": "ko",
@@ -6678,11 +6676,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "Kevin Durant started with a $100,000 investment in this AI startup eight years ago; Nvidia’s $12.9 billion - The Economic Times",
+        "title": "Kevin Durant started with a $100,000 investment in this AI startup eight years ago; Nvidia’s $12.9 billion - economictimes.com",
         "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxObTRSbVdrYmlzTzQwUXl1TFhRSGMwVjd1NzJscHpSblNTSzJ6MDRkMlpyQkJsRkdXU05MMl81MUlXNnkyYmZBUzA5bzFPVmNmaEpOZl8zMFlHNm1oWkp0ZmI4QVZFZ1dyUEhkYkZxWTdxclJaRDE2YWltTHIwcXUyamYtWElLdEtidXpPeDdhVHloekVIV3EyYjA5Q3NVMmUwRHdvNzV6eXFXX3RDbVdsd1VRMXhwUi1HcFFHQUdwcEQxVUZZdDNZUzd0UW03M0xnVVhNdW5qd1dGTEExOWNCZ3lKTTVuMEpMeHRvY3FVc29Qa1pFZ3JUQlo3S1pCZlY2UHBibkFGU3lxZDJGbGM2QWp2Mng2S3JOTWlZanZUeDlUY2FUNEFXZUllVi1aZDA4UU1hZ2hLSHRUWlF5VUd4MWlB0gHHAkFVX3lxTE00UWN5XzlfVGpHdzd5TGdRRG5IYWl3ZUNpOTl4c2l3ejUwNndRQng1Tm9JT0lIbFdkSjRLZGdEaHBGNVhwX05qRWtMU3hEQmdWemNudDJSQk1Ob3dYcTBBSEpxcHVRQnhZc0ZvTkplanR6VHpzQ2pRNkFqYUNBcVFyLWlicTFZT1p4Nm44WDhsU1dBN2hUQ0FZVzNJQ2lHVEVWLXRMMkItSlE0NGM5MGh6QnJtZnllYW56OEs4ZS1IWkpidTUzaEFpSTFFeGdLQjh5dWJEYVROM1hiR2NoS0R0R0R1YjV1RGt4YlpXekdxZ0JWRmZYNUUzcFNsX2JiajBPdEZWb1dnZGxtX2YxaDFHaDlYWmJKaGZaM3R2Z21TaFUxX1pxQk41MTh6M3lCZTFGUGxpcWFzZXpLQzJmSHFhYkNSX0V3TQ?oc=5",
         "publishedAt": "Sun, 27 Sep 2026 05:48:34 GMT",
-        "summary": "Kevin Durant started with a $100,000 investment in this AI startup eight years ago; Nvidia’s $12.9 billion &nbsp;&nbsp; The Economic Times",
-        "outlet": "The Economic Times",
+        "summary": "Kevin Durant started with a $100,000 investment in this AI startup eight years ago; Nvidia’s $12.9 billion &nbsp;&nbsp; economictimes.com",
+        "outlet": "economictimes.com",
         "outletUrl": "https://m.economictimes.com",
         "source": "AI 시장·비즈니스",
         "sourceLang": "en",
@@ -6722,8 +6720,8 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "A $1,000 Investment Split Between Alphabet and Nvidia Will Be Worth This Much by 2030 - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTUp3empzOTZyT2VDWm15bldvcmpkRDFZaVQ2Wk9SWGpSRFVtQzVLeEZwbHN3azlyUW92X2s5T2MxNnEtcTc1LWZlYmVVR0lHU0xoRm9uWFB1VlYzT0I1bF9MaE52bDFXenhydHpaQkg3QWVjb0F0WjBYY2xQa1VxUUdzNnc4UklRODM5dkx4Q2p4azg3Ukk3SVJ0OTZONmlTVS1zZ1czeFdjaGM2SnNhbWt3dkh6TWxwM3E4ZzE5aVhGT0FMNEdCVjVmUnpSaTk1SWJSUml5NjB4LWVaTzBIMUFRc29YT0otcnJVSzVyYW1iaDMtZkFLOW54Rjg?oc=5",
-        "publishedAt": "Sun, 27 Sep 2026 02:37:25 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRUdrVktvS041bDJsT1dlWHd2S1NLNDhadmJPbDBTRnhrYUhnOVZ4Q29DQ05ZUFMzbkw2aGZ5Yl9WYk9uU1d6UHVQcjl2bVVWdUZlNXo3RXJuYVgxWVpyWTVzSk9veGQxWWwtNWlEQWZMZ21xQll1UkJ5YTQzdFk3QzM0QVZTUk5ySWNkTmVES29RRS1QTFhDT3VQdWhmd3N2VUZUb3ZLQ0VPYklqblJaQmxuWEpYZEZFNkVWU1NpT1F2bUJSM2l0TmgtS1VGc2t2SC1panZ4YmpOcjdxWjJPQ3ZJeVExc1NZYXkxWTlhdk9qV1JwYnc?oc=5",
+        "publishedAt": "Sun, 27 Sep 2026 03:03:06 GMT",
         "summary": "A $1,000 Investment Split Between Alphabet and Nvidia Will Be Worth This Much by 2030 &nbsp;&nbsp; The Globe and Mail",
         "outlet": "The Globe and Mail",
         "outletUrl": "https://www.theglobeandmail.com",
@@ -6800,7 +6798,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "데이터센터",
-          65
+          63
         ],
         [
           "온디바이스AI",
@@ -6842,7 +6840,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          113
+          112
         ],
         [
           "Google",
@@ -6850,7 +6848,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AMD",
-          10
+          11
         ],
         [
           "Broadcom",
@@ -6949,7 +6947,7 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          46
+          47
         ],
         [
           "NPU",
@@ -6961,11 +6959,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "국내 기사",
-          110
+          111
         ],
         [
           "해외 기사",
-          70
+          69
         ]
       ],
       "sections": [
