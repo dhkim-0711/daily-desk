@@ -1,0 +1,99 @@
+{# Fixed layout derived from the user's approved September 29 email. Content only is parameterized. #}
+{% macro citation(source) -%}<a aria-label="출처 {{ source.citation_id }}" class="source-note" data-source-id="{{ source.citation_id }}" href="{{ source.url }}" rel="noopener noreferrer" style="display:inline-block;padding:0 4px;color:#245d78;text-decoration:underline;font-size:14px;line-height:23px;font-weight:700;white-space:nowrap;" target="_blank">{{ source.mark }}</a>{%- endmacro %}
+{% macro citations(article) -%}{% for source in article.sources %} {{ citation(source) }}{% endfor %}{%- endmacro %}
+<!--DOCTYPE html-->
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta name="x-apple-disable-message-reformatting"/>
+<meta content="light" name="color-scheme"/>
+<meta content="light" name="supported-color-schemes"/>
+<title>AI반도체 일일 브리핑 · {{ display_date }}</title>
+<!--[if mso]>
+<xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<style type="text/css">table,td,p,a,h1,h2,h3{font-family:'Malgun Gothic',Arial,sans-serif !important;}</style>
+<![endif]-->
+<style type="text/css">
+body { margin:0 !important; padding:0 !important; width:100% !important; }
+table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+td { -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+a { color:#245d78; }
+a[x-apple-data-detectors] { color:inherit !important; text-decoration:none !important; }
+/* Mobile-safe inline values are the baseline. Desktop enhancements are optional. */
+@media screen and (min-width:621px) {
+ .outer-pad { padding:22px 16px 32px !important; }
+ .hero-pad { padding:32px 30px !important; }
+ .hero-title { font-size:30px !important; line-height:40px !important; }
+ .hero-date { font-size:18px !important; line-height:28px !important; }
+ .eyebrow { font-size:12px !important; letter-spacing:1.6px !important; }
+ .intro-pad { padding:22px 30px !important; }
+ .intro-copy { font-size:14px !important; line-height:24px !important; }
+ .section-pad { padding-left:24px !important; padding-right:24px !important; }
+ .section-title { font-size:22px !important; line-height:32px !important; }
+ .summary-pad { padding-left:20px !important; padding-right:20px !important; }
+ .summary-title { font-size:17px !important; line-height:26px !important; }
+ .summary-copy,.body-copy { font-size:15px !important; line-height:26px !important; }
+ .card-title-pad { padding:18px 20px !important; }
+ .article-title { font-size:18px !important; line-height:28px !important; }
+ .card-pad { padding:20px !important; }
+ .card-meta-pad { padding:12px 20px !important; }
+ .source-title { font-size:14px !important; line-height:23px !important; }
+}
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+/* Compact attribution footer; typography matches the body. */
+@media screen and (min-width:361px) {
+ .ai-attribution { font-size:12px !important; line-height:20px !important; }
+ .nipa-brand-lockup { width:310px !important; }
+ .brand-logo-cell { width:176px !important; }
+ .nipa-logo { width:176px !important; }
+ .brand-team-cell { width:134px !important; }
+}
+@media screen and (min-width:621px) {
+ .footer-pad { padding:18px 18px !important; }
+ .ai-attribution { font-size:13px !important; line-height:21px !important; }
+ .nipa-brand-lockup { width:346px !important; }
+ .brand-logo-cell { width:202px !important; }
+ .nipa-logo { width:202px !important; }
+ .brand-team-cell { width:144px !important; padding-left:14px !important; }
+ .team-tag { font-size:14px !important; line-height:22px !important; }
+}
+</style></head>
+<body style="margin:0;padding:0;background-color:#ffffff;font-family:'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR',Arial,sans-serif;color:#263f4d;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;">
+<div style="display:none;font-size:1px;line-height:1px;color:#ffffff;max-height:0;max-width:0;opacity:0;overflow:hidden;mso-hide:all;">{{ display_date }} · 09:00 기준 · AI반도체 주요 동향과 시사점</div>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;border-collapse:collapse;table-layout:fixed;font-family:'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR',Arial,sans-serif;-webkit-text-size-adjust:100%;" width="100%">
+<tr><td align="center" class="outer-pad" style="padding:8px 4px 20px;">
+<!--[if mso]><table role="presentation" width="760" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" class="email-shell" role="presentation" style="width:100%;max-width:760px;margin:0 auto;border-collapse:collapse;table-layout:fixed;background-color:#ffffff;" width="100%">
+<tr><td bgcolor="#15364a" class="hero-pad" style="padding:25px 18px 23px;background-color:#15364a;color:#ffffff;">
+<p class="eyebrow" style="margin:0 0 12px;font-size:10px;line-height:17px;letter-spacing:1.1px;color:#ffffff;">DAILY DESK / MORNING BRIEFING</p>
+<h1 class="hero-title" style="margin:0 0 9px;font-size:24px;line-height:33px;font-weight:700;letter-spacing:-0.6px;color:#ffffff;word-break:keep-all;">AI반도체 일일 브리핑</h1>
+<p class="hero-date" style="margin:0;font-size:15px;line-height:24px;color:#ffffff;">{{ display_date }} · 09:00 기준</p>
+</td></tr>
+<tr><td bgcolor="#eef4f7" class="intro-pad intro-copy" style="padding:18px 16px;background-color:#eef4f7;font-size:13px;line-height:22px;color:#36596f;word-break:normal;word-wrap:break-word;">
+<p style="margin:0 0 5px;"><strong style="color:#21475e;">기준 시각:</strong> <span style="display:inline-block;">{{ cutoff_display }}</span> <span style="display:inline-block;">(한국시간, KST)</span></p>
+<p style="margin:0 0 11px;"><strong style="color:#21475e;">분석 구간:</strong> <span style="display:inline-block;">{{ start_display }}</span> ~ <span style="display:inline-block;">{{ cutoff_display }}</span></p>
+<p style="margin:0;">최근 24시간 Daily Desk에 수집된 기사 중 주요 이슈를 선정해 핵심 내용과 시사점을 정리한 일일 브리핑입니다.</p>
+</td></tr>
+<tr><td class="section-pad" style="padding:25px 10px 12px;"><h2 class="section-title" style="margin:0 0 14px;font-size:19px;line-height:28px;font-weight:700;color:#15364a;letter-spacing:-0.3px;">1. 오늘의 핵심 요약</h2><table bgcolor="#f4f8fa" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;table-layout:fixed;background-color:#f4f8fa;border-left:3px solid #245d78;" width="100%"><tr><td class="summary-pad" style="padding:0 12px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;table-layout:fixed;" width="100%">{% for group in summary_groups %}<tr><td class="summary-item" style="padding:14px 0;{% if not loop.first %}border-top:1px solid #dce7ed;{% endif %}">{% for number in group.article_numbers %}<p class="summary-title" style="margin:0 0 6px;font-size:16px;line-height:24px;font-weight:700;color:#15364a;word-break:normal;word-wrap:break-word;"><span style="font-family:Arial,sans-serif;font-size:12px;color:#597384;">{{ '%02d'|format(number) }}</span>  <span class="summary-title-text">{{ articles[number - 1].title }}</span></p>{% endfor %}<ul class="summary-bullets" style="margin:9px 0 0;padding:0 0 0 17px;list-style-type:disc;color:#365365;">{% for bullet in group.bullets %}<li class="summary-copy" style="margin:0 0 5px;padding:0;font-size:14px;line-height:23px;color:#365365;word-break:normal;word-wrap:break-word;overflow-wrap:break-word;">{{ bullet }}{% if loop.last %}{% for number in group.article_numbers %} {{ citations(articles[number - 1]) }}{% endfor %}{% endif %}</li>{% endfor %}</ul></td></tr>{% endfor %}</table></td></tr></table></td></tr>
+<tr><td class="section-pad" style="padding:14px 10px 0;"><h2 class="section-title" style="margin:0 0 14px;font-size:19px;line-height:28px;font-weight:700;color:#15364a;letter-spacing:-0.3px;">2. 주요 기사 {{ articles|length }}건</h2>{% for article in articles %}<table border="0" cellpadding="0" cellspacing="0" class="article-card" role="presentation" style="width:100%;border:1px solid #d8e4eb;border-collapse:collapse;table-layout:fixed;margin:0 0 12px;" width="100%">
+<tr><td bgcolor="#eef4f7" class="card-title-pad" style="padding:14px 12px;background-color:#eef4f7;border-bottom:1px solid #d8e4eb;"><h3 class="article-title" style="margin:0;font-size:16px;line-height:24px;font-weight:700;color:#15364a;word-break:normal;word-wrap:break-word;overflow-wrap:break-word;"><span style="display:inline-block;padding:0 6px;background-color:#15364a;color:#ffffff;font-family:Arial,sans-serif;font-size:11px;line-height:22px;font-weight:700;vertical-align:1px;">{{ '%02d'|format(article.number) }}</span>  <span class="article-title-text">{{ article.title }}</span></h3></td></tr>
+<tr><td class="card-pad" style="padding:16px 12px;"><p class="block-label" style="margin:0 0 7px;font-size:12px;line-height:20px;font-weight:700;color:#315e77;">주요 내용</p>{% for paragraph in article.main_points %}<p class="body-copy" style="margin:0 0 {% if loop.last %}0{% else %}8px{% endif %};font-size:14px;line-height:23px;color:#2e4655;word-break:normal;word-wrap:break-word;overflow-wrap:break-word;">{{ paragraph }}{% if loop.last %} {{ citations(article) }}{% endif %}</p>{% endfor %}{% for reference in article.references %}<p style="margin:8px 0 0;padding:10px 12px;background-color:#f7fafb;border-left:3px solid #9ab3c1;font-size:12px;line-height:20px;color:#5b7381;word-break:normal;word-wrap:break-word;">참고 : <a href="{{ reference.url }}" rel="noopener noreferrer" style="color:#245d78;text-decoration:underline;" target="_blank">{{ reference.title }}({{ reference.publisher }}, {{ reference.date_display }})</a></p>{% endfor %}</td></tr>
+<tr><td bgcolor="#f5f8fa" class="card-pad implications-pad" style="padding:14px 12px;background-color:#f5f8fa;border-top:1px solid #e5edf2;"><p class="block-label" style="margin:0 0 7px;font-size:12px;line-height:20px;font-weight:700;color:#315e77;">시사점</p>{% for paragraph in article.implications %}<p class="body-copy" style="margin:0 0 {% if loop.last %}0{% else %}8px{% endif %};font-size:14px;line-height:23px;color:#2e4655;word-break:normal;word-wrap:break-word;overflow-wrap:break-word;">{{ paragraph }}{% if loop.last %} {{ citations(article) }}{% endif %}</p>{% endfor %}</td></tr>
+<tr><td class="card-meta-pad" style="padding:11px 12px;border-top:1px solid #e5edf2;"><p class="meta-copy" style="margin:0;font-size:12px;line-height:20px;color:#597384;word-break:normal;word-wrap:break-word;"><span class="meta-label" style="font-weight:700;color:#315e77;">발행일 및 출처</span> {% for source in article.sources %}{{ source.publisher }} · {{ source.date_display }} {{ citation(source) }}{% if not loop.last %}<br>{% endif %}{% endfor %}</p></td></tr></table>{% endfor %}</td></tr>
+<tr><td class="section-pad sources-section" style="padding:10px 10px 22px;"><h2 class="section-title" style="margin:0 0 14px;font-size:19px;line-height:28px;font-weight:700;color:#15364a;letter-spacing:-0.3px;">3. 출처 기사</h2><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;table-layout:fixed;" width="100%">{% for article in articles %}{% for source in article.sources %}<tr><td style="padding:14px 0;border-top:1px solid #dce7ed;word-break:normal;word-wrap:break-word;overflow-wrap:break-word;"><p class="source-title" style="margin:0 0 6px;font-size:13px;line-height:22px;font-weight:600;"><a href="{{ source.url }}" rel="noopener noreferrer" style="color:#214e67;text-decoration:underline;" target="_blank">{{ source.mark }}  {{ source.title }}</a></p><p class="meta-copy" style="margin:0;font-size:12px;line-height:20px;color:#597384;">{{ source.publisher }} · {{ source.date_display }}</p><p class="meta-copy" style="margin:2px 0 0;font-size:12px;line-height:20px;color:#597384;">Daily Desk <span style="color:#365e75;font-weight:600;">{{ article.category }}</span></p></td></tr>{% endfor %}{% endfor %}</table></td></tr>
+<tr><td align="center" bgcolor="#15364a" class="footer-pad" style="padding:16px 8px;background-color:#15364a;text-align:center;font-family:'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR',Arial,sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin:0 auto;border-collapse:collapse;"><tr><td align="center" style="border:1px solid #8ca6b7;padding:7px 22px;"><a href="https://dhkim-0711.github.io/daily-desk/" rel="noopener noreferrer" style="font-family:'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR',Arial,sans-serif;font-size:13px;line-height:21px;font-weight:700;color:#ffffff;text-decoration:none;display:inline-block;" target="_blank">Daily Desk 열기</a></td></tr></table>
+<p class="ai-attribution" style="margin:10px 0 0;font-family:'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR',Arial,sans-serif;font-size:11px;line-height:19px;color:#e4eef4;white-space:nowrap;letter-spacing:0;word-break:normal;"><strong style="font-weight:700;color:#ffffff;">AI 에이전트</strong>가 수집 기사를 분석·정리해 생성한 브리핑입니다.</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="nipa-brand-lockup" role="presentation" style="width:284px;max-width:100%;margin:12px auto 0;border-collapse:collapse;table-layout:fixed;font-family:'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR',Arial,sans-serif;" width="284">
+<tr><td align="center" class="brand-logo-cell" style="width:152px;padding:0;vertical-align:middle;" valign="middle" width="152"><img alt="NIPA 정보통신산업진흥원" border="0" class="nipa-logo" height="24" src="cid:nipa-logo" style="display:block;width:152px;max-width:100%;height:auto;margin:0 auto;border:0;outline:none;text-decoration:none;color:#ffffff;" width="152"/></td>
+<td align="center" class="brand-team-cell" style="width:132px;padding:0 0 0 10px;vertical-align:middle;" valign="middle" width="132"><p class="team-tag" style="margin:0;font-family:'Noto Sans KR','Noto Sans CJK KR','Apple SD Gothic Neo','Malgun Gothic',Arial,sans-serif;font-size:13px;line-height:21px;font-weight:700;letter-spacing:-0.15px;white-space:nowrap;color:#ffffff;">AI반도체전략팀</p></td></tr></table>
+</td></tr>
+</table>
+<!--[if mso]></td></tr></table><![endif]-->
+</td></tr></table>
+</body>
+</html>

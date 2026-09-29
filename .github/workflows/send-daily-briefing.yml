@@ -1,0 +1,114 @@
+name: Send daily briefing
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'briefings/ready/*.json'
+      - 'mail/**'
+      - '.github/workflows/send-daily-briefing.yml'
+  schedule:
+    # UTC: first attempt 00:10 = 09:10 Asia/Seoul; catch-up checks thereafter.
+    - cron: '10,20,35,50 0-2 * * *'
+    - cron: '20 3-14 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'deliver, dry-run, or check-config (read-only Gmail authentication test)'
+        type: choice
+        options: [deliver, dry-run, check-config]
+        default: deliver
+      date:
+        description: 'Optional YYYY-MM-DD; historical dates are only allowed in dry-run'
+        type: string
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-briefing-delivery
+  cancel-in-progress: false
+
+jobs:
+  deliver:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: Asia/Seoul
+      DAILY_DESK_MAIL_CONFIG: ${{ secrets.DAILY_DESK_MAIL_CONFIG }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      INPUT_MODE: ${{ inputs.mode || 'deliver' }}
+      INPUT_DATE: ${{ inputs.date }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check mail configuration presence
+        run: |
+          python - <<'PY'
+          import os
+          state = 'configured' if os.environ.get('DAILY_DESK_MAIL_CONFIG') else 'missing'
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+              f.write(f'## Daily Desk mail\nMail credential: **{state}**\n')
+          print(f'mail_config={state}')
+          PY
+      - name: Install renderer dependencies
+        run: python -m pip install -r mail/requirements.txt
+      - name: Run delivery safeguards tests
+        run: python -m unittest discover -s mail/tests -p 'test_*.py'
+      - name: Determine whether a current complete briefing exists
+        id: gate
+        run: |
+          python - <<'PY'
+          import json, os, subprocess, sys
+          cmd = [sys.executable, 'mail/deliver.py', '--preflight']
+          if os.environ.get('INPUT_DATE'):
+              cmd += ['--date', os.environ['INPUT_DATE']]
+          if os.environ['INPUT_MODE'] in ('dry-run', 'check-config'):
+              result = {'status': 'manual_mode'}
+              proceed = True
+          else:
+              run = subprocess.run(cmd, check=True, capture_output=True, text=True)
+              print(run.stdout.strip())
+              result = json.loads(run.stdout)
+              proceed = result.get('status') == 'ready'
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f'proceed={str(proceed).lower()}\n')
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+              f.write(f"Briefing gate: **{result['status']}**\n")
+          PY
+      - name: Install PDF system fonts and layout dependencies
+        if: steps.gate.outputs.proceed == 'true' && env.INPUT_MODE != 'check-config'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y fonts-noto-cjk libpango-1.0-0 libpangoft2-1.0-0 poppler-utils
+      - name: Render, reconcile Sent mail, and deliver
+        if: steps.gate.outputs.proceed == 'true'
+        run: |
+          python - <<'PY'
+          import os, subprocess, sys
+          cmd = [sys.executable, 'mail/deliver.py', '--output-dir', 'mail/output']
+          mode = os.environ['INPUT_MODE']
+          if mode == 'dry-run': cmd += ['--dry-run']
+          if mode == 'check-config': cmd += ['--check-config']
+          if os.environ.get('INPUT_DATE'): cmd += ['--date', os.environ['INPUT_DATE']]
+          result = subprocess.run(cmd, capture_output=True, text=True)
+          print(result.stdout)
+          print(result.stderr, file=sys.stderr)
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+              f.write('```\n' + result.stdout + result.stderr + '\n```\n')
+          sys.exit(result.returncode)
+          PY
+      - name: Retain rendered HTML and PDF for review
+        if: always() && steps.gate.outputs.proceed == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-briefing-${{ github.run_id }}
+          path: mail/output/
+          if-no-files-found: ignore
+          retention-days: 14
