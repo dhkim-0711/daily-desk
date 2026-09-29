@@ -11,6 +11,12 @@
 
 **Gmail 앱 비밀번호나 별도 Google OAuth 설정이 필요하지 않습니다.** 기존 `DAILY_DESK_MAIL_CONFIG` secret은 이 운영 경로에서 읽거나 사용하지 않습니다. GitHub는 Gmail에 접근하지 않습니다. 별도 유료 AI API도 사용하지 않습니다.
 
+## 기사 선정과 편중 방지
+
+2026-09-30 원고부터 **기본 6건·최대 7건**으로 운영합니다. 7번째 이슈는 별개의 중요한 변화가 있을 때만 추가하며, 적합한 이슈가 부족하면 사유와 함께 4~5건을 허용합니다. 모든 기사의 원문 검증 수준과 주요 내용·시사점 각 2~3문장을 유지합니다.
+
+국내 NPU, 국내 정책·사업화·수요처, 글로벌 가속기, 운영 SW, 메모리·패키징·인프라를 각각 점검하고 산업적 중요도로 비교합니다. 국내외 할당량 없이 동일 기업 반복 선정의 근거를 재검토합니다. 원고의 selection_audit는 선정·제외 이유와 점검 결과를 보관하며 이메일/PDF에는 표시하지 않습니다. 수집 정렬의 기업 가점은 정규화한 고유 기업 수로 계산해 별칭 중복을 제거합니다. 수집 점수를 최종 선정 순위로 사용하지 않습니다.
+
 ## 지연·누락 대응
 
 | 단계 | 기본 실행 | 보충/검사 |
@@ -48,6 +54,7 @@
 python -m pip install -r mail/requirements.txt
 python -m unittest discover -s mail/tests -p 'test_*.py'
 node --test mail/tests/test_sender.cjs
+npm test
 python mail/prepare.py --preflight
 ```
 

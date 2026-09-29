@@ -540,7 +540,7 @@ function parseRss(xml, source) {
   });
 }
 
-function scoreArticle(article) {
+export function scoreArticle(article) {
   const contentText = `${article.title} ${article.summary}`.toLowerCase();
   const companyHits = watchCompanies.filter((company) => contentText.includes(company.toLowerCase()));
   const taxonomyHits = keywordTaxonomy
@@ -574,7 +574,8 @@ function scoreArticle(article) {
     companyHits: normalizedCompanyHits,
     taxonomyHits: uniqueTaxonomyHits,
     issueCategory: classifyIssue(contentText, uniqueTaxonomyHits, normalizedCompanyHits),
-    score: companyHits.length * 4 + taxonomyHits.length * 3 + aiBoost + policyBoost + recency,
+    // Multiple spellings or brands from one corporate group must not multiply its weight.
+    score: normalizedCompanyHits.length * 4 + taxonomyHits.length * 3 + aiBoost + policyBoost + recency,
   };
 }
 

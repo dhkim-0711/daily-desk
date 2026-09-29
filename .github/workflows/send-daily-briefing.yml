@@ -58,6 +58,7 @@ jobs:
         run: |
           python -m unittest discover -s mail/tests -p 'test_*.py'
           node --test mail/tests/test_sender.cjs
+          npm test
       - name: Check current briefing readiness
         id: gate
         run: |

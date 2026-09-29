@@ -5,6 +5,9 @@ on:
   push:
     branches: [main]
     paths:
+      - "server.js"
+      - "package.json"
+      - "tests/scoring.test.js"
       - "scripts/rebuild-news-archive.js"
       - "scripts/build-static-data.js"
       - "scripts/patch-archive-ui.js"
@@ -36,6 +39,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
+      - name: Verify company scoring
+        run: npm test
       - name: Decide whether data refresh is needed
         id: freshness
         run: node scripts/should-refresh-data.js "${{ github.event.schedule }}"

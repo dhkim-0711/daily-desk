@@ -19,6 +19,11 @@ from urllib.parse import urlsplit
 ROOT = Path(__file__).resolve().parent
 KST = timezone(timedelta(hours=9))
 VERIFICATION_METHODS = {"full_text", "public_primary", "public_reprint"}
+SELECTION_AUDIT_REQUIRED_FROM = date(2026, 9, 30)
+SELECTION_COVERAGE_AREAS = (
+    "domestic_npu", "domestic_policy_demand", "global_accelerators",
+    "operating_software", "memory_packaging_infrastructure",
+)
 DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}\Z")
 SUPERSCRIPT = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
 
@@ -99,6 +104,52 @@ def _source(value, field, cutoff, created, verified=True):
             raise ValueError(f"{field}: verification cannot predate publication")
 
 
+def _selection_audit(value, article_count):
+    """Check the internal evidence record, not the truth of editorial judgments.
+
+    Coverage is a requirement to review candidates, never an allocation of slots.
+    Neither article topics nor the number of articles about a company are capped.
+    """
+    field = "selection_audit"
+    if not isinstance(value, dict):
+        raise ValueError(f"{field}: object required")
+    coverage = value.get("coverage")
+    if not isinstance(coverage, dict):
+        raise ValueError(f"{field}.coverage: object required")
+    for area in SELECTION_COVERAGE_AREAS:
+        area_field = f"{field}.coverage.{area}"
+        review = coverage.get(area)
+        if not isinstance(review, dict):
+            raise ValueError(f"{area_field}: review object required")
+        if review.get("result") not in ("reviewed", "no_eligible_candidate"):
+            raise ValueError(f"{area_field}.result: reviewed or no_eligible_candidate required")
+        _text(review.get("note"), area_field + ".note")
+    selected = value.get("selected")
+    if not isinstance(selected, list) or len(selected) != article_count:
+        raise ValueError(f"{field}.selected: every article must have one selection reason")
+    numbers = []
+    for index, selection in enumerate(selected):
+        selection_field = f"{field}.selected[{index}]"
+        if not isinstance(selection, dict) or type(selection.get("article_number")) is not int:
+            raise ValueError(f"{selection_field}.article_number: integer article number required")
+        numbers.append(selection["article_number"])
+        _text(selection.get("reason"), selection_field + ".reason")
+    if sorted(numbers) != list(range(1, article_count + 1)):
+        raise ValueError(f"{field}.selected: every article must be covered exactly once")
+    excluded = value.get("excluded")
+    if not isinstance(excluded, list):
+        raise ValueError(f"{field}.excluded: list of considered alternatives required")
+    for index, exclusion in enumerate(excluded):
+        exclusion_field = f"{field}.excluded[{index}]"
+        if not isinstance(exclusion, dict):
+            raise ValueError(f"{exclusion_field}: object required")
+        _text(exclusion.get("title"), exclusion_field + ".title", 500)
+        _url(exclusion.get("url"), exclusion_field + ".url")
+        _text(exclusion.get("reason"), exclusion_field + ".reason")
+    _text(value.get("count_reason"), field + ".count_reason")
+    _text(value.get("company_overlap_review"), field + ".company_overlap_review")
+
+
 def validate_briefing(data):
     """Raise ValueError unless the document is a complete, cutoff-frozen edition.
 
@@ -128,8 +179,8 @@ def validate_briefing(data):
     if created < cutoff:
         raise ValueError("created_at: final edition cannot predate cutoff")
     articles = data.get("articles")
-    if not isinstance(articles, list) or len(articles) not in {4, 5}:
-        raise ValueError("articles: ready edition requires 4 or 5 verified articles")
+    if not isinstance(articles, list) or not 4 <= len(articles) <= 7:
+        raise ValueError("articles: ready edition requires 4-7 verified articles; 6 is the editorial default")
     original_urls = set()
     for number, article in enumerate(articles, 1):
         field = f"articles[{number - 1}]"
@@ -174,6 +225,8 @@ def validate_briefing(data):
         _paragraphs(group.get("bullets"), f"summary_groups[{i}].bullets", 2, 2)
     if sorted(mentioned) != list(range(1, len(articles) + 1)):
         raise ValueError("summary_groups: every article must be covered exactly once")
+    if issue_date >= SELECTION_AUDIT_REQUIRED_FROM or "selection_audit" in data:
+        _selection_audit(data.get("selection_audit"), len(articles))
 
 
 def _display_timestamp(value):
@@ -185,6 +238,8 @@ def _display_timestamp(value):
 
 def _context(data):
     context = deepcopy(data)
+    # Internal candidate review must not enter HTML, plain text, or PDF output.
+    context.pop("selection_audit", None)
     context["display_date"] = data["date"].replace("-", ".")
     context["cutoff_display"] = _timestamp(data["cutoff_at"], "cutoff_at").strftime("%Y.%m.%d %H:%M")
     context["start_display"] = _timestamp(data["window_start"], "window_start").strftime("%Y.%m.%d %H:%M")
