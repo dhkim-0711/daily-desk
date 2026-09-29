@@ -1,4 +1,4 @@
-name: Send daily briefing
+name: Prepare daily briefing for GPT
 
 on:
   push:
@@ -8,18 +8,19 @@ on:
       - 'mail/**'
       - '.github/workflows/send-daily-briefing.yml'
   schedule:
-    # UTC: first attempt 00:10 = 09:10 Asia/Seoul; catch-up checks thereafter.
-    - cron: '10,20,35,50 0-2 * * *'
-    - cron: '20 3-14 * * *'
+    # UTC 00:05-14:05 = 09:05-23:05 KST. Ready commits also trigger immediately.
+    - cron: '5 0-14 * * *'
+    # Independent read-only watchdog: 10:25-23:25 KST.
+    - cron: '25 1-14 * * *'
   workflow_dispatch:
     inputs:
       mode:
-        description: 'deliver, dry-run, or check-config (read-only Gmail authentication test)'
+        description: 'Prepare and publish for GPT, or render a local review artifact'
         type: choice
-        options: [deliver, dry-run, check-config]
-        default: deliver
+        options: [prepare, dry-run]
+        default: prepare
       date:
-        description: 'Optional YYYY-MM-DD; historical dates are only allowed in dry-run'
+        description: 'Optional YYYY-MM-DD; historical dates only in dry-run'
         type: string
         required: false
 
@@ -27,88 +28,110 @@ permissions:
   contents: write
 
 concurrency:
-  group: daily-briefing-delivery
+  group: daily-briefing-render
   cancel-in-progress: false
 
 jobs:
-  deliver:
-    if: github.ref == 'refs/heads/main'
+  prepare:
+    if: github.ref == 'refs/heads/main' && github.event.schedule != '25 1-14 * * *'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
       TZ: Asia/Seoul
-      DAILY_DESK_MAIL_CONFIG: ${{ secrets.DAILY_DESK_MAIL_CONFIG }}
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      INPUT_MODE: ${{ inputs.mode || 'deliver' }}
+      INPUT_MODE: ${{ inputs.mode || 'prepare' }}
       INPUT_DATE: ${{ inputs.date }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
+          persist-credentials: false
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Check mail configuration presence
-        run: |
-          python - <<'PY'
-          import os
-          state = 'configured' if os.environ.get('DAILY_DESK_MAIL_CONFIG') else 'missing'
-          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
-              f.write(f'## Daily Desk mail\nMail credential: **{state}**\n')
-          print(f'mail_config={state}')
-          PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
       - name: Install renderer dependencies
         run: python -m pip install -r mail/requirements.txt
-      - name: Run delivery safeguards tests
-        run: python -m unittest discover -s mail/tests -p 'test_*.py'
-      - name: Determine whether a current complete briefing exists
+      - name: Run rendering and delivery safeguards tests
+        run: |
+          python -m unittest discover -s mail/tests -p 'test_*.py'
+          node --test mail/tests/test_sender.cjs
+      - name: Check current briefing readiness
         id: gate
         run: |
           python - <<'PY'
           import json, os, subprocess, sys
-          cmd = [sys.executable, 'mail/deliver.py', '--preflight']
-          if os.environ.get('INPUT_DATE'):
-              cmd += ['--date', os.environ['INPUT_DATE']]
-          if os.environ['INPUT_MODE'] in ('dry-run', 'check-config'):
-              result = {'status': 'manual_mode'}
+          if os.environ['INPUT_MODE'] == 'dry-run':
+              result = {'status': 'manual_review'}
               proceed = True
           else:
-              run = subprocess.run(cmd, check=True, capture_output=True, text=True)
-              print(run.stdout.strip())
-              result = json.loads(run.stdout)
-              proceed = result.get('status') == 'ready'
+              cmd = [sys.executable, 'mail/prepare.py', '--preflight']
+              if os.environ.get('INPUT_DATE'): cmd += ['--date', os.environ['INPUT_DATE']]
+              completed = subprocess.run(cmd, capture_output=True, text=True)
+              print(completed.stdout)
+              print(completed.stderr, file=sys.stderr)
+              if completed.returncode:
+                  with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+                      f.write('Preparation gate failed. See the fixed error code in this step.\n')
+                  sys.exit(completed.returncode)
+              result = json.loads(completed.stdout)
+              proceed = result['status'] == 'ready'
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
               f.write(f'proceed={str(proceed).lower()}\n')
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
-              f.write(f"Briefing gate: **{result['status']}**\n")
+              f.write(f"## Daily Desk preparation\nReadiness: **{result['status']}**\n")
+              f.write('GitHub prepares HTML/PDF only. GPT uses the connected Gmail account to send.\n')
           PY
-      - name: Install PDF system fonts and layout dependencies
-        if: steps.gate.outputs.proceed == 'true' && env.INPUT_MODE != 'check-config'
+      - name: Install PDF fonts and layout dependencies
+        if: steps.gate.outputs.proceed == 'true'
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y fonts-noto-cjk libpango-1.0-0 libpangoft2-1.0-0 poppler-utils
-      - name: Render, reconcile Sent mail, and deliver
+      - name: Render fixed design and publish MIME bundle
         if: steps.gate.outputs.proceed == 'true'
         run: |
           python - <<'PY'
           import os, subprocess, sys
-          cmd = [sys.executable, 'mail/deliver.py', '--output-dir', 'mail/output']
-          mode = os.environ['INPUT_MODE']
-          if mode == 'dry-run': cmd += ['--dry-run']
-          if mode == 'check-config': cmd += ['--check-config']
+          cmd = [sys.executable, 'mail/prepare.py', '--output-dir', 'mail/output']
+          cmd += ['--dry-run' if os.environ['INPUT_MODE'] == 'dry-run' else '--publish']
           if os.environ.get('INPUT_DATE'): cmd += ['--date', os.environ['INPUT_DATE']]
-          result = subprocess.run(cmd, capture_output=True, text=True)
-          print(result.stdout)
-          print(result.stderr, file=sys.stderr)
+          completed = subprocess.run(cmd, capture_output=True, text=True)
+          print(completed.stdout)
+          print(completed.stderr, file=sys.stderr)
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
-              f.write('```\n' + result.stdout + result.stderr + '\n```\n')
-          sys.exit(result.returncode)
+              f.write('```\n' + completed.stdout + completed.stderr + '\n```\n')
+          sys.exit(completed.returncode)
           PY
-      - name: Retain rendered HTML and PDF for review
+      - name: Retain generated files for review
         if: always() && steps.gate.outputs.proceed == 'true'
         uses: actions/upload-artifact@v4
         with:
-          name: daily-briefing-${{ github.run_id }}
+          name: daily-briefing-render-${{ github.run_id }}
           path: mail/output/
           if-no-files-found: ignore
           retention-days: 14
+      - name: Make unsuccessful preparation visible
+        if: failure()
+        run: |
+          echo '::error::Daily Desk preparation failed. A later scheduled run will retry; GPT must send only a verified rendered bundle.'
+          echo 'Preparation failed; no email was sent by GitHub.' >> "$GITHUB_STEP_SUMMARY"
+  watch-delivery:
+    if: github.ref == 'refs/heads/main' && (github.event_name != 'schedule' || github.event.schedule == '25 1-14 * * *')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    env:
+      TZ: Asia/Seoul
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify today's durable delivery evidence
+        run: python mail/check_delivery.py
