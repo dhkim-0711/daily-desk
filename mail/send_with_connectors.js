@@ -221,8 +221,14 @@ async function runDailyDeskSend({tools, now = new Date(), sender, recipient, dry
       return verifySent(message,expected);
     }
     if (storedId) {
-      const match = await examine(storedId);
-      if (match) return match;
+      try {
+        const match = await examine(storedId);
+        if (match) return match;
+      } catch (error) {
+        // A previously returned ID may not yet be readable, or the message may
+        // have been removed. Still search Sent; do not infer non-delivery.
+        if (!/\b404\b|not[ _-]?found/i.test(errorText(error))) throw error;
+      }
     }
     const dayStart = Math.floor(new Date(date+'T00:00:00+09:00').getTime()/1000);
     let token;
