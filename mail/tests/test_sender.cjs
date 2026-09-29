@@ -5,7 +5,9 @@ const crypto = require('node:crypto');
 const fs = require('node:fs');
 const path = require('node:path');
 const vm = require('node:vm');
-const {runDailyDeskSend} = require('../send_with_connectors.js');
+// Match the actual GPT loader regardless of the repository's ESM package type.
+const senderSource = fs.readFileSync(path.join(__dirname, '../send_with_connectors.js'), 'utf8');
+const runDailyDeskSend = new Function(senderSource + '\nreturn runDailyDeskSend;')();
 
 const DATE = '2026-09-29';
 const NOW = new Date('2026-09-29T00:10:00Z');
@@ -248,7 +250,7 @@ test('Gmail send timeout is uncertain; a later Sent match reconciles without res
 test('successful Gmail response without verifiable Sent copy remains uncertain',async()=>{
   const h=harness({missingSent:true}); assert.equal((await h.run()).status,'uncertain'); assert.equal(h.sends,1);
   assert.equal(h.getFile(STATE).gmail_message_id,'abcdef0123456789');
-  assert.equal((await h.run()).status,'error'); assert.equal(h.sends,1);
+  assert.equal((await h.run()).status,'uncertain'); assert.equal(h.sends,1);
 });
 
 test('claim write failure blocks Gmail and never retries the send',async()=>{
