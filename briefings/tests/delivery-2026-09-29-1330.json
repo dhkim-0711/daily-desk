@@ -2,11 +2,16 @@
   "version": 1,
   "test_id": "2026-09-29-1330",
   "date": "2026-09-29",
-  "status": "sending",
+  "status": "sent",
   "started_at": "2026-09-29T04:29:24.104Z",
   "claimed_at": "2026-09-29T04:31:12.368Z",
   "attempt_id": "test-mum6iei8-vsepj2p0rlc",
   "bundle_sha": "3124ac1fc832a5c30cc1febfb61375e13112096b",
   "gmail_message_id": "1a0eb6e93bfa8d1e",
-  "updated_at": "2026-09-29T04:31:41.615Z"
+  "updated_at": "2026-09-29T04:33:05.434Z",
+  "sent_at": "2026-09-29T04:31:27.000Z",
+  "verified_at": "2026-09-29T04:33:05.434Z",
+  "verification": "gmail_sent_html_pdf_logo_bytes",
+  "scheduled_at": "2026-09-29T13:30:00+09:00",
+  "delay_seconds": 87
 }
