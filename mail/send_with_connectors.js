@@ -322,7 +322,7 @@ async function runDailyDeskSend({tools, now = new Date(), sender, recipient, dry
   try {
     if (!Number.isFinite(injectedNow)) fail('DATE_INVALID');
     date = kst(current()).slice(0,10);
-    if (kst(current()).slice(11,16) < '09:10') return result('too_early');
+    if (kst(current()).slice(11,16) < '09:00') return result('too_early');
     const addressPattern = /^[A-Za-z0-9.!#$%&'*+/=?^_`{|}~-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$/;
     if (!addressPattern.test(sender || '') || !addressPattern.test(recipient || '')) fail('MAIL_ADDRESS_INVALID');
     subject = `AI반도체 일일 브리핑[${date.replace(/-/g,'.')}]`;
