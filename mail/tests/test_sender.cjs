@@ -137,9 +137,45 @@ test('two concurrent runners acquire at most one durable sending claim',async()=
   assert.equal(h.getFile(STATE).status,'sent');
 });
 
-test('09:09 KST is too early and performs no connector calls',async()=>{
-  const h=harness(); const result=await h.run({now:new Date('2026-09-29T00:09:59Z')});
+test('08:59 KST is too early and performs no connector calls',async()=>{
+  const h=harness(); const result=await h.run({now:new Date('2026-09-28T23:59:59Z')});
   assert.equal(result.status,'too_early'); assert.equal(h.calls.length,0);
+});
+
+test('09:00 KST permits an edition created and rendered at the cutoff',async()=>{
+  const h=harness(); const ready=clone(h.data.ready),bundle=clone(h.data.bundle);
+  ready.created_at=DATE+'T09:00:00+09:00';
+  bundle.rendered_at=ready.created_at; bundle.source_sha256=hash(canonical(ready));
+  h.setFile(READY,ready); h.setFile(BUNDLE,bundle);
+  const result=await h.run({now:new Date('2026-09-29T00:00:00Z'),dryRun:true});
+  assert.equal(result.status,'ready'); assert.equal(h.writes,0); assert.equal(h.sends,0);
+});
+
+test('09:09 KST sends a verified edition once without waiting for the nominal 09:10 schedule',async()=>{
+  const h=harness(); const now=new Date('2026-09-29T00:09:00Z');
+  assert.equal((await h.run({now})).status,'sent'); assert.equal(h.sends,1);
+  assert.equal(h.getFile(STATE).status,'sent');
+  assert.equal((await h.run({now})).status,'already_sent'); assert.equal(h.sends,1);
+});
+
+test('09:09 KST with no rendered bundle stays not_ready and does not claim or send',async()=>{
+  const h=harness(); h.files.delete(BUNDLE);
+  assert.equal((await h.run({now:new Date('2026-09-29T00:09:00Z')})).status,'not_ready');
+  assert.equal(h.writes,0); assert.equal(h.sends,0);
+});
+
+test('09:09 KST still rejects an edition whose source changed after rendering',async()=>{
+  const h=harness(); const ready=clone(h.data.ready); ready.articles[0].title='changed'; h.setFile(READY,ready);
+  assert.equal((await h.run({now:new Date('2026-09-29T00:09:00Z')})).code,'SOURCE_HASH_MISMATCH');
+  assert.equal(h.writes,0); assert.equal(h.sends,0);
+});
+
+test('09:09 KST keeps sending and uncertain states as duplicate barriers',async()=>{
+  for (const status of ['sending','uncertain']) {
+    const h=harness({state:state(status)});
+    assert.equal((await h.run({now:new Date('2026-09-29T00:09:00Z')})).status,'uncertain');
+    assert.equal(h.writes,0); assert.equal(h.sends,0);
+  }
 });
 
 test('next KST day never reuses the previous day edition',async()=>{
