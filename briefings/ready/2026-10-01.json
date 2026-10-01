@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-01",
+  "cutoff_at": "2026-10-01T09:00:00+09:00",
+  "window_start": "2026-09-30T09:00:00+09:00",
+  "created_at": "2026-10-01T09:00:24+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1, 2],
+      "bullets": [
+        "AMD 리사 수 CEO는 10월 8일께 방한해 국내 NPU 기업·정부·삼성전자와 협력 논의를 이어갈 전망이며, DeepSeek는 화웨이 Ascend용 연산·통신 라이브러리와 TileLang 기반 프로그래밍 인프라를 공개했습니다.",
+        "가속기 경쟁이 칩 공급을 넘어 이기종 인프라 협력과 개발자 도구·통신 라이브러리 확보로 확장되면서, 국산 NPU도 하드웨어 연계와 소프트웨어 이식성을 함께 입증해야 하는 단계로 이동하고 있습니다."
+      ]
+    },
+    {
+      "article_numbers": [3, 4],
+      "bullets": [
+        "CoreWeave는 엔비디아 Vera CPU를 베어메탈 형태로 제공해 랙당 128개 CPU·11,264개 코어와 1만1천개 이상의 동시 에이전트 환경을 지원한다고 밝혔고, CScale은 AI 스케일업용 광인터커넥트 상용화를 위해 1억4,500만달러를 조달했습니다.",
+        "AI 인프라 병목이 GPU 연산량에서 CPU 기반 샌드박스·오케스트레이션과 랙 간 저지연 연결의 신뢰성으로 넓어지면서, 시스템 전체를 묶는 플랫폼 설계 역량의 중요성이 커지고 있습니다."
+      ]
+    },
+    {
+      "article_numbers": [5, 6],
+      "bullets": [
+        "오텍캐리어는 엔비디아 인증과 양산 준비를 마친 최대 1.2MW급 CDU 65LL의 국내 공급 확대에 나섰고, 2분기 Foundry 2.0 시장은 전년 대비 25% 증가한 966억달러로 집계됐습니다.",
+        "AI반도체 가치사슬의 성장축이 웨이퍼 제조뿐 아니라 첨단 패키징·테스트와 고밀도 서버 냉각까지 확산되면서, 국내 생태계의 경쟁 범위도 칩 설계 밖의 제조·운영 인프라로 넓어지고 있습니다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "AMD 리사 수 CEO, 10월 방한해 국내 NPU 기업·정부와 협력 논의 전망",
+      "category": "국내 NPU 기업",
+      "collected_at": "2026-09-30T10:26:15.509Z",
+      "original_published_at": "2026-09-30T09:32:19Z",
+      "original_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55bV96NlFTUXBRb0dDY2lfX3JnYXkwY284dTlpMWV1bkxidTBoUlk1WEEyQThVWXUxSm5uY1pTVUhMSDBvUDhtY2x2NERGQUFoUDNXVmlWNWt5N3NCbGhIWk1xZ1hXUQ?oc=5",
+      "main_points": [
+        "연합뉴스는 업계 소식통을 인용해 AMD 리사 수 CEO가 10월 8일께 서울에서 리벨리온·퓨리오사AI·모빌린트 등 국내 AI반도체 기업 대표들과 회동하는 방안이 검토되고 있다고 보도했습니다.",
+        "수 CEO는 배경훈 과학기술정보통신부 장관과 삼성전자 경영진도 만날 것으로 예상되지만, 일정과 참석자는 아직 확정 발표가 아니라 협의 단계입니다.",
+        "AMD와 과기정통부는 지난 7월 AMD CPU·GPU와 국산 NPU를 연결하는 개방형 이기종 AI 컴퓨팅 생태계 조성에 협력하기로 한 바 있어, 이번 방한은 후속 사업화·실증 논의를 구체화할 계기가 될 수 있습니다."
+      ],
+      "implications": [
+        "국산 NPU의 시장 진입이 단독 칩 판매보다 글로벌 CPU·GPU와의 이기종 연동, 공통 운영환경, 공동 고객 검증을 통해 빨라질 수 있음을 보여주는 흐름입니다.",
+        "향후 협력의 실질성을 판단하려면 회동 자체보다 컴파일러·런타임 호환 범위, 실증 워크로드와 수요기관, 공동 사업화 일정이 구체화되는지를 확인할 필요가 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "AMD chief to visit S. Korea next month: sources",
+          "publisher": "Yonhap News Agency",
+          "published_at": "2026-09-30T08:18:00+09:00",
+          "url": "https://en.yna.co.kr/view/AEN20260930001400320",
+          "verification": "full_text",
+          "verified_at": "2026-10-01T09:00:20+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "DeepSeek·화웨이, Ascend용 오픈소스 프로그래밍 인프라 공개",
+      "category": "NVIDIA 이슈",
+      "collected_at": "2026-09-30T07:27:23.960Z",
+      "original_published_at": "2026-09-30T06:31:08Z",
+      "original_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2pDSnRWMTNZYUhBYnh2eHpWQklRVG1FSDJPYWF5WkI4VTM2VjQteGJTQjRNWjJ6Z3hpcVpiRGpKVjVubkNfeHFVYnY0ODIxbUJKNmFFTFVQUndibGstVDF0WnlMSTRlc0xVMWNlOFhnbEtURjRidE9GejFHdEZBckxZYkZJSzFpNnhGZ0JiS1BSTUdoanBOSGZPd1d0M2FVLVRFalYzNDZRM2NkQ0xEVzN6Rk50OUd5VjQ2NnJwZE5JUTjSAcMBQVVfeXFMT09mUUVmbnlNV0NDZUVUbmE0X0ZKUTVUbkx0RkpseW1OWEZyVHVjSmF3cUNuVG9aNTljcVhSWTVoeldqeWtVczQ0OFcwRnFTSTBOeW93bkNNX2dZTzU2amlZSUFEa1AzV29mTS1IbDA3LTFjcGV4STVUa0E1NFRRU2g4S3JyNUV6aHRsRTVwWW1YX09mMnBxRUNMbmtrV2RmRURRR2l4djBwWm53SG9ta29FTkM2OXNfaVN3aXBBWUVIeHNF?oc=5",
+      "main_points": [
+        "DeepSeek는 화웨이와 공동 개발한 Ascend 플랫폼용 연산·통신 라이브러리 등 프로그래밍 인프라를 오픈소스로 공개했다고 밝혔습니다.",
+        "양사는 Ascend 950 칩 128개를 묶은 슈퍼노드 솔루션의 연산과 통신을 함께 최적화했으며, DeepSeek는 고수준 오픈소스 언어 TileLang이 코드 논리를 단순화하고 개발 효율을 높인다고 설명했습니다.",
+        "이는 화웨이 하드웨어의 성능만이 아니라 CUDA 중심 개발 생태계에 대응할 프로그래밍 모델과 라이브러리를 함께 구축하려는 움직임입니다."
+      ],
+      "implications": [
+        "AI 가속기의 실제 채택은 칩 사양뿐 아니라 개발자가 모델을 옮기고 통신·연산을 최적화할 수 있는 언어, 컴파일러, 라이브러리의 완성도에 좌우된다는 점이 재확인됐습니다.",
+        "국산 NPU도 개별 SDK 제공을 넘어 다중 칩 통신과 고수준 프로그래밍 추상화를 공개 생태계로 확장하면 소프트웨어 전환비용을 낮출 여지가 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
+          "publisher": "Reuters",
+          "published_at": "2026-09-30T03:03:15Z",
+          "url": "https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/",
+          "verification": "full_text",
+          "verified_at": "2026-10-01T09:00:20+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "CoreWeave, 엔비디아 Vera CPU를 AI 에이전트용 베어메탈로 제공",
+      "category": "NVIDIA 이슈",
+      "collected_at": "2026-09-30T18:25:19.070Z",
+      "original_published_at": "2026-09-30T16:21:04Z",
+      "original_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUZWeTVHblMtX0dFc20xTmtJNk52UUdCcTRLdkdzWmZEa1FDZ2pENl9QVmFEeUYwb0dIR3JNWTNjdlBfTk9BTlNfSnYxa1N2T3BwMWY3OE5XXy1SY3BWREZZdTlGUmpNbW1iMVVHWGtoUDluZ0ZJWktwTFJaTnZmV2xIaGY0ekdndnV1ekwwOHBwTjhWOG5TNldrRQ?oc=5",
+      "main_points": [
+        "CoreWeave는 AI 에이전트의 샌드박스·도구 호출·코드 실행·데이터 파이프라인 등 CPU 집약 작업을 지원하기 위해 엔비디아 Vera CPU를 베어메탈 방식으로 제공한다고 발표했습니다.",
+        "회사는 랙 하나에 Vera CPU 128개와 11,264개 코어, BlueField-4 DPU, Spectrum-X 이더넷을 구성해 1만1천개 이상의 동시 에이전트 환경을 수용할 수 있다고 설명했습니다.",
+        "CoreWeave 자체 시험에서는 Vera 기반 에이전트 샌드박스 시작 시간이 x86 CPU 대비 3배 이상 빨랐다고 밝혔으며, 이는 회사 시험 결과로 실제 워크로드별 검증이 추가로 필요합니다."
+      ],
+      "implications": [
+        "에이전트형 AI가 확대되면 GPU 추론 성능만큼 격리 환경을 빠르게 만들고 CPU·GPU·네트워크를 함께 스케줄링하는 플랫폼 능력이 처리량과 비용을 좌우할 수 있습니다.",
+        "국내 AI 인프라 실증에서도 가속기 벤치마크와 함께 샌드박스 기동시간, 동시 환경 수, CPU-GPU 데이터 이동, 오케스트레이션 효율을 평가 항목으로 검토할 여지가 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "CoreWeave to Offer NVIDIA Vera, the First CPU Built for AI Agents",
+          "publisher": "CoreWeave",
+          "published_at": "2026-09-30",
+          "url": "https://coreweave.com/news/coreweave-to-offer-nvidia-vera-the-first-cpu-built-for-ai-agents",
+          "verification": "public_primary",
+          "verified_at": "2026-10-01T09:00:20+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Daily Desk 아카이브의 관련 기사 firstSeenAt이 2026-09-30T18:25:19.070Z로 기록돼 2026-10-01 09:00 KST 마감 전에 공개됐음을 확인했습니다."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "CScale, AI 스케일업 광인터커넥트 개발에 1억4,500만달러 조달",
+      "category": "NVIDIA 이슈",
+      "collected_at": "2026-09-30T23:12:10.405Z",
+      "original_published_at": "2026-09-30T13:12:48Z",
+      "original_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeWJzMk8xVmxoRzBNRHE5T29nTTZ4VHZGNVZxeUhJMWVrcnZPVzgyenQ1MG14eDNqaGhIMi1OMjFPQVNwdFo1U0R1UE1JS202dzRTSDE2SjRSRjF3V3BRYVZ6aXlMQ0VXbkpVVVB6LWo3RUVnUkRvVGVPWUM5VVhaUGxSSmN5Q2lrb2JYZklZMUJ2UzJxaXI1MEZkNTZwMS1aallmdGo2R3ZhZGIwZXVnLXdfc3h1SUdEMnRQLTFCTThob1RjU3FtcTl3bzFwcU9RSUxGMjN6dkd2RFk?oc=5",
+      "main_points": [
+        "CScale은 AI 스케일업용 광인터커넥트 개발과 상용화를 위해 시리즈 C에서 1억4,500만달러를 조달하며 스텔스 모드에서 벗어났고, 누적 조달액은 1억8,800만달러가 됐습니다.",
+        "Atreides Management·Valor Equity Partners·Premji Invest가 라운드를 공동 주도했으며 엔비디아와 Intel Capital이 첫 전략적 투자자로 참여했습니다.",
+        "회사는 수십 개 랙과 수천 개 가속기를 묶는 환경에서 광 링크 고장이 연산 중단으로 번지지 않도록 장애를 격리하는 인터커넥트 구조를 개발 중이라고 밝혔습니다."
+      ],
+      "implications": [
+        "AI 클러스터가 랙 단위를 넘어 확장될수록 인터커넥트의 대역폭뿐 아니라 장애 격리와 지속 운용성이 가속기 이용률과 총소유비용을 좌우하는 핵심 지표가 됩니다.",
+        "국내 NPU·서버 실증도 단일 노드 성능에서 벗어나 광연결 장애 시 성능 저하, 재라우팅, 운영 복구시간을 포함한 클러스터 신뢰성 검증으로 넓힐 필요가 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "Optical interconnect startup CScale emerges from stealth following investment from Nvidia and Intel",
+          "publisher": "Data Center Dynamics",
+          "published_at": "2026-09-30",
+          "url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-cscale-emerges-from-stealth-following-investment-from-nvidia-and-intel/",
+          "verification": "full_text",
+          "verified_at": "2026-10-01T09:00:20+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Daily Desk 아카이브의 해당 Data Center Dynamics 기사 firstSeenAt이 2026-09-30T23:12:10.405Z로 기록돼 마감 전에 수집됐음을 확인했습니다."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "오텍캐리어, 엔비디아 인증 1.2MW급 CDU 국내 공급 확대",
+      "category": "해외 빅테크 국내 보도",
+      "collected_at": "2026-09-30T00:46:05.138Z",
+      "original_published_at": "2026-09-29T23:41:44Z",
+      "original_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vZU05clJkMGE1RkJMbE0zVVlrMzRtTVRXQlVDX2pXSkpXOVpXMDJXbzJuMWRvWWpqcmxxVzV0ME00S2dwdk1yeWRzWWZCV3FwLUJqT0x1bzVvaVhjU2lrd0dhRzVIRWM0YzVwaQ?oc=5",
+      "main_points": [
+        "오텍캐리어는 싱가포르 Data Centre World Asia 2026을 계기로 글로벌 캐리어와 AI 데이터센터 냉각 솔루션의 국내 공급·사업 협력 확대를 논의했다고 밝혔습니다.",
+        "냉각수 분배장치 CDU 65LL은 엔비디아 인증과 양산 준비를 마쳤고, 냉동기와 서버랙 사이 온도 차이를 2도까지 낮추며 최대 1.2MW의 냉각용량을 제공한다고 회사는 설명했습니다.",
+        "오텍캐리어는 CDU·터보냉동기·프리쿨링과 AI 기반 예측 유지관리 플랫폼을 묶은 통합 냉각 솔루션을 국내 시장에 공급할 계획입니다."
+      ],
+      "implications": [
+        "고밀도 AI 서버의 전력효율과 가동률이 냉각 계통 성능에 직접 좌우되면서, 냉각 장비의 가속기 인증과 양산 준비 여부가 데이터센터 구축 일정의 중요한 조건으로 부상하고 있습니다.",
+        "국내 AI 컴퓨팅 인프라 사업에서도 IT 장비와 냉각 설비를 분리 발주하기보다 실제 랙 열부하, PUE, 유지관리 데이터까지 연계해 국산 공급사의 실증·사업화 가능성을 검토할 수 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "오텍캐리어, 글로벌 캐리어와 AI 데이터센터 냉각 설루션 사업 협력 논의",
+          "publisher": "뉴스1",
+          "published_at": "2026-09-30T09:31:00+09:00",
+          "url": "https://www.news1.kr/industry/general-industry/6305486",
+          "verification": "full_text",
+          "verified_at": "2026-10-01T09:00:20+09:00"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "2분기 Foundry 2.0 시장 25% 성장…첨단 패키징 병목 지속",
+      "category": "AI 시장 전체",
+      "collected_at": "2026-09-30T10:26:15.509Z",
+      "original_published_at": "2026-09-30T08:42:00Z",
+      "original_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96bVdZamtPbDlFNldVOWtjMmpyS0hWWjBvRUZpVEpIczVXanl4VDNXdDlEclRNRmxERmN3VFhBNlVaTGxleWhGekJXUG9BQWhWbEFSbTFxaWV5NmR1X21yX0tfcU5GbmxiR1NTX2VPQlkydkQ0YVFaWGlR0gGOAUFVX3lxTE44NjcxWVZock95UGVja2ppa1hsNUJpdmJkaS12bmtHR3ZreGFzTnZFU0NRZHJpZC15ZWY3MXlheXdjM29MVnM5MXZ4c29xWER3bTE2YTFLdmFxeFFfNjB5ODRoVktkUXZUTS1XNzBHeXdwTzA3eFh5ekRnLXhESjg4VnZLY1hUN3VyWVZ0WkE?oc=5",
+      "main_points": [
+        "Counterpoint Research 집계를 인용한 조선비즈 보도에 따르면 2026년 2분기 Foundry 2.0 시장 매출은 966억달러로 전년 동기 대비 25%, 전분기 대비 11% 증가했습니다.",
+        "Foundry 2.0은 순수 파운드리뿐 아니라 비메모리 IDM, OSAT, 포토마스크를 포함하며, TSMC는 전체의 42%, 삼성전자는 약 4%를 차지했습니다.",
+        "OSAT 매출은 전년 대비 22% 늘어난 126억달러였고, Counterpoint는 TSMC CoWoS 공급 부족률이 올해 약 20%에서 내년 약 10%로 낮아져도 부족 자체는 이어질 것으로 전망했습니다."
+      ],
+      "implications": [
+        "AI 수요가 GPU와 ASIC뿐 아니라 파운드리·패키징·테스트·전력관리칩으로 퍼지면서, 첨단 패키징 처리능력이 칩 공급 확대를 제한하는 핵심 병목으로 남아 있습니다.",
+        "국내 AI반도체 경쟁력 평가도 설계기업 수와 칩 성능 외에 패키징 슬롯 확보, HBM 결합, 시험·검증 리드타임을 함께 보아야 실제 양산 전환 가능성을 판단할 수 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4%",
+          "publisher": "Chosunbiz",
+          "published_at": "2026-09-30T17:42:00+09:00",
+          "url": "https://biz.chosun.com/en/en-it/2026/09/30/JCFCXDE3GVG7NCN6KYJVJSMK5A/",
+          "verification": "full_text",
+          "verified_at": "2026-10-01T09:00:20+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "AMD 리사 수 CEO 방한 및 국내 NPU 기업 회동 보도, 서울대·한양대 AI반도체 혁신연구소, 한국벤처투자·퓨리오사AI 협업 후보를 확인했고, 이번 구간의 새 대외협력 논의가 가장 구체적인 1번을 선정했습니다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부 AI반도체 혁신연구소와 AI중심대학, 국민성장펀드 2호, AMD-정부 후속 협력 후보를 비교했으며 전날 이미 다룬 연구소·펀드 사실은 반복하지 않고 이기종 인프라 협력의 후속 가능성이 있는 1번에 반영했습니다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "화웨이 Ascend용 DeepSeek 도구, CoreWeave의 Vera CPU 제공, 구글 TPU·Fluidstack 보도, AMD 인수 및 엔비디아 관련 후보를 검토해 새 제품 운영과 대체 생태계가 확인된 2~3번을 선정했습니다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "DeepSeek의 TileLang·Ascend 연산·통신 라이브러리, CoreWeave 샌드박스 운영, OpenClaw 제어평면, 전날 보도한 OpenShell 후보를 비교해 칩 프로그래밍과 실제 배포 운영에 직접 연결되는 2~3번을 선정했습니다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "CScale 광인터커넥트, 오텍캐리어 CDU, Foundry 2.0·OSAT, 삼성 헬릭스 투자, Google 브라질 클라우드 증설 후보를 확인해 연결·냉각·패키징이라는 독립 병목을 보여주는 4~6번을 선정했습니다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "AMD CPU·GPU와 국산 NPU를 잇는 기존 협력의 후속으로 국내 주요 NPU 기업·정부·삼성전자 회동 가능성이 확인돼 이기종 생태계의 사업화 진전을 판단할 핵심 후보입니다."
+      },
+      {
+        "article_number": 2,
+        "reason": "화웨이 Ascend용 연산·통신 라이브러리와 TileLang을 공개해 비엔비디아 가속기의 소프트웨어 생태계 구축이 구체적인 코드·도구 단계로 진전됐습니다."
+      },
+      {
+        "article_number": 3,
+        "reason": "에이전트 작업의 CPU 병목을 겨냥해 Vera를 베어메탈·랙 규모로 제공하며 샌드박스와 오케스트레이션을 포함한 새로운 AI 인프라 구성을 제시했습니다."
+      },
+      {
+        "article_number": 4,
+        "reason": "광인터커넥트 장애 격리와 지속 운용을 AI 스케일업의 핵심 문제로 제시하고 엔비디아·Intel Capital의 전략투자까지 확보해 연결 계층의 산업 변화를 보여줍니다."
+      },
+      {
+        "article_number": 5,
+        "reason": "국내 공급사가 엔비디아 인증과 양산 준비를 마친 1.2MW급 CDU를 바탕으로 AI 데이터센터 냉각 시장의 실제 공급 확대에 나선 사례입니다."
+      },
+      {
+        "article_number": 6,
+        "reason": "파운드리·IDM·OSAT·포토마스크를 합친 시장의 성장률과 기업별 점유율, CoWoS 부족 전망이 함께 확인돼 AI반도체 제조 가치사슬의 병목을 수치로 보여줍니다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "Samsung Pouring Another Billion Into AI Infrastructure. Nvidia And KKR Are Also Backing The Venture. - International Business Times",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDl0V3owNE94bExCbHE1d1QtV0tqb0pBY0lSOXNrRjVGbXViLUhHRzBCb0p1MzNGYTZTRWpPazJxLTcwazVRa0k2Ylo0TzQ2c2tob3phTHp6aFowR3JpNjR1MXhwZDdKMVI1LVhnZzd4V3BHQUZSa045SXJUUE5ySi1YaG1ZUkVLd3p0aHE1Z1VoT3pPUGtCX1NDMWRMVjlzNC1sSkhWUndUeWFrTkh1VlFsUmVfYjNS?oc=5",
+        "reason": "삼성의 헬릭스 10억달러 투자는 전날 브리핑 5번에서 이미 다뤘고 이번 구간에 실질적인 추가 사실이 확인되지 않아 반복 선정하지 않았습니다."
+      },
+      {
+        "title": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia - VentureBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHZwUUNYR0FaRHlRTFdOZWIyRXRRRklrZXNTWlpHX2tsdlhZUFBuY193RUlkZHhnU0N2bkdJLXJBMmMyeWNsWk90VlFjeG5qcnFNQ3dabzRMMmo2WUp3bVhnZS1mQWJQazdSVUJZR3FoR3JqalBtczhTc21EOGZHdGlnWUlRbjJSMFZCSVlaSFlROGhra1prZmloT21ETlpRcHZoT2c1aUViNVJqRzRLSjREY1hrcWJRWVVvc1lxUnpKbTVid2xZb2t0V2pxQkF5bXVDQUN6YkpYOFdSMlhJ?oc=5",
+        "reason": "운영 SW 후보로 검토했으나 범용 에이전트 제어평면 성격이 강해 가속기 프로그래밍·배포에 직접 연결되는 DeepSeek와 CoreWeave 기사보다 우선순위가 낮았습니다."
+      },
+      {
+        "title": "Google to double cloud capacity in Brazil in through 2030 - Data Center Dynamics",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNakRSbHpmRlo4MlVVWVYwT1dTUVlQbVVYYnhyX0pLWnFvNndCNGZsRXNTZEN4YkFmOHJnY2ZrQ1dCWnBSZlpzS21BcDVqQ21DdHFUVzNEaEJZT19EdmhIQi1qQlZsVUlXS3hvMnhEZWRmSWN4U1R3bm1WU19MdVhfREsyT1VaUjJQSXY2UkpFdGlKQU1Xd2tRTzdoVklZVE1KTElXeEhQUjdyenYtTzZmdHVBMTE0U0VqbkQ5ejJuXzhwSlFSVUdFdF9obC1QZ010TE5KMm5NcEF1dVU?oc=5",
+        "reason": "클라우드 용량 확대는 중요하지만 AI반도체 구성·가속기 도입·전력 규모의 구체성이 낮아 연결·냉각·패키징 후보보다 직접 관련성이 낮았습니다."
+      },
+      {
+        "title": "Exclusive: GPU Cloud Provider GMI Raises $668 Million From Nvidia and Others - The Information",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2k2TTQ0M0ZEWFB2VF81b29qdzF1UTNoOFpjTjhvbGh2WjA0VGJBcjIyeVNPdmhXdG9uckhxMDEtUFJoNU5WdGt0MEE3bXgteWxOWVVrS2JLUnBMNjB1SThxS2xmZkdKMjg5WVcwWFhsellOeGZ1RC11VUIxcmw4V0J6Tmp5UHNMaWw2MmpNbWNfNzY1Rlc3Z0EwOVg0YW14WG13LS03U2lUQQ?oc=5",
+        "reason": "대규모 자금조달 후보였으나 원문 접근 제한으로 투자 구조와 조건을 충분히 검증하지 못해 제외했습니다."
+      },
+      {
+        "title": "AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWmQxcWsxc09xUUZBZ1JZQ1g3NGM2b0FKckc4cjVsLWxtczB3U29EdU50TE5vUDV5MUIwVjVQaE11YktsMWN6ZGl4ZlBXMzZUNHJjR3JfeTJFNEZmc29zRlBPU1ZQR2lCTF9vN21PZUFlWUE3blZueWNqQ2JlbnA2ajlfams1RFJBbjNSTUpvWmVEMU1KWHRETzdXVDhxRzNZcXpYQmxsRk5NUDBkQ3FuOEpTU3ZPNWFOTllnS1BlZlY0TTlEMnY3LWJxZV9hZHlLNnROdE13ZjNGWTFyTkk4a3JrNA?oc=5",
+        "reason": "새로운 기업 발표보다 애널리스트의 수혜주 평가가 중심이어서 확인된 산업 변화와 수치가 더 구체적인 Foundry 2.0 기사보다 우선순위를 낮췄습니다."
+      }
+    ],
+    "count_reason": "수집 구간의 다섯 영역을 점검한 결과 공개 본문으로 재검증 가능하고 서로 독립적인 국내 NPU 협력, 대체 가속기 소프트웨어, 에이전트용 CPU 운영, 광인터커넥트, 데이터센터 냉각, 파운드리·패키징 시장 변화 6건이 확인돼 기본 원칙대로 구성했습니다.",
+    "company_overlap_review": "엔비디아는 2번의 대체 생태계 기준점, 3번의 Vera 공급사, 4번의 전략적 투자자, 5번 CDU 인증 주체로 반복 등장하지만 각각 프로그래밍 생태계, CPU 기반 운영, 광인터커넥트, 냉각이라는 독립 계층의 변화입니다. 동일 사건의 재보도가 아니며 각 영역에서 검증 가능한 변화가 뚜렷해 유지했고, 전날 다룬 엔비디아 Open Agent Safety Platform과 삼성 헬릭스 투자는 반복 선정에서 제외했습니다."
+  }
+}
