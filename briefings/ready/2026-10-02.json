@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-02",
+  "cutoff_at": "2026-10-02T09:00:00+09:00",
+  "window_start": "2026-10-01T09:00:00+09:00",
+  "created_at": "2026-10-02T09:02:56.282+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1,
+        2
+      ],
+      "bullets": [
+        "일본 ai&는 모레의 이기종 GPU 운영 소프트웨어와 리벨리온 NPU 서버, 모티프의 모델을 채택했고, 세미파이브와 모빌린트는 정부 사업과 연계해 로봇용 AI 칩의 턴키 개발에 착수했다.",
+        "국내 AI 반도체 사업화가 칩 단품에서 운영 소프트웨어·모델·패키징·양산을 함께 묶는 수출 및 수요제품 통합 단계로 넓어지는 흐름이다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3
+      ],
+      "bullets": [
+        "네비우스는 추론 서비스의 콜드스타트와 유휴 GPU 문제를 줄이는 인퍼라이즈를 인수해 기술과 인력을 자사 토큰 팩토리에 통합한다.",
+        "추론 경쟁의 초점이 칩의 최대 성능뿐 아니라 수요 변화에 맞춰 용량을 신속히 기동하고 GPU 이용률을 높이는 운영 소프트웨어로 이동하고 있다."
+      ]
+    },
+    {
+      "article_numbers": [
+        4,
+        5
+      ],
+      "bullets": [
+        "코어위브는 베라 루빈 NVL72를 상용 클라우드에 제공해 첫 고객의 운영 워크로드를 가동했고, GMI클라우드는 GPU 용량 확대를 위해 총 6억6800만달러의 지분·대출 자금을 조달했다.",
+        "차세대 가속기의 시장 확산은 랙 단위 검증과 운영 도구, 초기 고객 성능자료, 대규모 금융조달이 동시에 결합되는 구조로 전개되고 있다."
+      ]
+    },
+    {
+      "article_numbers": [
+        6
+      ],
+      "bullets": [
+        "오텍캐리어의 최대 1.3MW급 액체냉각 CDU가 엔비디아 품질 인증과 마켓플레이스 등록을 완료했다.",
+        "고밀도 AI 서버 도입이 늘면서 냉각장치도 용량뿐 아니라 가속기 플랫폼과의 호환성 검증 및 운영 효율을 함께 입증해야 하는 핵심 인프라로 부상하고 있다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "모레·리벨리온·모티프, 일본 네오클라우드에 이기종 AI 인프라 공급",
+      "category": "국내 NPU 기업",
+      "collected_at": "2026-10-01T09:25:29.066Z",
+      "original_published_at": "2026-10-01T01:00:00Z",
+      "original_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53Um5MVlhzQ3ZkNTBnOXFZLXRSUGVfem91TDgwekVRVUJncFhRcEtCTGdMR1JNZVhmeUJNX1lyMVVZUUJUUk1SVHlTSmtTaXlLZ0HSAVNBVV95cUxQQW5rN2RUX01oVUdJQVZjSkFlX1JyYWljYndDZU9XOFlrRDNhZ3h1enpEUUhsSjYtbllmLXJFYWtiOENxeWxPRGFwcUE1ZkxYRFk2QQ?oc=5",
+      "main_points": [
+        "일본 네오클라우드 업체 ai&는 도쿄 AI 데이터센터를 40MW 규모로 확장하면서 엔비디아 B300과 AMD MI355X 자원을 모레의 ‘토큰 팩토리 OS’로 운영하고 있다. 서울경제 보도에 따르면 이는 모레의 첫 해외 토큰 팩토리 OS 계약이다.",
+        "리벨리온은 2세대 NPU ‘리벨100’을 탑재한 서버 100대를 랙 단위로 공급해 일본에서 처음 랙 단위 매출을 확보했다. ai&가 제공하는 11개 AI 모델에는 모티프테크놀로지스의 ‘모티프3’가 한국 모델로는 유일하게 포함됐다."
+      ],
+      "implications": [
+        "이번 사례는 해외 수요처가 칩만이 아니라 이기종 가속기 운영 소프트웨어와 모델까지 결합한 추론 인프라를 구매하기 시작했음을 보여준다. 카드·서버 단위 납품보다 랙 단위 공급과 운영 실적이 후속 수주의 기준이 될 가능성이 크다.",
+        "국내 생태계는 NPU 성능 검증과 함께 이기종 스케줄링, 모델 호환성, 장애 대응을 묶은 통합 레퍼런스를 축적할 필요가 있다. 해외 실증·수출 지원도 개별 기업보다 칩·운영 SW·모델의 공동 사업화 성과를 확인하는 방식으로 설계할 여지가 있다."
+      ],
+      "sources": [
+        {
+          "title": "日 신생 네오클라우드 사업에 K스타트업 3사 나란히 진출",
+          "publisher": "서울경제",
+          "published_at": "2026-09-30T17:38:00+09:00",
+          "url": "https://v.daum.net/v/5PK0hHd8S6",
+          "verification": "public_reprint",
+          "verified_at": "2026-10-01T23:59:30Z"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "세미파이브·모빌린트, 농업·산업로봇용 AI 칩 턴키 개발 착수",
+      "category": "모빌린트",
+      "collected_at": "2026-10-01T16:41:40.325Z",
+      "original_published_at": "2026-10-01T13:40:00Z",
+      "original_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mY0ppUi1CWFIxRHl5TTJ1VGFnU1VJVGJfRTRsRmgxM3dZaDRhT2QzX1kzU2E5SkdST1BnRVpYTDZabzgyLVFiQ1phMzY0cV9JS05ZZVhaVGptb1A1ZGlmRkpjM3Y3T2RUWW5qdVdtRdIBc0FVX3lxTE9sS3lxZE1wQ0JNeE9ITXhhQnFjRUh5eEMtaTF6ZHZPMXpZaThjSkxJQW42OVQ3dUYtZ2o5SnN5VmdfUmFWWEZNaGNLOG9IanV0VGlVU1FzOTh2LVlHSnBOMTE5bHo4WjhPV083SEJBd25PN0U?oc=5",
+      "main_points": [
+        "세미파이브와 모빌린트는 산업통상자원부의 ‘K-온디바이스 AI 반도체 기술개발’ 사업과 연계해 외부 서버 연결이 제한된 환경에서도 비전·센서 데이터를 처리하는 로봇용 AI 칩을 개발하기로 했다. 적용 대상에는 농업용 로봇 등이 포함된다.",
+        "고객이 목표 성능과 사양을 제시하면 세미파이브가 상세 설계부터 패키징, 시험, 양산까지 담당하는 ‘스펙 핸드오프’ 방식으로 진행한다. 회사 발표 기준으로 LPDDR6, PCIe Gen6, UCIe-S 등 차세대 메모리·인터페이스 기술을 통합할 계획이다."
+      ],
+      "implications": [
+        "피지컬 AI용 반도체는 연산 코어뿐 아니라 저전력 메모리, 고속 입출력, 칩렛 연결, 패키징을 함께 최적화해야 야외 환경의 지연시간과 전력 제약을 충족할 수 있다. NPU 기업과 ASIC 설계·양산 파트너의 초기 사양 단계 협업이 제품화 속도를 좌우할 수 있다.",
+        "정부 지원은 칩 설계 완료만이 아니라 테이프아웃, 실제 로봇 탑재, 현장 데이터 기반 검증, 양산 전환까지 이어지는 단계별 성과를 확인할 필요가 있다. 수요기업의 제품 일정과 반도체 개발 일정을 함께 관리하면 실증 이후 상용화 단절을 줄일 여지가 있다."
+      ],
+      "sources": [
+        {
+          "title": "SEMIFIVE Signs Turnkey Contract with Mobilint to Develop Robotics AI Chip Under 'K-On-Device AI Semiconductor' Program",
+          "publisher": "SEMIFIVE",
+          "published_at": "2026-10-01T01:00:00-04:00",
+          "url": "https://www.prnewswire.com/news-releases/semifive-signs-turnkey-contract-with-mobilint-to-develop-robotics-ai-chip-under-k-on-device-ai-semiconductor-program-302895266.html",
+          "verification": "public_primary",
+          "verified_at": "2026-10-01T23:59:30Z"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "네비우스, 추론 콜드스타트 최적화 기업 인퍼라이즈 인수",
+      "category": "NVIDIA 이슈",
+      "collected_at": "2026-10-01T16:41:40.325Z",
+      "original_published_at": "2026-10-01T12:49:02Z",
+      "original_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1dZejZxcXB1d016bGVxa1lWeTkxTEFabDJvTnNBUmNuRFBGbVU5TjNaS0c2Zm1SSjZMbzJEUlQwS0JhMjB4VFgzbmJNQ0pUb2ZZZTNrbnVkaW5UWURCZjVNZ1YyRmRlN3ExT1FrM1JOa2c5dFVkVjBKVXpUM3oxNjFRU0VzMTFnVW1rMGl2X2ZLLUJKdmhJcEtXNDZOdXZJVEpjQQ?oc=5",
+      "main_points": [
+        "네비우스는 대규모 AI 모델의 기동·확장 시간을 줄이는 추론 최적화 기업 인퍼라이즈를 인수했으며, 거래 조건은 공개하지 않았다. 인퍼라이즈의 기술과 인력은 네비우스의 관리형 추론 플랫폼 ‘토큰 팩토리’에 합류한다.",
+        "네비우스는 모델 로딩, 수요 급증에 따른 신규 인스턴스 기동, 강화학습 중 가중치 갱신 때 발생하는 콜드스타트가 GPU 유휴와 예비 용량 비용을 만든다고 설명했다. 인퍼라이즈 기술로 실제 수요에 더 가깝게 용량을 탄력 확장해 GPU 이용률과 토큰 경제성을 개선한다는 구상이다."
+      ],
+      "implications": [
+        "추론 인프라의 비용 경쟁력은 가속기 단가뿐 아니라 모델 적재 시간, 오토스케일링 지연, 예비 용량, 서비스수준목표를 함께 다루는 운영 기술에 좌우된다. 네비우스의 인수는 운영 소프트웨어를 클라우드 차별화의 핵심 자산으로 내재화하는 흐름을 보여준다.",
+        "국산 NPU 인프라도 처리량 벤치마크와 함께 콜드스타트, 스케일아웃 시간, 유휴전력, 트래픽 급증 대응을 공통 지표로 검증할 필요가 있다. 컴파일러·런타임·서빙·스케줄러 기업의 연계를 강화하면 칩 활용률과 서비스 원가를 함께 개선할 가능성이 있다."
+      ],
+      "sources": [
+        {
+          "title": "Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack",
+          "publisher": "Nebius",
+          "published_at": "2026-10-01",
+          "url": "https://nebius.com/newsroom/nebius-acquires-inferize-to-strengthen-nebius-token-factorys-production-inference-stack",
+          "verification": "public_primary",
+          "verified_at": "2026-10-01T23:59:30Z",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Daily Desk 아카이브가 관련 보도를 2026-10-01T16:41:40.325Z에 최초 수집해 2026-10-02 09:00 KST 마감 전 공개 상태였음을 확인했다."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "코어위브, 베라 루빈 NVL72 상용 클라우드 제공·첫 고객 워크로드 가동",
+      "category": "NVIDIA 이슈",
+      "collected_at": "2026-10-01T18:49:49.722Z",
+      "original_published_at": "2026-10-01T17:12:58Z",
+      "original_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmYzcXJwVUZ6RWptRkNtZWxNSDh3YWMyMjRmb3VzUld3VzdYTTZHTDl4Y2dpcV9qYkEybkJNWTJrSG5HbkV6TlhJVFo3c0Fsa0JwVnNxNHVvT1BIbWJmcndNMndYekVybWlPSThNZ0VjQXR3M095SW5VQWVnRlZtMUhkVU54QXFfT2hPbU0xenduQmhucmhUbWVKXzdoTlVlazMwSGRpbFJBOVZvV1JSRzByaGZ6UQ?oc=5",
+      "main_points": [
+        "코어위브는 엔비디아 베라 루빈 NVL72를 자사 클라우드에서 제공하기 시작했으며, 코딩 에이전트 ‘Devin’ 개발사 코그니션이 실제 운영 워크로드를 가동한 첫 고객이라고 밝혔다. 기존 GB200·GB300 NVL72 자원과 같은 운영 모델과 도구를 사용하도록 구성했다.",
+        "코그니션의 자체 측정에서는 SWE-2 추론 워크로드의 총 토큰 처리량이 GB200 NVL72 대비 최대 4.8배, 강화학습 워크로드의 출력 토큰 처리량이 3.8배 높았다고 보고됐다. 이는 특정 고객 워크로드와 회사가 제시한 비교 조건에 따른 결과다."
+      ],
+      "implications": [
+        "차세대 가속기 경쟁은 칩 발표보다 랙 단위 시스템을 클라우드에서 안정적으로 기동하고 기존 운영 도구로 전환하는 능력에서 사업화 속도가 갈린다. 고객이 직접 수행한 워크로드별 측정치는 최대 이론성능보다 구매·전환 판단에 가까운 근거가 된다.",
+        "국산 NPU도 초기 하드웨어 공급과 동시에 클라우드·온프레미스 운영 환경, 관측성, 장애복구, 세대 간 마이그레이션을 검증할 필요가 있다. 실증사업에서 실제 서비스의 동시성·지연시간·전력당 처리량을 함께 공개하면 수요기업의 도입 불확실성을 낮출 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "CoreWeave Delivers NVIDIA Vera Rubin NVL72 Performance at Production Scale, Starting With Cognition",
+          "publisher": "CoreWeave",
+          "published_at": "2026-09-30",
+          "url": "https://coreweave.com/news/coreweave-delivers-nvidia-vera-rubin-nvl72-performance-at-production-scale-starting-with-cognition",
+          "verification": "public_primary",
+          "verified_at": "2026-10-01T23:59:30Z"
+        },
+        {
+          "title": "CoreWeave brings Nvidia Vera Rubin, AI tools to its cloud services",
+          "publisher": "Network World",
+          "published_at": "2026-10-01",
+          "url": "https://www.networkworld.com/article/4229739/coreweave-brings-nvidia-vera-rubin-ai-tools-to-its-cloud-services.html",
+          "verification": "full_text",
+          "verified_at": "2026-10-01T23:59:30Z",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Daily Desk 아카이브가 해당 기사를 2026-10-01T18:49:49.722Z에 최초 수집해 마감 전 공개 상태였음을 확인했다."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "GMI클라우드, 6억6800만달러 조달해 미국·대만·동남아 GPU 용량 확대",
+      "category": "해외 빅테크 국내 보도",
+      "collected_at": "2026-10-01T09:25:29.066Z",
+      "original_published_at": "2026-10-01T02:46:12Z",
+      "original_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZTUtUYk12b3VVeElpUnprZ1B1eGxQam5kek5VaUUtTm5KSkZ2TDBuN2llN0dPMjcwQTdFamF6bHctZnhOR3RENTBGRi1SVGh4ODBidzJ3YnpxclRwUTJsVXRHMGR2X2s?oc=5",
+      "main_points": [
+        "GMI클라우드는 2억2300만달러 규모 시리즈B 지분투자와 CTBC 주도의 4억4500만달러 신용한도를 합쳐 총 6억6800만달러를 조달했다고 발표했다. 시리즈B에는 엔비디아가 참여했고, 아시아·태평양 투자자로 DSC인베스트먼트, KB인베스트먼트, 교보생명, KT 등이 포함됐다.",
+        "회사는 조달 자금을 미국·대만·동남아시아의 GPU 용량 확대와 추론 서비스, 인력 확충에 투입할 계획이다. 계약 ARR 6억달러 초과와 주당 약 4조 토큰 처리 수치는 회사 발표 기준이다."
+      ],
+      "implications": [
+        "네오클라우드 확장은 지분자금과 대규모 신용공여, GPU 공급망 접근, 장기 고객계약을 결합하는 자본집약적 사업으로 전개되고 있다. 추론 수요가 늘수록 GPU 확보뿐 아니라 가동률과 현금흐름이 차입 확대의 지속가능성을 좌우할 가능성이 크다.",
+        "국내 투자기관의 해외 참여는 글로벌 AI 인프라 운영 경험과 고객 네트워크에 접근하는 통로가 될 수 있다. 정책금융이나 민간투자 연계 시에는 설비 규모보다 확정 고객, 이용률, 전력·지역 분산, 국내 기업과의 기술·수요 연결 가능성을 함께 살필 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "GMI Cloud Raises Over $660 Million to Accelerate Global AI Infrastructure Expansion",
+          "publisher": "GMI Cloud",
+          "published_at": "2026-10-01T09:05:00+08:00",
+          "url": "https://www.prnewswire.com/apac/news-releases/gmi-cloud-raises-over-660-million-to-accelerate-global-ai-infrastructure-expansion-302894628.html",
+          "verification": "public_primary",
+          "verified_at": "2026-10-01T23:59:30Z"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "오텍캐리어, 1.3MW 액체냉각 CDU 엔비디아 품질 인증 확보",
+      "category": "해외 빅테크 국내 보도",
+      "collected_at": "2026-10-01T09:25:29.066Z",
+      "original_published_at": "2026-10-01T08:20:37Z",
+      "original_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBTnJhc0tYaVp6MVlXOW8takR6RDFkNkQtSlJ3NE5jeXpDT3pFOGw4bzB6VFVBaHdfSk8tUkk1dTA0NjVtV2FNdXA5Um9hQQ?oc=5",
+      "main_points": [
+        "오텍캐리어는 글로벌 캐리어의 냉각수분배장치 ‘65LL’이 엔비디아 품질 인증을 완료하고 엔비디아 마켓플레이스에 ‘Product Qualified’ 제품으로 등록됐다고 밝혔다. 65LL의 최대 냉각 용량은 1.3MW다.",
+        "회사 설명에 따르면 칠러와 서버랙 사이 온도 차이를 2℃까지 줄여 칠러 에너지 효율을 10~15% 높이도록 설계됐다. 오텍캐리어는 2.6MW급 CDU도 올해 말 인증을 목표로 시험 중이라고 밝혔다."
+      ],
+      "implications": [
+        "고밀도 AI 랙의 전력 증가로 액체냉각 장비는 부대설비가 아니라 가속기 가동률과 데이터센터 전력효율을 결정하는 핵심 구성요소가 되고 있다. 플랫폼 사업자의 인증·마켓플레이스 등록은 실제 조달에서 호환성과 공급 적격성을 입증하는 수단으로 작동한다.",
+        "국내 AI 데이터센터 사업은 서버 도입과 별도로 CDU·칠러·배관·제어 소프트웨어의 통합 성능과 유지관리 체계를 검증할 필요가 있다. 실증·조달 기준에 냉각용량, 온도차, 부분부하 효율, 장애 대응 데이터를 포함하면 국내 냉각 기업의 사업화와 운영 안정성을 함께 평가할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "오텍캐리어 CDU 엔비디아 품질 인증 완료...AIDC 본격 공략",
+          "publisher": "전자신문",
+          "published_at": "2026-10-01T13:17:00+09:00",
+          "url": "https://www.etnews.com/20261001000280",
+          "verification": "full_text",
+          "verified_at": "2026-10-01T23:59:30Z"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "아카이브의 리벨리온 일본 랙 단위 공급, 모빌린트 로봇용 AI 칩 개발, 망고부스트 수상 관련 후보를 검토했다. 실제 수주·제품화 변화가 확인된 리벨리온 연계 건과 모빌린트 개발 건을 선정했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "K-온디바이스 AI 반도체 기술개발, 피지컬 AI 무선전력 시험장, AI 인재양성 사업을 검토했다. AI 반도체 제품화·수요제품 탑재와 직접 연결된 로봇용 칩 개발을 반영했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "베라 루빈 NVL72 상용 클라우드 가동, 화웨이 어센드 관련 보도, 구글 TPU 우주 실증 후보를 비교했다. 고객 운영과 성능자료가 확인된 베라 루빈 공급을 선정했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "모레 토큰 팩토리 OS, 네비우스의 인퍼라이즈 인수, 엔비디아 에이전트 안전 플랫폼 후보를 검토했다. 이기종 자원 운영의 해외 계약과 추론 콜드스타트·GPU 이용률 개선이라는 서로 다른 운영 문제를 반영했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "오텍캐리어 액체냉각 CDU 인증, GMI클라우드 용량 확대 자금조달, 우주 데이터센터 및 신규 네오클라우드 후보를 검토했다. 검증된 냉각장치 변화와 구체적인 자금 구조가 확인된 인프라 확장 건을 선정했으며, 수집 구간에서 별도 메모리·패키징 주요 후보는 확인되지 않았다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국산 NPU·운영 SW·모델이 일본 네오클라우드의 실제 랙·서비스 단위 공급으로 결합돼 해외 매출과 통합 레퍼런스를 동시에 만든 사례다."
+      },
+      {
+        "article_number": 2,
+        "reason": "국내 NPU 기업과 ASIC 설계·양산 파트너가 정부 사업 아래 로봇 수요제품의 사양 단계부터 상용화까지 연결한 구체적 제품화 변화다."
+      },
+      {
+        "article_number": 3,
+        "reason": "추론 비용의 핵심 병목인 콜드스타트와 유휴 GPU를 줄이는 기술을 네오클라우드가 인수·내재화해 운영 SW 경쟁의 방향을 보여준다."
+      },
+      {
+        "article_number": 4,
+        "reason": "차세대 베라 루빈 시스템이 발표 단계를 넘어 상용 클라우드와 첫 고객 운영 워크로드에 투입됐고, 조건이 명시된 고객 측 처리량 결과가 제시됐다."
+      },
+      {
+        "article_number": 5,
+        "reason": "GPU 인프라 확장에 필요한 지분·대출 혼합 조달 구조와 국내 투자기관 참여, 지역별 용량 확대 계획이 구체적으로 확인됐다."
+      },
+      {
+        "article_number": 6,
+        "reason": "국내 공급사가 고밀도 AI 데이터센터용 1.3MW 액체냉각 장비의 플랫폼 인증을 확보해 냉각 인프라의 실제 조달 가능성이 진전됐다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "Google launches Project Suncatcher, a step towards AI data centers in space - npr.org",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHpoSkZMSUJMOGtZbVVtY3RWVmdBVExLSkNSSjlqRmdvRnByRHhuSVhYbVhPS3RYcF9oUTY2aHVZY3FUb1o5YnVScFlmX3Z1a3ZuZHk2NmZJcmNNWmlxS09JZjh6RE0wVGI4YWFpeTZuVjM5QVdmZmpXeWl4VElrWkJxbjFBcVNSa0lXdUJ2cmpvdm8tdlE?oc=5",
+        "reason": "10월 1일 보도는 확인했으나 핵심 계획의 공식 발표가 9월 24일이어서 이번 수집 구간의 새로운 산업 변화로 보기 어려워 제외했다."
+      },
+      {
+        "title": "과기정통부, 피지컬 AI 무선충전 실증 나선다…대구에 테스트베드 가동 - entv.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEa1lvT3R2OTBpNkxyMnIzTUtZZUhRNmo0d0MtMV90dGxZOUZvSVRIcDlrTFB0czJncmVzWHpxRVhNbE9rMXNvNlBXb2lsUExxTkZhbVRaSGQwLXBLb2dqWmI0dFU?oc=5",
+        "reason": "피지컬 AI 수요 기반과 관련되지만 핵심 변화가 무선전력 시험장 개소로, AI 반도체·가속기 산업과의 직접성이 선정 기사보다 낮았다."
+      },
+      {
+        "title": "AI cloud provider Blackfuel emerges from stealth, plans first deployment in Spain - Data Center Dynamics",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMnRwaXhPNkRmWWk2TU9PaDFEUnJXQ0hobWdtY290bkFCZDRoZVNucTdmZXYzeGs4Ync0eExFUHhsUGtjeGFVS3FwSTc3TXlFOUthX29QVUs5dFJXOGtPbTg2N1BSWTBUczRtR3pvMWtLbDV5ZzA2X3hXWVlLbzkyTUwxYXI4T3psS0lZaTQwSlRCMDhXb0NNT0oxRXNYTy15dS15Qi1fa1J2QnA2d0p3QzViM2dMaWZvMmJUY09sS3VEUQ?oc=5",
+        "reason": "신규 네오클라우드의 스페인 배치 계획은 확인했으나 구체적 가속기 구성·고객·운영 성과가 제한적이어서 기존 인프라 후보보다 검증 가능한 파급이 작았다."
+      },
+      {
+        "title": "Ascend now ahead of Nvidia in China, with domestic supply driving AI chip substitution, says Huawei chairman - digitimes",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdVJrV0tSbUtMUHRvMkIwbXI2TlV0am9GSVZSLThaQ3JtSWcwWUJEOTJJckd3Mmp6cnltcmxwN1lRaEJ4SXhoRzNkRU8zb09HY0VtLWpjMjN1b0t2dkgwQU42UG55RGlUamxfNWJjYTk3Q0tNT3U0WnlDaTFpUEI0VTQxTE1Pakstcmx2MlRB?oc=5",
+        "reason": "중국 가속기 대체 흐름은 중요하지만 공개 원문 전문을 충분히 검증하기 어려운 유료 매체 보도여서 주요기사에서 제외했다."
+      }
+    ],
+    "count_reason": "독립 이슈 6건을 선정해 국내 NPU의 해외 공급과 로봇 제품화, 추론 운영 SW 인수, 차세대 가속기 상용 가동, 네오클라우드 금융조달, 액체냉각 인증을 각각 다뤘다. 추가 후보는 기존 이슈의 재보도이거나 공개 검증·직접 관련성이 낮아 7번째 기사로 늘리지 않았다.",
+    "company_overlap_review": "엔비디아는 기사 4의 가속기 공급, 기사 5의 투자 참여, 기사 6의 냉각장치 인증 기준에 각각 등장하고 기사 3의 수집 분류에도 포함됐지만, 중심 기업과 변화 단위는 코어위브의 상용 가동, GMI클라우드의 자금조달, 오텍캐리어의 설비 인증, 네비우스의 운영 SW 인수로 서로 독립적이다. 동일 엔비디아 발표를 반복 선정한 것이 아니며 각 이슈가 국내 생태계에 주는 의미도 가속기·금융·냉각·운영 SW로 구분돼 유지했다."
+  }
+}
