@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:27:24.775Z",
+  "generatedAt": "2026-10-02T14:08:04.647Z",
   "news": {
     "articles": [
       {
@@ -31,15 +31,14 @@
         "score": 33
       },
       {
-        "title": "퓨리오사AI·리벨리온 출격… 엔비디아 독주에 도전하는 한국 NPU - pinpointnews.co.kr",
+        "title": "퓨리오사AI·리벨리온 출격… 엔비디아 독주에 도전하는 한국 NPU - 핀포인트뉴스",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tdDZTZWdKT2x1R0xCdGpnU2hkcTMxVjhweWQzczhwWEh4UmtfVEI0NHlEUlpncG9HeVM1ZlBCdzktRktvMFd5dHlRVVdValBUVWFDSjlJYUlWcEZUV3ZhY3JzWXEzdEZrUi1UX01hNGpjQmvSAXdBVV95cUxQQW11SlFsc2dJQm82c0pWMlEzNEZoTjIzTlFCdU1lVE9LTnRVdVhwR2tCb2RKelJmbmJhd3RwbUE4RDJSSllESEhBdlNSNGMwUWVlSlR0VGxJTlJfYm9DSXVnWkx0TVNwTWI5MkxfTXBkcjRjLWZTRQ?oc=5",
         "publishedAt": "Sat, 26 Sep 2026 22:46:34 GMT",
-        "summary": "퓨리오사AI·리벨리온 출격… 엔비디아 독주에 도전하는 한국 NPU &nbsp;&nbsp; pinpointnews.co.kr",
-        "outlet": "pinpointnews.co.kr",
+        "summary": "퓨리오사AI·리벨리온 출격… 엔비디아 독주에 도전하는 한국 NPU &nbsp;&nbsp; 핀포인트뉴스",
+        "outlet": "핀포인트뉴스",
         "outletUrl": "https://www.pinpointnews.co.kr",
-        "source": "국내 NPU 기업",
+        "source": "리벨리온",
         "sourceIds": [
-          "korea-npu",
           "rebellions",
           "furiosa"
         ],
@@ -86,6 +85,37 @@
           "리벨리온",
           "퓨리오사AI",
           "딥엑스"
+        ],
+        "issueCategory": "NPU",
+        "score": 32
+      },
+      {
+        "title": "국산 AI반도체 3사 나란히 혁신제품 지정…리벨리온·퓨리오사에이아이·딥엑스 공공시장 진입 시작 - 조달경제신문",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hdnZrYWlrYjFtUTNIWTRXRWVKdFAxQUp3YW12ZDE0WXRaMTNQWXFrdnFPZ3ZnNGFzemdvd1dwQ1MzWWhvcXp0RWMxS3ZsNmNqZElUTnFyYnJIaDBmOHhVZ2d0YTdsRWEyaVI0WkZB?oc=5",
+        "publishedAt": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "summary": "국산 AI반도체 3사 나란히 혁신제품 지정…리벨리온·퓨리오사에이아이·딥엑스 공공시장 진입 시작 &nbsp;&nbsp; 조달경제신문",
+        "outlet": "조달경제신문",
+        "outletUrl": "https://www.jodaleconomy.com",
+        "source": "퓨리오사AI",
+        "sourceIds": [
+          "furiosa",
+          "deepx",
+          "msit-ai-chip",
+          "government-npu-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "리벨리온",
+          "퓨리오사AI",
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "리벨리온",
+          "퓨리오사AI",
+          "딥엑스",
+          "실증·조달"
         ],
         "issueCategory": "NPU",
         "score": 32
@@ -139,11 +169,11 @@
         "score": 31
       },
       {
-        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - etoday.co.kr",
+        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - 이투데이",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KeGVSMXRwLVBJWVJOWjR0SjRoV0hwVS1OTU1xZ3R4bFozdVdrbVY2cGtqU2pLOG4yMElfaEhXQjBfaEhOZ2pzTEZIR2s4QkM4VzJEbA?oc=5",
         "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; etoday.co.kr",
-        "outlet": "etoday.co.kr",
+        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; 이투데이",
+        "outlet": "이투데이",
         "outletUrl": "https://www.etoday.co.kr",
         "source": "딥엑스",
         "sourceIds": [
@@ -191,11 +221,11 @@
         "score": 29
       },
       {
-        "title": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 - 전자신문",
+        "title": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 - etnews.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kV2lHT1FQMk5lZGVaMXhNTC1zZzExSUdObGhZNVFyNDBwWlVIYnZCQ0RjM2N1SWJielU4b3NKQU9xWW5MdjY1RE42NHdPZw?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 03:23:41 GMT",
-        "summary": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 &nbsp;&nbsp; 전자신문",
-        "outlet": "전자신문",
+        "summary": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 &nbsp;&nbsp; etnews.com",
+        "outlet": "etnews.com",
         "outletUrl": "https://www.etnews.com",
         "source": "리벨리온",
         "sourceIds": [
@@ -309,11 +339,11 @@
         "score": 29
       },
       {
-        "title": "'공공 CCTV·유럽 DC·로봇'…K-NPU, 리벨리온·퓨리오사·딥엑스 '3색' 승부 - news1.kr",
+        "title": "'공공 CCTV·유럽 DC·로봇'…K-NPU, 리벨리온·퓨리오사·딥엑스 '3색' 승부 - 뉴스1",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93R0taMXRoTFdubHFPZERrZDg5TS0xb3FRQkt5ZTBSQWI5bTJmN2phd3JXU1RTUlhhNTdhYkd2eTE2anhFQk9iN0Z1NUZpRmpQOVRhUkFFblJQU2tr0gFiQVVfeXFMTXRHc1k5OUdid0U2SnhUel9qeXBzejRXRmVqUE5Qa0lmWDZ0UHZ1ZUxiZ3hmbU52bDgyR2ZBVnVncDFmaWR2WHdkeHN1LUtjc3FqTXpRWi14SGxybF9aNUMyd2c?oc=5",
         "publishedAt": "Mon, 07 Sep 2026 07:00:00 GMT",
-        "summary": "'공공 CCTV·유럽 DC·로봇'…K-NPU, 리벨리온·퓨리오사·딥엑스 '3색' 승부 &nbsp;&nbsp; news1.kr",
-        "outlet": "news1.kr",
+        "summary": "'공공 CCTV·유럽 DC·로봇'…K-NPU, 리벨리온·퓨리오사·딥엑스 '3색' 승부 &nbsp;&nbsp; 뉴스1",
+        "outlet": "뉴스1",
         "outletUrl": "https://www.news1.kr",
         "source": "리벨리온",
         "sourceIds": [
@@ -618,59 +648,11 @@
         "score": 28
       },
       {
-        "title": "Elon Musk Says SpaceX's Starmind AI Satellites Could Pack in More Power Than ISS — NVIDIA's AI Racks Are - Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVVBMTEduak8wQ1dnbS1BemRkRVhacE9JTGJBWDBhc1RjeFlVRi1uWlAwTXVsRW9aMm1FUGdPa2JOc2FEcHRZa0JfZTFNdzJMQ1hwRVpEUHlDTXlwX0d2OVdJd0xYVlZ1RV9obGdUY0s1dFBGTTU4dFotUWkzQWdMdWZLemdmdHB4QVpVZ204UFE4aXh5SFVIS0JJRU1oWFNUSlJHVThFdGt0aFRZNEh0TWM4QWlwVnVmbUhtVXY3U05STkpraDN0c2FWRlBCaVRkQnhuMEpvRHdwdnJ2TmhXNXpfWURJZklLWXduQndqUzhaTmtSNzVudG1hcw?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 05:40:06 GMT",
-        "summary": "Elon Musk Says SpaceX's Starmind AI Satellites Could Pack in More Power Than ISS — NVIDIA's AI Racks Are &nbsp;&nbsp; Benzinga",
-        "outlet": "Benzinga",
-        "outletUrl": "https://www.benzinga.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Arm"
-        ],
-        "taxonomyHits": [
-          "데이터센터",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 27
-      },
-      {
-        "title": "Arm, 엔비디아와 에이전트 보안 구조 제시…CPU는 실행, DPU는 감시 - AI 매터스",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzdkh6cVptd1IwcTdGY2pQYlZzVEkwWFp4VFE1QVl6ZnAwV2lVazhCVmc0RlBtdWgwTEw5NTZxenpHMlhsbjF3NldpTmd2cVJINjJUVg?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 03:02:24 GMT",
-        "summary": "Arm, 엔비디아와 에이전트 보안 구조 제시…CPU는 실행, DPU는 감시 &nbsp;&nbsp; AI 매터스",
-        "outlet": "AI 매터스",
-        "outletUrl": "https://aimatters.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "Arm"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 27
-      },
-      {
-        "title": "현대차그룹 포티투닷, 구글·엔비디아 출신 ‘AI 두뇌’ 모았다…SDV 전환 속도 - 디지털데일리",
+        "title": "현대차그룹 포티투닷, 구글·엔비디아 출신 ‘AI 두뇌’ 모았다…SDV 전환 속도 - ddaily.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91Wk40ZTBIMnlhaUJvZ3hERm5NazlBajVrbHljOTJGN2xXSzVXUmttc1lkdFZLQ3k1X294TDNxTHJnYmtSd3o4c2Vzamg3amFzRzNHdjY5ZVROWWtTbkVXbjBVYUo?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 02:00:58 GMT",
-        "summary": "현대차그룹 포티투닷, 구글·엔비디아 출신 ‘AI 두뇌’ 모았다…SDV 전환 속도 &nbsp;&nbsp; 디지털데일리",
-        "outlet": "디지털데일리",
+        "summary": "현대차그룹 포티투닷, 구글·엔비디아 출신 ‘AI 두뇌’ 모았다…SDV 전환 속도 &nbsp;&nbsp; ddaily.co.kr",
+        "outlet": "ddaily.co.kr",
         "outletUrl": "https://www.ddaily.co.kr",
         "source": "해외 빅테크 국내 보도",
         "sourceIds": [
@@ -878,11 +860,11 @@
         "score": 26
       },
       {
-        "title": "과기정통부, 피지컬 AI 확산 지원할 ‘무선전력전송’ 시험장 가동 - robotnews.tistory.com",
+        "title": "과기정통부, 피지컬 AI 확산 지원할 ‘무선전력전송’ 시험장 가동 - 티스토리",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UR0swdC14bHYyX2w3U0VXODRpWTZXY2N0eVRDY1oxMHQ2NHh4SklXSDhIQ09KelRxM3pSMHVqOFF6UjMtVTY3bjI0Zw?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 08:33:59 GMT",
-        "summary": "과기정통부, 피지컬 AI 확산 지원할 ‘무선전력전송’ 시험장 가동 &nbsp;&nbsp; robotnews.tistory.com",
-        "outlet": "robotnews.tistory.com",
+        "summary": "과기정통부, 피지컬 AI 확산 지원할 ‘무선전력전송’ 시험장 가동 &nbsp;&nbsp; 티스토리",
+        "outlet": "티스토리",
         "outletUrl": "https://robotnews.tistory.com",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
@@ -1009,6 +991,26 @@
         "score": 26
       },
       {
+        "title": "국립순천대, 과기정통부 ‘인공지능혁신인재양성사업’ 선정 …‘스마트농업 AX 대학원’ 구축 - 대동N뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4QkEwUVFrZkllUk5zaHR2ZDBKNFNoZFg2VDIxNEZyV1pHd0VOTUl3ekM2YWU5Y1dwMVlVZ1BleS1aZ2EteERPUDZKWl8wbl90T241VFNGOVU2b0M0MVBRaVZzU0d5Vlk?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 06:24:47 GMT",
+        "summary": "국립순천대, 과기정통부 ‘인공지능혁신인재양성사업’ 선정 …‘스마트농업 AX 대학원’ 구축 &nbsp;&nbsp; 대동N뉴스",
+        "outlet": "대동N뉴스",
+        "outletUrl": "https://www.ddnnews.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "정책",
+        "score": 26
+      },
+      {
         "title": "한국지능정보사회진흥원·과기정통부, `K-AI 네트워크 경쟁력 강화` 사업 출범 - 매일신문",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tMGlMeU05QUw0OVIzWDVldEYtYVB5SFhjYldVMWpqS2Mxc3Y3N0FkTzJPVkhEWlZGVFExQk84VVZ3Q0pHdXFPY0tnaUdMak9UM2xXQ0syUG83ZUE5WDBzcHNn?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 06:03:00 GMT",
@@ -1029,27 +1031,27 @@
         "score": 26
       },
       {
-        "title": "아마존, AI 투자 부담 줄이려 11조원 엔비디아칩 매각·재임차 추진 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hLXMxVE00YmlsTVJMUEhKU19nM1hTSjF4emRZeUJVX1pXRjk3RlhaVUpQTVRnYnhFMVZUaTZJcF9ubjNERHdpQ280emozeVQyMUp6YnhLc0daa2tWVlZ2cNIBeEFVX3lxTE43UG9qR1FhMVgtaDRQYVUtbURtczFlSGhJa0p2UXMzOEF3QmZrektGRkZQWEtoSVlQdVEyZWRWN1BYcjV2eHJOZzBQS2hVa1dHX21IYmZxdFJDU0MzX3dyV3Bocnl1RUpqUHFMaU1YTjd1R2IwQzF2aQ?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 04:59:55 GMT",
-        "summary": "아마존, AI 투자 부담 줄이려 11조원 엔비디아칩 매각·재임차 추진 &nbsp;&nbsp; 뉴시스",
-        "outlet": "뉴시스",
-        "outletUrl": "https://www.newsis.com",
-        "source": "해외 빅테크 국내 보도",
+        "title": "한전-리벨리온-TTA 맞손… ‘국산 NPU’로 변전소 AI 영상 분석 인프라 국산화 - 국토매일",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBTZGNUNTJEYllWUUJjUnozQ3lCNTJjNFlrSHpnc2RfVHRnMXhRTmMxWG12RjBXVXhYelI2cXdwbjlab21a?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 05:34:00 GMT",
+        "summary": "한전-리벨리온-TTA 맞손… ‘국산 NPU’로 변전소 AI 영상 분석 인프라 국산화 &nbsp;&nbsp; 국토매일",
+        "outlet": "국토매일",
+        "outletUrl": "http://www.pmnews.co.kr",
+        "source": "국내 NPU 기업",
         "sourceIds": [
-          "korea-global-ai-companies"
+          "korea-npu"
         ],
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
-          "NVIDIA"
+          "리벨리온"
         ],
         "taxonomyHits": [
-          "AI시장",
-          "NVIDIA",
-          "투자·M&A"
+          "NPU",
+          "K-엔비디아",
+          "리벨리온"
         ],
-        "issueCategory": "AI시장",
+        "issueCategory": "NPU",
         "score": 26
       },
       {
@@ -1081,8 +1083,7 @@
         "outletUrl": "http://www.newslock.co.kr",
         "source": "국내 NPU 기업",
         "sourceIds": [
-          "korea-npu",
-          "rebellions"
+          "korea-npu"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -1119,26 +1120,6 @@
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
-        "score": 26
-      },
-      {
-        "title": "국립순천대, 과기정통부 ‘인공지능혁신인재양성사업’ 선정 …‘스마트농업 AX 대학원’ 구축 - 웰페어뉴스",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tYXZCdm9jMDQwYVk2UGpyc01wTkVhLUs2RkZmZWE5MDBPQzN1eDFwdld2cWMwV3pvbC1uRk4ySmFjeUJIZ1R4VE5udV85ZklnbGZRZEY3Q2JtdGhCNDBQN0dBREVwa011U00wS3h6Yw?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 02:30:21 GMT",
-        "summary": "국립순천대, 과기정통부 ‘인공지능혁신인재양성사업’ 선정 …‘스마트농업 AX 대학원’ 구축 &nbsp;&nbsp; 웰페어뉴스",
-        "outlet": "웰페어뉴스",
-        "outletUrl": "https://www.welfarenews.net",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
         "score": 26
       },
       {
@@ -1211,26 +1192,6 @@
         "score": 26
       },
       {
-        "title": "가천대, 과기정통부 주관 'AI중심대학' 출범식 참석…전교생 AI 교육 본격화 - 비욘드포스트",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mbXhZdTFPcjQ3VnhXOERXbGZ6RU12alFUazZIeGw0dHBXTnNZb25wRFptUm9JN2V0cjlhd2w2NEttM1owQ0xvYWFHVWVtSDFqLVNlQVdRZzBldFFsUlhqS1pwdmJYcl9CaUc0eVNVWm9sM082TVdVd3NuNC0?oc=5",
-        "publishedAt": "Thu, 01 Oct 2026 10:51:31 GMT",
-        "summary": "가천대, 과기정통부 주관 'AI중심대학' 출범식 참석…전교생 AI 교육 본격화 &nbsp;&nbsp; 비욘드포스트",
-        "outlet": "비욘드포스트",
-        "outletUrl": "https://www.beyondpost.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 26
-      },
-      {
         "title": "[사이언스게시판] 과기정통부, 서울대에 'AI반도체 혁신 연구소' 개소 外 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mUEViS1RlV1EtT1VGcjJSWGlKemRxdFhvRXFEREVmaHo2SFpHVjRnbHdwdFBHOWJGTF83SkZYT2hFa0xqeEhKUDFmQ0t4cEE?oc=5",
         "publishedAt": "Tue, 29 Sep 2026 07:58:00 GMT",
@@ -1284,6 +1245,27 @@
         "source": "AI반도체 공공사업",
         "sourceIds": [
           "ai-chip-public-program"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "NPU"
+        ],
+        "issueCategory": "NPU",
+        "score": 26
+      },
+      {
+        "title": "과기정통부, 서울대에 '인공지능(AI) 반도체 혁신연구소' 개소... 산·학 협력으로 차세대 인공지능 반도체 기술개발·핵심인재 양성 - 시사일보",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmNTQzN0RiMjdMOUlmX3BEazFwWWV2dTBpd1ZJSkpwR1QwSnE2RW9Yd0l6QkJRdlZieTl5X1dDY3dvR0pmQU1wdjBrRUM?oc=5",
+        "publishedAt": "Tue, 29 Sep 2026 06:47:00 GMT",
+        "summary": "과기정통부, 서울대에 '인공지능(AI) 반도체 혁신연구소' 개소... 산·학 협력으로 차세대 인공지능 반도체 기술개발·핵심인재 양성 &nbsp;&nbsp; 시사일보",
+        "outlet": "시사일보",
+        "outletUrl": "http://www.koreasisailbo.com",
+        "source": "정부 NPU 정책·예산",
+        "sourceIds": [
+          "government-npu-policy"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -1410,6 +1392,26 @@
         "score": 26
       },
       {
+        "title": "가천대, 과기정통부 주관 'AI중심대학' 출범식 참석…전교생 AI 교육 본격화 - 비욘드포스트",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mbXhZdTFPcjQ3VnhXOERXbGZ6RU12alFUazZIeGw0dHBXTnNZb25wRFptUm9JN2V0cjlhd2w2NEttM1owQ0xvYWFHVWVtSDFqLVNlQVdRZzBldFFsUlhqS1pwdmJYcl9CaUc0eVNVWm9sM082TVdVd3NuNC0?oc=5",
+        "publishedAt": "Thu, 01 Oct 2026 10:51:31 GMT",
+        "summary": "가천대, 과기정통부 주관 'AI중심대학' 출범식 참석…전교생 AI 교육 본격화 &nbsp;&nbsp; 비욘드포스트",
+        "outlet": "비욘드포스트",
+        "outletUrl": "https://www.beyondpost.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
+        "score": 25
+      },
+      {
         "title": "켄텍, 과기정통부 AI 분야 국가사업 3개 선정...480억원 투입 - 디스커버리뉴스(DISCOVERYNEWS)",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFYUZuYS12UE1Ta1p1R25RV3R3Slpfd21Cb01LMk8tQ1NXQzFIc19UekdkUnRtVFhjbGl4eld1V3FXX3AyMzRxS3hBSGVrbWd6RmR3VkxWdVFDd1ZveUNPcjZuX1VJeDhJdVRpYTdnRFZOUQ?oc=5",
         "publishedAt": "Thu, 01 Oct 2026 08:32:09 GMT",
@@ -1430,11 +1432,11 @@
         "score": 25
       },
       {
-        "title": "켄텍, 과기정통부 AI 분야 국가사업 3개 선정 - webeconomy.co.kr",
+        "title": "켄텍, 과기정통부 AI 분야 국가사업 3개 선정 - 웹이코노미",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdXdVeHA3UnhYdTV2RzVYbjBidVRBeGVDb2ZMbElBRVNrTTZHLW5rYURPSWpwRWZDY0Zna1JvNlpNdmVsWDBpa3d0NzY3MmhxTzJLeUxQNmNIbjNZXzhubnBPdEFIbHp3dVdEYTZFaGlyZw?oc=5",
         "publishedAt": "Thu, 01 Oct 2026 08:21:42 GMT",
-        "summary": "켄텍, 과기정통부 AI 분야 국가사업 3개 선정 &nbsp;&nbsp; webeconomy.co.kr",
-        "outlet": "webeconomy.co.kr",
+        "summary": "켄텍, 과기정통부 AI 분야 국가사업 3개 선정 &nbsp;&nbsp; 웹이코노미",
+        "outlet": "웹이코노미",
         "outletUrl": "https://www.webeconomy.co.kr",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
@@ -1450,11 +1452,11 @@
         "score": 25
       },
       {
-        "title": "켄텍, 480억 인공지능 전진기지 된다…과기정통부 AI 핵심사업 3관왕 - 서울경제",
+        "title": "켄텍, 480억 인공지능 전진기지 된다…과기정통부 AI 핵심사업 3관왕 - sedaily.com",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWlhzYno3QTVPeWs4bWJIOHpFWGhMU0hKbEJGZ2N6djhsUjh0V3YzaFpJZmZGaVpkSXBwOE9sY01tNGJZSUdReTVpTFplaTJaY1HSAVNBVV95cUxPc05OME92UGhsNUk4OUhTLUh5SWRvNnNSUVhUYkhzTElRb1l6VEhMVHNsalJFdmdtWkdDSmV0NFVoN3M3dk9mMm84eWNNamhJVm1pOA?oc=5",
         "publishedAt": "Thu, 01 Oct 2026 07:39:17 GMT",
-        "summary": "켄텍, 480억 인공지능 전진기지 된다…과기정통부 AI 핵심사업 3관왕 &nbsp;&nbsp; 서울경제",
-        "outlet": "서울경제",
+        "summary": "켄텍, 480억 인공지능 전진기지 된다…과기정통부 AI 핵심사업 3관왕 &nbsp;&nbsp; sedaily.com",
+        "outlet": "sedaily.com",
         "outletUrl": "https://www.sedaily.com",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
@@ -1845,9 +1847,8 @@
         "summary": "과기정통부, 국가 AI 안전 마스터플랜 수립…민관 협의체 가동 &nbsp;&nbsp; 테크월드",
         "outlet": "테크월드",
         "outletUrl": "https://www.epnc.co.kr",
-        "source": "국내 AI 정책",
+        "source": "NIPA·과기정통부 정책",
         "sourceIds": [
-          "korea-ai-policy",
           "nipa-msit-policy"
         ],
         "sourceLang": "ko",
@@ -1884,56 +1885,15 @@
         "score": 25
       },
       {
-        "title": "과학기술정보통신부, 글로벌 AI 허브 입지 선정 공청회 개최 - 뉴스체인지",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rSkFST0l6dktKZm5oZlcyQm9mMWxXbHh2bnprbkhQdXNjMWV0VVptWUVKSXNWXzZYbGsxeTN5T2MtZmhtZC1uYlh5NA?oc=5",
-        "publishedAt": "Wed, 30 Sep 2026 10:53:00 GMT",
-        "summary": "과학기술정보통신부, 글로벌 AI 허브 입지 선정 공청회 개최 &nbsp;&nbsp; 뉴스체인지",
-        "outlet": "뉴스체인지",
-        "outletUrl": "http://www.newschange.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
-        "score": 25
-      },
-      {
-        "title": "한국에너지공대, 과기정통부 ‘에너지 AX 대학원’ 선정… 6년간 190억 원 지원받아 AI 인재 양성 - 스포트라이트유",
-        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQbjJxbzdIYllxaUdKQzk2VHlaeUVEVGMwUjNRYXlyaF9CTGg0NW0waWxsM181aEpKcGhCYkU0dk5EVURRaFJ1TkkxakFPZDhXNHJTOW0yRzR2SlFrMnRaZ0d2TVpuekx2Ymo3SHhDSFVLR1Jab2c4b2dxX1IyZVZGMFpZcU5jc3F2TzZ3eWZnUU5fVHJiRDJISFY1blg2SjcyR0JqSU9Zd2lfaEtSUDRxMnFIUTZNWV9RRG5Bc2pSQkJkMTJ6UHdaZjdoS2J0andWQmo1ZE5qcTBLT1JuYjczbk1vS1NycnZ3XzlUWXBZLXZFRlpWQXREeDVablE4Q1Bva1dGRGNzMFV4dDJTUURndzBLdW4waFJKRHZiQnZUdnk3S3J4Y0thSTZUME01TWlLZlQ0cjlUNm1DRTd3LXFJ?oc=5",
-        "publishedAt": "Wed, 30 Sep 2026 10:52:19 GMT",
-        "summary": "한국에너지공대, 과기정통부 ‘에너지 AX 대학원’ 선정… 6년간 190억 원 지원받아 AI 인재 양성 &nbsp;&nbsp; 스포트라이트유",
-        "outlet": "스포트라이트유",
-        "outletUrl": "https://www.spotlightuniv.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
-        "score": 25
-      },
-      {
-        "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia - Ars Technica",
+        "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia - arstechnica.com",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0hQeXM3LUdQR2xCTThQOUZETzNEWk04U25CS0VkNjlrTU15allNdTh4eGFvV1hfdVpvYXRlRk9MZnFnWUhLYTRzVjNzclZDMVgtVFBKSTRMZXZzcEVURXJwSVBTN2JjZHQ3cFNvbjdGckdiU1k5YUNmeE05RGdXR3BTUjZPcEVpOGNoUkpnMVFJNmNxZVRfc1hlU3VnZGtzREFybG5B?oc=5",
         "publishedAt": "Tue, 29 Sep 2026 21:14:49 GMT",
-        "summary": "AMD acquires World Labs AI startup, upping the ante against Nvidia &nbsp;&nbsp; Ars Technica",
-        "outlet": "Ars Technica",
+        "summary": "AMD acquires World Labs AI startup, upping the ante against Nvidia &nbsp;&nbsp; arstechnica.com",
+        "outlet": "arstechnica.com",
         "outletUrl": "https://arstechnica.com",
         "source": "AI 시장·비즈니스",
         "sourceIds": [
-          "ai-market-business",
-          "nvidia-ai"
+          "ai-market-business"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -1944,78 +1904,6 @@
         "taxonomyHits": [
           "AI시장",
           "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 25
-      },
-      {
-        "title": "Samsung is investing $1 billion in KKR and Nvidia-backed AI infrastructure firm Helix - qz.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN1QtSV9zRlVRVHhYMDl4eTQ5aVNhWG14WWk1aVZsSlQtX1IxYVNqRWF3WUs5YUNORTU3VXJGMktWcXFTYmY0am1jU1h4ZktBTzZ2SVdFSlEyRVBGRmJ2NF80RG1NSkFHbVJSc0k0dDVndWh0ZFpjV2FCNU9aNFlmWDB4cjZEWWs?oc=5",
-        "publishedAt": "Tue, 29 Sep 2026 12:35:15 GMT",
-        "summary": "Samsung is investing $1 billion in KKR and Nvidia-backed AI infrastructure firm Helix &nbsp;&nbsp; qz.com",
-        "outlet": "qz.com",
-        "outletUrl": "https://qz.com",
-        "source": "해외 정책·투자",
-        "sourceIds": [
-          "global-policy"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Samsung"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 25
-      },
-      {
-        "title": "Billionaire Money Managers Have Chosen Their 2 Favorite AI Stocks (and It's Not Nvidia or Alphabet) - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMFBEVjMyUTlsZ0g1QjRmdUt2Q0l1R3JKcld5dk5aSVQ1WEpfNzRCa25oVGFmcHFmclpUbDNGRWgycnYwSXlsRFl0Mm5tQ3JzNTk5aG14YnpRWV9XU3RhTFpyRzN0bXhPTFBBTkdkamxrSmVnS1lSYjAtVi12U2FNN3dSWTI4WHZEdERuWlBKRDd5YWJ6Rml4anZYUzJQbVI0MnN5QktVX2NIYWdEdWVFckV1TWpHd2h6elV5a1oweDBCcVdPYVB3d2JUVDlFYmNDSXRiYWxBZ3BIRllEd0VFNkd4NlFRMThiMk84Z1FkWXRKaVY1VVZsV0lKWnZ5blgzcWEyM2RpTGZKdGozN2ow?oc=5",
-        "publishedAt": "Tue, 29 Sep 2026 11:29:32 GMT",
-        "summary": "Billionaire Money Managers Have Chosen Their 2 Favorite AI Stocks (and It's Not Nvidia or Alphabet) &nbsp;&nbsp; The Globe and Mail",
-        "outlet": "The Globe and Mail",
-        "outletUrl": "https://www.theglobeandmail.com",
-        "source": "AI 투자·자본시장",
-        "sourceIds": [
-          "ai-investment-market"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "issueCategory": "AI시장",
-        "score": 25
-      },
-      {
-        "title": "Billionaire Money Managers Have Chosen Their 2 Favorite AI Stocks (and It's Not Nvidia or Alphabet) - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmxnQjA3OEdyRjhFX1J6Q1YySHl6Y1N4OHNabXJ0SWNlRjRwOGRGdTlFbXAzbmdieEJIYTBvV0NvVk9aRlNnejZidUF6ZnhpU3dwb3dBWGlpM3N2X0JMWnNKU21NY3diSDNUTjZkT0syNUNlTU5QWGk4T0x0dnk0aGVlbE9FMjQ4Tjl3UGZKaUtTUEFySjI2aUozYXVmYkRt?oc=5",
-        "publishedAt": "Tue, 29 Sep 2026 11:26:01 GMT",
-        "summary": "Billionaire Money Managers Have Chosen Their 2 Favorite AI Stocks (and It's Not Nvidia or Alphabet) &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "AI 투자·자본시장",
-        "sourceIds": [
-          "ai-investment-market"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "Google"
         ],
         "issueCategory": "AI시장",
         "score": 25
@@ -2097,6 +1985,52 @@
         "score": 25
       },
       {
+        "title": "Broadcom Chases NVIDIA With $60 Billion Financing Plan for AI Customers - Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGY4SDhLSHhXNmxKVmNMbkRqZ0Q4TnpUaVBzTF9zeHhSTklFUWdvZDZwZlRaUWNOMWhjOU9SZUF1UmlfMUlLa3U0bnpFc1FBY3lTYWkwTTUtUWVlaXBfRUsxTW55N0h3UExzY2g1eFJCR3NlU0RqMFk3VEgyanp2WHlYQWlUbzV4VDJkN0xKU052X2NwV0ZzUnIyNkJpdHQ0Wno4b0pRQk5ZR1RraXNLYkhWNmdwUkhnN3d6U1Eycjc?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 12:44:47 GMT",
+        "summary": "Broadcom Chases NVIDIA With $60 Billion Financing Plan for AI Customers &nbsp;&nbsp; Benzinga",
+        "outlet": "Benzinga",
+        "outletUrl": "https://www.benzinga.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Broadcom"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "Broadcom Is Lining Up $60 Billion to Fuel the AI Chip Race Against Nvidia - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2RtN3daVXp4dDRZSm5OQS1VMkQxajRud3RIMFZPQlYxRThDbXJSdmZYeEJrZERlZHR6ZkRUOE5ucHhIMFJXWVRUVkdNdi1jWWozeGh1MUtuaFk4MFNOMF9oOTIxbkxpc3BaQVF4NzdlQUlJSzlqUGJYU3Z0V3NsOGNPTlM0WHFKdjJxUXoweDd3M2dOZGRYWHhTc0htQnJNb2FmVk5DVGVfQmVIWWZFQzJZd05RLVJVWHlUaUt2bVhoTWYxRXd2WUdXOEw?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 12:23:41 GMT",
+        "summary": "Broadcom Is Lining Up $60 Billion to Fuel the AI Chip Race Against Nvidia &nbsp;&nbsp; TradingView",
+        "outlet": "TradingView",
+        "outletUrl": "https://www.tradingview.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Broadcom"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
         "title": "AM Markets Need to Know: Broadcom preps $60B AI debt, Google in space, and more (SPX:) - Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVpdkVfTk9CS3cwN3R0anFSSGd2WnNNZ2prOVZ3dkxUR3hKcnozLW54UTM0OXllUEhMaDE2NmVmbFlzMV83MG1tbnlScVNZWmliNFZUSE85czRjTFZEeWhyM0c4MGZsMGMyT09LNXNaNDNlYVY5NTluY251MjRjd0pvNHlPYXhMaWQ3T0NTQXZVT3dBc1IzUnJsNXhKR1luRXAyeURIMmotNm1WeExNTmhKUQ?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 10:16:41 GMT",
@@ -2115,6 +2049,29 @@
         ],
         "taxonomyHits": [
           "Google"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "Arm, 엔비디아와 에이전틱 AI 시대 위한 신뢰할 수 있는 컴퓨팅 기반 구축 - elec4",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jeW9nY21BYjNDSnhsNWJtOVh0LXNGc1RIS2E5OFBGdUhjS3gzR0VOTHFSMmJzbHE4RGhCWXVqN2t5N0hpcXh2LUdTMEkzcGRNMndweHdObk1pb3hMWXFrMzd6cXlKZ1F1QV96aC1R?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 08:23:22 GMT",
+        "summary": "Arm, 엔비디아와 에이전틱 AI 시대 위한 신뢰할 수 있는 컴퓨팅 기반 구축 &nbsp;&nbsp; elec4",
+        "outlet": "elec4",
+        "outletUrl": "https://elec4.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "Arm"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
         ],
         "issueCategory": "AI시장",
         "score": 24
@@ -2164,29 +2121,6 @@
         "score": 24
       },
       {
-        "title": "Arm, 엔비디아 에이전틱 AI 보안 플랫폼에 반도체 IP 지원 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xV0RSTUxfdmxQb3luZHBzNmZYdzJRMVR2MkE4bU54VjFJRC1RdWJvYjhUSWYxLWFFUHY5V1VRbkdHcXJxTGFtN2hyM2Q5Rmt2MFNJTDZR?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 00:45:32 GMT",
-        "summary": "Arm, 엔비디아 에이전틱 AI 보안 플랫폼에 반도체 IP 지원 &nbsp;&nbsp; 지디넷코리아",
-        "outlet": "지디넷코리아",
-        "outletUrl": "https://zdnet.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "Arm"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 24
-      },
-      {
         "title": "Arm, 엔비디아와 에이전틱 AI 보안 인프라 구축 - 테크월드",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6bjhGbVhYZHpKREhfVjdwZWVUd3Njc2p3QlRvUXpkdlhsdWN2dndZQmFXamdqM2Z5Y3lHRjNqSnhzZi1fQ0hQRTVLQWdnMW96SjFxSWR0dkVhSkUxTlRJUHlnTEdFZVJq?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 00:20:00 GMT",
@@ -2210,11 +2144,11 @@
         "score": 24
       },
       {
-        "title": "Arm, 엔비디아와 에이전틱 AI 보안 컴퓨팅 기반 구축 - 디지털데일리",
+        "title": "Arm, 엔비디아와 에이전틱 AI 보안 컴퓨팅 기반 구축 - ddaily.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkODZPREdtTmh6YmRPR2IwUl82dXJlYlEzRVJXQUhrTjZnNHdKNE4ybmEtS3N5Wmc0enBFUVRseG9DWEhqSExNMFBtN21femQ2Q0dvQmp4U1hGYzJnNzBWTXVZQlI?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 00:16:39 GMT",
-        "summary": "Arm, 엔비디아와 에이전틱 AI 보안 컴퓨팅 기반 구축 &nbsp;&nbsp; 디지털데일리",
-        "outlet": "디지털데일리",
+        "summary": "Arm, 엔비디아와 에이전틱 AI 보안 컴퓨팅 기반 구축 &nbsp;&nbsp; ddaily.co.kr",
+        "outlet": "ddaily.co.kr",
         "outletUrl": "https://www.ddaily.co.kr",
         "source": "해외 빅테크 국내 보도",
         "sourceIds": [
@@ -2233,26 +2167,43 @@
         "score": 24
       },
       {
-        "title": "AMD Doesn’t Need to Beat Nvidia to Be a Big AI Winner - 24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlZEdU4tNW40NVNla1NnbTlYeFRDNXdOcllzNndZOENsNDctSTNFR0FVTUZ3M2pNVmRXWVBjOXJtcUdXY0p4Tk9GMjJUSHZ5dGMtU2lhYkJjMjBTRVBhSG9Xd0JZWTJJNWxmYVRzUlVUUlpLaTk3eENGcnNGS2taNVgxSDQ2Q050dWxVYmVaVGVCYXBMZlpHRXFKano?oc=5",
-        "publishedAt": "Thu, 01 Oct 2026 16:00:00 GMT",
-        "summary": "AMD Doesn’t Need to Beat Nvidia to Be a Big AI Winner &nbsp;&nbsp; 24/7 Wall St.",
-        "outlet": "24/7 Wall St.",
-        "outletUrl": "https://247wallst.com",
-        "source": "NVIDIA 이슈",
+        "title": "과학기술정보통신부, 글로벌 AI 허브 입지 선정 공청회 개최 - 뉴스체인지",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rSkFST0l6dktKZm5oZlcyQm9mMWxXbHh2bnprbkhQdXNjMWV0VVptWUVKSXNWXzZYbGsxeTN5T2MtZmhtZC1uYlh5NA?oc=5",
+        "publishedAt": "Wed, 30 Sep 2026 10:53:00 GMT",
+        "summary": "과학기술정보통신부, 글로벌 AI 허브 입지 선정 공청회 개최 &nbsp;&nbsp; 뉴스체인지",
+        "outlet": "뉴스체인지",
+        "outletUrl": "http://www.newschange.co.kr",
+        "source": "NIPA·과기정통부 정책",
         "sourceIds": [
-          "nvidia-ai"
+          "nipa-msit-policy"
         ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "AMD"
-        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
         "taxonomyHits": [
-          "NVIDIA"
+          "정책"
         ],
-        "issueCategory": "AI시장",
+        "issueCategory": "정책",
+        "score": 24
+      },
+      {
+        "title": "한국에너지공대, 과기정통부 ‘에너지 AX 대학원’ 선정… 6년간 190억 원 지원받아 AI 인재 양성 - spotlightuniv.com",
+        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQbjJxbzdIYllxaUdKQzk2VHlaeUVEVGMwUjNRYXlyaF9CTGg0NW0waWxsM181aEpKcGhCYkU0dk5EVURRaFJ1TkkxakFPZDhXNHJTOW0yRzR2SlFrMnRaZ0d2TVpuekx2Ymo3SHhDSFVLR1Jab2c4b2dxX1IyZVZGMFpZcU5jc3F2TzZ3eWZnUU5fVHJiRDJISFY1blg2SjcyR0JqSU9Zd2lfaEtSUDRxMnFIUTZNWV9RRG5Bc2pSQkJkMTJ6UHdaZjdoS2J0andWQmo1ZE5qcTBLT1JuYjczbk1vS1NycnZ3XzlUWXBZLXZFRlpWQXREeDVablE4Q1Bva1dGRGNzMFV4dDJTUURndzBLdW4waFJKRHZiQnZUdnk3S3J4Y0thSTZUME01TWlLZlQ0cjlUNm1DRTd3LXFJ?oc=5",
+        "publishedAt": "Wed, 30 Sep 2026 10:52:19 GMT",
+        "summary": "한국에너지공대, 과기정통부 ‘에너지 AX 대학원’ 선정… 6년간 190억 원 지원받아 AI 인재 양성 &nbsp;&nbsp; spotlightuniv.com",
+        "outlet": "spotlightuniv.com",
+        "outletUrl": "https://www.spotlightuniv.com",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "정책",
         "score": 24
       },
       {
@@ -2537,47 +2488,51 @@
         "score": 24
       },
       {
-        "title": "Ping Identity Launches Identity Agents on Google Cloud Marketplace - Ping Identity",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGRnVFJFWXU4RVlZOEFYQUVhdW5fRmxpcDRwSTl4TzZJb1Q5WUZmaDdtbDY1dVl3YUxDTHNDNWxUNi04aGp3d1pRZmdpc0xBSm1vMU9Db0Jka3FvUE1FN1BHR2FfdzR2TnI4Sm1MY253ZDM1dkVaYy16Z0JRMy1qRmgzdG1xODdHTTJOZ2drQ2ZmdXBheXp0UU9PMmp3dWlIak03b25ZUm1XcjZ0?oc=5",
-        "publishedAt": "Tue, 29 Sep 2026 13:04:36 GMT",
-        "summary": "Ping Identity Launches Identity Agents on Google Cloud Marketplace &nbsp;&nbsp; Ping Identity",
-        "outlet": "Ping Identity",
-        "outletUrl": "https://press.pingidentity.com",
-        "source": "Google AI 이슈",
+        "title": "Billionaire Money Managers Have Chosen Their 2 Favorite AI Stocks (and It's Not Nvidia or Alphabet) - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMFBEVjMyUTlsZ0g1QjRmdUt2Q0l1R3JKcld5dk5aSVQ1WEpfNzRCa25oVGFmcHFmclpUbDNGRWgycnYwSXlsRFl0Mm5tQ3JzNTk5aG14YnpRWV9XU3RhTFpyRzN0bXhPTFBBTkdkamxrSmVnS1lSYjAtVi12U2FNN3dSWTI4WHZEdERuWlBKRDd5YWJ6Rml4anZYUzJQbVI0MnN5QktVX2NIYWdEdWVFckV1TWpHd2h6elV5a1oweDBCcVdPYVB3d2JUVDlFYmNDSXRiYWxBZ3BIRllEd0VFNkd4NlFRMThiMk84Z1FkWXRKaVY1VVZsV0lKWnZ5blgzcWEyM2RpTGZKdGozN2ow?oc=5",
+        "publishedAt": "Tue, 29 Sep 2026 11:29:32 GMT",
+        "summary": "Billionaire Money Managers Have Chosen Their 2 Favorite AI Stocks (and It's Not Nvidia or Alphabet) &nbsp;&nbsp; The Globe and Mail",
+        "outlet": "The Globe and Mail",
+        "outletUrl": "https://www.theglobeandmail.com",
+        "source": "AI 투자·자본시장",
         "sourceIds": [
-          "google-ai"
+          "ai-investment-market"
         ],
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
+          "NVIDIA",
           "Google"
         ],
         "taxonomyHits": [
-          "AI에이전트",
-          "AI인프라",
+          "NVIDIA",
           "Google"
         ],
         "issueCategory": "AI시장",
         "score": 24
       },
       {
-        "title": "홍진배 IITP 원장 \"AI중심대학·AX대학원서 파괴적 혁신 인재 나와야\" - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxY1U0STQtb1JpU1JMbUQ4TW1OcFZ0UTdFTWd6T1VJV1VmODhBUk5IVHVMNmhidWNnYWxDbHM5NUxiVlRQajdYY3c2dmRaWDhpR19qZ2Zn?oc=5",
-        "publishedAt": "Tue, 29 Sep 2026 11:10:11 GMT",
-        "summary": "홍진배 IITP 원장 \"AI중심대학·AX대학원서 파괴적 혁신 인재 나와야\" &nbsp;&nbsp; 지디넷코리아",
-        "outlet": "지디넷코리아",
-        "outletUrl": "https://zdnet.co.kr",
-        "source": "NIPA·과기정통부 정책",
+        "title": "Billionaire Money Managers Have Chosen Their 2 Favorite AI Stocks (and It's Not Nvidia or Alphabet) - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmxnQjA3OEdyRjhFX1J6Q1YySHl6Y1N4OHNabXJ0SWNlRjRwOGRGdTlFbXAzbmdieEJIYTBvV0NvVk9aRlNnejZidUF6ZnhpU3dwb3dBWGlpM3N2X0JMWnNKU21NY3diSDNUTjZkT0syNUNlTU5QWGk4T0x0dnk0aGVlbE9FMjQ4Tjl3UGZKaUtTUEFySjI2aUozYXVmYkRt?oc=5",
+        "publishedAt": "Tue, 29 Sep 2026 11:26:01 GMT",
+        "summary": "Billionaire Money Managers Have Chosen Their 2 Favorite AI Stocks (and It's Not Nvidia or Alphabet) &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
+        "source": "AI 투자·자본시장",
         "sourceIds": [
-          "nipa-msit-policy"
+          "ai-investment-market"
         ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google"
+        ],
         "taxonomyHits": [
-          "정책"
+          "NVIDIA",
+          "Google"
         ],
-        "issueCategory": "",
+        "issueCategory": "AI시장",
         "score": 24
       },
       {
@@ -2659,7 +2614,8 @@
         "outletUrl": "https://www.mt.co.kr",
         "source": "과기정통부 AI반도체",
         "sourceIds": [
-          "msit-ai-chip"
+          "msit-ai-chip",
+          "government-npu-policy"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -2717,6 +2673,29 @@
         "score": 24
       },
       {
+        "title": "토종 NPU에 ‘국가대표 AI’ 모델 구동...NIPA, 올해 실증 나선다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyMzlETGtEMkFhMmFvUS1ybElpQ3djSWU2Y2JmR1RDaU9jS3BRTjF0TDJuR2lDYURyaGs0cy0tUUlpRXNqLUJPRzhWT0h2LU0?oc=5",
+        "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+        "summary": "토종 NPU에 ‘국가대표 AI’ 모델 구동...NIPA, 올해 실증 나선다 &nbsp;&nbsp; v.daum.net",
+        "outlet": "v.daum.net",
+        "outletUrl": "https://v.daum.net",
+        "source": "NIPA AI반도체",
+        "sourceIds": [
+          "nipa-ai-chip",
+          "public-regional-npu-demand"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "NPU",
+          "실증·조달"
+        ],
+        "issueCategory": "NPU",
+        "score": 24
+      },
+      {
         "title": "토종 NPU에 '국가대표 AI' 모델 구동…NIPA, 올해 실증 나선다 - 네이트",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XdjFhRXFoOEJobVp0Z1hTUkFtVEdNbzVURF9GZFNOS3o4WkR1ek1yVWxYS3JiR2NwdGdQQzNYem5RSmhlTTJ0anhvY3B2MUFCX2Nj?oc=5",
         "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
@@ -2740,33 +2719,11 @@
         "score": 24
       },
       {
-        "title": "토종 NPU에 ‘국가대표 AI’ 모델 구동...NIPA, 올해 실증 나선다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyMzlETGtEMkFhMmFvUS1ybElpQ3djSWU2Y2JmR1RDaU9jS3BRTjF0TDJuR2lDYURyaGs0cy0tUUlpRXNqLUJPRzhWT0h2LU0?oc=5",
-        "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
-        "summary": "토종 NPU에 ‘국가대표 AI’ 모델 구동...NIPA, 올해 실증 나선다 &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
-        "source": "공공·지역기관 NPU 수요",
-        "sourceIds": [
-          "public-regional-npu-demand"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "NPU",
-          "실증·조달"
-        ],
-        "issueCategory": "NPU",
-        "score": 24
-      },
-      {
-        "title": "유원지리정보시스템, '2025 AIoT 국제전시회'에서 AI반도체 응용실증지원사업으로 개발·실증한 결과물 선봬 - 전자신문",
+        "title": "유원지리정보시스템, '2025 AIoT 국제전시회'에서 AI반도체 응용실증지원사업으로 개발·실증한 결과물 선봬 - etnews.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qMUtkOGZEX3czUWJ6b0FsS0h4cVp1SVBRRHUxVjV1QWpZRGxVUG0wMm9nTXNzN3VyT1pTQjBONF90QXc3SEtaSV9TTGFQQQ?oc=5",
         "publishedAt": "Tue, 25 Nov 2025 08:00:00 GMT",
-        "summary": "유원지리정보시스템, '2025 AIoT 국제전시회'에서 AI반도체 응용실증지원사업으로 개발·실증한 결과물 선봬 &nbsp;&nbsp; 전자신문",
-        "outlet": "전자신문",
+        "summary": "유원지리정보시스템, '2025 AIoT 국제전시회'에서 AI반도체 응용실증지원사업으로 개발·실증한 결과물 선봬 &nbsp;&nbsp; etnews.com",
+        "outlet": "etnews.com",
         "outletUrl": "https://www.etnews.com",
         "source": "공공·지역기관 NPU 수요",
         "sourceIds": [
@@ -2784,11 +2741,11 @@
         "score": 24
       },
       {
-        "title": "유원지리정보시스템, 'AI반도체 응용실증지원사업'으로 개발한 실증 시제품...기재부 간담회서 시연 - 전자신문",
+        "title": "유원지리정보시스템, 'AI반도체 응용실증지원사업'으로 개발한 실증 시제품...기재부 간담회서 시연 - etnews.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HaHFtS0NuUHJWUGhqVG1GcW1IUEZqMGl2SFl5VkcxN3JCTmhRN2piTHpmNnhhQ1ZxLTFVRXZfb1FTTDRpa2lGUGdYYW5TZw?oc=5",
         "publishedAt": "Tue, 23 Sep 2025 07:00:00 GMT",
-        "summary": "유원지리정보시스템, 'AI반도체 응용실증지원사업'으로 개발한 실증 시제품...기재부 간담회서 시연 &nbsp;&nbsp; 전자신문",
-        "outlet": "전자신문",
+        "summary": "유원지리정보시스템, 'AI반도체 응용실증지원사업'으로 개발한 실증 시제품...기재부 간담회서 시연 &nbsp;&nbsp; etnews.com",
+        "outlet": "etnews.com",
         "outletUrl": "https://www.etnews.com",
         "source": "공공·지역기관 NPU 수요",
         "sourceIds": [
@@ -2806,15 +2763,38 @@
         "score": 24
       },
       {
-        "title": "Amazon Eyes $8 Billion Nvidia Chip Sale to Investors as AI Infrastructure Costs Surge: Report - Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPak55NnNvT2FUeHlBVV8zOTNDSzdwbFNmX3JORDJTNkRsZzlQUUJZQzR4WUFIMkV4dk9oaHNTNGFlY2FhOC1GY3d1bHU4b2s4b2t0Vm9RLWhzaU50VGhUVldsSHU4YmdaYk9VZUlzVW9QVnZHd0owQVNyLWJjWnYwa25ZT0Y0MGRSM2tNYk9fOGRjRmZLLTVYODg5UVJhNDNxT0V5eXQ0V2NWSDRjMUlqM3pDSF9nNEFwT1E2N0dITWVEVTZ3d3drcy01OV9kR1Qzb0laRzg3MWVPdTNn?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 10:00:40 GMT",
-        "summary": "Amazon Eyes $8 Billion Nvidia Chip Sale to Investors as AI Infrastructure Costs Surge: Report &nbsp;&nbsp; Benzinga",
-        "outlet": "Benzinga",
-        "outletUrl": "https://www.benzinga.com",
-        "source": "NVIDIA 이슈",
+        "title": "구글, ‘우주 데이터센터’ 첫 궤도 실험…TPU 위성 발사 성공 - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tUDhfRHZtb1FRQkh4bFZKSVJ3MHlmX1k1emN2Rl9id1c1blkwbG5ZYnF2aTNYbWhVZmthTElQaHlzV1pwVGdIUzNOcHRRd3FGb1dLcVRManphVWJ2ZXdmWHp6SktCSzQ?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 13:55:00 GMT",
+        "summary": "구글, ‘우주 데이터센터’ 첫 궤도 실험…TPU 위성 발사 성공 &nbsp;&nbsp; 연합뉴스TV",
+        "outlet": "연합뉴스TV",
+        "outletUrl": "https://www.yonhapnewstv.co.kr",
+        "source": "해외 빅테크 국내 보도",
         "sourceIds": [
-          "nvidia-ai"
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "Google"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 23
+      },
+      {
+        "title": "CoreWeave (CRWV) Stock Rallies As Nvidia Ties Deepen And AI Cloud Backlog Soars - StocksToTrade",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10bTF2RmhWaDNJN0tVLXJIdTZEdzNGbnRqR2xSZzFtdWdDNFZzb2w0Z25adGI2R2czMEVoaEtVUTdNWWtsamRndVhabUJCSVB2V0xKYk1pMktYcF9MTzdpMTFuc3ZsZER2SkV3MVZuLVlOYTUw?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 13:18:00 GMT",
+        "summary": "CoreWeave (CRWV) Stock Rallies As Nvidia Ties Deepen And AI Cloud Backlog Soars &nbsp;&nbsp; StocksToTrade",
+        "outlet": "StocksToTrade",
+        "outletUrl": "https://stockstotrade.com",
+        "source": "AI 서비스·클라우드",
+        "sourceIds": [
+          "ai-agents-cloud"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -2825,7 +2805,263 @@
           "AI인프라",
           "NVIDIA"
         ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "California tech executive arrested for allegedly smuggling $300M in Nvidia AI chips to China - qz.com",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OdG03bTRxOTA0RWtNN1ZXMTJSYlREMlF0X0JXajF6MXRuMzlndGdadlBFQ0RMLWVTdGhnSFFwV29XcW5USVhyd0FPeDhja0hpOVFvT0tGMWlvemI4bXFFeGdhaHhqUFBiSG5zUFZBbktjclA4ZkFnV0tKOWg?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 13:06:18 GMT",
+        "summary": "California tech executive arrested for allegedly smuggling $300M in Nvidia AI chips to China &nbsp;&nbsp; qz.com",
+        "outlet": "qz.com",
+        "outletUrl": "https://qz.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "수출통제·공급망",
+        "score": 23
+      },
+      {
+        "title": "[구글, 우주 데이터센터 야심 공개…\"스타쉽 1,800회 발사돼야\"] 일론 머스크는 2029년에 시간당 비행률을 달성할 수 있다고 제안했지만, 머스크는 많은 말을 한다는 평가가 - AI넷",
+        "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5BdlpOS29QUHZlQ080WFQwQ0JpemVyZWpDN2xpaUo2Z2JZbDFhd1N3TGNVOTd2QTZCZDMtMFQyT3Y?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 13:02:50 GMT",
+        "summary": "[구글, 우주 데이터센터 야심 공개…\"스타쉽 1,800회 발사돼야\"] 일론 머스크는 2029년에 시간당 비행률을 달성할 수 있다고 제안했지만, 머스크는 많은 말을 한다는 평가가 &nbsp;&nbsp; AI넷",
+        "outlet": "AI넷",
+        "outletUrl": "http://www.ainet.link",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "Google"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 23
+      },
+      {
+        "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse — new GB10 config starts at $4999 for those who can work with less - Tom's Hardware",
+        "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNNFhTNUhxdDVQdjd4T3kwZUZfUWQwWDZ6V0NOSXhySzN3bmdsOFo1QUpqNWV4R1Q3VzFCZXpLMVYxZk1wYXJwUFl3cmFlbzBOWGdfRmhaOUdVM3JSQ1hBcWQtY1hjbVhIWHdXUkxMU1NIWWNvMHo1aXdwUXVYRmt5YXhRcFJPNUQ2aW5nNjhoLWRPWS0yVmp2NV9YcExOTTJiMnZ2TWRNaW5PNjEtZVppdmRKYkoydDZqS1VxZTg0R09tSERDUW4zY3k3NWdMb0tNcTBBVFZmLW1nUHRWS212dHlZNlVGSHdQcHRYQWRnSmd6RjZXWEtqU1VERGM1Q1hpREZTN3pCRkVaRG5menN6ak8wdmhyYnlkZFFidTFOWmRDZUMtU1ZtbmY4TQ?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 13:00:00 GMT",
+        "summary": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse — new GB10 config starts at $4999 for those who can work with less &nbsp;&nbsp; Tom's Hardware",
+        "outlet": "Tom's Hardware",
+        "outletUrl": "https://www.tomshardware.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "실증·조달"
+        ],
+        "issueCategory": "실증·조달",
+        "score": 23
+      },
+      {
+        "title": "구글, 우주 데이터센터 연구의 일환으로 궤도에서 AI 칩 시험 - IndexBox",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTRuWlNYNFNpUWtpeEgxRHVoMXFlLTVHcGNvQTdUQ1NtR2hvOGVhVV95dnpVakp6ZW1DcEZ5OGVOeG9aSTlqTU1xYmwtZ3VMSTZkTjBPQThUZHRwUVpudV9JSy1SUnZNN2V1YWxzbWs4Tk1sWHpvbDFtZkMwSXotY3Z1WEJ4YS10aE5GR2NPR3ctUmVCMnRhWmtpcDVxMEZvelRz?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 12:54:27 GMT",
+        "summary": "구글, 우주 데이터센터 연구의 일환으로 궤도에서 AI 칩 시험 &nbsp;&nbsp; IndexBox",
+        "outlet": "IndexBox",
+        "outletUrl": "https://www.indexbox.io",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "Google"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 23
+      },
+      {
+        "title": "Google Launches Project Suncatcher Prototype Satellite To Test AI Infrastructure In Space - Pulse 2.0",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1hqNFVGOVA5eEFPVnQwSGlZdEFXbHlmaU92VDFWWElSOXY0bzRXVjFhMElWbDVZdWN4RnZVWXhSeFZMOTV0QVA0alFUTzk1WEE1V05wN1UtMlE5cXgydi1pd0pTcVhoejdLTVR1S1JBcms4WTlEUzBLOVlNb1pkeEFtQlQzeW1VRnJQQVk2VXB4T29YdDgybFhiV1VxaHJzbzlXTEN4TEJGTkJVWmfSAbMBQVVfeXFMUC1TLS1OWEpsWXdrNjgyVmxKVG9lNENnZTRyazVQejJkQkVaaU52bk1VSjlkMlRrR29oX2RQMjA2TXJGUGdpNkNrS0hYc3JTVHh3cUVoVEwxUzA4ZHVna2UyLUJheG5MdFFHaFdkMzdHa1VWS1lnRzFfbk96Wk91MVZfYkU0YzNIN3lBRDV2TUVWSmFYQ2QzZjJjYnhlRHEtU2ZVTFhibzhXTHVaN2taRU5reTQ?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 12:44:32 GMT",
+        "summary": "Google Launches Project Suncatcher Prototype Satellite To Test AI Infrastructure In Space &nbsp;&nbsp; Pulse 2.0",
+        "outlet": "Pulse 2.0",
+        "outletUrl": "https://pulse2.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google"
+        ],
         "issueCategory": "AI인프라",
+        "score": 23
+      },
+      {
+        "title": "Google Takes Stunning First Step Toward Putting AI Data Centers In Space - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMVFnQnhOM1hwUlBwQVZXRjE4MGlYN2xPRV9DZjI4RVZDZnhqbDBSUkpqcXhCS24xdGM5ME1DODZIaUtlSDhtbWpXZ0hsOFhELWlKdDdVVE1LdEdjRS1leE8yU2Nub25YNkp4UG5faEVUdG4yR0lQSTVua0lXdVo1b2NSMU1nZ3A4OHAxcDVncUZyTER2S3lweHIwMFdXSjhYREZvUmZxLVRXU0FqQ1hwcVNQanZJUEwtdFgtMUx1ZmltZkdFRkZpR2RVUGc?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 12:44:05 GMT",
+        "summary": "Google Takes Stunning First Step Toward Putting AI Data Centers In Space &nbsp;&nbsp; TradingView",
+        "outlet": "TradingView",
+        "outletUrl": "https://www.tradingview.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "Google"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 23
+      },
+      {
+        "title": "Amazon Takes Drastic Step To Finance Nvidia Chips Amid AI Spending Boom - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUmNlZ0Fja2g0NDRRQ1ZDZnNsWFU3THpzcU9LMC1vdFF3bnp0UmdwOE9LZzkwRXh0UkJPT1FaZ1JtSXhjQndEU29BeXJObnBPS0NWRDFWa0c0aGFrMnJmcWtNT1ZHWHlza3huUmdYZmw2ZXdJdVdTYzYzT2tQSlliWlg5SjliaDJnUDM2bzM4REo2ZjhQTUtZNFlVOTV4QQ?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 12:36:22 GMT",
+        "summary": "Amazon Takes Drastic Step To Finance Nvidia Chips Amid AI Spending Boom &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
+        "source": "AI 시장 전체",
+        "sourceIds": [
+          "ai-market-global"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "국산 AI반도체, 한전 변전소서 실전 검증···리벨리온 NPU 투입 - 이뉴스투데이",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YTWxMNEpSXzZVT3B6YWVqWnAzRHNDcFliRE9xZS1QZ0FBeHhGSUF5WTAyRkYzX3hiS05XdHpMVnpuU0FNLWVrYW5MRm41X0VtR1REMHFFODY4WHdxQV9jSUczRGVMV0xfX2tPS1J4V3DSAXRBVV95cUxQUTZWSGxqTDV3MU40Vy1EOU82Wk9taFAtbThqR0dBdklPMWpvRGgxd0hUQkVZaWlNRF9ydzhHamxNZFJHUHh5MWdaNkdmSnhxbVNMcE45bnJDUlp3Y3NzdVozNDk0WmFKc2FFX3B4NVh3ZXVqbQ?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 12:29:22 GMT",
+        "summary": "국산 AI반도체, 한전 변전소서 실전 검증···리벨리온 NPU 투입 &nbsp;&nbsp; 이뉴스투데이",
+        "outlet": "이뉴스투데이",
+        "outletUrl": "http://www.enewstoday.co.kr",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "rebellions",
+          "msit-ai-chip",
+          "ai-chip-public-program"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "리벨리온"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "리벨리온"
+        ],
+        "issueCategory": "NPU",
+        "score": 23
+      },
+      {
+        "title": "Alphabet Cloud Forecast Raised as Piper Sandler Models $104 Billion in 2028 TPU Sales - Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmNDQzh4Y0tleGZYQ1FDYnNpWFE1TTZTZkVLTmpVS3l5YTNKUUpsSV9ZNW5zM3BJX3pPQ3NIOENWenFXTS14Y2hQdDNwRnExMFUtcl8wSVVUZUdqSHlxQllLSWxsVkJsX3BJdlEzWlVXWHl6VkN2dzBiYmRWd0hKa2RkY0p5Q3hQOHQ4WGt3?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 11:59:00 GMT",
+        "summary": "Alphabet Cloud Forecast Raised as Piper Sandler Models $104 Billion in 2028 TPU Sales &nbsp;&nbsp; Yahoo Finance UK",
+        "outlet": "Yahoo Finance UK",
+        "outletUrl": "https://uk.finance.yahoo.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "Cisco expands secure AI factory with NVIDIA for the rack-scale era - TahawulTech.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzVyNTBWT3BWMHBsOU1TcExjYWE2cDRXVWpIdE11dWkwTFRENU15eFVxUkxjcTlXMXNJTmZ3OE5nRHB4MjEtWmtMM1RUdWlHeXdMRjE0RXZxVERxeWM4eEh5SGhTczdYdFIteWlJX1E4OTlzQ3F1ckoyNENwX2E3S0NuR2dna1VQT0NGRVdzLWtWbHZGZGhNdDVNc3VpTUN1OEZxdHZR?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 11:47:08 GMT",
+        "summary": "Cisco expands secure AI factory with NVIDIA for the rack-scale era &nbsp;&nbsp; TahawulTech.com",
+        "outlet": "TahawulTech.com",
+        "outletUrl": "https://www.tahawultech.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "NVIDIA"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 23
+      },
+      {
+        "title": "Could the future of AI data centres be in space? Google wants to find out - Euronews.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVm9ydk1abFRpYnd2OEhGZ2tOYXM1Tm5hWUFSS1JUdzRWNThGdFQyRWpMZWhERTl1MGRLNnhDZnM2MjdOMlozVHQ3MmRzN3drVTVTYmRUMkNrX3pxMWt2ZTNNZWs0M2J5aHNpZi1vUW52YlBFTlB6RFR3N1A0SElKaFpNY2V6VlhyX0tIYTRDM1pwV1ktMExNbFk3cFcwaWQ5S1M1UmhTenVUZ1BB?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 10:19:48 GMT",
+        "summary": "Could the future of AI data centres be in space? Google wants to find out &nbsp;&nbsp; Euronews.com",
+        "outlet": "Euronews.com",
+        "outletUrl": "https://www.euronews.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "Google"
+        ],
+        "issueCategory": "데이터센터",
         "score": 23
       },
       {
@@ -2898,11 +3134,11 @@
         "score": 23
       },
       {
-        "title": "Traysar and Armada partner to deploy underground AI infrastructure - ET Datacenters",
+        "title": "Traysar and Armada partner to deploy underground AI infrastructure - datacenters.economictimes.indiatimes.com",
         "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPa3hQQl8yQkpuR3JpMG5hRll3ZG5MV051dk1YZHZBWDNRRmlIaXdNMWc3U2N3bUVPbGJVZzd3QXRoVVNHYW5sUlU4eVNnRVRDcmY4Sm1VVGJHM3FpMTRaQy1fMzJucndrNFpBdU9vSm9UUWxkYldNeGJUMEhMQW9teDdQbEgtY0V6eWhzRC1rMmpxSEt5anVQVzlfSktSMDUxRl9wcU00dHBYOTRsdG5nOFdtRVhZUUhhUHRGM2lvNVRDcWdGOFdkcW9RdmxOa1RqOUtvLWUyR2pmYXBUZnl5ek9aa1NxUEM2UklNQzJVZTNycHlJREF5UXZxbHJfY0NId0JOb0t0YUhzWG15N21fQkpqVnhxMzNvVW1YdFFkZkpnd9IB8AFBVV95cUxOQlZWSGRJRjJtWlBGNG1wUFl4eXBTb1NKdXlQYzNySzd1YlJJVGs4THZIQ2h5a0p1ZHZMWlZLZC04a3NTZHJsY3UwNjJCeVVKb01WWWZTNFpNRkJrTUJ6Zi03OHR4Zm9tdnRRMU5idmFqRDJYTTQwaGN6Yks4NGMxV1luck1IMTJQMW00aC00bkxTRlEzcDlNRG5hLTRYa05zYjdxdU04N2h5R0hYTG5RTzdFaXVCVkNoNnpHeUs3Z2R2Y05EdUtQc3czN2tZTFJzS3VSM0JzUWtmRFl3eGE3Qk5QMjFIYjJ4QURMSTAwN2I?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 07:48:30 GMT",
-        "summary": "Traysar and Armada partner to deploy underground AI infrastructure &nbsp;&nbsp; ET Datacenters",
-        "outlet": "ET Datacenters",
+        "summary": "Traysar and Armada partner to deploy underground AI infrastructure &nbsp;&nbsp; datacenters.economictimes.indiatimes.com",
+        "outlet": "datacenters.economictimes.indiatimes.com",
         "outletUrl": "https://datacenters.economictimes.indiatimes.com",
         "source": "해외 정책·투자",
         "sourceIds": [
@@ -3134,10 +3370,12 @@
         "summary": "한전 변전소에 리벨리온 NPU…‘K-Perf’ 첫 실전 검증 &nbsp;&nbsp; edaily.co.kr",
         "outlet": "edaily.co.kr",
         "outletUrl": "https://www.edaily.co.kr",
-        "source": "리벨리온",
+        "source": "국내 NPU 기업",
         "sourceIds": [
+          "korea-npu",
           "rebellions",
-          "ai-chip-public-program"
+          "ai-chip-public-program",
+          "government-npu-policy"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -3198,12 +3436,12 @@
         "score": 23
       },
       {
-        "title": "구글 AI칩 우주로 쐈다…‘우주 데이터센터’ 첫 실험 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NTUd6OXFmXzlMUTMyUnI5S1paRzNWTm5xWEFSb1NpZC1vR05qbDVIdHNjUzJlOUx6aU1uUGFDY01EcWJ4RFNXXzVDMTEwdlU?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 05:57:03 GMT",
-        "summary": "구글 AI칩 우주로 쐈다…‘우주 데이터센터’ 첫 실험 &nbsp;&nbsp; v.daum.net",
-        "outlet": "v.daum.net",
-        "outletUrl": "https://v.daum.net",
+        "title": "구글 AI칩 우주로 쐈다…‘우주 데이터센터’ 첫 실험 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uUmd4R21TazdmRzFkNlhlV253VEtQQkl3eVlIbF91RVhad0hpRUlJeF9tWk5CVDFzYTlnWXhWVVFheTRuTGEwVnVDUklEQQ?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 05:55:26 GMT",
+        "summary": "구글 AI칩 우주로 쐈다…‘우주 데이터센터’ 첫 실험 &nbsp;&nbsp; 매일경제",
+        "outlet": "매일경제",
+        "outletUrl": "https://www.mk.co.kr",
         "source": "해외 빅테크 국내 보도",
         "sourceIds": [
           "korea-global-ai-companies"
@@ -3218,6 +3456,29 @@
           "Google"
         ],
         "issueCategory": "데이터센터",
+        "score": 23
+      },
+      {
+        "title": "Watch Nvidia's AI Chips Reach China Despite US Curbs - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEhuUTQ0UEJYeTZZQkFmRHI5b1ZtcUk2Q3R1T3VQUHE0cURra01walpBUFZ6RGhHTG9KRzFpX3g5cWNEODZNVHV1dENzVzc1bE4yc3pWMFVKTFZFSWY5UTNPaU10ZlJWR0Q0dkZobFBPYUoxYmZYdVF4STlrZnpCNElxSGJSd1MzZ3N4U1ByV1dldU1DaTNRT1lRZzh6ZWl4b0lr?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 05:49:42 GMT",
+        "summary": "Watch Nvidia's AI Chips Reach China Despite US Curbs &nbsp;&nbsp; Bloomberg.com",
+        "outlet": "Bloomberg.com",
+        "outletUrl": "https://www.bloomberg.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "수출통제·공급망",
         "score": 23
       },
       {
@@ -3317,11 +3578,11 @@
         "score": 23
       },
       {
-        "title": "Hundreds of Thousands of Nvidia AI Chips Smuggled Into China Via Asia - businesskorea.co.kr",
+        "title": "Bazillion Nvidia AI Chips Smuggled Into China Via Asia - Businesskorea",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ybl9WTEJEU0lQaU9sUGwtQ09GRDZlYy1OV2d3LUdrVGIxU1NMX3BjbW10SVByNHlnYUZRTC0wZ05idm5iRlZPTHpkOEd6S3NGejlVcC1yNFhFY2I5S21BV2NCSE4wMWRNdjY4X2tYeERaQUdq?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 04:02:20 GMT",
-        "summary": "Hundreds of Thousands of Nvidia AI Chips Smuggled Into China Via Asia &nbsp;&nbsp; businesskorea.co.kr",
-        "outlet": "businesskorea.co.kr",
+        "summary": "Bazillion Nvidia AI Chips Smuggled Into China Via Asia &nbsp;&nbsp; Businesskorea",
+        "outlet": "Businesskorea",
         "outletUrl": "https://www.businesskorea.co.kr",
         "source": "NVIDIA 이슈",
         "sourceIds": [
@@ -3363,11 +3624,11 @@
         "score": 23
       },
       {
-        "title": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손 - 전자신문",
+        "title": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손 - etnews.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tRmd2SVN1VjdHT19hMlhBVFdub0pVdVhEOG0yYTBwd3pacldVM2tVRWVCMEd0U05peHdLZVktSWRsbFgwOTItY0tOMDBpZw?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 03:00:00 GMT",
-        "summary": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손 &nbsp;&nbsp; 전자신문",
-        "outlet": "전자신문",
+        "summary": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손 &nbsp;&nbsp; etnews.com",
+        "outlet": "etnews.com",
         "outletUrl": "https://www.etnews.com",
         "source": "리벨리온",
         "sourceIds": [
@@ -3385,29 +3646,6 @@
           "리벨리온"
         ],
         "issueCategory": "NPU",
-        "score": 23
-      },
-      {
-        "title": "Google Launches Project Suncatcher, Sends AI Processors to Space for Testing - Nacionale",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0xjU0ZySmhLOHlqQ0ZpMlQ5S2Fud1UyYlJhVFZUSEg3MlpQRW9MMFhVRnRuSEJXOFMxWlZHT09faUwzaEZxMjZ3YWpDcUNQWmY0YXhqU2lSeHhEbEtGYWM4Zk13ZUdTWDNsZUt6ZGl4S2tCMjBJZ3p4UFIwWDlfV1ZIaUtZTFBwdEN2enYwRTV2aFRpa2YwMXcxeDlGLTZhUWx4UkdzeXY4V2dya2c?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 02:55:00 GMT",
-        "summary": "Google Launches Project Suncatcher, Sends AI Processors to Space for Testing &nbsp;&nbsp; Nacionale",
-        "outlet": "Nacionale",
-        "outletUrl": "https://nacionale.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "파운드리·패키징",
         "score": 23
       },
       {
@@ -3503,11 +3741,11 @@
         "score": 23
       },
       {
-        "title": "우주로 간 인공지능…구글, 우주데이터센터 시험위성 첫 발사 - 한겨레",
+        "title": "우주로 간 인공지능…구글, 우주데이터센터 시험위성 첫 발사 - hani.co.kr",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41ZkNINGZNeEdhaFpZVVp6d3lKc3NELTdnRW16Z2VuWVpmZ3FoUDR1TzQzQVlaRW5UcFYwSXhYNU96Vm5JUDBqYTR6SlNyd2VvRGJYUjVqME5STGE2TGdpbzFJWllhMmxYcDVB?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 01:27:00 GMT",
-        "summary": "우주로 간 인공지능…구글, 우주데이터센터 시험위성 첫 발사 &nbsp;&nbsp; 한겨레",
-        "outlet": "한겨레",
+        "summary": "우주로 간 인공지능…구글, 우주데이터센터 시험위성 첫 발사 &nbsp;&nbsp; hani.co.kr",
+        "outlet": "hani.co.kr",
         "outletUrl": "https://www.hani.co.kr",
         "source": "해외 빅테크 국내 보도",
         "sourceIds": [
@@ -3596,52 +3834,6 @@
         "score": 23
       },
       {
-        "title": "구글 TPU 위성 발사…\"우주 데이터센터엔 스타십 1,800회 필요\" - AI 매터스",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PbzRVRjJ5ZVFrOGJrekRpUFNhc1VUX3R4ZmNOVUo1OFp4cVR4MEJnRDlWeXNhc0F2Zm8yQXBYY1FWV1NUZGdSZnhxZUthTzRBN081Vw?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 00:41:52 GMT",
-        "summary": "구글 TPU 위성 발사…\"우주 데이터센터엔 스타십 1,800회 필요\" &nbsp;&nbsp; AI 매터스",
-        "outlet": "AI 매터스",
-        "outletUrl": "https://aimatters.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "데이터센터",
-          "Google"
-        ],
-        "issueCategory": "데이터센터",
-        "score": 23
-      },
-      {
-        "title": "Watch Nvidia's AI Chips Reach China Despite US Curbs - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEhuUTQ0UEJYeTZZQkFmRHI5b1ZtcUk2Q3R1T3VQUHE0cURra01walpBUFZ6RGhHTG9KRzFpX3g5cWNEODZNVHV1dENzVzc1bE4yc3pWMFVKTFZFSWY5UTNPaU10ZlJWR0Q0dkZobFBPYUoxYmZYdVF4STlrZnpCNElxSGJSd1MzZ3N4U1ByV1dldU1DaTNRT1lRZzh6ZWl4b0lr?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 00:00:00 GMT",
-        "summary": "Watch Nvidia's AI Chips Reach China Despite US Curbs &nbsp;&nbsp; Bloomberg.com",
-        "outlet": "Bloomberg.com",
-        "outletUrl": "https://www.bloomberg.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "수출통제·공급망"
-        ],
-        "issueCategory": "수출통제·공급망",
-        "score": 23
-      },
-      {
         "title": "Google testing AI chips for possible data centers in space - KGW",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYkZjRFZiYXc3dmZ4cERndFFBSndBbWxVU2dnVVFGbWlDaVpPVEctMUp2TU0zRHYyOGtwblNoU0NON2dNVTluMmI3RHNocUhxeUpUaV9oNWtHN3NITko2LTl6YXMtQlVTN2pDRmoycEpmWnFndEFuUE1vcFg2VklOUFkzQmJfeHoyZnVUV2dJamdlRGZFZzJuRzJvVnpGZ0VmQ0taZ1NVUGF0b0hvVjg1bzFvX0ZISHhwcUNrQUhZQmgyYnpkLTk5Qzdsa3FfVWFEVWRZWGpJbw?oc=5",
         "publishedAt": "Thu, 01 Oct 2026 23:42:00 GMT",
@@ -3662,6 +3854,29 @@
           "Google"
         ],
         "issueCategory": "데이터센터",
+        "score": 23
+      },
+      {
+        "title": "Stocktwits AI Roundup: Micron’s Blowout Quarter, Nvidia’s $150B Buyback And The Race For AI Agents - Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ0ExdVZhVHdUY0dBN0pvVzcyQVhDVlN3U180UWNldU9NenNLcVo3U2I3ejQwZjRNQlNiMjF5Yndmbm5WZzluSmRpd2dOUjIyTTFmcm5zX1J6VUtqVUdpdFRaSWc2NXJhd0JYWms0eThVeHNtZHR4RmlTcUtSeElVdkFmS3NjeTZRb0ZxRlctLVZuTjNkWmhBRzZSSUxOR0QzQmR4eTUtdWo1NUowNmg0NVpvem9aNER6UEltWXFKRThPemdDdmR3UUZXMm9KMW5VUVVLSjkzY1NGZ3JCZXBhVUEtemcweEh4eU9mR0pRLVZJQQ?oc=5",
+        "publishedAt": "Thu, 01 Oct 2026 23:23:07 GMT",
+        "summary": "Stocktwits AI Roundup: Micron’s Blowout Quarter, Nvidia’s $150B Buyback And The Race For AI Agents &nbsp;&nbsp; Stocktwits",
+        "outlet": "Stocktwits",
+        "outletUrl": "https://stocktwits.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
         "score": 23
       },
       {
@@ -3757,12 +3972,12 @@
         "score": 23
       },
       {
-        "title": "Nvidia (NVDA) Stock Gets Fair Value Boost As AI Demand And Analyst Views Shift - Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlc5NlBsMjlQLVVaSzh1d0JXbmxDTk1LeVNhcVRDNTNZdWlNVjVPVXgySW1TenlOOERUSjZmVzFXN2hHMUJnSzBFVXNpRWRMdXAtZGFfTzVRajF3dzBUQ05zR2tuYjNST1JDcHc3Vk1PTkcyQldlOFhfR0Jpc0swbjdB?oc=5",
+        "title": "Nvidia (NVDA) Stock Gets Fair Value Boost As AI Demand And Analyst Views Shift - Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTV5TWVUX3QzUkhmRU9mZFlKaEt6UDA4dTBkYzlvVThiTHpxV3haeVROdjh2SGFlQ29aRXU1cXRFSkJqaWFlMTFuMU5FaHlaUVBieV9sZ3BWWjZnQTd0azNOSW9DUldOTnBNcVo3eU1MMFNGeEh3VHlnYXVyNFMzUDdB?oc=5",
         "publishedAt": "Thu, 01 Oct 2026 22:05:50 GMT",
-        "summary": "Nvidia (NVDA) Stock Gets Fair Value Boost As AI Demand And Analyst Views Shift &nbsp;&nbsp; Yahoo! Finance Canada",
-        "outlet": "Yahoo! Finance Canada",
-        "outletUrl": "https://ca.finance.yahoo.com",
+        "summary": "Nvidia (NVDA) Stock Gets Fair Value Boost As AI Demand And Analyst Views Shift &nbsp;&nbsp; Yahoo Finance UK",
+        "outlet": "Yahoo Finance UK",
+        "outletUrl": "https://uk.finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -3803,121 +4018,6 @@
         "score": 23
       },
       {
-        "title": "Palantir and Armada Partner to Accelerate Sovereign AI Infrastructure - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVdzVkg3cXYxZ1dOdExaRnFZM005MURIcUo2ZC1Tek1sUkdoZ2N6YmktYkVLR3V5REtSdGpTdF9hLUFaYjFOZGotb1JScG5Nb0ZaXzFPdHE3TDRNRFByMlRYTHhEbHdJZTVwRmp2MVBsNzRtV3Z0YklaQTkzQktIMk4yNWFfVC1EY1phak1oWkdMSWw4SzhBYkNYNWJhOTVWc2dkamM0VS1LY2tv?oc=5",
-        "publishedAt": "Thu, 01 Oct 2026 22:00:00 GMT",
-        "summary": "Palantir and Armada Partner to Accelerate Sovereign AI Infrastructure &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "해외 정책·투자",
-        "sourceIds": [
-          "global-policy"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Arm"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "수출통제·공급망"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "구글, 우주 데이터센터 첫 궤도 실험…TPU 실은 위성 발사 성공 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhQ1lhbU4tN1dGdDJnSWhtOHpuMV9seDhEcldmOUpObS1IdlhMbEljdTg0UFUzYldBTUJPbVdZNWJ4aXRaTVZJU1VzLXd0Wmg4akdYR2tuUFB3Yk3SAWBBVV95cUxPeHVmODlOdzdNLWV3aVRPbDY2UVJpeTVITVRwWXpma0tJZV9pNDFKSFE1YmhfTUJrZ1poT1p3dEgxNWlGbUtzeUtxWjM1QTZ0Y0JZbzdOM0x6ZjhQc2hWMUc?oc=5",
-        "publishedAt": "Thu, 01 Oct 2026 21:40:58 GMT",
-        "summary": "구글, 우주 데이터센터 첫 궤도 실험…TPU 실은 위성 발사 성공 &nbsp;&nbsp; 연합뉴스",
-        "outlet": "연합뉴스",
-        "outletUrl": "https://www.yna.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "데이터센터",
-          "Google"
-        ],
-        "issueCategory": "데이터센터",
-        "score": 23
-      },
-      {
-        "title": "Michael Burry Warns Nvidia, AI Infrastructure Expansion Mirroring 1960s Computer Leasing Bubble - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXNNbkVTUHcwdkF0WVJ2QWI5QlVKVkZFXzN2d0pkYWlGb1RLWC1jLTVNTUxSTVRaYmotaFhXdTdEdUxWOGMxczRCZUswTS1lYTVNZ1ota21mMWxnbHZJSUJET3ZOSWtGLTZFNkp2aUphSXg1X2JTLW5LNERHWmgyTFBQMmZNaE9lRHUyMGVWWmx2d1liLVI2dg?oc=5",
-        "publishedAt": "Thu, 01 Oct 2026 21:37:00 GMT",
-        "summary": "Michael Burry Warns Nvidia, AI Infrastructure Expansion Mirroring 1960s Computer Leasing Bubble &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 23
-      },
-      {
-        "title": "Michael Burry Warns Nvidia, AI Infrastructure Expansion Mirroring 1960s Computer Leasing Bubble - stocktwits.com",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaHF1cmkzcG5pcTVHalU2YmtaMFlLc0VKd21EaVhOVlhqNlpfSU9FaWtRXzNNY3l0bDJIUlotMzB2Nl9YX0JjWFlwRl9JYnJKaGE0YlJPaWoxZGJ2SnlmMDNhSWxjM1k1c2xwZjl1RW0zNUJDc2gyXzlBanZBV3E0bXlqenRUM2otM25NcWFSd3FhV3lwSmtQUkN4Sk40MTBlSjJ2SU55WUpySmpzOW9vVllzYXpRVmtWaGVYVTFFRGYyT0NOZVhpZVhWNk1aWTloMFRIYXItWUVIc3Y3c1VEbk94ZFFCNHFaMmhkMkg1RQ?oc=5",
-        "publishedAt": "Thu, 01 Oct 2026 21:37:00 GMT",
-        "summary": "Michael Burry Warns Nvidia, AI Infrastructure Expansion Mirroring 1960s Computer Leasing Bubble &nbsp;&nbsp; stocktwits.com",
-        "outlet": "stocktwits.com",
-        "outletUrl": "https://stocktwits.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "구글, AI 칩 탑재 위성 궤도 발사…`우주 데이터센터` 첫 시험 - 디지털데일리",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WX0J5ZDRBZ3h4OTExQkhiWGdodFdFY0ZSS1gweFdfYndIVmI0cl9vdlp2TlZWa01PekFIZk5lWWs2c05kNEFMVFBWYWd3ME0wQzliaEFlaEQxcjJvcEJROU5ocTg?oc=5",
-        "publishedAt": "Thu, 01 Oct 2026 21:06:00 GMT",
-        "summary": "구글, AI 칩 탑재 위성 궤도 발사…`우주 데이터센터` 첫 시험 &nbsp;&nbsp; 디지털데일리",
-        "outlet": "디지털데일리",
-        "outletUrl": "https://www.ddaily.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "데이터센터",
-          "Google"
-        ],
-        "issueCategory": "데이터센터",
-        "score": 23
-      },
-      {
         "title": "과기정통부, 서울대 ‘AI 반도체 혁신연구소’ 개소…석·박사 110명 양성 목표 - 헤럴드경제",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uNERPVFdRVHlPUFhzRnZVbnBKMm1iMzcxdzlfSXZid2pWOVpBWS1ObTk3cGk2Y1JuNFJSNGh3NS1aZWh2ckROV002cWtMZUhmV2g5R1N3?oc=5",
         "publishedAt": "Tue, 29 Sep 2026 01:30:00 GMT",
@@ -3938,6 +4038,55 @@
         ],
         "issueCategory": "",
         "score": 23
+      },
+      {
+        "title": "'국산 AI 반도체' 리벨리온-딥엑스, 공공기관 수의계약·조달 채널 확보 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81TzdEbGp5NG0yS3lhdlZ4Y0tCNjJtRjRneFFpdzNhNVVjU0o1VXBDajc4cWJjRlh3T2Zvc20wUkU0TmxpeTRsOHBHYncyd2x6UHloRndR?oc=5",
+        "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
+        "summary": "'국산 AI 반도체' 리벨리온-딥엑스, 공공기관 수의계약·조달 채널 확보 &nbsp;&nbsp; 지디넷코리아",
+        "outlet": "지디넷코리아",
+        "outletUrl": "https://zdnet.co.kr",
+        "source": "리벨리온",
+        "sourceIds": [
+          "rebellions",
+          "deepx",
+          "government-npu-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "리벨리온",
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "리벨리온",
+          "딥엑스",
+          "실증·조달"
+        ],
+        "issueCategory": "NPU",
+        "score": 22
+      },
+      {
+        "title": "\"국산 AI 반도체 키운다\"···과기정통부·AMD 협력 본격화 - 헬로디디",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rNVJaZkxLYks0T1lmbmVFWW1mR0dFaTZYdUs2S20yZmF2U0N6RWQ3aVBlc1c3ejRMeEhCY0x0Rk43QmZLVHdHeVliTVBYMFgtOGktVHl5Z0F6Q1hLcm51N3BKZmRFV0ZrcUE?oc=5",
+        "publishedAt": "Tue, 28 Jul 2026 07:00:00 GMT",
+        "summary": "\"국산 AI 반도체 키운다\"···과기정통부·AMD 협력 본격화 &nbsp;&nbsp; 헬로디디",
+        "outlet": "헬로디디",
+        "outletUrl": "https://www.hellodd.com",
+        "source": "정부 NPU 정책·예산",
+        "sourceIds": [
+          "government-npu-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "AI시장",
+        "score": 22
       },
       {
         "title": "리사 수 AMD 회장, 7개월 만에 다시 인천행 비행기… 국산 NPU 지켜보는 속내는? - ER 이코노믹리뷰",
@@ -3962,149 +4111,6 @@
           "K-엔비디아"
         ],
         "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "'국산 AI 반도체' 리벨리온-딥엑스, 공공기관 수의계약·조달 채널 확보 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81TzdEbGp5NG0yS3lhdlZ4Y0tCNjJtRjRneFFpdzNhNVVjU0o1VXBDajc4cWJjRlh3T2Zvc20wUkU0TmxpeTRsOHBHYncyd2x6UHloRndR?oc=5",
-        "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-        "summary": "'국산 AI 반도체' 리벨리온-딥엑스, 공공기관 수의계약·조달 채널 확보 &nbsp;&nbsp; 지디넷코리아",
-        "outlet": "지디넷코리아",
-        "outletUrl": "https://zdnet.co.kr",
-        "source": "리벨리온",
-        "sourceIds": [
-          "rebellions",
-          "deepx",
-          "ai-chip-public-program",
-          "government-npu-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온",
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "리벨리온",
-          "딥엑스",
-          "실증·조달"
-        ],
-        "issueCategory": "NPU",
-        "score": 22
-      },
-      {
-        "title": "서울대, AI반도체 석·박사 110명 키운다...LG전자·퓨리오사AI도 참여 - 산학뉴스",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96aXhmelotZnB3VG9ZUEp3R0hzeGkyX0JOT2UtQWxsckcydnFTNk1XNzhlZWowdkJGaVVwNFQ2RHo5T2E1Si1zRGdhRENzT0pIZUFiTDRSZS1sQXRlejBLOUVPT21SOWhZLW9N?oc=5",
-        "publishedAt": "Wed, 30 Sep 2026 04:18:30 GMT",
-        "summary": "서울대, AI반도체 석·박사 110명 키운다...LG전자·퓨리오사AI도 참여 &nbsp;&nbsp; 산학뉴스",
-        "outlet": "산학뉴스",
-        "outletUrl": "https://www.sanhaknews.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "furiosa",
-          "nipa-msit-policy",
-          "ai-chip-public-program",
-          "government-npu-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 21
-      },
-      {
-        "title": "과기정통부, NPU 탑재 공공 CCTV 고도화…AI로 위험 탐지 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CSjBXQzZjOE9PYk9LX3N2eERPNWExYmRpb2UwM2lIN2tpbGxBTS14WTJRMFB2RFVkcnBxZUVjcjU4MGdBZmxnZlpsSFNJdw?oc=5",
-        "publishedAt": "Tue, 28 Jul 2026 07:00:00 GMT",
-        "summary": "과기정통부, NPU 탑재 공공 CCTV 고도화…AI로 위험 탐지 &nbsp;&nbsp; 전자신문",
-        "outlet": "전자신문",
-        "outletUrl": "https://www.etnews.com",
-        "source": "지자체 NPU 정책·사업",
-        "sourceIds": [
-          "local-government-npu"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "NPU"
-        ],
-        "issueCategory": "NPU",
-        "score": 21
-      },
-      {
-        "title": "브레인웍스, AI 반도체 해외 실증 지원사업 주관사 선정 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vQXJUVHJ2YzVpdXR5V181Z1djZFh5RG9zUjhZVnhOZ0taczVEbGVUUng5TlVLOHVJWkpWbXQwdWhFQVFPWGUxbWd3TjctUGNVcnZzNGNOb1RGcTFDRWNkTmRmck1RLWpBQlNLd9IBckFVX3lxTE1NNFBDdXY3eTFCNVJkZ1hIZE1uWEhtakVyQkFQX0tQLV9qZUxiWjh6OUYwbHJQM1dfRk5BQV9aMTh1OGRqcnpVbWR0ejlCV3piZUZmNHNpcHQ1RXg2WWdwd2NJTUFhU2NRZmV4NjlrSnRPdw?oc=5",
-        "publishedAt": "Wed, 27 May 2026 07:00:00 GMT",
-        "summary": "브레인웍스, AI 반도체 해외 실증 지원사업 주관사 선정 - 머니투데이 &nbsp;&nbsp; 머니투데이",
-        "outlet": "머니투데이",
-        "outletUrl": "https://www.mt.co.kr",
-        "source": "공공·지역기관 NPU 수요",
-        "sourceIds": [
-          "public-regional-npu-demand"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "실증·조달"
-        ],
-        "issueCategory": "정책",
-        "score": 21
-      },
-      {
-        "title": "누리인포스, 정보통신산업진흥원 ‘AI-반도체 해외실증 지원사업’ 주관사 선정 - 비욘드포스트",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KVUpJYS1zNFpnQVJDemhYWjFQT01BN2F0MlZkMmJnalFyR1RpM1VELXlCR0FVbnhjdlJPQkp6Wk9YQnZ3dE80MEhLYVc0cU9EbWtDVHVEX1R3SG9teW51ZmJ2QnZ1REZ5S1hwTm91TUM3WENGU3FZRzNxSzI?oc=5",
-        "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "누리인포스, 정보통신산업진흥원 ‘AI-반도체 해외실증 지원사업’ 주관사 선정 &nbsp;&nbsp; 비욘드포스트",
-        "outlet": "비욘드포스트",
-        "outletUrl": "https://www.beyondpost.co.kr",
-        "source": "공공·지역기관 NPU 수요",
-        "sourceIds": [
-          "public-regional-npu-demand"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "실증·조달"
-        ],
-        "issueCategory": "정책",
-        "score": 21
-      },
-      {
-        "title": "베슬AI-리벨리온, 국산 NPU 클라우드 기술력 입증한다…피지컬 AI 공략 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iLTVYcW56Q3RCbmZvZGF0TVNQNjRGVXJSM1BONS10WFZJVzB0ZkRuWWxwUFpZS2IxMTZJbW9NRUZKdWFOOHczelJVOXFwR1NLekJpWHJn?oc=5",
-        "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
-        "summary": "베슬AI-리벨리온, 국산 NPU 클라우드 기술력 입증한다…피지컬 AI 공략 &nbsp;&nbsp; 지디넷코리아",
-        "outlet": "지디넷코리아",
-        "outletUrl": "https://zdnet.co.kr",
-        "source": "지자체 NPU 정책·사업",
-        "sourceIds": [
-          "local-government-npu"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NPU",
-          "K-엔비디아",
-          "리벨리온"
-        ],
-        "issueCategory": "NPU",
         "score": 21
       }
     ],
@@ -4116,11 +4122,11 @@
         "symbol": "NVDA",
         "name": "NVIDIA",
         "market": "US",
-        "price": 230.86,
+        "price": 236.535,
         "currency": "USD",
-        "changePct": 6.171817512877123,
-        "previousClose": 217.44,
-        "marketTime": "2026-10-01T20:00:01.000Z",
+        "changePct": 5.403056904772514,
+        "previousClose": 224.41,
+        "marketTime": "2026-10-02T14:08:03.000Z",
         "closes": [
           224.41000366210938,
           228.4499969482422,
@@ -4142,7 +4148,8 @@
           228.86000061035156,
           227.2100067138672,
           228.3800048828125,
-          230.86000061035156
+          230.86000061035156,
+          236.53500366210938
         ],
         "candles": [
           {
@@ -4291,6 +4298,13 @@
             "high": 232.2899932861328,
             "low": 228.16000366210938,
             "close": 230.86000061035156
+          },
+          {
+            "date": "2026-10-02T13:30:00.000Z",
+            "open": 236.05499267578125,
+            "high": 237.8699951171875,
+            "low": 234.52999877929688,
+            "close": 236.53500366210938
           }
         ]
       },
@@ -4298,11 +4312,11 @@
         "symbol": "GOOGL",
         "name": "Alphabet",
         "market": "US",
-        "price": 338.24,
+        "price": 344.3,
         "currency": "USD",
-        "changePct": 0.9611366485583032,
-        "previousClose": 335.02,
-        "marketTime": "2026-10-01T20:00:01.000Z",
+        "changePct": 2.1298054105363096,
+        "previousClose": 337.12,
+        "marketTime": "2026-10-02T14:08:03.000Z",
         "closes": [
           337.1199951171875,
           342.4800109863281,
@@ -4324,7 +4338,8 @@
           342.75,
           340.9200134277344,
           344.0799865722656,
-          338.239990234375
+          338.239990234375,
+          344.29998779296875
         ],
         "candles": [
           {
@@ -4473,6 +4488,13 @@
             "high": 353.2200012207031,
             "low": 335.510009765625,
             "close": 338.239990234375
+          },
+          {
+            "date": "2026-10-02T13:30:00.000Z",
+            "open": 341.31500244140625,
+            "high": 345.0899963378906,
+            "low": 341.1600036621094,
+            "close": 344.29998779296875
           }
         ]
       },
@@ -4480,11 +4502,11 @@
         "symbol": "AMD",
         "name": "AMD",
         "market": "US",
-        "price": 615.73,
+        "price": 638,
         "currency": "USD",
-        "changePct": 33.967929331389655,
-        "previousClose": 459.61,
-        "marketTime": "2026-10-01T20:00:01.000Z",
+        "changePct": 39.58780028880234,
+        "previousClose": 457.06,
+        "marketTime": "2026-10-02T14:08:03.000Z",
         "closes": [
           457.05999755859375,
           456.1600036621094,
@@ -4506,7 +4528,8 @@
           607.8699951171875,
           607.5700073242188,
           611.760009765625,
-          615.72998046875
+          615.72998046875,
+          638
         ],
         "candles": [
           {
@@ -4655,6 +4678,13 @@
             "high": 619.2999877929688,
             "low": 601.5,
             "close": 615.72998046875
+          },
+          {
+            "date": "2026-10-02T13:30:00.000Z",
+            "open": 636.4500122070312,
+            "high": 642.7772827148438,
+            "low": 630.760009765625,
+            "close": 638
           }
         ]
       },
@@ -4662,11 +4692,11 @@
         "symbol": "AVGO",
         "name": "Broadcom",
         "market": "US",
-        "price": 343.64,
+        "price": 353.88,
         "currency": "USD",
-        "changePct": -7.043929885306216,
-        "previousClose": 369.68,
-        "marketTime": "2026-10-01T20:00:01.000Z",
+        "changePct": -3.6379479359546925,
+        "previousClose": 367.24,
+        "marketTime": "2026-10-02T14:08:02.000Z",
         "closes": [
           367.239990234375,
           357.1600036621094,
@@ -4688,7 +4718,8 @@
           349.57000732421875,
           355.1000061035156,
           351.19000244140625,
-          343.6400146484375
+          343.6400146484375,
+          353.8800048828125
         ],
         "candles": [
           {
@@ -4837,6 +4868,13 @@
             "high": 354.45001220703125,
             "low": 343.2900085449219,
             "close": 343.6400146484375
+          },
+          {
+            "date": "2026-10-02T13:30:00.000Z",
+            "open": 349.9800109863281,
+            "high": 354.79998779296875,
+            "low": 347.41571044921875,
+            "close": 353.8800048828125
           }
         ]
       },
@@ -4844,11 +4882,11 @@
         "symbol": "TSM",
         "name": "TSMC ADR",
         "market": "US",
-        "price": 459.2,
+        "price": 469.71,
         "currency": "USD",
-        "changePct": 10.917874396135263,
-        "previousClose": 414,
-        "marketTime": "2026-10-01T20:00:02.000Z",
+        "changePct": 13.046931407942234,
+        "previousClose": 415.5,
+        "marketTime": "2026-10-02T14:08:03.000Z",
         "closes": [
           415.5,
           417.010009765625,
@@ -4870,7 +4908,8 @@
           452.8800048828125,
           456.94000244140625,
           456.19000244140625,
-          459.20001220703125
+          459.20001220703125,
+          469.7099914550781
         ],
         "candles": [
           {
@@ -5019,6 +5058,13 @@
             "high": 460.4200134277344,
             "low": 453.4599914550781,
             "close": 459.20001220703125
+          },
+          {
+            "date": "2026-10-02T13:30:00.000Z",
+            "open": 465.6400146484375,
+            "high": 472,
+            "low": 464.1000061035156,
+            "close": 469.7099914550781
           }
         ]
       },
@@ -5026,11 +5072,11 @@
         "symbol": "ARM",
         "name": "Arm",
         "market": "US",
-        "price": 292.34,
+        "price": 311.8,
         "currency": "USD",
-        "changePct": 24.495358146665524,
-        "previousClose": 234.82,
-        "marketTime": "2026-10-01T20:00:01.000Z",
+        "changePct": 32.75994209316188,
+        "previousClose": 234.86,
+        "marketTime": "2026-10-02T14:08:01.000Z",
         "closes": [
           234.86000061035156,
           242.58999633789062,
@@ -5052,7 +5098,8 @@
           283.3299865722656,
           293.6700134277344,
           289.6600036621094,
-          292.3399963378906
+          292.3399963378906,
+          311.79998779296875
         ],
         "candles": [
           {
@@ -5201,6 +5248,13 @@
             "high": 297.1400146484375,
             "low": 287.5,
             "close": 292.3399963378906
+          },
+          {
+            "date": "2026-10-02T13:30:00.000Z",
+            "open": 306.7749938964844,
+            "high": 313.4798889160156,
+            "low": 303.1199951171875,
+            "close": 311.79998779296875
           }
         ]
       },
@@ -5208,11 +5262,11 @@
         "symbol": "MU",
         "name": "Micron",
         "market": "US",
-        "price": 1097.39,
+        "price": 1092.24,
         "currency": "USD",
-        "changePct": 17.564064106959208,
-        "previousClose": 933.44,
-        "marketTime": "2026-10-01T20:00:01.000Z",
+        "changePct": 14.24148606811145,
+        "previousClose": 956.08,
+        "marketTime": "2026-10-02T14:08:02.000Z",
         "closes": [
           956.0800170898438,
           958.1599731445312,
@@ -5234,7 +5288,8 @@
           1053.97998046875,
           1065.0799560546875,
           1065.1099853515625,
-          1097.3900146484375
+          1097.3900146484375,
+          1092.239990234375
         ],
         "candles": [
           {
@@ -5383,6 +5438,13 @@
             "high": 1098.9000244140625,
             "low": 1022.9000244140625,
             "close": 1097.3900146484375
+          },
+          {
+            "date": "2026-10-02T13:30:00.000Z",
+            "open": 1107.449951171875,
+            "high": 1107.864990234375,
+            "low": 1082.3699951171875,
+            "close": 1092.239990234375
           }
         ]
       },
@@ -5390,11 +5452,11 @@
         "symbol": "SMCI",
         "name": "Supermicro",
         "market": "US",
-        "price": 41.92,
+        "price": 43.945,
         "currency": "USD",
-        "changePct": 14.192318169436122,
-        "previousClose": 36.71,
-        "marketTime": "2026-10-01T20:00:00.000Z",
+        "changePct": 18.77027027027027,
+        "previousClose": 37,
+        "marketTime": "2026-10-02T14:08:03.000Z",
         "closes": [
           37,
           37.869998931884766,
@@ -5416,7 +5478,8 @@
           41.779998779296875,
           41.02000045776367,
           41.06999969482422,
-          41.91999816894531
+          41.91999816894531,
+          43.945499420166016
         ],
         "candles": [
           {
@@ -5565,6 +5628,13 @@
             "high": 42.02000045776367,
             "low": 40.130001068115234,
             "close": 41.91999816894531
+          },
+          {
+            "date": "2026-10-02T13:30:00.000Z",
+            "open": 42.775001525878906,
+            "high": 44.380001068115234,
+            "low": 42.279998779296875,
+            "close": 43.945499420166016
           }
         ]
       },
@@ -5937,11 +6007,11 @@
       {
         "symbol": "^IXIC",
         "name": "Nasdaq Composite",
-        "price": 26871.596,
+        "price": 27298.87,
         "currency": "USD",
-        "changePct": 2.9572137992020653,
-        "previousClose": 26099.77,
-        "marketTime": "2026-10-01T21:15:59.000Z",
+        "changePct": 4.123300822379263,
+        "previousClose": 26217.83,
+        "marketTime": "2026-10-02T14:08:03.000Z",
         "closes": [
           26217.830078125,
           26584.060546875,
@@ -5963,7 +6033,8 @@
           26820.380859375,
           26797.5390625,
           26861.060546875,
-          26871.599609375
+          26871.599609375,
+          27298.869140625
         ],
         "candles": [
           {
@@ -6112,17 +6183,24 @@
             "high": 27014.470703125,
             "low": 26733.890625,
             "close": 26871.599609375
+          },
+          {
+            "date": "2026-10-02T13:30:00.000Z",
+            "open": 27216.90625,
+            "high": 27326.28515625,
+            "low": 27172.287109375,
+            "close": 27298.869140625
           }
         ]
       },
       {
         "symbol": "^SOX",
         "name": "PHLX Semiconductor",
-        "price": 12829,
+        "price": 13229.623,
         "currency": "USD",
-        "changePct": 13.645524116786737,
-        "previousClose": 11288.61,
-        "marketTime": "2026-10-01T21:15:59.000Z",
+        "changePct": 16.671058491522807,
+        "previousClose": 11339.25,
+        "marketTime": "2026-10-02T14:08:03.000Z",
         "closes": [
           11339.25,
           11352.1298828125,
@@ -6144,7 +6222,8 @@
           12465.240234375,
           12629.16015625,
           12628.6201171875,
-          12829
+          12829,
+          13229.623046875
         ],
         "candles": [
           {
@@ -6293,17 +6372,24 @@
             "high": 12913.400390625,
             "low": 12587.33984375,
             "close": 12829
+          },
+          {
+            "date": "2026-10-02T13:30:00.000Z",
+            "open": 13130.7587890625,
+            "high": 13269.1123046875,
+            "low": 13082.005859375,
+            "close": 13229.623046875
           }
         ]
       },
       {
         "symbol": "^GSPC",
         "name": "S&P 500",
-        "price": 7666.45,
+        "price": 7740.58,
         "currency": "USD",
-        "changePct": 0.4583651642475114,
-        "previousClose": 7631.47,
-        "marketTime": "2026-10-01T20:35:37.000Z",
+        "changePct": 0.9649649127383659,
+        "previousClose": 7666.6,
+        "marketTime": "2026-10-02T14:08:02.000Z",
         "closes": [
           7666.60009765625,
           7747.7099609375,
@@ -6325,7 +6411,8 @@
           7683.68994140625,
           7670.83984375,
           7651.5400390625,
-          7666.4501953125
+          7666.4501953125,
+          7740.580078125
         ],
         "candles": [
           {
@@ -6474,6 +6561,13 @@
             "high": 7684.75,
             "low": 7616.77978515625,
             "close": 7666.4501953125
+          },
+          {
+            "date": "2026-10-02T13:30:00.000Z",
+            "open": 7726.240234375,
+            "high": 7750.080078125,
+            "low": 7720.14013671875,
+            "close": 7740.580078125
           }
         ]
       },
@@ -6484,7 +6578,7 @@
         "currency": "KRW",
         "changePct": 6.720079479240308,
         "previousClose": 6562.72,
-        "marketTime": "2026-10-02T06:30:40.000Z",
+        "marketTime": "2026-10-02T11:05:40.000Z",
         "closes": [
           6562.72021484375,
           6579.47998046875,
@@ -6665,7 +6759,7 @@
         "currency": "KRW",
         "changePct": 11.108485285703617,
         "previousClose": 803.98,
-        "marketTime": "2026-10-02T06:32:50.000Z",
+        "marketTime": "2026-10-02T11:05:40.000Z",
         "closes": [
           803.97998046875,
           790.2100219726562,
@@ -6840,14 +6934,14 @@
         ]
       }
     ],
-    "generatedAt": "2026-10-02T10:27:21.479Z"
+    "generatedAt": "2026-10-02T14:08:04.232Z"
   },
   "briefing": {
     "date": "2026년 10월 2일 금요일",
     "summary": [
       "오늘의 최상위 이슈: 과기정통부, 서울대에 AI반도체 혁신연구소 개소… LG전자·퓨리오사AI 등 참여 - 조선비즈 - Chosunbiz",
-      "강한 기술·시장 신호: NPU 44, AI인프라 19, 데이터센터 27, 온디바이스AI 1, 추론 1",
-      "주요 기업 신호: 리벨리온 22, 퓨리오사AI 11, 딥엑스 9, 모빌린트 4, 하이퍼엑셀 0"
+      "강한 기술·시장 신호: NPU 45, AI인프라 15, 데이터센터 29, 온디바이스AI 1, 추론 1",
+      "주요 기업 신호: 리벨리온 24, 퓨리오사AI 11, 딥엑스 10, 모빌린트 4, 하이퍼엑셀 0"
     ],
     "leadArticles": [
       {
@@ -6879,15 +6973,14 @@
         "score": 33
       },
       {
-        "title": "퓨리오사AI·리벨리온 출격… 엔비디아 독주에 도전하는 한국 NPU - pinpointnews.co.kr",
+        "title": "퓨리오사AI·리벨리온 출격… 엔비디아 독주에 도전하는 한국 NPU - 핀포인트뉴스",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tdDZTZWdKT2x1R0xCdGpnU2hkcTMxVjhweWQzczhwWEh4UmtfVEI0NHlEUlpncG9HeVM1ZlBCdzktRktvMFd5dHlRVVdValBUVWFDSjlJYUlWcEZUV3ZhY3JzWXEzdEZrUi1UX01hNGpjQmvSAXdBVV95cUxQQW11SlFsc2dJQm82c0pWMlEzNEZoTjIzTlFCdU1lVE9LTnRVdVhwR2tCb2RKelJmbmJhd3RwbUE4RDJSSllESEhBdlNSNGMwUWVlSlR0VGxJTlJfYm9DSXVnWkx0TVNwTWI5MkxfTXBkcjRjLWZTRQ?oc=5",
         "publishedAt": "Sat, 26 Sep 2026 22:46:34 GMT",
-        "summary": "퓨리오사AI·리벨리온 출격… 엔비디아 독주에 도전하는 한국 NPU &nbsp;&nbsp; pinpointnews.co.kr",
-        "outlet": "pinpointnews.co.kr",
+        "summary": "퓨리오사AI·리벨리온 출격… 엔비디아 독주에 도전하는 한국 NPU &nbsp;&nbsp; 핀포인트뉴스",
+        "outlet": "핀포인트뉴스",
         "outletUrl": "https://www.pinpointnews.co.kr",
-        "source": "국내 NPU 기업",
+        "source": "리벨리온",
         "sourceIds": [
-          "korea-npu",
           "rebellions",
           "furiosa"
         ],
@@ -6934,6 +7027,37 @@
           "리벨리온",
           "퓨리오사AI",
           "딥엑스"
+        ],
+        "issueCategory": "NPU",
+        "score": 32
+      },
+      {
+        "title": "국산 AI반도체 3사 나란히 혁신제품 지정…리벨리온·퓨리오사에이아이·딥엑스 공공시장 진입 시작 - 조달경제신문",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hdnZrYWlrYjFtUTNIWTRXRWVKdFAxQUp3YW12ZDE0WXRaMTNQWXFrdnFPZ3ZnNGFzemdvd1dwQ1MzWWhvcXp0RWMxS3ZsNmNqZElUTnFyYnJIaDBmOHhVZ2d0YTdsRWEyaVI0WkZB?oc=5",
+        "publishedAt": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "summary": "국산 AI반도체 3사 나란히 혁신제품 지정…리벨리온·퓨리오사에이아이·딥엑스 공공시장 진입 시작 &nbsp;&nbsp; 조달경제신문",
+        "outlet": "조달경제신문",
+        "outletUrl": "https://www.jodaleconomy.com",
+        "source": "퓨리오사AI",
+        "sourceIds": [
+          "furiosa",
+          "deepx",
+          "msit-ai-chip",
+          "government-npu-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "리벨리온",
+          "퓨리오사AI",
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "리벨리온",
+          "퓨리오사AI",
+          "딥엑스",
+          "실증·조달"
         ],
         "issueCategory": "NPU",
         "score": 32
@@ -6987,11 +7111,11 @@
         "score": 31
       },
       {
-        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - etoday.co.kr",
+        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - 이투데이",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KeGVSMXRwLVBJWVJOWjR0SjRoV0hwVS1OTU1xZ3R4bFozdVdrbVY2cGtqU2pLOG4yMElfaEhXQjBfaEhOZ2pzTEZIR2s4QkM4VzJEbA?oc=5",
         "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; etoday.co.kr",
-        "outlet": "etoday.co.kr",
+        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; 이투데이",
+        "outlet": "이투데이",
         "outletUrl": "https://www.etoday.co.kr",
         "source": "딥엑스",
         "sourceIds": [
@@ -7039,11 +7163,11 @@
         "score": 29
       },
       {
-        "title": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 - 전자신문",
+        "title": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 - etnews.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kV2lHT1FQMk5lZGVaMXhNTC1zZzExSUdObGhZNVFyNDBwWlVIYnZCQ0RjM2N1SWJielU4b3NKQU9xWW5MdjY1RE42NHdPZw?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 03:23:41 GMT",
-        "summary": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 &nbsp;&nbsp; 전자신문",
-        "outlet": "전자신문",
+        "summary": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 &nbsp;&nbsp; etnews.com",
+        "outlet": "etnews.com",
         "outletUrl": "https://www.etnews.com",
         "source": "리벨리온",
         "sourceIds": [
@@ -7091,42 +7215,21 @@
         ],
         "issueCategory": "NPU",
         "score": 29
-      },
-      {
-        "title": "과기정통부, AI 서비스 개발 프로젝트 8일까지 모집 - 비건뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXTk5aVG02blNiTEtTbzJZQldRenBDM2JVUmVNMkNRX0dKVk81cW5VYVltMFVZeG41emtlTVgzVU1PNVlVM3QzTDZQaW4wV2NZbzFhc01tMnotc3J2VElMQ3BNLTl6Zw?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 01:22:41 GMT",
-        "summary": "과기정통부, AI 서비스 개발 프로젝트 8일까지 모집 &nbsp;&nbsp; 비건뉴스",
-        "outlet": "비건뉴스",
-        "outletUrl": "https://www.vegannews.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "AI시장"
-        ],
-        "issueCategory": "AI시장",
-        "score": 29
       }
     ],
     "signals": {
       "technologies": [
         [
           "NPU",
-          44
+          45
         ],
         [
           "AI인프라",
-          19
+          15
         ],
         [
           "데이터센터",
-          27
+          29
         ],
         [
           "온디바이스AI",
@@ -7138,17 +7241,17 @@
         ],
         [
           "AI에이전트",
-          6
+          5
         ],
         [
           "파운드리·패키징",
-          2
+          1
         ]
       ],
       "companies": [
         [
           "리벨리온",
-          22
+          24
         ],
         [
           "퓨리오사AI",
@@ -7156,7 +7259,7 @@
         ],
         [
           "딥엑스",
-          9
+          10
         ],
         [
           "모빌린트",
@@ -7172,23 +7275,23 @@
         ],
         [
           "Google",
-          32
+          34
         ],
         [
           "Arm",
-          11
+          8
         ],
         [
           "AMD",
           6
         ],
         [
-          "Samsung",
-          2
+          "Broadcom",
+          4
         ],
         [
-          "Broadcom",
-          2
+          "Samsung",
+          1
         ],
         [
           "TSMC",
@@ -7287,19 +7390,19 @@
         ],
         [
           "NPU",
-          40
+          41
         ],
         [
           "정책",
-          32
+          30
         ],
         [
           "국내 기사",
-          146
+          143
         ],
         [
           "해외 기사",
-          34
+          37
         ]
       ],
       "sections": [
