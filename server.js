@@ -135,7 +135,7 @@ const newsQueries = [
   {
     id: "korea-ai-policy",
     label: "국내 AI 정책",
-    query: "(AI 반도체 OR 인공지능 반도체 OR 국가 AI OR AI 컴퓨팅 OR 데이터센터) (정책 OR 예산 OR 투자 OR 사업 OR 조달)",
+    query: '(NPU OR AI반도체 OR "AI 반도체" OR 인공지능반도체 OR "인공지능 반도체" OR "국가 AI" OR "AI 컴퓨팅" OR 데이터센터) (정책 OR 예산 OR 투자 OR 사업 OR 조달)',
     lang: "ko",
   },
   {
@@ -160,6 +160,31 @@ const newsQueries = [
     id: "ai-chip-public-program",
     label: "AI반도체 공공사업",
     query: "(AI반도체 OR 인공지능반도체 OR NPU OR K-엔비디아 OR 국산 AI반도체) (보도자료 OR 사업공고 OR 지원사업 OR 공모 OR 실증 OR 바우처 OR 조달 OR 과기정통부 OR NIPA)",
+    lang: "ko",
+  },
+  {
+    id: "government-npu-policy",
+    label: "정부 NPU 정책·예산",
+    query: '(NPU OR AI반도체 OR "AI 반도체" OR 인공지능반도체 OR "인공지능 반도체") (정부 OR 부처 OR 과기정통부 OR 산업부 OR 중기부 OR 행안부 OR 기재부 OR 조달청 OR 국회) (정책 OR 예산 OR 국비 OR 공모 OR 실증 OR 도입 OR 조달 OR 지원)',
+    lang: "ko",
+  },
+  {
+    id: "local-government-npu",
+    label: "지자체 NPU 정책·사업",
+    query: '(NPU OR AI반도체 OR "AI 반도체" OR 인공지능반도체 OR "인공지능 반도체") (지자체 OR 지방정부 OR 지방자치단체 OR 광역시 OR 특별시 OR 특별자치도 OR 도청 OR 시청 OR 군청 OR 구청 OR 지방의회) (예산 OR 국비 OR 사업 OR 실증 OR 도입 OR 구축 OR 지원 OR 조달)',
+    lang: "ko",
+  },
+  {
+    id: "regional-npu-budget",
+    label: "지역 NPU 국비·실증",
+    // Helps discover indexed regional reports with NPU only in the body; full-text retrieval is separate.
+    query: '(NPU OR AI반도체 OR "AI 반도체" OR 인공지능반도체 OR "인공지능 반도체") (서울 OR 부산 OR 대구 OR 인천 OR 광주 OR 대전 OR 울산 OR 세종 OR 경기 OR 강원 OR 충북 OR 충청북도 OR 충남 OR 충청남도 OR 전북 OR 전남 OR 경북 OR 경남 OR 제주) (예산 OR 국비 OR 실증 OR 공모 OR 도입 OR 구축 OR 조달)',
+    lang: "ko",
+  },
+  {
+    id: "public-regional-npu-demand",
+    label: "공공·지역기관 NPU 수요",
+    query: '(NPU OR AI반도체 OR "AI 반도체" OR 인공지능반도체 OR "인공지능 반도체") (공공기관 OR 테크노파크 OR 정보산업진흥원 OR 정보문화산업진흥원 OR 경제진흥원 OR 산업진흥원 OR 인공지능산업융합사업단) (실증 OR 도입 OR 구매 OR 조달 OR 구축 OR 공모 OR 지원사업 OR 데이터센터)',
     lang: "ko",
   },
 ];
@@ -534,6 +559,7 @@ function parseRss(xml, source) {
       outlet: sourceMatch ? stripTags(sourceMatch[2]) : "Google News",
       outletUrl: sourceMatch ? decodeEntities(sourceMatch[1]) : "https://news.google.com",
       source: source.label,
+      sourceIds: [source.id],
       sourceLang: source.lang,
       region: source.lang === "ko" ? "domestic" : "global",
     };
@@ -579,17 +605,41 @@ export function scoreArticle(article) {
   };
 }
 
+function compareArticleScore(a, b) {
+  return b.score - a.score || Date.parse(b.publishedAt || 0) - Date.parse(a.publishedAt || 0);
+}
+
 function dedupeArticles(articles) {
-  const seen = new Set();
-  return articles
-    .filter((article) => {
-      const key = article.title.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim().slice(0, 120);
-      if (!key || seen.has(key)) return false;
-      seen.add(key);
-      return true;
-    })
+  const unique = new Map();
+  for (const article of articles) {
+    const key = article.title.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim().slice(0, 120);
+    if (!key) continue;
+    const existing = unique.get(key);
+    const sourceIds = [...new Set([...(existing?.sourceIds || []), ...(article.sourceIds || [])])];
+    // Preserve later discovery by a government/regional search when another feed found it first.
+    unique.set(key, { ...(existing || article), sourceIds });
+  }
+  return [...unique.values()]
     .map((article) => ({ ...article, ...scoreArticle(article) }))
-    .sort((a, b) => b.score - a.score || Date.parse(b.publishedAt || 0) - Date.parse(a.publishedAt || 0));
+    .sort(compareArticleScore);
+}
+
+const publicNpuQueryIds = new Set([
+  "government-npu-policy",
+  "local-government-npu",
+  "regional-npu-budget",
+  "public-regional-npu-demand",
+]);
+
+export function prepareNewsCandidates(articles) {
+  const ranked = dedupeArticles(articles);
+  // Up to 24 collection candidates receive body-retrieval priority, not final briefing slots or score bonuses.
+  const publicCandidates = ranked
+    .filter((article) => article.sourceIds.some((id) => publicNpuQueryIds.has(id)))
+    .slice(0, 24);
+  const prioritySet = new Set(publicCandidates);
+  const enrichmentOrder = [...publicCandidates, ...ranked.filter((article) => !prioritySet.has(article))].slice(0, 180);
+  return { articles: [...enrichmentOrder].sort(compareArticleScore), enrichmentOrder };
 }
 
 async function enrichArticleFromOriginal(article) {
@@ -635,9 +685,9 @@ async function loadNews() {
   const errors = settled
     .map((result, index) => (result.status === "rejected" ? `${newsQueries[index].label}: ${result.reason.message}` : null))
     .filter(Boolean);
-  const deduped = dedupeArticles(articles).slice(0, 180);
-  const enriched = await enrichArticlesFromOriginals(deduped);
-  return { articles: enriched, errors };
+  const { enrichmentOrder } = prepareNewsCandidates(articles);
+  const enriched = await enrichArticlesFromOriginals(enrichmentOrder);
+  return { articles: enriched.sort(compareArticleScore), errors };
 }
 
 function finiteAt(values, index) {

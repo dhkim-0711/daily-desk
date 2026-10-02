@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { scoreArticle } from "../server.js";
+import { prepareNewsCandidates, scoreArticle } from "../server.js";
 
 // Importing the scoring function uses the existing direct-start guard: no server or feeds.
 const article = (title, summary = "") => ({ title, summary });
@@ -72,4 +72,66 @@ test("topic tags and recency continue contributing independently of company alia
   assert.equal(today.score, undated.score + 8);
   assert.equal(yesterday.score, undated.score + 7);
   assert.equal(old.score, undated.score);
+});
+
+const globalCandidates = (count) => Array.from({ length: count }, (_, index) => ({
+  ...article(`NVIDIA AI inference report ${index}`),
+  sourceIds: ["global-ai-chips"],
+}));
+
+test("low-scoring government and regional discoveries survive collection and receive body retrieval", () => {
+  const sourceIds = ["government-npu-policy", "local-government-npu", "regional-npu-budget", "public-regional-npu-demand"];
+  const publicCandidates = sourceIds.map((id, index) => ({
+    ...article(`지역 국비 확보 현안 ${index}`),
+    sourceIds: [id],
+  }));
+  const plan = prepareNewsCandidates([...globalCandidates(200), ...publicCandidates]);
+
+  assert.equal(plan.articles.length, 180);
+  assert.equal(new Set(plan.articles.map((item) => item.title)).size, 180);
+  for (const candidate of publicCandidates) {
+    const retained = plan.articles.find((item) => item.title === candidate.title);
+    assert.ok(retained);
+    assert.equal(retained.score, scoreArticle(candidate).score, "candidate priority does not add score");
+    assert.ok(plan.enrichmentOrder.slice(0, 80).some((item) => item.title === candidate.title));
+  }
+  assert.ok(plan.articles.every((item, index, all) => index === 0 || all[index - 1].score >= item.score));
+});
+
+test("collection reservation stops at 24 and the remaining positions follow existing scores", () => {
+  const publicCandidates = Array.from({ length: 30 }, (_, index) => ({
+    ...article(`지방 국비 요청 ${index}`),
+    sourceIds: ["regional-npu-budget"],
+  }));
+  const plan = prepareNewsCandidates([...globalCandidates(200), ...publicCandidates]);
+
+  assert.equal(plan.articles.length, 180);
+  assert.equal(plan.articles.filter((item) => item.sourceIds.includes("regional-npu-budget")).length, 24);
+  assert.deepEqual(plan.enrichmentOrder.slice(0, 24).map((item) => item.title), publicCandidates.slice(0, 24).map((item) => item.title));
+  assert.deepEqual(plan.enrichmentOrder.slice(24).map((item) => item.title), globalCandidates(156).map((item) => item.title));
+});
+
+test("deduplication retains later public-search provenance without mutating inputs", () => {
+  const first = { ...article("지역 산업 예산 현안"), source: "기존 검색", sourceIds: ["korea-ai-policy"] };
+  const later = { ...first, source: "지역 NPU 국비·실증", sourceIds: ["regional-npu-budget"] };
+  const inputs = [...globalCandidates(200), first, later, later];
+  const before = JSON.stringify(inputs);
+  const plan = prepareNewsCandidates(inputs);
+  const matches = plan.articles.filter((item) => item.title === first.title);
+
+  assert.equal(matches.length, 1);
+  assert.deepEqual(matches[0].sourceIds, ["korea-ai-policy", "regional-npu-budget"]);
+  assert.equal(plan.enrichmentOrder[0].title, first.title);
+  assert.equal(matches[0].source, first.source);
+  assert.equal(JSON.stringify(inputs), before);
+});
+
+test("without public-search candidates collection and retrieval retain the normal score order", () => {
+  const candidates = [article("낮은 관련성 기사"), ...globalCandidates(200)];
+  const plan = prepareNewsCandidates(candidates);
+
+  assert.equal(plan.articles.length, 180);
+  assert.deepEqual(plan.articles, plan.enrichmentOrder);
+  assert.deepEqual(plan.articles.map((item) => item.title), globalCandidates(180).map((item) => item.title));
+  assert.deepEqual(prepareNewsCandidates([]), { articles: [], enrichmentOrder: [] });
 });
