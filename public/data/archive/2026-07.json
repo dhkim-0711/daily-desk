@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "updatedAt": "2026-10-02T01:37:56.916Z",
+  "updatedAt": "2026-10-02T02:03:14.813Z",
   "articles": [
     {
       "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled - 9to5Google",
@@ -6771,6 +6771,9 @@
       "outlet": "news.einfomax.co.kr",
       "outletUrl": "https://news.einfomax.co.kr",
       "source": "국내 NPU 기업",
+      "sourceIds": [
+        "mobilint"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -6787,7 +6790,7 @@
       "issueCategory": "NPU",
       "score": 34,
       "firstSeenAt": "2026-07-28T09:43:50.217Z",
-      "lastSeenAt": "2026-10-02T01:37:56.916Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "과기정통부, 공공 CCTV 1만8100대 NPU 기반 AI CCTV로 전환 - edaily.co.kr",
@@ -6907,6 +6910,10 @@
       "outlet": "머니투데이",
       "outletUrl": "https://www.mt.co.kr",
       "source": "NIPA·과기정통부 정책",
+      "sourceIds": [
+        "msit-ai-chip",
+        "government-npu-policy"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [],
@@ -6918,7 +6925,7 @@
       "issueCategory": "NPU",
       "score": 30,
       "firstSeenAt": "2026-07-30T23:17:07.716Z",
-      "lastSeenAt": "2026-10-02T01:37:56.916Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "과기정통부, NPU 탑재 공공 CCTV 고도화…AI로 위험 탐지 - 전자신문",
@@ -6928,6 +6935,9 @@
       "outlet": "전자신문",
       "outletUrl": "https://www.etnews.com",
       "source": "국내 NPU 기업",
+      "sourceIds": [
+        "local-government-npu"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [],
@@ -6938,7 +6948,7 @@
       "issueCategory": "NPU",
       "score": 29,
       "firstSeenAt": "2026-07-28T09:43:50.217Z",
-      "lastSeenAt": "2026-08-03T04:43:28.439Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "과기정통부, 공공 CCTV 1만8100대에 국산 NPU 도입 · 달라지는 점은? - supple.kr",
@@ -10596,6 +10606,9 @@
       "outlet": "글로벌경제신문",
       "outletUrl": "https://www.getnews.co.kr",
       "source": "국내 AI 정책",
+      "sourceIds": [
+        "msit-ai-chip"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -10608,7 +10621,7 @@
       "issueCategory": "AI시장",
       "score": 33,
       "firstSeenAt": "2026-07-27T15:49:22.807Z",
-      "lastSeenAt": "2026-10-02T01:37:56.916Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "Google Cloud Growth Rate Converges With Nvidia - RealClearMarkets",
@@ -10774,6 +10787,9 @@
       "outlet": "헬로디디",
       "outletUrl": "https://www.hellodd.com",
       "source": "국내 AI 정책",
+      "sourceIds": [
+        "government-npu-policy"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -10785,7 +10801,7 @@
       "issueCategory": "AI시장",
       "score": 30,
       "firstSeenAt": "2026-07-27T10:49:56.690Z",
-      "lastSeenAt": "2026-09-27T00:30:03.436Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "과기정통부, AMD와 AI 컴퓨팅 인프라 생태계 구축 맞손 - 브릿지경제",
@@ -49003,6 +49019,9 @@
       "outlet": "시사저널e",
       "outletUrl": "https://www.sisajournal-e.com",
       "source": "국내 NPU 기업",
+      "sourceIds": [
+        "furiosa"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -49019,7 +49038,7 @@
       "issueCategory": "NPU",
       "score": 36,
       "firstSeenAt": "2026-07-14T15:00:59.875Z",
-      "lastSeenAt": "2026-10-02T01:37:56.916Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "Google Chrome's Gemini AI features are rolling out to UK users - Neowin",
@@ -61941,6 +61960,9 @@
       "outlet": "경기종합뉴스",
       "outletUrl": "https://www.ggoverallnews.co.kr",
       "source": "NIPA·과기정통부 정책",
+      "sourceIds": [
+        "public-regional-npu-demand"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [],
@@ -61953,7 +61975,7 @@
       "issueCategory": "AI시장",
       "score": 35,
       "firstSeenAt": "2026-07-08T09:32:52.700Z",
-      "lastSeenAt": "2026-07-12T14:36:42.962Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "[주간스타트업동향] 퓨리오사AI, 에퀴닉스와 유럽 AI 인프라 시장 공략 나선다 外 - 동아일보",
@@ -66102,6 +66124,29 @@
       "lastSeenAt": "2026-07-07T15:49:06.521Z"
     },
     {
+      "title": "과기정통부, 국산 AI반도체 상용화 지원 나선다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MZi1lQXJuSHBpbDE5Ym1UaHYzQ0xTcFFWeEtla0IyR0RwaXpBRjFoSXhvVUFZTkVUdmhtOUViVHdzTW9fblBpSXF6MTVFVWM?oc=5",
+      "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "summary": "과기정통부, 국산 AI반도체 상용화 지원 나선다 &nbsp;&nbsp; v.daum.net",
+      "outlet": "v.daum.net",
+      "outletUrl": "https://v.daum.net",
+      "source": "정부 NPU 정책·예산",
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "정책",
+        "NPU"
+      ],
+      "issueCategory": "정책",
+      "score": 21,
+      "firstSeenAt": "2026-07-07T05:04:34.081Z",
+      "lastSeenAt": "2026-10-02T02:03:14.813Z",
+      "sourceIds": [
+        "government-npu-policy"
+      ]
+    },
+    {
       "title": "Samsung beats Nvidia with record $58.5 billion operating profit in Q2 - The Korea Economic Daily Global Edition",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoU1hqSXlIck5vRXJOQlFWMUpkVUNrT2RTRWpsS19oUGVRUHNGLTlLTGRObERkdk50MWJ4WmMwVU90d1pGRXFMQVRSOW9WZTA5NzJHdHhXRGdRYnhnY3RmM0JhYWN3VUQ0UHc0?oc=5",
       "publishedAt": "Tue, 07 Jul 2026 06:47:51 GMT",
@@ -66353,26 +66398,6 @@
       "score": 31,
       "firstSeenAt": "2026-07-07T10:30:36.546Z",
       "lastSeenAt": "2026-07-10T10:28:42.241Z"
-    },
-    {
-      "title": "과기정통부, 국산 AI반도체 상용화 지원 나선다 - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Z3l1RGRSamZEMUdLakZvWUhNSUxfdUE4RXpHaWJTX0M2S3FnNVIyZHZESXJUMFIyOWNVZ05CalNxWTRpWk9ER3NQaUpxV3JIYVUyV0dhVXBVZ9IBVEFVX3lxTE8wTDZ5Q194RWRsYnRldkJTTF9zcUMzdGFEUmFabF9KM2VkM19Fb2t0aE91cHJVZjZhRkVyYk1CS0szYzJNZkp0WmJQWnY1UURvaGI4MA?oc=5",
-      "publishedAt": "Tue, 07 Jul 2026 05:01:22 GMT",
-      "summary": "과기정통부, 국산 AI반도체 상용화 지원 나선다 &nbsp;&nbsp; 더팩트",
-      "outlet": "더팩트",
-      "outletUrl": "https://news.tf.co.kr",
-      "source": "NIPA·과기정통부 정책",
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책",
-        "NPU"
-      ],
-      "issueCategory": "정책",
-      "score": 29,
-      "firstSeenAt": "2026-07-07T05:04:34.081Z",
-      "lastSeenAt": "2026-07-13T04:41:07.270Z"
     },
     {
       "title": "과기정통부 ‘K-AI반도체 기술지원센터’ 개소 - 데일리안",

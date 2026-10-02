@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "updatedAt": "2026-10-02T01:37:56.916Z",
+  "updatedAt": "2026-10-02T02:03:14.813Z",
   "articles": [
     {
       "title": "정부, 'K-엔비디아' 만들겠다...2030년까지 AI 반도체 유니콘 5곳 배출 목표 - mstoday.co.kr",
@@ -122,6 +122,9 @@
       "outlet": "아이티데일리",
       "outletUrl": "http://www.itdaily.kr",
       "source": "과기정통부 AI반도체",
+      "sourceIds": [
+        "msit-ai-chip"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [],
@@ -133,7 +136,7 @@
       "issueCategory": "NPU",
       "score": 24,
       "firstSeenAt": "2026-06-13T22:57:21.954Z",
-      "lastSeenAt": "2026-10-02T01:37:56.916Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     }
   ]
 }

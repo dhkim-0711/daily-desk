@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "updatedAt": "2026-10-02T01:37:56.916Z",
+  "updatedAt": "2026-10-02T02:03:14.813Z",
   "articles": [
     {
       "title": "엔비디아, 대만 팹리스에 35억달러 투자⋯AI 생태계 전반 걸쳐 촘촘한 자본 투입 - etoday.co.kr",
@@ -24497,6 +24497,9 @@
       "outlet": "AI타임스",
       "outletUrl": "https://www.aitimes.com",
       "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-npu"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -24513,7 +24516,7 @@
       "issueCategory": "NPU",
       "score": 36,
       "firstSeenAt": "2026-08-22T02:19:48.729Z",
-      "lastSeenAt": "2026-10-02T01:37:56.916Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "Microsoft receives Nvidia's Vera Rubin AI systems - Breakingthenews.net",
@@ -29039,6 +29042,9 @@
       "outlet": "hankookilbo.com",
       "outletUrl": "https://www.hankookilbo.com",
       "source": "AI반도체 공공사업",
+      "sourceIds": [
+        "government-npu-policy"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -29054,7 +29060,7 @@
       "issueCategory": "AI시장",
       "score": 25,
       "firstSeenAt": "2026-08-20T10:44:11.783Z",
-      "lastSeenAt": "2026-09-14T23:59:16.665Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "엔비디아 의존 벗어나야…정부·AMD·국산 AI 반도체 '개방형 생태계' 맞손 - 네이트",
@@ -34621,6 +34627,9 @@
       "outlet": "이투데이",
       "outletUrl": "https://www.etoday.co.kr",
       "source": "국내 NPU 기업",
+      "sourceIds": [
+        "deepx"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -34635,7 +34644,7 @@
       "issueCategory": "NPU",
       "score": 39,
       "firstSeenAt": "2026-08-18T10:43:08.044Z",
-      "lastSeenAt": "2026-10-02T01:37:56.916Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "Nvidia AI Financing: Wall Street Partnership Creates New Asset Class - Intellectia AI",
@@ -35109,6 +35118,12 @@
       "outlet": "지디넷코리아",
       "outletUrl": "https://zdnet.co.kr",
       "source": "국내 NPU 기업",
+      "sourceIds": [
+        "rebellions",
+        "deepx",
+        "ai-chip-public-program",
+        "government-npu-policy"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -35123,7 +35138,7 @@
       "issueCategory": "NPU",
       "score": 30,
       "firstSeenAt": "2026-08-18T07:49:15.777Z",
-      "lastSeenAt": "2026-10-01T01:15:07.705Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "구글클라우드, 신한투자증권 차세대 AI 에이전트 플랫폼 구축…금융 AX 박차 - 지디넷코리아",
@@ -35455,6 +35470,10 @@
       "outlet": "네이트",
       "outletUrl": "https://news.nate.com",
       "source": "국내 NPU 기업",
+      "sourceIds": [
+        "rebellions",
+        "government-npu-policy"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -35469,7 +35488,7 @@
       "issueCategory": "NPU",
       "score": 39,
       "firstSeenAt": "2026-08-18T04:47:44.121Z",
-      "lastSeenAt": "2026-10-02T01:37:56.916Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "구글 클라우드, 신한투자증권 AI 플랫폼 구축…계약서 처리시간 단축 - 아이티비즈",
@@ -47232,6 +47251,11 @@
       "outlet": "연합뉴스",
       "outletUrl": "https://www.yna.co.kr",
       "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "rebellions",
+        "furiosa"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -47248,7 +47272,7 @@
       "issueCategory": "NPU",
       "score": 41,
       "firstSeenAt": "2026-08-13T05:46:14.733Z",
-      "lastSeenAt": "2026-10-02T01:37:56.916Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "Tokyo Electron, Nvidia expand collaboration for agentic AI, robotics - evertiq.com",
@@ -58643,6 +58667,9 @@
       "outlet": "머니투데이",
       "outletUrl": "https://www.mt.co.kr",
       "source": "NIPA·과기정통부 정책",
+      "sourceIds": [
+        "government-npu-policy"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [],
@@ -58653,7 +58680,7 @@
       "issueCategory": "정책",
       "score": 29,
       "firstSeenAt": "2026-08-10T03:17:37.463Z",
-      "lastSeenAt": "2026-08-16T22:33:49.676Z"
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
     },
     {
       "title": "[더벨]나우로보틱스, 과기정통부 ‘피지컬 AI’ 실증사업 선정 - supple.kr",
