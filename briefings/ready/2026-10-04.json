@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-04",
+  "cutoff_at": "2026-10-04T09:00:00+09:00",
+  "window_start": "2026-10-03T09:00:00+09:00",
+  "created_at": "2026-10-04T09:01:07+09:00",
+  "status": "ready",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1,
+        2
+      ],
+      "bullets": [
+        "산업통상부는 K-온디바이스 AI반도체 기술개발 사업의 2026년 확정 사업비 1,305억원 가운데 706억원이 9월 30일까지 연구개발기관에 실집행됐다고 밝혔고, 국산 AI반도체 기반 마이크로 데이터센터는 의료·제조·공공 실증을 준비하고 있다.",
+        "국산 AI반도체 정책의 초점이 예산 확정과 과제 선정에서 이기종 NPU 운영 플랫폼, 작업 배치, 산업현장 서비스 검증으로 이동하고 있다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3,
+        4
+      ],
+      "bullets": [
+        "Bain은 2031년 AI 인프라 지출이 연간 1.5조달러에 이를 경우 이를 뒷받침할 AI 시장이 연간 6조달러 규모여야 한다고 추산했고, 메타는 AI 데이터센터를 실험용 시설로 분류해 2024~2025년 약 59억달러의 세액공제를 적용받았다는 보도가 나왔다.",
+        "AI 데이터센터 경쟁이 설비 확충뿐 아니라 투자 회수 가능성과 연구개발 세제의 적용 범위를 둘러싼 재무·정책 검증 단계로 확장되고 있다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "K-온디바이스 AI반도체 R&D, 1,305억원 중 706억원 실집행",
+      "category": "국내 AI 정책",
+      "collected_at": "2026-10-03T01:07:09.189Z",
+      "original_published_at": "2026-10-02T12:36:20Z",
+      "original_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KWFh2Qmk0Mk5MY2FzRzFEUGhNQlZpd01ibjhETGNRWE9fLXNOYVZEWVNabFIyRkZNeFZxR2dCVHk5TEsyNmI4aE1SV2JDS0otWHVzSmtSTTluYWRGUHlBQi1NcnVOeTZ2Zkd5STlqMA?oc=5",
+      "main_points": [
+        "산업통상부는 K-온디바이스 AI반도체 기술개발 사업의 2026년 확정 사업비 1,305억원을 9월 23일 한국산업기술기획평가원에 전액 교부했고, 이 가운데 706억원이 9월 30일까지 협약을 마친 연구개발기관에 실집행됐다고 밝혔다.",
+        "정부 설명에 따르면 8월 말 집행률 0%는 사업계획 적정성 검토와 과제 선정이 끝나기 전 국회 제출자료 기준이며, 당초 예산 1,665.5억원과 확정 사업비 1,305.3억원의 약 360억원 차이는 적정성 검토에 따른 조정액이다.",
+        "산업통상부는 자동차·가전·로봇·방산 등 주력산업에 국산 AI반도체를 적용하는 과제를 추진한다는 입장이다."
+      ],
+      "implications": [
+        "예산 교부와 수행기관 지급이 시작되면서 정책 성과를 편성액보다 실제 집행률, 과제 착수 시점, 수요산업 적용 결과로 평가할 수 있는 단계에 들어섰다.",
+        "향후에는 분야별 NPU 적용 일정과 성능·전력효율·소프트웨어 호환성, 수요기업의 후속 구매 여부를 함께 공개하면 집행 속도와 사업화 성과를 구분해 볼 수 있다.",
+        "적정성 검토로 연차 사업비가 조정된 만큼 총사업비 변경과 과제 범위, 후속 연도 투자계획의 정합성도 계속 점검할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "(설명자료)K-온디바이스 AI반도체 기술개발 사업은 정상 추진 중이며, 현재(9.30일 기준) 54%(1305억원 중 706억원) 실집행 중입니다",
+          "publisher": "산업통상부",
+          "published_at": "2026-10-02",
+          "url": "https://www.motir.go.kr/kor/article/ATCLe0854704d/172261/view",
+          "verification": "public_primary",
+          "verified_at": "2026-10-04T09:01:07+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "국산 AI반도체 기반 마이크로 데이터센터, 의료·제조·공공 실증 추진",
+      "category": "국내 AI 시장",
+      "collected_at": "2026-10-03T01:07:09.189Z",
+      "original_published_at": "2026-10-02T04:23:03Z",
+      "original_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PYVB2WTA2ZUxqSmdDX1ZDNERpaE9tRGxyV0QzelUzZFFxX1ExbnAyZmFaMTdFZkg0TXJZOWpqZ3RyYXBnaEpCMlc3SWlobHdtcFlvOHlfbDc2UlZfZE9FMk5PanY?oc=5",
+      "main_points": [
+        "한국인공지능클라우드산업협회가 공개한 개발 현황에 따르면 ETRI가 국산 AI반도체를 탑재한 랙 단위 마이크로 데이터센터를 총괄 개발하고, 이노그리드는 여러 AI-MDC의 컴퓨팅 자원을 통합 관리·배분·확장하는 클라우드 기술을 개발하고 있다.",
+        "운영 플랫폼은 전력·온도·컴퓨팅 자원 정보를 활용한 작업 배치, 이기종 국산 AI반도체용 개발도구, 모델 저장소, 모니터링·보안 기능을 포함하며 AI 모델을 각 NPU에 맞게 경량화·최적화한다.",
+        "실증 대상은 호흡재활 영상분석, 조선소 자율이동로봇, 지능형 CCTV 관제 등 의료·제조·공공 분야다."
+      ],
+      "implications": [
+        "국산 NPU 경쟁력이 단일 칩 성능에서 이기종 자원관리, 모델 최적화, 모니터링과 보안을 묶은 현장 운영체계로 확대되고 있다.",
+        "서로 다른 NPU를 동일 플랫폼에서 운용하려면 작업 배치 기준과 모델 변환 성공률, 장애 대응, 전력·온도 기반 스케줄링 효과를 공통 지표로 검증할 필요가 있다.",
+        "의료·제조·공공 실증 결과가 수요기관의 반복 구매로 이어지도록 서비스별 비용과 정확도, 지연시간, 운영인력 부담을 함께 축적하는 방향을 검토할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "국산 AI반도체로 마이크로 데이터센터 개발…의료·제조·공공 실증 추진",
+          "publisher": "디지털데일리",
+          "published_at": "2026-10-02T13:23:00+09:00",
+          "url": "https://v.daum.net/v/20261002132312351",
+          "verification": "public_reprint",
+          "verified_at": "2026-10-04T09:01:07+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "AI 데이터센터 투자 회수에 연간 6조달러 시장 필요하다는 전망",
+      "category": "AI 시장 전체",
+      "collected_at": "2026-10-03T01:07:09.189Z",
+      "original_published_at": "2026-10-02T08:58:32Z",
+      "original_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVIyYjdYc0VJZ1g3WTVUM0tONGZxdWYxdEhhWXpjR1MzUlc1REtFUTZEeF9pS0VtRkpvelJ6Ml93TDUtRmVuMnBXdk5RQlpCMXJDTUYzY0tnWkxZejI5bEotRHJhVHFsV2RvMmlaa3kwVk1BdmFnX3d3NUNNQzJleVpieWdOTDg1OGpOdXBzbEJDVE8zNzNqa2l3OU9UWmdGamxOanJGYlRmZG1pbW9UVWUxcHZ6dw?oc=5",
+      "main_points": [
+        "Network World가 인용한 Bain 추산에 따르면 하이퍼스케일러의 자본지출은 2026년 7,800억달러로 3년 사이 5배 수준에 이를 수 있고, AI 인프라의 연간 지출은 2031년 1.5조달러에 도달할 수 있다.",
+        "자본지출을 매출의 약 25%로 가정하면 이를 감당할 AI 시장은 연간 6조달러 규모가 필요하지만, 기존 소비자·기업 AI 시장 전망은 2031년 최대 1.8조달러로 추산돼 4.2조달러의 신규 시장이 필요하다는 분석이다.",
+        "Bain은 검색, 자율주행차·드론, 로봇·디지털트윈 등 피지컬 AI, 의약품을 포함한 신제품 개발을 신규 수익 영역으로 제시했다."
+      ],
+      "implications": [
+        "AI 인프라 확대의 제약이 칩 공급과 전력 확보에서 투자 회수와 실제 매출 창출로 이동하고 있으며, 대규모 가속기 수요 전망도 서비스 수익성과 함께 검증해야 한다.",
+        "데이터센터 사업자는 설비 규모보다 가동률, 장기 수요계약, 워크로드별 단가와 전력비를 연결한 경제성 지표가 중요해질 수 있다.",
+        "국내 AI 인프라 정책에서도 구축량과 GPU·NPU 수량뿐 아니라 산업별 유료 수요, 국산 가속기의 총소유비용, 운영 수익모델을 함께 보는 관점을 고려할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "$6T in annual AI revenue needed to pay off data center investments",
+          "publisher": "Network World",
+          "published_at": "2026-10-02",
+          "url": "https://www.networkworld.com/article/4229998/6t-in-annual-ai-revenue-needed-to-pay-off-data-center-investments.html",
+          "verification": "full_text",
+          "verified_at": "2026-10-04T09:01:07+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "메타 AI 데이터센터의 '실험 시설' 세액공제 적용 논란",
+      "category": "AI 시장 전체",
+      "collected_at": "2026-10-03T12:28:18.466Z",
+      "original_published_at": "2026-10-03T09:45:20Z",
+      "original_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVJxN0lVX3o4N2tHdU5rcmd5TnowWkIzaHViMnoxSmRrZGpCQ1NJc2VFcndRZWsyR2xucE9LMUpjMHZsUUNRSUVIb0pQa0Ztc2pxZndkdUZ2VXRudEV6NmdyZndPVFRqNWRYOHlRMktOVnZ6ZFZKdk9QV2xUX2d1VzBaTkxuQ2lPUGVtSXlB?oc=5",
+      "main_points": [
+        "TechRadar는 뉴욕타임스 보도를 인용해 메타가 AI 데이터센터를 '파일럿 모델'인 실험 시설로 분류하고 관련 AI 칩 구매에 연구개발 세액공제를 적용했다고 전했다.",
+        "보도에 따르면 메타의 공제 규모는 2024년 20억달러, 2025년 39억달러로 약 59억달러이며, 메타의 불확실한 세무처리 관련 충당금은 2년 사이 129억달러에서 187.4억달러로 늘었다.",
+        "메타는 대규모 연구개발 투자에 의회가 마련한 세제 인센티브를 이용한 것이라고 설명했으며, 공제 적정성은 IRS의 검토 가능성이 있는 쟁점으로 남아 있다."
+      ],
+      "implications": [
+        "AI 데이터센터가 반복적인 상업 운영시설인지 실패 가능성이 있는 연구 설비인지에 따라 가속기 투자에 적용되는 세제 혜택의 범위가 달라질 수 있음을 보여준다.",
+        "AI 인프라 지원제도는 시설 명칭보다 실험 목적, 기술적 불확실성, 상업 운영과의 구분, 사후 성과를 명확히 해야 정책 비용과 민간 투자 유인을 함께 평가할 수 있다.",
+        "국내에서도 AI반도체 실증·사업화 시설에 세제나 보조금을 설계할 때 연구단계와 상용 서비스 단계를 구분하는 기준을 사전에 검토할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "Meta told the IRS its AI data centers are experimental to shave $6 billion off its tax bill",
+          "publisher": "TechRadar",
+          "published_at": "2026-10-02",
+          "url": "https://www.techradar.com/pro/meta-told-the-irs-its-ai-data-centers-are-experimental-to-shave-usd6-billion-off-its-tax-bill",
+          "verification": "full_text",
+          "verified_at": "2026-10-04T09:01:07+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "10월 아카이브의 수집 구간에서 산업통상부 K-온디바이스 AI반도체 R&D 집행 설명, 국산 AI반도체 기반 AI-MDC 실증, 한전·리벨리온·TTA 변전소 실증 보도를 확인했다. 한전 실증은 2026-10-03 브리핑에서 이미 다룬 동일 사건이어서 제외하고, 새 집행 사실과 이기종 NPU 운영·산업 실증 내용을 1·2번으로 선정했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "중앙부처는 산업통상부의 공식 설명자료로 사업계획 적정성 검토, 2026년 확정 사업비와 연구개발기관 실집행 단계를 확인했다. 공공기관은 한전 변전소 NPU 실증을 확인했으나 전날 브리핑과 동일해 재선정하지 않았다. 지자체·지방의회·테크노파크·지역 진흥기관은 NPU·AI반도체·국비·예산·실증·도입·조달 조합으로 공개 원문을 추가 검색했으며, 충북 첨단반도체기술융합관 등 일반 반도체 인프라 보도는 확인했지만 마감 전 수집 근거와 NPU 직접성이 있는 별도 신규 후보는 찾지 못했다. 지역 전체 사업비를 NPU 개별 예산으로 해석하지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "아카이브에서 구글 TPU 우주 실증, 엔비디아·AMD 관련 분석, 중국 Biren BR20X 후보를 검토했다. 구글 TPU 실증은 전날 브리핑과 동일했고, Biren 보도는 유료벽 밖에서 제목과 도입부만 확인돼 핵심 사양·양산 근거를 충분히 검증할 수 없었으며, 나머지는 투자 의견 또는 게임 그래픽 중심이라 신규 주요기사로 선정하지 않았다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "AI-MDC의 작업량 기반 자원 배분·확장, 전력·온도 기반 작업 배치, 이기종 NPU 개발도구·모델 저장소·모니터링·보안 기능을 공개 본문에서 확인해 2번으로 선정했다. 엔비디아 OpenShell·Sentry는 전날 브리핑과 동일 사건이었고, 수집 구간 내 별도의 컴파일러·런타임·서빙 신규 후보는 확인되지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "아카이브에서 데이터센터 투자 회수 전망, 메타 AI 데이터센터 세제 적용, 구글 우주 데이터센터, 전력·냉각·메모리·패키징 후보를 점검했다. 새 재무·정책 쟁점인 3·4번을 선정했고 구글 위성 실증은 전날과 동일해 제외했으며, 수집 구간 내 공개 원문으로 검증 가능한 독립적인 메모리·패키징 신규 후보는 없었다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국산 AI반도체 대형 R&D의 확정 사업비와 수행기관 실집행 규모가 공식자료로 새로 확인돼 정책 집행 단계의 변화를 보여준다."
+      },
+      {
+        "article_number": 2,
+        "reason": "여러 국산 NPU와 작업 배치·모델 최적화·모니터링을 결합해 의료·제조·공공 수요처에서 검증하는 운영·사업화 이슈다."
+      },
+      {
+        "article_number": 3,
+        "reason": "AI 데이터센터 투자 규모와 필요한 시장 매출의 격차를 구체적 수치로 제시해 가속기 수요 전망의 경제성 위험을 보여준다."
+      },
+      {
+        "article_number": 4,
+        "reason": "AI 칩이 탑재된 데이터센터를 연구시설로 분류한 세액공제 논란은 AI 인프라 투자와 정책 인센티브의 경계에 관한 새로운 쟁점이다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증",
+        "url": "https://www.etnews.com/20261002000127",
+        "reason": "공개 본문은 검증했으나 2026-10-03 브리핑에서 이미 다룬 동일 협약·실증으로 추가 사실이 없어 제외했다."
+      },
+      {
+        "title": "SpaceX launches Google AI satellite, 129 other payloads on 2nd leg of spaceflight tripleheader",
+        "url": "https://www.space.com/space-exploration/satellites/spacex-google-project-suncatcher-ai-satellite-transporter-18-mission",
+        "reason": "TPU 위성 발사 사실은 전날 브리핑에서 이미 선정했으며 오늘 후보에 실질적인 후속 변화가 없었다."
+      },
+      {
+        "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack",
+        "url": "https://www.reuters.com/legal/litigation/nvidia-releases-ai-safety-software-it-says-could-have-stopped-hugging-face-hack-2026-09-28/",
+        "reason": "OpenShell·Sentry 기반 에이전트 보안은 전날 브리핑과 동일한 사건이어서 중복 선정하지 않았다."
+      },
+      {
+        "title": "Biren readies BR20X, sharpening China's AI GPU challenge to Nvidia",
+        "url": "https://www.digitimes.com/news/a20261002VL212/gpu-biren-nvidia-production-roadmap.html",
+        "reason": "유료벽 밖에서 차세대 GPU 양산 준비라는 도입부만 확인됐고 핵심 사양·제조·일정 근거를 공개 원문으로 충분히 검증하지 못해 제외했다."
+      },
+      {
+        "title": "Palantir Inks Sovereign AI Infrastructure Deal With Armada After 60% Quarterly Surge",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3OERWSkZ6NURUVEhUX2g0UnNpM0paR0xDUTlFcWFQaXZxUm1BOHN4M1FrZXBCTkgyTHVXUGc2ME5MQUFPRGF5d3BkMTlmX0tDTHkxTzFlNHRaRGNUY1dtVHkzWEdvQVlqZnE2a3VMRzdpbjczcmc?oc=5",
+        "reason": "기업 공개 게시물에서 협력 방향은 확인했지만 계약 범위·금액·구축 일정 등 핵심 사실을 충분히 검증할 공개 본문이 부족했다."
+      }
+    ],
+    "count_reason": "수집 구간의 22개 후보를 다섯 영역에서 검토했으나 전날 선정 사건의 재보도, 범용 AI 기사, 투자 의견, 유료벽·원문 부족 후보를 제외한 뒤 공개 본문으로 충분히 검증할 수 있는 중요 독립 이슈가 4건이었다. 오래된 기사나 중복 보도로 수를 채우지 않고 규약상 허용되는 4건으로 구성했다.",
+    "company_overlap_review": "선정 4건에서 동일 기업집단이 중심인 기사는 반복되지 않는다. 1·2번은 모두 국내 생태계와 관련되지만 각각 중앙정부 R&D 집행과 이기종 국산 NPU 운영·수요처 실증으로 사건과 분석 초점이 독립적이며, 3·4번도 산업 전체 투자 회수 전망과 메타의 세제 적용 논란으로 구분된다."
+  }
+}
+
