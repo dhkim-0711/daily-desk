@@ -1,6 +1,6 @@
 {
   "month": "2024-02",
-  "updatedAt": "2026-09-30T18:25:19.070Z",
+  "updatedAt": "2026-10-04T06:47:34.042Z",
   "articles": [
     {
       "title": "[특징주] 미래에셋벤처, 하이퍼엑셀 '세계최초 엔비디아보다 빠른 삼성 4nm AI반도체칩' 개발성공…초기투자社 ↑ - financialpost.co.kr",
@@ -10,6 +10,9 @@
       "outlet": "financialpost.co.kr",
       "outletUrl": "https://www.financialpost.co.kr",
       "source": "하이퍼엑셀",
+      "sourceIds": [
+        "hyperaccel"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -25,7 +28,7 @@
       "issueCategory": "NPU",
       "score": 25,
       "firstSeenAt": "2026-06-12T08:04:23.546Z",
-      "lastSeenAt": "2026-09-30T18:25:19.070Z"
+      "lastSeenAt": "2026-10-04T06:47:34.042Z"
     }
   ]
 }
