@@ -226,6 +226,16 @@
       }
     ],
     "count_reason": "수집 구간의 30개 후보를 다섯 영역에서 검토했으나 전날 선정 사건의 재보도, 범용 AI·사이버보안 기사, 주가·투자 의견, 공개 원문이 부족한 후보를 제외한 뒤 독립성과 검증 가능성을 갖춘 중요 이슈가 4건이었다. 동일 주간 기사에 포함된 세미파이브의 북미 수주와 모빌린트 로봇용 개발 계약은 계약 상대·수요시장·기술 목표가 달라 각각 독립 이슈로 판단했으며, 오래된 기사로 수를 채우지 않았다.",
-    "company_overlap_review": "세미파이브가 1·2번에 반복되지만 1번은 미국 팹리스 대상 703억원 추론 ASIC 수주, 2번은 모빌린트와 국내 산업 로봇용 AI반도체를 개발하는 별도 계약이다. 해외 맞춤형 ASIC 사업화와 국내 NPU 제품·수요처 실증이라는 변화가 독립적이고 다른 후보는 중복 재보도나 투자 의견에 그쳐 두 건 모두 선정했다. 3·4번은 각각 엔비디아 중심의 추론 최적화와 LG전자 중심의 냉각 공급망 이슈로 구분된다."
+    "company_overlap_review": "세미파이브가 1·2번에 반복되지만 1번은 미국 팹리스 대상 703억원 추론 ASIC 수주, 2번은 모빌린트와 국내 산업 로봇용 AI반도체를 개발하는 별도 계약이다. 해외 맞춤형 ASIC 사업화와 국내 NPU 제품·수요처 실증이라는 변화가 독립적이고 다른 후보는 중복 재보도나 투자 의견에 그쳐 두 건 모두 선정했다. 3·4번은 각각 엔비디아 중심의 추론 최적화와 LG전자 중심의 냉각 공급망 이슈로 구분된다.",
+    "shared_original_reviews": [
+      {
+        "original_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FM1MzR2tBSmozWXZmbVBMamRFWjI4ajNPRFl3UURqcFhiUHl0NHNGekpyNUxyRHdfMmNRU0FSdDZmbzE4VV96a0Z6dTI1NE9iQml0VVVkWHh1clBlYkZKT3BfR0VKVXp10gFsQVVfeXFMTjRocmZtb0ZpREtWUk8weEdTZW9kTHIyYzRTUjEtaENGS1ZMeWZ6QTFNQ21MTFBUd2NoODFuaVN0Z3NOLWFVUTFEeGw1d1FFMDlSZUxON1FqTUJFYzR3RTZMb3BYTENhaWkyQTBt?oc=5",
+        "article_numbers": [
+          1,
+          2
+        ],
+        "reason": "KIPOST Weekly Issue 하나에 포함된 별도 계약 두 건이다. 1번은 9월29일 발표된 미국 팹리스 대상 5,200만달러 AI 추론 가속기 계약이며 뉴스핌 20260929000782 공개 본문으로 확인했다. 2번은 10월1일 발표된 모빌린트 대상 산업 로봇용 반도체 개발 계약이며 뉴스핌 20261001000351 공개 본문으로 확인했다. 계약 상대방·수요시장·개발 사양이 다르며 각기 별도의 검증 원문을 갖는다. 종합기사의 원래 수집 URL과 실제 수집시각은 보존한다."
+      }
+    ]
   }
 }

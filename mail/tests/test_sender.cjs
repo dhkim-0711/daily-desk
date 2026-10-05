@@ -187,7 +187,16 @@ test('next KST day never reuses the previous day edition',async()=>{
 
 test('missing rendered artifact remains not_ready without claiming',async()=>{
   const h=harness(); h.files.delete(BUNDLE);
-  assert.equal((await h.run()).status,'not_ready'); assert.equal(h.writes,0);
+  const result=await h.run();
+  assert.equal(result.status,'not_ready'); assert.equal(result.code,'RENDERED_BUNDLE_MISSING');
+  assert.equal(h.writes,0); assert.equal(h.sends,0);
+});
+
+test('missing manuscript is distinguished from a missing rendered bundle',async()=>{
+  const h=harness(); h.files.delete(READY); h.files.delete(BUNDLE);
+  const result=await h.run();
+  assert.equal(result.status,'not_ready'); assert.equal(result.code,'MANUSCRIPT_MISSING');
+  assert.equal(h.writes,0); assert.equal(h.sends,0);
 });
 
 test('legacy same-day HTML plus PDF suppresses delivery even with no ready files',async()=>{

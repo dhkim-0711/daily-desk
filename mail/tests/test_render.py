@@ -135,6 +135,31 @@ class EligibilityTests(unittest.TestCase):
 
 
 class SelectionAuditTests(unittest.TestCase):
+    def test_shared_roundup_requires_complete_review_and_independent_sources(self):
+        data = reviewed_briefing(4)
+        first, second = data["articles"][:2]
+        second["original_url"] = first["original_url"]
+        second["main_points"] = ["A separate robotics contract was signed.", "It serves a different customer and workload."]
+        with self.assertRaisesRegex(ValueError, "duplicate original"):
+            renderer.validate_briefing(data)
+        review = {"original_url": first["original_url"], "article_numbers": [1, 2],
+                  "reason": "One roundup covers independent contracts with distinct verified documents."}
+        data["selection_audit"]["shared_original_reviews"] = [review]
+        renderer.validate_briefing(data)
+        self.assertNotIn("shared_original_reviews", renderer.render_html(data))
+        for mutation in ("sources", "title", "main_points", "group", "reason", "extra_review"):
+            invalid = deepcopy(data)
+            if mutation in ("sources", "title", "main_points"):
+                invalid["articles"][1][mutation] = deepcopy(invalid["articles"][0][mutation])
+            elif mutation == "group":
+                invalid["selection_audit"]["shared_original_reviews"][0]["article_numbers"] = [1, 3]
+            elif mutation == "reason":
+                invalid["selection_audit"]["shared_original_reviews"][0]["reason"] = ""
+            else:
+                invalid["selection_audit"]["shared_original_reviews"].append(deepcopy(review))
+            with self.subTest(mutation=mutation), self.assertRaises(ValueError):
+                renderer.validate_briefing(invalid)
+
     def test_effective_date_keeps_legacy_editions_renderable(self):
         renderer.validate_briefing(sample_briefing())
         data = reviewed_briefing()

@@ -181,7 +181,7 @@ def validate_briefing(data):
     articles = data.get("articles")
     if not isinstance(articles, list) or not 4 <= len(articles) <= 7:
         raise ValueError("articles: ready edition requires 4-7 verified articles; 6 is the editorial default")
-    original_urls = set()
+    original_urls = {}
     for number, article in enumerate(articles, 1):
         field = f"articles[{number - 1}]"
         if not isinstance(article, dict) or type(article.get("number")) is not int or article["number"] != number:
@@ -196,9 +196,7 @@ def validate_briefing(data):
             raise ValueError(f"{field}: original publication cannot follow collection")
         if article.get("original_url") is not None:
             _url(article["original_url"], field + ".original_url")
-            if article["original_url"] in original_urls:
-                raise ValueError(f"{field}: duplicate original article URL")
-            original_urls.add(article["original_url"])
+            original_urls.setdefault(article["original_url"], []).append(number)
         _paragraphs(article.get("main_points"), field + ".main_points")
         _paragraphs(article.get("implications"), field + ".implications")
         sources = article.get("sources")
@@ -227,6 +225,46 @@ def validate_briefing(data):
         raise ValueError("summary_groups: every article must be covered exactly once")
     if issue_date >= SELECTION_AUDIT_REQUIRED_FROM or "selection_audit" in data:
         _selection_audit(data.get("selection_audit"), len(articles))
+    _shared_original_reviews(data, original_urls)
+
+
+def _shared_original_reviews(data, original_urls):
+    """A roundup URL is provenance, not necessarily a single event.
+
+    Keep rejecting duplicates by default. Separately verified events may share
+    a collection URL only with an explicit, complete editorial evidence record.
+    Never rewrite collection URLs or timestamps merely to satisfy uniqueness.
+    """
+    groups = {url: numbers for url, numbers in original_urls.items() if len(numbers) > 1}
+    reviews = data.get("selection_audit", {}).get("shared_original_reviews", [])
+    if not isinstance(reviews, list):
+        raise ValueError("selection_audit.shared_original_reviews: list required")
+    seen = set()
+    for review in reviews:
+        field = "selection_audit.shared_original_reviews"
+        if not isinstance(review, dict):
+            raise ValueError(f"{field}: object required")
+        url = review.get("original_url")
+        _url(url, field + ".original_url")
+        numbers = review.get("article_numbers")
+        if (url not in groups or url in seen or not isinstance(numbers, list)
+                or any(type(n) is not int for n in numbers) or sorted(numbers) != groups[url]):
+            raise ValueError(f"{field}: exact shared-URL article group required")
+        _text(review.get("reason"), field + ".reason")
+        entries = [data["articles"][n - 1] for n in numbers]
+        source_sets = [{source["url"] for source in article["sources"]} for article in entries]
+        # Each issue needs its own verified document beyond the shared roundup
+        # and any background documents also used for the other issues.
+        for index, sources in enumerate(source_sets):
+            other_sources = set().union(*(s for i, s in enumerate(source_sets) if i != index))
+            if not sources - other_sources - {url}:
+                raise ValueError(f"{field}: each issue requires a distinct verified source")
+        if (len({a["title"].strip() for a in entries}) != len(entries)
+                or len({tuple(a["main_points"]) for a in entries}) != len(entries)):
+            raise ValueError(f"{field}: repeated title or facts are not independent issues")
+        seen.add(url)
+    if seen != set(groups):
+        raise ValueError("articles: duplicate original article URL requires shared_original_reviews")
 
 
 def _display_timestamp(value):

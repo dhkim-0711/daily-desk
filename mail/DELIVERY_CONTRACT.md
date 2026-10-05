@@ -10,7 +10,7 @@ GPT 발송 작업은 `mail/send_with_connectors.js`의 `runDailyDeskSend`를 실
 1. GitHub `fetch_file`로 이 규약과 `mail/send_with_connectors.js`의 현재 본문을 읽습니다.
 2. 아래 커넥터 호환성 사전검사를 수행합니다. 필요한 실행 환경과 커넥터 도구가 실제로 제공되는 경우에만 functions 실행 환경에서 코드를 로드합니다.
 3. `new Function(source + '\nreturn runDailyDeskSend;')()`로 함수를 얻고 `await runDailyDeskSend({tools, sender: 예약에 지정된 계정, recipient: 예약에 지정된 수신자})`를 한 번 호출합니다. 파일 본문은 도구 결과의 `structuredContent.content`에 있습니다. 본문·base64·주소를 출력하지 않고 결과 상태만 출력합니다.
-4. `sent`일 때만 발송 완료라고 알립니다. `already_sent`이면 재발송하지 않습니다. `not_ready`는 준비 미완료이며 다음 보충 회차에서 확인합니다. `uncertain` 또는 오류 코드는 확인 필요 상태로 보고합니다. 반복해서 send 도구를 직접 호출하거나 잠금을 지우지 않습니다.
+4. `sent`일 때만 발송 완료라고 알립니다. `already_sent`이면 재발송하지 않습니다. `not_ready`의 `MANUSCRIPT_MISSING`은 원고 미저장, `RENDERED_BUNDLE_MISSING`은 원고 저장 후 제작 번들 미완료입니다. 후자는 당일 GitHub 제작 실행과 실패 단계·로그를 확인하여 제작 실패와 실행 대기를 구분합니다. 로그 조회가 불가능하면 '원고 저장 확인, 제작 번들 없음·실패 원인 미확인'이라고 보고하며 원고 미완료로 표현하지 않습니다. `uncertain` 또는 오류 코드는 확인 필요 상태로 보고합니다. 반복해서 send 도구를 직접 호출하거나 잠금을 지우지 않습니다.
 5. Gmail/저장소 권한 오류는 그대로 알립니다. 앱 비밀번호를 요구하거나 SMTP로 우회하지 않습니다.
 
 ## 커넥터 호환성 사전검사

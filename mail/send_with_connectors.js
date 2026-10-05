@@ -16,6 +16,7 @@ async function runDailyDeskSend({tools, now = new Date(), sender, recipient, dry
   let claim = null;
   let attemptedSend = false;
   let stateFile = null;
+  let readinessCode = null;
   const result = (status, extra = {}) => ({date, status, sent: status === 'sent', ...extra});
   const fail = code => { const error = new Error(code); error.safeCode = code; throw error; };
   const record = value => value !== null && typeof value === 'object' && !Array.isArray(value);
@@ -280,7 +281,10 @@ async function runDailyDeskSend({tools, now = new Date(), sender, recipient, dry
   async function loadEdition() {
     const ready = await readFile(`briefings/ready/${date}.json`,true);
     const rendered = await readFile(`briefings/rendered/${date}.json`,true);
-    if (!ready || !rendered) return null;
+    if (!ready || !rendered) {
+      readinessCode = !ready ? 'MANUSCRIPT_MISSING' : 'RENDERED_BUNDLE_MISSING';
+      return null;
+    }
     const source = ready.data, bundle = rendered.data;
     const cutoff = date+'T09:00:00+09:00';
     const timestamp = value => typeof value === 'string' && /T.*(?:Z|[+-]\d{2}:\d{2})$/.test(value) && Number.isFinite(Date.parse(value));
@@ -339,7 +343,7 @@ async function runDailyDeskSend({tools, now = new Date(), sender, recipient, dry
     }
     if (stateFile && ['sending','uncertain','sent'].includes(stateFile.data.status)) return result('uncertain',{code:stateFile.data.status === 'sent' ? 'STATE_SENT_UNVERIFIED' : 'DELIVERY_UNCERTAIN'});
     const edition = await loadEdition();
-    if (!edition) return result('not_ready');
+    if (!edition) return result('not_ready',{code:readinessCode});
     if (dryRun) return result('ready',{source_sha256:edition.bundle.source_sha256,payload_sha256:edition.bundle.payload_sha256});
     if (kst(current()).slice(0,10) !== date) fail('DATE_ROLLED_OVER');
     claim = {version:1,date,recipient_key:recipientKey,sender_key:senderKey,status:'sending',
