@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "updatedAt": "2026-10-05T01:16:44.257Z",
+  "updatedAt": "2026-10-05T06:56:19.074Z",
   "articles": [
     {
       "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled - 9to5Google",
@@ -1302,6 +1302,9 @@
       "outlet": "AI타임스",
       "outletUrl": "https://www.aitimes.com",
       "source": "국내 NPU 기업",
+      "sourceIds": [
+        "deepx"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -1316,7 +1319,7 @@
       "issueCategory": "NPU",
       "score": 29,
       "firstSeenAt": "2026-07-31T09:50:46.438Z",
-      "lastSeenAt": "2026-08-05T04:25:14.446Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "AI 투자, 돈 되기 시작했다…엔비디아·MS·아마존이 벌이는 다음 전쟁 - 네이트",
@@ -6790,7 +6793,7 @@
       "issueCategory": "NPU",
       "score": 34,
       "firstSeenAt": "2026-07-28T09:43:50.217Z",
-      "lastSeenAt": "2026-10-05T01:16:44.257Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "과기정통부, 공공 CCTV 1만8100대 NPU 기반 AI CCTV로 전환 - edaily.co.kr",
@@ -6925,7 +6928,7 @@
       "issueCategory": "NPU",
       "score": 30,
       "firstSeenAt": "2026-07-30T23:17:07.716Z",
-      "lastSeenAt": "2026-10-05T01:16:44.257Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "과기정통부, NPU 탑재 공공 CCTV 고도화…AI로 위험 탐지 - 전자신문",
@@ -6948,7 +6951,7 @@
       "issueCategory": "NPU",
       "score": 29,
       "firstSeenAt": "2026-07-28T09:43:50.217Z",
-      "lastSeenAt": "2026-10-05T00:50:02.773Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "과기정통부, 공공 CCTV 1만8100대에 국산 NPU 도입 · 달라지는 점은? - supple.kr",
@@ -10325,7 +10328,7 @@
       "issueCategory": "AI시장",
       "score": 26,
       "firstSeenAt": "2026-07-27T04:49:34.540Z",
-      "lastSeenAt": "2026-10-05T01:16:44.257Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "Nvidia Launches New Security Initiative For Open-Source AI - Semafor - TradingView",
@@ -10624,7 +10627,7 @@
       "issueCategory": "AI시장",
       "score": 33,
       "firstSeenAt": "2026-07-27T15:49:22.807Z",
-      "lastSeenAt": "2026-10-05T01:16:44.257Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "Google Cloud Growth Rate Converges With Nvidia - RealClearMarkets",
@@ -10917,7 +10920,7 @@
       "issueCategory": "AI시장",
       "score": 30,
       "firstSeenAt": "2026-07-27T10:49:56.690Z",
-      "lastSeenAt": "2026-10-05T01:16:44.257Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "엔비디아, AI로 반도체 설계 자동화 강화…삼성·TSMC도 활용 - 머니투데이 - 머니투데이",
@@ -13211,6 +13214,9 @@
       "outlet": "전자신문",
       "outletUrl": "https://www.etnews.com",
       "source": "국내 NPU 기업",
+      "sourceIds": [
+        "deepx"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -13225,7 +13231,7 @@
       "issueCategory": "NPU",
       "score": 29,
       "firstSeenAt": "2026-07-27T04:49:34.540Z",
-      "lastSeenAt": "2026-07-31T23:13:55.590Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "Nvidia to Invest About $1 Billion in Naver for AI Project - marketscreener.com",
@@ -14787,7 +14793,7 @@
       "issueCategory": "NPU",
       "score": 30,
       "firstSeenAt": "2026-07-25T23:07:58.612Z",
-      "lastSeenAt": "2026-10-05T01:16:44.257Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "Nvidia (NVDA) Invests $1B in Naver to Boost AI Data Center Capacity - GuruFocus",
@@ -46331,6 +46337,33 @@
       "lastSeenAt": "2026-07-16T04:21:54.471Z"
     },
     {
+      "title": "아이에이, 퓨리오사AI NPU 품은 100kW급 소형 AI 데이터센터 실증 - ddaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UdjhTdVEzN3VZUWtiNVYxb0djdmNWUUg0Z19JTVlvbnVVdUJGUElVUnlKbjRCYjVDSE1Xc1pMQUtsSUZuYlhnckxXMkZZcno2YkhqZGtPQXh6LUlGMnFYLW9R?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "summary": "아이에이, 퓨리오사AI NPU 품은 100kW급 소형 AI 데이터센터 실증 &nbsp;&nbsp; ddaily.co.kr",
+      "outlet": "ddaily.co.kr",
+      "outletUrl": "https://m.ddaily.co.kr",
+      "source": "퓨리오사AI",
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "퓨리오사AI"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NPU",
+        "퓨리오사AI",
+        "실증·조달"
+      ],
+      "issueCategory": "NPU",
+      "score": 21,
+      "firstSeenAt": "2026-07-15T04:15:31.849Z",
+      "lastSeenAt": "2026-10-05T06:56:19.074Z",
+      "sourceIds": [
+        "furiosa"
+      ]
+    },
+    {
       "title": "Publishers allege Google illegally used copyrighted books to build Gemini AI - Social Samosa",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRFRSM3pUWXV6RUt3YlB0TFFUVWZPT2gwNXJKbHNJeHRCN0l2S0prLXQxXzBFS2IxMktVRmdEdFYtdW9NYXdaQmFaT0t0V2twNDE5dTYtTHplNUhWVEN0WmthOFlHWlZ4dUNLYkNKa0RmandUcTlOR25SNFR2UXc5RjBBa0x2V1BnU0RWc25hQkdGa28wckdCZUtIb2M5cUxkeXlTMUhiWkVsS2hac01Yc01Dd1d5QdIBtgFBVV95cUxNRFRSM3pUWXV6RUt3YlB0TFFUVWZPT2gwNXJKbHNJeHRCN0l2S0prLXQxXzBFS2IxMktVRmdEdFYtdW9NYXdaQmFaT0t0V2twNDE5dTYtTHplNUhWVEN0WmthOFlHWlZ4dUNLYkNKa0RmandUcTlOR25SNFR2UXc5RjBBa0x2V1BnU0RWc25hQkdGa28wckdCZUtIb2M5cUxkeXlTMUhiWkVsS2hac01Yc01Dd1d5QQ?oc=5",
       "publishedAt": "Wed, 15 Jul 2026 06:59:37 GMT",
@@ -47437,30 +47470,6 @@
       "score": 27,
       "firstSeenAt": "2026-07-15T04:15:31.849Z",
       "lastSeenAt": "2026-07-15T09:19:26.966Z"
-    },
-    {
-      "title": "아이에이, 퓨리오사AI NPU 품은 100kW급 소형 AI 데이터센터 실증 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FRDRndEdGSjQ2Q3VrSUVFcHpHUEJ0ZHZ3ZC1XTC1Ca0l4UmJJNGtfS1VSTUNLN3dtSk0tQzJRUDRrR2w4SzR4TVNoZnd0LWhsTS1wanlOWUZKZzJsTEpGclhXVk8?oc=5",
-      "publishedAt": "Wed, 15 Jul 2026 00:31:52 GMT",
-      "summary": "아이에이, 퓨리오사AI NPU 품은 100kW급 소형 AI 데이터센터 실증 &nbsp;&nbsp; 디지털데일리",
-      "outlet": "디지털데일리",
-      "outletUrl": "https://www.ddaily.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "퓨리오사AI"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NPU",
-        "퓨리오사AI",
-        "실증·조달"
-      ],
-      "issueCategory": "NPU",
-      "score": 33,
-      "firstSeenAt": "2026-07-15T04:15:31.849Z",
-      "lastSeenAt": "2026-09-29T01:51:07.605Z"
     },
     {
       "title": "구글 딥마인드 수장 허사비스, 미국 주도 AI 표준기구 촉구 - 디지털투데이",
@@ -49047,7 +49056,7 @@
       "issueCategory": "NPU",
       "score": 36,
       "firstSeenAt": "2026-07-14T15:00:59.875Z",
-      "lastSeenAt": "2026-10-05T00:50:02.773Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "Google Chrome's Gemini AI features are rolling out to UK users - Neowin",
@@ -52876,6 +52885,10 @@
       "outlet": "머니투데이",
       "outletUrl": "https://www.mt.co.kr",
       "source": "하이퍼엑셀",
+      "sourceIds": [
+        "hyperaccel",
+        "hyperaccel-broad"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -52890,7 +52903,7 @@
       "issueCategory": "NPU",
       "score": 29,
       "firstSeenAt": "2026-07-13T10:34:19.099Z",
-      "lastSeenAt": "2026-09-03T17:01:23.847Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "Nvidia vs. Meta: AI Investment Showdown - Intellectia AI",
@@ -53193,7 +53206,7 @@
       "issueCategory": "NPU",
       "score": 34,
       "firstSeenAt": "2026-07-13T10:34:19.099Z",
-      "lastSeenAt": "2026-10-05T01:16:44.257Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "정부, 우리 모델로 대국민 AI 서비스 만든다…'모두의 AI' 공모 - 네이트",
@@ -61990,7 +62003,7 @@
       "issueCategory": "AI시장",
       "score": 35,
       "firstSeenAt": "2026-07-08T09:32:52.700Z",
-      "lastSeenAt": "2026-10-05T01:16:44.257Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "[주간스타트업동향] 퓨리오사AI, 에퀴닉스와 유럽 AI 인프라 시장 공략 나선다 外 - 동아일보",
@@ -65720,6 +65733,9 @@
       "outlet": "시사일보",
       "outletUrl": "http://www.koreasisailbo.com",
       "source": "국내 AI 정책",
+      "sourceIds": [
+        "msit-ai-chip"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [],
@@ -65730,7 +65746,7 @@
       "issueCategory": "정책",
       "score": 29,
       "firstSeenAt": "2026-07-07T15:49:06.521Z",
-      "lastSeenAt": "2026-07-13T04:41:07.270Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "Nvidia GeForce RTX 5080 Super GPU breaks cover, and it has a high TDP - Club386",
@@ -72000,6 +72016,9 @@
       "outlet": "전자신문",
       "outletUrl": "https://www.etnews.com",
       "source": "국내 NPU 기업",
+      "sourceIds": [
+        "furiosa"
+      ],
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
@@ -72014,7 +72033,7 @@
       "issueCategory": "NPU",
       "score": 33,
       "firstSeenAt": "2026-07-04T04:48:26.394Z",
-      "lastSeenAt": "2026-09-29T01:51:07.605Z"
+      "lastSeenAt": "2026-10-05T06:56:19.074Z"
     },
     {
       "title": "NVIDIA Introduces Revenue-Sharing AI Infrastructure Model to Expand Global AI Cloud Capacity - CXO Digitalpulse",
