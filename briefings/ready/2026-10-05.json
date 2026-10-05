@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-05",
+  "cutoff_at": "2026-10-05T09:00:00+09:00",
+  "window_start": "2026-10-04T09:00:00+09:00",
+  "created_at": "2026-10-05T09:08:26+09:00",
+  "status": "ready",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1,
+        2
+      ],
+      "bullets": [
+        "세미파이브는 미국 AI 팹리스와 703억원 규모의 추론 가속기 개발 계약을 체결했고, 모빌린트와는 산업 로봇용 AI반도체를 설계부터 패키징·테스트·양산까지 턴키로 개발한다.",
+        "국내 설계 생태계가 북미 맞춤형 AI칩 수주와 국내 로봇 수요 연계를 동시에 확보하면서 칩 설계 이후의 패키징·소프트웨어·제품 실증까지 사업 범위를 넓히고 있다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3,
+        4
+      ],
+      "bullets": [
+        "엔비디아는 블랙웰 GPU에서 구동되는 GPT-6 Astra Ultrafast가 표준 모드보다 토큰 생성 속도를 최대 8배 높였다고 밝혔고, LG전자는 엔비디아 냉각 파트너 지위와 600kW·1MW·2.6MW급 CDU 승인 라인업을 확보했다.",
+        "AI 인프라 경쟁이 가속기 공급량뿐 아니라 모델이 직접 만드는 추론 최적화와 메가와트급 액체냉각을 결합해 지연시간·가동률·전력밀도를 관리하는 방향으로 확장되고 있다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "세미파이브, 북미 AI 팹리스와 703억원 추론 가속기 개발 계약",
+      "category": "모빌린트",
+      "collected_at": "2026-10-04T13:09:30.350Z",
+      "original_published_at": "2026-10-03T06:30:00Z",
+      "original_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FM1MzR2tBSmozWXZmbVBMamRFWjI4ajNPRFl3UURqcFhiUHl0NHNGekpyNUxyRHdfMmNRU0FSdDZmbzE4VV96a0Z6dTI1NE9iQml0VVVkWHh1clBlYkZKT3BfR0VKVXp10gFsQVVfeXFMTjRocmZtb0ZpREtWUk8weEdTZW9kTHIyYzRTUjEtaENGS1ZMeWZ6QTFNQ21MTFBUd2NoODFuaVN0Z3NOLWFVUTFEeGw1d1FFMDlSZUxON1FqTUJFYzR3RTZMb3BYTENhaWkyQTBt?oc=5",
+      "main_points": [
+        "세미파이브는 미국 AI 팹리스와 5,200만달러, 약 703억원 규모의 차세대 AI 추론 가속기 개발 계약을 체결했다고 밝혔다. 회사 설명 기준 북미 첫 스펙 핸드오프 사업으로, 고객이 핵심 사양을 제시하면 상세 설계부터 패키징·테스트·양산·소프트웨어 개발까지 맡는 구조다.",
+        "프로젝트에는 LPDDR6와 PCIe Gen5를 적용해 메모리 전력과 데이터 전송 병목을 줄일 계획이며, 계약 규모는 회사가 제시한 2025년 연간 수주액 1,684억원의 40%를 넘는다.",
+        "양사는 2027년 상반기 테이프아웃을 거쳐 2028년부터 글로벌 하이퍼스케일러와 클라우드 서비스 사업자를 대상으로 양산에 들어간다는 일정이다."
+      ],
+      "implications": [
+        "국내 디자인솔루션 기업이 사양 정의 이후 전 과정을 맡는 계약을 북미에서 확보했다는 점은 AI ASIC 생태계의 부가가치가 단순 설계 용역에서 제품화·양산 책임으로 이동하고 있음을 보여준다.",
+        "LPDDR6 기반 전력 절감과 PCIe Gen5 데이터 이동 성능은 실제 추론 워크로드의 총소유비용과 연결되므로, 향후 테이프아웃·수율·소프트웨어 완성도와 고객 양산 전환을 단계별로 확인할 필요가 있다.",
+        "국내 생태계 관점에서는 팹리스와 디자인하우스, 패키징·테스트, 컴파일러 지원을 함께 묶은 해외 수주 모델로 확장 가능한지 검토할 여지가 있다."
+      ],
+      "sources": [
+        {
+          "title": "세미파이브, 美 팹리스와 AI 추론 가속기 개발 계약",
+          "publisher": "뉴스핌",
+          "published_at": "2026-09-29T14:49:00+09:00",
+          "url": "https://www.newspim.com/news/view/20260929000782",
+          "verification": "full_text",
+          "verified_at": "2026-10-05T09:08:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "세미파이브·모빌린트, 산업 로봇용 AI반도체 턴키 개발 계약",
+      "category": "모빌린트",
+      "collected_at": "2026-10-04T13:09:30.350Z",
+      "original_published_at": "2026-10-03T06:30:00Z",
+      "original_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FM1MzR2tBSmozWXZmbVBMamRFWjI4ajNPRFl3UURqcFhiUHl0NHNGekpyNUxyRHdfMmNRU0FSdDZmbzE4VV96a0Z6dTI1NE9iQml0VVVkWHh1clBlYkZKT3BfR0VKVXp10gFsQVVfeXFMTjRocmZtb0ZpREtWUk8weEdTZW9kTHIyYzRTUjEtaENGS1ZMeWZ6QTFNQ21MTFBUd2NoODFuaVN0Z3NOLWFVUTFEeGw1d1FFMDlSZUxON1FqTUJFYzR3RTZMb3BYTENhaWkyQTBt?oc=5",
+      "main_points": [
+        "세미파이브와 모빌린트는 산업통상부 K-온디바이스 AI 반도체 기술개발 사업의 일환으로 산업 로봇용 AI반도체 턴키 개발 계약을 체결했다.",
+        "양사는 외부 서버 연결이 어려운 야외 환경에서도 농업 로봇 등이 비전·센서 데이터를 실시간 처리하도록 설계하며, LPDDR6·PCIe Gen6·UCIe-S를 적용해 전력효율과 데이터 이동 성능을 확보한다는 계획이다.",
+        "세미파이브는 고객 사양을 바탕으로 상세 설계부터 패키징·테스트·양산까지 통합 서비스를 제공하고, 모빌린트의 NPU 기술과 결합해 실제 로봇 탑재를 추진한다."
+      ],
+      "implications": [
+        "국산 NPU 사업화가 데이터센터 카드 공급을 넘어 로봇용 SoC와 칩렛 인터커넥트, 센서 처리까지 포함하는 제품 맞춤형 개발로 확대되고 있다.",
+        "야외·통신 음영 환경에서는 최고 연산성능보다 전력 예산, 센서 입출력 지연, 열·진동 안정성, 모델 업데이트와 개발도구 완성도가 실제 채택을 좌우할 가능성이 크다.",
+        "국책 과제의 성과를 평가할 때는 시제품 제작뿐 아니라 수요기업의 로봇 탑재, 현장 추론 정확도·지연시간, 후속 구매와 양산 전환 여부를 함께 점검하는 방향을 고려할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "세미파이브, 모빌린트와 로봇용 AI 반도체 턴키 개발 계약",
+          "publisher": "뉴스핌",
+          "published_at": "2026-10-01T10:09:00+09:00",
+          "url": "https://www.newspim.com/news/view/20261001000351",
+          "verification": "full_text",
+          "verified_at": "2026-10-05T09:08:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "GPT-6 Astra Ultrafast, 블랙웰 GPU·AI 생성 커널로 최대 8배 속도",
+      "category": "NVIDIA 이슈",
+      "collected_at": "2026-10-04T06:47:34.042Z",
+      "original_published_at": "2026-10-04T03:44:52Z",
+      "original_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUxYYWFoY0k1bFJfOVNEM3AwVmxBRVZKRExlTkNteENzSkZDbTNrbGg4ZXB5OFNiZkFXTDRMb2tfUWhkRlJzTjRlb2R6MHpNLVpIbGtLdUMtVllMQVlzTF9uM1VyTjlIMjVjRTgzZHprYnN0ZlpHVHZJeXRWVy1XWWZicklhNjBFS2lMSkRZR3ppLVh3ZE9r?oc=5",
+      "main_points": [
+        "엔비디아는 블랙웰 GPU에서 구동되는 GPT-6 Astra Ultrafast가 Astra Standard 모드보다 토큰 생성 속도를 최대 8배 높인다고 밝혔다. 이 수치는 엔비디아와 OpenAI가 제시한 서비스 성능 설명으로, 구체적인 모델·요청 조건별 결과는 달라질 수 있다.",
+        "OpenAI는 내부 모델을 활용해 엔비디아 GPU용 추론 커널을 생성·시험·개선했고, 엔비디아는 프로그래머블 GPU와 도구가 반복적인 최적화를 가능하게 했다고 설명했다.",
+        "Ultrafast는 API와 일부 ChatGPT Work·Codex 이용자에게 제공되며, 도구 호출이 반복되는 에이전트 워크플로에서는 응답 사이의 대기시간을 줄이는 데 초점을 둔다."
+      ],
+      "implications": [
+        "추론 경쟁의 단위가 칩의 정적 벤치마크에서 모델이 배포 이후에도 커널과 런타임을 계속 최적화하는 폐루프 운영으로 이동하고 있다.",
+        "이 구조에서는 하드웨어 성능뿐 아니라 커널 생성 정확성, 회귀시험, 컴파일러·런타임 접근성, 지속적인 성능 업데이트 능력이 가속기 활용률과 서비스 지연시간을 좌우할 수 있다.",
+        "국산 NPU 생태계도 모델 기반 커널 최적화를 도입할 경우 성능 향상 수치와 시험조건, 재현성, 안전한 배포 절차를 함께 공개하는 방향을 검토할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+          "publisher": "NVIDIA Blog",
+          "published_at": "2026-10-01",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+          "verification": "public_primary",
+          "verified_at": "2026-10-05T09:08:00+09:00"
+        },
+        {
+          "title": "Ultrafast mode",
+          "publisher": "OpenAI Developers",
+          "published_at": "2026-10-01",
+          "url": "https://developers.openai.com/api/docs/guides/ultrafast-mode",
+          "verification": "public_primary",
+          "verified_at": "2026-10-05T09:08:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "LG전자, 엔비디아 냉각 파트너·2.6MW CDU 승인으로 공급망 진입",
+      "category": "해외 빅테크 국내 보도",
+      "collected_at": "2026-10-04T22:31:25.396Z",
+      "original_published_at": "2026-10-04T21:10:00Z",
+      "original_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vZXJhU1A3MnkxTGtGY3hPbU9Tcm50RERORXlfNU05Tk4xNEJuZUlUbGV2RTNzVTZXSW5pZUNDOUFfMVBHZngtZHNEcElHUWI0eUlXVmV5dzh4MnBHOG1GZlhqZUZFNHVY?oc=5",
+      "main_points": [
+        "LG전자는 엔비디아 파트너 네트워크의 Power and Cooling 분야 프리퍼드 파트너로 등재됐고, 엔비디아 기반 AI 데이터센터의 설계 초기부터 냉각 장비 후보로 참여할 기반을 확보했다.",
+        "회사는 600kW와 1MW급 CDU 승인에 이어 2.6MW급 제품이 엔비디아 DSX 레디 CDU로 승인됐다고 밝혔다. 2.6MW급은 약 120kW 서버랙 20대를 묶는 인로우 냉각 수요를 겨냥한 제품이다.",
+        "칠러·CDU·콜드플레이트를 묶은 칩 투 칠러 포트폴리오를 통해 북미 하이퍼스케일러와 코로케이션 사업자의 대형 프로젝트 수주를 추진한다."
+      ],
+      "implications": [
+        "고집적 GPU 랙의 전력밀도가 높아지면서 냉각은 보조 설비가 아니라 가속기 배치 규모와 가동률을 결정하는 핵심 공급망으로 편입되고 있다.",
+        "규격 승인과 파트너 등재는 입찰 접근성을 높이지만 실제 경쟁력은 현장 전력사용효율, 열 제거 용량, 장애 전환, 누수 대응과 유지보수 비용으로 검증될 전망이다.",
+        "국내 AI 데이터센터와 국산 가속기 실증에서도 칩 성능과 함께 랙 단위 전력·냉각 설계, 통합관제 호환성, 국내 냉각 부품 공급망을 연계해 평가하는 관점을 고려할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "LG전자 대용량 액체냉각 솔루션, 엔비디아 AI 팩토리 규격 승인",
+          "publisher": "LG전자 뉴스룸",
+          "published_at": "2026-09-22",
+          "url": "https://www.lge.co.kr/story/newsroom/236188",
+          "verification": "public_primary",
+          "verified_at": "2026-10-05T09:08:00+09:00"
+        },
+        {
+          "title": "LG전자, 엔비디아 '냉각 파트너' 됐다…MW급 AI 데이터센터 수주전 탄력",
+          "publisher": "전자신문",
+          "published_at": "2026-09-27T10:00:00+09:00",
+          "url": "https://m.etnews.com/20260927000014",
+          "verification": "full_text",
+          "verified_at": "2026-10-05T09:08:00+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "10월 아카이브의 수집 구간에서 세미파이브의 북미 AI 추론 가속기 계약과 세미파이브·모빌린트의 산업 로봇용 AI반도체 턴키 개발을 확인해 1·2번으로 선정했다. 한전 변전소 리벨리온 NPU·K-Perf 보도는 2026-10-03 브리핑에서 이미 다룬 동일 협약·실증이어서 제외했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "중앙부처 관련 후보로 산업통상부 K-온디바이스 AI 반도체 사업 안에서 체결된 모빌린트·세미파이브 로봇용 개발 계약을 확인했고, 계약·개발 단계임을 구분해 2번에 반영했다. 공공기관은 한전 변전소 NPU 실증 재보도를 확인했으나 전날과 동일해 제외했다. 지자체·지방의회·테크노파크·지역 진흥기관은 아카이브와 NPU·AI반도체·인공지능반도체·국비·예산·실증·도입·조달 조합의 공개 검색을 점검했지만, 마감 전 수집 근거와 NPU 직접성이 확인되는 신규 후보는 찾지 못했다. 지역 전체 예산이나 일반 AI 사업비를 NPU 예산으로 해석하지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "아카이브에서 GPT-6 Astra Ultrafast의 블랙웰 GPU 추론 최적화, 브로드컴 AI 고객 금융, 구글 TPU 위성 실증, 엔비디아 주가·투자 분석을 검토했다. 공개 1차 자료로 검증된 신규 추론 최적화 이슈를 3번으로 선정했고, 브로드컴 금융과 구글 TPU 위성은 2026-10-03 브리핑에서 이미 다룬 사건이며 투자 의견 기사는 산업 변화 근거가 부족해 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "엔비디아 GPU에서 OpenAI 내부 모델이 추론 커널을 생성·시험·개선한 운영 소프트웨어 변화를 3번으로 선정했다. 엔비디아 OpenShell·Sentry 보도는 2026-10-03 브리핑에서 이미 다룬 동일 발표였고, 수집 구간에서 별도의 검증 가능한 컴파일러·런타임·오케스트레이션 신규 후보는 확인되지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "메모리·인터커넥트는 1·2번의 LPDDR6, PCIe Gen5·Gen6, UCIe-S 적용 계획을 확인했고, 인프라는 LG전자의 600kW·1MW·2.6MW CDU 승인과 엔비디아 냉각 파트너 등재를 4번으로 선정했다. 수집 구간에서 별도의 HBM·첨단 패키징 신규 후보는 공개 원문으로 확인되지 않았다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "703억원 규모의 북미 첫 스펙 핸드오프 계약으로 국내 디자인솔루션 기업이 추론 ASIC의 설계·패키징·소프트웨어·양산 전 과정을 맡는 사업화 변화를 보여준다."
+      },
+      {
+        "article_number": 2,
+        "reason": "국산 NPU와 디자인솔루션 역량을 결합해 농업 로봇 등 실제 수요기기에 탑재할 AI반도체를 개발하는 계약으로 국내 수요창출과 제품화 의미가 크다."
+      },
+      {
+        "article_number": 3,
+        "reason": "모델이 GPU 추론 커널을 지속적으로 최적화하고 서비스 속도를 높이는 사례로, 가속기 경쟁이 하드웨어와 운영 소프트웨어의 공동 최적화로 이동하는 흐름을 보여준다."
+      },
+      {
+        "article_number": 4,
+        "reason": "엔비디아 파트너 지위와 메가와트급 CDU 승인 라인업은 고집적 AI 가속기 확산에 필요한 전력·냉각 공급망의 구체적인 진입 변화를 보여준다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "한전에 리벨리온 NPU·AI칩 성능지표 'K-Perf' 첫 적용",
+        "url": "https://v.daum.net/v/20261004122513917",
+        "reason": "공개 본문을 확인했으나 2026-10-03 브리핑에서 이미 선정한 동일 협약과 변전소 실증으로 실질적인 추가 사실이 없어 제외했다."
+      },
+      {
+        "title": "Broadcom Chases NVIDIA With $60 Billion Financing Plan for AI Customers",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGY4SDhLSHhXNmxKVmNMbkRqZ0Q4TnpUaVBzTF9zeHhSTklFUWdvZDZwZlRaUWNOMWhjOU9SZUF1UmlfMUlLa3U0bnpFc1FBY3lTYWkwTTUtUWVlaXBfRUsxTW55N0h3UExzY2g1eFJCR3NlU0RqMFk3VEgyanp2WHlYQWlUbzV4VDJkN0xKU052X2NwV0ZzUnIyNkJpdHQ0Wno4b0pRQk5ZR1RraXNLYkhWNmdwUkhnN3d6U1Eycjc?oc=5",
+        "reason": "브로드컴의 앤트로픽 대상 최대 420억달러 금융지원과 연계된 후속 보도로, 2026-10-03 브리핑에서 이미 다룬 핵심 사건과 중복돼 제외했다."
+      },
+      {
+        "title": "Google launches satellite in first test of AI data centres in space",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMVc1VUY1eFJ6QmtjVE9TTXF4X0tOOTQ3X29BZ3JQbDBmckhzZ0lhczJPcFA4OFdYNjlnb3RibFlOY210Q3I1eFdVN2xoRWlVU010RE9Tc3RWMWdsczRwX1RHQmIxZFVrQTN1WVlObWpkUHhrTG1naXRHdWtYdm1NVjBXZG1DWXlaSVVsQlpEZFNzYzNtWEswaVJwb05obm9INVpxSW1pRU5KWUpxMl9Z?oc=5",
+        "reason": "구글 TPU 4개를 탑재한 Project Suncatcher 위성 발사는 2026-10-03 브리핑에서 이미 선정한 동일 사건이어서 제외했다."
+      },
+      {
+        "title": "Nvidia’s Agent Watchdog and Its BlueField Hardware Requirement",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeVZvdl9sZ1hmaGhnU3ozUjNrUzdkdlRaTGhtVkVIM0tHOXFpUDkwUTRqcm5mcktUTG1KcnBqZkd4UnV3djF1T0NpcGJkWHN1YUhTUkh0YWdkQjFHc2ZRTnpnYU1fSFFoM05IVG5WTlFBVFA5YUIzc2hLRDJoYjhhNy1PSlBMRE9wZW1jNTVDcHlQQnRURVkxTEJIbW15cF9QLVVz?oc=5",
+        "reason": "OpenShell·Sentry와 BlueField-4 기반 에이전트 보안 플랫폼은 2026-10-03 브리핑에서 이미 다룬 동일 발표로 추가 변화가 없어 제외했다."
+      },
+      {
+        "title": "Nvidia Stock Briefly Tops Key Level as Earnings Season Puts AI Spending in Focus",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc1lfUmxzendDTTAyRFpFTkxsQ3NvWlBuUTM0dVFaX1cxQWFhV2NwOG5zVGptTnJneEFac2xINnBkdkxwekdLejdVcGwxTEE0RXlxUlhyTDc4SUszM2RLNDd4WmpaYnA3SVdLVGlMRlhOcmFVWlNPSk5JMmF3enVLTWZpWXhtTGhld0JnYlBvSnNSRVdiR0JRaW5QYkthdU11ZVdVZ3g0QXllWHhIWXBSWnc5Tjl6REFWRUVJd2FqOThzYWRwdGNWVFNzeUJkbWljLW5J?oc=5",
+        "reason": "주가와 실적 전망 중심의 투자 기사로 새로운 제품·공급·도입·기술 변화가 확인되지 않아 제외했다."
+      }
+    ],
+    "count_reason": "수집 구간의 30개 후보를 다섯 영역에서 검토했으나 전날 선정 사건의 재보도, 범용 AI·사이버보안 기사, 주가·투자 의견, 공개 원문이 부족한 후보를 제외한 뒤 독립성과 검증 가능성을 갖춘 중요 이슈가 4건이었다. 동일 주간 기사에 포함된 세미파이브의 북미 수주와 모빌린트 로봇용 개발 계약은 계약 상대·수요시장·기술 목표가 달라 각각 독립 이슈로 판단했으며, 오래된 기사로 수를 채우지 않았다.",
+    "company_overlap_review": "세미파이브가 1·2번에 반복되지만 1번은 미국 팹리스 대상 703억원 추론 ASIC 수주, 2번은 모빌린트와 국내 산업 로봇용 AI반도체를 개발하는 별도 계약이다. 해외 맞춤형 ASIC 사업화와 국내 NPU 제품·수요처 실증이라는 변화가 독립적이고 다른 후보는 중복 재보도나 투자 의견에 그쳐 두 건 모두 선정했다. 3·4번은 각각 엔비디아 중심의 추론 최적화와 LG전자 중심의 냉각 공급망 이슈로 구분된다."
+  }
+}
