@@ -1,7 +1,33 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-10-04T22:31:25.396Z",
+  "generatedAt": "2026-10-05T00:50:02.773Z",
   "news": {
     "articles": [
+      {
+        "title": "리벨리온, 과기정통부 혁신제품 지정으로 국산 NPU 공공 조달 공식화 - 와우테일",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOel9QNjdwMVRHUXk0NUY5cXZjV1B3RGxla0hUN1NtUUEyYVRpOTNRNjNiNzF6T25NUWJBVmh4VkkxYjFiZDJUVzZpd3FJX2M?oc=5",
+        "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
+        "summary": "리벨리온, 과기정통부 혁신제품 지정으로 국산 NPU 공공 조달 공식화 &nbsp;&nbsp; 와우테일",
+        "outlet": "와우테일",
+        "outletUrl": "https://wowtale.net",
+        "source": "정부 NPU 정책·예산",
+        "sourceIds": [
+          "government-npu-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "리벨리온"
+        ],
+        "taxonomyHits": [
+          "정책",
+          "NPU",
+          "K-엔비디아",
+          "리벨리온",
+          "실증·조달"
+        ],
+        "issueCategory": "NPU",
+        "score": 34
+      },
       {
         "title": "국산 AI반도체 3사 나란히 혁신제품 지정…리벨리온·퓨리오사에이아이·딥엑스 공공시장 진입 시작 - 조달경제신문",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hdnZrYWlrYjFtUTNIWTRXRWVKdFAxQUp3YW12ZDE0WXRaMTNQWXFrdnFPZ3ZnNGFzemdvd1dwQ1MzWWhvcXp0RWMxS3ZsNmNqZElUTnFyYnJIaDBmOHhVZ2d0YTdsRWEyaVI0WkZB?oc=5",
@@ -87,11 +113,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - 이투데이",
+        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - etoday.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KeGVSMXRwLVBJWVJOWjR0SjRoV0hwVS1OTU1xZ3R4bFozdVdrbVY2cGtqU2pLOG4yMElfaEhXQjBfaEhOZ2pzTEZIR2s4QkM4VzJEbA?oc=5",
         "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; 이투데이",
-        "outlet": "이투데이",
+        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; etoday.co.kr",
+        "outlet": "etoday.co.kr",
         "outletUrl": "https://www.etoday.co.kr",
         "source": "딥엑스",
         "sourceIds": [
@@ -110,6 +136,29 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "NPU",
         "score": 31
+      },
+      {
+        "title": "딥마인드·오픈AI 서울 집결…과기정통부, 역대 최대 'AI 페스타 26' 개최 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IYS1Cbzk0aTh5ZUpRaDQ4TjFsUnNpNVJZX21TM3Q5S1RxMXNSMnpBYWE3RzFCR1pIYjkzQkZLRHRNQjBHTk42dkYzVjJJMHUzMVloUUhDNFhWc1pZYnBhdG9aeWZEaWPSAWxBVV95cUxNMUVBbW90RksyREFWUlJDemY1YUxrVjFmTVVha1RXMFhhOFhEQmNoVUJ3OEFzUjVGdks1LXl4NjJmalBMN1VOT1FycHpEZFRQLTRORno3bm1PUEYtanh1dmlRbXRMQWNRMUVSNlU?oc=5",
+        "publishedAt": "Wed, 30 Sep 2026 05:27:21 GMT",
+        "summary": "딥마인드·오픈AI 서울 집결…과기정통부, 역대 최대 'AI 페스타 26' 개최 - 머니투데이 &nbsp;&nbsp; 머니투데이",
+        "outlet": "머니투데이",
+        "outletUrl": "https://www.mt.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "정책",
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 29
       },
       {
         "title": "퓨리오사AI·리벨리온 출격… 엔비디아 독주에 도전하는 한국 NPU - 핀포인트뉴스",
@@ -137,29 +186,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "NPU",
-        "score": 30
-      },
-      {
-        "title": "딥마인드·오픈AI 서울 집결…과기정통부, 역대 최대 'AI 페스타 26' 개최 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IYS1Cbzk0aTh5ZUpRaDQ4TjFsUnNpNVJZX21TM3Q5S1RxMXNSMnpBYWE3RzFCR1pIYjkzQkZLRHRNQjBHTk42dkYzVjJJMHUzMVloUUhDNFhWc1pZYnBhdG9aeWZEaWPSAWxBVV95cUxNMUVBbW90RksyREFWUlJDemY1YUxrVjFmTVVha1RXMFhhOFhEQmNoVUJ3OEFzUjVGdks1LXl4NjJmalBMN1VOT1FycHpEZFRQLTRORno3bm1PUEYtanh1dmlRbXRMQWNRMUVSNlU?oc=5",
-        "publishedAt": "Wed, 30 Sep 2026 05:27:21 GMT",
-        "summary": "딥마인드·오픈AI 서울 집결…과기정통부, 역대 최대 'AI 페스타 26' 개최 - 머니투데이 &nbsp;&nbsp; 머니투데이",
-        "outlet": "머니투데이",
-        "outletUrl": "https://www.mt.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "Google"
-        ],
-        "issueCategory": "Google",
         "score": 29
       },
       {
@@ -283,8 +309,9 @@ window.__DASHBOARD_DATA__ = {
         "summary": "리벨리온·딥엑스·모빌린트 NPU, 공공 CCTV 1만8천대에 투입 &nbsp;&nbsp; KB Think",
         "outlet": "KB Think",
         "outletUrl": "https://kbthink.com",
-        "source": "모빌린트",
+        "source": "딥엑스",
         "sourceIds": [
+          "deepx",
           "mobilint"
         ],
         "sourceLang": "ko",
@@ -464,11 +491,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 - etnews.com",
+        "title": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kV2lHT1FQMk5lZGVaMXhNTC1zZzExSUdObGhZNVFyNDBwWlVIYnZCQ0RjM2N1SWJielU4b3NKQU9xWW5MdjY1RE42NHdPZw?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 03:23:41 GMT",
-        "summary": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 &nbsp;&nbsp; etnews.com",
-        "outlet": "etnews.com",
+        "summary": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증 &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
         "source": "국내 NPU 기업",
         "sourceIds": [
@@ -651,26 +678,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "\"독파모 폐지 아니다\"…과기정통부 \"프론티어 AI와 별도 병행 추진\" - 뉴스웍스",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOSGRXMzJNN2lHb085cDN2V1hqNGdsRWpHaXRoWlMxbXlHNFdBcUxIN193QUN5aWh0blRkbFFXMkZNckg4aFNVcUJTQjdaUFVHRnl4TDQ3SlpGMGsyNVBEYVVrUGlENlZGMFdDWUZYQQ?oc=5",
-        "publishedAt": "Sun, 04 Oct 2026 00:32:28 GMT",
-        "summary": "\"독파모 폐지 아니다\"…과기정통부 \"프론티어 AI와 별도 병행 추진\" &nbsp;&nbsp; 뉴스웍스",
-        "outlet": "뉴스웍스",
-        "outletUrl": "https://www.newsworks.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 26
-      },
-      {
         "title": "독파모 중단설에 과기정통부 장·차관 잇단 등판…프런티어 AI와 투트랙 승부 - 디지털투데이",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZRTlOTDdRUGM4LVNRb05LeTlyQmM0R3NHN3lUaGdtSHBRcUltbFlLbmh1TmpPb1pIaEpGeFRXbTJwTmtWYnlHaWxxWl83UXFtY3JRNjhQT1VvcXBVcmhEZ2RUNUZjSGd0M1VmSzItUXRnMUE?oc=5",
         "publishedAt": "Thu, 01 Oct 2026 22:30:00 GMT",
@@ -778,6 +785,26 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "실증·조달",
         "score": 26
+      },
+      {
+        "title": "\"독파모 폐지 아니다\"…과기정통부 \"프론티어 AI와 별도 병행 추진\" - newsworks.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOSGRXMzJNN2lHb085cDN2V1hqNGdsRWpHaXRoWlMxbXlHNFdBcUxIN193QUN5aWh0blRkbFFXMkZNckg4aFNVcUJTQjdaUFVHRnl4TDQ3SlpGMGsyNVBEYVVrUGlENlZGMFdDWUZYQQ?oc=5",
+        "publishedAt": "Sun, 04 Oct 2026 00:32:28 GMT",
+        "summary": "\"독파모 폐지 아니다\"…과기정통부 \"프론티어 AI와 별도 병행 추진\" &nbsp;&nbsp; newsworks.co.kr",
+        "outlet": "newsworks.co.kr",
+        "outletUrl": "https://www.newsworks.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
+        "score": 25
       },
       {
         "title": "\"독파모 폐지 없다\"…과기정통부 \"프론티어 AI와 별도 추진\" 재확인 - edaily.co.kr",
@@ -942,32 +969,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "'엔비디아 의존 벗어나자'... 정부, AMD와 국산 NPU 실증 약속 - 한국일보",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56dkdacDNqNmlHLUtaQ2dYdFRXclVoLVpBNVJ3R3ZESU9OdnRTU1VQeFJNV3pyZnpoRUxXbUtkZC1ody03N0hXYVdwSHlxTWRyalZUbl9KSm5WUDhJUDVxbXUyVmRpTFkweGNJMTd30gFzQVVfeXFMT21zblMwSy1LbGJGNkpIYkQ1Qlc3WXlfVWJwUEdpbXJDYV9FWFZCc0NtZ3BENWhEM0pIbms2Q1RoWmhoWGRCbFg4NVJqdE1yVVN6UXljZDJMMlFtYjh1cEFuU0NVVnViQWVyZ3dVUHJSalJaOA?oc=5",
-        "publishedAt": "Thu, 20 Aug 2026 07:00:00 GMT",
-        "summary": "'엔비디아 의존 벗어나자'... 정부, AMD와 국산 NPU 실증 약속 &nbsp;&nbsp; 한국일보",
-        "outlet": "한국일보",
-        "outletUrl": "https://www.hankookilbo.com",
-        "source": "정부 NPU 정책·예산",
-        "sourceIds": [
-          "government-npu-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "K-엔비디아",
-          "NVIDIA",
-          "실증·조달"
-        ],
-        "issueCategory": "AI시장",
-        "score": 25
-      },
-      {
         "title": "과기정통부, AMD와 AI 반도체 동맹…개방형 AI 컴퓨팅 생태계 구축 - 글로벌경제신문",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YX013YUVWRXdWSThGZU9mcm9qV1lqZWNSaHRXa1dGYVdrZ1hkaFZnWmQzSGkwTlJTUmVla21xZnYyaGR2bWVEcGk2SDZoNWVnTDU4alJjOGJKNWplTktqaTJzVHJMVXNFdXg1Y9IBcEFVX3lxTE1jcHlOSU1RcWs5YUx2V1dvdHB6RHlSclNyR2VRTlJjTkRpUjZweGpzXzFYeHUzN0Y5Y0hRc21hU18tZ0pQaVFtdmNjVGFJX0N1MEhLZzA5ZUdMUnN4YktGM3V6UGk0QXJRWGEwZkRwa04?oc=5",
         "publishedAt": "Mon, 27 Jul 2026 07:00:00 GMT",
@@ -1067,11 +1068,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "한전, 국산 AI 반도체 변전소에 투입···리벨리온 NPU 실증 - 이뉴스투데이",
+        "title": "한전, 국산 AI 반도체 변전소에 투입···리벨리온 NPU 실증 - enewstoday.co.kr",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tY3pLcjFMbUcyZTdZS2kzRXNSMjNrbGJVWjBKaU1Md1JMQWEteTc4UXZZQWlBZnNzZ205X25JTXBQcmZLZXNEbE9TaF9ncklvV2N6YW1oa0VfZGJ6Zmt1LTlRQjZydXJGM0M2MmxlSTjSAXRBVV95cUxNX0ZERGFWS0FzRWhZWEZNV0FxRTl6Z0hFc2wxX0V1RlUzRXZBRTBicFNiNFNPUF8ySDd5NE1OUF9hcTQyazVmMklsTGRSWWlrZzlnWEtWVDBWdUxMWmNRVEhqLWJhNTZ1QU5mNUY3VWxNNTFMbA?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 09:30:00 GMT",
-        "summary": "한전, 국산 AI 반도체 변전소에 투입···리벨리온 NPU 실증 &nbsp;&nbsp; 이뉴스투데이",
-        "outlet": "이뉴스투데이",
+        "summary": "한전, 국산 AI 반도체 변전소에 투입···리벨리온 NPU 실증 &nbsp;&nbsp; enewstoday.co.kr",
+        "outlet": "enewstoday.co.kr",
         "outletUrl": "http://www.enewstoday.co.kr",
         "source": "국내 NPU 기업",
         "sourceIds": [
@@ -1113,11 +1114,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "과기정통부, 피지컬 AI 확산 지원할 ‘무선전력전송’ 시험장 가동 - robotnews.tistory.com",
+        "title": "과기정통부, 피지컬 AI 확산 지원할 ‘무선전력전송’ 시험장 가동 - 티스토리",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UR0swdC14bHYyX2w3U0VXODRpWTZXY2N0eVRDY1oxMHQ2NHh4SklXSDhIQ09KelRxM3pSMHVqOFF6UjMtVTY3bjI0Zw?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 08:33:59 GMT",
-        "summary": "과기정통부, 피지컬 AI 확산 지원할 ‘무선전력전송’ 시험장 가동 &nbsp;&nbsp; robotnews.tistory.com",
-        "outlet": "robotnews.tistory.com",
+        "summary": "과기정통부, 피지컬 AI 확산 지원할 ‘무선전력전송’ 시험장 가동 &nbsp;&nbsp; 티스토리",
+        "outlet": "티스토리",
         "outletUrl": "https://robotnews.tistory.com",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
@@ -1376,34 +1377,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "[스타트업 안테나] 세미파이브·모빌린트 ‘로봇 AI 반도체’ 맞손…KB인베는 GMI클라우드 투자 - 테크42",
-        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPLUdJY2loN3UzZ3gtb3ptdzRQT0tpWjlWT0R6andaYUpLU1ZaVlltUEhxTzgwTHh4R0I2Yk9VNE9odk44ZFVLbHdMMDFHWWdaLTFDcVpPYlpwZHFxcWVubGl1SHV2Z1piS0JiYXBOcU11REJxV29kdlVJQUh0M29EWWFhcGZaWW03djhPN19RVUlpLWlWMUdaTXBFeldaWXh3aDhYZVNmTjVvX29SSEg4Y0FxdEk4T05iRkZwNl9pUGx3TzZsWm11SktVb2QtN2YzMl9aM0VxN3ZyX1J6ZXIwc1dOMGczb3V0WXdKQlYwRVMxQmp0ZzE4ZzRwTkZCbDlZamRMZUJkUWdWeWlVZWQwOUkyV2E4WVJCNTRNVGxUUkY1dngzNFFTWWxucGNOeHFqTUJnVA?oc=5",
-        "publishedAt": "Thu, 01 Oct 2026 22:59:08 GMT",
-        "summary": "[스타트업 안테나] 세미파이브·모빌린트 ‘로봇 AI 반도체’ 맞손…KB인베는 GMI클라우드 투자 &nbsp;&nbsp; 테크42",
-        "outlet": "테크42",
-        "outletUrl": "https://www.tech42.co.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "mobilint",
-          "mobilint-broad",
-          "korea-ai-market",
-          "ai-chip-public-program"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "모빌린트"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "모빌린트",
-          "투자·M&A"
-        ],
-        "issueCategory": "NPU",
-        "score": 24
-      },
-      {
         "title": "[사이언스게시판] 과기정통부, 서울대에 'AI반도체 혁신 연구소' 개소 外 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YekYzcE9rNmx5SlpvN3RlVWg4WFIyMi13U1l1RFVkQkFHYlZzTzRQN1ljajNFT2FvSXdSY0JUOGYzUllmcFJJcjZlVQ?oc=5",
         "publishedAt": "Tue, 29 Sep 2026 07:58:11 GMT",
@@ -1426,15 +1399,37 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "[사이언스게시판] 과기정통부, 서울대에 'AI반도체 혁신 연구소' 개소 外 - dongascience.com",
+        "title": "[사이언스게시판] 과기정통부, 서울대에 'AI반도체 혁신 연구소' 개소 外 - DongA Science",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RXzdxb1JNSERUZF83cGJKWEFmYUgzckluOE5hY3NTS0pycUxQSnlpNHl3cnpBVXd5QTNLaDZFNzh3enhiMndtLVBXZkFWeFdzZE1lNw?oc=5",
         "publishedAt": "Tue, 29 Sep 2026 07:55:00 GMT",
-        "summary": "[사이언스게시판] 과기정통부, 서울대에 'AI반도체 혁신 연구소' 개소 外 &nbsp;&nbsp; dongascience.com",
-        "outlet": "dongascience.com",
+        "summary": "[사이언스게시판] 과기정통부, 서울대에 'AI반도체 혁신 연구소' 개소 外 &nbsp;&nbsp; DongA Science",
+        "outlet": "DongA Science",
         "outletUrl": "https://www.dongascience.com",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy",
+          "ai-chip-public-program",
+          "government-npu-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "NPU"
+        ],
+        "issueCategory": "NPU",
+        "score": 24
+      },
+      {
+        "title": "과기정통부, 서울대에 '인공지능(AI) 반도체 혁신연구소' 개소... 산·학 협력으로 차세대 인공지능 반도체 기술개발·핵심인재 양성 - 코리아타임뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CWUZHd29TemRvWW5HLXdLaG14XzdxcHhfRFlsaDF5bkFSMTlsUjE1TklzSzdFN29Oclkwc09jYV9hdnRXNEl4b2d6TjZGcUdlREpRMkZNUTlkYWgxUHYxUUtMRWg5czR3eWc?oc=5",
+        "publishedAt": "Tue, 29 Sep 2026 07:12:05 GMT",
+        "summary": "과기정통부, 서울대에 '인공지능(AI) 반도체 혁신연구소' 개소... 산·학 협력으로 차세대 인공지능 반도체 기술개발·핵심인재 양성 &nbsp;&nbsp; 코리아타임뉴스",
+        "outlet": "코리아타임뉴스",
+        "outletUrl": "https://www.koreatimenews.com",
+        "source": "AI반도체 공공사업",
+        "sourceIds": [
           "ai-chip-public-program",
           "government-npu-policy"
         ],
@@ -1470,12 +1465,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "과기정통부, 서울대에 '인공지능(AI) 반도체 혁신연구소' 개소... 산·학 협력으로 차세대 인공지능 반도체 기술개발·핵심인재 양성 - 뉴스체인지",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYN2lXR3BwVjlxU2ZCaGNlWXQwQ2NCLTFZOEtfbGVHTmp2N0hJUWxtTHVUbWVVMWtUSTdUeHVfSjFzWnYxLXV1WEI1dw?oc=5",
-        "publishedAt": "Tue, 29 Sep 2026 06:47:00 GMT",
-        "summary": "과기정통부, 서울대에 '인공지능(AI) 반도체 혁신연구소' 개소... 산·학 협력으로 차세대 인공지능 반도체 기술개발·핵심인재 양성 &nbsp;&nbsp; 뉴스체인지",
-        "outlet": "뉴스체인지",
-        "outletUrl": "http://www.newschange.co.kr",
+        "title": "과기정통부, 서울대에 '인공지능(AI) 반도체 혁신연구소' 개소... 산·학 협력으로 차세대 인공지능 반도체 기술개발·핵심인재 양성 - climatepol.com",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTSDBUaGtSQUV5VE5ET25ZNmtBNzZmTUd4VTdyRUNLZ29NaEppakNrNzBYSFhqOGRWYTJhRUxyWGpaQmV2MEFrTlYyMzZ0MmNBQm5vSE9yMzJSSzF1Qm1fWlNyVFhWVHhVVkZGTA?oc=5",
+        "publishedAt": "Tue, 29 Sep 2026 06:47:49 GMT",
+        "summary": "과기정통부, 서울대에 '인공지능(AI) 반도체 혁신연구소' 개소... 산·학 협력으로 차세대 인공지능 반도체 기술개발·핵심인재 양성 &nbsp;&nbsp; climatepol.com",
+        "outlet": "climatepol.com",
+        "outletUrl": "https://www.climatepol.com",
         "source": "AI반도체 공공사업",
         "sourceIds": [
           "ai-chip-public-program"
@@ -1491,11 +1486,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "금융위 \"㈜퓨리오사AI 투자승인은 국민성장펀드 마중물 수행 사례\" - 대한민국 정책브리핑",
+        "title": "금융위 \"㈜퓨리오사AI 투자승인은 국민성장펀드 마중물 수행 사례\" - 정책브리핑",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10Z2lVdXJZN21WaGxDNWRPZ2dYdlJsVFFjbEN6LWdjQlJnSV9GQ3ZoanJqZ1lVbmF4Ujlna1lGS0dOWUlfaFNZRmlnN29LRmxqcDg0cFFfM19wSHB5ZmsxcFFHV0dTZnNJX2JBVUNzTQ?oc=5",
         "publishedAt": "Tue, 29 Sep 2026 06:32:51 GMT",
-        "summary": "금융위 \"㈜퓨리오사AI 투자승인은 국민성장펀드 마중물 수행 사례\" &nbsp;&nbsp; 대한민국 정책브리핑",
-        "outlet": "대한민국 정책브리핑",
+        "summary": "금융위 \"㈜퓨리오사AI 투자승인은 국민성장펀드 마중물 수행 사례\" &nbsp;&nbsp; 정책브리핑",
+        "outlet": "정책브리핑",
         "outletUrl": "https://www.korea.kr",
         "source": "국내 NPU 기업",
         "sourceIds": [
@@ -1583,11 +1578,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "[사이언스게시판] 과기정통부, AI 스타트업 투자 대상 발굴 경진대회 개최 外 - dongascience.com",
+        "title": "[사이언스게시판] 과기정통부, AI 스타트업 투자 대상 발굴 경진대회 개최 外 - DongA Science",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DSThOYW9MajJPdXhwbUlyd3hHR1Q1a2hqdF9aeHpMRXNPcE9QdEZNV1RHOW5WLWFyelFRU1JPNzl5enNvem5DYmg1WTU1bTVQTG05VA?oc=5",
         "publishedAt": "Fri, 18 Sep 2026 07:00:00 GMT",
-        "summary": "[사이언스게시판] 과기정통부, AI 스타트업 투자 대상 발굴 경진대회 개최 外 &nbsp;&nbsp; dongascience.com",
-        "outlet": "dongascience.com",
+        "summary": "[사이언스게시판] 과기정통부, AI 스타트업 투자 대상 발굴 경진대회 개최 外 &nbsp;&nbsp; DongA Science",
+        "outlet": "DongA Science",
         "outletUrl": "https://www.dongascience.com",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
@@ -1627,11 +1622,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "과기정통부, 국산 AI반도체 해외실증 전폭 지원…8개 컨소시엄 선정 - 대한민국 정책브리핑",
+        "title": "과기정통부, 국산 AI반도체 해외실증 전폭 지원…8개 컨소시엄 선정 - 정책브리핑",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pak9jcW14V1ZLdnZlalRZTVdmRFBPelVrazZlbk9qTmRsM2IwUl8tM0VMd0FXaU16eUJROGdwVU5yc2FwdGZBOFRRb3N1V2UtV3BkUmRJYW9BRUNkRVY4ZGdkTmZpM2puOS1MSw?oc=5",
         "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "과기정통부, 국산 AI반도체 해외실증 전폭 지원…8개 컨소시엄 선정 &nbsp;&nbsp; 대한민국 정책브리핑",
-        "outlet": "대한민국 정책브리핑",
+        "summary": "과기정통부, 국산 AI반도체 해외실증 전폭 지원…8개 컨소시엄 선정 &nbsp;&nbsp; 정책브리핑",
+        "outlet": "정책브리핑",
         "outletUrl": "https://www.korea.kr",
         "source": "정부 NPU 정책·예산",
         "sourceIds": [
@@ -1716,11 +1711,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "유원지리정보시스템, '2025 AIoT 국제전시회'에서 AI반도체 응용실증지원사업으로 개발·실증한 결과물 선봬 - etnews.com",
+        "title": "유원지리정보시스템, '2025 AIoT 국제전시회'에서 AI반도체 응용실증지원사업으로 개발·실증한 결과물 선봬 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qMUtkOGZEX3czUWJ6b0FsS0h4cVp1SVBRRHUxVjV1QWpZRGxVUG0wMm9nTXNzN3VyT1pTQjBONF90QXc3SEtaSV9TTGFQQQ?oc=5",
         "publishedAt": "Tue, 25 Nov 2025 08:00:00 GMT",
-        "summary": "유원지리정보시스템, '2025 AIoT 국제전시회'에서 AI반도체 응용실증지원사업으로 개발·실증한 결과물 선봬 &nbsp;&nbsp; etnews.com",
-        "outlet": "etnews.com",
+        "summary": "유원지리정보시스템, '2025 AIoT 국제전시회'에서 AI반도체 응용실증지원사업으로 개발·실증한 결과물 선봬 &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
         "source": "공공·지역기관 NPU 수요",
         "sourceIds": [
@@ -1738,11 +1733,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "유원지리정보시스템, 'AI반도체 응용실증지원사업'으로 개발한 실증 시제품...기재부 간담회서 시연 - etnews.com",
+        "title": "유원지리정보시스템, 'AI반도체 응용실증지원사업'으로 개발한 실증 시제품...기재부 간담회서 시연 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HaHFtS0NuUHJWUGhqVG1GcW1IUEZqMGl2SFl5VkcxN3JCTmhRN2piTHpmNnhhQ1ZxLTFVRXZfb1FTTDRpa2lGUGdYYW5TZw?oc=5",
         "publishedAt": "Tue, 23 Sep 2025 07:00:00 GMT",
-        "summary": "유원지리정보시스템, 'AI반도체 응용실증지원사업'으로 개발한 실증 시제품...기재부 간담회서 시연 &nbsp;&nbsp; etnews.com",
-        "outlet": "etnews.com",
+        "summary": "유원지리정보시스템, 'AI반도체 응용실증지원사업'으로 개발한 실증 시제품...기재부 간담회서 시연 &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
         "source": "공공·지역기관 NPU 수요",
         "sourceIds": [
@@ -1758,6 +1753,29 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "정책",
         "score": 24
+      },
+      {
+        "title": "What Is AI Sovereignty? Nvidia's Huang Says Every Nation Needs Its Own System - Seoul Economic Daily",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVGV2RzM5bFBqMmhEMVBpS3ZEMXhhZkpVTVpmV1FVTFRqVEoyTlEzRFNpQlpha3ZBVTZnUzRZYXRkUDg4OU5DMDljLVJIOTlUNlZ2VVVUQUlnbmV5eHFuX1EtS00tNjFOMnZSd3B1WjBVeWhLREdhZzR1UzlyVkdmZm5LTmZveWhPY09VQjE4QXFsZmRpdmVLT0E2cmVKRFN6ZXhxcg?oc=5",
+        "publishedAt": "Sun, 04 Oct 2026 22:05:00 GMT",
+        "summary": "What Is AI Sovereignty? Nvidia's Huang Says Every Nation Needs Its Own System &nbsp;&nbsp; Seoul Economic Daily",
+        "outlet": "Seoul Economic Daily",
+        "outletUrl": "https://en.sedaily.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "수출통제·공급망",
+        "score": 23
       },
       {
         "title": "[기업家] LG전자 ⑭ㅣ 엔비디아 손잡고 AI 데이터센터 공략…냉각 솔루션 글로벌 영토 확장 - CBC뉴스",
@@ -1830,11 +1848,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Nvidia and 3 AI Infrastructure Stocks Backed by Big R and D Spending - simplywall.st",
+        "title": "Nvidia and 3 AI Infrastructure Stocks Backed by Big R and D Spending - Simply Wall Street",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNPRUNmVW1wa1JjTC1BQkpXSmEyVjlCNTRPUmpfVHk0Sy1WRmc2NTV5VjdkbElRZUFkS2xrcDVxMEV3WVpodHhWZ280SGlEekg4T1hHQXhpQ25abHVGRmtTckFlcXE5dGZpUGJYczA5eGkwOElBNWpfd2F1cmdfVlRXOVBuWU1Sdk5nR2VpNWZmQkNkdmpuVEZiOHM1VURGcGJnWWN5aXZwRTN0S3dreXBXc1BkUklwNFkwRkpYLUgxeEs4SFVEWFc0ZHBHd3dzQnNpOVVLcXcyV3PSAeABQVVfeXFMTkUxVW5YR0w1RGtKTU9ramdBenZUM2F2d2NFdkZ4MUZiMU94RWxkZnZoMUhsaF9MXzM3MUxHQ3JUR0otbGFlTDFudVFSdjNCZW5KRzJVVzZmYll4NXR1b2toeFBjLVdDVHhNVkI0MUdZRHJlVlYwc080ZlZ3bHYxeWphdXlmQU9XVXVEZDVWekFFYUNzQ2FEanhYSUFLQmRtNWhPOFY3eXBaNlZvclVVS1hEQzgtWlRkZl9YUzhLVk5oMjhMc18zck1FcFdCdVlJNHliNWtWdEx3dHlVZElkWGk?oc=5",
         "publishedAt": "Sun, 04 Oct 2026 14:22:05 GMT",
-        "summary": "Nvidia and 3 AI Infrastructure Stocks Backed by Big R and D Spending &nbsp;&nbsp; simplywall.st",
-        "outlet": "simplywall.st",
+        "summary": "Nvidia and 3 AI Infrastructure Stocks Backed by Big R and D Spending &nbsp;&nbsp; Simply Wall Street",
+        "outlet": "Simply Wall Street",
         "outletUrl": "https://simplywall.st",
         "source": "NVIDIA 이슈",
         "sourceIds": [
@@ -1876,11 +1894,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "The Sequence Radar - Issue 944 — Last Week in AI: Last Week in AI: OpenAI Connects the Dots, Gemini Levels Up, and Agents Cash In - TheSequence | Jesus Rodriguez",
+        "title": "The Sequence Radar - Issue 944 — Last Week in AI: Last Week in AI: OpenAI Connects the Dots, Gemini Levels Up, and Agents Cash In - thesequence.substack.com",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uQktJUlpNWmFDdjRYaFlLc3JJanRIWjNDdkpRSUpyOWJHVDFULV9uUU9NblhUMkFXclpfcE9EVURybWpEMG45T1dxOWlRR2V6Ynd0eWdtdDhiSkhsNUc2NGo3ckl0LWVKdWFrX0NRUzRCc2t5LVNr?oc=5",
         "publishedAt": "Sun, 04 Oct 2026 11:03:34 GMT",
-        "summary": "The Sequence Radar - Issue 944 — Last Week in AI: Last Week in AI: OpenAI Connects the Dots, Gemini Levels Up, and Agents Cash In &nbsp;&nbsp; TheSequence | Jesus Rodriguez",
-        "outlet": "TheSequence | Jesus Rodriguez",
+        "summary": "The Sequence Radar - Issue 944 — Last Week in AI: Last Week in AI: OpenAI Connects the Dots, Gemini Levels Up, and Agents Cash In &nbsp;&nbsp; thesequence.substack.com",
+        "outlet": "thesequence.substack.com",
         "outletUrl": "https://thesequence.substack.com",
         "source": "Google AI 이슈",
         "sourceIds": [
@@ -1992,29 +2010,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "[Pocus 창작 교육 칼럼] 13화: “구글 AI 모드 끄는 법” 없어…미 교실 챗봇은 막았지만 검색창에서 뚫려 - 얼리어답터뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TdTNBRkQ2dVNqRmZJVVR0NFd5aFBaMkhRTFAtb3dZcG8xaERkRDZnVy0ycjlOYU5qenRzSllKei1qa1VoR2w4QkdR?oc=5",
-        "publishedAt": "Sun, 04 Oct 2026 04:48:20 GMT",
-        "summary": "[Pocus 창작 교육 칼럼] 13화: “구글 AI 모드 끄는 법” 없어…미 교실 챗봇은 막았지만 검색창에서 뚫려 &nbsp;&nbsp; 얼리어답터뉴스",
-        "outlet": "얼리어답터뉴스",
-        "outletUrl": "https://www.eanews.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google",
-          "실증·조달"
-        ],
-        "issueCategory": "실증·조달",
-        "score": 23
-      },
-      {
         "title": "한전에 리벨리온 NPU·AI칩 성능지표 'K-Perf' 첫 적용 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE50dHFjT1hpWDE2TVBsbms0TlJLdkRSMEpWS2l0akxySlc0R3gyQjE1SHR3VHlxaXMzcjd4eTd4UFR6NWdQTVE?oc=5",
         "publishedAt": "Sun, 04 Oct 2026 03:25:13 GMT",
@@ -2064,34 +2059,39 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "LG유플러스, 크리에이터 교육에 생성형 AI 접목…구글과 창작 역량 강화 - ngonews.kr",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00YkxsakQ0SExvNnp1NlJ0QjVoRlR2NUdOZlRLNVl2YmxqTzhQQ0hwZXZERHd4YkRuRFJ3Q1VLRF9acjdIWDVNRVVhZ1FEeDZRRTFGMXpTelV1WXhYcXNsa09TUHdMQXYw?oc=5",
-        "publishedAt": "Sun, 04 Oct 2026 00:26:46 GMT",
-        "summary": "LG유플러스, 크리에이터 교육에 생성형 AI 접목…구글과 창작 역량 강화 &nbsp;&nbsp; ngonews.kr",
-        "outlet": "ngonews.kr",
-        "outletUrl": "https://www.ngonews.kr",
-        "source": "해외 빅테크 국내 보도",
+        "title": "[스타트업 안테나] 세미파이브·모빌린트 ‘로봇 AI 반도체’ 맞손…KB인베는 GMI클라우드 투자 - 테크42",
+        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPLUdJY2loN3UzZ3gtb3ptdzRQT0tpWjlWT0R6andaYUpLU1ZaVlltUEhxTzgwTHh4R0I2Yk9VNE9odk44ZFVLbHdMMDFHWWdaLTFDcVpPYlpwZHFxcWVubGl1SHV2Z1piS0JiYXBOcU11REJxV29kdlVJQUh0M29EWWFhcGZaWW03djhPN19RVUlpLWlWMUdaTXBFeldaWXh3aDhYZVNmTjVvX29SSEg4Y0FxdEk4T05iRkZwNl9pUGx3TzZsWm11SktVb2QtN2YzMl9aM0VxN3ZyX1J6ZXIwc1dOMGczb3V0WXdKQlYwRVMxQmp0ZzE4ZzRwTkZCbDlZamRMZUJkUWdWeWlVZWQwOUkyV2E4WVJCNTRNVGxUUkY1dngzNFFTWWxucGNOeHFqTUJnVA?oc=5",
+        "publishedAt": "Thu, 01 Oct 2026 22:59:08 GMT",
+        "summary": "[스타트업 안테나] 세미파이브·모빌린트 ‘로봇 AI 반도체’ 맞손…KB인베는 GMI클라우드 투자 &nbsp;&nbsp; 테크42",
+        "outlet": "테크42",
+        "outletUrl": "https://www.tech42.co.kr",
+        "source": "국내 NPU 기업",
         "sourceIds": [
-          "korea-global-ai-companies"
+          "korea-npu",
+          "mobilint",
+          "mobilint-broad",
+          "korea-ai-market",
+          "ai-chip-public-program"
         ],
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
-          "Google"
+          "모빌린트"
         ],
         "taxonomyHits": [
-          "AI시장",
-          "Google"
+          "AI인프라",
+          "모빌린트",
+          "투자·M&A"
         ],
-        "issueCategory": "AI시장",
+        "issueCategory": "NPU",
         "score": 23
       },
       {
-        "title": "가천대, 과기정통부 주관 'AI중심대학' 출범식 참석…전교생 AI 교육 본격화 - 비욘드포스트",
+        "title": "가천대, 과기정통부 주관 'AI중심대학' 출범식 참석…전교생 AI 교육 본격화 - beyondpost.co.kr",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mbXhZdTFPcjQ3VnhXOERXbGZ6RU12alFUazZIeGw0dHBXTnNZb25wRFptUm9JN2V0cjlhd2w2NEttM1owQ0xvYWFHVWVtSDFqLVNlQVdRZzBldFFsUlhqS1pwdmJYcl9CaUc0eVNVWm9sM082TVdVd3NuNC0?oc=5",
         "publishedAt": "Thu, 01 Oct 2026 10:51:31 GMT",
-        "summary": "가천대, 과기정통부 주관 'AI중심대학' 출범식 참석…전교생 AI 교육 본격화 &nbsp;&nbsp; 비욘드포스트",
-        "outlet": "비욘드포스트",
+        "summary": "가천대, 과기정통부 주관 'AI중심대학' 출범식 참석…전교생 AI 교육 본격화 &nbsp;&nbsp; beyondpost.co.kr",
+        "outlet": "beyondpost.co.kr",
         "outletUrl": "https://www.beyondpost.co.kr",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
@@ -2113,26 +2113,6 @@ window.__DASHBOARD_DATA__ = {
         "summary": "켄텍, 과기정통부 AI 분야 국가사업 3개 선정...480억원 투입 &nbsp;&nbsp; 디스커버리뉴스(DISCOVERYNEWS)",
         "outlet": "디스커버리뉴스(DISCOVERYNEWS)",
         "outletUrl": "https://www.discoverynews.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
-        "score": 23
-      },
-      {
-        "title": "켄텍, 과기정통부 AI 분야 국가사업 3개 선정 - 웹이코노미",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdXdVeHA3UnhYdTV2RzVYbjBidVRBeGVDb2ZMbElBRVNrTTZHLW5rYURPSWpwRWZDY0Zna1JvNlpNdmVsWDBpa3d0NzY3MmhxTzJLeUxQNmNIbjNZXzhubnBPdEFIbHp3dVdEYTZFaGlyZw?oc=5",
-        "publishedAt": "Thu, 01 Oct 2026 08:21:42 GMT",
-        "summary": "켄텍, 과기정통부 AI 분야 국가사업 3개 선정 &nbsp;&nbsp; 웹이코노미",
-        "outlet": "웹이코노미",
-        "outletUrl": "https://www.webeconomy.co.kr",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy"
@@ -2347,26 +2327,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "켄텍, 과기정통부 AI 분야 국가사업 3개 잇단 선정 - 뉴스파이어",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IZTZ5eVVma1lZWWhrUXpSc1RQTkdDTTVKMW9DeEY3TnBnYWU2QjZmWkNBTjQyR3pLTTc5anY1eEVPZTZvcUVBNGRpZEt4QzM5VWk3NEloQ1AtZVRsV3NQUVB3dV8tal90S0FPZXpTRQ?oc=5",
-        "publishedAt": "Thu, 01 Oct 2026 05:31:54 GMT",
-        "summary": "켄텍, 과기정통부 AI 분야 국가사업 3개 잇단 선정 &nbsp;&nbsp; 뉴스파이어",
-        "outlet": "뉴스파이어",
-        "outletUrl": "https://www.newsfire.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
-        "score": 23
-      },
-      {
         "title": "피지컬 AI 로봇이 충전도 스스로…과기정통부, 무선전력 테스트베드 가동 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aU21WS25XQVBfZElrVDRrb3BrYmR4V3R0WHhrNjEtQzF5Sk1lRXF3NDhNNFZyMld2MU9wM1RxaWRRQ05aaUNaSjdiWm85OTQ?oc=5",
         "publishedAt": "Thu, 01 Oct 2026 04:59:55 GMT",
@@ -2387,11 +2347,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "과기정통부, '무선전력전송' 시험장 개소…피지컬 AI 상용화 지원 - 컨슈머타임스",
+        "title": "과기정통부, '무선전력전송' 시험장 개소…피지컬 AI 상용화 지원 - cstimes.com",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SSE1wZVBUU1IzY0t6bFJFbk1TellZWEN6ZDFQZDNGNDRGd2VzV0s4Rm5rV0VVY3RMdG11Y2plV2xLN25oZ2dqTVhwaE9LWFg2NVJ2UGxrNnBKaFkyd09WakhIQkJ4RFpzUkE?oc=5",
         "publishedAt": "Thu, 01 Oct 2026 03:41:59 GMT",
-        "summary": "과기정통부, '무선전력전송' 시험장 개소…피지컬 AI 상용화 지원 &nbsp;&nbsp; 컨슈머타임스",
-        "outlet": "컨슈머타임스",
+        "summary": "과기정통부, '무선전력전송' 시험장 개소…피지컬 AI 상용화 지원 &nbsp;&nbsp; cstimes.com",
+        "outlet": "cstimes.com",
         "outletUrl": "https://www.cstimes.com",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
@@ -2428,26 +2388,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "과기정통부, 국가 AI 안전 마스터플랜 수립…민관 협의체 가동 - epnc.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91Yk1aZlZ1d0JRSUk5R2NVX0d3ZUxhbmJMeUFpMXN1WTJxcVMzNktKMnhrYlpoYjNMYzRXYkh2MWE2SHBIVXg1YTk1Umt3RDdoZmwySmF4LXcxOWg1cEduaHpqbDB5Nkxy?oc=5",
-        "publishedAt": "Thu, 01 Oct 2026 00:18:18 GMT",
-        "summary": "과기정통부, 국가 AI 안전 마스터플랜 수립…민관 협의체 가동 &nbsp;&nbsp; epnc.co.kr",
-        "outlet": "epnc.co.kr",
-        "outletUrl": "https://www.epnc.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 23
-      },
-      {
         "title": "모빌린트, 국산 NPU 로봇·가전 적용 추진… LG전자·두산로보틱스·대동과 실증 - 조선비즈 - Chosunbiz",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2J1MnRCNzhxNjJDdnBBbnRfYnNlMVU1ZEp3d2h4OEtra0cxcS1jdm52b0dDZDF0d0NSM2hFRC1iSGFPQ0pjR09oUU9kdUZsdVQtZkRwejItSWJaeVhxWXdMN1NCLWhabG1HOWxCLWZOUko3WWFkaW91Y05HNkhZX0Z30gGWAUFVX3lxTFAzbkJSQk9fQ2o0cGozcXJlUWJtbm9LQjh1WUxxb2JTeWcwQWdyVGVXeWEwQmZIN3R5b0NYTVNCaFdkdVJmTEQ2YTRrUmpCLV93R2lvY25xbTFhN3N6TnhkdG50eExuaUFVZEdZZmlvc295XzdkQW15LVZEdFNzNlo5N1VXMU5LaFVPblFWX09pOWRfVkNZZw?oc=5",
         "publishedAt": "Mon, 28 Sep 2026 01:54:00 GMT",
@@ -2472,30 +2412,6 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "NPU",
         "score": 23
-      },
-      {
-        "title": "What a $10,000 Investment Split Between Nvidia and Broadcom Could Be Worth by 2030 - AOL.com",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2ZMbEw3b0owOThCdVA0aEJMSnlrQzVxNEdudVVjbWdEdlBTUG9RbEZTcWdiZi1Hd2NBX1dQcDY5WS1JQ014eWNZbURsMHZQQVNWeWxVZ0Vlc25iOTNrcXNFNFNJcmRRckN3OW1NQ0FVWWpFZ0l4RmxMZ0xRWHdTWQ?oc=5",
-        "publishedAt": "Sun, 04 Oct 2026 12:45:00 GMT",
-        "summary": "What a $10,000 Investment Split Between Nvidia and Broadcom Could Be Worth by 2030 &nbsp;&nbsp; AOL.com",
-        "outlet": "AOL.com",
-        "outletUrl": "https://www.aol.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Broadcom"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
       },
       {
         "title": "[투데이 시그널] AI가 행동하기 시작했다 — 엔비디아, 통제 벗어난 에이전트 막는 ‘안전장치’ 공개 - Korea IT Times",
@@ -2567,11 +2483,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "구글, 우주 데이터센터 첫 실험…TPU 위성 발사 - yonhapnewstv.co.kr",
+        "title": "구글, 우주 데이터센터 첫 실험…TPU 위성 발사 - 연합뉴스TV",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tMjQ2TjJqc3ZzNG5DR01HYkJjeUE2WDhLd3ZSbHR2U3Z5bFhYWm45SUduZmJjdm1yZVFyalU4dmdRc3dMNmNOT2JzdGxsbkFKbkRMMmtCYVk0NWxQVUVGRzIzTHpseU0?oc=5",
         "publishedAt": "Sat, 03 Oct 2026 01:44:00 GMT",
-        "summary": "구글, 우주 데이터센터 첫 실험…TPU 위성 발사 &nbsp;&nbsp; yonhapnewstv.co.kr",
-        "outlet": "yonhapnewstv.co.kr",
+        "summary": "구글, 우주 데이터센터 첫 실험…TPU 위성 발사 &nbsp;&nbsp; 연합뉴스TV",
+        "outlet": "연합뉴스TV",
         "outletUrl": "https://www.yonhapnewstv.co.kr",
         "source": "해외 빅테크 국내 보도",
         "sourceIds": [
@@ -2610,6 +2526,26 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "AI시장",
+        "score": 22
+      },
+      {
+        "title": "과기정통부, 국가 AI 안전 마스터플랜 수립…민관 협의체 가동 - 테크월드",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91Yk1aZlZ1d0JRSUk5R2NVX0d3ZUxhbmJMeUFpMXN1WTJxcVMzNktKMnhrYlpoYjNMYzRXYkh2MWE2SHBIVXg1YTk1Umt3RDdoZmwySmF4LXcxOWg1cEduaHpqbDB5Nkxy?oc=5",
+        "publishedAt": "Thu, 01 Oct 2026 00:18:18 GMT",
+        "summary": "과기정통부, 국가 AI 안전 마스터플랜 수립…민관 협의체 가동 &nbsp;&nbsp; 테크월드",
+        "outlet": "테크월드",
+        "outletUrl": "https://www.epnc.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
         "score": 22
       },
       {
@@ -2778,26 +2714,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "해양드론기술, 과기정통부 장관 표창…해양 드론·AI 기술력 인정 - 해사신문",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UQTExSGJqNXVfVjVWS2ltTlpQUlZkSEpRbUM5Z01IZjlMV0J6SV9uMXFDeVRUbnpNS2tRd0lBM2tzUkZCTUJfYjVMcUlxaGpwVWJCYlFNRkI0UTAta0Q4cU9OTHNQdngyYlBr?oc=5",
-        "publishedAt": "Tue, 29 Sep 2026 22:58:43 GMT",
-        "summary": "해양드론기술, 과기정통부 장관 표창…해양 드론·AI 기술력 인정 &nbsp;&nbsp; 해사신문",
-        "outlet": "해사신문",
-        "outletUrl": "http://www.haesanews.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 22
-      },
-      {
         "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia - Ars Technica",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0hQeXM3LUdQR2xCTThQOUZETzNEWk04U25CS0VkNjlrTU15allNdTh4eGFvV1hfdVpvYXRlRk9MZnFnWUhLYTRzVjNzclZDMVgtVFBKSTRMZXZzcEVURXJwSVBTN2JjZHQ3cFNvbjdGckdiU1k5YUNmeE05RGdXR3BTUjZPcEVpOGNoUkpnMVFJNmNxZVRfc1hlU3VnZGtzREFybG5B?oc=5",
         "publishedAt": "Tue, 29 Sep 2026 21:14:49 GMT",
@@ -2819,30 +2735,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTZ1UjNVY2c5emJzWG1DWERwTHNmaWJUN3IxRTV2bWl0Rk1TM3UtbWNyRHZwalltSVptSUtTU0tlRldBUktJNnh3dl9iNHVWR2tjdjlwTEI3VElKTVV4SHhwZ2hwNW9qRDNkNTFwMi1RREtTSzh3SHFidnRwWWI4ZEhaQlJfTFlGX2M00gGQAUFVX3lxTE5adHBjTmY1OUh1bDVPekFGekc4Y3VSZDFfc1p1NHgtd1ZhNkxPZDdFd2s3N0doaElvNjlDMVQycWNjUlh6TWw5V0hxYWpDeUNnLVpUVFJ3S2Q5dWM1TDNPaGlhQWZpMXRoOEFLOVZVdVVkczYyM3pPWUdaTHU5d3laTE96Ny1QbUk0ckFqNDJkNw?oc=5",
-        "publishedAt": "Tue, 29 Sep 2026 00:00:00 GMT",
-        "summary": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm &nbsp;&nbsp; CNBC",
-        "outlet": "CNBC",
-        "outletUrl": "https://www.cnbc.com",
-        "source": "해외 정책·투자",
-        "sourceIds": [
-          "global-policy"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Samsung"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI인프라",
         "score": 22
       },
       {
@@ -3003,11 +2895,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "AMD·퓨리오사AI, 배경훈 과기부총리 만났다···국산 NPU 확산 머리 맞대 - 이뉴스투데이",
+        "title": "AMD·퓨리오사AI, 배경훈 과기부총리 만났다···국산 NPU 확산 머리 맞대 - enewstoday.co.kr",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fTEFCdXhCMTBzMEhvZkxKeklBUlJWSW1oUi1PdlBna0kxNktYMzZ5OGZMOU1PaUtGWHM4WGdONVRJOXpHeVhIc2dkSlJnT0xUN3FzS0hXNkpmMHhLdEJOUFpkYzVHVGtHS3FYVDFjZ2jSAXRBVV95cUxNV2RPTkUyRTVvRVMwcVZSaFpSTkxWelVWa0huclZEaFAtSjFrOVU0ME1obE43SDNJRmtFVUJwX0x3VGlVRkI2M3ZFMmZBSmxnWFB6ckphM0hOUWZzTWt1d3J1clZHLWdTVXFTeTJqY2g2Yjlyaw?oc=5",
         "publishedAt": "Thu, 20 Aug 2026 07:00:00 GMT",
-        "summary": "AMD·퓨리오사AI, 배경훈 과기부총리 만났다···국산 NPU 확산 머리 맞대 &nbsp;&nbsp; 이뉴스투데이",
-        "outlet": "이뉴스투데이",
+        "summary": "AMD·퓨리오사AI, 배경훈 과기부총리 만났다···국산 NPU 확산 머리 맞대 &nbsp;&nbsp; enewstoday.co.kr",
+        "outlet": "enewstoday.co.kr",
         "outletUrl": "http://www.enewstoday.co.kr",
         "source": "과기정통부 AI반도체",
         "sourceIds": [
@@ -3055,11 +2947,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "과기정통부-AMD 맞손…AI 반도체 생태계 협력 - 동아일보",
+        "title": "과기정통부-AMD 맞손…AI 반도체 생태계 협력 - donga.com",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3ekNmSWJkSHJsbEE2VkpTV1Jwc0ZtaWEyYi1mZTZ6OUwxYXlWb2dGVVVvSmQ1YTdsWDZTQWE5blh2SkVCemk1cjZDLUVEREZVYlc0N0xDOW5GYUR4NkdWdHdtY2liM05fNDU3b3V2VXc4Y0Q1RGfSAWZBVV95cUxPV05zYV8xS01FTFVXWERTbGJaVDEtM21IVXJycVVlRHlZU3BsMjdlLWh2NkRrOC1mN21tN0tLWEw3T3o4Z0NtR1h1V1FSeTRYdUc2TWFZY3A3WDdWOHVnUldqU2poS0E?oc=5",
         "publishedAt": "Mon, 27 Jul 2026 07:00:00 GMT",
-        "summary": "과기정통부-AMD 맞손…AI 반도체 생태계 협력 &nbsp;&nbsp; 동아일보",
-        "outlet": "동아일보",
+        "summary": "과기정통부-AMD 맞손…AI 반도체 생태계 협력 &nbsp;&nbsp; donga.com",
+        "outlet": "donga.com",
         "outletUrl": "https://www.donga.com",
         "source": "과기정통부 AI반도체",
         "sourceIds": [
@@ -3124,14 +3016,15 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "퓨리오사AI, NPU 내년 '4만장' 2배 증산…엔비디아 독점에 도전 - etnews.com",
+        "title": "퓨리오사AI, NPU 내년 '4만장' 2배 증산…엔비디아 독점에 도전 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjQVVYNFpsaTFoeHZtbVV1YV9QUENQTW9MTmxtTmZjb1hjczk1aTdrN0xnZi1BZEpFcER2SXp1WE9FT01uQTRoMDhMNE5fdw?oc=5",
         "publishedAt": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "summary": "퓨리오사AI, NPU 내년 '4만장' 2배 증산…엔비디아 독점에 도전 &nbsp;&nbsp; etnews.com",
-        "outlet": "etnews.com",
+        "summary": "퓨리오사AI, NPU 내년 '4만장' 2배 증산…엔비디아 독점에 도전 &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
-        "source": "퓨리오사AI",
+        "source": "국내 NPU 기업",
         "sourceIds": [
+          "korea-npu",
           "furiosa"
         ],
         "sourceLang": "ko",
@@ -3199,11 +3092,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "2.8만 기업에 보안점검 권고…과기정통부-KISA, 해킹 총력 대응 - etnews.com",
+        "title": "2.8만 기업에 보안점검 권고…과기정통부-KISA, 해킹 총력 대응 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81NEhhMlNoRTl6bUp0LWo4YS1WTTNjSkI2c1dqTXFubGYyV2xwWDFTaDlIZGNQQUl2MTJfbFl6QzBHWXl1TmJpZUtPSVROQQ?oc=5",
         "publishedAt": "Sun, 04 Oct 2026 14:59:35 GMT",
-        "summary": "2.8만 기업에 보안점검 권고…과기정통부-KISA, 해킹 총력 대응 &nbsp;&nbsp; etnews.com",
-        "outlet": "etnews.com",
+        "summary": "2.8만 기업에 보안점검 권고…과기정통부-KISA, 해킹 총력 대응 &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
@@ -3373,6 +3266,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
+        "title": "Amazon Held Talks to Spin Off $8 Billion of Nvidia AI Chips in Data Centers, FT Reports - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVk5OWswUVoxZi1kVWhmZDFIdXVySkhETlVyeUtfQ0h3YW1vYmVzSzVWdlZkNHlWTVNZRGZBYzlfRkRBRDhzQUhGZmZqYzU5QVBLOHJzNDFxcWUtSEtjT0NGbV9RdnZxSnFiRmJhSExMbXR1OXlhLXQyUXc0aldLb2JxcXl1Wk5jRm1ubWpCcjl4Vkt3ZE1DMQ?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 16:06:33 GMT",
+        "summary": "Amazon Held Talks to Spin Off $8 Billion of Nvidia AI Chips in Data Centers, FT Reports &nbsp;&nbsp; Moomoo",
+        "outlet": "Moomoo",
+        "outletUrl": "https://www.moomoo.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "NVIDIA"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 21
+      },
+      {
         "title": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China — federal prosecutors say chips were routed through Malaysia and Singapore using false paperwork - Tom's Hardware",
         "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPTS1ZdWR6VWFvcURsdGFQNUZjODR2QkZVOFk4c3hBT3hBNnlyY0k1Q0oyRzNFNk4wY0Q3VTlKdEU0aVdUdGZHNW1YWkN2LUxpcUE4MmJBdVhSRkFyLTFRSEhocUloZTB1MnFNYnV6TmN0WENtUC01aGc5WkpLazJBZGZuNGYtVzZNYmoyX2pDQjNYS1VYSHd5MklwTk1aVWYwNktaUm1JWms0SGFEbWlTMDBXYzJZRUYtWURTQ2lZaVZxMmptaDdnWDctek81dWJQME4xTHh4a1FQT1NPWHMycWptS0hvUzYxVWhOZXBqVWd2VVgxWWlOWWJRWDg3SGY4OVFMY3lPbGVyU3pXa3QzZnlnTGxtWGRicDhjYjdvbndvTzJGNHlxS05Ja25FRGMyeF96Q1hjLU9JWmlrQ2RBUkw3Tm42dDEzU245ZmxFdVZlT0RtbTVaRUcwTk5TbDJEa3FPdXpyeVZ6OUFxMWY3Yzkwa3JIcERwM0NmX3ozUjJaLWcwY3FXN1FKNm1lMUF4UFE?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 14:53:41 GMT",
@@ -3396,11 +3312,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "구글, ‘우주 데이터센터’ 첫 궤도 실험…TPU 위성 발사 성공 - yonhapnewstv.co.kr",
+        "title": "구글, ‘우주 데이터센터’ 첫 궤도 실험…TPU 위성 발사 성공 - 연합뉴스TV",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tUDhfRHZtb1FRQkh4bFZKSVJ3MHlmX1k1emN2Rl9id1c1blkwbG5ZYnF2aTNYbWhVZmthTElQaHlzV1pwVGdIUzNOcHRRd3FGb1dLcVRManphVWJ2ZXdmWHp6SktCSzQ?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 13:55:00 GMT",
-        "summary": "구글, ‘우주 데이터센터’ 첫 궤도 실험…TPU 위성 발사 성공 &nbsp;&nbsp; yonhapnewstv.co.kr",
-        "outlet": "yonhapnewstv.co.kr",
+        "summary": "구글, ‘우주 데이터센터’ 첫 궤도 실험…TPU 위성 발사 성공 &nbsp;&nbsp; 연합뉴스TV",
+        "outlet": "연합뉴스TV",
         "outletUrl": "https://www.yonhapnewstv.co.kr",
         "source": "해외 빅테크 국내 보도",
         "sourceIds": [
@@ -3488,11 +3404,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "국산 AI반도체, 한전 변전소서 실전 검증···리벨리온 NPU 투입 - 이뉴스투데이",
+        "title": "국산 AI반도체, 한전 변전소서 실전 검증···리벨리온 NPU 투입 - enewstoday.co.kr",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YTWxMNEpSXzZVT3B6YWVqWnAzRHNDcFliRE9xZS1QZ0FBeHhGSUF5WTAyRkYzX3hiS05XdHpMVnpuU0FNLWVrYW5MRm41X0VtR1REMHFFODY4WHdxQV9jSUczRGVMV0xfX2tPS1J4V3DSAXRBVV95cUxQUTZWSGxqTDV3MU40Vy1EOU82Wk9taFAtbThqR0dBdklPMWpvRGgxd0hUQkVZaWlNRF9ydzhHamxNZFJHUHh5MWdaNkdmSnhxbVNMcE45bnJDUlp3Y3NzdVozNDk0WmFKc2FFX3B4NVh3ZXVqbQ?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 12:29:22 GMT",
-        "summary": "국산 AI반도체, 한전 변전소서 실전 검증···리벨리온 NPU 투입 &nbsp;&nbsp; 이뉴스투데이",
-        "outlet": "이뉴스투데이",
+        "summary": "국산 AI반도체, 한전 변전소서 실전 검증···리벨리온 NPU 투입 &nbsp;&nbsp; enewstoday.co.kr",
+        "outlet": "enewstoday.co.kr",
         "outletUrl": "http://www.enewstoday.co.kr",
         "source": "국내 NPU 기업",
         "sourceIds": [
@@ -3603,6 +3519,29 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "데이터센터",
+        "score": 21
+      },
+      {
+        "title": "TSMC Expands Advanced Semiconductor Capacity to Support AI Demand- Spherical Insights Analysis - Spherical Insights",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlFkdm02VTBSZW10b3lqdEtSTzFHODZzOVZaczdlNmU2cGN5THA5ejhnT1YwdXVNdndzajlzQ2dEb3dhUHBGZ2tsOGRlSGlVQmFLbTRSc204OEpXTlJPZXVGb1dyZHhrWEl5end4ZDdDVnNVdG5oVEtlWVQwQTgzM2lKckRmU3VlMkpQWWt5MURfV1pILWF6RDJFalRFMUk5MUhCZmpJWnM?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 07:35:33 GMT",
+        "summary": "TSMC Expands Advanced Semiconductor Capacity to Support AI Demand- Spherical Insights Analysis &nbsp;&nbsp; Spherical Insights",
+        "outlet": "Spherical Insights",
+        "outletUrl": "https://www.sphericalinsights.com",
+        "source": "AI 시장 전체",
+        "sourceIds": [
+          "ai-market-global"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "TSMC"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "AI시장",
         "score": 21
       },
       {
@@ -3912,11 +3851,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손 - etnews.com",
+        "title": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tRmd2SVN1VjdHT19hMlhBVFdub0pVdVhEOG0yYTBwd3pacldVM2tVRWVCMEd0U05peHdLZVktSWRsbFgwOTItY0tOMDBpZw?oc=5",
         "publishedAt": "Fri, 02 Oct 2026 03:00:00 GMT",
-        "summary": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손 &nbsp;&nbsp; etnews.com",
-        "outlet": "etnews.com",
+        "summary": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손 &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
         "source": "국내 NPU 기업",
         "sourceIds": [
@@ -4054,35 +3993,32 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "구글 AI칩 탑재 위성 발사…우주 데이터센터 시험 시작 - asiae.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81TV9IMzktTkV4M0IyZFpsSGRuV2hrRm90WlFSOEhlQ1hhT1d5eVhKV2tmSUx0b3ZiR01ES3JwOFp2NXhSUEpfMjc5am9jQnNIVGR5em1pWmNDRWhKM2NPMQ?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 00:43:57 GMT",
-        "summary": "구글 AI칩 탑재 위성 발사…우주 데이터센터 시험 시작 &nbsp;&nbsp; asiae.co.kr",
-        "outlet": "asiae.co.kr",
-        "outletUrl": "https://www.asiae.co.kr",
-        "source": "해외 빅테크 국내 보도",
+        "title": "해양드론기술, 과기정통부 장관 표창…해양 드론·AI 기술력 인정 - 해사신문",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UQTExSGJqNXVfVjVWS2ltTlpQUlZkSEpRbUM5Z01IZjlMV0J6SV9uMXFDeVRUbnpNS2tRd0lBM2tzUkZCTUJfYjVMcUlxaGpwVWJCYlFNRkI0UTAta0Q4cU9OTHNQdngyYlBr?oc=5",
+        "publishedAt": "Tue, 29 Sep 2026 22:58:43 GMT",
+        "summary": "해양드론기술, 과기정통부 장관 표창…해양 드론·AI 기술력 인정 &nbsp;&nbsp; 해사신문",
+        "outlet": "해사신문",
+        "outletUrl": "http://www.haesanews.com",
+        "source": "NIPA·과기정통부 정책",
         "sourceIds": [
-          "korea-global-ai-companies"
+          "nipa-msit-policy"
         ],
         "sourceLang": "ko",
         "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
+        "companyHits": [],
         "taxonomyHits": [
-          "데이터센터",
-          "Google"
+          "정책"
         ],
-        "issueCategory": "데이터센터",
+        "issueCategory": "",
         "score": 21
       },
       {
-        "title": "Google launches Project Suncatcher, a step towards AI data centers in space - Oregon Public Broadcasting - OPB",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWE5GcnB2dkVyYWxfcmpPUG1Mdm5KbU9pYnRNX3VRWHdrSDN2elBvaUtlNEFxb3VQNnNlZl9faVduZFZQYl9QMEpwS1o1VEEyNWZyVWVVdXFDVG1nREJrWXBFd3FtdG5EVk5OeVk0aXVJLUlxZDhnaVFzcXdvcHYtbUVjampldEItS2ktV0xQX0o4MnZMMmkzOU8xbXd6YnVCcGN6bHhzazdhR0VwSjlHM3BRUzc?oc=5",
-        "publishedAt": "Fri, 02 Oct 2026 00:39:22 GMT",
-        "summary": "Google launches Project Suncatcher, a step towards AI data centers in space &nbsp;&nbsp; Oregon Public Broadcasting - OPB",
-        "outlet": "Oregon Public Broadcasting - OPB",
-        "outletUrl": "https://www.opb.org",
+        "title": "Introducing CLARA Agent: Instant Cloud & AI Risk Insights Available on Google Cloud Gemini Enterprise - Palo Alto Networks",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOHUzNnk2eGtsTDFySS1PYnpYSTd2Uk5Xbzd3REQ5dXVraFpIRzRKYUJtU0NWVFNmakZBcTlnRUpEaWFHbmtfdVpHdExqbHRGWU5adWNZcEN2Zi1mcThycW1DRm0xY0VvZjlXMWY0ZmJvLXFkbGM4YVFlMTU4alZQcVExZC1oRklWbXo2X1BmTUluU2lmdlZKeklJMGs1N2lyOWVBQXkzdzBkV3JjZDNFVUphUlBEZXdvaGl6MWpnQWhfZU13dGlYZjFhLUtiNU5wMEV5dTZzRW9rN2dMcFE?oc=5",
+        "publishedAt": "Tue, 29 Sep 2026 20:45:51 GMT",
+        "summary": "Introducing CLARA Agent: Instant Cloud & AI Risk Insights Available on Google Cloud Gemini Enterprise &nbsp;&nbsp; Palo Alto Networks",
+        "outlet": "Palo Alto Networks",
+        "outletUrl": "https://www.paloaltonetworks.com",
         "source": "Google AI 이슈",
         "sourceIds": [
           "google-ai"
@@ -4093,10 +4029,91 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "taxonomyHits": [
-          "데이터센터",
+          "AI에이전트",
+          "AI인프라",
           "Google"
         ],
-        "issueCategory": "데이터센터",
+        "issueCategory": "AI인프라",
+        "score": 21
+      },
+      {
+        "title": "[포토] 과기정통부, 15개 인공지능혁신대학원에 현판 증정 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xMlVtRE1uX05ZMFV4cjJROVdhaXdkWC12M2VOd2tfSEZVQTNLTTFvQVh3Y2laYXFUOUxxNlFtdFNBQmx6NGR1Nmp6UEtha3RpSW9paFNB?oc=5",
+        "publishedAt": "Tue, 29 Sep 2026 14:40:54 GMT",
+        "summary": "[포토] 과기정통부, 15개 인공지능혁신대학원에 현판 증정 &nbsp;&nbsp; 지디넷코리아",
+        "outlet": "지디넷코리아",
+        "outletUrl": "https://zdnet.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
+        "score": 21
+      },
+      {
+        "title": "[포토] 과기정통부, 18개 AI중심대학에 현판 증정 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0R2M3TkhDTURyR3laa0JLcm1CN2R5dGJKUnBtMG1IT3ZudFMxLTB0WG1Ed2d1b1JFMElkWUVxdHZrRHFqUTA5UThIR1BUR3hHSUI2OUNn?oc=5",
+        "publishedAt": "Tue, 29 Sep 2026 14:09:55 GMT",
+        "summary": "[포토] 과기정통부, 18개 AI중심대학에 현판 증정 &nbsp;&nbsp; 지디넷코리아",
+        "outlet": "지디넷코리아",
+        "outletUrl": "https://zdnet.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
+        "score": 21
+      },
+      {
+        "title": "홍진배 IITP 원장 \"AI중심대학·AX대학원서 파괴적 혁신 인재 나와야\" - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxY1U0STQtb1JpU1JMbUQ4TW1OcFZ0UTdFTWd6T1VJV1VmODhBUk5IVHVMNmhidWNnYWxDbHM5NUxiVlRQajdYY3c2dmRaWDhpR19qZ2Zn?oc=5",
+        "publishedAt": "Tue, 29 Sep 2026 11:10:11 GMT",
+        "summary": "홍진배 IITP 원장 \"AI중심대학·AX대학원서 파괴적 혁신 인재 나와야\" &nbsp;&nbsp; 지디넷코리아",
+        "outlet": "지디넷코리아",
+        "outletUrl": "https://zdnet.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
+        "score": 21
+      },
+      {
+        "title": "과기정통부, 대학 교육 AI 중심 전환 본격화...AI중심대학 18개교·AX대학원 15개교 출범 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVV9odkI5c1FjMFpoLVpyR2ZmOXN3SGtVWW5ydWxtT0h1YzhEa0llM3ZFZ1AyMjUzYS10R3pIMWJrbmJFSDFPUk9LUzJRUFphVVJUSkQ3c0NNcEpob3FvaWNJbm5ZaTg?oc=5",
+        "publishedAt": "Tue, 29 Sep 2026 08:19:15 GMT",
+        "summary": "과기정통부, 대학 교육 AI 중심 전환 본격화...AI중심대학 18개교·AX대학원 15개교 출범 &nbsp;&nbsp; 인공지능신문",
+        "outlet": "인공지능신문",
+        "outletUrl": "https://www.aitimes.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
         "score": 21
       },
       {
@@ -4122,11 +4139,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "과기정통부, NPU 탑재 공공 CCTV 고도화…AI로 위험 탐지 - etnews.com",
+        "title": "과기정통부, NPU 탑재 공공 CCTV 고도화…AI로 위험 탐지 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CSjBXQzZjOE9PYk9LX3N2eERPNWExYmRpb2UwM2lIN2tpbGxBTS14WTJRMFB2RFVkcnBxZUVjcjU4MGdBZmxnZlpsSFNJdw?oc=5",
         "publishedAt": "Tue, 28 Jul 2026 07:00:00 GMT",
-        "summary": "과기정통부, NPU 탑재 공공 CCTV 고도화…AI로 위험 탐지 &nbsp;&nbsp; etnews.com",
-        "outlet": "etnews.com",
+        "summary": "과기정통부, NPU 탑재 공공 CCTV 고도화…AI로 위험 탐지 &nbsp;&nbsp; 전자신문",
+        "outlet": "전자신문",
         "outletUrl": "https://www.etnews.com",
         "source": "지자체 NPU 정책·사업",
         "sourceIds": [
@@ -4140,27 +4157,6 @@ window.__DASHBOARD_DATA__ = {
           "NPU"
         ],
         "issueCategory": "NPU",
-        "score": 21
-      },
-      {
-        "title": "브레인웍스, AI 반도체 해외 실증 지원사업 주관사 선정 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vQXJUVHJ2YzVpdXR5V181Z1djZFh5RG9zUjhZVnhOZ0taczVEbGVUUng5TlVLOHVJWkpWbXQwdWhFQVFPWGUxbWd3TjctUGNVcnZzNGNOb1RGcTFDRWNkTmRmck1RLWpBQlNLd9IBckFVX3lxTE1NNFBDdXY3eTFCNVJkZ1hIZE1uWEhtakVyQkFQX0tQLV9qZUxiWjh6OUYwbHJQM1dfRk5BQV9aMTh1OGRqcnpVbWR0ejlCV3piZUZmNHNpcHQ1RXg2WWdwd2NJTUFhU2NRZmV4NjlrSnRPdw?oc=5",
-        "publishedAt": "Wed, 27 May 2026 07:00:00 GMT",
-        "summary": "브레인웍스, AI 반도체 해외 실증 지원사업 주관사 선정 - 머니투데이 &nbsp;&nbsp; 머니투데이",
-        "outlet": "머니투데이",
-        "outletUrl": "https://www.mt.co.kr",
-        "source": "공공·지역기관 NPU 수요",
-        "sourceIds": [
-          "public-regional-npu-demand"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "실증·조달"
-        ],
-        "issueCategory": "정책",
         "score": 21
       }
     ],
@@ -6896,16 +6892,42 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-10-04T22:31:22.232Z"
+    "generatedAt": "2026-10-05T00:50:00.427Z"
   },
   "briefing": {
     "date": "2026년 10월 5일 월요일",
     "summary": [
-      "오늘의 최상위 이슈: 국산 AI반도체 3사 나란히 혁신제품 지정…리벨리온·퓨리오사에이아이·딥엑스 공공시장 진입 시작 - 조달경제신문",
-      "강한 기술·시장 신호: NPU 59, AI인프라 10, 데이터센터 25, 온디바이스AI 2, 추론 5",
-      "주요 기업 신호: 리벨리온 35, 퓨리오사AI 13, 딥엑스 10, 모빌린트 6, 하이퍼엑셀 3"
+      "오늘의 최상위 이슈: 리벨리온, 과기정통부 혁신제품 지정으로 국산 NPU 공공 조달 공식화 - 와우테일",
+      "강한 기술·시장 신호: NPU 60, AI인프라 10, 데이터센터 24, 온디바이스AI 2, 추론 5",
+      "주요 기업 신호: 리벨리온 36, 퓨리오사AI 13, 딥엑스 10, 모빌린트 6, 하이퍼엑셀 3"
     ],
     "leadArticles": [
+      {
+        "title": "리벨리온, 과기정통부 혁신제품 지정으로 국산 NPU 공공 조달 공식화 - 와우테일",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOel9QNjdwMVRHUXk0NUY5cXZjV1B3RGxla0hUN1NtUUEyYVRpOTNRNjNiNzF6T25NUWJBVmh4VkkxYjFiZDJUVzZpd3FJX2M?oc=5",
+        "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
+        "summary": "리벨리온, 과기정통부 혁신제품 지정으로 국산 NPU 공공 조달 공식화 &nbsp;&nbsp; 와우테일",
+        "outlet": "와우테일",
+        "outletUrl": "https://wowtale.net",
+        "source": "정부 NPU 정책·예산",
+        "sourceIds": [
+          "government-npu-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "리벨리온"
+        ],
+        "taxonomyHits": [
+          "정책",
+          "NPU",
+          "K-엔비디아",
+          "리벨리온",
+          "실증·조달"
+        ],
+        "issueCategory": "NPU",
+        "score": 34
+      },
       {
         "title": "국산 AI반도체 3사 나란히 혁신제품 지정…리벨리온·퓨리오사에이아이·딥엑스 공공시장 진입 시작 - 조달경제신문",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hdnZrYWlrYjFtUTNIWTRXRWVKdFAxQUp3YW12ZDE0WXRaMTNQWXFrdnFPZ3ZnNGFzemdvd1dwQ1MzWWhvcXp0RWMxS3ZsNmNqZElUTnFyYnJIaDBmOHhVZ2d0YTdsRWEyaVI0WkZB?oc=5",
@@ -6991,11 +7013,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 31
       },
       {
-        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - 이투데이",
+        "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 - etoday.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KeGVSMXRwLVBJWVJOWjR0SjRoV0hwVS1OTU1xZ3R4bFozdVdrbVY2cGtqU2pLOG4yMElfaEhXQjBfaEhOZ2pzTEZIR2s4QkM4VzJEbA?oc=5",
         "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; 이투데이",
-        "outlet": "이투데이",
+        "summary": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정…실시간 추론 연산 수행 &nbsp;&nbsp; etoday.co.kr",
+        "outlet": "etoday.co.kr",
         "outletUrl": "https://www.etoday.co.kr",
         "source": "딥엑스",
         "sourceIds": [
@@ -7014,6 +7036,29 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "NPU",
         "score": 31
+      },
+      {
+        "title": "딥마인드·오픈AI 서울 집결…과기정통부, 역대 최대 'AI 페스타 26' 개최 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IYS1Cbzk0aTh5ZUpRaDQ4TjFsUnNpNVJZX21TM3Q5S1RxMXNSMnpBYWE3RzFCR1pIYjkzQkZLRHRNQjBHTk42dkYzVjJJMHUzMVloUUhDNFhWc1pZYnBhdG9aeWZEaWPSAWxBVV95cUxNMUVBbW90RksyREFWUlJDemY1YUxrVjFmTVVha1RXMFhhOFhEQmNoVUJ3OEFzUjVGdks1LXl4NjJmalBMN1VOT1FycHpEZFRQLTRORno3bm1PUEYtanh1dmlRbXRMQWNRMUVSNlU?oc=5",
+        "publishedAt": "Wed, 30 Sep 2026 05:27:21 GMT",
+        "summary": "딥마인드·오픈AI 서울 집결…과기정통부, 역대 최대 'AI 페스타 26' 개최 - 머니투데이 &nbsp;&nbsp; 머니투데이",
+        "outlet": "머니투데이",
+        "outletUrl": "https://www.mt.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "정책",
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 29
       },
       {
         "title": "퓨리오사AI·리벨리온 출격… 엔비디아 독주에 도전하는 한국 NPU - 핀포인트뉴스",
@@ -7041,29 +7086,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "NPU",
-        "score": 30
-      },
-      {
-        "title": "딥마인드·오픈AI 서울 집결…과기정통부, 역대 최대 'AI 페스타 26' 개최 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IYS1Cbzk0aTh5ZUpRaDQ4TjFsUnNpNVJZX21TM3Q5S1RxMXNSMnpBYWE3RzFCR1pIYjkzQkZLRHRNQjBHTk42dkYzVjJJMHUzMVloUUhDNFhWc1pZYnBhdG9aeWZEaWPSAWxBVV95cUxNMUVBbW90RksyREFWUlJDemY1YUxrVjFmTVVha1RXMFhhOFhEQmNoVUJ3OEFzUjVGdks1LXl4NjJmalBMN1VOT1FycHpEZFRQLTRORno3bm1PUEYtanh1dmlRbXRMQWNRMUVSNlU?oc=5",
-        "publishedAt": "Wed, 30 Sep 2026 05:27:21 GMT",
-        "summary": "딥마인드·오픈AI 서울 집결…과기정통부, 역대 최대 'AI 페스타 26' 개최 - 머니투데이 &nbsp;&nbsp; 머니투데이",
-        "outlet": "머니투데이",
-        "outletUrl": "https://www.mt.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "Google"
-        ],
-        "issueCategory": "Google",
         "score": 29
       },
       {
@@ -7150,42 +7172,13 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "AI시장",
         "score": 29
-      },
-      {
-        "title": "[AI픽] 리벨리온·퓨리오사AI·딥엑스 AI반도체, 혁신제품 선정 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaNUtMYmFvTGNYLUcxS1c4c3R4Rk1ydFJxNl9PVm9NWFJ2Tll1SHR2ZmNjemJHcHZvSU1Vc2Q0TXFXYXY1ZnprdENPZnF0bElEUFk5WWFPM2NjUWvSAWBBVV95cUxOb0k1NTBnTTNFUTBTT0M0elhuWlI1NFVfOTVXN3BNNUlCSHZMZXhCMU85RHB1TVVTNTZKLWNWTXNkNWhMaUFoMW5ua2EyVkU4MGFYYXpoMEtsSF9lM1hxZFI?oc=5",
-        "publishedAt": "Thu, 13 Aug 2026 07:00:00 GMT",
-        "summary": "[AI픽] 리벨리온·퓨리오사AI·딥엑스 AI반도체, 혁신제품 선정 &nbsp;&nbsp; 연합뉴스",
-        "outlet": "연합뉴스",
-        "outletUrl": "https://www.yna.co.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "rebellions",
-          "furiosa"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온",
-          "퓨리오사AI",
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "리벨리온",
-          "퓨리오사AI",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 29
       }
     ],
     "signals": {
       "technologies": [
         [
           "NPU",
-          59
+          60
         ],
         [
           "AI인프라",
@@ -7193,7 +7186,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "데이터센터",
-          25
+          24
         ],
         [
           "온디바이스AI",
@@ -7205,17 +7198,17 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI에이전트",
-          6
+          7
         ],
         [
           "파운드리·패키징",
-          0
+          1
         ]
       ],
       "companies": [
         [
           "리벨리온",
-          35
+          36
         ],
         [
           "퓨리오사AI",
@@ -7235,26 +7228,26 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          39
+          38
         ],
         [
           "Google",
-          32
+          29
         ],
         [
           "AMD",
-          7
-        ],
-        [
-          "Broadcom",
-          3
+          6
         ],
         [
           "Arm",
           3
         ],
         [
-          "Samsung",
+          "Broadcom",
+          2
+        ],
+        [
+          "TSMC",
           1
         ]
       ]
@@ -7342,27 +7335,27 @@ window.__DASHBOARD_DATA__ = {
       }
     ],
     "review": {
-      "headline": "수출통제·AI컴퓨팅 안보, AI 인프라 투자, 추론비용·전력효율 신호를 중심으로, 신규 예산은 기술개발보다 수요 검증·운영 데이터·조달 전환을 강화하는 방향이 적절합니다.",
+      "headline": "수출통제·AI컴퓨팅 안보, 파운드리·패키징 병목, AI 인프라 투자 신호를 중심으로, 신규 예산은 기술개발보다 수요 검증·운영 데이터·조달 전환을 강화하는 방향이 적절합니다.",
       "metrics": [
         [
           "AI시장",
-          33
+          31
         ],
         [
           "NPU",
-          58
+          60
         ],
         [
           "정책",
-          27
+          24
         ],
         [
           "국내 기사",
-          150
+          149
         ],
         [
           "해외 기사",
-          30
+          31
         ]
       ],
       "sections": [
