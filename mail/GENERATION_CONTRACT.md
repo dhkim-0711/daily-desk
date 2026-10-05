@@ -7,7 +7,7 @@ ChatGPT 원고 생성 작업은 기사 선정·공개 본문 검증·분석 원�
 1. 한국 날짜를 결정하고 매회 그날 09:00을 마감 시각으로 고정합니다. 작업이 늦게 시작돼도 마감 시각을 이동하지 않습니다.
 2. `briefings/state/YYYY-MM-DD.json`과 `briefings/ready/YYYY-MM-DD.json`을 확인합니다. 같은 날짜의 발송 시도 기록(sending/sent/uncertain)이 있으면 종료합니다. 기존 완성본이 있으면 전체 내용을 읽고 이 규약으로 검사하여 유효할 때만 종료합니다. 기존 파일이 잘못됐고 발송 시도 기록이 없으면 현재 GitHub 파일 SHA를 사용해 수정할 수 있습니다. 잘못된 기존 파일을 발견하고 수정하지 못하면 오류를 보고하며 완료라고 하지 않습니다. 사용자가 별도로 요청한 내용 수정은 별도 작업에서 처리합니다.
 3. `mail/EDITORIAL_GUIDELINES.md`와 이 규약을 읽고, `docs/data/archive/index.json`과 해당 월(월경계면 두 달) 아카이브를 조사합니다.
-4. 수집시각은 `firstSeenAt`, 보도시각은 `publishedAt`로 구분합니다. 수집 시각이 불명확하면 실제 마감 전 Git 커밋 등으로 입증합니다. 증거 없는 시각을 생성하지 않습니다. 09:00 이후 새로 수집·발표된 사실은 다음 날 대상으로 남깁니다.
+4. 2026-10-06부터 아래 확장 선정 규약을 함께 적용합니다. 수집시각은 `firstSeenAt`, 보도시각은 `publishedAt`로 구분합니다. 수집 시각이 불명확하면 실제 마감 전 Git 커밋 등으로 입증합니다. 증거 없는 시각을 생성하지 않습니다. 09:00 이후 새로 수집·발표된 사실은 다음 날 대상으로 남깁니다.
 5. 독립 이슈 6건을 원칙으로 공개 본문을 검증합니다. 7번째 이슈가 별개의 중요한 분야·쟁점·산업 변화를 더할 때만 최대 7건으로 확대합니다. 충분히 조사했으나 검증 가능한 중요 이슈가 적으면 4~5건을 허용합니다. 4개 미만 또는 접근/검증 실패면 완성본을 만들지 말고 부족 사유를 작업 결과에 보고합니다. 제목·RSS 요약만으로 내용을 보충하지 않습니다.
 6. JSON 전체를 작성·검사한 다음 **한 번의 GitHub 파일 생성**으로 저장합니다. 파일이 이미 생겼다면 읽고 종료하여 중복 쓰기를 피합니다. `status: ready`는 모든 검증을 마친 최종 원고에만 씁니다.
 7. GitHub 저장 성공을 확인한 경우에만 원고 저장 완료라고 보고합니다. 발송 완료라고 보고하지 않습니다. 발송 결과는 별도 GPT 발송 작업이 상태 파일에 기록하고 GitHub Actions는 기록 누락을 감시합니다.
@@ -40,7 +40,7 @@ ChatGPT 원고 생성 작업은 기사 선정·공개 본문 검증·분석 원�
 | number | 1부터 연속 정수 |
 | title | 재검증된 수준의 한국어 표시 제목 |
 | category | 실제 Daily Desk 수집 카테고리 |
-| collected_at | 실제 수집 시각 ISO 8601, `(window_start, cutoff_at]` |
+| collected_at | 실제 수집 시각 ISO 8601. 10/5까지 `(window_start, cutoff_at]`, 10/6부터 `(cutoff_at - 72시간, cutoff_at]`. 임의 시각 생성 금지 |
 | original_published_at | 원 보도 최초 시각 또는 알려진 날짜만. 미래/마감 후 사실 금지 |
 | original_url | 원래 수집 기사 URL, 가능한 경우 기록 |
 | main_points | 확인된 사실 2~3개 문장 |
@@ -77,9 +77,9 @@ selection_audit는 원고와 함께 한 번에 저장하는 편집 근거이며 
 | count_reason | 비어 있지 않은 기사 수 결정 사유. 6건은 주요 범위·선정 맥락, 7건은 7번째 이슈의 추가 가치, 4~5건은 부족 사유 |
 | company_overlap_review | 비어 있지 않은 같은 기업집단 반복 검토 결과. 2건 이상이면 해당 기사 번호·독립성·다른 후보 대비 선정 이유, 없으면 중복 중심기업이 없음을 기록 |
 
-coverage 키는 domestic_npu(국내 NPU), domestic_policy_demand(국내 정책·사업화·수요처), global_accelerators(글로벌 가속기), operating_software(운영 SW), memory_packaging_infrastructure(메모리·패키징·인프라)입니다. 각 값은 {result, note} 객체이며 result는 reviewed 또는 no_eligible_candidate, note는 실제 검토 범위·근거와 결과를 적은 비어 있지 않은 문자열입니다. 확인한 아카이브·후보 또는 해당 영역에 적합한 후보가 없는 사유를 간결하게 적습니다.
+coverage 키는 domestic_npu(국내 NPU), domestic_policy_demand(국내 정책·사업화·수요처), global_accelerators(글로벌 가속기), operating_software(운영 SW), memory_packaging_infrastructure(메모리·패키징·인프라)입니다. 각 값은 {result, note} 객체이며 result는 reviewed 또는 no_eligible_candidate이며, note는 실제 검토 범위·근거와 결과를 적은 비어 있지 않은 문자열입니다. 확인한 아카이브·후보 또는 해당 영역에 적합한 후보가 없는 사유를 간결하게 적습니다.
 
-domestic_policy_demand.note에는 중앙부처와 지자체·지역기관의 NPU 정책·국비/지방비·도입·실증·조달 후보를 각각 확인한 실제 범위와 결과를 기록합니다. 제목에 NPU가 없는 지역 종합 예산기사도 본문에 관련 사업이 있으면 검토합니다. 공식자료 대조 여부와 제안·예산 요청·확정·계약·운영 등 확인된 단계를 구분하고, 지역 전체 예산을 NPU 사업 예산으로 해석하지 않습니다. 후보 없음·접근 실패·미확인을 구분하며 확인하지 않은 자료를 검토했다고 쓰지 않습니다. 별도 필드를 추가하지 않고 기존 note 형식을 사용합니다.
+domestic_policy_demand.note에는 중앙부처와 지자체·지역기관의 NPU 정책·국비/지방비·도입·실증·조달 후보를 각각 확인한 실제 범위와 결과를 기록합니다. 제목에 NPU가 없는 지역 종합 예산기사도 본문에 관련 사업이 있으면 검토합니다. 공식자료 대조 여부와 제안·예산 요청·확정·계약·운영 등 확인된 단계를 구분하고, 지역 전체 예산을 NPU 사업 예산으로 해석하지 않습니다. 후보 없음·접근 실패·미확인을 구분하며 확인하지 않은 자료를 검토했다고 쓰지 않습니다. 접근 실패·미확인은 note와 작업 결과에 적되 해당 영역 검토를 끝내지 못하면 ready 원고로 저장하지 않습니다. 별도 필드를 추가하지 않고 기존 note 형식을 사용합니다.
 
 국내외 비율·분야별 할당량·기업별 강제 상한은 없습니다. 영역별 검토는 기사 슬롯 배분과 다릅니다. 수집 카테고리·언어·기업 인지도·보도량·score를 중요도 대신 쓰지 않습니다. 이미 발송한 2026-09-29 이전 회차를 새 기준에 맞춰 재작성하거나 재발송하지 않습니다. 검사는 기록의 완전성과 형식을 확인할 뿐, 실제 검토 수행이나 편집 판단의 타당성을 자동으로 증명하지 않습니다.
 
@@ -94,3 +94,21 @@ domestic_policy_demand.note에는 중앙부처와 지자체·지역기관의 NPU
 `main_points`, `implications`, `bullets`는 HTML이나 Markdown 문법 없이 일반 텍스트로 씁니다. 임의 역할명·소제목은 만들지 않습니다. 출처 번호·링크·참고 표시는 템플릿이 생성합니다. 본문에는 모호한 성장·우열 판단보다 확인된 규모·증감률·기준연도·비교 사실을 우선하고, 추가 통계는 `references`에 실제 원문을 연결합니다.
 
 검증된 새 사실 → 기술·산업적 의미 → 향후 파급 → 관련될 때 국내 검토 방향 순으로 시사점을 구성합니다. 강한 정책 실행지시나 근거 없는 수치로 문장을 채우지 않습니다.
+
+## 확장 선정 규약 — 2026-10-06부터 필수
+
+기존 schema_version=1과 디자인을 유지하며 아래 내부 필드를 추가합니다. 이미 발송한 원고는 수정하지 않습니다. 마감과 window_start는 각각 당일 09:00, 정확히 24시간 전을 유지합니다. 기사 후보는 최근 72시간 내 실제로 마감 전에 수집한 자료 전체를 조사하고 실제 사건 발표일 기준 24시간 우선, 부족 시 48시간 미게재 보완으로 선정합니다. 종합기사 발행일은 그 안에 재수록된 사건의 최초 발표일을 대신하지 않습니다. 09:00 이후 새로 수집·발표된 사실은 다음 날 대상으로 남깁니다.
+
+1. 최신 체크아웃에서 `python mail/candidates.py --date YYYY-MM-DD`로 전체 후보·최근 14일 원고·수집 상태를 확인합니다. 실행 환경이 없으면 같은 자료를 GitHub에서 직접 읽습니다. docs/data/archive/index.json에서 마감 전 72시간에 걸친 모든 월 파일을 읽으며 월 경계를 놓치지 않습니다. 화면용 dashboard 목록만 검토하지 않습니다. helper의 exact_history_matches는 제목/URL 일치 힌트일 뿐, 의미가 같은 사건을 모두 찾아주는 기능이 아닙니다. previous_events의 실제 사실도 비교합니다.
+2. 기사별 추가 필드:
+   - event_id: 같은 계약·발표·정책 사건에 일관되게 쓰는 짧은 식별자. 과거 event_id가 있으면 재사용하고 신규 ID로 중복 검사를 피하지 않습니다.
+   - event_first_published_at: 해당 신규 사건 또는 실질적인 추가 사실의 최초 공개 시각/날짜. 48시간 이내여야 합니다. 날짜만 알면 그대로 보존하고 recency_evidence에 실제 48시간 적합성 및 마감 전 공개 근거를 기록합니다.
+   - event_evidence_url: 최초 공개 사실을 확인한 sources 중 URL.
+   - selection_tier: primary(최근 24시간 신규 보도) 또는 supplement(48시간 내 미게재 보완). 시각 미상으로 24시간 적합성을 확정하지 못하면 supplement로 보수적으로 분류합니다.
+3. selection_audit 추가 필드:
+   - candidate_counts: discovered(최근 72시간에 마감 전 발견한 기사), time_eligible(48시간 발행 조건 적합 기사), independent_events(내용 중복·관련성을 검토한 독립 사건), verified(공개 원문 검증이 끝난 사건), selected(최종 기사 수), basis(읽은 아카이브·추가 조사·제외 집계 근거). 모든 숫자는 실제 집계입니다. discovered >= time_eligible, independent_events >= verified >= selected입니다. 종합기사 한 건에서 별도 사건이 나올 수 있어 기사 수와 사건 수 사이에는 단순 대소 관계를 강제하지 않습니다.
+   - history_review: start_date(기준일-14일), end_date(기준일-1일), checked_dates(해당 기간 실제 존재하는 ready 원고 날짜 전부), note(확인한 자료·누락·결과). 검증기는 체크아웃에 존재하는 날짜와 대조합니다. 최신 history를 가져오지 못했으면 완료를 주장하지 않습니다.
+   - event_reviews: 각 기사에 {article_number, result, previous_editions, note}. result는 new_event 또는 material_update. 신규 사건은 previous_editions=[]; 후속은 실제 이전 회차 날짜, new_fact, evidence_url(sources 중 새 사실 검증 URL)을 필수로 기록합니다. 같은 출처 URL/event_id/동일 제목이 과거 원고와 겹치면 후속 근거 없이 통과할 수 없습니다. 의미상 중복은 작성자가 전체 14일 원고와 비교해 확인합니다.
+   - additional_search: 6건 미만 또는 supplement가 하나라도 있으면 필수. {completed:true, areas:{다섯 coverage 키: {status, queries, official_sources, result}}, alternative_sources}. queries에는 실제 추가 검색식, official_sources에는 실제 확인한 기업·정부·기관 원문 URL과 결과, result에는 후보·선정/제외 근거, alternative_sources에는 유료벽·접근 제한을 대체 확인한 내역 또는 그런 후보가 없었다는 사실을 기록합니다. status는 reviewed 또는 no_eligible_candidate만 완료로 인정합니다. 실패/미확인은 완료로 포장하지 않습니다.
+4. 기록은 본문에 표시하지 않습니다. 원고 검증은 자료 사실·검토 수행 자체를 증명하지 않습니다. 실제 공개 원문과 최신 공식자료를 읽고 판단해야 합니다.
+5. 저장 전 `python mail/render.py --input 원고.json --validate-only`를 실행합니다. 최근 14일 원고 날짜 누락·중복 사건·48시간 범위 위반·추가 조사 미완료는 오류로 보고합니다. 원고/제작/발송 상태는 기존 절차로 구분합니다.

@@ -95,6 +95,7 @@ function mergeArticle(existing, incoming, seenAt) {
   for (const [key, value] of Object.entries(secondary)) {
     if (merged[key] === undefined || merged[key] === null || merged[key] === "") merged[key] = value;
   }
+  merged.sourceIds = [...new Set([...(existing.sourceIds || []), ...(cleanIncoming.sourceIds || [])])];
   merged.taxonomyHits = [...new Set([...(existing.taxonomyHits || []), ...(cleanIncoming.taxonomyHits || [])])];
   merged.companyHits = [...new Set([...(existing.companyHits || []), ...(cleanIncoming.companyHits || [])])];
   merged.firstSeenAt = minIso(existing.firstSeenAt, cleanIncoming.firstSeenAt || seenAt);
@@ -207,7 +208,8 @@ async function updateNewsArchive(articles, seenAt) {
 }
 
 const previous = await readPreviousDashboard();
-const data = preservePreviousNewsWhenFetchFails(await dashboardData(true), previous);
+const { archiveArticles, collectionAudit, ...snapshot } = await dashboardData(true, { includeArchive: true });
+const data = preservePreviousNewsWhenFetchFails(snapshot, previous);
 const json = JSON.stringify(data, null, 2);
 
 await mkdir(dataDir, { recursive: true });
@@ -217,6 +219,18 @@ await writeFile(join(docsDataDir, "dashboard.json"), json, "utf8");
 await writeFile(join(publicDir, "data-snapshot.js"), `window.__DASHBOARD_DATA__ = ${json};\n`, "utf8");
 await writeFile(join(docsDir, "data-snapshot.js"), `window.__DASHBOARD_DATA__ = ${json};\n`, "utf8");
 
-const archiveMonths = await updateNewsArchive(data.news.articles, data.generatedAt);
+const archiveMonths = await updateNewsArchive(archiveArticles, data.generatedAt);
 console.log(`Wrote ${data.news.articles.length} recent-feed articles to public/ and docs/ snapshots`);
 console.log(`News archive exposes ${archiveMonths.length} collection-period months.`);
+
+// Daily run ledger distinguishes no candidates from source/network failures.
+const auditDay = new Date(Date.parse(collectionAudit.collected_at) + 9 * 3600000).toISOString().slice(0, 10);
+let ledger = { date: auditDay, runs: [] };
+try { ledger = JSON.parse(await readFile(join(docsDataDir, "collection", `${auditDay}.json`), "utf8")); }
+catch (error) { if (error.code !== "ENOENT") throw error; }
+ledger.runs = [...ledger.runs.filter((r) => r.collected_at !== collectionAudit.collected_at), collectionAudit];
+for (const dir of [dataDir, docsDataDir]) {
+  await mkdir(join(dir, "collection"), { recursive: true });
+  await writeFile(join(dir, "collection", `${auditDay}.json`), `${JSON.stringify(ledger, null, 2)}\n`, "utf8");
+}
+console.log(`Archived ${archiveArticles.length} recent candidates; displayed ${data.news.articles.length}.`);

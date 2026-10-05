@@ -189,6 +189,28 @@ const newsQueries = [
   },
 ];
 
+// Separate discovery from presentation. Every recent result is eligible for archival.
+newsQueries.push(
+  { id: "accelerator-software", label: "가속기 운영 SW", lang: "en",
+    query: '(vLLM OR SGLang OR ROCm OR "AI compiler" OR "inference runtime" OR "GPU orchestration")' },
+  { id: "memory-packaging", label: "메모리·패키징·인터커넥트", lang: "en",
+    query: '(HBM OR CoWoS OR UCIe OR CXL OR "silicon photonics" OR "advanced packaging") (AI OR accelerator OR semiconductor)' },
+  { id: "korea-infrastructure", label: "국내 메모리·AI 인프라", lang: "ko",
+    query: '(HBM OR 패키징 OR 인터커넥트 OR 액체냉각 OR 컴파일러 OR 오케스트레이션) (AI OR 반도체 OR 데이터센터)' },
+  { id: "official-korea-policy", label: "정부·공공기관 공식자료", lang: "ko",
+    query: '(site:msit.go.kr OR site:nipa.kr OR site:iitp.kr OR site:korea.kr OR site:motir.go.kr) (NPU OR AI반도체 OR 인공지능반도체 OR AI컴퓨팅)' },
+  { id: "official-chip-news", label: "반도체 기업 공식발표", lang: "en",
+    query: '(site:newsroom.amd.com OR site:news.skhynix.com OR site:news.samsung.com OR site:pr.tsmc.com OR site:broadcom.com) (AI OR HBM OR accelerator OR packaging)' },
+);
+const officialFeeds = [
+  { id: "nvidia-official-blog", label: "NVIDIA 공식 기술발표", lang: "en",
+    url: "https://blogs.nvidia.com/feed/", publisher: "NVIDIA Blog", outletUrl: "https://blogs.nvidia.com" },
+  { id: "nvidia-official-news", label: "NVIDIA 공식 보도자료", lang: "en",
+    url: "https://nvidianews.nvidia.com/releases.xml", publisher: "NVIDIA Newsroom", outletUrl: "https://nvidianews.nvidia.com" },
+];
+export const COLLECTION_HOURS = 72;
+export const DISPLAY_ARTICLE_LIMIT = 180;
+
 const watchCompanies = [
   "NVIDIA",
   "Nvidia",
@@ -487,9 +509,9 @@ function summarizeArticleText(text = "", fallback = "") {
   return body.length > 700 ? `${body.slice(0, 700).trim()}...` : body;
 }
 
-function googleNewsUrl({ query, lang }) {
+export function googleNewsUrl({ query, lang }) {
   const locale = lang === "ko" ? "hl=ko&gl=KR&ceid=KR:ko" : "hl=en-US&gl=US&ceid=US:en";
-  return `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&${locale}`;
+  return `https://news.google.com/rss/search?q=${encodeURIComponent(`${query} when:3d`)}&${locale}`;
 }
 
 async function getCached(key, loader) {
@@ -513,7 +535,7 @@ async function fetchText(url) {
   let lastError;
   for (let attempt = 0; attempt < 3; attempt += 1) {
     try {
-      const response = await fetch(url, { headers: fetchHeaders });
+      const response = await fetch(url, { headers: fetchHeaders, signal: AbortSignal.timeout(20000) });
       if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
       return response.text();
     } catch (error) {
@@ -543,7 +565,8 @@ async function fetchText(url) {
   return stdout;
 }
 
-function parseRss(xml, source) {
+export function parseRss(xml, source) {
+  if (!/<(?:rss|rdf:RDF)\b/i.test(xml)) throw new Error("INVALID_RSS_RESPONSE");
   const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map((match) => match[1]);
   return items.map((item) => {
     const pick = (tag) => {
@@ -556,8 +579,8 @@ function parseRss(xml, source) {
       link: pick("link"),
       publishedAt: pick("pubDate"),
       summary: pick("description"),
-      outlet: sourceMatch ? stripTags(sourceMatch[2]) : "Google News",
-      outletUrl: sourceMatch ? decodeEntities(sourceMatch[1]) : "https://news.google.com",
+      outlet: sourceMatch ? stripTags(sourceMatch[2]) : (source.publisher || "Google News"),
+      outletUrl: sourceMatch ? decodeEntities(sourceMatch[1]) : (source.outletUrl || "https://news.google.com"),
       source: source.label,
       sourceIds: [source.id],
       sourceLang: source.lang,
@@ -612,7 +635,7 @@ function compareArticleScore(a, b) {
 function dedupeArticles(articles) {
   const unique = new Map();
   for (const article of articles) {
-    const key = article.title.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim().slice(0, 120);
+    const key = article.title.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim();
     if (!key) continue;
     const existing = unique.get(key);
     const sourceIds = [...new Set([...(existing?.sourceIds || []), ...(article.sourceIds || [])])];
@@ -638,8 +661,8 @@ export function prepareNewsCandidates(articles) {
     .filter((article) => article.sourceIds.some((id) => publicNpuQueryIds.has(id)))
     .slice(0, 24);
   const prioritySet = new Set(publicCandidates);
-  const enrichmentOrder = [...publicCandidates, ...ranked.filter((article) => !prioritySet.has(article))].slice(0, 180);
-  return { articles: [...enrichmentOrder].sort(compareArticleScore), enrichmentOrder };
+  const enrichmentOrder = [...publicCandidates, ...ranked.filter((article) => !prioritySet.has(article))];
+  return { articles: ranked, enrichmentOrder };
 }
 
 async function enrichArticleFromOriginal(article) {
@@ -674,20 +697,47 @@ async function enrichArticlesFromOriginals(articles, limit = 80, concurrency = 6
   return [...enriched, ...articles.slice(limit)];
 }
 
-async function loadNews() {
-  const settled = await Promise.allSettled(
-    newsQueries.map(async (source) => {
-      const xml = await fetchText(googleNewsUrl(source));
-      return parseRss(xml, source);
-    }),
-  );
-  const articles = settled.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
-  const errors = settled
-    .map((result, index) => (result.status === "rejected" ? `${newsQueries[index].label}: ${result.reason.message}` : null))
-    .filter(Boolean);
-  const { enrichmentOrder } = prepareNewsCandidates(articles);
-  const enriched = await enrichArticlesFromOriginals(enrichmentOrder);
-  return { articles: enriched.sort(compareArticleScore), errors };
+export function filterRecentArticles(articles, now = Date.now()) {
+  const start = now - COLLECTION_HOURS * 3600000;
+  const recent = [], excluded = { old: 0, future: 0, unknown_date: 0 };
+  for (const article of articles) {
+    const published = Date.parse(article.publishedAt || "");
+    if (!Number.isFinite(published)) excluded.unknown_date += 1;
+    else if (published > now) excluded.future += 1;
+    else if (published <= start) excluded.old += 1;
+    else recent.push(article);
+  }
+  return { recent, excluded };
+}
+
+export async function loadNews({ fetcher = fetchText, enrich = enrichArticlesFromOriginals,
+                                 now = Date.now(), sources = [...newsQueries, ...officialFeeds] } = {}) {
+  const settled = await Promise.allSettled(sources.map(async (source) => {
+    const xml = await fetcher(source.url || googleNewsUrl(source));
+    return parseRss(xml, source);
+  }));
+  const raw = settled.flatMap((result) => result.status === "fulfilled" ? result.value : []);
+  const { recent, excluded } = filterRecentArticles(raw, now);
+  const { articles, enrichmentOrder } = prepareNewsCandidates(recent);
+  // Only original-body retrieval is bounded. Tail metadata is never discarded.
+  const all = (await enrich(enrichmentOrder)).sort(compareArticleScore);
+  const errors = settled.flatMap((result, index) => result.status === "rejected"
+    ? [`${sources[index].label}: ${result.reason.message}`] : []);
+  const collectionAudit = {
+    version: 1, collected_at: new Date(now).toISOString(), lookback_hours: COLLECTION_HOURS,
+    raw_count: raw.length, recent_count: recent.length, unique_count: articles.length,
+    duplicate_records: recent.length - articles.length, excluded,
+    archived_candidates: all.length, displayed_count: Math.min(DISPLAY_ARTICLE_LIMIT, all.length),
+    sources: settled.map((result, index) => ({
+      id: sources[index].id, label: sources[index].label,
+      url: sources[index].url || googleNewsUrl(sources[index]),
+      status: result.status === "fulfilled" ? (result.value.length ? "ok" : "empty") : "failed",
+      raw_count: result.status === "fulfilled" ? result.value.length : 0,
+      recent_count: result.status === "fulfilled" ? filterRecentArticles(result.value, now).recent.length : 0,
+      ...(result.status === "rejected" ? { error: String(result.reason.message).slice(0, 300) } : {}),
+    })),
+  };
+  return { articles: all.slice(0, DISPLAY_ARTICLE_LIMIT), errors, archiveArticles: all, collectionAudit };
 }
 
 function finiteAt(values, index) {
@@ -1062,18 +1112,20 @@ function makeBriefing(news, market) {
   };
 }
 
-export async function dashboardData(force = false) {
+export async function dashboardData(force = false, { includeArchive = false } = {}) {
   if (force) cache = new Map();
-  const [news, market] = await Promise.all([
+  const [collectedNews, market] = await Promise.all([
     getCached("news", loadNews),
     getCached("market", loadMarket),
   ]);
+  const { archiveArticles, collectionAudit, ...news } = collectedNews;
   return {
+    ...(includeArchive ? { archiveArticles, collectionAudit } : {}),
     generatedAt: new Date().toISOString(),
     news,
     market,
     briefing: makeBriefing(news, market),
-    sources: newsQueries.map((source) => ({ label: source.label, url: googleNewsUrl(source) })),
+    sources: [...newsQueries, ...officialFeeds].map((source) => ({ label: source.label, url: source.url || googleNewsUrl(source) })),
   };
 }
 

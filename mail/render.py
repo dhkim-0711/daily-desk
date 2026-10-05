@@ -20,6 +20,7 @@ ROOT = Path(__file__).resolve().parent
 KST = timezone(timedelta(hours=9))
 VERIFICATION_METHODS = {"full_text", "public_primary", "public_reprint"}
 SELECTION_AUDIT_REQUIRED_FROM = date(2026, 9, 30)
+EXPANDED_SELECTION_FROM = date(2026, 10, 6)
 SELECTION_COVERAGE_AREAS = (
     "domestic_npu", "domestic_policy_demand", "global_accelerators",
     "operating_software", "memory_packaging_infrastructure",
@@ -150,7 +151,7 @@ def _selection_audit(value, article_count):
     _text(value.get("company_overlap_review"), field + ".company_overlap_review")
 
 
-def validate_briefing(data):
+def validate_briefing(data, history_dir=None):
     """Raise ValueError unless the document is a complete, cutoff-frozen edition.
 
     Eligibility follows the Daily Desk collection window, not the date of every
@@ -189,8 +190,9 @@ def validate_briefing(data):
         _text(article.get("title"), field + ".title", 300)
         _text(article.get("category"), field + ".category", 120)
         collected = _timestamp(article.get("collected_at"), field + ".collected_at")
-        if not start < collected <= cutoff:
-            raise ValueError(f"{field}.collected_at: must lie in (window_start, cutoff_at]")
+        collection_start = start if issue_date < EXPANDED_SELECTION_FROM else cutoff - timedelta(hours=72)
+        if not collection_start < collected <= cutoff:
+            raise ValueError(f"{field}.collected_at: must be a real pre-cutoff collection within the allowed window")
         published = _before_cutoff(article.get("original_published_at"), cutoff, field + ".original_published_at")
         if isinstance(published, datetime) and published > collected:
             raise ValueError(f"{field}: original publication cannot follow collection")
@@ -226,6 +228,126 @@ def validate_briefing(data):
     if issue_date >= SELECTION_AUDIT_REQUIRED_FROM or "selection_audit" in data:
         _selection_audit(data.get("selection_audit"), len(articles))
     _shared_original_reviews(data, original_urls)
+    if issue_date >= EXPANDED_SELECTION_FROM:
+        _expanded_selection(data, cutoff)
+        _check_recent_history(data, history_dir or ROOT.parent / "briefings" / "ready")
+
+
+def _expanded_selection(data, cutoff):
+    """Require an auditable candidate funnel and a 14-day event comparison.
+
+    These checks enforce evidence structure, not semantic truth or completeness
+    of web coverage. The author must read the history and primary documents.
+    """
+    audit = data["selection_audit"]
+    counts = audit.get("candidate_counts", {})
+    stages = ("discovered", "time_eligible", "independent_events", "verified", "selected")
+    values = [counts.get(k) for k in stages]
+    if any(type(v) is not int or v < 0 for v in values):
+        raise ValueError("candidate_counts: nonnegative integer stage counts required")
+    if values[0] < values[1] or any(a < b for a, b in zip(values[2:], values[3:])) or values[-1] != len(data["articles"]):
+        raise ValueError("candidate_counts: article counts and event counts must be internally consistent")
+    _text(counts.get("basis"), "candidate_counts.basis")
+    history = audit.get("history_review", {})
+    expected_start = (cutoff.date() - timedelta(days=14)).isoformat()
+    expected_end = (cutoff.date() - timedelta(days=1)).isoformat()
+    if history.get("start_date") != expected_start or history.get("end_date") != expected_end:
+        raise ValueError("history_review: previous 14 calendar days required")
+    checked = history.get("checked_dates")
+    if not isinstance(checked, list) or not checked or len(checked) != len(set(checked)):
+        raise ValueError("history_review.checked_dates: nonempty unique edition dates required")
+    if any(not isinstance(d, str) or not DATE_RE.fullmatch(d) or not expected_start <= d <= expected_end for d in checked):
+        raise ValueError("history_review.checked_dates: outside history window")
+    _text(history.get("note"), "history_review.note")
+    reviews = audit.get("event_reviews")
+    if not isinstance(reviews, list) or len(reviews) != len(data["articles"]):
+        raise ValueError("event_reviews: one history comparison per selected event required")
+    if sorted(r.get("article_number", 0) for r in reviews) != list(range(1, len(data["articles"]) + 1)):
+        raise ValueError("event_reviews: every article exactly once required")
+    ids = []
+    for article in data["articles"]:
+        _text(article.get("event_id"), "event_id", 200)
+        ids.append(article["event_id"])
+        published = _before_cutoff(article.get("event_first_published_at"), cutoff, "event_first_published_at")
+        oldest = cutoff - timedelta(hours=48)
+        if isinstance(published, datetime):
+            if published <= oldest:
+                raise ValueError("event_first_published_at: event must be within 48 hours")
+            primary = published > cutoff - timedelta(hours=24)
+        else:
+            if published < oldest.date():
+                raise ValueError("event_first_published_at: event predates 48-hour window")
+            _text(article.get("recency_evidence"), "recency_evidence")
+            primary = published >= cutoff.date()
+        if article.get("selection_tier") not in ("primary", "supplement"):
+            raise ValueError("selection_tier: primary or supplement required")
+        if not primary and article["selection_tier"] != "supplement":
+            raise ValueError("selection_tier: older/uncertain-day event requires supplement review")
+        _url(article.get("event_evidence_url"), "event_evidence_url")
+        if article["event_evidence_url"] not in [source["url"] for source in article["sources"]]:
+            raise ValueError("event_evidence_url: must be a verified source")
+        evidence = next(source for source in article["sources"] if source["url"] == article["event_evidence_url"])
+        evidence_date = _date_or_timestamp(evidence["published_at"], "event_evidence.published_at")
+        if ((isinstance(evidence_date, datetime) and evidence_date <= oldest)
+                or (not isinstance(evidence_date, datetime) and evidence_date < oldest.date())):
+            raise ValueError("event_evidence: an old supporting source cannot establish a new event")
+        if isinstance(published, datetime) and published > _timestamp(article["collected_at"], "collected_at"):
+            raise ValueError("event_first_published_at: cannot follow collection")
+        review = next(r for r in reviews if r["article_number"] == article["number"])
+        _text(review.get("note"), "event_reviews.note")
+        if review.get("result") not in ("new_event", "material_update"):
+            raise ValueError("event_reviews.result: new_event or material_update required")
+        previous = review.get("previous_editions")
+        if not isinstance(previous, list) or any(d not in checked for d in previous):
+            raise ValueError("event_reviews.previous_editions: checked dates required")
+        if review["result"] == "new_event" and previous:
+            raise ValueError("event_reviews: previously covered event requires material_update")
+        if review["result"] == "material_update":
+            if not previous:
+                raise ValueError("event_reviews: material update must identify previous edition")
+            _text(review.get("new_fact"), "event_reviews.new_fact")
+            if review.get("evidence_url") not in [source["url"] for source in article["sources"]]:
+                raise ValueError("event_reviews: new fact requires a verified evidence URL")
+    if len(set(ids)) != len(ids):
+        raise ValueError("event_id: repeated events cannot fill multiple slots")
+    needs_search = len(data["articles"]) < 6 or any(a["selection_tier"] == "supplement" for a in data["articles"])
+    if needs_search:
+        extra = audit.get("additional_search", {})
+        if extra.get("completed") is not True:
+            raise ValueError("additional_search: required before shortfall or 48-hour supplements")
+        areas = extra.get("areas", {})
+        for area in SELECTION_COVERAGE_AREAS:
+            row = areas.get(area, {})
+            if row.get("status") not in ("reviewed", "no_eligible_candidate"):
+                raise ValueError("additional_search: unsearched/failed areas cannot justify shortfall")
+            _text(row.get("queries"), f"additional_search.{area}.queries")
+            _text(row.get("official_sources"), f"additional_search.{area}.official_sources")
+            _text(row.get("result"), f"additional_search.{area}.result")
+        _text(extra.get("alternative_sources"), "additional_search.alternative_sources")
+
+
+def _check_recent_history(data, history_dir):
+    review = data["selection_audit"]["history_review"]
+    files = sorted(p for p in Path(history_dir).glob("????-??-??.json")
+                   if review["start_date"] <= p.stem <= review["end_date"])
+    expected = {p.stem for p in files}
+    if set(review["checked_dates"]) != expected:
+        raise ValueError("history_review: checked dates must match all available editions in the 14-day window")
+    history = [(p.stem, a) for p in files for a in json.loads(p.read_text(encoding="utf-8"))["articles"]]
+    normalize = lambda value: re.sub(r"[^\w]", "", value.lower())
+    for article in data["articles"]:
+        current_urls = {s["url"] for s in article["sources"]} | {article.get("original_url")}
+        current_urls.discard(None)
+        matches = set()
+        for day, old in history:
+            urls = {s["url"] for s in old["sources"]} | {old.get("original_url")}
+            urls.discard(None)
+            if (current_urls & urls or article["event_id"] == old.get("event_id")
+                    or normalize(article["title"]) == normalize(old["title"])):
+                matches.add(day)
+        row = next(r for r in data["selection_audit"]["event_reviews"] if r["article_number"] == article["number"])
+        if matches and (row["result"] != "material_update" or not matches <= set(row["previous_editions"])):
+            raise ValueError("event_reviews: previous edition match requires documented new facts")
 
 
 def _shared_original_reviews(data, original_urls):

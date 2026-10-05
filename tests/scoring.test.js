@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { prepareNewsCandidates, scoreArticle } from "../server.js";
+import { prepareNewsCandidates, scoreArticle, filterRecentArticles, googleNewsUrl, loadNews } from "../server.js";
 
 // Importing the scoring function uses the existing direct-start guard: no server or feeds.
 const article = (title, summary = "") => ({ title, summary });
@@ -87,8 +87,8 @@ test("low-scoring government and regional discoveries survive collection and rec
   }));
   const plan = prepareNewsCandidates([...globalCandidates(200), ...publicCandidates]);
 
-  assert.equal(plan.articles.length, 180);
-  assert.equal(new Set(plan.articles.map((item) => item.title)).size, 180);
+  assert.equal(plan.articles.length, 204);
+  assert.equal(new Set(plan.articles.map((item) => item.title)).size, 204);
   for (const candidate of publicCandidates) {
     const retained = plan.articles.find((item) => item.title === candidate.title);
     assert.ok(retained);
@@ -98,17 +98,17 @@ test("low-scoring government and regional discoveries survive collection and rec
   assert.ok(plan.articles.every((item, index, all) => index === 0 || all[index - 1].score >= item.score));
 });
 
-test("collection reservation stops at 24 and the remaining positions follow existing scores", () => {
+test("public retrieval priority stops at 24 without discarding any remaining candidate", () => {
   const publicCandidates = Array.from({ length: 30 }, (_, index) => ({
     ...article(`지방 국비 요청 ${index}`),
     sourceIds: ["regional-npu-budget"],
   }));
   const plan = prepareNewsCandidates([...globalCandidates(200), ...publicCandidates]);
 
-  assert.equal(plan.articles.length, 180);
-  assert.equal(plan.articles.filter((item) => item.sourceIds.includes("regional-npu-budget")).length, 24);
+  assert.equal(plan.articles.length, 230);
+  assert.equal(plan.articles.filter((item) => item.sourceIds.includes("regional-npu-budget")).length, 30);
   assert.deepEqual(plan.enrichmentOrder.slice(0, 24).map((item) => item.title), publicCandidates.slice(0, 24).map((item) => item.title));
-  assert.deepEqual(plan.enrichmentOrder.slice(24).map((item) => item.title), globalCandidates(156).map((item) => item.title));
+  assert.deepEqual(plan.enrichmentOrder.slice(24, 224).map((item) => item.title), globalCandidates(200).map((item) => item.title));
 });
 
 test("deduplication retains later public-search provenance without mutating inputs", () => {
@@ -130,8 +130,44 @@ test("without public-search candidates collection and retrieval retain the norma
   const candidates = [article("낮은 관련성 기사"), ...globalCandidates(200)];
   const plan = prepareNewsCandidates(candidates);
 
-  assert.equal(plan.articles.length, 180);
+  assert.equal(plan.articles.length, 201);
   assert.deepEqual(plan.articles, plan.enrichmentOrder);
-  assert.deepEqual(plan.articles.map((item) => item.title), globalCandidates(180).map((item) => item.title));
+  assert.deepEqual(plan.articles.slice(0, 200).map((item) => item.title), globalCandidates(200).map((item) => item.title));
   assert.deepEqual(prepareNewsCandidates([]), { articles: [], enrichmentOrder: [] });
+});
+
+
+test("72-hour boundaries reject old, future and unknown dates separately", () => {
+  const now = Date.parse("2026-10-06T00:00:00Z");
+  const { recent, excluded } = filterRecentArticles([
+    { publishedAt: "2026-10-03T00:00:00Z" },
+    { publishedAt: "2026-10-03T00:00:01Z" },
+    { publishedAt: "2026-10-06T00:00:00Z" },
+    { publishedAt: "2026-10-06T00:00:01Z" },
+    { publishedAt: "unknown" },
+  ], now);
+  assert.equal(recent.length, 2);
+  assert.deepEqual(excluded, { old: 1, future: 1, unknown_date: 1 });
+  assert.ok(new URL(googleNewsUrl({ query: 'NPU', lang: 'ko' })).searchParams.get('q').endsWith('when:3d'));
+});
+
+test("feed ingestion archives every fresh candidate while the page remains bounded", async () => {
+  const items = Array.from({ length: 225 }, (_, n) =>
+    `<item><title>Fresh accelerator contract ${n}</title><link>https://example.com/${n}</link><pubDate>Mon, 05 Oct 2026 20:00:00 GMT</pubDate></item>`).join('');
+  const old = '<item><title>Old high priority NVIDIA AI</title><link>https://example.com/old</link><pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate></item>';
+  const sources = [{ id: 'one', label: 'One', lang: 'en', url: 'https://one.test' },
+                   { id: 'two', label: 'Two', lang: 'en', url: 'https://two.test' },
+                   { id: 'broken', label: 'Broken', lang: 'en', url: 'https://broken.test' }];
+  const result = await loadNews({ sources, now: Date.parse('2026-10-06T00:00:00Z'), enrich: async a => a,
+    fetcher: async url => { if (url.includes('broken')) throw Error('fixture failure');
+      return `<rss><channel>${items}${old}</channel></rss>`; } });
+  assert.equal(result.articles.length, 180);
+  assert.equal(result.archiveArticles.length, 225);
+  assert.ok(result.archiveArticles.some(a => a.link.endsWith('/224')));
+  assert.equal(result.collectionAudit.raw_count, 452);
+  assert.equal(result.collectionAudit.recent_count, 450);
+  assert.equal(result.collectionAudit.duplicate_records, 225);
+  assert.equal(result.collectionAudit.excluded.old, 2);
+  assert.equal(result.collectionAudit.sources[2].status, 'failed');
+  assert.equal(result.errors.length, 1);
 });
