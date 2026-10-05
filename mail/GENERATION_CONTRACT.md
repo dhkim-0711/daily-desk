@@ -99,7 +99,7 @@ domestic_policy_demand.note에는 중앙부처와 지자체·지역기관의 NPU
 
 기존 schema_version=1과 디자인을 유지하며 아래 내부 필드를 추가합니다. 이미 발송한 원고는 수정하지 않습니다. 마감과 window_start는 각각 당일 09:00, 정확히 24시간 전을 유지합니다. 기사 후보는 최근 72시간 내 실제로 마감 전에 수집한 자료 전체를 조사하고 실제 사건 발표일 기준 24시간 우선, 부족 시 48시간 미게재 보완으로 선정합니다. 종합기사 발행일은 그 안에 재수록된 사건의 최초 발표일을 대신하지 않습니다. 09:00 이후 새로 수집·발표된 사실은 다음 날 대상으로 남깁니다.
 
-1. 최신 체크아웃에서 `python mail/candidates.py --date YYYY-MM-DD`로 전체 후보·최근 14일 원고·수집 상태를 확인합니다. 실행 환경이 없으면 같은 자료를 GitHub에서 직접 읽습니다. docs/data/archive/index.json에서 마감 전 72시간에 걸친 모든 월 파일을 읽으며 월 경계를 놓치지 않습니다. 화면용 dashboard 목록만 검토하지 않습니다. helper의 exact_history_matches는 제목/URL 일치 힌트일 뿐, 의미가 같은 사건을 모두 찾아주는 기능이 아닙니다. previous_events의 실제 사실도 비교합니다.
+1. 최신 체크아웃에서 `python mail/candidates.py --date YYYY-MM-DD`로 전체 후보·최근 14일 원고·수집 상태를 확인합니다. 실행 환경이 없으면 같은 자료를 GitHub에서 직접 읽습니다. docs/data/archive/index.json에서 마감 전 72시간에 걸친 모든 월 파일을 읽으며 월 경계를 놓치지 않습니다. 월별 index 항목에 parts가 있으면 GitHub 조회 시 해당 조각을 모두 읽습니다. 각 조각은 100건 이하이고 월 전체와 동일한 기사 집합입니다. 큰 월 파일을 읽었는데 내용이 비었으면 기사 0건으로 해석하지 말고 parts로 조회합니다. 화면용 dashboard 목록만 검토하지 않습니다. helper의 exact_history_matches는 제목/URL 일치 힌트일 뿐, 의미가 같은 사건을 모두 찾아주는 기능이 아닙니다. previous_events의 실제 사실도 비교합니다.
 2. 기사별 추가 필드:
    - event_id: 같은 계약·발표·정책 사건에 일관되게 쓰는 짧은 식별자. 과거 event_id가 있으면 재사용하고 신규 ID로 중복 검사를 피하지 않습니다.
    - event_first_published_at: 해당 신규 사건 또는 실질적인 추가 사실의 최초 공개 시각/날짜. 48시간 이내여야 합니다. 날짜만 알면 그대로 보존하고 recency_evidence에 실제 48시간 적합성 및 마감 전 공개 근거를 기록합니다.

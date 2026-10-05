@@ -30,6 +30,16 @@ test('static build retains archive tail and history without enlarging page paylo
     const month = new Date(Date.now() - 1000).toISOString().slice(0,7);
     const archived = JSON.parse(await readFile(join(root, 'docs/data/archive/'+month+'.json')));
     assert.equal(archived.articles.length,225);
+    const index = JSON.parse(await readFile(join(root, 'docs/data/archive/index.json')));
+    const parts = index.months.find(m=>m.month===month).parts;
+    assert.equal(parts.length,3);
+    const reconstructed=[];
+    for (const part of parts) {
+      const page=JSON.parse(await readFile(join(root,'docs/data/archive',part)));
+      assert.ok(page.articles.length<=100);
+      reconstructed.push(...page.articles);
+    }
+    assert.deepEqual(reconstructed,archived.articles);
     assert.ok(archived.articles.some(a=>a.link==='https://fixture.test/224'));
     assert.ok(archived.articles.every(a=>a.firstSeenAt && a.lastSeenAt));
     assert.deepEqual(JSON.parse(await readFile(join(root, 'docs/data/archive/2026-01.json'))), historical);

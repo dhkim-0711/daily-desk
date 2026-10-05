@@ -167,6 +167,17 @@ async function updateNewsArchive(articles, seenAt) {
       updatedAt: seenAt || new Date().toISOString(),
       articles: merged,
     });
+    // Keep the original monthly file for the website. Small mirrored parts let
+    // GitHub-connected editorial tools read months beyond the Contents API limit.
+    await mkdir(join(publicArchiveDir, month), { recursive: true });
+    await mkdir(join(docsArchiveDir, month), { recursive: true });
+    const parts = [];
+    for (let offset = 0; offset < merged.length; offset += 100) {
+      const file = `${month}/part-${String(parts.length + 1).padStart(3, "0")}.json`;
+      parts.push(file);
+      await writeArchiveMirror(file, { month, updatedAt: seenAt, articles: merged.slice(offset, offset + 100) });
+    }
+    await writeArchiveMirror(`${month}/index.json`, { month, updatedAt: seenAt, count: merged.length, parts });
   }
 
   const previousIndex = await readArchiveIndex();
@@ -178,7 +189,12 @@ async function updateNewsArchive(articles, seenAt) {
     const payload = JSON.parse(await readFile(join(docsArchiveDir, file), "utf8"));
     const archived = sortArticles(payload.articles || []);
     for (const article of archived) collectionStartedAt = minIso(collectionStartedAt, article.firstSeenAt);
+    let parts = [];
+    try {
+      parts = JSON.parse(await readFile(join(docsArchiveDir, payload.month, "index.json"), "utf8")).parts;
+    } catch (error) { if (error.code !== "ENOENT") throw error; }
     storedMonths.push({
+      ...(parts.length ? { parts } : {}),
       month: payload.month || file.replace(/\.json$/, ""),
       file,
       count: archived.length,
