@@ -112,3 +112,17 @@ domestic_policy_demand.note에는 중앙부처와 지자체·지역기관의 NPU
    - additional_search: 6건 미만 또는 supplement가 하나라도 있으면 필수. {completed:true, areas:{다섯 coverage 키: {status, queries, official_sources, result}}, alternative_sources}. queries에는 실제 추가 검색식, official_sources에는 실제 확인한 기업·정부·기관 원문 URL과 결과, result에는 후보·선정/제외 근거, alternative_sources에는 유료벽·접근 제한을 대체 확인한 내역 또는 그런 후보가 없었다는 사실을 기록합니다. status는 reviewed 또는 no_eligible_candidate만 완료로 인정합니다. 실패/미확인은 완료로 포장하지 않습니다.
 4. 기록은 본문에 표시하지 않습니다. 원고 검증은 자료 사실·검토 수행 자체를 증명하지 않습니다. 실제 공개 원문과 최신 공식자료를 읽고 판단해야 합니다.
 5. 저장 전 `python mail/render.py --input 원고.json --validate-only`를 실행합니다. 최근 14일 원고 날짜 누락·중복 사건·48시간 범위 위반·추가 조사 미완료는 오류로 보고합니다. 원고/제작/발송 상태는 기존 절차로 구분합니다.
+
+
+## 업무 관련성 중심의 후보 비교 — 2026-10-07부터
+
+EDITORIAL_GUIDELINES.md의 '정책·사업 업무 관련성에 따른 선별'을 후보 조사와 최종 비교에 적용합니다. 글로벌 협력·사업 기회, 실증·검증에서 도입으로의 연결, 제도·사업 현장의 간극, 수요산업의 국산 반도체 활용, 연산자원·지원사업 수요와 집행 결과를 확인합니다. 기본 6건을 채웠더라도 이 유형의 후보 검토를 완료하기 전에 선정을 끝내지 않습니다. 고정 국내 비율·분야별 할당량은 만들지 않습니다.
+
+별도 JSON 필드는 추가하지 않고 다음 기존 필드를 사용합니다.
+- coverage의 적합한 영역 note: 실제 검색·확인 범위, 후보 및 결과. 협력은 domestic_npu/global_accelerators/operating_software, 실증·수요산업·지원사업은 domestic_policy_demand/domestic_npu, AIDC 제도·현장 쟁점은 domestic_policy_demand/memory_packaging_infrastructure 등에 해당 사실을 기록합니다. 동일 후보를 영역별로 살펴봐도 독립 사건 수를 중복 계산하지 않습니다.
+- selected[].reason: 확인된 구체적 변화와 국내 산업육성·사업 기획 또는 글로벌 기술·산업 이해에 필요한 이유를 적습니다.
+- excluded[].reason: 실제 비교한 고관련성 후보를 제외한 검증·시의성·중복 또는 상대적 우선순위 근거를 적습니다. 과거 사건이라는 말만으로 끝내지 말고 새로 보도된 내용에 실질적인 추가 사실이 있는지 확인합니다.
+- event_reviews: 새 집행 통계·수요 데이터·현장 검증·제도 적용 장애물 등 검증 가능한 추가 사실도 material_update의 new_fact로 인정합니다. 과거 회차와의 차이 및 그 사실의 공개 원문을 evidence_url로 기록합니다. 과거 회차에 없는 새 사실이면 기존 new_event 규약을 따릅니다.
+- event_first_published_at/event_evidence_url: 원래 사업·법의 최초 발표일과 이번 새 사실의 공개일을 구분합니다. 이번 기사의 중심인 새 사실의 최초 공개 시점·증거를 사용하되, 기존 사실의 재서술이나 새로운 평가 문장만으로 날짜를 갱신하지 않습니다.
+
+72시간 실제 수집·24시간 신규 우선·48시간 미게재 보완, 09:00 마감, 원문 검증, 최근 14일 중복 검토, 기본 6건·최대 7건을 유지합니다. 마감 후 새로 발견한 자료의 수집시각을 소급하지 않습니다. 이미 발송한 회차와 메일·PDF 디자인, 발송 절차는 변경하지 않습니다.
