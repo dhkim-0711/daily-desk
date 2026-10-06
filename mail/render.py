@@ -21,12 +21,19 @@ KST = timezone(timedelta(hours=9))
 VERIFICATION_METHODS = {"full_text", "public_primary", "public_reprint"}
 SELECTION_AUDIT_REQUIRED_FROM = date(2026, 9, 30)
 EXPANDED_SELECTION_FROM = date(2026, 10, 6)
+LATER_CUTOFF_FROM = date(2026, 10, 7)
 SELECTION_COVERAGE_AREAS = (
     "domestic_npu", "domestic_policy_demand", "global_accelerators",
     "operating_software", "memory_packaging_infrastructure",
 )
 DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}\Z")
 SUPERSCRIPT = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
+
+
+def cutoff_for_date(issue_date):
+    """Keep historical editions valid while moving new editions to 09:30 KST."""
+    minute = 30 if issue_date >= LATER_CUTOFF_FROM else 0
+    return datetime(issue_date.year, issue_date.month, issue_date.day, 9, minute, tzinfo=KST)
 
 
 def _text(value, field, maximum=4000):
@@ -173,8 +180,8 @@ def validate_briefing(data, history_dir=None):
     start = _timestamp(data.get("window_start"), "window_start")
     created = _timestamp(data.get("created_at"), "created_at")
     if (cutoff.utcoffset() != timedelta(hours=9) or cutoff.date() != issue_date
-            or (cutoff.hour, cutoff.minute, cutoff.second, cutoff.microsecond) != (9, 0, 0, 0)):
-        raise ValueError("cutoff_at: issue date at exactly 09:00:00+09:00 required")
+            or cutoff != cutoff_for_date(issue_date)):
+        raise ValueError(f"cutoff_at: exactly {cutoff_for_date(issue_date).isoformat()} required")
     if start.utcoffset() != timedelta(hours=9) or cutoff - start != timedelta(days=1):
         raise ValueError("window_start: exactly 24 hours before cutoff in +09:00 required")
     if created < cutoff:
@@ -401,6 +408,7 @@ def _context(data):
     # Internal candidate review must not enter HTML, plain text, or PDF output.
     context.pop("selection_audit", None)
     context["display_date"] = data["date"].replace("-", ".")
+    context["cutoff_time"] = _timestamp(data["cutoff_at"], "cutoff_at").strftime("%H:%M")
     context["cutoff_display"] = _timestamp(data["cutoff_at"], "cutoff_at").strftime("%Y.%m.%d %H:%M")
     context["start_display"] = _timestamp(data["window_start"], "window_start").strftime("%Y.%m.%d %H:%M")
     citation_id = 1

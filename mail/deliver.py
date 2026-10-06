@@ -94,7 +94,7 @@ def gate(edition: date, now: datetime | None = None) -> str | None:
     current = (now or now_kst()).astimezone(SEOUL)
     if edition != current.date():
         raise DeliveryError("DATE_NOT_TODAY")
-    return "too_early" if current.time().replace(tzinfo=None) < time(9, 10) else None
+    return "too_early" if current.time().replace(tzinfo=None) < (time(9, 50) if edition >= date(2026, 10, 7) else time(9, 10)) else None
 
 
 def load_briefing(path: Path) -> dict[str, Any] | None:

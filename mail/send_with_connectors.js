@@ -286,9 +286,10 @@ async function runDailyDeskSend({tools, now = new Date(), sender, recipient, dry
       return null;
     }
     const source = ready.data, bundle = rendered.data;
-    const cutoff = date+'T09:00:00+09:00';
+    const cutoffTime = date >= '2026-10-07' ? '09:30' : '09:00';
+    const cutoff = date+'T'+cutoffTime+':00+09:00';
     const timestamp = value => typeof value === 'string' && /T.*(?:Z|[+-]\d{2}:\d{2})$/.test(value) && Number.isFinite(Date.parse(value));
-    const isCutoff = value => timestamp(value) && new RegExp('^'+date+'T09:00:00(?:\\.0+)?\\+09:00$').test(value);
+    const isCutoff = value => timestamp(value) && new RegExp('^'+date+'T'+cutoffTime+':00(?:\\.0+)?\\+09:00$').test(value);
     if (source.schema_version !== 1 || source.status !== 'ready' || source.date !== date || !isCutoff(source.cutoff_at) ||
         !timestamp(source.created_at) || Date.parse(source.created_at) < Date.parse(cutoff) || Date.parse(source.created_at) > current().getTime()) fail('SOURCE_INVALID');
     if (!keysOnly(bundle,['schema_version','status','date','cutoff_at','subject','source_sha256','renderer_sha256','rendered_at','html_sha256','payload_sha256','pdf_sha256','pdf_bytes','payload']) || bundle.schema_version !== 1 || bundle.status !== 'rendered' || bundle.date !== date || !isCutoff(bundle.cutoff_at) || bundle.subject !== subject ||
@@ -326,7 +327,7 @@ async function runDailyDeskSend({tools, now = new Date(), sender, recipient, dry
   try {
     if (!Number.isFinite(injectedNow)) fail('DATE_INVALID');
     date = kst(current()).slice(0,10);
-    if (kst(current()).slice(11,16) < '09:00') return result('too_early');
+    if (kst(current()).slice(11,16) < (date >= '2026-10-07' ? '09:30' : '09:00')) return result('too_early');
     const addressPattern = /^[A-Za-z0-9.!#$%&'*+/=?^_`{|}~-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$/;
     if (!addressPattern.test(sender || '') || !addressPattern.test(recipient || '')) fail('MAIL_ADDRESS_INVALID');
     subject = `AI반도체 일일 브리핑[${date.replace(/-/g,'.')}]`;

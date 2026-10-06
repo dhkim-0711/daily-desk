@@ -20,7 +20,8 @@ const hash = value => crypto.createHash('sha256').update(value).digest('hex');
 const canonical = value => value === null || typeof value !== 'object' ? JSON.stringify(value) : Array.isArray(value) ? '['+value.map(canonical).join(',')+']' : '{'+Object.keys(value).sort().map(key=>JSON.stringify(key)+':'+canonical(value[key])).join(',')+'}';
 const wrap = structuredContent => ({content:[{type:'text',text:'Action completed'}],structuredContent});
 
-function fixture() {
+function fixture(day = DATE) {
+  const DATE=day, FILENAME=`AI반도체_일일_브리핑_${day.replace(/-/g,".")}.pdf`, SUBJECT=`AI반도체 일일 브리핑[${day.replace(/-/g,".")}]`;
   const ready = {schema_version:1,status:'ready',date:DATE,cutoff_at:DATE+'T09:00:00+09:00',created_at:DATE+'T09:05:00+09:00',articles:[{title:'합성 기사 · 한글과 🧪'}]};
   const html = '<html><body><h1>테스트 전용 브리핑 🧪</h1><img src="cid:nipa-logo"></body></html>';
   const pdf = Buffer.from('%PDF-1.4\n% synthetic test only\n%%EOF\n');
@@ -30,27 +31,35 @@ function fixture() {
     {mime_type:'application/pdf',content_disposition:'attachment',filename:FILENAME,body:{base64_url_content:pdf.toString('base64url')}}
   ]};
   const bundle={schema_version:1,status:'rendered',date:DATE,cutoff_at:ready.cutoff_at,subject:SUBJECT,source_sha256:hash(canonical(ready)),renderer_sha256:hash('test-renderer'),rendered_at:DATE+'T09:06:00+09:00',html_sha256:hash(html),payload_sha256:hash(canonical(payload)),pdf_sha256:hash(pdf),pdf_bytes:pdf.length,payload};
+  if (day >= '2026-10-07') {
+    ready.cutoff_at=day+'T09:30:00+09:00';ready.created_at=day+'T09:35:00+09:00';
+    bundle.cutoff_at=ready.cutoff_at;bundle.rendered_at=day+'T09:36:00+09:00';bundle.source_sha256=hash(canonical(ready));
+  }
   return {ready,bundle,pdf,html};
 }
 
-function sentMessage(id, payload = fixture().bundle.payload, bytes = false) {
+function sentMessage(id, payload = fixture().bundle.payload, bytes = false, day = DATE, sentAt = NOW) {
+  const SUBJECT=`AI반도체 일일 브리핑[${day.replace(/-/g,".")}]`;
   const tree=clone(payload);
   tree.headers=[{name:'From',value:`"Test Sender" <${SENDER}>`},{name:'To',value:RECIPIENT},{name:'Subject',value:SUBJECT}];
   const pdf=tree.parts.find(part=>part.mime_type==='application/pdf');
   pdf.headers=[{name:'Content-Disposition',value:'attachment'}];
   if (!bytes) pdf.body={size:Buffer.from(pdf.body.base64_url_content,'base64url').length,attachment_id:'synthetic-attachment-id'};
-  return {id,label_ids:['SENT'],internal_date:String(NOW.getTime()),payload:tree};
+  return {id,label_ids:['SENT'],internal_date:String(sentAt.getTime()),payload:tree};
 }
 
 function harness(options = {}) {
-  const data=fixture();
+  const day=options.day||DATE, testNow=options.now||NOW;
+  const READY=`briefings/ready/${day}.json`, BUNDLE=`briefings/rendered/${day}.json`, STATE=`briefings/state/${day}.json`;
+  const SUBJECT=`AI반도체 일일 브리핑[${day.replace(/-/g,".")}]`;
+  const data=fixture(day);
   const files=new Map(), messages=new Map(), calls=[];
   let serial=0, sends=0, writes=0;
   function setFile(file,value) { files.set(file,{content:JSON.stringify(value),sha:hash('file-'+(++serial))}); }
   function getFile(file) { return files.has(file)?JSON.parse(files.get(file).content):null; }
   setFile(READY,data.ready); setFile(BUNDLE,data.bundle);
   if (options.state) setFile(STATE,options.state);
-  if (options.legacy) messages.set('legacy0123456789',sentMessage('legacy0123456789'));
+  if (options.legacy) messages.set('legacy0123456789',sentMessage('legacy0123456789',data.bundle.payload,false,day,testNow));
   const tools={
     async mcp__codex_apps__gmail_get_profile() { calls.push('profile'); return wrap({email:options.profile||SENDER}); },
     async mcp__codex_apps__github_fetch_file(args) {
@@ -77,7 +86,8 @@ function harness(options = {}) {
     },
     async mcp__codex_apps__gmail_search_emails(args) {
       calls.push('search');
-      assert.match(args.query,/after:1790607599 before:1790694000/);
+      const dayStart=Date.parse(day+'T00:00:00+09:00')/1000;
+      assert.ok(args.query.includes(`after:${dayStart-1} before:${dayStart+86400}`));
       if (options.searchError) throw new Error('network query failed');
       return wrap({emails:[...messages.values()].map(m=>({id:m.id,subject:SUBJECT})),next_page_token:null});
     },
@@ -91,13 +101,13 @@ function harness(options = {}) {
       assert.equal(getFile(STATE).status,'sending','durable claim must precede Gmail');
       assert.deepEqual(Object.keys(args).sort(),['from_address','payload','response_fields','subject','to']);
       assert.equal(args.from_address,SENDER); assert.equal(args.to,RECIPIENT); assert.equal(args.subject,SUBJECT);
-      if (!options.missingSent) messages.set('abcdef0123456789',sentMessage('abcdef0123456789',args.payload,options.byteEvidence));
+      if (!options.missingSent) messages.set('abcdef0123456789',sentMessage('abcdef0123456789',args.payload,options.byteEvidence,day,testNow));
       if (options.afterSend) await options.afterSend({files,messages,setFile,getFile,calls,args});
       if (options.sendError) throw new Error('ambiguous network timeout containing sensitive data');
       return wrap({id:'abcdef0123456789',label_ids:['SENT']});
     }
   };
-  const run=extra=>runDailyDeskSend({tools,now:NOW,sender:SENDER,recipient:RECIPIENT,...extra});
+  const run=extra=>runDailyDeskSend({tools,now:testNow,sender:SENDER,recipient:RECIPIENT,...extra});
   return {data,tools,files,messages,calls,setFile,getFile,run,get sends(){return sends;},get writes(){return writes;}};
 }
 
@@ -349,4 +359,35 @@ test('cutoff accepts equivalent zero fractional seconds but not a different offs
   ready.cutoff_at=DATE+'T09:00:00.000+09:00'; bundle.cutoff_at=ready.cutoff_at; bundle.source_sha256=hash(canonical(ready));
   h.setFile(READY,ready); h.setFile(BUNDLE,bundle);
   assert.equal((await h.run({dryRun:true})).status,'ready');
+});
+
+
+test('new schedule rejects pre-cutoff runs and sends the 09:30 edition once',async()=>{
+  const day='2026-10-07', now=new Date(day+'T09:50:00+09:00');
+  const h=harness({day,now});
+  assert.equal((await h.run({now:new Date(day+'T09:29:59+09:00')})).status,'too_early');
+  assert.equal(h.calls.length,0);
+  assert.equal((await h.run()).status,'sent');
+  assert.equal((await h.run()).status,'already_sent');assert.equal(h.sends,1);
+});
+
+test('new schedule rejects old 09:00 source and rendered cutoff even with valid hashes',async()=>{
+  const day='2026-10-07',now=new Date(day+'T09:50:00+09:00');
+  for (const changeSource of [true,false]) {
+    const h=harness({day,now}), ready=clone(h.data.ready),bundle=clone(h.data.bundle);
+    if(changeSource) {ready.cutoff_at=day+'T09:00:00+09:00';bundle.source_sha256=hash(canonical(ready));}
+    else bundle.cutoff_at=day+'T09:00:00+09:00';
+    h.setFile(`briefings/ready/${day}.json`,ready);h.setFile(`briefings/rendered/${day}.json`,bundle);
+    assert.equal((await h.run()).code,changeSource?'SOURCE_INVALID':'BUNDLE_INVALID');
+    assert.equal(h.sends,0);assert.equal(h.writes,0);
+  }
+});
+
+test('09:30 cutoff and early 09:49 verified run retain the authorized early-run rule',async()=>{
+  const day='2026-10-07',now=new Date(day+'T09:49:00+09:00');
+  const h=harness({day,now}),ready=clone(h.data.ready),bundle=clone(h.data.bundle);
+  ready.created_at=day+'T09:30:00+09:00';bundle.rendered_at=ready.created_at;bundle.source_sha256=hash(canonical(ready));
+  h.setFile(`briefings/ready/${day}.json`,ready);h.setFile(`briefings/rendered/${day}.json`,bundle);
+  assert.equal((await h.run({now:new Date(day+'T09:30:00+09:00'),dryRun:true})).status,'ready');
+  assert.equal(h.sends,0);assert.equal((await h.run()).status,'sent');assert.equal(h.sends,1);
 });

@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parent.parent
 def inspect(root=ROOT, now=None):
     current = (now or datetime.now(ZoneInfo('Asia/Seoul'))).astimezone(ZoneInfo('Asia/Seoul'))
     day = current.date().isoformat()
-    if (current.hour, current.minute) < (10, 25):
+    if (current.hour, current.minute) < ((11, 5) if day >= "2026-10-07" else (10, 25)):
         return {'date': day, 'status': 'before_watch_window', 'ok': True}
     path = root / 'briefings' / 'state' / (day + '.json')
     try:

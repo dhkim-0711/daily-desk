@@ -10,6 +10,7 @@ from email.utils import parsedate_to_datetime
 import json
 from pathlib import Path
 import re
+from render import cutoff_for_date
 
 ROOT = Path(__file__).resolve().parent.parent
 KST = timezone(timedelta(hours=9))
@@ -29,7 +30,7 @@ def stamp(value):
 
 
 def packet(day, root=ROOT):
-    cutoff = datetime.combine(date.fromisoformat(day), datetime.min.time(), KST).replace(hour=9)
+    cutoff = cutoff_for_date(date.fromisoformat(day))
     oldest = cutoff - timedelta(hours=48)
     months = sorted({cutoff.strftime('%Y-%m'), (cutoff - timedelta(hours=72)).strftime('%Y-%m')})
     candidates, excluded, input_count = [], [], 0

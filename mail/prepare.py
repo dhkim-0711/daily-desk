@@ -23,7 +23,7 @@ from urllib.parse import quote
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 
-from render import render_briefing, validate_briefing
+from render import cutoff_for_date, render_briefing, validate_briefing
 
 ROOT = Path(__file__).resolve().parent.parent
 SEOUL = ZoneInfo("Asia/Seoul")
@@ -77,7 +77,7 @@ def generation_gate(edition: date, *, now=None) -> str | None:
     current = (now or now_kst()).astimezone(SEOUL)
     if edition != current.date():
         raise PrepareError("DATE_NOT_TODAY")
-    return "too_early" if current.time().replace(tzinfo=None) < time(9) else None
+    return "too_early" if current < cutoff_for_date(edition) else None
 
 
 def validate_source(data: Any, edition: date, *, now=None) -> None:
@@ -151,7 +151,7 @@ def validate_bundle(bundle: Any, edition: date, *, now=None) -> None:
                 or bundle.get("subject") != f"AI반도체 일일 브리핑[{edition:%Y.%m.%d}]"):
             raise ValueError()
         cutoff = timestamp(bundle["cutoff_at"])
-        expected = datetime.combine(edition, time(9), tzinfo=SEOUL)
+        expected = cutoff_for_date(edition)
         if cutoff != expected or cutoff.utcoffset() != expected.utcoffset():
             raise ValueError()
         rendered_at = timestamp(bundle["rendered_at"])

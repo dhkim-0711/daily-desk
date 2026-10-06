@@ -3,9 +3,9 @@ import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const rootDir = fileURLToPath(new URL("..", import.meta.url));
-const refreshHoursKst = [7, 10, 13, 16, 19, 22];
-const refreshMinute = 10;
+const refreshSlotsKst = [[7,10], [9,20], [10,10], [13,10], [16,10], [19,10], [22,10]];
 const primarySchedule = "10 22,1,4,7,10,13 * * *";
+const briefingSchedule = "20 0 * * *";
 const watchdogSchedule = "43 * * * *";
 const koreaOffsetMs = 9 * 60 * 60 * 1000;
 const emergencyStaleAfterMs = 4 * 60 * 60 * 1000;
@@ -19,7 +19,7 @@ async function setOutput(name, value) {
   console.log(`${name}=${value}`);
 }
 
-function getLatestRefreshSlot(now) {
+export function getLatestRefreshSlot(now) {
   const kstNow = new Date(now.getTime() + koreaOffsetMs);
   const dayStart = Date.UTC(
     kstNow.getUTCFullYear(),
@@ -27,20 +27,25 @@ function getLatestRefreshSlot(now) {
     kstNow.getUTCDate(),
   ) - koreaOffsetMs;
 
-  for (const hour of [...refreshHoursKst].reverse()) {
-    const slot = dayStart + hour * 60 * 60 * 1000 + refreshMinute * 60 * 1000;
+  for (const [hour, minute] of [...refreshSlotsKst].reverse()) {
+    const slot = dayStart + hour * 60 * 60 * 1000 + minute * 60 * 1000;
     if (slot <= now.getTime()) {
       return slot;
     }
   }
 
-  return dayStart - 24 * 60 * 60 * 1000 + 22 * 60 * 60 * 1000 + refreshMinute * 60 * 1000;
+  return dayStart - 24 * 60 * 60 * 1000 + 22 * 60 * 60 * 1000 + 10 * 60 * 1000;
 }
 
 async function decideRefresh() {
   if (!schedule) {
     console.log("Manual or push refresh received.");
     return { shouldRefresh: true, reason: "manual_or_push" };
+  }
+
+  if (schedule === briefingSchedule) {
+    console.log("Pre-briefing 09:20 KST collection slot received.");
+    return { shouldRefresh: true, reason: "pre_briefing_slot" };
   }
 
   if (schedule === primarySchedule) {
@@ -83,6 +88,8 @@ async function decideRefresh() {
   }
 }
 
-const result = await decideRefresh();
-await setOutput("should_refresh", result.shouldRefresh ? "true" : "false");
-await setOutput("refresh_reason", result.reason);
+if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
+  const result = await decideRefresh();
+  await setOutput("should_refresh", result.shouldRefresh ? "true" : "false");
+  await setOutput("refresh_reason", result.reason);
+}

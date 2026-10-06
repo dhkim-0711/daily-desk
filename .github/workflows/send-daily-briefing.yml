@@ -8,10 +8,10 @@ on:
       - 'mail/**'
       - '.github/workflows/send-daily-briefing.yml'
   schedule:
-    # UTC 00:05-14:05 = 09:05-23:05 KST. Ready commits also trigger immediately.
-    - cron: '5 0-14 * * *'
-    # Independent read-only watchdog: 10:25-23:25 KST.
-    - cron: '25 1-14 * * *'
+    # UTC 00:35-14:35 = 09:35-23:35 KST. Ready commits also trigger immediately.
+    - cron: '35 0-14 * * *'
+    # Independent read-only watchdog: 11:05-23:05 KST.
+    - cron: '5 2-14 * * *'
   workflow_dispatch:
     inputs:
       mode:
@@ -33,7 +33,7 @@ concurrency:
 
 jobs:
   prepare:
-    if: github.ref == 'refs/heads/main' && github.event.schedule != '25 1-14 * * *'
+    if: github.ref == 'refs/heads/main' && github.event.schedule != '5 2-14 * * *'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
@@ -119,7 +119,7 @@ jobs:
           echo '::error::Daily Desk preparation failed. A later scheduled run will retry; GPT must send only a verified rendered bundle.'
           echo 'Preparation failed; no email was sent by GitHub.' >> "$GITHUB_STEP_SUMMARY"
   watch-delivery:
-    if: github.ref == 'refs/heads/main' && (github.event_name != 'schedule' || github.event.schedule == '25 1-14 * * *')
+    if: github.ref == 'refs/heads/main' && (github.event_name != 'schedule' || github.event.schedule == '5 2-14 * * *')
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
