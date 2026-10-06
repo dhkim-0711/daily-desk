@@ -1224,6 +1224,312 @@
           "recent_count": 1
         }
       ]
+    },
+    {
+      "version": 1,
+      "collected_at": "2026-10-06T10:46:36.900Z",
+      "lookback_hours": 72,
+      "raw_count": 1568,
+      "recent_count": 1452,
+      "unique_count": 1276,
+      "duplicate_records": 176,
+      "excluded": {
+        "old": 116,
+        "future": 0,
+        "unknown_date": 0
+      },
+      "archived_candidates": 1276,
+      "displayed_count": 180,
+      "sources": [
+        {
+          "id": "ai-market-global",
+          "label": "AI 시장 전체",
+          "url": "https://news.google.com/rss/search?q=(%22AI%20market%22%20OR%20%22generative%20AI%22%20OR%20%22AI%20adoption%22%20OR%20%22AI%20revenue%22%20OR%20%22AI%20spending%22%20OR%20%22AI%20investment%22%20OR%20%22AI%20demand%22)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 100,
+          "recent_count": 100
+        },
+        {
+          "id": "ai-market-business",
+          "label": "AI 시장·비즈니스",
+          "url": "https://news.google.com/rss/search?q=(%22AI%20startup%22%20OR%20%22AI%20SaaS%22%20OR%20%22enterprise%20AI%22%20OR%20%22AI%20app%22%20OR%20%22AI%20search%22%20OR%20%22AI%20model%20revenue%22%20OR%20%22AI%20subscription%22)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 100,
+          "recent_count": 100
+        },
+        {
+          "id": "ai-investment-market",
+          "label": "AI 투자·자본시장",
+          "url": "https://news.google.com/rss/search?q=(%22AI%20funding%22%20OR%20%22AI%20IPO%22%20OR%20%22AI%20M%26A%22%20OR%20%22AI%20stocks%22%20OR%20%22AI%20capex%22%20OR%20%22AI%20valuation%22%20OR%20%22AI%20earnings%22)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 69,
+          "recent_count": 69
+        },
+        {
+          "id": "ai-agents-cloud",
+          "label": "AI 서비스·클라우드",
+          "url": "https://news.google.com/rss/search?q=(%22AI%20agent%22%20OR%20%22enterprise%20AI%22%20OR%20%22AI%20cloud%22%20OR%20%22AI%20datacenter%22%20OR%20%22LLM%20inference%22%20OR%20%22AI%20search%22)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 100,
+          "recent_count": 100
+        },
+        {
+          "id": "nvidia-ai",
+          "label": "NVIDIA 이슈",
+          "url": "https://news.google.com/rss/search?q=(NVIDIA%20OR%20Nvidia)%20(AI%20OR%20GPU%20OR%20Blackwell%20OR%20Rubin%20OR%20%22AI%20chip%22%20OR%20datacenter%20OR%20inference)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 100,
+          "recent_count": 100
+        },
+        {
+          "id": "google-ai",
+          "label": "Google AI 이슈",
+          "url": "https://news.google.com/rss/search?q=(Google%20OR%20Alphabet%20OR%20Gemini%20OR%20TPU%20OR%20DeepMind)%20(AI%20OR%20%22AI%20chip%22%20OR%20datacenter%20OR%20cloud%20OR%20inference)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 100,
+          "recent_count": 100
+        },
+        {
+          "id": "korea-global-ai-companies",
+          "label": "해외 빅테크 국내 보도",
+          "url": "https://news.google.com/rss/search?q=(%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%20OR%20NVIDIA%20OR%20%EA%B5%AC%EA%B8%80%20OR%20Google%20OR%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20OR%20%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4%20OR%20Gemini%20OR%20%EB%94%A5%EB%A7%88%EC%9D%B8%EB%93%9C%20OR%20DeepMind)%20(AI%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20OR%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20GPU%20OR%20TPU%20OR%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%20OR%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20OR%20%EC%B6%94%EB%A1%A0)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 100,
+          "recent_count": 100
+        },
+        {
+          "id": "global-ai-chip",
+          "label": "해외 AI반도체",
+          "url": "https://news.google.com/rss/search?q=(%22AI%20chip%22%20OR%20NPU%20OR%20%22AI%20accelerator%22%20OR%20%22inference%20chip%22)%20(AMD%20OR%20Broadcom%20OR%20TSMC%20OR%20Arm%20OR%20Samsung%20OR%20SK%20hynix)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 25,
+          "recent_count": 25
+        },
+        {
+          "id": "global-policy",
+          "label": "해외 정책·투자",
+          "url": "https://news.google.com/rss/search?q=(%22AI%20semiconductor%22%20OR%20%22advanced%20chips%22%20OR%20%22AI%20infrastructure%22)%20(policy%20OR%20subsidy%20OR%20export%20OR%20investment%20OR%20sovereign%20AI)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 56,
+          "recent_count": 56
+        },
+        {
+          "id": "korea-npu",
+          "label": "국내 NPU 기업",
+          "url": "https://news.google.com/rss/search?q=(%EB%A6%AC%EB%B2%A8%EB%A6%AC%EC%98%A8%20OR%20%ED%93%A8%EB%A6%AC%EC%98%A4%EC%82%ACAI%20OR%20%ED%93%A8%EB%A6%AC%EC%98%A4%EC%82%AC%20OR%20%ED%95%98%EC%9D%B4%ED%8D%BC%EC%97%91%EC%85%80%20OR%20%EB%94%A5%EC%97%91%EC%8A%A4%20OR%20%EB%AA%A8%EB%B9%8C%EB%A6%B0%ED%8A%B8%20OR%20K-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%20OR%20NPU)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 66,
+          "recent_count": 66
+        },
+        {
+          "id": "rebellions",
+          "label": "리벨리온",
+          "url": "https://news.google.com/rss/search?q=(%EB%A6%AC%EB%B2%A8%EB%A6%AC%EC%98%A8%20OR%20Rebellions)%20(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%20OR%20%EC%B6%94%EB%A1%A0%20OR%20K-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 12,
+          "recent_count": 12
+        },
+        {
+          "id": "furiosa",
+          "label": "퓨리오사AI",
+          "url": "https://news.google.com/rss/search?q=(%ED%93%A8%EB%A6%AC%EC%98%A4%EC%82%ACAI%20OR%20%ED%93%A8%EB%A6%AC%EC%98%A4%EC%82%AC%20OR%20FuriosaAI%20OR%20Furiosa)%20(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20RNGD%20OR%20%EC%B6%94%EB%A1%A0%20OR%20K-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 8,
+          "recent_count": 8
+        },
+        {
+          "id": "hyperaccel",
+          "label": "하이퍼엑셀",
+          "url": "https://news.google.com/rss/search?q=(%ED%95%98%EC%9D%B4%ED%8D%BC%EC%97%91%EC%85%80%20OR%20HyperAccel)%20(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20LLM%20OR%20%EC%B6%94%EB%A1%A0%20OR%20K-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 3,
+          "recent_count": 3
+        },
+        {
+          "id": "hyperaccel-broad",
+          "label": "하이퍼엑셀 확장",
+          "url": "https://news.google.com/rss/search?q=(%ED%95%98%EC%9D%B4%ED%8D%BC%EC%97%91%EC%85%80%20OR%20HyperAccel%20OR%20HyperDex)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 4,
+          "recent_count": 4
+        },
+        {
+          "id": "hyperaccel-global",
+          "label": "HyperAccel global",
+          "url": "https://news.google.com/rss/search?q=(%22HyperAccel%22%20OR%20%22HyperDex%22%20OR%20%22Latency%20Processing%20Unit%22)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "empty",
+          "raw_count": 0,
+          "recent_count": 0
+        },
+        {
+          "id": "deepx",
+          "label": "딥엑스",
+          "url": "https://news.google.com/rss/search?q=(%EB%94%A5%EC%97%91%EC%8A%A4%20OR%20DEEPX)%20(NPU%20OR%20%EC%98%A8%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20AI%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%97%A3%EC%A7%80AI%20OR%20K-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 14,
+          "recent_count": 14
+        },
+        {
+          "id": "mobilint",
+          "label": "모빌린트",
+          "url": "https://news.google.com/rss/search?q=(%EB%AA%A8%EB%B9%8C%EB%A6%B0%ED%8A%B8%20OR%20Mobilint)%20(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%97%90%EC%A7%80%20AI%20OR%20%EC%B6%94%EB%A1%A0%20OR%20K-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 8,
+          "recent_count": 8
+        },
+        {
+          "id": "mobilint-broad",
+          "label": "모빌린트 확장",
+          "url": "https://news.google.com/rss/search?q=%EB%AA%A8%EB%B9%8C%EB%A6%B0%ED%8A%B8%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 11,
+          "recent_count": 11
+        },
+        {
+          "id": "mobilint-global",
+          "label": "Mobilint global",
+          "url": "https://news.google.com/rss/search?q=Mobilint%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 2,
+          "recent_count": 2
+        },
+        {
+          "id": "korea-ai-market",
+          "label": "국내 AI 시장",
+          "url": "https://news.google.com/rss/search?q=(%EC%83%9D%EC%84%B1%ED%98%95%20AI%20OR%20AI%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%84%9C%EB%B9%84%EC%8A%A4%20OR%20AI%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%20OR%20%EC%98%A8%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20AI%20OR%20AI%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20AI%20%ED%88%AC%EC%9E%90%20OR%20AI%20%EB%A7%A4%EC%B6%9C%20OR%20AI%20%EC%88%98%EC%9A%94%20OR%20AI%20%EB%8F%84%EC%9E%85%20OR%20AI%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%20OR%20AI%20%EC%84%9C%EB%B9%84%EC%8A%A4)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 96,
+          "recent_count": 96
+        },
+        {
+          "id": "korea-ai-policy",
+          "label": "국내 AI 정책",
+          "url": "https://news.google.com/rss/search?q=(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%22AI%20%EB%B0%98%EB%8F%84%EC%B2%B4%22%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%22%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%22%20OR%20%22%EA%B5%AD%EA%B0%80%20AI%22%20OR%20%22AI%20%EC%BB%B4%ED%93%A8%ED%8C%85%22%20OR%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0)%20(%EC%A0%95%EC%B1%85%20OR%20%EC%98%88%EC%82%B0%20OR%20%ED%88%AC%EC%9E%90%20OR%20%EC%82%AC%EC%97%85%20OR%20%EC%A1%B0%EB%8B%AC)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 100,
+          "recent_count": 100
+        },
+        {
+          "id": "nipa-msit-policy",
+          "label": "NIPA·과기정통부 정책",
+          "url": "https://news.google.com/rss/search?q=(NIPA%20OR%20%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90%20OR%20%EA%B3%BC%EA%B8%B0%EC%A0%95%ED%86%B5%EB%B6%80%20OR%20%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%B6%80%20OR%20IITP%20OR%20%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B8%B0%ED%9A%8D%ED%8F%89%EA%B0%80%EC%9B%90)%20(AI%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20NPU%20OR%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%20OR%20%EC%82%AC%EC%97%85%EA%B3%B5%EA%B3%A0%20OR%20%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C%20OR%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20OR%20%EA%B3%B5%EB%AA%A8)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 97,
+          "recent_count": 97
+        },
+        {
+          "id": "msit-ai-chip",
+          "label": "과기정통부 AI반도체",
+          "url": "https://news.google.com/rss/search?q=%EA%B3%BC%EA%B8%B0%EC%A0%95%ED%86%B5%EB%B6%80%20AI%20%EB%B0%98%EB%8F%84%EC%B2%B4%20NPU%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%98%EB%8F%84%EC%B2%B4%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 5,
+          "recent_count": 5
+        },
+        {
+          "id": "nipa-ai-chip",
+          "label": "NIPA AI반도체",
+          "url": "https://news.google.com/rss/search?q=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90%20NIPA%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20NPU%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20%EC%82%AC%EC%97%85%EA%B3%B5%EA%B3%A0%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "empty",
+          "raw_count": 0,
+          "recent_count": 0
+        },
+        {
+          "id": "ai-chip-public-program",
+          "label": "AI반도체 공공사업",
+          "url": "https://news.google.com/rss/search?q=(AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20NPU%20OR%20K-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%20OR%20%EA%B5%AD%EC%82%B0%20AI%EB%B0%98%EB%8F%84%EC%B2%B4)%20(%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C%20OR%20%EC%82%AC%EC%97%85%EA%B3%B5%EA%B3%A0%20OR%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20OR%20%EA%B3%B5%EB%AA%A8%20OR%20%EC%8B%A4%EC%A6%9D%20OR%20%EB%B0%94%EC%9A%B0%EC%B2%98%20OR%20%EC%A1%B0%EB%8B%AC%20OR%20%EA%B3%BC%EA%B8%B0%EC%A0%95%ED%86%B5%EB%B6%80%20OR%20NIPA)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 38,
+          "recent_count": 38
+        },
+        {
+          "id": "government-npu-policy",
+          "label": "정부 NPU 정책·예산",
+          "url": "https://news.google.com/rss/search?q=(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%22AI%20%EB%B0%98%EB%8F%84%EC%B2%B4%22%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%22%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%22)%20(%EC%A0%95%EB%B6%80%20OR%20%EB%B6%80%EC%B2%98%20OR%20%EA%B3%BC%EA%B8%B0%EC%A0%95%ED%86%B5%EB%B6%80%20OR%20%EC%82%B0%EC%97%85%EB%B6%80%20OR%20%EC%A4%91%EA%B8%B0%EB%B6%80%20OR%20%ED%96%89%EC%95%88%EB%B6%80%20OR%20%EA%B8%B0%EC%9E%AC%EB%B6%80%20OR%20%EC%A1%B0%EB%8B%AC%EC%B2%AD%20OR%20%EA%B5%AD%ED%9A%8C)%20(%EC%A0%95%EC%B1%85%20OR%20%EC%98%88%EC%82%B0%20OR%20%EA%B5%AD%EB%B9%84%20OR%20%EA%B3%B5%EB%AA%A8%20OR%20%EC%8B%A4%EC%A6%9D%20OR%20%EB%8F%84%EC%9E%85%20OR%20%EC%A1%B0%EB%8B%AC%20OR%20%EC%A7%80%EC%9B%90)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 41,
+          "recent_count": 41
+        },
+        {
+          "id": "local-government-npu",
+          "label": "지자체 NPU 정책·사업",
+          "url": "https://news.google.com/rss/search?q=(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%22AI%20%EB%B0%98%EB%8F%84%EC%B2%B4%22%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%22%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%22)%20(%EC%A7%80%EC%9E%90%EC%B2%B4%20OR%20%EC%A7%80%EB%B0%A9%EC%A0%95%EB%B6%80%20OR%20%EC%A7%80%EB%B0%A9%EC%9E%90%EC%B9%98%EB%8B%A8%EC%B2%B4%20OR%20%EA%B4%91%EC%97%AD%EC%8B%9C%20OR%20%ED%8A%B9%EB%B3%84%EC%8B%9C%20OR%20%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20OR%20%EB%8F%84%EC%B2%AD%20OR%20%EC%8B%9C%EC%B2%AD%20OR%20%EA%B5%B0%EC%B2%AD%20OR%20%EA%B5%AC%EC%B2%AD%20OR%20%EC%A7%80%EB%B0%A9%EC%9D%98%ED%9A%8C)%20(%EC%98%88%EC%82%B0%20OR%20%EA%B5%AD%EB%B9%84%20OR%20%EC%82%AC%EC%97%85%20OR%20%EC%8B%A4%EC%A6%9D%20OR%20%EB%8F%84%EC%9E%85%20OR%20%EA%B5%AC%EC%B6%95%20OR%20%EC%A7%80%EC%9B%90%20OR%20%EC%A1%B0%EB%8B%AC)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 30,
+          "recent_count": 30
+        },
+        {
+          "id": "regional-npu-budget",
+          "label": "지역 NPU 국비·실증",
+          "url": "https://news.google.com/rss/search?q=(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%22AI%20%EB%B0%98%EB%8F%84%EC%B2%B4%22%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%22%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%22)%20(%EC%84%9C%EC%9A%B8%20OR%20%EB%B6%80%EC%82%B0%20OR%20%EB%8C%80%EA%B5%AC%20OR%20%EC%9D%B8%EC%B2%9C%20OR%20%EA%B4%91%EC%A3%BC%20OR%20%EB%8C%80%EC%A0%84%20OR%20%EC%9A%B8%EC%82%B0%20OR%20%EC%84%B8%EC%A2%85%20OR%20%EA%B2%BD%EA%B8%B0%20OR%20%EA%B0%95%EC%9B%90%20OR%20%EC%B6%A9%EB%B6%81%20OR%20%EC%B6%A9%EC%B2%AD%EB%B6%81%EB%8F%84%20OR%20%EC%B6%A9%EB%82%A8%20OR%20%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20OR%20%EC%A0%84%EB%B6%81%20OR%20%EC%A0%84%EB%82%A8%20OR%20%EA%B2%BD%EB%B6%81%20OR%20%EA%B2%BD%EB%82%A8%20OR%20%EC%A0%9C%EC%A3%BC)%20(%EC%98%88%EC%82%B0%20OR%20%EA%B5%AD%EB%B9%84%20OR%20%EC%8B%A4%EC%A6%9D%20OR%20%EA%B3%B5%EB%AA%A8%20OR%20%EB%8F%84%EC%9E%85%20OR%20%EA%B5%AC%EC%B6%95%20OR%20%EC%A1%B0%EB%8B%AC)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 72,
+          "recent_count": 0
+        },
+        {
+          "id": "public-regional-npu-demand",
+          "label": "공공·지역기관 NPU 수요",
+          "url": "https://news.google.com/rss/search?q=(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%22AI%20%EB%B0%98%EB%8F%84%EC%B2%B4%22%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%22%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%98%EB%8F%84%EC%B2%B4%22)%20(%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80%20OR%20%ED%85%8C%ED%81%AC%EB%85%B8%ED%8C%8C%ED%81%AC%20OR%20%EC%A0%95%EB%B3%B4%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90%20OR%20%EC%A0%95%EB%B3%B4%EB%AC%B8%ED%99%94%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90%20OR%20%EA%B2%BD%EC%A0%9C%EC%A7%84%ED%9D%A5%EC%9B%90%20OR%20%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%82%B0%EC%97%85%EC%9C%B5%ED%95%A9%EC%82%AC%EC%97%85%EB%8B%A8)%20(%EC%8B%A4%EC%A6%9D%20OR%20%EB%8F%84%EC%9E%85%20OR%20%EA%B5%AC%EB%A7%A4%20OR%20%EC%A1%B0%EB%8B%AC%20OR%20%EA%B5%AC%EC%B6%95%20OR%20%EA%B3%B5%EB%AA%A8%20OR%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20OR%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 3,
+          "recent_count": 3
+        },
+        {
+          "id": "accelerator-software",
+          "label": "가속기 운영 SW",
+          "url": "https://news.google.com/rss/search?q=(vLLM%20OR%20SGLang%20OR%20ROCm%20OR%20%22AI%20compiler%22%20OR%20%22inference%20runtime%22%20OR%20%22GPU%20orchestration%22)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 8,
+          "recent_count": 8
+        },
+        {
+          "id": "memory-packaging",
+          "label": "메모리·패키징·인터커넥트",
+          "url": "https://news.google.com/rss/search?q=(HBM%20OR%20CoWoS%20OR%20UCIe%20OR%20CXL%20OR%20%22silicon%20photonics%22%20OR%20%22advanced%20packaging%22)%20(AI%20OR%20accelerator%20OR%20semiconductor)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 49,
+          "recent_count": 49
+        },
+        {
+          "id": "korea-infrastructure",
+          "label": "국내 메모리·AI 인프라",
+          "url": "https://news.google.com/rss/search?q=(HBM%20OR%20%ED%8C%A8%ED%82%A4%EC%A7%95%20OR%20%EC%9D%B8%ED%84%B0%EC%BB%A4%EB%84%A5%ED%8A%B8%20OR%20%EC%95%A1%EC%B2%B4%EB%83%89%EA%B0%81%20OR%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%20OR%20%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98)%20(AI%20OR%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 74,
+          "recent_count": 74
+        },
+        {
+          "id": "official-korea-policy",
+          "label": "정부·공공기관 공식자료",
+          "url": "https://news.google.com/rss/search?q=(site%3Amsit.go.kr%20OR%20site%3Anipa.kr%20OR%20site%3Aiitp.kr%20OR%20site%3Akorea.kr%20OR%20site%3Amotir.go.kr)%20(NPU%20OR%20AI%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%20AI%EC%BB%B4%ED%93%A8%ED%8C%85)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "status": "ok",
+          "raw_count": 8,
+          "recent_count": 8
+        },
+        {
+          "id": "official-chip-news",
+          "label": "반도체 기업 공식발표",
+          "url": "https://news.google.com/rss/search?q=(site%3Anewsroom.amd.com%20OR%20site%3Anews.skhynix.com%20OR%20site%3Anews.samsung.com%20OR%20site%3Apr.tsmc.com%20OR%20site%3Abroadcom.com)%20(AI%20OR%20HBM%20OR%20accelerator%20OR%20packaging)%20when%3A3d&hl=en-US&gl=US&ceid=US:en",
+          "status": "ok",
+          "raw_count": 31,
+          "recent_count": 23
+        },
+        {
+          "id": "nvidia-official-blog",
+          "label": "NVIDIA 공식 기술발표",
+          "url": "https://blogs.nvidia.com/feed/",
+          "status": "ok",
+          "raw_count": 18,
+          "recent_count": 1
+        },
+        {
+          "id": "nvidia-official-news",
+          "label": "NVIDIA 공식 보도자료",
+          "url": "https://nvidianews.nvidia.com/releases.xml",
+          "status": "ok",
+          "raw_count": 20,
+          "recent_count": 1
+        }
+      ]
     }
   ]
 }
