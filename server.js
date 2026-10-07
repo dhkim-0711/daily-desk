@@ -192,7 +192,7 @@ const newsQueries = [
 // Separate discovery from presentation. Every recent result is eligible for archival.
 newsQueries.push(
   { id: "accelerator-software", label: "가속기 운영 SW", lang: "en",
-    query: '(vLLM OR SGLang OR ROCm OR "AI compiler" OR "inference runtime" OR "GPU orchestration")' },
+    query: '(vLLM OR SGLang OR ROCm OR "AI compiler" OR "inference runtime" OR "GPU orchestration" OR "inference kernel" OR OpenShell OR "agent safety platform")' },
   { id: "memory-packaging", label: "메모리·패키징·인터커넥트", lang: "en",
     query: '(HBM OR CoWoS OR UCIe OR CXL OR "silicon photonics" OR "advanced packaging") (AI OR accelerator OR semiconductor)' },
   { id: "korea-infrastructure", label: "국내 메모리·AI 인프라", lang: "ko",
@@ -202,6 +202,21 @@ newsQueries.push(
   { id: "official-chip-news", label: "반도체 기업 공식발표", lang: "en",
     query: '(site:newsroom.amd.com OR site:news.skhynix.com OR site:news.samsung.com OR site:pr.tsmc.com OR site:broadcom.com) (AI OR HBM OR accelerator OR packaging)' },
 );
+
+// Editorial discovery expansion; these queries do not assign publication quotas or scores.
+newsQueries.push(
+  { id: "npu-commercialization", label: "국산 NPU 실증·협력", lang: "ko",
+    query: '(NPU OR AI반도체 OR "AI 반도체") (실증 OR "K-Perf" OR 산단 OR 국산 OR 공동개발 OR 해외협력 OR 이기종 OR 인력양성)' },
+  { id: "ai-chip-policy-finance", label: "AI반도체 정책금융·집행", lang: "ko",
+    query: '(NPU OR AI반도체 OR "AI 반도체") (정책금융 OR 금융위 OR 펀드 OR 민간매칭 OR 집행 OR 연구소 OR 인력양성)' },
+  { id: "regional-industry-finance", label: "지역 AI·반도체 산업금융", lang: "ko",
+    query: '(AI OR 인공지능 OR 반도체) (금융허브 OR 전략산업 OR 지역산업) (금융 OR 투자 OR 대출 OR 보증)' },
+  { id: "ai-chip-capital-market-ko", label: "AI반도체 시장·수급", lang: "ko",
+    query: '(AI반도체 OR "AI 반도체" OR AMD OR 브로드컴 OR 마벨 OR TPU) (주가 OR 수급 OR 투자심리 OR 매출전망 OR 강세)' },
+  { id: "accelerator-software-ko", label: "국내 가속기 운영 SW 보도", lang: "ko",
+    query: '(GPU OR NPU OR 가속기 OR ROCm OR CUDA) (컴파일러 OR 런타임 OR 커널 OR 오케스트레이션 OR 추론최적화 OR 이기종 OR 보안)' },
+);
+
 const officialFeeds = [
   { id: "nvidia-official-blog", label: "NVIDIA 공식 기술발표", lang: "en",
     url: "https://blogs.nvidia.com/feed/", publisher: "NVIDIA Blog", outletUrl: "https://blogs.nvidia.com" },
