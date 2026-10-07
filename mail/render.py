@@ -22,6 +22,8 @@ VERIFICATION_METHODS = {"full_text", "public_primary", "public_reprint"}
 SELECTION_AUDIT_REQUIRED_FROM = date(2026, 9, 30)
 EXPANDED_SELECTION_FROM = date(2026, 10, 6)
 LATER_CUTOFF_FROM = date(2026, 10, 7)
+PUBLICATION_CUTOFF_FROM = date(2026, 10, 7)
+MANDATORY_FINAL_SEARCH_FROM = date(2026, 10, 8)
 SELECTION_COVERAGE_AREAS = (
     "domestic_npu", "domestic_policy_demand", "global_accelerators",
     "operating_software", "memory_packaging_infrastructure",
@@ -198,8 +200,11 @@ def validate_briefing(data, history_dir=None):
         _text(article.get("category"), field + ".category", 120)
         collected = _timestamp(article.get("collected_at"), field + ".collected_at")
         collection_start = start if issue_date < EXPANDED_SELECTION_FROM else cutoff - timedelta(hours=72)
-        if not collection_start < collected <= cutoff:
-            raise ValueError(f"{field}.collected_at: must be a real pre-cutoff collection within the allowed window")
+        collection_end = created if issue_date >= PUBLICATION_CUTOFF_FROM else cutoff
+        if not collection_start < collected <= collection_end:
+            raise ValueError(f"{field}.collected_at: actual collection must be within the allowed window and no later than creation")
+        if collected > cutoff and collected.astimezone(KST).date() != issue_date:
+            raise ValueError(f"{field}.collected_at: late collection must be on the issue date")
         published = _before_cutoff(article.get("original_published_at"), cutoff, field + ".original_published_at")
         if isinstance(published, datetime) and published > collected:
             raise ValueError(f"{field}: original publication cannot follow collection")
@@ -213,6 +218,19 @@ def validate_briefing(data, history_dir=None):
             raise ValueError(f"{field}.sources: 1-5 verified sources required")
         for i, source in enumerate(sources):
             _source(source, f"{field}.sources[{i}]", cutoff, created)
+        if collected > cutoff:
+            # A late discovery is eligible only with explicit evidence about the
+            # pre-cutoff facts; never backdate the actual collection timestamp.
+            evidence = [s for s in sources if s["url"] == article.get("event_evidence_url")
+                        and s.get("available_before_cutoff") is True
+                        and isinstance(s.get("cutoff_evidence"), str)
+                        and s["cutoff_evidence"].strip()]
+            if not evidence:
+                raise ValueError(f"{field}: late collection requires verified pre-cutoff event evidence")
+            for source in evidence:
+                _text(source["cutoff_evidence"], field + ".cutoff_evidence", 1000)
+                if _timestamp(source["verified_at"], field + ".verified_at") < collected:
+                    raise ValueError(f"{field}: late collection evidence must be verified after discovery")
         references = article.get("references", [])
         if not isinstance(references, list) or len(references) > 5:
             raise ValueError(f"{field}.references: at most 5 optional references allowed")
@@ -317,11 +335,13 @@ def _expanded_selection(data, cutoff):
                 raise ValueError("event_reviews: new fact requires a verified evidence URL")
     if len(set(ids)) != len(ids):
         raise ValueError("event_id: repeated events cannot fill multiple slots")
-    needs_search = len(data["articles"]) < 6 or any(a["selection_tier"] == "supplement" for a in data["articles"])
+    needs_search = (cutoff.date() >= MANDATORY_FINAL_SEARCH_FROM
+                    or len(data["articles"]) < 6
+                    or any(a["selection_tier"] == "supplement" for a in data["articles"]))
     if needs_search:
         extra = audit.get("additional_search", {})
         if extra.get("completed") is not True:
-            raise ValueError("additional_search: required before shortfall or 48-hour supplements")
+            raise ValueError("additional_search: completed final search required for new editions, shortfall or 48-hour supplements")
         areas = extra.get("areas", {})
         for area in SELECTION_COVERAGE_AREAS:
             row = areas.get(area, {})

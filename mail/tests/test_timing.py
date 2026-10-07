@@ -54,18 +54,19 @@ class TimingTests(unittest.TestCase):
     def test_actual_collection_and_publication_stop_at_0930(self):
         d=new_edition(); d['articles'][0]['collected_at']='2026-10-07T09:30:00+09:00'; self.validate(d)
         d['articles'][0]['collected_at']='2026-10-07T09:30:01+09:00'
+        d['articles'][0]['sources'][0].pop('cutoff_evidence',None)
         with self.assertRaises(ValueError): self.validate(d)
         d=new_edition();d['articles'][0]['event_first_published_at']='2026-10-07T09:30:01+09:00'
         with self.assertRaises(ValueError):self.validate(d)
 
-    def test_candidate_packet_includes_new_half_hour_but_not_late_discoveries(self):
+    def test_candidate_packet_includes_new_half_hour_and_flags_late_discoveries(self):
         folder=self.root/'docs/data/archive';folder.mkdir(parents=True)
         articles=[dict(title=name,link='https://example.com/'+name,publishedAt='2026-10-07T09:10:00+09:00',firstSeenAt=stamp)
                   for name,stamp in [('included','2026-10-07T09:29:59+09:00'),('late','2026-10-07T09:30:01+09:00')]]
         (folder/'2026-10.json').write_text(json.dumps({'articles':articles}))
-        packet=candidates.packet('2026-10-07',self.root)
+        packet=candidates.packet('2026-10-07',self.root,datetime.fromisoformat('2026-10-07T09:40:00+09:00'))
         self.assertEqual(packet['cutoff_at'],'2026-10-07T09:30:00+09:00')
-        self.assertEqual([a['title'] for a in packet['candidates']],['included'])
+        self.assertEqual([a['title'] for a in packet['candidates']],['included','late'])
 
     def test_generation_gate_and_html_pdf_handoff_share_cutoff(self):
         edition=date(2026,10,7)

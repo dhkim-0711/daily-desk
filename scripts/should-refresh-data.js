@@ -3,9 +3,9 @@ import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const rootDir = fileURLToPath(new URL("..", import.meta.url));
-const refreshSlotsKst = [[7,10], [9,20], [10,10], [13,10], [16,10], [19,10], [22,10]];
+const refreshSlotsKst = [[7,10], [9,20], [9,27], [10,10], [13,10], [16,10], [19,10], [22,10]];
 const primarySchedule = "10 22,1,4,7,10,13 * * *";
-const briefingSchedule = "20 0 * * *";
+const briefingSchedules = ["20 0 * * *", "27 0 * * *"];
 const watchdogSchedule = "43 * * * *";
 const koreaOffsetMs = 9 * 60 * 60 * 1000;
 const emergencyStaleAfterMs = 4 * 60 * 60 * 1000;
@@ -43,8 +43,8 @@ async function decideRefresh() {
     return { shouldRefresh: true, reason: "manual_or_push" };
   }
 
-  if (schedule === briefingSchedule) {
-    console.log("Pre-briefing 09:20 KST collection slot received.");
+  if (briefingSchedules.includes(schedule)) {
+    console.log("Pre-briefing 09:20/09:27 KST collection slot received.");
     return { shouldRefresh: true, reason: "pre_briefing_slot" };
   }
 

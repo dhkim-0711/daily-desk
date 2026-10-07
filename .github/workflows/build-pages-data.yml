@@ -20,6 +20,8 @@ on:
     - cron: "10 22,1,4,7,10,13 * * *"
     # Additional pre-briefing collection: 09:20 KST, before the 09:30 cutoff.
     - cron: "20 0 * * *"
+    # Final pre-cutoff retry; schedules may be delayed, so editorial web checks remain mandatory.
+    - cron: "27 0 * * *"
     # Backup watchdog. GitHub can delay or drop schedule events, so this checks
     # after each hour and rebuilds only when the latest KST collection slot is missing.
     - cron: "43 * * * *"
