@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-08",
+  "cutoff_at": "2026-10-08T09:30:00+09:00",
+  "window_start": "2026-10-07T09:30:00+09:00",
+  "created_at": "2026-10-08T09:35:00+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1, 2],
+      "bullets": [
+        "과기정통부와 AMD는 국산 NPU·운영 소프트웨어 기업이 AMD CPU·GPU와 결합한 이기종 인프라를 실증하고 ROCm 생태계 참여와 해외 진출을 모색하기로 했으며, 어플라이드 머티어리얼즈와 인텔은 차세대 트랜지스터·배선·3D 패키징 공동개발 범위를 공개했습니다.",
+        "국산 AI반도체의 판로는 단일 칩 성능보다 글로벌 플랫폼과의 상호운용·실증 레퍼런스가 중요해지고, 첨단공정 경쟁은 전공정과 패키징을 한 개발 흐름으로 묶는 방향으로 이동하고 있습니다."
+      ]
+    },
+    {
+      "article_numbers": [3, 4],
+      "bullets": [
+        "스페이스X는 엔비디아 AI 칩 구매를 위해 총 400억달러 규모의 대출·채권 조달을 협의 중이며, 마이크로소프트와 엔비디아는 RTX Spark 기반 Surface Laptop Ultra와 로컬 AI 에이전트 실행 환경을 공개했습니다.",
+        "가속기 시장은 대형 데이터센터의 장기 금융조달과 개인용 고성능 시스템의 온디바이스 실행이 동시에 확대되는 구조로, 연산자원 지원사업도 구매비뿐 아니라 활용 위치·보안·운영비를 함께 비교할 필요가 있습니다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "과기정통부·AMD, 국산 NPU 이기종 실증·ROCm 생태계·해외 진출 협력 구체화",
+      "category": "국산 NPU 글로벌 협력",
+      "collected_at": "2026-10-07T01:28:36.011Z",
+      "original_published_at": "2026-10-07T09:00:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261006188300017",
+      "event_id": "msit-amd-korean-npu-roundtable-outcome-2026-10-07",
+      "event_first_published_at": "2026-10-07T09:00:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261006188300017",
+      "selection_tier": "supplement",
+      "main_points": [
+        "과학기술정보통신부는 리사 수 AMD 회장과 국내 AI반도체·소프트웨어 기업들이 참여한 간담회에서 AMD CPU·GPU와 국산 NPU를 결합한 이기종 인프라의 실증을 추진하기로 했습니다. 퓨리오사AI·하이퍼엑셀·딥엑스·모빌린트 등 NPU 기업과 모레·노타AI·래블업 등 소프트웨어·서비스 기업이 참여했습니다.",
+        "정부와 AMD는 국내 기업의 ROCm 생태계 참여, 공동 실증을 통한 글로벌 레퍼런스 확보, 해외 시장 진출 방안을 논의했습니다. 이는 10월 초 보도된 방한·회동 예고에서 실제 참여기업과 협력 범위가 확인된 후속 사실입니다."
+      ],
+      "implications": [
+        "국산 NPU 사업화의 병목이 개별 칩 성능에서 글로벌 CPU·GPU 및 오픈소스 런타임과의 상호운용성, 실제 서비스 검증으로 이동하고 있음을 보여줍니다. 협력은 논의·추진 단계이므로 실증 대상 워크로드, 성능·전력 지표, 해외 수요기관과 후속 계약을 구분해 추적할 필요가 있습니다.",
+        "국내 지원사업은 K-Perf 같은 성능검증을 이기종 클러스터 운용과 수요기관 도입까지 연결하고, ROCm 커널·런타임 최적화 역량이 해외 판로로 이어지는지를 확인하는 방식으로 성과를 살펴볼 수 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "국산 AI반도체 기업들, AMD와 글로벌 진출·생태계 협력 모색",
+          "publisher": "연합뉴스",
+          "published_at": "2026-10-07T09:00:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261006188300017",
+          "verification": "full_text",
+          "verified_at": "2026-10-08T09:34:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "어플라이드 머티어리얼즈·인텔, 차세대 공정과 Foveros 3D 패키징 공동개발",
+      "category": "첨단공정·패키징",
+      "collected_at": "2026-10-07T01:49:41.343Z",
+      "original_published_at": "2026-10-06T09:00:00-04:00",
+      "original_url": "https://www.appliedmaterials.com/us/en/newsroom/press-releases/100626-applied-intel-collaborate-chipmaking-innovations-ai-driven-computing.html",
+      "event_id": "applied-intel-epic-process-foveros-collaboration-2026",
+      "event_first_published_at": "2026-10-06T09:00:00-04:00",
+      "event_evidence_url": "https://www.appliedmaterials.com/us/en/newsroom/press-releases/100626-applied-intel-collaborate-chipmaking-innovations-ai-driven-computing.html",
+      "selection_tier": "supplement",
+      "main_points": [
+        "어플라이드 머티어리얼즈와 인텔은 어플라이드의 EPIC 센터와 인텔 오리건 연구개발 시설을 연계해 차세대 트랜지스터, 전·후공정 배선 미세화, Foveros 3D 패키징을 공동개발한다고 발표했습니다. 양사는 더 높은 인터커넥트 밀도와 전력공급·열성능 개선을 목표로 제시했습니다.",
+        "협력의 초점은 장비·재료 혁신을 소자·배선·패키징 설계와 동시에 검증해 연구실 기술이 대량생산으로 넘어가는 시간을 줄이는 데 있습니다. 발표는 협력 계획이며 양산 성과나 고객 채택을 확정한 것은 아닙니다."
+      ],
+      "implications": [
+        "AI 가속기의 성능·전력 한계가 트랜지스터만이 아니라 배선 저항, 전력공급, 열, 칩렛 접속을 함께 최적화하도록 공정개발 구조를 바꾸고 있습니다. 장비사와 파운드리의 공동 검증 인프라는 신규 소재·장비가 양산 공정에 진입하는 시간을 좌우할 수 있습니다.",
+        "국내 생태계도 HBM·칩렛·첨단패키징 지원을 개별 요소기술로 분리하기보다 공정장비·소재·설계·열관리의 통합 검증과 양산 전환 데이터까지 연결하는 방안을 검토할 필요가 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "Applied Materials and Intel Collaborate on Chipmaking Innovations for AI-Driven Computing",
+          "publisher": "Applied Materials",
+          "published_at": "2026-10-06T09:00:00-04:00",
+          "url": "https://www.appliedmaterials.com/us/en/newsroom/press-releases/100626-applied-intel-collaborate-chipmaking-innovations-ai-driven-computing.html",
+          "verification": "public_primary",
+          "verified_at": "2026-10-08T09:34:00+09:00"
+        },
+        {
+          "title": "어플라이드 머티어리얼즈와 인텔, AI 시대 첨단 반도체 제조 혁신을 위한 협력 확대",
+          "publisher": "Applied Materials Korea",
+          "published_at": "2026-10-07",
+          "url": "https://www.appliedmaterials.com/kr/ko/newsroom/press-releases/261007-applied-intel-epic-ko.html",
+          "verification": "public_primary",
+          "verified_at": "2026-10-08T09:34:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "미국 본사 원문이 2026-10-06 09:00 EDT에 먼저 공개됐고 관련 한국어 보도가 2026-10-07T01:31:11Z부터 아카이브에 수집돼 2026-10-08 09:30 KST 마감 전 동일 핵심 사실의 공개를 확인했다."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "스페이스X, 엔비디아 AI 칩 구매에 400억달러 부채조달 협의",
+      "category": "가속기 금융구조",
+      "collected_at": "2026-10-07T22:15:59.834Z",
+      "original_published_at": "2026-10-06T22:37:17Z",
+      "original_url": "https://www.reuters.com/business/media-telecom/spacex-seeks-40-billion-buy-nvidia-chips-ft-reports-2026-10-06/",
+      "event_id": "spacex-40b-debt-nvidia-ai-chips-2026",
+      "event_first_published_at": "2026-10-06T22:37:17Z",
+      "event_evidence_url": "https://www.reuters.com/business/media-telecom/spacex-seeks-40-billion-buy-nvidia-chips-ft-reports-2026-10-06/",
+      "selection_tier": "supplement",
+      "main_points": [
+        "스페이스X는 엔비디아 AI 칩 구매를 위해 약 100억달러의 은행대출과 300억달러의 투자등급 회사채를 조달하는 방안을 협의 중이라고 파이낸셜타임스를 인용한 로이터가 보도했습니다. PIMCO가 협상에 참여하고 아폴로글로벌매니지먼트가 거래를 주도할 것으로 전해졌습니다.",
+        "논의는 초기 단계이며 스페이스X·엔비디아·PIMCO는 논평 요청에 답하지 않았고 아폴로는 논평을 거부했습니다. 따라서 400억달러는 확정 구매나 조달 완료액이 아니라 보도된 협의 규모입니다."
+      ],
+      "implications": [
+        "대형 가속기 주문이 장비구매를 넘어 은행대출·회사채를 결합한 인프라 금융 문제로 바뀌고 있습니다. 칩 수요의 크기뿐 아니라 차입비용, 가동률, 서비스 매출로 상환할 수 있는지가 프로젝트의 실제 집행을 좌우할 가능성이 큽니다.",
+        "국내 GPU·NPU 인프라 지원과 정책금융도 구매대수 외에 장기 활용계약, 수요기관 배정률, 전력·운영비, 잔존가치 위험을 함께 점검해야 민간투자와 공공지원의 역할을 구분할 수 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "SpaceX seeks $40 billion to buy Nvidia chips, FT reports",
+          "publisher": "Reuters",
+          "published_at": "2026-10-06T22:37:17Z",
+          "url": "https://www.reuters.com/business/media-telecom/spacex-seeks-40-billion-buy-nvidia-chips-ft-reports-2026-10-06/",
+          "verification": "full_text",
+          "verified_at": "2026-10-08T09:34:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "마이크로소프트·엔비디아, RTX Spark 노트북과 로컬 AI 에이전트 공개",
+      "category": "글로벌 가속기·운영환경",
+      "collected_at": "2026-10-07T19:18:42.713Z",
+      "original_published_at": "2026-10-07T10:05:21Z",
+      "original_url": "https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07/",
+      "event_id": "microsoft-nvidia-rtx-spark-surface-local-agents-2026",
+      "event_first_published_at": "2026-10-07T10:05:21Z",
+      "event_evidence_url": "https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07/",
+      "selection_tier": "primary",
+      "main_points": [
+        "마이크로소프트와 엔비디아는 RTX Spark를 탑재한 Surface Laptop Ultra와 윈도우 PC에서 로컬 AI 에이전트를 실행하는 환경을 공개했습니다. 마이크로소프트는 온디바이스 코딩 모델과 격리 실행을 위한 Microsoft Execution Containers를 제시했고, 필요한 경우 로컬과 클라우드 연산을 함께 쓰는 구조를 설명했습니다.",
+        "Surface Laptop Ultra의 시작가격은 2,599달러이며 구성에 따라 5,899달러까지 올라갑니다. 로이터는 고성능 로컬 AI가 데이터 이동과 지연을 줄일 수 있지만 높은 단말 가격이 보급 장벽이 될 수 있다고 전했습니다."
+      ],
+      "implications": [
+        "AI 추론의 배치가 데이터센터뿐 아니라 고성능 개인용 시스템으로 확장되면서 가속기 경쟁이 칩 사양에서 모델 배포, 격리 실행, 로컬·클라우드 전환까지 넓어지고 있습니다. 특히 기업 데이터와 에이전트 작업을 단말에 둘 수 있다는 점은 보안·지연·네트워크 비용의 선택지를 바꿉니다.",
+        "국산 NPU와 운영 SW도 단말·엣지에서 실제 모델이 안정적으로 실행되는 툴체인과 보안 격리, 개발자 경험을 함께 검증해야 수요기업 도입으로 이어질 수 있습니다. 가격 대비 활용률과 클라우드 대체 범위를 실증 데이터로 비교할 필요가 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "Microsoft, Nvidia CEOs unveil new AI laptop at San Francisco event",
+          "publisher": "Reuters",
+          "published_at": "2026-10-07T10:05:21Z",
+          "url": "https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07/",
+          "verification": "full_text",
+          "verified_at": "2026-10-08T09:34:00+09:00"
+        },
+        {
+          "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+          "publisher": "NVIDIA Blog",
+          "published_at": "2026-10-07T18:45:28Z",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+          "verification": "public_primary",
+          "verified_at": "2026-10-08T09:34:00+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "최근 72시간 전체 아카이브와 과기정통부·국내 NPU 기업 보도를 확인했다. AMD 방한 예고와 10월7일 실제 간담회 결과를 분리해, AMD CPU·GPU와 국산 NPU의 이기종 실증, ROCm 생태계 참여, 해외 레퍼런스 추진이라는 새 협력 범위가 확인된 1번을 선정했다. K-Perf-한전 적용과 두산로보틱스 국책과제는 최근 원고와 동일 사건이었고, 마감 전 마지막 collection 저장은 07:15:57 KST로 09:20·09:27 수집 완료 기록은 없었다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP 보도자료와 사업공고, 국회·중앙부처 기사, 지자체·지방의회·공공기관·테크노파크·지역 진흥기관의 NPU 예산·조달·실증·데이터센터·R&D·기업지원 후보를 검색했다. 산업부 AI 풀스택 예산 0원 및 실증 요구 보도는 정책 관련성이 높지만 기사 원문과 국회 공개자료를 함께 충분히 확인하지 못해 제외했다. 지역 금융허브·AIDC·국비 확보 기사도 제안·MOU·확정예산·계약 단계를 구분해 검토했으나 48시간 내 원문 검증 가능한 새 NPU 집행 사건은 확인하지 못했다. collection의 41개 출처 중 40개 ok, NIPA AI반도체 RSS 1개 empty였고 09:20·09:27 완료 미확인을 후보 없음으로 해석하지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·TPU·ASIC·RTX Spark와 가속기 구매·금융 후보를 비교했다. 400억달러 부채조달 협의를 확정 계약과 구분해 3번으로, 로컬 AI 실행환경을 갖춘 RTX Spark 노트북 공개를 4번으로 선정했다. 일반 주가전망과 이미 알려진 Rubin 주문 재보도는 새 계약·출하·활용 데이터가 없어 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·커널·런타임 최적화, vLLM·SGLang·LMCache, 로컬 에이전트 보안 실행환경을 조사했다. AMD 간담회의 ROCm 생태계 참여를 1번, Microsoft Execution Containers와 로컬·클라우드 혼합 실행을 4번에 반영했다. LMCache 원격코드실행 취약점은 공개 보도는 확인했지만 유지관리자 권고·수정 버전과 원문 대체 검증이 충분하지 않아 제외했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·CXL·UCIe·실리콘 포토닉스·첨단패키징·인터커넥트·AIDC 전력과 냉각을 검색했다. 전공정과 Foveros 3D 패키징을 함께 개발하는 어플라이드-인텔 협력을 2번으로 선정했다. OpenLight 자금조달과 개별 냉각장비 공급은 확인했으나 일반 자금조달·개별 공급의 게재 비중을 낮추라는 수집 방향과 비교해 제외했고, 최근 원고의 HBM 특허합의·AIDC 전력계약 재보도도 제외했다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "국산 NPU 기업의 글로벌 협력 가능성이 방문 예고에서 실제 참여기업·이기종 실증·ROCm 참여·해외 레퍼런스 추진으로 구체화돼 NIPA의 실증·판로·운영 SW 사업기획과 직접 관련된다."},
+      {"article_number": 2, "reason": "AI 가속기 성능을 좌우하는 트랜지스터·배선·전력·열·3D 패키징을 통합 검증하는 협력으로, 국내 첨단패키징·장비·소재 지원의 양산 연계 방식을 비교할 수 있다."},
+      {"article_number": 3, "reason": "AI 칩 대형 주문이 은행대출과 회사채를 결합한 400억달러 규모 금융구조로 논의돼 가속기 수요의 실행 가능성과 정책금융 위험을 함께 보여준다."},
+      {"article_number": 4, "reason": "고성능 가속기가 로컬 AI 에이전트와 보안 격리 환경을 갖춘 노트북으로 확장돼 국산 NPU의 단말·엣지 실증과 운영 SW 요구를 구체화한다."}
+    ],
+    "excluded": [
+      {
+        "title": "김종민 의원, 산업통상부 AI풀스택 내년 예산 0원...실증 없어 해외수출도 못해",
+        "url": "https://www.newstnt.com/news/articleView.html?idxno=721963",
+        "reason": "NPU 실증·수출과 예산 집행의 업무 관련성은 높지만 기사 공개 본문 접근이 제한됐고 국회 공개자료·산업부 예산 원문을 대조하지 못해 의원 주장과 확정 예산을 충분히 구분할 수 없었다."
+      },
+      {
+        "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+        "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+        "reason": "AI 추론 캐시 운영 보안의 중요성은 높지만 검색·보도 외에 유지관리자 원문, 영향 버전과 수정 상태를 공개 원문으로 충분히 교차확인하지 못해 제외했다."
+      },
+      {
+        "title": "OpenLight Raises $50 Million in Series A-1 Funding",
+        "url": "https://www.openlightphotonics.com/news/openlight-raises-50-million-series-a-1-funding",
+        "reason": "실리콘 포토닉스 양산 확대 신호는 확인했으나 일반 자금조달 기사 비중을 낮추라는 수집 방향과 비교해 실제 신규 고객·출하·국내 사업 연계가 확인된 후보보다 우선하지 않았다."
+      }
+    ],
+    "count_reason": "최근 72시간 아카이브 4,703건과 48시간 시간적격 2,879건을 전체 월 아카이브에서 읽고 최근 14일 원고와 사건 단위로 비교했다. 이후 다섯 영역의 공식자료·공개 원문 보완 검색을 완료했으나, 마감 전 사실과 공개 본문을 충분히 검증하고 최근 회차와 독립적인 중요 사건은 4건이었다. 기사 수를 맞추기 위해 접근 제한 후보, 일반 자금조달, 오래된 계약이나 범용 AI 뉴스를 포함하지 않았다.",
+    "company_overlap_review": "각 기사의 중심 주체는 과기정통부·AMD·국산 NPU 생태계, 어플라이드 머티어리얼즈·인텔, 스페이스X·엔비디아 금융, 마이크로소프트·엔비디아 로컬 AI로 구분된다. 엔비디아가 3·4번에 반복되지만 3번은 스페이스X의 가속기 구매 금융, 4번은 마이크로소프트의 단말 제품·운영환경으로 사건·수요시장·산업계층이 독립적이며 다른 검증 후보보다 파급과 업무 관련성이 높다고 재검토했다.",
+    "candidate_counts": {
+      "discovered": 4703,
+      "time_eligible": 2879,
+      "independent_events": 10,
+      "verified": 5,
+      "selected": 4,
+      "basis": "mail/candidates.py가 집계한 최근 72시간 아카이브 4,703건과 48시간 발행 조건 적합 2,879건을 기반으로 했다. AMD 간담회, AI 풀스택 예산 보도, LMCache 취약점, 어플라이드-인텔, 스페이스X 금융, RTX Spark, OpenLight, 지역 금융허브, KT AI 풀스택, HBM·AIDC 재보도 등 고관련 독립 사건 10건을 실제 비교했고 공개 원문·시의성·중복을 충족한 5건을 검증한 뒤 수집 방향과 중요도를 비교해 4건을 선정했다. 아카이브 수집은 07:15:57 KST가 마지막이었고 09:20·09:27 완료 기록이 없어, 직접 보완 검색 결과는 raw discovered 수에 합산하지 않고 별도로 검토했다."
+    },
+    "history_review": {
+      "start_date": "2026-09-24",
+      "end_date": "2026-10-07",
+      "checked_dates": ["2026-09-30", "2026-10-01", "2026-10-02", "2026-10-03", "2026-10-04", "2026-10-05", "2026-10-06", "2026-10-07"],
+      "note": "저장소에 실제 존재하는 9월30일~10월7일 ready 원고 8개를 제목·주요 사실·출처까지 읽었다. 9월24~29일에는 ready 원고가 없었다. AMD 방한 예고, K-Perf 한전 실증, 두산로보틱스 과제, ROCm 10.1, GPU 지원사업, HBM·AIDC 사건을 의미 단위로 비교해 단순 재보도는 제외했다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "material_update",
+        "previous_editions": ["2026-10-01"],
+        "note": "10월1일 원고는 리사 수 회장의 방한과 국내 NPU 기업 회동 예정만 다뤘다. 이번에는 실제 간담회 참여기업과 AMD CPU·GPU-국산 NPU 이기종 실증, ROCm 참여, 해외 레퍼런스 추진이 공개됐다.",
+        "new_fact": "방한 예고 이후 실제 간담회가 열려 참여기업과 공동 실증·ROCm 생태계·글로벌 진출 협력 범위가 확인됐다.",
+        "evidence_url": "https://www.yna.co.kr/view/AKR20261006188300017"
+      },
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "어플라이드 EPIC 센터와 인텔 오리건 R&D 시설을 연계한 트랜지스터·배선·Foveros 3D 패키징 공동개발은 최근 원고에 없는 신규 사건이다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "스페이스X의 엔비디아 칩 구매를 위한 400억달러 대출·채권 조달 협의는 최근 원고에 없는 신규 가속기 금융 사건이다."},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "RTX Spark 기반 Surface Laptop Ultra와 Microsoft Execution Containers를 포함한 로컬 AI 에이전트 환경 공개는 최근 원고에 없는 신규 제품·운영 사건이다."}
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "국산 NPU AMD 리사 수 간담회 결과 2026-10-07, 퓨리오사AI 하이퍼엑셀 딥엑스 모빌린트 해외 협력 ROCm, K-Perf 수요기관 도입",
+          "official_sources": "과기정통부 보도자료 목록 https://www.msit.go.kr/bbs/list.do?mId=307&mPid=208&sCode=user 와 연합뉴스 공개 본문 https://www.yna.co.kr/view/AKR20261006188300017 을 확인해 실제 간담회·참여기업·협력 범위를 대조했다.",
+          "result": "AMD 방한 예고의 실질적 후속인 공동 실증·ROCm 참여·해외 진출 협력 범위를 1번으로 선정하고, K-Perf·두산로보틱스 재보도는 최근 원고와 중복돼 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "과기정통부 NIPA IITP NPU 공고 예산 실증 도입 조달 2026-10-07 2026-10-08, 지자체 AI반도체 국비 지방비 데이터센터 테크노파크, GPU NPU 지원사업 선정 배정 활용 실적",
+          "official_sources": "과기정통부 보도자료 목록 https://www.msit.go.kr/bbs/list.do?mId=307&mPid=208&sCode=user, NIPA 공지 https://www.nipa.kr/home/2-2, IITP 사업공고 https://www.iitp.kr/kr/1/business/businessNotify/list.it 를 확인했다. collection의 NIPA AI반도체 RSS는 empty였고, 48시간 내 새 공고·집행 사건은 확인하지 못했다.",
+          "result": "AI 풀스택 예산·실증 요구 보도와 지역 금융허브·AIDC 후보를 검토했으나 공식 예산·국회자료 또는 구체적 NPU 집행 단계의 공개 원문을 충분히 대조하지 못해 선정하지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "NVIDIA AMD TPU ASIC accelerator October 7 2026 order financing, RTX Spark Surface Laptop Ultra Reuters, SpaceX 40 billion Nvidia chips debt",
+          "official_sources": "Reuters 공개 본문 https://www.reuters.com/business/media-telecom/spacex-seeks-40-billion-buy-nvidia-chips-ft-reports-2026-10-06/ 및 https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07/ 와 NVIDIA 공식 블로그 https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/ 를 확인했다.",
+          "result": "가속기 금융구조 변화인 3번과 로컬 AI 가속기·운영환경인 4번을 선정했고, 일반 주가·매출 전망과 기존 주문 재보도는 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "ROCm kernel runtime optimization October 7 2026, vLLM SGLang LMCache security CVE 2026-105192, local AI agents execution containers",
+          "official_sources": "NVIDIA 공식 블로그 https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/ 와 과기정통부-AMD 간담회 공개 본문 https://www.yna.co.kr/view/AKR20261006188300017 을 확인했다. LMCache는 유지관리자 권고·수정 버전 원문을 확보하지 못했다.",
+          "result": "ROCm 생태계 참여를 1번, 로컬 에이전트 격리·혼합 실행을 4번에 반영했다. 검증이 불충분한 LMCache 취약점은 제외했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "HBM advanced packaging interconnect silicon photonics October 7 2026, Applied Materials Intel EPIC Foveros, AIDC power cooling Korea",
+          "official_sources": "Applied Materials 미국 원문 https://www.appliedmaterials.com/us/en/newsroom/press-releases/100626-applied-intel-collaborate-chipmaking-innovations-ai-driven-computing.html 및 한국어 원문 https://www.appliedmaterials.com/kr/ko/newsroom/press-releases/261007-applied-intel-epic-ko.html 을 확인했다.",
+          "result": "전공정·배선·Foveros 3D 패키징 통합개발을 2번으로 선정했다. OpenLight 일반 자금조달, 개별 냉각 공급, 최근 HBM·전력계약 재보도는 상대적 중요도·중복·수집 방향을 고려해 제외했다."
+        }
+      },
+      "alternative_sources": "유료벽 또는 접근 제한 후보는 공개 공식자료·Reuters·연합뉴스 원문으로 대체 확인했다. 산업부 AI 풀스택 예산 기사와 LMCache 취약점은 대체 공식 원문을 충분히 확보하지 못해 제외했으며, 검색결과 요약만으로 본문을 작성하지 않았다."
+    }
+  }
+}
