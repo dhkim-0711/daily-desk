@@ -1,0 +1,421 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-09",
+  "cutoff_at": "2026-10-09T09:30:00+09:00",
+  "window_start": "2026-10-08T09:30:00+09:00",
+  "created_at": "2026-10-09T09:36:00+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1, 2],
+      "bullets": [
+        "세종시는 SK증권 등과 7조원·360MW급 AI 데이터센터 투자협약을 맺었고, GlobalFoundries는 TSMC와 20억달러 규모의 미국산 CoWoS 실리콘 인터포저 공급 계약을 체결했습니다.",
+        "국내 AIDC 계획은 인허가·부지·전력·용수 확보와 실제 자금 집행을 후속 확인해야 하며, 첨단패키징 공급망은 인터포저 생산까지 미국 내 제조 기반을 확대하고 있습니다."
+      ]
+    },
+    {
+      "article_numbers": [3, 4],
+      "bullets": [
+        "Upscale은 서로 다른 GPU·XPU를 하나의 운영체계로 연결하는 Token Fabric을 공개했고, TSMC의 9월 매출은 전년 동월보다 54.6% 증가한 5,118억6천만 대만달러를 기록했습니다.",
+        "이종 가속기 확산은 네트워크 운영 소프트웨어와 개방형 인터페이스의 중요성을 높이고 있으며, 파운드리 매출 증가는 AI 수요가 생산·패키징 역량 전반에 미치는 압력을 보여줍니다."
+      ]
+    },
+    {
+      "article_numbers": [5, 6],
+      "bullets": [
+        "NVIDIA는 향후 5년간 미국 과학·양자 연구와 정부 임무용 클라우드 지원에 10억달러 상당을 약정했고, ASML·Zeiss 연구진은 차세대 Hyper NA 노광 기술이 약 10년 뒤 준비될 수 있다고 제시했습니다.",
+        "가속기 공급 경쟁은 공공 연구의 연산 접근성과 산업정책으로 확장되고 있으며, 장기 미세공정 경쟁은 현재 EUV 광원·광학 자산을 재사용하면서도 5nm급 노광 특징 구현을 목표로 하고 있습니다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "세종시·SK증권 등, 7조원·360MW급 AI 데이터센터 투자협약",
+      "category": "국내 정책·AIDC 수요",
+      "collected_at": "2026-10-08T09:27:30.031Z",
+      "original_published_at": "2026-10-08T16:19:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261008158200063",
+      "event_id": "sejong-sk-securities-360mw-aidc-mou-2026-10-08",
+      "event_first_published_at": "2026-10-08T16:19:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261008158200063",
+      "selection_tier": "primary",
+      "main_points": [
+        "세종시는 SK증권·메테우스자산운용·시드에이치와 7조원 규모의 AI 데이터센터 투자양해각서를 체결했습니다. SK증권 등은 2029년까지 360MW급 시설을 건립할 계획이라고 밝혔습니다.",
+        "세종시는 인허가 절차와 부지·전력·용수 확보를 지원하고, 참여 기업들은 금융 조달과 기반시설 구축을 맡기로 했습니다. 현재 단계는 투자양해각서와 계획이며 실제 투자 집행·전력계통 접속·착공이 완료된 것은 아닙니다."
+      ],
+      "implications": [
+        "360MW급 계획은 지역 AIDC가 전력·용수·인허가와 대규모 금융을 동시에 확보해야 하는 사업임을 보여줍니다. 10월7일 액티스코리아와 맺은 100MW급 협약과 별도 프로젝트이므로 각 사업의 부지·수전 일정과 자금조달 진척을 분리해 추적할 필요가 있습니다.",
+        "국내 AI반도체 산업육성 측면에서는 데이터센터 투자액 전체를 NPU 수요로 간주하기보다 실제 가속기 조달, 국산 NPU 실증·운영 소프트웨어 적용, 지역 기업 참여가 계약 단계로 이어지는지를 확인하는 것이 중요합니다."
+      ],
+      "sources": [
+        {
+          "title": "세종시, 360㎿ 규모 데이터센터 건립 유치…7조원 투자 받는다",
+          "publisher": "연합뉴스",
+          "published_at": "2026-10-08T16:19:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261008158200063",
+          "verification": "full_text",
+          "verified_at": "2026-10-09T09:35:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "GlobalFoundries, TSMC와 20억달러 CoWoS 인터포저 미국 생산 계약",
+      "category": "첨단패키징·공급망",
+      "collected_at": "2026-10-08T22:27:18.434Z",
+      "original_published_at": "2026-10-08T12:44:27Z",
+      "original_url": "https://www.reuters.com/world/asia-pacific/globalfoundries-make-key-ai-chip-component-tsmc-2026-10-08/",
+      "event_id": "globalfoundries-tsmc-us-cowos-interposer-deal-2026-10-08",
+      "event_first_published_at": "2026-10-08T12:44:27Z",
+      "event_evidence_url": "https://www.reuters.com/world/asia-pacific/globalfoundries-make-key-ai-chip-component-tsmc-2026-10-08/",
+      "selection_tier": "primary",
+      "main_points": [
+        "GlobalFoundries는 TSMC의 CoWoS 첨단패키징에 쓰이는 실리콘 인터포저를 미국 뉴욕주 몰타 공장에서 생산하는 5년간 20억달러 규모 계약을 체결했습니다. 양산 확대는 2028년 상반기 시작할 예정입니다.",
+        "GlobalFoundries는 미국 내 첫 실리콘 인터포저 공급원을 구축하고 임베디드 딥트렌치 커패시터 부품을 포함한 생산능력을 늘릴 계획이라고 밝혔습니다. 계약에는 수요 증가에 따라 생산능력을 추가 확대할 수 있는 틀도 포함됐습니다."
+      ],
+      "implications": [
+        "CoWoS 병목 대응이 패키징 조립을 넘어 인터포저 제조의 지역 다변화로 확장되고 있습니다. 생산 개시는 2028년 예정이므로 계약금액과 실제 설비 증설·수율·출하를 구분해 볼 필요가 있습니다.",
+        "국내 소부장·패키징 지원은 HBM과 인터포저, 커패시터, 후공정 조립을 하나의 공급망으로 보고 고객 인증과 양산 연결 여부를 확인하는 방향이 중요해질 수 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal",
+          "publisher": "Reuters",
+          "published_at": "2026-10-08T12:44:27Z",
+          "url": "https://www.reuters.com/world/asia-pacific/globalfoundries-make-key-ai-chip-component-tsmc-2026-10-08/",
+          "verification": "full_text",
+          "verified_at": "2026-10-09T09:35:30+09:00"
+        },
+        {
+          "title": "GlobalFoundries reaches agreement to establish U.S.-based supply of silicon interposers for advanced AI packaging",
+          "publisher": "GlobalFoundries",
+          "published_at": "2026-10-08",
+          "url": "https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/",
+          "verification": "public_primary",
+          "verified_at": "2026-10-09T09:35:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "GlobalFoundries 원문은 2026-10-08 날짜로 공개됐고 Reuters가 같은 계약의 20억달러·미국 생산 사실을 2026-10-08 12:44:27 UTC에 보도했다. 아카이브에는 2026-10-08 22:27:18 UTC에 동일 사건이 수집돼 2026-10-09 09:30 KST 마감 전 공개를 확인했으며 원문에 수정 표시는 없었다."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Upscale, 이종 GPU·XPU를 통합 운영하는 Token Fabric 공개",
+      "category": "가속기 운영 SW·인터커넥트",
+      "collected_at": "2026-10-08T16:56:41.528Z",
+      "original_published_at": "2026-10-08T12:01:22Z",
+      "original_url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/",
+      "event_id": "upscale-token-fabric-heterogeneous-accelerators-2026-10-08",
+      "event_first_published_at": "2026-10-08T12:01:22Z",
+      "event_evidence_url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/",
+      "selection_tier": "primary",
+      "main_points": [
+        "Upscale은 서로 다른 공급자의 GPU·XPU를 연결하는 Token Fabric을 공개했습니다. 자체 SkyFabriX 스케일업 실리콘과 NVIDIA Spectrum-X 기반 스케일아웃 시스템을 SkyOS·SkyCMD 운영 소프트웨어와 하나의 관리체계로 묶는 구조입니다.",
+        "회사는 400G·800G에서 1.6T까지의 연결과 개방형 표준 지원을 제시했으며 일반 공급은 2027년 초를 계획하고 있습니다. 현재는 조기접근·공동검증 단계로, 고객 성과와 성능 목표는 향후 실제 배치에서 확인해야 합니다."
+      ],
+      "implications": [
+        "이종 가속기 데이터센터의 경쟁력이 칩 단위 성능뿐 아니라 스케일업·스케일아웃 네트워크와 통합 운영 소프트웨어에 좌우되고 있음을 보여줍니다. 개방형 표준을 내세우지만 실제 상호운용성과 장애 대응, 가속기 이용률은 공동검증 결과를 확인해야 합니다.",
+        "국산 NPU의 글로벌 진입에서도 표준 인터페이스, 네트워크 운영체계, 관측·오케스트레이션 연동이 수요기관 검증 항목으로 중요해질 수 있습니다. 실증사업은 단일 모델 벤치마크와 함께 다종 가속기 클러스터의 배치·운영 비용을 살펴볼 필요가 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
+          "publisher": "Reuters",
+          "published_at": "2026-10-08T12:01:22Z",
+          "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/",
+          "verification": "full_text",
+          "verified_at": "2026-10-09T09:35:30+09:00"
+        },
+        {
+          "title": "Upscale Introduces Token Fabric, the Industry's Most Comprehensive Standards-Based Networking Portfolio for AI Factories",
+          "publisher": "Upscale",
+          "published_at": "2026-10-08",
+          "url": "https://upscale.com/blogs/upscale-introduces-token-fabric-the-industrys-most-comprehensive-standards-based-networking-portfolio-for-ai-factories",
+          "verification": "public_primary",
+          "verified_at": "2026-10-09T09:35:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Upscale 원문은 2026-10-08 날짜와 제품·출시계획을 공개했고 Reuters가 동일 발표를 2026-10-08 12:01:22 UTC에 보도했다. 아카이브 최초 수집은 2026-10-08 16:56:41 UTC로 2026-10-09 09:30 KST 마감 전이며 원문에 수정 표시는 없었다."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "TSMC 9월 매출 54.6% 증가…3분기 매출 50% 확대",
+      "category": "파운드리·AI 수요",
+      "collected_at": "2026-10-08T09:27:30.031Z",
+      "original_published_at": "2026-10-08T05:39:56Z",
+      "original_url": "https://www.reuters.com/world/asia-pacific/tsmcs-third-quarter-revenue-surges-50-yy-beating-market-forecast-2026-10-08/",
+      "event_id": "tsmc-september-q3-revenue-2026-10-08",
+      "event_first_published_at": "2026-10-08T05:39:56Z",
+      "event_evidence_url": "https://www.reuters.com/world/asia-pacific/tsmcs-third-quarter-revenue-surges-50-yy-beating-market-forecast-2026-10-08/",
+      "selection_tier": "primary",
+      "main_points": [
+        "TSMC는 2026년 9월 매출이 5,118억6천만 대만달러로 전월보다 0.6% 줄고 전년 동월보다 54.6% 늘었다고 발표했습니다. 1~9월 누적 매출은 3조8,987억3천만 대만달러로 전년 동기 대비 41.1% 증가했습니다.",
+        "Reuters 계산 기준 3분기 매출은 1조4,900억 대만달러로 전년 동기보다 50% 늘어 LSEG 집계 시장 전망 1조4,600억 대만달러를 웃돌았습니다. AI 응용 수요가 증가를 견인했다는 평가는 Reuters 보도이며 세부 수익성과 향후 전망은 다음 실적 발표에서 확인해야 합니다."
+      ],
+      "implications": [
+        "AI 가속기 수요가 첨단공정과 패키징을 함께 제공하는 선두 파운드리의 매출 성장으로 이어지고 있습니다. 월간 매출은 전체 제품군을 포함하므로 증가분 전부를 AI 반도체로 해석해서는 안 됩니다.",
+        "국내 생태계는 수요 호조 자체뿐 아니라 첨단공정·HBM·인터포저·후공정 병목이 어느 지점에서 발생하는지와 고객 주문이 국내 장비·소재 매출로 연결되는지를 함께 볼 필요가 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "TSMC's third-quarter revenue surges to record, beating market forecast",
+          "publisher": "Reuters",
+          "published_at": "2026-10-08T05:39:56Z",
+          "url": "https://www.reuters.com/world/asia-pacific/tsmcs-third-quarter-revenue-surges-50-yy-beating-market-forecast-2026-10-08/",
+          "verification": "full_text",
+          "verified_at": "2026-10-09T09:35:30+09:00"
+        },
+        {
+          "title": "TSMC September 2026 Revenue Report",
+          "publisher": "TSMC",
+          "published_at": "2026-10-08T08:52:07Z",
+          "url": "https://pr.tsmc.com/english/news/3343",
+          "verification": "public_primary",
+          "verified_at": "2026-10-09T09:35:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "NVIDIA, 미국 과학·양자 연구에 5년간 10억달러 상당 약정",
+      "category": "글로벌 가속기·공공 연구",
+      "collected_at": "2026-10-08T16:56:41.528Z",
+      "original_published_at": "2026-10-08T14:31:00Z",
+      "original_url": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
+      "event_id": "nvidia-us-science-compute-commitment-2026-10-08",
+      "event_first_published_at": "2026-10-08T14:31:00Z",
+      "event_evidence_url": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
+      "selection_tier": "primary",
+      "main_points": [
+        "NVIDIA는 향후 5년간 미국의 과학용 초지능 연구개발 역량 확충에 10억달러 상당을 약정한다고 발표했습니다. 지원 범위에는 대학 연구기관, 양자컴퓨팅 리더십 투자, 미국 정부 임무를 지원하는 클라우드 서비스 제공자가 포함됩니다.",
+        "회사는 양자컴퓨팅·의료·에너지 안보를 중점 분야로 제시하고 Genesis Mission 2단계의 양자·핵융합·가속기 설계·마이크로전자 연구에 참여한다고 밝혔습니다. 이는 향후 제공될 자원과 투자에 대한 회사 약정으로, 집행 완료액은 아닙니다."
+      ],
+      "implications": [
+        "가속기 기업의 경쟁이 상업용 클라우드 공급을 넘어 국가 연구 임무와 대학의 연산 접근성을 직접 지원하는 구조로 확장되고 있습니다. 실제 파급은 지원 대상 선정, 제공되는 컴퓨팅 자원과 현금성 투자 비중, 연구성과의 산업 이전에서 확인될 것입니다.",
+        "국내 공공 연산지원과 AI반도체 사업도 장비 배정량뿐 아니라 대학·연구소·기업이 공동으로 활용하는 소프트웨어 환경, 실험 데이터, 사업화 경로를 함께 설계하는 해외 사례로 비교할 수 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
+          "publisher": "NVIDIA",
+          "published_at": "2026-10-08T14:31:00Z",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
+          "verification": "public_primary",
+          "verified_at": "2026-10-09T09:35:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "ASML·Zeiss, 차세대 Hyper NA 노광 기술 10년 로드맵 제시",
+      "category": "반도체 제조기술",
+      "collected_at": "2026-10-09T09:34:17+09:00",
+      "original_published_at": "2026-10-08T12:46:21Z",
+      "original_url": "https://www.reuters.com/business/asml-zeiss-say-next-generation-chipmaking-technology-may-be-ready-10-years-2026-10-08/",
+      "event_id": "asml-zeiss-hyper-na-roadmap-2026-10-08",
+      "event_first_published_at": "2026-10-08T12:46:21Z",
+      "event_evidence_url": "https://www.reuters.com/business/asml-zeiss-say-next-generation-chipmaking-technology-may-be-ready-10-years-2026-10-08/",
+      "selection_tier": "primary",
+      "recency_evidence": "Reuters 원문은 2026-10-08 12:46:21 UTC에 공개돼 2026-10-09 09:30 KST 마감보다 앞섰다. 07:27 KST 이후 수집 공백 때문에 아카이브에 없었고 마감 후 최종 보완 검색에서 09:34:17 KST에 직접 확인했으며, 원문의 핵심 사실과 게시시각에 수정 표시는 없었다.",
+      "main_points": [
+        "ASML과 광학 파트너 Zeiss 연구진은 차세대 Hyper NA 노광 기술이 약 10년 뒤 준비될 수 있다고 동료평가 논문에서 제시했습니다. Hyper NA는 현재 High NA EUV보다 3분의 1 이상 작은 5nm급 특징을 인쇄하는 것을 목표로 합니다.",
+        "ASML은 개발을 시작했지만 생산을 확정하지 않았고, 연구진은 현재 EUV 광원을 그대로 재사용할 수 있으며 Zeiss가 필요한 정밀도의 거울을 이미 제작할 수 있다고 설명했습니다. 이는 상용 장비 출시 확정이 아니라 장기 기술 로드맵입니다."
+      ],
+      "implications": [
+        "미세화 한계에 대응하는 노광 로드맵이 기존 EUV 광원과 광학 자산의 연속성을 활용하는 방향으로 제시됐습니다. 상용화까지 시간이 길고 생산 결정도 없으므로 연구 성과와 장비 발주·양산 도입을 구분해야 합니다.",
+        "삼성전자·SK하이닉스가 High NA 도입을 준비하는 상황에서 국내 장비·소재 기업은 현세대 High NA 대응과 Hyper NA 장기 연구를 분리해 기술 검증·인력 수요를 살펴볼 필요가 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years",
+          "publisher": "Reuters",
+          "published_at": "2026-10-08T12:46:21Z",
+          "url": "https://www.reuters.com/business/asml-zeiss-say-next-generation-chipmaking-technology-may-be-ready-10-years-2026-10-08/",
+          "verification": "full_text",
+          "verified_at": "2026-10-09T09:35:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Reuters 원문에 최초 게시시각 2026-10-08 12:46:21 UTC가 표시돼 2026-10-09 09:30 KST 마감보다 11시간 이상 앞선다. 2026-10-09 09:34:17 KST에 전체 본문을 직접 확인했으며 원문은 게시 이후 substantive update 시간을 표시하지 않았다."
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "최근 72시간 전체 아카이브와 퓨리오사AI·리벨리온·하이퍼엑셀·딥엑스·모빌린트, 과기정통부·NIPA·IITP 공식자료를 확인했다. 10월8일 원고의 AMD-국산 NPU 이기종 실증 후속 이후 마감 전 새 계약·실증·해외 판로 사건은 확인하지 못했다. K-Perf 한전 적용, 두산로보틱스 과제, GPU·NPU 지원사업은 최근 원고와 동일 사건 또는 과거 공고였으며 collection의 NIPA AI반도체 RSS는 empty였다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "중앙부처·국회·공공기관과 광역·기초지자체·지방의회·테크노파크·지역 진흥기관의 NPU 국비·지방비, 도입·조달, 실증센터·테스트베드·데이터센터, R&D·기업지원과 지연·축소 후보를 검색했다. 세종 7조원·360MW AIDC MOU를 1번으로 선정하되 전체 투자액을 NPU 예산으로 쓰지 않았고 협약과 집행을 구분했다. 10월9일 collection의 마지막 실제 저장은 07:27:12 KST였고 09:20·09:27 수집 완료 기록은 없으며, 41개 출처 중 40개 ok·NIPA AI반도체 RSS 1개 empty인 수집 공백을 최종 공개 검색으로 보완했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·TPU·ASIC와 공공 연구용 연산 접근성, 가속기 금융·수요·매출 후보를 비교했다. NVIDIA의 5년간 10억달러 상당 미국 과학연구 약정을 5번으로 선정했고, 일반 주가·투자심리 보도와 10월8일 원고의 스페이스X 가속기 금융 재보도는 제외했다. TSMC 9월·3분기 매출은 확정 매출 데이터로 4번에 반영했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·커널·런타임 최적화, vLLM·SGLang, 오케스트레이션, 하드웨어 연계 보안과 이종 가속기 운용을 조사했다. Upscale Token Fabric의 SkyOS·SkyCMD와 개방형 GPU·XPU 연결 구조를 3번으로 선정했다. ROCm 10.1과 NVIDIA AICR·OpenShell은 최근 원고와 같은 발표였고 새로운 성능·도입 결과가 없어 제외했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·CoWoS·UCIe·CXL·실리콘 포토닉스·첨단패키징·인터커넥트와 AIDC 전력·냉각을 검색했다. GlobalFoundries-TSMC의 미국 인터포저 생산 계약을 2번, TSMC 매출을 4번, Hyper NA 장기 노광 로드맵을 6번으로 선정했다. Broadcom OCP 네트워킹 발표는 3번과 영역이 겹치고 고객 도입 전시 계획 단계여서 제외했으며, 개별 냉각장비 공급과 기존 HBM 합의·전력계약 재보도 비중은 낮췄다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "AIDC 수요가 별도 360MW 프로젝트의 금융·인허가·전력·용수 과제로 구체화돼 지역 연산 인프라와 국산 NPU 실증·조달 연계 가능성을 추적할 필요가 있다."
+      },
+      {
+        "article_number": 2,
+        "reason": "CoWoS 핵심 부품인 실리콘 인터포저를 미국에서 생산하는 20억달러 계약으로 첨단패키징 병목과 공급망 지역화가 동시에 확인됐다."
+      },
+      {
+        "article_number": 3,
+        "reason": "이종 GPU·XPU를 네트워크 실리콘·운영체계·오케스트레이션까지 통합하는 발표로 국산 NPU의 상호운용·운영 SW 실증 요구와 직접 연결된다."
+      },
+      {
+        "article_number": 4,
+        "reason": "TSMC의 확정 월간·분기 매출 데이터가 AI 수요에 따른 첨단공정·패키징 공급 압력을 보여줘 국내 공급망 사업기획의 시장 근거가 된다."
+      },
+      {
+        "article_number": 5,
+        "reason": "가속기 기업이 대학·정부 연구 임무에 장기 자원·투자를 약정해 공공 연산 접근성과 산업연구 생태계를 결합하는 정책 모델을 보여준다."
+      },
+      {
+        "article_number": 6,
+        "reason": "High NA 이후 노광 기술의 성능 목표·재사용 자산·예상 시점이 공개돼 국내 메모리 기업과 장비·소재 생태계의 장기 기술 로드맵에 의미가 있다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "Broadcom Redefines AI Infrastructure with Industry-Leading Networking Innovations at 2026 OCP Global Summit",
+        "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-redefines-ai-infrastructure-industry-leading-networking",
+        "reason": "네트워킹 제품 범위는 중요하지만 OCP 전시·로드맵 단계이고, 이종 가속기 연결과 운영 소프트웨어까지 새로 공개한 Upscale 사건과 영역이 겹쳐 상대적 우선순위에서 제외했다."
+      },
+      {
+        "title": "Georgia Tech, Emory announce investment of more than $1 billion in AI infrastructure",
+        "url": "https://news.research.gatech.edu/2026/10/08/georgia-tech-and-emory-invest-more-1b-ai-drive-states-jobs-economic-growth",
+        "reason": "대학의 컴퓨팅·인재 투자는 확인했지만 두 기관의 광범위한 AI 투자 합계로 AI반도체·가속기 도입 규모가 분리되지 않아 NVIDIA의 과학연산 약정보다 산업육성 업무 관련성이 낮았다."
+      },
+      {
+        "title": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company",
+        "url": "https://www.reuters.com/business/samsung-q3-profit-jumps-783-ai-memory-boom-lifts-chip-earnings-2026-10-07/",
+        "reason": "AI 메모리 호황 신호는 확인했으나 잠정 전사 실적이며 사업부별 확정 실적은 10월29일 공개 예정이어서, 확정 월간 수치가 공개된 TSMC 후보를 우선했다."
+      },
+      {
+        "title": "KT클라우드, 인천 청라 50MW급 AI 데이터 센터 구축 사업 참여",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsdFVpRk9yWUZSZ3ZPRFIxbG9ZdFVxNVpSMmhaUzRvV3QxcHFNeEZ4WUx4MXlRNW5iNUF6RERSa2hRUlhXcDdtb29LSDk4MjhJcFhXa2FDOWFKUlg0aExGNmhVRXRvUkx3MHMzQl9UWdIBc0FVX3lxTFBTcjh6RHVPeEcwRWtUbUJzVUlNdnIySmNTZFItOGFOalk3dnNmblZucUNObG5vSThmNWVXTGw4X3laOU1zaDhiTmYxOVc0dXItSGp3NERxX2tlY3Y2d3dCemd6SzNvRV9IN3FCb091Sy1kRmM?oc=5",
+        "reason": "최초 보도는 보완기간에 해당하지만 개별 클라우드 공급 참여 기사 비중을 낮추라는 수집 방향과 비교해 360MW급 지역 인프라·인허가 사건보다 우선하지 않았다."
+      },
+      {
+        "title": "2026년도 고성능 컴퓨팅 지원 사용자 모집 공고",
+        "url": "https://www.nipa.kr/home/bsnsAll/7/nttDetail?bbsNo=4&bsnsDtlsIemNo=29&nttNo=16602&tab=3",
+        "reason": "GPU·국산 NPU 자원지원의 신청 대상과 물량을 확인했지만 2026년 3~4월 공고로 신규 사건이 아니며, 최근 원고의 신청·배정 통계 이후 새 집행 실적도 확인되지 않았다."
+      }
+    ],
+    "count_reason": "mail/candidates.py로 최근 72시간 전체 월 아카이브 4,615건과 48시간 발행 조건에 맞는 2,685건을 읽고 최근 14일 원고와 사건 단위로 비교했다. 수집 공백을 보완하는 다섯 영역 검색과 공개 원문 확인을 완료한 결과, 마감 전 공개·독립 사건·업무 관련성·본문 검증을 충족한 6건을 선정했다. 7번째 후보인 Broadcom OCP 발표는 운영망 영역 중복과 고객 도입 전 단계라는 점에서 추가할 만큼 독립적 파급이 크지 않았다.",
+    "company_overlap_review": "TSMC는 2번의 고객·패키징 생태계 운영자와 4번의 파운드리 매출 발표 주체로 두 번 등장하지만 계약 사건과 실적 사건의 상대방·산업층위가 다르다. NVIDIA는 3번에서 Upscale 스케일아웃 시스템의 기술 공급자이고 5번에서는 과학연구 지원 약정의 주체이며, 두 사건의 제품·수요처·정책 의미가 독립적이다. 같은 기업집단 반복을 재검토한 뒤 다른 후보보다 새 사실과 업무 관련성이 높아 유지했다.",
+    "candidate_counts": {
+      "discovered": 4615,
+      "time_eligible": 2685,
+      "independent_events": 12,
+      "verified": 9,
+      "selected": 6,
+      "basis": "mail/candidates.py가 집계한 전체 아카이브 4,615건과 48시간 시간적격 2,685건을 기반으로 했다. 세종 AIDC, GF-TSMC, Upscale, TSMC 매출, NVIDIA 과학연구, ASML Hyper NA, Broadcom OCP, Georgia Tech·Emory, Samsung 잠정실적, KT클라우드 청라, K-Perf·GPU/NPU 지원 후속, 지역 금융·정책 후보 등 고관련 독립 사건 12개를 실제 비교했고 공개 원문·시의성·중복 검증이 끝난 9개 중 6개를 선정했다. 아카이브 원집계에는 07:27 KST 이후 직접 검색 발견을 합산하지 않았고, Hyper NA 1건은 별도 누락 복구로 검증했다."
+    },
+    "history_review": {
+      "start_date": "2026-09-25",
+      "end_date": "2026-10-08",
+      "checked_dates": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08"
+      ],
+      "note": "저장소에 실제 존재하는 9월30일~10월8일 ready 원고 9개를 제목·주요 사실·출처까지 읽었다. 9월25~29일에는 ready 원고가 없었다. 10월7일 세종 액티스 100MW MOU와 10월8일 SK증권 등 360MW MOU는 투자자·용량·프로젝트가 다른 사건으로 구분했고, AMD 협력·K-Perf·GPU 지원·ROCm·HBM·AIDC 전력의 단순 재보도는 제외했다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "10월7일 액티스코리아 100MW AIDC MOU와 달리 SK증권·메테우스자산운용·시드에이치가 참여한 360MW 별도 사업으로, 투자자·규모·협약 상대가 독립적이다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "GlobalFoundries가 TSMC CoWoS용 인터포저를 미국에서 생산하는 5년·20억달러 계약은 최근 원고에 없는 신규 공급망 사건이다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "Upscale의 SkyFabriX·Spectrum-X·SkyOS·SkyCMD 통합 Token Fabric 공개는 최근 원고의 ROCm·AICR·로컬 AI 실행환경과 다른 신규 네트워크 운영 사건이다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "TSMC의 2026년 9월 및 3분기 매출 공개는 최근 원고에 없던 신규 확정 실적 사건이다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "NVIDIA의 미국 과학·양자·정부 임무용 클라우드 지원 약정은 최근 원고에 없는 신규 공공 연구 인프라 사건이다."
+      },
+      {
+        "article_number": 6,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "ASML·Zeiss 연구진이 공개한 Hyper NA 성능 목표와 약 10년 로드맵은 최근 원고에 없는 신규 제조기술 사건이다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026-10-08 2026-10-09 국산 NPU 퓨리오사AI 리벨리온 하이퍼엑셀 딥엑스 모빌린트 글로벌 협력 실증 공동개발 K-Perf, site:msit.go.kr site:nipa.kr site:iitp.kr AI반도체 NPU",
+          "official_sources": "과기정통부 보도자료 목록 https://www.msit.go.kr/bbs/list.do?mId=307&mPid=208&sCode=user, NIPA 사업공고 https://www.nipa.kr/home/bsnsAll/7, K-Perf 정책자료 https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784177 를 확인했다. K-Perf와 최근 AMD 협력 이후 마감 전 새 실증·계약 원문은 확인되지 않았다.",
+          "result": "최근 회차와 독립적인 국내 NPU 계약·실증·해외 판로 사건은 확인하지 못했다. 과거 공고·동일 사건 재보도는 제외하고 이종 가속기 운영 요구와 AIDC 수요 가능성을 1·3번에서 검토했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "2026-10-08 2026-10-09 과기정통부 NIPA IITP GPU NPU 지원사업 신청 선정 배정 활용 집행, 지자체 지방의회 공공기관 테크노파크 AI반도체 국비 예산 실증 도입 조달 AIDC 전력 인허가",
+          "official_sources": "NIPA 고성능 컴퓨팅 지원 공고 https://www.nipa.kr/home/bsnsAll/7/nttDetail?bbsNo=4&bsnsDtlsIemNo=29&nttNo=16602&tab=3, KAIT AIDC 전담지원단 https://kait.or.kr/user/MainMenuList.do?cateSeq=28&menuSeq=58, 과기정통부 사업공고 https://www.msit.go.kr/bbs/view.do?bbsSeqNo=100&nttSeqNo=3186718&sCode=user, 연합뉴스 세종 MOU https://www.yna.co.kr/view/AKR20261008158200063 를 확인했다.",
+          "result": "세종 360MW AIDC MOU를 1번으로 선정했다. GPU·NPU 사용자 모집은 과거 공고였고 최근 신규 배정·활용 실적은 확인되지 않았으며, 지역 금융허브·국비 기사에서는 마감 전 새 NPU 집행 사건을 확인하지 못했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "October 8 2026 NVIDIA AMD TPU ASIC AI accelerator public research compute investment demand financing official announcement Reuters",
+          "official_sources": "NVIDIA 원문 https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years, TSMC 원문 https://pr.tsmc.com/english/news/3343, Reuters TSMC 기사 https://www.reuters.com/world/asia-pacific/tsmcs-third-quarter-revenue-surges-50-yy-beating-market-forecast-2026-10-08/ 를 확인했다.",
+          "result": "공공 과학연산 투자 약정 5번과 확정 파운드리 수요지표 4번을 선정했다. 일반 주가·수급 기사와 이전 회차의 대형 주문·금융 재보도는 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "October 8 2026 ROCm kernel runtime vLLM SGLang orchestration heterogeneous GPU XPU security Token Fabric, 국내 가속기 운영 SW 커널 런타임 이기종 보안",
+          "official_sources": "Upscale 원문 https://upscale.com/blogs/upscale-introduces-token-fabric-the-industrys-most-comprehensive-standards-based-networking-portfolio-for-ai-factories 및 Reuters 공개 본문 https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/ 을 확인했다.",
+          "result": "스케일업·스케일아웃과 운영체계를 통합한 Token Fabric을 3번으로 선정했다. ROCm 10.1·AICR·OpenShell은 최근 원고와 동일 발표이고 새 도입·성능 결과가 없어 제외했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "October 8 2026 HBM CoWoS UCIe CXL silicon interposer advanced packaging interconnect Hyper NA AIDC power cooling official Reuters",
+          "official_sources": "GlobalFoundries 원문 https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/, Reuters GF-TSMC 기사 https://www.reuters.com/world/asia-pacific/globalfoundries-make-key-ai-chip-component-tsmc-2026-10-08/, Reuters Hyper NA 기사 https://www.reuters.com/business/asml-zeiss-say-next-generation-chipmaking-technology-may-be-ready-10-years-2026-10-08/, Broadcom 원문 https://investors.broadcom.com/news-releases/news-release-details/broadcom-redefines-ai-infrastructure-industry-leading-networking 을 확인했다.",
+          "result": "인터포저 공급계약 2번, 파운드리 매출 4번, 장기 노광 로드맵 6번을 선정했다. Broadcom 발표는 운영망 영역 중복·전시 계획 단계여서 제외했고 개별 냉각장비 공급과 기존 HBM 사건은 우선순위를 낮췄다."
+        }
+      },
+      "alternative_sources": "접근이 제한되거나 날짜만 표시된 후보는 Reuters·연합뉴스 전체 공개 본문과 기업 공식자료를 함께 대조했다. GlobalFoundries·Upscale 공식자료의 날짜만 표시된 시점은 동시 Reuters 보도와 아카이브 firstSeenAt으로 마감 전 공개를 확인했다. 07:27 KST 이후 수집 공백에서 발견한 Hyper NA는 Reuters의 12:46:21 UTC 게시시각과 전체 본문을 확인해 누락 복구 근거를 기록했으며, 검색결과 요약만으로 주요 내용을 작성하지 않았다."
+    }
+  }
+}
