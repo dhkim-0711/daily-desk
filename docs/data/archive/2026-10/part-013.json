@@ -1,7 +1,193 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-10-10T06:01:06.270Z",
+  "updatedAt": "2026-10-10T06:12:35.366Z",
   "articles": [
+    {
+      "title": "SpaceX, Broadcom and Oracle All Want Billions in AI Chip Debt at the Same Time - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenNhcjh1ZFhIZXZOeUN2ZldoV21fbjNKTEZLVnBZY3pNejRNcXE2Y3MwTXVMaDNpQ1dIOU05eFJjQUl3NWJRLVBLbDlqOHhMbW1xT2pCdHQxZWVsS1pFMkVXM3RxM3k4NjBZUV9oUDJxLUxsOVF5eC00WERHNGY5YUJHYU5fcjZqNXJIcHFLZ0gxWXlOMnZEY0Y3dlNWR241NkpNZjFMMElCLWtDaFJJRl9lOWp2SU9YMkJGRHV3?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 14:39:00 GMT",
+      "summary": "SpaceX, Broadcom and Oracle All Want Billions in AI Chip Debt at the Same Time &nbsp;&nbsp; 24/7 Wall St.",
+      "outlet": "24/7 Wall St.",
+      "outletUrl": "https://247wallst.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 17,
+      "firstSeenAt": "2026-10-08T19:15:39.537Z",
+      "lastSeenAt": "2026-10-09T02:04:00.554Z"
+    },
+    {
+      "title": "Eye on BNPL: equipifi Tweaks BNPL Decision Tool; Zip Taps Google Cloud for Product Testing - Digital Transactions",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0tiMnQteERxNGo5aHBweE4tZHZHUlVNcDRUaVVZVGhwNFVaUE83eGc3MXNOaEx1T2YzaFN1VlBtQVllRmRrWERrQUNvMXozamswOXBwSkx4Z0hYTVhRTmRvM0pQWXNYLUZrdHJZSXMybmx4TFhoTWU5RXBGZ2VpOWdVSFhHX3FIUXVtb2FDd05LekhER2dEYjh5TUd5cURwQW5oY2thbzlFNldQX0ZYV2JoVFYxbXJaZjN5ZEJQekxSRFE?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 14:38:56 GMT",
+      "summary": "Eye on BNPL: equipifi Tweaks BNPL Decision Tool; Zip Taps Google Cloud for Product Testing &nbsp;&nbsp; Digital Transactions",
+      "outlet": "Digital Transactions",
+      "outletUrl": "https://www.digitaltransactions.net",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-10-08T22:27:18.434Z",
+      "lastSeenAt": "2026-10-09T06:18:21.828Z"
+    },
+    {
+      "title": "구글, 기업용 '제미나이 에이전트' 발표…목표만 주면 계획부터 실행까지 - 솔루션뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PdnpaZVVZaG5QYXFud0pKSmhPUXBhVXpwek51a2ptMVFtZE50am1RNWZuVTRDMGZMWjlLeHhHcWtYY0ZzTGloaVBEWkV2NTdHLVhvdXZVQjhMSlM5U1IyeHFCdU9Temc2dHA4?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 14:38:20 GMT",
+      "summary": "구글, 기업용 '제미나이 에이전트' 발표…목표만 주면 계획부터 실행까지 &nbsp;&nbsp; 솔루션뉴스",
+      "outlet": "솔루션뉴스",
+      "outletUrl": "https://www.solnews.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "Google"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 18,
+      "firstSeenAt": "2026-10-08T19:15:39.537Z",
+      "lastSeenAt": "2026-10-09T11:16:32.130Z"
+    },
+    {
+      "title": "CoreWeave Makes a 240 MW Bet on India's AI Infrastructure - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDFlZllKeFRLRE5vOE9CV0lJZkEyaXl3UnR1aS1scENxTVlKeHN1M281SHJ6Q0Y1SUJ5UERVVE1pZE1JZG8teUpzWTBOOGJULXZEUXh6Q01sajM3VWktWHJIZ2hGSjZWYUZ6U1hLUmRZRFQybkZ0dnJGdjhwQXNIaGVSWHZoaC1ubDhKUHVsblhFVklySnZ5M21SOHk4VWtWRWhxYm9kdzJWOWJmSUFWaWpaMFRDa3FJVnRBbEswWlhHN0JDbHdWV3FTejdqZTVmM2FXcnlCSzk?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 14:37:44 GMT",
+      "summary": "CoreWeave Makes a 240 MW Bet on India's AI Infrastructure &nbsp;&nbsp; The Globe and Mail",
+      "outlet": "The Globe and Mail",
+      "outletUrl": "https://www.theglobeandmail.com",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 16,
+      "firstSeenAt": "2026-10-08T16:56:41.528Z",
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
+    },
+    {
+      "title": "Zeta brings GEO in-house as AI search reshapes brand visibility - Media in Canada",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSVJlNUhCQUhDTU5jSC14S0FaTkgzNkFGS0ZTUm1rN3pkaDhqTEdDWDFmc3luZW9DaEQ0SVBRZWFhWDJZTFNLTXdjcERYY2dnemlkZFdmcjZocVVGZUhRYUxSdWZkSFZ1ZHlqUGlPT2Y5Mk9mVnVJc3RCZ1V4WW9pNUpVVnBZLW52ODlGWklYZ3pzRUNYVjVta255el9ZN1ZkaWc4?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 14:37:30 GMT",
+      "summary": "Zeta brings GEO in-house as AI search reshapes brand visibility &nbsp;&nbsp; Media in Canada",
+      "outlet": "Media in Canada",
+      "outletUrl": "https://mediaincanada.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-08T16:56:41.528Z",
+      "lastSeenAt": "2026-10-09T02:04:00.554Z"
+    },
+    {
+      "title": "Google Launches ‘Universal’ Gemini AI Agent for Workplace - News India Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2tDcDF6elFLWFRCaFpYaGxKWGdhN3o4OW13WTZmekZYLXRVWDdPQUlJakR5NWhkZnNNc0ttZVhnU0JiRWN6VWp5NG5RUDdsRExTT3lDWEg3OVJQbEZmS3A1YU5PdzV1elF6eHNHRERJLXhva051QWJJbXRYNHBORmI0OTd1ZWdQNjln?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 14:35:40 GMT",
+      "summary": "Google Launches ‘Universal’ Gemini AI Agent for Workplace &nbsp;&nbsp; News India Times",
+      "outlet": "News India Times",
+      "outletUrl": "https://newsindiatimes.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "Google"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 23,
+      "firstSeenAt": "2026-10-08T16:56:41.528Z",
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
+    },
+    {
+      "title": "AI stocks are flying. These big names are falling behind - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyNmJfdk9UUXFvMS12MGI0YTBNdGMwNG1tQm0tQmxyR3p6RDlBdjYzY3pLTUtDWG82Y2p6dnFqQWZ2RDVEX3BTYjdsYTd6U2xEakJueC1qaHNnU1p5ZTFkaFJGbXFuN09CZENQbTRLRGFpLURpM1YzQTE1YWJzZw?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 14:35:00 GMT",
+      "summary": "AI stocks are flying. These big names are falling behind &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-08T16:56:41.528Z",
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
+    },
+    {
+      "title": "Google Cloud launches Gemini agent to work across enterprise systems - Constellation Research",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2ROTHpGYVVzT1V5N19FLU9NeDFOZFRaSEY3REhuVVhsMXRwdXRWLW1NWk5EbHhuZjFiMGNxYk1lYjN0dEZnLTlnb1NUR2JJMUZLZzNSMjBmNUhMdVU2b3k0SmUzdHVrQ2FXYVdLZHpIcktXZmhpbDhMQUtnSGlMbVhWd0RWWXpjOW1QT3c5NGtIYUl3Tk5xeUZjRUdZbW9ocDI4RTAzeGMzOUg4aFJR?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 14:34:53 GMT",
+      "summary": "Google Cloud launches Gemini agent to work across enterprise systems &nbsp;&nbsp; Constellation Research",
+      "outlet": "Constellation Research",
+      "outletUrl": "https://www.constellationr.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 26,
+      "firstSeenAt": "2026-10-08T16:56:41.528Z",
+      "lastSeenAt": "2026-10-09T18:46:22.187Z"
+    },
     {
       "title": "Can Microsoft's Big AI Capex Translate Into Sustainable Returns Ahead? - Zacks Investment Research",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpKQ1lmVmt4X1JZTTl3b2ZXRVJ3X3Q4SmUzVkVCUnJSdzV4a0VtZ3NZa3NSZElmYVJYQzhuRFpoeURGSGZUdXBMeHY1RWZscktpRm9SLXNyeF9iREJNUFpvX0xsNGhjcWR3RG1maFgtM1ZEVVc5cXBmVUk2elhPNnJ6S240SnphYm5fdUIxeU9WcmtISF9iMFlzZndzMk81MGY2NVM0SHRpR3dxeVE?oc=5",
@@ -23,7 +209,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "로딩 중 표시를 이해하는 카지노 카운트 룸 접속 안내 - Calgary Roughnecks",
@@ -43,7 +229,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-09T09:37:24.909Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "여러 조건을 동시에 충족해야 하나요? 토토 사관학교 같은 - Calgary Roughnecks",
@@ -63,7 +249,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-09T09:37:24.909Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Balyasny Asset Management brings Google Gemini into AI research platforms - The TRADE",
@@ -136,7 +322,7 @@
       "issueCategory": "NVIDIA",
       "score": 15,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z",
+      "lastSeenAt": "2026-10-10T06:12:35.366Z",
       "fullSummary": "About NVIDIA NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. Certain statements in this press release including, but not limited to, statements as to: expectations with respect to NVIDIA&rsquo;s commitments to advance US science over the next five years; expectations with respect to growth, performance, availability, and benefits of NVIDIA&rsquo;s products, services and technologies, and related trends and drivers; expectations with respect to NVIDIA&rsquo;s third party arrangements, including with its collaborators and partners; expectations with respect to technology developments, and related trends and drivers; expectations with respect to AI and related industr...",
       "summarySource": "article"
     },
@@ -209,7 +395,7 @@
       "issueCategory": "AI에이전트",
       "score": 23,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "대우건설, 도시정비·데이터센터 조직 강화…안전품질본부 신설 - 코리아리포트",
@@ -231,7 +417,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "What to Expect From Google’s Next Search Ranking Update - ALM Corp",
@@ -365,7 +551,7 @@
       "issueCategory": "AI시장",
       "score": 8,
       "firstSeenAt": "2026-10-09T09:37:24.909Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Bangladesh to launch sovereign AI infrastructure within a year - Views Bangladesh",
@@ -388,7 +574,7 @@
       "issueCategory": "AI인프라",
       "score": 19,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Introducing The Leader’s Guide To Multi-Agent AI Architecture - Josh Bersin",
@@ -411,7 +597,7 @@
       "issueCategory": "AI에이전트",
       "score": 16,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Elastic launches AlertZero AI agent system for security operations - StreetInsider",
@@ -596,7 +782,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "California bill explicitly regulates attorneys’ generative AI use - Canadian Lawyer",
@@ -616,7 +802,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-08T19:15:39.537Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Velotic Appoints Enterprise AI Leader Houman Behzadi to Board of Directors - The National Law Review",
@@ -639,7 +825,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "With Q2 Sales Growth of 82% and a Backlog of $514 Billion, Is Cloud Now a Bigger Growth Engine for Sundar Pichai's Alphabet Than Google's Search Business? - The Globe and Mail",
@@ -712,7 +898,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Intel Slides 3% as Chip Stocks Sell Off With Yields and Oil Higher; NVIDIA and AMD Slip - 24/7 Wall St.",
@@ -759,7 +945,7 @@
       "issueCategory": "AI인프라",
       "score": 16,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "AI Agent Maker Manus Raises $500 Million After Meta Split - Finimize",
@@ -828,7 +1014,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup - TechCrunch",
@@ -850,7 +1036,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "How Meta got ahead of OpenAI in the AI agent race - The Verge",
@@ -1033,7 +1219,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Small caps are suffering from higher rates, preference for AI stocks. There may soon be a buying opportunity - CNBC",
@@ -1053,7 +1239,7 @@
       "issueCategory": "AI시장",
       "score": 13,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "미국증시, 이란 전쟁에 유가·금리 동반 급등…엔비디아·반도체 약세, 팔란티어 상승 - TopStarNews",
@@ -1121,7 +1307,7 @@
       "issueCategory": "AI시장",
       "score": 17,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-09T06:18:21.828Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Press Kit: Agentic AI at AMD - AMD",
@@ -1145,7 +1331,7 @@
       "issueCategory": "AI시장",
       "score": 20,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "IREN's AI Cloud Business Is Surging. Can the Economics Keep Up? - The Motley Fool",
@@ -1351,7 +1537,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Chinese AI startup Manus raises $500M after Met... - Pluang",
@@ -1605,7 +1791,7 @@
       "issueCategory": "Google",
       "score": 15,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Alphabet's Google Cloud Chosen by Zip US for AI-Native Product Factory - marketscreener.com",
@@ -1651,7 +1837,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-08T19:15:39.537Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Google Cloud Unveils Gemini Universal Work Agent, Enabling Enterprise Users to Handle Q&A, Content Creation, and Coding in a Single Window - BigGo Finance",
@@ -1699,7 +1885,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "헷갈리는 약어를 풀어 쓴 카지노 6화 다시 용어 사전 - Calgary Roughnecks",
@@ -1721,7 +1907,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-09T06:18:21.828Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Deliverect and Yext Partner to Keep Restaurant Data Accurate Across Every Digital Surface, Including AI Search - PR Newswire",
@@ -1742,7 +1928,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "AI Agent Security: How Enterprises Can Build a Trusted Security Layer for Autonomous AI Systems - Security Boulevard",
@@ -1810,7 +1996,7 @@
       "issueCategory": "데이터센터",
       "score": 18,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Eminence Grey and Lumen partner on sovereign AI infrastructure - Investing.com",
@@ -1858,7 +2044,7 @@
       "issueCategory": "AI시장",
       "score": 23,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Microsoft Opens $2,599 Surface Laptop Ultra Preorders in Nvidia AI-PC Push - StockInvest.us",
@@ -1955,7 +2141,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-09T06:18:21.828Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "Linkpedia Updates SEO Database Metrics to Help Brands Rank in Google AI Overviews and ChatGPT Search - The Des Moines Register",
@@ -2002,7 +2188,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "A new AI system, AthenaOS, is in limited internal testing; public testing is expected later this year. - Stock Titan",
@@ -2067,7 +2253,7 @@
       "issueCategory": "AI에이전트",
       "score": 16,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     },
     {
       "title": "NXP 세미콘덕터, 데이터센터 수혜 제한적...투자의견 하향-씨티 - 이데일리",
@@ -2113,189 +2299,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-09T02:04:00.554Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
-    },
-    {
-      "title": "Google Cloud Launches Gemini Agent for Enterprise Workflow - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYTJRU3IwQ3JQdjN6NExYQTlGUGVSa3dHNll6LVkyX2NraDVDSDlMOE12akNrOUlFZ1YxX3ZVU3FPejJZZDMydmdtODBBMElseGRCNEI2OHhLU18wazJxUlpKcjktSkJTZmdBSW9fb1I3dnFwSWVxS3pPV0poZWxiS2FnVnktNmZNQ01WWUhaTW9KMFlheFE?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 13:06:00 GMT",
-      "summary": "Google Cloud Launches Gemini Agent for Enterprise Workflow &nbsp;&nbsp; The Tech Buzz",
-      "outlet": "The Tech Buzz",
-      "outletUrl": "https://www.techbuzz.ai",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 26,
-      "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-09T09:37:24.909Z"
-    },
-    {
-      "title": "BofA Warns: Data Center Moratoriums Emerge in 20 U.S. Gubernatorial Races, AI Infrastructure Capital Poised for Major Shift - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKX0tiMVB2NW9IVUJ0dzllYjV5S2NIWUh0YVlRZWxIYVNpR3kwUHhndlBKYjYzLVhHclFfSnllWjk4MWZVMVptM1poQkx3Y0Q0Y2lTbHBFeFZMYXZ3Wmg5VmV2VjcycGExN0JldUVRR0tsbGNZWWc?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 13:06:00 GMT",
-      "summary": "BofA Warns: Data Center Moratoriums Emerge in 20 U.S. Gubernatorial Races, AI Infrastructure Capital Poised for Major Shift &nbsp;&nbsp; BigGo Finance",
-      "outlet": "BigGo Finance",
-      "outletUrl": "https://finance.biggo.com",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라",
-        "데이터센터"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 19,
-      "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
-    },
-    {
-      "title": "일반 심벌과 특수 심벌의 차이, 슬롯 사이트 kr 비교 포인트 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamQzVTI4NlU0X042ek1iT084NFFVcTZEYW5hXzBKNjdJbjFRd3E5VUdDQVFwX1dIQ0xiRURGMk95SGRhaGc2QVVRZmVaY2dVdDBJZ1kySl9CTHR2THd5eW9zUFlOWDJRZ0hTNE1sSFVkVFN6QV9RTW5GaWc1aEJ0cmlNVk5OTUg3aHJYeVlRWWRBX0wtY1N4a1RpYmRtX25ZN1B4VURidW9XeWZnaG5jQkNhTVNkUGpQZGxBb3gzSjA?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 13:05:59 GMT",
-      "summary": "일반 심벌과 특수 심벌의 차이, 슬롯 사이트 kr 비교 포인트 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "furiosa",
-        "korea-ai-market",
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-09T09:37:24.909Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
-    },
-    {
-      "title": "블록 체인 오픈 배지 게임 소개에 쓰이는 대표 용어 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wUUhoQXg2QlBwa09MQl9FdnRxeHlsSENOc2FCRUpwQnJxOE5ESzA2cktfUGl0c1JXdUdwTWoxRTRwcE13YXE1VlNOREpGR1JPYWpzZ0EzaU9EUWN0YjREN1FEQWZCLVlNLWxNbnFHTUZUdw?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 13:05:56 GMT",
-      "summary": "블록 체인 오픈 배지 게임 소개에 쓰이는 대표 용어 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-09T09:37:24.909Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
-    },
-    {
-      "title": "Critical LMCache RCE Vulnerability Remains Unpatched, Public PoC Exploit Available - GBHackers News",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oYkJaMFA3VnRweVgyYVR6T2dwX2NQTXZGNW9hODlxazBFdk9hb0V5STJvZm4xLXkzZTRBSVp4MGhEREZhdW0ybElTc2c0U0RvMXNaaGd0ZGdOVUwtZzV5Y1RtTFlvWDFQ0gFuQVVfeXFMTUczeTlVVHZXNU9iOTdIaEFnTF9CZEo5czBzNXJROVk3UWw1ODltbW1USkNCLXJzbHNMYVdVVDNyS0daTkJtdnR0VkVLMi11TDFEZjQxb1RGaEdVdzRRaVdEcFlCa3dhcGdvemQtMmc?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 13:05:49 GMT",
-      "summary": "Critical LMCache RCE Vulnerability Remains Unpatched, Public PoC Exploit Available &nbsp;&nbsp; GBHackers News",
-      "outlet": "GBHackers News",
-      "outletUrl": "https://gbhackers.com",
-      "source": "가속기 운영 SW",
-      "sourceIds": [
-        "accelerator-software"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "실증·조달"
-      ],
-      "issueCategory": "실증·조달",
-      "score": 11,
-      "firstSeenAt": "2026-10-08T22:27:18.434Z",
-      "lastSeenAt": "2026-10-09T16:34:18.478Z"
-    },
-    {
-      "title": "GlobalFoundries Lands $2 Billion TSMC Order to Supply Key Advanced Packaging Material in the US - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZm5FUjduWEpUZWMzQWxockFNVjBUTm5GNGg3clZfQkR2ZHRIODRvMV83OHR2eVlobGYxZkJUaHdVcjV1ZWlFdDRoYXZxZy1FdDh1SjRfNXJld3pDaldLREJlMUV5U09RTzJpX21qYWgwa29HU2c?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 13:05:00 GMT",
-      "summary": "GlobalFoundries Lands $2 Billion TSMC Order to Supply Key Advanced Packaging Material in the US &nbsp;&nbsp; BigGo Finance",
-      "outlet": "BigGo Finance",
-      "outletUrl": "https://finance.biggo.com",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "TSMC"
-      ],
-      "taxonomyHits": [
-        "파운드리·패키징"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-10-08T22:27:18.434Z",
-      "lastSeenAt": "2026-10-10T06:01:06.270Z"
-    },
-    {
-      "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found - The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVJmTVNfSjVKc2t1YmI1ZkpGd3VnZ0ZZZ09kSmw1bXVKX3NDLWFoSE5zWlRFRmR4YmFKZGlUYWRDcDh1UHF4ZXRuTW9HblhaM0JSWGNESVM2ak01c2ZqWlJWbnh2UENDVV94RUFnVE9BQ1JjU1ItSGE0UG1aQ3dJanFCelRBT0cxdWNiNHUwdllHanhDNFQxSF9nd1RGVFo3MDhmanlmQm10Mnh2RmRONU5vMXZZTUxwc0dn?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 13:03:45 GMT",
-      "summary": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found &nbsp;&nbsp; The Decoder",
-      "outlet": "The Decoder",
-      "outletUrl": "https://the-decoder.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-09T16:34:18.478Z"
-    },
-    {
-      "title": "Amperity Introduces Pér, an AI Agent With a Complete Picture of Every Customer — and the Ability to Act on It - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3JKOGxXSEF3YVliWC02NEViZ1BlbmNTVk9ORjU2T0hzV0FybUt3NVRlS2ZZdEJScUFCWW1zZXVHSUJlQktDLXF5RGFHN2dmRmktQmY5VmlpUFBMWmNiTHZuaVRTMXVGUkdlUk14NUhycEhBd0hlclR6RE9HemxYMWxPbmNNdC1ESl9YN2dBNlBrTVR0?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 13:03:00 GMT",
-      "summary": "Amperity Introduces Pér, an AI Agent With a Complete Picture of Every Customer — and the Ability to Act on It &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-09T06:18:21.828Z"
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
     }
   ]
 }
