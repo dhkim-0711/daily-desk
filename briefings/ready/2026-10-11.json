@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-11",
+  "cutoff_at": "2026-10-11T09:30:00+09:00",
+  "window_start": "2026-10-10T09:30:00+09:00",
+  "created_at": "2026-10-11T09:38:00+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1, 2],
+      "bullets": [
+        "- 동해시는 GS가 추진하는 1.2GW AI 데이터센터 캠퍼스의 첫 100MW 건축허가를 내줘 사업이 투자계획에서 인허가·착공 준비 단계로 이동했습니다.",
+        "- 망고부스트는 서울과 미국의 AMD Instinct 자원을 묶은 종량제 추론 서비스를 공개해 국내 운영 SW 기업의 글로벌 서비스화 사례를 제시했습니다."
+      ]
+    },
+    {
+      "article_numbers": [3, 4],
+      "bullets": [
+        "- vLLM은 NVIDIA Vera Rubin NVL72용 일일 컨테이너와 최적화 커널을 공개하고 초기 시험에서 GB200 대비 GPU당 최대 7.84배 처리량을 제시했습니다.",
+        "- SemiAnalysis 집계에서 NVIDIA GPU 공급자는 11개월 미만 사이 209곳에서 323곳으로 늘어 연산자원 접근 경로와 공급자 검증의 중요성이 함께 커졌습니다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "동해시, GS 1.2GW AI 데이터센터 캠퍼스 첫 100MW 건축허가",
+      "category": "국내 정책·AIDC 인허가",
+      "collected_at": "2026-10-10T07:44:52.668Z",
+      "original_published_at": "2026-10-10T07:00:00Z",
+      "original_url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815414",
+      "event_id": "donghae-gs-ai-data-center-first-100mw-building-permit-2026-10-01",
+      "event_first_published_at": "2026-10-10T07:00:00Z",
+      "event_evidence_url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815414",
+      "selection_tier": "primary",
+      "main_points": [
+        "동해시는 10월 1일 동해에이아이제3캠퍼스가 신청한 100MW급 데이터센터의 건축허가를 내줬습니다. 북평제2일반산업단지 약 6만8000㎡ 부지에 연면적 약 3만5000㎡로 계획됐고 전력계통 영향평가 등 주요 절차를 마쳐 올해 착공, 2028년 하반기 준공을 목표로 합니다.",
+        "이 시설은 GS가 추진하는 1.2GW 캠퍼스의 첫 건물이며 1단계 투자계획은 약 15조원입니다. 다만 시공사 선정과 프로젝트파이낸싱은 아직 확정되지 않았고 GS건설도 구체적으로 정해진 사항이 없다고 밝혀, 건축허가와 실제 금융종결·발주를 구분할 필요가 있습니다."
+      ],
+      "implications": [
+        "대형 AIDC가 양해각서나 투자계획을 넘어 건축허가와 계통 검토를 통과했다는 점은 지역 인프라 사업의 실제 진척을 판단할 수 있는 변화입니다. 이후 착공·전력공급·준공 일정은 자금조달과 시공계약에 따라 달라질 수 있어 단계별 이행을 계속 확인해야 합니다.",
+        "정부·지자체의 AIDC 지원을 검토할 때는 총투자액보다 확정 전력, 허가, 금융종결, 장비 발주와 가동 시점을 구분하는 것이 중요합니다. 국산 NPU 수요와의 연계도 가속기 구매계약이나 실증 수요처가 확인된 뒤 판단할 사안입니다."
+      ],
+      "sources": [
+        {
+          "title": "[이슈] GS ‘동해시 AI데이터센터’ 착공 채비… 대형건설사 ‘수주 전쟁’ 가세",
+          "publisher": "오늘경제",
+          "published_at": "2026-10-10T07:00:00Z",
+          "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815414",
+          "verification": "full_text",
+          "verified_at": "2026-10-11T09:37:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "망고부스트, 서울·미국 AMD GPU 통합 추론 서비스 공개",
+      "category": "국내 운영 SW·글로벌 서비스",
+      "collected_at": "2026-10-10T01:43:02.876Z",
+      "original_published_at": "2026-10-09T17:33:00Z",
+      "original_url": "https://www.amd.com/en/blogs/2026/mangoboost-delivers-open-ai-models-powered-by-amd.html",
+      "event_id": "mangoboost-mango-inference-amd-korea-us-launch-2026-10-09",
+      "event_first_published_at": "2026-10-09T17:33:00Z",
+      "event_evidence_url": "https://www.amd.com/en/blogs/2026/mangoboost-delivers-open-ai-models-powered-by-amd.html",
+      "selection_tier": "supplement",
+      "main_points": [
+        "망고부스트는 AMD Instinct GPU와 ROCm으로 구동하는 서버리스 추론 서비스 ‘Mango Inference’를 공개했습니다. OpenAI·Anthropic 호환 API, 단일 엔드포인트의 복수 오픈모델, 선불 방식의 토큰 종량제를 제공하며 서울과 미국의 연산자원을 통합 환경으로 운영한다고 설명했습니다.",
+        "서울 자체 AI 데이터센터에는 MI355X와 MI350P 용량을 배치해 국내 데이터 보관과 아시아태평양 저지연 수요를 지원한다고 밝혔습니다. 이는 회사와 AMD가 공개한 서비스 사양이며 실제 고객 수, 유상 사용량, 비용 절감 폭과 운영 안정성은 공개되지 않았습니다."
+      ],
+      "implications": [
+        "국내 운영 SW 기업이 가속기 최적화를 넘어 API·과금·지역 데이터 보관을 포함한 추론 서비스로 사업 범위를 넓힌 사례입니다. 특정 GPU 공급 확대만으로는 확보하기 어려운 모델 호환성과 운영 편의가 실제 수요 전환을 좌우할 수 있습니다.",
+        "국산 NPU·GPU 지원사업도 칩 성능과 함께 표준 API, 모델 전환비용, 국내 데이터 보관, 사용량 기반 비용과 장애 대응을 검증할 필요가 있습니다. 이번 공개는 서비스 출시 단계이므로 유상 고객과 반복 사용, 독립 성능검증이 확인돼야 사업화 성과를 판단할 수 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "MangoBoost Delivers Open AI Models Powered by AMD",
+          "publisher": "AMD",
+          "published_at": "2026-10-09",
+          "url": "https://www.amd.com/en/blogs/2026/mangoboost-delivers-open-ai-models-powered-by-amd.html",
+          "verification": "public_primary",
+          "verified_at": "2026-10-11T09:37:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "AMD 원문은 2026-10-09 날짜만 표시하지만 Google News RSS가 2026-10-09 17:33 UTC, 즉 2026-10-10 02:33 KST 공개로 기록했고 2026-10-10 10:43:02 KST에 아카이브에 처음 저장됐다. 이는 2026-10-11 09:30 KST 마감 전이자 48시간 보완 범위 안이며, 확인한 원문에서 핵심 서비스 사양의 수정 정황은 없었다."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "vLLM, Vera Rubin NVL72 지원·최적화 커널 공개",
+      "category": "가속기 운영 SW·커널 최적화",
+      "collected_at": "2026-10-10T14:44:04.169Z",
+      "original_published_at": "2026-10-10T01:46:35Z",
+      "original_url": "https://vllm.ai/blog/2026-10-09-vera-rubin-preview",
+      "event_id": "vllm-vera-rubin-nvl72-day-zero-support-2026-10-10",
+      "event_first_published_at": "2026-10-10T01:46:35Z",
+      "event_evidence_url": "https://vllm.ai/blog/2026-10-09-vera-rubin-preview",
+      "selection_tier": "primary",
+      "main_points": [
+        "vLLM·Inferact·Red Hat·NVIDIA는 Vera Rubin NVL72에서 vLLM을 실행할 수 있는 일일 컨테이너와 FlashInfer 기반 attention·GEMM·MoE 최적화 커널을 공개했습니다. DeepSeek·Kimi·GLM·MiniMax 모델을 지원하고 CUDA 13.4의 locality domain을 활용해 메모리 인접 영역에서 MoE 가중치를 읽도록 했습니다.",
+        "초기 시험에서 MiniMax M3의 GPU당 처리량은 같은 상호작용성 조건의 GB200 NVL72보다 최대 7.84배, MLPerf VLM 처리량은 GB300 NVL72보다 최대 3.7배 높았고 locality-aware MoE는 작은 토큰 디코드에서 평균 약 1.2배 빨랐습니다. 공동 개발진의 초기 벤치마크여서 다른 모델과 장시간 운영에서의 성능·안정성으로 일반화해서는 안 됩니다."
+      ],
+      "implications": [
+        "차세대 가속기의 시장 도입 속도는 하드웨어 출하뿐 아니라 런타임, 컨테이너, 커널과 모델 호환성이 동시에 준비되는지에 달려 있습니다. 최적화 코드가 공개 프로젝트에 상류 반영되면 클라우드와 수요기업의 시험·전환 시간을 줄일 수 있습니다.",
+        "국산 NPU 검증도 칩 단품 수치 외에 출시 시점의 런타임 이미지, 주요 모델 지원, 커널 공개·유지보수와 재현 가능한 벤치마크를 함께 살펴볼 필요가 있습니다. 공동 개발진 수치와 독립 검증, 단기 성능과 운영 안정성을 구분하는 평가 설계가 중요합니다."
+      ],
+      "sources": [
+        {
+          "title": "vLLM Support for NVIDIA Vera Rubin NVL72: 7.8x Throughput over GB200 NVL72",
+          "publisher": "vLLM Project",
+          "published_at": "2026-10-10T01:46:35Z",
+          "url": "https://vllm.ai/blog/2026-10-09-vera-rubin-preview",
+          "verification": "public_primary",
+          "verified_at": "2026-10-11T09:37:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "vLLM 본문 표시는 2026-10-09이지만 공개 저장소의 최초 추가 커밋 65e80dba580b5e8fd7093ad10c30752cbaad564e가 2026-10-10 01:46:35 UTC, 즉 10:46:35 KST에 생성·병합됐고 다음 커밋도 10:59:38 KST에 확인됐다. 이는 2026-10-11 09:30 KST 마감 전 공개를 입증하며, 2026-10-10 23:44:04 KST 아카이브 수집과 원문을 대조해 사용한 벤치마크·지원 사실의 수정 여부를 확인했다."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "NVIDIA GPU 공급자 323곳…11개월 미만 사이 55% 증가",
+      "category": "글로벌 가속기 시장·연산 접근성",
+      "collected_at": "2026-10-10T14:44:04.169Z",
+      "original_published_at": "2026-10-10T11:00:01Z",
+      "original_url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+      "event_id": "semianalysis-nvidia-gpu-provider-count-323-september-2026",
+      "event_first_published_at": "2026-10-10T11:00:01Z",
+      "event_evidence_url": "https://news.warptechlab.com/news/356246941",
+      "selection_tier": "primary",
+      "main_points": [
+        "SemiAnalysis가 집계한 NVIDIA GPU 공급자는 2026년 9월 323곳으로, 11개월이 채 안 되는 기간에 209곳에서 약 55% 늘었습니다. 기업은 AWS·Microsoft·Google 같은 하이퍼스케일러, CoreWeave 등 네오클라우드, 온라인 장터 또는 직접 구매를 통해 GPU에 접근할 수 있습니다.",
+        "공급 경로가 늘었지만 NVIDIA의 7월 분기 매출채권에서 각각 10% 이상을 차지한 고객은 1월의 3곳에서 5곳으로 늘었습니다. 323곳은 시장조사업체의 공급자 집계이고 실제 가용 용량이나 서비스 품질을 뜻하지 않으므로, 공급자 수 증가와 연산 접근성 개선을 동일하게 볼 수는 없습니다."
+      ],
+      "implications": [
+        "연산자원 시장이 소수 대형 클라우드에서 전문 네오클라우드와 중개시장으로 다층화되면서 수요기관의 선택지는 넓어졌습니다. 동시에 가격, 가동률, 네트워크, 데이터 위치, 계약 안정성을 비교할 역량이 부족하면 공급자 수 증가가 이용 편의로 이어지지 않을 수 있습니다.",
+        "GPU·NPU 지원사업은 장비 배정량뿐 아니라 실제 사용 가능한 시간, 대기기간, 장애율, 모델·소프트웨어 지원과 수요기관의 반복 사용을 함께 측정할 필요가 있습니다. 해외 공급자 구조는 국내 연산자원 유통과 민간 서비스 연계 방식을 설계할 때 참고할 수 있지만, 국내 시장 규모로 직접 환산해서는 안 됩니다."
+      ],
+      "sources": [
+        {
+          "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+          "publisher": "CNBC / Warptech News 공개 재배포",
+          "published_at": "2026-10-10T11:00:01Z",
+          "url": "https://news.warptechlab.com/news/356246941",
+          "verification": "public_reprint",
+          "verified_at": "2026-10-11T09:37:00+09:00"
+        },
+        {
+          "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+          "publisher": "CNBC LinkedIn",
+          "published_at": "2026-10-10",
+          "url": "https://www.linkedin.com/posts/cnbc_nvidia-gpus-are-everywhere-here-are-the-activity-7514645966994599936-bmgj",
+          "verification": "public_primary",
+          "verified_at": "2026-10-11T09:37:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "CNBC 원문 RSS 게시시각은 2026-10-10 11:00:01 UTC, 즉 20:00:01 KST이며 23:44:04 KST에 아카이브에 처음 저장됐다. CNBC 공식 LinkedIn 게시물과 공개 재배포 본문에서 동일한 접근 경로·매출 전망을 확인했고, 323곳·209곳 집계는 재배포된 전체 본문에서 대조했으며 마감 전 핵심 사실의 수정 정황은 없었다."
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "최근 72시간 전체 아카이브에서 리벨리온·퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀의 고객 검증, 유상 PoC, 제품통합, 양산, 반복구매, 해외협력 후보와 K-Perf 연계를 확인했다. 리벨리온의 CCK솔루션 투자와 딥엑스의 147억원 투자 건은 사건 최초 공개가 각각 10월8일로 48시간 범위를 벗어났고, 재게재 기사에 새 계약·실증·고객 사실이 없어 제외했다. 마감 전 신규 국내 NPU 사업화 사건은 공개 원문으로 확인하지 못했으며 이를 국내 검색원 오류로 인한 후보 없음과 혼동하지 않았다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP 공고와 중앙부처, 지자체·지방의회·공공기관·테크노파크·지역 진흥기관의 NPU 예산·조달·실증·데이터센터·정책금융·집행 후보를 확인했다. 동해 100MW 건축허가를 투자계획과 구분되는 실제 인허가 진척으로 선정했다. 공공조달 혁신제품 기사는 8월13일 사건 재게재, 전남·광주 금융허브는 9월22일 협약 재서술이어서 제외했다. collection 기록의 최신 실제 수집은 2026-10-11 07:55:55 KST이고 09:20·09:27 완료 기록은 없었으며, 해당 실행은 41개 출처 중 39개가 503 실패여서 직접 공식자료·대체 공개 원문 검색으로 보완했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·TPU·ASIC과 GPU 접근시장·가속기 금융구조의 최근 보도와 공식자료를 확인했다. SemiAnalysis의 323개 공급자 집계와 하이퍼스케일러·네오클라우드·장터·직접구매 구조를 정책상 연산 접근성 판단에 필요한 새 시장자료로 선정했다. d-Matrix 투자, GlobalFoundries-TSMC 인터포저 계약과 Google 우주 TPU는 최근 원고와 같은 사건이었고 RTX 5090 생산전환은 익명 소식통 기반 소비자 GPU 루머여서 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·vLLM·SGLang·커널·런타임·오케스트레이션과 하드웨어 연계 보안을 확인했다. 망고부스트의 AMD 기반 한국·미국 통합 추론 서비스와 vLLM의 Rubin 일일 컨테이너·최적화 커널을 선정했다. SGLang pickle 역직렬화 보도는 취약점 최초 공개가 수개월 전인 기존 사건으로 확인돼 제외했고, 두 선정 건의 성능·서비스 수치는 회사·공동개발진 설명이라는 한계를 본문에 표시했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단 패키징·인터커넥트·광통신·전력·냉각·AIDC 후보를 확인했다. 동해 건축허가를 계통 검토와 실제 사업 단계 변화가 확인된 국내 인프라 사건으로 선정했다. Micron 타이중 HBM 가동 기사는 공식자료 없이 10월 중순 예정과 주가 전망을 섞어 현재 가동을 검증할 수 없어 제외했고, 삼성-AMD HBM·파운드리 확대 기사는 기존 협력과 보도상 가능성을 새 확정 계약으로 볼 근거가 부족해 제외했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "지역 AIDC가 100MW 건축허가와 계통영향평가 완료로 이동한 구체적 단계 변화로, 투자계획과 실제 집행을 구분해야 하는 정부 사업기획 업무와 직접 관련된다."
+      },
+      {
+        "article_number": 2,
+        "reason": "국내 운영 SW 기업이 서울 데이터 보관과 미국 연산자원을 묶어 AMD 기반 유상 추론 서비스로 사업화한 신규 사례여서 글로벌 협력·판로와 연산 접근성 판단에 유용하다."
+      },
+      {
+        "article_number": 3,
+        "reason": "차세대 가속기 출하와 동시에 필요한 런타임·컨테이너·커널·모델 지원을 구체적인 코드와 초기 성능으로 공개해 국산 NPU의 소프트웨어 준비 수준을 비교하는 기준이 된다."
+      },
+      {
+        "article_number": 4,
+        "reason": "GPU 공급자 수와 접근 경로의 실제 변화가 공개돼 지원사업의 배정량뿐 아니라 이용시장 구조·공급자 검증·활용지표를 설계하는 데 참고할 수 있다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "리벨리온, AI 인프라기업 CCK솔루션 지분 투자",
+        "url": "https://www.newspim.com/news/view/20261008000373",
+        "reason": "사건 최초 보도가 10월8일 09:38 KST로 48시간 보완 범위를 벗어났고, 10월10일 재게재 기사에 투자금액·제품통합·고객 등 실질적인 새 사실이 없었다."
+      },
+      {
+        "title": "딥엑스, 삼성 계열 자본 147억원 확보",
+        "url": "https://www.biggo.com/news/202610101150_deepx_samsung_investment",
+        "reason": "이사회 승인과 투자 사실이 10월8일에 먼저 공개된 사건으로 48시간 범위를 벗어났으며, 10월10일 보도는 양산 전환에 관한 회사 설명을 재서술해 신규 사건으로 보지 않았다."
+      },
+      {
+        "title": "NH농협금융, 전남·광주 금융허브 신설 추진",
+        "url": "https://www.webeconomy.co.kr/news/article.html?no=1755892",
+        "reason": "AI·반도체 산업지원 협약의 핵심 내용은 9월22일 공개됐고 신규 예산·납입·대출집행이 확인되지 않아 오래된 협약의 재게재로 제외했다."
+      },
+      {
+        "title": "국산 인공지능 반도체 제품 등 혁신제품 지정으로 공공조달 진출",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156704883",
+        "reason": "과기정통부 수여식과 혁신제품 지정은 8월13일 공개된 사건으로, 10월10일 재노출 기사에 새 조달·구매 실적이 없었다."
+      },
+      {
+        "title": "Micron's Taichung HBM Line Fires Up as AI Demand Signals Steady the Stock",
+        "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/micron-s-taichung-hbm-line-fires-up-as-ai-demand-signals-steady-the-stock/70289267",
+        "reason": "제목은 가동을 표현했지만 본문은 10월 중순 생산 시작 예정과 장기 증설 전망을 담았고 공식 생산 개시 자료를 확인하지 못해 확정 사실로 검증할 수 없었다."
+      },
+      {
+        "title": "NVIDIA reportedly halts GeForce RTX 5090 production in favor of AI data center GPUs",
+        "url": "https://www.tomshardware.com/tech-industry/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus",
+        "reason": "익명 공급망 소식에 기반한 소비자 GPU 생산 루머로 NVIDIA 공식 확인이 없고, 정책·사업기획 관련성이 선정 후보보다 낮았다."
+      },
+      {
+        "title": "SKT, AI 데이터센터·토큰 게이트웨이 성장전략 발표",
+        "url": "https://www.yna.co.kr/view/AKR20261008181300017",
+        "reason": "핵심 전략 발표가 10월8일에 공개돼 48시간 범위를 벗어났고, 10월10일 재보도에서 확정 고객·계약·가동실적이 추가되지 않았다."
+      },
+      {
+        "title": "Google’s Orbital TPU Test: Why SpaceX Wins No Matter Which Hyperscaler Gets There First",
+        "url": "https://finance.yahoo.com/news/google-orbital-tpu-test-why-141825376.html",
+        "reason": "우주 TPU 시험 계획은 10월3일 원고에서 이미 다룬 사건이며 10월10일 분석은 새 시험결과나 계약을 공개하지 않았다."
+      }
+    ],
+    "count_reason": "최근 72시간 전체 아카이브 2,873건과 48시간 발행 조건 적합 기사 973건을 읽고 최근 14일 원고와 사건 단위로 대조했다. 국내 NPU·정책수요·글로벌 가속기·운영 SW·메모리패키징인프라의 직접 보완 검색을 완료한 뒤 공개 원문, 시의성, 신규성, 정부 정책·사업기획 관련성을 모두 충족한 독립 이슈 4건만 선정했다. 주말 재게재, 48시간 초과 사건, 기존 원고 중복, 공식 확인이 없는 전망·루머로 기본 6건을 채우지 않았다.",
+    "company_overlap_review": "중심 주체는 동해시·GS, 망고부스트·AMD, vLLM 공동개발진·NVIDIA, GPU 접근시장 조사로 서로 다르다. AMD와 NVIDIA가 각각 서비스·런타임·시장 기사에 등장하지만 사건과 산업계층이 독립적이며 같은 기업집단 중심 기사가 2건 이상 선정되지 않았다.",
+    "candidate_counts": {
+      "discovered": 2873,
+      "time_eligible": 973,
+      "independent_events": 14,
+      "verified": 4,
+      "selected": 4,
+      "basis": "최신 체크아웃에서 mail/candidates.py --date 2026-10-11을 실행해 마감 전 72시간부터 작성 시점까지 아카이브 후보 2,873건과 48시간 발행 조건 적합 기사 973건을 집계했다. 아카이브와 직접 보완 검색에서 동해 AIDC 허가, Mango Inference, vLLM Rubin 지원, GPU 공급자 집계, 리벨리온 투자, 딥엑스 투자, 지역 금융허브, 공공조달 재게재, SGLang 취약점, 삼성-AMD 협력, Micron HBM 가동 주장, RTX 생산전환 루머, SKT 토큰 게이트웨이, 우주 TPU 분석의 14개 고관련 독립 사건을 실제 비교했다. 공개 본문·최초 공개시각·최근 원고 중복·업무 관련성 검증을 모두 마친 4건을 검증·선정했으며, 07:55 KST 수집에서 실패한 39개 출처는 다섯 영역의 공식 페이지와 공개 원문 직접 검색으로 별도 보완했다."
+    },
+    "history_review": {
+      "start_date": "2026-09-27",
+      "end_date": "2026-10-10",
+      "checked_dates": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10"
+      ],
+      "note": "저장소에 실제 존재하는 9월30일~10월10일 ready 원고 11개를 제목·주요 사실·출처까지 읽었고 9월27~29일에는 ready 원고가 없었다. 동해 GS AIDC, Mango Inference, vLLM Rubin 최적화, 323개 GPU 공급자 집계는 과거 원고에 없는 신규 사건으로 확인했다. 네오클라우드·Rubin·AMD·AIDC라는 공통 주제만으로 중복 처리하지 않고 실제 주체, 계약·허가·소프트웨어 릴리스·시장 데이터와 핵심 수치를 비교했다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "동해시의 첫 100MW 건축허가와 계통영향평가 완료는 최근 원고에 없는 신규 지역 AIDC 집행 사건이다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "망고부스트의 서울·미국 통합 AMD 추론 서비스와 토큰 종량제 출시는 최근 원고에 없는 신규 국내 운영 SW 사업화 사건이다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "Vera Rubin용 vLLM 일일 컨테이너, locality-aware MoE와 공개 최적화 커널·초기 벤치마크는 최근 원고에 없는 신규 운영 SW 릴리스다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "2026년 9월 기준 323개 GPU 공급자와 11개월 미만 사이 55% 증가 집계는 최근 원고에 없는 신규 시장 접근성 데이터다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "no_eligible_candidate",
+          "queries": "2026-10-10 2026-10-11 리벨리온 퓨리오사AI 딥엑스 모빌린트 하이퍼엑셀 NPU 고객 검증 유상 PoC 제품통합 양산 반복구매 해외협력 K-Perf 수요기관 도입",
+          "official_sources": "과기정통부 보도자료 https://www.msit.go.kr/bbs/list.do?mId=307&mPid=208&sCode=user, NIPA 사업공고 https://www.nipa.kr/home/bsnsAll/7, IITP 사업공고와 국내 NPU 기업 공개 뉴스룸을 확인했다. 마감 전 신규 계약·실증·구매·해외판로 원문은 확인되지 않았고, 07:55 KST 수집의 국내 검색원 오류는 공식 페이지와 공개 기사로 보완했다.",
+          "result": "리벨리온·딥엑스 투자 보도는 사건 최초 공개가 48시간 범위를 벗어났고 새 고객·제품통합 사실이 없었다. 검증 가능한 마감 전 신규 국내 NPU 사건이 없어 해당 영역에서 의무 선정하지 않았다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "2026-10-10 과기정통부 NIPA IITP GPU NPU 지원사업 신청 선정 배정 활용 집행, 지자체 지방의회 공공기관 테크노파크 AI반도체 국비 예산 실증 도입 조달 AIDC 전력 인허가, 지역 금융허브 AI 반도체 산업지원",
+          "official_sources": "과기정통부 보도자료·공고 https://www.msit.go.kr/bbs/list.do?mId=307&mPid=208&sCode=user, NIPA 사업공고 https://www.nipa.kr/home/bsnsAll/7, IITP·IRIS 공고와 지자체·지역기관 공개자료를 확인했다. 동해시 건축허가는 오늘경제 공개 전체 본문 https://www.startuptoday.co.kr/news/articleView.html?idxno=815414 에서 허가일·규모·계통절차·남은 금융조달을 확인했다.",
+          "result": "동해 100MW 건축허가를 선정했다. 전남·광주 금융허브와 국산 AI반도체 혁신제품 지정은 각각 9월22일·8월13일 사건 재게재라 제외했고 신규 NPU 예산·조달·지원사업 배정 실적은 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "October 10 2026 AI accelerator GPU TPU ASIC official launch partnership, Nvidia GPU access hyperscaler neocloud marketplace provider count, accelerator financing structure",
+          "official_sources": "CNBC 원문 URL https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html, CNBC 공식 LinkedIn https://www.linkedin.com/posts/cnbc_nvidia-gpus-are-everywhere-here-are-the-activity-7514645966994599936-bmgj, 공개 전체 재배포 https://news.warptechlab.com/news/356246941 및 NVIDIA·AMD·Google 공식 발표를 확인했다.",
+          "result": "323개 GPU 공급자와 접근 경로 변화를 선정했다. 과거 원고의 d-Matrix·인터포저·우주 TPU 재보도와 공식 확인 없는 RTX 생산전환 루머는 제외했고 새로운 확정 가속기 주문·출시는 확인되지 않았다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "October 9 10 2026 ROCm vLLM SGLang kernel runtime inference optimization official, MangoBoost Mango Inference AMD Korea, Vera Rubin locality domain MoE FlashInfer",
+          "official_sources": "AMD MangoBoost 원문 https://www.amd.com/en/blogs/2026/mangoboost-delivers-open-ai-models-powered-by-amd.html, vLLM 원문 https://vllm.ai/blog/2026-10-09-vera-rubin-preview, 공개 저장소 최초 커밋 https://github.com/vllm-project/vllm-project.github.io/commit/65e80dba580b5e8fd7093ad10c30752cbaad564e 및 AMD ROCm·NVIDIA 개발자 자료를 확인했다.",
+          "result": "Mango Inference와 vLLM Rubin 지원을 선정했다. SGLang 취약점 보도는 사건 최초 공개가 수개월 전이었고 신규 ROCm 릴리스나 국내 NPU 런타임 도입 결과는 확인되지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "October 10 2026 HBM memory advanced packaging interconnect optical AI data center power permit official, 2026-10-10 HBM4 패키징 인터커넥트 광통신 AIDC 전력 인허가",
+          "official_sources": "동해 AIDC 공개 본문 https://www.startuptoday.co.kr/news/articleView.html?idxno=815414, Micron 뉴스룸과 Samsung·AMD 공개자료, NVIDIA·TSMC·GlobalFoundries 공식 발표를 확인했다. Micron 타이중 HBM 가동 주장은 공식 생산 개시 자료가 없었고 GlobalFoundries-TSMC 계약은 10월9일 원고와 중복됐다.",
+          "result": "계통 검토와 건축허가가 확인된 동해 AIDC를 선정했다. 신규 HBM 양산 개시·첨단패키징 계약·광인터커넥트 공급 변화는 마감 전 공개 원문으로 추가 확인되지 않았다."
+        }
+      },
+      "alternative_sources": "CNBC 원문은 직접 접근이 제한돼 CNBC 공식 LinkedIn 게시물과 1,583단어 공개 재배포 본문을 대조해 접근 경로·공급자 집계·회사 공시 수치를 확인했다. vLLM 페이지의 표시 날짜와 실제 공개시각 차이는 공개 저장소의 최초 추가 커밋 시각으로 검증했다. AMD 원문의 날짜만 표시된 공개시각은 RSS 원문 시각과 아카이브 firstSeenAt을 대조했다. 유료벽·접근 제한 후보의 검색 제목이나 RSS 요약만으로 주요 내용을 작성하지 않았고, 공식자료가 없는 Micron HBM 가동 주장과 삼성-AMD 확장 가능성은 제외했다."
+    }
+  }
+}
