@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:58:05.355Z",
+  "generatedAt": "2026-10-11T06:10:51.053Z",
   "news": {
     "articles": [
       {
@@ -58,7 +58,8 @@
         "source": "AI 시장·비즈니스",
         "sourceIds": [
           "ai-market-business",
-          "ai-agents-cloud"
+          "ai-agents-cloud",
+          "google-ai"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -213,6 +214,30 @@
         ],
         "sourceLang": "en",
         "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 26
+      },
+      {
+        "title": "엔비디아, AI 스타트업 리플렉션에 추가 투자·인수 협상중 - SBS Biz",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Sc1pxbHZUOHE5ODVQTFZ1NGNDeUhMZFUyd21KQnV2N0pCLUw0VHFFMFRhOG1acjV5OFZ4eUdQQl9Pb2pfRG5mdVBUUzlJYWxoSkREZEhnbWvSAVhBVV95cUxNUnNacWx2VDhxOTg1UExWdTRjQ3lITGRVMndtSkJ1djdKQi1MNFRxRTBUYThtWnI1eThWeHlHUEJfT29qX0RuZnVQVFM5SWFsaEpERGRIZ21r?oc=5",
+        "publishedAt": "Sat, 10 Oct 2026 23:33:00 GMT",
+        "summary": "엔비디아, AI 스타트업 리플렉션에 추가 투자·인수 협상중 &nbsp;&nbsp; SBS Biz",
+        "outlet": "SBS Biz",
+        "outletUrl": "https://biz.sbs.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA"
         ],
@@ -440,30 +465,6 @@
         "score": 26
       },
       {
-        "title": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 - 한국공공정책신문",
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE16dTkxVHBSWVg1QmhvYlZhaFVRM3dmTlFBMHBsa3FmNnpVWE8zai1HdEMtZTh3SnhZYzBONENLTTJTQlE?oc=5",
-        "publishedAt": "Sat, 10 Oct 2026 06:09:04 GMT",
-        "summary": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 &nbsp;&nbsp; 한국공공정책신문",
-        "outlet": "한국공공정책신문",
-        "outletUrl": "http://knpp.co.kr",
-        "source": "지자체 NPU 정책·사업",
-        "sourceIds": [
-          "local-government-npu"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 26
-      },
-      {
         "title": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXRFaXVwV0tpVEo3YXpEeXJ0TVREdjZESjBRdjhOdlFrUlNocVNINy1PczZyeVNiYl9sSGlrbHJvUUtMV25HaEZpY09yczB3UEhPcFdneEdUcGJNY1ZQYXJIaHNOV05ZQWZmT2xPOVZhMnVWY3QzcVJIc01yYlBubS1NYmNmVjR4NXRqTnY1YXJ1OTA2WnJzbQ?oc=5",
         "publishedAt": "Sat, 10 Oct 2026 03:26:00 GMT",
@@ -521,8 +522,7 @@
         "outletUrl": "https://247wallst.com",
         "source": "AI 투자·자본시장",
         "sourceIds": [
-          "ai-investment-market",
-          "nvidia-ai"
+          "ai-investment-market"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -560,6 +560,30 @@
         ],
         "issueCategory": "AI시장",
         "score": 26
+      },
+      {
+        "title": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 - 한국공공정책신문",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE16dTkxVHBSWVg1QmhvYlZhaFVRM3dmTlFBMHBsa3FmNnpVWE8zai1HdEMtZTh3SnhZYzBONENLTTJTQlE?oc=5",
+        "publishedAt": "Sat, 10 Oct 2026 06:09:04 GMT",
+        "summary": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 &nbsp;&nbsp; 한국공공정책신문",
+        "outlet": "한국공공정책신문",
+        "outletUrl": "http://knpp.co.kr",
+        "source": "지자체 NPU 정책·사업",
+        "sourceIds": [
+          "local-government-npu"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "정책",
+          "NPU",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
+        "score": 25
       },
       {
         "title": "엔비디아, 리플렉션 AI 인수 논의 중…오픈웨이트 모델 및 새로운 AI 컴퓨팅 수요에 베팅 - TradingKey",
@@ -1471,6 +1495,29 @@
         "score": 24
       },
       {
+        "title": "AI bubble? Nvidia is now bigger than Japan, but valuation looks modest - The Irish Times",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdElwN0NyVUQ1QVo4WlZDaGhLM2ZUVzVUTWs4WDBQcWlnU3EzLVh0NTlGb3Fzdzk1aEtpeFQwZXlZRDZsd2JlZEs4S2UzUkxyZ1JoczVQa19HYmZ4Zy1BOWpUMWZnUmxzcGhERFoxc0tzTVJQbkcyMlNnNmdHQTFaQnVRNG9IdFVPb3lMemlPemZoYWRrUGdNcDI0dlE4VDFkNlJxazM3Wm92aEVXaFRZaEpVX3RsNFNSd2c?oc=5",
+        "publishedAt": "Sun, 11 Oct 2026 05:57:01 GMT",
+        "summary": "AI bubble? Nvidia is now bigger than Japan, but valuation looks modest &nbsp;&nbsp; The Irish Times",
+        "outlet": "The Irish Times",
+        "outletUrl": "https://www.irishtimes.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
         "title": "Nvidia weighs deeper ties with open-model developer Reflection AI through investment or computing deal - Longbridge",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84YS1seDk0d2J4M2ZrMWZ5c015clZVRkl2NXQ3cGRFZ2pWNDU1anFNTW1Udy15c2hkNkJILXlqMmxfZTR6aEE2cTNQRDlaZw?oc=5",
         "publishedAt": "Sun, 11 Oct 2026 04:42:13 GMT",
@@ -1863,12 +1910,12 @@
         "score": 23
       },
       {
-        "title": "Nvidia in talks to acquire Reflection AI or increase investment, FT reports By Investing.com - Investing.com Canada",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVEJVNjdNeXBvZlN3VnhiVFBKZVczNkdPaDVTazhMdFRuM0xxQ1JCaXN3Y25EX3duN3RGMTE4VTNlWWVnMkxVbHNiMmVWNnBWUS1SX0RoQ2xFSk9udndrZTVDVzV2b3kwbVdjTzdqOGJsUjBnbmhic0NWVF9tS2Y0U0JKWXp0OWF6WlJxLXM3MjFldWY5NXNOdldSRkJEN29uYU9ydHdFdnl5YzgyMWc4TVo4MnRFc2pNdUlCRnRQbFF2bTg?oc=5",
-        "publishedAt": "Sat, 10 Oct 2026 23:50:44 GMT",
-        "summary": "Nvidia in talks to acquire Reflection AI or increase investment, FT reports By Investing.com &nbsp;&nbsp; Investing.com Canada",
-        "outlet": "Investing.com Canada",
-        "outletUrl": "https://ca.investing.com",
+        "title": "Nvidia in talks to acquire Reflection AI or increase investment, FT reports By Investing.com - Investing.com Australia",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUFYyYnFyTlRTOEpwV2h6UlVseHpYMmRnSlBob3VPNC1SUDRnZTByMkk4VTEzT2tuRFc1VFJnYnJwR2UweGhOQnNia0VOTU5LQW5iZi1hbEFwVU5Qd0NISkptRnpDSjRDYVVfODM5VmtZYU9GbXdUa25HNWNubnR4S2NFTE81N2xmdldIWW5BWTg1MnlXWk1LbTBaVlhQVU5aR2diODlYVGFUcFhCTXBpYzVvVW42RmJ2THd1Y0NpRjBXc28?oc=5",
+        "publishedAt": "Sat, 10 Oct 2026 23:53:40 GMT",
+        "summary": "Nvidia in talks to acquire Reflection AI or increase investment, FT reports By Investing.com &nbsp;&nbsp; Investing.com Australia",
+        "outlet": "Investing.com Australia",
+        "outletUrl": "https://au.investing.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -1940,7 +1987,8 @@
         "outletUrl": "https://finance.yahoo.com",
         "source": "AI 시장 전체",
         "sourceIds": [
-          "ai-market-global"
+          "ai-market-global",
+          "nvidia-ai"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -2165,12 +2213,12 @@
         "score": 23
       },
       {
-        "title": "Nvidia (NVDA) Deepens Its AI Infrastructure Role - Yahoo Finance Australia",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWxRTl9wWnZFdHJFREJDczdoei1PSmZwcVFPWFo5R2lfOVFYNERlcENEZzhKWDBoV3dkeXZFRnJWWmhFa2l0VXFlOWl3QXJ5N2hTZzIyMUlBWU5BeExoQ1dQN1lETUQxZHduZ19PdEFVSmZ0UEI5RVZJLUE0cFlsU3dxc3g5YWd5dGhYZTBIcw?oc=5",
+        "title": "Nvidia (NVDA) Deepens Its AI Infrastructure Role - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVFNMSjNmdE5Kd2VHNGNIS2RWWEY5bzhvRGlpZ0FfV1FSSnQ3VzN6eFN6cG0tQmY3MU44M2pOcDV2UEhsU3RLRk5hNjlkUXFoVFV3SmZ3ZV9ORndfODlFd3pJS2Y3a3NWUjhuZm5PTEF5NVh6OURTQUZ2SVVQQlA0SXRTZ3JILWJaZld0aHRld2JCVlhHdlRRS1NkWGZfcjd3Mllr?oc=5",
         "publishedAt": "Sat, 10 Oct 2026 13:15:12 GMT",
-        "summary": "Nvidia (NVDA) Deepens Its AI Infrastructure Role &nbsp;&nbsp; Yahoo Finance Australia",
-        "outlet": "Yahoo Finance Australia",
-        "outletUrl": "https://au.finance.yahoo.com",
+        "summary": "Nvidia (NVDA) Deepens Its AI Infrastructure Role &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -2236,7 +2284,7 @@
       },
       {
         "title": "Why Is Nvidia (NVDA) Pushing Deeper Into Open AI And Consumer Devices? - Simply Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVlBWQkNJYnREaDhYMUgzZTR2Nnp2V3N2WWNsYzVyM3VNQ3NyN0FnRWF0SHR1Y1ZDci1lVFBIY0UwWEd6X0g1YUZ5cTVoTXBkVVRrNzhSY05IWGJqQmZyRW9kYWM3MnFwZ3R0MXIyQndIcnRPRUp1X0ZTOU1FYm1nZllOeWF3dmRVcWJQNEVsQ0htYVVqc3JfX2pFeHNOdlE0NDlOZVJpbjdvcExScGx0ZHhLY1pNZmExaVBKRVVVaU1YOEVyRkc2UFphc3ZRSVXSAc8BQVVfeXFMT1ZQVkJDSWJ0RGg4WDFIM2U0djZ6dldzdlljbGM1cjN1TUNzcjdBZ0VhdEh0dWNWQ3ItZVRQSGNFMFhHel9INWFGeXE1aE1wZFVUazc4UmNOSFhiakJmckVvZGFjNzJxcGd0dDFyMkJ3SHJ0T0VKdV9GUzlNRWJtZ2ZZTnlhd3ZkVXFiUDRFbENIbWFVanNyX19qRXhzTnZRNDQ5TmVSaW43b3BMUnBsdGR4S2NaTWZhMWlQSkVVVWlNWDhFckZHNlBaYXN2UUlV?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSEZwcU8zYVVNdHJCckd0cFZzNC1pWlkzY0dKRjlrSDd1ZXUwMmVzVDlkVzh3c0dTdXJZSFU0bC1KN0htRndSR3ZQMUF6YkJKdjV5TUdNM0t0X3ppZEhXdWphYk1qODA1ZDlydmV5UVphQkdKcHR1Y1lLVjVfZ2FPVlM5WXRMdVc5YlFBb2NObFhXeWY1SEYtZl9zX0VKa1F2aXRZMFRaQ2RHN3JsaVdjNFZpUWh5UjFmaXc0Y19vZVNmN2V6NVVvSXl30gHPAUFVX3lxTE9WUFZCQ0lidERoOFgxSDNlNHY2enZXc3ZZY2xjNXIzdU1Dc3I3QWdFYXRIdHVjVkNyLWVUUEhjRTBYR3pfSDVhRnlxNWhNcGRVVGs3OFJjTkhYYmpCZnJFb2RhYzcycXBndHQxcjJCd0hydE9FSnVfRlM5TUVibWdmWU55YXd2ZFVxYlA0RWxDSG1hVWpzcl9fakV4c052UTQ0OU5lUmluN29wTFJwbHRkeEtjWk1mYTFpUEpFVVVpTVg4RXJGRzZQWmFzdlFJVQ?oc=5",
         "publishedAt": "Sat, 10 Oct 2026 12:38:23 GMT",
         "summary": "Why Is Nvidia (NVDA) Pushing Deeper Into Open AI And Consumer Devices? &nbsp;&nbsp; Simply Wall Street",
         "outlet": "Simply Wall Street",
@@ -2402,9 +2450,12 @@
         "summary": "국산 AI 반도체, 누리호 타고 우주로…모빌린트 NPU 첫 탑재 &nbsp;&nbsp; www.edaily.co.kr",
         "outlet": "www.edaily.co.kr",
         "outletUrl": "https://www.edaily.co.kr",
-        "source": "국산 NPU 실증·협력",
+        "source": "국내 NPU 기업",
         "sourceIds": [
-          "npu-commercialization"
+          "korea-npu",
+          "mobilint",
+          "mobilint-broad",
+          "ai-chip-policy-finance"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -2557,30 +2608,6 @@
         "score": 23
       },
       {
-        "title": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 - 대한청년일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IRWF2MWQyZHREUm9LZFl5U1RsUElMMnhvWFpHdUdDYVJHQ3Y1b21kOTUtUUZXYThkUlpScjFrcGw3bzlSVHh2SUl4Um1nczJEZ21HT1NR?oc=5",
-        "publishedAt": "Sat, 10 Oct 2026 06:09:04 GMT",
-        "summary": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 &nbsp;&nbsp; 대한청년일보",
-        "outlet": "대한청년일보",
-        "outletUrl": "https://www.koreayouthdaily.com",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "deepx"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 23
-      },
-      {
         "title": "\"한국 AI 생태계에 기여\"…엔비디아·AMD, 韓 연구거점 구축 - 아이뉴스24",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4aFlBczdmNlVPMmNKbTZZMWx1eGRHT2JObno2V0JPYTVNLWNycFJwZnhiM05iMnJwTURtZVFWajVjeEFkSGNZT1ZqTQ?oc=5",
         "publishedAt": "Fri, 09 Oct 2026 22:00:01 GMT",
@@ -2651,6 +2678,30 @@
         "score": 22
       },
       {
+        "title": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 - 대한청년일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IRWF2MWQyZHREUm9LZFl5U1RsUElMMnhvWFpHdUdDYVJHQ3Y1b21kOTUtUUZXYThkUlpScjFrcGw3bzlSVHh2SUl4Um1nczJEZ21HT1NR?oc=5",
+        "publishedAt": "Sat, 10 Oct 2026 06:09:04 GMT",
+        "summary": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 &nbsp;&nbsp; 대한청년일보",
+        "outlet": "대한청년일보",
+        "outletUrl": "https://www.koreayouthdaily.com",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "deepx"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
+        "score": 22
+      },
+      {
         "title": "[머니네버슬립] 스페이스X, 엔비디아 GPU 담보로 400억달러 조달 추진 : 네이버 블로그 - Naver Blog",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGhodmpxbTNsbF9RQVcwc0VZR29pVE1sbTY1ZkNqbE56RzB2WWozVWE2VllpSGg4TEdYcmFKbEwwUUNNbVRVYWtkY2NZcklaUmpheWhlWFVJVUlQeXpqdU8xX0Z1S0IyQ0VDNENXLXlNeVpIdlRDY2I0Wnhwd3VZODJSWFJaQzVVUXZjZjh2TQ?oc=5",
         "publishedAt": "Sat, 10 Oct 2026 04:33:04 GMT",
@@ -2707,8 +2758,7 @@
         "sourceIds": [
           "korea-npu",
           "rebellions",
-          "npu-commercialization",
-          "ai-chip-policy-finance"
+          "npu-commercialization"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -3413,11 +3463,11 @@
       },
       {
         "title": "국산 인공지능 반도체 제품 등 우수연구개발 혁신제품 지정을 통한 공공조달 시장진출 기회 열려 - 정책브리핑",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNnVuYXdtbWtlMU5kR1Z4eXpvLU5XZ2J6a2tRZlRJS1ZxQ09pTV9rM1hJcExXYUplV0dDT0xLNnFMcUhnWDJCM0R2MHllcXoxNU1aYnJYYWZsbno2QWMtM2RJdF9TMVNJNG84RVUtVU5SUnVIb0kyVVFpTWVpdGYtQ3VURnk2c2dPbHZhZjR6X0VJNXU4SWx4MmR2UjhLTGpKdFVXbjlZQjRSLVVGUVI2dTZuVktrVmdnZ015MmJfLU4zZFlqTlN5SnpUREZHS2hBdFdKVWg0SldpYjltc2RMNlZYcmkxYVoyZ3g5Rg?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON3lKUkJjYlJuUlZNbElNTmxhaFhJQW9EaHcxcVBEQTB2cHg3ZXRoOTAwUHc0NnFnTnRDbDlEN2hWZzRyQjlxVHI5NVRPYzI1bzlsbGhINS1udlhXajRSNi1KZ29SZi15OUV4eGlQQ1d5dVNMYkwzb212Vjk2dElfUk56d0R2N1Q4V0RnR1dmdzNKVU9URnMybXJqbjNUMm5WX2Z5bnhJNWVlY0I5U285NTJVNWpvN3dIU0FBd2xfU0pVMW85Q3JwUjB6N29rUWZrbFV2T0tZZWY0Nm42bDJCNUpuT3AzaXI0X2dQQlVR?oc=5",
         "publishedAt": "Sat, 10 Oct 2026 01:57:37 GMT",
         "summary": "국산 인공지능 반도체 제품 등 우수연구개발 혁신제품 지정을 통한 공공조달 시장진출 기회 열려 &nbsp;&nbsp; 정책브리핑",
         "outlet": "정책브리핑",
-        "outletUrl": "https://m.korea.kr",
+        "outletUrl": "http://www.korea.kr",
         "source": "정부·공공기관 공식자료",
         "sourceIds": [
           "official-korea-policy"
@@ -3783,7 +3833,7 @@
       },
       {
         "title": "[인터뷰] 로봇부터 스마트 팩토리까지 공략하는 모빌린트… 신동주 대표 “NPU도 다양한 모델 지원하는 범용성이 중요” - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEJCOG1QNUpuYTAzUTByX09VcVVweHNLR005b2hwWWJZTFpTM3ZoVFVTMV9FSmJWVGN0bHpzZklWU0tpT09lQ2hpU0dQQlRteERObnB2U1lOczFvbVp1TDRaZDRRQ3Fha1J4TDNPc1pXY2dsbWczVHppOEpjTU9OVVVn0gGWAUFVX3lxTE95bWJxY01Nb3pkSXVSSG05aVpQVmNxamdGSHdjcHU2WnJWajFoei1OWGZyVDZ6dXRQLUxUNzNzOTNMeFo2TFNMZU1mV2YydG5QM3YtMTdtT2FUUUNfRkJ2R3dyb3BzcDBYSFpJRTdTQ05tYzJRUkdWVlQ4V0RPcl9NYUp0U0stcHpNckVkMjRMWnk2bEE3Zw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeW1icWNNTW96ZEl1UkhtOWlaUFZjcWpnRkh3Y3B1NlpyVmoxaHotTlhmclQ2enV0UC1MVDczczkzTHhaNkxTTGVNZldmMnRuUDN2LTE3bU9hVFFDX0ZCdkd3cm9wc3AwWEhaSUU3U0NObWMyUVJHVlZUOFdET3JfTWFKdFNLLXB6TXJFZDI0TFp5NmxBN2fSAZYBQVVfeXFMT3ltYnFjTU1vemRJdVJIbTlpWlBWY3FqZ0ZId2NwdTZaclZqMWh6LU5YZnJUNnp1dFAtTFQ3M3M5M0x4WjZMU0xlTWZXZjJ0blAzdi0xN21PYVRRQ19GQnZHd3JvcHNwMFhIWklFN1NDTm1jMlFSR1ZWVDhXRE9yX01hSnRTSy1wek1yRWQyNExaeTZsQTdn?oc=5",
         "publishedAt": "Thu, 08 Oct 2026 21:00:00 GMT",
         "summary": "[인터뷰] 로봇부터 스마트 팩토리까지 공략하는 모빌린트… 신동주 대표 “NPU도 다양한 모델 지원하는 범용성이 중요” - 조선비즈 &nbsp;&nbsp; Chosunbiz",
         "outlet": "Chosunbiz",
@@ -4171,52 +4221,6 @@
         ],
         "taxonomyHits": [
           "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI시장",
-        "score": 21
-      },
-      {
-        "title": "Alphabet shares rise as Google pushes Gemini deeper into enterprise AI - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM1pXUkwtVUEydnZraldMLThlY0w4ek4tZTFKaC1PQkw1TFJoZVBwaF9WalJ6eEh3ek1rcmpqc1NFdjJJOXRqWXNnQjRmRHlfb2l4NFhTMHhnUmxLVFprVzNTczZoZ0I1a2lMVk9ydFI2eUF4LVhTZk5oTGhOZHNQOVVSZzI1aExFY1V4MGNzVnZJR1M2bnpvUEFUYnZvV1E?oc=5",
-        "publishedAt": "Thu, 08 Oct 2026 13:11:22 GMT",
-        "summary": "Alphabet shares rise as Google pushes Gemini deeper into enterprise AI &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "AI 서비스·클라우드",
-        "sourceIds": [
-          "ai-agents-cloud"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "Google"
-        ],
-        "issueCategory": "AI시장",
-        "score": 21
-      },
-      {
-        "title": "Alphabet shares rise as Google pushes Gemini deeper into enterprise AI - Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFhKS25DXzZlZXpGNUQ0MzNkWjZQaFVOLXVmOTRNdGphZ2RpMHFXTi1kU3JWUFk2N0l6b2ExMGU2UmpSSExXVXk4bDdfckszLXhqbGpXTV9yMktJUzNWZjc5UjZkbFNRdWEwc0F1a2J1MnFJS2dEMXd6b0FZYnRBc251eVJBUUp1WHA1cUdSV2lHdTJqTy1mUGVlS0pQS08zOF9mLXBQcWh0Nkh4NEJjYTR3TjZXLTdYeTdycS03WVk1U0NZOVE?oc=5",
-        "publishedAt": "Thu, 08 Oct 2026 12:47:12 GMT",
-        "summary": "Alphabet shares rise as Google pushes Gemini deeper into enterprise AI &nbsp;&nbsp; Investing.com",
-        "outlet": "Investing.com",
-        "outletUrl": "https://www.investing.com",
-        "source": "AI 시장·비즈니스",
-        "sourceIds": [
-          "ai-market-business"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI시장",
           "Google"
         ],
         "issueCategory": "AI시장",
@@ -7011,7 +7015,7 @@
         ]
       }
     ],
-    "generatedAt": "2026-10-11T05:58:03.028Z"
+    "generatedAt": "2026-10-11T06:10:48.911Z"
   },
   "briefing": {
     "date": "2026년 10월 11일 일요일",
@@ -7077,7 +7081,8 @@
         "source": "AI 시장·비즈니스",
         "sourceIds": [
           "ai-market-business",
-          "ai-agents-cloud"
+          "ai-agents-cloud",
+          "google-ai"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -7244,19 +7249,18 @@
         "score": 26
       },
       {
-        "title": "Nvidia Pursues Acquisition of Open-Source AI Startup Reflection to Counter DeepSeek - BigGo Finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ndDRnTHhKR3pGUHhtSmxvQmdIaHN6TW1LT01Ha3kxSjZwb2I0UEpsN1poNnpwZ3ZxcS01SldaWkZacGV4czUzdGQtQWU2aXo1NzR6WHhtYVh0bHFjT2JCOUIySHVUZFFMZktEZFVmb1RheEdnZVE?oc=5",
-        "publishedAt": "Sat, 10 Oct 2026 21:25:00 GMT",
-        "summary": "Nvidia Pursues Acquisition of Open-Source AI Startup Reflection to Counter DeepSeek &nbsp;&nbsp; BigGo Finance",
-        "outlet": "BigGo Finance",
-        "outletUrl": "https://finance.biggo.com",
-        "source": "AI 시장·비즈니스",
+        "title": "엔비디아, AI 스타트업 리플렉션에 추가 투자·인수 협상중 - SBS Biz",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Sc1pxbHZUOHE5ODVQTFZ1NGNDeUhMZFUyd21KQnV2N0pCLUw0VHFFMFRhOG1acjV5OFZ4eUdQQl9Pb2pfRG5mdVBUUzlJYWxoSkREZEhnbWvSAVhBVV95cUxNUnNacWx2VDhxOTg1UExWdTRjQ3lITGRVMndtSkJ1djdKQi1MNFRxRTBUYThtWnI1eThWeHlHUEJfT29qX0RuZnVQVFM5SWFsaEpERGRIZ21r?oc=5",
+        "publishedAt": "Sat, 10 Oct 2026 23:33:00 GMT",
+        "summary": "엔비디아, AI 스타트업 리플렉션에 추가 투자·인수 협상중 &nbsp;&nbsp; SBS Biz",
+        "outlet": "SBS Biz",
+        "outletUrl": "https://biz.sbs.co.kr",
+        "source": "해외 빅테크 국내 보도",
         "sourceIds": [
-          "ai-market-business",
-          "nvidia-ai"
+          "korea-global-ai-companies"
         ],
-        "sourceLang": "en",
-        "region": "global",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
           "NVIDIA"
         ],
@@ -7323,11 +7327,11 @@
         ],
         [
           "NVIDIA",
-          80
+          82
         ],
         [
           "Google",
-          75
+          73
         ],
         [
           "AMD",
@@ -7450,11 +7454,11 @@
         ],
         [
           "국내 기사",
-          58
+          59
         ],
         [
           "해외 기사",
-          122
+          121
         ]
       ],
       "sections": [
