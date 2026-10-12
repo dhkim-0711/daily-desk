@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-10-12T06:08:17.536Z",
+  "generatedAt": "2026-10-12T06:18:44.480Z",
   "news": {
     "articles": [
       {
@@ -124,8 +124,7 @@ window.__DASHBOARD_DATA__ = {
         "outletUrl": "https://www.bbc.com",
         "source": "AI 투자·자본시장",
         "sourceIds": [
-          "ai-investment-market",
-          "nvidia-ai"
+          "ai-investment-market"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -422,8 +421,7 @@ window.__DASHBOARD_DATA__ = {
         "outletUrl": "https://timesofindia.indiatimes.com",
         "source": "AI 시장·비즈니스",
         "sourceIds": [
-          "ai-market-business",
-          "nvidia-ai"
+          "ai-market-business"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -675,55 +673,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "딥엑스, 삼성 계열 자본 147억 확보…국내 NPU 팹리스 양산 경쟁 본격화 - 얼리어답터뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xaktJX0hNeFdSOTNqWmRYRTFxa0FEbHlGdDBUTWdhRm9mSFVwNVNFcVNUQW1RLXVreExjZmFBZzYyYUdUazVSSXZB?oc=5",
-        "publishedAt": "Sat, 10 Oct 2026 06:11:54 GMT",
-        "summary": "딥엑스, 삼성 계열 자본 147억 확보…국내 NPU 팹리스 양산 경쟁 본격화 &nbsp;&nbsp; 얼리어답터뉴스",
-        "outlet": "얼리어답터뉴스",
-        "outletUrl": "https://www.eanews.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "deepx"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "K-엔비디아",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 25
-      },
-      {
-        "title": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 - 한국공공정책신문",
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE16dTkxVHBSWVg1QmhvYlZhaFVRM3dmTlFBMHBsa3FmNnpVWE8zai1HdEMtZTh3SnhZYzBONENLTTJTQlE?oc=5",
-        "publishedAt": "Sat, 10 Oct 2026 06:09:04 GMT",
-        "summary": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 &nbsp;&nbsp; 한국공공정책신문",
-        "outlet": "한국공공정책신문",
-        "outletUrl": "http://knpp.co.kr",
-        "source": "지자체 NPU 정책·사업",
-        "sourceIds": [
-          "local-government-npu"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 25
-      },
-      {
         "title": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXRFaXVwV0tpVEo3YXpEeXJ0TVREdjZESjBRdjhOdlFrUlNocVNINy1PczZyeVNiYl9sSGlrbHJvUUtMV25HaEZpY09yczB3UEhPcFdneEdUcGJNY1ZQYXJIaHNOV05ZQWZmT2xPOVZhMnVWY3QzcVJIc01yYlBubS1NYmNmVjR4NXRqTnY1YXJ1OTA2WnJzbQ?oc=5",
         "publishedAt": "Sat, 10 Oct 2026 03:26:00 GMT",
@@ -732,7 +681,30 @@ window.__DASHBOARD_DATA__ = {
         "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
-          "nvidia-ai",
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 25
+      },
+      {
+        "title": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORS1jVG90bHNGd1Q1ZHhva0ZjNXJlYlJsVVNsVVJ1SWNfM0FMVmVpbDhvRjFiNkxJRWFNWk9DRTZHR1p4Wmc4V1VCT2wzMlhPcFVzeFdPNkJQd1BiVUtLd0JGRzV6TExHNTVaMkt4R2dpZjFWQURJSmM2eThIYzJ3QUdsVXBrdzJpVThqWTY5UVVOTEpKSzBuMDRVM1g5MU5pNmUzU0ZrdDUxX1J5ME1ScEFDSWR6NmpEVW5mR2hSLW9ueThjZzBWMw?oc=5",
+        "publishedAt": "Sat, 10 Oct 2026 03:26:00 GMT",
+        "summary": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week &nbsp;&nbsp; TradingView",
+        "outlet": "TradingView",
+        "outletUrl": "https://es.tradingview.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
           "google-ai"
         ],
         "sourceLang": "en",
@@ -819,6 +791,29 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "AI시장",
         "score": 25
+      },
+      {
+        "title": "Naver brings Map navigation to AI glasses with Google, Samsung, Meta - CHOSUNBIZ - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VdVdyYWo1b3hVWFpiUTYxb0ZnaVQzd2VVNFVqYkhOaV8xNThvaDVwQ21GdzJkZU9vOWpwY2pqbGZWdnBWRjRyeXFURlNEa1hfbFNOanZSbzFtOGNwRjd1eE1QWWNXY3FQckdERkVrTHhHQTl4dy1vUTBB0gGOAUFVX3lxTFA5UGZ2Y2lHc3p6Z2Y0ZGR4MmFLTHRUSFdfbjE5bUFKbXZ5b0JUb2NCTjNoY2FIVWNQN21PZnMyU09ISThQU0pZNDM3bHhoQklhLXAyUXZiY1pzX0RwcUs5R0J0b0dTRFNHNUNGdVE4b0pjMHlmQnk0cDE5NnlUSk05c21yanczcFVwaHFwcnc?oc=5",
+        "publishedAt": "Mon, 12 Oct 2026 05:52:00 GMT",
+        "summary": "Naver brings Map navigation to AI glasses with Google, Samsung, Meta - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+        "outlet": "Chosunbiz",
+        "outletUrl": "https://biz.chosun.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google",
+          "Samsung"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 24
       },
       {
         "title": "GenScript and NVIDIA Launch Global PitchFest to Accelerate AI-Driven Drug Discovery Startups - BioPharma APAC",
@@ -956,6 +951,55 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "딥엑스, 삼성 계열 자본 147억 확보…국내 NPU 팹리스 양산 경쟁 본격화 - 얼리어답터뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xaktJX0hNeFdSOTNqWmRYRTFxa0FEbHlGdDBUTWdhRm9mSFVwNVNFcVNUQW1RLXVreExjZmFBZzYyYUdUazVSSXZB?oc=5",
+        "publishedAt": "Sat, 10 Oct 2026 06:11:54 GMT",
+        "summary": "딥엑스, 삼성 계열 자본 147억 확보…국내 NPU 팹리스 양산 경쟁 본격화 &nbsp;&nbsp; 얼리어답터뉴스",
+        "outlet": "얼리어답터뉴스",
+        "outletUrl": "https://www.eanews.kr",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "deepx"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "K-엔비디아",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
+        "score": 24
+      },
+      {
+        "title": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 - 한국공공정책신문",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE16dTkxVHBSWVg1QmhvYlZhaFVRM3dmTlFBMHBsa3FmNnpVWE8zai1HdEMtZTh3SnhZYzBONENLTTJTQlE?oc=5",
+        "publishedAt": "Sat, 10 Oct 2026 06:09:04 GMT",
+        "summary": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 &nbsp;&nbsp; 한국공공정책신문",
+        "outlet": "한국공공정책신문",
+        "outletUrl": "http://knpp.co.kr",
+        "source": "지자체 NPU 정책·사업",
+        "sourceIds": [
+          "local-government-npu"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "정책",
+          "NPU",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
         "score": 24
       },
       {
@@ -2208,9 +2252,8 @@ window.__DASHBOARD_DATA__ = {
         "summary": "엔비디아, 개방형 AI 더 키우나…“리플렉션 AI 인수 추진” &nbsp;&nbsp; 서울경제",
         "outlet": "서울경제",
         "outletUrl": "https://www.sedaily.com",
-        "source": "해외 빅테크 국내 보도",
+        "source": "AI칩·SW 전략적 인수·제휴",
         "sourceIds": [
-          "korea-global-ai-companies",
           "accelerator-strategic-deals-ko"
         ],
         "sourceLang": "ko",
@@ -2708,6 +2751,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
+        "title": "엔비디아, 美 리플렉션 AI에 추가 투자·인수 협상 중 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWcExSRFdxRmNfQ29Xak9VMkVmcjdzc0tmNU9rSlc0aWVnRmxCaFJIelUxQ2x5RkFmcVo3SmF1dUZCMkt5LVFEcXlkYWhPcVk1SmpMQ3Z3?oc=5",
+        "publishedAt": "Sun, 11 Oct 2026 00:19:06 GMT",
+        "summary": "엔비디아, 美 리플렉션 AI에 추가 투자·인수 협상 중 &nbsp;&nbsp; 지디넷코리아",
+        "outlet": "지디넷코리아",
+        "outletUrl": "https://zdnet.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 22
+      },
+      {
         "title": "Nvidia in talks to acquire Reflection AI or increase investment, FT reports By Investing.com - Investing.com",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTTRtMjIwWk96dHZOc0pzekVaWnBiTkxTdW14alA1YUluNzRxRnlYZXBNYnpyQi1aVWpiVzNBVzhZU3liT3lpTzhtbVpSMlpTbklKUU83U085MzlEc0pQeTcwb3NVWG44ZGhDYXBMME9xcUktTXRmbGZpLU9QZi1CY3REbFdkRE1NUnF1cG5fcHVCM3ZvbS1HSjVXZnpsdkxFU291ZW5lODF1b05uTjU2MmlNaVdGaEY2VDJ3RFh6UWp5Uk0x?oc=5",
         "publishedAt": "Sat, 10 Oct 2026 23:48:05 GMT",
@@ -3081,30 +3147,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 - 얼리어답터뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxVGE1LUFaMmUzRjNHcDYyYzhsOWZaQUpXYl9ub09Cd194OXA3ZG1fbGNON0ZrWmMyX3B2WWFvaTE3WE1p?oc=5",
-        "publishedAt": "Sat, 10 Oct 2026 06:09:04 GMT",
-        "summary": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 &nbsp;&nbsp; 얼리어답터뉴스",
-        "outlet": "얼리어답터뉴스",
-        "outletUrl": "https://eanews.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "deepx"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 22
-      },
-      {
         "title": "\"한국 AI 생태계에 기여\"…엔비디아·AMD, 韓 연구거점 구축 - 아이뉴스24",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4aFlBczdmNlVPMmNKbTZZMWx1eGRHT2JObno2V0JPYTVNLWNycFJwZnhiM05iMnJwTURtZVFWajVjeEFkSGNZT1ZqTQ?oc=5",
         "publishedAt": "Fri, 09 Oct 2026 22:00:01 GMT",
@@ -3215,26 +3257,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "기초과학연구원(IBS) 신임 원장에 장석복 연구단장 임명 - 과학기술정보통신부",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwRDBrcVV4b3dLbHhFNE43TUpaa202NV9lTEhZOHRQNGo3VjlsWE5mc1VMM19hQlNvTjQ3elVoejRqV2RDVmhhRTI2YlpDMGE1N2NQS3VlTzZRQUxQRGwyc3hONHZUdmtNTFFfemNpUi1TVWY2b1N5VkVKV2JhUHM?oc=5",
-        "publishedAt": "Sun, 11 Oct 2026 18:59:58 GMT",
-        "summary": "기초과학연구원(IBS) 신임 원장에 장석복 연구단장 임명 &nbsp;&nbsp; 과학기술정보통신부",
-        "outlet": "과학기술정보통신부",
-        "outletUrl": "https://www.msit.go.kr",
-        "source": "정부·공공기관 공식자료",
-        "sourceIds": [
-          "official-korea-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 21
-      },
-      {
         "title": "MLCC·AI반도체·회사채액티브·AI에이전트 [이주의 상장ETF] - IT조선",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4bmtZWGltaHRWQjBSc1JyaFNzVEI3eWsweldXeFRGYXo3bTlGZmNPTGpGQ1F1WDJlOHhLaG9la3FlakZ5bUFnMFFTOGt4dy11U3N6dFdTUzVkWTFVT2ppNGUxcEhvQWdpRVJrNEU4eWbSAXRBVV95cUxQU0lBU21LZXRlWXhHQnBYX3p0LWdfdW9rVHNRQUY0REpJRzJQekp3SXR5V3ZJUW9VQkgtRE54RnNQT1J6ZlFfQ2RZLWJFa3lFaWd6Yldqd1VSWmJRcnEyVWxwVTdrT1ljZy13RmQ3eW9CeUFtdQ?oc=5",
         "publishedAt": "Sat, 10 Oct 2026 21:20:00 GMT",
@@ -3254,6 +3276,30 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
+        "score": 21
+      },
+      {
+        "title": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 - 얼리어답터뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxVGE1LUFaMmUzRjNHcDYyYzhsOWZaQUpXYl9ub09Cd194OXA3ZG1fbGNON0ZrWmMyX3B2WWFvaTE3WE1p?oc=5",
+        "publishedAt": "Sat, 10 Oct 2026 06:09:04 GMT",
+        "summary": "삼성이 딥엑스에 147억을 넣은 이유: NPU 설계 생태계 재편의 신호탄 &nbsp;&nbsp; 얼리어답터뉴스",
+        "outlet": "얼리어답터뉴스",
+        "outletUrl": "https://eanews.kr",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "deepx"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
         "score": 21
       },
       {
@@ -3467,29 +3513,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "Alphabet Introduces Gemini Agent—Can It Trigger a Breakout? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcllFMm9IWHMycDVfOFg3WHJCUTk1N1lva3prRkxrdlBLQ2FPU0V1bl8tallqTnZQWFpRZE1WMHBQUDlfcDFzR2szeC1WUC12d2dQNXU4bmtxdS1nZGhqOUpoWWg4dHdzRkFiUDF6SFVINkY5dDRsMHJrUExNTnpiSHUzN0laZHFFMW1mTWs2X0phWUJHUVhtMzJBSzZobDlGcUFVSndLSQ?oc=5",
-        "publishedAt": "Fri, 09 Oct 2026 16:35:00 GMT",
-        "summary": "Alphabet Introduces Gemini Agent—Can It Trigger a Breakout? &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "Google"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 21
-      },
-      {
         "title": "Google Gemini Agent Puts the Agent Ahead of the Model - The Futurum Group",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdFA4MWN3ME1TUlJJWVpBVGZDcmdCUll0d0ZTOC1MUDZSZHVQcThGSnlOR2VfTG5WekJmRmx6Y0dTb05teTFPdGV6bVh6UFM4MmJLMkFqcXl2OEMtRVMtTW1mOEJtRlc3em1WZUItXzFtcjZvSmJwQmJZVWJ5aUg4UmI0dUlXeVVmUTA0R0huWGwtdw?oc=5",
         "publishedAt": "Fri, 09 Oct 2026 16:21:41 GMT",
@@ -3674,6 +3697,28 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
+        "title": "네이버지도, AI 글래스로 길안내 확대…메타·구글·삼성 기기 연동 - 나눔경제뉴스",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82eDBoZDVhQ21uQUJPM0dZOUdqbldlVkFCRjhjWHV2enVheFVNcGFkZzl4cFRRT3hZbFBuM1FQRGpWaWFrTUF0NkJzSUp3T0VCNXZSR01EQ0lTQnhXNzhMTG52TTBNVW91YkVIOQ?oc=5",
+        "publishedAt": "Mon, 12 Oct 2026 06:09:31 GMT",
+        "summary": "네이버지도, AI 글래스로 길안내 확대…메타·구글·삼성 기기 연동 &nbsp;&nbsp; 나눔경제뉴스",
+        "outlet": "나눔경제뉴스",
+        "outletUrl": "https://www.nanumy.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 20
+      },
+      {
         "title": "네이버지도, 메타·구글·삼성 AI 글래스서 길안내 - 조선비즈 - Chosunbiz",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWV96ei1QdGx2dEFjYTlFTEYyb2JaVDJvdENRMk1GTW9wWGxFaERCczV3ZldwMEFCQVhtTHVmNmNRNEFZN1pCUDN5MzIxZnEwUURPZnNOTTFSX1J0YkhwR1A4ZjhjdkxqZU9ObFlVU2RvRDVLLWJ0OWN4aFJ5U0M1YkVR0gGWAUFVX3lxTE85YlJVN2J2X2k4NnJKNEhuSzFaTU1oblpaZ2Ffa1hlWkhydEN3bHpveEprMjNrVnpOdUY5X2c1ZDk1amFpeXNxbjh1T3NJMDRYZUhWTlhNd19EQmF5WGdrbkp6TjFfcjY2Ukh4V29ITHRRV1VkM0dYZ0ZWNTByZzBTdmlGVllNM05uRTVQY0tUUXptTnc1UQ?oc=5",
         "publishedAt": "Mon, 12 Oct 2026 05:52:00 GMT",
@@ -3741,7 +3786,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "NDTV Exclusive: Google DeepMind's Top Voice On How India Is Shaping Global AI - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMGZNOEt0Z1A0NmhyRzZkbGluVjlFNGZ0d3BSY2p5eDhEOUNuV3NlQnJBQktJalVrOFlzc0FsOXN4V2djTHduN0tLOHA2d2xVRE9rdXY5RjV0QjNwN0UxdXE2eXQ2enpTYTU1b2NmRHoxNHAtQnFHUHc2Q213WUtWWnh5ODN1RjVtYUdBZ2x5em5mcVFlTTZrcWUtamd2MnV3M1Z5bjVXckYxMVFCYXRIR2xvcl9RaFc2MHMwLXF2QXZWZ0R1TVI4NFJMUEoyNW9CN2U2OVlQYXpRUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMGZNOEt0Z1A0NmhyRzZkbGluVjlFNGZ0d3BSY2p5eDhEOUNuV3NlQnJBQktJalVrOFlzc0FsOXN4V2djTHduN0tLOHA2d2xVRE9rdXY5RjV0QjNwN0UxdXE2eXQ2enpTYTU1b2NmRHoxNHAtQnFHUHc2Q213WUtWWnh5ODN1RjVtYUdBZ2x5em5mcVFlTTZrcWUtamd2MnV3M1Z5bjVXckYxMVFCYXRIR2xvcl9RaFc2MHMwLXF2QXZWZ0R1TVI4NFJMUEoyNW9CN2U2OVlQYXpRUdIB4gFBVV95cUxPY3JRSmRKb0owSEl0YkZScEU2VklFcnlodW9sT2VHQVlOWkFrdlR2dHNQOU1zTVphUzFXQ1lEQmVsOUs5eFFKemo5V3o4VVhReXZNS3VRN1JoTXVMakk5eFh5eVJnVzdKMDVZeE5ITFBCQ3gwT3VSZnRTQkZKUURCdTJ3Q3VydS1IMFFWRGd5UEhMdmdGLWtLNWlUYVptSi1ramh5ZnJydjJnMTAxR3REQ2hnVW16U3UwNWlFTWR4V0dsLVdNRjBPYmgxZnkxR2xaT2ZXYnpVcXEtT1ZvaEZ0dW9n?oc=5",
         "publishedAt": "Mon, 12 Oct 2026 05:39:46 GMT",
         "summary": "NDTV Exclusive: Google DeepMind's Top Voice On How India Is Shaping Global AI &nbsp;&nbsp; NDTV",
         "outlet": "NDTV",
@@ -3848,28 +3893,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI시장",
-        "score": 20
-      },
-      {
-        "title": "네이버지도, AI 글래스로 길안내 확대…메타·구글·삼성과 협력 - 직썰",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BS2ZMYldRRERFOHBIY0ZSTWt0enB5R21RM3otRGxsdVVDd2x2Q0dwcEFhQ2hoMm5FU1lMZmVHMnFkR3NXMDNJaXB3d3RwbUpnRHdPTGZBX0ttX2dWeTNELWZWdl9TUGhK0gFsQVVfeXFMUG9HQkJhcnVaN0xCV042RU15WUV4QUNFUFY3emxvTkh4WU1zeEVGM3VMTmJ0QzRQeGJudEtMbXVwOW83UE9DZ1dQZVl6UGViakpsaXR5SFRjZV9Ha2Fnc0pILWwycE5mZ1lzWml3?oc=5",
-        "publishedAt": "Mon, 12 Oct 2026 05:15:20 GMT",
-        "summary": "네이버지도, AI 글래스로 길안내 확대…메타·구글·삼성과 협력 &nbsp;&nbsp; 직썰",
-        "outlet": "직썰",
-        "outletUrl": "https://www.ziksir.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
         "score": 20
       },
       {
@@ -4027,6 +4050,28 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
+        "title": "크래프톤·엔비디아·인텔 한자리에…서울서 피지컬AI 테크위크 열린다 - 핀포인트뉴스",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yY0R6Wi1IeW1PQlJoT2JNcHd2UGxocUp2ZU5EeTI4eldiSkxvcFo0Zzc2N1ZERUxIaUVqel8zTGloUDNWamk1ZmVZUlM4Zm5KYjIzUkhyaWlWZkRVNjRRdmlqUkNoTGlqY2lYRmtBSzhIaE9Ra1A00gF3QVVfeXFMTXJjRHpaLUh5bU9CUmhPYk1wd3ZQbGhxSnZlTkR5Mjh6V2JKTG9wWjRnNzY3VkRFTEhpRWp6XzNMaWhQM1ZqaTVmZVlSUzhmbkpiMjNSSHJpaVZmRFU2NFF2aWpSQ2hMaWpjaVhGa0FLOEhoT1FrUDQ?oc=5",
+        "publishedAt": "Mon, 12 Oct 2026 04:05:15 GMT",
+        "summary": "크래프톤·엔비디아·인텔 한자리에…서울서 피지컬AI 테크위크 열린다 &nbsp;&nbsp; 핀포인트뉴스",
+        "outlet": "핀포인트뉴스",
+        "outletUrl": "https://www.pinpointnews.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 20
+      },
+      {
         "title": "TSMC Set For Sixth Straight Record Profit As AI Chip Demand Surges - BusinessToday Malaysia",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRHdVBTNWFXS2V2MXZHbUVPRGpqaEFqZjJKMjc4a3NkY3FYd0xDVU9xNFZ1VU5jb2ltckRKMXlxd1FSbWplX1VPdG5zVFpIbTk0THg4RkpEczhzUHpkcFdKVXhkbl9LQm9hSDctWVV5SzZmaTVBakpYaEdkc201MWJVMUpiSWhXYkV1WVdlQlJZWjZWWXF3dFNDOHdfNmxoR2w0UzBRWmg2TFBGWWFZZg?oc=5",
         "publishedAt": "Mon, 12 Oct 2026 03:59:18 GMT",
@@ -4046,28 +4091,6 @@ window.__DASHBOARD_DATA__ = {
           "파운드리·패키징"
         ],
         "issueCategory": "AI시장",
-        "score": 20
-      },
-      {
-        "title": "크래프톤·엔비디아·인텔 한자리에…서울서 피지컬AI 테크위크 열린다 - 핀포인트뉴스",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WZ0diYkRTNXV3T1I1Zms3MmlkLTJST0xRX3NOeTV1RTBJakJUSjVzb3gxX1BzTVo5aDVYTnctQ2p4dnJtTnl0X0J2N3hmWTFKVDZLUl9kNlgyZk9GclBFQ1VnOHZheXo0NGZjYmtoTVgxOFXSAXdBVV95cUxNcmNEelotSHltT0JSaE9iTXB3dlBsaHFKdmVORHkyOHpXYkpMb3BaNGc3NjdWREVMSGlFanpfM0xpaFAzVmppNWZlWVJTOGZuSmIyM1JIcmlpVmZEVTY0UXZpalJDaExpamNpWEZrQUs4SGhPUWtQNA?oc=5",
-        "publishedAt": "Mon, 12 Oct 2026 03:52:42 GMT",
-        "summary": "크래프톤·엔비디아·인텔 한자리에…서울서 피지컬AI 테크위크 열린다 &nbsp;&nbsp; 핀포인트뉴스",
-        "outlet": "핀포인트뉴스",
-        "outletUrl": "https://www.pinpointnews.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
         "score": 20
       },
       {
@@ -4121,28 +4144,6 @@ window.__DASHBOARD_DATA__ = {
         "summary": "Nvidia, Reflection AI, the strategic pivot to open-weight ecosystems &nbsp;&nbsp; digitimes",
         "outlet": "digitimes",
         "outletUrl": "https://www.digitimes.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 20
-      },
-      {
-        "title": "Nvidia Reportedly in Talks to Acquire Reflection AI: Why This Open-Model Company Is Worth NVDA's Bet - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkZqYXozcjF2VVVDQ2kzazlTZ0JfbW9HYnotT1hESENZUTdzN0VSdlBCcW5BMEhsbUxCQk9zM0tqZVM4QkJEeVI5UFFnNFdxNGtWRUw1ZDBUT3JaeDNRWGRYUGp4R0dieW5uYjc1VEIxWGZ3UFZBam5LQ3QtNExUTE15TGFRbkdmUm1UTnlkdDJMY3YwU1dmQm0tM3RRVlFNR0tnUWhiNTJ4TW1GY3ZwNnM5VjU4aGxaZWhBU2Nnaw?oc=5",
-        "publishedAt": "Mon, 12 Oct 2026 02:54:20 GMT",
-        "summary": "Nvidia Reportedly in Talks to Acquire Reflection AI: Why This Open-Model Company Is Worth NVDA's Bet &nbsp;&nbsp; TradingKey",
-        "outlet": "TradingKey",
-        "outletUrl": "https://www.tradingkey.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -5687,11 +5688,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "005930.KS",
         "name": "삼성전자",
         "market": "KR",
-        "price": 249750,
+        "price": 252000,
         "currency": "KRW",
-        "changePct": -3.7572254335260116,
+        "changePct": -2.8901734104046244,
         "previousClose": 259500,
-        "marketTime": "2026-10-12T05:48:14.000Z",
+        "marketTime": "2026-10-12T05:58:41.000Z",
         "closes": [
           249000,
           248500,
@@ -5709,7 +5710,7 @@ window.__DASHBOARD_DATA__ = {
           272000,
           268500,
           262000,
-          249750
+          252000
         ],
         "candles": [
           {
@@ -5829,7 +5830,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 260000,
             "high": 262500,
             "low": 249500,
-            "close": 249750
+            "close": 252000
           }
         ]
       },
@@ -5837,11 +5838,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "000660.KS",
         "name": "SK하이닉스",
         "market": "KR",
-        "price": 1610000,
+        "price": 1615000,
         "currency": "KRW",
-        "changePct": -11.147902869757175,
+        "changePct": -10.8719646799117,
         "previousClose": 1812000,
-        "marketTime": "2026-10-12T05:48:14.000Z",
+        "marketTime": "2026-10-12T05:58:41.000Z",
         "closes": [
           1697000,
           1690000,
@@ -5859,7 +5860,7 @@ window.__DASHBOARD_DATA__ = {
           1773000,
           1723000,
           1681000,
-          1610000
+          1615000
         ],
         "candles": [
           {
@@ -5979,7 +5980,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 1640000,
             "high": 1653000,
             "low": 1605000,
-            "close": 1610000
+            "close": 1615000
           }
         ]
       }
@@ -6555,11 +6556,11 @@ window.__DASHBOARD_DATA__ = {
       {
         "symbol": "^KS11",
         "name": "KOSPI",
-        "price": 6381.39,
+        "price": 6413.17,
         "currency": "KRW",
-        "changePct": -7.6487248024938035,
+        "changePct": -7.188805642909962,
         "previousClose": 6909.91,
-        "marketTime": "2026-10-12T05:48:10.000Z",
+        "marketTime": "2026-10-12T05:58:40.000Z",
         "closes": [
           6684.3701171875,
           6627.259765625,
@@ -6577,7 +6578,7 @@ window.__DASHBOARD_DATA__ = {
           6941.39013671875,
           6803.89990234375,
           6625.93017578125,
-          6381.39013671875
+          6413.169921875
         ],
         "candles": [
           {
@@ -6697,18 +6698,18 @@ window.__DASHBOARD_DATA__ = {
             "open": 6578.169921875,
             "high": 6589.68994140625,
             "low": 6368.490234375,
-            "close": 6381.39013671875
+            "close": 6413.169921875
           }
         ]
       },
       {
         "symbol": "^KQ11",
         "name": "KOSDAQ",
-        "price": 850.71,
+        "price": 853.18,
         "currency": "KRW",
-        "changePct": 3.6642132969389807,
+        "changePct": 3.965197894326375,
         "previousClose": 820.64,
-        "marketTime": "2026-10-12T05:48:10.000Z",
+        "marketTime": "2026-10-12T05:58:40.000Z",
         "closes": [
           806.7899780273438,
           812.4099731445312,
@@ -6726,7 +6727,7 @@ window.__DASHBOARD_DATA__ = {
           919.9199829101562,
           898.4299926757812,
           892.27001953125,
-          850.7100219726562
+          853.1799926757812
         ],
         "candles": [
           {
@@ -6846,12 +6847,12 @@ window.__DASHBOARD_DATA__ = {
             "open": 885.530029296875,
             "high": 891.7899780273438,
             "low": 849.0700073242188,
-            "close": 850.7100219726562
+            "close": 853.1799926757812
           }
         ]
       }
     ],
-    "generatedAt": "2026-10-12T06:08:15.404Z"
+    "generatedAt": "2026-10-12T06:18:42.310Z"
   },
   "briefing": {
     "date": "2026년 10월 12일 월요일",
@@ -6983,8 +6984,7 @@ window.__DASHBOARD_DATA__ = {
         "outletUrl": "https://www.bbc.com",
         "source": "AI 투자·자본시장",
         "sourceIds": [
-          "ai-investment-market",
-          "nvidia-ai"
+          "ai-investment-market"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -7115,7 +7115,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI에이전트",
-          29
+          28
         ],
         [
           "파운드리·패키징",
@@ -7145,11 +7145,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          87
+          88
         ],
         [
           "Google",
-          54
+          55
         ],
         [
           "TSMC",
@@ -7169,7 +7169,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "Samsung",
-          1
+          2
         ]
       ]
     },
@@ -7260,7 +7260,7 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          96
+          97
         ],
         [
           "NPU",
