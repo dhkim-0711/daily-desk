@@ -1,0 +1,422 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-12",
+  "cutoff_at": "2026-10-12T09:30:00+09:00",
+  "window_start": "2026-10-11T09:30:00+09:00",
+  "status": "ready",
+  "created_at": "2026-10-12T11:21:45+09:00",
+  "articles": [
+    {
+      "number": 1,
+      "title": "공장형 국산 NPU AIDC, 실증안에도 내년 국비 미반영",
+      "category": "국내 NPU 기업",
+      "collected_at": "2026-10-11T09:18:23.510Z",
+      "original_published_at": "2026-10-11T16:00:03+09:00",
+      "original_url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02646966645611936",
+      "event_id": "korea-onprem-npu-aidc-manufacturing-pilot-budget-gap-2026-10-11",
+      "event_first_published_at": "2026-10-11T16:00:03+09:00",
+      "event_evidence_url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02646966645611936",
+      "selection_tier": "primary",
+      "main_points": [
+        "한국산업단지공단의 AI 공급기업 12개사 조사에서 국산 NPU 도입 조건으로 SDK 지원 9건, 성능 검증과 가격 경쟁력 각각 4건이 제시됐습니다.",
+        "표준모델 3종을 제조현장 15곳에서 실증하는 2027~2030년 총 600억원 사업안이 검토됐으나, 2027년 국비 100억원은 정부 예산안에 반영되지 않았습니다. 산업통상부 장관은 국회 증액 노력을 언급했습니다."
+      ],
+      "implications": [
+        "국산 NPU의 제조현장 확산에는 칩 성능과 함께 개발도구, 기존 솔루션 전환비, 현장 검증 지원이 필요하다는 구체적인 수요 신호입니다.",
+        "예산 증액 논의와 사업 확정·공모·실제 도입을 구분하면서, 실증 이후 구매로 이어질 수 있는 성능·비용 기준을 함께 살필 필요가 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "피지컬AI 핵심 인프라라는데…‘공장 안 AIDC’ 공백",
+          "publisher": "이데일리",
+          "published_at": "2026-10-11T16:00:03+09:00",
+          "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02646966645611936",
+          "verification": "full_text",
+          "verified_at": "2026-10-12T11:21:45+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "반도체 클러스터 현장 점검…부지·전력·용수·공항 이전 협의",
+      "category": "지역 AI·반도체 산업금융",
+      "collected_at": "2026-10-12T01:15:18.305Z",
+      "original_published_at": "2026-10-12T09:30:00+09:00",
+      "original_url": "https://www.newsis.com/view/NISX20261012_0003821296",
+      "event_id": "southwest-chip-cluster-minister-interagency-site-review-2026-10-12",
+      "event_first_published_at": "2026-10-12T09:30:00+09:00",
+      "event_evidence_url": "https://www.newsis.com/view/NISX20261012_0003821296",
+      "selection_tier": "primary",
+      "main_points": [
+        "김정관 산업통상부 장관은 광주 군 공항 부지의 서남권 반도체 클러스터 추진 현장을 점검하고 지자체, 공군, LH, 한국전력, 한국수자원공사 등과 실행 과제를 논의했습니다.",
+        "군 공항 임시 배치와 산업단지 지정·부지 조성, 전력·용수 공급계획이 주요 의제입니다. 보도에 제시된 800조원은 클러스터 구상 규모로, 이번 방문에서 새로 확정된 예산이나 투자 집행액은 아닙니다."
+      ],
+      "implications": [
+        "반도체 거점 조성은 투자 구상 이후에도 부지 확보, 기반시설, 주민 수용성과 기관 간 역할 조정이 실제 추진 속도를 좌우합니다.",
+        "후속 관찰점은 산업단지 지정 일정과 공항 이전 방안, 기반시설 공급 주체·재원 확정 여부이며, 소재·부품·장비와 연구개발·인재 연계도 함께 확인할 사안입니다."
+      ],
+      "sources": [
+        {
+          "title": "800조 반도체·AI 조선소…김정관, '5극 3특' 현장 뛴다",
+          "publisher": "뉴시스",
+          "published_at": "2026-10-12T09:30:00+09:00",
+          "url": "https://www.newsis.com/view/NISX20261012_0003821296",
+          "verification": "full_text",
+          "verified_at": "2026-10-12T11:21:45+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "뉴시스 원문 등록시각 2026-10-12 09:30:00 KST를 확인했다. 아카이브 publishedAt 00:30:00Z와 일치하며, 동일 현장 일정의 이투데이 기사도 09:30 등록이다. firstSeenAt 10:15:18 KST를 소급하지 않고 마감까지 공개된 의제만 반영했다."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "호남 반도체 산단 사업비 9조원 추산…토지비 분담 쟁점",
+      "category": "반도체 클러스터·정책 실행",
+      "collected_at": "2026-10-12T02:03:59.552Z",
+      "original_published_at": "2026-10-12T06:15:01+09:00",
+      "original_url": "https://www.fnnews.com/news/202610120615311893",
+      "event_id": "honam-chip-national-industrial-park-land-cost-parliament-estimate-2026-10-12",
+      "event_first_published_at": "2026-10-12T06:15:01+09:00",
+      "event_evidence_url": "https://www.fnnews.com/news/202610120615311893",
+      "selection_tier": "primary",
+      "main_points": [
+        "강대식 의원실이 국방부·LH 자료를 분석해 호남 반도체 국가산단의 사업비를 기존 부지 취득 5조원과 조성비 4조원 등 약 9조원으로 추산했습니다.",
+        "매각 가능 면적을 175만평으로 가정하면 조성원가는 평당 약 514만원이며, 산업용지 157만5000평의 분양가를 300만~400만원으로 낮출 경우 약 1조8000억~3조4000억원의 차액이 발생한다는 분석입니다. 실제 분양가와 부담 주체는 확정되지 않았습니다."
+      ],
+      "implications": [
+        "대규모 반도체 투자 유치에는 저렴한 부지 공급뿐 아니라 원가와 분양가 사이 차액을 누가 부담할지에 대한 재원 설계가 필요합니다.",
+        "현장 점검에서 제시된 추진 의지와 별도로 토지 취득·조성비 산정의 전제, 국비·지방비·LH·입주기업 간 분담이 구체화되는지 확인해야 사업 실행 가능성을 판단할 수 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "\"호남 반도체 국가산단 사업비 9조…인근 분양가 2배 이상\"",
+          "publisher": "연합뉴스·파이낸셜뉴스 전재",
+          "published_at": "2026-10-12T06:15:00+09:00",
+          "url": "https://www.fnnews.com/news/202610120615311893",
+          "verification": "public_reprint",
+          "verified_at": "2026-10-12T11:21:45+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "파이낸셜뉴스의 연합뉴스 공개 전재 본문은 등록·수정 2026-10-12 06:15 KST를 표시한다. 아카이브 연합뉴스 RSS 발행은 06:15:01, 최초 수집은 11:03:59 KST로, 마감 전 기사 본문의 비용 추산만 사용했다."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "a16z 인프라 투자팀 방한…국내 AI 반도체·로봇 협력 탐색",
+      "category": "국내 AI 정책",
+      "collected_at": "2026-10-12T01:15:18.305Z",
+      "original_published_at": "2026-10-12T09:05:23+09:00",
+      "original_url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02269766645612264",
+      "event_id": "a16z-raghu-raghuram-korea-ai-hardware-robotics-meetings-2026-10-12",
+      "event_first_published_at": "2026-10-12T09:05:23+09:00",
+      "event_evidence_url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02269766645612264",
+      "selection_tier": "primary",
+      "main_points": [
+        "a16z의 라구 라구람 파트너와 인프라 투자팀이 한국을 방문해 AI 하드웨어·인프라·로봇 기업 및 업계 관계자와 기술개발·사업화 방안을 논의할 계획입니다.",
+        "국내 투자와 포트폴리오 기업 간 협력 가능성도 검토하며, 대상 기업·금액·계약은 아직 공개되지 않았습니다. 지난 9월 조성한 11억달러 머신 에이지 펀드는 반도체·메모리·전력·냉각 등 인프라 전반을 대상으로 합니다."
+      ],
+      "implications": [
+        "글로벌 인프라 투자팀의 방한은 국내 AI 반도체 기업이 해외 자본과 고객·협력사를 만날 수 있는 사업 기회로, 계약 전 단계에서도 추적할 가치가 있습니다.",
+        "펀드 총액을 한국 투자 배정액으로 해석하지 않으면서, 면담 이후 공동 기술검증·고객 발굴·실제 투자로 이어지는지 확인할 필요가 있습니다."
+      ],
+      "sources": [
+        {
+          "title": "오픈AI 투자한 a16z 라구람 방한…한국 AI 반도체·로봇 기업 만난다",
+          "publisher": "이데일리",
+          "published_at": "2026-10-12T09:05:23+09:00",
+          "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02269766645612264",
+          "verification": "full_text",
+          "verified_at": "2026-10-12T11:21:45+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "이데일리 원문은 등록·수정 시각을 2026-10-12 09:05:23 KST로 표시해 핵심 사실이 09:30 마감 24분 37초 전에 공개됐음을 확인했다. Daily Desk 아카이브의 동일 원문 publishedAt은 2026-10-12 00:05:23 UTC이고 firstSeenAt은 10:15:18 KST로 마감 후 수집됐으며, 원문 표시와 대조해 마감 전 공개 사실만 사용했다."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "아마존, 데카트 인수 협상…자체 AI칩의 소프트웨어 경쟁력 확대",
+      "category": "AI칩·SW 전략적 인수·제휴",
+      "collected_at": "2026-10-12T02:03:59.552Z",
+      "original_published_at": "2026-10-12T07:40:00+09:00",
+      "original_url": "https://www.etoday.co.kr/news/view/2634383?trc=right_categori_news",
+      "event_id": "amazon-decart-seven-billion-acquisition-talks-chip-portability-2026-10-12",
+      "event_first_published_at": "2026-10-12T05:26:00+09:00",
+      "event_evidence_url": "https://www.etoday.co.kr/news/view/2634383?trc=right_categori_news",
+      "selection_tier": "primary",
+      "main_points": [
+        "아마존이 AI 스타트업 데카트를 약 70억달러에 인수하는 방안을 협의 중이라고 월스트리트저널이 보도했습니다. 데카트의 칩 전환 지원 소프트웨어가 자체 AI칩 트레이니엄의 활용 확대와 연결되는 거래로 주목받고 있습니다.",
+        "협상 단계의 보도이며 인수 확정이나 통합 일정은 공개되지 않았습니다. 이를 전한 로이터는 독자적으로 확인하지 못했으며 양사의 즉각적인 답변도 받지 못했다고 밝혔습니다."
+      ],
+      "implications": [
+        "AI칩 경쟁에서 고객이 기존 소프트웨어를 다른 칩으로 옮기는 비용과 난도가 전략적 인수의 동기가 될 수 있음을 보여주는 사례입니다.",
+        "국내와의 직접 계약이 없어도 칩 이식성·개발도구 생태계의 경쟁 구도는 국산 NPU 사업화와 연결되며, 향후 지원 하드웨어와 개방 범위가 핵심 관찰점입니다."
+      ],
+      "sources": [
+        {
+          "title": "“아마존, 데카트 70억 달러에 인수 협상 중”",
+          "publisher": "이투데이",
+          "published_at": "2026-10-12T07:40:00+09:00",
+          "url": "https://www.etoday.co.kr/news/view/2634383?trc=right_categori_news",
+          "verification": "full_text",
+          "verified_at": "2026-10-12T11:21:45+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "이투데이 원문 등록은 2026-10-12 07:40 KST이며 로이터 원문도 10월11일 21:16 UTC(12일 06:16 KST)에 동일 협상을 보도했다. 아카이브 최초 수집 11:03:59 KST는 그대로 기록했다. 사용자가 제시한 머니투데이 09:52 기사의 마감 후 추가 사실은 사용하지 않았다."
+        },
+        {
+          "title": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
+          "publisher": "Reuters",
+          "published_at": "2026-10-12T06:16:00+09:00",
+          "url": "https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/",
+          "verification": "full_text",
+          "verified_at": "2026-10-12T11:21:45+09:00"
+        }
+      ],
+      "recency_evidence": "최초 WSJ 보도의 아카이브 RSS 발행은 2026-10-11 20:26 UTC(12일 05:26 KST), firstSeenAt은 08:59 KST이다. WSJ 공개 첫 문단과 로이터 06:16 KST 공개 기사, 이투데이 07:40 KST 본문이 같은 협상 사실을 확인한다. WSJ URL: https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad"
+    },
+    {
+      "number": 6,
+      "title": "화웨이 국내 전시 취재…NPU부터 저장·네트워크까지 통합 제안",
+      "category": "국내 NPU 기업",
+      "collected_at": "2026-10-11T23:59:00.697Z",
+      "original_published_at": "2026-10-12T00:23:11+09:00",
+      "original_url": "https://www.techsuda.com/huawei-showcases-full-stack-ai-datacenter-at-ai-festa-2026/",
+      "event_id": "huawei-full-stack-ai-datacenter-ai-festa-korea-2026-10-11",
+      "event_first_published_at": "2026-10-12T00:23:11+09:00",
+      "event_evidence_url": "https://www.techsuda.com/huawei-showcases-full-stack-ai-datacenter-at-ai-festa-2026/",
+      "selection_tier": "primary",
+      "main_points": [
+        "테크수다의 새 현장 취재 보도는 화웨이가 AI 페스타에서 Ascend NPU 서버와 OceanStor 스토리지, 네트워크·클라우드를 묶어 제시한 구성을 소개했습니다. 취재 방문은 10월 7일로, 오늘 새로 제품을 출시했다는 의미는 아닙니다.",
+        "AI 데이터센터의 연산·저장·통신을 함께 공급하는 접근이 특징이며, 전시 서버의 구체적인 칩 모델과 국내 공급 일정·조건은 공개되지 않았습니다."
+      ],
+      "implications": [
+        "고객에게 제시하는 경쟁 단위가 가속기 카드에서 데이터센터 시스템과 운영지원으로 넓어지는 흐름을 보여줍니다.",
+        "국산 NPU의 제안과 실증도 기존 저장·네트워크 자원과의 연동, 개발도구 호환성과 기술지원 범위를 함께 평가할 필요가 있으며, 전시 구성과 실제 공급·도입 실적은 구분해야 합니다."
+      ],
+      "sources": [
+        {
+          "title": "화웨이, AI 페스타서 ‘AI 데이터센터 통째로’ 꺼냈다…NPU·스토리지·스위치 풀스택 공세",
+          "publisher": "테크수다",
+          "published_at": "2026-10-12T00:23:11+09:00",
+          "url": "https://www.techsuda.com/huawei-showcases-full-stack-ai-datacenter-at-ai-festa-2026/",
+          "verification": "full_text",
+          "verified_at": "2026-10-12T11:21:45+09:00"
+        }
+      ],
+      "recency_evidence": "행사는 10월6~8일, 취재 방문은 10월7일이며 새 공개 현장기사의 관찰 내용을 선정했다. 웹페이지 표시는 10월11일, 아카이브 RSS publishedAt 10월11일 15:23:11 UTC는 12일 00:23:11 KST다. 행사 자체를 마감 구간의 신규 개최·신제품 출시로 간주하지 않았다."
+    }
+  ],
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1,
+        4
+      ],
+      "bullets": [
+        "국산 NPU 제조현장 실증안은 내년 국비가 정부안에 반영되지 않아 사업화의 예산·지원 공백이 드러났습니다.",
+        "a16z 방한 계획은 국내 AI 반도체·로봇 기업의 해외 자본·사업 협력 접점으로, 후속 논의를 추적할 사안입니다."
+      ]
+    },
+    {
+      "article_numbers": [
+        2,
+        3
+      ],
+      "bullets": [
+        "서남권 반도체 클러스터 현장 점검에서 공항 이전, 부지 조성, 전력·용수의 기관 간 실행 조정이 주요 의제로 제시됐습니다.",
+        "별도 의원실 분석은 산단 사업비를 약 9조원으로 추산해, 분양가와 조성원가 사이 차액을 누가 부담할지 재원 쟁점을 드러냈습니다."
+      ]
+    },
+    {
+      "article_numbers": [
+        5,
+        6
+      ],
+      "bullets": [
+        "아마존·데카트 인수 협상은 자체 AI칩 경쟁에서 칩 전환 소프트웨어와 개발 생태계 확보의 중요성을 보여줍니다.",
+        "화웨이 국내 전시 취재는 NPU·저장·네트워크 통합 제안을 조명하며, 단일 칩을 넘어 시스템·운영지원 경쟁을 살필 필요성을 제시합니다."
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "제조 NPU 실증안과 SDK·검증 수요, a16z 협력 탐색을 선정했다. AMD 정부·기업 협의는 10월8일 원고와 중복되는 핵심 사실을 확인했고 새 사실의 검증이 부족해 이번 수정본에서는 추가하지 않았다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "중앙부처·NIPA·IITP 관련 검색과 NIPA 응용실증 사업 공개 페이지, 지역 반도체 정책 기사를 확인했다. 공장형 AIDC 예산 공백과 클러스터 기관 협의·토지비 분석을 선정했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "아마존·데카트 협상과 화웨이 국내 전시 취재, AMD 협력 종합기사를 비교했다. 거래 완료·직접 국내 연결을 필수 조건으로 삼지 않고 칩 생태계의 전략 변화를 선정했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "데카트 칩 전환 SW를 자체 가속기 경쟁의 핵심으로 반영했다. Decision 3.0은 공개 모델 카드·컬렉션을 확인했지만 최초 릴리스 시점과 보도 버전의 정합성을 확정하지 못해 제외했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "반도체 산단 부지·전력·용수와 화웨이 시스템 구성을 검토했다. 스미토모 증설은 공식 발표가 10월9일로 48시간 밖이므로 기존 발송본에서 교체했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "SDK·현장 검증 수요와 제조 실증사업의 예산 공백이라는 정책·수요 신호를 함께 제공한다."
+      },
+      {
+        "article_number": 2,
+        "reason": "국산 NPU 명시 여부와 무관하게 반도체 거점의 부지·전력·용수·공항 이전 조정을 정책 실행 사건으로 평가했다."
+      },
+      {
+        "article_number": 3,
+        "reason": "장관 현장 점검과 별도로 의원실의 새 비용 추산·부담 배분 문제를 검증했다. 같은 산단이지만 새로운 자료와 의사결정 쟁점이 구별된다."
+      },
+      {
+        "article_number": 4,
+        "reason": "해외 투자팀의 국내 AI 반도체·로봇 협력 탐색은 계약 체결 전에도 중요한 사업 기회다."
+      },
+      {
+        "article_number": 5,
+        "reason": "국내 연결이나 거래 완료를 전제하지 않고 자체 칩·칩 이식성·SW 생태계를 강화하는 전략적 인수 협상으로 평가했다."
+      },
+      {
+        "article_number": 6,
+        "reason": "새 현장 취재에 담긴 통합 제품 제안을 선정했으며 과거 행사일과 새 보도일, 전시와 실제 공급을 구분했다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "AMD 방한·한국 기업 협력 주간 종합",
+        "url": "https://www.ddaily.co.kr/page/view/2026101114021524265",
+        "reason": "10월7일 머니투데이 정부·국산 NPU 협의 본문과 10월8일 발송 원고에서 같은 핵심 협력 사실을 확인했다. 디지털데일리 원문 전체 접근은 제한돼 실질적 추가 사실을 검증하지 못했다. 계약 미체결을 이유로 제외한 것은 아니다."
+      },
+      {
+        "title": "스미토모 베이클라이트 AI 패키징 소재 증설",
+        "url": "https://www.sumibe.co.jp/english/topics/2026/it-materials/1007_01/index.html",
+        "reason": "공식 발표일은 10월9일로 이번 48시간 보완 범위 이전이다. 후속 기사 발행일을 새로운 증설 사건의 최초 공개일로 취급하지 않도록 기존 선정에서 교체했다."
+      },
+      {
+        "title": "vLLM Semantic Router Decision 3.0 공개 모델",
+        "url": "https://huggingface.co/collections/vllm-sr/decision-30",
+        "reason": "모델 실재·공개 라이선스는 확인했으나 최초 릴리스 시각 및 보도된 5개 모델과 현재 컬렉션 6개 모델 사이 버전 차이를 확정하지 못했다. 시의성·버전 검증이 명료한 다른 사건을 우선했다."
+      },
+      {
+        "title": "SK스퀘어의 일본 무진 투자",
+        "url": "https://www.hankyung.com/article/202610114219i",
+        "reason": "기존 발송본의 투자 사건을 비교했으나 국산 NPU 실증·반도체 클러스터의 실행 과제와 AI칩 SW 전략 거래보다 이번 사용자 피드백과의 직접 관련성이 낮아 교체했다. 수정본에서는 원문 재검증 완료 건수에 포함하지 않았다."
+      }
+    ],
+    "count_reason": "10월 아카이브 93개 파트 전체에서 마감 전 72시간 이후 기사 2,283건을 스캔했고, 마감 전 48시간 발행 조건 적합 1,207건을 확인했다. 원문 중심 심층 비교 10개 사건 중 수정본 6건을 선정했다. 동일 클러스터의 두 기사는 행정부 실행 조정과 별도 의원실 비용 자료라는 서로 다른 신규 사실로 구분하되 요약에서 함께 묶었다. 숫자를 채우기 위한 동일 발표 재보도는 포함하지 않았다.",
+    "company_overlap_review": "반도체 클러스터 현장 협의와 토지비 분석은 같은 정책 대상이지만 발표 주체·자료·쟁점이 다르다. 전자는 공항·기반시설 기관 조정, 후자는 새 비용 산정과 차액 부담을 다루며 각기 다른 검증 원문을 사용했다. 그 밖에 특정 기업의 같은 사건 중복은 없다.",
+    "candidate_counts": {
+      "discovered": 2283,
+      "time_eligible": 1207,
+      "independent_events": 10,
+      "verified": 9,
+      "selected": 6,
+      "basis": "아카이브 93개 파트 9,300개 항목의 발행시각 필터 실제 집계다. discovered는 cutoff-72h 이후 현재 저장 항목(마감 후 공개 포함), time_eligible은 cutoff-48h 초과 cutoff 이하 발행 기사 수다. 사건 단위 심층 비교는 최종6건 및 AMD·스미토모·Decision3·무진 총10건이다. 검증9건은 공개 원문 또는 대체 원문으로 핵심 내용을 확인한 건수이며 시의성 적합을 뜻하지 않는다. 무진은 기존 원고만 비교해 재검증 건수에서 제외했다."
+    },
+    "history_review": {
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-11",
+      "checked_dates": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "note": "저장소에 존재하는 9월30일~10월11일 12개 ready 원고의 제목·주요 내용·출처를 비교했다. 9월28~29일 ready 파일은 없었다. AMD 정부·NPU 협의의 핵심은 10월8일에 게재돼 추가 사실 검증 없이 재선정하지 않았다. 오늘 최초 발송본은 수정 대상이며 지난14일 신규성 비교와 구분한다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "SDK·현장 검증 수요와 제조 실증사업의 예산 공백이라는 정책·수요 신호를 함께 제공한다. 최근14일 원고에서 같은 신규 사실의 게재를 확인하지 못했다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "국산 NPU 명시 여부와 무관하게 반도체 거점의 부지·전력·용수·공항 이전 조정을 정책 실행 사건으로 평가했다. 최근14일 원고에서 같은 신규 사실의 게재를 확인하지 못했다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "장관 현장 점검과 별도로 의원실의 새 비용 추산·부담 배분 문제를 검증했다. 같은 산단이지만 새로운 자료와 의사결정 쟁점이 구별된다. 최근14일 원고에서 같은 신규 사실의 게재를 확인하지 못했다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "해외 투자팀의 국내 AI 반도체·로봇 협력 탐색은 계약 체결 전에도 중요한 사업 기회다. 최근14일 원고에서 같은 신규 사실의 게재를 확인하지 못했다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "국내 연결이나 거래 완료를 전제하지 않고 자체 칩·칩 이식성·SW 생태계를 강화하는 전략적 인수 협상으로 평가했다. 최근14일 원고에서 같은 신규 사실의 게재를 확인하지 못했다."
+      },
+      {
+        "article_number": 6,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "새 현장 취재에 담긴 통합 제품 제안을 선정했으며 과거 행사일과 새 보도일, 전시와 실제 공급을 구분했다. 최근14일 원고에서 같은 신규 사실의 게재를 확인하지 못했다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "국산 NPU 실증 SDK 공장 안 AIDC 예산; a16z 라구람 방한 AI 반도체 로봇; AMD 과기부 협력",
+          "official_sources": "NIPA 응용실증 사업 https://www.nipa.kr/home/bsnsAll/0/detail?bsnsDtlsIemNo=638 및 이데일리 공급기업 조사·a16z 기사 본문을 확인했다. 정부 사업 페이지는 배경 확인이며 새로운 공모 발표로 간주하지 않았다.",
+          "result": "제조 NPU 실증안과 SDK·검증 수요, a16z 협력 탐색을 선정했다. AMD 정부·기업 협의는 10월8일 원고와 중복되는 핵심 사실을 확인했고 새 사실의 검증이 부족해 이번 수정본에서는 추가하지 않았다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr site:nipa.kr site:iitp.kr AI반도체 NPU 실증; 김정관 광주 군 공항 반도체 클러스터; 호남 반도체 산단 9조 토지비",
+          "official_sources": "NIPA 응용실증 공개 페이지와 정책브리핑 https://www.korea.kr/news/policyNewsView.do?newsId=148961351 (3월24일, 배경만)를 확인했다. 과기정통부 홈페이지 본문 접근은 제한돼 정책브리핑 공개 자료로 보완했다. 당일 현장·의원실 자료는 뉴시스와 연합뉴스 전재 본문으로 확인했다.",
+          "result": "중앙부처·NIPA·IITP 관련 검색과 NIPA 응용실증 사업 공개 페이지, 지역 반도체 정책 기사를 확인했다. 공장형 AIDC 예산 공백과 클러스터 기관 협의·토지비 분석을 선정했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "Amazon Decart acquisition October 11 2026; Huawei AI Festa 2026 NPU; AMD 한국 기업 협력",
+          "official_sources": "WSJ 공개 서두, Reuters 전체 공개 기사, 이투데이 본문을 대조했고 AWS Trainium 고객 페이지 https://aws.amazon.com/ai/machine-learning/trainium/customers/ 에서 데카트 관련 기술 배경을 확인했다. 인수는 공식 확정 발표가 아니다.",
+          "result": "아마존·데카트 협상과 화웨이 국내 전시 취재, AMD 협력 종합기사를 비교했다. 거래 완료·직접 국내 연결을 필수 조건으로 삼지 않고 칩 생태계의 전략 변화를 선정했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "vLLM Semantic Router Decision 3.0 Hugging Face collection model card release; Decart Trainium chip portability",
+          "official_sources": "https://huggingface.co/vllm-sr/d3-flash 및 https://huggingface.co/collections/vllm-sr/decision-30 모델 자료를 확인했다. 커밋 이력/API 접근은 완료되지 않아 최초 공개 시점을 확정하지 않았다. AWS 공식 고객 페이지는 데카트 배경 확인에만 사용했다.",
+          "result": "데카트 칩 전환 SW를 자체 가속기 경쟁의 핵심으로 반영했다. Decision 3.0은 공개 모델 카드·컬렉션을 확인했지만 최초 릴리스 시점과 보도 버전의 정합성을 확정하지 못해 제외했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "Sumitomo Bakelite October 2026 MUF Singapore Suzhou expansion official; 반도체 클러스터 전력 용수 부지",
+          "official_sources": "스미토모 공식 발표 https://www.sumibe.co.jp/english/topics/2026/it-materials/1007_01/index.html 의 October 9, 2026 날짜를 확인했다. 산단 기반시설은 뉴시스 현장 보도, 토지비는 연합뉴스 공개 전재로 교차 검토했다.",
+          "result": "반도체 산단 부지·전력·용수와 화웨이 시스템 구성을 검토했다. 스미토모 증설은 공식 발표가 10월9일로 48시간 밖이므로 기존 발송본에서 교체했다."
+        }
+      },
+      "alternative_sources": "연합뉴스 토지비 분석은 파이낸셜뉴스 공개 전재 전체 본문으로 확인했다. 사용자가 제시한 머니투데이 아마존 기사는 09:52 발행이므로 동일 협상의 마감 전 WSJ·Reuters·07:40 이투데이를 사용했다. 디지털데일리 AMD 원문은 전체 접근이 제한돼 10월7일 머니투데이와 10월12일 자본시장미디어 공개 재보도로 기존 사실을 대조했으나 새 사실을 추정하지 않았다. 당일 collection에는 08:58:57·10:15:12·11:03:55 KST 실행이 있고 09:20·09:27 완료 기록은 없다. 비어 있는 hyperaccel-global 및 nipa-ai-chip 수집원과 마감 전 정기 수집 공백을 직접 검색으로 보완했다."
+    }
+  },
+  "revision": {
+    "edition": "selection-update",
+    "reason": "사용자가 보완된 선별 기준을 오늘 브리핑에도 적용하고 수정본 메일 발송을 요청함",
+    "supersedes_message_id": "1a12dd15b59d91b1",
+    "recipient": "0711kim@nipa.kr",
+    "preserve_regular_send_state": true
+  }
+}
