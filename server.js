@@ -217,6 +217,18 @@ newsQueries.push(
     query: '(GPU OR NPU OR 가속기 OR ROCm OR CUDA) (컴파일러 OR 런타임 OR 커널 OR 오케스트레이션 OR 추론최적화 OR 이기종 OR 보안)' },
 );
 
+// Broaden discovery; editorial review still verifies facts, freshness and independent value.
+newsQueries.push(
+  { id: "korea-global-chip-cooperation", label: "글로벌 기업·한국 반도체 협력", lang: "ko",
+    query: '(AMD OR 엔비디아 OR NVIDIA OR Arm OR 아마존 OR AWS OR 구글 OR 마이크로소프트) (한국 OR 국내 OR 국산) (반도체 OR 가속기 OR NPU) (협력 OR 회동 OR 업무협의 OR 공동개발 OR 생태계)' },
+  { id: "semiconductor-cluster-execution", label: "반도체 클러스터·정책 실행", lang: "ko",
+    query: '(반도체 OR AI반도체) (클러스터 OR 산업단지 OR 산단) (산업부 OR 산업장관 OR 정부 OR 지자체 OR 전력 OR 용수 OR 부지 OR 인허가 OR 투자)' },
+  { id: "accelerator-strategic-deals-ko", label: "AI칩·SW 전략적 인수·제휴", lang: "ko",
+    query: '(AI칩 OR AI반도체 OR "AI 반도체" OR 가속기 OR GPU OR 트레이니엄 OR Trainium OR CUDA) (인수 OR 인수협상 OR 인수합병 OR 제휴) (소프트웨어 OR 컴파일러 OR 런타임 OR 개발자 OR 생태계 OR 자체칩)' },
+  { id: "accelerator-strategic-deals-global", label: "글로벌 가속기 전략적 거래", lang: "en",
+    query: '("AI chip" OR accelerator OR GPU OR Trainium OR CUDA) (acquisition OR acquire OR takeover OR partnership) (software OR compiler OR runtime OR portability OR ecosystem)' },
+);
+
 const officialFeeds = [
   { id: "nvidia-official-blog", label: "NVIDIA 공식 기술발표", lang: "en",
     url: "https://blogs.nvidia.com/feed/", publisher: "NVIDIA Blog", outletUrl: "https://blogs.nvidia.com" },
