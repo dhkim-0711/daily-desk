@@ -3,6 +3,7 @@
 
 Outputs metadata and previous briefing summaries, never a ready edition or mail.
 No network calls or paid AI APIs. Run after updating the checkout from main.
+Checkpoint handling follows mail/DRAFT_RESUME_CONTRACT.md; never auto-promote.
 """
 import argparse
 from datetime import date, datetime, timedelta, timezone
@@ -11,6 +12,7 @@ import json
 from pathlib import Path
 import re
 from render import cutoff_for_date, PUBLICATION_CUTOFF_FROM
+from drafts import resume_context
 
 ROOT = Path(__file__).resolve().parent.parent
 KST = timezone(timedelta(hours=9))
@@ -94,6 +96,7 @@ def packet(day, root=ROOT, as_of=None):
             health.extend(r for r in json.loads(path.read_text())['runs'] if stamp(r.get('collected_at')) and oldest < stamp(r['collected_at']) <= discovery_end)
     morning = [r for r in health if cutoff.replace(hour=9, minute=20) <= stamp(r['collected_at']) <= cutoff]
     return {'date': day, 'cutoff_at': cutoff.isoformat(), 'observed_at': observed.isoformat(),
+            'draft_resume': resume_context(day, root, now=observed),
             'morning_collection': {'pre_cutoff_run_recorded': bool(morning),
                                    'latest_collection_at': max((r['collected_at'] for r in health), key=stamp, default=None),
                                    'final_search_required': True,
