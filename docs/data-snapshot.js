@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-10-13T19:31:54.043Z",
+  "generatedAt": "2026-10-13T19:50:30.683Z",
   "news": {
     "articles": [
       {
@@ -265,30 +265,6 @@ window.__DASHBOARD_DATA__ = {
         "summary": "Google Cloud’s Lohmeyer: Agentic AI will kick off a CPU comeback &nbsp;&nbsp; Fierce Network",
         "outlet": "Fierce Network",
         "outletUrl": "https://www.fiercewireless.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 26
-      },
-      {
-        "title": "Thales expands Google Cloud tie-up to secure AI agents - IT Brief Asia",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUljanJSRi1ZT0twM0wyeHdZVEVXRGdkVllqeTNtemxHYVRWUFJJUnBBRFhUNFFvN3VRb21pbF94ck5fb3lXdjZKeHpSOWFhY0pBVGxRbU5UeW9ENWRCRDg1REE0aGN5VDRyUmJNV0pYbURjdjlXSnZzTjhhX3VoSXVpaTVkMzBH?oc=5",
-        "publishedAt": "Tue, 13 Oct 2026 16:35:00 GMT",
-        "summary": "Thales expands Google Cloud tie-up to secure AI agents &nbsp;&nbsp; IT Brief Asia",
-        "outlet": "IT Brief Asia",
-        "outletUrl": "https://itbrief.asia",
         "source": "Google AI 이슈",
         "sourceIds": [
           "google-ai"
@@ -675,7 +651,6 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "korea-npu",
           "rebellions",
-          "msit-ai-chip",
           "npu-commercialization"
         ],
         "sourceLang": "ko",
@@ -1164,7 +1139,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "Microsoft’s Copilot Notebooks Challenge Google’s AI Research Tool - JournalArta",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVE15NTVOTDBiZFJWWFVJdTRkT19BbVlTNUE2NTBTUEZIMTM4aXV5aFM0Nm1pNnYwRnZXeVpZZ2xDbUF5SEtFdzJ4NVBmejllVVYtR2RocWZJZHJhby1UVjdxVkVOZlVwMkdmNDR4S1dXQnphM1BwNER6VG5IbjVsdjdUWDdqNHpUQi1vTi1wUzlQeHl6enB0b0psZmpXUC1B?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGVvNEFXR1BiMFl6YWRvQ3BtRlo3QnFBZ3FWMmRGajRGaV9DREFQN0ZHeG0tUXV3OXk4S01ONnZKbE5vRGEta3hhVk9tV1dsN2h3LUd1bUNkSjJVeldOSmtPRWl0Z3lwSFVKNFlTMVl2Q3E1X2tTeEg4bjNEelNCRzd3RmdidmRnbEZVVW03WFVDTFVDbHl5ckxiY3lkcHZVWmlCSg?oc=5",
         "publishedAt": "Tue, 13 Oct 2026 17:51:29 GMT",
         "summary": "Microsoft’s Copilot Notebooks Challenge Google’s AI Research Tool &nbsp;&nbsp; JournalArta",
         "outlet": "JournalArta",
@@ -1349,7 +1324,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "Google Launches Cutting-Edge AI Model “Gemini 4 Argon” - jetstream.blog",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VMnpZUjMtQ0RUamFaREJZWHBGOU1nUVJaWnViQW12c3JsWndoZzhuSWtBV1A0NGs3T0NtLTZmTmctUVFiYkpZZ05DNGlPcGJObDdqSUFOR2RMQTN5OV8xTi1Eb0c2UQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEYnJobjZieF9aZHo1MDREOTk0c3d6SjBZZHNDYkVlZEJzTFNva3dMU1NpZno0ZkpUck1KYm5pZW5uaDZqdHZSU21SY2ZSMHpTN2dLVkxTeHd6TUg2U3IyTg?oc=5",
         "publishedAt": "Tue, 13 Oct 2026 17:13:09 GMT",
         "summary": "Google Launches Cutting-Edge AI Model “Gemini 4 Argon” &nbsp;&nbsp; jetstream.blog",
         "outlet": "jetstream.blog",
@@ -1814,12 +1789,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Nvidia-backed AI Company Firmus Just Canceled its IPO. What That Means for NVDA Stock. - Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnVMRXVwazg4dnBOejhzcGRNcjdITldsek9leXY3ZVo5cGxvREtVaW1aV3VneVYzMXFCQ2JpTkZBTW54d2J4YUxfQ1N1bkNKMWMyVjdFS3hHaEpUZF9MaGd6cmlwaU1PbFp2alZWRHJicWpyQTNfR1hscFJvTGhEcmdLOTktUlp2dkVoRTlEY0dTZk9uQ1VpbVM5UHVGdUlmdlRYOEI3V1lEZjBwRUNyZVhDejRlaTdoZ1ZLMlVOTU5rS2RSOGpZ?oc=5",
+        "title": "Nvidia-backed AI Company Firmus Just Canceled its IPO. What That Means for NVDA Stock. - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX3BKczRBY3V1SFhQeFJ2dHRqWHBKeTgwVmxhSklHZTFXZ0k4V0RnRE1qTjJfRW12WWZmUW9JbWdyMnlmbkxGeWU0WkR0SlZUaXJSUnZPNk8tRUFVckVyUGxyMDJLckdaMFZNc2kxcmM5UDFGM3lneDZDbnQ3YUtGTUJ1WHRqRXB4R2VBZnA4b3ZTWC16MW9KYThJYjE?oc=5",
         "publishedAt": "Tue, 13 Oct 2026 10:40:19 GMT",
-        "summary": "Nvidia-backed AI Company Firmus Just Canceled its IPO. What That Means for NVDA Stock. &nbsp;&nbsp; Barchart.com",
-        "outlet": "Barchart.com",
-        "outletUrl": "https://www.barchart.com",
+        "summary": "Nvidia-backed AI Company Firmus Just Canceled its IPO. What That Means for NVDA Stock. &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -2018,29 +1993,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI에이전트",
-        "score": 23
-      },
-      {
-        "title": "Nvidia Loses Ground to Huawei in China AI Chip Market - StratNews Global",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdTVaZDAyUHM3bmc3dnFWVUNCczBfQXdMTXBXeDFRN3BGUTRRRmhxSXJlNmhuOGdKVlNkR0lWajktNWRxMW8temlxbTJpbFd1M3JNUGRlM2Jmd0swd1N0WURidjBaZDdfRlprRHdjTG0zWHNtTTdrS2VkMG91ODY4VTdSeC0xd2tkU2hHdC13?oc=5",
-        "publishedAt": "Tue, 13 Oct 2026 08:28:10 GMT",
-        "summary": "Nvidia Loses Ground to Huawei in China AI Chip Market &nbsp;&nbsp; StratNews Global",
-        "outlet": "StratNews Global",
-        "outletUrl": "https://stratnewsglobal.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "수출통제·공급망"
-        ],
-        "issueCategory": "AI시장",
         "score": 23
       },
       {
@@ -2318,29 +2270,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI에이전트",
-        "score": 23
-      },
-      {
-        "title": "제미나이·클라우드 묶었다…KT, 구글 AI 구독 상품 8종 선봬 - 더파워",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpX3lmZW96N1hhNGZma1JwZ0lWcS12YVVMX29NSkNqaDI5WTB3S0ZHVW81ZEw3SUN1a3RHaURXY3l1LUxjbkxCTjVldEY1NGlUUmZDTVV5cTJQNktCN0g2Q0V6VWh5V09xclpFZW1sOEx2d3dNRGJzOTVJUmMzdw?oc=5",
-        "publishedAt": "Tue, 13 Oct 2026 04:36:00 GMT",
-        "summary": "제미나이·클라우드 묶었다…KT, 구글 AI 구독 상품 8종 선봬 &nbsp;&nbsp; 더파워",
-        "outlet": "더파워",
-        "outletUrl": "https://www.thepowernews.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
         "score": 23
       },
       {
@@ -3377,6 +3306,28 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
+        "title": "엔비디아 반도체 활용한 유럽 AI 인프라 확장…덴마크에 연산시설 조성 - 제민일보",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwSmtTVjlwQmRoLUh5ODJCTWI3ek9wSnBIeEJiWWdIbTJHOUlGRlhlNVNfZjdBQnpUSWxvS0l0VTJvWEwwSTR4MEhvcFgwRG5VOWtPLURfWW85V1BGZXA5d3l5emhkaFk?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 19:31:44 GMT",
+        "summary": "엔비디아 반도체 활용한 유럽 AI 인프라 확장…덴마크에 연산시설 조성 &nbsp;&nbsp; 제민일보",
+        "outlet": "제민일보",
+        "outletUrl": "https://www.jemin.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 20
+      },
+      {
         "title": "NVIDIA Introduces New AI Models, Features for RTX Spark, and DLSS 5 Updates - Root-Nation.com",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGxVMHc2ZDU0MThxQ3ZieG5kU1d1SU1acHJ4U2kyRTRxNVZmcXJzYVFoRkdZdi1HYXdGQWd0Wldza1dqVXp3X29DZWVfME4ya0JTZ2JWanIzTzZrdE1CUUNYNEltLUJyb1hjVF82SUZMV1FNMTVadFdjcXpfMUJNeEZpeEk2TVBhbkpRX09rbno?oc=5",
         "publishedAt": "Tue, 13 Oct 2026 19:10:49 GMT",
@@ -3509,28 +3460,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
-        "title": "Google now lets you check if an image, audio, or video is AI slop, right in your browser - MakeUseOf",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRE5Bd29BUUFKLWhKaDhHcWxzZzBLbG1CcHc0SzQ4R2xqUHpuNUdnQ0ZYMjNvR0l2c3JFYTY2WkQ4cXFNRmdNQS13ZkJOdjVRWjVtczZRVkt4b1B5RlIwVUVsX1JwSlB6eWhMU1VfV1Q3T3FKVTI5LTVWSWlibGpPcXBrVG9QanBEbWNVNjhsUk1pX0FiSVE1MG91NElHTDB5SThkR1VOS0Etc05NNFFvYVBR?oc=5",
-        "publishedAt": "Tue, 13 Oct 2026 18:44:15 GMT",
-        "summary": "Google now lets you check if an image, audio, or video is AI slop, right in your browser &nbsp;&nbsp; MakeUseOf",
-        "outlet": "MakeUseOf",
-        "outletUrl": "https://www.makeuseof.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 20
-      },
-      {
         "title": "Nvidia (NVDA) or Apple (AAPL): Which Is the Better Bet on Dan Ives’ $4 Trillion AI Wave? - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkZSTGlmbnBRSDQ4WnJCbHpldVBCQ3ZMTXBWbTktQk16MmtBWDA5elpFb3Q3RjFwVE5Fdjh3akhySnN1eV80b3JnQXROb0pLc21NRkFDZ2RRa1VpQmc2el9id0FGcHVIbnRSTWh4TzVSRk5uc2RLME1yYjJ4TW4tM0FYUUNtZ3htaFNfZ3V5RkNhRjZ4NU9EOA?oc=5",
         "publishedAt": "Tue, 13 Oct 2026 18:41:29 GMT",
@@ -3619,6 +3548,28 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
+        "title": "Nvidia Partner Navitas Unveils 24kW AI Power System Targeting 97% Efficiency - CryptoRank",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmpoallEM3dpZlItQXFScFZhRVl3UXBpamNQSk1iVVZNeGlIRmE5eUVBakZmdzdQODh6ZFliTGtQZUFTX0NCNklCLTk5NEQ2dVFGdWJoWWpOd1JnYTVXT0pINmp2NmkxMjVpZ3E1VW1nMWlqMVRMNDFOQllYVjdSanpfNGl3QWVLWlE1RDhVdGFWSjJLbUtpaUVpWlYzNGtPUUZXY0lSS1RBMVh5Q3JzMnBjbw?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 17:42:50 GMT",
+        "summary": "Nvidia Partner Navitas Unveils 24kW AI Power System Targeting 97% Efficiency &nbsp;&nbsp; CryptoRank",
+        "outlet": "CryptoRank",
+        "outletUrl": "https://cryptorank.io",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 20
+      },
+      {
         "title": "You can now build your own Android apps with AI and install them through Google Play - Digital Trends",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnQ0cmFoWHlQcndXRUxLWWRsYXFKTjg4cUNqZnd4SnU2Vk9ER283OHByelFOaTk0TXd6ZGN6eHg0QmlTY2w1QjdldE5EVktZMUZlMkZWQXBHd0JyYnN5cU0zTzBYUGZ0bGRqWkxveXp0SGxYNjFHa21rc0VmdFBhSHZadmhUVE5LWG5zdGF3a0tuRzdpRmlCS3ZibThsc2RjalAzVXBfUHFKMklvN0l0ZC1zYw?oc=5",
         "publishedAt": "Tue, 13 Oct 2026 17:41:32 GMT",
@@ -3691,6 +3642,28 @@ window.__DASHBOARD_DATA__ = {
         "summary": "Google opens Play Store to privately listed AI-built apps &nbsp;&nbsp; TradingView",
         "outlet": "TradingView",
         "outletUrl": "https://www.tradingview.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 20
+      },
+      {
+        "title": "Google Gemini 4 Argon rollout begins: Price, features and how to get the AI that's 'built to solve your ha - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNOFI4NGFmRWIyVmhFdHhTNkxZMW9Qc3R3QVA2MEpnU1lMWXVRaXFoNFlvUEZHcVhidmNleU9pOWhTLTJBWWt4N043ckJIQnY1VXlieHV2NGhVOW0tU2FLdk80dEFER0xHc2Z3c1BpU0VjbHMwb2l5ZkJ3THN6VFpSUWRod0N5VHlKRHQwamV6WFdWMlpuc25MQlVORkFYR2c1WWVDNHdDUE9GbWtDOW9pdnQ4VmpQVlcwbVQwOVJmUXpxZWt0UDJFbmxHTDV4MEc5ZXNwQUNlWnNxMEc5bVFleW9pR21FZ2loMWh1cDNlRHNzM3A1emJmRGpZRlg0TmEyOVRQNjVjaXFqOVIyUXNUd0lIb1p5VVc3Nk1kbG0yUnZITlnSAagCQVVfeXFMTVFuMy1jbWxlRUtvTTFBNzJST2ttWmJyUG93bGthelJvTWtNYlRzMUUxeXY4bHNfSG90dk8wVkZpVGxZQXcwLVhmeGxSc19GX0s2dHFTZ2RPdzFfWkp6YV9MbHNqSkk1a2pqUmlTRzBXOURURC0zVUFZYWpMcDBvZ0dCcnFMek9iU1NBYTZxbExBOVdLRWxLODhFYnVHcXVnYWI5Y1VGX2hmbk1YYjVxa21URnJjYV9QMWRhd0xzR3MtMUVzR0hqaGJVVFEta0dyX1BwQU95Yk5WUVdFeTI2blhoQ3BJSDVrSzgyVXBvcDNrSmo5c1FUcUJfcmlMQ1F4MmpFMmRmaVF0LTZ2MjVKQ0psbTlndXRmV1ZqZVN1M0Vidm5HNGVRTF8?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 17:27:12 GMT",
+        "summary": "Google Gemini 4 Argon rollout begins: Price, features and how to get the AI that's 'built to solve your ha &nbsp;&nbsp; The Economic Times",
+        "outlet": "The Economic Times",
+        "outletUrl": "https://m.economictimes.com",
         "source": "Google AI 이슈",
         "sourceIds": [
           "google-ai"
@@ -3929,34 +3902,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
-        "title": "You Can Turn Off AI on Your Google Account, but at a Cost. Here’s What You Lose. - CNET",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNXy1nWUpEM0tfUmhQNjRfZG1NY0Z2Mk1udGxwMzdpaHlhS1NkNnFuMDBuZUVRQXlPcldaZGNoWWhQZHdnTEoyOFBnXzZFaFA4Y0xDRTdKS0VQdlVmN2wyQVFhZnVPYnpfUXFQdlQyaHk4V2tKY1l1aFF3VDBhVmt6M0x2WVdNb0pxamF0MldDVXoyM1pHeGVXem9aOUVYQ2NHZ29Gd29zV1BORG5vNmgxanI2WGJjUGhqM3RpcU9pNjBiQQ?oc=5",
-        "publishedAt": "Tue, 13 Oct 2026 16:49:00 GMT",
-        "summary": "You Can Turn Off AI on Your Google Account, but at a Cost. Here’s What You Lose. &nbsp;&nbsp; CNET",
-        "outlet": "CNET",
-        "outletUrl": "https://www.cnet.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 20
-      },
-      {
-        "title": "Google opens Gemini 4 Argon AI model to developers and businesses worldwide (GOOGL:NASDAQ) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0p0bE5rOTBCYXZSWmtrV1JERGZvSGM4TU9RVS1ZazkzdzZSUHNBZUt0Nkdad0E1RVA1aHVMdUNzb1RlNDdvREplNERKeE5uT3FhRnJ3Qk1KUi1QQzdqMXdaOVFLQmtPc2RlVkJJQkJXV2ltcGkwMm1KYi1MT1dvcFZjLW9nbUw0VGhNWm5UU2NFd3p0QTczUkZHOEp3b2FiNW5jci1yVjJYeWw4bnNEbTdFSQ?oc=5",
+        "title": "Google opens Gemini 4 Argon AI model to developers and businesses worldwide - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQazBuZVktU0ZKRHFXcFFqVmFSdWFCX3RVSGNjRVpfYmJyTGZlcGI3VDFINUtaV2hUeWpKbl95bklhNy16Y0dKWXBSeWZoNnYxVGV2T1NmMldQVjVFRjRkdHY3dG1SVHJqeWVocmEtcjY3RmNwVWZUMk1mYUJVQ1hWRUpEaFNVNEcyRkZ5aHRDUjdQR2dKdmlmSzY2d2Zza3drUzRZRWd0NUVqUzVSdlVXekItbFVIenBvVUFzUXRwdkNjcjN5T3NOWnRpRDJUcDJ2YVpzQw?oc=5",
         "publishedAt": "Tue, 13 Oct 2026 16:41:54 GMT",
-        "summary": "Google opens Gemini 4 Argon AI model to developers and businesses worldwide (GOOGL:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
-        "outlet": "Seeking Alpha",
-        "outletUrl": "https://seekingalpha.com",
+        "summary": "Google opens Gemini 4 Argon AI model to developers and businesses worldwide &nbsp;&nbsp; TradingView",
+        "outlet": "TradingView",
+        "outletUrl": "https://www.tradingview.com",
         "source": "Google AI 이슈",
         "sourceIds": [
           "google-ai"
@@ -4061,12 +4012,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
-        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites - TechCrunch",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTHpCcjNpN2RBZjB4X0hMYnZzWnlVTVJBbzRlSUkyLTQ1QVM0a2RBMzZoUXl6WHZlcnNjN1AtQTJwcmt2NEl5SGU0dmZaemlqZjhxWnVXekFiTlRxVm5KQ0x4ek9CajZna3ZXZ1BQdHR0UE5UR3Q1LTJQSDM1LUpiMVBEemJjeGYyUW5PeGtEUzJpRWFwb0lmM21mQl90VW51U3gyY29xSTFBT2NDS241VEt6d0s4UjBrMnBYY2RReXozUmllbG9wWA?oc=5",
-        "publishedAt": "Tue, 13 Oct 2026 16:30:00 GMT",
-        "summary": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites &nbsp;&nbsp; TechCrunch",
-        "outlet": "TechCrunch",
-        "outletUrl": "https://techcrunch.com",
+        "title": "You can now use Gemini Argon 4 on the web, and it's Google's most powerful LLM yet - XDA",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeUtWV1RPS2R0Tzd5ZUkzak5TZThJenBUeks3dU5TZC1QTmczeU9oUnpUODNhUlFFQWdEbGI4S1RqSVVUTTlCbDQ0RTRxcm10a2hQc3FsdWpJV25Rc3dwS2VMVmQ1MUZMTkptOWNQVVFxZnBVVm5Fam95dENsc0FQdzZ0WV9hcnhTMllYend6V3o5N3IwOGhoQ29QbXB3NkluTnQzRFI3STRHV1Y3Q2N2Wg?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 16:19:57 GMT",
+        "summary": "You can now use Gemini Argon 4 on the web, and it's Google's most powerful LLM yet &nbsp;&nbsp; XDA",
+        "outlet": "XDA",
+        "outletUrl": "https://www.xda-developers.com",
         "source": "Google AI 이슈",
         "sourceIds": [
           "google-ai"
@@ -4083,12 +4034,56 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
-        "title": "You can now use Gemini Argon 4 on the web, and it's Google's most powerful LLM yet - XDA",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeUtWV1RPS2R0Tzd5ZUkzak5TZThJenBUeks3dU5TZC1QTmczeU9oUnpUODNhUlFFQWdEbGI4S1RqSVVUTTlCbDQ0RTRxcm10a2hQc3FsdWpJV25Rc3dwS2VMVmQ1MUZMTkptOWNQVVFxZnBVVm5Fam95dENsc0FQdzZ0WV9hcnhTMllYend6V3o5N3IwOGhoQ29QbXB3NkluTnQzRFI3STRHV1Y3Q2N2Wg?oc=5",
-        "publishedAt": "Tue, 13 Oct 2026 16:19:57 GMT",
-        "summary": "You can now use Gemini Argon 4 on the web, and it's Google's most powerful LLM yet &nbsp;&nbsp; XDA",
-        "outlet": "XDA",
-        "outletUrl": "https://www.xda-developers.com",
+        "title": "Alphabet Could Unlock $100 Billion From AI Chips by 2028, Analyst Says - Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXNKVjBoTVlPTmt2WDRpZjVzVF9LbzZqNnVCZ1N3T1AzTWxLZVRKTUg5UTJMbkdBYVdGb3hsdFlWNzV0UXhuQzFXdG9oV1RWYjJ0WGVPanlLNEEzTzJjQmZRYkthWjh4Z19QZ1RxTjdxR3RqVXRNZnRLbHpXY0VnRDJ1aDhwWW9xVk5sVVR5Y1owMC1LeGVQdHI5SWhKbXZIZWlYeU9jYWVIellFU2xrSzdCZ2JfUUdtNVluQU1R?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 16:16:13 GMT",
+        "summary": "Alphabet Could Unlock $100 Billion From AI Chips by 2028, Analyst Says &nbsp;&nbsp; Benzinga",
+        "outlet": "Benzinga",
+        "outletUrl": "https://www.benzinga.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 20
+      },
+      {
+        "title": "Gemini 4 Argon In Google Search Via AI Mode - Search Engine Roundtable",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10Q3VzR3EyLUpfZzVOT3hyLW5zUlRIb3ZSN2FfLXVGZ1ZFYzNldjJnVUU3OXFNTjFVSGlaanpCNEFaZXNfTGpyb3lZWFlLNDV3QVlsTmlhdk5jbW4zM0pNQ1lURjVIcHcxY2JPTFZPQm1OVlpTdDRoVw?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 16:13:00 GMT",
+        "summary": "Gemini 4 Argon In Google Search Via AI Mode &nbsp;&nbsp; Search Engine Roundtable",
+        "outlet": "Search Engine Roundtable",
+        "outletUrl": "https://www.seroundtable.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 20
+      },
+      {
+        "title": "Google launches Gemini 4 Argon AI model for developers and consumers - StreetInsider",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVHpSY2RCRTNJYmdQMjNiUjBVaFFlMVB3eUVGcGxvcGZHeDBzNWs4WjI4cUdBakFZYVE3Nl81X0F6cFR4SmZvY01SY2I1WUNwSkNrVTBWdTlNRjlIVUpEdkpZZDdaMWl3cFhZMmZYb0c4aUdnaG5oT1Q1V2RiRXd6ejIzZFVzeDlSVnNuSlYzR01ZQmpSZmVBMnhDUkI2WmpWUExKMHpjMTM2Y1NrdVg3WHlscEdMaUhQZllMWER0Y1Jma0p6MXc?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 16:10:58 GMT",
+        "summary": "Google launches Gemini 4 Argon AI model for developers and consumers &nbsp;&nbsp; StreetInsider",
+        "outlet": "StreetInsider",
+        "outletUrl": "https://www.streetinsider.com",
         "source": "Google AI 이슈",
         "sourceIds": [
           "google-ai"
@@ -4113,11 +4108,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "NVDA",
         "name": "NVIDIA",
         "market": "US",
-        "price": 227.93,
+        "price": 228.005,
         "currency": "USD",
-        "changePct": 4.416143662100882,
+        "changePct": 4.4505016262769725,
         "previousClose": 218.29,
-        "marketTime": "2026-10-13T19:31:50.000Z",
+        "marketTime": "2026-10-13T19:50:26.000Z",
         "closes": [
           210.9600067138672,
           212.1699981689453,
@@ -4140,7 +4135,7 @@ window.__DASHBOARD_DATA__ = {
           230.47999572753906,
           229.27999877929688,
           226.32000732421875,
-          227.92999267578125
+          228.0050048828125
         ],
         "candles": [
           {
@@ -4293,9 +4288,9 @@ window.__DASHBOARD_DATA__ = {
           {
             "date": "2026-10-13T13:30:00.000Z",
             "open": 224.27000427246094,
-            "high": 228,
+            "high": 228.10000610351562,
             "low": 223.06019592285156,
-            "close": 227.92999267578125
+            "close": 228.0050048828125
           }
         ]
       },
@@ -4303,11 +4298,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "GOOGL",
         "name": "Alphabet",
         "market": "US",
-        "price": 354.59,
+        "price": 354.27,
         "currency": "USD",
-        "changePct": 4.753323485967496,
+        "changePct": 4.658788774002949,
         "previousClose": 338.5,
-        "marketTime": "2026-10-13T19:31:50.000Z",
+        "marketTime": "2026-10-13T19:50:26.000Z",
         "closes": [
           349.3900146484375,
           344.9800109863281,
@@ -4330,7 +4325,7 @@ window.__DASHBOARD_DATA__ = {
           348.2900085449219,
           351.6600036621094,
           352.7200012207031,
-          354.5899963378906
+          354.2699890136719
         ],
         "candles": [
           {
@@ -4485,7 +4480,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 356.29998779296875,
             "high": 358.5799865722656,
             "low": 351.6000061035156,
-            "close": 354.5899963378906
+            "close": 354.2699890136719
           }
         ]
       },
@@ -4493,11 +4488,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "AMD",
         "name": "AMD",
         "market": "US",
-        "price": 600.96,
+        "price": 602.98,
         "currency": "USD",
-        "changePct": 16.435781682909354,
+        "changePct": 16.827155949082602,
         "previousClose": 516.13,
-        "marketTime": "2026-10-13T19:31:50.000Z",
+        "marketTime": "2026-10-13T19:50:27.000Z",
         "closes": [
           493.4100036621094,
           504.20001220703125,
@@ -4520,7 +4515,7 @@ window.__DASHBOARD_DATA__ = {
           620.6799926757812,
           608.0999755859375,
           594.239990234375,
-          600.9600219726562
+          602.97998046875
         ],
         "candles": [
           {
@@ -4673,9 +4668,9 @@ window.__DASHBOARD_DATA__ = {
           {
             "date": "2026-10-13T13:30:00.000Z",
             "open": 577.4959716796875,
-            "high": 601.489990234375,
+            "high": 603.1279907226562,
             "low": 570.5999755859375,
-            "close": 600.9600219726562
+            "close": 602.97998046875
           }
         ]
       },
@@ -4683,11 +4678,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "AVGO",
         "name": "Broadcom",
         "market": "US",
-        "price": 358.93,
+        "price": 357.91,
         "currency": "USD",
-        "changePct": -0.8453272189839505,
+        "changePct": -1.127102958645262,
         "previousClose": 361.99,
-        "marketTime": "2026-10-13T19:31:50.000Z",
+        "marketTime": "2026-10-13T19:50:27.000Z",
         "closes": [
           344.7200012207031,
           339.2699890136719,
@@ -4710,7 +4705,7 @@ window.__DASHBOARD_DATA__ = {
           360.1400146484375,
           361.5400085449219,
           354.7300109863281,
-          358.92999267578125
+          357.9100036621094
         ],
         "candles": [
           {
@@ -4863,9 +4858,9 @@ window.__DASHBOARD_DATA__ = {
           {
             "date": "2026-10-13T13:30:00.000Z",
             "open": 349.20001220703125,
-            "high": 358.9599914550781,
+            "high": 359.239990234375,
             "low": 348.110107421875,
-            "close": 358.92999267578125
+            "close": 357.9100036621094
           }
         ]
       },
@@ -4873,11 +4868,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "TSM",
         "name": "TSMC ADR",
         "market": "US",
-        "price": 444.005,
+        "price": 444.65,
         "currency": "USD",
-        "changePct": 2.484765949589139,
+        "changePct": 2.6336441695134263,
         "previousClose": 433.24,
-        "marketTime": "2026-10-13T19:31:48.000Z",
+        "marketTime": "2026-10-13T19:50:27.000Z",
         "closes": [
           418.010009765625,
           413.75,
@@ -4900,7 +4895,7 @@ window.__DASHBOARD_DATA__ = {
           457.989990234375,
           453.30999755859375,
           444.3500061035156,
-          444.0050048828125
+          444.6499938964844
         ],
         "candles": [
           {
@@ -5053,9 +5048,9 @@ window.__DASHBOARD_DATA__ = {
           {
             "date": "2026-10-13T13:30:00.000Z",
             "open": 439.5150146484375,
-            "high": 444.9898986816406,
+            "high": 445.3599853515625,
             "low": 437.3999938964844,
-            "close": 444.0050048828125
+            "close": 444.6499938964844
           }
         ]
       },
@@ -5063,11 +5058,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "ARM",
         "name": "Arm",
         "market": "US",
-        "price": 254.82,
+        "price": 254.615,
         "currency": "USD",
-        "changePct": -3.7652479323237382,
+        "changePct": -3.842667774462786,
         "previousClose": 264.79,
-        "marketTime": "2026-10-13T19:31:50.000Z",
+        "marketTime": "2026-10-13T19:50:24.000Z",
         "closes": [
           239.00999450683594,
           241.8300018310547,
@@ -5090,7 +5085,7 @@ window.__DASHBOARD_DATA__ = {
           275.2900085449219,
           266.2799987792969,
           255.24000549316406,
-          254.82000732421875
+          254.61500549316406
         ],
         "candles": [
           {
@@ -5245,7 +5240,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 245.32000732421875,
             "high": 260.1499938964844,
             "low": 243.60060119628906,
-            "close": 254.82000732421875
+            "close": 254.61500549316406
           }
         ]
       },
@@ -5253,11 +5248,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "MU",
         "name": "Micron",
         "market": "US",
-        "price": 941.595,
+        "price": 945.44,
         "currency": "USD",
-        "changePct": -3.4519000061522016,
+        "changePct": -3.0576461661505587,
         "previousClose": 975.26,
-        "marketTime": "2026-10-13T19:31:50.000Z",
+        "marketTime": "2026-10-13T19:50:26.000Z",
         "closes": [
           924.030029296875,
           927.5999755859375,
@@ -5280,7 +5275,7 @@ window.__DASHBOARD_DATA__ = {
           1035.8399658203125,
           1029,
           989.0399780273438,
-          941.594970703125
+          945.4400024414062
         ],
         "candles": [
           {
@@ -5435,7 +5430,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 934.0700073242188,
             "high": 952.6209716796875,
             "low": 929.030029296875,
-            "close": 941.594970703125
+            "close": 945.4400024414062
           }
         ]
       },
@@ -5443,11 +5438,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "SMCI",
         "name": "Supermicro",
         "market": "US",
-        "price": 39.3,
+        "price": 39.145,
         "currency": "USD",
-        "changePct": -1.995012468827941,
+        "changePct": -2.3815461346633375,
         "previousClose": 40.1,
-        "marketTime": "2026-10-13T19:31:51.000Z",
+        "marketTime": "2026-10-13T19:50:27.000Z",
         "closes": [
           36.7400016784668,
           35.63999938964844,
@@ -5470,7 +5465,7 @@ window.__DASHBOARD_DATA__ = {
           42.77000045776367,
           41.86000061035156,
           39.97999954223633,
-          39.29999923706055
+          39.14500045776367
         ],
         "candles": [
           {
@@ -5625,7 +5620,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 38.654998779296875,
             "high": 39.47999954223633,
             "low": 38.4900016784668,
-            "close": 39.29999923706055
+            "close": 39.14500045776367
           }
         ]
       },
@@ -5950,11 +5945,11 @@ window.__DASHBOARD_DATA__ = {
       {
         "symbol": "^IXIC",
         "name": "Nasdaq Composite",
-        "price": 27213.549,
+        "price": 27207.91,
         "currency": "USD",
-        "changePct": 3.3437423100409145,
+        "changePct": 3.3223281474527777,
         "previousClose": 26333.04,
-        "marketTime": "2026-10-13T19:31:48.000Z",
+        "marketTime": "2026-10-13T19:50:25.000Z",
         "closes": [
           26186.41015625,
           25981.5703125,
@@ -5977,7 +5972,7 @@ window.__DASHBOARD_DATA__ = {
           27193.33984375,
           27366.169921875,
           27245.900390625,
-          27213.548828125
+          27207.91015625
         ],
         "candles": [
           {
@@ -6132,18 +6127,18 @@ window.__DASHBOARD_DATA__ = {
             "open": 27138.728515625,
             "high": 27277.8828125,
             "low": 27116.080078125,
-            "close": 27213.548828125
+            "close": 27207.91015625
           }
         ]
       },
       {
         "symbol": "^SOX",
         "name": "PHLX Semiconductor",
-        "price": 12168.119,
+        "price": 12172.154,
         "currency": "USD",
-        "changePct": 2.9103433694181375,
+        "changePct": 2.9444688768606264,
         "previousClose": 11824,
-        "marketTime": "2026-10-13T19:31:49.000Z",
+        "marketTime": "2026-10-13T19:50:25.000Z",
         "closes": [
           11131.2802734375,
           11175.5498046875,
@@ -6166,7 +6161,7 @@ window.__DASHBOARD_DATA__ = {
           12623.7099609375,
           12572.419921875,
           12236.7900390625,
-          12168.119140625
+          12172.154296875
         ],
         "candles": [
           {
@@ -6319,20 +6314,20 @@ window.__DASHBOARD_DATA__ = {
           {
             "date": "2026-10-13T13:30:00.000Z",
             "open": 11959.53515625,
-            "high": 12173.09375,
+            "high": 12183.75,
             "low": 11861.2783203125,
-            "close": 12168.119140625
+            "close": 12172.154296875
           }
         ]
       },
       {
         "symbol": "^GSPC",
         "name": "S&P 500",
-        "price": 7809.53,
+        "price": 7809,
         "currency": "USD",
-        "changePct": 1.9922998362278626,
+        "changePct": 1.985378047219667,
         "previousClose": 7656.98,
-        "marketTime": "2026-10-13T19:31:51.000Z",
+        "marketTime": "2026-10-13T19:50:27.000Z",
         "closes": [
           7619.97998046875,
           7585.72998046875,
@@ -6355,7 +6350,7 @@ window.__DASHBOARD_DATA__ = {
           7765.35986328125,
           7811.5400390625,
           7807.240234375,
-          7809.52978515625
+          7809
         ],
         "candles": [
           {
@@ -6510,7 +6505,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 7795.27001953125,
             "high": 7814.14990234375,
             "low": 7786.10986328125,
-            "close": 7809.52978515625
+            "close": 7809
           }
         ]
       },
@@ -6813,13 +6808,13 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-10-13T19:31:51.967Z"
+    "generatedAt": "2026-10-13T19:50:28.364Z"
   },
   "briefing": {
     "date": "2026년 10월 14일 수요일",
     "summary": [
       "오늘의 최상위 이슈: 과기정통부, 피지컬 AI 투자 본격화…실증·연구개발에 1210억원 투입 - 아주경제",
-      "강한 기술·시장 신호: NPU 1, AI인프라 15, 데이터센터 13, 온디바이스AI 5, 추론 2",
+      "강한 기술·시장 신호: NPU 1, AI인프라 13, 데이터센터 13, 온디바이스AI 5, 추론 2",
       "주요 기업 신호: 딥엑스 1, 리벨리온 0, 퓨리오사AI 0, 하이퍼엑셀 0, 모빌린트 0"
     ],
     "leadArticles": [
@@ -7067,7 +7062,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI인프라",
-          15
+          13
         ],
         [
           "데이터센터",
@@ -7083,7 +7078,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI에이전트",
-          14
+          13
         ],
         [
           "파운드리·패키징",
@@ -7113,11 +7108,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          79
+          80
         ],
         [
           "Google",
-          47
+          46
         ],
         [
           "TSMC",
@@ -7224,7 +7219,7 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          91
+          90
         ],
         [
           "NPU",
