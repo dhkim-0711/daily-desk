@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-10-13T06:52:47.139Z",
+  "generatedAt": "2026-10-13T06:58:34.117Z",
   "news": {
     "articles": [
       {
@@ -307,6 +307,7 @@ window.__DASHBOARD_DATA__ = {
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy",
+          "msit-ai-chip",
           "ai-chip-public-program",
           "government-npu-policy"
         ],
@@ -399,6 +400,7 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "nipa-msit-policy",
           "government-npu-policy",
+          "npu-commercialization",
           "accelerator-software-ko"
         ],
         "sourceLang": "ko",
@@ -421,8 +423,7 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "korea-npu",
           "msit-ai-chip",
-          "ai-chip-public-program",
-          "npu-commercialization"
+          "ai-chip-public-program"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -1771,29 +1772,6 @@ window.__DASHBOARD_DATA__ = {
           "수출통제·공급망"
         ],
         "issueCategory": "수출통제·공급망",
-        "score": 23
-      },
-      {
-        "title": "\"생성형 AI에 커피 혜택까지\" KT, 구글과 맞춤형 구독팩 선봬 - 컨슈머타임스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jZ2hVbGxVUG1fVndkcmFsbDVtRVhGUlJWTHhiWDRiaHltZDgtRi15VjlNOWpvclBkLUpfbzRpZjkza2R1cUxmY2d6R3dxTExBeVNodzdnX3dLRDFIUHh5QTZQdjBWc1JyR0E?oc=5",
-        "publishedAt": "Tue, 13 Oct 2026 01:02:41 GMT",
-        "summary": "\"생성형 AI에 커피 혜택까지\" KT, 구글과 맞춤형 구독팩 선봬 &nbsp;&nbsp; 컨슈머타임스",
-        "outlet": "컨슈머타임스",
-        "outletUrl": "https://www.cstimes.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "Google"
-        ],
-        "issueCategory": "AI시장",
         "score": 23
       },
       {
@@ -3202,7 +3180,8 @@ window.__DASHBOARD_DATA__ = {
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy",
-          "government-npu-policy"
+          "government-npu-policy",
+          "npu-commercialization"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -3255,26 +3234,6 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "AI인프라",
-        "score": 21
-      },
-      {
-        "title": "원주시, 과학기술정보통신부 ‘2027년 스마트빌리지’ 공모 선정... 19.5억원 확보 - 보안뉴스",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUUmFzV1l4Rm90aXJOcGRNQk00RVRwcEZkaWpvR1ViQm9CSzROck9vMmVtTkozN2EzMWg2RTdianlXazBobnR2ZEJGdHRVTjQ1R1VhNkJKdDd3cXdwWXN5QlBscUpPcTYwN2k0?oc=5",
-        "publishedAt": "Mon, 12 Oct 2026 06:53:22 GMT",
-        "summary": "원주시, 과학기술정보통신부 ‘2027년 스마트빌리지’ 공모 선정... 19.5억원 확보 &nbsp;&nbsp; 보안뉴스",
-        "outlet": "보안뉴스",
-        "outletUrl": "https://www.boannews.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
         "score": 21
       },
       {
@@ -3463,6 +3422,29 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "NPU",
         "score": 21
+      },
+      {
+        "title": "엔비디아 中 AI 반도체 점유율 34%로 하락…화웨이 28%로 추격 - 조선비즈 - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUVh5UXFfV0g5Z1hWY3FFdm9Wbmw1QlhXLUFhLVRFZThtbjFBdVo3djFYV3lMeS1aMVQ5d3lseHRKSVdqWXpHVFFBdmNqVF9wSEZ3MVNPdlZINGRvWG1DY2hNeEIySE80NHRfVlp5UDA3eWR3SlFBMDdDM09wc0Qwc3l30gGWAUFVX3lxTFBIMG40NkdwYVYtNk5IME82Yms5alVTbEMyeGFnNjV6WDltQWtWLTZTZk5ld2VOMXUzTnJzeUxkMW1SYTZYbGV1SEZqTDVucGxCRW1BUXNwZFJzcHNFY2JGWmo1ejF0Qi1iWGtWenpIdnMtRld6RmRuWGx5N3FldW42OTNaZE40SldSQmZsNXhCZzBmMW1CZw?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 06:50:00 GMT",
+        "summary": "엔비디아 中 AI 반도체 점유율 34%로 하락…화웨이 28%로 추격 - 조선비즈 &nbsp;&nbsp; Chosunbiz",
+        "outlet": "Chosunbiz",
+        "outletUrl": "https://biz.chosun.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies",
+          "government-npu-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 20
       },
       {
         "title": "NVTS Stock Rises Overnight: Navitas Unveils 24 kW Nvidia AI Power Board Targeting 97% Efficiency - Stocktwits",
@@ -3819,28 +3801,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
-        "title": "Google’s new Fitbit Edge signals a shift towards AI health coaching and longer lasting wearables - Business Today",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZlE4T0gzd0lKYk9rTnNtd19qSTF3V3Y5SlpSamR3TG51eE1TX0gwYkt6eFBidTRXLWlGbENnZVhlcjQxQldaQkxOeWdSejhtX0F4RUZITkw5Y2oyZDc3Qi02dEItSXFGSkNPUndkdEc4VG5pTDhURGhWOFJzdUxrM2pWRnpjM3ZJbW53SFYwSXY1cU53cFg3dHB2QjhKamt1WmFlYkNoQlNpMXRkRXc1em9UdjFYYXgxTTMyUE1LR1pUOGZ5SVFuRzdtRkU1TG13MXB5eExOQk90SVZQSF9pQ2NpOEZvNFNHRmxDa3BKTExOMjFxZ28zQ1RpOWo?oc=5",
-        "publishedAt": "Tue, 13 Oct 2026 04:33:20 GMT",
-        "summary": "Google’s new Fitbit Edge signals a shift towards AI health coaching and longer lasting wearables &nbsp;&nbsp; Business Today",
-        "outlet": "Business Today",
-        "outletUrl": "https://www.businesstoday.in",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 20
-      },
-      {
         "title": "KT, Google AI 구독 상품 8종 출시… AI·생활 혜택 선택 폭 확대 - www.dhns.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBldF9FM0xxeU04X0t4WmVNWDdLWGk2eE9yOVktQ056bkRicXJfYzljMlRsWHpHbFQ0MXZNb3pWa2lmS1M5d1pkd3V0cTkzbk1XUzlUR1dHUTYwRXRFWnhtMFFpektHS0k?oc=5",
         "publishedAt": "Tue, 13 Oct 2026 04:33:00 GMT",
@@ -4126,6 +4086,50 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "Google",
+        "score": 20
+      },
+      {
+        "title": "Google Quantum AI Introduces Virtual Error Cancellation for Universal Logical Circuits - Quantum Computing Report",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2t3Qmt2dWpoNU96cURRYUp6VDFoNHBwbkk0OVdVNHlYQWhtc2R3eng4akFEQW9STFUtQUUyUURVY3dSbUxDWEQ3MXhUcDFDUndINW5tcEdqaGZBNnI5UHZETW9hb3poNEtkQWNCT3pjR0V3YktRMjBjSFZGQWFKMVdrcEJlNU9Od3hnV2g4MjRkaTJXQVFnOVBQTnBSQTZKWGVnQjlTTkV3TTVlZjdhaWctWm5pc0NHR3BKc181RdIBxAFBVV95cUxOd0tWN1J4aFVYbERaSzVYZHVmQ2plQmVoUVl4M2NTcTlBNGJVRWpDVFV5ZGpDWFFRZmpfVnNmTnRNMWRaUHI3QTF2Ni10ZGZjdUJfQW9MclgyOE1wRFdQNmFqVmYzMVFuLWhhSVYxbzJ3R01jSFlDYlo1VmVnLXlpaURoOWtkal8wUWxVM0hkSzlIXzU2Yko3S1dLVVJzd2x1Z0VxQjFobWY3TkNVdnVJa04ySVlabUFhVWFuOXJLNjM5ZlpC?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 03:08:48 GMT",
+        "summary": "Google Quantum AI Introduces Virtual Error Cancellation for Universal Logical Circuits &nbsp;&nbsp; Quantum Computing Report",
+        "outlet": "Quantum Computing Report",
+        "outletUrl": "https://quantumcomputingreport.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 20
+      },
+      {
+        "title": "엔비디아·XYZ 협력 ‘Physical AI 로보틱스 교육 과정’ 개강 - 물류신문",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DX2YwdzczcHJhY3ZrdUswNEtmLVBuTUk2WnpMTGpIdVBVWEY2RFpYbExnaTI4bnF5bUpyeFlFVTYzeFgwUHpDNmNBa2NsbmZhMzh3eER5dW5YcWRpeW0wYXVSX2RzRUV0RWdz?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 03:03:31 GMT",
+        "summary": "엔비디아·XYZ 협력 ‘Physical AI 로보틱스 교육 과정’ 개강 &nbsp;&nbsp; 물류신문",
+        "outlet": "물류신문",
+        "outletUrl": "https://www.klnews.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
         "score": 20
       }
     ],
@@ -6598,7 +6602,7 @@ window.__DASHBOARD_DATA__ = {
         "currency": "KRW",
         "changePct": 1.9972216806394993,
         "previousClose": 820.64,
-        "marketTime": "2026-10-13T06:32:40.000Z",
+        "marketTime": "2026-10-13T06:32:50.000Z",
         "closes": [
           806.7899780273438,
           812.4099731445312,
@@ -6749,7 +6753,7 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-10-13T06:52:44.908Z"
+    "generatedAt": "2026-10-13T06:58:31.923Z"
   },
   "briefing": {
     "date": "2026년 10월 13일 화요일",
@@ -7039,11 +7043,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          87
+          89
         ],
         [
           "Google",
-          45
+          44
         ],
         [
           "AMD",
@@ -7150,7 +7154,7 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          88
+          87
         ],
         [
           "NPU",
@@ -7158,7 +7162,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "정책",
-          6
+          5
         ],
         [
           "국내 기사",
