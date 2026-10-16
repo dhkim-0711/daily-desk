@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-10-16T16:57:09.011Z",
+  "updatedAt": "2026-10-16T17:22:10.137Z",
   "articles": [
     {
       "title": "Nvidia Tests AI on Chip Design and Gets a Reality Check - GuruFocus",
@@ -1841,9 +1841,11 @@
         "NVIDIA"
       ],
       "issueCategory": "AI에이전트",
-      "score": 23,
+      "score": 21,
       "firstSeenAt": "2026-10-14T17:58:43.781Z",
-      "lastSeenAt": "2026-10-16T16:57:09.011Z"
+      "lastSeenAt": "2026-10-16T17:22:10.137Z",
+      "fullSummary": "News Summary: NVIDIA introduces cuPotential, a new NVIDIA CUDA-X library developers can use to build AI agents that simulate how atoms and molecules interact, accelerating already GPU-optimized workflows by an additional 2-3x in early-access testing. NanoVDB, an open source library for working with 3D data, accelerates chipmaking simulation for AI-defined fabs, helping Lam Research achieve 30x faster simulation. NVIDIA NPP, a library for processing images on GPUs, accelerates chipmaking inspection for AI-defined fabs, helping KLA accelerate inspection. Applied Materials, Cadence, KLA, Lam Research, Siemens, Synopsys and other semiconductor leaders are using NVIDIA&rsquo;s accelerated computi...",
+      "summarySource": "article"
     },
     {
       "title": "How Investors Are Reacting To Airbnb (ABNB) AI Search Rollout - Simply Wall Street",
