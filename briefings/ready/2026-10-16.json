@@ -1,0 +1,393 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-16",
+  "cutoff_at": "2026-10-16T09:30:00+09:00",
+  "window_start": "2026-10-15T09:30:00+09:00",
+  "created_at": "2026-10-16T09:43:20+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1, 2],
+      "bullets": [
+        "베슬AI는 한국투자증권과 GPU 인프라 투자·금융 협력을 위한 업무협약을 맺고 전국 8개 거점과 2030년 GPU 20만장 확보 구상을 제시했으며, 국토교통부는 호남권 반도체 국가산단의 후보 부지를 광주 군공항 탄약고 이전 부지 중심으로 단계 공급하는 방안을 내놨습니다.",
+        "두 사안 모두 국내 AI 연산자원과 반도체 산업기반의 실행경로를 구체화하지만 각각 업무협약·투자계획과 부지 우선검토 단계이므로 자금조달 완료나 산단 지정·착공 성과와 구분해야 합니다."
+      ]
+    },
+    {
+      "article_numbers": [3, 4],
+      "bullets": [
+        "SK하이닉스는 중국 다롄 NAND 장비 반입 승인과 미국 신규 공장 검토를 연계해 협상 중이라는 보도가 나왔고, TSMC는 3분기 순이익 68.7% 증가와 함께 텍사스 투자·테라팹 협력 가능성을 검토하고 있다고 밝혔습니다.",
+        "AI용 저장장치와 첨단 파운드리 공급망이 수출허가·지역 분산·대규모 투자협상의 영향을 동시에 받고 있어 확정 투자와 협상 조건을 분리해 추적할 필요가 있습니다."
+      ]
+    },
+    {
+      "article_numbers": [5, 6],
+      "bullets": [
+        "독일 정부와 NVIDIA는 산업용 피지컬 AI 도구·고성능 산업모델 협력안을 준비 중인 것으로 보도됐고, NVIDIA는 반도체 설계·제조용 CUDA-X 라이브러리와 cuPotential을 공개했습니다.",
+        "가속기 경쟁이 칩 공급을 넘어 산업용 모델, 개발자 라이브러리와 제조공정 시뮬레이션 생태계로 넓어지고 있어 국산 칩 지원사업도 실제 워크로드·도구 호환성을 함께 점검할 필요가 있습니다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "베슬AI·한국투자증권, GPU 인프라 투자·금융 협력 MOU…전국 8개 거점 구상",
+      "category": "국내 AI 인프라·금융",
+      "collected_at": "2026-10-16T00:19:39.597Z",
+      "original_published_at": "2026-10-16T09:00:00+09:00",
+      "original_url": "https://mobile.newsis.com/view/NISX20261016_0003828363",
+      "event_id": "vessel-ai-korea-investment-securities-gpu-infrastructure-mou-2026-10-16",
+      "event_first_published_at": "2026-10-16T09:00:00+09:00",
+      "event_evidence_url": "https://mobile.newsis.com/view/NISX20261016_0003828363",
+      "selection_tier": "primary",
+      "main_points": [
+        "베슬AI는 10월15일 한국투자증권과 GPU 인프라 투자 확대와 금융 지원을 위한 업무협약을 맺었다. 한국투자증권은 투자구조와 자금조달을 지원하고, 베슬AI는 GPU 클라우드 구축·운영 경험을 제공하기로 했지만 조달액과 집행 일정이 확정된 계약은 아니다.",
+        "베슬AI는 별도 전략 발표에서 2030년까지 전국 8개 AI 데이터센터 거점과 GPU 20만장 확보, 해외 GPU 인프라 금융 4천억원 추진을 제시했다. 2026년 말 1만장, 2027년 5만장이라는 목표도 밝혔으나 이는 회사의 총 투자·확보 구상이며 현재 보유량이나 신규 확정예산을 뜻하지 않는다."
+      ],
+      "implications": [
+        "국내 AI 연산자원 확대가 단순 장비 구매에서 증권사의 프로젝트 금융과 GPU 클라우드 운영역량을 결합하는 구조로 이동하는 사례다. 향후 국산 NPU와 이기종 가속기가 이 인프라의 서비스·오케스트레이션 계층에 포함되는지가 국내 생태계의 실제 사업기회가 될 수 있다.",
+        "정책·사업 기획에서는 업무협약 이후 금융종결 여부, 거점별 전력·부지·GPU 발주, 이용률과 토큰당 비용을 단계별로 확인할 필요가 있다. 회사가 제시한 장수·매출 전망을 확보 실적이나 확정 수요로 간주해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "베슬AI, 한국투자증권과 손잡고 AI 반도체 인프라 투자 확대 추진",
+          "publisher": "뉴시스",
+          "published_at": "2026-10-16T09:00:00+09:00",
+          "url": "https://mobile.newsis.com/view/NISX20261016_0003828363",
+          "verification": "full_text",
+          "verified_at": "2026-10-16T09:42:00+09:00"
+        },
+        {
+          "title": "베슬AI, 2030년 GPU 20만장 확보…AI 데이터센터 8곳 구축",
+          "publisher": "연합뉴스",
+          "published_at": "2026-10-15T14:21:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261015110000017",
+          "verification": "full_text",
+          "verified_at": "2026-10-16T09:42:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "국토부, 호남 반도체산단 탄약고 이전 부지 우선검토…투자 일정 맞춰 단계 공급",
+      "category": "국내 반도체 산업기반·지역정책",
+      "collected_at": "2026-10-16T00:39:00Z",
+      "original_published_at": "2026-10-15T18:51:00+09:00",
+      "original_url": "https://www.news1.kr/realestate/general/6321722",
+      "event_id": "honam-semiconductor-cluster-ammunition-depot-phased-land-supply-2026-10-15",
+      "event_first_published_at": "2026-10-15T18:51:00+09:00",
+      "event_evidence_url": "https://www.news1.kr/realestate/general/6321722",
+      "selection_tier": "primary",
+      "recency_evidence": "10월13일 산업부 현장점검 이후 10월15일 국토부가 광주 군공항 탄약고 이전 부지를 우선 검토하고 기업 투자 일정에 맞춰 단계 공급한다는 구체적 부지 실행방향을 새로 공개했다.",
+      "main_points": [
+        "국토교통부는 호남권 반도체 국가산단 후보지 가운데 광주 군공항 탄약고 이전 부지를 우선 검토하고, 기업 투자 일정에 맞춰 산단 부지를 단계적으로 공급하겠다고 밝혔다. 교통망과 정주여건 개선, 전력·용수 관계기관 협의도 병행할 계획이다.",
+        "이번 발표는 800조원 규모로 언급된 민간 투자구상을 지원하기 위한 부지 제공방향이며, 800조원이 산단 신규 정부예산으로 확정된 것은 아니다. 후보지 우선검토와 현장점검 단계로 국가산단 지정, 탄약고 이전 완료, 보상·착공이 확정된 상태도 아니다."
+      ],
+      "implications": [
+        "반도체 클러스터의 핵심 제약이 기업 유치 구호에서 군 시설 이전, 부지 공급순서, 전력·용수와 교통·정주 협의라는 실행과제로 이동했다. NPU를 직접 언급하지 않아도 설계·제조·데이터센터 생태계의 국내 투자 가능성을 좌우하는 기반정책 변화다.",
+        "후속 판단에서는 탄약고 이전 주체·재원·기한, 국가산단 지정 절차, 전력계통과 용수 확보, 입주기업의 실제 투자확약을 분리해 확인해야 한다. 10월13일 협의 착수 보도와 달리 이번에는 국토부의 부지 우선순위가 구체화됐다는 점이 새 사실이다."
+      ],
+      "sources": [
+        {
+          "title": "국토부, 800조 원 반도체 투자 맞춰 호남 산단 부지 공급 추진",
+          "publisher": "뉴스1",
+          "published_at": "2026-10-15T18:51:00+09:00",
+          "url": "https://www.news1.kr/realestate/general/6321722",
+          "verification": "full_text",
+          "verified_at": "2026-10-16T09:42:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "뉴스1 공개 페이지의 발행시각은 2026-10-15 18:51 KST로 10월16일 09:30 마감 전이며, 같은 날 국토부 현장점검을 다룬 복수의 동시 보도와 대조해 탄약고 이전 부지 우선검토·단계 공급·교통 및 전력·용수 협의라는 핵심 사실이 마감 전에 공개됐음을 확인했다. 마감 후 본문 수정으로 추가된 사실은 사용하지 않았다."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "SK하이닉스, 다롄 장비 반입 승인과 미국 NAND 공장 검토 연계 협상 보도",
+      "category": "메모리·글로벌 공급망",
+      "collected_at": "2026-10-16T00:40:46Z",
+      "original_published_at": "2026-10-15T11:02:00+09:00",
+      "original_url": "https://www.reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15/",
+      "event_id": "sk-hynix-dalian-equipment-license-us-nand-fab-negotiation-2026-10-15",
+      "event_first_published_at": "2026-10-15T11:02:00+09:00",
+      "event_evidence_url": "https://www.reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15/",
+      "selection_tier": "primary",
+      "main_points": [
+        "Reuters는 복수 소식통을 인용해 SK하이닉스가 중국 다롄 NAND 공장에 미국산 장비를 추가 반입할 수 있도록 승인을 요청하면서 미국 내 신규 NAND 공장 검토와 연계해 협상하고 있다고 보도했다. 다롄 생산은 AI·클라우드용 SSD 공급과 미국 투자 재원·가동 공백을 보완할 수 있다는 설명이지만 공장 위치·규모·투자 결정은 확정되지 않았다.",
+        "SK하이닉스는 미국 정부 승인 아래 다롄에 장비를 설치하고 있다고 밝혔으나 다롄 생산능력 확대를 요청했다는 내용은 부인했다. 미국 상무부는 논평하지 않았고 자회사 Solidigm도 답변하지 않아, 보도된 협상조건과 회사가 확인한 사실을 구분해야 한다."
+      ],
+      "implications": [
+        "AI 서버용 SSD 공급망이 중국 공장의 장비 수출허가와 미국 내 생산기지 투자협상에 동시에 묶이는 사례다. 허가 범위가 제한되면 국내 메모리 기업의 제품 전환·원가·공급유연성뿐 아니라 미국 공장 투자시점에도 영향을 줄 수 있다.",
+        "정책 판단에서는 미국 허가의 장비 범위와 유효기간, 다롄의 실제 증설 여부, 미국 공장 결정·인센티브를 각각 추적할 필요가 있다. 협상 보도를 확정된 조건부 투자나 중국 생산확대로 서술해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "SK Hynix conditions new US factory on more US chip equipment exports to China, sources say",
+          "publisher": "Reuters",
+          "published_at": "2026-10-15T11:02:00+09:00",
+          "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15/",
+          "verification": "full_text",
+          "verified_at": "2026-10-16T09:42:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Reuters 원문은 2026-10-15 02:02 UTC, 즉 11:02 KST에 공개돼 10월16일 09:30 마감 전에 존재했다. 원문의 소식통 인용, SK하이닉스의 부분 부인, 상무부·Solidigm의 무응답을 직접 대조했으며 마감 후 발견시각을 수집시각으로 그대로 기록했다."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "TSMC 3분기 순익 68.7% 증가…텍사스 투자·테라팹 협력 가능성 검토",
+      "category": "글로벌 파운드리·전략투자",
+      "collected_at": "2026-10-15T12:07:07.357Z",
+      "original_published_at": "2026-10-15T14:35:00+09:00",
+      "original_url": "https://www.reuters.com/world/asia-pacific/tsmc-q3-profit-jumps-69-record-beating-expectations-2026-10-15/",
+      "event_id": "tsmc-q3-2026-results-texas-terafab-talks-2026-10-15",
+      "event_first_published_at": "2026-10-15T14:35:00+09:00",
+      "event_evidence_url": "https://www.reuters.com/world/asia-pacific/tsmc-q3-profit-jumps-69-record-beating-expectations-2026-10-15/",
+      "selection_tier": "primary",
+      "recency_evidence": "10월9일 원고의 월매출 공개 이후 10월15일 실제 3분기 순이익·2나노 매출비중·연간 설비투자 전망과 텍사스 투자협의라는 새 사실이 발표됐다.",
+      "main_points": [
+        "TSMC의 2026년 3분기 매출은 1조4,944억 대만달러, 순이익은 7,630억6천만 대만달러로 전년 동기보다 각각 50.9%, 68.7% 늘었다. 2나노 공정은 웨이퍼 매출의 8%, 7나노 이하 첨단공정은 79%를 차지했고 회사는 2026년 설비투자 전망을 600억~640억달러로 제시했다.",
+        "TSMC는 텍사스 투자 가능성을 탐색하고 테라팹 복합단지와의 협력 가능성에 열려 있다고 밝혔지만 최종 결정은 없으며, 투자하더라도 TSMC가 팹을 운영해야 한다는 원칙을 제시했다. 이는 확정 공장계획이나 계약이 아니라 공급부족 대응을 위한 협의 단계다."
+      ],
+      "implications": [
+        "AI 가속기 수요가 첨단공정 매출과 설비투자를 동시에 끌어올리면서 파운드리 공급능력과 지역 분산이 경쟁의 핵심이 되고 있다. 2나노 매출비중의 초기 형성은 차세대 NPU·ASIC의 공정 접근성과 가격 협상에도 영향을 줄 수 있다.",
+        "국내 생태계는 TSMC의 미국 추가투자가 고객사 물량배분, 첨단패키징 연계와 리드타임에 미칠 영향을 점검할 필요가 있다. 실적 수치와 달리 텍사스·테라팹 구상은 협상 단계이므로 투자액·가동시기를 확정 사실로 사용해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "TSMC Q3 profit jumps 69% to record, beating expectations",
+          "publisher": "Reuters",
+          "published_at": "2026-10-15T14:35:00+09:00",
+          "url": "https://www.reuters.com/world/asia-pacific/tsmc-q3-profit-jumps-69-record-beating-expectations-2026-10-15/",
+          "verification": "full_text",
+          "verified_at": "2026-10-16T09:42:00+09:00"
+        },
+        {
+          "title": "TSMC Reports Third Quarter EPS of NT$29.43",
+          "publisher": "TSMC",
+          "published_at": "2026-10-15T14:36:00+09:00",
+          "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+          "verification": "public_primary",
+          "verified_at": "2026-10-16T09:42:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "독일·NVIDIA, 산업용 피지컬 AI 협력안 준비…수억유로 규모 보도",
+      "category": "글로벌 AI 가속기·산업협력",
+      "collected_at": "2026-10-15T17:21:11.131Z",
+      "original_published_at": "2026-10-16T01:29:00+09:00",
+      "original_url": "https://www.reuters.com/business/germany-plans-ai-cooperation-deal-with-nvidia-handelsblatt-says-2026-10-15/",
+      "event_id": "germany-nvidia-industrial-physical-ai-cooperation-plan-2026-10-16",
+      "event_first_published_at": "2026-10-16T01:29:00+09:00",
+      "event_evidence_url": "https://www.reuters.com/business/germany-plans-ai-cooperation-deal-with-nvidia-handelsblatt-says-2026-10-15/",
+      "selection_tier": "primary",
+      "main_points": [
+        "Reuters는 Handelsblatt를 인용해 독일 정부와 NVIDIA가 로봇·자율주행용 피지컬 AI 도구와 고성능 산업모델 개발을 포함한 협력안을 준비 중이라고 보도했다. 수억유로 규모로 예상되며 독일의 주권형 오픈소스 기반모델 SOOFI와 연계될 수 있지만 공식 발표 전의 계획 단계다.",
+        "협력안은 다음 주 베를린 투자회의에서 발표될 가능성이 있다고 전해졌으나 독일 정부는 논평하지 않았다. 따라서 투자액, 정부 부담, 참여기업과 집행일정이 확정된 계약으로 볼 수 없다."
+      ],
+      "implications": [
+        "글로벌 가속기 기업과 정부의 협력이 범용 연산장비 공급에서 산업용 모델·로봇 도구·주권형 오픈소스 생태계로 확장되고 있다. 이는 자체 칩뿐 아니라 개발자 도구와 전환역량을 함께 확보하려는 국가·기업 경쟁을 보여준다.",
+        "국내 피지컬 AI·NPU 사업도 가속기 조달량보다 제조·로봇 워크로드, 모델 공개범위와 개발도구 이전이 실제로 남는 구조인지 비교할 필요가 있다. 공식 발표 전 보도이므로 계약 체결이나 예산 집행 성과로 인용해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "Germany plans AI cooperation deal with Nvidia, Handelsblatt says",
+          "publisher": "Reuters",
+          "published_at": "2026-10-16T01:29:00+09:00",
+          "url": "https://www.reuters.com/business/germany-plans-ai-cooperation-deal-with-nvidia-handelsblatt-says-2026-10-15/",
+          "verification": "full_text",
+          "verified_at": "2026-10-16T09:42:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "NVIDIA, 반도체 제조용 CUDA-X·cuPotential 공개…설계·공정 AI 생태계 확대",
+      "category": "운영 SW·반도체 제조",
+      "collected_at": "2026-10-14T17:58:43.781Z",
+      "original_published_at": "2026-10-15T01:10:00+09:00",
+      "original_url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
+      "event_id": "nvidia-cudax-cupotential-ai-defined-semiconductor-fabs-2026-10-15",
+      "event_first_published_at": "2026-10-15T01:10:00+09:00",
+      "event_evidence_url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
+      "selection_tier": "supplement",
+      "main_points": [
+        "NVIDIA는 원자·분자 상호작용을 시뮬레이션하는 AI 에이전트 개발용 CUDA-X 라이브러리 cuPotential과 3차원 공정 데이터를 처리하는 오픈소스 NanoVDB 활용을 공개했다. 초기 접근 시험에서 cuPotential은 추가로 2~3배 가속됐다고 회사가 설명했으나 독립 벤치마크는 아니다.",
+        "Applied Materials, Cadence, KLA, Lam Research, Siemens, Synopsys가 설계·제조·검사 워크플로에 관련 라이브러리를 적용하고 있으며 Lam은 NanoVDB 기반 공정 시뮬레이션이 30배 빨라졌다고 밝혔다. 이는 칩 제품 출시보다 반도체 제조 소프트웨어와 개발자 생태계 확장에 해당한다."
+      ],
+      "implications": [
+        "AI 반도체 경쟁이 설계 EDA와 장비 시뮬레이션·검사까지 CUDA-X 중심으로 수직 통합되는 흐름이다. 가속기 전환비용은 칩 성능뿐 아니라 제조 도구와 라이브러리 호환성에서 커질 수 있다.",
+        "국내 사업에서는 국산 NPU의 제조·과학 워크로드 적용 가능성과 CUDA 의존 코드를 전환할 커널·컴파일러·검증도구를 함께 살펴볼 필요가 있다. 공급사 자체 시험 수치는 동일 조건의 독립 검증과 실제 팹 운영성과로 후속 확인해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
+          "publisher": "NVIDIA Newsroom",
+          "published_at": "2026-10-15T01:10:00+09:00",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
+          "verification": "public_primary",
+          "verified_at": "2026-10-16T09:42:00+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "candidate_counts": {
+      "discovered": 4637,
+      "time_eligible": 2945,
+      "independent_events": 14,
+      "verified": 12,
+      "selected": 6,
+      "basis": "최신 mail/candidates.py가 docs/data/archive/index.json의 2026-10월 parts 전체에서 마감 전 72시간부터 작성 시점까지 4,637건, 마감 전 48시간 발행 조건에 맞는 2,945건을 집계했다. 아카이브와 직접 보완 검색에서 국내 연산인프라 금융·호남 산단·SK하이닉스 수출허가 협상·TSMC 실적과 투자협의·독일-NVIDIA 산업협력·CUDA-X 제조생태계를 포함한 14개 고관련 독립 사건을 비교했고, 공개 원문을 충분히 확인한 선정 6건과 제외 6건 등 12건을 검증했다. collection의 최신 실제 완료는 2026-10-16 09:19:36 KST였고 45개 출처가 모두 ok였으나 09:20·09:27 완료 기록은 없어 다섯 영역 직접 보완 검색으로 수집 공백을 점검했다."
+    },
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "전체 아카이브와 리벨리온·퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀·망고부스트·디노티시아 공개자료에서 고객검증·유상 PoC·제품통합·양산·반복구매·해외협력·K-Perf를 확인했다. 이번 구간에 공개본문으로 검증 가능한 신규 국산 NPU 고객계약·유상 PoC·반복구매는 확인되지 않았다. 베슬AI 금융협력은 이기종 연산자원 사업기회로 선정했지만 국산 NPU 채택이 확정된 것으로 쓰지 않았다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP와 중앙부처, 지자체·지방의회·테크노파크의 NPU 정책·실증·조달·예산·GPU/NPU 지원사업 집행과 K-Perf 수요연계를 확인했다. 국토부가 호남 산단의 탄약고 이전 부지를 우선 검토하고 기업 일정에 맞춘 단계 공급, 교통·정주·전력·용수 협의를 제시한 사실을 선정했다. 800조원은 민간 투자구상이고 부지 지정·이전·예산·착공이 확정되지 않았음을 반영했으며, 신규 GPU/NPU 배정·활용실적은 확인되지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google·Microsoft·TPU·ASIC의 제품·공급제약과 자체 칩·소프트웨어·개발자 생태계 확보를 위한 인수·제휴를 검색했다. TSMC 실적과 텍사스·테라팹 협의, 독일-NVIDIA 산업용 AI 협력계획을 선정했다. ByteDance-MediaTek 데이터센터칩 공급협상은 Reuters가 독립 확인하지 못했고 세부조건이 부족해 제외했으며, 확정 계약 전 협상도 비교 대상에는 포함했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·vLLM·SGLang·커널·런타임·GPU/NPU 오케스트레이션·하드웨어 연계 보안과 개발자 생태계를 확인했다. 베슬AI의 GPU 클라우드 운영·토큰 기반 추론구상과 NVIDIA cuPotential·NanoVDB·CUDA-X 제조 도구를 비교해 선정했다. 이번 구간에 공개본문으로 검증 가능한 신규 ROCm 상용배치나 국산 NPU 운영성과는 확인되지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·HBF·CXL·첨단패키징·광인터커넥트, SSD와 데이터센터 전력·냉각, 클러스터 부지·전력·용수·인허가를 확인했다. SK하이닉스 다롄 장비허가와 미국 NAND 공장 협상, TSMC 2나노 매출비중·설비투자, 호남 산단 부지 실행방향을 선정했다. 9MW 데이터센터 규제회피 보도는 핵심 사실이 10월6일과 11일에 이미 공개돼 신규 사건으로 보지 않았다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "GPU 인프라 확대가 증권사의 금융구조와 클라우드 운영역량을 결합하는 구체적 국내 협력으로, 연산자원 지원사업과 이기종 가속기 판로를 판단하는 데 직접 관련된다."},
+      {"article_number": 2, "reason": "전일의 포괄적 현장협의에서 한 단계 나아가 군 탄약고 이전 부지 우선검토와 단계 공급이라는 산업기반 실행방향이 공개돼 클러스터 정책의 실제 병목을 보여준다."},
+      {"article_number": 3, "reason": "AI용 SSD 공급망과 중국 장비 수출허가, 미국 신규 공장 검토가 연계된 협상으로 국내 메모리 기업의 생산전환·지역분산 전략에 중요한 변화다."},
+      {"article_number": 4, "reason": "확정된 분기실적·2나노 비중·설비투자 전망과 텍사스 협의를 함께 보여줘 첨단 파운드리 공급능력과 전략적 지역분산을 판단할 수 있다."},
+      {"article_number": 5, "reason": "정부와 글로벌 가속기 기업이 산업모델·피지컬 AI·오픈소스 생태계를 묶어 준비하는 협력으로, 칩과 소프트웨어 전환역량을 함께 확보하는 경쟁 변화를 보여준다."},
+      {"article_number": 6, "reason": "반도체 제조 전 과정에서 CUDA-X 라이브러리와 개발자 도구의 지배력이 확대되는 변화로, 국산 칩의 소프트웨어 호환성과 제조·과학 워크로드 전략에 중요하다."}
+    ],
+    "excluded": [
+      {
+        "title": "9MW 데이터센터로 10MW 규제 회피…관련 시설 64곳 중 52곳 9MW급",
+        "url": "https://www.investchosun.com/site/data/html_dir/2026/10/16/2026101680021.html",
+        "reason": "10월16일 기사지만 핵심 9MW 분할개발과 64곳 중 52곳 수치는 10월6일 및 11일 보도에서 이미 공개된 사실로 신규 사건이 아니었다."
+      },
+      {
+        "title": "딥엑스, 라즈베리파이용 초저전력 AI 가속기 공개",
+        "url": "https://deepx.ai/",
+        "reason": "공식 최초 공개가 10월5일로 48시간 범위를 벗어났고 이번 구간에 고객계약·양산·반복구매의 새 사실이 확인되지 않았다."
+      },
+      {
+        "title": "산업부, 충청권 반도체 클러스터 지원 TF 4차 회의",
+        "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156785273&pWise=mSub&pWiseSub=C1",
+        "reason": "392조원 민간 투자계획과 인허가·전력·용수 지원방향을 재확인했지만 이번 회의에서 해결된 병목, 신규 예산·일정·입주계약이 구체적으로 확인되지 않아 호남 부지 우선검토보다 후순위로 뒀다."
+      },
+      {
+        "title": "ByteDance nears data-centre chip supply deal with MediaTek",
+        "url": "https://www.reuters.com/technology/bytedance-nears-chip-supply-deal-with-mediatek-data-centres-bloomberg-news-2026-10-15/",
+        "reason": "자체 AI칩·공급제휴 후보로 비교했으나 Reuters가 독립 확인하지 못했고 칩 사양·물량·계약상태의 공개 근거가 부족했다."
+      },
+      {
+        "title": "강릉 AI 데이터센터, 변압기 부족으로 전력 인프라 지연 우려",
+        "url": "https://www.reuters.com/",
+        "reason": "전력기반 후보로 검토했으나 핵심 사실의 최초 공개가 10월14일이고 이번 구간의 확정 공급계약·공정변경이라는 실질적 추가 사실이 부족했다."
+      },
+      {
+        "title": "HD현대·LG CNS, 제조 AI 전환 협력",
+        "url": "https://www.hd.com/",
+        "reason": "수요기업의 제조 AI 협력은 확인했으나 국산 반도체 제품통합·구매나 구체적 연산장비 도입이 공개되지 않아 이번 선정 후보보다 AI반도체 업무 관련성이 낮았다."
+      }
+    ],
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "한국투자증권과의 GPU 인프라 투자·금융 MOU가 10월16일 09:00 KST 처음 공개된 신규 협력 사건이다. 10월15일 공개된 8개 거점·GPU 20만장 구상은 계약이나 확보 성과가 아닌 계획으로 병기했다."
+      },
+      {
+        "article_number": 2,
+        "result": "material_update",
+        "previous_editions": ["2026-10-13"],
+        "new_fact": "국토부가 광주 군공항 탄약고 이전 부지를 우선 검토하고 기업 투자 일정에 맞춰 산단 부지를 단계 공급한다는 구체적 부지 실행방향을 공개했다.",
+        "evidence_url": "https://www.news1.kr/realestate/general/6321722",
+        "note": "10월13일 원고의 산업부 후보지 점검·부지·전력·용수 협의 착수와 같은 클러스터이지만, 국토부의 후보지 우선순위와 단계 공급방식이 새로 확인돼 후속 선정했다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "다롄 장비 수출허가 요청과 미국 NAND 공장 검토의 연계가 처음 보도된 협상 사건이며 회사의 부분 부인을 함께 기록했다."
+      },
+      {
+        "article_number": 4,
+        "result": "material_update",
+        "previous_editions": ["2026-10-09"],
+        "new_fact": "월매출 이후 실제 3분기 순이익 68.7% 증가, 2나노 매출비중 8%, 2026년 설비투자 600억~640억달러 전망과 텍사스·테라팹 협의가 공개됐다.",
+        "evidence_url": "https://www.reuters.com/world/asia-pacific/tsmc-q3-profit-jumps-69-record-beating-expectations-2026-10-15/",
+        "note": "10월9일 원고의 월매출과 중복되지 않는 분기실적·공정믹스·전략적 투자협의라는 실질적 새 사실로 선정했다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "독일 정부와 NVIDIA가 산업용 피지컬 AI·고성능 산업모델·SOOFI 연계를 포함한 협력안을 준비한다는 신규 보도이며 공식 발표 전 단계임을 반영했다."
+      },
+      {
+        "article_number": 6,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "cuPotential과 NanoVDB를 반도체 설계·공정·검사 파트너 생태계에 적용한다는 공식 발표가 48시간 보완구간에 처음 공개된 신규 제조 소프트웨어 사건이다."
+      }
+    ],
+    "history_review": {
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-15",
+      "checked_dates": ["2026-10-02", "2026-10-03", "2026-10-04", "2026-10-05", "2026-10-06", "2026-10-07", "2026-10-08", "2026-10-09", "2026-10-10", "2026-10-11", "2026-10-12", "2026-10-13", "2026-10-14", "2026-10-15"],
+      "note": "저장소에 존재하는 최근 14일 ready 원고를 제목·주요 사실·출처까지 읽고 사건 단위로 대조했다. 10월15일의 디노티시아·K-문샷·피지컬 AI·HBF·삼성-AMD CXL·구글 AI 네이티브 데이터센터·ASML, 10월14일의 정부 지원단·VKORE·Run:ai·중국 점유율·본딩·Navitas, 10월13일의 서남권 현장협의·Maia 300·AMD Helion·Amazon-Decart·Marvell CXL을 중복 검토했다. 기사 2와 4만 각각 부지 우선순위·단계 공급, 분기실적·2나노 비중·텍사스 협의라는 실질적 새 사실로 후속 선정했다."
+    },
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026-10-15 2026-10-16 국산 NPU 고객검증 유상 PoC 제품통합 양산 반복구매 해외협력 K-Perf 도입, 리벨리온 퓨리오사AI 딥엑스 모빌린트 하이퍼엑셀 망고부스트 디노티시아 공식",
+          "official_sources": "국내 NPU 기업 뉴스룸과 과기정통부·NIPA·IITP 공개자료를 확인하고 10월15일 디노티시아·피지컬 AI 보도와 최근 원고를 대조했다.",
+          "result": "이번 구간에 공개본문으로 검증 가능한 신규 유상 PoC·양산·반복구매·K-Perf 수요기관 도입은 확인되지 않았다. 베슬AI 금융협력은 국산 NPU 확정 채택이 아닌 연산인프라 사업기회로 한정해 선정했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr OR site:nipa.kr OR site:iitp.kr NPU AI반도체 실증 지원사업 배정 활용 2026 10월 15 16, 지자체 지방의회 테크노파크 반도체 국비 예산 조달 부지 전력 용수 인허가",
+          "official_sources": "국토부 현장점검 공개 보도 https://www.news1.kr/realestate/general/6321722 와 정책브리핑 충청권 지원 TF 자료 https://m.korea.kr/briefing/pressReleaseView.do?newsId=156785273&pWise=mSub&pWiseSub=C1 를 확인했다.",
+          "result": "호남 산단의 탄약고 이전 부지 우선검토·단계 공급을 선정했다. 충청권 TF는 신규 해결조치·예산·일정이 구체화되지 않아 제외했고, 신규 GPU/NPU 지원사업 배정·활용실적은 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "October 15 16 2026 AI accelerator GPU NPU TPU ASIC acquisition alliance own chip software developer ecosystem Korea cooperation",
+          "official_sources": "TSMC 3분기 공식자료 https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm 와 Reuters의 TSMC·독일-NVIDIA·ByteDance-MediaTek 공개본문을 확인했다.",
+          "result": "TSMC 실적·텍사스 협의와 독일-NVIDIA 계획을 선정했다. ByteDance-MediaTek 공급협상은 독립 확인과 공개 세부조건이 부족해 제외했으며, 확정 계약이 아니어도 전략적 협의 자체를 비교했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "October 15 16 2026 ROCm vLLM SGLang kernel runtime GPU NPU orchestration CUDA-X cuPotential developer ecosystem",
+          "official_sources": "NVIDIA 공식 발표 https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs 와 베슬AI 공개 보도 https://www.yna.co.kr/view/AKR20261015110000017 를 확인했다.",
+          "result": "반도체 제조용 cuPotential·NanoVDB 생태계와 베슬AI의 GPU 클라우드 운영계획을 반영했다. 신규 ROCm 상용배치와 국산 NPU 운영성과는 확인되지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026-10-15 2026-10-16 HBM HBF CXL NAND SSD advanced packaging interconnect AI data center power transformer cooling cluster land water permit",
+          "official_sources": "Reuters SK하이닉스 수출허가 협상 원문, TSMC 공식 분기자료, 호남 산단 공개본문을 확인하고 9MW 데이터센터와 강릉 변압기 후보의 최초 공개일을 대조했다.",
+          "result": "SK하이닉스 공급망 협상, TSMC 공정·투자, 호남 산단 부지 실행을 선정했다. 9MW 규제회피 수치와 강릉 변압기 문제는 기존 공개사실의 반복 또는 실질적 추가 사실 부족으로 제외했다."
+        }
+      },
+      "alternative_sources": "collection의 최신 완료가 09:19:36 KST에 그쳐 마감 직전 수집 완료를 확인할 수 없었다. 이에 Reuters 원문, TSMC·NVIDIA 공식자료, 국토부 관련 공개본문, 국내 기업·부처 뉴스룸을 직접 검색했다. 늦게 발견한 뉴스1과 Reuters 기사는 최초 공개시각·동시 보도·본문 상태를 대조해 cutoff_evidence를 기록했고, 검색 제목이나 RSS 요약만으로 주요 내용을 작성하지 않았다."
+    },
+    "count_reason": "전체 아카이브 4,637건과 마감 전 48시간 조건에 맞는 2,945건을 helper로 집계하고 최근 14일 원고와 사건 단위로 대조했다. 다섯 영역 보완 검색과 공식자료 확인에서 14개 고관련 독립 사건을 비교하고 공개 원문을 충분히 검증한 12개 중 6개를 선정했다. 국내 연산인프라 금융·산업기반·메모리 공급망·파운드리 투자·정부-글로벌기업 협력·제조 소프트웨어라는 서로 다른 판단축을 충족하는 6건이며 오래된 기사나 범용 AI 소식으로 수를 채우지 않았다.",
+    "company_overlap_review": "NVIDIA가 기사 5와 6에 두 번 등장하지만 기사 5는 독일 정부와의 산업용 모델·피지컬 AI 협력계획, 기사 6은 반도체 제조용 CUDA-X 개발자 도구의 공식 출시로 주체·근거·산업계층이 독립적이다. SK하이닉스·TSMC·베슬AI·국토부가 각각 공급망·파운드리·연산인프라 금융·산업기반을 다뤄 동일 기업집단의 유사 보도를 반복하지 않았다."
+  }
+}
