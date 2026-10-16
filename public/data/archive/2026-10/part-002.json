@@ -1,7 +1,183 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-10-16T04:40:54.562Z",
+  "updatedAt": "2026-10-16T04:49:51.248Z",
   "articles": [
+    {
+      "title": "고성능 AI칩 수요 폭증…TSMC 첨단공정·패키징 증설 속도 : 국제 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTcnhHOWktYUZnQ0FxLUxzUkVvZmNLYm5uZGJXOW4wcVk0emtNZ25tODFndHlvNUdEamZaYzJscXotVmJhREs3eGMzOA?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 01:31:00 GMT",
+      "summary": "고성능 AI칩 수요 폭증…TSMC 첨단공정·패키징 증설 속도 : 국제 &nbsp;&nbsp; 재경일보",
+      "outlet": "재경일보",
+      "outletUrl": "https://news.jkn.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "TSMC"
+      ],
+      "taxonomyHits": [
+        "파운드리·패키징"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-16T04:40:54.562Z",
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
+    },
+    {
+      "title": "[특징주] TS트릴리온, 2.3조 천안 AI 데이터센터 개발 참여.. '상한가' - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWG9DV0FfUTVXSjRUU1BMd2llQTVPSy03YUJnM0RtTlNKM1FORjRwV1BzczdQM0Zua1NhZ2xDZl96Nmw5Sk1hNUVOT0tzTUZhdzJ2TUxRdzk4SzdZQlBlUTFiVW1mb2QyaWttdGtzUlpsaFBnRS0tN0dHbFgzTE04ekUwWDZXSmZY?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 01:30:24 GMT",
+      "summary": "[특징주] TS트릴리온, 2.3조 천안 AI 데이터센터 개발 참여.. '상한가' &nbsp;&nbsp; 글로벌이코노믹",
+      "outlet": "글로벌이코노믹",
+      "outletUrl": "https://www.g-enews.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-16T04:40:54.562Z",
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
+    },
+    {
+      "title": "IBM Field CTO Tyler Lynch Calls for Tailored AI Agent Safeguards - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TSkpHZ1RQVy0zTjdxcmJLbnFTc3VpdzdkSGdOSlhCc2NsVDhNWHdYdlF1RmVvYmhWQW4yOFAySDhmN1JsdWRDOGJ1YS14R1ppWVEzeFdEZkQxNlU?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 01:30:00 GMT",
+      "summary": "IBM Field CTO Tyler Lynch Calls for Tailored AI Agent Safeguards &nbsp;&nbsp; www.tokenpost.com",
+      "outlet": "www.tokenpost.com",
+      "outletUrl": "https://www.tokenpost.com",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-16T04:40:54.562Z",
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
+    },
+    {
+      "title": "SK hynix showcases next-generation AI memory technologies beyond HBM - Yonhap News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxd3ZmNzd2RW55NXpMcGtUM0pvY2xSYnFDeVJ3N3hlSXVGbjBmVUlfUF9aQzZYLWF4RkJXNGZ2M2VXdTFuelpzQ0JWMi1zOURHQ0pOSGppZkg5UQ?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 01:29:51 GMT",
+      "summary": "SK hynix showcases next-generation AI memory technologies beyond HBM &nbsp;&nbsp; Yonhap News Agency",
+      "outlet": "Yonhap News Agency",
+      "outletUrl": "https://en.yna.co.kr",
+      "source": "메모리·패키징·인터커넥트",
+      "sourceIds": [
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-16T01:39:04.387Z",
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
+    },
+    {
+      "title": "메타, 개방형 AI 시장 승부수…8160억 매개변수 모델 공개 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWeGY1ZU1UeGxkQWE2TkpQR1hLQU54dnJpOWl3eU5iVGlCSjZSUEFrQ2EzTFhUZUd2dHE2ZnBvXzE3Vklta3RCSmxMa2F3aWF4d0UyeWln?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 01:26:36 GMT",
+      "summary": "메타, 개방형 AI 시장 승부수…8160억 매개변수 모델 공개 &nbsp;&nbsp; 지디넷코리아",
+      "outlet": "지디넷코리아",
+      "outletUrl": "https://zdnet.co.kr",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-16T01:39:04.387Z",
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
+    },
+    {
+      "title": "Google 뉴스 AI 파일럿 프로그램, 참여 매체 400곳 돌파 - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUY1dDRNQmtzVG5rOXd1TXBpcnVoZF9zZ0xEX2pFZ3RiRzYxZDRWSlZ0NXBObVRoZ3hFNE5UOXJZbHRSUk9UcnJxUlcyTWM4N3puNmV1cnhKT2ItQ0dISHdKTWpjNnBabEZkWkJxUU5zVy1NclVVTTdiSUQ2SXpyTE9GVldWNHJyX1ZJbXQ4X1c1SnM?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 01:26:14 GMT",
+      "summary": "Google 뉴스 AI 파일럿 프로그램, 참여 매체 400곳 돌파 &nbsp;&nbsp; Unite.AI",
+      "outlet": "Unite.AI",
+      "outletUrl": "https://www.unite.ai",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-16T01:39:04.387Z",
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
+    },
+    {
+      "title": "HD현대일렉트릭-LG CNS '데이터센터' 신사업 - 코리아리포트",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aTEktQVgzR2tsbzhGdVdnQXhWZEJKQ2V0RlJZTmdSbWFya3JzNDVhSjV0Y3VZWkNxeFV6VkxNNzJXUF94anlkNnNpQ3hBVGNvQ1o0S3Q1azNGeGNHaWVyZ0M0WGZpZmxmQ0R4WE9XUjI?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 01:24:57 GMT",
+      "summary": "HD현대일렉트릭-LG CNS '데이터센터' 신사업 &nbsp;&nbsp; 코리아리포트",
+      "outlet": "코리아리포트",
+      "outletUrl": "https://www.koreareport.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 11,
+      "firstSeenAt": "2026-10-16T01:39:04.387Z",
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
+    },
+    {
+      "title": "Server Prices Surge Up to Fourfold as AI Demand Squeezes Memory Supply - Businesskorea",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDMk5rdVlDU19LaVFBQ0JKMEM5OFV5MGw0emdHOWh5U0ptZmhxd1ZoMEUxYjVTSUYyd2E2Uk9ZdFhGd0dmMkZ3OElBYjlrVURnNm9CT1VtYVVlT0NteXM3aVpCdGMtWEVkTnoyU1IwSUY1R1g5?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 01:23:57 GMT",
+      "summary": "Server Prices Surge Up to Fourfold as AI Demand Squeezes Memory Supply &nbsp;&nbsp; Businesskorea",
+      "outlet": "Businesskorea",
+      "outletUrl": "https://www.businesskorea.co.kr",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-16T04:40:54.562Z",
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
+    },
     {
       "title": "데이터분석가들 “송전선 설치 ‘전제’ 설득력 잃어…호남 잉여 전기 부족” - 아시아투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xczE0b0pVNDRVc2N6TXhkY0w3RUJkYS1VN21PTVo3MlhnbzhOaV9KWVVCRU5veWFpZ3h3d21jNm9TcElZUl9qb08zUENNYmpna1lTSHFUa1drUkZMNHdRUlZSVUVoaVBudHlhaWVR?oc=5",
@@ -20,7 +196,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭·LG CNS, 데이터센터 전력 인프라 공동 공략 - 스마트비즈",
@@ -42,7 +218,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "아이티센씨티에스-롯데이노베이트, MOU 체결 - BI KOREA",
@@ -63,7 +239,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "\"2030년 매출 1조\" … LG유플러스, 파주 AIDC '착착' - 디지털포스트",
@@ -83,7 +259,7 @@
       "issueCategory": "AI시장",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭, LG CNS와 데이터센터 전력 인프라 업무협약 - 데이터뉴스",
@@ -105,7 +281,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "전남광주통합특별시, 반도체 국가산단 추진…국토부 장관 군공항 현장 점검 - 더파워",
@@ -125,7 +301,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "인텔, 피지컬 AI 실물 시연 - 디일렉",
@@ -145,7 +321,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "구글, 5조6000억원 규모 연료전지 발전소 전력 구매...702MW·20년 계약 - 임팩트온",
@@ -170,7 +346,7 @@
       "issueCategory": "AI시장",
       "score": 15,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "연세대 AI반도체 혁신연구소, IEEE FIE 2026서 '3×3 나인 렌즈' 교육모델 발표 - 베리타스알파",
@@ -193,7 +369,7 @@
       "issueCategory": "NPU",
       "score": 16,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "삼성전기 4.3조·SK트리켐 증설 추진···세종, AI 반도체 공급망 거점으로 - 스마트비즈",
@@ -217,7 +393,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Google DeepMind의 항균 펩타이드 발굴 과정 상세 공개 - Unite.AI",
@@ -241,7 +417,7 @@
       "issueCategory": "Google",
       "score": 20,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh - Investing.com",
@@ -263,7 +439,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "충남 천안 국가산단 조성 속도 낸다…종축장 이전 1년 6개월 단축 추진 - 열린정책뉴스",
@@ -285,7 +461,7 @@
       "issueCategory": "",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Gemini 4 Argon is now rolling out to Google’s Antigravity for AI Pro subscribers - 9to5Google",
@@ -309,7 +485,7 @@
       "issueCategory": "Google",
       "score": 20,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "반도체 기대 품은 광주...분양시장 온기, 지역경제로 번질까 - M이코노미뉴스",
@@ -329,7 +505,7 @@
       "issueCategory": "AI시장",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Google Expands Gemini 4 Argon Access, Introductory API Rates Rise After Nov. 30 - JournalArta",
@@ -353,7 +529,7 @@
       "issueCategory": "Google",
       "score": 15,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "한국투자증권, 베슬AI와 ‘맞손’…AI 반도체 인프라 자금조달 지원 - 브릿지경제",
@@ -377,7 +553,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "안성시, 반도체 소부장 기업 유치 총력 - 데일리경기신문",
@@ -397,7 +573,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T01:39:04.387Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "NVIDIA's CEO Discusses Surging AI Chip Demand Amid Market Concer - GuruFocus",
@@ -421,7 +597,7 @@
       "issueCategory": "AI시장",
       "score": 20,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Google Gemini AI Predicts Bitcoin to Hit $175K by 2027 - Cryptonews",
@@ -445,7 +621,7 @@
       "issueCategory": "Google",
       "score": 20,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Xcena joins OCP Global Summit 2026, showcases memory infrastructure for AI inference - 디지털투데이",
@@ -467,7 +643,7 @@
       "issueCategory": "추론",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉-LG CNS, AI 데이터센터 전력 인프라 공동 공략 - 신아일보",
@@ -489,7 +665,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "[특징주] TS트릴리온, 2.3조원 천안 AI데이터센터 공동개발 추진에 30%↑ - 뉴스핌",
@@ -511,7 +687,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "아이티센씨티에스, 롯데이노와 안산 GCC 운영 협력…AIDC 사업 확대 - 디지털데일리",
@@ -531,7 +707,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "KT Sees Sixfold Jump in User Queries After AI App Revamp - Seoul Economic Daily",
@@ -551,7 +727,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "\"3대 메가 프로젝트, 글로벌 AI 핵심 병목 선점할 승부수\" - 연합뉴스",
@@ -571,7 +747,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "전남광주, ‘한 몸의 산업권’으로…칩 광주·부품 동부·전력 서부 - 서울경제",
@@ -591,7 +767,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "롯데이노베이트, 데이터센터 사업 국내외 투트랙 확대 - www.ebn.co.kr",
@@ -635,7 +811,7 @@
       "issueCategory": "파운드리·패키징",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "K-반도체, 저전력 NPU로 엔비디아 독점 판도 흔든다… 하드웨어 최고 수준 넘어 생태계 확장 본격화 - https://www.koreasprint.com/",
@@ -664,7 +840,7 @@
       "issueCategory": "NPU",
       "score": 23,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "롯데이노베이트, 데이터센터 사업 국내 운영과 해외 확장 병행 - 스페셜타임스",
@@ -686,7 +862,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "디사일로, 피지컬 AI 보안 국책과제 참여…완전동형암호 기반 데이터·모델 보호 기술 개발 - 데일리시큐",
@@ -706,7 +882,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭-LG CNS, AI 데이터센터 전력 인프라 공략 - 디일렉",
@@ -728,7 +904,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "코스피 7.57% 폭락에 서킷브레이커 발동…AI 반도체 불안, 한국 증시 강타 - 지이코노미",
@@ -748,7 +924,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "롯데이노, 아이티센씨티에스와 손잡고 데이터센터 사업 확대 - 서울경제",
@@ -770,7 +946,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "빅테크 협력부터 현지 생산까지…재계의 해외 사업 전략 - 폴리뉴스 Polinews",
@@ -792,7 +968,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "아이티센씨티에스, 안산GCC 운영 핵심 협력사로 - 스마트투데이",
@@ -812,7 +988,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "롯데이노베이트, 아이티센씨티에스와 협력…데이터센터 사업 가속 - 아이티비즈",
@@ -834,7 +1010,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "오픈AI, ‘챗GPT 보이스’ 업데이트…한국어 목소리 2종 추가 - 조선비즈 - Chosunbiz",
@@ -854,7 +1030,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "“외산 AI 컴퓨팅 모듈 의존 낮추고 국산 AI 적용 경험 확보 나서” - 농업인신문",
@@ -879,7 +1055,7 @@
       "issueCategory": "AI인프라",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Cadence Design Systems (CDNS) Ties AI Chip Fabrication Push To New Industry Collaboration - Simply Wall Street",
@@ -899,7 +1075,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Q&A: UST's Kumaran C R on Why Are So Many Enterprise AI Projects Still Stuck in Pilot Mode? - iTWire",
@@ -922,7 +1098,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "롯데이노베이트, 데이터센터 사업 국내외 투트랙 가동…안산 운영·베트남 공략 - 아주경제",
@@ -944,7 +1120,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Perplexity AI open-sources its secure AI agent sandbox SPACE - SiliconANGLE",
@@ -966,7 +1142,7 @@
       "issueCategory": "AI에이전트",
       "score": 16,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Symbiotic stack: Enterprise AI ecosystem strategy - Cornerstone OnDemand",
@@ -989,7 +1165,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭·LG CNS, 데이터센터 전력·스마트 제조 공동사업 추진 - 직썰",
@@ -1011,7 +1187,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Racing to Deploy: AI Adoption Outpaces Its Foundations - MeriTalk",
@@ -1053,7 +1229,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "RTX Spark의 크리에이티브 앱 지원으로 NVIDIA와의 협력 확대하는 Adobe - Unite.AI",
@@ -1077,7 +1253,7 @@
       "issueCategory": "NVIDIA",
       "score": 20,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭·LG CNS, AI 데이터센터 전력 인프라 협력 MOU 체결 - FETV",
@@ -1099,7 +1275,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "엔비디아 주가도 AI 투자 우려에 흔들렸다…인공지능 산업, 자금 조달 능력이 새 변수로 - 제민일보",
@@ -1126,7 +1302,7 @@
       "issueCategory": "AI시장",
       "score": 29,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "롯데이노베이트, AI 데이터센터 시장 공략 속도 ...'국내 운영·해외 확장' - MTN 머니투데이방송",
@@ -1148,7 +1324,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "오렌지플래닛, 헬스케어·피지컬 AI 스타트업 12개팀 선발 - 스마트비즈",
@@ -1170,7 +1346,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭·LG CNS, AI 데이터센터·스마트팩토리 사업 협력 강화 - 워크투데이",
@@ -1192,7 +1368,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭, LG CNS와 맞손…데이터센터·스마트팩토리 협력 - 한국아이닷컴",
@@ -1214,7 +1390,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Meta의 8,160억 매개변수 Muse Spark Open 가중치 공개 - Unite.AI",
@@ -1234,7 +1410,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "아이티센씨티에스, 롯데이노베이트와 AI 데이터센터 사업 확대 맞손 - 데이터뉴스",
@@ -1256,7 +1432,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "아이티센씨티에스, AI 데이터센터 사업 확대 속도 낸다 - 디지털투데이",
@@ -1278,7 +1454,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "롯데이노베이트, 아이티센씨티에스와 안산 데이터센터 운영 협력 - 조선비즈 - Chosunbiz",
@@ -1300,7 +1476,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭-LG CNS, AI 데이터센터 전력설비·스마트팩토리 협력 - 아시아투데이",
@@ -1322,7 +1498,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "롯데이노베이트, 아이티센씨티에스와 맞손…데이터센터 사업 확장 속도 - 전자신문",
@@ -1344,7 +1520,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "롯데이노베이트, 국내 운영·베트남 확장…데이터센터 사업 키운다 - 이데일리",
@@ -1366,7 +1542,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭, LG CNS 손잡고 AI 데이터센터 전력시장 공략 - 매일경제 마켓",
@@ -1388,7 +1564,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "애플·메타, AI 동맹…8160억개 모델 맥에서 구동 - 엠에스투데이",
@@ -1408,7 +1584,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Wall Street Closes Higher With Investors Rotating Away From AI Stocks - BusinessToday Malaysia",
@@ -1428,7 +1604,7 @@
       "issueCategory": "AI시장",
       "score": 13,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Google updates AI Overviews, AI Mode to surface more links - Tech in Asia",
@@ -1452,7 +1628,7 @@
       "issueCategory": "Google",
       "score": 20,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "언론사 400곳, 구글 AI에 뉴스 제공하고 보상받는다 - AI 매터스",
@@ -1476,7 +1652,7 @@
       "issueCategory": "Google",
       "score": 20,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "AI investment risks rise as China models gain ground - digitimes",
@@ -1524,7 +1700,7 @@
       "issueCategory": "NVIDIA",
       "score": 20,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "What Is Grok Bot? xAI’s AI Agent Explained for Physicians - Passive Income MD",
@@ -1546,7 +1722,7 @@
       "issueCategory": "AI에이전트",
       "score": 16,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "천문학적 빚의 AI 데이터센터 시장, 투자 냉기류 - 초이스경제",
@@ -1569,7 +1745,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "피에스케이홀딩스, 첨단 패키징 증설 수혜 기대에 7%대 강세 - 한국경제",
@@ -1591,7 +1767,7 @@
       "issueCategory": "파운드리·패키징",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "엔비디아, 구글 팔콘 트랜스포트 지원… 커넥트X-10 기반 AI 네트워킹 상호운용성 강화 - 미디어픽",
@@ -1617,7 +1793,7 @@
       "issueCategory": "NVIDIA",
       "score": 27,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭·LG CNS, 데이터센터 제조 협력 맞손 - 이투데이",
@@ -1639,7 +1815,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "헷갈리는 약어를 풀어 쓴 극수 슬롯수 조합 용어 사전 - Calgary Roughnecks",
@@ -1683,7 +1859,7 @@
       "issueCategory": "NVIDIA",
       "score": 20,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "엔비디아 투자 아이암빅, 나스닥 공모가 확정…2000억원 조달 - 초이스스탁US",
@@ -1710,7 +1886,7 @@
       "issueCategory": "AI시장",
       "score": 34,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "구미시 반도체 투자 최적지는 구미 SEDEX 2026서 투자유치 총력 - 코리아방송",
@@ -1732,7 +1908,7 @@
       "issueCategory": "AI시장",
       "score": 11,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "홍지선 국토부 장관, 호남권 반도체 국가산단 조성 속도 - 국토일보",
@@ -1752,7 +1928,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "롯데이노베이트, 국내외 데이터센터 사업확대…\"성장동력 육성\" - 연합뉴스",
@@ -1774,7 +1950,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭, LG CNS와 데이터센터·스마트 제조 협력 확대 - 이데일리",
@@ -1796,7 +1972,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T00:19:39.597Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "[특징주] 2조 규모 AI 데이터센터 공동개발…TS트릴리온 상한가 - 이투데이",
@@ -1818,7 +1994,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "ASML Earnings Call: Record Growth, AI Demand Soars - The Globe and Mail",
@@ -1840,7 +2016,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "한미 재계, 3500억달러 투자 이행 선언…미국은 한국의 비관세장벽 해소 요구 - 에너지경제신문",
@@ -1862,7 +2038,7 @@
       "issueCategory": "AI시장",
       "score": 11,
       "firstSeenAt": "2026-10-16T00:19:39.597Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "홍지선 국토장관, 광주 군공항 방문…\"반도체 산단 유례없는 속도로 조성\" - 알파경제",
@@ -1882,7 +2058,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "HD현대일렉트릭-LG CNS, 데이터센터 전력·스마트팩토리 협력 - 아주경제",
@@ -1904,7 +2080,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Why Brands Are Building Content for AI Search - WeRSM",
@@ -1925,7 +2101,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-16T00:19:39.597Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "롯데이노베이트, 데이터센터 사업 확장 가속…아이티센씨티에스와 안산 GCC 협력 - 스마트투데이",
@@ -1947,7 +2123,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-10-16T00:19:39.597Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Google boosts news links in AI search results as publishers warn of falling traffic - The News Pakistan",
@@ -1972,7 +2148,7 @@
       "issueCategory": "Google",
       "score": 20,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "전자장비·기기주 신바람…AI 반도체·로봇 부품 수요 확대 - 핀포인트뉴스",
@@ -1993,7 +2169,7 @@
       "issueCategory": "AI시장",
       "score": 13,
       "firstSeenAt": "2026-10-16T00:19:39.597Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "코어위브 쇼크에…엔비디아·삼전·닉스 ‘도미노 충격’ - 경제타임스",
@@ -2018,7 +2194,7 @@
       "issueCategory": "NVIDIA",
       "score": 15,
       "firstSeenAt": "2026-10-16T00:19:39.597Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     },
     {
       "title": "Google Quantum AI Demonstrates Magic State Cultivation on Willow Processor in Science Milestone - Quantum Computing Report",
@@ -2043,180 +2219,7 @@
       "issueCategory": "파운드리·패키징",
       "score": 23,
       "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
-    },
-    {
-      "title": "베슬AI, 한국투자증권과 손잡고 AI 반도체 인프라 투자 확대 추진 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SeU45aG96bnpqeGFlV05SU21QTExpdTBGQ29aUy1CalBwbFNILWNWd05MOXNIeWJoc05CRVVZRjdjclBqcjM1TnU5V2J4dGo4cTUwbENqNGFMY3lNUW1GStIBeEFVX3lxTFBCMUs0a05MT3g5NE9yWlBsMVdXMlZMM2ppSnliQ25CdHFzY1B6X2RSbHNyV24zMmstaTQzNmZZV3FlTzlDeURQUE53WmxCeEFkdnozU3JqbEZjenRUcjd5NEJiVHU4MVZjRTNFSTdhUkZ2Snc1X1ZVcg?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "베슬AI, 한국투자증권과 손잡고 AI 반도체 인프라 투자 확대 추진 &nbsp;&nbsp; 뉴시스",
-      "outlet": "뉴시스",
-      "outletUrl": "https://www.newsis.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy",
-        "ai-chip-public-program"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-16T00:19:39.597Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
-    },
-    {
-      "title": "구글·아마존 등 상위 9대 CSP 자본지출, 내년 1조5000억 달러 상회 - IT비즈뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2VFBsN05scmo5a21oUDJWOFVHbk5NSVFZRG16RmtZNGdYSm1INnR5OWVGUmhfZm9vTXV1Z0wyWWU2M2RIYURnLTBmd0xiRnY0RURxWnVCbl81N0tuM1NuLW9mSFVfSDhKSlBmVg?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "구글·아마존 등 상위 9대 CSP 자본지출, 내년 1조5000억 달러 상회 &nbsp;&nbsp; IT비즈뉴스",
-      "outlet": "IT비즈뉴스",
-      "outletUrl": "https://www.itbiznews.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 15,
-      "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
-    },
-    {
-      "title": "롯데이노베이트, 데이터센터 사업 ‘국내 운영·해외 확장’ 투트랙 쓴다 - 테크월드",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WNGZYVWo4c3hXWWYzT21OMkM0azBPNnZfYnVoTUlIYy1DTVZHLXc3WXlOWC1yQk1Cd0gyZUZlU1Q3ekhOUFVUbGpNSVVfQklLc2xmalNySWVYcUhaWEhKbjJqaHBHRk1Q?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "롯데이노베이트, 데이터센터 사업 ‘국내 운영·해외 확장’ 투트랙 쓴다 &nbsp;&nbsp; 테크월드",
-      "outlet": "테크월드",
-      "outletUrl": "https://www.epnc.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-10-16T00:19:39.597Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
-    },
-    {
-      "title": "IDreamsky raises $7.42M in share placement to fund AI agent push - Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRlBMZ1l6azl0elJMZ056LXBZS3dDcEh0VnVTTFFnVk45X2lMNi0wSzdVSGRhQlRxUmota1g5bnNjS0ptUG9NN256bzl0QlZsZEUtYTIxU1VFbjNjTmRBaVVuVDU3NXktLV9PVWtWRGVWVVdwMVlKUDc4WlFsMHNHejlLOVJnM2YzSFlEam5JemtVOUdMOGpKZkx5b2lyZw?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 23:59:42 GMT",
-      "summary": "IDreamsky raises $7.42M in share placement to fund AI agent push &nbsp;&nbsp; Dealroom",
-      "outlet": "Dealroom",
-      "outletUrl": "https://app.dealroom.co",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-16T00:19:39.597Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
-    },
-    {
-      "title": "The AI Stocks Hiding In Unavoidable Metals Like Copper And Uranium - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObTJuN2lwUUxoalE1QVExX1dQZV9oWWFyTExsSnZOU1dZRHpZTHU3cV9GbFgyZWRLUFdBYmFlX2FUUmJPSkNNV0pKNHdRdGtsckNSeWZGcDVtMkhwMFJjZ25mNkV4czVRYkc0VTZsMFcxZ2ZmZmFwY0JISkstSHF3VnVNRDF4UVNlaGV0TUpyU25WZVNwWDljbVU4Ykk0RTlzMWxnQkI0YmxCRDhRMFBjQ2hzMGxPUVR5ZDJYZ0hCV3dCTlE4ankzVEphYTRYUGFraV8tMkR1SzJpQ3JDV1FyZi1PRzRLa0gzQU93X2Q5NjdZZ2hMVmZteGdoc9IBgAJBVV95cUxNdlZXMzYzZEwtWUpZR0RkNkdKNzl3TmFMNU9aOTE2eGg1T1RBZW56VTNwUUU3WUNkaGRFWnRfZG1fNHpjaFV6MWsxbmJ6VkhJclBtWlFKcjlFQU9nTnBHdkpZX0lSeUFJaFFoZjM2cjJ0SWRTZ0lmVXRnZE9zTzFHMXh5Q2ZUTkx3R0M1UmlaLXdJX1JmOWx0Tk84REstamNLY3NlaEd0aFpObkxvaHNCc29vMHY0SEhYZXkxT04zUGt4d29wUWRGeVRLM2o0X2FrTmhmRC1RNzlMSW5SMFZHdnBVUGdyM1NtUlhEQmJfcWhLN2hxN3NuSFYwWGJMWDN3?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 23:59:16 GMT",
-      "summary": "The AI Stocks Hiding In Unavoidable Metals Like Copper And Uranium &nbsp;&nbsp; Simply Wall Street",
-      "outlet": "Simply Wall Street",
-      "outletUrl": "https://simplywall.st",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
-    },
-    {
-      "title": "삼성전자, 美 테일러 제2공장 내달 전격 착공…AI 반도체 생산기지 확대 속도 - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTT1Z1dzZfV0M5b19CaUF1UzFtQkczSFV4dFFzbjRHSUFEakhLa3M1aWoxbXRTWGNNZ2dDaVd2Ump6RWRVX3pwN1hVbFhfb2lIV1ZvNWRJVVlJQm9GSGV0WWVhcw?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 23:58:42 GMT",
-      "summary": "삼성전자, 美 테일러 제2공장 내달 전격 착공…AI 반도체 생산기지 확대 속도 &nbsp;&nbsp; 더구루",
-      "outlet": "더구루",
-      "outletUrl": "https://www.theguru.co.kr",
-      "source": "정부 NPU 정책·예산",
-      "sourceIds": [
-        "government-npu-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
-    },
-    {
-      "title": "Precision Trading with Roundhill Generative Ai & Technology Etf (CHAT) Risk Zones - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOb0c1eEdIbk9rUThJOXZBbzdjLXV3blF2OGhMbzdwaTQzbXpEb2tCNmxzNC1zbE1xdTNobHNYQUlScnltNkplWDROS2IyRlo2U1JkNklYTjRWdEhmY3ZLdTRDcjl3Uk8yTXJqWk12bDlCWDU3WFNnSzB5UXhLTWY2eDNZWWVSblozVzF3SnNRSWxjMzlwcXE3OWYxbTZqdTBQYndmc193Q1BtbE5xY3lnbThSYnM4SC1EcWpxYUtYN3p5VlR5UTRSVFp1WGRNYkZ3UzdrUXNyTEwxejB4Zk1oVTlhSGRWeFRSWm9WQW55OA?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 23:56:02 GMT",
-      "summary": "Precision Trading with Roundhill Generative Ai & Technology Etf (CHAT) Risk Zones &nbsp;&nbsp; Stock Traders Daily",
-      "outlet": "Stock Traders Daily",
-      "outletUrl": "https://news.stocktradersdaily.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-16T04:40:54.562Z",
-      "lastSeenAt": "2026-10-16T04:40:54.562Z"
-    },
-    {
-      "title": "롯데이노베이트, 데이터센터 사업 확장 속도…국내외 협력 강화 - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RVjNxLUxzdmlQLThzYVpPck5wMndRVmRXUFROUHFwdEFaMFZfRktuR1VhSzZSZF9PQ2hMNVRrRV92Mno4WjZtV1h3LU5oNFUweXplUmF3?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 23:54:47 GMT",
-      "summary": "롯데이노베이트, 데이터센터 사업 확장 속도…국내외 협력 강화 &nbsp;&nbsp; 헤럴드경제",
-      "outlet": "헤럴드경제",
-      "outletUrl": "https://biz.heraldcorp.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-10-16T00:19:39.597Z",
-      "lastSeenAt": "2026-10-16T01:39:04.387Z"
+      "lastSeenAt": "2026-10-16T04:49:51.248Z"
     }
   ]
 }

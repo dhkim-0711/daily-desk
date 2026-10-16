@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-10-16T04:40:54.562Z",
+  "generatedAt": "2026-10-16T04:49:51.248Z",
   "news": {
     "articles": [
       {
@@ -1197,30 +1197,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "GBM Launches the UAE’s First AI Lab Powered by Cisco Secure AI Factory with NVIDIA - Delivering Sovereign AI Infrastructure - Al-Bawaba",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYThzVGNzZDE3WEdnQ2FPQmFJYnZVLVJjZ0FMOXJVQk1EQ3haMGJEdnhMUWxxTGlSQ0lRejBjLVlXeEVUclY2UG40ZXNPVGl3eVhCNzFwRE9hb1QxTXVVUlduVTdzeUFFN0kzM2tjRmlnQXJJQUp6Tm5DbFVkYWVnWTdxb1hQRDdPeDV6aDdhanV4bWd2Umgw?oc=5",
-        "publishedAt": "Wed, 14 Oct 2026 03:30:00 GMT",
-        "summary": "GBM Launches the UAE’s First AI Lab Powered by Cisco Secure AI Factory with NVIDIA - Delivering Sovereign AI Infrastructure &nbsp;&nbsp; Al-Bawaba",
-        "outlet": "Al-Bawaba",
-        "outletUrl": "https://www.albawaba.com",
-        "source": "해외 정책·투자",
-        "sourceIds": [
-          "global-policy"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA",
-          "수출통제·공급망"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 24
-      },
-      {
         "title": "과기정통부·KAIST·네이처, 피지컬 AI 휴머노이드 협력 머리 맞댄다 - 데일리안",
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTTRWZ252Nm1McGNHR3hvUzhXNVc0WVltbFJibC00LXhQa3JoQWU2NS1JZWxad3lwdGhSam1QaXJuX0tybk04UXN4WS12UHdPWERkT0pzZnp1OHlkYVUyNmc4UElmRHRVcHBybDRUTUN4alN5aS1KanREYmJpdUxYdlZ2QnpDeTVKU3J0dmNuSDNNMjZtQkdiSzk1ODVPekVTa29QSktwNHdsbUtNWEJKdV9teGI4YXNXZDY1NDF1eEdoUm9tdGpOd2toc0tPVk9ucDNTNG0zMXBCdXN3YkhOekZTeW5WbW93ZHlQeWlR?oc=5",
         "publishedAt": "Wed, 14 Oct 2026 03:01:00 GMT",
@@ -1411,6 +1387,26 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
+        "title": "과기정통부, 국가 AI 데이터의 체계적 관리·활용을 위한 'AI기본법' '데이터산업법' 개정안 국무회의 통과 - 누리일보",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IdjY3cmlrUHF2Y0pUZUN0anBSbTk2c2tjanlrampnWHl6MFU5YVdUb1EzTGRrYzloUV95WUZkNkVGcW9TcnRwUHF4d0RaSHdiR3J1R05iblAtYTB0?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 05:31:24 GMT",
+        "summary": "과기정통부, 국가 AI 데이터의 체계적 관리·활용을 위한 'AI기본법' '데이터산업법' 개정안 국무회의 통과 &nbsp;&nbsp; 누리일보",
+        "outlet": "누리일보",
+        "outletUrl": "https://nuriilbo.com",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
+        "score": 24
+      },
+      {
         "title": "NVIDIA Announces New Investments in France’s Startups",
         "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
         "publishedAt": "Tue, 13 Oct 2026 05:00:31 +0000",
@@ -1432,26 +1428,6 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
-        "score": 24
-      },
-      {
-        "title": "과기정통부, 국가 AI 데이터의 체계적 관리·활용을 위한 'AI기본법' '데이터산업법' 개정안 국무회의 통과 - https://www.climatepol.com/",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uQjhkaFIxMUpVUUJGazhqdmtXNlNPTklYcmJjdDJMV0piaE84Ql9mOE5GTDlqS1FzSUdhbTFCdXprcWl3SFFYQmF3V1pJbWRSZDA1cVFCN29UTkpkeklsd0pFVXpKbzV0QUN0Vw?oc=5",
-        "publishedAt": "Tue, 13 Oct 2026 04:43:23 GMT",
-        "summary": "과기정통부, 국가 AI 데이터의 체계적 관리·활용을 위한 'AI기본법' '데이터산업법' 개정안 국무회의 통과 &nbsp;&nbsp; https://www.climatepol.com/",
-        "outlet": "https://www.climatepol.com/",
-        "outletUrl": "https://www.climatepol.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
         "score": 24
       },
       {
@@ -1525,24 +1501,25 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg - Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1N5OHJkQU5KdDBUV2V5anJERDQzUFNIQXJ0ME85a3A1WGk1Z3pjT04xRTdTQ3ViMUd5U010WjVJMm51OFBxVHk0LXpZSm1jMmM0S0s4N3BTeHdiVzZXY0tad1FFWEJaWHhlelY4b0dHUUNNbllDQUQxNHNNQzBDbjVTMzd4N250UjAwc1VhX1MweVJLM0NTb1ExT01mWE5jeFl3VWgtQWd6bXBaV1J3QVlQb0RjeHJMUVI5Y2t2N0dMVE9FZ0tvY1kzcXE?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 02:39:12 GMT",
-        "summary": "Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg &nbsp;&nbsp; Investing.com",
-        "outlet": "Investing.com",
-        "outletUrl": "https://www.investing.com",
-        "source": "NVIDIA 이슈",
+        "title": "TSMC, 순익 69% 늘어도 주가 ‘뚝’…AI 호황보다 커진 투자 우려 - 한스경제",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RVkhXQzhCZFItc0o5Qk5SMTVpeHU5bkVkM0kxMlhfcWplRG9sUmphYWhZWVY4Y3VrT1ZFcXpLSWE1VTZ5TTU0OHN1VVQzV2Q0d2tOblRYbENLWjAzTlJsYXlxY2dURmtCSi13UXNHd9IBb0FVX3lxTE9RVkhXQzhCZFItc0o5Qk5SMTVpeHU5bkVkM0kxMlhfcWplRG9sUmphYWhZWVY4Y3VrT1ZFcXpLSWE1VTZ5TTU0OHN1VVQzV2Q0d2tOblRYbENLWjAzTlJsYXlxY2dURmtCSi13UXNHdw?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 02:51:55 GMT",
+        "summary": "TSMC, 순익 69% 늘어도 주가 ‘뚝’…AI 호황보다 커진 투자 우려 &nbsp;&nbsp; 한스경제",
+        "outlet": "한스경제",
+        "outletUrl": "http://www.hansbiz.co.kr",
+        "source": "국내 AI 정책",
         "sourceIds": [
-          "nvidia-ai"
+          "korea-ai-policy",
+          "ai-chip-capital-market-ko"
         ],
-        "sourceLang": "en",
-        "region": "global",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
-          "NVIDIA"
+          "TSMC"
         ],
         "taxonomyHits": [
-          "NVIDIA",
-          "수출통제·공급망"
+          "파운드리·패키징",
+          "투자·M&A"
         ],
         "issueCategory": "AI시장",
         "score": 23
@@ -1715,29 +1692,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0dmS0NFZ3cwcWdpZlNxcmhwaTlWbGJIM3JJanEtakVrZ0gxOGUwSHlMcl94VzQtQlJqMk5wVWFCdFVLbVNhVEJ2VTNMV2Z3dHdCNWJWbk5kRGd2UmJlbEpFZ3lMMWFjUC0yckFjLU1LYXhsU1haTHdtRG8xR2p2QXhZaUpFWjhGOVY3V1dkTVpjSXpPOVZ2bw?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 00:15:00 GMT",
-        "summary": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center &nbsp;&nbsp; The Motley Fool",
-        "outlet": "The Motley Fool",
-        "outletUrl": "https://www.fool.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "데이터센터",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
         "title": "Google Quantum AI Demonstrates Magic State Cultivation on Willow Processor in Science Milestone - Quantum Computing Report",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMXBUZnBsVjRmdzFOZkVZUEdpd05Bb1JIbUVzeTEwTDBWR0dWWHJ2Z1dibkItVE5CSEx3QWhMOXZ4SHV6ME9BdHhJMnFIaTFheF9ySWRBWTJzalg5TVZsdXJRcEZrekNvS3pjQzRQSGhibEgzeFc2c2lXQXdwMFlaWUVHSWpmR0NXR2xtclV1Sng3T05ZdUp6WmR5b0RFQnBxdVNBdGVST19RYmdLeV9LTEZXM2hmMjlndTRUZHdSdlgwblVncnFUaklkZmFlRUNa0gHQAUFVX3lxTE0xcFRmcGxWNGZ3MU5mRVlQR2l3TkFvUkhtRXN5MTBMMFZHR1ZYcnZnV2JuQi1UTkJITHdBaEw5dnhIdXowT0F0eEkycUhpMWF4X3JJZEFZMnNqWDlNVmx1clFwRmt6Q29LemNDNFBIaGJsSDN4VzZzaVdBd3AwWVpZRUdJamZHQ1dHbG1yVXVKeDdPTll1SnpaZHlvREVCcHF1U0F0ZVJPX1FiZ0t5X0tMRlczaGYyOWd1NFRkd1J2WDBuVWdycVRqSWRmYWVFQ1o?oc=5",
         "publishedAt": "Fri, 16 Oct 2026 00:00:52 GMT",
@@ -1758,6 +1712,29 @@ window.__DASHBOARD_DATA__ = {
           "파운드리·패키징"
         ],
         "issueCategory": "파운드리·패키징",
+        "score": 23
+      },
+      {
+        "title": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0dmS0NFZ3cwcWdpZlNxcmhwaTlWbGJIM3JJanEtakVrZ0gxOGUwSHlMcl94VzQtQlJqMk5wVWFCdFVLbVNhVEJ2VTNMV2Z3dHdCNWJWbk5kRGd2UmJlbEpFZ3lMMWFjUC0yckFjLU1LYXhsU1haTHdtRG8xR2p2QXhZaUpFWjhGOVY3V1dkTVpjSXpPOVZ2bw?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 23:16:47 GMT",
+        "summary": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center &nbsp;&nbsp; The Motley Fool",
+        "outlet": "The Motley Fool",
+        "outletUrl": "https://www.fool.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
         "score": 23
       },
       {
@@ -2876,29 +2853,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "경북대기술지주 투자기업 윔, AWS/엔비디아 AI 피치 경진대회 '1위' - 베리타스알파",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04SmgxMlJDSHZRRGkycmxxOEtuMDBSa3RnMDFpaWFqSmZ1cjJmNU40QlREUDduX2plWFdCbnhpN0k5S3h1LUJoVVlvcTM4SGVFVm9JUGpJWE9kWFRDbWQwMWl1YVRCdER2OElDZw?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 04:41:59 GMT",
-        "summary": "경북대기술지주 투자기업 윔, AWS/엔비디아 AI 피치 경진대회 '1위' &nbsp;&nbsp; 베리타스알파",
-        "outlet": "베리타스알파",
-        "outletUrl": "https://www.veritas-a.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
         "title": "[특징주] 멜콘, 코스닥 상장 첫날 74% 급등…공모가 크게 웃돌아 - 남도일보",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMENXVzhKbzdKMUc2WFdsaEYtWG5pWnhPajFMUU9abEp3QzVJZUlwNGNWcWdIZUxLeldON3UxaWlyUmpzeDJaMlpiSGF1c1Q3RGk2Q040SEd3bUZiNWhGZTg0NS1GWGh0SFdNUdIBcEFVX3lxTE1UTWp2SlUtT3FURVphTERpMzNvM0J5TVRRUjg4bWJ3Mk9lVXpIbUFsZnhwYVZiTnpmNFZXbmFyUDBBWW5paG9LLUl6QThBRkJtSFAxa2RnQlhpVGNsUTlUdjJFcC1kNUVDOGd2UWd6eVk?oc=5",
         "publishedAt": "Thu, 15 Oct 2026 01:18:00 GMT",
@@ -3135,6 +3089,29 @@ window.__DASHBOARD_DATA__ = {
         "taxonomyHits": [
           "AI시장",
           "데이터센터",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 22
+      },
+      {
+        "title": "경북대기술지주 투자기업 윔, AWS/엔비디아 AI 피치 경진대회 '1위' - 베리타스알파",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04SmgxMlJDSHZRRGkycmxxOEtuMDBSa3RnMDFpaWFqSmZ1cjJmNU40QlREUDduX2plWFdCbnhpN0k5S3h1LUJoVVlvcTM4SGVFVm9JUGpJWE9kWFRDbWQwMWl1YVRCdER2OElDZw?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 04:41:59 GMT",
+        "summary": "경북대기술지주 투자기업 윔, AWS/엔비디아 AI 피치 경진대회 '1위' &nbsp;&nbsp; 베리타스알파",
+        "outlet": "베리타스알파",
+        "outletUrl": "https://www.veritas-a.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
@@ -3709,26 +3686,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "과기정통부, 제9차 양자기술다자대화…주요 13개국 협력 강화 - IT비즈뉴스",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyX2tfTlRqblZ6OVpTU1FWVWhYcThIWU9IYmhJZXBuQnpIUmFfNlV4bTJ4SFFrN25YVlRqd3dWRTJYSXVjWktEX2owM1pYLTJnNWJqVmJlTmtzdHJtTG1CeXdsT0F1MTBxdURNNg?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 02:52:00 GMT",
-        "summary": "과기정통부, 제9차 양자기술다자대화…주요 13개국 협력 강화 &nbsp;&nbsp; IT비즈뉴스",
-        "outlet": "IT비즈뉴스",
-        "outletUrl": "https://www.itbiznews.com",
-        "source": "글로벌 기업·한국 반도체 협력",
-        "sourceIds": [
-          "korea-global-chip-cooperation"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 21
-      },
-      {
         "title": "이상중 '허위 경력' 공방·…과기정통부, 화이트해커 제도화 추진(종합) - 뉴스1",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BYmthdDd1a3VqdGNnLVRCNUJDWnI1clBueTRXMkdVcktxUnZkMXliZ3BZUWJSeHFiVTVpU2FDV3pmTHJOaEhyajlEOWpvRWotS2dQdEZWTmxrbzdwTjJhMFI0WHZ0UQ?oc=5",
         "publishedAt": "Thu, 15 Oct 2026 12:11:11 GMT",
@@ -3906,26 +3863,6 @@ window.__DASHBOARD_DATA__ = {
           "정책"
         ],
         "issueCategory": "",
-        "score": 21
-      },
-      {
-        "title": "최혁진 의원 “정보통신산업진흥원 5년간 3970억원 공모 없이 집행 - 파이낸셜리뷰",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wQ1l3aktnb0p2VFhGV2pLOXhHOEl3LXYwYzdtdUx3ajc2Vno0dnMyR05VRmxodE9MQmExNmExU3BnYm1JeDJEUlFrbU9RQWVpUkVhSXBoUUh2dG80UV9EZldtQjNKdmcyU3pTOUpTLWxzNVo3?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 04:41:15 GMT",
-        "summary": "최혁진 의원 “정보통신산업진흥원 5년간 3970억원 공모 없이 집행 &nbsp;&nbsp; 파이낸셜리뷰",
-        "outlet": "파이낸셜리뷰",
-        "outletUrl": "http://www.financialreview.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
         "score": 21
       },
       {
@@ -4136,6 +4073,76 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI시장",
+        "score": 21
+      },
+      {
+        "title": "Nvidia opens up Israeli-founded Run:ai software two years after $800 million acquisition - CTech",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9naHJtcFhBNTZCaVVpR1BxZmQxU3RHNi1VazE0czhXc2I1bENlSzhHRk45bTdkOWw0amRfcHg5TVp2WkFTLVpSX0lCYWpnSHZUWm1zNFdiS0lYZTIzODBNLW5hWHQ0cFE?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 14:00:00 GMT",
+        "summary": "Nvidia opens up Israeli-founded Run:ai software two years after $800 million acquisition &nbsp;&nbsp; CTech",
+        "outlet": "CTech",
+        "outletUrl": "https://www.calcalistech.com",
+        "source": "글로벌 가속기 전략적 거래",
+        "sourceIds": [
+          "accelerator-strategic-deals-global"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 21
+      },
+      {
+        "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+        "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+        "publishedAt": "Tue, 13 Oct 2026 12:00:49 +0000",
+        "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and [&#8230;]",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com",
+        "source": "NVIDIA 공식 기술발표",
+        "sourceIds": [
+          "nvidia-official-blog",
+          "nvidia-official-news"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 21
+      },
+      {
+        "title": "AI 반도체 딥엑스, 삼성증권·삼성벤처투자로부터 147억원 투자 유치 - 와우테일",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kYmwxSzJubmN5VkhEWUphLXJSYUpHTFY2YkZncVpBYzJYRzZPaXE3NEFNZ3NrV0NXX3FGQkNMQTdSYVJubjhETVQxd0pTYkk?oc=5",
+        "publishedAt": "Tue, 13 Oct 2026 06:06:40 GMT",
+        "summary": "AI 반도체 딥엑스, 삼성증권·삼성벤처투자로부터 147억원 투자 유치 &nbsp;&nbsp; 와우테일",
+        "outlet": "와우테일",
+        "outletUrl": "https://wowtale.net",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "딥엑스",
+          "투자·M&A"
+        ],
+        "issueCategory": "NPU",
         "score": 21
       }
     ],
@@ -5667,11 +5674,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "005930.KS",
         "name": "삼성전자",
         "market": "KR",
-        "price": 219500,
+        "price": 219000,
         "currency": "KRW",
-        "changePct": -13.41222879684418,
+        "changePct": -13.609467455621301,
         "previousClose": 253500,
-        "marketTime": "2026-10-16T04:20:50.000Z",
+        "marketTime": "2026-10-16T04:29:46.000Z",
         "closes": [
           253500,
           252500,
@@ -5691,7 +5698,7 @@ window.__DASHBOARD_DATA__ = {
           232000,
           232000,
           210000,
-          219500
+          219000
         ],
         "candles": [
           {
@@ -5825,7 +5832,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 215000,
             "high": 220500,
             "low": 210500,
-            "close": 219500
+            "close": 219000
           }
         ]
       },
@@ -5833,11 +5840,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "000660.KS",
         "name": "SK하이닉스",
         "market": "KR",
-        "price": 1301000,
+        "price": 1299000,
         "currency": "KRW",
-        "changePct": -26.037521318931212,
+        "changePct": -26.151222285389427,
         "previousClose": 1759000,
-        "marketTime": "2026-10-16T04:20:51.000Z",
+        "marketTime": "2026-10-16T04:29:47.000Z",
         "closes": [
           1759000,
           1745000,
@@ -5857,7 +5864,7 @@ window.__DASHBOARD_DATA__ = {
           1443000,
           1419000,
           1262000,
-          1301000
+          1299000
         ],
         "candles": [
           {
@@ -5991,7 +5998,7 @@ window.__DASHBOARD_DATA__ = {
             "open": 1290000,
             "high": 1318000,
             "low": 1247000,
-            "close": 1301000
+            "close": 1299000
           }
         ]
       }
@@ -6567,11 +6574,11 @@ window.__DASHBOARD_DATA__ = {
       {
         "symbol": "^KS11",
         "name": "KOSPI",
-        "price": 5758.19,
+        "price": 5750.6,
         "currency": "KRW",
-        "changePct": -14.286756267146187,
+        "changePct": -14.3997368252612,
         "previousClose": 6717.97,
-        "marketTime": "2026-10-16T04:20:40.000Z",
+        "marketTime": "2026-10-16T04:29:40.000Z",
         "closes": [
           6717.97021484375,
           6715.41015625,
@@ -6591,7 +6598,7 @@ window.__DASHBOARD_DATA__ = {
           6035.35009765625,
           6008.81005859375,
           5554.22021484375,
-          5758.18994140625
+          5750.60009765625
         ],
         "candles": [
           {
@@ -6725,18 +6732,18 @@ window.__DASHBOARD_DATA__ = {
             "open": 5653.990234375,
             "high": 5787.919921875,
             "low": 5590.330078125,
-            "close": 5758.18994140625
+            "close": 5750.60009765625
           }
         ]
       },
       {
         "symbol": "^KQ11",
         "name": "KOSDAQ",
-        "price": 799.1,
+        "price": 800.29,
         "currency": "KRW",
-        "changePct": -2.06867815387632,
+        "changePct": -1.9228412461089799,
         "previousClose": 815.98,
-        "marketTime": "2026-10-16T04:20:50.000Z",
+        "marketTime": "2026-10-16T04:29:40.000Z",
         "closes": [
           815.97998046875,
           822.1799926757812,
@@ -6756,7 +6763,7 @@ window.__DASHBOARD_DATA__ = {
           837.030029296875,
           823.8800048828125,
           760.8200073242188,
-          799.0999755859375
+          800.2899780273438
         ],
         "candles": [
           {
@@ -6890,19 +6897,19 @@ window.__DASHBOARD_DATA__ = {
             "open": 772.1699829101562,
             "high": 802.4400024414062,
             "low": 764.969970703125,
-            "close": 799.0999755859375
+            "close": 800.2899780273438
           }
         ]
       }
     ],
-    "generatedAt": "2026-10-16T04:40:52.029Z"
+    "generatedAt": "2026-10-16T04:49:48.000Z"
   },
   "briefing": {
     "date": "2026년 10월 16일 금요일",
     "summary": [
       "오늘의 최상위 이슈: ‘엔비디아 패권 넘으려면’...퓨리오사AI·리벨리온·딥엑스가 보는 K-AI 반도체 전략 [미리 보는 테크퀘스트] - 이투데이",
       "강한 기술·시장 신호: NPU 19, AI인프라 13, 데이터센터 17, 온디바이스AI 3, 추론 5",
-      "주요 기업 신호: 딥엑스 20, 퓨리오사AI 2, 리벨리온 1, 하이퍼엑셀 1, 모빌린트 0"
+      "주요 기업 신호: 딥엑스 21, 퓨리오사AI 2, 리벨리온 1, 하이퍼엑셀 1, 모빌린트 0"
     ],
     "leadArticles": [
       {
@@ -7193,13 +7200,13 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "파운드리·패키징",
-          15
+          16
         ]
       ],
       "companies": [
         [
           "딥엑스",
-          20
+          21
         ],
         [
           "퓨리오사AI",
@@ -7227,7 +7234,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "TSMC",
-          13
+          14
         ],
         [
           "AMD",
@@ -7334,15 +7341,15 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          73
+          74
         ],
         [
           "NPU",
-          23
+          24
         ],
         [
           "정책",
-          12
+          11
         ],
         [
           "국내 기사",
