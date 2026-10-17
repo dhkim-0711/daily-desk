@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T11:10:24.420Z",
+  "generatedAt": "2026-10-17T11:33:44.726Z",
   "news": {
     "articles": [
       {
@@ -1889,29 +1889,6 @@
         "score": 23
       },
       {
-        "title": "[AI픽] 클라우드 없이 AI 돌린다…엔비디아 'RTX 스파크' 출시 - 코인리더스",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03RnNSX2c3V21aenQ4RUVMUzNvbVI2YzVfdU85ZjBrY1hhZWlSRUtzMlRoUnhqbGVIT3FPd0g1TUt6QjdLQ0Mzag?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 13:00:01 GMT",
-        "summary": "[AI픽] 클라우드 없이 AI 돌린다…엔비디아 'RTX 스파크' 출시 &nbsp;&nbsp; 코인리더스",
-        "outlet": "코인리더스",
-        "outletUrl": "http://www.coinreaders.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 23
-      },
-      {
         "title": "TSMC earnings surge as AI demand fuels US expansion - Fox Business",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xUUg2dFpkOW9iMXpudG83b3hhdUpqOFRYLWpwcVB3cHM4UHpiWldTM3ZncmxkX1J0UXZpVTAxY3RLQ0RxMnVMaV9PSnp2NTNWRXpHaS12ZTBsR1E?oc=5",
         "publishedAt": "Fri, 16 Oct 2026 12:45:42 GMT",
@@ -1943,8 +1920,7 @@
         "outletUrl": "https://www.unite.ai",
         "source": "AI 서비스·클라우드",
         "sourceIds": [
-          "ai-agents-cloud",
-          "nvidia-ai"
+          "ai-agents-cloud"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -2264,6 +2240,29 @@
         "score": 22
       },
       {
+        "title": "Taiwan reportedly plans $4B Texas complex for Nvidia AI supply chain; tightens China AI chip exports - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmpnOTRvNnp3ekEyRE02Q1pXV3ZhZk1IZ3FNdTZtSDEtajVSYXFCSy05VzVDX1lMeU8wN3F1OGVEWTdjblBoUVpUanBDcHJGWGxEal9SUlhKVFhlTlVLOGhabno4eDh5RV9oMTRHZXZ2ZDdqLWdWOEdwN2xQblA5LVlVU2NZd05Cd0FoTWZTdl8?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 06:11:51 GMT",
+        "summary": "Taiwan reportedly plans $4B Texas complex for Nvidia AI supply chain; tightens China AI chip exports &nbsp;&nbsp; Seeking Alpha",
+        "outlet": "Seeking Alpha",
+        "outletUrl": "https://seekingalpha.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "AI시장",
+        "score": 22
+      },
+      {
         "title": "Taiwan reportedly plans $4B Texas complex for Nvidia AI supply chain; tightens China AI chip exports - TradingView",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajZyOVdQUHQ4SUZ0cmE0cDMySGlpbUFGa2NndmFXZFNScFFYVG1zanJRQkNDMzU1cUUyOEVWVlZncGVJcFdGZEtGOE1yQXh4UHpBNzdOUzVUaUFGUDkybV9jNll1V0hPcHJNVVBhVUM0UVNCdGFhY0Y4ckRPMmFvWU1IN19WNDVmMVdIT1pVLXdhRTdsS3JWNUJhNWU3M1c0eENLc3ZlY2ZnTUdFQ1BoUWhOMzlSRjdyandzXzdPOW40ZHBnNVFIYUl5OThDMmZtNHdRRGpQbEFNTU9DaWg5Q2pYTnZSMkdNTEdGc3g3T1hqcjg?oc=5",
         "publishedAt": "Fri, 16 Oct 2026 06:11:00 GMT",
@@ -2448,6 +2447,29 @@
         "taxonomyHits": [
           "NPU",
           "NVIDIA"
+        ],
+        "issueCategory": "NPU",
+        "score": 22
+      },
+      {
+        "title": "딥엑스, NPU 활용 기술 글로벌 소형 컴퓨팅 플랫폼 ‘라즈베리 파이’의 공식 뉴스룸에 소개 - 디지털경제뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEZ01iSld5bVJYQkFqY0NuSlNCb3AyRVFUbEo3MWljcm53NmJBbkpzUVZtRURabFBSM1lIQWU5LWVXNTFjUHdtLTlwblFVRlRzT3huYjFtTDZ2UEdqYWJYc3FWRXpOdzZZbWc?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 00:27:45 GMT",
+        "summary": "딥엑스, NPU 활용 기술 글로벌 소형 컴퓨팅 플랫폼 ‘라즈베리 파이’의 공식 뉴스룸에 소개 &nbsp;&nbsp; 디지털경제뉴스",
+        "outlet": "디지털경제뉴스",
+        "outletUrl": "https://www.denews.co.kr",
+        "source": "딥엑스",
+        "sourceIds": [
+          "deepx"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "딥엑스"
         ],
         "issueCategory": "NPU",
         "score": 22
@@ -2710,29 +2732,6 @@
         "score": 22
       },
       {
-        "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEYjc4dkowbWxWTnNOYUdjTVk1Sml3aXVyZGpmak1uZ0p6RkpaNTRPWThSWldLa2pGc0kwVS15WHFzVnJUU1dia3cwbTBPVktDUmVhak5Lak8yUi10V0syRFl1c0NvbXBMejR2amJzX0ZSdzDSAXhBVV95cUxQZUVwekQ3WExVS3ZTeXIxWEZ5OW9iTnpwbzUxMWVhSWMydTJoNTBoT2V4ZVk1bm50Rl93dklWRnU4NnR6aDZBS01LZ2NJUzVYWHkzejFJUVR0cnFPamxXRHJxSUNDVHFtaWdwYVFqQ21HMXg4ZVVId1k?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 11:12:51 GMT",
-        "summary": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI &nbsp;&nbsp; CNBC",
-        "outlet": "CNBC",
-        "outletUrl": "https://www.cnbc.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "수출통제·공급망"
-        ],
-        "issueCategory": "수출통제·공급망",
-        "score": 22
-      },
-      {
         "title": "Arm \"에이전틱AI 용 CPU, 랙 단위로 성능 측정해야\"…자사 칩 AMD 대비 2배 주장 - 디일렉",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrZkl6WXp6clIyUTc4eVd5NFoxNFZXRmFIdlF0Mkt2c0pBeFRvSlBjRkxKWXhZN3VXQ1NhMTIyNnBEYXdQcDVsaENrS1RSSjM2OXI3YlhaWUVoaVZ3aW9yakFpNlFIZw?oc=5",
         "publishedAt": "Thu, 15 Oct 2026 07:10:51 GMT",
@@ -2832,26 +2831,6 @@
         "sourceIds": [
           "ai-chip-public-program",
           "government-npu-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 21
-      },
-      {
-        "title": "국가 R&D의 지나온 60년, 나아갈 60년…국가과학기술자문회의, 「제1차 PACST 과학기술 포럼」 개최 - 과학기술정보통신부",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aZlYtejNhMUt6Y25XOHl0T3dyaC0tSU01RXc4bVRPbU02MnBxclhoeU5ZU1dTSXd5d0FSZHpPYUJ6RGhWTU5qZFJLb3Q5ZmJzM2l4M0pVZUpkY2YzYm1Uc2FrNGpKNTFnd1BWckxsX1hZdlpGR3Bvc292QVNweEU?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 11:13:16 GMT",
-        "summary": "국가 R&D의 지나온 60년, 나아갈 60년…국가과학기술자문회의, 「제1차 PACST 과학기술 포럼」 개최 &nbsp;&nbsp; 과학기술정보통신부",
-        "outlet": "과학기술정보통신부",
-        "outletUrl": "https://www.msit.go.kr",
-        "source": "정부·공공기관 공식자료",
-        "sourceIds": [
-          "official-korea-policy"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -2995,6 +2974,29 @@
         "score": 21
       },
       {
+        "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEYjc4dkowbWxWTnNOYUdjTVk1Sml3aXVyZGpmak1uZ0p6RkpaNTRPWThSWldLa2pGc0kwVS15WHFzVnJUU1dia3cwbTBPVktDUmVhak5Lak8yUi10V0syRFl1c0NvbXBMejR2amJzX0ZSdzDSAXhBVV95cUxQZUVwekQ3WExVS3ZTeXIxWEZ5OW9iTnpwbzUxMWVhSWMydTJoNTBoT2V4ZVk1bm50Rl93dklWRnU4NnR6aDZBS01LZ2NJUzVYWHkzejFJUVR0cnFPamxXRHJxSUNDVHFtaWdwYVFqQ21HMXg4ZVVId1k?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 11:12:51 GMT",
+        "summary": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI &nbsp;&nbsp; CNBC",
+        "outlet": "CNBC",
+        "outletUrl": "https://www.cnbc.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "수출통제·공급망",
+        "score": 21
+      },
+      {
         "title": "딥엑스 NPU, 라즈베리 파이 뉴스룸에 소개돼 - BI KOREA",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WNkRGaVExaElLYzZTTFJMUjdwUFg2MHNmLUJRdzhzTVloWWRTNHpTOW5jSDM5UEhHcW4yOVB4UVlWZG9kS2JBNmdQSDZOUjFpbzF1YzlTLWp4UEVTZE1BYWdfX0RBcGs?oc=5",
         "publishedAt": "Thu, 15 Oct 2026 09:25:02 GMT",
@@ -3003,8 +3005,7 @@
         "outletUrl": "http://www.bikorea.net",
         "source": "국내 NPU 기업",
         "sourceIds": [
-          "korea-npu",
-          "deepx"
+          "korea-npu"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -3029,6 +3030,7 @@
         "sourceIds": [
           "korea-npu",
           "deepx",
+          "ai-chip-public-program",
           "ai-chip-policy-finance"
         ],
         "sourceLang": "ko",
@@ -3715,25 +3717,25 @@
         "score": 20
       },
       {
-        "title": "Gmail's Live AI search feature arrives for Google AI subscribers - Ammon News",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0SlZ4d2dadXM0bnY3ZzJ4eEN3d3VDUDVTWXVNSXdyeWdmYWw1MVZaR1VUX2tlbDNVa21XMXFuYU1HbEJfNVZCc3VfWnJLQQ?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 08:55:02 GMT",
-        "summary": "Gmail's Live AI search feature arrives for Google AI subscribers &nbsp;&nbsp; Ammon News",
-        "outlet": "Ammon News",
-        "outletUrl": "http://en.ammonnews.net",
-        "source": "AI 시장·비즈니스",
+        "title": "가을 PC 시장, 로컬 AI 경험으로 무게 이동… 엔비디아, 코엑스서 'RTX 스파크' 선보여 - 에이빙",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xVXFUV2ZDXzhJN0tUMmQzSWlZcGlyVEZfbXlrWG9xZHNSbGtZT1J1TmhXVHlLbUVDVUp4bXNOVnBLNF94X2kyd1JOOEVETC0zY0JOenRCNjI1bzRqeG1ncVhPVW51UmJKcENz0gFrQVVfeXFMTTFVcVRXZkNfOEk3S1QyZDNJaVlwaXJURl9teWtYb3Fkc1Jsa1lPUnVOaFdUeUttRUNVSnhtc05WcEs0X3hfaTJ3Uk44RURMLTNjQk56dEI2MjVvNGp4bWdxWE9VbnVSYkpwQ3M?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 08:54:11 GMT",
+        "summary": "가을 PC 시장, 로컬 AI 경험으로 무게 이동… 엔비디아, 코엑스서 'RTX 스파크' 선보여 &nbsp;&nbsp; 에이빙",
+        "outlet": "에이빙",
+        "outletUrl": "https://kr.aving.net",
+        "source": "해외 빅테크 국내 보도",
         "sourceIds": [
-          "ai-market-business"
+          "korea-global-ai-companies"
         ],
-        "sourceLang": "en",
-        "region": "global",
+        "sourceLang": "ko",
+        "region": "domestic",
         "companyHits": [
-          "Google"
+          "NVIDIA"
         ],
         "taxonomyHits": [
-          "Google"
+          "NVIDIA"
         ],
-        "issueCategory": "Google",
+        "issueCategory": "AI시장",
         "score": 20
       },
       {
@@ -3756,28 +3758,6 @@
           "Google"
         ],
         "issueCategory": "Google",
-        "score": 20
-      },
-      {
-        "title": "가을 PC 시장, 로컬 AI 경험으로 무게 이동… 엔비디아, 코엑스서 'RTX 스파크' 선보여 - 에이빙",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WQnppUEZ6Q0d6Ri04YktudVd2QnYtbWNTLWNsTVRoS0ZlVWVKdjZpVWZIU2hKRHpzYTQ5NVZ6UDBhblNVSV9Rak1tTVJqa1E4TENDRVJqSXJia2UzYTB0R0I2LU9LRzDSAWtBVV95cUxNMVVxVFdmQ184STdLVDJkM0lpWXBpclRGX215a1hvcWRzUmxrWU9SdU5oV1R5S21FQ1VKeG1zTlZwSzRfeF9pMndSTjhFREwtM2NCTnp0QjYyNW80anhtZ3FYT1VudVJiSnBDcw?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 08:27:01 GMT",
-        "summary": "가을 PC 시장, 로컬 AI 경험으로 무게 이동… 엔비디아, 코엑스서 'RTX 스파크' 선보여 &nbsp;&nbsp; 에이빙",
-        "outlet": "에이빙",
-        "outletUrl": "https://kr.aving.net",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
         "score": 20
       },
       {
@@ -3866,28 +3846,6 @@
           "NVIDIA"
         ],
         "issueCategory": "NVIDIA",
-        "score": 20
-      },
-      {
-        "title": "Google Details Three AI Projects Aimed at Autonomous Wet Labs - TOKENPOST",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LaFZMNjJQQzh6RlVMTDhOUHlaMTQ0dlFPZW1uaklqRHc5cjMteW95emZ2YW5XRUpKekNaUHRlOXQ4bHE0R1BsYzN2MDEwVXRpXzdHSkoxOUVaM3M?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 06:03:29 GMT",
-        "summary": "Google Details Three AI Projects Aimed at Autonomous Wet Labs &nbsp;&nbsp; TOKENPOST",
-        "outlet": "TOKENPOST",
-        "outletUrl": "https://www.tokenpost.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
         "score": 20
       },
       {
@@ -4153,6 +4111,50 @@
           "딥엑스"
         ],
         "issueCategory": "NPU",
+        "score": 20
+      },
+      {
+        "title": "[AI 이슈] “AI가 바꾼 뉴스 소비”…구글, CNN·FT와 손잡고 ‘뉴스 요약 전쟁’ 본격화 - AI라이프경제",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oUWxOZkp1N25oVkh3b20wQ0swd3dhZ1VTd2UzeGh4cDQ1RXFiM3htN0ZrNHpoUFlLdGFIV09TdmxnOHp6ZEZIak1kcHRIZFI0WjFKOTFucmViOGZrZVBKNmtHZ1JMNGxPZWoxZw?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 01:34:45 GMT",
+        "summary": "[AI 이슈] “AI가 바꾼 뉴스 소비”…구글, CNN·FT와 손잡고 ‘뉴스 요약 전쟁’ 본격화 &nbsp;&nbsp; AI라이프경제",
+        "outlet": "AI라이프경제",
+        "outletUrl": "https://www.aifnlife.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 20
+      },
+      {
+        "title": "Germany Reportedly Picks Nvidia for Its Industrial AI Push, but the Money Barely Matters - TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWtNVHBnTDVhZUducFFyei1IX3NkdGNhSG1TTC1LRTdwSXk2MWUyeDZyS0NvTVFyeWd0NmxsOURhTnZJV1ZWbHBBQndZZkY0U0xDTnpsOHBrcGRtenlKU0U3TVR2U3N1ZDVfbGdLUEg0X0pqOFdVcDlvcWRzVVg1THU0SFkxRWM1Y3BiY19yV3h2OFg5aV9XQUpkNlBfalY0bFViU0FRSkF5Z3RJZjJZbUhRcDF2V0k?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 01:18:45 GMT",
+        "summary": "Germany Reportedly Picks Nvidia for Its Industrial AI Push, but the Money Barely Matters &nbsp;&nbsp; TIKR.com",
+        "outlet": "TIKR.com",
+        "outletUrl": "https://www.tikr.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
         "score": 20
       }
     ],
@@ -6912,14 +6914,14 @@
         ]
       }
     ],
-    "generatedAt": "2026-10-17T11:10:22.386Z"
+    "generatedAt": "2026-10-17T11:33:39.475Z"
   },
   "briefing": {
     "date": "2026년 10월 17일 토요일",
     "summary": [
       "오늘의 최상위 이슈: Google's TPUv7 Just Beat Nvidia's Best Chip On Its Agentic Inference Benchmark, Says Semi Analysis - OfficeChai",
-      "강한 기술·시장 신호: NPU 16, AI인프라 23, 데이터센터 18, 온디바이스AI 8, 추론 3",
-      "주요 기업 신호: 딥엑스 18, 리벨리온 2, 퓨리오사AI 2, 하이퍼엑셀 0, 모빌린트 0"
+      "강한 기술·시장 신호: NPU 17, AI인프라 22, 데이터센터 18, 온디바이스AI 8, 추론 3",
+      "주요 기업 신호: 딥엑스 19, 리벨리온 2, 퓨리오사AI 2, 하이퍼엑셀 0, 모빌린트 0"
     ],
     "leadArticles": [
       {
@@ -7174,11 +7176,11 @@
       "technologies": [
         [
           "NPU",
-          16
+          17
         ],
         [
           "AI인프라",
-          23
+          22
         ],
         [
           "데이터센터",
@@ -7204,7 +7206,7 @@
       "companies": [
         [
           "딥엑스",
-          18
+          19
         ],
         [
           "리벨리온",
@@ -7224,11 +7226,11 @@
         ],
         [
           "NVIDIA",
-          89
+          90
         ],
         [
           "Google",
-          32
+          31
         ],
         [
           "TSMC",
@@ -7339,11 +7341,11 @@
       "metrics": [
         [
           "AI시장",
-          70
+          71
         ],
         [
           "NPU",
-          21
+          22
         ],
         [
           "정책",
@@ -7351,11 +7353,11 @@
         ],
         [
           "국내 기사",
-          87
+          88
         ],
         [
           "해외 기사",
-          93
+          92
         ]
       ],
       "sections": [
