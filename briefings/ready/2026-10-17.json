@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-17",
+  "cutoff_at": "2026-10-17T09:30:00+09:00",
+  "window_start": "2026-10-16T09:30:00+09:00",
+  "created_at": "2026-10-17T09:46:35+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1, 2],
+      "bullets": [
+        "엣지에이아이와 미국 이피션트AI는 2028년 상용화를 목표로 1000 TOPS급 피지컬 AI 칩 공동개발 MOU를 맺었고, HD현대일렉트릭과 LG CNS는 AI 데이터센터 전력기기 패키지의 공동 제안·마케팅과 스마트팩토리 협력을 추진합니다.",
+        "두 협력 모두 국내 기업의 칩·전력 인프라 사업기회를 구체화하지만 아직 최종 개발계약·고객 발주가 아니라는 점에서 후속 계약, 실증과 수주를 구분해 확인해야 합니다."
+      ]
+    },
+    {
+      "article_numbers": [3, 4],
+      "bullets": [
+        "삼성전자는 실리콘 포토닉스 시장 진입과 관련 기업 인수를 검토하는 것으로 보도됐고, SK하이닉스는 CXL 3.2 메모리와 여러 서버·GPU의 KV 캐시를 공유하는 풀링 시스템 PoC를 공개했습니다.",
+        "AI 시스템의 병목이 연산칩에서 광인터커넥트·메모리 풀링·소프트웨어 통합으로 이동하고 있어 국내 생태계도 인수 검토와 기술 시연을 실제 거래·상용배치 성과와 분리해 추적할 필요가 있습니다."
+      ]
+    },
+    {
+      "article_numbers": [5, 6],
+      "bullets": [
+        "대만 정부는 NVIDIA·TSMC·Foxconn 공급망을 뒷받침할 미국 산업단지를 텍사스부터 조성하고 단지당 20억~40억달러를 투입하는 구상을 제시했으며, NVIDIA는 6개 제조사의 RTX Spark PC를 상용 출시했습니다.",
+        "글로벌 AI 경쟁이 해외 공급망 이전과 개인용 개발자 플랫폼 확대로 동시에 전개되는 만큼 국내 정책은 확정 부지·금융집행과 판매 개시·도구 호환성 같은 실행지표를 중심으로 비교할 필요가 있습니다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "엣지에이아이·이피션트AI, 1000 TOPS 피지컬 AI 칩 공동개발 MOU",
+      "category": "국내 NPU·글로벌 공동개발",
+      "collected_at": "2026-10-16T11:54:32.707Z",
+      "original_published_at": "2026-10-16T17:00:00+09:00",
+      "original_url": "https://www.etnews.com/20261016000231",
+      "event_id": "edgeai-efficientai-1000tops-physical-ai-chip-mou-2026-10-16",
+      "event_first_published_at": "2026-10-16T17:00:00+09:00",
+      "event_evidence_url": "https://www.etnews.com/20261016000231",
+      "selection_tier": "primary",
+      "main_points": [
+        "국내 팹리스 엣지에이아이와 미국 이피션트AI는 10월16일 서울대에서 1000 TOPS급 피지컬 AI 칩 공동개발 MOU를 체결하고 2028년 상용화를 목표로 100만달러 이상의 기술협력 틀을 마련했다. 250 TOPS 컴퓨트 칩렛 4개를 연결해 총소비전력 15~30W를 목표로 하며, TSMC 7나노 시제품과 향후 2나노 양산 준비를 제시했다.",
+        "이피션트AI는 공간 데이터플로 기술을 제공하고 엣지에이아이는 아시아 독점 사업화 권리를 확보하기로 했으며, ASICLAND·서울대·로봇기업이 설계와 적용에 참여할 계획이다. 다만 11~12월 작업명세서 협의와 12월 말 최종 공동개발계약 체결을 앞둔 MOU 단계여서 칩 완성·양산·고객 채택 성과로 볼 수 없다."
+      ],
+      "implications": [
+        "국내 팹리스가 해외 원천기술, 국내 설계서비스·대학과 로봇 수요기업을 묶어 피지컬 AI용 고성능 저전력 칩을 공동개발하는 구체적 협력 경로다. 국산 NPU 지원사업에서는 칩렛 연결, 개발도구와 로봇 워크로드 검증이 사업화 권리와 함께 이전되는지 살펴볼 필요가 있다.",
+        "후속 판단은 최종계약 체결, 시제품 테이프아웃, 전력·성능의 독립 검증, 수요기업의 유상 PoC와 양산 발주를 단계별로 나눠야 한다. 제시된 2028년 상용화와 2나노 양산은 목표이며 확정 일정이나 달성 성과가 아니다."
+      ],
+      "sources": [
+        {
+          "title": "엣지에이아이-美 이피션트AI, 1000TOPS급 피지컬 AI칩 공동개발",
+          "publisher": "전자신문",
+          "published_at": "2026-10-16T17:00:00+09:00",
+          "url": "https://www.etnews.com/20261016000231",
+          "verification": "full_text",
+          "verified_at": "2026-10-17T09:45:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "HD현대일렉트릭·LG CNS, AI 데이터센터 전력기기 패키지 공동사업 추진",
+      "category": "국내 AI 데이터센터·전력 인프라",
+      "collected_at": "2026-10-16T01:39:04.387Z",
+      "original_published_at": "2026-10-16T09:30:56+09:00",
+      "original_url": "https://stock12.mk.co.kr/news/view/1175653",
+      "event_id": "hd-hyundai-electric-lg-cns-ai-datacenter-power-mou-2026-10-16",
+      "event_first_published_at": "2026-10-16T09:30:56+09:00",
+      "event_evidence_url": "https://stock12.mk.co.kr/news/view/1175653",
+      "selection_tier": "primary",
+      "main_points": [
+        "HD현대일렉트릭과 LG CNS는 10월15일 AI 데이터센터 전력 인프라와 제조 AI 전환 협력을 위한 MOU를 체결했다고 16일 밝혔다. 양사는 변압기·배전반 등 전력기기의 패키지 공급체계를 만들고 국내외 AI 데이터센터 사업에 공동 제안과 마케팅을 추진하기로 했다.",
+        "HD현대일렉트릭의 전력기기 모니터링 플랫폼과 LG CNS의 AI·클라우드·데이터 역량을 결합하고, HD현대일렉트릭 청주 배전기기 스마트캠퍼스의 자동화도 협력 대상에 포함했다. 특정 데이터센터 고객, 공급물량, 계약액과 수주 일정은 공개되지 않아 현재 단계는 사업협력 MOU다."
+      ],
+      "implications": [
+        "AI 데이터센터 사업기회가 연산장비뿐 아니라 전력기기 패키지, 상태 모니터링과 운영 데이터 통합으로 확장되는 사례다. 국산 가속기 실증·도입을 기획할 때도 서버 성능과 함께 전력배분, 설비 가시성, 총소유비용을 수요기관의 실제 평가항목으로 연결할 필요가 있다.",
+        "정책·사업 판단에서는 공동 제안 이후의 고객 선정, 전력기기 발주, 소프트웨어 통합 범위와 운영 효율을 확인해야 한다. MOU 체결을 데이터센터 구축계약이나 스마트팩토리 성과로 해석해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "HD현대일렉트릭·LG CNS, AI데이터센터 전력 인프라 협력",
+          "publisher": "매일경제 마켓·연합뉴스",
+          "published_at": "2026-10-16T09:30:56+09:00",
+          "url": "https://stock12.mk.co.kr/news/view/1175653",
+          "verification": "public_reprint",
+          "verified_at": "2026-10-17T09:45:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "삼성전자, 실리콘 포토닉스 진입·관련 기업 인수 검토",
+      "category": "전략적 인수·광인터커넥트",
+      "collected_at": "2026-10-16T11:54:32.707Z",
+      "original_published_at": "2026-10-16T15:08:04+09:00",
+      "original_url": "https://news.mtn.co.kr/article/2026101610575063847",
+      "event_id": "samsung-silicon-photonics-mna-consideration-2026-10-16",
+      "event_first_published_at": "2026-10-16T15:08:04+09:00",
+      "event_evidence_url": "https://news.mtn.co.kr/article/2026101610575063847",
+      "selection_tier": "primary",
+      "main_points": [
+        "머니투데이방송은 삼성전자 고위 관계자를 인용해 회사가 내년 12인치 실리콘 포토닉스 시장 진입을 추진하고 관련 기업 인수도 검토하고 있다고 보도했다. 초기에는 포토닉 집적회로 웨이퍼 판매로 시작해 전기 IC와의 결합, 광패키징으로 사업범위를 넓히는 구상이다.",
+        "실리콘 포토닉스는 AI 데이터센터의 칩 간 데이터 전송 속도와 전력효율을 높일 수 있는 기술로 파운드리·패키징 경쟁의 핵심으로 부상했다. 그러나 인수 대상, 가격, 협상상대와 일정은 공개되지 않았고 회사의 공식 계약 발표도 없어 시장진입 구상과 인수 검토 단계로 한정해야 한다."
+      ],
+      "implications": [
+        "삼성이 파운드리 웨이퍼에서 광패키징까지 범위를 넓히고 인수로 기술·인력·고객 기반을 보완하려는 움직임은 AI 반도체 경쟁축이 전기적 인터커넥트에서 광연결 생태계로 확장되는 변화를 보여준다. 국내 팹리스와 패키징 기업에도 광 I/O 설계자산, 공정검증과 고객 공동개발 기회가 생길 수 있다.",
+        "후속 검토에서는 인수 협상의 실제 개시 여부, 12인치 공정의 수율·PDK 제공, 전기 IC와 PIC 통합방식, 고객 테이프아웃을 분리해 확인할 필요가 있다. 익명 관계자 보도를 확정 인수나 내년 매출 발생으로 간주해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "삼성전자, 실리콘 포토닉스 기업 인수 검토…내년 시장 진입",
+          "publisher": "머니투데이방송",
+          "published_at": "2026-10-16T15:08:04+09:00",
+          "url": "https://news.mtn.co.kr/article/2026101610575063847",
+          "verification": "full_text",
+          "verified_at": "2026-10-17T09:45:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "SK하이닉스, CXL 3.2 메모리 풀링·AI 랙 시스템 PoC 공개",
+      "category": "메모리·CXL·운영 SW",
+      "collected_at": "2026-10-16T04:49:51.248Z",
+      "original_published_at": "2026-10-16T12:10:53+09:00",
+      "original_url": "https://news.skhynix.com/en/ocp-global-summit-2026/",
+      "event_id": "sk-hynix-cxl-pooled-memory-mars-ocp-2026-10-16",
+      "event_first_published_at": "2026-10-16T12:10:53+09:00",
+      "event_evidence_url": "https://news.skhynix.com/en/ocp-global-summit-2026/",
+      "selection_tier": "primary",
+      "main_points": [
+        "SK하이닉스는 OCP 글로벌 서밋에서 CXL 3.2 기반 2세대 256GB CMM-DDR5를 공개하고 최대 80GB/s 대역폭과 이전 세대 대비 30% 개선된 에너지효율을 제시했다. Arcee AI·Liqid·Marvell과 여러 서버·GPU가 KV 캐시를 공유하는 메모리 풀링, AMD·Penguin Solutions 등과 하이브리드 메모리 시스템을 시연했다.",
+        "회사는 메모리 증설과 추론 캐시 공유를 소프트웨어로 관리하는 MARS 생태계, Pickle 저장기술과 CMM-Ax 장문맥 처리도 함께 선보였다. 수치와 시연 결과는 회사·파트너의 PoC 기준이며 고객의 상용 시스템 도입, 반복구매와 독립 성능검증이 확인된 것은 아니다."
+      ],
+      "implications": [
+        "AI 추론 인프라의 경쟁이 GPU 개별 용량에서 랙 단위 메모리 풀링과 KV 캐시 공유로 이동하면 가속기 이용률과 모델 서비스 비용이 메모리 관리 소프트웨어에 크게 좌우될 수 있다. 국산 NPU도 CXL 호환성뿐 아니라 오케스트레이션·캐시 계층과 실제로 통합되는지가 수요기관 도입의 핵심 조건이 된다.",
+        "지원사업과 실증에서는 서버·가속기 혼합환경의 대역폭, 지연시간, 에너지와 장애복구를 동일 조건에서 검증할 필요가 있다. 행사 시연을 납품·운영성과로 쓰지 말고 PoC 참여사가 상용 고객과 주문으로 전환되는지 추적해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "SK hynix Unveils Memory-Centric AI Rack Solutions at OCP Global Summit 2026",
+          "publisher": "SK hynix Newsroom",
+          "published_at": "2026-10-16T12:10:53+09:00",
+          "url": "https://news.skhynix.com/en/ocp-global-summit-2026/",
+          "verification": "public_primary",
+          "verified_at": "2026-10-17T09:45:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "대만, 최대 40억달러 미국 AI 공급망 산업단지 계획…텍사스부터 검토",
+      "category": "글로벌 AI 공급망·산업정책",
+      "collected_at": "2026-10-16T04:40:54.562Z",
+      "original_published_at": "2026-10-16T10:32:00+09:00",
+      "original_url": "https://finance.yahoo.com/technology/ai/articles/taiwan-fund-4-billion-texas-013257894.html",
+      "event_id": "taiwan-us-ai-supplier-parks-texas-plan-2026-10-16",
+      "event_first_published_at": "2026-10-16T10:32:00+09:00",
+      "event_evidence_url": "https://finance.yahoo.com/technology/ai/articles/taiwan-fund-4-billion-texas-013257894.html",
+      "selection_tier": "primary",
+      "recency_evidence": "10월16일 원고의 TSMC 텍사스 투자 가능성 이후 대만 정부가 협력업체의 미국 이전을 위해 단지당 20억~40억달러 규모 산업단지와 대출보증·규제 지원을 검토한다는 구체적 공급망 지원방식이 새로 공개됐다.",
+      "main_points": [
+        "Bloomberg 보도에 따르면 대만 경제부는 NVIDIA·TSMC·Foxconn 등과 연계된 공급업체의 미국 진출을 지원하기 위해 텍사스를 시작으로 복수의 산업단지를 조성하는 방안을 검토 중이다. 궈즈후이 경제부장은 단지당 20억~40억달러가 필요할 수 있으며 대만전기전자제조업협회가 자금을 모집하고 정부가 대출보증과 규제절차를 지원할 수 있다고 설명했다.",
+        "이 구상은 AI 공급망을 고객사와 가까운 미국으로 옮기려는 정책 대응이지만 확정된 정부예산이나 투자집행이 아니다. 구체적인 부지, 참여 공급업체, 정부와 민간의 분담액, 착공 일정은 정해지지 않았다."
+      ],
+      "implications": [
+        "AI 반도체 공급망 이전이 개별 기업의 공장투자를 넘어 정부 보증, 공동 산업단지와 현지 규제 지원을 묶는 방식으로 전환되고 있다. 국내 소재·장비·패키징 기업도 미국 진출 시 고객 인접성뿐 아니라 집적단지 금융구조와 현지 인력·인허가 비용을 함께 비교해야 한다.",
+        "정책 판단에서는 대만의 보증한도, 민간 자금모집, 입주확약과 텍사스 인센티브가 실제 계약으로 이어지는지 확인할 필요가 있다. 단지당 예상비용을 이미 집행된 공공예산이나 성과로 서술해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
+          "publisher": "Bloomberg News·Yahoo Finance",
+          "published_at": "2026-10-16T10:32:00+09:00",
+          "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-fund-4-billion-texas-013257894.html",
+          "verification": "public_reprint",
+          "verified_at": "2026-10-17T09:45:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "NVIDIA, RTX Spark PC 6개사 출시…로컬 AI 개발도구 상용 배치",
+      "category": "글로벌 가속기·개발자 생태계",
+      "collected_at": "2026-10-16T12:19:28.580Z",
+      "original_published_at": "2026-10-16T21:00:00+09:00",
+      "original_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "event_id": "microsoft-nvidia-rtx-spark-surface-local-agents-2026",
+      "event_first_published_at": "2026-10-16T21:00:00+09:00",
+      "event_evidence_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "selection_tier": "primary",
+      "recency_evidence": "10월8일 발표·예약판매 단계 이후 10월16일 ASUS·Dell·HP·Lenovo·Microsoft·MSI 완제품의 실제 판매 개시, 시작가격과 Windows on Arm용 PyTorch-CUDA·Python·Conda 지원 범위가 새로 공개됐다.",
+      "main_points": [
+        "NVIDIA는 ASUS·Dell·HP·Lenovo·Microsoft·MSI의 RTX Spark PC 판매가 시작됐으며 시작가격은 2,599달러라고 발표했다. Blackwell RTX GPU와 MediaTek이 협력한 Grace CPU, 최대 128GB 통합 메모리와 FP4 기준 1페타플롭 성능을 내세워 로컬에서 대형 모델과 AI 에이전트를 개발·실행하는 제품군으로 제시했다.",
+        "CUDA와 TensorRT, Windows on Arm용 PyTorch-CUDA, 네이티브 Python·Conda를 지원하고 상위 1만5천개 Python 패키지의 97%가 호환된다고 NVIDIA는 설명했다. 이는 10월8일 제품 발표·예약판매에서 실제 다수 OEM 판매와 당일 개발환경 제공으로 진전한 후속 사실이지만 성능·패키지 호환률은 회사 발표 기준이다."
+      ],
+      "implications": [
+        "가속기 경쟁이 데이터센터뿐 아니라 개발자의 로컬 PC와 익숙한 Python·PyTorch 환경으로 확대되면서 칩 전환비용은 하드웨어보다 도구·패키지 호환성에서 더 크게 형성될 수 있다. 국산 NPU 생태계도 모델 크기, 통합메모리, 로컬 에이전트와 개발환경 설치경험을 제품 평가에 포함할 필요가 있다.",
+        "정책·사업 기획에서는 판매 개시 이후 실제 개발자 채택, 지원 패키지의 안정성, 전력·가격 대비 모델 처리능력을 독립적으로 확인해야 한다. 제조사 출시를 시장점유율이나 성능 우위가 달성된 것으로 해석해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "publisher": "NVIDIA Newsroom",
+          "published_at": "2026-10-16T21:00:00+09:00",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+          "verification": "public_primary",
+          "verified_at": "2026-10-17T09:45:00+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "candidate_counts": {
+      "discovered": 4469,
+      "time_eligible": 2505,
+      "independent_events": 16,
+      "verified": 13,
+      "selected": 6,
+      "basis": "최신 mail/candidates.py가 2026-10월 아카이브 parts 전체에서 마감 전 72시간부터 작성 시점까지 4,469건, 마감 전 48시간 발행 조건에 맞는 2,505건을 집계했다. 아카이브와 직접 보완 검색에서 16개 고관련 독립 사건을 비교했고, 공개 원문을 충분히 확인한 선정 6건과 제외 7건 등 13건을 검증했다. collection의 최신 실제 완료는 2026-10-17 09:22:48 KST였으며 44개 출처가 ok, nipa-ai-chip 1개가 empty이고 failed는 없었다."
+    },
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "전체 아카이브와 리벨리온·퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀·망고부스트·디노티시아 공개자료에서 고객검증·유상 PoC·제품통합·양산·반복구매·해외협력·K-Perf를 확인했다. 엣지에이아이-이피션트AI의 1000 TOPS 피지컬 AI 칩 공동개발 MOU를 신규 후보로 선정했으며, 최종계약·시제품·수요처 도입 전 단계라는 한계를 반영했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP와 중앙부처, 지자체·지방의회·테크노파크의 NPU 정책·실증·조달·예산, GPU/NPU 지원사업의 배정·활용·집행을 확인했다. 최신 수집에서 nipa-ai-chip은 empty였으나 다른 44개 출처는 ok였고, 공식 뉴스룸·공고 직접 검색으로 보완했다. 이번 구간에 공개본문으로 검증 가능한 신규 K-Perf 수요기관 도입, GPU/NPU 배정·집행 또는 지역 NPU 사업 확정은 확인되지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google·Microsoft·TPU·ASIC의 제품·공급제약과 자체 칩·소프트웨어·개발자 생태계 확보를 위한 인수·제휴를 검색했다. RTX Spark의 6개 OEM 상용 판매와 개발환경 제공, 대만의 미국 AI 공급망 산업단지 구상, 삼성의 실리콘 포토닉스 인수 검토를 비교 선정했다. 확정 계약·예산과 검토·계획 단계를 구분했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·vLLM·SGLang·커널·런타임·GPU/NPU 오케스트레이션·하드웨어 연계 보안과 개발자 생태계를 확인했다. RTX Spark의 Windows on Arm용 PyTorch-CUDA·Python·Conda와 SK하이닉스 CXL 메모리 풀링·KV 캐시 공유 PoC를 선정했다. 이번 구간에 공개본문으로 검증 가능한 신규 ROCm 상용배치나 국산 NPU 운영성과는 확인되지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·HBF·CXL·첨단패키징·광인터커넥트, SSD와 데이터센터 전력·냉각, 클러스터 부지·전력·용수·인허가를 확인했다. 삼성의 실리콘 포토닉스 진입·인수 검토, SK하이닉스 CXL 3.2 메모리 시스템, HD현대일렉트릭-LG CNS 전력기기 패키지 협력을 선정했다. Micron 타이중 패키징 공장과 전일 호남 산단 후속 보도는 시의성·중복을 대조해 제외했다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "국내 팹리스가 해외 원천기술과 국내 설계·대학·로봇 수요기업을 묶어 고성능 저전력 피지컬 AI 칩의 공동개발과 아시아 사업화를 추진하는 구체적 협력이다."},
+      {"article_number": 2, "reason": "AI 데이터센터의 전력기기 패키지와 운영 데이터 통합을 공동 제안하는 국내 협력으로, 연산자원 사업의 전력·운영 병목과 사업기회를 함께 보여준다."},
+      {"article_number": 3, "reason": "실리콘 포토닉스 기술·인력·고객 기반을 인수로 보완하고 광패키징까지 확장하려는 전략으로, AI칩과 인터커넥트 경쟁의 중요한 변화를 보여준다."},
+      {"article_number": 4, "reason": "CXL 메모리와 KV 캐시 풀링을 실제 다수 서버·GPU PoC로 연결해 국산 가속기의 랙 단위 호환성과 운영 소프트웨어 요구를 판단하는 데 유용하다."},
+      {"article_number": 5, "reason": "개별 기업의 미국 공장투자를 넘어 정부 보증과 공동 산업단지로 공급업체 이전을 지원하는 구체적 정책 구상으로 글로벌 공급망 경쟁의 변화를 보여준다."},
+      {"article_number": 6, "reason": "발표·예약 단계에서 다수 OEM의 실제 판매와 Windows on Arm 개발도구 제공으로 진전해 가속기 전환비용과 개발자 생태계 경쟁을 판단할 수 있다."}
+    ],
+    "excluded": [
+      {
+        "title": "Micron, 타이중 두 번째 AI 메모리 패키징 공장 개장",
+        "url": "https://www.reuters.com/world/asia-pacific/taiwan-president-calls-micron-workers-negotiate-sincerely-ahead-possible-strike-2026-10-15/",
+        "reason": "첨단패키징 투자 실행은 중요하지만 최초 공개가 10월15일 14:11 KST로 48시간 보완구간이고, 24시간 신규 후보의 CXL·광인터커넥트·전력 인프라 변화와 비교해 후순위로 뒀다."
+      },
+      {
+        "title": "NVIDIA, Nemotron 3.5 Super·VL 오픈모델 공개",
+        "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+        "reason": "운영 소프트웨어 후보로 검증했으나 48시간 보완구간의 모델 공개이며, 실제 6개 OEM 판매와 개발환경 배치로 진전한 RTX Spark보다 산업육성 업무 관련성이 낮았다."
+      },
+      {
+        "title": "딥엑스, 라즈베리파이 5에서 저전력 CNN·VLM·SLM 시연",
+        "url": "https://www.raspberrypi.com/news/seeing-understanding-and-responding-low-power-cnn-vlm-and-slm-workloads-on-raspberry-pi-5/",
+        "reason": "공식 최초 공개가 10월5일로 48시간 범위를 벗어났고 이번 구간의 국내 보도에는 신규 고객계약·유상 PoC·양산·반복구매 사실이 없었다."
+      },
+      {
+        "title": "호남 반도체 국가산단 탄약고 이전 부지 후속 보도",
+        "url": "https://www.news1.kr/realestate/general/6321722",
+        "reason": "부지 우선검토와 단계 공급이라는 핵심 사실을 10월16일 원고에서 이미 선정했으며 이번 구간에 확정 부지·이전협약·예산·착공이라는 실질적 추가 사실이 확인되지 않았다."
+      },
+      {
+        "title": "ASML, AI 수요에 따른 장비 매출 성장 전망 후속 보도",
+        "url": "https://www.asml.com/en/news/press-releases/2026/q3-2026-financial-results-dd3ac76d9d0998c9",
+        "reason": "3분기 실적과 2027년 성장 전망은 10월15일 원고에서 이미 다뤘고 이번 구간에 신규 주문·공급능력·고객 일정의 추가 사실이 확인되지 않았다."
+      },
+      {
+        "title": "국산 NPU 공공 우선구매 법안 제안",
+        "url": "https://www.kharn.kr/mobile/article.html?no=31599",
+        "reason": "정부·공공 수요 후보로 재검토했으나 최초 공개가 8월14일이고 이번 구간에 법안 통과·예산·조달공고 등 새로운 절차 진전이 확인되지 않았다."
+      },
+      {
+        "title": "AI 반도체주 동반 하락과 투자심리 위축",
+        "url": "https://finance.yahoo.com/",
+        "reason": "주가·수급 후보로 확인했으나 단기 시장 변동 외에 수주취소·투자축소·공급계약 변경처럼 산업정책 판단에 필요한 독립적 새 사실이 부족했다."
+      }
+    ],
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "1000 TOPS급 피지컬 AI 칩의 공동개발·아시아 사업화 MOU가 10월16일 처음 공개된 신규 사건이며 최종계약 전 단계임을 기록했다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "AI 데이터센터 전력기기 패키지 공동 제안과 청주 공장 자동화를 묶은 MOU가 10월16일 처음 공개된 신규 협력 사건이다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "삼성의 12인치 실리콘 포토닉스 진입 구상과 관련 기업 인수 검토가 처음 보도된 사건이며 대상·가격·일정 미확정을 반영했다."},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "10월15일 원고의 삼성-AMD CXL 검증과 달리 SK하이닉스가 CXL 3.2 제품과 다수 서버·GPU의 KV 캐시 공유 PoC를 공개한 독립 사건이다."},
+      {"article_number": 5, "result": "material_update", "previous_editions": ["2026-10-16"], "new_fact": "대만 정부가 TSMC의 텍사스 투자 가능성과 별도로 공급업체용 미국 산업단지를 텍사스부터 조성하고 대출보증·규제 지원을 제공하는 방안을 공개했다.", "evidence_url": "https://finance.yahoo.com/technology/ai/articles/taiwan-fund-4-billion-texas-013257894.html", "note": "전일 TSMC 개별기업의 투자협의에서 정부 지원을 받는 공급업체 공동단지와 금융구조로 구체화된 새 사실이 있어 후속 선정했다."},
+      {"article_number": 6, "result": "material_update", "previous_editions": ["2026-10-08"], "new_fact": "발표·예약판매 이후 ASUS·Dell·HP·Lenovo·Microsoft·MSI 제품의 실제 판매가 시작되고 가격과 Windows on Arm용 PyTorch-CUDA·Python·Conda 지원범위가 공개됐다.", "evidence_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs", "note": "10월8일 제품 발표와 같은 사건이지만 다수 OEM 상용 판매와 당일 개발도구 제공이라는 실질적 실행 단계 진전으로 후속 선정했다."}
+    ],
+    "history_review": {
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-16",
+      "checked_dates": ["2026-10-03", "2026-10-04", "2026-10-05", "2026-10-06", "2026-10-07", "2026-10-08", "2026-10-09", "2026-10-10", "2026-10-11", "2026-10-12", "2026-10-13", "2026-10-14", "2026-10-15", "2026-10-16"],
+      "note": "저장소에 존재하는 최근 14일 ready 원고를 제목·주요 사실·출처까지 읽고 사건 단위로 대조했다. 10월15일의 디노티시아·K-문샷·피지컬 AI·HBF·삼성-AMD CXL·구글 AI 네이티브 데이터센터·ASML과 10월16일의 베슬AI 금융·호남 산단·SK하이닉스 다롄·TSMC 텍사스·독일-NVIDIA·CUDA-X를 중복 검토했다. 대만 공급망 단지는 정부 보증·공동단지라는 새 사실, RTX Spark는 다수 OEM 판매·개발환경 배치라는 새 사실이 있어 material_update로 선정했다."
+    },
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026-10-16 2026-10-17 국산 NPU 고객검증 유상 PoC 제품통합 양산 반복구매 해외협력 K-Perf 도입, 리벨리온 퓨리오사AI 딥엑스 모빌린트 하이퍼엑셀 망고부스트 디노티시아 엣지에이아이 공식",
+          "official_sources": "전자신문 공개본문 https://www.etnews.com/20261016000231 과 국내 NPU 기업 뉴스룸, 과기정통부·NIPA·IITP 공개자료를 확인했다.",
+          "result": "엣지에이아이-이피션트AI의 공동개발 MOU를 선정했다. 딥엑스-라즈베리파이 시연은 10월5일 최초 공개 사건이고 이번 구간에 신규 고객계약·양산 사실이 없어 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr OR site:nipa.kr OR site:iitp.kr NPU AI반도체 실증 지원사업 배정 활용 2026 10월 16 17, 지자체 지방의회 테크노파크 반도체 국비 예산 조달 부지 전력 용수 인허가",
+          "official_sources": "과기정통부·NIPA·IITP 공개 뉴스룸과 사업공고, 최근 호남·충청 클러스터 공개자료를 확인했다.",
+          "result": "nipa-ai-chip 수집원은 최신 실행에서 empty였으나 직접 공식자료 검색으로 보완했다. 마감 전 신규 K-Perf 도입, GPU/NPU 배정·활용실적, 지역 NPU 예산·계약의 확정 사실은 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "October 16 17 2026 AI accelerator GPU NPU TPU ASIC acquisition alliance own chip software developer ecosystem semiconductor supplier park Korea cooperation",
+          "official_sources": "NVIDIA 공식 발표 https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs 와 Bloomberg 공개 재배포 https://finance.yahoo.com/technology/ai/articles/taiwan-fund-4-billion-texas-013257894.html 를 확인했다.",
+          "result": "RTX Spark 상용 판매와 대만의 미국 공급업체 단지계획을 선정했다. 인수·제휴 후보로 삼성 실리콘 포토닉스 검토를 별도 비교했고 계획·검토와 확정 단계를 구분했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "October 16 17 2026 ROCm vLLM SGLang kernel runtime GPU NPU orchestration CXL memory pooling CUDA PyTorch Windows Arm developer ecosystem",
+          "official_sources": "NVIDIA RTX Spark 공식 발표와 SK하이닉스 공식 OCP 자료 https://news.skhynix.com/en/ocp-global-summit-2026/ 를 확인했다.",
+          "result": "Windows on Arm용 PyTorch-CUDA·Python·Conda와 CXL 기반 KV 캐시 공유 PoC를 선정했다. 신규 ROCm 상용배치·국산 NPU 런타임 운영성과는 확인되지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026-10-16 2026-10-17 HBM HBF CXL advanced packaging silicon photonics interconnect AI data center power transformer cooling cluster land water permit",
+          "official_sources": "SK하이닉스 OCP 공식자료, 삼성 실리콘 포토닉스 공개본문 https://news.mtn.co.kr/article/2026101610575063847, HD현대일렉트릭-LG CNS 공개 재배포 https://stock12.mk.co.kr/news/view/1175653 를 확인했다.",
+          "result": "CXL 메모리 풀링, 실리콘 포토닉스, AI 데이터센터 전력기기 패키지를 선정했다. Micron 타이중 공장과 전일 호남 산단 후속은 48시간 보완·중복 사유로 제외했다."
+        }
+      },
+      "alternative_sources": "최신 collection은 2026-10-17 09:22:48 KST에 실제 완료됐고 44개 출처가 ok, nipa-ai-chip 1개가 empty였다. 아카이브 전체와 전자신문·MTN·SK하이닉스·NVIDIA 공개 원문, 정부·기업 뉴스룸을 직접 검색해 다섯 영역을 보완했다. 모든 선정 기사는 09:30 마감 전에 아카이브에 수집됐고 검색 제목이나 RSS 요약만으로 주요 내용을 작성하지 않았다."
+    },
+    "count_reason": "전체 아카이브 4,469건과 마감 전 48시간 조건에 맞는 2,505건을 helper로 집계하고 최근 14일 원고와 사건 단위로 대조했다. 다섯 영역 보완 검색과 공식자료 확인에서 16개 고관련 독립 사건을 비교하고 공개 원문을 충분히 검증한 13개 중 국내 공동개발·전력 인프라·전략적 인수 검토·CXL 시스템·공급망 산업단지·개발자 플랫폼이라는 서로 다른 판단축의 6개를 선정했다. 오래된 기사나 범용 AI 소식으로 수를 채우지 않았다.",
+    "company_overlap_review": "NVIDIA가 기사 5의 공급망 배경과 기사 6의 제품 주체로 함께 등장하지만 기사 5는 대만 정부가 공급업체의 미국 이전을 지원하는 산업정책이고 기사 6은 다수 OEM PC와 개발자 도구의 상용 출시로 주체·근거·산업계층이 독립적이다. SK하이닉스는 최근 HBF·다롄 협상 보도와 달리 이번에는 CXL 3.2 메모리 풀링 PoC라는 별도 기술·소프트웨어 사건 한 건만 선정했고, 삼성·HD현대일렉트릭·LG CNS·엣지에이아이는 서로 다른 가치사슬을 다뤄 동일 기업집단의 유사 보도를 반복하지 않았다."
+  }
+}
