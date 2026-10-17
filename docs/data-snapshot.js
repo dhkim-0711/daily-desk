@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-10-17T00:22:50.934Z",
+  "generatedAt": "2026-10-17T01:32:34.036Z",
   "news": {
     "articles": [
       {
@@ -159,7 +159,7 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
-        "score": 29
+        "score": 28
       },
       {
         "title": "엔비디아 큰손들이 경쟁자로…MS·구글·오픈AI, 자체칩으로 '추론' 파고든다 - 뉴시스",
@@ -232,30 +232,6 @@ window.__DASHBOARD_DATA__ = {
           "파운드리·패키징"
         ],
         "issueCategory": "AI시장",
-        "score": 27
-      },
-      {
-        "title": "구글 월렛이 완전히 새롭게 단장합니다! AI 에이전트가 추가되고 카드 정보가 자동으로 업로드될 예정입니다. - Samsung Magazine",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pWllrV1k3dFVNN2ZTVFZiRVVmVDR3NVBKM2haS2s0U0J4aHE2V2N4RjBmMzN3QjJMNkFJeUdMY0U3N1NxbldOamZ5UEczTU1CdDdTUTNqVHoxODBOYzlBZXNvUUFaYjQxTmlXNnptd2JoMGhSMnc?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 11:57:04 GMT",
-        "summary": "구글 월렛이 완전히 새롭게 단장합니다! AI 에이전트가 추가되고 카드 정보가 자동으로 업로드될 예정입니다. &nbsp;&nbsp; Samsung Magazine",
-        "outlet": "Samsung Magazine",
-        "outletUrl": "https://samsungmagazine.eu",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google",
-          "Samsung"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "Google"
-        ],
-        "issueCategory": "AI에이전트",
         "score": 27
       },
       {
@@ -920,11 +896,11 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "과학기술정보통신부 [정책동화 작은변화] 나만의 AI 패션 스타일리스트 - 프레스뉴스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oYmR3YjZGOUhjSlFpLWtVRVNQWF9lbENrM3hhcVVid2JNUzREV3hfcW5kVzlDbm1ITUFuUnRpRjdxX05UVHJSa291U0t4Q2VaSVEzcFEyRkduQ2FfN2dVMFAwUTlZcnVTX0RVRVIySHE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kZzlTUWNqbW9nSkc0NWZCYzMtS1Z3TE9MeXppNGVCSmJHUWd4cFRILU5GVXEyUDdvQ29yT2pxRXBZSmd6RUMtc04xTnJxYTl1LVNpS2xZaFdiYnVubVhPc1lEcTdWMmozd2N5Q29tRW5yZw?oc=5",
         "publishedAt": "Thu, 15 Oct 2026 09:05:08 GMT",
         "summary": "과학기술정보통신부 [정책동화 작은변화] 나만의 AI 패션 스타일리스트 &nbsp;&nbsp; 프레스뉴스",
         "outlet": "프레스뉴스",
-        "outletUrl": "http://www.pressna.com",
+        "outletUrl": "https://www.pressna.com",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy"
@@ -1110,7 +1086,7 @@ window.__DASHBOARD_DATA__ = {
       {
         "title": "Nvidia’s Huang and Broadcom’s Tan Debate the AI Boom - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNlRLUzZMcHBMOTZKdVZJcmFKUnlYNkFLdlYydV9WbFBvVHFLSXphLXVFck5aMUxzX3NaSzBHNkVodTVpeHBvTTM2ck9jTkJ0RkVoUzlURzJ3dEY1SjRuMHFMVE1zbDB5MUptVC1FRVkwNElMREFaaGk1MTFYUEMtMFZPSll4clZVNzQtVHZoWm5STUNfaGZ4YlVudUE3Y1NvWTAyRDZTZzlnbTV5RlBDQ3U4Tk9UTzVMT1AzcVUxa3JQMEwwUldWU3V1SGkxWDA?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 23:03:51 GMT",
+        "publishedAt": "Sat, 17 Oct 2026 00:33:51 GMT",
         "summary": "Nvidia’s Huang and Broadcom’s Tan Debate the AI Boom &nbsp;&nbsp; Bloomberg.com",
         "outlet": "Bloomberg.com",
         "outletUrl": "https://www.bloomberg.com",
@@ -1352,68 +1328,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "삼성·SK 손잡고 차세대 AI 반도체 개발… 과기정통부 K-문샷 출범 - 아주경제",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZdi1fMXhmMkR0NWZRVkV2MFJPc20zVFJuNDR1OFNaNW1VQVVpblIxaTBnd1Y1c0xGdFJQeF9GQnZoNk9IZ29Uc1p6eXROVGZuNGw0STVTUjDSAVhBVV95cUxQWXYtXzF4ZjJEdDVmUVZFdjBST3NtM1RSbjQ0dThTWjVtVUFVaW5SMWkwZ3dWNXNMRnRSUHhfRkJ2aDZPSGdvVHNaenl0TlRmbjRsNEk1U1Iw?oc=5",
-        "publishedAt": "Wed, 14 Oct 2026 01:32:13 GMT",
-        "summary": "삼성·SK 손잡고 차세대 AI 반도체 개발… 과기정통부 K-문샷 출범 &nbsp;&nbsp; 아주경제",
-        "outlet": "아주경제",
-        "outletUrl": "https://www.ajunews.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy",
-          "ai-chip-public-program",
-          "government-npu-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 24
-      },
-      {
-        "title": "AI 전력 폭주 막아라…과기정통부, 'K-문샷 반도체 위원회' 출범 - 와이드경제",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CUk1fcHJaUTZqS0FvdUFNQ0stNUVicWtGR0tXOG93MFIxYUIzakNpaEszS2J6ZElnOVUteTAxTVE2UDU5bXVhckh1MHVBRjVGZUpZQjNYWUxzN3FESHJsLXgwTDFuR05ZbEZkbQ?oc=5",
-        "publishedAt": "Wed, 14 Oct 2026 01:25:47 GMT",
-        "summary": "AI 전력 폭주 막아라…과기정통부, 'K-문샷 반도체 위원회' 출범 &nbsp;&nbsp; 와이드경제",
-        "outlet": "와이드경제",
-        "outletUrl": "https://www.widedaily.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 24
-      },
-      {
-        "title": "류제명 과기정통부 2차관 “피지컬 AI, 대한민국 미래 이끌 핵심 기술…산학연 협력 중요” - www.dt.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwLS10Z2V5U0RNdGVIejJYMWZIbC1GbnhPVzB5S1hRZVJUb25vMFUtOVN3RUJzWGc4WkFNNW1ocVNuOWRaS09jM0xDQ2VhellOeU0zTGpMNmRjQUlNcDNrUg?oc=5",
-        "publishedAt": "Wed, 14 Oct 2026 01:00:00 GMT",
-        "summary": "류제명 과기정통부 2차관 “피지컬 AI, 대한민국 미래 이끌 핵심 기술…산학연 협력 중요” &nbsp;&nbsp; www.dt.co.kr",
-        "outlet": "www.dt.co.kr",
-        "outletUrl": "https://www.dt.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 24
-      },
-      {
         "title": "엔비디아, AI 에이전트용 ‘네모트론 3.5 Super VL’ 3종 출시…메타·애플도 협력 확대 : 국제 - 재경일보",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jSkdJVGpTT1Y3S3h4cmhtb1VmN01IUklEaTRMSXdmelZ3UGhQOUNXZnd2S3hYeFYyNWVTRnNNMVdFZE5QU0xteXZwaw?oc=5",
         "publishedAt": "Fri, 16 Oct 2026 23:17:00 GMT",
@@ -1461,7 +1375,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "엔비디아 'RTX 스파크' 출시-윈도 AI PC 시장 본격 공략 - 포커스온경제",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05SC14c0daODkyLVAtTm01SVFZWDF5VUFxRjczRHM0SUVtYnlVNUo2VVMtWTdYVU9BRldTcWk1bGloWGlsVndPMjVGV2pCWnh6Z2MzYnBqNHh2cmRZYmc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05ZlYwTGhDdnItQ3lJMDVILVFULWZuQjRXcUdzVTZ4WHVEeExCemdWM25Tc0N0VlhNeEVoeWF4em1YcW9yRVlodTNvX0xVOVVfQ1RvTHlNc0xzcDR3eDdheg?oc=5",
         "publishedAt": "Fri, 16 Oct 2026 21:56:04 GMT",
         "summary": "엔비디아 'RTX 스파크' 출시-윈도 AI PC 시장 본격 공략 &nbsp;&nbsp; 포커스온경제",
         "outlet": "포커스온경제",
@@ -2016,6 +1930,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
+        "title": "[AI픽] 클라우드 없이 AI 돌린다…엔비디아 'RTX 스파크' 출시 · 주요 내용은? - supple.kr",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MM2YxNW85Tk9JUXZlWWhBeWFtZ3k0Z3FOQ0RmTERyRVZPbm1kaEJjVkRwTVZRUk9raUdEcW9weV9qYi1sWC0ydklldDI3dUhzSWlXYjFKWVV2Y2hP?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 12:00:01 GMT",
+        "summary": "[AI픽] 클라우드 없이 AI 돌린다…엔비디아 'RTX 스파크' 출시 · 주요 내용은? &nbsp;&nbsp; supple.kr",
+        "outlet": "supple.kr",
+        "outletUrl": "https://supple.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 23
+      },
+      {
         "title": "This AI startup gives away 4x more free tokens daily than Google - Yahoo",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zdVY0SGM3d3A4VzR4NjRQd19iaTNVQUpWbEU1emctOE85UFJXbEVmNk1oMjhlMUN3UWdNblRLRDdESUpSVzZyMW90dnM0aGRZQU55YlBYMS1WdngwcXdyUTlnM0l0MUt6OG9QQnhVTzNDZmZQOGpKNUl6emxrQQ?oc=5",
         "publishedAt": "Fri, 16 Oct 2026 12:00:00 GMT",
@@ -2484,57 +2421,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "K-반도체, 저전력 NPU로 엔비디아 독점 판도 흔든다… 하드웨어 최고 수준 넘어 생태계 확장 본격화 - https://www.koreasprint.com/",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pVDdodngzRWtGcUo1TnBwMnl6YWlPRF94Mkg5dE1nLW1Xa0dIb1YzLU1ES2JoVlNOSHBlTTcwMkQzVkw2aDBpLVAzb3dRZlRIdGdmLWo4alR2OHVRNzZVWFFaRmtmRjR0UWszOE5n?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 00:57:38 GMT",
-        "summary": "K-반도체, 저전력 NPU로 엔비디아 독점 판도 흔든다… 하드웨어 최고 수준 넘어 생태계 확장 본격화 &nbsp;&nbsp; https://www.koreasprint.com/",
-        "outlet": "https://www.koreasprint.com/",
-        "outletUrl": "https://www.koreasprint.com",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "rebellions",
-          "furiosa",
-          "government-npu-policy",
-          "npu-commercialization",
-          "korea-global-chip-cooperation"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "NVIDIA"
-        ],
-        "issueCategory": "NPU",
-        "score": 23
-      },
-      {
-        "title": "딥엑스, NPU 활용 기술 글로벌 소형 컴퓨팅 플랫폼 ‘라즈베리 파이’의 공식 뉴스룸에 소개 - 디지털경제뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEZ01iSld5bVJYQkFqY0NuSlNCb3AyRVFUbEo3MWljcm53NmJBbkpzUVZtRURabFBSM1lIQWU5LWVXNTFjUHdtLTlwblFVRlRzT3huYjFtTDZ2UEdqYWJYc3FWRXpOdzZZbWc?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 00:27:45 GMT",
-        "summary": "딥엑스, NPU 활용 기술 글로벌 소형 컴퓨팅 플랫폼 ‘라즈베리 파이’의 공식 뉴스룸에 소개 &nbsp;&nbsp; 디지털경제뉴스",
-        "outlet": "디지털경제뉴스",
-        "outletUrl": "https://www.denews.co.kr",
-        "source": "딥엑스",
-        "sourceIds": [
-          "deepx"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 23
-      },
-      {
         "title": "Arm \"에이전틱AI 용 CPU, 랙 단위로 성능 측정해야\"…자사 칩 AMD 대비 2배 주장 - 디일렉",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrZkl6WXp6clIyUTc4eVd5NFoxNFZXRmFIdlF0Mkt2c0pBeFRvSlBjRkxKWXhZN3VXQ1NhMTIyNnBEYXdQcDVsaENrS1RSSjM2OXI3YlhaWUVoaVZ3aW9yakFpNlFIZw?oc=5",
         "publishedAt": "Thu, 15 Oct 2026 07:10:51 GMT",
@@ -2568,27 +2454,6 @@ window.__DASHBOARD_DATA__ = {
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "[특징주] 멜콘, 코스닥 상장 첫날 74% 급등…공모가 크게 웃돌아 - 남도일보",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMENXVzhKbzdKMUc2WFdsaEYtWG5pWnhPajFMUU9abEp3QzVJZUlwNGNWcWdIZUxLeldON3UxaWlyUmpzeDJaMlpiSGF1c1Q3RGk2Q040SEd3bUZiNWhGZTg0NS1GWGh0SFdNUdIBcEFVX3lxTE1UTWp2SlUtT3FURVphTERpMzNvM0J5TVRRUjg4bWJ3Mk9lVXpIbUFsZnhwYVZiTnpmNFZXbmFyUDBBWW5paG9LLUl6QThBRkJtSFAxa2RnQlhpVGNsUTlUdjJFcC1kNUVDOGd2UWd6eVk?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 01:18:40 GMT",
-        "summary": "[특징주] 멜콘, 코스닥 상장 첫날 74% 급등…공모가 크게 웃돌아 &nbsp;&nbsp; 남도일보",
-        "outlet": "남도일보",
-        "outletUrl": "https://www.namdonews.com",
-        "source": "AI반도체 공공사업",
-        "sourceIds": [
-          "ai-chip-public-program"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -2689,6 +2554,57 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
+        "score": 22
+      },
+      {
+        "title": "K-반도체, 저전력 NPU로 엔비디아 독점 판도 흔든다… 하드웨어 최고 수준 넘어 생태계 확장 본격화 - https://www.koreasprint.com/",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pVDdodngzRWtGcUo1TnBwMnl6YWlPRF94Mkg5dE1nLW1Xa0dIb1YzLU1ES2JoVlNOSHBlTTcwMkQzVkw2aDBpLVAzb3dRZlRIdGdmLWo4alR2OHVRNzZVWFFaRmtmRjR0UWszOE5n?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 00:57:38 GMT",
+        "summary": "K-반도체, 저전력 NPU로 엔비디아 독점 판도 흔든다… 하드웨어 최고 수준 넘어 생태계 확장 본격화 &nbsp;&nbsp; https://www.koreasprint.com/",
+        "outlet": "https://www.koreasprint.com/",
+        "outletUrl": "https://www.koreasprint.com",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "rebellions",
+          "furiosa",
+          "government-npu-policy",
+          "npu-commercialization",
+          "korea-global-chip-cooperation"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "NVIDIA"
+        ],
+        "issueCategory": "NPU",
+        "score": 22
+      },
+      {
+        "title": "딥엑스, NPU 활용 기술 글로벌 소형 컴퓨팅 플랫폼 ‘라즈베리 파이’의 공식 뉴스룸에 소개 - 디지털경제뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEZ01iSld5bVJYQkFqY0NuSlNCb3AyRVFUbEo3MWljcm53NmJBbkpzUVZtRURabFBSM1lIQWU5LWVXNTFjUHdtLTlwblFVRlRzT3huYjFtTDZ2UEdqYWJYc3FWRXpOdzZZbWc?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 00:27:45 GMT",
+        "summary": "딥엑스, NPU 활용 기술 글로벌 소형 컴퓨팅 플랫폼 ‘라즈베리 파이’의 공식 뉴스룸에 소개 &nbsp;&nbsp; 디지털경제뉴스",
+        "outlet": "디지털경제뉴스",
+        "outletUrl": "https://www.denews.co.kr",
+        "source": "딥엑스",
+        "sourceIds": [
+          "deepx"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
         "score": 22
       },
       {
@@ -2903,6 +2819,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
+        "title": "Evaluating AI agents: moving past the vibe check - blog.google",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVk9hOUpDUnlkNkllQlJFWlJjQ0NPa20xWjI2bFJKX0FwOFFtbl81RklrOEdDckUwRHZYck1aTHpVLWQzYlFON0FwTV8yWmhQbUxPNkZpLWh4UWVTR2lfYlNrcm5hNVpQNXdiVDRIUF85RE9UZ3ZtczRRODJoQ21Cd0VSMk4ydTVwVlE?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 14:19:51 GMT",
+        "summary": "Evaluating AI agents: moving past the vibe check &nbsp;&nbsp; blog.google",
+        "outlet": "blog.google",
+        "outletUrl": "https://developers.googleblog.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "Google"
+        ],
+        "issueCategory": "AI에이전트",
+        "score": 22
+      },
+      {
         "title": "ServiceNow launches AI Passport to ride along with Nvidia's Open Agent Safety Platform - Constellation Research",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTVmZE9sczZ6c21xUm1NWDc5cXF1SU95Y0NxbHotM2R2NUs2WGVYN2tKcEhYSFpzdkI5ZkVJYlZOMW0xc0l2dW9qb3Q2OUR1WDNDOEtQelZrS3hiR2FYSW10MFlZWGZZbk1nMWFPWmlIZm9TLU9Nb0U1Yi1POU5mcDNDeWp4QmUtX084Z1RoNG5wX2lFUk84Z1ZFTFVxNW1SQkU1ZFFZVTNpVnc2WG4taTZlamw4WGF1QXMyNEZTOA?oc=5",
         "publishedAt": "Thu, 15 Oct 2026 13:08:42 GMT",
@@ -2923,6 +2862,29 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI에이전트",
+        "score": 22
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEYjc4dkowbWxWTnNOYUdjTVk1Sml3aXVyZGpmak1uZ0p6RkpaNTRPWThSWldLa2pGc0kwVS15WHFzVnJUU1dia3cwbTBPVktDUmVhak5Lak8yUi10V0syRFl1c0NvbXBMejR2amJzX0ZSdzDSAXhBVV95cUxQZUVwekQ3WExVS3ZTeXIxWEZ5OW9iTnpwbzUxMWVhSWMydTJoNTBoT2V4ZVk1bm50Rl93dklWRnU4NnR6aDZBS01LZ2NJUzVYWHkzejFJUVR0cnFPamxXRHJxSUNDVHFtaWdwYVFqQ21HMXg4ZVVId1k?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 11:12:51 GMT",
+        "summary": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI &nbsp;&nbsp; CNBC",
+        "outlet": "CNBC",
+        "outletUrl": "https://www.cnbc.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "수출통제·공급망",
         "score": 22
       },
       {
@@ -3116,170 +3078,24 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "[Tech & Now] 파두, ’파일 시맨틱 SSD’ 첫선…딥엑스 NPU 라즈베리 파이 소개 By EBN - Investing.com 한국어",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Mbzgwa3pfZmpISFNVek1DT3ZPU2xjUlNUWHNwSGFiNUh6aWtnQTkyQ1FfTEJoZ1BUbWZyRVF2WDZ2QWcyTDAwV0lERDlfXzhDTEhuWWNMdHdkX3RvTTdPeHhLTC10OEVqQnQ1SXA5U0k?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 01:11:00 GMT",
-        "summary": "[Tech & Now] 파두, ’파일 시맨틱 SSD’ 첫선…딥엑스 NPU 라즈베리 파이 소개 By EBN &nbsp;&nbsp; Investing.com 한국어",
-        "outlet": "Investing.com 한국어",
-        "outletUrl": "https://kr.investing.com",
-        "source": "국내 NPU 기업",
+        "title": "[특징주] 멜콘, 코스닥 상장 첫날 74% 급등…공모가 크게 웃돌아 - 남도일보",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMENXVzhKbzdKMUc2WFdsaEYtWG5pWnhPajFMUU9abEp3QzVJZUlwNGNWcWdIZUxLeldON3UxaWlyUmpzeDJaMlpiSGF1c1Q3RGk2Q040SEd3bUZiNWhGZTg0NS1GWGh0SFdNUdIBcEFVX3lxTE1UTWp2SlUtT3FURVphTERpMzNvM0J5TVRRUjg4bWJ3Mk9lVXpIbUFsZnhwYVZiTnpmNFZXbmFyUDBBWW5paG9LLUl6QThBRkJtSFAxa2RnQlhpVGNsUTlUdjJFcC1kNUVDOGd2UWd6eVk?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 01:18:40 GMT",
+        "summary": "[특징주] 멜콘, 코스닥 상장 첫날 74% 급등…공모가 크게 웃돌아 &nbsp;&nbsp; 남도일보",
+        "outlet": "남도일보",
+        "outletUrl": "https://www.namdonews.com",
+        "source": "AI반도체 공공사업",
         "sourceIds": [
-          "korea-npu"
+          "ai-chip-public-program"
         ],
         "sourceLang": "ko",
         "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
+        "companyHits": [],
         "taxonomyHits": [
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 22
-      },
-      {
-        "title": "[스타트업 안테나] 휴로틱스 250억 투자 유치·그린다 최대 30억 지원…딥엑스·엑시나 AI 인프라 사업 확대 - 테크42",
-        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNOEVWWTU3UW9PYUd2M2p4VHFTVUhRZDVDZFNScVlOenhEa0YyMUVIRmVVaG1LQ19ZdUNuZExPdjBHZ3NxcFdRTDN3UHk0MFlXRXkwOTFIX2JjX0F2UmVUN0M1clpra0VzVThTWDhHS2I4RURJdjYzZWZ3TVdOem5fU1ZCWExPNldjNkVjUXh5WnRXai1xckZ3cXpPaXBjUU80U0J3ZjhhZDFNVUZMQ1l6SlZjRHUxb0xfRlVWYUt0OWVXdFFaRjkyZ3ppakRMb0QxcFdOVTY2TWNfZVFMeEVqMUs0ZGV0WFA2UFIycnVrNHJ0YmxncjNrTEJEc1lFNVJoZW5FaS1DcExnWUxYNVZTTDU4MGNhelJrMmg5VllneldrcjNDOEcxR3BJZDJxcm55OG1mZVozbzhfMXk2MjFDR1J2MA?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 00:58:22 GMT",
-        "summary": "[스타트업 안테나] 휴로틱스 250억 투자 유치·그린다 최대 30억 지원…딥엑스·엑시나 AI 인프라 사업 확대 &nbsp;&nbsp; 테크42",
-        "outlet": "테크42",
-        "outletUrl": "https://www.tech42.co.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "딥엑스",
+          "정책",
           "투자·M&A"
         ],
-        "issueCategory": "NPU",
-        "score": 22
-      },
-      {
-        "title": "딥엑스 NPU, 라즈베리 파이 뉴스룸 소개…3W로 영상·언어 AI 실행 - AI 매터스",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yVWRGdVE2MHBuLWtJaGpqNm9feDdrNXpVX0tRRWdDNUpNN3JGQkJYaVpteHhEdkV4NmYxMmtjRy1lc3dpMmtTVWxVOXZhTmQwSEhONQ?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 00:52:16 GMT",
-        "summary": "딥엑스 NPU, 라즈베리 파이 뉴스룸 소개…3W로 영상·언어 AI 실행 &nbsp;&nbsp; AI 매터스",
-        "outlet": "AI 매터스",
-        "outletUrl": "https://aimatters.co.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "deepx"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 22
-      },
-      {
-        "title": "딥엑스, 라즈베리 파이 뉴스룸에 NPU 탑재 기술 소개 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhOTRRUkYzTnZ4UDZSNFUtVVViOXNnY2FVekFiYlc0bUdSY0VudThYREdsd1lqVzhUdjhCUGcyNjBWX08tZXFBR2lfU2YzYk1hUGJFX1NR?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 00:44:17 GMT",
-        "summary": "딥엑스, 라즈베리 파이 뉴스룸에 NPU 탑재 기술 소개 &nbsp;&nbsp; 지디넷코리아",
-        "outlet": "지디넷코리아",
-        "outletUrl": "https://zdnet.co.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "deepx"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 22
-      },
-      {
-        "title": "이스트소프트 AI 아바타부터 딥엑스 NPU까지…AI 확장, 산업 현장으로 - 팝콘뉴스",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HVVZqSzgtcjdrbHEyVWJ1dHM0OUpMcmlDamNFZDVDR2VoSnpDUWxrbmUwdEhVTHpaMUxqTVhfd3Vpc3NQQ0QteFZMMWZneFRPOU5lSF9rX0oyODZwZ1FjRWFMV1lLS0l0Z1gzUWRn0gFyQVVfeXFMT29XalNaWXJBVjRzZi1CR2t6VFh5cVFUby1EWEJuZ0dzN0Zrc2VoUDU2OGN3WDM5UTlaWkdQYjFSeWFreWpzcFpCUGt1Nk9HNTc3cFM1OEhsMHpWbHZ0VU43R3BaR3VJZHREUmhqSFVpZEZn?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 00:41:29 GMT",
-        "summary": "이스트소프트 AI 아바타부터 딥엑스 NPU까지…AI 확장, 산업 현장으로 &nbsp;&nbsp; 팝콘뉴스",
-        "outlet": "팝콘뉴스",
-        "outletUrl": "http://www.popcornnews.net",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "deepx"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 22
-      },
-      {
-        "title": "[AI픽] 라즈베리 파이가 주목한 딥엑스 NPU…영상 인식 넘어 상황 이해 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nU25qUDZGbjhBWHdqZXR0MTE3WTYxY0lPMk44QmV0NExOblQ5QXdUUTF4RTc1T2R5MG5FaVN6eFZyS2lUNlZQYlg3NDMxUG9tRWJsTDVPbEZPc2ZCeWxrUtIBYEFVX3lxTE1nU25qUDZGbjhBWHdqZXR0MTE3WTYxY0lPMk44QmV0NExOblQ5QXdUUTF4RTc1T2R5MG5FaVN6eFZyS2lUNlZQYlg3NDMxUG9tRWJsTDVPbEZPc2ZCeWxrUg?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 00:27:51 GMT",
-        "summary": "[AI픽] 라즈베리 파이가 주목한 딥엑스 NPU…영상 인식 넘어 상황 이해 &nbsp;&nbsp; 연합뉴스",
-        "outlet": "연합뉴스",
-        "outletUrl": "https://www.yna.co.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "deepx"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 22
-      },
-      {
-        "title": "딥엑스, 3W NPU로 라즈베리 파이서 영상·언어 AI 구현 - 아이뉴스24",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEUWdsMjNpSnEtRXM3Sm4xZS1tc25sVTZYTjctaG1oZFlLVU5EenJQMDFhNEctVkUyWjFVVk9GWTBfc3dveTlvd3hrbDA?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 00:24:05 GMT",
-        "summary": "딥엑스, 3W NPU로 라즈베리 파이서 영상·언어 AI 구현 &nbsp;&nbsp; 아이뉴스24",
-        "outlet": "아이뉴스24",
-        "outletUrl": "https://www.inews24.com",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "deepx",
-          "msit-ai-chip"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
+        "issueCategory": "AI시장",
         "score": 22
       },
       {
@@ -3561,6 +3377,28 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
+        "title": "Labelbox Closes $100M+ in Series E Funding to Advance Reinforcement Learning and Enterprise AI Agents - AI Insider",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbHluTnRFeEhuMnZGbmFCbzlqZF9oQlJsZ0JDX0l5c1l0eEFycnQ1OFN0RGNEQkVReDBWOTRIX3pLS0VoTFJnMFRWWFE3dmp1SWRvdnY5UEJHZDdieGtRVnNOTVEzd0RXb0pSZ3NMNzRZUy00amdYNjk5Y1RhZG1kazJGU1BuQmNqR2RibXNzNlhsUnliNktLbnFfSnF3WkdlS0hfV2dvdi1ET1ZPS0t5U0R5OTk0Zmx6ZmdaeHRzYnFTcjRYMUV0dWdjc1gtWExNX2Nz?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 15:25:40 GMT",
+        "summary": "Labelbox Closes $100M+ in Series E Funding to Advance Reinforcement Learning and Enterprise AI Agents &nbsp;&nbsp; AI Insider",
+        "outlet": "AI Insider",
+        "outletUrl": "https://theaiinsider.tech",
+        "source": "AI 시장·비즈니스",
+        "sourceIds": [
+          "ai-market-business"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [],
+        "taxonomyHits": [
+          "AI시장",
+          "AI에이전트",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 21
+      },
+      {
         "title": "AI Cloud Firm Neysa Targets IPO by End of 2027, Plans GPU Expansion and Own Data Centres - CXO Digitalpulse",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGJhSVNadDM3akRMWXU5Wl9HYVRNYVh0aDI1UEZYTS1jZ0lEeVlIRG1waFFTcVdSQ1RtX01QZGptdW5sVnUxelJsaV9Ud3NyRllDREhJZl9HMF91NnQ0dnhuelZCRm5zc2xMTXM0YlNHei1aM1VxUU82bDI3U0JOcVo1S3htYmRYQllIZ2JCWVNuMmhJX0NnTHZjU2tEeTN6aDgxZFAzRW1WMUtVSjFaYkw4a2l6NVVoUXpGZQ?oc=5",
         "publishedAt": "Thu, 15 Oct 2026 12:20:30 GMT",
@@ -3602,6 +3440,173 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
+        "score": 21
+      },
+      {
+        "title": "[Tech & Now] 파두, ’파일 시맨틱 SSD’ 첫선…딥엑스 NPU 라즈베리 파이 소개 By EBN - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Mbzgwa3pfZmpISFNVek1DT3ZPU2xjUlNUWHNwSGFiNUh6aWtnQTkyQ1FfTEJoZ1BUbWZyRVF2WDZ2QWcyTDAwV0lERDlfXzhDTEhuWWNMdHdkX3RvTTdPeHhLTC10OEVqQnQ1SXA5U0k?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 01:11:00 GMT",
+        "summary": "[Tech & Now] 파두, ’파일 시맨틱 SSD’ 첫선…딥엑스 NPU 라즈베리 파이 소개 By EBN &nbsp;&nbsp; Investing.com 한국어",
+        "outlet": "Investing.com 한국어",
+        "outletUrl": "https://kr.investing.com",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
+        "score": 21
+      },
+      {
+        "title": "[스타트업 안테나] 휴로틱스 250억 투자 유치·그린다 최대 30억 지원…딥엑스·엑시나 AI 인프라 사업 확대 - 테크42",
+        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNOEVWWTU3UW9PYUd2M2p4VHFTVUhRZDVDZFNScVlOenhEa0YyMUVIRmVVaG1LQ19ZdUNuZExPdjBHZ3NxcFdRTDN3UHk0MFlXRXkwOTFIX2JjX0F2UmVUN0M1clpra0VzVThTWDhHS2I4RURJdjYzZWZ3TVdOem5fU1ZCWExPNldjNkVjUXh5WnRXai1xckZ3cXpPaXBjUU80U0J3ZjhhZDFNVUZMQ1l6SlZjRHUxb0xfRlVWYUt0OWVXdFFaRjkyZ3ppakRMb0QxcFdOVTY2TWNfZVFMeEVqMUs0ZGV0WFA2UFIycnVrNHJ0YmxncjNrTEJEc1lFNVJoZW5FaS1DcExnWUxYNVZTTDU4MGNhelJrMmg5VllneldrcjNDOEcxR3BJZDJxcm55OG1mZVozbzhfMXk2MjFDR1J2MA?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 00:58:22 GMT",
+        "summary": "[스타트업 안테나] 휴로틱스 250억 투자 유치·그린다 최대 30억 지원…딥엑스·엑시나 AI 인프라 사업 확대 &nbsp;&nbsp; 테크42",
+        "outlet": "테크42",
+        "outletUrl": "https://www.tech42.co.kr",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "딥엑스",
+          "투자·M&A"
+        ],
+        "issueCategory": "NPU",
+        "score": 21
+      },
+      {
+        "title": "딥엑스 NPU, 라즈베리 파이 뉴스룸 소개…3W로 영상·언어 AI 실행 - AI 매터스",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yVWRGdVE2MHBuLWtJaGpqNm9feDdrNXpVX0tRRWdDNUpNN3JGQkJYaVpteHhEdkV4NmYxMmtjRy1lc3dpMmtTVWxVOXZhTmQwSEhONQ?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 00:52:16 GMT",
+        "summary": "딥엑스 NPU, 라즈베리 파이 뉴스룸 소개…3W로 영상·언어 AI 실행 &nbsp;&nbsp; AI 매터스",
+        "outlet": "AI 매터스",
+        "outletUrl": "https://aimatters.co.kr",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "deepx"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
+        "score": 21
+      },
+      {
+        "title": "딥엑스, 라즈베리 파이 뉴스룸에 NPU 탑재 기술 소개 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhOTRRUkYzTnZ4UDZSNFUtVVViOXNnY2FVekFiYlc0bUdSY0VudThYREdsd1lqVzhUdjhCUGcyNjBWX08tZXFBR2lfU2YzYk1hUGJFX1NR?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 00:44:17 GMT",
+        "summary": "딥엑스, 라즈베리 파이 뉴스룸에 NPU 탑재 기술 소개 &nbsp;&nbsp; 지디넷코리아",
+        "outlet": "지디넷코리아",
+        "outletUrl": "https://zdnet.co.kr",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "deepx"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
+        "score": 21
+      },
+      {
+        "title": "이스트소프트 AI 아바타부터 딥엑스 NPU까지…AI 확장, 산업 현장으로 - 팝콘뉴스",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HVVZqSzgtcjdrbHEyVWJ1dHM0OUpMcmlDamNFZDVDR2VoSnpDUWxrbmUwdEhVTHpaMUxqTVhfd3Vpc3NQQ0QteFZMMWZneFRPOU5lSF9rX0oyODZwZ1FjRWFMV1lLS0l0Z1gzUWRn0gFyQVVfeXFMT29XalNaWXJBVjRzZi1CR2t6VFh5cVFUby1EWEJuZ0dzN0Zrc2VoUDU2OGN3WDM5UTlaWkdQYjFSeWFreWpzcFpCUGt1Nk9HNTc3cFM1OEhsMHpWbHZ0VU43R3BaR3VJZHREUmhqSFVpZEZn?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 00:41:29 GMT",
+        "summary": "이스트소프트 AI 아바타부터 딥엑스 NPU까지…AI 확장, 산업 현장으로 &nbsp;&nbsp; 팝콘뉴스",
+        "outlet": "팝콘뉴스",
+        "outletUrl": "http://www.popcornnews.net",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "deepx"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
+        "score": 21
+      },
+      {
+        "title": "[AI픽] 라즈베리 파이가 주목한 딥엑스 NPU…영상 인식 넘어 상황 이해 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nU25qUDZGbjhBWHdqZXR0MTE3WTYxY0lPMk44QmV0NExOblQ5QXdUUTF4RTc1T2R5MG5FaVN6eFZyS2lUNlZQYlg3NDMxUG9tRWJsTDVPbEZPc2ZCeWxrUtIBYEFVX3lxTE1nU25qUDZGbjhBWHdqZXR0MTE3WTYxY0lPMk44QmV0NExOblQ5QXdUUTF4RTc1T2R5MG5FaVN6eFZyS2lUNlZQYlg3NDMxUG9tRWJsTDVPbEZPc2ZCeWxrUg?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 00:27:51 GMT",
+        "summary": "[AI픽] 라즈베리 파이가 주목한 딥엑스 NPU…영상 인식 넘어 상황 이해 &nbsp;&nbsp; 연합뉴스",
+        "outlet": "연합뉴스",
+        "outletUrl": "https://www.yna.co.kr",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "deepx"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
+        "score": 21
+      },
+      {
+        "title": "딥엑스, 3W NPU로 라즈베리 파이서 영상·언어 AI 구현 - 아이뉴스24",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEUWdsMjNpSnEtRXM3Sm4xZS1tc25sVTZYTjctaG1oZFlLVU5EenJQMDFhNEctVkUyWjFVVk9GWTBfc3dveTlvd3hrbDA?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 00:24:05 GMT",
+        "summary": "딥엑스, 3W NPU로 라즈베리 파이서 영상·언어 AI 구현 &nbsp;&nbsp; 아이뉴스24",
+        "outlet": "아이뉴스24",
+        "outletUrl": "https://www.inews24.com",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "deepx",
+          "msit-ai-chip"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
         "score": 21
       },
       {
@@ -3702,6 +3707,29 @@ window.__DASHBOARD_DATA__ = {
           "딥엑스"
         ],
         "issueCategory": "NPU",
+        "score": 21
+      },
+      {
+        "title": "AMD Introduces Helion Rack Design for Agentic AI Workloads - TechRepublic",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRTllV3ozM2FISEZlSnR0S1FDdG00dzBBaDdwMXZJN29GSEZWYlhEUUFoLXdEbjA0VU5vMFFZcWNJcjI0aTZPZUtGbUp6S0JhT2FsYlNrLVVyMVVpb2dMT3VXdWxFeWdKWDI2VE82R2JQVktvNXJSUnZFWHh6aW1waTZ3?oc=5",
+        "publishedAt": "Wed, 14 Oct 2026 17:31:24 GMT",
+        "summary": "AMD Introduces Helion Rack Design for Agentic AI Workloads &nbsp;&nbsp; TechRepublic",
+        "outlet": "TechRepublic",
+        "outletUrl": "https://www.techrepublic.com",
+        "source": "글로벌 가속기 전략적 거래",
+        "sourceIds": [
+          "accelerator-strategic-deals-global"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "데이터센터"
+        ],
+        "issueCategory": "AI시장",
         "score": 21
       },
       {
@@ -3936,31 +3964,48 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "[기고] AI 무게중심 '학습'서 '추론'으로…ARM·NPU가 여는 고효율 인프라 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TOXlTWVpYMVBub0ZFNXk0a2U0NzVLVXBfM1dWbWNVUjM1dGZJT1dSQ2EwVmJVbVZPVjVCQXZNWFVhVzk2LW8yUFRCdko3Q0pfcDQ3YTZ3?oc=5",
-        "publishedAt": "Wed, 14 Oct 2026 00:48:21 GMT",
-        "summary": "[기고] AI 무게중심 '학습'서 '추론'으로…ARM·NPU가 여는 고효율 인프라 &nbsp;&nbsp; 지디넷코리아",
+        "title": "엔비디아, 'RTX 스파크' 정식 출시 \"AI 개발부터 4K 게임까지 구동\" - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxeXRFdWVzTFAwa3NuTTZfWXFkc0hWd0gyUGhiSjRuMWl6bXNQWVhlRDJ1WkpFZDhWRkJrc1NPckJIY3dZUDVQbXZOc2tVNE9obmUtUWpn?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 00:36:10 GMT",
+        "summary": "엔비디아, 'RTX 스파크' 정식 출시 \"AI 개발부터 4K 게임까지 구동\" &nbsp;&nbsp; 지디넷코리아",
         "outlet": "지디넷코리아",
         "outletUrl": "https://zdnet.co.kr",
-        "source": "국내 NPU 기업",
+        "source": "해외 빅테크 국내 보도",
         "sourceIds": [
-          "korea-npu",
-          "furiosa",
-          "korea-ai-market",
-          "npu-commercialization",
-          "korea-global-chip-cooperation"
+          "korea-global-ai-companies"
         ],
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
-          "Arm"
+          "NVIDIA"
         ],
         "taxonomyHits": [
-          "NPU",
-          "추론"
+          "NVIDIA"
         ],
-        "issueCategory": "AI시장",
-        "score": 21
+        "issueCategory": "NVIDIA",
+        "score": 20
+      },
+      {
+        "title": "AI 시대의 검색, 구글과 네이버의 차이…AI 답변 어디까지 믿어야 하나 - 톱스타뉴스",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LSjVoMVRRYjlXbEZXTGxCeFdsaUVCTDJWWlc2cE1Wc2dDRUhFM2liNk9rZGpKTUZNbVlPMXdNRGppbDFoeDFpV0VNcEtlRGtRcmFUNGxtOHN6QktXb3hKNFg4cDFqNmNReHZCWGlLcGliUQ?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 00:32:21 GMT",
+        "summary": "AI 시대의 검색, 구글과 네이버의 차이…AI 답변 어디까지 믿어야 하나 &nbsp;&nbsp; 톱스타뉴스",
+        "outlet": "톱스타뉴스",
+        "outletUrl": "https://www.topstarnews.net",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 20
       },
       {
         "title": "‘인터넷 없어도 AI가 척척’ … 엔비디아 ‘RTX 스파크’ 전격 공개 - 경향게임스",
@@ -4095,15 +4140,16 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
-        "title": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy - tech-insider.org",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbndjdTZKa19LclRhSEIzaFNuNDFtVmRnRnNyMmRxY3FOVEdHWi1QMjRZWkJKX3A2VTNhUnI0OEJDXzVfczhEYkI2OEViSzdpT2pZQzNmRGdHX1ozeWFhZTl5RzhpMVBxdUljcWdBeF90UkxuQk5TMDJHZkh2MnVKSUhhQ21JUQ?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 21:30:10 GMT",
-        "summary": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy &nbsp;&nbsp; tech-insider.org",
-        "outlet": "tech-insider.org",
-        "outletUrl": "https://tech-insider.org",
-        "source": "Google AI 이슈",
+        "title": "Google’s AI Search Adds Visual Carousels and Direct Links to Content Creators - Phandroid",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaDNJZUNxeEJiX2g4OG5LLXBHem51MV9UeUtkc2R5XzJGSDFhQ3NNTW95cV9XVlRuenctbmh5WFpZTEFtQ2NmUVFrWGVjVlVKZVZCd09YMDRIYTZVLWVBZV9jUlBHU1IxUlRDOVJlYWpkb3VJdWdRNkV0eTdJdWRxN00tOEN2WmJmQXpMTXltY0Y1aDBFT0RSeV80RFVpMjl3dnBkLUlxZkszbEF1ZktiMFZ2aFfSAbQBQVVfeXFMUGgzSWVDcXhCYl9oODhuSy1wR3pudTFfVHlLZHNkeV8yRkgxYUNzTU1veXFfV1ZUbnp3LW5oeVhaWUxBbUNjZlFRa1hlY1ZVSmVWQndPWDA0SGE2VS1lQWVfY1JQR1NSMVJUQzlSZWFqZG91SXVnUTZFdHk3SXVkcTdNLThDdlpiZkF6TE15bWNGNWgwRU9EUnlfNERVaTI5d3ZwZC1JcWZLM2xBdWZLYjBWdmhX?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 21:55:05 GMT",
+        "summary": "Google’s AI Search Adds Visual Carousels and Direct Links to Content Creators &nbsp;&nbsp; Phandroid",
+        "outlet": "Phandroid",
+        "outletUrl": "https://phandroid.com",
+        "source": "AI 시장·비즈니스",
         "sourceIds": [
-          "google-ai"
+          "ai-market-business",
+          "ai-agents-cloud"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -4114,50 +4160,6 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "Google",
-        "score": 20
-      },
-      {
-        "title": "오픈AI, '챗GPT 보이스' 업데이트…구글, '제미나이 4 아르곤' 일반 공개 - 굿모닝경제",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uT3lTRHFhUnNfeWZhdlRzRlBPWXNOWU00OXA0blktODFfNm1ZMU5wME95YjRPTWgxRWJlTVpzejd5UU10ZjZqREtKd2o0dzY4WmNzN1BCbTZEWndQdjgzNTg2ZWRMSnFOQXJqWQ?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 21:30:00 GMT",
-        "summary": "오픈AI, '챗GPT 보이스' 업데이트…구글, '제미나이 4 아르곤' 일반 공개 &nbsp;&nbsp; 굿모닝경제",
-        "outlet": "굿모닝경제",
-        "outletUrl": "https://www.goodkyung.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 20
-      },
-      {
-        "title": "엔비디아 ‘RTX 스파크’ 공식 출시… “AI 활용성 높지만 가격 부담” - IT조선",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaMk5wS3gtekpBRzI1S1pEQWVSamhxZEl5UFhtMkZrZmtLV1M4cGdQTjNvWEkwTU1VOHFOdk4tTFFIYW5NRUhKYUxubEtvc015eF9oRVRRcUdfU2dRN0sxVW9EaVpKZE5rSE5uMnJpZV95ajZl0gF0QVVfeXFMUFoyTnBLeC16SkFHMjVLWkRBZVJqaHFkSXlQWG0yRmtma0tXUzhwZ1BOM29YSTBNTVU4cU52Ti1MUUhhbk1FSEphTG5sS29zTXl4X2hFVFFxR19TZ1E3SzFVb0RpWkpkTmtITm4ycmllX3lqNmU?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 21:19:06 GMT",
-        "summary": "엔비디아 ‘RTX 스파크’ 공식 출시… “AI 활용성 높지만 가격 부담” &nbsp;&nbsp; IT조선",
-        "outlet": "IT조선",
-        "outletUrl": "https://it.chosun.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
         "score": 20
       }
     ],
@@ -6837,13 +6839,13 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-10-17T00:22:48.604Z"
+    "generatedAt": "2026-10-17T01:32:31.382Z"
   },
   "briefing": {
     "date": "2026년 10월 17일 토요일",
     "summary": [
       "오늘의 최상위 이슈: ‘엔비디아 패권 넘으려면’...퓨리오사AI·리벨리온·딥엑스가 보는 K-AI 반도체 전략 [미리 보는 테크퀘스트] - 이투데이",
-      "강한 기술·시장 신호: NPU 21, AI인프라 23, 데이터센터 16, 온디바이스AI 9, 추론 7",
+      "강한 기술·시장 신호: NPU 20, AI인프라 24, 데이터센터 17, 온디바이스AI 9, 추론 6",
       "주요 기업 신호: 딥엑스 22, 퓨리오사AI 4, 리벨리온 3, 하이퍼엑셀 0, 모빌린트 0"
     ],
     "leadArticles": [
@@ -7004,7 +7006,7 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
-        "score": 29
+        "score": 28
       },
       {
         "title": "엔비디아 큰손들이 경쟁자로…MS·구글·오픈AI, 자체칩으로 '추론' 파고든다 - 뉴시스",
@@ -7080,27 +7082,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "구글 월렛이 완전히 새롭게 단장합니다! AI 에이전트가 추가되고 카드 정보가 자동으로 업로드될 예정입니다. - Samsung Magazine",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pWllrV1k3dFVNN2ZTVFZiRVVmVDR3NVBKM2haS2s0U0J4aHE2V2N4RjBmMzN3QjJMNkFJeUdMY0U3N1NxbldOamZ5UEczTU1CdDdTUTNqVHoxODBOYzlBZXNvUUFaYjQxTmlXNnptd2JoMGhSMnc?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 11:57:04 GMT",
-        "summary": "구글 월렛이 완전히 새롭게 단장합니다! AI 에이전트가 추가되고 카드 정보가 자동으로 업로드될 예정입니다. &nbsp;&nbsp; Samsung Magazine",
-        "outlet": "Samsung Magazine",
-        "outletUrl": "https://samsungmagazine.eu",
-        "source": "해외 빅테크 국내 보도",
+        "title": "[피지컬 AI 생태계] 리벨리온·퓨리오사AI의 '로봇을 위한 계산' - 블로터",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56Ui1xMnRpU3VWcGhqU0dqeC1hWmVLZjA1U1Zja3B0T214Y3ctcWs0dzRsNDRMc1JiZWtDQ1A3cnZhdUEyUWdldjhMZlVKYm1TdDZsNk5fRU9nbkVrV3djVHh1Q1BlM0FBYXdyZtIBbEFVX3lxTE56Ui1xMnRpU3VWcGhqU0dqeC1hWmVLZjA1U1Zja3B0T214Y3ctcWs0dzRsNDRMc1JiZWtDQ1A3cnZhdUEyUWdldjhMZlVKYm1TdDZsNk5fRU9nbkVrV3djVHh1Q1BlM0FBYXdyZg?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 09:54:04 GMT",
+        "summary": "[피지컬 AI 생태계] 리벨리온·퓨리오사AI의 '로봇을 위한 계산' &nbsp;&nbsp; 블로터",
+        "outlet": "블로터",
+        "outletUrl": "https://www.bloter.net",
+        "source": "국내 NPU 기업",
         "sourceIds": [
-          "korea-global-ai-companies"
+          "korea-npu",
+          "rebellions",
+          "furiosa"
         ],
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
-          "Google",
-          "Samsung"
+          "리벨리온",
+          "퓨리오사AI"
         ],
         "taxonomyHits": [
-          "AI에이전트",
-          "Google"
+          "리벨리온",
+          "퓨리오사AI"
         ],
-        "issueCategory": "AI에이전트",
+        "issueCategory": "NPU",
         "score": 27
       }
     ],
@@ -7108,15 +7112,15 @@ window.__DASHBOARD_DATA__ = {
       "technologies": [
         [
           "NPU",
-          21
+          20
         ],
         [
           "AI인프라",
-          23
+          24
         ],
         [
           "데이터센터",
-          16
+          17
         ],
         [
           "온디바이스AI",
@@ -7124,11 +7128,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "추론",
-          7
+          6
         ],
         [
           "AI에이전트",
-          38
+          40
         ],
         [
           "파운드리·패키징",
@@ -7158,7 +7162,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          79
+          81
         ],
         [
           "Google",
@@ -7170,11 +7174,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AMD",
-          9
+          10
         ],
         [
           "Samsung",
-          4
+          3
         ],
         [
           "Broadcom",
@@ -7182,7 +7186,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "Arm",
-          2
+          1
         ]
       ]
     },
@@ -7273,7 +7277,7 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          64
+          65
         ],
         [
           "NPU",
@@ -7285,11 +7289,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "국내 기사",
-          104
+          100
         ],
         [
           "해외 기사",
-          76
+          80
         ]
       ],
       "sections": [
