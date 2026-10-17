@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-10-17T14:25:36.526Z",
+  "generatedAt": "2026-10-17T16:20:21.171Z",
   "news": {
     "articles": [
       {
@@ -96,31 +96,6 @@ window.__DASHBOARD_DATA__ = {
         "taxonomyHits": [
           "AI인프라",
           "파운드리·패키징",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 29
-      },
-      {
-        "title": "월가 \"엔비디아·AMD·브로드컴 은행 노릇에 지쳤다\"…AI 투자 불신 확산 - 글로벌이코노믹",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjBTeVlDaFluN1RGbkg1SUNZRU5tbGRfSFJ2V0Z4Qi1hVU5PclViT3owSmR0MjVjV2dMblphT1ZDTklmVHY0WkgwWHBVSk4wcTFyblpOcFUxaDVGQUxRdzBWcUtqOEtndVREdlZwZkhEV1dWcklwcEJXSUhGd3JuclhleGFlZGNm?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 18:00:00 GMT",
-        "summary": "월가 \"엔비디아·AMD·브로드컴 은행 노릇에 지쳤다\"…AI 투자 불신 확산 &nbsp;&nbsp; 글로벌이코노믹",
-        "outlet": "글로벌이코노믹",
-        "outletUrl": "https://www.g-enews.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "NVIDIA",
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
@@ -300,7 +275,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "Google AI: Research, Progress, and the Future of Ads - NVIDIA",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmM3RjVXay1JMkcyeHQ2Zk9hZzFDV09GNVZMM3F0VjZVaU1IeC12U2pqVjV5MlFWTDByNGprSE5FaUc4ckZmbHZ5WldQSnk2M2dQcGJuNmluck1zOXNYdWxBWnB0c08zdFREYl9ObDB0S0kxTFhsQk1nMmJpZkY4NE9LUE5vWTNVX0JTOW5kMElmRGFKX2F6djVPUHJsWTdENW1nNTlYOFBCRlNQdG00UTNYblhURFk?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEttd3gyUjZlV2VMYVAxeklZTmRwTXF2SUZtMTRYcjRUWTViX2RhSU13dXh0V0xvWUFFWlVtdFh1NjR2MjZIN2xLUUR5VFV2dDR0MW9LQjFvNUFMSXR2VGM4d21ZWU5EOGE2SnpIOW5hMHJaX3VDZnJJMWJ1eG5Cd1RUbkh3ZE8yb05nMlRVVk0ta3JEVFhhYmRCMEdlQkI0SXI4R0hKVDVvMnpwNTJJOEZzTElsMGt1?oc=5",
         "publishedAt": "Fri, 16 Oct 2026 18:08:02 GMT",
         "summary": "Google AI: Research, Progress, and the Future of Ads &nbsp;&nbsp; NVIDIA",
         "outlet": "NVIDIA",
@@ -344,12 +319,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
-        "title": "\"돈 한 푼 안 들고 쓰는 AI\"…과기정통부·통신3사, '모두의 AI' 베타 테스트 시작 - https://www.didimkorea.net/",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBck1tUTlzLXprUnI2QlhidVh2TG1vRTVCX1hITkZjc2Fta3Bpc3kxWXZpSzNyczdBVWlOcGN3SzRmODlmZG13ZS1YX3lsYTg?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 03:26:04 GMT",
-        "summary": "\"돈 한 푼 안 들고 쓰는 AI\"…과기정통부·통신3사, '모두의 AI' 베타 테스트 시작 &nbsp;&nbsp; https://www.didimkorea.net/",
-        "outlet": "https://www.didimkorea.net/",
-        "outletUrl": "https://www.didimkorea.net",
+        "title": "\"돈 한 푼 안 들고 쓰는 AI\"…과기정통부·통신3사, '모두의 AI' 베타 테스트 시작 - 유스연합",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ldlNtdUsydDVjZ0lCY0hrRXhYWm11dDhCV0dMWEZ6Znk1a1l4TWlkenNyclA5bTJDVndmZXUwMHBETTdhcVVrLTZoa0tfRUFkY2FB?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 02:50:58 GMT",
+        "summary": "\"돈 한 푼 안 들고 쓰는 AI\"…과기정통부·통신3사, '모두의 AI' 베타 테스트 시작 &nbsp;&nbsp; 유스연합",
+        "outlet": "유스연합",
+        "outletUrl": "https://www.youthassembly.kr",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy"
@@ -654,30 +629,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "Nvidia launches open Nemotron model for enterprise AI agents - Tech in Asia",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3pmRk02MmRCWlpXTkMxcTlLalZnbmdfUjE4RW1UOHZrRGtNdWRQVE1OY29GUzF5Q01xWWRNajF5bHJaOUtEVnRHZkloREl6ZW1iLW9DS3NnRWMwM29kVDRDYUhzcmxnOTJsRHcwakJwRTBqU2VXQk5vUGJxd2R4bnVMb3lLM1dlZkdxOG9SRTN5QQ?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 04:44:00 GMT",
-        "summary": "Nvidia launches open Nemotron model for enterprise AI agents &nbsp;&nbsp; Tech in Asia",
-        "outlet": "Tech in Asia",
-        "outletUrl": "https://www.techinasia.com",
-        "source": "AI 시장·비즈니스",
-        "sourceIds": [
-          "ai-market-business"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "AI에이전트",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 25
-      },
-      {
         "title": "센스톤, 과기정통부 피지컬AI 보안 과제서 OT 산업설비 보안 전담 - 테크월드",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ob3JYS2lDWHVCZGQ3Vkl4Z0VORWtYV3NhZk45djBkVUZVcU01dllTNUFzVTFyWDVRbmhBU3hHdVY5aHVFb2RtWHZRRzFSc0tGVlZFaHMydWxDZ0VTY2JNZ2g5WFByRTRS?oc=5",
         "publishedAt": "Fri, 16 Oct 2026 04:29:00 GMT",
@@ -831,34 +782,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-        "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-        "publishedAt": "Thu, 15 Oct 2026 15:00:24 +0000",
-        "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized [&#8230;]",
-        "outlet": "NVIDIA Blog",
-        "outletUrl": "https://blogs.nvidia.com",
-        "source": "NVIDIA 공식 기술발표",
-        "sourceIds": [
-          "nvidia-official-blog",
-          "nvidia-official-news"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "데이터센터",
-          "NVIDIA"
-        ],
-        "issueCategory": "데이터센터",
-        "score": 25,
-        "fullText": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models 5x faster, accurate and customizable Nemotron 3.5 Super VL expands NVIDIA’s open models for always-on agents, with Nemotron 3.5 Bolt bringing agentic intelligence to local NVIDIA systems. October 15, 2026 by Kari Briski 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized for intelligence per GB for fast conversational agents. Super VL and Bolt 74B-A9B are available now, with Bolt E4B coming Oct. 23. The three open models together cover the full range of agent deployments, from large enterprise servers down to edge devices and local hardware. Any organization that wants to run agents on NVIDIA infrastructure now has an open, optimized model for their tier, without having to choose between capability and deployability. Super VL and Bolt join the Nemotron family alongside Lightning and Ultra. Lightning, released in August, handles high-throughput workloads; Ultra handles the hardest reasoning tasks; and Bolt brings intelligence to the edge. Nemotron 3.5 Super VL: Frontier Accuracy at One-Fifth the Size Super VL, built in collaboration with the Nemotron Coalition , delivers leading accuracy on multimodal agentic tasks — instruction following, tool use, multistep business workflows, and visual understanding — comparable with NVIDIA’s largest reasoning model at roughly one-fifth the parameter count. Nemotron 3.5 Super VL delivers frontier-level intelligence in its class for high-volume agentic workflows. As the fastest open agentic model in its class — 5x faster than the next best — it helps enterprise agents complete high-volume tasks faster across workflows that span days or weeks. Nemotron 3.5 Super VL, on Artificial Analysis Intelligence Index leadboard, achieves up to 5x faster throughput compared to other models in its class. Unlike closed frontier models, organizations can post-train Super VL on their own data, deploy it on their own infrastructure and oversee what they build. Nemotron 3.5 Bolt: Agentic Intelligence at the Edge Bolt 74B-A9B 24GB is designed to run everyday agentic tasks locally on NVIDIA RTX/DGX Spark, using a native 2-bit quantization to fit in 24GB of memory and run alongside other applications. Relative to other models with a similar memory footprint, it provides a good balance of intelligence and speed: smart enough to get most jobs done, yet much faster than the smartest models. &nbsp; With Bolt 74B-A9B 24GB, users can delegate their projects to popular local agent harnesses — from researching the web to writing to debugging code — all without sending those workloads to the cloud. It is the #1 open model in its class on PinchBench , and the #2 open model for BrowseComp . Bolt E4B 4GB is built for physical and conversational agents on GeForce RTX, Jetson, and RTX/DGX Spark. It combines natural conversation with multi-turn agentic capabilities to power fast local voice assistants, interactive characters and embedded interfaces. Adoption of Custom Super Intelligence Dozens of organizations across industries are post-training Super VL on their own data, tools, policies and workflows to push accuracy higher on the specialized tasks that define their agent deployments. Super VL is being post-trained and customized by organizations across industries. Scale AI post-trained the model for Skydance’s vendor credit finance agent and for EY’s M&A due diligence agent. AfterQuery customized the model for Hebbia for credit agreement analysis. AI21 and Alice post-trained the model for cybersecurity attack resilience. Mercor post-trained the model on APEX-SWE coding benchmark, for coding agents that plan, write and debug code. ModelScope enables developers to fine-tune the model through its ms-swift framework for specialized multimodal applications. Additional organizations customizing Nemotron 3.5 Super VL include Ramp for financial document intelligence; Dream , sovereign AI-powered cybersecurity research and vulnerability analysis; Lila Sciences for scientific discovery and search, and R1 for medical claims analysis and revenue cycle management. TrainLoop post-trained the model with dermatology data from Nolla, which just became the first company approved for AI to write initial patient prescriptions. Software platform companies integrating Nemotron 3.5 Super VL include: Atlassian , for tasks like agentic search across apps such as Jira and Confluence. CrowdStrike , which is customizing the model for agentic blue teaming in enterprise security. Dassault Systèmes , powering engineering design and simul",
-        "fullSummary": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models 5x faster, accurate and customizable Nemotron 3.5 Super VL expands NVIDIA’s open models for always-on agents, with Nemotron 3.5 Bolt bringing agentic intelligence to local NVIDIA systems. October 15, 2026 by Kari Briski 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and spe...",
-        "summarySource": "article"
-      },
-      {
         "title": "Nvidia Stock Falls Again as AI Chip Sell-Off Deepens Despite TSMC's Record Profit and Robust Demand Outlook - International Business Times Australia",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2V3Y0hPWUNTWFZEUTd1bkJhT1lBZ0wwaUJ3VGhFb3B4aFU5Y2dCcWtSbWRHN3N0SjY3UHRBTFI1bkRYb3g5d0JiYTBoYmpSaWE0Umo2WllsTTNsZGpiUlpuSXFwZElDWGt4Vkl2S0QwREs2SDY3R1loRU84YnlNM0hn?oc=5",
         "publishedAt": "Thu, 15 Oct 2026 14:25:23 GMT",
@@ -976,6 +899,34 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "AI시장",
         "score": 24
+      },
+      {
+        "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+        "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+        "publishedAt": "Thu, 15 Oct 2026 15:00:24 +0000",
+        "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized [&#8230;]",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com",
+        "source": "NVIDIA 공식 기술발표",
+        "sourceIds": [
+          "nvidia-official-blog",
+          "nvidia-official-news"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "데이터센터",
+          "NVIDIA"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 24,
+        "fullText": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models 5x faster, accurate and customizable Nemotron 3.5 Super VL expands NVIDIA’s open models for always-on agents, with Nemotron 3.5 Bolt bringing agentic intelligence to local NVIDIA systems. October 15, 2026 by Kari Briski 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized for intelligence per GB for fast conversational agents. Super VL and Bolt 74B-A9B are available now, with Bolt E4B coming Oct. 23. The three open models together cover the full range of agent deployments, from large enterprise servers down to edge devices and local hardware. Any organization that wants to run agents on NVIDIA infrastructure now has an open, optimized model for their tier, without having to choose between capability and deployability. Super VL and Bolt join the Nemotron family alongside Lightning and Ultra. Lightning, released in August, handles high-throughput workloads; Ultra handles the hardest reasoning tasks; and Bolt brings intelligence to the edge. Nemotron 3.5 Super VL: Frontier Accuracy at One-Fifth the Size Super VL, built in collaboration with the Nemotron Coalition , delivers leading accuracy on multimodal agentic tasks — instruction following, tool use, multistep business workflows, and visual understanding — comparable with NVIDIA’s largest reasoning model at roughly one-fifth the parameter count. Nemotron 3.5 Super VL delivers frontier-level intelligence in its class for high-volume agentic workflows. As the fastest open agentic model in its class — 5x faster than the next best — it helps enterprise agents complete high-volume tasks faster across workflows that span days or weeks. Nemotron 3.5 Super VL, on Artificial Analysis Intelligence Index leadboard, achieves up to 5x faster throughput compared to other models in its class. Unlike closed frontier models, organizations can post-train Super VL on their own data, deploy it on their own infrastructure and oversee what they build. Nemotron 3.5 Bolt: Agentic Intelligence at the Edge Bolt 74B-A9B 24GB is designed to run everyday agentic tasks locally on NVIDIA RTX/DGX Spark, using a native 2-bit quantization to fit in 24GB of memory and run alongside other applications. Relative to other models with a similar memory footprint, it provides a good balance of intelligence and speed: smart enough to get most jobs done, yet much faster than the smartest models. &nbsp; With Bolt 74B-A9B 24GB, users can delegate their projects to popular local agent harnesses — from researching the web to writing to debugging code — all without sending those workloads to the cloud. It is the #1 open model in its class on PinchBench , and the #2 open model for BrowseComp . Bolt E4B 4GB is built for physical and conversational agents on GeForce RTX, Jetson, and RTX/DGX Spark. It combines natural conversation with multi-turn agentic capabilities to power fast local voice assistants, interactive characters and embedded interfaces. Adoption of Custom Super Intelligence Dozens of organizations across industries are post-training Super VL on their own data, tools, policies and workflows to push accuracy higher on the specialized tasks that define their agent deployments. Super VL is being post-trained and customized by organizations across industries. Scale AI post-trained the model for Skydance’s vendor credit finance agent and for EY’s M&A due diligence agent. AfterQuery customized the model for Hebbia for credit agreement analysis. AI21 and Alice post-trained the model for cybersecurity attack resilience. Mercor post-trained the model on APEX-SWE coding benchmark, for coding agents that plan, write and debug code. ModelScope enables developers to fine-tune the model through its ms-swift framework for specialized multimodal applications. Additional organizations customizing Nemotron 3.5 Super VL include Ramp for financial document intelligence; Dream , sovereign AI-powered cybersecurity research and vulnerability analysis; Lila Sciences for scientific discovery and search, and R1 for medical claims analysis and revenue cycle management. TrainLoop post-trained the model with dermatology data from Nolla, which just became the first company approved for AI to write initial patient prescriptions. Software platform companies integrating Nemotron 3.5 Super VL include: Atlassian , for tasks like agentic search across apps such as Jira and Confluence. CrowdStrike , which is customizing the model for agentic blue teaming in enterprise security. Dassault Systèmes , powering engineering design and simul",
+        "fullSummary": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models 5x faster, accurate and customizable Nemotron 3.5 Super VL expands NVIDIA’s open models for always-on agents, with Nemotron 3.5 Bolt bringing agentic intelligence to local NVIDIA systems. October 15, 2026 by Kari Briski 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and spe...",
+        "summarySource": "article"
       },
       {
         "title": "How Investors May Respond To NVIDIA (NVDA) Higher AI Funding Costs - Simply Wall Street",
@@ -1156,9 +1107,8 @@ window.__DASHBOARD_DATA__ = {
         "summary": "NIPA \"올해 GPU 1.9만장 확보…국산 AI 반도체 상용화 지원\" &nbsp;&nbsp; 지디넷코리아",
         "outlet": "지디넷코리아",
         "outletUrl": "https://zdnet.co.kr",
-        "source": "국내 AI 정책",
+        "source": "NIPA·과기정통부 정책",
         "sourceIds": [
-          "korea-ai-policy",
           "nipa-msit-policy",
           "ai-chip-public-program",
           "government-npu-policy",
@@ -1197,32 +1147,9 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Evonence Completes Transition to Cloudnyx.ai, Unifying Google Cloud Team - El Paso Times",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORlNMejQ3akxLVGxxTVctc2lDVGV4ckFjLS1wMDh1dkN1NER2NzhpS3FGYS1iNkJpZk43X01FU1JJTUhqY2g5eU5tS0M2aU9BV2IwMTdjcUc3aWM3TVlGZlRxRW1hYjFOWkxvWUNZY1VaZmV5YUNaa0RGdFpOMkhjV1NuVFZZOWtFbEQwTFpoclpTWVBUeUNoeEY0aGdNODlfT2M0RFlBWFdVSFk0aGdIeGpNSDNTMy1ENDMwdGlVYnR6YVMtcUE?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 12:31:45 GMT",
-        "summary": "Evonence Completes Transition to Cloudnyx.ai, Unifying Google Cloud Team &nbsp;&nbsp; El Paso Times",
-        "outlet": "El Paso Times",
-        "outletUrl": "https://www.elpasotimes.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 23
-      },
-      {
         "title": "Who Controls the Agents? JPMorgan and NVIDIA Tackle AI Security Risks - CX Today",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdMOGZsZXozWmlOTUdxMUp4Rms4WXctcnR5cm9JRHVVS0pSZGNXUHB3VjRyLUFXNVlzc1hFWUFrTjZmWWZkVGVOOWJvbS1OZ3lBd0tKY1ZtbnlYQXRxR2RoZ3YyNWdhejVtQ2gxVUxEdE9KYmRfdHZBNWd6dHFseUZvNDd4NjFKQUstcE83SDktZw?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 11:04:15 GMT",
+        "publishedAt": "Sat, 17 Oct 2026 12:15:57 GMT",
         "summary": "Who Controls the Agents? JPMorgan and NVIDIA Tackle AI Security Risks &nbsp;&nbsp; CX Today",
         "outlet": "CX Today",
         "outletUrl": "https://cxtoday.com",
@@ -1476,29 +1403,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "엔비디아, AI 에이전트용 ‘네모트론 3.5 Super VL’ 3종 출시…메타·애플도 협력 확대 : 국제 - 재경일보",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jSkdJVGpTT1Y3S3h4cmhtb1VmN01IUklEaTRMSXdmelZ3UGhQOUNXZnd2S3hYeFYyNWVTRnNNMVdFZE5QU0xteXZwaw?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 23:17:00 GMT",
-        "summary": "엔비디아, AI 에이전트용 ‘네모트론 3.5 Super VL’ 3종 출시…메타·애플도 협력 확대 : 국제 &nbsp;&nbsp; 재경일보",
-        "outlet": "재경일보",
-        "outletUrl": "https://news.jkn.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 23
-      },
-      {
         "title": "Google Partner Novacore Labs and AIBotics Complete Acquisition of Assets, Expanding AI, Drone, Mapping and Automation Platform in Jamaica - Investing News Network",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUnhLYlRIbGtxaExTcUJuUFFieWVkTzZIb2JqWjdteXdUU3BNOW9wODQ5MC0tazAzSGdqWVU1SVY1Ni16QkFQdVdIeVlabjM3UGVZUnNueHNWWWpFVHE5RTJqN3dya2lpRi1xejEtZ2VpcXhCcVRYbTdoTW9YazRDWEN6bFlyWWZnS3FtS0QtaEhXVmdYRE5iRHNMOU55b0kxMnE1YTNXMGExdU1QQWdLOTNER0JpNk1pMWhOUFZyeFhuVlpFRjA1aTlVQ0RKY3ZFRWl1ajM0Zy12WGJmNUdMOHlRbTNSaFlCWmFMeExHTXpDem8?oc=5",
         "publishedAt": "Fri, 16 Oct 2026 22:59:53 GMT",
@@ -1663,8 +1567,8 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "NVIDIA RTX Spark PCs Are Here: A New Chip, Built with MediaTek, for AI Agents - MediaTek",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGRfZEwyaS11dmQ3bEF5bDM1Q0pyX0E1eHp5QldhckcyM0JKQ3lkbUFzS3BjQmVnY0h5SE10c1hDdzg2SDVwS2ZFTENBTE9yaWs3dUJ2dmNqc1ROMVg3cmVrb19QRkJPZENFV1dBMC1DcnZtQnlPSlJlR0tsTmFrWENYOVU0di0zd1JLWWJkalhPWEM1WWZ5WTVfOEdTdEtHV05ncmFON3dtTHhXc3NIdTk2X07SAcQBQVVfeXFMTmhzMm9wdlUxNWRndEpNbmJkdFZmUE9BZDF2WmxLY1otbjFoalI2SXRSU1owTzJ1MFk2eXJyWE9mTVRPQVo4djVRUUk1YmNiX1J5V3FESktfNm13d1lSNGs4eTh3V1V1MHNrUG5ja1NMdzZmV3R3OUZkdEZidlN0aVF6S1VydmxuUVFaYklfZ0JMa0FBc051b2VjdlR3OWx5VXFDYThIeXRMRGhiS3ZsYXNqVExyODh2R2U5djBYclR2WkNfYQ?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 19:14:36 GMT",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHMyb3B2VTE1ZGd0Sk1uYmR0VmZQT0FkMXZabEtjWi1uMWhqUjZJdFJTWjBPMnUwWTZ5cnJYT2ZNVE9BWjh2NVFRSTViY2JfUnlXcURKS182bXd3WVI0azh5OHdXVXUwc2tQbmNrU0x3NmZXdHc5RmR0RmJ2U3RpUXpLVXJ2bG5RUVpiSV9nQkxrQUFzTnVvZWN2VHc5bHlVcUNhOEh5dExEaGJLdmxhc2pUTHI4OHZHZTl2MFhyVHZaQ19h0gHEAUFVX3lxTE5oczJvcHZVMTVkZ3RKTW5iZHRWZlBPQWQxdlpsS2NaLW4xaGpSNkl0UlNaME8ydTBZNnlyclhPZk1UT0FaOHY1UVFJNWJjYl9SeVdxREpLXzZtd3dZUjRrOHk4d1dVdTBza1BuY2tTTHc2Zld0dzlGZHRGYnZTdGlRektVcnZsblFRWmJJX2dCTGtBQXNOdW9lY3ZUdzlseVVxQ2E4SHl0TERoYkt2bGFzalRMcjg4dkdlOXYwWHJUdlpDX2E?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 19:17:13 GMT",
         "summary": "NVIDIA RTX Spark PCs Are Here: A New Chip, Built with MediaTek, for AI Agents &nbsp;&nbsp; MediaTek",
         "outlet": "MediaTek",
         "outletUrl": "https://www.mediatek.com",
@@ -1823,12 +1727,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "How NVIDIA is Navigating the Next Phase of the AI Boom - Data Center Richness | Substack",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOURyeEY1Z09tdHk3RVJLQTd2WHRkYkxSQ245TGNBSVgya3ZyMFFidkZ5YjNDUkhMRGt4Tk8ycHE0UmJ3S09NZmU5enJ5WmpIUDZWZ1NIckxNS0pzTzFtMmIzMDZ4Y2hsbW8tMmhmdnE3OVdyX044TVBQMmNTbDBmdw?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 15:15:53 GMT",
-        "summary": "How NVIDIA is Navigating the Next Phase of the AI Boom &nbsp;&nbsp; Data Center Richness | Substack",
-        "outlet": "Data Center Richness | Substack",
-        "outletUrl": "https://datacenterrichness.substack.com",
+        "title": "Intel and AMD Drop 3% as Rotation Out of AI Chip Stocks Continues; NVIDIA Holds Steady - 24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkx0cUlYODFLcFU1VmZRLThzT01WVVlib1hPV0NvTmJYTnhzbFZjZTNpelZjdDd0ZEZmWGNLVE5xYTVHWWhYS2JaNklfQ3hnMGVPRVJCVTlBOFJSQ1hFTXBjWmZMdDdzZ1dWS2ZtOE14SWxFMmJTeU82YmhWVjlMQ1BxN3B6MGNjTkxVa21tTnViRmxXSDZMZEhtZWVpbVRCOFVTM2VDUS0tS05vT1o1d1NPYW41VV9YMjhJellwSjh3dGQ5Mk5j?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 14:54:00 GMT",
+        "summary": "Intel and AMD Drop 3% as Rotation Out of AI Chip Stocks Continues; NVIDIA Holds Steady &nbsp;&nbsp; 24/7 Wall St.",
+        "outlet": "24/7 Wall St.",
+        "outletUrl": "https://247wallst.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -1836,13 +1740,13 @@ window.__DASHBOARD_DATA__ = {
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "NVIDIA"
+          "NVIDIA",
+          "AMD"
         ],
         "taxonomyHits": [
-          "데이터센터",
           "NVIDIA"
         ],
-        "issueCategory": "데이터센터",
+        "issueCategory": "AI시장",
         "score": 23
       },
       {
@@ -1892,27 +1796,26 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Samsung eyes silicon photonics acquisition to challenge TSMC - Sammy Fans",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3lCcTJFeUVJOEdUV3hTVlBjNXp3T3VidDdPbHJkclVGZDhuUGQ3WGtMdzlmS2lxd2ZVc0ZObG5uY1NnMll5XzIxU3RDdmUwNGVreUlTT2JPWG9hcmN1a3M3NjIzT3dlZkdUMm5yTGZyTlRLSG9SLTNsNktyTl9EZW9VampTQTdScTRrZ1RuRVZhSGswd3I3TEpSY05Jd1nSAaQBQVVfeXFMTmg5RURGV20yUE1CSTlXdzBhc1NjTjRTbEhCa1I5cTZlN1htSzFFUHNRcTU3ZzJ6QUdKMUZuZnBmY1Y1dEdteU13bk9hSXQ5LXhVbm00QTUwa3Q1V3BjdTVhMnBsOWg4azZLWFo5S1BBVFBpYjVpcW1ldlVMbXlYdWNaeXhwTXZCaGRpMUxDY3A1YWZMRHV1a1ZoaGRCdGlWMENNRWo?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 16:08:56 GMT",
-        "summary": "Samsung eyes silicon photonics acquisition to challenge TSMC &nbsp;&nbsp; Sammy Fans",
-        "outlet": "Sammy Fans",
-        "outletUrl": "https://www.sammyfans.com",
-        "source": "메모리·패키징·인터커넥트",
+        "title": "How NVIDIA is Navigating the Next Phase of the AI Boom - Data Center Richness | Substack",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOURyeEY1Z09tdHk3RVJLQTd2WHRkYkxSQ245TGNBSVgya3ZyMFFidkZ5YjNDUkhMRGt4Tk8ycHE0UmJ3S09NZmU5enJ5WmpIUDZWZ1NIckxNS0pzTzFtMmIzMDZ4Y2hsbW8tMmhmdnE3OVdyX044TVBQMmNTbDBmdw?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 15:15:53 GMT",
+        "summary": "How NVIDIA is Navigating the Next Phase of the AI Boom &nbsp;&nbsp; Data Center Richness | Substack",
+        "outlet": "Data Center Richness | Substack",
+        "outletUrl": "https://datacenterrichness.substack.com",
+        "source": "NVIDIA 이슈",
         "sourceIds": [
-          "memory-packaging"
+          "nvidia-ai"
         ],
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "TSMC",
-          "Samsung"
+          "NVIDIA"
         ],
         "taxonomyHits": [
-          "파운드리·패키징",
-          "투자·M&A"
+          "데이터센터",
+          "NVIDIA"
         ],
-        "issueCategory": "AI시장",
+        "issueCategory": "데이터센터",
         "score": 22
       },
       {
@@ -1982,29 +1885,6 @@ window.__DASHBOARD_DATA__ = {
           "파운드리·패키징"
         ],
         "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "NVIDIA RTX Spark Laptops Launch Worldwide With Local AI Agent Support - Unite.AI",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUhxbzhuRXF5U25udk1xLUVGd1lWcXFPSkwxcENqcUxCOWpaOHVJOU1ZVVNMbWV5SXVaZVo4ZXJVVE45ck05a00tOUF1ZHNLcGdhbG10NGlTTktPazg4R2VOU282Tk9hMG9VUTJXc2FMcEN1VTFSc1dnbHV5T2pSMXJVS2FwWWFJVFY1TlQtNXZ3NTF4d0E?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 12:24:12 GMT",
-        "summary": "NVIDIA RTX Spark Laptops Launch Worldwide With Local AI Agent Support &nbsp;&nbsp; Unite.AI",
-        "outlet": "Unite.AI",
-        "outletUrl": "https://www.unite.ai",
-        "source": "AI 서비스·클라우드",
-        "sourceIds": [
-          "ai-agents-cloud"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI에이전트",
         "score": 22
       },
       {
@@ -2241,6 +2121,29 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "AI인프라",
+        "score": 22
+      },
+      {
+        "title": "Taiwan reportedly plans $4B Texas complex for Nvidia AI supply chain; tightens China AI chip exports - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmpnOTRvNnp3ekEyRE02Q1pXV3ZhZk1IZ3FNdTZtSDEtajVSYXFCSy05VzVDX1lMeU8wN3F1OGVEWTdjblBoUVpUanBDcHJGWGxEal9SUlhKVFhlTlVLOGhabno4eDh5RV9oMTRHZXZ2ZDdqLWdWOEdwN2xQblA5LVlVU2NZd05Cd0FoTWZTdl8?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 06:11:51 GMT",
+        "summary": "Taiwan reportedly plans $4B Texas complex for Nvidia AI supply chain; tightens China AI chip exports &nbsp;&nbsp; Seeking Alpha",
+        "outlet": "Seeking Alpha",
+        "outletUrl": "https://seekingalpha.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "AI시장",
         "score": 22
       },
       {
@@ -2598,52 +2501,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "Asia Chip Stock Rout (SK Hynix, Samsung, SoftBank) on Rate and AI Funding Fears - Gotrade",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkplVVFCMGctdTNZUURLbC1iVjdQR25rWW9nRGZmM3A0bmNoX0dkR2llbF9YZnRXR29UQUEyR2U0YXBQeDRfeXdZc2FNY1FsUkFBOWt2WEE3OGF4emVkTzdOY1RySWpqVWcxbS1aaG1WWWQ4bC1CcUo0SUpGU1FaM1A5M3poUENPeHRURGtPTEkzODZlakFpenE5eWJsT1FGOUJBX25ydVhDZlRtTEtCTg?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 15:30:00 GMT",
-        "summary": "Asia Chip Stock Rout (SK Hynix, Samsung, SoftBank) on Rate and AI Funding Fears &nbsp;&nbsp; Gotrade",
-        "outlet": "Gotrade",
-        "outletUrl": "https://www.heygotrade.com",
-        "source": "AI 투자·자본시장",
-        "sourceIds": [
-          "ai-investment-market"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Samsung"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning | NVIDIA Technical Blog - NVIDIA Developer",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSW82SDRIOTB3UElVN0NhamZVakJWcEF2ZHg4aWhfODdHYTVmRTFlQzdaR005SXV4U2d0d0FJUnAtenRibGNLUHMxUmM1N24tdS04a3phX1E2ZzEySVZsMFZKQmVoVU9yMk50b2t5bG0wN3BCeUoxaGg5ai1ndzZKNk9XUzY3SUlXNHo3bkprYUU2SmY5TGFJNUEyYUxJVmlwbExoRW5QSE9mQmx4c2FmbXRSbFFWQQ?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 15:01:34 GMT",
-        "summary": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
-        "outlet": "NVIDIA Developer",
-        "outletUrl": "https://developer.nvidia.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 22
-      },
-      {
         "title": "Arm \"에이전틱AI 용 CPU, 랙 단위로 성능 측정해야\"…자사 칩 AMD 대비 2배 주장 - 디일렉",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrZkl6WXp6clIyUTc4eVd5NFoxNFZXRmFIdlF0Mkt2c0pBeFRvSlBjRkxKWXhZN3VXQ1NhMTIyNnBEYXdQcDVsaENrS1RSSjM2OXI3YlhaWUVoaVZ3aW9yakFpNlFIZw?oc=5",
         "publishedAt": "Thu, 15 Oct 2026 07:10:51 GMT",
@@ -2750,6 +2607,30 @@ window.__DASHBOARD_DATA__ = {
           "정책"
         ],
         "issueCategory": "",
+        "score": 21
+      },
+      {
+        "title": "Samsung eyes silicon photonics acquisition to challenge TSMC - Sammy Fans",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3lCcTJFeUVJOEdUV3hTVlBjNXp3T3VidDdPbHJkclVGZDhuUGQ3WGtMdzlmS2lxd2ZVc0ZObG5uY1NnMll5XzIxU3RDdmUwNGVreUlTT2JPWG9hcmN1a3M3NjIzT3dlZkdUMm5yTGZyTlRLSG9SLTNsNktyTl9EZW9VampTQTdScTRrZ1RuRVZhSGswd3I3TEpSY05Jd1nSAaQBQVVfeXFMTmg5RURGV20yUE1CSTlXdzBhc1NjTjRTbEhCa1I5cTZlN1htSzFFUHNRcTU3ZzJ6QUdKMUZuZnBmY1Y1dEdteU13bk9hSXQ5LXhVbm00QTUwa3Q1V3BjdTVhMnBsOWg4azZLWFo5S1BBVFBpYjVpcW1ldlVMbXlYdWNaeXhwTXZCaGRpMUxDY3A1YWZMRHV1a1ZoaGRCdGlWMENNRWo?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 16:08:56 GMT",
+        "summary": "Samsung eyes silicon photonics acquisition to challenge TSMC &nbsp;&nbsp; Sammy Fans",
+        "outlet": "Sammy Fans",
+        "outletUrl": "https://www.sammyfans.com",
+        "source": "메모리·패키징·인터커넥트",
+        "sourceIds": [
+          "memory-packaging"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "TSMC",
+          "Samsung"
+        ],
+        "taxonomyHits": [
+          "파운드리·패키징",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
         "score": 21
       },
       {
@@ -2863,25 +2744,49 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "Labelbox Closes $100M+ in Series E Funding to Advance Reinforcement Learning and Enterprise AI Agents - AI Insider",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbHluTnRFeEhuMnZGbmFCbzlqZF9oQlJsZ0JDX0l5c1l0eEFycnQ1OFN0RGNEQkVReDBWOTRIX3pLS0VoTFJnMFRWWFE3dmp1SWRvdnY5UEJHZDdieGtRVnNOTVEzd0RXb0pSZ3NMNzRZUy00amdYNjk5Y1RhZG1kazJGU1BuQmNqR2RibXNzNlhsUnliNktLbnFfSnF3WkdlS0hfV2dvdi1ET1ZPS0t5U0R5OTk0Zmx6ZmdaeHRzYnFTcjRYMUV0dWdjc1gtWExNX2Nz?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 15:25:40 GMT",
-        "summary": "Labelbox Closes $100M+ in Series E Funding to Advance Reinforcement Learning and Enterprise AI Agents &nbsp;&nbsp; AI Insider",
-        "outlet": "AI Insider",
-        "outletUrl": "https://theaiinsider.tech",
-        "source": "AI 시장·비즈니스",
+        "title": "Asia Chip Stock Rout (SK Hynix, Samsung, SoftBank) on Rate and AI Funding Fears - Gotrade",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkplVVFCMGctdTNZUURLbC1iVjdQR25rWW9nRGZmM3A0bmNoX0dkR2llbF9YZnRXR29UQUEyR2U0YXBQeDRfeXdZc2FNY1FsUkFBOWt2WEE3OGF4emVkTzdOY1RySWpqVWcxbS1aaG1WWWQ4bC1CcUo0SUpGU1FaM1A5M3poUENPeHRURGtPTEkzODZlakFpenE5eWJsT1FGOUJBX25ydVhDZlRtTEtCTg?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 15:30:00 GMT",
+        "summary": "Asia Chip Stock Rout (SK Hynix, Samsung, SoftBank) on Rate and AI Funding Fears &nbsp;&nbsp; Gotrade",
+        "outlet": "Gotrade",
+        "outletUrl": "https://www.heygotrade.com",
+        "source": "AI 투자·자본시장",
         "sourceIds": [
-          "ai-market-business"
+          "ai-investment-market"
         ],
         "sourceLang": "en",
         "region": "global",
-        "companyHits": [],
+        "companyHits": [
+          "Samsung"
+        ],
         "taxonomyHits": [
           "AI시장",
-          "AI에이전트",
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
+        "score": 21
+      },
+      {
+        "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning | NVIDIA Technical Blog - NVIDIA Developer",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSW82SDRIOTB3UElVN0NhamZVakJWcEF2ZHg4aWhfODdHYTVmRTFlQzdaR005SXV4U2d0d0FJUnAtenRibGNLUHMxUmM1N24tdS04a3phX1E2ZzEySVZsMFZKQmVoVU9yMk50b2t5bG0wN3BCeUoxaGg5ai1ndzZKNk9XUzY3SUlXNHo3bkprYUU2SmY5TGFJNUEyYUxJVmlwbExoRW5QSE9mQmx4c2FmbXRSbFFWQQ?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 15:01:34 GMT",
+        "summary": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+        "outlet": "NVIDIA Developer",
+        "outletUrl": "https://developer.nvidia.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI에이전트",
         "score": 21
       },
       {
@@ -2926,6 +2831,29 @@ window.__DASHBOARD_DATA__ = {
         "taxonomyHits": [
           "AI에이전트",
           "NVIDIA"
+        ],
+        "issueCategory": "AI에이전트",
+        "score": 21
+      },
+      {
+        "title": "Google DeepMind Chair Warns Rogue AI Agent Hacks Are Early Warning Shots - TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVdseXRtcjR5M2xGRU1FZlZCeE1OUzJYdTFCNDlQTkZ5TndsN25wTmtONWFmRmtSSkJ4S2tXWV9xQ0RKTmYyR3RESGRQVWhUSGRic21tWXVsUk1RVjB0YUx4TEg1U0VzNjZhRU5TXzlibDlVMFY1TVh1X21nLXgtWUctSkZMVTdS?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 13:02:12 GMT",
+        "summary": "Google DeepMind Chair Warns Rogue AI Agent Hacks Are Early Warning Shots &nbsp;&nbsp; TIKR.com",
+        "outlet": "TIKR.com",
+        "outletUrl": "https://www.tikr.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "Google"
         ],
         "issueCategory": "AI에이전트",
         "score": 21
@@ -2988,6 +2916,7 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "korea-npu",
           "deepx",
+          "ai-chip-public-program",
           "ai-chip-policy-finance"
         ],
         "sourceLang": "ko",
@@ -3120,26 +3049,27 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "구글, 웨어러블 겨냥 저전력 AI칩 공개 … 온디바이스 생태계 구축 - 뉴데일리",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuN003V3p3am9TLUQ0dXlVNnJ2V2U1R0RvR1pkWm5nbkp1T0l0X21XRlpMVWd4aEFvUm9IZ3ZHWjg3aGdTdWJsWmo4Xy1ubXl6S0hWZm80RmpqdVhuaUs5RkNVek9yNV9YbWxhOHQySFRSZHVHaEN6NEh2QdIBgAFBVV95cUxNMFdISG9pbVBNWHlZV2xWcVJvTzBFX3VlOVQ2TF9MZHR0Q0FMcTNqbTNnRFprakZnRjlZUHV0UWc2MUpvRmxhb3BFWFR5R0cwUVpmOUhyUmllcmozY2tLSXBTdy1ETm9vazkwVW9rMnFHcExGN05Wa3BqeHY3b0xfUg?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 01:38:47 GMT",
-        "summary": "구글, 웨어러블 겨냥 저전력 AI칩 공개 … 온디바이스 생태계 구축 &nbsp;&nbsp; 뉴데일리",
-        "outlet": "뉴데일리",
-        "outletUrl": "https://www.newdaily.co.kr",
-        "source": "글로벌 기업·한국 반도체 협력",
+        "title": "이스트소프트 AI 아바타부터 딥엑스 NPU까지…AI 확장, 산업 현장으로 - 팝콘뉴스",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vV2pTWllyQVY0c2YtQkdrelRYeXFRVG8tRFhCbmdHczdGa3NlaFA1Njhjd1gzOVE5WlpHUGIxUnlha3lqc3BaQlBrdTZPRzU3N3BTNThIbDB6Vmx2dFVON0dwWkd1SWR0RFJoakhVaWRGZ9IBckFVX3lxTE9vV2pTWllyQVY0c2YtQkdrelRYeXFRVG8tRFhCbmdHczdGa3NlaFA1Njhjd1gzOVE5WlpHUGIxUnlha3lqc3BaQlBrdTZPRzU3N3BTNThIbDB6Vmx2dFVON0dwWkd1SWR0RFJoakhVaWRGZw?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 02:04:21 GMT",
+        "summary": "이스트소프트 AI 아바타부터 딥엑스 NPU까지…AI 확장, 산업 현장으로 &nbsp;&nbsp; 팝콘뉴스",
+        "outlet": "팝콘뉴스",
+        "outletUrl": "http://www.popcornnews.net",
+        "source": "국내 NPU 기업",
         "sourceIds": [
-          "korea-global-chip-cooperation"
+          "korea-npu",
+          "deepx"
         ],
         "sourceLang": "ko",
         "region": "domestic",
         "companyHits": [
-          "Google"
+          "딥엑스"
         ],
         "taxonomyHits": [
-          "온디바이스AI",
-          "Google"
+          "NPU",
+          "딥엑스"
         ],
-        "issueCategory": "온디바이스AI",
+        "issueCategory": "NPU",
         "score": 21
       },
       {
@@ -3222,31 +3152,8 @@ window.__DASHBOARD_DATA__ = {
         "source": "국내 NPU 기업",
         "sourceIds": [
           "korea-npu",
-          "deepx"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 21
-      },
-      {
-        "title": "이스트소프트 AI 아바타부터 딥엑스 NPU까지…AI 확장, 산업 현장으로 - 팝콘뉴스",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HVVZqSzgtcjdrbHEyVWJ1dHM0OUpMcmlDamNFZDVDR2VoSnpDUWxrbmUwdEhVTHpaMUxqTVhfd3Vpc3NQQ0QteFZMMWZneFRPOU5lSF9rX0oyODZwZ1FjRWFMV1lLS0l0Z1gzUWRn0gFyQVVfeXFMT29XalNaWXJBVjRzZi1CR2t6VFh5cVFUby1EWEJuZ0dzN0Zrc2VoUDU2OGN3WDM5UTlaWkdQYjFSeWFreWpzcFpCUGt1Nk9HNTc3cFM1OEhsMHpWbHZ0VU43R3BaR3VJZHREUmhqSFVpZEZn?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 00:41:29 GMT",
-        "summary": "이스트소프트 AI 아바타부터 딥엑스 NPU까지…AI 확장, 산업 현장으로 &nbsp;&nbsp; 팝콘뉴스",
-        "outlet": "팝콘뉴스",
-        "outletUrl": "http://www.popcornnews.net",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "deepx"
+          "deepx",
+          "government-npu-policy"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -3452,81 +3359,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
-        "link": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
-        "publishedAt": "Wed, 14 Oct 2026 16:10:00 GMT",
-        "summary": "NVIDIA today announced semiconductor leaders are adopting NVIDIA CUDA-X™ libraries — including the new NVIDIA cuPotential library, which developers can use to build AI agents that simulate how atoms and molecules interact — to advance AI-defined fabs.",
-        "outlet": "NVIDIA Newsroom",
-        "outletUrl": "https://nvidianews.nvidia.com",
-        "source": "NVIDIA 공식 보도자료",
-        "sourceIds": [
-          "nvidia-official-news"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 21
-      },
-      {
-        "title": "Nvidia Expands ChipAgents Partnership on AI Chip Design - TOKENPOST",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYUkRfZ2trUmtILXMxYjN3cXRPdlNEYk80TzVDWVZpc2pJdE8zc0ZzSy1WNE9nVDJNQVBBcXNSQ2kyMWVKSEhudDh3SE1lcGVkQlBVVy03cElUMFk?oc=5",
-        "publishedAt": "Wed, 14 Oct 2026 15:19:19 GMT",
-        "summary": "Nvidia Expands ChipAgents Partnership on AI Chip Design &nbsp;&nbsp; TOKENPOST",
-        "outlet": "TOKENPOST",
-        "outletUrl": "https://www.tokenpost.com",
-        "source": "글로벌 가속기 전략적 거래",
-        "sourceIds": [
-          "accelerator-strategic-deals-global"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 21
-      },
-      {
-        "title": "Nvidia commits $250 million in compute to UK AI agent safety research - Crypto Briefing",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52NjM4RzhwUFFyVnV5UTRfZHJVQkhsZ2pyT1dMeExFMUR6aDJhNXBaRVZtRUZMN0dDVnBjRDU3bEF5Q3R3U2ExY3U1dDlHMWZtQU9LQnJQVExJSEZjY0UwMVR4MjA0UkJYTjhwRUVSQXk3WUU?oc=5",
-        "publishedAt": "Wed, 14 Oct 2026 15:05:29 GMT",
-        "summary": "Nvidia commits $250 million in compute to UK AI agent safety research &nbsp;&nbsp; Crypto Briefing",
-        "outlet": "Crypto Briefing",
-        "outletUrl": "https://cryptobriefing.com",
-        "source": "가속기 운영 SW",
-        "sourceIds": [
-          "accelerator-software"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 21
-      },
-      {
-        "title": "Does the AI Selloff Put Alphabet's Breakout in Doubt? - MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkJzVHBFSFdudmdkamVxbFJDbDhzSjBEWlRsUkZ5ZkpoNi1saG9pV2NOMkIzejF5T1k0TU40SkRETTlwZEJ5dG94U1dtR1pGYUVzUHpMVmN1ZkxzNkJZdWhmTmtIaEo3MVFaY0JsQ18yeWxjWGk1TFgxTWRhWkJTVERjVW11Y2ptM0ZvS1FwYmJZQQ?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 14:05:30 GMT",
-        "summary": "Does the AI Selloff Put Alphabet's Breakout in Doubt? &nbsp;&nbsp; MarketBeat",
-        "outlet": "MarketBeat",
-        "outletUrl": "https://www.marketbeat.com",
+        "title": "Google Tests Ads in AI Mode for Personal Intelligence Users - https://www.thekeyword.co/",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EbkdRZjFaZ2JHRHJBYzR4RzVRYjlxNWpfRjJqb0Y5ZldDTGFHclE2VnNuU1o0dE9WcXN4VUVFbVJVUzQxcEFIZ0VHc0hqODdCQmlFR2VPVnM4a0lIM3JaMk90aktrTmJhZHNDUWZiSHU?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 15:40:45 GMT",
+        "summary": "Google Tests Ads in AI Mode for Personal Intelligence Users &nbsp;&nbsp; https://www.thekeyword.co/",
+        "outlet": "https://www.thekeyword.co/",
+        "outletUrl": "https://www.thekeyword.co",
         "source": "Google AI 이슈",
         "sourceIds": [
           "google-ai"
@@ -3539,7 +3377,95 @@ window.__DASHBOARD_DATA__ = {
         "taxonomyHits": [
           "Google"
         ],
+        "issueCategory": "Google",
+        "score": 20
+      },
+      {
+        "title": "'If you want an RTX 5080 better buy one while you can still afford one': as Nvidia's RTX 5090 reportedly disappears, gamers are worried about more price hikes — and I'm concerned about the entire future of GeForce GPUs - TechRadar",
+        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOWDJWNDF4OUVkOW16UG43b3NrR1lyTUpvcEZ0VHk2ZXptV0FRRS1uRXN6el9qRjRLOWJTWWtiV282aG4wNlI2THpfRVBQTHpjaGxmbVZ1dkVNWVBzdTB4a2tpb2g1NGRydER4N1Y3cWhkV3Fpdmp0bS05MVJCdGN3ZGtuWHZDaTZMZzhNQVZ5RWRGSEY1OGhtQzhudVp0eXR4YmVWbUVtZFJ5V2NsMVNWcXhqd0piWDNiQVBoYmRKVnpPTG9EbTV0SnNTTkZ0WGpDeGZ6MXJaYmQ1WXZXVFMtNjBBU011Z295c1NIYXpjSGYtR05ONUUzVkRnZUZwbjZ6X3ZMelYyekdOeTdzNGFOS3pON1kxYU1sZFZTVlZ3?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 15:00:00 GMT",
+        "summary": "'If you want an RTX 5080 better buy one while you can still afford one': as Nvidia's RTX 5090 reportedly disappears, gamers are worried about more price hikes — and I'm concerned about the entire future of GeForce GPUs &nbsp;&nbsp; TechRadar",
+        "outlet": "TechRadar",
+        "outletUrl": "https://www.techradar.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 20
+      },
+      {
+        "title": "구글 창립자 “RSI 궤도 진입...플래시부터 AI가 후속 모델 개발 참여\" - AI타임스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80OTlyQ2lOaWJLbGJYVHBONVJyMU84aWpidThMMXA1ekl3aFpSYXpLNU9VOUVLS2NMRTcyWk9mR29EZWpLUFk4SFFqQ05RNy01a3ZTYktSTlZqczN2dXQxSERkUTJzSlR6YUE?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 14:52:48 GMT",
+        "summary": "구글 창립자 “RSI 궤도 진입...플래시부터 AI가 후속 모델 개발 참여\" &nbsp;&nbsp; AI타임스",
+        "outlet": "AI타임스",
+        "outletUrl": "https://www.aitimes.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 20
+      },
+      {
+        "title": "Ai stock Led analysis is it a pump dump. NVidia death spiral - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDFwNVZaRW5KNldwbXE5RVZFUWUzN0ZQUENEcVBwN3BkNzJ2bmNOOFA0YjNmUC11UFh6Mm05dVRvak9vUGxXMjVvc2JOLUJKZmthbWZLcHJDMUtJYkQ1VFBNOWFGTnB5YVZPUmdnU2FjYTFyaXkzQXJwQ1FZYlF0UHp5d3JFUl94R1ZJd01NeDZLVXdpeU90WWVrNXc2MUJuT3c?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 14:42:01 GMT",
+        "summary": "Ai stock Led analysis is it a pump dump. NVidia death spiral &nbsp;&nbsp; Moomoo",
+        "outlet": "Moomoo",
+        "outletUrl": "https://www.moomoo.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
         "issueCategory": "AI시장",
+        "score": 20
+      },
+      {
+        "title": "Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers — flagship GPU is missing from Nvidia's store and commands $8,500 on Amazon - Tom's Hardware",
+        "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQQ0ZlM0FDbXNGbHEwWmhnMXNZbmdwaDMwekowZ2xtczNtOTA1WFJlWHlOQV9qZ0s3V1B6cUYtcy1pckdNUDdWWi1tVm1ZZFFxRzUtdUNGQ2Z4OGx4aXRoX3cwa0FUWVRyMy1pcGFuc0E4clRMS0JtU2pybGZ3ME1fejMtMjZZTEl1LUR5amRDR2lnM1hVMkxselVkbXlKWUZ3QjI1XzJWQkFFNVZkMFZ5TEdzLVRNQktwVHFXYTdpNG50Uk50aWZDOFRDU1hKS18ybXlFWnlyYXI2cTdrUWQxdjFfYmJCNklsYXR4RW1WR09mUm9veEZ1bHNSd2hYdnpsRGFiclVEYUpBLUVlOW14Q2J2XzFwU2xra0QwMkN2dkhRdUZ5cVVkeXAtbC1VSVNIbVNuNWdrYWdtQXptWWhCVi1aMEZ0eDhXUnNJYVpPYTVNeWNuQWxRWlpkaw?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 14:38:18 GMT",
+        "summary": "Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers — flagship GPU is missing from Nvidia's store and commands $8,500 on Amazon &nbsp;&nbsp; Tom's Hardware",
+        "outlet": "Tom's Hardware",
+        "outletUrl": "https://www.tomshardware.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
         "score": 20
       },
       {
@@ -3562,6 +3488,28 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI시장",
+        "score": 20
+      },
+      {
+        "title": "NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will Continue Shipping - Wccftech",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nLVQxMjZUdDNBOVN3dHFIQ3ptaUc3bmxDclhvOWJsRHVHcFJYTWI3eG5HeGp1d3VXeW92NkhDeHV5MUd1UXJYcGVmSmJQVVBWNTRNQlI1M2ZPWTBQQk1pTVdZNm94WndTVExQTUM3OXNZel9mdG1j0gF8QVVfeXFMTWl1aGhYSFIwaUpBOTdHSzBqMXNCRlFiYnF0anRiVm1zNllRWUhEcnhlR29wYV9xdUdMQ2QzUDhTTFZvVW5XdlY3OE9iWnFxcXNWcjRpUjlaeWplZXJqZ0NDVGVhUnJXelBTS25yWUh2YzBLVy1MMFhfNjA4Yw?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 13:28:00 GMT",
+        "summary": "NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will Continue Shipping &nbsp;&nbsp; Wccftech",
+        "outlet": "Wccftech",
+        "outletUrl": "https://wccftech.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
         "score": 20
       },
       {
@@ -3697,34 +3645,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
-        "title": "구글 창립자 “RSI 궤도 진입...플래시부터 AI가 후속 모델 개발 참여\" - AI타임스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80OTlyQ2lOaWJLbGJYVHBONVJyMU84aWpidThMMXA1ekl3aFpSYXpLNU9VOUVLS2NMRTcyWk9mR29EZWpLUFk4SFFqQ05RNy01a3ZTYktSTlZqczN2dXQxSERkUTJzSlR6YUE?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 11:50:02 GMT",
-        "summary": "구글 창립자 “RSI 궤도 진입...플래시부터 AI가 후속 모델 개발 참여\" &nbsp;&nbsp; AI타임스",
-        "outlet": "AI타임스",
-        "outletUrl": "https://www.aitimes.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 20
-      },
-      {
-        "title": "Nvidia RTX Spark Gaming Tests: Are These New AI Laptops Good for Play, Too? - PCMag",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajBJb0RBeWdvMDJHNm1RSWxhSzhmNzRDdkdHckNtczRMTVJkdk9yM3RFS0RZckZIWmZTdWd0WHhvT2NvUkt6VjlYRHJzY0lqUXJWbHg2ZEJTZEhjQlU2Zm1QSmZVSjRLcUx6Wm5ya2U0TUloM3M4d294U2czSXFCZGVrNmsxczJpNkNvLTR1blQ5SUxXZUd3SUVKVWdxYjNw?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 11:00:16 GMT",
-        "summary": "Nvidia RTX Spark Gaming Tests: Are These New AI Laptops Good for Play, Too? &nbsp;&nbsp; PCMag",
-        "outlet": "PCMag",
-        "outletUrl": "https://www.pcmag.com",
+        "title": "Nvidia RTX Spark Gaming Tests: Are These New AI Laptops Good for Play, Too? - PCMag UK",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEs2V3ZNeEg0amNnUTEtZ2l4Z0hqSHZULXdhdGhtbGliTWg2YnRlcWMtX283cDV0NjNTQ0R0NE0xU2hwNE1ndWE0bGNzZlhHdzVEXzI3ajZYaDloR1E4dWFlUG1ZSlJnaUg2dkttR1llOF9YM3BZME1tTWV0ZVI2YWF3RnR2NXQxbDRLYzNDN0hGbXdLelpLZG1ZaHJfWXRlaDdQX2tFMjRQWnFo?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 11:00:00 GMT",
+        "summary": "Nvidia RTX Spark Gaming Tests: Are These New AI Laptops Good for Play, Too? &nbsp;&nbsp; PCMag UK",
+        "outlet": "PCMag UK",
+        "outletUrl": "https://uk.pcmag.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -3747,28 +3673,6 @@ window.__DASHBOARD_DATA__ = {
         "summary": "Nvidia RTX Spark First Tests: Can These Ambitious AI Laptops Beat Apple’s M5 Max? &nbsp;&nbsp; PCMag",
         "outlet": "PCMag",
         "outletUrl": "https://www.pcmag.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 20
-      },
-      {
-        "title": "The ‘bank of AI’: how Nvidia helps its clients keep the boom going - The Times",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUG0tdnNMMUlOdTdwUXVYdkd0M1M1TC03RmtNMW54VTU0ZExmQVhPa2dlYnh1ckprbmVycDR2T2pyRGxBMUo3VjJaQTFZZ0NZaTNkTmx3dXpaU2l3WmNVZmNMUjNvMHROSkc2SXhidWZrTk1FSFdvR2FhVTdJR0ZGQUZfN1lWczVUZ2NLQXE1Ri05VkFHTVhGR001RGhWS3VVNUdiNjdPNnJpVG8?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 10:24:03 GMT",
-        "summary": "The ‘bank of AI’: how Nvidia helps its clients keep the boom going &nbsp;&nbsp; The Times",
-        "outlet": "The Times",
-        "outletUrl": "https://www.thetimes.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -3874,7 +3778,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "\"Shouldn't Accept\": Nvidia CEO Disagrees With OpenAI CEO On AI Incidents - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa08xVTNrZkZLakpwcWNLZmdXWVEwV3NlZ2FjclhuSi0yd1F3ZjJIQTFBVnBTVTZ5bzVobEpicW1HTElWNjNtaWkzY0drTGJvRHNmeGtkMi1WOW1UVXB0dTJCOG1wYjNuaTN6SktUT3dSeTk4N2dkcnR0N1dnRE5Nc1BiN3JBdjFNUzlrWGlwWXotS2ltdGZ3ZGtHSW9fSjhaSkFVZkFwY2VJQjlIUzhoNUhqaTlXbnZLZThzYTFZQUNsOWExa3l6RWtqaE9hQQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa08xVTNrZkZLakpwcWNLZmdXWVEwV3NlZ2FjclhuSi0yd1F3ZjJIQTFBVnBTVTZ5bzVobEpicW1HTElWNjNtaWkzY0drTGJvRHNmeGtkMi1WOW1UVXB0dTJCOG1wYjNuaTN6SktUT3dSeTk4N2dkcnR0N1dnRE5Nc1BiN3JBdjFNUzlrWGlwWXotS2ltdGZ3ZGtHSW9fSjhaSkFVZkFwY2VJQjlIUzhoNUhqaTlXbnZLZThzYTFZQUNsOWExa3l6RWtqaE9hQdIB1gFBVV95cUxOVFpoMUh2VDN5NzB4TGgzTXAzbnZuLWtrakFXYlRFc291ZU5jSENMcFpqbXpZSWUyVnN5QkhRY2xUVUlEOGdSLXhldm1uUURmdVptZ0d6eTA4UzZ2U3ZNcGtFc3paRzhka1lOQVdrNGw3b1phelRqSDg0aG9kamgyYWRMSUJXcDdXYndGazBFc3BSdDhBaF9VdWNvNGpBUFRLU2diRGxlM0xjQUYyaTRjYzZDbGJtWVF0bDBQZmppT2dPTlI1X29BQVJ6MmNORHBYNjFpNWhn?oc=5",
         "publishedAt": "Sat, 17 Oct 2026 09:09:35 GMT",
         "summary": "\"Shouldn't Accept\": Nvidia CEO Disagrees With OpenAI CEO On AI Incidents &nbsp;&nbsp; NDTV",
         "outlet": "NDTV",
@@ -3914,6 +3818,28 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "NVIDIA",
+        "score": 20
+      },
+      {
+        "title": "구글 AI 프로 연간 구독 40% 할인: 29만 원→17만 4000원에 쓸 수 있어요 🤖 - 뉴닉",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CVXJIQ2xhWkZLcVBpY3owT1Blc0oxZXJFZHJ1V29iaXlGdk5EeG9zZ1Fja0VrVHZ1ODVNT3pvdnB1aXFVMWlha0Fvb0ExWmFNekNzc1dR?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 09:00:00 GMT",
+        "summary": "구글 AI 프로 연간 구독 40% 할인: 29만 원→17만 4000원에 쓸 수 있어요 🤖 &nbsp;&nbsp; 뉴닉",
+        "outlet": "뉴닉",
+        "outletUrl": "https://newneek.co",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
         "score": 20
       },
       {
@@ -3958,6 +3884,28 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "NVIDIA",
+        "score": 20
+      },
+      {
+        "title": "Google moves links higher in AI search as publishers face traffic pressure - PRESS Insider",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVkVha1RCQzB3UUFRd2gxNmNsSWFaOWhWb19WRmZXOXBUN1B6YndkWnRGb3A2am5mYkJ5OXN1OFRpUTZUSEZjVU9vcnBxc2pRSTdoMk9BRnZPZk4zMnNlSmhWOWkzdC02SmZYTXdNZnQtXy1PX3QxdDFReGNyTnM1MG1oMlQ4T0xNblpGUWlPenAxZ0ZVUzBrZUlRNUtqajF4b0YyTkJEcUQ?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 07:32:11 GMT",
+        "summary": "Google moves links higher in AI search as publishers face traffic pressure &nbsp;&nbsp; PRESS Insider",
+        "outlet": "PRESS Insider",
+        "outletUrl": "https://pressinsider.com",
+        "source": "AI 서비스·클라우드",
+        "sourceIds": [
+          "ai-agents-cloud"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
         "score": 20
       },
       {
@@ -4115,28 +4063,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
-        "title": "엔비디아, 서울 코엑스서 AI 노트북 ‘RTX 스파크’ 출시 - 파이낸셜투데이",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hLVBGUXRqV0xqY0ZnRE1oY1U0Wkk2ei1IVzlkQy1HeEFzVTNfNnlkcjBxQjBLU05OblRLLU92QXo2ZE9nMjZwaVRiMUtUQVh5eEtYbTRXVzg3Q1RJOUVlN3U5bDBRWGt1aHc?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 04:44:22 GMT",
-        "summary": "엔비디아, 서울 코엑스서 AI 노트북 ‘RTX 스파크’ 출시 &nbsp;&nbsp; 파이낸셜투데이",
-        "outlet": "파이낸셜투데이",
-        "outletUrl": "http://www.ftoday.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 20
-      },
-      {
         "title": "HPE Launches AMD-Powered ProLiant Gen13 Servers for Enterprise AI and High-Performance Computing - Machine Maker",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3JZQXhJUEIzVElabEozNjVLOEt6R2RucHVrNG9xUzZYbEl0bm1Nb3M5Z3pGQ2dySEpkaEtMeDlMdmtFNnhhTzRxY29LWmoxLVlJc2hoZjV0bnVNN202aGN5OTh2OVRaNXFkdGZPSVJZUFY0bURCV0hjN3NIMWpRWktvdGNzNGFRODIyUVhFbUhTa2FIQURPXzNuSkdNNHRTTFRhM25FdVBXdXRud0xTaXZsZlc3X3Z6WnktX3hkbk14RFl4RTVTa3h3?oc=5",
         "publishedAt": "Sat, 17 Oct 2026 04:09:52 GMT",
@@ -4156,6 +4082,72 @@ window.__DASHBOARD_DATA__ = {
           "AI시장"
         ],
         "issueCategory": "AI시장",
+        "score": 20
+      },
+      {
+        "title": "Elon Musk’s Roadster, Nvidia’s Space AI Push, Nadella’s Security Warning: Mag 7 Voices This Week - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlJVUVpSek1QYTZBeFRBakx3YWhfQ1pJdUloTmctaEZyQlIxa3Q1dkdoMGViNlJoQlAwalo1MHhZZ2lzWDF4YkFqQnRXWkZpbDZKMWlhUlNMUDQxSmhaMVFfRTNrdmIwSXFyZW9vc1BGR2lKVWJwNkxWTzdmMzRkemxlSHZYQk9OMFpCTi1TZVFTRGs5RzZ6aUNiTQ?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 02:46:00 GMT",
+        "summary": "Elon Musk’s Roadster, Nvidia’s Space AI Push, Nadella’s Security Warning: Mag 7 Voices This Week &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 20
+      },
+      {
+        "title": "구글·메타의 AI 반격···오픈AI·앤트로픽 양강 구도 흔드나 - 뉴스웨이",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybUtwald3WDJaWHhfMjdnVXBLSjB5WExHc3NKVXo0aDMwODN5MjhnNlBoNzdLSjBPLXg0Z2prb1k5N0ZuS0ppUVBTNm40QnNGM0lXcGRuMDFybTY2RTYzSHhSblNxQzY1MUE?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 02:38:24 GMT",
+        "summary": "구글·메타의 AI 반격···오픈AI·앤트로픽 양강 구도 흔드나 &nbsp;&nbsp; 뉴스웨이",
+        "outlet": "뉴스웨이",
+        "outletUrl": "https://www.newsway.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 20
+      },
+      {
+        "title": "[경영전략 써밋 2026] [영상] 김녹원 딥엑스 대표, “피지컬 AI 제조혁신, 한국도 세계 1위 기회” - 딜사이트",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51SXFNWm5lem9JOERZVUZLbW9CaTVibW41cmpJaTI1dDRNYzdYZm41c2luZEhxNkZ6SHdSTG9QQ3NHX2hxaWdlWW5rUDdxaHc?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 01:49:13 GMT",
+        "summary": "[경영전략 써밋 2026] [영상] 김녹원 딥엑스 대표, “피지컬 AI 제조혁신, 한국도 세계 1위 기회” &nbsp;&nbsp; 딜사이트",
+        "outlet": "딜사이트",
+        "outletUrl": "https://dealsite.co.kr",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
         "score": 20
       }
     ],
@@ -6915,14 +6907,14 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-10-17T14:25:33.597Z"
+    "generatedAt": "2026-10-17T16:20:18.742Z"
   },
   "briefing": {
-    "date": "2026년 10월 17일 토요일",
+    "date": "2026년 10월 18일 일요일",
     "summary": [
       "오늘의 최상위 이슈: Google's TPUv7 Just Beat Nvidia's Best Chip On Its Agentic Inference Benchmark, Says Semi Analysis - OfficeChai",
-      "강한 기술·시장 신호: NPU 16, AI인프라 22, 데이터센터 16, 온디바이스AI 9, 추론 3",
-      "주요 기업 신호: 딥엑스 17, 리벨리온 2, 퓨리오사AI 2, 하이퍼엑셀 0, 모빌린트 0"
+      "강한 기술·시장 신호: NPU 16, AI인프라 21, 데이터센터 16, 온디바이스AI 8, 추론 3",
+      "주요 기업 신호: 딥엑스 18, 리벨리온 2, 퓨리오사AI 2, 하이퍼엑셀 0, 모빌린트 0"
     ],
     "leadArticles": [
       {
@@ -7019,31 +7011,6 @@ window.__DASHBOARD_DATA__ = {
         "taxonomyHits": [
           "AI인프라",
           "파운드리·패키징",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 29
-      },
-      {
-        "title": "월가 \"엔비디아·AMD·브로드컴 은행 노릇에 지쳤다\"…AI 투자 불신 확산 - 글로벌이코노믹",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjBTeVlDaFluN1RGbkg1SUNZRU5tbGRfSFJ2V0Z4Qi1hVU5PclViT3owSmR0MjVjV2dMblphT1ZDTklmVHY0WkgwWHBVSk4wcTFyblpOcFUxaDVGQUxRdzBWcUtqOEtndVREdlZwZkhEV1dWcklwcEJXSUhGd3JuclhleGFlZGNm?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 18:00:00 GMT",
-        "summary": "월가 \"엔비디아·AMD·브로드컴 은행 노릇에 지쳤다\"…AI 투자 불신 확산 &nbsp;&nbsp; 글로벌이코노믹",
-        "outlet": "글로벌이코노믹",
-        "outletUrl": "https://www.g-enews.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "NVIDIA",
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
@@ -7172,6 +7139,30 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "AI시장",
         "score": 27
+      },
+      {
+        "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock. - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2JhQVVYRlR0dWIxZjBLVVI1eEM5bWF0UWU2LUNtdXVZN19vVTJlTG50Rk9YX3hNSzdMTUxKNTBCYjFXR1FRT1pBSFBlVlBBQ3dwNmJIcTRiSGQ2QXZWRGdfUWh6YnF5RjFOcjJkMWZseVpZeDltTEdJVUJTSE9xMm1wVGQyNXdTQU9UUGpBdC1qZw?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 03:17:00 GMT",
+        "summary": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock. &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "TSMC"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "AI시장",
+        "score": 27
       }
     ],
     "signals": {
@@ -7182,7 +7173,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI인프라",
-          22
+          21
         ],
         [
           "데이터센터",
@@ -7190,7 +7181,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "온디바이스AI",
-          9
+          8
         ],
         [
           "추론",
@@ -7198,7 +7189,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI에이전트",
-          36
+          30
         ],
         [
           "파운드리·패키징",
@@ -7208,7 +7199,7 @@ window.__DASHBOARD_DATA__ = {
       "companies": [
         [
           "딥엑스",
-          17
+          18
         ],
         [
           "리벨리온",
@@ -7228,11 +7219,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          93
+          91
         ],
         [
           "Google",
-          31
+          33
         ],
         [
           "AMD",
@@ -7343,11 +7334,11 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          73
+          72
         ],
         [
           "NPU",
-          20
+          21
         ],
         [
           "정책",
@@ -7355,11 +7346,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "국내 기사",
-          86
+          85
         ],
         [
           "해외 기사",
-          94
+          95
         ]
       ],
       "sections": [
