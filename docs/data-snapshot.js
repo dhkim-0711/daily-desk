@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-10-18T04:43:31.742Z",
+  "generatedAt": "2026-10-18T04:56:00.878Z",
   "news": {
     "articles": [
       {
@@ -180,12 +180,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnV4czAxQVV4VUZYRXRDbExVdThFcTltbFBxT1UzLXRrSnd2RHJsMENZMXg4MzhtTVpfeEZFZ3kyakMwbEY0WU9ycG1yMTAwNnJyZlVWVXRSVVlmM2lMa0Z5R2JKZUpnTzVzbGxVRWM0b0EyZHlrbXFiaUdiOFRVWDlNYkFCNTFrcXM1bHRNdEpZU2dxMkowNDU1YUtiQXZMRzRQYlhJUGtvNnpGTlIwWXJPQktDazVBUG1hdjNjZ0VHbEFPdUlZdGozZjREMlhqVEZ0VzdtMkc4LXJDbVlMVnotc3hFRloycnVv?oc=5",
-        "publishedAt": "Sun, 18 Oct 2026 00:40:18 GMT",
-        "summary": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 &nbsp;&nbsp; The Globe and Mail",
-        "outlet": "The Globe and Mail",
-        "outletUrl": "https://www.theglobeandmail.com",
+        "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2l1RTh5SXRoaVI4ci05eDRHUWpJdG54TU1HbkRRRlc5Y1ctdDI1VG9tN1BXTS1keVJOZndJX1BfN3hrWUNfX1dVMi1HVjhDREIyRlNvdEt2VnJnWlMzaElOTkRLN2hRbkNLQ2QzbVJ4c25scnFHV3E4NVFKdWMtRUI0dVVSSGl3SW04b3hVTkppVExz?oc=5",
+        "publishedAt": "Sun, 18 Oct 2026 00:20:00 GMT",
+        "summary": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -205,12 +205,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2l1RTh5SXRoaVI4ci05eDRHUWpJdG54TU1HbkRRRlc5Y1ctdDI1VG9tN1BXTS1keVJOZndJX1BfN3hrWUNfX1dVMi1HVjhDREIyRlNvdEt2VnJnWlMzaElOTkRLN2hRbkNLQ2QzbVJ4c25scnFHV3E4NVFKdWMtRUI0dVVSSGl3SW04b3hVTkppVExz?oc=5",
+        "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnV4czAxQVV4VUZYRXRDbExVdThFcTltbFBxT1UzLXRrSnd2RHJsMENZMXg4MzhtTVpfeEZFZ3kyakMwbEY0WU9ycG1yMTAwNnJyZlVWVXRSVVlmM2lMa0Z5R2JKZUpnTzVzbGxVRWM0b0EyZHlrbXFiaUdiOFRVWDlNYkFCNTFrcXM1bHRNdEpZU2dxMkowNDU1YUtiQXZMRzRQYlhJUGtvNnpGTlIwWXJPQktDazVBUG1hdjNjZ0VHbEFPdUlZdGozZjREMlhqVEZ0VzdtMkc4LXJDbVlMVnotc3hFRloycnVv?oc=5",
         "publishedAt": "Sun, 18 Oct 2026 00:20:00 GMT",
-        "summary": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
+        "summary": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 &nbsp;&nbsp; The Globe and Mail",
+        "outlet": "The Globe and Mail",
+        "outletUrl": "https://www.theglobeandmail.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -435,7 +435,8 @@ window.__DASHBOARD_DATA__ = {
           "korea-npu",
           "rebellions",
           "furiosa",
-          "mobilint"
+          "mobilint",
+          "mobilint-broad"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -636,30 +637,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
-        "title": "Nvidia launches open Nemotron model for enterprise AI agents - Tech in Asia",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3pmRk02MmRCWlpXTkMxcTlLalZnbmdfUjE4RW1UOHZrRGtNdWRQVE1OY29GUzF5Q01xWWRNajF5bHJaOUtEVnRHZkloREl6ZW1iLW9DS3NnRWMwM29kVDRDYUhzcmxnOTJsRHcwakJwRTBqU2VXQk5vUGJxd2R4bnVMb3lLM1dlZkdxOG9SRTN5QQ?oc=5",
-        "publishedAt": "Fri, 16 Oct 2026 04:44:00 GMT",
-        "summary": "Nvidia launches open Nemotron model for enterprise AI agents &nbsp;&nbsp; Tech in Asia",
-        "outlet": "Tech in Asia",
-        "outletUrl": "https://www.techinasia.com",
-        "source": "AI 시장·비즈니스",
-        "sourceIds": [
-          "ai-market-business"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "AI에이전트",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 25
-      },
-      {
         "title": "\"엔비디아 AI칩 전량 TSMC에\"...삼성전자 어쩌나? - 한국농어촌방송",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zSkFTTzk2eklLUk9DcXdEOUUzUWtHMXBaNXpRcE1hWmxGVkgwc2RueXJvRjA1VG0weS00VUk5RFhSUHNOTmI3MndsVjNVeFdESG5UaEJpQ2F4bUFQLTJsTTNPNC1sQQ?oc=5",
         "publishedAt": "Fri, 16 Oct 2026 04:14:11 GMT",
@@ -843,6 +820,30 @@ window.__DASHBOARD_DATA__ = {
           "AI인프라",
           "수출통제·공급망",
           "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "Nvidia launches open Nemotron model for enterprise AI agents - Tech in Asia",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3pmRk02MmRCWlpXTkMxcTlLalZnbmdfUjE4RW1UOHZrRGtNdWRQVE1OY29GUzF5Q01xWWRNajF5bHJaOUtEVnRHZkloREl6ZW1iLW9DS3NnRWMwM29kVDRDYUhzcmxnOTJsRHcwakJwRTBqU2VXQk5vUGJxd2R4bnVMb3lLM1dlZkdxOG9SRTN5QQ?oc=5",
+        "publishedAt": "Fri, 16 Oct 2026 04:44:00 GMT",
+        "summary": "Nvidia launches open Nemotron model for enterprise AI agents &nbsp;&nbsp; Tech in Asia",
+        "outlet": "Tech in Asia",
+        "outletUrl": "https://www.techinasia.com",
+        "source": "AI 시장·비즈니스",
+        "sourceIds": [
+          "ai-market-business"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI에이전트",
+          "NVIDIA"
         ],
         "issueCategory": "AI시장",
         "score": 24
@@ -1346,6 +1347,29 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "AI인프라",
+        "score": 23
+      },
+      {
+        "title": "AI Funding Crisis - Claude Deal Raises Alarm - YouTube",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0taURVSnZfU1puWkhKOGJ1RWtUTEdabmx3Yk43Rll2dDNEVXdzVk5PeHVXVGw3eXJUaDRCcE90WHY2c2RkUUpuT1duOGdkS0lPTk4xUTIxamdJUFda?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 15:37:18 GMT",
+        "summary": "AI Funding Crisis - Claude Deal Raises Alarm &nbsp;&nbsp; YouTube",
+        "outlet": "YouTube",
+        "outletUrl": "https://youtu.be",
+        "source": "AI 투자·자본시장",
+        "sourceIds": [
+          "ai-investment-market"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Arm"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
         "score": 23
       },
       {
@@ -2540,8 +2564,9 @@ window.__DASHBOARD_DATA__ = {
         "summary": "딥엑스, NPU 활용 기술 글로벌 소형 컴퓨팅 플랫폼 ‘라즈베리 파이’의 공식 뉴스룸에 소개 &nbsp;&nbsp; 디지털경제뉴스",
         "outlet": "디지털경제뉴스",
         "outletUrl": "https://www.denews.co.kr",
-        "source": "딥엑스",
+        "source": "국내 NPU 기업",
         "sourceIds": [
+          "korea-npu",
           "deepx"
         ],
         "sourceLang": "ko",
@@ -2883,29 +2908,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 21
       },
       {
-        "title": "딥엑스 NPU, 라즈베리 파이 뉴스룸에 소개돼 - BI KOREA",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WNkRGaVExaElLYzZTTFJMUjdwUFg2MHNmLUJRdzhzTVloWWRTNHpTOW5jSDM5UEhHcW4yOVB4UVlWZG9kS2JBNmdQSDZOUjFpbzF1YzlTLWp4UEVTZE1BYWdfX0RBcGs?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 09:25:02 GMT",
-        "summary": "딥엑스 NPU, 라즈베리 파이 뉴스룸에 소개돼 &nbsp;&nbsp; BI KOREA",
-        "outlet": "BI KOREA",
-        "outletUrl": "http://www.bikorea.net",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 21
-      },
-      {
         "title": "BNW인베스트, ‘AI칩’ 딥엑스 투자 순항 - 뉴스톱",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RQ0RSamVIYm8wb3lvVUNHaEZ4azFtWXJlUlFTZUdjN2FlSG83VE9TTTJRQ1I5dWE1OVlVQjVzS29KeVNFWnh5cy1mSEZjY05EYlAxb3NJaUV3Qks2enEza3pTTzh4ZW9CT0FzaHlXZw?oc=5",
         "publishedAt": "Thu, 15 Oct 2026 08:29:19 GMT",
@@ -3045,29 +3047,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI인프라",
-        "score": 21
-      },
-      {
-        "title": "TSMC Q3 profit surges to record high on AI demand; says considering Texas fab - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFA5cFAzc3BXNzc0QUtsX0FzcGlzMk5XbXl6R3ZYRjhRZVFpOEJWZTNVZmhHVG9lTEYyWUsyZ2d3X3NVQVZCeVh0bkkwYWtsSk5wWEQ5a1dOU1BmMnBlWUd1TWlYT2ZWb2x2VndMNU5ObWloRmtNVWhNd2l6cUs4bjlWZWNsNWRDOTJJVnI2VGFpUVJ5?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 06:10:34 GMT",
-        "summary": "TSMC Q3 profit surges to record high on AI demand; says considering Texas fab &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "AI 시장 전체",
-        "sourceIds": [
-          "ai-market-global"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
         "score": 21
       },
       {
@@ -3867,28 +3846,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
-        "title": "엔비디아의 AI 가속 기술이 어도비(ADBE) 주가에 대한 강세 전망을 바꿀 수 있을까? - Simply Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTW5iM0xFUzJQVXNvejZsbTdFQXBVRmZ6OW9TdlNscTN2eV8zMkdMUUpFeHNmTnJwUHk0QXdnRjJ4amk2SWMtcXQyaEpPZV8yNzRvUjNZalRCQmhmRWthRWdCMUF4MUFfMExBYUxDdk5JWi05UnRtYTIzY1lXSjBMWTA0X0ZnRlJQbFF30gGQAUFVX3lxTE1lMjVlMjd3blk4bV95MmtfWnd5MTQ0YXZtSndwRDg2WEZzeVBRdGEta3YtRTBmRXVwOGk0NXpiSHlxSUpZNGhHc0tUYW5COTVuQnloZEdvR2tSM1VWVUcxYTAyR0hpNmF1YlhBcjlYYVRYUEZLRFotbWFMc2xfOFdRZ3lqd0p3LTd2c1ItcGFtXw?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 14:12:20 GMT",
-        "summary": "엔비디아의 AI 가속 기술이 어도비(ADBE) 주가에 대한 강세 전망을 바꿀 수 있을까? &nbsp;&nbsp; Simply Wall Street",
-        "outlet": "Simply Wall Street",
-        "outletUrl": "https://simplywall.st",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 20
-      },
-      {
         "title": "Does the AI Selloff Put Alphabet's Breakout in Doubt? - TradingView",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjhrT1ZDVEJGYVdvTFo5aXkyWXdYa2ZNdUIweWlOZzFLN1ZRWmtra1hMUFBINUhJVDVxQjM4R3IzeU1pUXBpLVcyUGFLblJKNjNaYkx4aUEzLUl5N19vbENOWXhkbkRGVW9mRXZyeWVvOC02MUd3aVB0aC1WOXN0YWp4U0c2MU14d1huaGtUNklTWmZ2akpSWVZ3NkdMVWlhOUwxVVBCaXZCaFZ1UEMzalFmUQ?oc=5",
         "publishedAt": "Sat, 17 Oct 2026 14:05:00 GMT",
@@ -4137,6 +4094,50 @@ window.__DASHBOARD_DATA__ = {
         "summary": "구글, 프론티어 AI 모델 제미나이 4 아르곤 공개…출력 토큰 100만개로 확대 &nbsp;&nbsp; 뉴스N연합",
         "outlet": "뉴스N연합",
         "outletUrl": "https://newsyonhap.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 20
+      },
+      {
+        "title": "엔비디아, AI 모델 직접 구동하는 'RTX 스파크' 노트북 출시 - 하이테크정보",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zZlJ3bW84dU1UcEstUm9PcDFXb09tcEl4WlFXMlBpMzF4WldTNDExZE92eGRZMHlkbFNUX0ozUlZVTE9EU0VjM1NRejR6Rmpvc21BaUxQU3ZCaEJ0TGllLVdBdWRZcTRVZVZnX9IBbEFVX3lxTE8zZlJ3bW84dU1UcEstUm9PcDFXb09tcEl4WlFXMlBpMzF4WldTNDExZE92eGRZMHlkbFNUX0ozUlZVTE9EU0VjM1NRejR6Rmpvc21BaUxQU3ZCaEJ0TGllLVdBdWRZcTRVZVZnXw?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 09:06:33 GMT",
+        "summary": "엔비디아, AI 모델 직접 구동하는 'RTX 스파크' 노트북 출시 &nbsp;&nbsp; 하이테크정보",
+        "outlet": "하이테크정보",
+        "outletUrl": "http://www.hitech.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 20
+      },
+      {
+        "title": "구글 AI 프로 연간 구독 40% 할인: 29만 원→17만 4000원에 쓸 수 있어요 🤖 - 뉴닉",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CVXJIQ2xhWkZLcVBpY3owT1Blc0oxZXJFZHJ1V29iaXlGdk5EeG9zZ1Fja0VrVHZ1ODVNT3pvdnB1aXFVMWlha0Fvb0ExWmFNekNzc1dR?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 09:00:00 GMT",
+        "summary": "구글 AI 프로 연간 구독 40% 할인: 29만 원→17만 4000원에 쓸 수 있어요 🤖 &nbsp;&nbsp; 뉴닉",
+        "outlet": "뉴닉",
+        "outletUrl": "https://newneek.co",
         "source": "해외 빅테크 국내 보도",
         "sourceIds": [
           "korea-global-ai-companies"
@@ -6909,14 +6910,14 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-10-18T04:43:29.176Z"
+    "generatedAt": "2026-10-18T04:55:57.917Z"
   },
   "briefing": {
     "date": "2026년 10월 18일 일요일",
     "summary": [
       "오늘의 최상위 이슈: Google's TPUv7 Just Beat Nvidia's Best Chip On Its Agentic Inference Benchmark, Says Semi Analysis - OfficeChai",
-      "강한 기술·시장 신호: NPU 9, AI인프라 23, 데이터센터 13, 온디바이스AI 8, 추론 2",
-      "주요 기업 신호: 딥엑스 9, 리벨리온 2, 퓨리오사AI 2, 모빌린트 1, 하이퍼엑셀 0"
+      "강한 기술·시장 신호: NPU 8, AI인프라 23, 데이터센터 13, 온디바이스AI 8, 추론 2",
+      "주요 기업 신호: 딥엑스 8, 리벨리온 2, 퓨리오사AI 2, 모빌린트 1, 하이퍼엑셀 0"
     ],
     "leadArticles": [
       {
@@ -7097,12 +7098,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnV4czAxQVV4VUZYRXRDbExVdThFcTltbFBxT1UzLXRrSnd2RHJsMENZMXg4MzhtTVpfeEZFZ3kyakMwbEY0WU9ycG1yMTAwNnJyZlVWVXRSVVlmM2lMa0Z5R2JKZUpnTzVzbGxVRWM0b0EyZHlrbXFiaUdiOFRVWDlNYkFCNTFrcXM1bHRNdEpZU2dxMkowNDU1YUtiQXZMRzRQYlhJUGtvNnpGTlIwWXJPQktDazVBUG1hdjNjZ0VHbEFPdUlZdGozZjREMlhqVEZ0VzdtMkc4LXJDbVlMVnotc3hFRloycnVv?oc=5",
-        "publishedAt": "Sun, 18 Oct 2026 00:40:18 GMT",
-        "summary": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 &nbsp;&nbsp; The Globe and Mail",
-        "outlet": "The Globe and Mail",
-        "outletUrl": "https://www.theglobeandmail.com",
+        "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2l1RTh5SXRoaVI4ci05eDRHUWpJdG54TU1HbkRRRlc5Y1ctdDI1VG9tN1BXTS1keVJOZndJX1BfN3hrWUNfX1dVMi1HVjhDREIyRlNvdEt2VnJnWlMzaElOTkRLN2hRbkNLQ2QzbVJ4c25scnFHV3E4NVFKdWMtRUI0dVVSSGl3SW04b3hVTkppVExz?oc=5",
+        "publishedAt": "Sun, 18 Oct 2026 00:20:00 GMT",
+        "summary": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -7122,12 +7123,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2l1RTh5SXRoaVI4ci05eDRHUWpJdG54TU1HbkRRRlc5Y1ctdDI1VG9tN1BXTS1keVJOZndJX1BfN3hrWUNfX1dVMi1HVjhDREIyRlNvdEt2VnJnWlMzaElOTkRLN2hRbkNLQ2QzbVJ4c25scnFHV3E4NVFKdWMtRUI0dVVSSGl3SW04b3hVTkppVExz?oc=5",
+        "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnV4czAxQVV4VUZYRXRDbExVdThFcTltbFBxT1UzLXRrSnd2RHJsMENZMXg4MzhtTVpfeEZFZ3kyakMwbEY0WU9ycG1yMTAwNnJyZlVWVXRSVVlmM2lMa0Z5R2JKZUpnTzVzbGxVRWM0b0EyZHlrbXFiaUdiOFRVWDlNYkFCNTFrcXM1bHRNdEpZU2dxMkowNDU1YUtiQXZMRzRQYlhJUGtvNnpGTlIwWXJPQktDazVBUG1hdjNjZ0VHbEFPdUlZdGozZjREMlhqVEZ0VzdtMkc4LXJDbVlMVnotc3hFRloycnVv?oc=5",
         "publishedAt": "Sun, 18 Oct 2026 00:20:00 GMT",
-        "summary": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
+        "summary": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 &nbsp;&nbsp; The Globe and Mail",
+        "outlet": "The Globe and Mail",
+        "outletUrl": "https://www.theglobeandmail.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai"
@@ -7175,7 +7176,7 @@ window.__DASHBOARD_DATA__ = {
       "technologies": [
         [
           "NPU",
-          9
+          8
         ],
         [
           "AI인프라",
@@ -7199,13 +7200,13 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "파운드리·패키징",
-          21
+          20
         ]
       ],
       "companies": [
         [
           "딥엑스",
-          9
+          8
         ],
         [
           "리벨리온",
@@ -7229,11 +7230,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "Google",
-          43
+          44
         ],
         [
           "TSMC",
-          21
+          20
         ],
         [
           "AMD",
@@ -7249,7 +7250,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "Arm",
-          2
+          3
         ]
       ]
     },
@@ -7340,11 +7341,11 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          75
+          74
         ],
         [
           "NPU",
-          12
+          11
         ],
         [
           "정책",
