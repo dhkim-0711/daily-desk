@@ -1,0 +1,371 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-19",
+  "cutoff_at": "2026-10-19T09:30:00+09:00",
+  "window_start": "2026-10-18T09:30:00+09:00",
+  "created_at": "2026-10-19T09:44:41.172+09:00",
+  "status": "ready",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1
+      ],
+      "bullets": [
+        "오케스트로·퓨리오사AI·업스테이지 등 5개사는 국산 NPU와 AI 모델, 클라우드 운영 SW를 결합한 소버린 AI 어플라이언스를 공동 개발하고 공공·민간 PoC와 BMT를 추진하기로 했다.",
+        "개별 칩 공급을 넘어 서버·네트워크·모델·운영 플랫폼을 한 묶음으로 제안하려는 단계이지만, 현재는 업무협약이며 실제 제품 통합과 수요기관 계약은 아직 확인되지 않았다."
+      ]
+    },
+    {
+      "article_numbers": [
+        2
+      ],
+      "bullets": [
+        "구미시는 삼성물산과 지역 건설사 30곳의 상담회를 열어 삼성SDS 구미 AI 데이터센터 공사 참여 절차와 심사 기준을 공유했고, 일부 지역업체는 파일·가설용수 공사를 이미 수주했다.",
+        "3조원은 전체 사업 구상 규모이며 지역업체 30% 참여는 지자체 요청사항이어서, 후속 공종 발주와 실제 계약 실적을 구분해 볼 필요가 있다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3
+      ],
+      "bullets": [
+        "삼성전자가 엔비디아 차세대 맞춤형 HBM의 베이스 다이에 TSMC 3나노 공정을 쓰기로 했다는 보도가 나와 메모리와 파운드리의 분업 가능성이 커졌다.",
+        "확정 계약의 공식 발표는 아니지만 고객 지정 공정이 HBM 공급사의 설계·조달 선택을 바꾸는 흐름은 메모리·파운드리·첨단패키징 간 경쟁구도를 재편할 수 있다."
+      ]
+    },
+    {
+      "article_numbers": [
+        4,
+        5
+      ],
+      "bullets": [
+        "미국에서는 올해 대형 데이터센터 47건 이상이 지연·철회·차단됐다는 조사와 계획 물량의 약 35%만 실현 가능하다는 추정이 나왔고, 엔비디아는 소비자 GPU 품귀의 배경으로 GPU와 DRAM 전반의 메모리 공급 제약을 지목했다.",
+        "AI 인프라 병목이 칩 수량을 넘어 전력·인허가·지역 수용성·금융비용·메모리 가격으로 확산되면서 구축계획과 실제 집행, 회사 설명과 독립 통계를 구분하는 검증이 중요해졌다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "국산 NPU·AI 모델·클라우드 5개사, 소버린 AI 풀스택 공동개발",
+      "category": "국내 NPU·운영 SW 협력",
+      "collected_at": "2026-10-19T00:10:36.982Z",
+      "original_published_at": "2026-10-19T08:27:38+09:00",
+      "original_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajY2M2RvVzVTUUxUbk1WN0VYOTZ1WUdhc3pXRlRCem1nUm5LYlQxSGsxaW1EcWhweS13NTdXdjkxMWw3RkdQZ2stRXV4M2NXb2VzUkYzZ0hYTldTR04taGFWUHZzWkd0SFNtQ3B1ZC1mcjRFaDhfYllrSExRWmtfZA?oc=5",
+      "event_id": "orchestra-furiosa-upstage-sovereign-ai-appliance-mou-2026-10-19",
+      "event_first_published_at": "2026-10-19T08:27:38+09:00",
+      "event_evidence_url": "https://v2.www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02207446645614560",
+      "selection_tier": "primary",
+      "main_points": [
+        "오케스트로클라우드·퓨리오사AI·업스테이지·에스피케이·대원씨티에스는 10월 16일 국산 기술 기반 소버린 AI 풀스택 어플라이언스를 공동 개발하는 업무협약을 맺었다. 오케스트로의 클라우드 운영 플랫폼과 분산 스토리지, 퓨리오사AI의 RNGD NPU, 업스테이지의 Solar 모델, 에스피케이의 서버, 대원씨티에스의 데이터센터·네트워크 역량을 결합할 계획이다.",
+        "협력 범위는 통합형 어플라이언스와 관리형 서비스 개발, 공공·민간 공동 마케팅, PoC·BMT·제안 사업이다. 다만 보도 시점에는 제품 통합 완료, 유상 실증, 수요기관 계약이나 공급 물량이 공개되지 않은 업무협약 단계다."
+      ],
+      "implications": [
+        "국산 NPU 사업화가 칩 단품 판매에서 모델·서버·스토리지·운영 소프트웨어를 함께 제공하는 시스템 제안으로 이동하고 있다. 수요기관은 단일 책임주체와 통합 지원을 확보할 수 있지만, 이기종 구성요소의 성능·장애·업데이트 책임을 명확히 해야 한다.",
+        "후속 판단에서는 RNGD에서 Solar 모델이 실제로 구동되는지, 기존 GPU 대비 성능·전력·총소유비용이 어떠한지, PoC와 BMT가 유상 계약과 반복 구매로 이어지는지를 단계별로 확인할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "오케스트로·퓨리오사AI·업스테이지, 소버린AI 풀스택 개발 나선다",
+          "publisher": "이데일리",
+          "published_at": "2026-10-19T08:27:38+09:00",
+          "url": "https://v2.www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02207446645614560",
+          "verification": "full_text",
+          "verified_at": "2026-10-19T09:42:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "구미 AI 데이터센터, 지역업체 참여 절차 공개·일부 공종 수주",
+      "category": "국내 AI 데이터센터·지역 산업기반",
+      "collected_at": "2026-10-18T12:02:04.142Z",
+      "original_published_at": "2026-10-18T19:17:44+09:00",
+      "original_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3bk1ERFZvUVJwSE9RdDJoYXpjY1dSWFdLd2NnX2dOX3ZoLVFYU0d0dWd2aEU4X3l6enRoc2tmMDdCam5SN0FLZDdNYnU4ZnlPa05aR0FTM05PMWY2cmVCbEtVbw?oc=5",
+      "event_id": "gumi-samsung-aidc-local-contractors-matching-2026-10-18",
+      "event_first_published_at": "2026-10-18T19:17:44+09:00",
+      "event_evidence_url": "https://www.ekn.kr/web/view.php?key=20261018021467672",
+      "selection_tier": "primary",
+      "main_points": [
+        "구미시는 10월 15일 삼성물산과 지역 건설업체 30곳이 참여한 상생 협력 상담회를 열어 삼성SDS 구미 AI 데이터센터 공사 참여 등록 절차, 심사 기준, 안전관리 기준과 향후 발주 공종을 공유했다. 삼성물산·삼성SDS 관계자 7명이 참여해 업체별 일대일 상담도 진행했다.",
+        "현재 토목공사가 진행 중이며 지역업체가 파일 공사와 가설용수 공사를 수주한 사실이 공개됐다. 구미시장은 전체 사업 구상 3조원 가운데 지역업체 참여 비중 30%를 요청했지만 이는 확정 배정이나 계약 실적이 아니며, 후속 공종 매칭과 삼성 본사 협의를 이어갈 계획이다."
+      ],
+      "implications": [
+        "반도체·AI 데이터센터 산업기반 정책의 성과가 투자협약 총액보다 실제 공사 발주, 지역기업 등록과 수주로 이동하는지를 확인할 수 있는 사례다. 부지 조성과 토목 단계의 지역 참여는 확인됐지만 전력·설비·운영 분야까지 확대되는지는 별도 검증이 필요하다.",
+        "정책·사업 기획에서는 전체 투자 구상, 지자체 요청 비율, 이미 체결된 공종 계약을 구분해 관리하는 것이 중요하다. 후속 공개자료에서 공종별 발주액·지역기업 수주율·안전 요건·전력 인입 일정을 함께 보면 집행 진척을 더 정확히 판단할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "구미 3조원 AI 데이터센터 건설…지역업체 참여 확대 ‘시동’",
+          "publisher": "에너지경제신문",
+          "published_at": "2026-10-18T19:17:44+09:00",
+          "url": "https://www.ekn.kr/web/view.php?key=20261018021467672",
+          "verification": "full_text",
+          "verified_at": "2026-10-19T09:42:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "삼성, 엔비디아 차세대 HBM 베이스 다이에 TSMC 3나노 활용 보도",
+      "category": "HBM·파운드리 공급망",
+      "collected_at": "2026-10-18T16:29:22.480Z",
+      "original_published_at": "2026-10-18T23:18:00+09:00",
+      "original_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEJBUjk5NlQ2RTc5dUhkbTRWRTRaNm1vbjZnc1EtMlRUek52bDJ5alNuUGZWMkMwd3NEbklvQUw5YVJ6di1GTE5UbjBpOXBIZnVqT2pySGYzZ0c4c1BJdGVzUjZQcU91Vm5aYTBUaHROcUhOMXh3aVpSV0o3NW5QSk5wS25oTHV4aHlWNGJfR0c0OWhYWmpYaURZYnA0ZU1xTl9nYXFsdV85U3Q1SDJSTtIBrAFBVV95cUxNdzFSWk9GSmxZYnpQR1djdVVZbmRhWi02M2liR3d0b0tfSy1fM0lpUGVudkxQMUJ2VWVtYjdEUThuLURfM2g3M1cyelJoV0NvOUE4NkxHUEVSOXZoRUJFQ3NMVXNmczMyczUyWWlyMjB4N3Z4Y2cxaTgzVzBBTUZfbWgyeEtSRm9fREVfWjVuZWNQQzJCXzNCQ3Q2THBnWEZfdm1fcDBvRFhlc212?oc=5",
+      "event_id": "samsung-tsmc-3nm-nvidia-nextgen-hbm-base-die-report-2026-10-18",
+      "event_first_published_at": "2026-10-18T21:08:41+09:00",
+      "event_evidence_url": "https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/",
+      "selection_tier": "primary",
+      "main_points": [
+        "로이터는 서울경제 보도를 인용해 삼성전자가 엔비디아 차세대 맞춤형 HBM의 베이스 다이에 TSMC 3나노 공정을 사용하기로 했다고 전했다. 엔비디아가 삼성전자·SK하이닉스·마이크론에 베이스 다이는 TSMC 공정, 코어 다이는 6세대 D램을 사용해 달라고 요청했고 삼성전자가 내부 검토 뒤 이를 수용했다는 내용이다.",
+        "보도대로 실행되면 삼성전자와 TSMC가 HBM 제조에서 협력하는 첫 사례가 될 수 있다. 다만 삼성전자·TSMC·엔비디아의 공식 계약 발표가 아니라 업계 관계자를 인용한 보도이며, 삼성전자는 다른 고객용 표준·맞춤형 HBM에는 자체 파운드리 활용을 유지하는 방안도 검토하는 것으로 전해졌다."
+      ],
+      "implications": [
+        "고객이 HBM의 메모리 공정뿐 아니라 베이스 다이 파운드리까지 지정하면 메모리 업체의 수직계열화 이점보다 검증된 로직 공정과 패키징 호환성이 우선될 수 있다. HBM 경쟁축이 D램 성능에서 베이스 다이 설계·파운드리 용량·첨단패키징 일정으로 넓어지는 변화다.",
+        "국내 공급망에는 삼성전자 메모리와 파운드리의 내부 최적화 전략, TSMC 외부 용량 의존도, 국내 디자인·패키징 기업의 역할을 함께 점검할 필요가 있다. 실제 적용 제품, 공급 물량과 양산 시점은 공식 발표나 후속 계약 확인 전까지 확정 사실로 간주하면 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
+          "publisher": "Reuters",
+          "published_at": "2026-10-18T21:08:41+09:00",
+          "url": "https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/",
+          "verification": "full_text",
+          "verified_at": "2026-10-19T09:42:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "미국 대형 데이터센터 47건 이상 차질…전력·인허가·금융 병목",
+      "category": "글로벌 AI 데이터센터 인프라",
+      "collected_at": "2026-10-19T00:10:36.982Z",
+      "original_published_at": "2026-10-19T08:19:33+09:00",
+      "original_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5bmtvbXc3aXdVNlZaSm93QlBlYzZYNm5OLWZLVGNZUW83YVUzQnFJeUR2NVU5MEdGRVBVSmpPLWhfYUdUcGdyczlGcVB5c1ZLc0pVc2t2eHZNeDDSAWBBVV95cUxQWW1WQ0VpTEdid09xLVROZzh5UHlENDRrczJzTU1ucWx1T3VrQy1tNVBJeWxfa2pLLUpqX0ZVVE5FZTVIV0FRc1hVNnZjODU5WXRGZzJrYUFyd2hqWTN5UEg?oc=5",
+      "event_id": "us-data-center-47-project-delays-reglayer-2026-10-19",
+      "event_first_published_at": "2026-10-19T08:19:33+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261019014800009",
+      "selection_tier": "primary",
+      "main_points": [
+        "연합뉴스가 파이낸셜타임스와 데이터센터 규제정보업체 RegLayer를 인용해 올해 미국에서 최소 47건의 대형 데이터센터 프로젝트가 지연·철회되거나 지역사회와 당국에 의해 차단됐다고 보도했다. 전력 부족과 인허가 지연, 주민 반발이 주요 원인으로 제시됐고 1,000곳이 넘는 지역사회가 개발 유예나 제한을 시도한 것으로 집계됐다.",
+        "번스타인은 발표된 계획 가운데 약 35%만 실현될 수 있다고 추정했다. 고금리와 채권시장 약세, 네오클라우드 기업의 주가·채권 부진, 일부 대형 임대계약의 해지 가능성도 거론됐으나 이는 조사기관·애널리스트의 추정과 진행 중인 계약 위험으로 확정 취소 실적과 구분해야 한다."
+      ],
+      "implications": [
+        "AI 데이터센터 공급 전망은 발표된 전력용량이나 투자총액을 그대로 더하기보다 계통연계, 인허가, 지역 수용성, 장기 임차계약과 자금조달의 실제 진행률로 할인해 볼 필요가 있다. 가속기 수요 전망도 구축 가능 용량과 가동 시점에 따라 크게 달라질 수 있다.",
+        "국내 AIDC 사업에서는 부지 선정 뒤 전력·용수·인허가·민원·금융종결을 별도 단계로 공개하면 계획과 집행을 구분하기 쉬워진다. 미국 사례의 47건과 35%는 각각 RegLayer 집계와 번스타인 추정이므로 국내 사업의 성과나 실패율로 직접 전용해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "미국 데이터센터 47건 차질…AI 인프라 붐 균열",
+          "publisher": "연합뉴스",
+          "published_at": "2026-10-19T08:19:33+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261019014800009",
+          "verification": "full_text",
+          "verified_at": "2026-10-19T09:42:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "엔비디아, 소비자 GPU 품귀 배경으로 GPU·DRAM 공급 제약 지목",
+      "category": "GPU·메모리 공급망",
+      "collected_at": "2026-10-18T04:43:31.742Z",
+      "original_published_at": "2026-10-18T11:11:00+09:00",
+      "original_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tQjl4SU5lWXFIOWRmYkFDd3RrUExRbGZodVUzc3RGdWxEWldpUHVlN0tLOVJzZjVKZDBjaHJoNndnWFZsZlgzb0ZMRWNvN2p6NldsWXMxOWhKdXd6MnoyU1JBZXlRUQ?oc=5",
+      "event_id": "nvidia-consumer-gpu-shortage-memory-supply-comment-2026-10-18",
+      "event_first_published_at": "2026-10-18T11:11:00+09:00",
+      "event_evidence_url": "https://www.thelec.net/news/articleView.html?idxno=14685",
+      "selection_tier": "primary",
+      "main_points": [
+        "엔비디아 개발자 관계 담당 부사장 이다 케이타는 10월 16일 RTX Spark 출시 행사 뒤 인터뷰에서 소비자용 GPU 품귀가 GPU와 DRAM을 포함한 광범위한 메모리 공급 문제에서 비롯됐으며 엔비디아가 통제하기 어렵다고 말했다. 디일렉은 RTX 5090 일부 제품의 국내 판매가가 1,500만원에 이르고 RTX Spark 노트북이 470만~1,000만원대라고 보도했다.",
+        "엔비디아 측은 RTX Spark의 128GB 메모리 구성이 가격 상승 전에 결정됐다고 설명했다. 가격과 공급원인에 대한 회사 임원 발언 및 현장 가격 사례이므로 전체 시장의 평균 가격이나 공급 부족 규모를 입증하는 독립 통계로 해석할 수는 없다."
+      ],
+      "implications": [
+        "AI 가속기용 HBM 수요가 일반 DRAM과 소비자 GPU 공급에도 영향을 주면 개발자·중소기업의 로컬 추론 장비 접근 비용이 높아질 수 있다. 데이터센터 가속기 지원사업과 별도로 워크스테이션·엣지 개발 환경의 가격과 납기를 살펴볼 이유가 있다.",
+        "정책 판단에서는 회사가 제시한 공급 제약 설명, 유통단계 가격, 실제 출하량을 구분해야 한다. 후속 검토는 지역별 재고와 권장가격 대비 거래가격, GPU와 DRAM 각각의 공급 개선 시점, 대체 가속기와 메모리 구성의 비용효율을 확인하는 방향이 적절하다."
+      ],
+      "sources": [
+        {
+          "title": "Nvidia Says Consumer GPU Shortages Are Beyond Its Control",
+          "publisher": "The Elec",
+          "published_at": "2026-10-18T11:11:00+09:00",
+          "url": "https://www.thelec.net/news/articleView.html?idxno=14685",
+          "verification": "full_text",
+          "verified_at": "2026-10-19T09:42:00+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "candidate_counts": {
+      "discovered": 2873,
+      "time_eligible": 1145,
+      "independent_events": 15,
+      "verified": 10,
+      "selected": 5,
+      "basis": "docs/data/archive/index.json의 2026-10월 183개 parts 전체 18,201건을 읽어 마감 전 72시간부터 작성 시점까지 2,873건을 확인했고, publishedAt이 마감 전 48시간 안인 기사 1,145건을 집계했다. 업무 관련성이 높은 독립 사건 15건을 비교해 공개 본문·시의성·사건 중복을 확인한 10건 가운데 5건을 선정했다. 당일 collection은 09:10과 09:29 KST에 실제 완료됐고 마지막 실행은 44개 출처 ok, NIPA AI칩 출처 1개 empty였으며 직접 공식채널 검색으로 보완했다."
+    },
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "전체 아카이브와 퓨리오사AI·리벨리온·딥엑스·모빌린트·가온칩스 공개자료에서 고객검증·유상 PoC·제품통합·양산·반복구매·해외협력·K-Perf를 확인했다. 5개사의 국산 NPU 기반 풀스택 업무협약을 선정했고, 퓨리오사AI 공급망 확대 종합기사는 과거 삼성SDS·LG유플러스 협력의 재서술 비중이 높아 제외했다. 가온칩스-KAI 무인기 칩은 마감 전 보도였으나 공개 원문을 충분히 읽지 못해 제외했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP, 중앙부처·지자체·공공기관·테크노파크의 NPU 정책·실증·조달·예산과 GPU/NPU 지원사업 배정·활용·집행을 확인했다. NIPA의 기존 사업 소개와 과거 공고 외에 이번 구간의 신규 확정 NPU 배정·집행은 확인되지 않았다. 구미 AI 데이터센터의 지역업체 매칭, 일부 공종 수주와 후속 협의를 산업기반 집행 변화로 선정했으며 3조원 전체 구상과 30% 참여 요청을 확정 계약으로 쓰지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·Microsoft Maia·ASIC, 자체 칩과 개발자 생태계 확보를 위한 인수·제휴 및 공급제약을 검색했다. 이번 마감 전 48시간 안에 새로 검증된 대형 인수·맞춤형 칩 제휴는 확인되지 않았고, 엔비디아의 소비자 GPU·메모리 공급 제약 발언과 미국 데이터센터 집행 차질을 선정했다. 이전 회차의 RTX Spark 출시와 Anthropic TPU 금융협상은 재선정하지 않았다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·vLLM·SGLang·커널·런타임·GPU/NPU 오케스트레이션과 개발자 생태계를 검색했다. 오케스트로 운영 플랫폼·Ceph, 퓨리오사AI RNGD와 업스테이지 Solar를 결합하는 풀스택 계획을 선정했으며, 실제 통합 성능과 유상 PoC는 아직 공개되지 않았다고 구분했다. 이번 구간에 독립적으로 검증 가능한 신규 ROCm·vLLM·SGLang 상용배치나 국산 NPU 런타임 운영성과는 확인되지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·CXL·첨단패키징·실리콘포토닉스, 데이터센터 전력·냉각과 클러스터 부지·전력·용수·인허가를 점검했다. 삼성전자의 엔비디아 차세대 HBM 베이스 다이용 TSMC 3나노 수용 보도, 구미 AIDC 공종 집행, 미국 데이터센터 47건 차질과 엔비디아의 메모리 공급 제약 발언을 비교 선정했다. 고객 지정 공정은 보도 단계이며 미국 47건·35%는 조사·추정임을 명시했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국산 NPU·모델·클라우드 운영 SW·서버 유통사를 한 시스템 제안으로 묶는 구체적 협력으로, 칩 단품에서 풀스택 사업화로 이동하는 단계와 아직 남은 PoC·BMT 검증을 함께 보여준다."
+      },
+      {
+        "article_number": 2,
+        "reason": "AI 데이터센터 투자 구상이 실제 토목 공종 수주와 지역기업 등록·상담으로 넘어간 집행 단계 변화로, 지자체의 산업기반 지원과 확정 계약을 구분해 볼 수 있다."
+      },
+      {
+        "article_number": 3,
+        "reason": "엔비디아의 맞춤형 HBM 요구가 메모리 업체의 베이스 다이 파운드리 선택을 바꿀 수 있다는 중대한 공급망 변화로, 삼성-TSMC 협력 가능성과 공식 계약 전 불확실성을 함께 판단할 필요가 있다."
+      },
+      {
+        "article_number": 4,
+        "reason": "미국 대형 데이터센터의 전력·인허가·지역 수용성·금융 병목이 구체적 지연·철회 집계로 드러나 가속기 수요와 AI 인프라 투자계획의 실행 가능성을 재평가하게 한다."
+      },
+      {
+        "article_number": 5,
+        "reason": "소비자 GPU와 DRAM 공급 제약이 개발 장비 가격과 접근성으로 번지는 현장 신호로, 회사 발언의 한계를 밝히면서 AI 가속기·메모리 공급망의 하류 영향을 보여준다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "퓨리오사AI, 칩 넘어 AI 인프라로…삼성SDS·LGU+ 타고 공급망 확대",
+        "url": "https://www.news1.kr/industry/sb-founded/6321052",
+        "reason": "8000억원 투자유치의 최종 납입 준비라는 회사 설명을 포함했지만 삼성SDS NPUaaS, LG유플러스 업무협약과 싱가포르 거점 등 핵심 사례가 과거 발표의 종합 재서술이어서 5개사 신규 풀스택 협약과 별도 이슈로 중복 선정하지 않았다."
+      },
+      {
+        "title": "가온칩스, KAI와 무인기용 AI반도체 국산화…삼성 8나노 공정 활용",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xWWFVcnpTcThfOEpEbHlWNXNfbGg4NEpLRVRJWHo3NHhYb3NnTjhYa3Z3bjN2bXkxMnpRaHNOampvN3pYcmVrVG1rbGN1ZGpCa1dMRS0tcDJURkZqQVJGZzRDRGk?oc=5",
+        "reason": "수요기업 KAI와 국산 무인기용 칩 공동개발이라는 업무 관련성이 높고 마감 전 공개됐지만 검색·RSS 외에 핵심 사실을 충분히 확인할 공개 원문이나 공식자료를 확보하지 못해 제외했다."
+      },
+      {
+        "title": "한미반도체 미국법인 설립·C타입 TC본더 준비",
+        "url": "https://www.thelec.net/news/articleView.html?idxno=14682",
+        "reason": "새 기사로 수집됐지만 미국법인 설립과 주요 계획의 사건 최초 공개가 2026년 5월로 확인돼 이번 48시간 신규·보완 사건이 아니었다."
+      },
+      {
+        "title": "인텔 Xe3P 기반 D 시리즈 데이터센터 GPU 계획",
+        "url": "https://news.google.com/",
+        "reason": "10월19일 기사로 재유통됐지만 핵심 제품계획은 10월13일 처음 공개돼 48시간 보완구간을 벗어났고 이번 회차에 독립적인 새 일정·고객·출하 사실이 없었다."
+      },
+      {
+        "title": "모빌린트, 누리호 4차 발사 큐브위성에 국산 NPU 탑재",
+        "url": "https://news.google.com/",
+        "reason": "우주 환경 실증 자체는 중요하지만 핵심 탑재 사실이 10월8일 공개된 사건의 재서술로 이번 회차에 새로운 발사 결과나 검증 성과가 없었다."
+      }
+    ],
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "5개사가 10월16일 체결한 소버린 AI 풀스택 업무협약의 구체적 참여사·구성요소·PoC·BMT 범위가 10월19일 처음 공개됐고 최근 14일 원고에 같은 사건이 없다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "삼성물산-구미 지역업체 매칭데이, 참여 절차 공개와 파일·가설용수 공종 수주라는 집행 사실이 10월18일 처음 공개됐고 과거의 투자협약 자체와 구분된다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "엔비디아용 차세대 맞춤형 HBM 베이스 다이에 TSMC 3나노 공정을 사용하기로 했다는 보도가 10월18일 새로 나왔고 최근 14일 원고의 실리콘포토닉스·CXL 사건과 다르다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "RegLayer의 미국 대형 데이터센터 47건 이상 차질 집계와 번스타인의 실현가능성 추정이 10월19일 처음 보도된 신규 인프라 집행 진단이다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "엔비디아 임원이 소비자 GPU 품귀와 GPU·DRAM 공급 제약을 연결해 설명한 현장 인터뷰가 10월18일 처음 공개됐고 RTX Spark 출시 자체와는 다른 공급망 사건이다."
+      }
+    ],
+    "history_review": {
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-18",
+      "checked_dates": [
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "note": "저장소에 존재하는 최근 14일 ready 원고를 제목·주요 사실·출처까지 읽고 사건 단위로 대조했다. 10월17일 EdgeAI-EfficientAI 협력, HD현대-LG CNS AIDC 전력 협력, 삼성 실리콘포토닉스 인수 검토, SK하이닉스 CXL PoC와 RTX Spark, 10월18일 딥엑스-인텔·AMD 협력, Anthropic TPU 금융협상, 중국·대만 수출통제를 중점 비교했다. 선정 5건은 같은 사건이 없었고 오래된 계획·재서술은 제외했다."
+    },
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026-10-18 2026-10-19 국산 NPU 고객검증 유상 PoC 제품통합 양산 반복구매 해외협력 K-Perf 도입; 퓨리오사AI 리벨리온 딥엑스 모빌린트 가온칩스 공식",
+          "official_sources": "과기정통부 보도자료 https://www.msit.go.kr/bbs/list.do?mId=307&mPid=208&sCode=user, NIPA 사업·공고 https://www.nipa.kr/, 국내 NPU 기업 뉴스룸과 이데일리 공개 원문을 확인했다.",
+          "result": "5개사 소버린 AI 풀스택 업무협약을 선정했다. 가온칩스-KAI 무인기 칩은 공개 원문 검증이 부족했고, 다른 신규 유상 PoC·양산·반복구매·K-Perf 도입은 확인되지 않았다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr OR site:nipa.kr OR site:iitp.kr 2026-10-18 2026-10-19 NPU AI반도체 실증 공고 배정 활용; 지자체 지방의회 테크노파크 국비 예산 조달 데이터센터 부지 전력 용수 인허가",
+          "official_sources": "과기정통부·NIPA·IITP 공개자료와 구미시 관련 공개보도 https://www.ekn.kr/web/view.php?key=20261018021467672 를 확인했다.",
+          "result": "이번 구간에 신규 확정 NPU 배정·집행 공고는 확인되지 않았다. 구미 AIDC 지역업체 매칭과 일부 공종 수주를 선정했고, 총투자 구상·참여 요청·실제 계약을 구분했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "October 18 19 2026 AI accelerator GPU TPU ASIC acquisition alliance custom chip software developer ecosystem supply shortage",
+          "official_sources": "NVIDIA·AMD·Google·Microsoft 뉴스룸과 Reuters, 연합뉴스, The Elec 공개본문을 확인했다.",
+          "result": "새로 검증 가능한 대형 인수·자체칩 제휴는 없었다. 미국 데이터센터 차질과 엔비디아 GPU·DRAM 공급 제약 발언을 선정하고 이전 회차의 RTX Spark와 Anthropic TPU 금융협상은 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "October 18 19 2026 ROCm vLLM SGLang kernel runtime NPU orchestration OpenVINO CUDA official release deployment",
+          "official_sources": "ROCm 문서 https://rocm.docs.amd.com/, vLLM https://vllm.ai/, SGLang 공개 저장소와 이데일리 풀스택 협약 원문을 확인했다.",
+          "result": "오케스트로 운영 플랫폼·Ceph와 RNGD·Solar 결합 계획을 선정했다. 독립적인 신규 ROCm·vLLM·SGLang 상용배치 또는 국산 NPU 런타임 운영성과는 확인되지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026-10-18 2026-10-19 HBM CXL advanced packaging silicon photonics AI data center power cooling cluster land water permit financing",
+          "official_sources": "삼성전자·SK하이닉스·TSMC 뉴스룸, Reuters HBM 보도 https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/, 구미·미국 데이터센터 공개본문을 확인했다.",
+          "result": "삼성-TSMC 차세대 HBM 보도, 구미 공종 집행과 미국 데이터센터 차질을 선정했다. 고객 지정 공정은 보도 단계이며 데이터센터 집계와 실현비율은 조사·추정으로 구분했다."
+        }
+      },
+      "alternative_sources": "당일 collection은 09:10:34와 09:29:25 KST에 실제 완료됐고 마지막 실행에서 44개 출처가 ok, nipa-ai-chip 1개가 empty였다. 아카이브 183개 parts 전체와 과기정통부·NIPA·IITP·기업 뉴스룸, Reuters·연합뉴스·이데일리·에너지경제·The Elec 공개본문을 직접 검색해 다섯 영역을 보완했다. 마감 전 공개됐으나 마지막 수집 뒤 확인한 자료는 발행시각과 원문을 대조했으며, 09:30 이후 처음 공개된 사실은 포함하지 않았다."
+    },
+    "count_reason": "아카이브 2,873건과 48시간 발행 조건 1,145건을 전수 범위로 두고, 다섯 영역에서 업무 관련성이 높은 독립 사건 15건을 비교했다. 공개본문·시의성·최근 14일 중복을 검증한 10건 중 국내 NPU 풀스택 협력, 지역 AIDC 집행, HBM 파운드리 분업, 미국 데이터센터 실행 차질, GPU·DRAM 공급 제약의 서로 다른 판단축 5건을 선정했다. 여섯 번째 후보인 가온칩스-KAI 무인기 칩은 공개 원문을 충분히 확인하지 못했고, 퓨리오사AI 종합기사와 다른 후보는 중복·재서술·48시간 밖이어서 오래된 기사로 수를 채우지 않았다.",
+    "company_overlap_review": "선정 5건은 오케스트로·퓨리오사AI 풀스택 협력, 삼성-구미 AIDC 공사, 삼성전자-TSMC HBM 공급망, 미국 데이터센터 전체, 엔비디아 소비자 GPU 공급으로 주체와 사건이 다르다. 삼성 계열은 2번의 데이터센터 건설·지역 공종 집행과 3번의 HBM 베이스 다이 파운드리 선택으로 산업계층과 근거가 독립적이다. 1번에 포함된 퓨리오사AI를 중심으로 한 과거 협력 종합기사는 중복을 피하기 위해 제외했다."
+  }
+}
