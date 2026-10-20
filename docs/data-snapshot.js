@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-10-20T01:03:48.272Z",
+  "generatedAt": "2026-10-20T01:16:21.351Z",
   "news": {
     "articles": [
       {
@@ -270,6 +270,30 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
+        "title": "[TODAY엔비디아]'인텔 AMD 주도' CPU 시장 확대…AI 스타트업 '수주' - 이데일리",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yMFJOYVNlYXRZZDFieUFydUlWX0pDZk9tYV9ObXhqRjVHTmxLSkZneWZaRXdoa29fQVo1LXhnOWNhZHF2Y3JuUjRDZHNCbERQNmNvSjd6MEFmbm9JOEctWHFxTUtOVWRYXzlwd1RMNjZWTWp5?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 21:23:45 GMT",
+        "summary": "[TODAY엔비디아]'인텔 AMD 주도' CPU 시장 확대…AI 스타트업 '수주' &nbsp;&nbsp; 이데일리",
+        "outlet": "이데일리",
+        "outletUrl": "https://m.edaily.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 27
+      },
+      {
         "title": "Third Wheel: Microsoft’s AI Chips Are “Nowhere Close” to NVIDIA or Google per Analyst - TIKR.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPek9LN085aUdkWmpjTlNUMUd0N2Frb05McXI5SVVKdUQ4TDRJYUpMMGJ5ZllEb0pJTk5zd0Z1UGZoQVoyam1HNDVoaU90bWxxZjRReFhWanZITDRhS3lTVTdfYkNRdVctLUVaV1RFTXA5bGZHT0pueUZpUHQtMzdLbDd3Y2NNb0hJQ2UtUkk2WHhaTE9wdGZoV0VOR21lWnV6Mm1zc1JYVGZMUWZTWUNv?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 19:07:30 GMT",
@@ -391,6 +415,26 @@ window.__DASHBOARD_DATA__ = {
         "score": 27
       },
       {
+        "title": "고려대 강형엽·김영근 교수, 과기정통부 ‘AI최고급신진연구자지원사업’ 선정 - 뉴스프리존",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aUUo1OENrQUhXajc4VVJualJfWmpxTndjTjZ5UUprZzBySkNkRlpkdVFkSWNnOW1acnhRWllOWUktX0pmOEl3TlV2NjVKbGQycWt0SThsb1hHR1dxNmczTkJWQ0VTTHI5V2MtY1dSa2JTSEnSAXdBVV95cUxORl81YnJycUhkTWJ4WkxocjYyUk1sSUVHNWpwOGJyb2dPc1dKQ0ZoOUFvbGhpTGk3UGE1OWh4Snp3LWxLWGUtYWJQT3JDbDdPWmxHVHR1TjNKVkR1WFdKaGNjc1JFRnN2d3diQllGR242UERsZ29CNA?oc=5",
+        "publishedAt": "Tue, 20 Oct 2026 00:56:17 GMT",
+        "summary": "고려대 강형엽·김영근 교수, 과기정통부 ‘AI최고급신진연구자지원사업’ 선정 &nbsp;&nbsp; 뉴스프리존",
+        "outlet": "뉴스프리존",
+        "outletUrl": "https://www.newsfreezone.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "정책",
+        "score": 26
+      },
+      {
         "title": "마음AI, 뉴시스 ‘차세대 기술 리더상’ 과기정통부 장관상 수상 - 테크월드",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwU3NCRHVJMlpEaTQzcG5sVUhUZDNkcGlESUlrZXpmdUF1Nm5rd1JBY3I1R09ZOXJ6VzRqNUM0cjBOZkw2WVl5d1hYdEdrblpZQ085UDIwSTJ4Q2RlWjRmMjdTQktmTmtv?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 23:20:00 GMT",
@@ -481,6 +525,30 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
+        "title": "엔비디아 2027년 매출 91.7%가 AI 투자에 노출…모건스탠리 평가 - 토큰포스트",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TWW53WUpHcmxTVy1WLWVuV2ZGSkdNLWNYQzlIblA2NzJsVDhTWjVHQV82RTdaRzhhOGJkM0w2NnRaNEd2dm9VNzF0NDh1bjNha25Rd2JnNGk0bzTSAVtBVV95cUxNU1lud1lKR3JsU1ctVi1lbldmRkpHTS1jWEM5SG5QNjcybFQ4U1o1R0FfNkU3Wkc4YThiZDNMNjZ0WjRHdnZvVTcxdDQ4dW4zYWtuUXdiZzRpNG80?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 20:11:38 GMT",
+        "summary": "엔비디아 2027년 매출 91.7%가 AI 투자에 노출…모건스탠리 평가 &nbsp;&nbsp; 토큰포스트",
+        "outlet": "토큰포스트",
+        "outletUrl": "https://www.tokenpost.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 26
+      },
+      {
         "title": "Germany's Merz urges AI investment ahead of Nvidia deal - CNA",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNlBhRnp5OXRDWGJGbGN6SlRRcXlqcTg4SVJMOTlWZDM5NUYzSXdfdDNMZTZnVGFaUE1Ybm1Fa3hQbTRVRXQteUlSM2RZcFYxcHlqNTM0YnNtU3BZSE9KQm5JeFRSeEJXMkg3MF9HZF9XUkhiSFJwVUFQTUcycDh5NXFlR2RiLXZfbWhrNlA3cllNOS0wQXNrNEpHMFhjbGdwM0E?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 20:07:31 GMT",
@@ -517,6 +585,31 @@ window.__DASHBOARD_DATA__ = {
         ],
         "sourceLang": "ko",
         "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 26
+      },
+      {
+        "title": "Germany's Merz urges AI investment ahead of Nvidia deal - Euronext Markets: Real-time Stock Market Data | live",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFY0SXNTQXBFUmFVTjA2TFQxbmMwTFg4ZHNhMzZadGZtbEVVOWh1WDEwV2psdlJQaERwZ3lMQS1VSzZGQjRFQ1ZtaTVIamZNb0FFTDJZbDNxYUNqNDdQeWdCdmFPREhBTjA4VzU2RW5IZE5QRE1nUHNxX3hyRTdHNFZ5eUQtTEZPeTFqOVRid25EOXdUTEYwUml4UQ?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 19:26:36 GMT",
+        "summary": "Germany's Merz urges AI investment ahead of Nvidia deal &nbsp;&nbsp; Euronext Markets: Real-time Stock Market Data | live",
+        "outlet": "Euronext Markets: Real-time Stock Market Data | live",
+        "outletUrl": "https://live.euronext.com",
+        "source": "AI 시장 전체",
+        "sourceIds": [
+          "ai-market-global",
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA"
         ],
@@ -626,6 +719,30 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
+        "title": "Nvidia wins fast-growing AI startup Modal for new central processors - 102.7 WBOW",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdmRSQ3lTcEo5VUZEempMckZNQmItVDdFT0ZpS1V5TVBhX1U4RWI5NkJvbTFtemVmcm42Y0pxZFVFX1FxMF9CdnBnWmozbzhUU1ZTRGFPWVJ0bHppbDQtRXI1eGllZVVmN2tDcHpwcWoyZ01BMmZCeU1PSV9NZE8wVXREX3pPb1pjVFVvby1tbE5OT0Z0S1pBT1FXTE5fSTVWcm1j?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 16:35:01 GMT",
+        "summary": "Nvidia wins fast-growing AI startup Modal for new central processors &nbsp;&nbsp; 102.7 WBOW",
+        "outlet": "102.7 WBOW",
+        "outletUrl": "https://1027wbow.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "AI시장",
+        "score": 26
+      },
+      {
         "title": "Nvidia Wins Fast-Growing AI Startup Modal for New Central Processors - شبكة تواصل الإخبارية",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BMm1vWVhtUXBSaFB3cEM5NC12QlNPYUFiNi1FRmUzRWhJU1lTZ2F1SUZWdjBtTFRUN25GVVBpUnJzQUk3RXRjZlVhbnNWWk9JT25n?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 16:20:42 GMT",
@@ -656,6 +773,30 @@ window.__DASHBOARD_DATA__ = {
         "summary": "Cognizant (CTSH) Expands Google Cloud Alliance To Scale Agentic AI &nbsp;&nbsp; TradingView",
         "outlet": "TradingView",
         "outletUrl": "https://www.tradingview.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 26
+      },
+      {
+        "title": "Cognizant and Google Cloud Expand Alliance to Accelerate Agentic Enterprise Transformation - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYVZKM2xBYWdqcFdmZnVScElpaTdLdjFobElKM2RwVmY1WlE3RTk4Z3hocU55RXkxTmx3TW9tYlFLRWdvWkFVeW1UekgwWDA1Z2VHU2dMSHJ3YTVoTlJ2bnZZZzQtYlVJNlJkQzBVbTMzcExfMERmd3dRV2pVTTdnTmNNa2RqY0xpZExDTzlaYUU1RTZ2d0FMOThmYlIzQnFPRzZfVFpsUG5ORi16aGJROVJwV0g3RDUzbkhXaHFENW9MM3VkYVQtNmJPcDZmQ25CVFJmakFRcWZvaFFUdWhUR2dNcGxPcWpFQ0RfSUNhZEZCNW9HeGt1MXVCa2xyeDFVRGlkX193?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 16:00:00 GMT",
+        "summary": "Cognizant and Google Cloud Expand Alliance to Accelerate Agentic Enterprise Transformation &nbsp;&nbsp; The Globe and Mail",
+        "outlet": "The Globe and Mail",
+        "outletUrl": "https://www.theglobeandmail.com",
         "source": "Google AI 이슈",
         "sourceIds": [
           "google-ai"
@@ -1166,26 +1307,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "과기정통부, 세계은행과 '글로벌 AI·디지털 서밋' 개최… 50개국 국제협력 논의 - 피디언뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93UXpPU0RPblRhV0Z3MmpjcEFfTDFlcHV4YmljU3Q1RVBWNEFncjdOMGFwNmxHWHd1a0NyeW82TWV6cEtfX1hrWTJCbFlOLUhmUFpiNnUzdURDT3ZP?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 07:02:25 GMT",
-        "summary": "과기정통부, 세계은행과 '글로벌 AI·디지털 서밋' 개최… 50개국 국제협력 논의 &nbsp;&nbsp; 피디언뉴스",
-        "outlet": "피디언뉴스",
-        "outletUrl": "https://www.pedien.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 26
-      },
-      {
         "title": "마음AI, 과기정통부 장관상 수상...피지컬 AI 기술 경쟁력 부각 - 지디넷코리아",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FbUlieHFUbzFQRWkwMjhxZm1PdkxjQm5qc0FUeGRCdjEtdnpZYXB2UkVnYlZhQ21SX3BweFIwVGxlMWQ0cy15VlNCcXdKZFlzeGFYVnhn?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 06:58:51 GMT",
@@ -1654,31 +1775,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "Nvidia Co-Designs Custom HBM With Samsung, TSMC to Widen Bandwidth 30% - Seoul Economic Daily",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNktLNkVySGN2NUcyV2dFNzBqZjQ4MXItQk8yYkdYSVJvSDhmd1F1Ykp4TXpyNkt0YzNuUExWWGFGbm5NanQ3Vk1zWEQwUjQyRGxDUVpTVnE1OGZLMmZPQl9xaHIxOWFPY25CeGQxTGdhX2duelIxUlNic1NyVGpxZ3BMdjlHLV9TN2Z1VFpnbEVTSnZuNmZlU2YzaDA0Zw?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 01:06:36 GMT",
-        "summary": "Nvidia Co-Designs Custom HBM With Samsung, TSMC to Widen Bandwidth 30% &nbsp;&nbsp; Seoul Economic Daily",
-        "outlet": "Seoul Economic Daily",
-        "outletUrl": "https://en.sedaily.com",
-        "source": "메모리·패키징·인터커넥트",
-        "sourceIds": [
-          "memory-packaging"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "TSMC",
-          "Samsung"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
-        "score": 26
-      },
-      {
         "title": "삼성·TSMC, 엔비디아 NVHBM 공급망에서 협력 가능성 - ISSUE ON (이슈온)",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xRG5uTFJxcTQxMjhxZ3A4YjFjdjAzSllIbkktNzNRUy1NUzhZMUpHeHZfaTlfYVNaZm9ZbmZTSnhocWNrYk8yU0RtRjdjbGk1U3otbDlSYlFCRnd2QldST3BvRXJNUG00Nmww?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 02:40:53 GMT",
@@ -1699,6 +1795,31 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA",
           "파운드리·패키징",
           "수출통제·공급망"
+        ],
+        "issueCategory": "AI시장",
+        "score": 25
+      },
+      {
+        "title": "Nvidia Co-Designs Custom HBM With Samsung, TSMC to Widen Bandwidth 30% - Seoul Economic Daily",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNktLNkVySGN2NUcyV2dFNzBqZjQ4MXItQk8yYkdYSVJvSDhmd1F1Ykp4TXpyNkt0YzNuUExWWGFGbm5NanQ3Vk1zWEQwUjQyRGxDUVpTVnE1OGZLMmZPQl9xaHIxOWFPY25CeGQxTGdhX2duelIxUlNic1NyVGpxZ3BMdjlHLV9TN2Z1VFpnbEVTSnZuNmZlU2YzaDA0Zw?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 01:06:36 GMT",
+        "summary": "Nvidia Co-Designs Custom HBM With Samsung, TSMC to Widen Bandwidth 30% &nbsp;&nbsp; Seoul Economic Daily",
+        "outlet": "Seoul Economic Daily",
+        "outletUrl": "https://en.sedaily.com",
+        "source": "메모리·패키징·인터커넥트",
+        "sourceIds": [
+          "memory-packaging"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "TSMC",
+          "Samsung"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "파운드리·패키징"
         ],
         "issueCategory": "AI시장",
         "score": 25
@@ -1755,9 +1876,8 @@ window.__DASHBOARD_DATA__ = {
         "summary": "하나운용, 엔비디아 25% 담는 AI반도체 ETF 20일 상장 &nbsp;&nbsp; 이투데이",
         "outlet": "이투데이",
         "outletUrl": "https://www.etoday.co.kr",
-        "source": "해외 빅테크 국내 보도",
+        "source": "AI반도체 정책금융·집행",
         "sourceIds": [
-          "korea-global-ai-companies",
           "ai-chip-policy-finance"
         ],
         "sourceLang": "ko",
@@ -2191,6 +2311,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
+        "title": "Nvidia Launches Nemotron 3.5 Super VL and Bolt Open-Weight Models for Enterprise Agents: how 6 outlets framed it - NewsCord",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORWhDWG10YjhCNGJqRE5WaDM4UTNnUGp4NmZmNTN4bGlqSkREN1h0SjhBNDNmU2Vfb0lyb0VzcDRxTDNpbnRsLS1fWXRuQXFCNUdMXzFTMVctbVB5Q2MyM2pIVTlxUXB4NzRRNTIzSjdOV3dmdEIxbno0a1ZuTEd3VDV5cTIxR3hHY1FHeFlfN1NidDZSa0g2MVRGS3VtTW5fX2dyUmFzTUpRZlhyYWxCSlFDbUdSUlFFNm5URG5valBqanViTHBmcElFVFZfcFQ0T3RHUnl4TkJLRUVrMzA1dnNWMmZSR090?oc=5",
+        "publishedAt": "Tue, 20 Oct 2026 00:03:33 GMT",
+        "summary": "Nvidia Launches Nemotron 3.5 Super VL and Bolt Open-Weight Models for Enterprise Agents: how 6 outlets framed it &nbsp;&nbsp; NewsCord",
+        "outlet": "NewsCord",
+        "outletUrl": "https://newscord.org",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI에이전트",
+        "score": 23
+      },
+      {
         "title": "\"그래도 대세는 AI\"…엔비디아·상위 반도체주 집중 투자 ETF 나온다 - 머니투데이",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwOTdZaTVXY1ItSHdtcXhiM1dkWXR2OGRJQjhXZ3QtVUNUOTRRdG5EZmVOREdUZFVMLUFrVXlCcWRSWFBvXzhIM3BNWlZIcXpjRUUw?oc=5",
         "publishedAt": "Tue, 20 Oct 2026 00:00:44 GMT",
@@ -2235,6 +2378,29 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI인프라",
+        "score": 23
+      },
+      {
+        "title": "'엔비디아' 고객 매출 45%… AI 클라우드 10곳 중 7곳 사라진다 - 디지털포커스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QRXRLYmdCV1VtdGF5YkxvV0NHWFZWaWpMSjRvSGZtTU1SQUE2Ukdadk5lSFUtd0NBRmZQUWd0bkNMeXBhWEg3RGZPMFo1R2N2cUZBc2l1QklueW9IMHF1Vklkem9qdTEyZ3VBS2QxQTE?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 23:04:24 GMT",
+        "summary": "'엔비디아' 고객 매출 45%… AI 클라우드 10곳 중 7곳 사라진다 &nbsp;&nbsp; 디지털포커스",
+        "outlet": "디지털포커스",
+        "outletUrl": "https://www.digitalfocus.news",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
         "score": 23
       },
       {
@@ -2377,6 +2543,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
+        "title": "앤트로픽, 엔비디아 지원 AI 클라우드 업체와 450억달러 컴퓨팅 협상 보도 - 토큰포스트",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ST1NBTFFRdmN3WnB3YXROSUY4UkcyNVlGeWVTR3ZQTldHMm5sdl9EQndJcHhNcVJOUEFMVkRwTkwtMGVJTzZvWHd1YlRJZFhNc2pIQjF5MUXSAV5BVV95cUxOSC1faUE1NWsyalpKY1V4NHZDaG04WVNzVXZDOEhnNE5XdlNERk1pZExJVHlmUkxoZU5yM2VHdndGbGV1TUlGRklqMWlyMjhOcW53c2dSanpibWdrVEhB?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 21:04:11 GMT",
+        "summary": "앤트로픽, 엔비디아 지원 AI 클라우드 업체와 450억달러 컴퓨팅 협상 보도 &nbsp;&nbsp; 토큰포스트",
+        "outlet": "토큰포스트",
+        "outletUrl": "https://www.tokenpost.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 23
+      },
+      {
         "title": "Dito Joins Google Cloud MSSP Program to Expand AI-Powered Security Operations - Konsulteer",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmo4Zm45VWJTa3h0RHU2QVlNQnhNTWEzOEZkcHh1em02cUtEazk1NnBNamJlUUNOY01KUGdTUGZrRHI0Z0oxeWUzdWxUajZVcm1oVFdzck1mMDdkdG9WVm5hWkZzZWZfemtWRmFkRFdha1dyVjN6bVhrWC1QWjVXdjBDLWRHajNnZDg1eC1fa1c2dkc0RnowVW1aWXBpd2QxSWNZOVRRMGtyZnp2YkhlS1RR?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 20:58:00 GMT",
@@ -2431,7 +2620,8 @@ window.__DASHBOARD_DATA__ = {
         "outletUrl": "https://www.tradingview.com",
         "source": "AI 서비스·클라우드",
         "sourceIds": [
-          "ai-agents-cloud"
+          "ai-agents-cloud",
+          "nvidia-ai"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -2674,6 +2864,29 @@ window.__DASHBOARD_DATA__ = {
           "수출통제·공급망"
         ],
         "issueCategory": "수출통제·공급망",
+        "score": 23
+      },
+      {
+        "title": "AI 통합·클라우드 확장·반독점 심사 속 알파벳 주가 $345 부근 횡보 - Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUtwWW01czRBNVJjcG5nS3hVSkp3M213V18ySFc4dEpPV2FoSko5WnhwaFBSa21oNV92RHZvdV83R1ZIbFRDUnN6bHZLNUlxYkRNd0pLMzQ2TDI2TWVwZlFCSFctQ0JqZzk3V2FlY1Z1TV8tekNIQ1g3SFNvM05nSnhWTnVHZTRsdWwtQS16azl6Y2F0R1lXck04ZEFMZlpPY25sRm4yNHJmYjFaYnFvSlhMRFZBQQ?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 16:44:05 GMT",
+        "summary": "AI 통합·클라우드 확장·반독점 심사 속 알파벳 주가 $345 부근 횡보 &nbsp;&nbsp; Traders Union",
+        "outlet": "Traders Union",
+        "outletUrl": "https://tradersunion.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI시장",
         "score": 23
       },
       {
@@ -2931,11 +3144,11 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "엔비디아, 급성장 AI 스타트업 모달에 신형 중앙처리장치 공급 사업 따내 - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LQW9fTjZUVnY0QmZ5c3FrR3hhX3B1d1Zfa1FqTld4ZUNDdWxYZ0hQS3YyYXZ1cEN1VGkzV1U3Y2MxaDhFLTBzWFB3RFFZc1FFT2lLMXZrQTVOeS1WT2pfZHkwUDk2UngtR2h5VVAxcTBwZUtmTUpr?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Pb2hJWkpROG54bGk0UG5zWW83dXg2NDZhcDZMZU1KQU9DMWpSSmNBaUh3b3ZZVWd5WnlrTkRDWkRrSWphSURDUzRRdG1fVXJoMzZjNnh5NHZERkhqeVRIUVRRcWc2MkhibUxEaW5BUzJielFONVBwZA?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 14:11:15 GMT",
         "summary": "엔비디아, 급성장 AI 스타트업 모달에 신형 중앙처리장치 공급 사업 따내 &nbsp;&nbsp; TradingView",
         "outlet": "TradingView",
-        "outletUrl": "https://fr.tradingview.com",
+        "outletUrl": "https://www.tradingview.com",
         "source": "해외 빅테크 국내 보도",
         "sourceIds": [
           "korea-global-ai-companies"
@@ -3253,6 +3466,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
+        "title": "엔비디아 투자사, MS와 AI 칩 2만3000개 공급 계약 잃었다 - 토큰포스트",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tQkpWQjhVNXBjVmdZNmhGbjJ5WHhPMmU4ZjZoTzBVZ1BsTnd0N3JJY2w5LUpqcUFzQkVwSUw4UEtmMF9DaEtZY0M5V2JVU0pBSFV2OUtjQ0_SAV5BVV95cUxPb256d0p0SWZuOXI0alExMk03ZGtNdkhGdTlBLVVZTkVVWFBPdm5VOEY2WHNTM0lBZ3RLdUo2dmJWMFJNb3BtcXZ0aWJpYVkzRVpaX3dtcURfNFc5TXB3?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 11:23:49 GMT",
+        "summary": "엔비디아 투자사, MS와 AI 칩 2만3000개 공급 계약 잃었다 &nbsp;&nbsp; 토큰포스트",
+        "outlet": "토큰포스트",
+        "outletUrl": "https://www.tokenpost.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
         "title": "Google's AI Agents Just Killed the Ender Dragon in Minecraft Without Any Help in What Is Believed to Be a World First - IGN",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbExab2JaVFU1QjFWaTUyRkFTTkluZC1CR0dpYXh5eDNuRklpUnJsdlc0YzZGeWJlN1J4M3RMZ0N3M3dHdXFhRXU2clJ2QjdycElzRURkZDBzSm9wX21BdEVLdFVIYjF6ZWJnMFE0Y0JFZVdQNWpBVGVPU29OVWdZbw?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 10:56:06 GMT",
@@ -3404,7 +3640,6 @@ window.__DASHBOARD_DATA__ = {
           "mobilint-broad",
           "korea-ai-policy",
           "ai-chip-public-program",
-          "government-npu-policy",
           "npu-commercialization"
         ],
         "sourceLang": "ko",
@@ -3551,8 +3786,7 @@ window.__DASHBOARD_DATA__ = {
         "source": "국내 NPU 기업",
         "sourceIds": [
           "korea-npu",
-          "furiosa",
-          "government-npu-policy"
+          "furiosa"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -3568,8 +3802,8 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "투자자들은 다나허(DHR)와 엔비디아 랩의 AI 파트너십에 어떻게 반응할까 - Simply Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWN3NmMtRlcwUmplTFN5dWxFSkZTLUlLN3dGbngwcUZUUW1QZHhyUHlrZkgzdW5KVFQ3TU9PY0E3VXg2Q2M3c1E4QnRzVk0xRFlQZ2VIMklsZVJjaFlvVFFfOTNDUE9IY0dORWZjSDFzM0NPdGxBUTJRSFFQejRLcHhYTU5JMG45blQ2TDNBVVVCbmd1X0Ztd3d2R243UdIBowFBVV95cUxPR19lVzhxRXVzUEtvSEdMeThmUlBZZTdFTlJrSlZVQ2ltVkxBbUNkRTJ4MzM1WVdES081TGxINnlVc3BBenJmT3NZdHFIRW5TQm1hRzFVZWwwUTVUajM3a0IzdlIwVlhTN25fMEFTS1NkTUJNSDhldE41RDdqVHRyR2E0UlMwUEdXVks3aHB3MHhpbngzY2MtdnA3OUVHNThpXzEw?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 05:48:01 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR19lVzhxRXVzUEtvSEdMeThmUlBZZTdFTlJrSlZVQ2ltVkxBbUNkRTJ4MzM1WVdES081TGxINnlVc3BBenJmT3NZdHFIRW5TQm1hRzFVZWwwUTVUajM3a0IzdlIwVlhTN25fMEFTS1NkTUJNSDhldE41RDdqVHRyR2E0UlMwUEdXVks3aHB3MHhpbngzY2MtdnA3OUVHNThpXzEw0gGjAUFVX3lxTE9HX2VXOHFFdXNQS29IR0x5OGZSUFllN0VOUmtKVlVDaW1WTEFtQ2RFMngzMzVZV0RLTzVMbEg2eVVzcEF6cmZPc1l0cUhFblNCbWFHMVVlbDBRNVRqMzdrQjN2UjBWWFM3bl8wQVNLU2RNQk1IOGV0TjVEN2pUdHJHYTRSUzBQR1dWSzdocHcweGlueDNjYy12cDc5RUc1OGlfMTA?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 05:48:07 GMT",
         "summary": "투자자들은 다나허(DHR)와 엔비디아 랩의 AI 파트너십에 어떻게 반응할까 &nbsp;&nbsp; Simply Wall Street",
         "outlet": "Simply Wall Street",
         "outletUrl": "https://simplywall.st",
@@ -3619,9 +3853,8 @@ window.__DASHBOARD_DATA__ = {
         "summary": "하나자산운용, 엔비디아 25% 편입 AI 반도체 ETF 20일 상장 &nbsp;&nbsp; 이코노미사이언스",
         "outlet": "이코노미사이언스",
         "outletUrl": "https://www.e-science.co.kr",
-        "source": "해외 빅테크 국내 보도",
+        "source": "AI반도체 정책금융·집행",
         "sourceIds": [
-          "korea-global-ai-companies",
           "ai-chip-policy-finance"
         ],
         "sourceLang": "ko",
@@ -3708,29 +3941,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "한국레노버, 엔비디아 RTX™ Spark 품은 ‘요가 프로 9n’ 국내 공식 출시… 노트북에서 AI 에이전트 직접 구동 - 글로벌 비즈 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTVzY5bUJfbmZCbmcxcTZLMzdNZ3laZWdwbGtUQy1sZ2hubUZuV3RuZ1R2US1uMVQ4cVMyMzdLdkhZZjNlTm9oNndid096bm52RHhTS25qVTRaX2NkVzNWZkZ4WFDSAWhBVV95cUxPcm84Uk9hdnFuM0w5Sndwanp4Zi1LYjBBNkNZdFVqenp6cUhmYUlOdkFtbmpSS2oySkFxTHVCbUIyU09FSmtZS29rZ21ER0E2V1d6cG81aHBKY2FDODBqX21FWldLdUVfOA?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 02:37:00 GMT",
-        "summary": "한국레노버, 엔비디아 RTX™ Spark 품은 ‘요가 프로 9n’ 국내 공식 출시… 노트북에서 AI 에이전트 직접 구동 &nbsp;&nbsp; 글로벌 비즈 뉴스",
-        "outlet": "글로벌 비즈 뉴스",
-        "outletUrl": "http://www.gbnews.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 23
-      },
-      {
         "title": "퓨리오사AI, 칩 공급 넘어 AI 인프라로 확장…기업용 추론시장 공략 가속 - 서울이코노미뉴스",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzS2JfZEJnLU1Pdm1ITTZjYUFZTW5PQ2JUdFpPREo3aEdZTFFZeXFlbWNmS3E3UmVoZ3RkYWVfWlNLU3E0M3B4UU1fT05DUGVUalp3MXdhVEMySkt5QU5wNnNWY3pvT3ZKNVJmU2ZB?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 02:31:29 GMT",
@@ -3741,7 +3951,6 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "korea-npu",
           "furiosa",
-          "government-npu-policy",
           "npu-commercialization"
         ],
         "sourceLang": "ko",
@@ -3812,9 +4021,8 @@ window.__DASHBOARD_DATA__ = {
         "summary": "엔비디아 25% ‘고정’…하나운용, AI반도체 핵심 10종목 담은 ETF 출시 &nbsp;&nbsp; www.dt.co.kr",
         "outlet": "www.dt.co.kr",
         "outletUrl": "https://www.dt.co.kr",
-        "source": "해외 빅테크 국내 보도",
+        "source": "AI반도체 정책금융·집행",
         "sourceIds": [
-          "korea-global-ai-companies",
           "ai-chip-policy-finance"
         ],
         "sourceLang": "ko",
@@ -3987,211 +4195,6 @@ window.__DASHBOARD_DATA__ = {
           "AI시장",
           "데이터센터",
           "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "Six AI Investment Opportunities Beyond Data Centers - Globest",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcVFzRnlaeVNUU0VWYjBHMlJmdU1QOHlPeXViaUVCaU9YUFcyNlFlNldVZjVEd0I1dWpZaThEenZyUWRVdFUtTjVVcDM0UDZDZzUzOTBGaVN2ZlFKT1AyNmg1U1NXWndhY2pPdWJON1VKWGExWS1VZHhySFJhVGR6QmdSYVc2TEV3WDZTNW5YaDM?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 10:25:31 GMT",
-        "summary": "Six AI Investment Opportunities Beyond Data Centers &nbsp;&nbsp; Globest",
-        "outlet": "Globest",
-        "outletUrl": "https://www.globest.com",
-        "source": "AI 시장 전체",
-        "sourceIds": [
-          "ai-market-global"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [],
-        "taxonomyHits": [
-          "AI시장",
-          "데이터센터",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "Anthropic: Claude, Enterprise AI Agents and $965bn Valuation - AI Magazine",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX094N1RhQldFWjZOUkwzUGVGUUVNNDlobGlRLTZGMUxvVXB0WGJXUjE2Zl8tRGt1b2hwZDNaWkcxTEFCU2QwNUpPdmJzaGhjMUp0WkFwdUctVkI2cklEWF9zNmNkS1ppaXZKck9CX0ZqT0hnVkJvajhHUmc3UGZYcE0wenBxaU9PYmk5TVFB?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 09:41:57 GMT",
-        "summary": "Anthropic: Claude, Enterprise AI Agents and $965bn Valuation &nbsp;&nbsp; AI Magazine",
-        "outlet": "AI Magazine",
-        "outletUrl": "https://aimagazine.com",
-        "source": "AI 시장·비즈니스",
-        "sourceIds": [
-          "ai-market-business",
-          "ai-agents-cloud"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [],
-        "taxonomyHits": [
-          "AI시장",
-          "AI에이전트",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "美 AI 데이터센터, 올해 47곳 '제동'…\"10조달러 투자 붐 균열\" - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CNDZ5b1lMUlpGSVR3Y0pKSnNNOXlIbzh1S2FhRjJuc2gtdy1SbUZ1dE16cFlWbWZrSkc3RjVHNGdxU2pYdG1qMEd2Vm55dGVibUpmTUhJalA2QVdFOEJxZUVDRmpqVzJYRDNfZzd30gFuQVVfeXFMTkI0NnlvWUxSWkZJVHdjSkpKc005eUhvOHVLYWFGMm5zaC13LVJtRnV0TXpwWVZtZmtKRzdGNUc0Z3FTalh0bWowR3ZWbnl0ZWJtSmZNSElqUDZBV0U4QnFlRUNGampXMlhEM19nN3c?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 08:37:00 GMT",
-        "summary": "美 AI 데이터센터, 올해 47곳 '제동'…\"10조달러 투자 붐 균열\" - 머니투데이 &nbsp;&nbsp; 머니투데이",
-        "outlet": "머니투데이",
-        "outletUrl": "https://www.mt.co.kr",
-        "source": "국내 AI 정책",
-        "sourceIds": [
-          "korea-ai-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "데이터센터",
-          "투자·M&A",
-          "실증·조달"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "China's AI data centre boom faces Return-on-Investment test as financing costs rise: Goldman Sachs - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPa2pWN1Qta2kwZlp1NXhxOENhRmZRTnlSNDRyUzdhME5QdDRpbDltRUVUR0NOVmVVTkpuNHh2Y1ZtdkFjN2lQQlBEdjVXejN4TENCOWRGLVRYbFdGd3JjdzBJbWF1MnRaTTlrdnUwQkNzdmlfVnNWTmxILVNyY1pnc21KYlBYRmJidXU2UDFjN25IVzRUOTFpU2d1ME12VWlQVmdRM3ZCaXdvU3Fsc3p0VnRDczQ0QjU2WG1SYWdRWERfZ1lvTnFJQm5vZHVTek5ha2IyakFWZWYzTERWV0tKZzRtdUd2ZFJDU2twaWFYQ0JGaVUtemJKN1lLMml5X1F1eTVPeG5WM1loWnPSAZACQVVfeXFMUFhXSGNYMjAwOXFSM2JqVjIyMUdSVzdYOVF5OVVQaDViSjhXenZ6MWVuNlZNRVFyZ1E2ek1Kd3pHTTN4YWs3MEpNd1RKSnJILTlaNWJJTDRaNmVoVGEtMTJGNEJrYkNOZnpUdjJfMHNfTXkyMF94YUU1VG9jSk1HSnFiY1hxRU1UeXdRbXoyYTR4LUZfZkI2RWN5MDUza1o2RDVFN0xvaW83dXJ5akhyVGp3SmxXc0FWOE1IY1dPcUdvQVFucFFQMFhUaVpQc2dpTDRqMG1IVUxGNTJHbTB5VUY4Q25PRnFOYmVnUl9uSTNkc0Q3Yk9XdHpYdnp4ZEZLR01BU0NxV0JNZDFpd1AxQWU?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 07:13:35 GMT",
-        "summary": "China's AI data centre boom faces Return-on-Investment test as financing costs rise: Goldman Sachs &nbsp;&nbsp; The Economic Times",
-        "outlet": "The Economic Times",
-        "outletUrl": "https://m.economictimes.com",
-        "source": "해외 정책·투자",
-        "sourceIds": [
-          "global-policy"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [],
-        "taxonomyHits": [
-          "데이터센터",
-          "수출통제·공급망",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "삼성전자, 엔비디아 맞춤형 HBM 생산에 'TSMC 3나노 공정' 쓴다 - 더퍼블릭",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EMGo0VnFnbnZWY19tRldsWjZSSUVKYTJVVVJqVmRmbGJkWjE4Y3kwLWwwZFl4SFItcWJqVEhudlE2cHlkRmh3YzZUd0QxZnJVSE5SNDBualFQN0NpLVoyanFNWUhMS0Y2aFBz0gFvQVVfeXFMTW5xaFpWZXhtSG1zckVxa0pWUzRwakFWNnNjcTlNRFQxemRpSXpZVDRsNXYzdnhJV3lra2FwLTFHbmVwTEVQcU8yeDBVMEIta3R1b2lHT2NlbER0WnRUUy1xT19PWjhqZG9yZ0k5ZDZJ?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 05:57:07 GMT",
-        "summary": "삼성전자, 엔비디아 맞춤형 HBM 생산에 'TSMC 3나노 공정' 쓴다 &nbsp;&nbsp; 더퍼블릭",
-        "outlet": "더퍼블릭",
-        "outletUrl": "https://www.thepublic.kr",
-        "source": "국내 메모리·AI 인프라",
-        "sourceIds": [
-          "korea-infrastructure"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "美 데이터센터 47곳 차질 … 빚내서 짓는데 전력망까지 '발목', AI 투자 흔들 - 뉴데일리",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObm83RzB1S1FhS1RWSktRdTVUcUNhMWVnSERTbTEwUXlwSlp4a0pEalJZYnBpVmFIdjFoekd5Q1IxdVVnVHNBMjdCbHh0aWlHdjd5YlVhb3lxdlpIaTl5X01wUk9tTF9GVkMxX2tLS1dRM05hYXhtazVGWkM1c00ya9IBgAFBVV95cUxObm83RzB1S1FhS1RWSktRdTVUcUNhMWVnSERTbTEwUXlwSlp4a0pEalJZYnBpVmFIdjFoekd5Q1IxdVVnVHNBMjdCbHh0aWlHdjd5YlVhb3lxdlpIaTl5X01wUk9tTF9GVkMxX2tLS1dRM05hYXhtazVGWkM1c00yaw?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 05:01:01 GMT",
-        "summary": "美 데이터센터 47곳 차질 … 빚내서 짓는데 전력망까지 '발목', AI 투자 흔들 &nbsp;&nbsp; 뉴데일리",
-        "outlet": "뉴데일리",
-        "outletUrl": "https://www.newdaily.co.kr",
-        "source": "국내 AI 정책",
-        "sourceIds": [
-          "korea-ai-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "AI시장",
-          "데이터센터",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "삼성전자, 엔비디아용 메모리 일부 부품 TSMC에 맡긴다 - 진일보 | 전남일보",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NMDc3eHYwWFRIc3hjcGNXRXg0enprb2Z1N25leWlWcnZyQ05aMGVObWtDd08xZWxDXy0zRUtRSWI5MFZFbG03WkxZS0hlZHVYOVU0MC1RUExJY1pGQms0QzhTV2RBTHFkWjVMa1U2QQ?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 04:30:20 GMT",
-        "summary": "삼성전자, 엔비디아용 메모리 일부 부품 TSMC에 맡긴다 &nbsp;&nbsp; 진일보 | 전남일보",
-        "outlet": "진일보 | 전남일보",
-        "outletUrl": "https://www.jnilbo.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "AI 투자 열풍에 제동 걸리나… MS, 英 데이터센터 계약 철회 - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSmxHUkxWblNyZ1JfSmtVb0RKSVVDaWg0cmlSSkprT3oxTTlId2RHdU5nM2dlbmk5THBmMi1NU3Nud3RnOXlBSTFVbWpoY1hmU0pLckJodlpGOWZER3Z2YnByZHZrblNZczRLTHlSaWlMZkZwTmJGVF81aTI2Vk9FaElUcTZBdWZfMkVlaHhMQ19CWjBUOUdqUUkyMkM3QdIBsgFBVV95cUxOUW5COFVWSVhlRExCTnM0QWgwWG5wa2xocFdOY05hME5zQ0RyUG41VFpObFRBTEU2XzhhOWZ6WFE5dXNPSnZzSGJLVXZ0Ykp6cEZjN1NXMXVZa2Vab2FUMEVwS3k1cGNHNVFwSnpYTXRzMTk4RUNST0UzbzViZGFGM01ZWDh3ZGNoODM3NVAyZ2RhWmpHODRFU0ZWcVlzTU55UnFDSTB5NjFOY1V5ekRVX09n?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 02:27:00 GMT",
-        "summary": "AI 투자 열풍에 제동 걸리나… MS, 英 데이터센터 계약 철회 - 조선비즈 &nbsp;&nbsp; Chosunbiz",
-        "outlet": "Chosunbiz",
-        "outletUrl": "https://biz.chosun.com",
-        "source": "국내 AI 정책",
-        "sourceIds": [
-          "korea-ai-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "AI시장",
-          "데이터센터",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "삼성전자, 엔비디아 차세대 HBM에 TSMC 3나노 공정 도입 추진 : 국제 - 재경일보",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yay1Bc3hWQXktUEk5S3pmeWppT0Z0MlctVUpVbjFRR0htdkkzU0JGeERXbGVSU2t5bkQwN0ZpZ2VjUlBvcDUtUmRKSQ?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 01:33:00 GMT",
-        "summary": "삼성전자, 엔비디아 차세대 HBM에 TSMC 3나노 공정 도입 추진 : 국제 &nbsp;&nbsp; 재경일보",
-        "outlet": "재경일보",
-        "outletUrl": "https://news.jkn.co.kr",
-        "source": "국내 메모리·AI 인프라",
-        "sourceIds": [
-          "korea-infrastructure"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "TSMC"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "파운드리·패키징"
         ],
         "issueCategory": "AI시장",
         "score": 22
@@ -5597,11 +5600,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "005930.KS",
         "name": "삼성전자",
         "market": "KR",
-        "price": 213500,
+        "price": 212000,
         "currency": "KRW",
-        "changePct": -18.199233716475096,
+        "changePct": -18.773946360153257,
         "previousClose": 261000,
-        "marketTime": "2026-10-20T00:43:43.000Z",
+        "marketTime": "2026-10-20T00:56:17.000Z",
         "closes": [
           274000,
           276500,
@@ -5620,7 +5623,7 @@ window.__DASHBOARD_DATA__ = {
           210000,
           215500,
           218000,
-          213500
+          212000
         ],
         "candles": [
           {
@@ -5746,8 +5749,8 @@ window.__DASHBOARD_DATA__ = {
             "date": "2026-10-20T00:00:00.000Z",
             "open": 219500,
             "high": 219500,
-            "low": 213000,
-            "close": 213500
+            "low": 211500,
+            "close": 212000
           }
         ]
       },
@@ -5755,11 +5758,11 @@ window.__DASHBOARD_DATA__ = {
         "symbol": "000660.KS",
         "name": "SK하이닉스",
         "market": "KR",
-        "price": 1216000,
+        "price": 1206000,
         "currency": "KRW",
-        "changePct": -34.51803984921917,
+        "changePct": -35.056542810985455,
         "previousClose": 1857000,
-        "marketTime": "2026-10-20T00:43:43.000Z",
+        "marketTime": "2026-10-20T00:56:17.000Z",
         "closes": [
           1868000,
           1840000,
@@ -5778,7 +5781,7 @@ window.__DASHBOARD_DATA__ = {
           1262000,
           1272000,
           1277000,
-          1216000
+          1206000
         ],
         "candles": [
           {
@@ -5904,8 +5907,8 @@ window.__DASHBOARD_DATA__ = {
             "date": "2026-10-20T00:00:00.000Z",
             "open": 1265000,
             "high": 1267000,
-            "low": 1213000,
-            "close": 1216000
+            "low": 1201000,
+            "close": 1206000
           }
         ]
       }
@@ -6457,11 +6460,11 @@ window.__DASHBOARD_DATA__ = {
       {
         "symbol": "^KS11",
         "name": "KOSPI",
-        "price": 5595.25,
+        "price": 5565.01,
         "currency": "KRW",
-        "changePct": -18.841553008820412,
+        "changePct": -19.280180672823498,
         "previousClose": 6894.23,
-        "marketTime": "2026-10-20T00:43:40.000Z",
+        "marketTime": "2026-10-20T00:56:10.000Z",
         "closes": [
           7007.72021484375,
           7017.91015625,
@@ -6479,7 +6482,7 @@ window.__DASHBOARD_DATA__ = {
           6008.81005859375,
           5554.22021484375,
           5668.0498046875,
-          5595.25
+          5565.009765625
         ],
         "candles": [
           {
@@ -6598,19 +6601,19 @@ window.__DASHBOARD_DATA__ = {
             "date": "2026-10-20T00:00:00.000Z",
             "open": 5733.56982421875,
             "high": 5733.56982421875,
-            "low": 5595.25,
-            "close": 5595.25
+            "low": 5554.60009765625,
+            "close": 5565.009765625
           }
         ]
       },
       {
         "symbol": "^KQ11",
         "name": "KOSDAQ",
-        "price": 787.28,
+        "price": 785.34,
         "currency": "KRW",
-        "changePct": -4.816713415223913,
+        "changePct": -5.051262211045553,
         "previousClose": 827.12,
-        "marketTime": "2026-10-20T00:43:40.000Z",
+        "marketTime": "2026-10-20T00:56:10.000Z",
         "closes": [
           836.27001953125,
           834.3800048828125,
@@ -6628,7 +6631,7 @@ window.__DASHBOARD_DATA__ = {
           823.8800048828125,
           760.8200073242188,
           794.780029296875,
-          787.280029296875
+          785.3400268554688
         ],
         "candles": [
           {
@@ -6747,19 +6750,19 @@ window.__DASHBOARD_DATA__ = {
             "date": "2026-10-20T00:00:00.000Z",
             "open": 805.3699951171875,
             "high": 807.219970703125,
-            "low": 787.280029296875,
-            "close": 787.280029296875
+            "low": 784.530029296875,
+            "close": 785.3400268554688
           }
         ]
       }
     ],
-    "generatedAt": "2026-10-20T01:03:44.314Z"
+    "generatedAt": "2026-10-20T01:16:17.899Z"
   },
   "briefing": {
     "date": "2026년 10월 20일 화요일",
     "summary": [
       "오늘의 최상위 이슈: Samsung, TSMC Join Forces to Expand Custom HBM Output for Nvidia - Seoul Economic Daily",
-      "강한 기술·시장 신호: NPU 11, AI인프라 39, 데이터센터 11, 온디바이스AI 0, 추론 3",
+      "강한 기술·시장 신호: NPU 11, AI인프라 43, 데이터센터 6, 온디바이스AI 0, 추론 3",
       "주요 기업 신호: 퓨리오사AI 5, 모빌린트 2, 딥엑스 2, 리벨리온 1, 하이퍼엑셀 0"
     ],
     "leadArticles": [
@@ -7039,11 +7042,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI인프라",
-          39
+          43
         ],
         [
           "데이터센터",
-          11
+          6
         ],
         [
           "온디바이스AI",
@@ -7059,7 +7062,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "파운드리·패키징",
-          25
+          23
         ]
       ],
       "companies": [
@@ -7085,15 +7088,15 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          78
+          82
         ],
         [
           "Google",
-          55
+          57
         ],
         [
           "TSMC",
-          19
+          16
         ],
         [
           "Samsung",
@@ -7101,7 +7104,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AMD",
-          6
+          7
         ],
         [
           "Broadcom",
@@ -7200,7 +7203,7 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          82
+          80
         ],
         [
           "NPU",
@@ -7208,15 +7211,15 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "정책",
-          0
+          1
         ],
         [
           "국내 기사",
-          80
+          79
         ],
         [
           "해외 기사",
-          100
+          101
         ]
       ],
       "sections": [
