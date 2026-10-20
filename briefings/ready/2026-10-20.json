@@ -1,0 +1,404 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-20",
+  "cutoff_at": "2026-10-20T09:30:00+09:00",
+  "window_start": "2026-10-19T09:30:00+09:00",
+  "created_at": "2026-10-20T09:44:29+09:00",
+  "status": "ready",
+  "summary_groups": [
+    {
+      "article_numbers": [1, 2],
+      "bullets": [
+        "ETRI 연구환경에 리벨리온 ATOM-Max 서버와 국산 운영·모델서빙 플랫폼이 함께 적용됐고, 모빌린트는 공공 CCTV 납품과 글로벌 서버 검증·납품, 우주 분야 지상 PoC를 공개했다.",
+        "국산 NPU가 칩 공급을 넘어 실제 연구·공공 인프라와 온프레미스 서버로 확장되고 있지만, 회사가 밝힌 검증·납품과 독립 성능자료·반복구매를 구분해 후속 성과를 확인해야 한다."
+      ]
+    },
+    {
+      "article_numbers": [3, 4],
+      "bullets": [
+        "앰코는 광주 AI·HPC 첨단 패키징 공장 4개 동 착공과 총 3조원 투자계획을 발표했고, SK하이닉스·정부·무보·은행은 소부장 대상 2조원 보증 프로그램을 출범시켜 1호 보증서를 전달했다.",
+        "서남권 투자는 계획에서 착공으로, 공급망 금융은 협약에서 첫 보증 집행으로 이동했으나 전체 투자·보증 한도와 실제 연도별 집행액은 구분해 봐야 한다."
+      ]
+    },
+    {
+      "article_numbers": [5, 6],
+      "bullets": [
+        "아마존은 PyTorch 코드를 큰 수정 없이 Trainium에서 돌리는 오픈소스 TorchNeuron을 공개했고, Modal은 장기 실행 AI 에이전트용으로 엔비디아 Vera CPU를 처음 도입하기로 했다.",
+        "가속기 경쟁이 칩 성능뿐 아니라 코드 이전 비용과 CPU·GPU 통합 운영으로 넓어지면서, 개발자 생태계와 혼합형 인프라를 확보하는 역량이 칩 전환 속도를 좌우하고 있다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "ETRI 연구환경에 리벨리온 NPU·국산 운영 SW 통합 적용",
+      "category": "국내 NPU·공공 연구 수요",
+      "collected_at": "2026-10-19T20:15:30+09:00",
+      "original_published_at": "2026-10-19T15:34:00+09:00",
+      "original_url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=475782",
+      "event_id": "etri-thakicloud-opsnow-rebellions-npu-research-environment-2026-10-19",
+      "event_first_published_at": "2026-10-19T15:34:00+09:00",
+      "event_evidence_url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=475782",
+      "selection_tier": "primary",
+      "main_points": [
+        "다키클라우드는 옵스나우와 협력해 ETRI의 NPU 기반 연구환경에 프라이빗 클라우드 플랫폼 Aegis와 모델 서빙·추론 플랫폼 Metis를 공급했다고 밝혔다. 연구환경은 AMD EPYC 프로세서와 리벨리온 ATOM-Max NPU 서버를 사용하며 API 연동, 자원 상태 확인, 모델 배포와 추론 실행 기능을 함께 구성했다.",
+        "이번 공개는 공공 연구기관에서 국산 NPU와 운영 소프트웨어를 통합 적용한 사례지만, 공급사 발표에 근거하며 도입 규모·계약금액·모델별 성능과 이용률은 공개되지 않았다."
+      ],
+      "implications": [
+        "국산 NPU의 수요 창출은 장비 납품만으로 끝나지 않고 자원관리·모델서빙·API 연동까지 작동하는 운영환경을 갖춰야 실제 연구 활용으로 이어진다. 하드웨어와 운영 SW를 함께 검증한 이번 사례는 공공 연구기관의 이기종 가속기 도입 요건을 구체화한다.",
+        "후속 판단에서는 실제 사용자 수, 모델별 서비스수준, 장애·업데이트 책임과 GPU 대비 비용·성능 자료를 확인할 필요가 있다. 동일 구성이 다른 연구기관이나 기업으로 확산되는지도 반복 구매와 사업화의 핵심 지표다."
+      ],
+      "sources": [
+        {
+          "title": "ETRI 연구환경에 다키클라우드 Aegis·Metis 적용, 리벨리온 NPU 활용",
+          "publisher": "스페셜타임스",
+          "published_at": "2026-10-19T15:34:00+09:00",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=475782",
+          "verification": "full_text",
+          "verified_at": "2026-10-20T09:44:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "모빌린트, 공공 CCTV 납품·서버 검증 이어 우주 분야 지상 PoC",
+      "category": "국내 NPU 사업화·수요처",
+      "collected_at": "2026-10-19T20:15:30+09:00",
+      "original_published_at": "2026-10-19T17:00:00+09:00",
+      "original_url": "https://www.etnews.com/20261019000112",
+      "event_id": "mobilint-public-server-space-npu-deployment-poc-2026-10-19",
+      "event_first_published_at": "2026-10-19T17:00:00+09:00",
+      "event_evidence_url": "https://www.etnews.com/20261019000112",
+      "selection_tier": "primary",
+      "main_points": [
+        "모빌린트는 1세대 NPU 에리스 기반 MLA400 카드 87장을 한국도로공사 AI CCTV 사업에 공급했고, 글로벌 서버 제조사들과 제품 검증을 마친 뒤 실제 납품을 진행 중이라고 밝혔다. PCIe 카드·MXM 모듈·AI 박스 형태로 영상분석, 산업안전, 보안관제 수요를 공략하고 있다.",
+        "2세대 온디바이스 NPU 레귤러스 보드 2종은 10월 7일 발사된 누리호 5차에 탑재됐고, 회사는 스페이스린텍의 우주 의약품 연구·제조 플랫폼에 컴퓨팅 모듈을 제안해 지상 PoC를 진행 중이다. 발사 탑재와 지상 PoC는 확인됐지만 국제우주정거장 등 후속 적용은 검토 단계다."
+      ],
+      "implications": [
+        "공공 CCTV의 확인 가능한 물량, 서버 제조사 검증·납품, 우주용 지상 PoC가 한 기사에서 공개돼 국산 NPU의 사업화 단계가 분야별로 어디까지 진행됐는지 비교할 수 있다. 특히 온프레미스 서버와 엣지 모듈을 병행하면 동일 칩 생태계를 서로 다른 수요처에 확장할 여지가 있다.",
+        "정책·사업 평가에서는 회사가 밝힌 납품을 고객·매출·반복주문 단위로 확인하고, 우주 실증은 방사선·열·통신환경에서의 실제 결과가 나온 뒤 성과로 판단해야 한다. 공공 도입 물량과 서버 검증 결과를 K-Perf 같은 공통 지표로 연결하면 후속 수요기관의 비교 가능성이 높아진다."
+      ],
+      "sources": [
+        {
+          "title": "모빌린트, 산업 현장 넘어 우주까지 NPU 적용 확대",
+          "publisher": "전자신문",
+          "published_at": "2026-10-19T17:00:00+09:00",
+          "url": "https://www.etnews.com/20261019000112",
+          "verification": "full_text",
+          "verified_at": "2026-10-20T09:44:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "앰코, 광주 AI·HPC 첨단 패키징 공장 착공…총 3조원 투자계획",
+      "category": "첨단 패키징·지역 산업기반",
+      "collected_at": "2026-10-19T20:15:30+09:00",
+      "original_published_at": "2026-10-19T15:00:30+09:00",
+      "original_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973759",
+      "event_id": "amkor-gwangju-advanced-packaging-groundbreaking-3t-plan-2026-10-19",
+      "event_first_published_at": "2026-10-19T15:00:30+09:00",
+      "event_evidence_url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172300/view",
+      "selection_tier": "primary",
+      "main_points": [
+        "앰코테크놀로지코리아는 광주사업장에서 AI·HPC용 첨단 패키징 공장 증축에 착공했다. 회사는 2026~2031년 총 3조원을 투자하고 약 2,000명을 고용할 계획이며, 이는 6월 발표보다 투자액은 2조원, 고용계획은 약 1,000명 늘어난 규모다.",
+        "신설 4개 동 가운데 2개 동은 2027년 하반기, 나머지 2개 동은 2028년 상반기 완공과 양산 개시를 목표로 한다. 착공은 확인된 집행 단계지만 3조원은 2031년까지의 총계획이고 연도별 집행액이나 고객 물량은 공개되지 않았다."
+      ],
+      "implications": [
+        "서남권 반도체 구상이 부지 협의를 넘어 글로벌 후공정 기업의 착공으로 전환됐고, 미세공정만큼 중요해진 AI·HPC 패키징 생산기반이 지역에 추가된다. 공장 완공 일정이 구체화되면서 인력·용수·전력·물류와 협력기업 지원을 실제 생산 일정에 맞춰 점검할 수 있게 됐다.",
+        "정책 판단에서는 총투자계획을 당해연도 신규 예산이나 집행실적으로 간주하지 않고, 4개 동별 공정률·설비 반입·양산 인증·지역기업 참여를 단계별로 확인해야 한다. 글로벌 고객사 수요가 국내 소재·장비 기업의 검증과 수주로 이어지는지도 별도 지표가 필요하다."
+      ],
+      "sources": [
+        {
+          "title": "총 3조원 규모 앰코 광주 공장 증축 착공식 개최",
+          "publisher": "산업통상부",
+          "published_at": "2026-10-19",
+          "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172300/view",
+          "verification": "public_primary",
+          "verified_at": "2026-10-20T09:44:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Daily Desk 아카이브의 정책브리핑 동일 보도자료 publishedAt은 2026-10-19T15:00:30+09:00, firstSeenAt은 2026-10-19T20:15:30+09:00이다. 산업통상부 원문은 10월 19일 등록된 착공식·투자확대 사실을 담고 있으며 마감 전 확인 가능한 내용과 대조했고 수정으로 추가된 핵심 사실은 확인되지 않았다."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "정부·SK하이닉스·금융권, 소부장 2조원 보증 출범·1호 보증 집행",
+      "category": "반도체 공급망·정책금융",
+      "collected_at": "2026-10-19T20:15:30+09:00",
+      "original_published_at": "2026-10-19T17:51:00+09:00",
+      "original_url": "https://www.hankyung.com/article/202610191580P",
+      "event_id": "skhynix-k-sure-banks-2t-supply-chain-guarantee-launch-2026-10-19",
+      "event_first_published_at": "2026-10-19T13:45:25+09:00",
+      "event_evidence_url": "https://www.hankyung.com/article/202610191580P",
+      "selection_tier": "primary",
+      "main_points": [
+        "SK하이닉스와 산업통상부, 한국무역보험공사, KB국민·신한·우리·하나은행은 반도체 소부장 중소·중견기업을 위한 수출공급망 강화보증 협약을 체결하고 1호 보증서를 전달했다. SK하이닉스와 은행들이 재원을 출연하고 무보가 보증하는 구조로 총 2조원 규모의 대출 한도 확대, 금리 우대와 보증료 절감을 지원한다.",
+        "참석자들은 용인 클러스터 1호 팹과 정부·지자체·SK하이닉스가 총 8,700억원을 투입해 구축 중인 양산연계형 트리니티 팹 현장도 점검했다. 2조원은 프로그램 한도이며 개별 기업별 승인액·집행액은 공개되지 않았고, 트리니티 팹 투자액과도 별개다."
+      ],
+      "implications": [
+        "국산 소부장 기업의 병목이 연구개발뿐 아니라 양산 검증과 운전자금 조달에 있다는 점을 금융보증과 실증팹을 연계해 대응한 사례다. 협약과 동시에 1호 보증이 전달돼 단순 구상보다 한 단계 진전됐지만 프로그램 성과는 실제 승인·대출·양산채택으로 확인해야 한다.",
+        "후속 사업관리는 보증 신청기업 수, 심사 탈락·미충족 수요, 평균 금리·보증료 절감, 트리니티 팹 검증 뒤 매출 전환을 나눠 추적하는 것이 유용하다. HBM·첨단패키징 공급망까지 어떤 업종이 지원받는지도 국내 AI반도체 생태계의 파급 범위를 판단하는 기준이 된다."
+      ],
+      "sources": [
+        {
+          "title": "SK하이닉스, 2조원 규모 ‘수출공급망 강화보증’ 출범… 정부·무보·시중은행 손잡아",
+          "publisher": "한국경제",
+          "published_at": "2026-10-19T17:51:00+09:00",
+          "url": "https://www.hankyung.com/article/202610191580P",
+          "verification": "full_text",
+          "verified_at": "2026-10-20T09:44:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "아마존, PyTorch 코드의 Trainium 전환 장벽 낮춘 TorchNeuron 공개",
+      "category": "글로벌 가속기·개발자 생태계",
+      "collected_at": "2026-10-19T23:37:41+09:00",
+      "original_published_at": "2026-10-19T22:01:45+09:00",
+      "original_url": "https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/",
+      "event_id": "amazon-torchneuron-pytorch-trainium-open-source-2026-10-19",
+      "event_first_published_at": "2026-10-19T22:01:45+09:00",
+      "event_evidence_url": "https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/",
+      "selection_tier": "primary",
+      "main_points": [
+        "아마존은 PyTorch로 작성한 AI 코드를 한 번의 설정 변경만으로 Trainium 칩에서 구동하고 코드 재작성은 요구하지 않는 TorchNeuron을 공개했다. 소프트웨어는 무료 오픈소스로 배포되며 로봇, 월드모델, 음성 AI 등 30곳 이상의 초기 고객이 사용 중이라고 회사가 밝혔다.",
+        "Trainium 전환 시 큰 비용절감이 가능하다는 설명은 아마존 측 주장이고 고객별 수치나 비교조건은 공개되지 않았다. 이번 발표의 핵심은 자체 AI칩 성능 자체보다 CUDA에 익숙한 PyTorch 개발자의 이전 비용을 낮추려는 소프트웨어 전략이다."
+      ],
+      "implications": [
+        "클라우드 사업자의 자체 칩 경쟁은 하드웨어 공급에서 프레임워크 호환성과 개발자 경험으로 이동하고 있다. 기존 코드를 유지한 채 대체 가속기를 시험할 수 있으면 고객의 멀티칩 전략과 가격 협상력이 커지고, CUDA의 생태계 우위에도 직접 압력이 생긴다.",
+        "국산 NPU 지원에서도 포팅 건수보다 실제 모델의 코드 변경량, 지원 연산 범위, 성능 회귀와 디버깅 시간을 함께 측정해야 한다. 공개 소스·표준 프레임워크 호환성과 국내 운영 SW의 결합이 고객 전환 속도를 좌우할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia",
+          "publisher": "Reuters",
+          "published_at": "2026-10-19T22:01:45+09:00",
+          "url": "https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/",
+          "verification": "full_text",
+          "verified_at": "2026-10-20T09:44:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Modal, AI 에이전트용 엔비디아 Vera CPU 도입…혼합형 인프라 유지",
+      "category": "글로벌 가속기·칩 전환",
+      "collected_at": "2026-10-20T07:38:25+09:00",
+      "original_published_at": "2026-10-19T23:11:50+09:00",
+      "original_url": "https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/",
+      "event_id": "modal-adopts-nvidia-vera-cpu-mixed-fleet-2026-10-19",
+      "event_first_published_at": "2026-10-19T23:11:50+09:00",
+      "event_evidence_url": "https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/",
+      "selection_tier": "primary",
+      "main_points": [
+        "AI 개발자에게 컴퓨팅을 임대하는 Modal은 장시간 작업을 수행하는 AI 에이전트 호스팅에 엔비디아 Vera CPU를 처음 도입하기로 했다. 기존 인텔·AMD CPU와 비교한 초기 시험에서 작업 처리량이 두 배였다는 회사 설명에 따라 소프트웨어를 상당 부분 수정해 지원할 계획이다.",
+        "Modal은 인텔과 AMD를 대체하지 않고 각 작업에 맞는 칩을 배치하는 혼합형 인프라를 유지한다고 밝혔다. 시험은 시장에 나온 기존 인텔·AMD 제품과 비교한 것이어서 차세대 경쟁 제품까지 포함한 독립 벤치마크는 아니다."
+      ],
+      "implications": [
+        "엔비디아가 GPU뿐 아니라 에이전트 호스트 CPU와 연결 소프트웨어까지 공급하면서 AI 데이터센터의 시스템 지배 범위를 넓히고 있다. 동시에 고객이 혼합형 운영을 유지한다는 점은 성능·비용에 따라 칩을 바꾸는 오케스트레이션 역량이 공급자 종속을 완화하는 핵심임을 보여준다.",
+        "국내 가속기 생태계에도 단일 칩 벤치마크 외에 CPU·NPU·GPU 조합에서의 에이전트 처리량과 전력·메모리 비용을 검증할 필요가 있다. 칩 전환을 지원하는 런타임과 스케줄러가 갖춰져야 수요기관이 새로운 하드웨어를 실제 서비스에 병행 도입할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
+          "publisher": "Reuters",
+          "published_at": "2026-10-19T23:11:50+09:00",
+          "url": "https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/",
+          "verification": "full_text",
+          "verified_at": "2026-10-20T09:44:00+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "candidate_counts": {
+      "discovered": 2726,
+      "time_eligible": 2163,
+      "independent_events": 15,
+      "verified": 11,
+      "selected": 6,
+      "basis": "docs/data/archive/index.json의 2026-10월 198개 parts 전체 19,796건을 읽어 마감 전 72시간 범위 2,726건을 확인했고, publishedAt이 마감 전 48시간 안인 기사 2,163건을 집계했다. 직접 보완 검색은 중복을 제외한 독립 사건 비교와 원문 검증에 사용했으며 아카이브 기사 수에 더하지 않았다. 업무 관련 독립 사건 15건을 비교해 공개 본문·시의성·최근 14일 중복을 확인한 11건 가운데 6건을 선정했다. 당일 collection은 07:38 KST 실행 1건만 확인됐고 09:20·09:27 실행 기록은 없어 최종 보완 검색으로 수집 공백을 메웠다."
+    },
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "전체 아카이브와 리벨리온·모빌린트·퓨리오사AI·딥엑스·하이퍼엑셀 공개자료에서 고객검증·유상 PoC·제품통합·양산·반복구매·해외협력·K-Perf를 확인했다. ETRI의 ATOM-Max 운영환경과 모빌린트의 공공 납품·서버 검증·우주 지상 PoC를 선정했다. 전날 풀스택 협약과 딥엑스 OpenVINO 협력은 최근 원고와 중복돼 재선정하지 않았다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP, 중앙부처·지자체·공공기관·테크노파크의 NPU 정책·실증·조달·예산과 GPU/NPU 지원사업 배정·활용·집행을 확인했다. 이번 구간에 신규 확정 NPU 배정 공고는 확인되지 않았다. ETRI 연구환경의 실제 적용과 한국도로공사 87장 공급을 수요 사례로 선정했고, 앰코 착공과 소부장 1호 보증을 산업기반 정책 집행 변화로 선정했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Amazon Trainium·Google TPU·Microsoft Maia, 자체 칩과 개발자 생태계·칩 전환 역량을 확보하는 인수·제휴를 검색했다. 아마존 TorchNeuron의 공개와 Modal의 Vera CPU 도입을 선정했다. 독일-NVIDIA MOU는 전 회차의 발표 예고 후 서명 사실이 추가됐으나 세부 과제와 집행 규모가 공개되지 않아 제외했고, Nscale-Anthropic 450억달러 건은 협상 단계로 비교만 했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·vLLM·SGLang·커널·런타임·GPU/NPU 오케스트레이션과 개발자 생태계를 점검했다. ETRI 환경의 Aegis·Metis 적용과 아마존의 PyTorch 호환 TorchNeuron을 선정했다. 10월19일 기준 별도의 신규 ROCm·vLLM·SGLang 상용 배치 사실은 확인되지 않았고, 엔비디아 Run:ai 오픈소스 전환은 10월14일 원고와 중복됐다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·CXL·UCIe·첨단패키징·실리콘포토닉스와 데이터센터 부지·전력·용수·인허가·금융을 점검했다. 앰코 광주 공장 착공·투자 확대와 SK하이닉스 공급망 보증·트리니티 팹 점검을 선정했다. 삼성-TSMC HBM 협력은 10월19일 원고와 중복됐고, LS일렉트릭의 해외 데이터센터 배전 계약은 중요하지만 국내 NPU 사업화 판단과의 직접성이 상대적으로 낮아 제외했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국산 NPU가 공공 연구기관에서 운영 SW·모델서빙과 함께 실제 적용된 사례로, 장비 도입에서 활용환경 구축으로 이어지는 수요 단계와 아직 공개되지 않은 운영성과를 함께 보여준다."
+      },
+      {
+        "article_number": 2,
+        "reason": "공공 CCTV의 구체적 공급 물량, 글로벌 서버 검증·납품, 우주 분야 지상 PoC를 구분해 국내 NPU의 고객검증과 사업화 확장 경로를 판단할 수 있다."
+      },
+      {
+        "article_number": 3,
+        "reason": "글로벌 패키징 기업의 국내 투자계획이 실제 착공으로 전환되고 금액·고용·완공 일정이 확대·구체화돼 서남권 반도체 기반의 실행 단계를 확인할 수 있다."
+      },
+      {
+        "article_number": 4,
+        "reason": "소부장 금융지원이 협약과 1호 보증서 전달까지 진행돼 자금 접근성과 양산 검증을 연결하는 공급망 지원의 실제 집행 여부를 추적할 기준을 제공한다."
+      },
+      {
+        "article_number": 5,
+        "reason": "자체 AI칩의 채택 장벽을 낮추기 위해 오픈소스·PyTorch 호환성을 강화한 전략으로, 칩 경쟁이 개발자 생태계와 전환 비용 경쟁으로 이동하는 중대한 변화를 보여준다."
+      },
+      {
+        "article_number": 6,
+        "reason": "엔비디아가 에이전트용 CPU 시장에서 실제 신규 고객을 확보하고 고객은 혼합형 인프라를 유지하기로 해, 칩 전환과 시스템 종속의 경쟁구도를 함께 판단할 수 있다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "독일 경제부·NVIDIA, 산업 AI 협력 MOU 서명",
+        "url": "https://www.reuters.com/business/finance/germany-sees-up-46-trillion-investment-potential-by-2035-2026-10-19/",
+        "reason": "10월16일 원고의 협력 발표 예고 이후 MOU 서명이라는 단계 변화는 확인했지만 세부 사업·투자액·실증 일정이 공개되지 않았다. 동일 글로벌 기업 중심 보도를 늘리기보다 실제 칩 전환 고객이 확인된 Modal을 우선했다."
+      },
+      {
+        "title": "Nscale·Anthropic, 450억달러 규모 두 번째 AI 클라우드 계약 협상",
+        "url": "https://www.reuters.com/technology/nscale-anthropic-talks-45-billion-cloud-computing-deal-bloomberg-news-reports-2026-10-19/",
+        "reason": "460MW·Vera Rubin 기반 두 번째 시설이라는 규모는 크지만 협상 중이고 최종 조건이 변할 수 있다. 전날 데이터센터 전력·금융 지연 이슈와 겹치는 만큼 확정 계약이나 착공 전환을 기다리기로 했다."
+      },
+      {
+        "title": "S&P, 하이퍼스케일러 AI 연계 부채의 불투명성 경고",
+        "url": "https://www.reuters.com/business/top-hyperscalers-likely-have-more-ai-linked-debt-than-now-known-sp-global-warns-2026-10-19/",
+        "reason": "AI 인프라 금융구조의 중요한 위험 진단이지만 신규 계약·집행 통계보다 신용평가 관점의 경고 성격이 강했고, 전날 데이터센터 금융병목 보도와 주제가 이어져 후순위로 뒀다."
+      },
+      {
+        "title": "LS일렉트릭, 미국 빅테크와 1억2523만달러 데이터센터 배전 솔루션 계약",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ROHVCdHZZVGZ4bXZfeGxBQ2lrMU5qU0hYZmJPVjQ4YUh5OV94LThUSnJWSk1jeHBzb3VDYmN4SGRoX2tWMXBtRE5FMGN1VVFaenlEVi12VWt5Zw?oc=5",
+        "reason": "국내 전력기기의 글로벌 AIDC 수주로 산업적 의미가 있으나 개별 공급계약이며 국산 가속기·운영 SW·국내 인프라 집행 후보보다 이번 회차 정책·사업 판단의 직접성이 낮았다."
+      },
+      {
+        "title": "엔비디아 Run:ai 전체 플랫폼 오픈소스 전환",
+        "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
+        "reason": "GPU 자원관리 생태계 개방은 중요하지만 10월14일 원고에 이미 같은 사건을 게재했고 이번 구간에 새로운 기능·고객·운영성과가 없었다."
+      },
+      {
+        "title": "삼성, 엔비디아 차세대 HBM 베이스 다이에 TSMC 3나노 활용 보도",
+        "url": "https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/",
+        "reason": "메모리·파운드리 분업 변화는 중요하지만 10월19일 원고에 이미 게재됐고 공식 계약이나 양산 일정의 추가 사실이 확인되지 않았다."
+      }
+    ],
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "ETRI 연구환경에 ATOM-Max NPU 서버와 Aegis·Metis를 함께 적용한 공급 사실이 10월19일 처음 공개됐고 최근 14일 원고에 같은 사건이 없다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "누리호 탑재 사실 자체보다 한국도로공사 87장 공급, 글로벌 서버 검증·납품과 스페이스린텍 지상 PoC가 10월19일 기사에서 새로 공개된 사업화 사실이다. 최근 14일 독자용 원고에 같은 사건이 없다."
+      },
+      {
+        "article_number": 3,
+        "result": "material_update",
+        "previous_editions": ["2026-10-13"],
+        "new_fact": "10월13일 서남권 클러스터 부지·전력·용수 협의 보도 이후 앰코 광주 공장이 실제 착공했고, 총투자계획이 1조원에서 3조원으로, 고용계획이 약 1,000명에서 2,000명으로 확대됐으며 4개 동 완공 일정이 공개됐다.",
+        "evidence_url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172300/view",
+        "note": "같은 서남권 반도체 메가프로젝트의 후속이지만 계획·기관 협의에서 글로벌 기업의 착공·투자확대·완공일정 공개로 단계가 바뀌어 실질적 업데이트로 선정했다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "SK하이닉스·무보·4대 은행의 2조원 보증 출범과 1호 보증서 전달이 10월19일 처음 공개됐고 최근 14일 원고에 같은 금융지원 사건이 없다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "PyTorch 코드를 재작성하지 않고 Trainium에서 구동하도록 하는 무료 오픈소스 TorchNeuron 공개와 30곳 이상 초기 고객 사용 사실이 10월19일 처음 보도됐다."
+      },
+      {
+        "article_number": 6,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "Modal의 Vera CPU 신규 도입, 초기 처리량 시험과 인텔·AMD 병행 운영 방침이 10월19일 처음 보도됐고 최근 14일의 RTX Spark·Vera Rubin 기사와 다른 실제 고객 전환 사건이다."
+      }
+    ],
+    "history_review": {
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-19",
+      "checked_dates": [
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19"
+      ],
+      "note": "저장소에 존재하는 최근 14일 ready 원고를 제목·주요 사실·출처까지 읽고 사건 단위로 대조했다. 10월13일 서남권 클러스터 기관 협의와 아마존 인수협상, 10월14일 Run:ai 오픈소스, 10월16일 독일-NVIDIA 협력 예고, 10월18일 딥엑스 협력, 10월19일 퓨리오사 풀스택·삼성-TSMC HBM·데이터센터 병목을 중점 비교했다. 앰코 착공은 10월13일 보도의 실질적 후속으로 기록했고 나머지 5건은 동일 사건 게재가 없었다."
+    },
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026-10-19 2026-10-20 국산 NPU 고객 검증 유상 PoC 제품통합 양산 반복구매 해외협력 K-Perf 도입; 리벨리온 모빌린트 퓨리오사AI 딥엑스 하이퍼엑셀 공식",
+          "official_sources": "과기정통부 보도자료 https://www.msit.go.kr/bbs/list.do?mId=307&mPid=208&sCode=user, NIPA 사업·공고 https://www.nipa.kr/, ETRI·국내 NPU 기업 공개자료와 스페셜타임스·전자신문 원문을 확인했다.",
+          "result": "ETRI의 리벨리온 NPU 운영환경과 모빌린트의 공공 납품·서버 검증·우주 지상 PoC를 선정했다. 이번 구간의 신규 K-Perf 결과나 별도 유상 PoC 금액·반복구매는 확인되지 않았다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr OR site:nipa.kr OR site:iitp.kr 2026-10-19 NPU AI반도체 실증 조달 공고 GPU 배정 활용; 지자체 국비 예산 첨단패키징 데이터센터 부지 전력 용수 인허가",
+          "official_sources": "산업통상부 앰코 착공 보도자료 https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172300/view, 과기정통부·NIPA·IITP 공개자료와 SK하이닉스 배포자료 공개본문을 확인했다.",
+          "result": "신규 GPU/NPU 배정·집행 공고는 확인되지 않았다. 앰코의 실제 착공·투자확대와 공급망 보증 1호 전달, ETRI·한국도로공사 수요 사례를 선정했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "October 19 2026 AI accelerator GPU TPU ASIC acquisition partnership chip transition developer ecosystem; Amazon TorchNeuron Nvidia Vera Modal Germany MOU Nscale Anthropic",
+          "official_sources": "Reuters TorchNeuron https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/, Reuters Modal-Vera https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/, NVIDIA·AWS 공개자료를 확인했다.",
+          "result": "TorchNeuron과 Modal의 Vera 도입을 선정했다. 독일-NVIDIA MOU는 세부 미공개, Nscale-Anthropic은 협상 단계여서 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "2026-10-19 ROCm vLLM SGLang inference runtime kernel NPU orchestration official release deployment; PyTorch Trainium Aegis Metis",
+          "official_sources": "vLLM 릴리스 https://github.com/vllm-project/vllm/releases, SGLang 릴리스 https://github.com/sgl-project/sglang/releases, ROCm 문서 https://rocm.docs.amd.com/ 및 AWS·다키클라우드 관련 공개자료를 확인했다.",
+          "result": "PyTorch-Trainium 전환도구와 ETRI NPU 운영·모델서빙 적용을 선정했다. 이번 구간에 독립적인 신규 ROCm·vLLM·SGLang 상용배치는 확인되지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026-10-19 HBM CXL UCIe advanced packaging AI data center power water permit financing Korea official; 앰코 광주 SK하이닉스 소부장 보증",
+          "official_sources": "산업통상부 앰코 보도자료, SK하이닉스 배포자료 공개본문, 삼성전자·SK하이닉스·TSMC 뉴스룸과 Reuters·국내 공개보도를 확인했다.",
+          "result": "앰코 착공·투자확대와 SK하이닉스 공급망 금융을 선정했다. 삼성-TSMC HBM은 전일 게재와 중복했고 새로운 CXL·UCIe 확정 사건은 확인되지 않았다."
+        }
+      },
+      "alternative_sources": "당일 collection 기록은 07:38:22 KST 실행 1건으로 43개 출처 ok, hyperaccel-global과 nipa-ai-chip 2개 출처 empty, failed 0개였다. 09:20·09:27 실행 기록이 없고 최신 아카이브 갱신도 07:38:25 KST여서 오전 수집 공백으로 기록했다. 아카이브 198개 parts 전체와 과기정통부·NIPA·IITP·산업통상부·기업 뉴스룸, Reuters·전자신문 등 공개본문을 직접 검색해 다섯 영역을 보완했다. 최종 6건은 모두 09:30 이전 공개됐고 firstSeenAt도 마감 전이어서 늦은 수집 소급은 없었다."
+    },
+    "count_reason": "아카이브 72시간 2,726건과 48시간 발행 조건 2,163건을 전수 범위로 두고 다섯 영역의 독립 사건 15건을 비교했다. 공개본문·시의성·중복을 검증한 11건 가운데 공공 연구 NPU 운영환경, 국내 NPU 납품·PoC, 첨단패키징 착공, 공급망 금융 집행, 자체칩 개발자 생태계, CPU 고객 전환의 서로 다른 판단축 6건을 선정했다. 협상 단계·세부 미공개 MOU·전일 중복·개별 전력기기 계약으로 건수를 늘리지 않았다.",
+    "company_overlap_review": "선정 6건은 리벨리온-ETRI 운영환경, 모빌린트 수요 확대, 앰코 지역 패키징 투자, SK하이닉스 공급망 금융, 아마존 Trainium SW, 엔비디아 Vera 고객 전환으로 주체와 사건이 독립적이다. 글로벌 기사 5번과 6번은 아마존이 엔비디아의 개발자 생태계에 도전하는 사건과 엔비디아가 인텔·AMD CPU 고객을 전환한 사건으로 경쟁의 반대편을 보여준다. 같은 회사 반복으로 국내 후보를 밀어내지 않았고 전날 퓨리오사AI·삼성-TSMC·엔비디아 Run:ai 사건은 제외했다."
+  }
+}
