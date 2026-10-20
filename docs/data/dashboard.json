@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:59:46.169Z",
+  "generatedAt": "2026-10-20T05:07:38.533Z",
   "news": {
     "articles": [
       {
@@ -54,31 +54,6 @@
         ],
         "issueCategory": "AI시장",
         "score": 31
-      },
-      {
-        "title": "[현장리포트] 피지컬 AI 테크위크, 리벨리온·퓨리오사AI NPU 선보여… 제조·물류 현장 적용에 초점 - 인베스트 | invest",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JYjRrYlpWTng3MWZ2Wjd1dVJlcG5YYXFPNUd4ZV9IdFhUMjMxOFMyS0JDa3hoUkdnRFhvWkktRUZwX2F5WXJaUS1HWnBwWlJ0X1dHbXBFbTBkOXROa0tNYzhDNzduczQ4bzFTQUhlUHNLSG91aGfSAXZBVV95cUxPSWI0a2JaVk54NzFmdlo3dXVSZXBuWGFxTzVHeGVfSHRYVDIzMThTMktCQ2t4aFJHZ0RYb1pJLUVGcF9heVlyWlEtR1pwcFpSdF9XR21wRW0wZDl0TmtLTWM4Qzc3bnM0OG8xU0FIZVBzS0hvdWhn?oc=5",
-        "publishedAt": "Tue, 20 Oct 2026 03:29:09 GMT",
-        "summary": "[현장리포트] 피지컬 AI 테크위크, 리벨리온·퓨리오사AI NPU 선보여… 제조·물류 현장 적용에 초점 &nbsp;&nbsp; 인베스트 | invest",
-        "outlet": "인베스트 | invest",
-        "outletUrl": "https://www.investnews.co.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 30
       },
       {
         "title": "Cognizant and Google Cloud Expand Partnership to Scale Enterprise AI Agents - HPCwire",
@@ -244,30 +219,6 @@
         "score": 27
       },
       {
-        "title": "[TODAY엔비디아]'인텔 AMD 주도' CPU 시장 확대…AI 스타트업 '수주' - 이데일리",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yMFJOYVNlYXRZZDFieUFydUlWX0pDZk9tYV9ObXhqRjVHTmxLSkZneWZaRXdoa29fQVo1LXhnOWNhZHF2Y3JuUjRDZHNCbERQNmNvSjd6MEFmbm9JOEctWHFxTUtOVWRYXzlwd1RMNjZWTWp5?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 21:23:45 GMT",
-        "summary": "[TODAY엔비디아]'인텔 AMD 주도' CPU 시장 확대…AI 스타트업 '수주' &nbsp;&nbsp; 이데일리",
-        "outlet": "이데일리",
-        "outletUrl": "https://m.edaily.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 27
-      },
-      {
         "title": "Third Wheel: Microsoft’s AI Chips Are “Nowhere Close” to NVIDIA or Google per Analyst - TIKR.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPek9LN085aUdkWmpjTlNUMUd0N2Frb05McXI5SVVKdUQ4TDRJYUpMMGJ5ZllEb0pJTk5zd0Z1UGZoQVoyam1HNDVoaU90bWxxZjRReFhWanZITDRhS3lTVTdfYkNRdVctLUVaV1RFTXA5bGZHT0pueUZpUHQtMzdLbDd3Y2NNb0hJQ2UtUkk2WHhaTE9wdGZoV0VOR21lWnV6Mm1zc1JYVGZMUWZTWUNv?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 19:07:30 GMT",
@@ -387,6 +338,33 @@
         ],
         "issueCategory": "AI시장",
         "score": 27
+      },
+      {
+        "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+        "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+        "publishedAt": "Tue, 20 Oct 2026 05:00:00 GMT",
+        "summary": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some […]",
+        "outlet": "NVIDIA Newsroom",
+        "outletUrl": "https://nvidianews.nvidia.com",
+        "source": "NVIDIA 공식 보도자료",
+        "sourceIds": [
+          "nvidia-official-news"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망",
+          "실증·조달"
+        ],
+        "issueCategory": "수출통제·공급망",
+        "score": 26,
+        "fullText": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center Part of NVIDIA Inception and the BSC AI Factory Accelerator Programme, the companies are advancing technologies for healthcare providers, utilities and more. October 19, 2026 by Tobias Halloran 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some of the BSC AI Factory services are available through the NVIDIA Inception portal . NVIDIA Inception complements the BSC AI Factory Accelerator Programme by providing members with training through NVIDIA Deep Learning Institute open courses, business mentoring, venture capital connections and other resources. An upcoming extension of MareNostrum 5 — BSC’s public infrastructure serving scientific and technological innovation, powered by NVIDIA accelerated computing — will deliver supercomputing access through the BSC AI Factory and other AI Factories across Europe. BSC AI Factory is among Europe’s first AI factories and the first in Spain, and has delivered more than 800 services to private and public-sector clients since its April 2025 launch. &nbsp; Read All NVIDIA in Europe Announcements &nbsp; Three Inception members were recently named the BSC AI Factory Accelerator Programme’s AI Champions at the pilot initiative’s demo day: Qatium ’s water-network platform — already used by more than 250 utilities in 16 countries — is now in early production with its Neural Water Intelligence technology, powered by proprietary AI models trained on MareNostrum 5. Built on NVIDIA accelerated computing, the NVIDIA cuGraph library, the NVIDIA PhysicsNeMo framework and NVIDIA Nemotron open models, the technology helps water utilities make better operational decisions every day. OneCareAI , a research spin-off from BSC, used NVIDIA NIM microservices to develop technology designed to identify signs of hidden atrial fibrillation — an irregular heart rhythm — in seemingly normal ECGs, helping clinicians identify patients who may be at risk of stroke before one occurs. Avatia built a voice-first, multi-agent system that provides pharmaceutical companies with agentic coworkers that support sales representatives and give doctors transparent, curated information about medicines, ultimately helping the right treatment reach the right patient sooner. The system taps into NVIDIA NIM microservices, the NVIDIA Nemotron 3 open model family and the open source NVIDIA NeMo Curator library. Other BSC AI Factory startups — Agrikola AI , Elna Health , Lokutor , Montevive AI , Oppy , Pack2Earth and Up2Smart — span precision agriculture, medical imaging and knowledge access, speech services, enterprise security, sales intelligence and sustainable packaging. The cohort reflects the breadth of what advanced intelligence can now unlock: preventing strokes, detecting breast cancer subtypes before biopsy, putting medical knowledge at doctors’ fingertips faster, replacing petroleum-based plastic with biobased compostable materials, protecting crops with robots instead of chemicals and more. Learn more about NVIDIA Inception and the BSC AI Factory Accelerator Programme . &nbsp; Read All NVIDIA in Europe Announcements Watch NVIDIA CEO Jensen Huang’s GTC Berlin Keynote Wednesday, Oct. 21 11 a.m.-1 p.m. CEST Add to Calendar Recent News AI Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help October 19, 2026",
+        "fullSummary": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center Part of NVIDIA Inception and the BSC AI Factory Accelerator Programme, the companies are advancing technologies for healthcare providers, utilities and more. October 19, 2026 by Tobias Halloran 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge star...",
+        "summarySource": "article"
       },
       {
         "title": "강형엽·김영근 고려대 컴퓨터학과 교수, 과기정통부 ‘AI스타펠로우십지원’ 사업 동반 선정 - 스마트경제",
@@ -782,6 +760,30 @@
         "score": 26
       },
       {
+        "title": "Nvidia Wins Fast-Growing AI Startup Modal for New Central Processors - شبكة تواصل الإخبارية",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BMm1vWVhtUXBSaFB3cEM5NC12QlNPYUFiNi1FRmUzRWhJU1lTZ2F1SUZWdjBtTFRUN25GVVBpUnJzQUk3RXRjZlVhbnNWWk9JT25n?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 16:20:42 GMT",
+        "summary": "Nvidia Wins Fast-Growing AI Startup Modal for New Central Processors &nbsp;&nbsp; شبكة تواصل الإخبارية",
+        "outlet": "شبكة تواصل الإخبارية",
+        "outletUrl": "https://twaslnews1.twaslnews.com",
+        "source": "AI 시장·비즈니스",
+        "sourceIds": [
+          "ai-market-business"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA",
+          "파운드리·패키징"
+        ],
+        "issueCategory": "AI시장",
+        "score": 26
+      },
+      {
         "title": "Cognizant (CTSH) Expands Google Cloud Alliance To Scale Agentic AI - TradingView",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWpCcy1hTXBNa1ZCQ01tYTg1SEdNVElEcmR5SWdlR09oTnduTUdLS05vcmxHM3JsNVhTdVp2MTF2bzJxUmN1eEFVM1EydVdoMVRNNzMtWW9Cb2x6eW9BbE9iYnVGa1NfUk1HTnNuY05ERTh2UVNvLUFfODhBU3J3ZFNxNlozbEx3djNKaWJKR3BFUXhqNHFEUmJkODd1dlFKbkpEdUZKOE1HUldYb1RLUkJkakpiU1F0UnlKOU1sbkVRUWZr?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 16:00:00 GMT",
@@ -1086,30 +1088,6 @@
         ],
         "taxonomyHits": [
           "AI인프라",
-          "NVIDIA",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 26
-      },
-      {
-        "title": "하나자산운용, 1Q 엔비디아고정미국AI반도체 신규 상장 - 글로벌뉴스통신GNA",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiZmV2ZEFiZkVsVV9WVGNPMldaU21WckpRdEVMaEVmOEJia21tNFoyLS10dE84ei1iemVyemxjN05iV2ljRGdNTzFPemVVQXQ5c0daWHFPQm05TVJuWkxkWDVQMGJQYmNGMHNDSDBrSmtuaXVZ?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 10:13:38 GMT",
-        "summary": "하나자산운용, 1Q 엔비디아고정미국AI반도체 신규 상장 &nbsp;&nbsp; 글로벌뉴스통신GNA",
-        "outlet": "글로벌뉴스통신GNA",
-        "outletUrl": "https://www.globalnewsagency.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NPU",
           "NVIDIA",
           "투자·M&A"
         ],
@@ -1582,12 +1560,12 @@
         "score": 25
       },
       {
-        "title": "과기정통부, 세계은행과 '글로벌 AI·디지털 서밋' 개최 - 디지털투데이",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JS29sM3EzejVmNklrNVhEUjc0cGdQaGdxUjl0QThuMW5qZEpvNDhjeXVqUk5XWkNzSWxnQjVfRER2bklqVWJJZzdEaTZKZHdOZEhCODJUZDNvbTJpVWVfWEdqMGdvQzdpVGFCVE5WenA5ak0?oc=5",
+        "title": "과기정통부, 세계은행과 글로벌 AI 협력 머리 맞대 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XQ0hKUnRudEMxZDVFaWJqWkFIQUVDOHpKUlZfWEQ5cW1yVEQwTzlUVXE2S0phS1cxLXdsZnphRmZxaGtHeFJpRE1jMGlsbHJpcHBXSGYzQTJtWi1walIzc05UNUt6V0Va?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 04:00:00 GMT",
-        "summary": "과기정통부, 세계은행과 '글로벌 AI·디지털 서밋' 개최 &nbsp;&nbsp; 디지털투데이",
-        "outlet": "디지털투데이",
-        "outletUrl": "https://www.digitaltoday.co.kr",
+        "summary": "과기정통부, 세계은행과 글로벌 AI 협력 머리 맞대 &nbsp;&nbsp; 뉴스1",
+        "outlet": "뉴스1",
+        "outletUrl": "https://www.news1.kr",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy"
@@ -1602,12 +1580,12 @@
         "score": 25
       },
       {
-        "title": "과기정통부, 세계은행과 글로벌 AI 협력 머리 맞대 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XQ0hKUnRudEMxZDVFaWJqWkFIQUVDOHpKUlZfWEQ5cW1yVEQwTzlUVXE2S0phS1cxLXdsZnphRmZxaGtHeFJpRE1jMGlsbHJpcHBXSGYzQTJtWi1walIzc05UNUt6V0Va?oc=5",
+        "title": "과기정통부, 세계은행과 '글로벌 AI·디지털 서밋' 개최 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JS29sM3EzejVmNklrNVhEUjc0cGdQaGdxUjl0QThuMW5qZEpvNDhjeXVqUk5XWkNzSWxnQjVfRER2bklqVWJJZzdEaTZKZHdOZEhCODJUZDNvbTJpVWVfWEdqMGdvQzdpVGFCVE5WenA5ak0?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 04:00:00 GMT",
-        "summary": "과기정통부, 세계은행과 글로벌 AI 협력 머리 맞대 &nbsp;&nbsp; 뉴스1",
-        "outlet": "뉴스1",
-        "outletUrl": "https://www.news1.kr",
+        "summary": "과기정통부, 세계은행과 '글로벌 AI·디지털 서밋' 개최 &nbsp;&nbsp; 디지털투데이",
+        "outlet": "디지털투데이",
+        "outletUrl": "https://www.digitaltoday.co.kr",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy"
@@ -1978,31 +1956,6 @@
         "source": "메모리·패키징·인터커넥트",
         "sourceIds": [
           "memory-packaging"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "TSMC",
-          "Samsung"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "파운드리·패키징"
-        ],
-        "issueCategory": "AI시장",
-        "score": 25
-      },
-      {
-        "title": "Samsung Electronics to Make Nvidia-Custom HBM Base Dies on TSMC's 3nm Process, Partially Revising 'Turnkey' Strategy - BigGo Finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11Wjh6VEFmUXpiajZ2anhSWXVMdGdxN0NZRXZhYldka2x5NzhGMUxRU2k1emtFS1c1bm14MlptLVlBZnJyVl9sWDFlX3FzSGRPUENqYW5senUyT0xqUkVIb21FS2ZtbU9wVlBQQy0wSEFlcXJBNVE?oc=5",
-        "publishedAt": "Sun, 18 Oct 2026 09:25:00 GMT",
-        "summary": "Samsung Electronics to Make Nvidia-Custom HBM Base Dies on TSMC's 3nm Process, Partially Revising 'Turnkey' Strategy &nbsp;&nbsp; BigGo Finance",
-        "outlet": "BigGo Finance",
-        "outletUrl": "https://finance.biggo.com",
-        "source": "해외 AI반도체",
-        "sourceIds": [
-          "global-ai-chip"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -2426,29 +2379,6 @@
         ],
         "sourceLang": "en",
         "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "하나운용, 美 AI 반도체 ETF 출시…엔비디아+AI핵심기업 집중투자 - 네이트뷰",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jNi16VWs2RXNuZ2tVb2M0Wm5OTk5ZandfNHdNMGNPTGxHTE9PMTcwbVpjTkl0aEFsdnZjQjJZT3dudHgyaWI5YzkySTM4cWNYOHpRcdIBWkFVX3lxTE5jLW1reEpGblMwaFlDZDl6WUdTSVhsQjd1VEV1UjNYQlZFREQyaTU5ejJJLWVDTTZzTHBrT0Y1WVk3Q1RKYzE1UDhENDBzbXBNZEdDaFpZSDh5Zw?oc=5",
-        "publishedAt": "Tue, 20 Oct 2026 02:00:00 GMT",
-        "summary": "하나운용, 美 AI 반도체 ETF 출시…엔비디아+AI핵심기업 집중투자 &nbsp;&nbsp; 네이트뷰",
-        "outlet": "네이트뷰",
-        "outletUrl": "https://view.nate.com",
-        "source": "AI반도체 정책금융·집행",
-        "sourceIds": [
-          "ai-chip-policy-finance"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
         "companyHits": [
           "NVIDIA"
         ],
@@ -3364,6 +3294,29 @@
         "score": 23
       },
       {
+        "title": "Huntington Bank launches AI small business platform with Google Cloud - StreetInsider",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZGZTaUZiT29vUjl5OVdXOEFMUUNKQTctUEVTUEx5OEtHWHg5QWxpVWRjZmdHdnU4SWQ5WjNtMnFXUTRtcHkzRUlaNGpMYl9JVHg5QUlqbFpqa1hUVDJfUmVPaF9wWENXYmVLVkU5TUMxV3JWOGY0bWM1d1RjQzBidWVpazdoRURyQjVWck5CNWI4VUNoU05UUGgzSFFIRzk1djdNcWxIdHM1NEVKLThYcUh4WU1VOXF1aWl2RG5qRVl1OExjWTIw?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 12:29:24 GMT",
+        "summary": "Huntington Bank launches AI small business platform with Google Cloud &nbsp;&nbsp; StreetInsider",
+        "outlet": "StreetInsider",
+        "outletUrl": "https://www.streetinsider.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 23
+      },
+      {
         "title": "Huntington Bancshares Incorporated (HBAN) Launches AI Small-Business OS With Google Cloud - TradingView",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ21meTlzOVo5d3RLc2dwWXl6VGVpWHBwVXotVXFmUHJzazhtVUd3cFJvbllqYnpzaXBfRlE3T21NR19jX3BsXzFtbzl4cVBJVFgySTlGdlJPbkQzakVNUG9OTzUzZVBQSVk4UGlBd2g1aUxMSmdEQk9hVkJfMGRvLU9GRjd2c0IyNU5WMXlRMXhBS0w0ek41R01heFlKVGpjV1NnY245S19kNkVkQlFzTkJ2SEJ0UGwwUW1WVkpqMnpfSmdqWVpuZzk0a0daWXROTERvLVlmUzczUV94eWxRVE1n?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 12:25:00 GMT",
@@ -4184,6 +4137,52 @@
         "taxonomyHits": [
           "AI인프라",
           "퓨리오사AI"
+        ],
+        "issueCategory": "NPU",
+        "score": 22
+      },
+      {
+        "title": "엔비디아 25% ‘고정’…하나운용, AI반도체 핵심 10종목 담은 ETF 출시 - www.dt.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxeWNPMi1laGQwb2REZkF2NHZDYm5saEpNSzJNS01KZlBjS2JOS2tiUl9PcUpVc3lwblRsczBITUo1LUFFRnRfeGVyMzBQZw?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 01:45:41 GMT",
+        "summary": "엔비디아 25% ‘고정’…하나운용, AI반도체 핵심 10종목 담은 ETF 출시 &nbsp;&nbsp; www.dt.co.kr",
+        "outlet": "www.dt.co.kr",
+        "outletUrl": "https://www.dt.co.kr",
+        "source": "AI반도체 정책금융·집행",
+        "sourceIds": [
+          "ai-chip-policy-finance"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "NVIDIA"
+        ],
+        "issueCategory": "NPU",
+        "score": 22
+      },
+      {
+        "title": "하나운용, 美 AI반도체 ETF 출시…“엔비디아 25% 고정 편입” - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xTzVES1V6MHdkTEZLdjN6UmFBU2V2RnhpbUlxaV93Zk1Dbm5qQ3pwNWRQZ0g3S2U5X0VEbmM0OTZJTUpDUHd3M2lFdW5GeFV2dUHSAVNBVV95cUxPWFZUY2ExNkRjaUVrdmxRTW9ZYzNVd2pSeDY5WVk3REZld1lsN3VmTHlzdnViU1VFeV9WeGNubkNlWHdCc3AxOWpZb2JlektnTWREWQ?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 00:54:53 GMT",
+        "summary": "하나운용, 美 AI반도체 ETF 출시…“엔비디아 25% 고정 편입” &nbsp;&nbsp; 서울경제",
+        "outlet": "서울경제",
+        "outletUrl": "https://www.sedaily.com",
+        "source": "AI반도체 정책금융·집행",
+        "sourceIds": [
+          "ai-chip-policy-finance"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NPU",
+          "NVIDIA"
         ],
         "issueCategory": "NPU",
         "score": 22
@@ -5657,7 +5656,7 @@
         "currency": "KRW",
         "changePct": -19.54022988505747,
         "previousClose": 261000,
-        "marketTime": "2026-10-20T04:39:42.000Z",
+        "marketTime": "2026-10-20T04:47:35.000Z",
         "closes": [
           274000,
           276500,
@@ -5811,11 +5810,11 @@
         "symbol": "000660.KS",
         "name": "SK하이닉스",
         "market": "KR",
-        "price": 1215000,
+        "price": 1214000,
         "currency": "KRW",
-        "changePct": -34.5718901453958,
+        "changePct": -34.625740441572425,
         "previousClose": 1857000,
-        "marketTime": "2026-10-20T04:39:42.000Z",
+        "marketTime": "2026-10-20T04:47:35.000Z",
         "closes": [
           1868000,
           1840000,
@@ -5834,7 +5833,7 @@
           1262000,
           1272000,
           1277000,
-          1215000
+          1214000
         ],
         "candles": [
           {
@@ -5961,7 +5960,7 @@
             "open": 1265000,
             "high": 1267000,
             "low": 1183000,
-            "close": 1215000
+            "close": 1214000
           }
         ]
       }
@@ -6513,11 +6512,11 @@
       {
         "symbol": "^KS11",
         "name": "KOSPI",
-        "price": 5526.98,
+        "price": 5525.21,
         "currency": "KRW",
-        "changePct": -19.831801375933207,
+        "changePct": -19.85747501896513,
         "previousClose": 6894.23,
-        "marketTime": "2026-10-20T04:39:40.000Z",
+        "marketTime": "2026-10-20T04:47:30.000Z",
         "closes": [
           7007.72021484375,
           7017.91015625,
@@ -6536,7 +6535,7 @@
           5554.22021484375,
           5668.0498046875,
           5768.009765625,
-          5526.97998046875
+          5525.2099609375
         ],
         "candles": [
           {
@@ -6663,18 +6662,18 @@
             "open": 5733.56982421875,
             "high": 5733.56982421875,
             "low": 5493.240234375,
-            "close": 5526.97998046875
+            "close": 5525.2099609375
           }
         ]
       },
       {
         "symbol": "^KQ11",
         "name": "KOSDAQ",
-        "price": 784.69,
+        "price": 783.69,
         "currency": "KRW",
-        "changePct": -5.129848147789915,
+        "changePct": -5.250749588935094,
         "previousClose": 827.12,
-        "marketTime": "2026-10-20T04:39:40.000Z",
+        "marketTime": "2026-10-20T04:47:30.000Z",
         "closes": [
           836.27001953125,
           834.3800048828125,
@@ -6693,7 +6692,7 @@
           760.8200073242188,
           794.780029296875,
           808.8900146484375,
-          784.6900024414062
+          783.6900024414062
         ],
         "candles": [
           {
@@ -6820,19 +6819,19 @@
             "open": 805.3699951171875,
             "high": 807.219970703125,
             "low": 773.3200073242188,
-            "close": 784.6900024414062
+            "close": 783.6900024414062
           }
         ]
       }
     ],
-    "generatedAt": "2026-10-20T04:59:43.431Z"
+    "generatedAt": "2026-10-20T05:07:36.323Z"
   },
   "briefing": {
     "date": "2026년 10월 20일 화요일",
     "summary": [
       "오늘의 최상위 이슈: Samsung, TSMC Join Forces to Expand Custom HBM Output for Nvidia - Seoul Economic Daily",
-      "강한 기술·시장 신호: NPU 12, AI인프라 41, 데이터센터 9, 온디바이스AI 0, 추론 3",
-      "주요 기업 신호: 퓨리오사AI 6, 리벨리온 2, 모빌린트 2, 딥엑스 2, 하이퍼엑셀 0"
+      "강한 기술·시장 신호: NPU 12, AI인프라 42, 데이터센터 9, 온디바이스AI 0, 추론 3",
+      "주요 기업 신호: 퓨리오사AI 5, 모빌린트 2, 딥엑스 2, 리벨리온 1, 하이퍼엑셀 0"
     ],
     "leadArticles": [
       {
@@ -6887,31 +6886,6 @@
         ],
         "issueCategory": "AI시장",
         "score": 31
-      },
-      {
-        "title": "[현장리포트] 피지컬 AI 테크위크, 리벨리온·퓨리오사AI NPU 선보여… 제조·물류 현장 적용에 초점 - 인베스트 | invest",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JYjRrYlpWTng3MWZ2Wjd1dVJlcG5YYXFPNUd4ZV9IdFhUMjMxOFMyS0JDa3hoUkdnRFhvWkktRUZwX2F5WXJaUS1HWnBwWlJ0X1dHbXBFbTBkOXROa0tNYzhDNzduczQ4bzFTQUhlUHNLSG91aGfSAXZBVV95cUxPSWI0a2JaVk54NzFmdlo3dXVSZXBuWGFxTzVHeGVfSHRYVDIzMThTMktCQ2t4aFJHZ0RYb1pJLUVGcF9heVlyWlEtR1pwcFpSdF9XR21wRW0wZDl0TmtLTWM4Qzc3bnM0OG8xU0FIZVBzS0hvdWhn?oc=5",
-        "publishedAt": "Tue, 20 Oct 2026 03:29:09 GMT",
-        "summary": "[현장리포트] 피지컬 AI 테크위크, 리벨리온·퓨리오사AI NPU 선보여… 제조·물류 현장 적용에 초점 &nbsp;&nbsp; 인베스트 | invest",
-        "outlet": "인베스트 | invest",
-        "outletUrl": "https://www.investnews.co.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "리벨리온",
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 30
       },
       {
         "title": "Cognizant and Google Cloud Expand Partnership to Scale Enterprise AI Agents - HPCwire",
@@ -7077,12 +7051,12 @@
         "score": 27
       },
       {
-        "title": "[TODAY엔비디아]'인텔 AMD 주도' CPU 시장 확대…AI 스타트업 '수주' - 이데일리",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yMFJOYVNlYXRZZDFieUFydUlWX0pDZk9tYV9ObXhqRjVHTmxLSkZneWZaRXdoa29fQVo1LXhnOWNhZHF2Y3JuUjRDZHNCbERQNmNvSjd6MEFmbm9JOEctWHFxTUtOVWRYXzlwd1RMNjZWTWp5?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 21:23:45 GMT",
-        "summary": "[TODAY엔비디아]'인텔 AMD 주도' CPU 시장 확대…AI 스타트업 '수주' &nbsp;&nbsp; 이데일리",
-        "outlet": "이데일리",
-        "outletUrl": "https://m.edaily.co.kr",
+        "title": "Third Wheel: Microsoft’s AI Chips Are “Nowhere Close” to NVIDIA or Google per Analyst - TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPek9LN085aUdkWmpjTlNUMUd0N2Frb05McXI5SVVKdUQ4TDRJYUpMMGJ5ZllEb0pJTk5zd0Z1UGZoQVoyam1HNDVoaU90bWxxZjRReFhWanZITDRhS3lTVTdfYkNRdVctLUVaV1RFTXA5bGZHT0pueUZpUHQtMzdLbDd3Y2NNb0hJQ2UtUkk2WHhaTE9wdGZoV0VOR21lWnV6Mm1zc1JYVGZMUWZTWUNv?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 19:07:30 GMT",
+        "summary": "Third Wheel: Microsoft’s AI Chips Are “Nowhere Close” to NVIDIA or Google per Analyst &nbsp;&nbsp; TIKR.com",
+        "outlet": "TIKR.com",
+        "outletUrl": "https://www.tikr.com",
         "source": "해외 빅테크 국내 보도",
         "sourceIds": [
           "korea-global-ai-companies"
@@ -7091,11 +7065,35 @@
         "region": "domestic",
         "companyHits": [
           "NVIDIA",
-          "AMD"
+          "Google"
         ],
         "taxonomyHits": [
-          "AI시장",
-          "NVIDIA"
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 27
+      },
+      {
+        "title": "Nvidia vs. TSMC: Which Business Depends Less on Picking the Winning AI Chip? - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVd6NXl0TlQtMXNKRzJtdnNpUTJvaXhEdlNBVlNiMkdyZUowTUkwTFlqMXVld2RRbVBuR0VoeWM3OHVXblFveGkybUR0ZzduUm42MFRsaF80b29MamVzWDh0dXc2Z29MbHEyRzNydE9vSHpqNkc3RlZ1c3NpYk5EZWVyRWplTTJKN3RocnJocjJrS1k1SU5OWUVoaw?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 18:56:30 GMT",
+        "summary": "Nvidia vs. TSMC: Which Business Depends Less on Picking the Winning AI Chip? &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "TSMC"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "파운드리·패키징"
         ],
         "issueCategory": "AI시장",
         "score": 27
@@ -7109,7 +7107,7 @@
         ],
         [
           "AI인프라",
-          41
+          42
         ],
         [
           "데이터센터",
@@ -7135,11 +7133,7 @@
       "companies": [
         [
           "퓨리오사AI",
-          6
-        ],
-        [
-          "리벨리온",
-          2
+          5
         ],
         [
           "모빌린트",
@@ -7148,6 +7142,10 @@
         [
           "딥엑스",
           2
+        ],
+        [
+          "리벨리온",
+          1
         ],
         [
           "하이퍼엑셀",
@@ -7159,19 +7157,19 @@
         ],
         [
           "Google",
-          51
+          52
         ],
         [
           "TSMC",
-          18
+          17
         ],
         [
           "Samsung",
-          12
+          11
         ],
         [
           "AMD",
-          7
+          6
         ],
         [
           "Arm",
@@ -7270,11 +7268,11 @@
       "metrics": [
         [
           "AI시장",
-          88
+          85
         ],
         [
           "NPU",
-          8
+          9
         ],
         [
           "정책",
@@ -7282,11 +7280,11 @@
         ],
         [
           "국내 기사",
-          83
+          81
         ],
         [
           "해외 기사",
-          97
+          99
         ]
       ],
       "sections": [
