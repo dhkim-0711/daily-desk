@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:59:05.638Z",
+  "generatedAt": "2026-10-21T05:08:38.623Z",
   "news": {
     "articles": [
       {
@@ -28,32 +28,6 @@
         ],
         "issueCategory": "AI시장",
         "score": 36
-      },
-      {
-        "title": "ETF Combines NVIDIA, Google with Treasuries to Cushion AI Investment Risks - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZk93Tk5remdraEdhSmE0TkVpcUtndUdmMHhDTENRdUlTdDVPdVNCNnhEUGI1YVdBREsxRWt6bVlJWmlpRmJpbmx3bU5WdzdUejVkU19td3FVakczbUw4MmlLV3luSDhPcVBwWW40LVZkRE9FdHNWMG5hWEVxa3FXTHhvOU92Ymtyd0xmZWpR?oc=5",
-        "publishedAt": "Tue, 20 Oct 2026 23:16:51 GMT",
-        "summary": "ETF Combines NVIDIA, Google with Treasuries to Cushion AI Investment Risks &nbsp;&nbsp; 조선일보",
-        "outlet": "조선일보",
-        "outletUrl": "https://www.chosun.com",
-        "source": "AI 시장 전체",
-        "sourceIds": [
-          "ai-market-global"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "NVIDIA",
-          "Google",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 33
       },
       {
         "title": "Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute - SiliconANGLE",
@@ -131,31 +105,6 @@
         ],
         "issueCategory": "AI시장",
         "score": 30
-      },
-      {
-        "title": "Cognizant, Google Cloud expand partnership to drive agentic AI adoption - ET CIO",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRVZMNHhtUEtvd2ItSlhERHZyY3hsd2xrQWduNDdmbFQ1UU1DY2xRVXV5aVFzNWRPSlFvYTBKd2hsb0Ezd25jZnhFRWJESnFmb2MyMU82eGlKdTl2NlJvZGtwaDlienZhTVZlWHYtZEl5cTI2dVZWR1lUMXhnaXVvcWFZUzFsSl83N1RrdW1LNXNENnF1akE2eXd5dzZ3UGR5Q1NkLXRlcjdTUjY4cG5PY05pek1FeHpqQXRTYzQ3VHZwd2R2MGNrN2ZyWW16d2VVa1lIUWxCcEQ0TEdjckd3amFYME10a0IzYlHSAeoBQVVfeXFMT0VWTDR4bVBLb3diLUpYRER2cmN4bHdsa0FnbjQ3ZmxUNVFNQ2NsUVV1eWlRczVkT0pRb2EwSndobG9BM3duY2Z4RUViREpxZm9jMjFPNnhpSnU5djZSb2RrcGg5Ynp2YU1WZVh2LWRJeXEyNnVWVkdZVDF4Z2l1b3FhWVMxbEpfNzdUa3VtSzVzRDZxdWpBNnl3eXc2d1BkeUNTZC10ZXI3U1I2OHBuT2NOaXpNRXh6akF0U2M0N1R2cHdkdjBjazdmclltendlVWtZSFFsQnBENExHY3JHd2phWDBNdGtCM2JR?oc=5",
-        "publishedAt": "Wed, 21 Oct 2026 02:34:02 GMT",
-        "summary": "Cognizant, Google Cloud expand partnership to drive agentic AI adoption &nbsp;&nbsp; ET CIO",
-        "outlet": "ET CIO",
-        "outletUrl": "https://cio.economictimes.indiatimes.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "AI에이전트",
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI시장",
-        "score": 29
       },
       {
         "title": "[현장리포트] 피지컬 AI 테크위크, 리벨리온·퓨리오사AI NPU 선보여… 제조·물류 현장 적용에 초점 - 인베스트 | invest",
@@ -293,6 +242,30 @@
         ],
         "issueCategory": "NPU",
         "score": 28
+      },
+      {
+        "title": "Google takes on NVIDIA with new AI developer tool - NewsBytes",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOblZNdWhuV2syQ3FmWGRrU0ZockJ3TGo4OHlhN3g5RFVPOGEyUk9NQmQ2ZUpIVzBHcnQ1dDdPMUVWV0RxWEFyN1l1YzRMeElHWVZocm1wTVJsYjhxaFV4WC1EYi1fbTBDeWkxNWxsWHg2X2U2UnhncXBxcEdtYVg5R1Rkc3ZqSzJmWTBRSTIzalVaaVUwX0U2R0hjUVRqUQ?oc=5",
+        "publishedAt": "Wed, 21 Oct 2026 04:28:59 GMT",
+        "summary": "Google takes on NVIDIA with new AI developer tool &nbsp;&nbsp; NewsBytes",
+        "outlet": "NewsBytes",
+        "outletUrl": "https://www.newsbytesapp.com",
+        "source": "가속기 운영 SW",
+        "sourceIds": [
+          "accelerator-software"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 27
       },
       {
         "title": "오픈AI·엔비디아·AMD 부산 총집결…첨단패키징 심포지엄 'ISMP 2026' 내달 개막 - 전자신문",
@@ -932,34 +905,6 @@
         "score": 26
       },
       {
-        "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-        "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
-        "publishedAt": "Tue, 20 Oct 2026 05:00:00 +0000",
-        "summary": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some [&#8230;]",
-        "outlet": "NVIDIA Blog",
-        "outletUrl": "https://blogs.nvidia.com",
-        "source": "NVIDIA 공식 기술발표",
-        "sourceIds": [
-          "nvidia-official-blog",
-          "nvidia-official-news"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "수출통제·공급망",
-          "실증·조달"
-        ],
-        "issueCategory": "수출통제·공급망",
-        "score": 26,
-        "fullText": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center Part of NVIDIA Inception and the BSC AI Factory Accelerator Programme, the companies are advancing technologies for healthcare providers, utilities and more. October 19, 2026 by Tobias Halloran 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some of the BSC AI Factory services are available through the NVIDIA Inception portal . NVIDIA Inception complements the BSC AI Factory Accelerator Programme by providing members with training through NVIDIA Deep Learning Institute open courses, business mentoring, venture capital connections and other resources. An upcoming extension of MareNostrum 5 — BSC’s public infrastructure serving scientific and technological innovation, powered by NVIDIA accelerated computing — will deliver supercomputing access through the BSC AI Factory and other AI Factories across Europe. BSC AI Factory is among Europe’s first AI factories and the first in Spain, and has delivered more than 800 services to private and public-sector clients since its April 2025 launch. Read All NVIDIA in Europe Announcements &nbsp; Three Inception members were recently named the BSC AI Factory Accelerator Programme’s AI Champions at the pilot initiative’s demo day: Qatium ’s water-network platform — already used by more than 250 utilities in 16 countries — is now in early production with its Neural Water Intelligence technology, powered by proprietary AI models trained on MareNostrum 5. Built on NVIDIA accelerated computing, the NVIDIA cuGraph library, the NVIDIA PhysicsNeMo framework and NVIDIA Nemotron open models, the technology helps water utilities make better operational decisions every day. OneCareAI , a research spin-off from BSC, used NVIDIA NIM microservices to develop technology designed to identify signs of hidden atrial fibrillation — an irregular heart rhythm — in seemingly normal ECGs, helping clinicians identify patients who may be at risk of stroke before one occurs. Avatia built a voice-first, multi-agent system that provides pharmaceutical companies with agentic coworkers that support sales representatives and give doctors transparent, curated information about medicines, ultimately helping the right treatment reach the right patient sooner. The system taps into NVIDIA NIM microservices, the NVIDIA Nemotron 3 open model family and the open source NVIDIA NeMo Curator library. Other BSC AI Factory startups — Agrikola AI , Elna Health , Lokutor , Montevive AI , Oppy , Pack2Earth and Up2Smart — span precision agriculture, medical imaging and knowledge access, speech services, enterprise security, sales intelligence and sustainable packaging. The cohort reflects the breadth of what advanced intelligence can now unlock: preventing strokes, detecting breast cancer subtypes before biopsy, putting medical knowledge at doctors’ fingertips faster, replacing petroleum-based plastic with biobased compostable materials, protecting crops with robots instead of chemicals and more. Learn more about NVIDIA Inception and the BSC AI Factory Accelerator Programme . &nbsp; Read All NVIDIA in Europe Announcements Watch NVIDIA CEO Jensen Huang’s GTC Berlin Keynote Wednesday, Oct. 21 11 a.m.-1 p.m. CEST Add to Calendar Recent News AI Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help October 19, 2026",
-        "fullSummary": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center Part of NVIDIA Inception and the BSC AI Factory Accelerator Programme, the companies are advancing technologies for healthcare providers, utilities and more. October 19, 2026 by Tobias Halloran 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge star...",
-        "summarySource": "article"
-      },
-      {
         "title": "[기고] AI 시대, 우리 반도체는 왜 ‘엔비디아·TSMC’와 얽혀 있나 - 투데이신문",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mckZleDhVU0d6Y24tZjVYM054ZThiaXJ5T01BclU3QkU2eWhyeDlpenAtNFJJaVB5Z195LUVvbDgtRGRlVG5mMkd0NkZ2WmR6Wmh0NV9hUlplM2ZkOU1najdYYmFqSTNqd2xn0gFvQVVfeXFMT0I3bnJiUVBfRkRSNGptOVhmeExfdjhMS08tRDZJejBtcHRCQVJDNkM1VmR6SE9qYU9uQVFRSzRGNHlKdGIzTUR5QXVFQ3lqWkQ4dWdsSWZsVVV6VzU3bVZ5dkV2SzB3UE1NYzZ1VzVF?oc=5",
         "publishedAt": "Mon, 19 Oct 2026 07:49:00 GMT",
@@ -982,6 +927,34 @@
         ],
         "issueCategory": "AI시장",
         "score": 26
+      },
+      {
+        "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+        "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+        "publishedAt": "Tue, 20 Oct 2026 05:00:00 +0000",
+        "summary": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some [&#8230;]",
+        "outlet": "NVIDIA Blog",
+        "outletUrl": "https://blogs.nvidia.com",
+        "source": "NVIDIA 공식 기술발표",
+        "sourceIds": [
+          "nvidia-official-blog",
+          "nvidia-official-news"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망",
+          "실증·조달"
+        ],
+        "issueCategory": "수출통제·공급망",
+        "score": 25,
+        "fullText": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center Part of NVIDIA Inception and the BSC AI Factory Accelerator Programme, the companies are advancing technologies for healthcare providers, utilities and more. October 19, 2026 by Tobias Halloran 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some of the BSC AI Factory services are available through the NVIDIA Inception portal . NVIDIA Inception complements the BSC AI Factory Accelerator Programme by providing members with training through NVIDIA Deep Learning Institute open courses, business mentoring, venture capital connections and other resources. An upcoming extension of MareNostrum 5 — BSC’s public infrastructure serving scientific and technological innovation, powered by NVIDIA accelerated computing — will deliver supercomputing access through the BSC AI Factory and other AI Factories across Europe. BSC AI Factory is among Europe’s first AI factories and the first in Spain, and has delivered more than 800 services to private and public-sector clients since its April 2025 launch. Read All NVIDIA in Europe Announcements &nbsp; Three Inception members were recently named the BSC AI Factory Accelerator Programme’s AI Champions at the pilot initiative’s demo day: Qatium ’s water-network platform — already used by more than 250 utilities in 16 countries — is now in early production with its Neural Water Intelligence technology, powered by proprietary AI models trained on MareNostrum 5. Built on NVIDIA accelerated computing, the NVIDIA cuGraph library, the NVIDIA PhysicsNeMo framework and NVIDIA Nemotron open models, the technology helps water utilities make better operational decisions every day. OneCareAI , a research spin-off from BSC, used NVIDIA NIM microservices to develop technology designed to identify signs of hidden atrial fibrillation — an irregular heart rhythm — in seemingly normal ECGs, helping clinicians identify patients who may be at risk of stroke before one occurs. Avatia built a voice-first, multi-agent system that provides pharmaceutical companies with agentic coworkers that support sales representatives and give doctors transparent, curated information about medicines, ultimately helping the right treatment reach the right patient sooner. The system taps into NVIDIA NIM microservices, the NVIDIA Nemotron 3 open model family and the open source NVIDIA NeMo Curator library. Other BSC AI Factory startups — Agrikola AI , Elna Health , Lokutor , Montevive AI , Oppy , Pack2Earth and Up2Smart — span precision agriculture, medical imaging and knowledge access, speech services, enterprise security, sales intelligence and sustainable packaging. The cohort reflects the breadth of what advanced intelligence can now unlock: preventing strokes, detecting breast cancer subtypes before biopsy, putting medical knowledge at doctors’ fingertips faster, replacing petroleum-based plastic with biobased compostable materials, protecting crops with robots instead of chemicals and more. Learn more about NVIDIA Inception and the BSC AI Factory Accelerator Programme . &nbsp; Read All NVIDIA in Europe Announcements Watch NVIDIA CEO Jensen Huang’s GTC Berlin Keynote Wednesday, Oct. 21 11 a.m.-1 p.m. CEST Add to Calendar Recent News AI Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help October 19, 2026",
+        "fullSummary": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center Part of NVIDIA Inception and the BSC AI Factory Accelerator Programme, the companies are advancing technologies for healthcare providers, utilities and more. October 19, 2026 by Tobias Halloran 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge star...",
+        "summarySource": "article"
       },
       {
         "title": "강형엽·김영근 고려대 컴퓨터학과 교수, 과기정통부 ‘AI스타펠로우십지원’ 사업 동반 선정 - 스마트경제",
@@ -1398,6 +1371,26 @@
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
+        "score": 25
+      },
+      {
+        "title": "과기정통부·세계은행, 50여개국과 AI 협력 논의 - 바이라인네트워크",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MYnRDQzFicngxQUgtMC1iR0NpQkoza0lQOXZQaFNtSkFrSGtZYjNtdFFKQy1GOXpIaUhPenhZS0M5djNRemNjM0U1MUFwZGM?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 07:23:35 GMT",
+        "summary": "과기정통부·세계은행, 50여개국과 AI 협력 논의 &nbsp;&nbsp; 바이라인네트워크",
+        "outlet": "바이라인네트워크",
+        "outletUrl": "https://byline.network",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
         "score": 25
       },
       {
@@ -2331,6 +2324,29 @@
         "score": 23
       },
       {
+        "title": "Nvidia Is In Talks To Invest Hundreds Of Millions Of Dollars In Australian AI Cloud Provider Firmus- The Information - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQMXozNDk5ZmlHbmIzelczVVBjUldZY1V3RFdaQUMtR3V0OG0wRkRVSFFRNUt0c2pVS3hrcXlMd0plODdvSWQ1cWhXeEZMU0wwX3NWYy1NR3hXeE5kTlJyWmMxNHdfb1c2NGctYTA3M3MxVGI2MnFGb3FTX1BBUUxsUWRhQ3o2Tk5CZENxQlFfaWxiZ1E1UndMOHZ0cjBJb1RzOUVrTzhKb0txbkphMmtOWUhLeXk1aGxRZlFVem9INzdjOEVDR01UY0hqMWdkenlCTi1VeExhZVRFS1pqa3JaS28yX2lET1Y4Um1FcVZXWmRINXNmY2xRRnZNTVlSbHFsZ3U2Y3VrQjlWOVFQTlZyQ3cwSQ?oc=5",
+        "publishedAt": "Tue, 20 Oct 2026 23:46:00 GMT",
+        "summary": "Nvidia Is In Talks To Invest Hundreds Of Millions Of Dollars In Australian AI Cloud Provider Firmus- The Information &nbsp;&nbsp; TradingView",
+        "outlet": "TradingView",
+        "outletUrl": "https://www.tradingview.com",
+        "source": "AI 서비스·클라우드",
+        "sourceIds": [
+          "ai-agents-cloud"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 23
+      },
+      {
         "title": "금 대량 보유 투자자, 엔비디아 도전 AI 반도체 기업에 자금 지원 - 토큰포스트",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TMFRuWU1ObzFNQkhNSkg4ZmI3dVRzYVNlT21kcmJzekhtQ2lzdWhIVkIyN0h5WC14R3hJdmdnellYckU4MDRyQzR3aHpzSkps0gFWQVVfeXFMTnVnY3Z5WWpuMk1mTE81SS1oOVpIOElxUWhheGlhZldwMmsxREotLXo1bkFVanVBaXNWZnVLTWF2cHdGQnBFT0preEVBWUtMNE52RDEtRUE?oc=5",
         "publishedAt": "Tue, 20 Oct 2026 22:16:36 GMT",
@@ -2630,6 +2646,29 @@
         "score": 23
       },
       {
+        "title": "Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs - MarkTechPost",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTdKUlBmemlXaE9EeGprRkMweDhBNzhoSUwtNVItd1NJcUxvYll6cnlkOE5GZHFybjhJc1RNLVFPSVM0Y1pPc29MY0pIMTZQTkJ6bE1YRTU4SGxDcDc2UlhRcklxQnkzenJkMWNxS0xKVkdiQWxUVXlEOHRsM0QybEgydFk4THJ3dGxBMWJfejnSAZABQVVfeXFMTjE3SlJQZnppV2hPRHhqa0ZDMHg4QTc4aElMLTVSLXdTSXFMb2JZenJ5ZDhORmRxcm44SXNUTS1RT0lTNGNaT3NvTGNKSDE2UE5CemxNWEU1OEhsQ3A3NlJYUXJJcUJ5M3pyZDFjcUtMSlZHYkFsVFV5RDh0bDNEMmxIMnRZOExyd3RsQTFiX3o5?oc=5",
+        "publishedAt": "Tue, 20 Oct 2026 15:22:03 GMT",
+        "summary": "Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs &nbsp;&nbsp; MarkTechPost",
+        "outlet": "MarkTechPost",
+        "outletUrl": "https://www.marktechpost.com",
+        "source": "가속기 운영 SW",
+        "sourceIds": [
+          "accelerator-software"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 23
+      },
+      {
         "title": "Alphabet's Cloud Growth, TPU Sales Could Drive Q3 Upside, BofA Says - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnRyRUxJNGdLdHZJNlpJZzRsNlE3TkQwUGdIaV9UTVJId0o0NFJvMFI5R1lRTGEwLTNpQ0YyUTBiQUtzM1FUdm9RVnFYUTE1UUQtYkl1Qm5pY1RHcnNzYkhLMXdiVDZ5a3c2bjh3elhGTm5qWUNtRnZJTGNMby1uWHotQVdzeG1EenoxWWNsY1k0LWJ4TzIwVjBR?oc=5",
         "publishedAt": "Tue, 20 Oct 2026 15:10:07 GMT",
@@ -2913,9 +2952,8 @@
         "summary": "[AI는 어떻게 돈이 되나] ① 구글, 광고 넘어 클라우드·제미나이까지 &nbsp;&nbsp; 오피니언뉴스",
         "outlet": "오피니언뉴스",
         "outletUrl": "https://www.opinionnews.co.kr",
-        "source": "해외 빅테크 국내 보도",
+        "source": "국내 AI 시장",
         "sourceIds": [
-          "korea-global-ai-companies",
           "korea-ai-market"
         ],
         "sourceLang": "ko",
@@ -3113,30 +3151,6 @@
         "score": 22
       },
       {
-        "title": "엔비디아 독점 막는다…아마존·구글, 코드 수정 없이 칩 갈아탄다 - SBS Biz",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OdkZ6bHBVaDdVanFVaEZIRTYyR3VMNE5Rdi1mOGxlRmtWWTY1M2RFdGtKMGo2VVRxTW1fVkYzX0x5NEdGREZtN25zTUdQMHVkbHpYcGhmU2PSAVhBVV95cUxOTnZGemxwVWg3VWpxVWhGSEU2Mkd1TDROUXYtZjhsZUZrVlk2NTNkRXRrSjBqNlVUcU1tX1ZGM19MeTRHRkRGbTduc01HUDB1ZGx6WHBoZlNj?oc=5",
-        "publishedAt": "Tue, 20 Oct 2026 19:44:00 GMT",
-        "summary": "엔비디아 독점 막는다…아마존·구글, 코드 수정 없이 칩 갈아탄다 &nbsp;&nbsp; SBS Biz",
-        "outlet": "SBS Biz",
-        "outletUrl": "https://biz.sbs.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 22
-      },
-      {
         "title": "HBM 공급사 셋인데 생산 공정은 하나?…엔비디아의 'TSMC 쏠림' 우려 - 월요신문",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEZlJ0VENieUh0MU8wWUxha0pHd25NMVJERGc0dWw1bGw1Qll3Z2xfQy1tMU9tM0c1Z0puV0YwRWJ5TXdDMUFUcGpFbi11TDNaRmVDM0tjVzRLUlh4SkJsTFhpQTA2T3pDcEE?oc=5",
         "publishedAt": "Tue, 20 Oct 2026 17:19:56 GMT",
@@ -3170,7 +3184,8 @@
         "source": "AI 시장 전체",
         "sourceIds": [
           "ai-market-global",
-          "ai-market-business"
+          "ai-market-business",
+          "ai-agents-cloud"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -3258,7 +3273,8 @@
         "outletUrl": "https://techfundingnews.com",
         "source": "AI 시장·비즈니스",
         "sourceIds": [
-          "ai-market-business"
+          "ai-market-business",
+          "ai-agents-cloud"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -3440,7 +3456,8 @@
         "outletUrl": "https://businessupturn.com",
         "source": "해외 AI반도체",
         "sourceIds": [
-          "global-ai-chip"
+          "global-ai-chip",
+          "accelerator-strategic-deals-global"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -3815,7 +3832,6 @@
         "source": "국내 NPU 기업",
         "sourceIds": [
           "korea-npu",
-          "rebellions",
           "npu-commercialization"
         ],
         "sourceLang": "ko",
@@ -4162,30 +4178,6 @@
           "수출통제·공급망"
         ],
         "issueCategory": "NPU",
-        "score": 21
-      },
-      {
-        "title": "Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDFNWFI4R2wzZ2VnVUVGc0ZYVkxMRlM3MkdLeWhzUkZCdWZvWDY0Z3VuSkt3cTExb190N3J3SXhidFVxa095cEtJbkNnaU5JX0J5YU84eEZxcWRGalVJczE5LXp3WmtUVFJvRTdVclhCby1PMUpSbGlpYV9RRHdqald1aGVwVkpnZkw4NzRxZjJzeHBrbmpKR0Fn?oc=5",
-        "publishedAt": "Sun, 18 Oct 2026 05:15:00 GMT",
-        "summary": "Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure? &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "해외 정책·투자",
-        "sourceIds": [
-          "global-policy",
-          "accelerator-strategic-deals-global"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "온디바이스AI"
-        ],
-        "issueCategory": "AI시장",
         "score": 21
       }
     ],
@@ -5717,11 +5709,11 @@
         "symbol": "005930.KS",
         "name": "삼성전자",
         "market": "KR",
-        "price": 222500,
+        "price": 222000,
         "currency": "KRW",
-        "changePct": -18.795620437956202,
+        "changePct": -18.97810218978102,
         "previousClose": 274000,
-        "marketTime": "2026-10-21T04:39:02.000Z",
+        "marketTime": "2026-10-21T04:48:35.000Z",
         "closes": [
           274000,
           276500,
@@ -5741,7 +5733,7 @@
           215500,
           218000,
           211500,
-          222500
+          222000
         ],
         "candles": [
           {
@@ -5875,7 +5867,7 @@
             "open": 217000,
             "high": 228000,
             "low": 217000,
-            "close": 222500
+            "close": 222000
           }
         ]
       },
@@ -5883,11 +5875,11 @@
         "symbol": "000660.KS",
         "name": "SK하이닉스",
         "market": "KR",
-        "price": 1273000,
+        "price": 1274000,
         "currency": "KRW",
-        "changePct": -31.852248394004285,
+        "changePct": -31.798715203426127,
         "previousClose": 1868000,
-        "marketTime": "2026-10-21T04:39:02.000Z",
+        "marketTime": "2026-10-21T04:48:35.000Z",
         "closes": [
           1868000,
           1840000,
@@ -5907,7 +5899,7 @@
           1272000,
           1277000,
           1223000,
-          1273000
+          1274000
         ],
         "candles": [
           {
@@ -6041,7 +6033,7 @@
             "open": 1260000,
             "high": 1329000,
             "low": 1254000,
-            "close": 1273000
+            "close": 1274000
           }
         ]
       }
@@ -6617,11 +6609,11 @@
       {
         "symbol": "^KS11",
         "name": "KOSPI",
-        "price": 5709.06,
+        "price": 5701.1,
         "currency": "KRW",
-        "changePct": -18.531847733642323,
+        "changePct": -18.645436746901986,
         "previousClose": 7007.72,
-        "marketTime": "2026-10-21T04:39:00.000Z",
+        "marketTime": "2026-10-21T04:48:30.000Z",
         "closes": [
           7007.72021484375,
           7017.91015625,
@@ -6641,7 +6633,7 @@
           5668.0498046875,
           5768.009765625,
           5552.740234375,
-          5709.06005859375
+          5701.10009765625
         ],
         "candles": [
           {
@@ -6775,18 +6767,18 @@
             "open": 5666.33984375,
             "high": 5816.43017578125,
             "low": 5630.14013671875,
-            "close": 5709.06005859375
+            "close": 5701.10009765625
           }
         ]
       },
       {
         "symbol": "^KQ11",
         "name": "KOSDAQ",
-        "price": 792.9,
+        "price": 792.01,
         "currency": "KRW",
-        "changePct": -5.186124098676266,
+        "changePct": -5.292549057122699,
         "previousClose": 836.27,
-        "marketTime": "2026-10-21T04:39:00.000Z",
+        "marketTime": "2026-10-21T04:48:30.000Z",
         "closes": [
           836.27001953125,
           834.3800048828125,
@@ -6806,7 +6798,7 @@
           794.780029296875,
           808.8900146484375,
           781.969970703125,
-          792.9000244140625
+          792.010009765625
         ],
         "candles": [
           {
@@ -6940,18 +6932,18 @@
             "open": 793.4000244140625,
             "high": 803.6799926757812,
             "low": 785.530029296875,
-            "close": 792.9000244140625
+            "close": 792.010009765625
           }
         ]
       }
     ],
-    "generatedAt": "2026-10-21T04:59:03.454Z"
+    "generatedAt": "2026-10-21T05:08:36.373Z"
   },
   "briefing": {
     "date": "2026년 10월 21일 수요일",
     "summary": [
       "오늘의 최상위 이슈: Samsung, TSMC Join Forces to Expand Custom HBM Output for Nvidia - Seoul Economic Daily",
-      "강한 기술·시장 신호: NPU 13, AI인프라 44, 데이터센터 15, 온디바이스AI 2, 추론 7",
+      "강한 기술·시장 신호: NPU 13, AI인프라 44, 데이터센터 15, 온디바이스AI 1, 추론 7",
       "주요 기업 신호: 퓨리오사AI 11, 리벨리온 3, 모빌린트 2, 하이퍼엑셀 1, 딥엑스 1"
     ],
     "leadArticles": [
@@ -6981,32 +6973,6 @@
         ],
         "issueCategory": "AI시장",
         "score": 36
-      },
-      {
-        "title": "ETF Combines NVIDIA, Google with Treasuries to Cushion AI Investment Risks - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZk93Tk5remdraEdhSmE0TkVpcUtndUdmMHhDTENRdUlTdDVPdVNCNnhEUGI1YVdBREsxRWt6bVlJWmlpRmJpbmx3bU5WdzdUejVkU19td3FVakczbUw4MmlLV3luSDhPcVBwWW40LVZkRE9FdHNWMG5hWEVxa3FXTHhvOU92Ymtyd0xmZWpR?oc=5",
-        "publishedAt": "Tue, 20 Oct 2026 23:16:51 GMT",
-        "summary": "ETF Combines NVIDIA, Google with Treasuries to Cushion AI Investment Risks &nbsp;&nbsp; 조선일보",
-        "outlet": "조선일보",
-        "outletUrl": "https://www.chosun.com",
-        "source": "AI 시장 전체",
-        "sourceIds": [
-          "ai-market-global"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "NVIDIA",
-          "Google",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 33
       },
       {
         "title": "Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute - SiliconANGLE",
@@ -7084,31 +7050,6 @@
         ],
         "issueCategory": "AI시장",
         "score": 30
-      },
-      {
-        "title": "Cognizant, Google Cloud expand partnership to drive agentic AI adoption - ET CIO",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRVZMNHhtUEtvd2ItSlhERHZyY3hsd2xrQWduNDdmbFQ1UU1DY2xRVXV5aVFzNWRPSlFvYTBKd2hsb0Ezd25jZnhFRWJESnFmb2MyMU82eGlKdTl2NlJvZGtwaDlienZhTVZlWHYtZEl5cTI2dVZWR1lUMXhnaXVvcWFZUzFsSl83N1RrdW1LNXNENnF1akE2eXd5dzZ3UGR5Q1NkLXRlcjdTUjY4cG5PY05pek1FeHpqQXRTYzQ3VHZwd2R2MGNrN2ZyWW16d2VVa1lIUWxCcEQ0TEdjckd3amFYME10a0IzYlHSAeoBQVVfeXFMT0VWTDR4bVBLb3diLUpYRER2cmN4bHdsa0FnbjQ3ZmxUNVFNQ2NsUVV1eWlRczVkT0pRb2EwSndobG9BM3duY2Z4RUViREpxZm9jMjFPNnhpSnU5djZSb2RrcGg5Ynp2YU1WZVh2LWRJeXEyNnVWVkdZVDF4Z2l1b3FhWVMxbEpfNzdUa3VtSzVzRDZxdWpBNnl3eXc2d1BkeUNTZC10ZXI3U1I2OHBuT2NOaXpNRXh6akF0U2M0N1R2cHdkdjBjazdmclltendlVWtZSFFsQnBENExHY3JHd2phWDBNdGtCM2JR?oc=5",
-        "publishedAt": "Wed, 21 Oct 2026 02:34:02 GMT",
-        "summary": "Cognizant, Google Cloud expand partnership to drive agentic AI adoption &nbsp;&nbsp; ET CIO",
-        "outlet": "ET CIO",
-        "outletUrl": "https://cio.economictimes.indiatimes.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "AI에이전트",
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI시장",
-        "score": 29
       },
       {
         "title": "[현장리포트] 피지컬 AI 테크위크, 리벨리온·퓨리오사AI NPU 선보여… 제조·물류 현장 적용에 초점 - 인베스트 | invest",
@@ -7219,6 +7160,57 @@
         ],
         "issueCategory": "NPU",
         "score": 28
+      },
+      {
+        "title": "국산 NPU·LLM·클라우드를 한 상자에, 퓨리오사AI·업스테이지 등 5개사 ‘AI 인프라 일체형 상품' 공동 개발 - 플래텀(Platum)",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pQXBTREF0TlU2S3pCdzBjWk54dndKUVd1NnpYVFQzQlp2SDJmSUxVQmYxY2l3azRkYXNnVVFsMmFtMmJhZmtFaQ?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 06:30:34 GMT",
+        "summary": "국산 NPU·LLM·클라우드를 한 상자에, 퓨리오사AI·업스테이지 등 5개사 ‘AI 인프라 일체형 상품' 공동 개발 &nbsp;&nbsp; 플래텀(Platum)",
+        "outlet": "플래텀(Platum)",
+        "outletUrl": "https://platum.kr",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "furiosa",
+          "npu-commercialization"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "퓨리오사AI"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "NPU",
+          "K-엔비디아",
+          "퓨리오사AI"
+        ],
+        "issueCategory": "NPU",
+        "score": 28
+      },
+      {
+        "title": "Google takes on NVIDIA with new AI developer tool - NewsBytes",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOblZNdWhuV2syQ3FmWGRrU0ZockJ3TGo4OHlhN3g5RFVPOGEyUk9NQmQ2ZUpIVzBHcnQ1dDdPMUVWV0RxWEFyN1l1YzRMeElHWVZocm1wTVJsYjhxaFV4WC1EYi1fbTBDeWkxNWxsWHg2X2U2UnhncXBxcEdtYVg5R1Rkc3ZqSzJmWTBRSTIzalVaaVUwX0U2R0hjUVRqUQ?oc=5",
+        "publishedAt": "Wed, 21 Oct 2026 04:28:59 GMT",
+        "summary": "Google takes on NVIDIA with new AI developer tool &nbsp;&nbsp; NewsBytes",
+        "outlet": "NewsBytes",
+        "outletUrl": "https://www.newsbytesapp.com",
+        "source": "가속기 운영 SW",
+        "sourceIds": [
+          "accelerator-software"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 27
       }
     ],
     "signals": {
@@ -7237,7 +7229,7 @@
         ],
         [
           "온디바이스AI",
-          2
+          1
         ],
         [
           "추론",
@@ -7245,7 +7237,7 @@
         ],
         [
           "AI에이전트",
-          16
+          15
         ],
         [
           "파운드리·패키징",
@@ -7279,7 +7271,7 @@
         ],
         [
           "Google",
-          43
+          42
         ],
         [
           "TSMC",
@@ -7291,7 +7283,7 @@
         ],
         [
           "AMD",
-          3
+          2
         ]
       ]
     },
@@ -7382,7 +7374,7 @@
       "metrics": [
         [
           "AI시장",
-          78
+          75
         ],
         [
           "NPU",

@@ -1,7 +1,753 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-10-21T04:59:05.638Z",
+  "updatedAt": "2026-10-21T05:08:38.623Z",
   "articles": [
+    {
+      "title": "Nvidia-Backed Firmus Said to Close Books as IPO Struggles - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGxrUDVTc2JTVERpVDhpZ0tCekJVZmRMWjkyRHZWWVpGRWlvbVZxZmZGTUgyZDlxV2MzVUFGSmhjeVc2Qkc4cTlNWnNZaGp3MllmR0FwcjVOV0FLZGRNSVUxZm1VQlFSWE00X1czdkVtaGlWMnFUUC0xM0VVd0ZIWTdrY2xtbUhGY19DTmEwY0VRX2lQQjJ4eUs1SHJwVm5ILTVjVHpYNFAxWVBINzJGOEVQMA?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:43:00 GMT",
+      "summary": "Nvidia-Backed Firmus Said to Close Books as IPO Struggles &nbsp;&nbsp; Bloomberg.com",
+      "outlet": "Bloomberg.com",
+      "outletUrl": "https://www.bloomberg.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 18,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T16:56:41.528Z"
+    },
+    {
+      "title": "Microsoft unveils new AI tech in race against Apple - Northwest Arkansas Democrat-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1dYM3ltWmF6U3gyX2ZVTkRhMkZNLV9kS2h5dTFaeWRMV1lwSDB0VW4tb3VQYUE2ZnR1b0g0d2hTVmFSUGpqSzNLOEFLdnBpZUp4MEhFV3ZfTVNVSVVjZW5jNE13aENyRk42eGJkalJNNlE1a1FPWE9VX3BYY3RVZGZBOWQ1bThHaEx0ellPRFM3QWs?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:43:00 GMT",
+      "summary": "Microsoft unveils new AI tech in race against Apple &nbsp;&nbsp; Northwest Arkansas Democrat-Gazette",
+      "outlet": "Northwest Arkansas Democrat-Gazette",
+      "outletUrl": "https://www.nwaonline.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T22:27:18.434Z"
+    },
+    {
+      "title": "\"GPU와 경쟁 아닌 공존\"…딥엑스, '피지컬 AI' K-NPU로 글로벌 정조준 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JdE9TSHJvdjhvSEhKQUI4MjNOaVVhVzUzTjNnMEVRS0xFYUxXa0pHbXZJRUFzSThMTlFVaUFoMkNiQ0VwSkV4dzd5Rm14Ui1yNHJHa193?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:41:56 GMT",
+      "summary": "\"GPU와 경쟁 아닌 공존\"…딥엑스, '피지컬 AI' K-NPU로 글로벌 정조준 &nbsp;&nbsp; 지디넷코리아",
+      "outlet": "지디넷코리아",
+      "outletUrl": "https://zdnet.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "deepx"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 23,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "버티브, 2.3MW 냉각수 분배 장치, '엔비디아 DSX 레디' 요건 충족 - 냉동공조저널",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SejRzNnRuRldmRkoxa2pPcmJ0N05zblgyWDlJVHRMc1VtMFpfSW5YV2lvU2NnbW9jZHZoTWp0S0paSlptSWN2U216SkxZa1luNXZZZjhWVlBaS2RCQ2NkRExFX2t5X3JSWHc?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:41:17 GMT",
+      "summary": "버티브, 2.3MW 냉각수 분배 장치, '엔비디아 DSX 레디' 요건 충족 &nbsp;&nbsp; 냉동공조저널",
+      "outlet": "냉동공조저널",
+      "outletUrl": "https://www.hvacrj.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 18,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T22:27:18.434Z"
+    },
+    {
+      "title": "세종에 AI 데이터센터 구축 추진…세종연구원, 금융·인공지능 협력 본격화 - 현대경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYWUFOM2wzejJkRkNKTjFleF9RNFIyTDdSS1lIWUN1Y3Z6QjBzRlhPOGlBMTA3czVBTkg1cm5tRXpUSmU1cXRiVFpqS2hJaWs5RExHa2hzZ3EzVXdtdEJITTFQQTlDUG1TdVRJ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:41:02 GMT",
+      "summary": "세종에 AI 데이터센터 구축 추진…세종연구원, 금융·인공지능 협력 본격화 &nbsp;&nbsp; 현대경제",
+      "outlet": "현대경제",
+      "outletUrl": "https://www.hdnews.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T22:27:18.434Z"
+    },
+    {
+      "title": "전남광주, 중흥그룹 100억 통 큰 기부… 반도체 메가프로젝트·인재 육성 '본격화' - 피디언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hUEl0S01MOXBQb0prbndoMzY5WUNVdTUwVWlERngzZk4tSy1tdUphVnpVc2VIejRXc04wQ3ZoN3g3NUhvaUlRUy1uNFFkaXJ5WnV4c1VMaGJzQlpU?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:38:59 GMT",
+      "summary": "전남광주, 중흥그룹 100억 통 큰 기부… 반도체 메가프로젝트·인재 육성 '본격화' &nbsp;&nbsp; 피디언뉴스",
+      "outlet": "피디언뉴스",
+      "outletUrl": "https://www.pedien.com",
+      "source": "지역 AI·반도체 산업금융",
+      "sourceIds": [
+        "regional-industry-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 6,
+      "firstSeenAt": "2026-10-10T10:33:34.677Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "삼성전자 주가 '엔비디아 대비 저평가' 장기간 지속 전망, 돈 버는 만큼 나갈 곳 많다 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15MVI0VFM2WU4tNDhPaHV5V2pYSkl1TEpDbkM1LVFQTk9tRlpYN2RzUmliOWMxY29QTU1jaUpEQ0xDbm51U0hISnQyQm1nS3lxT3hSRFJibGNqMjJCUEpDX1Z2SVB0MGFSREVNRVYzd3ZTMzA?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:38:52 GMT",
+      "summary": "삼성전자 주가 '엔비디아 대비 저평가' 장기간 지속 전망, 돈 버는 만큼 나갈 곳 많다 &nbsp;&nbsp; 비즈니스포스트",
+      "outlet": "비즈니스포스트",
+      "outletUrl": "https://www.businesspost.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-10-08T16:56:41.528Z",
+      "lastSeenAt": "2026-10-08T19:15:39.537Z"
+    },
+    {
+      "title": "TSMC Hits Record Q3 Revenue, Surpassing Market Forecast on AI Demand - Global Banking & Finance Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORFZqZ1QzUVU5Uk82Nld6c2VBN2hEbFl6aWpPT1RvNUkyZlhjUk9vQkZ3YVhMM1VZYUdveGt2Smt5c3VqdkFjdnR2c092ak8wczBMSHp3V3M5N3JUdXAtb2lWV3NrUGg3b3NOdXpfdUpwd1o4V3A3UDlJVlNfVjNFT25RdjRKRGJxcHdZVUdoazEzM09LYk5Gd1pieWwxQQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:38:51 GMT",
+      "summary": "TSMC Hits Record Q3 Revenue, Surpassing Market Forecast on AI Demand &nbsp;&nbsp; Global Banking & Finance Review",
+      "outlet": "Global Banking & Finance Review",
+      "outletUrl": "https://www.globalbankingandfinance.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "TSMC"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "파운드리·패키징"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
+    {
+      "title": "AI Yield: A new framework for Enterprise AI economics and value creation - Capgemini",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1UyQ183VG1uOS1ObktPakRBUVdvU0FtdnUwSjYyS016ZFdZYXVNVFEtd0xHMTg1YTNrd183NWVUenlNZGtfaDBzbUcyYVhuOHVmRTBzX05idlU5U2M4Y1BHcjdPcF9SODJlUUo5OE13MXpDUWxKNkVNcldrTkZxOUZLTUdPaWdDejR2dTctRkxMYkhFOFpVeFBOYmtWM2Yw?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:38:30 GMT",
+      "summary": "AI Yield: A new framework for Enterprise AI economics and value creation &nbsp;&nbsp; Capgemini",
+      "outlet": "Capgemini",
+      "outletUrl": "https://www.capgemini.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
+    {
+      "title": "AMD 광주 거점 제안…‘글로벌 AI 기업 유치’ 지역경제 판 바꿀까 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YbU9HMGxvblJHVjZJemFldl9mZFdOZGd0UHp5Y0VULVZpNVhpeVR4ZjMyQjdmMWxveEdwM0RuR3FwR3FKSDc3cUVIRGtWbVl3WGxtU2hyNGU0dw?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:37:00 GMT",
+      "summary": "AMD 광주 거점 제안…‘글로벌 AI 기업 유치’ 지역경제 판 바꿀까 &nbsp;&nbsp; 브릿지경제",
+      "outlet": "브릿지경제",
+      "outletUrl": "https://www.viva100.com",
+      "source": "지자체 NPU 정책·사업",
+      "sourceIds": [
+        "local-government-npu",
+        "ai-chip-public-program",
+        "npu-commercialization"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 17,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "Samsung Q3 2026 Profit May Surge to $80.17 billion as AI Memory Demand Reshapes Chip Market - TelecomLead",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYklzZ2pzVXdTYVZFZlhGRTJxR0lhaE90bVdLVlBvT0owMzk3bTFtZnVBQ0w3Ylo1MWR1dk53Snp5a2pITFFFS2NjMFlQOVZabmQ4TDJLSVRkWUlVU0JQTmdrZUk2RWJINHFubktNY09jN3hEbnlsZkYza3NEYVBqc1Q3UGY4UDFESXc0ME1YYTNqakMwLXlTUHhQQnRLZUFTc0M1M3VaS2gxZGg2Y0RlUHQtUDJxdXFtMWJWeTFhZGtlNFJfdktVaG12cE9XVmpx0gHYAUFVX3lxTE9BY25wNEJTXzZ0ZWhOdW9mNVBuLVBzREEtMVEtRDdJUEZEakdiXzVwdUlwNV9rcFZZSFFMTzZpUXJFZDdXVVhuY1FWSnBwT3ZVMThnRElXZVVQZVpmYTB6TXhPMDhidXRoekQwNk5qN3R3ZlQ2el9ueFFCV0dOTUp3bkN3MmpQN1Q2cW12QU1OQlJVRXB5enFiM2h4clJDRHV0c3BuSjdhSU5aMXk5R2stQjNna2UyX3ktc2lLZkM4ckJaSFh3dTRUQU9oTndlemg3bVVvQ3VrTQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:36:04 GMT",
+      "summary": "Samsung Q3 2026 Profit May Surge to $80.17 billion as AI Memory Demand Reshapes Chip Market &nbsp;&nbsp; TelecomLead",
+      "outlet": "TelecomLead",
+      "outletUrl": "https://telecomlead.com",
+      "source": "메모리·패키징·인터커넥트",
+      "sourceIds": [
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Samsung"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-10-10T07:44:52.668Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "AI audit that delivered roadmap to scalable AI adoption - ITWeb",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0txWkxpSnIzN3BQOUpneGoyeXpQRFQ3LUpVZDczYS01OGU1dmdJSkhKR2RLT2FETE90VXpybkgxRFhrV0pKR09FS3VkUW9YVGlfZHVZWHFscmR3cG5Gd3VydUNuSk51anpvUkZmTEJjcTFhbGRWZFViWFE5SGRlcWJ1YUhiYV9qdzZ6MnNQcVhkTTJUVWVmRUxKM1JzY3pBNWx4NWtNbw?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:34:00 GMT",
+      "summary": "AI audit that delivered roadmap to scalable AI adoption &nbsp;&nbsp; ITWeb",
+      "outlet": "ITWeb",
+      "outletUrl": "https://www.itweb.co.za",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
+    {
+      "title": "DB월드-한국투자리얼에셋운용, AI DC 및 부동산·인프라 사업 협력 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1idDZES3ZoVmVQLU1VLWppdWM4aEd4czU2VkRia3lib1FzdkhKSlBmRGl3UlU2VDVPVnd3dF9FT0ltQTVSVTVWTVdhNUR1aWxrVjVrc0s1WnFWTDdhZ0hxNEEtRUk?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:33:56 GMT",
+      "summary": "DB월드-한국투자리얼에셋운용, AI DC 및 부동산·인프라 사업 협력 &nbsp;&nbsp; 뉴스1",
+      "outlet": "뉴스1",
+      "outletUrl": "https://www.news1.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T16:56:41.528Z"
+    },
+    {
+      "title": "MS, 엔비디아 ‘RTX 스파크’ 탑재 노트북 공개…가격은 최대 6000달러 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oR2hIRmpsbHo5bm9TMWE0M0FMM1RUMU80eXBNWWFqSHRRcnlXS3phZ1Y0S0ZSeHNnMzRXRFVmNWNNekJQMlo0dzR2TGRkRHU5aUN2Rzc5R2RucGFNZ1hvRFROSHJqU1F4Tnp2eWc3R3ZDUGxuTGo00gF3QVVfeXFMTmhHaEhGamxsejlub1MxYTQzQUwzVFQxTzR5cE1ZYWpIdFFyeVdLemFnVjRLRlJ4c2czNFdEVWY1Y016QlAyWjR3NHZMZGREdTlpQ3ZHNzlHZG5wYU1nWG9EVE5IcmpTUXhOenZ5ZzdHdkNQbG5MajQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:33:40 GMT",
+      "summary": "MS, 엔비디아 ‘RTX 스파크’ 탑재 노트북 공개…가격은 최대 6000달러 &nbsp;&nbsp; 핀포인트뉴스",
+      "outlet": "핀포인트뉴스",
+      "outletUrl": "https://www.pinpointnews.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
+    {
+      "title": "AI startup Manus raises $500 million in first funding round since Meta breakup - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uQ0VSTzk3TG13RFFpcl80ZVVteDlyU1pNdng1Q0JHeEtCNUc4cExjX002RjEtMHFSd1pCQm1OTFVYdVpFU2FuNnQxZWhzeHNkcGdKWkFkYnI1bHhHeHhZeW5vVlJVbF9YSlByQ0FkVHdsaHpQbGJMQzJMb9IBgAFBVV95cUxQbmtSbk8ydXpmVXR6ZHQwa0podkxfVHJqR0MyakhvT3Z6dXVPWUdraFRnS0FGcDFmQnp5bWM3RFdjUGRzQ0MwNl9pLUR1aFRJUHpBdHk3RHc3UTJ4SHRjMEthdWlNTDFJTEpxeFA4R1dZRUhTZ0k3STR3bzZ4XzExdQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:32:57 GMT",
+      "summary": "AI startup Manus raises $500 million in first funding round since Meta breakup &nbsp;&nbsp; CNBC",
+      "outlet": "CNBC",
+      "outletUrl": "https://www.cnbc.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "세종시, 7조 원 규모 AI 데이터센터 투자 협약 - 뉴데일리 충청세종",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpZ1RfeWdDcHFHVWprWWJzODNxZmZqak1JZTVFMUVXcGNBbGRZMmVvZEtrTWdCcGlKQWtmd19GSTVEZFNTVVFfM0g0d2hLTXRkR2pneGNhSEs3RGVzTDZydEQ4enFmb3ZLeUxHOXQ1bVR6TzQxQUFVakx4Qm93RmfSAX9BVV95cUxQaWdUX3lnQ3BxR1Vqa1liczgzcWZmampNSWU1RTFFV3BjQWxkWTJlb2RLa01nQnBpSkFrZndfRkk1RGRTU1VRXzNINHdoS010ZEdqZ3hjYUhLN0Rlc0w2cnREOHpxZm92S3lMRzl0NW1Uek80MUFBVWpMeEJvd0Zn?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:31:53 GMT",
+      "summary": "세종시, 7조 원 규모 AI 데이터센터 투자 협약 &nbsp;&nbsp; 뉴데일리 충청세종",
+      "outlet": "뉴데일리 충청세종",
+      "outletUrl": "https://cc.newdaily.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-11T05:58:05.355Z"
+    },
+    {
+      "title": "HD건설기계, 북미 데이터센터 전력 공급 사업 참여한다 - 사회적경제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5zb21kLUFaX2x6WGZlVnVENExVR0hwalprNkNVQzFMM2VkYUJnZEhtUjk5dGhCamQtbEhmM0Q5OA?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:31:00 GMT",
+      "summary": "HD건설기계, 북미 데이터센터 전력 공급 사업 참여한다 &nbsp;&nbsp; 사회적경제뉴스",
+      "outlet": "사회적경제뉴스",
+      "outletUrl": "http://www.senews.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-08T16:56:41.528Z",
+      "lastSeenAt": "2026-10-08T22:27:18.434Z"
+    },
+    {
+      "title": "DB월드, 한국투자리얼에셋운용과 데이터센터 사업 협력 MOU - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fZFZRdTkxVW9GdDBoQ21ySllydXdjcFR3N19naDMwdW13NTItQXFyb0pVYmhmOTZ0dU54OXU4ZFJXaU9pOGpFUm9ueGwyM3lDMko2VXYyZ1dBNHZhb29qNjRRSmd6dnQ3T3cyQ0VBU1Q4aDBERXB3WdIBeEFVX3lxTE1fZFZRdTkxVW9GdDBoQ21ySllydXdjcFR3N19naDMwdW13NTItQXFyb0pVYmhmOTZ0dU54OXU4ZFJXaU9pOGpFUm9ueGwyM3lDMko2VXYyZ1dBNHZhb29qNjRRSmd6dnQ3T3cyQ0VBU1Q4aDBERXB3WQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:30:56 GMT",
+      "summary": "DB월드, 한국투자리얼에셋운용과 데이터센터 사업 협력 MOU &nbsp;&nbsp; 뉴시스",
+      "outlet": "뉴시스",
+      "outletUrl": "https://mobile.newsis.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 14,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "대림 토토 도움말의 그림과 숫자 읽기 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13M0lmZkJaZ2k5anV0ZGlCUWtUNl9pTl9CWjltV05OdHkzSHFwTGpnZ2xnNVFSNGtQTVgxX2J2SjczdnF3Zl9zYUJfZXh6SVZvLVh4bTlVdHNLTTFFNEhJUHhTelJBWDdjdU5VVDUzc0pGblQyQTdqNW5ReXU?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:30:44 GMT",
+      "summary": "대림 토토 도움말의 그림과 숫자 읽기 &nbsp;&nbsp; Calgary Roughnecks",
+      "outlet": "Calgary Roughnecks",
+      "outletUrl": "https://calgaryroughnecks.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-09T02:04:00.554Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "에이전틱AI 발전으로 CPU 수요 기대감…수혜 ETF는[주末머니] - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OTlRjYU52OEtpN2phQ1l6MWRnWGZESEZ0QTlhNWpFQmNjSTR3OHNrczFzamIxOE9uaUIwSTZfdDJ4M09ZX3Fxa0ozSi1WS19QSm5XUFd0X2xPVWI2TlVkaVNR?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:30:00 GMT",
+      "summary": "에이전틱AI 발전으로 CPU 수요 기대감…수혜 ETF는[주末머니] &nbsp;&nbsp; 아시아경제",
+      "outlet": "아시아경제",
+      "outletUrl": "https://core.asiae.co.kr",
+      "source": "AI반도체 정책금융·집행",
+      "sourceIds": [
+        "ai-chip-policy-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-11T05:58:05.355Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "Cohere and PwC partner to accelerate secure enterprise AI adoption - WebWire",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEaUJKWGtCZy1nVFpUYjQ2VnpaVndTSXdWYnl1aHpWOS1tR1p2YTQ1YVg5NFhzenNtNVVRdVQ1T2l5ZHgzbFZyTXVMNnBzRXFOcjhyZ2x5Nm92bXliWUNFeg?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:29:52 GMT",
+      "summary": "Cohere and PwC partner to accelerate secure enterprise AI adoption &nbsp;&nbsp; WebWire",
+      "outlet": "WebWire",
+      "outletUrl": "https://www.webwire.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global",
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "진행 방식이 다른 슬롯과 비교하는 부경 경마 공원 역 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM05DUk9TREY0T29pQnFPU3pVYVpJSEM3ZDhVeExDVjRtVjlzTWxybUtLN2tfOXg1NVFQaWM4aWctTlBnYy1HQ3F3N2poS3NDV1FHX1FLckdHQmp6MDRFdVFJTC1kTEVpbl9xVHdkUHhIN0FTOElmYUhYbjFjdGVlYUNpdW4?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:29:25 GMT",
+      "summary": "진행 방식이 다른 슬롯과 비교하는 부경 경마 공원 역 &nbsp;&nbsp; Calgary Roughnecks",
+      "outlet": "Calgary Roughnecks",
+      "outletUrl": "https://calgaryroughnecks.com",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 6,
+      "firstSeenAt": "2026-10-10T17:48:08.857Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "The next phase of enterprise AI - Intelligent CIO",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUlqS2V1QVZyLXJOSmxGSWV0X0ZRRl9TMWMwd0VZUjF5dkVDVUxXNUdTY0s3QmtzYUlJdjRoY1UyRDRaUTJWeUxIMldoeDVzYVVQbHZQMy1CbmhjZzJUR2VCaEJiaUdSM1hLQXpOZXF5MEh2RUNRWWtlOWxUM1RlNTFLUQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:29:08 GMT",
+      "summary": "The next phase of enterprise AI &nbsp;&nbsp; Intelligent CIO",
+      "outlet": "Intelligent CIO",
+      "outletUrl": "https://www.intelligentcio.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-09T06:18:21.828Z"
+    },
+    {
+      "title": "DB월드, 한국투자리얼에셋운용과 데이터센터 사업 협력 위한 MOU 체결 - www.dhns.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kdUFnVDN1Rmg0b1hlYUxrLWFORnFQV1V1R3h4Q0JPSU5WZEZ1NC1LSHUwQUhtN1VLQkY2cnZyMC1JX3hyUWRHMzI2bmFjQXlXTGRkSE1GbmtDQ3NIckFGRnRkUjNFbnM?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:27:50 GMT",
+      "summary": "DB월드, 한국투자리얼에셋운용과 데이터센터 사업 협력 위한 MOU 체결 &nbsp;&nbsp; www.dhns.co.kr",
+      "outlet": "www.dhns.co.kr",
+      "outletUrl": "http://www.dhns.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 14,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-10T10:33:34.677Z"
+    },
+    {
+      "title": "Nous Research Raises $90 Million for Open-Source A.I. Agent Hermes - www.trendingtopics.eu",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIS2JYNFZWTlFkaXpuZmFIazVwVHB6RW4zSE9uWFNjY2NnQWU5VU9kVDhoRW83REp4NGdMX3EtN0VPMmp2SDlCbDJERWVaTTloek1Ec3dEQmdndzhOa2lDWmRKTm55b0tJcDYwdVVSUV90SmNMcGZhUQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:27:43 GMT",
+      "summary": "Nous Research Raises $90 Million for Open-Source A.I. Agent Hermes &nbsp;&nbsp; www.trendingtopics.eu",
+      "outlet": "www.trendingtopics.eu",
+      "outletUrl": "https://www.trendingtopics.eu",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
+    {
+      "title": "Samsung flags $80 bn Q3 profit on AI boom, highest quarterly earnings for any global tech firm - KED Global",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82YUYtbUxybzJFcXdYa2tZN0pkcUQwb1hocFlEYnI3MDZOSVVxejREOXQyejg4NE5NNktXTGJsd2xkZkR2cG1vY2dzcVVHMDVPb0g0NlVEdGFHZmNMREU5WU5mVkZIMV90WE4w?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:26:32 GMT",
+      "summary": "Samsung flags $80 bn Q3 profit on AI boom, highest quarterly earnings for any global tech firm &nbsp;&nbsp; KED Global",
+      "outlet": "KED Global",
+      "outletUrl": "https://www.kedglobal.com",
+      "source": "해외 AI반도체",
+      "sourceIds": [
+        "global-ai-chip"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Samsung"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 17,
+      "firstSeenAt": "2026-10-08T06:27:57.646Z",
+      "lastSeenAt": "2026-10-08T06:27:57.646Z"
+    },
+    {
+      "title": "마스턴·SK이터닉스, 연료전지 데이터센터 맞손 - 뉴스톱",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xcjZaSVZ4YVlqWFdoZVlxVGRsM1JCTnNOMl84bnNnbEFHcUE5TU8wTUVRVWotOGZteHNBYVhLLUlRbHZGSXNRSGQ5Wi1HaXlxZldWWkdDWGZCWjNTb3BESVhmckNROC10ZVhVdWJDMA?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:26:24 GMT",
+      "summary": "마스턴·SK이터닉스, 연료전지 데이터센터 맞손 &nbsp;&nbsp; 뉴스톱",
+      "outlet": "뉴스톱",
+      "outletUrl": "https://www.newstopkorea.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 11,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "Business context holds key to autonomous enterprise AI - TahawulTech.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmFIbmV4ZjlSUkpYMVdibEdoYlg4TkNtNm1GSGh0MGhXeWtFcG9oLVMzUDZza0NNelhGNjJVUFlPeURxOU1HdENDTlYzQTduYTJaTnlaLUQ1eXBVa0VKSEpsOG1abk8xSzlma0c5TDdNRnk2OThwSFhFcUV4Wmx5NXJXb3J4emgwaWpNN0VpRVNud0JZU0Nj?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:26:19 GMT",
+      "summary": "Business context holds key to autonomous enterprise AI &nbsp;&nbsp; TahawulTech.com",
+      "outlet": "TahawulTech.com",
+      "outletUrl": "https://www.tahawultech.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T22:27:18.434Z"
+    },
+    {
+      "title": "[종목+] 빛과전자, 광통신 신제품 고객사 인증 진행…주가 한 달 새 92%↑ - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wNXROdWxDWHA1ME82RVNTTW5OTFdaeWdhaldSUHcxRXRzWGFzcDZnSmkxSkpSdndiRjVjLUp4UmZ1OFBYdVNNeWZuU2xiRWw2MzVGcDBJcWdqeldG?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:26:00 GMT",
+      "summary": "[종목+] 빛과전자, 광통신 신제품 고객사 인증 진행…주가 한 달 새 92%↑ &nbsp;&nbsp; 뉴스핌",
+      "outlet": "뉴스핌",
+      "outletUrl": "https://www.newspim.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 8,
+      "firstSeenAt": "2026-10-08T09:27:30.031Z",
+      "lastSeenAt": "2026-10-08T22:27:18.434Z"
+    },
+    {
+      "title": "AI agent emailed hundreds of researchers for help, raising questions over autonomy - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2cxcEd1WEl0TUtIeUFFR3lHb0N6NVVDdF9sMVFSWVFpczMyd3dyaHpyY0xqN2JucXAzdlZXZDdSTVphRzZudDZWOFhYcTBFdE1PejFnSWo5ODE0MzRyTVVyWmFtdll5dGNlV0REeGNzQ2ttd0VVWG1JTjdrNWVOYWFqZ1ZMY2RnclN3d2pjeGVGZmVBNnNMQWVWcTYtOUQ3cVNTdWtFd1dZM1U1M0xLVDRNS0pwSV84cWFQQjd2YUJTaDMtWEVKc3RLTWU?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:25:06 GMT",
+      "summary": "AI agent emailed hundreds of researchers for help, raising questions over autonomy &nbsp;&nbsp; The Daily Star",
+      "outlet": "The Daily Star",
+      "outletUrl": "https://www.thedailystar.net",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-08T06:27:57.646Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
+    {
+      "title": "저커버그 부부의 바이오허브, 미 정부·구글과 2.4조 AI 생물학 데이터 구축 - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mVWRVNURJVUg3Q0pxaHlmWm5FblNVejZIZXpJa2dhdjNxeF9oRGpDVFRaaWNxOVNMOHZYMGhTZC1yQ0R4ZTc0Z29WMTcyOVBuVmRuc1dLWXd4Mms0V2luRkxMM3FuZFMtdmc?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:24:22 GMT",
+      "summary": "저커버그 부부의 바이오허브, 미 정부·구글과 2.4조 AI 생물학 데이터 구축 &nbsp;&nbsp; AI타임스",
+      "outlet": "AI타임스",
+      "outletUrl": "https://www.aitimes.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-08T06:27:57.646Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "특수 라운드에만 나오는 블록 체인 공공 서비스 심벌 정보 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUtBdlV5eDEwVFpCdnpyS1NSczMyMDAyLUx0S0JxcnE0Zl9YRy1pUDFJVUlEcWR5QUZHLUYyVktYelFhOEhMSlpwakRXM04wZW9YeXBYR2dOTFo3emg2UzFrZ2xmQzc5YmFCRWZVb2g2SG9aOS0wLTJhUjFycmlxUUw3cEZqVFRsdThhMDBwQi1KNFFfVl9HeTdxak9GNk03OHlWY0VydWF2SG1PQ3JkcHZYR2NNUFpmOGRCWWV6NWVTc25NM1JvU1VSS1BFZw?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:22:20 GMT",
+      "summary": "특수 라운드에만 나오는 블록 체인 공공 서비스 심벌 정보 &nbsp;&nbsp; Calgary Roughnecks",
+      "outlet": "Calgary Roughnecks",
+      "outletUrl": "https://calgaryroughnecks.com",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 7,
+      "firstSeenAt": "2026-10-10T01:14:57.972Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
+    {
+      "title": "Samsung Stock Unimpressed Even After 783% Profit Growth Forecast - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHh6Q3ZhN0xRTnhlamt2X09MVUhPcVIzNW02NFM3aHBYTFJRY1ZEMXVDM2tLSE1sVlQ4dlh2eWkyY1lPWUlYVGFGNmNWWEkwREVBcXhUdktnWERiWWhva3JuaVBjMHdvbXpySEJkTjMwYkUwSW5IeHZrTzVXam41ZEFjeW5nRUcyT2c0eG5fbmFKWWNaV0s4NjNtRUpFTXRrUGk4aUVGaW1IV3d4UG1UN3M0d2hVcmphcTc2VF9zaWpjR2M?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:22:00 GMT",
+      "summary": "Samsung Stock Unimpressed Even After 783% Profit Growth Forecast &nbsp;&nbsp; TradingView",
+      "outlet": "TradingView",
+      "outletUrl": "https://www.tradingview.com",
+      "source": "메모리·패키징·인터커넥트",
+      "sourceIds": [
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Samsung"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 10,
+      "firstSeenAt": "2026-10-10T17:48:08.857Z",
+      "lastSeenAt": "2026-10-11T06:10:51.053Z"
+    },
     {
       "title": "유니티 CEO도 발끈… 구글 'AI 게임 제작' 뚜껑 열렸다 - 게임와이",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45VkI2aHloLWszZllzTEQwbVFEMzJ1dEhZZGZIRGZ1VFhJU2w2MkoyR05senlLQ1NYS2ZlQ01uS1E0TS1pRXpncWpOQ2s2UTdqY0NZZHA5em9qRm9CbkRlWDJVa2FRY0XSAWpBVV95cUxNdWxNOFJFdFpIcGNoQWxXOEtWM0p2U0lvaXNSdUtZQ2NaWEpvTlZHMDZVRnZyNmZnY1hXM3JQb0dqWm5wbGV4WUlyUWpjRmtwOVZTckx4QUFlenoyQVpId2NOM0JlVXZqS2ln?oc=5",
@@ -1479,746 +2225,6 @@
       "score": 13,
       "firstSeenAt": "2026-10-08T09:27:30.031Z",
       "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "직관적인 조작인지 비교하는 슬롯 캐시 무료 칩 인터페이스 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWlNLeEFTQ2JPWlgyYW9JTjJyQjFoWVllb0pHQ0VhRlNRUlc0WlhTOE5EX01mUGFVTUl6T09yNHhmcm5CUzlqOHVnblQwekY4QXFiQUFERGFSRFNUY2tBOGdnOWFqNzd0NHRfZnBGSGxPRy11cUFmSGpLbVcwa1M0ZzJZNjR6QQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:36:05 GMT",
-      "summary": "직관적인 조작인지 비교하는 슬롯 캐시 무료 칩 인터페이스 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "퓨리오사AI",
-      "sourceIds": [
-        "furiosa",
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-09T02:04:00.554Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "대우건설, 도시정비팀 확대하고 데이터센터사업팀 신설 - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OZ0RUbktuU2I4NGVHd0E0RDJCSmlUWXlqTlB1cHptaV9LUHo0QVprSGdxQ1dGMENmWDlLWUg0akM0UktzdE1vSGNFUndLZVo2cktpckNRVGJTUdIBVEFVX3lxTE9jamVUY01VbllscWxhUXJwSHpTem5fSS1rNXF0d0VIbDhpM09Ga0g3aWU5dkNJUlNhaGkwcjNBWFIxTk04UG9FVFZPUGx3cF9UalpNVQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:35:46 GMT",
-      "summary": "대우건설, 도시정비팀 확대하고 데이터센터사업팀 신설 &nbsp;&nbsp; 더팩트",
-      "outlet": "더팩트",
-      "outletUrl": "https://news.tf.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "[비즈+]AI 데이터센터에 커지는 전력 부담…효성중공업 '스태콤', 美 전력망 필수 설비로 '각광' - 비즈니스플러스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zWk1DQl9UWFBabW53M1pOZnFjcFhMUmdwOURXdWpuUVp4WUE5NDdjVGFjZ2trdDQ2amhZcXBqS2dsSUJodExNaWliOEt3TVdsc05iYmFPY3h2ODFneWRmSXYwRTRoV3V4VVYzc3paRQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:34:39 GMT",
-      "summary": "[비즈+]AI 데이터센터에 커지는 전력 부담…효성중공업 '스태콤', 美 전력망 필수 설비로 '각광' &nbsp;&nbsp; 비즈니스플러스",
-      "outlet": "비즈니스플러스",
-      "outletUrl": "https://www.businessplus.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-08T09:27:30.031Z",
-      "lastSeenAt": "2026-10-08T09:27:30.031Z"
-    },
-    {
-      "title": "비주얼 중심으로 둘러보는 재밌는 사이트 디시 게임 디자인 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94dnQyQUJuMi1qZ2hwRGVDS3I4blZwYWtpZF85S3k2aWEwYXp3a2FtOTk3Z1F4bjdnekdydzhOODNtdktmeG5rSFM4RXVwV0ZOT2kwMFBudzBvM2syajZXVkRQczN1Mnk4bFd1SVl5ZHl6RjhScHc?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:34:36 GMT",
-      "summary": "비주얼 중심으로 둘러보는 재밌는 사이트 디시 게임 디자인 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-08T09:27:30.031Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "Claude Haiku 5.5 is here: The fastest, most affordable Anthropic model yet - Android Authority",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iYldXajY3ZlBVZVNaaERER254Znc3Smc3RENTd0lwZjRRYXJNYU9uU0Z2NjNEOTdrb2JIVmx0TE9JV3d5dDI5eUdaUXIxaDJFazRkaWJDczhCcUthQTJsWjYzNDY1ZHdsblZicXF4Z3VhS3JnaEE?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:33:00 GMT",
-      "summary": "Claude Haiku 5.5 is here: The fastest, most affordable Anthropic model yet &nbsp;&nbsp; Android Authority",
-      "outlet": "Android Authority",
-      "outletUrl": "https://www.androidauthority.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-08T09:27:30.031Z",
-      "lastSeenAt": "2026-10-08T09:27:30.031Z"
-    },
-    {
-      "title": "대우건설, 도시정비 3팀으로 확대…데이터센터·안전품질본부 신설 - SBS Biz",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pNG9JQU12X3FmTFdIVkx0eXdheWJzSDRkcDR3MUxOZUI3b2UxX0lDeHY0ZTJjY2wyU1NZdVVPOHlUc3BQVm9uQ3F0YU8tbnRtb3lV0gFYQVVfeXFMUFZVUEJBbkRiSURLSkV5dHlUOHE3T0FTcnB0eklLRUhhU0lOdHQ2NFRCYWU2YnFnY2pvMjRPTVhIb2hYaVVMSm1ybzlfc3dVVmNCU3IwUTlKaw?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:32:00 GMT",
-      "summary": "대우건설, 도시정비 3팀으로 확대…데이터센터·안전품질본부 신설 &nbsp;&nbsp; SBS Biz",
-      "outlet": "SBS Biz",
-      "outletUrl": "https://biz.sbs.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-08T06:27:57.646Z"
-    },
-    {
-      "title": "모빌린트 AI 반도체, 누리호 탑재…온보드 AI 실증 - 한스경제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNFZFc0RoX21sM3FpMC1KNDhPUC1jLUxDNWhxNVh4ZXhmRElPZXp0aWZlR2tWM0g3Z0E0NFZQNFpMdUJYYURpLTcySUUxa3hsMkpuVDM3d0h6aWw4ZjR2VFROU3Y4dEFraUM0?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:31:39 GMT",
-      "summary": "모빌린트 AI 반도체, 누리호 탑재…온보드 AI 실증 &nbsp;&nbsp; 한스경제",
-      "outlet": "한스경제",
-      "outletUrl": "http://www.hansbiz.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "mobilint",
-        "mobilint-broad",
-        "ai-chip-public-program",
-        "local-government-npu",
-        "npu-commercialization"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "모빌린트"
-      ],
-      "taxonomyHits": [
-        "모빌린트",
-        "실증·조달"
-      ],
-      "issueCategory": "NPU",
-      "score": 23,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "프랑스 국빈방문 결과 관련 위성락 국가안보실장 브리핑 - 정책브리핑",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PcmVlZHRFRFcyVjdNYnI5NnVLZjZRWFZrakpNbk9BVThnZ0xSQ3g1SFRmcmNwZ3AyV0NvUXFXbzhzVUpDV0NUOGRlQ2Fqam1mbzhpcDFpYklXNl9mUi1kSVpZV0FPMGRuWU9sQQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:30:48 GMT",
-      "summary": "프랑스 국빈방문 결과 관련 위성락 국가안보실장 브리핑 &nbsp;&nbsp; 정책브리핑",
-      "outlet": "정책브리핑",
-      "outletUrl": "https://www.korea.kr",
-      "source": "정부·공공기관 공식자료",
-      "sourceIds": [
-        "official-korea-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "",
-      "score": 11,
-      "firstSeenAt": "2026-10-08T22:27:18.434Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "AMD collaborates with Korean AI firms to revolutionize the chip technology sector - ET CIO",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdExnNFFnMTdyRy1PSUt1TWdEMDlqNzJlRXpmanlicERVTExoZG9EMG9Oa0pLay1kTUFxcFNGbXNFZFo2NUgzTG94RnpoSWZ4SExRa2RodC1OZW9hY2Q3Qk01WjRpZTNzb1Nma1NlbHVFOGNMYy1JUTZmYkRxeEMwTjd2WGpxdnB6ZDRLZnNWM3Z6R3JpaTJORjJBYmxMM1ZpS2NqUjRocXVJWDJpalRrYkhrcWpPVklnaVA3SFJFTVhUOGZ4Y1FKR2VSYXJfcTFab1BzM2RQOTFOZVBZWVl3SmNpRzUtZHFGUUNlTWhkNETSAfYBQVVfeXFMTU9FMU9uN2lPZkF0bUdSUUswMC03dGQ2U0xlNUFzV2Jrb21sb05xVC11OGd0VTZtdzY3QVNVM2NzRGpiN0dBdndkRTBXZFc0NXl1YUpOQUJzSGpXdG12di0wLXhTUlVkdk1XQlVYbXRUZW1zM2QwY3VfeHdwbURnOWtKMXRFNHRvR0pJc0dKRGNoY3ZQbGZVWExGQ2FLbDU3Q3VhLVRCbXpVcFBEM1NqUkxLSGhSVE5ZYkJuTUpNSV9ELUF2WVk1QVJHMFlxemZDdW55OEtCZGZVQ3VPSE1xYk9ZZFJCWU5wWUNqQVkwU2dPNDBodUVn?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:30:00 GMT",
-      "summary": "AMD collaborates with Korean AI firms to revolutionize the chip technology sector &nbsp;&nbsp; ET CIO",
-      "outlet": "ET CIO",
-      "outletUrl": "https://cio.economictimes.indiatimes.com",
-      "source": "가속기 운영 SW",
-      "sourceIds": [
-        "accelerator-software"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "AMD"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 17,
-      "firstSeenAt": "2026-10-08T19:15:39.537Z",
-      "lastSeenAt": "2026-10-09T02:04:00.554Z"
-    },
-    {
-      "title": "AI 데이터센터가 되살린 HDD… 도시바, 필리핀에 600억엔 투자 - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KdThGOHFBZi1qWTB2ZElpSzJacEU5aDYtYm5VVVFDaXF1X3Myakg1a3duQzB0azJKcThFd2ZJdTFyLUZ2U2NMMEV2aVh0Z3ZaR0ZSMmtKMWVndzRHVUtPSVJhbjZkNlQtZ2dtRUE1d1plWVE?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:29:46 GMT",
-      "summary": "AI 데이터센터가 되살린 HDD… 도시바, 필리핀에 600억엔 투자 &nbsp;&nbsp; 디지털투데이",
-      "outlet": "디지털투데이",
-      "outletUrl": "https://www.digitaltoday.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-09T02:04:00.554Z"
-    },
-    {
-      "title": "클라우드 없이 AI 에이전트 구동…128GB 탑재한 마이크로소프트·엔비디아 ‘서피스 랩톱 울트라’ - Yellow.com",
-      "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxOaDFSZW9pVUp4TEdBeEwySlhPVEFnWUVweWkzN1Y2Zk5OclF6amFSNkQtYU50WTZGbFBieWZjU2t6VG5VY2VoX2J4OHRqS3pYWjdqSzc2em81UnZLdVpBbXVkLW53RmVzWmM0d3RtM0hJYTFsZFFhWlRYVHBsUTNna2JCcmRrcGJMbW1KZVRwUDY4R1JTVHp5aDlxSmlFRzFkbks1QXhMNzFWZFJUeWZjN0p3SldxR2NCVm9FdzJ1eXY3b1k4QVRpM2hfVWFBMFdxVHhpTXZfMl9ETTZLM3dDNnZidEdFWTVodVExdFZwYmdRQnRQXzJRYTNLeEhfUUJkY2lSVzVYcVE5WHVsZ3I4aG1NcTdQZEV0MXRQREk4bUV4RzBSeXN1emxKV0RUaC0wajNiY2t3T19LbmJ2cHA3YmROaUthbVJpU040MGQ4ajdZSkNXMS02N0w5ZnU5X25fbWU2N0Q1cW1LelNIcHFzNmRfQkxCY2dQdGJYcE50U0hQU0xxZy0zUkV1WkRhVm12ZUV2OXk4cGw5cmp2QnZGMGs0OXFvRVp4WlVqQnZrUmU3WUtMdG9YOHNRN3k4bjl2OXBlUGYzMHZrVVljb0Ezb2ZiNTUzb1FTbGlJWGJqMXUyVDR2R2tjQjljRkd4U1hxbG5FNnZNRUFMSUJQTy1rOFpqcXdoQ2d6eVVKRWRRRmRUWU44UllObVF3?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:29:19 GMT",
-      "summary": "클라우드 없이 AI 에이전트 구동…128GB 탑재한 마이크로소프트·엔비디아 ‘서피스 랩톱 울트라’ &nbsp;&nbsp; Yellow.com",
-      "outlet": "Yellow.com",
-      "outletUrl": "https://yellow.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "AI인프라",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 26,
-      "firstSeenAt": "2026-10-08T22:27:18.434Z",
-      "lastSeenAt": "2026-10-09T02:04:00.554Z"
-    },
-    {
-      "title": "\"AI로 질병예방\"‥美정부·구글, 저커버그의 바이오허브에 합류 - MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IZXdnMkQ3OW1ESURFdktJWHFjRzVldGFiUG5zZTFjbl9Xa3I0OGNhLXduSFBVTEU3bUVEMlp5WnZjVDFIemdzem9UampyZFl5REtpZlVVQ01BUEhNaXo2SFBTWGVuaFl4XzBzd09CTlZfbzlU0gF0QVVfeXFMTXNwQ19Gb1NjMVlMMHpsVFNwQ0czLXlhZTJDSWxLeXB3ZXNLQW1tc0hueDRKQjFrd25XSHlBMS15dWVRNFhVS2VMWUUwWUNqbnBUMWNxN1d2d3ZDaHhhdkJjLVdZTTJMZnhGbm9hM3NzR0xwaEU?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:28:57 GMT",
-      "summary": "\"AI로 질병예방\"‥美정부·구글, 저커버그의 바이오허브에 합류 &nbsp;&nbsp; MBC 뉴스",
-      "outlet": "MBC 뉴스",
-      "outletUrl": "https://imnews.imbc.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "구미 산업, 이제 ‘연결’로 승부한다…대기업·스타트업 오픈 이노베이션 시동 - 한길뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51VUZzbjI2cjRfZE44dmpncEo1ZmNDWldtMXJfX2NrVmhWNHRnVXFDQUJ2RXFYSEhIOXZpQ09uaDdMRXltVVpHQjFJTEZSWlE?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:28:52 GMT",
-      "summary": "구미 산업, 이제 ‘연결’로 승부한다…대기업·스타트업 오픈 이노베이션 시동 &nbsp;&nbsp; 한길뉴스",
-      "outlet": "한길뉴스",
-      "outletUrl": "https://www.hgnet.co.kr",
-      "source": "지역 AI·반도체 산업금융",
-      "sourceIds": [
-        "regional-industry-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 6,
-      "firstSeenAt": "2026-10-11T00:54:58.485Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "AI칩 사려고 빚낸다…빅테크 ‘수십조 차입전’ - 엠에스투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwd1BObWxqX05MV0IxNDBWWXg0czAxSGF2bm5LQ2oycEhBQXdYOUQzOXFuSzcySE5GT01TeUJRZjNpQzBESC1YUW1rYUNMNURZOFREc29SQ3daa1c3X2x1VUk1R3VENDhRX2FIZdIBcEFVX3lxTFB4SEtuZVJ6YnB1Ri15LUhKSVJudV81WHoxYWNiVm40LXRfcnRUQnR0eTlsSGEyeFFTVmxFSDlpTGF2V21xRVZQLV84YWo1SmdQZzZ2SUtrRHNiQ2hYcjJINk0tZWtmU196a1JsamJYdWQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:28:46 GMT",
-      "summary": "AI칩 사려고 빚낸다…빅테크 ‘수십조 차입전’ &nbsp;&nbsp; 엠에스투데이",
-      "outlet": "엠에스투데이",
-      "outletUrl": "https://www.mstoday.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-08T09:27:30.031Z",
-      "lastSeenAt": "2026-10-08T11:18:21.272Z"
-    },
-    {
-      "title": "IPO 도전장 내민 디티에스 \"AI 데이터센터 냉각 등 신사업으로 고속성장\" - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GM0oxVHo1ZGwzUWpFMm1raktaS1FlN0NoRHJncnREUldLeXdNVzFlY0xlS2VqaW5pcmRtclZGWHhKY1VkcG13MUxRUVMyNmctckpvWVlHSVJfdw?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:28:14 GMT",
-      "summary": "IPO 도전장 내민 디티에스 \"AI 데이터센터 냉각 등 신사업으로 고속성장\" &nbsp;&nbsp; 파이낸셜뉴스",
-      "outlet": "파이낸셜뉴스",
-      "outletUrl": "https://www.fnnews.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-08T06:27:57.646Z"
-    },
-    {
-      "title": "스페이스X, 엔비디아 칩 구매에 53조 원 차입 협의 - AI 매터스",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rQkJ0VHl4QXp2RG8zdExfZnNERmJ2dUxGUTREMDhYTVlaTEQ2VUNkM1FlLTRCUkRxVGU3clVfZlhSWndqbmxhUlFfQ1Y5RTBuT25mRw?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:28:11 GMT",
-      "summary": "스페이스X, 엔비디아 칩 구매에 53조 원 차입 협의 &nbsp;&nbsp; AI 매터스",
-      "outlet": "AI 매터스",
-      "outletUrl": "https://aimatters.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-08T11:18:21.272Z"
-    },
-    {
-      "title": "대우건설, 정비사업 3개팀으로 확대…데이터센터 전담팀 신설 - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RR1htRzNUX0FBeExkT0xyN2lxSFdfMUItUFdHcDhlaUZrb3F3RW12Q1BLTTBzOVIwdnJPalAtam9UTVVIa0hiUWRBNVl6MHdYWUd0TjJEclp2cnhuVVNySjl4a1BjUDlLY0tZRUp2TW9FMEXSAXdBVV95cUxQR3A5NnBPU1B4TC1qTEZIb1ZoWEFNbW1paFRqZ2FOTmhQSHBnYVA4d21BbkVGcTd6RGlUdmFYSDRCWUhQLWNvdlU4MkgxSE81bDZMS0dBTWNHaTRQZ2dEWHVZT0VndG8taHZYRVdIa3hUcExxOXFhZw?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:28:08 GMT",
-      "summary": "대우건설, 정비사업 3개팀으로 확대…데이터센터 전담팀 신설 &nbsp;&nbsp; 핀포인트뉴스",
-      "outlet": "핀포인트뉴스",
-      "outletUrl": "https://www.pinpointnews.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-08T09:27:30.031Z"
-    },
-    {
-      "title": "페이지마다 다른 용어를 맞춰 읽는 토토 원벳 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdm45X3ZPcVQyUGtMM1AyMUd1Y3Z4TktGa3NGZHFHS3BPenVrNUhPSXNfZmpXa3VfSFEyeDNrSjR3TnlaZnNJbC1kbWsybEdsMDBScDJzMElwaUFoWkpZUmhJbDFKZDFDWlM1SF9ZdGZXWEVVWGRGejZKX0x2STdDeWNrWDhLT094R3RuT2lKSVkyeEE?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:27:40 GMT",
-      "summary": "페이지마다 다른 용어를 맞춰 읽는 토토 원벳 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "국내 가속기 운영 SW 보도",
-      "sourceIds": [
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 7,
-      "firstSeenAt": "2026-10-10T01:43:02.876Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "[글로벌] 구글·메타, 신약개발 손 잡았다...18억달러 프로젝트 참여 - 테크M",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lLTlhbThhQWJTeEx4ZmlXbEZFTk9TZTA2TGZZc1VwY3J5YmRkZFFxZ3dDM3ZvREl2R1ZKWDJONEVlMjdheWZudUc0bGtXZUlzcDFtZzB2UW5FTHBIdlBQbXBmYVYyZ9IBakFVX3lxTE9tUXpDaERCbVVabGM3bm9Ib2h5SHJkV2tzUEtlQkpKREpheHhWSnllc0VnQ216U0IwaGdHazlFV1pETTJadlg4OVhTNldFX0pSaEJkMWdhT2Vxb0pzS0U5VndQbkRvRFZ0S0E?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:24:33 GMT",
-      "summary": "[글로벌] 구글·메타, 신약개발 손 잡았다...18억달러 프로젝트 참여 &nbsp;&nbsp; 테크M",
-      "outlet": "테크M",
-      "outletUrl": "https://www.techm.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 15,
-      "firstSeenAt": "2026-10-08T09:27:30.031Z",
-      "lastSeenAt": "2026-10-08T09:27:30.031Z"
-    },
-    {
-      "title": "천장재 기업이 AI 수혜주? 아하! [미장 보석주] - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ObENWRkJ2NWRmb04xQ0Z6elgxMmFkZ05jUjdtNnMwZTRuMEJzWFNKS0MwS1pEZGJPSEZQZXpidHlYcVlCcG9JMWNmVUlUaHB2WU8xVA?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:23:21 GMT",
-      "summary": "천장재 기업이 AI 수혜주? 아하! [미장 보석주] &nbsp;&nbsp; 매일경제",
-      "outlet": "매일경제",
-      "outletUrl": "https://www.mk.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-08T06:27:57.646Z"
-    },
-    {
-      "title": "마스턴운용-SK이터닉스, 연료전지 연계형 AI 데이터센터 개발 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hM1hGV1cyUTVpWWFMWDVlalgzS1pPZnAzOHo4aEhhUi11d0l6QTVmaHlYd1hjWlQ5Zm1fT0FQNXMyeWxvbXAyQmxiUzNHNkVEdTJ1RGZYUXVUbWZ4ZnNjZdIBeEFVX3lxTE85SkJEUUlxenhjdkVnbzZqZm5vZFo3a1RGa2tJZktENnN4ZkdBcHUwVURmSHhYTndxRVJWVVkzNDRmRk1DdzlWWkd2QnF1UUtoT2ZtMUkyb0ZNWGF1OWNqcWEtZ2N2bG0waXBTZjBsNHRjelFBZjJzaQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:21:15 GMT",
-      "summary": "마스턴운용-SK이터닉스, 연료전지 연계형 AI 데이터센터 개발 &nbsp;&nbsp; 뉴시스",
-      "outlet": "뉴시스",
-      "outletUrl": "https://www.newsis.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "\"Didn't Buy AI Stocks? Stick Your Head in a Bucket of Ice Water\"... Why Despite Calling It a 'Bubble'? - SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiN1UwdEs1VlRBR014ZVJoUS02azB4QmtRZVRrY0R3bWNmUDJfR3BSVXJRZTNneWNadV9iNnBGX3pHQ0NNdzdUQjdoYmE2a1FROWp5Vm9zYi1vaUloR1FuTUd2R2RsaWJyQ2JpNWJB0gFmQVVfeXFMT1d5UXRoMDMtanktNTd2WEFnOGl5Z3BaMkp2TWlpRUpwSTJ4WWR0SXVidlRleVR1UmVrdHlVYW9CbDhNYnhmdm1PZWVjWEU3b0M3ZlJuY0E2NThwakRwM1BsTkp0VjdB?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:21:00 GMT",
-      "summary": "\"Didn't Buy AI Stocks? Stick Your Head in a Bucket of Ice Water\"... Why Despite Calling It a 'Bubble'? &nbsp;&nbsp; SBS 뉴스",
-      "outlet": "SBS 뉴스",
-      "outletUrl": "https://news.sbs.co.kr",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-08T22:27:18.434Z",
-      "lastSeenAt": "2026-10-09T02:04:00.554Z"
-    },
-    {
-      "title": "세종시, 7조원 규모 AI 데이터센터 건립 추진 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkVkNzTzF1QXJneDdoVjFlWks3RTlzbWxqdEdRRHlvZXdRNzF1bkhjVi1TQ2Z3V0lnNFpVUnVhOVB2eVZhT1dyOHFvN014b3EtNlBjVmJ6ZXUtWG1M?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:19:00 GMT",
-      "summary": "세종시, 7조원 규모 AI 데이터센터 건립 추진 &nbsp;&nbsp; 뉴스핌",
-      "outlet": "뉴스핌",
-      "outletUrl": "https://www.newspim.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "세종시, SK증권 등과 7조원 규모 AI 데이터센터 투자 협약 - 보도자료 | 기사 - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iZDJEUUFjelBJaUtLVzZMY3pfX1VpRy1iU3lGd0tadzhwWmJDbnFUTVhLWGVjUzVxUEFJS2MwenItcGQ5SDdJYmhkc2xXSUUwaExLclRjTG5NSmg3Rl9N?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:18:58 GMT",
-      "summary": "세종시, SK증권 등과 7조원 규모 AI 데이터센터 투자 협약 - 보도자료 | 기사 &nbsp;&nbsp; 더팩트",
-      "outlet": "더팩트",
-      "outletUrl": "https://news.tf.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책",
-        "데이터센터",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 32,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-08T22:27:18.434Z"
-    },
-    {
-      "title": "H농협금융, ‘서남권 NH금융허브’ 출범…전남광주통합특별시 성장엔진 지원 - 비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9adTRZQlpPZGUyMldiSVNISWN4R18wOXhhYXI4WXVDdkl3TEVIWmh3Z2NZSy1NQW1lVThFV3FZZEJKaEk2VUhZMlowbll6bkZ1RmtzY3ZMWFAtelBMb3puLWtGVGRSU3h6Rnc?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:17:00 GMT",
-      "summary": "H농협금융, ‘서남권 NH금융허브’ 출범…전남광주통합특별시 성장엔진 지원 &nbsp;&nbsp; 비즈월드",
-      "outlet": "비즈월드",
-      "outletUrl": "http://www.bizwnews.com",
-      "source": "지역 AI·반도체 산업금융",
-      "sourceIds": [
-        "regional-industry-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-10T17:48:08.857Z"
-    },
-    {
-      "title": "사이냅소프트, 과기정통부 ‘생성AI 선도인재 양성 사업’ 2차 워크샵 개최 - BI KOREA",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02aGNkRjJNWm1Qa09RLVR3RjFzUnBDb01aRnpNYWQ5Y1MweXNKaTc0d2p0S2hUeGtqdm1ON0ljMm9KeW13bG44TF9xdmNLSThtSjRWTjQxNWo2aHFOMU9TbF9NVnIxd2s?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:16:22 GMT",
-      "summary": "사이냅소프트, 과기정통부 ‘생성AI 선도인재 양성 사업’ 2차 워크샵 개최 &nbsp;&nbsp; BI KOREA",
-      "outlet": "BI KOREA",
-      "outletUrl": "http://www.bikorea.net",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "",
-      "score": 26,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "Samsung Forecasts Record Profit as AI Chip Demand Surges - 247news.com.pk",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QakxENzJNcTAyV1hkLWZadFZRclZQcDFWVERMWU9vODlLQWhMRFVMSGJDbWJQY3FTaEI1S3Y0Wmwxbmg3dWc?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:15:04 GMT",
-      "summary": "Samsung Forecasts Record Profit as AI Chip Demand Surges &nbsp;&nbsp; 247news.com.pk",
-      "outlet": "247news.com.pk",
-      "outletUrl": "https://247news.com.pk",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Samsung"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 17,
-      "firstSeenAt": "2026-10-08T09:27:30.031Z",
-      "lastSeenAt": "2026-10-11T13:57:52.001Z"
-    },
-    {
-      "title": "국산 AI 반도체 첫 우주 진출…모빌린트 NPU, 누리호 탑재 - MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LTDdUVTludVljd2ptQmdPZloxNldzRW81cjh3Y0oyUWxPWXBrb0ZfUVZYYm1USC03dW5FY0Zwak9SQTNzWUYtcktFR29KYlNQUE42dmdIa3ZnSkRQdGtGZ2R3aXY?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:14:36 GMT",
-      "summary": "국산 AI 반도체 첫 우주 진출…모빌린트 NPU, 누리호 탑재 &nbsp;&nbsp; MTN 머니투데이방송",
-      "outlet": "MTN 머니투데이방송",
-      "outletUrl": "https://news.mtn.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "mobilint",
-        "mobilint-broad",
-        "government-npu-policy",
-        "npu-commercialization",
-        "ai-chip-public-program"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "모빌린트"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "모빌린트"
-      ],
-      "issueCategory": "NPU",
-      "score": 21,
-      "firstSeenAt": "2026-10-10T06:01:06.270Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "서삼석 \"임산부 지원 쌀에 곰팡이 민원…정부, 뒤늦게 파악\" - 남도일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQXJoZEs5T2VvaVExXzlyTTJQV1JvamNmREdWSVhuUXA4eGI0TGpkWnpjUmtZeFhPLUNJNlJDZnYxUG1SZm1lTURUS1VkN3UyMVhPSGhQUzFjOUd1bzUydjUyMS1PblE2aC01ZtIBcEFVX3lxTE9JY182S3pURnlzY2I5X1BYY2VvRk5tSDNfaXRoaUZTY290M2NQMHVveGh3YndDc2ZTb01aLTVLY0x2U2RhU2xJM2ZYMTVYdUhWRUJ0dmktb1AtNTZ0T1dKeFdJcG1qUzdlcDFlNXI5WmM?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:14:34 GMT",
-      "summary": "서삼석 \"임산부 지원 쌀에 곰팡이 민원…정부, 뒤늦게 파악\" &nbsp;&nbsp; 남도일보",
-      "outlet": "남도일보",
-      "outletUrl": "https://www.namdonews.com",
-      "source": "정부 NPU 정책·예산",
-      "sourceIds": [
-        "government-npu-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "정책",
-      "score": 6,
-      "firstSeenAt": "2026-10-11T02:11:15.043Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "기본 규칙은 어디까지 공통일까? 모바일 청구 카지노 비교 해설 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0TzdHZTJKcEhUUE9UQTNJa2xlaUI3RnYtam5CNTVJNzdoTjQ1NFJyQ045Ym5pRlZEMGN5OE4ybUdEVEJGZm1mZkdleVdMVDZFX3BjSTBPNGdjcThyS2t2RC0zOVo3MmM?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:13:47 GMT",
-      "summary": "기본 규칙은 어디까지 공통일까? 모바일 청구 카지노 비교 해설 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "furiosa",
-        "rebellions",
-        "government-npu-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-08T11:18:21.272Z",
-      "lastSeenAt": "2026-10-11T02:11:15.043Z"
-    },
-    {
-      "title": "단계가 많은 게임인지 비교하는 다이어뎀 도박 레벨 진행 구조 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUUxcXBuckZBOTM5LWVxTEMzYi01WVhVMkRFVkdacUpSVkh5NktYdlpQYlAtR1REZGoxd0g1VUlUTEtrV09sc0tBT044TWFnekJVTkc5b3ZCUW4yY25UWk1JTDhzamxDTmdnb2E5TmtyU2pTbXIzVXZVS2R6ci0yc2puaVdqbnJ3TkliSEhEdzJmX1FIakFNVmdsQkhrYzRJU01FOXdCeFVnWEM0NlJYdFNwcW53NmE0RTBHWGM5MkdyOFB5WXNGcg?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:12:32 GMT",
-      "summary": "단계가 많은 게임인지 비교하는 다이어뎀 도박 레벨 진행 구조 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-10T01:43:02.876Z"
-    },
-    {
-      "title": "Nvidia-backed Firmus closes IPO bookbuilding as investor support falter -Bloomberg - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnRESG8wVW5JcVNlMWFobExqSVVkN1pDT08xVGVmMm5Sb2p6YXh1RFAwRGhHQjhYck8ySlFNX05CYlV4U3RWbWRfdGtGaVNjWDBTUzFXNDU3bC1pSms2eWRXRFBDLW9MbVpjcHF0aDZybDlRRHdMajc0SndUd1NwR3Z6WVVWX2s?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:12:19 GMT",
-      "summary": "Nvidia-backed Firmus closes IPO bookbuilding as investor support falter -Bloomberg &nbsp;&nbsp; Yahoo! Finance Canada",
-      "outlet": "Yahoo! Finance Canada",
-      "outletUrl": "https://ca.finance.yahoo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 18,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-08T11:18:21.272Z"
-    },
-    {
-      "title": "U.S. Agentic AI Market: Hype vs Enterprise Reality - Kings Research",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWk1kTUhzYWxBbVFYczBiNVNZS3d5QXNFSVB1WERyVFpZTzQxSzVpQXZjR0M2cUxoNWI0bmNYVzJORUxUREFsNFpwR1Q4WVEyZm5ZYU92WUNnbVNuaFhYVUw3SG1HMHB5eUhTSm1QakRqdFc0OEZNdUZGT2p2SlN6bQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:11:50 GMT",
-      "summary": "U.S. Agentic AI Market: Hype vs Enterprise Reality &nbsp;&nbsp; Kings Research",
-      "outlet": "Kings Research",
-      "outletUrl": "https://www.kingsresearch.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "AI에이전트"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-08T19:15:39.537Z"
     }
   ]
 }
