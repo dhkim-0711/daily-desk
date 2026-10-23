@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-23",
+  "cutoff_at": "2026-10-23T09:30:00+09:00",
+  "window_start": "2026-10-22T09:30:00+09:00",
+  "created_at": "2026-10-23T09:50:21+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1, 2],
+      "bullets": [
+        "모빌린트는 LG전자 휴머노이드에 맞춘 NPU·모듈·소프트웨어 통합 플랫폼 개발에 착수했고, 딥엑스는 교통 영상분석과 레이더 융합 실증·양산 협력으로 적용 범위를 넓혔다.",
+        "국산 NPU가 제품통합과 현장 검증 단계로 이동하고 있지만 두 사례 모두 개발·협의 또는 MOU 단계가 포함돼 양산·구매 성과와는 구분해야 한다."
+      ]
+    },
+    {
+      "article_numbers": [3, 4],
+      "bullets": [
+        "산업부 산하 공공기관의 최근 AI가속기 구매 191장 중 국산은 1장에 그쳤고, 산업부는 다음 달 국산 우선구매 업무협약을 추진한다.",
+        "삼성전자와 SK하이닉스는 미국 수출통제 협의 아래 중국 NAND 공정 고도화를 진행하며 AI 데이터센터용 저장장치 공급과 현지 경쟁력 방어를 병행하고 있다."
+      ]
+    },
+    {
+      "article_numbers": [5, 6],
+      "bullets": [
+        "엔비디아는 AI 에이전트의 권한·행동을 소프트웨어와 DPU에서 통제하는 OpenShell 참조 아키텍처를 공개해 가속기 경쟁을 운영·보안 계층으로 확장했다.",
+        "Besi의 하이브리드 본딩 장비 주문은 전년보다 크게 늘었고 HBM 양산 적용 압력도 커져 국내 메모리·패키징 기업의 공정 전환 시점과 장비 선택이 중요해졌다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "모빌린트·LG전자, 휴머노이드용 NPU·AI 컴퓨팅 플랫폼 개발 착수",
+      "category": "국내 NPU·제품통합",
+      "collected_at": "2026-10-22T14:00:13+09:00",
+      "original_published_at": "2026-10-22T11:00:00+09:00",
+      "original_url": "https://www.mt.co.kr/future/2026/10/22/2026102210274526579",
+      "event_id": "mobilint-lg-electronics-humanoid-npu-platform-2026-10-22",
+      "event_first_published_at": "2026-10-22T09:35:41+09:00",
+      "event_evidence_url": "https://www.mt.co.kr/future/2026/10/22/2026102210274526579",
+      "selection_tier": "primary",
+      "main_points": [
+        "모빌린트는 산업통상부의 K-온디바이스 AI 반도체 기술개발 사업에서 LG전자·노타와 함께 휴머노이드용 NPU와 AI 컴퓨팅 플랫폼을 개발한다. LG전자가 휴머노이드 시스템, 모빌린트가 NPU·모듈·소프트웨어 통합 플랫폼, 노타가 최적화 AI 모델을 맡는 구조다.",
+        "개발 결과는 LG전자의 일상공간용 휴머노이드와 연계해 지연, 소비전력·발열, 장시간 운용 안정성과 진동·충격 신뢰성을 검증할 계획이다. 이는 국책과제의 개발·검증 계획이며 양산 계약이나 반복 구매 실적은 아직 확인되지 않았다."
+      ],
+      "implications": [
+        "국산 NPU 지원이 칩 단품 성능에서 로봇 제조사의 시스템·모델·운영 소프트웨어를 함께 검증하는 제품통합 단계로 이동했다. 피지컬 AI 사업에서는 TOPS뿐 아니라 복수 모델 동시 구동, 전력·열·내구성, 개발도구 완성도를 수요기관 검증 항목으로 묶을 필요가 있다.",
+        "정책·사업 기획자는 국책과제 완료 여부보다 LG전자 제품 적용 범위, 유상 PoC 전환, 모듈 양산과 후속 구매를 단계별로 확인해야 한다. 서비스로봇·AMR·가전 확장은 회사 계획이므로 확정 수요로 계산하지 않는 것이 적절하다."
+      ],
+      "sources": [
+        {
+          "title": "모빌린트, LG전자 휴머노이드용 NPU 만든다",
+          "publisher": "머니투데이",
+          "published_at": "2026-10-22T11:00:00+09:00",
+          "url": "https://www.mt.co.kr/future/2026/10/22/2026102210274526579",
+          "verification": "full_text",
+          "verified_at": "2026-10-23T09:47:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "딥엑스, 교통 NPU 현장 적용과 레이더·베트남 양산 협력 확대",
+      "category": "국내 NPU·수요처",
+      "collected_at": "2026-10-22T10:51:21+09:00",
+      "original_published_at": "2026-10-22T10:17:00+09:00",
+      "original_url": "https://www.yna.co.kr/amp/view/AKR20261022062000017",
+      "event_id": "deepx-its-traffic-npu-vaida-sotatek-collaboration-2026-10-22",
+      "event_first_published_at": "2026-10-22T10:17:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/amp/view/AKR20261022062000017",
+      "selection_tier": "primary",
+      "main_points": [
+        "딥엑스는 강릉 ITS 세계총회에서 1~5W급 NPU로 도로변 카메라 영상을 현장 분석하는 교통 솔루션과 국내 적용 사례를 공개했다. 바이다와 레이더·NPU 융합 플랫폼의 현장실증·상용화를 추진하고 베트남 소타텍과 AI 솔루션 개발·양산 협력 MOU를 체결했다.",
+        "한국도로공사 스마트톨링 차량번호 인식에는 NPU 적용을 추진 중이고, 코레일 철도안전 프로젝트와 상용버스 안전 솔루션은 검토·협의 단계다. 전시 공개와 MOU를 실제 구매·양산 성과로 확대해석해서는 안 된다."
+      ],
+      "implications": [
+        "교통·철도·버스는 영상과 레이더를 현장에서 처리해 통신량과 지연을 줄이는 국산 엣지 NPU의 구체적 수요처다. 공공 실증사업은 사고·역주행 탐지 정확도뿐 아니라 기존 관제 연계, 유지보수 비용과 장시간 운용 전력을 함께 검증해야 조달로 이어질 수 있다.",
+        "정책·사업 기획에서는 MOU 수보다 한국도로공사·코레일 등 수요기관의 검증 범위, 유상 여부, 통합 규격과 구매 전환 시점을 추적할 필요가 있다. 해외 협력도 개발·양산 역할과 실제 발주를 분리해 성과를 관리해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "교통사고·역주행도 AI가 감지…딥엑스, 초저전력 NPU 공개",
+          "publisher": "연합뉴스",
+          "published_at": "2026-10-22T10:17:00+09:00",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261022062000017",
+          "verification": "full_text",
+          "verified_at": "2026-10-23T09:47:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "산업부 산하 공공 AI가속기 191장 중 국산 1장…우선구매 협약 추진",
+      "category": "국내 정책·공공조달",
+      "collected_at": "2026-10-22T21:55:50+09:00",
+      "original_published_at": "2026-10-22T18:02:22+09:00",
+      "original_url": "https://www.sedaily.com/article/20105017",
+      "event_id": "motie-public-institutions-ai-accelerator-purchases-domestic-priority-mou-2026-10-22",
+      "event_first_published_at": "2026-10-22T18:02:22+09:00",
+      "event_evidence_url": "https://t.me/s/sedaily_worldwide_news",
+      "selection_tier": "primary",
+      "main_points": [
+        "국회 산업통상자원중소벤처기업위원회 소관 공공기관이 최근 2년여간 구매한 AI가속기 191장 가운데 국산 제품은 1장으로 공개됐다. 엔비디아 제품 구매액은 102억8천만원으로 보도됐으며, 산업통상부는 다음 달 산하 기관들과 국산 AI반도체 구매 확대를 위한 업무협약을 추진한다.",
+        "191장 중 1장은 장수 기준이고 99.98%는 보도된 구매액 비중이므로 두 수치를 혼동해서는 안 된다. 업무협약은 추진 계획 단계이며 국산 제품의 실제 구매 물량·예산·성능요건은 아직 확정되지 않았다."
+      ],
+      "implications": [
+        "공공 수요창출 정책의 병목이 기술개발 지원보다 조달 규격, 수요기관의 위험 부담과 운용 소프트웨어에 있음을 보여주는 집행 데이터다. 우선구매 선언만으로는 도입이 늘지 않으므로 기존 응용의 호환성·유지보수와 K-Perf 등 검증 결과를 조달요건에 연결할 필요가 있다.",
+        "후속 판단에서는 협약 참여기관, 구매 대상 NPU, 예산과 발주 시점, 실제 납품·활용 실적을 분리해 추적해야 한다. 장수와 금액 비중, GPU와 NPU의 용도 차이도 함께 공개해야 정책 효과를 정확히 평가할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "공공 AI칩 99.98%가 엔비디아…산업부, 내달 ‘국산 우선구매’ 협약 맺는다",
+          "publisher": "서울경제",
+          "published_at": "2026-10-22T18:02:22+09:00",
+          "url": "https://www.sedaily.com/article/20105017",
+          "verification": "public_reprint",
+          "verified_at": "2026-10-23T09:47:30+09:00"
+        },
+        {
+          "title": "서울경제 공개 채널의 공공 AI칩 기사 재게시",
+          "publisher": "서울경제 공개 채널",
+          "published_at": "2026-10-22T18:03:00+09:00",
+          "url": "https://t.me/s/sedaily_worldwide_news",
+          "verification": "public_reprint",
+          "verified_at": "2026-10-23T09:47:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "삼성·SK하이닉스, 미국 협의 아래 중국 NAND 공정 고도화",
+      "category": "메모리·공급망",
+      "collected_at": "2026-10-21T19:35:21+09:00",
+      "original_published_at": "2026-10-21T13:49:00+09:00",
+      "original_url": "https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/",
+      "event_id": "samsung-sk-hynix-china-nand-upgrade-us-licensing-2026-10-21",
+      "event_first_published_at": "2026-10-21T13:49:00+09:00",
+      "event_evidence_url": "https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/",
+      "selection_tier": "supplement",
+      "main_points": [
+        "로이터는 삼성전자가 중국 시안 공장을 286단 V9 NAND로 전환해 2027년 말 월 4만장 생산을 목표로 하고, SK하이닉스가 다롄에서 240단 이상 NAND 생산을 추진한다고 보도했다. 두 회사는 미국 정부와 협의해 장비를 설치 중이라고 확인했지만 투자액과 세부 생산계획은 공개하지 않았다.",
+        "미 상무부는 기존 중국 공장 운영용 허가와 기술고도화·증설을 구분하고 있으며, 필요한 장비 허가 범위는 확인되지 않았다. 삼성전자는 신규 생산능력 확대가 아닌 공정 고도화라고 밝혔고 SK하이닉스의 300단 이상 R&D와 미국 신공장은 협의 단계다."
+      ],
+      "implications": [
+        "AI 데이터센터 SSD 수요와 중국 YMTC의 추격 속에서 국내 기업이 중국 내 대규모 생산기지의 원가·기술경쟁력을 유지하려는 움직임이다. 동시에 미국 장비 허가가 공정 전환 속도와 제품 세대에 직접 영향을 주는 공급망 제약으로 남아 있다.",
+        "정책 판단에서는 계획 생산량을 확정 물량으로 보지 말고 장비별 허가, 실제 전환 시점과 중국·국내·미국 생산 배분을 추적해야 한다. 국내 NAND·SSD 생태계에는 AI 저장장치 수요와 수출통제 대응을 함께 고려한 장비·소재 다변화가 중요하다."
+      ],
+      "sources": [
+        {
+          "title": "Samsung, SK Hynix upgrading China plants to make more advanced chips, people say",
+          "publisher": "Reuters",
+          "published_at": "2026-10-21T13:49:00+09:00",
+          "url": "https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/",
+          "verification": "full_text",
+          "verified_at": "2026-10-23T09:48:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "엔비디아 OpenShell, AI 에이전트 보안을 CPU·DPU·런타임으로 통합",
+      "category": "운영 SW·하드웨어 보안",
+      "collected_at": "2026-10-21T19:35:21+09:00",
+      "original_published_at": "2026-10-21T18:48:00+09:00",
+      "original_url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
+      "event_id": "nvidia-openshell-agent-security-reference-architecture-2026-10-21",
+      "event_first_published_at": "2026-10-21T18:48:00+09:00",
+      "event_evidence_url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
+      "selection_tier": "supplement",
+      "main_points": [
+        "엔비디아는 AI 에이전트의 실행·관찰·권한정책을 통제하는 OpenShell 참조 아키텍처를 공개하고 즉시 이용 가능하다고 밝혔다. 오픈소스 보안 런타임, Vera Rubin 추론 인프라, Vera CPU, BlueField-4 DPU의 Sentry를 결합해 소프트웨어 경계를 벗어난 행동을 하드웨어 계층에서 격리하는 구조다.",
+        "Canonical·Red Hat·Windows·Kubernetes와 주요 클라우드, 보안·기업 소프트웨어 업체가 지원 또는 통합을 추진한다. 발표된 성능·보안 효과와 파트너 명단은 엔비디아 설명이며 개별 기업의 실제 도입 범위와 운영 성과는 별도 확인이 필요하다."
+      ],
+      "implications": [
+        "가속기 경쟁이 모델 처리량뿐 아니라 에이전트 권한, 자격증명과 네트워크 행동을 CPU·DPU에서 강제하는 운영 계층으로 확장되고 있다. 국산 NPU와 AI 서버도 런타임 격리, 정책 검증과 관측성 API를 개발자 도구에 포함하지 않으면 기업 도입에서 불리할 수 있다.",
+        "국내 사업에서는 독립 런타임·보안 SW가 특정 GPU 스택에 종속되지 않도록 표준 인터페이스와 이기종 가속기 호환성을 검증할 필요가 있다. 공식 출시와 파트너 협력 선언을 실제 배치·보안 인증 성과와 구분해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
+          "publisher": "NVIDIA",
+          "published_at": "2026-10-21T18:48:00+09:00",
+          "url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
+          "verification": "public_primary",
+          "verified_at": "2026-10-23T09:48:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Besi 하이브리드 본딩 주문 급증…HBM 양산 적용 압력 확대",
+      "category": "첨단패키징·HBM",
+      "collected_at": "2026-10-22T16:57:53+09:00",
+      "original_published_at": "2026-10-22T14:12:00+09:00",
+      "original_url": "https://www.reuters.com/business/besis-quarterly-orders-beat-expectations-ai-data-centre-demand-stays-strong-2026-10-22/",
+      "event_id": "besi-q3-orders-hybrid-bonding-ai-hbm-2026-10-22",
+      "event_first_published_at": "2026-10-22T14:12:00+09:00",
+      "event_evidence_url": "https://www.reuters.com/business/besis-quarterly-orders-beat-expectations-ai-data-centre-demand-stays-strong-2026-10-22/",
+      "selection_tier": "primary",
+      "main_points": [
+        "Besi의 3분기 신규 주문은 3억4260만유로로 전분기보다 17%, 전년 동기보다 96% 늘어 시장 예상 2억9800만유로를 웃돌았다. 회사는 올해 하이브리드 본딩 장비 주문이 2025년 연간 규모의 두 배를 넘었다고 밝혔다.",
+        "경영진은 HBM 대량생산에 하이브리드 본딩을 적용하라는 압력이 커지고 있다고 설명했지만 일부 고객 인도는 2027년으로 이동했다. ASML을 직접 경쟁자로 보지 않는다는 평가는 Besi 측 판단이며 ASML은 관련 장비 개발 보도를 확인하지 않았다."
+      ],
+      "implications": [
+        "칩을 직접 접합해 배선 길이와 전력을 줄이는 하이브리드 본딩이 AI 가속기와 차세대 HBM의 양산 후보 공정으로 이동하고 있음을 주문 데이터가 보여준다. 국내 메모리·패키징 업체에는 수율, 웨이퍼·다이 정렬 정밀도와 장비 공급 다변화가 경쟁요인이 된다.",
+        "정책·사업 기획에서는 장비 주문 증가를 HBM 적용 완료로 해석하지 말고 고객 인도, 인증과 실제 양산 전환을 구분해 볼 필요가 있다. 국내 장비·소재 기업의 공동평가와 파일럿 라인 접근성은 공정 채택 시점에 맞춰 점검할 판단축이다."
+      ],
+      "sources": [
+        {
+          "title": "Besi beats order forecasts, says ASML not a hybrid bonding rival",
+          "publisher": "Reuters",
+          "published_at": "2026-10-22T14:12:00+09:00",
+          "url": "https://www.reuters.com/business/besis-quarterly-orders-beat-expectations-ai-data-centre-demand-stays-strong-2026-10-22/",
+          "verification": "full_text",
+          "verified_at": "2026-10-23T09:48:00+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "candidate_counts": {
+      "discovered": 5237,
+      "time_eligible": 3226,
+      "independent_events": 14,
+      "verified": 10,
+      "selected": 6,
+      "basis": "mail/candidates.py가 2026-10월 archive 전체 parts에서 5,237건을 읽고 마감 전 48시간 조건에 맞는 3,226건을 집계했다. 아카이브와 직접 보완 검색에서 중복 보도를 사건 단위로 묶어 14건을 비교했고 공개본문·공식자료·공개시각을 충분히 확인한 10건 가운데 6건을 선정했다. 최신 collection은 09:36:20 KST로 마감 뒤였고 09:20·09:27 마감 전 실행 기록이 없어 직접 보완 검색으로 공백을 점검했다."
+    },
+    "history_review": {
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-22",
+      "checked_dates": ["2026-10-09", "2026-10-10", "2026-10-11", "2026-10-12", "2026-10-13", "2026-10-14", "2026-10-15", "2026-10-16", "2026-10-17", "2026-10-18", "2026-10-19", "2026-10-20", "2026-10-21", "2026-10-22"],
+      "note": "저장소에 존재하는 최근 14일 ready 원고 80건을 제목·주요 사실·출처까지 사건 단위로 대조했다. 10월20일 모빌린트 공공 CCTV 납품·PoC, 10월21일 딥엑스 OpenVINO 협력·TorchTPU·용인 산단 갈등, 10월22일 엔비디아 협력·완주 NPU 실증·AIDC·애니브릿지 원고를 중점 비교했다. 이번 6건은 동일 사건 게재가 없으며 OpenShell과 중국 NAND 고도화는 10월22일 감사기록의 제외 후보를 다시 평가한 미게재 사건이다."
+    },
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "리벨리온·퓨리오사AI·하이퍼엑셀·딥엑스·모빌린트의 고객검증·제품통합·양산·반복구매·해외협력을 확인했다. 모빌린트-LG 휴머노이드 국책개발과 딥엑스 교통 NPU·레이더 융합·해외 양산 협력을 선정했다. 하이퍼엑셀 베르다 500 양산계획은 원문 접근이 제한돼 회사 주장과 고객·주문을 충분히 검증하지 못해 제외했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·산업부·NIPA·IITP, 중앙·지방정부와 공공기관의 NPU 실증·조달·예산·GPU/NPU 지원사업을 확인했다. NIPA 수집원은 empty였으나 공식 사이트와 국회·공개 보도로 대체 조사했다. 산업부 소관기관의 191장 구매 중 국산 1장과 다음 달 우선구매 협약 추진을 선정했으며 협약을 확정 구매로 쓰지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·AWS Trainium과 자체 AI칩·SW 생태계 확보 목적의 인수·제휴를 확인했다. OpenShell의 CPU·DPU·런타임 통합을 48시간 미게재 보완으로 선정했다. Google-Meta TorchTPU는 10월21일 원고와 동일 사건이고 AWS TorchNeuron은 10월20일 원고와 중복돼 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·vLLM·SGLang·커널·런타임·오케스트레이션과 하드웨어 연계 보안을 점검했다. OpenShell은 정책 시행을 DPU에서 강제하는 새 운영·보안 계층으로 선정했다. SGLang Trainium 플러그인은 TorchNeuron 후속이지만 최근 원고의 같은 전환 사건과 겹쳐 제외했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·CXL·UCIe·첨단패키징, 데이터센터와 반도체 산단의 부지·전력·용수·인허가를 확인했다. 삼성·SK하이닉스 중국 NAND 고도화와 Besi 하이브리드 본딩 주문을 선정했다. 용인 송전망 공정률 1% 보도는 10월21일 산단 전력·주민갈등 원고의 후속 후보로 검토했으나 공개 전문과 수치 원자료를 충분히 확보하지 못해 제외했다."
+      }
+    },
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026-10-22 2026-10-23 국산 NPU 고객검증 유상 PoC 제품통합 양산 반복구매 해외협력 K-Perf; 모빌린트 LG전자 휴머노이드; 딥엑스 ITS 바이다 소타텍; 하이퍼엑셀 베르다 500",
+          "official_sources": "모빌린트·LG 개발 공개본문 https://www.mt.co.kr/future/2026/10/22/2026102210274526579 및 딥엑스 교통 적용 공개본문 https://www.yna.co.kr/amp/view/AKR20261022062000017 을 확인하고 국내 NPU 기업 뉴스룸을 추가 점검했다.",
+          "result": "제품통합·신뢰성 검증 계획이 구체화된 모빌린트와 수요기관 적용·레이더 융합·해외 양산 협력을 공개한 딥엑스를 선정했다. 하이퍼엑셀은 접근 제한으로 검증이 불충분했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr OR site:motie.go.kr OR site:nipa.kr OR site:iitp.kr 2026-10-22 NPU AI반도체 실증 조달 우선구매 GPU 배정 활용; 지자체 국비 지방비 NPU 실증 데이터센터",
+          "official_sources": "과기정통부 https://www.msit.go.kr/, 산업통상부 https://www.motie.go.kr/, NIPA https://www.nipa.kr/, IITP https://www.iitp.kr/와 서울경제 공개 채널 https://t.me/s/sedaily_worldwide_news 를 확인했다.",
+          "result": "공공기관 구매 편중 통계와 산업부의 우선구매 협약 추진을 선정했다. 신규 확정 NPU 조달·배정 공고는 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "October 21 22 2026 AI accelerator custom chip acquisition partnership developer ecosystem; NVIDIA OpenShell; Google Meta TPU production; AWS TorchNeuron SGLang",
+          "official_sources": "NVIDIA OpenShell 공식자료 https://nvidianews.nvidia.com/news/openshell-reference-architecture, Google TorchTPU 공개자료와 AWS TorchNeuron 공지를 확인했다.",
+          "result": "최근 원고와 중복되지 않은 OpenShell의 새 하드웨어 연계 보안 아키텍처를 보완 선정했다. Google-Meta TPU와 AWS Trainium 후속은 기존 TorchTPU·TorchNeuron 사건 중복으로 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "2026-10-21 2026-10-22 ROCm vLLM SGLang inference runtime kernel NPU orchestration hardware security OpenShell",
+          "official_sources": "NVIDIA OpenShell 공식자료와 아키텍처 문서 https://docs.nvidia.com/openshell/about/architecture, ROCm https://rocm.docs.amd.com/, vLLM·SGLang 공개 릴리스를 확인했다.",
+          "result": "런타임 정책과 DPU 격리를 결합한 OpenShell을 선정했다. SGLang Trainium 플러그인은 기존 Trainium 소프트웨어 전환 사건의 후속으로 독립성이 낮았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026-10-21 2026-10-22 HBM hybrid bonding CXL UCIe advanced packaging Korea China NAND; 용인 반도체 송전망 전력 용수 인허가 공정률",
+          "official_sources": "Reuters 중국 NAND 원문 https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/ 및 Besi 원문 https://www.reuters.com/business/besis-quarterly-orders-beat-expectations-ai-data-centre-demand-stays-strong-2026-10-22/ 을 확인하고 국내 산단 보도를 대조했다.",
+          "result": "한국 메모리 기업의 중국 공정 고도화와 하이브리드 본딩 장비 주문 변화를 선정했다. 용인 송전망 1% 후보는 전문·원자료 검증 부족으로 제외했다."
+        }
+      },
+      "alternative_sources": "당일 collection의 최신 저장시각은 09:36:20 KST로 마감 뒤였고 09:20·09:27 마감 전 실행 기록이 없었다. 전체 archive parts와 부처·기관·기업 공식자료, 연합뉴스·Reuters·서울경제 공개 채널을 직접 보완 검색했다. 서울경제 원문 403은 공개 채널 재게시로 핵심 사실과 18:03 KST 공개시각을 대조했고, 하이퍼엑셀·용인 송전망은 대체 공개 전문이 충분하지 않아 선정하지 않았다."
+    },
+    "selected": [
+      {"article_number": 1, "reason": "국책과제가 국내 NPU·모듈·SW와 LG전자 휴머노이드의 시스템 검증으로 연결돼 제품통합 단계와 후속 구매 판단점을 보여준다."},
+      {"article_number": 2, "reason": "교통·철도·버스 수요처 적용과 레이더 융합·해외 양산 협력이 함께 공개돼 국산 엣지 NPU의 실증에서 조달·상용화로 가는 경로를 비교할 수 있다."},
+      {"article_number": 3, "reason": "공공 AI가속기 구매의 실제 편중과 정부의 후속 협약 계획이 공개돼 국산 NPU 수요창출 정책의 집행 격차와 조달 개선 과제를 직접 보여준다."},
+      {"article_number": 4, "reason": "한국 메모리 기업의 중국 생산기지 고도화가 미국 장비 허가와 AI SSD 수요 사이에서 진행돼 공급망·통상 정책 판단에 중요하다."},
+      {"article_number": 5, "reason": "가속기 생태계 경쟁이 에이전트 런타임·보안과 DPU 정책 집행으로 확장돼 국내 NPU 운영 SW와 하드웨어 연계 보안의 비교 기준을 제시한다."},
+      {"article_number": 6, "reason": "하이브리드 본딩 장비 주문과 HBM 양산 적용 압력이 수치로 확인돼 국내 첨단패키징 공정 전환과 장비 생태계에 영향을 준다."}
+    ],
+    "excluded": [
+      {"title": "하이퍼엑셀, 내년 상반기 말 베르다 500 1만장 양산 계획", "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424497", "reason": "국산 LLM 가속기 양산계획과 고객 PoC는 중요하지만 공개 전문 접근이 제한돼 고객·주문·양산 근거를 충분히 검증하지 못했다."},
+      {"title": "내년 팹 가동한다면서…용인 반도체 송전망 공정률 1%", "url": "https://m.sedaily.com/amparticle/20105024", "reason": "클러스터 전력 병목의 구체적 후속 후보로 재평가했으나 공개 전문과 공정률·예산 원자료를 충분히 확인하지 못해 10월21일 원고의 material update로 선정하지 않았다."},
+      {"title": "Google TPUs for AI workloads now run in Meta's data centers", "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-tpus-for-ai-workloads-now-run-in-at-metas-data-centers-tpus-sold-to-external-customers-for-the-first-time-threaten-nvidias-market-dominance", "reason": "Meta 운영 사실은 중요하지만 10월21일 TorchTPU·SGLang 공개 원고의 같은 발표와 협력 범위를 재서술한 후속 보도로 판단해 중복 제외했다."},
+      {"title": "SGLang AWS Trainium Plugin Beta", "url": "https://staging.lmsys.org/blog/2026-10-22-sglang-trainium-beta", "reason": "10월20일 게재한 AWS TorchNeuron의 동일한 PyTorch 전환 사건에 속하고 플러그인은 베타 단계여서 독립 이슈로 분리하지 않았다."},
+      {"title": "SK하이닉스, 솔리다임 미국 상장 중단 보도", "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wcGZYanJLOTFpWDBaZ1BxX0pJOFJZSjN0VTFGS05IWENRWWxaUHdtTEdlY2JtcFctczloaEZBWlhvLW9KMFZVYlhrTEFmM00wQ0hLWE5QSkQtTmpEUUs0?oc=5", "reason": "AI SSD 투자재원 변화 후보지만 09:30 직전 공개된 단일 보도의 핵심 협상·결정 근거를 독립 원문으로 충분히 확인하지 못했다."}
+    ],
+    "company_overlap_review": "선정 기사 1·2는 서로 다른 국내 NPU 기업과 수요처·기술계층의 독립 사건이다. 기사 4는 삼성전자·SK하이닉스의 공동 공급망 제약을 하나의 사건으로 묶었고 기사 5의 엔비디아는 최근 회차 기판·로봇·AI 팩토리 협력과 달리 운영·보안 아키텍처가 핵심이다. 같은 기업 이름의 반복보다 제품통합, 공공조달, 공급망, 운영 SW, 패키징이라는 정책 판단축의 독립성을 재검토했다.",
+    "count_reason": "전체 아카이브 5,237건과 48시간 발행 조건 3,226건을 조사범위로 두고 다섯 영역의 독립 사건 14건을 비교했다. 공개본문·시의성·최근 14일 중복을 검증한 10건 가운데 국내 NPU 제품통합 2건, 공공조달, 메모리 공급망, 운영 SW 보안, 첨단패키징 수요의 서로 다른 판단축 6건을 선정했다. 접근 제한·기존 사건 재서술·확정 근거가 부족한 후보로 수를 늘리지 않았다.",
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "10월20일 모빌린트 공공 CCTV 납품·우주 PoC와 다른 국책과제이며 LG전자 휴머노이드용 NPU·통합 플랫폼과 신뢰성 검증 범위가 새로 공개됐다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "10월21일 딥엑스 OpenVINO·AMD 협력 원고와 다른 교통 수요처 사건이며 바이다·소타텍 MOU와 국내 적용 단계가 새로 공개됐다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "최근 14일 원고에 산업부 소관 공공기관의 191장 구매 통계와 국산 1장, 다음 달 우선구매 협약 추진이 게재된 적이 없다."},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "10월22일 원고에서 마감 뒤 공개 후보로 제외됐던 미게재 사건이며 이번 회차 48시간 보완 기준에서 미국 허가·공정 고도화 내용을 처음 선정했다."},
+      {"article_number": 5, "result": "new_event", "previous_editions": [], "note": "10월22일 원고에서 기업 중복을 이유로 제외했던 미게재 사건이며 최근 14일 동일한 CPU·DPU·런타임 통합 보안 아키텍처 원고가 없다."},
+      {"article_number": 6, "result": "new_event", "previous_editions": [], "note": "Besi 3분기 주문과 하이브리드 본딩 장비 주문 증가·HBM 양산 압력은 이번 구간에 처음 공개됐고 최근 14일 같은 사건이 없다."}
+    ]
+  }
+}
