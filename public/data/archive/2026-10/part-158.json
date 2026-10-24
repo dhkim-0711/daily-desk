@@ -1,7 +1,305 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-10-24T04:46:23.742Z",
+  "updatedAt": "2026-10-24T04:54:11.792Z",
   "articles": [
+    {
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:25 +0000",
+      "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at [&#8230;]",
+      "outlet": "NVIDIA Blog",
+      "outletUrl": "https://blogs.nvidia.com",
+      "source": "NVIDIA 공식 기술발표",
+      "sourceIds": [
+        "nvidia-official-blog",
+        "nvidia-official-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 23,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-15T12:37:32.831Z",
+      "fullSummary": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide Cisco, Google, Meta, Microsoft and Visionbay are joining many making advances with Vera Rubin. October 12, 2026 by NVIDIA Writers 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably.",
+      "summarySource": "article"
+    },
+    {
+      "title": "Hurricane Isaias in Florida, Google DeepMind beats ECMWF and GFS - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVk9EVjNXLUJhSTZ2eVNodHBhVy1jMW9seGZkQV9wNEVRRFNocGktOWR6YTM0YmtOZ1o0dWh6cWxSdk1iYTY4MFVvdUFJMDVrQUJLQTA2emtsWTlNWFRrZ0tLQU9CS3lWWFhRNTd3NkZkRjR6OGh3TWdlU2VrWjZwUkppMzNPN2Uy?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:15 GMT",
+      "summary": "Hurricane Isaias in Florida, Google DeepMind beats ECMWF and GFS &nbsp;&nbsp; Pasquale Pillitteri",
+      "outlet": "Pasquale Pillitteri",
+      "outletUrl": "https://pasqualepillitteri.it",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 15,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
+    {
+      "title": "NVIDIA Hands Its Vera Rubin Rack Designs To OCP, Stripping Compute Trays Of Every Cable, Hose, And Fan - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjBrUXRWSTc3NEVTc294M1NIQXY4MTV1a1l1NXJjZlVKWXUwNmo4YW5pYUlLVWJsVWZTMURLZUNOSzRLaVp5VkhFU2ZtSXpmZWtYb3k0aUdRcDZIYmF5OEs1aG0tWjVhQ3JLbF9wdW1LU1dRQm5jQlR3dEFCMFVzeHhoeDNDUWVjcHhFZnBR0gGTAUFVX3lxTE1HX0Utc3dQVTZ3M2pFamQwQWlTbE00Q3BPTjZITXpLZXY1eHc3aVEwb2xBV01yemp1UHJKQ081OGJnUzdFcWpncVNSOTg5YUpKaWJ6YnRCTDZZM2lKVlVTRHJTZzA5VjJkWjVjel9KVGlBVHNaMkJzLTFlZ1Q3eXpkX3o0bHVrMTBXRkRkT0lBeHB1WQ?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:02 GMT",
+      "summary": "NVIDIA Hands Its Vera Rubin Rack Designs To OCP, Stripping Compute Trays Of Every Cable, Hose, And Fan &nbsp;&nbsp; Wccftech",
+      "outlet": "Wccftech",
+      "outletUrl": "https://wccftech.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 18,
+      "firstSeenAt": "2026-10-12T21:42:25.155Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
+    {
+      "title": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFN3R3NFLVVVZE40T3c5ZmVhdzFFQ24taFViMElfVC1STTkwSWlIMHJ5X1BCZWJWQ2Vkck1EWklDS2Z1cEktb3NyY2FNMzBST2ozM08wUU44VnUwc3hKQ0pwT2JtQlpsd1RrMzlPbWh1UVQxM2Z1ZzRNclhCbTFMdDd0LU56MmRIYTM3cGpBZl9zaklycS1VMmlycHNPTGpQN21lNUxEbDVzMXByMDBrazZfbmRCLXlialBEbFVaN1N5SFRnRlRFOThFUXA0Yl9jdjNN?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:00 GMT",
+      "summary": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "Google",
+        "AMD"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA",
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 29,
+      "firstSeenAt": "2026-10-12T21:42:25.155Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
+    {
+      "title": "Google Cloud Redefines Agentic AI: Outcomes, Simplicity, Affordable - Cloud Wars",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2Y3Y29sNzZXajJySFhWRm13NVhWSW9WbHpXNVRyZHhuSU1DSHctQk0taXNpbk00ZmN4a3A4RE05TGo4MFliUU9uUFZla3BfTzJMMkNSb0luSzQ5Y2J1QjJlNWpYZTRBM2dEZDY5cmd4NzhYSk51UXlacmRmd1JCa1hlSng5M2tfeG5jRzUzT1d5ZWRU?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:00 GMT",
+      "summary": "Google Cloud Redefines Agentic AI: Outcomes, Simplicity, Affordable &nbsp;&nbsp; Cloud Wars",
+      "outlet": "Cloud Wars",
+      "outletUrl": "https://cloudwars.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 26,
+      "firstSeenAt": "2026-10-12T21:42:25.155Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
+    {
+      "title": "Nvidia tackles AI factory scaling bottlenecks with open rack designs and networking advances - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDR5LVBqRE1pV3NhandIU1ZqdG9SN3JPeHNQMF9VN3QxWWRQZEFibEZlSld2aDBRMTlVZnBLenhOenBtdUtacjloRFIwdjloMnY1OUxKWGF6bVlwZVpkdGtsRVZNVXIwdzRoS09fdHVvNFMybjBLdWM5N1FKU19tRzNEeWFMR3NWUThieEJCUWtsRGtlS2ZjSWdkaXlVaC1GaHBxd1Y5eG5OWjJIVjNlTkMxc3pKT0FfY3VUTmJsWWhCei01MTYzaQ?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:00 GMT",
+      "summary": "Nvidia tackles AI factory scaling bottlenecks with open rack designs and networking advances &nbsp;&nbsp; SiliconANGLE",
+      "outlet": "SiliconANGLE",
+      "outletUrl": "https://siliconangle.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
+    {
+      "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:00 GMT",
+      "summary": "NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable transceivers.",
+      "outlet": "NVIDIA Newsroom",
+      "outletUrl": "https://nvidianews.nvidia.com",
+      "source": "NVIDIA 공식 보도자료",
+      "sourceIds": [
+        "nvidia-ai",
+        "nvidia-official-news",
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-21T05:58:07.008Z",
+      "fullSummary": "News Summary: Ultra-Dense Small Form Factor Pluggable (USFP) is designed to be the first module to support 400Gb/s-per-lane electrical signals, enabling capacity up to 12.8Tb/s so AI factory builders can scale Ethernet AI fabrics, while extending a proven deployment model across multiple generations of data center networks. USFP delivers 4x the bandwidth density and 1.3x the power efficiency of 200Gb/s-per-lane optics so AI factories can connect more computing systems without adding network tiers, while using less power to move each bit of data. NVIDIA and Cisco are working with TE Connectivity and Amphenol to build a multi-source hardware ecosystem around USFP. &nbsp; NVIDIA and Cisco today...",
+      "summarySource": "article"
+    },
+    {
+      "title": "DG Matrix Unveils Interport 360 SST and Interport OS for AI Factories Based on NVIDIA MGX - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeDJvM2VSWTNIUjN3VlA0MGVLSlZKMUV0OXRZblZEMElWajlLNUZQbHNjTzdrNzgwc1RhdDdpajExcXhIVzVPUnhZb2REa2NWMWU1WjlPWXFrZkhpZUtjQzRpVkN5VUF4SkV6UFFtajViU1I1aXFRLXNIb3dKNzdEUmFIdUx2OWNyMHRIb0s2REV1T2tBZkxzNVpDMnVUeDdRVl9keWJBN1MxN0NGVmdaRGZXbWlNU3pOMFR1ZUlQaVQ4a0d6RUo1REFlT1FtY1hsSlcxMnZkU3dhU041dF8w?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:00 GMT",
+      "summary": "DG Matrix Unveils Interport 360 SST and Interport OS for AI Factories Based on NVIDIA MGX &nbsp;&nbsp; Business Wire",
+      "outlet": "Business Wire",
+      "outletUrl": "https://www.businesswire.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-12T16:06:06.831Z"
+    },
+    {
+      "title": "SPONSORED: Which AI infrastructure option actually holds a boundary? - The Register",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd2xsekdXdWhMU3RZY05LeGV5QjBYVjBuZFppQW9WU1V2OVBpM2wwR0FZOE1OLW1wR1NULVVNZzRYUTBxOVNoVXBzNkczeUVaUUQwTnB2bU5ZWlZ0NE1hLUlSNGNyVDVCTFNuTXBYVmhOa0ZCSmZ0Y3NXeENseUI1b05QSERyR1NnUjhkX0hoWTBNalppSzJESVhJeXM0b1NtZ2xPQzhiSXlzMjgxbUVNaXI1WGxPX2pyTFBTTjRaOHc?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:00 GMT",
+      "summary": "SPONSORED: Which AI infrastructure option actually holds a boundary? &nbsp;&nbsp; The Register",
+      "outlet": "The Register",
+      "outletUrl": "https://www.theregister.com",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 16,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-15T12:37:32.831Z"
+    },
+    {
+      "title": "Nvidia and Cisco develop USFP form factor: up to 12.8 Tb/s capacity - Techzine Global",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1FCQjhxeW43RklxZ2R1aGszNE12cmdwSXoybEdEZVJQZ0JXeVphSmluMEcwTWIxbE5jUTVackJzUk9wWUpTM2h5dEIzNUxjWHg0R0c1a0doLVpmWHJkQ0x3LUNkNENpbTNwMm1SUEl3RWR4N3FXcXktd3pFQ0NzSXhJMUtwb3BQTVl0S1RPTnZ5MzJkNmtBVWtJd0M2UW9OVFRTN3JJNXhhX08wMGY1YU1wb0ZGaEliblE?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:00 GMT",
+      "summary": "Nvidia and Cisco develop USFP form factor: up to 12.8 Tb/s capacity &nbsp;&nbsp; Techzine Global",
+      "outlet": "Techzine Global",
+      "outletUrl": "https://www.techzine.eu",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-12T23:13:29.308Z"
+    },
+    {
+      "title": "Nvidia may be killing off the RTX 5090 as AI chips take priority over gaming GPUs - TechSpot",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcFlINFpKRm5YSEVlN19UQW1YQkhLSjVSRHNfT0dJRWI1b3lDRUY5MTdEbURRZk1ialBUYzl0ZXhsMFl3VjFvXzZEcmstLWlnRHhjUktYWWpVQkZ5ZUZKeFNZZnlCVUcybmgtWTk3RmF5M2ZESkJ3OFhyNmpYVEI5blEyejgxRE9NQUE?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 14:59:40 GMT",
+      "summary": "Nvidia may be killing off the RTX 5090 as AI chips take priority over gaming GPUs &nbsp;&nbsp; TechSpot",
+      "outlet": "TechSpot",
+      "outletUrl": "https://www.techspot.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-12T23:13:29.308Z"
+    },
+    {
+      "title": "Award-Winning Microscope Video Disqualified From Prestigious Competition For Using Generative AI - IFLScience",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFU4dzFGd21MMHJZYWYxaG9sYmh3TnVXVDZXWjJMRXhRZFVKMWFSN3l3SXl4RjNUZ3NhaVM0aU45OHNTWVdkVEkwTUIzOGFPcEdqeTM0aHdMQkQxR05QS3pFeldfN0FNOVVLaG9KcFp1ajIwaGNzTDNTOEtnVE1UVTF6NHQzVjN0dElFN1VxX0pUZXAxNWJuUDRuem1MSElnaFpkeW04OW81enpZTVFFR1JISk1EUGxpVzl1TC1DX2I2b09YMWd1Vw?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 14:57:29 GMT",
+      "summary": "Award-Winning Microscope Video Disqualified From Prestigious Competition For Using Generative AI &nbsp;&nbsp; IFLScience",
+      "outlet": "IFLScience",
+      "outletUrl": "https://www.iflscience.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-12T21:42:25.155Z"
+    },
     {
       "title": "Google AI Overviews Take Clicks and Credit Without Making Searchers Happier, Study Finds - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHNfc1BRanl5ME9qWHJucnNSUGRQYWVMQW4xWGUxU1ZrVDFpY1Fob2R0QVNYaWNhRm1JcnFCNUp5UWxXZHNsZFVMYVc2azcyNldrWUNzRDRvXzIzM0VzS3lET3ZCQ1BwVjY4S1JaeUNLdGM3NTlPZVE0SG1CWEFYekt3?oc=5",
@@ -1968,269 +2266,6 @@
       "issueCategory": "AI시장",
       "score": 18,
       "firstSeenAt": "2026-10-12T21:42:25.155Z",
-      "lastSeenAt": "2026-10-13T03:00:06.725Z"
-    },
-    {
-      "title": "Marvell unveils second-generation Structera X memory expanders for AI inference - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBSmtZZUtwZndEUE5waUVGaVhjTzBtM0Jtak1fRFFaa3ZYZE9hRjExTnZqSm1Ra3dKc2VWdkVQRWNjNmxDbFhPdmppT3NUVkxwemVKV21oWUtpbXZYSUdzMF9uS2Q0dXhBUjBWZzRBZTZneWVPOGV6eQ?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:27:48 GMT",
-      "summary": "Marvell unveils second-generation Structera X memory expanders for AI inference &nbsp;&nbsp; Crypto Briefing",
-      "outlet": "Crypto Briefing",
-      "outletUrl": "https://cryptobriefing.com",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "추론"
-      ],
-      "issueCategory": "추론",
-      "score": 16,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-15T12:37:32.831Z"
-    },
-    {
-      "title": "AMD launches Helion rack server for agentic AI - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXlUMFlyWGRlS3dVQnBZZ0ZTYW14VGFPM2ZJZzZqUmwyOE1JWVdOMTFiYmtxQWpxc0VrWWlQVHhsbnZsSVN5YmZXRDFhTi1EQmFPX2E1Ymt2MVEtZVUtLVhzUFROZnJWSHM0QTJIemJQa0lObGpHRTRnN1BpR0V1LWJCQV9PSlVoQlE2R0JuNXoyVkdFTjBBTVBPbm0xdHFQWkNRejJtYnpmUQ?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:24:23 GMT",
-      "summary": "AMD launches Helion rack server for agentic AI &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "AMD"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-12T16:06:06.831Z"
-    },
-    {
-      "title": "Nvidia has reportedly stopped producing RTX 5090 cards to focus on RTX Pro GPUs for AI data centers - Video Games Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMGZVS1Q1MG5NSUptdk5Ncmh2Nldlc0J2SFYwUVFhcEhXeW90VW4zVl9jSGZCM1VNTXFQaU8xLTlMWmxCbGpFTzZoU1Z6c285UXM5MDVFMlR1RFNETkpOMjZBampyR0I2MEg0azB0cFhtanhOYnhFTFpzd2RvaXhKaVZ2cG9TZnVZN1UtUHNFQWxDMWZOQnZDbTBFdHEzSktNSTBVRktPNXJwd2M4Zk1pYmI4U3ZQX09XNEFnc0dhZmJNemtieVZ3dnNqdTE1UGVxalBTZ1RSaUQ?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:23:46 GMT",
-      "summary": "Nvidia has reportedly stopped producing RTX 5090 cards to focus on RTX Pro GPUs for AI data centers &nbsp;&nbsp; Video Games Chronicle",
-      "outlet": "Video Games Chronicle",
-      "outletUrl": "https://www.videogameschronicle.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 23,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-12T16:06:06.831Z"
-    },
-    {
-      "title": "마이크로소프트, Maia 300 AI 칩 발표…Azure 멀티 기가와트 규모로 확장 - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGVTZVY5YlVGVFE0SEpvTS1HSy1yc1lXQXlQZHRLVHZ0eDJweEFwQlJEaVRHVk42dE5UeGRQZldidHM2SXNuQlJqVUliTUZzTllaRE5veEppdmRqeTVOejBGeTlXdzEzRHBzWlZyQU9CelFfb2t3bUxIaGNsY3F6TlRIMzBRa3RwbHZaNTRLSnZHWWtjOVE?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:22:26 GMT",
-      "summary": "마이크로소프트, Maia 300 AI 칩 발표…Azure 멀티 기가와트 규모로 확장 &nbsp;&nbsp; Unite.AI",
-      "outlet": "Unite.AI",
-      "outletUrl": "https://www.unite.ai",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market",
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-13T23:25:54.248Z"
-    },
-    {
-      "title": "Microsoft makes ‘biggest bet yet’ on its own silicon, unveils new AI chip to reduce reliance on Nvidia - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUEZEbjdfOE1lY3RRLVpLcGZDNlUtLU93MTlhbW9JYzRoMmlGZHJsNmd5UFRXNjZkWE9FUmhLRFNqOTZVQ3dKaHkyNm15blIwSXduVk9wb18wV1d4djQ5Sm9Fc1E0aFA3cC0wbjhubVFHRlM2emVWTGhvRGNDYmJiN0JwV2tfQ2xHelBzUEU5R1ZPNVZPNW4tY1VhbjhuQUtHMXZILWdqTDgwdkFHZU5XbnZKNEdWUjk2M01jQ1pUeV9tQ2NUQ3FEV0Rn?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:22:17 GMT",
-      "summary": "Microsoft makes ‘biggest bet yet’ on its own silicon, unveils new AI chip to reduce reliance on Nvidia &nbsp;&nbsp; GeekWire",
-      "outlet": "GeekWire",
-      "outletUrl": "https://www.geekwire.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-14T14:01:50.995Z"
-    },
-    {
-      "title": "AI Boom Drives US Wealth Surge as Top 1% Capture Fastest Gains - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUW1NUE9xUGczMkY4NTE2SWdUYUNvc2hUa0tzeXlxYmhjZEFYak5RaG1HeFdhRUdKZzFBckxsYWxLcXZ6UVNFYVdYbjFhV3ZUQmFyMWhEOXlFbllSRzJQSFpFNlY4cHN3Y3pkZXVzXzRXXzg4ekFSSU05T2VBc2hJNmtFRnd0Si1nc1NxalpacnV4RVF6bmItQkxsS3lTdlViNGVvLWQwQkxoZ2dVa1pMOEdQWQ?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:22:11 GMT",
-      "summary": "AI Boom Drives US Wealth Surge as Top 1% Capture Fastest Gains - News and Statistics &nbsp;&nbsp; IndexBox",
-      "outlet": "IndexBox",
-      "outletUrl": "https://www.indexbox.io",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-13T03:00:06.725Z"
-    },
-    {
-      "title": "누수 감지 케이블 시장 2035년 전망: 데이터센터 확장과 산업 자동화가 성장 견인 - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdlgwUzUwMWpadmVBekEtYXdELXo1VF9QLVo3MzNJZUhVczBoVFprYmdhNnNQTm1xdVc5RF8weXVGZC15Ti1hWTAxR1BzUTd2WXUzeWxWQzBqUF9HZkVnODhCd001MjFES3p3cG1zWVBGNThFNWNVejBKcGlnZnh1S3gtb0h0Uy1HOWI2RjVuTHd3NldkTE50NVVkcHl6a1hWbTBIS1ZkMThKZnk3NHdBdW5LVG43YlVSV2pEMjMtYXpkTWpiaUpUREZIbWVtRVEyUjM0dWFvTHZyRlE?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:21:04 GMT",
-      "summary": "누수 감지 케이블 시장 2035년 전망: 데이터센터 확장과 산업 자동화가 성장 견인 &nbsp;&nbsp; IndexBox",
-      "outlet": "IndexBox",
-      "outletUrl": "https://www.indexbox.io",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-13T03:00:06.725Z"
-    },
-    {
-      "title": "AI predicts XRP price at end of 2026 - Finbold",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQNURXbmxtQjVCOW03Tl9oRWh3cnprQVotMnJxd3RPVWhxM0JlNFZEeXN1Y2lqdWlZWFlRT2IxMVlnTmFLMURkRmYybVMxaHFHekc0ZXEyRzkwX0tRWUt1UG50UUJON0tr?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:20:44 GMT",
-      "summary": "AI predicts XRP price at end of 2026 &nbsp;&nbsp; Finbold",
-      "outlet": "Finbold",
-      "outletUrl": "https://finbold.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-13T06:58:34.117Z"
-    },
-    {
-      "title": "Amazon’s Reported $7 Billion Decart Talks Put AI Chip Software in Focus - The Eastern Herald",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWHl1ckZIbkZETjlObFM4WmVZNDA3SzR2NEJ1aFlva1ZCcm5sUG1fLUZlbjNLbTVqSUxYaFBnb3ZLT2M5Unl2T3N2SktkeTRHVTBCS0hTdTRUYXVDTjlQUEJXQW9nWUJxTGVUbWExSldiOFJBMXlNekpwN0dfamZxQjFpOUNtdFB3Qy0tNDlVTXUwTXpDNm9Z?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:20:27 GMT",
-      "summary": "Amazon’s Reported $7 Billion Decart Talks Put AI Chip Software in Focus &nbsp;&nbsp; The Eastern Herald",
-      "outlet": "The Eastern Herald",
-      "outletUrl": "https://easternherald.com",
-      "source": "글로벌 가속기 전략적 거래",
-      "sourceIds": [
-        "accelerator-strategic-deals-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-15T12:37:32.831Z"
-    },
-    {
-      "title": "Researchers Train a 4B Model to Rewrite AI Agent Harnesses - FourWeekMBA",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUhKdzYwZDJwTzZ0VGN6eTYwdE0zbjBRNVJ6X3NxRXh4NGQzYktBRF9UYkQzNnZkZXE5cl9naTVCb29pWXhWUlcxYjVVc1hURHJweFVnMk1oR0ZYUE9JYy0wYmQyTWJDWWtKSWlYZ19nS0tDLURzd21OenpSLU5iUmhabHBSTGFlTl9zQ3dwaw?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:19:42 GMT",
-      "summary": "Researchers Train a 4B Model to Rewrite AI Agent Harnesses &nbsp;&nbsp; FourWeekMBA",
-      "outlet": "FourWeekMBA",
-      "outletUrl": "https://fourweekmba.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-12T16:06:06.831Z"
-    },
-    {
-      "title": "Why Is IREN Stock Surging Monday? - IREN (NASDAQ:IREN) - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3lzNXZqb2QzYU5iUXI1cXZidkZCczl0NlktRXNMa1NGMGhrQVhjbE10YUhSYWVQTVJwRm5PTTRybjFoSjM1YmJSeHJWLXR2SjRxbEsxamQ2TXh6emxuUDlVX1cyVVhYY1p0OURxV0lwTjNMVUo5SjdPZXpRLUlOZHJVbDdPdUNKOWNIX1FQRnRMTEozN2lIRWFlSWx3dXlfUnR4QXZBRkRhUQ?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:14:43 GMT",
-      "summary": "Why Is IREN Stock Surging Monday? - IREN (NASDAQ:IREN) &nbsp;&nbsp; Benzinga",
-      "outlet": "Benzinga",
-      "outletUrl": "https://www.benzinga.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 8,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-13T03:00:06.725Z"
-    },
-    {
-      "title": "IREN Stock Price Forecast: Multi-Year AI Cloud Deal With Anthropic May Push Stock Above $50 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmkyaFFzcERGVkhuNEYyZWxZb3BYdXBydHdFRVRGbnJERVQzdUR5R1dya1k4REp3bVN4aXdVaWJHMFUyb1RjeXVyRXhuM1A5ZHN4UkZ4bnhnbDVVZThGRC1DZC1fbWNGN1U0NHZUVmk4MGxya3BEYXBDZzZyOTk0TEs5QXRKTFhsLUhoNE1iU0lodlhlZkE1eXJyS1loc2xYQ3c3V2hUaEgySHBlbEE?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:14:41 GMT",
-      "summary": "IREN Stock Price Forecast: Multi-Year AI Cloud Deal With Anthropic May Push Stock Above $50 &nbsp;&nbsp; TradingKey",
-      "outlet": "TradingKey",
-      "outletUrl": "https://www.tradingkey.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
       "lastSeenAt": "2026-10-13T03:00:06.725Z"
     }
   ]

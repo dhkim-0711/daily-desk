@@ -1,7 +1,307 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-10-24T04:46:23.742Z",
+  "updatedAt": "2026-10-24T04:54:11.792Z",
   "articles": [
+    {
+      "title": "LS에코에너지, 베트남에 80억원 투자…AI 데이터센터 전력설비 증설 - 직썰",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83ZW9GUm5aaHhOTFQ3TFc5TWxjUUFpRmlXekd3ekt5NlNOZVZkdUV6SGNhc0FVWHRpWVNpbTVoTUkxUG5xajltckszWWJ6NXlibGQ2V3lKLVdxTEhmSTJRYWlERUxxLWhV0gFsQVVfeXFMTm5MNl9pWWRoQnJ2emYwWVZYNkZhQ3BXNGVpaDN1cUJ4VFZYbUVtS19fOEhTSGo2LVVXVzdqaEthbWxERXhiWmZYakhDbU8zZGR6RTQ5VDByY3dJVklnYV9jWFA3d1ozcVN5MTFT?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:33:28 GMT",
+      "summary": "LS에코에너지, 베트남에 80억원 투자…AI 데이터센터 전력설비 증설 &nbsp;&nbsp; 직썰",
+      "outlet": "직썰",
+      "outletUrl": "https://www.ziksir.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-07T09:15:20.365Z",
+      "lastSeenAt": "2026-10-07T11:00:30.069Z"
+    },
+    {
+      "title": "리사 수 AMD 회장 '韓 기업, 중요 파트너…다양한 협력 확대' - 데일리한국",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJZFVaanI2bjhnTXVxNU9XZk1lam0zMTFpZnpuYzAtNUJwNmxGQnNwQmZ2RmhqLTVUbTYyYnQxU0ZZcE1OZmpNR2hrejhiSFhwN1RMeS1TR1A2VXprYi1EUHVQN1VXNmI4THNVcW12d9IBc0FVX3lxTE9vYy10TXhMbzRNMXZtaFVyVVI1d0dQTTZ1OEdZZFdfWWFTTjNZUzNuRW83d1dUZDB3bmhoeUtrbnlGcEhLelR6T0Y2bm94OGl5Z1BRRVVIUXltWHdjem1WM0VlVW9lWl82eEc5RnNERDhHbmM?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:33:25 GMT",
+      "summary": "리사 수 AMD 회장 '韓 기업, 중요 파트너…다양한 협력 확대' &nbsp;&nbsp; 데일리한국",
+      "outlet": "데일리한국",
+      "outletUrl": "https://daily.hankooki.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "furiosa",
+        "hyperaccel",
+        "hyperaccel-broad",
+        "mobilint",
+        "mobilint-broad",
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-10T01:43:02.876Z"
+    },
+    {
+      "title": "AMD's Lisa Su courts Korean AI chipmakers as it takes on Nvidia - The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92MndUb01nN1NCRTNFNEtXbTJHaWQzd1Z3R2VsY2ZDTXc3ZnI4X0tVOUFfMXdVYkRYUHRydWlNSzdCYWtvVHJsZkFFcEstejNRdVVfaWVZVQ?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:33:14 GMT",
+      "summary": "AMD's Lisa Su courts Korean AI chipmakers as it takes on Nvidia &nbsp;&nbsp; The Korea Herald",
+      "outlet": "The Korea Herald",
+      "outletUrl": "https://www.koreaherald.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "AMD"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 24,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-07T06:09:20.068Z"
+    },
+    {
+      "title": "AMD 칩 옆에 국산 AI 칩 탑재… 리사 수 만난 딥엑스, 피지컬 AI 협업 가능성 열렸다 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONVRXQ3duYzVreU1jSXY1VFdvaUx2ZDFQeHdMUUJSM1paUjhtaUZoX0NGemtobTVCanBxcko3ZVk3YmZHUFlqak0xdDdZNG5qLThPMUpJVDBpbU15Z0lXb1YtOEVtaF9xRlMwdGhLaDdFblc5cEJOemNQY1FuSDZYWGV30gGWAUFVX3lxTE1ROVpManAwX1NLMy1zdjRKcWtKTGNZMk1IOFRHTFZFaUVqMkZvcGJzNGVwTlpBYmg0dUZqVTU4OXN6QTA1aVFsQ2ltcjJSSXRtNHRhLXVHZGVNSlZFNlBybVNVNTVXbmR6d2tPOTNPbHNvM2NqRXloZGpncUtVSWRHWnJKUXFsLXJTZUpscS1TQ3lEZlBaQQ?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:31:00 GMT",
+      "summary": "AMD 칩 옆에 국산 AI 칩 탑재… 리사 수 만난 딥엑스, 피지컬 AI 협업 가능성 열렸다 - 조선비즈 &nbsp;&nbsp; Chosunbiz",
+      "outlet": "Chosunbiz",
+      "outletUrl": "https://biz.chosun.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "deepx",
+        "npu-commercialization",
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD",
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 24,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-10T01:43:02.876Z"
+    },
+    {
+      "title": "South Korea aligns AMD and startups as DeepX pursues physical AI tie-up - CHOSUNBIZ - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aSVRtQXdnb2s5WllXR3hMek5XZW4xM041azhfLVRvYzJJUUI4Tk51Nk00Q2ZOSU1jUGlwRnphZ003UF9EaHlXSngwYzNXWE5hSVVCcFlKSFpxV1ZicjRGeVR1bmlrMG9kYkhEWW1UTzJfaTJ3b1Q3NkNn0gGOAUFVX3lxTE9DR3RXUDNsWi03WU5sN3VISnFWalBJV0lLWjlGbEc1LWhfa2hUMS1sajFaczlhd2d4bTdjeXBSVlh2THdBNDZ6UXh5WTd2UTRKc2l1THUtbWFPYm1oN3pFdS0yN3p4M3kwbWFvZmdhbEw5U20zcjRvV1pqZTB0ZXhhbEd1VzFRczAyVzZPS1E?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:31:00 GMT",
+      "summary": "South Korea aligns AMD and startups as DeepX pursues physical AI tie-up - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+      "outlet": "Chosunbiz",
+      "outletUrl": "https://biz.chosun.com",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD",
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 24,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
+    {
+      "title": "Korea, AMD, DeepX forge heterogeneous AI partnership to boost physical AI - CHOSUNBIZ - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aSVRtQXdnb2s5WllXR3hMek5XZW4xM041azhfLVRvYzJJUUI4Tk51Nk00Q2ZOSU1jUGlwRnphZ003UF9EaHlXSngwYzNXWE5hSVVCcFlKSFpxV1ZicjRGeVR1bmlrMG9kYkhEWW1UTzJfaTJ3b1Q3NkNn0gGOAUFVX3lxTE9DR3RXUDNsWi03WU5sN3VISnFWalBJV0lLWjlGbEc1LWhfa2hUMS1sajFaczlhd2d4bTdjeXBSVlh2THdBNDZ6UXh5WTd2UTRKc2l1THUtbWFPYm1oN3pFdS0yN3p4M3kwbWFvZmdhbEw5U20zcjRvV1pqZTB0ZXhhbEd1VzFRczAyVzZPS1E?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:31:00 GMT",
+      "summary": "Korea, AMD, DeepX forge heterogeneous AI partnership to boost physical AI - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+      "outlet": "Chosunbiz",
+      "outletUrl": "https://biz.chosun.com",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD",
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 23,
+      "firstSeenAt": "2026-10-08T16:56:41.528Z",
+      "lastSeenAt": "2026-10-10T01:43:02.876Z"
+    },
+    {
+      "title": "AI Agent Gateway: Open-source tool keeps credentials out of agent configs - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFYkpjbXAwZENoQ2UtOG84RFhzWXVTcnE4djU4UGl0cVRDTzMweXo0cTk5RnZDcFVWSWJ0bmhxN3BkMFVDNHZtT3RMVnFzU0dtSGVqQXRaOVNWTjZ6MVh3WVkzVkFHYmRPeEVKOVpaN0hKVXAyV1c0eGgxVUE?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:30:59 GMT",
+      "summary": "AI Agent Gateway: Open-source tool keeps credentials out of agent configs &nbsp;&nbsp; Help Net Security",
+      "outlet": "Help Net Security",
+      "outletUrl": "https://www.helpnetsecurity.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
+    {
+      "title": "[분석] 젠슨 황 잡으러 한국 온 리사 수···AMD가 찾은 건 '메모리와 데이터' - 여성경제신문",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHMVF0VHBOUVZmUVVINmdsR28xRkZBbEdtVl9NVEVYb0dXOENXV0ppSFNiSHVhZ3pfRmhhZFZoUWw5NHpnNnFFVVFlT0FvcHFNMDU4Zk91TVJGSWtPakcyU3ZENUtiNTZ3Z3pQekQ5MjV4cU3SAXdBVV95cUxORW5pNDRDU0c5N2d5Y1dkMEdXdkdlcnIxaEtoYU1iUkF4endpX196TVJjMzNGcEd6VU5WRlViU1pvZXc5NDB6WnVpU0pGN2ltN1NfeVVPRlhDQVJjRWZoUG82eGVUeXRFR0pKMkEyWFY1NjU2UmZmSQ?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:30:00 GMT",
+      "summary": "[분석] 젠슨 황 잡으러 한국 온 리사 수···AMD가 찾은 건 '메모리와 데이터' &nbsp;&nbsp; 여성경제신문",
+      "outlet": "여성경제신문",
+      "outletUrl": "https://www.womaneconomy.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "mobilint",
+        "npu-commercialization",
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-07T09:15:20.365Z",
+      "lastSeenAt": "2026-10-10T01:43:02.876Z"
+    },
+    {
+      "title": "해경청, 해양 감시체계 AI 전환 ‘항공 채증영상 시스템’ 11월 인천서 운영 - Daum",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CbHd4UXBtTVFuSWtPY2k5TTFzcEhVRUYyMHBwbjJ1eTdIYThMQWxGcnYtZVNVUHByRjIxdWZKaWxueHlRa1lpWENSZk5vaHc?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:29:45 GMT",
+      "summary": "해경청, 해양 감시체계 AI 전환 ‘항공 채증영상 시스템’ 11월 인천서 운영 &nbsp;&nbsp; Daum",
+      "outlet": "Daum",
+      "outletUrl": "https://v.daum.net",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-07T09:15:20.365Z",
+      "lastSeenAt": "2026-10-10T01:43:02.876Z"
+    },
+    {
+      "title": "구글 '원전 전력' 20년 확보…데이터센터 대응 위해 890MW 증설 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qckphd2l0REpoejVLMDRKNkdGZnJJQXdFdDN4V1JwUkRSb2w2ck1OYTFua25LMGtFbE9SQTVqenpVY1pFWjdrNUY5WC1HLXVGemxBTnA0bzdoR1c5SV9NUTBNV0R5a0RXVXFmSmlBb2FLNGs?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:29:00 GMT",
+      "summary": "구글 '원전 전력' 20년 확보…데이터센터 대응 위해 890MW 증설 &nbsp;&nbsp; 디지털투데이",
+      "outlet": "디지털투데이",
+      "outletUrl": "https://www.digitaltoday.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "Google"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 18,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-07T22:15:59.834Z"
+    },
+    {
+      "title": "韓 다시 찾은 리사 수…이번엔 韓 NPU·삼성 파운드리 동맹 넓히나 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5ZUdaUHR6a08xU1pWdDQwdXNwY1FBeGxQanp0VXZoMkZid25ZRVlQWjJJSi1IZ1VJcFg3Z3M2cFJtY3puNHZnWXhGbFE2MGpJT2lpb2xtM0U3eVk?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:28:41 GMT",
+      "summary": "韓 다시 찾은 리사 수…이번엔 韓 NPU·삼성 파운드리 동맹 넓히나 &nbsp;&nbsp; 에너지경제신문",
+      "outlet": "에너지경제신문",
+      "outletUrl": "https://m.ekn.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "msit-ai-chip",
+        "ai-chip-public-program",
+        "npu-commercialization",
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "NPU",
+        "파운드리·패키징"
+      ],
+      "issueCategory": "NPU",
+      "score": 19,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-09T09:37:24.909Z"
+    },
+    {
+      "title": "韓 다시 찾은 리사 수…이번엔 NPU·삼성 파운드리 동맹 넓히나 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5ZUdaUHR6a08xU1pWdDQwdXNwY1FBeGxQanp0VXZoMkZid25ZRVlQWjJJSi1IZ1VJcFg3Z3M2cFJtY3puNHZnWXhGbFE2MGpJT2lpb2xtM0U3eVk?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:28:41 GMT",
+      "summary": "韓 다시 찾은 리사 수…이번엔 NPU·삼성 파운드리 동맹 넓히나 &nbsp;&nbsp; 에너지경제신문",
+      "outlet": "에너지경제신문",
+      "outletUrl": "https://m.ekn.kr",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko",
+        "korea-npu",
+        "ai-chip-public-program",
+        "npu-commercialization",
+        "msit-ai-chip"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "NPU",
+        "파운드리·패키징"
+      ],
+      "issueCategory": "NPU",
+      "score": 19,
+      "firstSeenAt": "2026-10-07T22:15:59.834Z",
+      "lastSeenAt": "2026-10-10T01:43:02.876Z"
+    },
     {
       "title": "“국산 NPU 풀스택 실증…AMD와 피지컬AI 협력도 논의” - 이데일리",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnR5VmJjakdmRTIwZUNMVGsxang5NlUxWkNUYU1LUmUwNkRNTTFXV3FrcHhYRThWUFFGNkVjMVJSTkhxOHVETFdNemQ2dFRYbWh3NjUycHhCLVJKekEtR0FVdWRydGtlTTVTLTZqcWhwMWJrdWpCeC1WUldNWDVxNQ?oc=5",
@@ -1967,273 +2267,6 @@
       "score": 12,
       "firstSeenAt": "2026-10-07T06:09:20.068Z",
       "lastSeenAt": "2026-10-10T01:43:02.876Z"
-    },
-    {
-      "title": "Fast-growing Temporal hires team from NYC startup Oso to build AI agent security controls - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUdnQVdSazN0NTNaRF9lR2hXNU13ZTlfOFNCUnBZdkpYSkp2R1luREVvWGp0SXBLMElNVVFsRi0ycWZkdE1ZRl9xRF9KeUVGcE9lVXpBOWlKZGc4ZFRLS25aRzNhRWtXdjZsMExUOGEwU1E3X04xYXp4VnZPeXQ1S21YaFVwMUdXSkliOVl2d2RuQlRQYlY3R3FSNDV3S25kTi1qRmxoekFjUnFhVFJ4ZzZtb0JOTmgxaklqRQ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:16:00 GMT",
-      "summary": "Fast-growing Temporal hires team from NYC startup Oso to build AI agent security controls &nbsp;&nbsp; GeekWire",
-      "outlet": "GeekWire",
-      "outletUrl": "https://www.geekwire.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-08T11:18:21.272Z"
-    },
-    {
-      "title": "규칙을 한 항목씩 찾아 읽는 햄보이 : 오토체스 서바이버 도움말 활용 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LOEpSSHh1UnZBVWY3dDdQcGFleW9XM3RoUzJwbk1hS2ItMDZ6Nm5pNmk1RzNFN2QwRFBzZ2oxdFpJQzM4cDVoR2pmeDZEUHJqUEJiVS1iNFNDYzI4NlRJUEVnNHEzZ1gtVG9rcm9FSm9WQQ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:15:11 GMT",
-      "summary": "규칙을 한 항목씩 찾아 읽는 햄보이 : 오토체스 서바이버 도움말 활용 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "rebellions",
-        "npu-commercialization"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-07T19:18:42.713Z",
-      "lastSeenAt": "2026-10-10T01:43:02.876Z"
-    },
-    {
-      "title": "[오늘 이 종목] 엔비디아 파트너 · 피지컬 AI 기대…MDS테크 '주목' - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5udHdoeEw5WmMwdG1ZLUFPNEI3MGt0Q1BPblNDdG9fcExJY3FaYmdFek9EUmlCcE9Rb05TT1BtZFVXUmRocEtsaWFCemFvNVZrcVRuYml4LTBzUTdhZEhWVERMTVl1WFZS0gFuQVVfeXFMT3o3TEpZZjZ4UWhqTUpnRDdjSThtMnlCWXp5WHJlOGdpQmVZRnhENy1RR2hpdG5USjkyNmQxOV8xZEdfb0t4UDNPQWVDS3l6ejV4U090REpMS1c5UThMRWJEdzM2ZFdwVlBuZzRkYUE?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:12:11 GMT",
-      "summary": "[오늘 이 종목] 엔비디아 파트너 · 피지컬 AI 기대…MDS테크 '주목' - 머니투데이 &nbsp;&nbsp; 머니투데이",
-      "outlet": "머니투데이",
-      "outletUrl": "https://www.mt.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-07T09:15:20.365Z",
-      "lastSeenAt": "2026-10-07T11:00:30.069Z"
-    },
-    {
-      "title": "여권 들고 떠나는 'AI 여행'…메가존 \"기업 AX 여정 책임진다\" - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ySFZGTXhwam5sSVc0ajhtRHN6U19yTGwza2RQSkZNbEd4bjdVbVdxbkNMaTgxQWFWQzR0eU1LZ0VCOWh3NWpDeFByOWFvRTJYS1NVbFJR?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:11:19 GMT",
-      "summary": "여권 들고 떠나는 'AI 여행'…메가존 \"기업 AX 여정 책임진다\" &nbsp;&nbsp; 지디넷코리아",
-      "outlet": "지디넷코리아",
-      "outletUrl": "https://zdnet.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-07T11:00:30.069Z"
-    },
-    {
-      "title": "Google’s AI Phone Calls May Soon Chat to Your Mom for You - PCMag Middle East",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWG01aUcyTWt1aVlIYWJ4d1ZHdlVKQlhadlpTd1NfNzZ6Tm5aOEdzMTRIQ3JpcDZKRHo1TkZhem9xU3R1LXlyek1fLVhiUl9KTDhlbk04TmJ5UFc3Q2t6YUxCQTczcXZzS050Y25RR3FQbEVsanFpbzVlSDVqektTWno2X010b3BKYks4a2s0V3BlT28?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:11:14 GMT",
-      "summary": "Google’s AI Phone Calls May Soon Chat to Your Mom for You &nbsp;&nbsp; PCMag Middle East",
-      "outlet": "PCMag Middle East",
-      "outletUrl": "https://me.pcmag.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-06T17:25:04.264Z",
-      "lastSeenAt": "2026-10-08T01:51:37.240Z"
-    },
-    {
-      "title": "'韓서 AI 인프라 동맹 구축' AMD, 국내 14개사와 맞손 - 중소기업신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95dDktb2tUeElaVXdtT0xmbkNpcG9PZTR4enNvYXBHckJoX0o2MzBFT2hhOURIRVVxRTlEMHVWYlgyaW9XWVdCNnBPanFhd05GRGEwTGFuTWFqUkNvVm5YSlFRUV9FdndVY2xGQg?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:11:13 GMT",
-      "summary": "'韓서 AI 인프라 동맹 구축' AMD, 국내 14개사와 맞손 &nbsp;&nbsp; 중소기업신문",
-      "outlet": "중소기업신문",
-      "outletUrl": "http://www.smedaily.co.kr",
-      "source": "국내 가속기 운영 SW 보도",
-      "sourceIds": [
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "AMD"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 17,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-09T18:46:22.187Z"
-    },
-    {
-      "title": "최정호 시장 취임 100일…\"익산 대전환 속도 낸다\" - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CbG9QZW1tU3pRc21IeFJrS3RxWktNMndWQ25STzgyWmlxZ3FyRk9YQ1ZyQnRhLWw3ZGtPU2VQdXJpZHFEbnExdTZPTmxHU1F0NTBlOEtJY2VadzBHZUhWddIBeEFVX3lxTFBjWXZRR25vSGRtVHhCeFIzelQ5VzdaTVFDYW1KVTVLWjI3MmpFdHlKZzhPSVpiZF96YkpQVHpRRjNoOWEzVjh4MHJmS2hiSjYxaXgzYlhLZkk0ZzBNYlhXeEEwSWQyZUZseXdnbmpNNzBzaThGcDRMag?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:10:31 GMT",
-      "summary": "최정호 시장 취임 100일…\"익산 대전환 속도 낸다\" &nbsp;&nbsp; 뉴시스",
-      "outlet": "뉴시스",
-      "outletUrl": "https://www.newsis.com",
-      "source": "지자체 NPU 정책·사업",
-      "sourceIds": [
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 8,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-09T09:37:24.909Z"
-    },
-    {
-      "title": "리사 수 만난 국내 반도체 기업···글로벌 시장 진출 협력 - 서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lV201Z25peGFocnRma1ZidnJsRkM1bkQwTXlkUDlVQTNJYVhoQnV5LXQ1amdWeDdrdi1nQ2F6Wm1BVTRlOEhjV2ROSmVEQlpSUXZkMk1jN1NEdUgxdmlWZkEweFBwbndUb1E?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:09:42 GMT",
-      "summary": "리사 수 만난 국내 반도체 기업···글로벌 시장 진출 협력 &nbsp;&nbsp; 서울파이낸스",
-      "outlet": "서울파이낸스",
-      "outletUrl": "https://www.seoulfn.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "ai-chip-public-program"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 8,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-10T01:43:02.876Z"
-    },
-    {
-      "title": "리사 수·젠슨 황의 한국 전략…AMD, 국산 NPU 연결 · 엔비디아, GPU 중심 대규모 인프라 구축 - 데일리연합",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbHZIeU9BWE5yTjFlNW1qVHE2eW5zcVlUZHZQRG9tNU1aN1ZTQVczVVoyeTFOMm8xVGtUVzlVMkpPRVhDYTBXR0pWOE9jdFJFR2lJcFNQZTJQS3M?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:05:36 GMT",
-      "summary": "리사 수·젠슨 황의 한국 전략…AMD, 국산 NPU 연결 · 엔비디아, GPU 중심 대규모 인프라 구축 &nbsp;&nbsp; 데일리연합",
-      "outlet": "데일리연합",
-      "outletUrl": "https://dailyan.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-npu",
-        "npu-commercialization",
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "AMD"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "K-엔비디아",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 30,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-10T01:43:02.876Z"
-    },
-    {
-      "title": "Blue Cloud Softech Begins Delivery Of ₹147 Crore IBM Cloud AI Infrastructure Order - Sahi",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWDZqdUVkUDlHRDJveU9Fd0NrVXhTbW5DcnZZQld2aHNXUExRVVR2RkdNckFqc255MTQxUXZhdU5DZy1NYVdoa3JRcjRaM2hRWnZTSkxFbHdfWlljZUtGWGY5NTFWMi1PajVJVEd1SEVEY3h4Q3Zsd05GTFZPdlpXSnVnOHFmZGlIYzhoQlFzOHgzcG1ndGp1WnZFbXJtQ2RiVXFJb2hDX0h2WjA?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:05:22 GMT",
-      "summary": "Blue Cloud Softech Begins Delivery Of ₹147 Crore IBM Cloud AI Infrastructure Order &nbsp;&nbsp; Sahi",
-      "outlet": "Sahi",
-      "outletUrl": "https://www.sahi.com",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 16,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-10T01:43:02.876Z"
-    },
-    {
-      "title": "NH농협금융, 서남권에 NH금융허브 신설…전략산업 금융지원 확대 - 민주신문",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ENGVrSFRoNnQ4WkVYLXE2NHF4ZzZSRjlQM2lZOHU5ODhZZ0NBd2ZiWnZqVjhhVU9naTNvSkE0NDdjQUMtSE11V1JKTlJ1TDItYTBHcVZlVmF4MGJ3Z1h6d1gyNXZWcHPSAWtBVV95cUxPQk1tMTA1a3RpVmxpdmw0c1lMeTdkSHFlMEx6RzJCYTRJVFIxbGtrVzE3WlhMSnZRdjZXMTM4R3ZyTENOcjBiRVJhelRGbmtHQThZOEEtZnZRUnZ6cGxubTJBbGd4QW5yU1l6Yw?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:03:34 GMT",
-      "summary": "NH농협금융, 서남권에 NH금융허브 신설…전략산업 금융지원 확대 &nbsp;&nbsp; 민주신문",
-      "outlet": "민주신문",
-      "outletUrl": "http://www.iminju.net",
-      "source": "지역 AI·반도체 산업금융",
-      "sourceIds": [
-        "regional-industry-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-07T19:18:42.713Z",
-      "lastSeenAt": "2026-10-10T01:43:02.876Z"
-    },
-    {
-      "title": "AI boom puts US earnings on course for third quarter of 25% growth - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZk1oQnFmYjdtRWFEeFNTZlEtZU9IVGV1Y24wcGJVa2pJY2JURGJORXpGTHRnUVRucUxRYmpMNndGaEdLaU9PZDIybFpXeXlVUURrSUttWG5WUmZzUjZJSk5EYlRDYzF6c3hvMXI4d2ExT3ItVjFMVEdveGpwUkF0dVBHdXI?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:00:47 GMT",
-      "summary": "AI boom puts US earnings on course for third quarter of 25% growth &nbsp;&nbsp; Financial Times",
-      "outlet": "Financial Times",
-      "outletUrl": "https://www.ft.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-07T22:15:59.834Z",
-      "lastSeenAt": "2026-10-08T01:51:37.240Z"
     }
   ]
 }
