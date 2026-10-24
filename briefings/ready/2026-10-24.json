@@ -1,0 +1,307 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-24",
+  "cutoff_at": "2026-10-24T09:30:00+09:00",
+  "window_start": "2026-10-23T09:30:00+09:00",
+  "created_at": "2026-10-24T09:45:35+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1, 2],
+      "bullets": [
+        "정부는 반도체 산단의 인허가·보상·설계를 병행하는 패스트트랙과 공정·수출 규제 13건 개선을 추진하고, AI 데이터센터에는 원스톱 인허가와 비수도권 전력계통영향평가 면제 기준 검토를 제시했다.",
+        "두 대책은 현장 병목을 구체적으로 겨냥했지만 법령·고시 개정과 시행령 마련이 남아 있어 발표된 계획과 실제 적용 시점을 구분해 점검해야 한다."
+      ]
+    },
+    {
+      "article_numbers": [3, 4],
+      "bullets": [
+        "KIND와 국내 기업은 3억2,000만달러 규모 자카르타 AI 데이터센터에서 1억700만달러의 해외 수주를 확보했고, 국내 AI반도체 기술수준은 전문가 평가에서 미국의 85%로 중국 91%보다 낮게 나타났다.",
+        "해외 인프라 수출은 냉각·전력·운영 패키지의 레퍼런스를 만들 기회이며, 기술수준 조사는 제품 성능시험이 아닌 만큼 사업 목표와 성과지표를 분리해 활용할 필요가 있다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "AWS는 2026년 클라우드 용량이 모두 판매됐고 2027년도 대부분 계약됐다고 밝혀 AI 연산자원 부족이 2028년까지 이어질 가능성을 제시했다.",
+        "이는 회사 경영진의 수요 설명이지만 가속기 확보뿐 아니라 전력·데이터센터·예약형 공급계약을 함께 고려해야 한다는 점을 보여준다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "정부, 반도체 산단 5년 이내 조성 목표…인허가·보상·설계 병행 추진",
+      "category": "반도체 산업기반·규제",
+      "collected_at": "2026-10-23T14:11:49+09:00",
+      "original_published_at": "2026-10-23T14:00:00+09:00",
+      "original_url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172327/view",
+      "event_id": "korea-semiconductor-megaproject-regulatory-reform-2026-10-23",
+      "event_first_published_at": "2026-10-23T14:00:00+09:00",
+      "event_evidence_url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172327/view",
+      "selection_tier": "primary",
+      "main_points": [
+        "정부는 반도체 첨단국가산단의 인허가·보상·설계를 병행해 기획부터 가동까지 10년 이상 걸리던 기간을 5년 이내로 줄이는 패스트트랙을 추진한다. 산업입지법 개정안은 2026년 7월 발의된 단계로, 목표 기간이 이미 달성됐거나 제도가 시행된 것은 아니다.",
+        "정부가 제시한 13개 개선과제에는 AEO 인증 우수 보세공장의 선운송·후수출신고, 실린더 캐비닛 변경허가 일괄 처리, 상호반응성이 없는 고압가스의 혼합보관 특례 등이 포함됐다. 반도체 혁신성장지원단이 부처·기관별 일정을 조정하되 과제별 법령·고시 개정은 2027년부터 순차 추진된다."
+      ],
+      "implications": [
+        "반도체 투자 경쟁에서 부지 조성뿐 아니라 공정 변경, 장비 반입과 수출 물류까지 사업 일정을 좌우한다는 점을 제도 개선 범위에 반영했다. AI반도체 클러스터 기획에서도 전력·용수와 함께 인허가 병렬처리, 위험도 기반 안전기준, 시험장비 이전·기증 절차를 하나의 실행 일정으로 관리할 필요가 있다.",
+        "정책·사업 기획자는 13개 과제를 일괄적인 규제 완화 성과로 계산하지 말고 법률 개정, 고시 제정, 현장 적용을 각각 추적해야 한다. 산단 조성 5년은 정책 목표이므로 실제 보상·설계 병행률과 팹 착공·가동 시점을 성과지표로 별도 확인하는 것이 적절하다."
+      ],
+      "sources": [
+        {
+          "title": "반도체 메가프로젝트 규제합리화 방안",
+          "publisher": "산업통상부",
+          "published_at": "2026-10-23T14:00:00+09:00",
+          "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172327/view",
+          "verification": "public_primary",
+          "verified_at": "2026-10-24T09:43:00+09:00"
+        },
+        {
+          "title": "반도체 산단 조성 기간 절반으로…규제 13건 개선 추진",
+          "publisher": "연합뉴스",
+          "published_at": "2026-10-23T16:04:00+09:00",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261023135300003",
+          "verification": "full_text",
+          "verified_at": "2026-10-24T09:43:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "AI 데이터센터 원스톱 인허가·지역 전력평가 면제 검토…국산 기술 실증 확대",
+      "category": "AI 데이터센터·정책",
+      "collected_at": "2026-10-23T21:35:23+09:00",
+      "original_published_at": "2026-10-23T17:03:00+09:00",
+      "original_url": "https://www.hankookilbo.com/news/article/A2026102314380001990",
+      "event_id": "korea-aidc-permit-grid-testbed-policy-2026-10-23",
+      "event_first_published_at": "2026-10-23T14:00:00+09:00",
+      "event_evidence_url": "https://www.opm.go.kr/opm/news/press-release.do?articleNo=163931&mode=view",
+      "selection_tier": "primary",
+      "main_points": [
+        "정부는 AI 데이터센터의 전력계통영향평가·에너지이용계획·건축·경관·교통 심의를 한 번에 처리하는 체계와 타임아웃제 도입을 추진하고, 비수도권 입지에는 전력계통영향평가 면제 기준을 검토한다. 이는 AI데이터센터특별법 시행에 맞춘 제도 설계 단계이며 면제가 확정된 것은 아니다.",
+        "전산실과 냉각·전력설비 등 무인 공간을 주차장 등 시설 의무 산정에서 제외해 1만평 데이터센터의 주차장 기준을 83대에서 25대로 낮추는 방안을 2027년 3월까지 마련한다. 정부는 GW급 AI 데이터센터 인근에 국산 전력·냉각·서버 솔루션을 검증하는 대규모 테스트베드와 클러스터를 조성하고 2027년 기술개발·실증에 2,000억원을 투입할 계획이다."
+      ],
+      "implications": [
+        "AI 데이터센터 정책이 전력 확보와 건축 규제를 별도로 다루는 방식에서 인허가·입지·국산 솔루션 실증을 묶는 방향으로 이동했다. 국산 NPU와 운영 소프트웨어도 테스트베드의 서버·전력·냉각 통합 검증 항목에 포함될 수 있어 실제 참여 요건과 성능평가 기준을 조기에 확인할 필요가 있다.",
+        "비수도권 전력평가 면제와 2,000억원 실증 투자는 각각 검토·계획 단계이므로 확정 특례나 집행 실적으로 쓰면 안 된다. 향후 시행령 입법예고, 예산 확정, 클러스터 입지와 운영주체 선정까지 단계별로 추적해야 사업 기회와 계통 부담을 함께 판단할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "AI 데이터센터 건립 문턱 낮춘다…내년 기술 실증에 2000억 투입",
+          "publisher": "한국일보",
+          "published_at": "2026-10-23T17:03:00+09:00",
+          "url": "https://www.hankookilbo.com/news/article/A2026102314380001990",
+          "verification": "full_text",
+          "verified_at": "2026-10-24T09:44:00+09:00"
+        },
+        {
+          "title": "규제합리화위원회 제2차 전체회의",
+          "publisher": "국무조정실",
+          "published_at": "2026-10-23T14:00:00+09:00",
+          "url": "https://www.opm.go.kr/opm/news/press-release.do?articleNo=163931&mode=view",
+          "verification": "public_primary",
+          "verified_at": "2026-10-24T09:44:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "팀코리아, 자카르타 AI 데이터센터 1억700만달러 수주…냉각·UPS 동반 진출",
+      "category": "산업협력·해외사업",
+      "collected_at": "2026-10-23T14:01:32+09:00",
+      "original_published_at": "2026-10-23",
+      "original_url": "https://www.kindkorea.or.kr/pages/32?id=11537&menuMode=READ",
+      "event_id": "kind-jakarta-ai-data-center-team-korea-orders-2026-10-23",
+      "event_first_published_at": "2026-10-23",
+      "event_evidence_url": "https://www.kindkorea.or.kr/pages/32?id=11537&menuMode=READ",
+      "selection_tier": "supplement",
+      "recency_evidence": "KIND 공식자료의 게시일은 2026-10-23이며, 동일 사건의 공개 보도가 2026-10-23 12:42 KST부터 확인됐다. 아카이브 최초 수집은 2026-10-23 14:01:32 KST로 주 분석구간 안이고 최근 14일 ready 원고에는 같은 수주 사건이 없다.",
+      "main_points": [
+        "한국해외인프라도시개발지원공사(KIND)와 국내 기업들은 인도네시아 자카르타의 11층·연면적 4만9,000㎡ AI 데이터센터 사업에서 1억700만달러 규모의 수주를 확보했다. 전체 사업비는 3억2,000만달러이며 KIND는 1,400만달러를 지분 투자하므로 전체 사업비, 한국 기업 수주액과 정책금융 투자액을 구분해야 한다.",
+        "LG CNS는 기계·전기·배관 시공과 운영을 맡아 최소 7,000만달러 계약을 확보하고, LG전자의 냉각장비와 LG에너지솔루션의 UPS 배터리 등 국내 제품이 함께 공급된다. 이는 계약·투자 실행 단계의 첫 해외 AI 데이터센터 사례지만 서버나 국산 NPU 공급계약은 이번 공개자료에서 확인되지 않았다."
+      ],
+      "implications": [
+        "AI 데이터센터 수출이 단순 시공에서 냉각·전력·운영을 묶은 패키지로 확장되면 국내 반도체·서버 기업이 후속 공급망에 진입할 통로가 생긴다. 다만 이번 계약에 국산 가속기가 포함된 것은 아니므로 향후 서버 조달과 워크로드 운영 단계에서 NPU·운영 소프트웨어 검증 기회를 별도로 발굴해야 한다.",
+        "정책금융은 KIND 지분투자가 실제 국내 기업 수주로 연결된 구조와 현지 운영 리스크를 함께 평가할 필요가 있다. 후속 사업에서는 국내 솔루션 공급액, 장기 운영수익, 현지 인증과 성능 레퍼런스를 분리해 성과를 관리하는 것이 적절하다."
+      ],
+      "sources": [
+        {
+          "title": "KIND, 인도네시아 자카르타 AI 데이터센터 수주",
+          "publisher": "KIND",
+          "published_at": "2026-10-23",
+          "url": "https://www.kindkorea.or.kr/pages/32?id=11537&menuMode=READ",
+          "verification": "public_primary",
+          "verified_at": "2026-10-24T09:43:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "KIND 공식 보도자료의 게시일은 2026-10-23으로 표시됐고, 같은 핵심 사실을 담은 공개 보도가 2026-10-23 12:42 KST부터 확인됐다. 원문 수정으로 마감 뒤 추가된 핵심 사실은 확인되지 않았다."
+        },
+        {
+          "title": "KIND, 자카르타 AI 데이터센터 수주…팀코리아 1억700만달러 계약",
+          "publisher": "뉴스핌",
+          "published_at": "2026-10-23T15:46:00+09:00",
+          "url": "https://www.newspim.com/news/view/20261023000975",
+          "verification": "full_text",
+          "verified_at": "2026-10-24T09:43:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "KISTEP 평가서 한국 AI반도체 기술 85%…중국 91%와 격차",
+      "category": "기술경쟁·R&D정책",
+      "collected_at": "2026-10-23T07:45:34+09:00",
+      "original_published_at": "2026-10-23T05:47:23+09:00",
+      "original_url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02141846645615872",
+      "event_id": "kistep-korea-china-ai-semiconductor-tech-level-disclosure-2026-10-23",
+      "event_first_published_at": "2026-10-23T05:47:23+09:00",
+      "event_evidence_url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02141846645615872",
+      "selection_tier": "supplement",
+      "main_points": [
+        "과기정통부와 KISTEP이 김남국 의원실에 제출한 2024년 기준 전문가 평가에서 고성능·저전력 AI반도체 기술수준은 미국 100% 대비 중국 91%, 한국 85%로 나타났다. 기술격차는 중국 0.9년, 한국 1.5년이었고 메모리 기술수준은 한중 모두 95%였으나 시간격차는 중국 0.5년, 한국 0.6년으로 평가됐다.",
+        "이 수치는 전문가가 산정한 상대적 기술수준으로 실제 칩 성능, 수율이나 양산 경쟁력을 직접 시험한 결과가 아니다. 2022년과 2024년 사이 평가대상과 체계가 바뀌어 시계열 비교에도 한계가 있으며, 1조638억원 규모 초미세 적층 반도체와 900억원 규모 극한환경 화합물 반도체 R&D는 2027년 착수 계획 단계다."
+      ],
+      "implications": [
+        "한국 AI반도체의 약점이 메모리 생산역량만으로 상쇄되지 않으며 설계·저전력 아키텍처와 소프트웨어를 함께 강화해야 한다는 정책 판단 근거를 제공한다. 다만 단일 기술수준 점수를 K-Perf나 수요기관 벤치마크 대신 사용할 수 없으므로 제품 성능·개발도구·양산·고객검증 지표와 함께 해석해야 한다.",
+        "2027년 R&D 구상은 신규 예산 집행이 아니라 착수 계획이므로 예산 확정과 과제 설계 이후에 성과를 판단해야 한다. 사업 기획에서는 중국 대비 격차를 추격 목표로만 두기보다 적층·화합물·저전력 AI칩의 수요처와 양산 전환 경로를 구체화할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "메모리 반도체 중국 추격 거세…AI 반도체는 한국 앞질렀다",
+          "publisher": "이데일리",
+          "published_at": "2026-10-23T05:47:23+09:00",
+          "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02141846645615872",
+          "verification": "full_text",
+          "verified_at": "2026-10-24T09:44:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "AWS, 2027년 클라우드 용량도 대부분 계약…AI 인프라 공급 제약 장기화",
+      "category": "글로벌 가속기·인프라",
+      "collected_at": "2026-10-24T09:03:33+09:00",
+      "original_published_at": "2026-10-24T08:06:00+09:00",
+      "original_url": "https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/",
+      "event_id": "aws-cloud-capacity-sold-through-2027-2026-10-23",
+      "event_first_published_at": "2026-10-24T08:06:00+09:00",
+      "event_evidence_url": "https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/",
+      "selection_tier": "primary",
+      "main_points": [
+        "아마존 앤디 재시 CEO는 AWS의 2026년 클라우드 용량이 모두 판매됐고 2027년도 대부분, 2028년도 상당 부분이 계약됐다고 밝혔다. 일부 용량은 온디맨드 서비스와 Bedrock·EC2 수요를 위해 남겨 두고 있으며 AI 연구소와 기업 수요가 공급을 앞선다는 설명이다.",
+        "아마존은 2026년 설비투자에 약 2,200억달러를 계획하고 있지만 장기 예약계약이 먼저 채워지고 있다. 이는 회사 경영진의 발언에 근거한 수요 전망이며 공급능력 전체를 독립적으로 감사한 수치는 아니다."
+      ],
+      "implications": [
+        "글로벌 연산자원 경쟁이 칩 구매에서 데이터센터 전력·가동시점과 장기 용량계약 선점으로 확장되고 있다. 국내 GPU·NPU 지원사업도 장비 보유량뿐 아니라 실제 가동 가능한 전력, 예약률, 미충족 수요와 사용률을 함께 관리해야 공급 격차를 파악할 수 있다.",
+        "AWS와 대형 AI 연구소의 장기계약은 후발 사업자의 단기 접근성을 낮출 수 있어 공공 인프라 배정과 이기종 자원 활용의 중요성을 높인다. 국내 사업 기획에서는 NPU 대체 가능 워크로드와 운영 소프트웨어 전환비용을 측정해 GPU 부족 대응을 과장 없이 평가할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+          "publisher": "Reuters",
+          "published_at": "2026-10-24T08:06:00+09:00",
+          "url": "https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/",
+          "verification": "full_text",
+          "verified_at": "2026-10-24T09:44:30+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "candidate_counts": {
+      "discovered": 4542,
+      "time_eligible": 2409,
+      "independent_events": 12,
+      "verified": 8,
+      "selected": 5,
+      "basis": "mail/candidates.py가 2026-10월 archive 전체 parts에서 4,542건을 읽고 마감 전 48시간 조건에 맞는 2,409건을 집계했다. 아카이브와 직접 보완 검색에서 중복 보도를 사건 단위로 묶어 12건을 비교했고 공개본문·공식자료·공개시각을 충분히 확인한 8건 가운데 5건을 선정했다. 09:03 KST 수집은 마감 전에 완료됐고 09:34 KST 추가 수집도 있었으나 09:20·09:27 실행 기록은 없어 공식자료 검색으로 공백을 보완했다."
+    },
+    "history_review": {
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-23",
+      "checked_dates": ["2026-10-10", "2026-10-11", "2026-10-12", "2026-10-13", "2026-10-14", "2026-10-15", "2026-10-16", "2026-10-17", "2026-10-18", "2026-10-19", "2026-10-20", "2026-10-21", "2026-10-22", "2026-10-23"],
+      "note": "저장소에 존재하는 최근 14일 ready 원고를 제목·주요 사실·출처까지 사건 단위로 대조했다. 10월13~23일 반도체 산단·전력, AIDC, 국산 NPU 제품통합·공공조달, TorchTPU·TorchNeuron·OpenShell, 패키징과 중국 메모리 관련 원고를 중점 비교했다. 이번 5건은 동일 사건 게재가 없으며 제도계획, 계약 실행, 새로 공개된 기술수준 통계와 글로벌 공급 제약을 각각 독립 사건으로 판단했다."
+    },
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "리벨리온·퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀의 고객검증·제품통합·양산·해외협력을 확인했다. 최근 24시간에 공개본문으로 확인되는 새 제품통합·반복구매 사건은 없었고 모빌린트-LG·딥엑스 교통 협력은 10월23일 원고와 중복됐다. KISTEP 기술수준 공개를 선정해 국산 NPU 사업 성과지표와의 차이를 제시했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·산업부·NIPA·IITP, 중앙·지방정부와 공공기관의 NPU 실증·조달·예산·GPU/NPU 지원사업을 확인했다. NIPA 수집원은 세 차례 모두 empty였으나 공식 사이트와 공개 보도로 대체 조사했다. AIDC 인허가·실증 계획과 반도체 산업기반 규제를 선정했고 제주 AI·반도체 연구사업은 가결 사실 외 예산·집행범위가 불충분해 제외했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·AWS Trainium과 자체 AI칩·SW 생태계 확보 목적의 인수·제휴를 확인했다. AWS의 2027년 용량 선계약 발언을 새 공급 제약으로 선정했다. TorchTPU·TorchNeuron·OpenShell과 Amazon의 전력 부족 보도는 최근 원고 중복 또는 사건 재서술로 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·vLLM·SGLang·커널·런타임·오케스트레이션과 하드웨어 연계 보안을 점검했다. 최근 공개된 SGLang Trainium 플러그인, TorchTPU와 OpenShell은 10월20~23일 게재 사건과 중복됐으며 독립적인 새 기능·도입 성과가 확인되지 않아 선정하지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·CXL·UCIe·첨단패키징, 데이터센터와 반도체 산단의 부지·전력·용수·인허가를 확인했다. 반도체 산단 패스트트랙, AIDC 인허가·실증, 자카르타 수주와 AI반도체 기술수준 공개를 선정했다. 삼성·엔비디아 기판, Besi 하이브리드 본딩, 용인 전력갈등은 최근 원고 중복 또는 새 근거 부족으로 제외했다."
+      }
+    },
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026-10-23 2026-10-24 국산 NPU 고객검증 유상 PoC 제품통합 양산 반복구매 해외협력 K-Perf; 리벨리온 퓨리오사AI 딥엑스 모빌린트 하이퍼엑셀",
+          "official_sources": "과기정통부 https://www.msit.go.kr/, NIPA https://www.nipa.kr/, IITP https://www.iitp.kr/와 국내 NPU 기업 뉴스룸을 확인했다.",
+          "result": "최근 원고와 중복되지 않는 새 제품통합·구매 사건은 확인되지 않았다. 기술수준 공개는 독립적인 정책 판단 자료로 선정했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr OR site:motir.go.kr OR site:nipa.kr OR site:iitp.kr 2026-10-23 NPU AI반도체 실증 조달 GPU 배정; 지자체 AI반도체 국비 예산 실증 데이터센터; 반도체 산단 인허가 전력 용수",
+          "official_sources": "국무조정실 규제합리화위원회 https://www.opm.go.kr/opm/news/press-release.do?articleNo=163931&mode=view, 산업통상부 반도체 대책 https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172327/view, KIND 자카르타 사업 https://www.kindkorea.or.kr/pages/32?id=11537&menuMode=READ 를 확인했다.",
+          "result": "반도체 산단·공정 규제와 AIDC 인허가·실증 계획, 자카르타 계약 실행을 선정했다. 제주 연구사업은 예산·사업단계의 공개 근거가 충분하지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "October 23 24 2026 AI accelerator custom chip acquisition partnership developer ecosystem AWS capacity sold out 2027 TPU Trainium NVIDIA",
+          "official_sources": "Reuters AWS 원문 https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/ 과 최근 Google·AWS·NVIDIA 공개자료를 대조했다.",
+          "result": "AWS의 장기 용량 선계약을 선정했다. 최근 원고와 겹치는 TPU·Trainium·OpenShell 후속은 중복 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "2026-10-23 2026-10-24 ROCm vLLM SGLang inference runtime kernel NPU orchestration hardware security",
+          "official_sources": "ROCm https://rocm.docs.amd.com/, vLLM·SGLang 공개 릴리스와 최근 TorchTPU·OpenShell 자료를 확인했다.",
+          "result": "최근 24시간에 공개본문과 독립성을 모두 충족하는 새 운영 SW 사건은 없었다. 확인된 후보는 최근 14일 게재 사건의 후속 또는 재서술이었다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026-10-23 2026-10-24 HBM hybrid bonding CXL UCIe advanced packaging AI data center power cooling Korea semiconductor cluster permit water",
+          "official_sources": "국무조정실·산업통상부 공식 대책, KIND 공식자료, KISTEP 자료를 인용한 이데일리 공개본문을 확인하고 최근 삼성·SK하이닉스·Besi 보도를 대조했다.",
+          "result": "산단 인허가 패스트트랙, AIDC 규제·실증, 해외 데이터센터 계약과 한중 기술수준 변화를 선정했다. 최근 게재한 기판·하이브리드 본딩 사건은 중복 제외했다."
+        }
+      },
+      "alternative_sources": "당일 collection은 09:03:30 KST와 09:34:15 KST에 저장됐고 09:20·09:27 실행 기록은 없었다. 44개 수집원은 ok였지만 NIPA AI반도체 수집원은 empty여서 전체 archive parts와 과기정통부·산업통상부·NIPA·IITP·국무조정실·KIND 공식자료 및 공개 원문을 직접 보완 검색했다. 접근 제한 후보는 공식자료나 공개 전문으로 교차확인했고 근거가 부족한 후보는 선정하지 않았다."
+    },
+    "selected": [
+      {"article_number": 1, "reason": "반도체 산단의 부지조성부터 공정·수출까지 실제 투자 일정을 좌우하는 13개 규제의 개선 단계와 시행 일정을 제시해 산업기반 정책 판단에 중요하다."},
+      {"article_number": 2, "reason": "AIDC 인허가·전력계통·건축규제와 국산 솔루션 실증을 하나의 정책 패키지로 묶어 국내 AI반도체·인프라 사업의 참여 조건을 바꿀 수 있다."},
+      {"article_number": 3, "reason": "정책금융과 국내 냉각·전력·운영 기업이 실제 해외 계약으로 연결된 사례로, 향후 국산 NPU·서버 패키지의 진입경로를 판단하는 데 유용하다."},
+      {"article_number": 4, "reason": "한중 AI반도체 기술수준과 평가 한계가 함께 공개돼 R&D 우선순위와 제품·사업화 성과지표를 분리해 설계할 근거를 제공한다."},
+      {"article_number": 5, "reason": "글로벌 클라우드 용량이 2027년까지 선계약됐다는 새 사실은 연산자원 접근성, 전력·가동시점과 이기종 자원 활용 정책에 직접 영향을 준다."}
+    ],
+    "excluded": [
+      {"title": "제주 AI·반도체 연구사업 가결", "url": "https://www.newsnjeju.com/news/articleView.html?idxno=302784", "reason": "지방의회 의결은 중요하지만 공개본문에서 AI반도체 사업의 예산, 연구범위와 집행일정을 충분히 확인할 수 없어 선정하지 않았다."},
+      {"title": "SGLang AWS Trainium Plugin Beta", "url": "https://staging.lmsys.org/blog/2026-10-22-sglang-trainium-beta", "reason": "10월20일 AWS TorchNeuron 원고와 같은 소프트웨어 전환 사건에 속하고 베타 플러그인의 독립적인 도입 성과가 확인되지 않았다."},
+      {"title": "AI 데이터센터 전력 부족으로 아마존 엔비디아 랙 유휴", "url": "https://www.reuters.com/", "reason": "사건 최초 공개가 주 분석구간보다 이르고 10월19일 데이터센터 전력·지연 원고와 겹쳐 후속의 실질적 새 사실로 선정하지 않았다."},
+      {"title": "홍콩거래소 AI·반도체 지수 출시", "url": "https://www.reuters.com/", "reason": "새 시장지표이지만 국내 NPU 수요·제품통합·산업기반 변화보다 정책 업무 관련성이 낮아 최종 후보에서 제외했다."},
+      {"title": "한일 AI·로봇 산업협력 논의", "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172323/view", "reason": "업무협의의 방향은 확인됐지만 구체적인 반도체 공동사업·기업 참여·계약 또는 집행 사실이 공개되지 않아 선정하지 않았다."}
+    ],
+    "company_overlap_review": "선정 기사 1·2는 같은 정부 회의에서 공개됐지만 각각 반도체 산단·공정 규제와 AIDC 인허가·전력·실증이라는 별도 소관과 실행체계를 가진 독립 사건이며 original_url과 검증자료도 분리했다. 기사 3은 국내 기업의 해외 계약 실행, 기사 4는 새로 공개된 기술수준 자료, 기사 5는 AWS 공급 제약으로 주체와 판단축이 겹치지 않는다. 최근 회차의 삼성·엔비디아·모빌린트·딥엑스 반복 후보는 제외했다.",
+    "count_reason": "전체 아카이브 4,542건과 48시간 발행 조건 2,409건을 조사범위로 두고 다섯 영역의 독립 사건 12건을 비교했다. 공개본문·시의성·최근 14일 중복을 검증한 8건 가운데 반도체 산업기반, AIDC 제도·실증, 해외 계약, 기술경쟁 통계, 글로벌 연산 공급이라는 서로 다른 판단축 5건을 선정했다. 신규 국내 NPU 제품통합·운영 SW 사건은 최근 원고 중복이었고 지자체 후보는 사업 세부 근거가 부족해 오래된 기사나 일반 AI 뉴스로 6건을 채우지 않았다.",
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "10월13~21일 용인·호남 산단 전력·기관협의 원고와 달리 전국 반도체 산단 패스트트랙과 공정·수출 규제 13건의 개선 일정이 처음 공개됐다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "10월19·22일 Gumi·KT Cloud AIDC 원고와 다른 국가 제도 사건이며 원스톱 인허가, 비수도권 전력평가 면제 검토와 국산 솔루션 실증계획이 새로 공개됐다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "최근 14일 원고에 자카르타 AI 데이터센터의 1억700만달러 수주, KIND 지분투자와 국내 냉각·UPS 동반 진출이 게재된 적이 없다."},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "2024년 기준 한중 AI반도체·메모리 기술수준과 기술격차가 의원실 자료를 통해 이번 구간에 처음 공개됐고 최근 14일 동일 통계가 없다."},
+      {"article_number": 5, "result": "new_event", "previous_editions": [], "note": "10월19일 미국 데이터센터 지연 원고와 달리 AWS의 2026~2028년 클라우드 용량 계약 현황이 CEO 발언으로 새로 공개됐다."}
+    ]
+  }
+}
