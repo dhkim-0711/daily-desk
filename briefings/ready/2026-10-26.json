@@ -1,0 +1,329 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-26",
+  "cutoff_at": "2026-10-26T09:30:00+09:00",
+  "window_start": "2026-10-25T09:30:00+09:00",
+  "created_at": "2026-10-26T09:43:07+09:00",
+  "status": "ready",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1,
+        2
+      ],
+      "bullets": [
+        "국방부는 분산된 GPU·데이터·개발환경을 통합하는 국방AI데이터센터의 정보화전략계획 수립에 착수해 공공 AI 연산자원 사업이 통합 설계 단계로 진입했습니다.",
+        "전남광주통합특별시는 호남 반도체 국가산단의 그린벨트 해제총량 예외를 신속 적용할 수 있도록 광역도시계획 수정안을 제출했지만 정부의 예외사업 선정은 아직 남았습니다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3,
+        4
+      ],
+      "bullets": [
+        "HBM·서버용 D램 증산이 DDR4 공급을 줄이면서 최근 3개월 계약가격 상승률이 DDR5를 웃돌고 재활용 메모리 수요가 PC·서버로 확산하고 있습니다.",
+        "삼일PwC는 중국 반도체 경쟁력의 핵심을 개별 선단기술보다 내수·생산·양산경험이 연결된 생태계로 진단해 기술개발과 고객검증·반복양산의 연결이 중요해졌음을 보여줬습니다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "국방부, 분산 GPU 통합할 국방AI데이터센터 ISP 착수",
+      "category": "국내 정책·사업화·수요처",
+      "collected_at": "2026-10-25T14:05:29+09:00",
+      "original_published_at": "2026-10-25T14:00:00+09:00",
+      "original_url": "https://www.etnews.com/20261023000175",
+      "event_id": "mnd-defense-ai-data-center-isp-2026-10-25",
+      "event_first_published_at": "2026-10-25T14:00:00+09:00",
+      "event_evidence_url": "https://www.etnews.com/20261023000175",
+      "selection_tier": "primary",
+      "main_points": [
+        "국방부는 육·해·공군과 기관별로 분산된 AI 컴퓨팅 자원을 통합하기 위해 ‘국방AI데이터센터 구축 정보화전략계획(ISP) 수립’ 사업의 사전규격을 공개했다. 각 군의 수요를 분석해 인프라 통합 범위와 센터 입지, 총사업비와 연도별 투자계획을 마련하고 2027년 하반기 ISP를 완료할 계획이다.",
+        "구상에는 보안·망분리 요건에 맞춘 대규모 GPU의 클라우드형 통합 배분, 국방AI데이터허브, 비공개·비밀 데이터를 다루는 안심구역과 민간 국방AX거점 연계가 포함됐다. 이는 센터 구축이나 예산 확보가 완료된 단계가 아니라 본사업의 규모·방식·예산 근거를 만드는 사전 설계 단계다."
+      ],
+      "implications": [
+        "분산 구매 중심이던 공공 GPU 수요를 통합 자원으로 전환하면 장비 도입량뿐 아니라 망별 배정률, 가동률, 모델 개발·실증 성과를 함께 관리하는 운영체계가 필요해진다. 국산 NPU가 참여하려면 보안망 호환성, 이기종 자원 배분과 모델 이식성 같은 조건이 ISP 요구사항에 어떻게 반영되는지가 중요하다.",
+        "정책·사업 기획자는 국방 수요를 단순 대규모 GPU 조달로 보지 말고 데이터 품질관리, 폐쇄망 개발환경, 민·군 공동검증까지 묶인 수요처로 볼 필요가 있다. 향후 예산 확보와 발주 단계에서 가속기 종류별 성능·전력·총소유비용 검증 기준이 구체화되는지 후속 확인해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "육·해·공에 흩어진 GPU 통합…국방AI데이터센터 밑그림 착수",
+          "publisher": "전자신문",
+          "published_at": "2026-10-25T14:00:00+09:00",
+          "url": "https://www.etnews.com/20261023000175",
+          "verification": "full_text",
+          "verified_at": "2026-10-26T09:42:42+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "호남 반도체 산단, 그린벨트 총량 예외 신속 적용 위한 계획 수정",
+      "category": "메모리·패키징·인프라",
+      "collected_at": "2026-10-25T13:53:28+09:00",
+      "original_published_at": "2026-10-25T10:50:00+09:00",
+      "original_url": "https://www.news2day.co.kr/article/20261025500015",
+      "event_id": "honam-semiconductor-cluster-greenbelt-plan-amendment-2026-10-25",
+      "event_first_published_at": "2026-10-25T10:50:00+09:00",
+      "event_evidence_url": "https://www.news2day.co.kr/article/20261025500015",
+      "selection_tier": "primary",
+      "main_points": [
+        "전남광주통합특별시는 호남 반도체 국가산단 관련 내용을 추가한 ‘2040년 광주권 광역도시계획안 의견청취의 건’을 시의회에 제출했다. 수정안은 국가·지역전략사업이 국무회의 심의 등을 거쳐 그린벨트 해제총량 예외사업으로 지정되면 광역도시계획 변경 전에도 예외를 적용하고 추후 계획에 반영하도록 하는 내용이다.",
+        "현재 광주권 그린벨트 해제가능총량은 16.69㎢이며, 통합시는 10월 27일 공청회와 후속 심의·의회 동의를 거쳐 2027년 상반기 계획 확정을 목표로 한다. 이번 조치는 행정절차를 미리 정비하는 단계로, 호남 반도체 국가산단 자체가 정부의 총량 예외사업으로 선정된 것은 아니다."
+      ],
+      "implications": [
+        "반도체 클러스터의 실행 속도는 투자계획뿐 아니라 부지 규제와 광역계획 변경 순서를 얼마나 병렬화하느냐에 좌우된다. 이번 수정은 산단 본부지 때문에 지역의 그린벨트 총량이 소진돼 후속 소재·부품·장비 기업 용지가 제약받을 위험을 줄이려는 기반 조치다.",
+        "정책 기획에서는 계획안 제출, 공청회, 지방의회 동의, 정부 예외사업 선정과 실제 산단 지정·착공을 구분해 추적해야 한다. 전력·용수·군공항 이전과 함께 부지 인허가의 선후관계를 관리해야 전체 일정 단축이 실제 투자 집행으로 이어질 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "호남 반도체 국가산단 가속화…그린벨트 예외 절차 정비 돌입",
+          "publisher": "뉴스투데이",
+          "published_at": "2026-10-25T10:50:00+09:00",
+          "url": "https://www.news2day.co.kr/article/20261025500015",
+          "verification": "full_text",
+          "verified_at": "2026-10-26T09:42:42+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "HBM 증산 여파로 DDR4 공급난 심화…계약가격 상승률 DDR5 추월",
+      "category": "메모리·패키징·인프라",
+      "collected_at": "2026-10-26T07:48:41+09:00",
+      "original_published_at": "2026-10-26T04:30:00+09:00",
+      "original_url": "https://www.mt.co.kr/industry/2026/10/26/2026102511201784001",
+      "event_id": "ddr4-supply-shortage-reuse-spreads-2026-10-26",
+      "event_first_published_at": "2026-10-26T04:30:00+09:00",
+      "event_evidence_url": "https://www.mt.co.kr/industry/2026/10/26/2026102511201784001",
+      "selection_tier": "primary",
+      "main_points": [
+        "메모리 업체들이 HBM과 서버용 D램 생산을 확대하면서 DDR4 공급이 줄어 최근 3개월 계약가격 상승률이 24%로 DDR5의 20%를 웃돌았다고 바클레이스가 분석했다. 모간스탠리는 2027년 DDR4 공급량이 2026년보다 약 20% 감소할 것으로 전망했으며, 이는 확정 생산량이 아닌 시장 전망치다.",
+        "DDR4 현물가격은 고점보다 약 12% 낮아졌지만 2027년 말 예상 계약가격보다 20% 높은 수준을 유지한다는 증권사 분석도 제시됐다. 난야테크놀로지와 카운터포인트리서치는 가격 민감도가 높은 제품에서 재활용 메모리 사용이 스마트폰을 넘어 PC·서버로 확산하고 있다고 설명했다."
+      ],
+      "implications": [
+        "AI 메모리 증설이 범용 메모리의 공급을 자동으로 늘리는 것이 아니라 웨이퍼와 설비 배분을 통해 구형 규격의 병목을 키울 수 있음을 보여준다. AI 서버·엣지 장비 사업은 가속기뿐 아니라 호스트 메모리의 조달가격, 수명주기와 중고 부품 품질까지 총소유비용에 반영해야 한다.",
+        "국산 NPU 실증·조달에서도 저가 장비의 DDR4 의존도와 대체 규격 전환 비용을 확인할 필요가 있다. 공급 전망과 가격 분석은 시장 추정치이므로 실제 계약가격, 생산계획과 고객의 재설계 여부를 후속 지표로 봐야 한다."
+      ],
+      "sources": [
+        {
+          "title": "신형보다 더 뛴 구형 D램…AI발 공급난에 재활용까지",
+          "publisher": "머니투데이",
+          "published_at": "2026-10-26T04:30:00+09:00",
+          "url": "https://www.mt.co.kr/industry/2026/10/26/2026102511201784001",
+          "verification": "full_text",
+          "verified_at": "2026-10-26T09:42:42+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "삼일PwC, 중국 반도체 경쟁력의 핵심을 ‘생태계 선순환’으로 진단",
+      "category": "글로벌 가속기·공급망",
+      "collected_at": "2026-10-26T09:13:30+09:00",
+      "original_published_at": "2026-10-26T08:56:00+09:00",
+      "original_url": "https://www.etoday.co.kr/news/view/2639880",
+      "event_id": "samil-pwc-china-semiconductor-ecosystem-report-2026-10-26",
+      "event_first_published_at": "2026-10-26T08:56:00+09:00",
+      "event_evidence_url": "https://www.etoday.co.kr/news/view/2639880",
+      "selection_tier": "primary",
+      "main_points": [
+        "삼일PwC는 중국 반도체 경쟁력이 정책·자본·내수시장·지역 클러스터·인재가 결합돼 수요, 생산, 양산경험, 품질·수율 개선과 재투자로 이어지는 생태계에서 나온다고 분석했다. 보고서는 중국이 2024년 글로벌 전자제품 생산의 약 3분의 1, 파운드리 생산능력의 25% 이상, 후공정 생산능력의 30% 이상을 차지하고 반도체 장비 투자의 40% 이상이 중국에서 이뤄졌다고 제시했다.",
+        "중국은 성숙공정, 범용 메모리와 전통적 패키징에서 영향력을 넓히고 있지만 선단공정의 수율·원가, HBM의 시장검증·상업공급, 노광·계측장비와 AI용 첨단 패키징 양산 경험은 병목으로 평가됐다. 따라서 제품 발표나 투자 규모보다 고객 검증, 반복 양산, 가동률과 수익성으로 실제 경쟁력을 판단해야 한다는 진단이다."
+      ],
+      "implications": [
+        "중국의 추격을 개별 공정 노드 비교로만 보면 대규모 내수 수요가 초기 고객과 검증장 역할을 하며 제조 데이터를 축적하는 구조를 놓칠 수 있다. 국내 AI반도체 정책도 칩 개발 건수와 벤치마크를 넘어 수요기관 도입, 반복 구매와 양산 피드백이 이어지는 생태계 완성도를 함께 봐야 한다.",
+        "중국의 범용·성숙 분야 공급 확대는 국내 기업의 가격과 수익성에 먼저 영향을 줄 가능성이 크고, 첨단 분야에서는 HBM·패키징·설계자산을 글로벌 고객 공동개발과 연결하는 능력이 중요해진다. 보고서 수치는 시장 분석이므로 기업별 수율·출하량과 실제 고객 채택을 별도로 검증할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "삼일PwC \"중국 반도체 경쟁력, 개별 기술보다 '생태계'에서 나와\"",
+          "publisher": "이투데이",
+          "published_at": "2026-10-26T08:56:00+09:00",
+          "url": "https://www.etoday.co.kr/news/view/2639880",
+          "verification": "full_text",
+          "verified_at": "2026-10-26T09:42:42+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026-10월 전체 아카이브와 리벨리온·퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀 뉴스룸 및 공개 보도를 확인했다. 리벨리온 효율 기사와 AiM Future 전시 기사를 재검토했으나 전자는 최근 상용화·투자 사실의 종합 성격이고 후자는 원문 최초 공개가 10월6일로 확인돼 이번 48시간 사건이 아니었다. 마감 내 새 고객검증·유상 PoC·제품통합·양산·반복구매·K-Perf 후속은 공개 원문으로 확인되지 않았다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP와 중앙정부·지자체·공공기관의 NPU·GPU 지원사업, 공모·조달·실증·예산 집행을 확인했다. 국방부의 분산 GPU 통합 ISP 착수를 선정했고, 지자체의 새 NPU 구매·도입·실증 결과는 확인되지 않았다. 당일 collection은 09:13 KST까지 42개 출처 ok, HyperAccel global·과기정통부 AI반도체·NIPA AI반도체 3개 출처 empty, failed 0건이었으며 09:20·09:27 실행 기록이 없어 공식 사이트와 공개 원문으로 보완했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·AWS Trainium과 자체 AI칩·소프트웨어·개발자 생태계를 확보하려는 인수·제휴를 검색했다. NVIDIA의 GPU당 연 2,000달러 소프트웨어 언급은 10월22일 GTC 발언의 10월25일 재보도였고 Schneider Electric·NVIDIA·HPE 협력, NVIDIA·PreussenElektra 부지협력도 10월21일 공개 사건이라 48시간 밖이었다. 마감 내 독립적인 신규 인수·제휴는 확인되지 않았다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·vLLM·SGLang·커널·런타임·오케스트레이션, 칩 전환성과 하드웨어 연계 보안을 확인했다. Google ML Drift는 10월8일 공식 공개, NVIDIA OpenShell은 10월21일 공개 사건으로 이번 기간의 새 릴리스가 아니었다. 국내 NPU 운영 SW의 새 고객도입·이식 성과도 공개 원문으로 확인되지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·DDR·CXL·UCIe·첨단패키징·인터커넥트와 데이터센터·반도체 산단의 부지·전력·용수·인허가를 확인했다. 호남 산단의 그린벨트 계획 수정, DDR4 공급 병목과 중국 반도체 생태계 보고서를 선정했다. 호남 1단계 전력 확보 보도는 10월23일 동일 사실이 이미 공개돼 48시간 밖이었고 삼성전기·NVIDIA 기판 협력은 10월22일 원고와 중복이었다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "공공 GPU 지원이 개별 확보·실증을 넘어 군별 자원과 데이터를 통합하는 ISP 단계로 이동해 향후 조달·배정·국산 가속기 호환조건을 판단할 직접적인 수요 변화다."
+      },
+      {
+        "article_number": 2,
+        "reason": "반도체 산단의 부지 규제를 실제 행정절차에서 선제 정비하는 변화로, 계획 제출과 정부 예외 지정·착공을 구분해 산업기반 실행 가능성을 판단할 수 있다."
+      },
+      {
+        "article_number": 3,
+        "reason": "HBM 증산이 범용 D램 공급과 가격에 미치는 상충효과와 재활용 메모리 확산을 수치로 보여줘 AI 시스템 조달비와 공급망 위험 판단에 중요하다."
+      },
+      {
+        "article_number": 4,
+        "reason": "중국 반도체 경쟁을 선단기술 단일 지표가 아니라 수요·고객검증·양산경험의 선순환으로 분석해 국내 AI반도체 사업화 정책의 비교 기준을 제공한다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "NVIDIA, AI 에이전트 소프트웨어에 GPU당 연 2,000달러 요금 논의",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+        "reason": "10월25일 기사지만 가격 언급은 10월22일 GTC Berlin 발언에서 공개돼 48시간 범위 밖이며 적용시점·대상 소프트웨어도 확정되지 않았다."
+      },
+      {
+        "title": "AiM Future, KPEX 2026서 저전력 NPU 설계 전시",
+        "url": "https://us.aving.net/news/articleView.html?idxno=54711",
+        "reason": "아카이브에는 10월25일 보도로 수집됐지만 공개 원문은 10월6일자로 확인돼 종합·재노출 날짜로 오래된 사건을 신규화하지 않았다."
+      },
+      {
+        "title": "Schneider Electric·NVIDIA·HPE, 공정산업용 물리 AI 협력",
+        "url": "https://www.se.com/ie/en/about-us/newsroom/news/press-releases/schneider-electric-nvidia-hpe-announce-strategic-collaboration-to-accelerate-physical-ai-for-process-industries-6ad9dfc2a43b7054780ca48f/",
+        "reason": "전략적 협력은 중요하지만 공식 발표가 10월21일로 이번 48시간 범위 밖이며 주말 재보도에 새 계약·배치 사실이 추가되지 않았다."
+      },
+      {
+        "title": "NVIDIA·PreussenElektra, 독일 폐원전 부지의 AI 데이터센터 전환 검토",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+        "reason": "10월25일 기사지만 예비 협력 발표는 10월21일이어서 48시간 밖이며 타당성 검토 단계에서 부지 선정·투자·전력계약이 확정되지 않았다."
+      },
+      {
+        "title": "호남 반도체 클러스터 1단계 전력 확보 공식 반박",
+        "url": "https://www.breaknews.com/1245521",
+        "reason": "같은 1단계 전력 충분·2단계 추가 확보 추진 사실이 10월23일 이미 공개됐고 최근 원고의 호남 전력협의와 의미상 겹쳐 새 사실이 없는 재보도로 판단했다."
+      },
+      {
+        "title": "Google, 엣지 추론용 ML Drift 공개",
+        "url": "https://developers.googleblog.com/en/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+        "reason": "공식 최초 공개가 10월8일이며 10월25일 기술매체 보도에 신규 릴리스나 고객 배치가 없어 시의성 요건을 충족하지 못했다."
+      },
+      {
+        "title": "삼성전기, NVIDIA·Tesla 등에 힘입어 AI 기판 사업 확대",
+        "url": "https://www.newsis.com/view/NISX20261022_0003835310",
+        "reason": "삼성전기·NVIDIA 차세대 AI 기판 협력은 10월22일 원고에 이미 게재됐고 이후 종합기사에서 독립적인 계약·매출·양산 일정이 새로 확인되지 않았다."
+      },
+      {
+        "title": "리벨리온 중심 AI 효율 스타트업 종합기사",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMcHR2LUpnZm5pNGtmX2dyUl9icko2aGEtR2pIdkhId2c5LW16cE9JdVJCbW0tYU1HUTlROHdnY2JEcWhFYUQ2SExkbHRSenN1TlVjX2tRVDNtRU9QNWhpQ3luRU9QQmpqYXNSZg?oc=5",
+        "reason": "공개 검색으로 원문 전문과 새 고객·유상 PoC·양산·반복구매 사실을 충분히 검증하지 못했고, 확인 가능한 내용은 최근 리벨리온 상용화 보도의 종합 성격이어서 제외했다."
+      }
+    ],
+    "count_reason": "전체 아카이브 275개 조각, 최근 14일 실제 원고, 당일 collection과 다섯 영역별 보완 검색을 완료했다. 기본 6건을 채우기 위해 10월21~23일 사건의 주말 재보도, 최근 원고 중복, 공개본문이 불충분한 종합기사를 넣지 않았고 마감 전 새 사실·공개시각·독립성을 모두 검증한 4건만 선정했다.",
+    "company_overlap_review": "동일 기업집단 중심으로 2건 이상 선정된 사례는 없다. 두 인프라 기사는 각각 지방 산단의 부지 인허가와 글로벌 메모리 공급 병목으로 주체·사건·정책 판단 지점이 독립적이며 특정 기업의 연속 보도로 건수를 채우지 않았다.",
+    "candidate_counts": {
+      "discovered": 2325,
+      "time_eligible": 818,
+      "independent_events": 12,
+      "verified": 10,
+      "selected": 4,
+      "basis": "docs/data/archive/index.json의 2026-10월 275개 조각 전체 27,407건을 읽고 URL 중복을 제거한 뒤, 실제 firstSeenAt이 마감 전 72시간 안인 2,325건과 publishedAt이 마감 전 48시간 안인 818건을 집계했다. 아카이브와 직접 보완 검색에서 선정 4건 및 NVIDIA 소프트웨어 요금, AiM Future, Schneider·NVIDIA·HPE, NVIDIA·PreussenElektra, 호남 전력 재보도, ML Drift, 삼성전기 기판 후속, 리벨리온 종합기사를 사건 단위로 묶어 12건을 비교했고, 이 가운데 10건은 공개 전문·공식자료로 사건시각과 핵심 사실을 검증했다."
+    },
+    "history_review": {
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-25",
+      "checked_dates": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "note": "저장소에 실제 존재하는 10월12일~25일 ready 원고 14개를 제목·주요 사실·출처까지 읽었다. 국산 NPU 상용화, GPU 지원사업, AIDC 요금·전력·인허가, 호남 클러스터 전력·특구법, 삼성전기·NVIDIA 기판, HBM·CXL·운영 SW 사건을 의미상 대조했다. 최종 4건은 최근 회차와 다른 공공 수요 통합 설계, 산단 부지절차 수정, 범용 메모리 공급병목, 중국 생태계 분석의 새 공개 사실이다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 국방부가 군별 GPU·데이터·개발환경 통합을 위한 ISP 사전규격을 공개하고 2027년 하반기 수립을 목표로 한 사건은 게재되지 않았다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "호남 클러스터의 전력협의·특구법과 구별되는 지방 광역도시계획 수정안 제출 사건으로, 그린벨트 총량 예외의 적용 순서를 바꾸는 행정절차가 새로 공개됐다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 원고의 HBM·CXL 기술개발과 구별되는 DDR4 계약가격 상승률·공급 감소 전망·재활용 확산이라는 범용 메모리 수급 사건이다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 중국의 생산능력·수요시장·양산경험을 연결한 삼일PwC의 신규 보고서와 2024년 생산·후공정·장비투자 수치가 게재된 적이 없다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026-10-25 2026-10-26 리벨리온 퓨리오사AI 딥엑스 모빌린트 하이퍼엑셀 고객검증 유상 PoC 제품통합 양산 반복구매 해외협력 K-Perf; AiM Future KPEX 2026 low-power NPU",
+          "official_sources": "리벨리온 뉴스룸 https://kr.rebellions.ai/company/newsroom/, 과기정통부 https://www.msit.go.kr/, NIPA https://www.nipa.kr/, IITP https://www.iitp.kr/와 공개 보도를 확인했다.",
+          "result": "마감 내 새 고객검증·유상 PoC·양산·반복구매·K-Perf 후속은 확인되지 않았다. AiM Future 전시는 10월6일 최초 공개, 리벨리온 효율 기사는 기존 상용화 사실의 종합으로 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr OR site:nipa.kr OR site:iitp.kr 2026-10-25 2026-10-26 NPU AI반도체 GPU 지원사업 실증 조달 배정 활용; 국방AI데이터센터 ISP; 지자체 AI반도체 국비 예산 실증 도입 조달; 호남 반도체 그린벨트 인허가",
+          "official_sources": "전자신문 공개본문 https://www.etnews.com/20261023000175, 호남 계획 보도 https://www.news2day.co.kr/article/20261025500015, 과기정통부·NIPA·IITP와 중앙·지방정부 공개자료를 확인했다.",
+          "result": "국방AI데이터센터 ISP와 호남 산단의 광역도시계획 수정안을 선정했다. 중앙·지자체의 새 NPU 구매·도입·공모 결과는 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "October 25 26 2026 AI accelerator custom chip acquisition partnership developer ecosystem NVIDIA AMD TPU Trainium; NVIDIA software fee per GPU; Schneider NVIDIA HPE physical AI; NVIDIA PreussenElektra",
+          "official_sources": "NVIDIA OpenShell https://nvidianews.nvidia.com/news/openshell-reference-architecture, Schneider Electric 협력자료 https://www.se.com/ie/en/about-us/newsroom/news/press-releases/schneider-electric-nvidia-hpe-announce-strategic-collaboration-to-accelerate-physical-ai-for-process-industries-6ad9dfc2a43b7054780ca48f/ 및 공개 전문을 확인했다.",
+          "result": "마감 내 독립적인 신규 인수·제휴는 확인되지 않았다. 소프트웨어 요금 발언과 두 협력안은 10월21~22일 사건의 늦은 재보도라 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "2026-10-25 2026-10-26 ROCm vLLM SGLang inference runtime kernel NPU orchestration hardware security chip portability OpenShell ML Drift",
+          "official_sources": "Google ML Drift https://developers.googleblog.com/en/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/, NVIDIA OpenShell https://nvidianews.nvidia.com/news/openshell-reference-architecture, AMD ROCm https://rocm.docs.amd.com/와 공개 릴리스를 확인했다.",
+          "result": "ML Drift와 OpenShell은 각각 10월8일·21일 공개 사건이었고, 최근 24시간에 독립적인 국산 NPU 런타임 도입성과나 새 칩 전환 도구는 확인되지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026-10-25 2026-10-26 HBM DDR4 CXL UCIe advanced packaging interconnect AI data center power Korea semiconductor cluster land permit water; 중국 반도체 생태계 PwC",
+          "official_sources": "머니투데이 공개본문 https://www.mt.co.kr/industry/2026/10/26/2026102511201784001, 삼일PwC 원문 https://www.pwc.com/kr/ko/insights/samil-insight/china-semiconductor.html, 이투데이 https://www.etoday.co.kr/news/view/2639880, 호남 산단 보도 https://www.news2day.co.kr/article/20261025500015 를 확인했다.",
+          "result": "DDR4 공급병목, 중국 반도체 생태계 보고서와 호남 산단 부지절차를 선정했다. 호남 전력 재보도, 삼성전기 기판 후속과 48시간 밖 협력안은 중복·시의성 때문에 제외했다."
+        }
+      },
+      "alternative_sources": "당일 collection 세 차례의 source 상태를 확인했으며 최신 저장은 09:13:26 KST, 42개 ok·3개 empty·0개 failed였다. 09:20·09:27 수집 완료 기록이 없고 HyperAccel global·과기정통부 AI반도체·NIPA AI반도체 수집원이 empty여서 관련 공식 사이트와 공개 전문을 직접 검색했다. Google News 아카이브 링크는 전자신문·뉴스투데이·머니투데이·이투데이의 직접 공개본문으로 대체 확인했고, 늦은 재보도는 최초 발표일을 공식자료와 대조해 제외했다."
+    }
+  }
+}
