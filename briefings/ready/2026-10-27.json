@@ -1,0 +1,392 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-27",
+  "cutoff_at": "2026-10-27T09:30:00+09:00",
+  "window_start": "2026-10-26T09:30:00+09:00",
+  "created_at": "2026-10-27T09:47:05+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1,
+        2
+      ],
+      "bullets": [
+        "NIPA는 B300 GPU 480장을 산·학·연에 43일간 무상 배정하는 베타서비스의 물량·방식을 공개했고, 경북은 퓨리오사AI와 제조·로봇·모빌리티·공공 분야의 국산 NPU 실증 거점 조성 협약을 맺었습니다.",
+        "두 사업 모두 배정·협약 단계이므로 실제 이용률과 미충족 수요, 지역기업 실증과 유상 PoC·구매 전환 여부가 다음 판단 기준입니다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3,
+        4
+      ],
+      "bullets": [
+        "국산 NPU 현장에서는 CUDA 중심 코드·모델의 전환 비용과 수요기업의 인력 부담이 도입 장벽으로 제기됐고, Unconventional AI는 칩 연구를 제품화·양산으로 잇기 위해 NeuReality를 인수했습니다.",
+        "가속기 경쟁이 칩 효율만이 아니라 모델 이식성, 수요기업 지원, 제품화 경험과 제조 확장 역량을 함께 확보하는 방향으로 이동하고 있습니다."
+      ]
+    },
+    {
+      "article_numbers": [
+        5
+      ],
+      "bullets": [
+        "Meta는 AI 인프라 확장을 위해 최대 950억달러의 주식 조달 구상을 내놓았고 NVIDIA·AMD·Broadcom은 합계 최대 50억달러의 참여 관심을 표시했습니다.",
+        "전체 950억달러가 확정 조달된 것은 아니며, 칩 공급사가 대형 고객의 자본조달에 참여하는 구조는 AI 설비투자의 지속성과 상호의존 위험을 함께 보여줍니다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "NIPA, B300 GPU 480장 산·학·연 무상 배정…2027년 정식 지원 추진",
+      "category": "국내 정책·사업화·수요처",
+      "collected_at": "2026-10-26T23:10:00+09:00",
+      "original_published_at": "2026-10-26T15:13:22+09:00",
+      "original_url": "https://www.inews24.com/view/2018888",
+      "event_id": "nipa-b300-beta-allocation-update-2026-10-26",
+      "event_first_published_at": "2026-10-26T15:13:22+09:00",
+      "event_evidence_url": "https://www.inews24.com/view/2018888",
+      "selection_tier": "primary",
+      "main_points": [
+        "과학기술정보통신부와 NIPA는 10월 30일부터 12월 11일까지 43일간 운영할 첨단 GPU 활용 지원 베타서비스에 B300 서버 60대, GPU 480장을 배정한다. 중소기업·스타트업과 대학·연구기관의 과제에는 서버 1~4대, 즉 GPU 8~32장을 무상으로 제공하며 이용자 자부담은 전액 면제한다.",
+        "NIPA는 해당 물량이 2026년에 신규 확보한 B300이며 산·학·연 지원은 처음이라고 설명하고, 베타서비스의 작동 확인과 이용자 피드백을 반영해 2027년 정식 지원을 추진하겠다고 밝혔다. 이는 운영 방향이며 2027년 예산·지원 규모가 확정된 것은 아니다."
+      ],
+      "implications": [
+        "첨단 GPU 지원이 모집 공고에서 실제 모델·물량·과제별 배정 단위가 드러나는 운영 검증 단계로 진입했다. 다만 43일의 베타기간은 장기 학습·서비스 운영 성과를 판단하기에는 짧아 이용률과 장애, 과제 완료율을 함께 봐야 한다.",
+        "정책·사업 기획자는 신청기관 수, 선정·배정률, GPU 가동률과 미충족 수요, 데이터 반출·보안·저장 문제, 베타 종료 뒤의 활용성과를 추적할 수 있다. 2027년 정식 사업은 이번 피드백이 예산과 지원요건에 어떻게 반영되는지를 확정 단계와 구분해 확인할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "최신 엔비디아 B300 GPU 480장 산·학·연에 '첫' 지원⋯NIPA \"내년 정식 사업 추진\"",
+          "publisher": "아이뉴스24",
+          "published_at": "2026-10-26T15:13:22+09:00",
+          "url": "https://www.inews24.com/view/2018888",
+          "verification": "full_text",
+          "verified_at": "2026-10-27T09:44:20+09:00"
+        },
+        {
+          "title": "2026년「첨단 GPU 활용 지원 사업」베타서비스 참여자 모집 공모 안내",
+          "publisher": "정보통신산업진흥원",
+          "published_at": "2026-10-23",
+          "url": "https://www.nipa.kr/home/2-2/16976",
+          "verification": "public_primary",
+          "verified_at": "2026-10-27T09:44:20+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "경북·퓨리오사AI, 제조·로봇·모빌리티 국산 NPU 실증 거점 조성 협약",
+      "category": "국내 NPU·지역 실증",
+      "collected_at": "2026-10-26T23:10:00+09:00",
+      "original_published_at": "2026-10-26T17:50:00+09:00",
+      "original_url": "https://www.news1.kr/local/daegu-gyeongbuk/6332440",
+      "event_id": "gyeongbuk-furiosa-npu-demonstration-mou-2026-10-26",
+      "event_first_published_at": "2026-10-26T17:50:00+09:00",
+      "event_evidence_url": "https://www.news1.kr/local/daegu-gyeongbuk/6332440",
+      "selection_tier": "primary",
+      "main_points": [
+        "경상북도·경산시·퓨리오사AI·경북IT융합산업기술원은 10월 26일 국산 AI반도체 실증과 산업 생태계 조성을 위한 업무협약을 체결했다. 경산의 초거대 AI 클라우드팜에 구축된 공공 GPU 클러스터와 추가 도입할 국산 NPU를 결합해 이종 컴퓨팅 환경을 만들고 AI 모델 최적화를 추진한다.",
+        "협력 범위는 제조·로봇·모빌리티·공공 분야의 NPU 현장 실증, 지역기업 AI 전환과 서비스 사업화이며 지자체는 행정지원과 성과 확산, 퓨리오사AI는 구축·운영 기술협력, 기술원은 인프라 운영과 과제를 담당한다. 현재는 협약·추가 도입 계획 단계로 개별 실증기업, 예산, 유상 PoC나 구매계약은 공개되지 않았다."
+      ],
+      "implications": [
+        "지역 제조업과 공공 수요를 국산 NPU의 모델 최적화·현장 검증으로 연결하는 구조가 구체화됐다는 점에서 단순 전시보다 사업화 판단에 유용하다. GPU와 NPU를 함께 운영하는 환경은 모델 이식성과 자원 배분, 총소유비용을 실제 수요처에서 비교할 기회가 될 수 있다.",
+        "후속 평가는 추가 NPU의 모델·수량과 도입 시점, 참여기업별 과제, 성능·전력·가동률 결과, 실증 뒤 유상 계약과 반복 구매로 이어지는지를 중심으로 할 필요가 있다. 협약 체결을 사업 성과나 구매 확정으로 해석해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "경산시, 퓨리오사AI 등과 '국산 AI반도체 실증' 협약…현장 적용 검증",
+          "publisher": "뉴스1",
+          "published_at": "2026-10-26T17:50:00+09:00",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6332440",
+          "verification": "full_text",
+          "verified_at": "2026-10-27T09:44:20+09:00"
+        },
+        {
+          "title": "경북도, 국산 인공지능 반도체 실증·사업화 거점 조성 나선다",
+          "publisher": "경상북도",
+          "published_at": "2026-10-26",
+          "url": "https://www.gb.go.kr/page/10107/10004.do",
+          "verification": "public_primary",
+          "verified_at": "2026-10-27T09:44:20+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "경상북도 공식 보도자료 목록은 2026-10-26자로 협약 내용과 기관별 역할을 공개했고, 뉴스1 원문이 같은 사실을 2026-10-26 17:50 KST에 게시해 2026-10-27 09:30 KST 마감 전 공개 상태를 대조했다. 공식 페이지에 마감 후 추가된 핵심 사실은 사용하지 않았다."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "국산 NPU 도입 장벽으로 코드 전환·수요기업 인력비용 부각",
+      "category": "국내 NPU 사업화 애로",
+      "collected_at": "2026-10-26T23:10:00+09:00",
+      "original_published_at": "2026-10-26T17:11:23+09:00",
+      "original_url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424581",
+      "event_id": "korea-npu-switching-cost-demand-side-barriers-2026-10-26",
+      "event_first_published_at": "2026-10-26T17:11:23+09:00",
+      "event_evidence_url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424581",
+      "selection_tier": "primary",
+      "main_points": [
+        "10월 26일 공개된 현장 취재와 국회 토론회에서는 국산 NPU가 가격·전력효율을 제시해도 CUDA 중심의 기존 모델과 코드를 옮기고 다시 검증하는 비용 때문에 민간 수요기업이 도입에 보수적이라는 문제가 제기됐다. 이는 NPU 공급기업의 성능 주장과 별개로 수요기업이 부담하는 개발 인력·시간의 문제다.",
+        "한국지능정보사회진흥원 관계자는 국내에 계층별 역량을 갖춘 기업이 있지만 참여 주체의 목적과 이해관계가 달라 협력이 어렵다고 설명했다. 익명의 AI반도체 기업 임원은 공급기업 지원뿐 아니라 NPU를 실제로 시험하는 수요기업의 인건비 등 실증 비용 지원이 필요하다고 주장했으며, 이는 업계 제안이지 확정된 지원제도는 아니다."
+      ],
+      "implications": [
+        "국산 NPU 사업화의 병목이 칩 가격과 벤치마크에서 모델 이식, 프레임워크 호환, 재검증과 운영인력 비용으로 이동하고 있음을 보여준다. 성능시험만 통과해도 도입이 이어진다고 보기보다 수요기관이 실제 서비스를 옮기는 데 든 시간과 비용을 함께 측정해야 한다.",
+        "실증사업에서는 공급기업의 최적화 지원뿐 아니라 수요기업의 코드 전환 범위, 검증 기간, 장애 대응과 교육비용을 별도 지표로 남길 필요가 있다. 다만 기사와 토론회에서 제기된 지원 요구를 정부 사업이나 예산 확정으로 해석할 수는 없다."
+      ],
+      "sources": [
+        {
+          "title": "\"가격·전력 효율만으론 부족\"···국산 NPU 도입 막는 '전환 비용'",
+          "publisher": "시사저널e",
+          "published_at": "2026-10-26T17:11:23+09:00",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424581",
+          "verification": "full_text",
+          "verified_at": "2026-10-27T09:44:20+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Unconventional AI, NeuReality 인수…AI칩 제품화·양산 역량 확보",
+      "category": "글로벌 가속기·전략적 인수",
+      "collected_at": "2026-10-27T09:42:45+09:00",
+      "original_published_at": "2026-10-27T00:01:30+09:00",
+      "original_url": "https://www.reuters.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-2026-10-26/",
+      "event_id": "unconventional-ai-acquires-neureality-2026-10-26",
+      "event_first_published_at": "2026-10-27T00:01:30+09:00",
+      "event_evidence_url": "https://www.reuters.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-2026-10-26/",
+      "selection_tier": "primary",
+      "main_points": [
+        "미국 AI 하드웨어 스타트업 Unconventional AI는 이스라엘 AI칩 기업 NeuReality를 금액 비공개의 현금·주식 거래로 인수한다고 발표했다. NeuReality의 약 40명이 합류하고 이스라엘 거점은 유지되며, 거래는 연구 중심 조직에 제품 개발과 제조 확장 경험을 보강하려는 목적이다.",
+        "Unconventional AI는 생물학적 동역학 개념을 활용해 기존보다 에너지 효율이 1,000배 높은 AI칩을 목표로 한다고 주장했고 첫 시험칩을 만들었으며 두 번째 시험칩 완성을 앞뒀다고 밝혔다. 효율 목표는 회사 주장이고 독립 검증, 제품 출시 일정, 거래가격과 구체적인 양산계획은 공개되지 않았다."
+      ],
+      "implications": [
+        "새로운 가속기 기업이 연구인력만 늘리기보다 이미 칩을 설계한 팀을 인수해 제품화와 제조 확장 단계를 단축하려는 전략적 경쟁을 보여준다. AI칩 경쟁에서 아키텍처 아이디어와 함께 테이프아웃, 검증, 공급망·양산 경험이 인수 가치로 평가되고 있다.",
+        "국내 팹리스와 지원사업도 연구개발 성과와 양산 전환 역량을 분리해 보고, 설계팀 인수·제휴가 실제 제품 일정과 고객검증을 얼마나 앞당기는지 비교할 수 있다. 거래가 발표됐다는 사실과 1,000배 효율 목표 달성을 구분해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "Unconventional AI buys Israeli chip startup NeuReality to speed product development",
+          "publisher": "Reuters",
+          "published_at": "2026-10-27T00:01:30+09:00",
+          "url": "https://www.reuters.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-2026-10-26/",
+          "verification": "full_text",
+          "verified_at": "2026-10-27T09:44:20+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Reuters 검색 메타데이터와 원문은 최초 공개시각을 2026-10-26 15:01:30 UTC, 즉 2026-10-27 00:01:30 KST로 표시했다. 인수 발표, 금액 비공개, 약 40명 합류라는 핵심 사실은 09:30 KST 마감 전 공개된 원문에 포함됐고 검증 시 마감 뒤 수정으로 표시된 별도 핵심 사실은 사용하지 않았다."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Meta, AI 인프라 위해 최대 950억달러 주식 조달 구상…칩 3사 참여 관심",
+      "category": "글로벌 가속기·인프라 금융",
+      "collected_at": "2026-10-26T23:10:00+09:00",
+      "original_published_at": "2026-10-26T20:07:48+09:00",
+      "original_url": "https://www.reuters.com/legal/transactional/meta-launches-35-billion-stock-offering-fund-ai-expansion-2026-10-26/",
+      "event_id": "meta-95b-equity-raise-chipmakers-interest-2026-10-26",
+      "event_first_published_at": "2026-10-26T20:07:48+09:00",
+      "event_evidence_url": "https://www.reuters.com/legal/transactional/meta-launches-35-billion-stock-offering-fund-ai-expansion-2026-10-26/",
+      "selection_tier": "primary",
+      "main_points": [
+        "Meta는 AI 인프라 확장을 위해 약 350억달러의 보통주·전환우선주 공모를 시작하고, 2027년 1분기로 예상되는 무의결권 Class C 주식 거래 개시 뒤 최대 600억달러의 시장매각 프로그램을 별도로 추진할 계획이라고 밝혔다. 후속 600억달러 프로그램의 시기와 조건은 확정되지 않아 최대 950억달러 전액이 신규 조달된 상태는 아니다.",
+        "NVIDIA·AMD·Broadcom은 Meta Class A 주식에 합계 최대 50억달러를 투자하는 데 관심을 표시했지만 확정 투자계약으로 공표된 것은 아니다. 칩 공급사가 대형 고객의 인프라 자금조달에 참여할 가능성이 생기면서 AI 투자에서 공급계약과 자본관계가 겹치는 구조가 확대되고 있다."
+      ],
+      "implications": [
+        "AI 인프라 경쟁이 영업현금만으로 조달하는 단계에서 주식·우선주와 공급사 자본을 결합하는 방향으로 이동하고 있다. 이는 대규모 가속기 수요를 지지할 수 있지만 공급사가 고객의 구매능력까지 금융으로 보완할 때 수요의 독립성과 투자 회수 위험을 함께 봐야 한다.",
+        "국내 공급망과 정책금융은 발표된 총액보다 실제 납입액, 칩 구매계약, 데이터센터 착공·전력 확보와 가동 시점을 분리해 추적할 필요가 있다. 세 칩사의 관심 표시는 참여 확정이 아니며 600억달러 프로그램도 향후 조건에 따라 달라질 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
+          "publisher": "Reuters",
+          "published_at": "2026-10-26T20:07:48+09:00",
+          "url": "https://www.reuters.com/legal/transactional/meta-launches-35-billion-stock-offering-fund-ai-expansion-2026-10-26/",
+          "verification": "full_text",
+          "verified_at": "2026-10-27T09:44:20+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026-10월 아카이브 전체와 리벨리온·퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀 관련 공개 보도와 뉴스룸을 확인했다. 경북·경산·퓨리오사AI의 제조·로봇·모빌리티·공공 실증 협약과 수요기업의 코드 전환·인력비용 문제를 선정했다. 최근 24시간에 새 유상 PoC·양산·반복구매·K-Perf 결과는 공개 원문으로 확인되지 않았다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP와 중앙정부·지자체·공공기관의 GPU/NPU 지원, 공모·배정·활용, 실증·조달·예산을 확인했다. NIPA B300 480장 베타서비스의 배정방식과 2027년 정식 지원 방향을 10월25일 원고의 모집 사실에 대한 실질적 추가정보로 선정했다. 당일 collection은 09:04:47 KST 한 차례만 저장돼 09:20·09:27 실행 공백을 기록하고 공식사이트와 공개본문으로 보완했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·AWS Trainium과 자체 AI칩·SW·개발자 생태계 확보를 위한 인수·제휴를 검색했다. Unconventional AI의 NeuReality 인수와 Meta 자금조달에 대한 칩 3사의 투자 관심을 선정했다. SpaceX의 400억달러 장비리스 금융, 중국 내 금지 GPU 사용 보도와 오래된 OpenShell·TorchTPU 재보도도 비교했으나 기사 수와 독립성·검증 수준을 고려해 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·vLLM·SGLang·커널·런타임·오케스트레이션, 칩 전환성과 하드웨어 연계 보안을 점검했다. Google Cloud의 Beam용 llm-d·NVIDIA Dynamo 최적화 한국어 페이지는 10월25일로 표시됐지만 영문 원문이 10월16일 공개된 동일 사건이어서 제외했다. ML Drift, TorchTPU, OpenShell도 최근 원고 또는 48시간 밖 사건이며 마감 내 독립적인 새 국산 NPU 운영 SW 도입성과는 확인되지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·DDR·CXL·UCIe·첨단패키징·인터커넥트와 반도체 산단·AIDC의 부지·전력·용수·인허가를 검색했다. 삼성전자·SK하이닉스의 8단 HBM4 확대 보도는 8월의 선행 보도와 겹치고 회사 확정 발표가 없어 제외했으며, 삼성전기·NVIDIA 기판은 10월22일 원고와 중복이었다. 어기구 의원의 전력망 접속기준 정비 요구는 확정 제도 변화가 아닌 제안으로 비교 후 제외했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "최근 원고의 모집 공고에 없던 B300 480장, 과제당 8~32장, 43일 무상 배정과 2027년 정식 지원 추진 방향이 공개돼 GPU 지원사업의 신청·배정·운영 판단에 직접 필요한 실질적 추가정보다."
+      },
+      {
+        "article_number": 2,
+        "reason": "지자체·지역기관·국산 NPU 기업이 기존 공공 GPU 인프라에 NPU를 추가해 제조·로봇·모빌리티·공공 실증을 추진하는 역할과 수요 분야를 구체화해 지역 사업화 후보로 우선 평가했다."
+      },
+      {
+        "article_number": 3,
+        "reason": "국산 NPU 채택의 실제 병목을 칩 성능이 아니라 코드 이식·재검증과 수요기업 인력비용으로 제시해 실증사업 설계와 성과지표에 직접 참고할 현장 문제다."
+      },
+      {
+        "article_number": 4,
+        "reason": "자체 AI칩 개발사가 제품화·양산 경험을 확보하기 위해 기존 AI칩 팀을 인수한 확정 거래로, 연구에서 상용화로 전환하는 글로벌 전략적 경쟁 변화를 보여준다."
+      },
+      {
+        "article_number": 5,
+        "reason": "칩 공급 3사가 대형 고객의 최대 950억달러 자금조달에 투자 관심을 표시해 가속기 수요와 공급사 자본이 결합되는 금융구조의 변화와 위험을 판단할 중요 사건이다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "Google Cloud, Reflection Beam용 llm-d·NVIDIA Dynamo 최적화 공개",
+        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud",
+        "reason": "한국어 페이지는 10월25일로 보였지만 영문 원문 공개일이 10월16일로 확인됐고 이번 기간에 새 릴리스·고객 배치가 추가되지 않아 48시간 시의성 요건을 충족하지 못했다."
+      },
+      {
+        "title": "삼성전자·SK하이닉스, NVIDIA용 8단 HBM4를 2027년 2분기 확대 보도",
+        "url": "https://news.metal.com/en/newscontent/104179286-samsung-and-sk-hynix-to-mass-produce-and-deliver-hbm4-in-q2-next-year-for-supply-to-nvidia",
+        "reason": "8단 HBM4 공급 확대 방향은 2026년 8월 보도와 의미상 겹치고 현재 기사는 익명 소식통 기반으로 회사의 확정 양산·주문 발표가 없어 신규성과 검증 수준이 최종 후보보다 낮았다."
+      },
+      {
+        "title": "SpaceX, Apollo 계열사와 400억달러 AI칩·서버 장비리스 금융",
+        "url": "https://www.reuters.com/business/media-telecom/spacex-enters-40-billion-deal-with-apollo-ai-chip-financing-2026-10-26/",
+        "reason": "가속기 금융구조의 중요한 후보로 검증했으나 같은 날 Meta의 조달안은 NVIDIA·AMD·Broadcom의 고객 지분투자 관심까지 포함해 공급사와 수요자 간 상호의존 변화를 더 직접적으로 보여줘 상대 비교에서 제외했다."
+      },
+      {
+        "title": "어기구 의원, AI 데이터센터 전기요금·전력망 접속기준 정비 촉구",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kRVpfbDBwa1YxRXRiNlJWYlRodldBMEJBZW95VGpTRGlZbEJ6QkZ3Y2ZVWDRIckV5ZTlhbld4X0RTUi1DMWxSaGIzWVVVdWQ0c1pZWDY0YmkyTWNvT1pn?oc=5",
+        "reason": "전력비용과 접속기준 문제는 중요하지만 국회의원 제안 단계이며 새 법령·요금·접속규정이나 집행조치가 확정되지 않아 실행 변화가 확인된 후보보다 후순위로 두었다."
+      },
+      {
+        "title": "Tesla·NVIDIA의 삼성 AI 기판 투자 보도",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0VnUEVyTlZGeGlIQ01xNGVKdGhLV1FTcWhlZjlWTndXcWdaeWtaLVoxZFdvTDdpdVlFT2hqd1dYRkVhQlZqNWdYQUEzOWYzT05VZDlqWXB5bjFRZU9YTHRiT1FGZHUtbTNNbTM4eEN4ZlVzUGdoRnlpZEJxOHJadzNUbWVBUEMybGt1dDk2cjRPaDFmM1JIN0RENXNVeEczZXc?oc=5",
+        "reason": "확인 가능한 내용이 10월22일 원고의 삼성전기·NVIDIA AI 기판 전용라인 공동투자 사건을 재서술한 수준이고 새 계약액·양산일정·납품 성과를 독립 원문으로 검증하지 못했다."
+      },
+      {
+        "title": "중국 통신·클라우드에서 금지된 NVIDIA GPU 사용 보도",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3RIcXJiNXRPRjJ0X0E3MWFJOUx4aGRsQmtzck5kZVROMHZVOXFQaUhkeUxiYkd5bGxKRmd1aTlqbUt6T0xrRTR5S3BMRW5ySkZubFJJcTlnNGQ3LXVXNVZYaFRsdGRhUlozeFpNTlItT3BrdG9teGFLY2V0TVNhWDdybmZUa1NnV2lKYmNKNEU5YlhPelEzT2lXQnZ6UWw1dnpjQkVLakI5bVZO?oc=5",
+        "reason": "수출통제 우회는 중요하지만 공개본문에서 장비 규모·사용기관·검증 근거를 충분히 확인하지 못해 검색 제목과 요약만으로 최종 기사화하지 않았다."
+      }
+    ],
+    "count_reason": "10월 아카이브 290개 조각 전체, 최근 14일 실제 원고, 당일 collection과 다섯 영역별 보완 검색을 완료했다. 영문 원문이 오래된 운영 SW 재노출, 최근 원고와 중복된 기판·TorchTPU·OpenShell, 회사 확인이 없는 HBM4 보도와 본문 검증이 부족한 수출통제 보도를 수 채우기용으로 넣지 않아 기본 6건 대신 5건을 선정했다.",
+    "company_overlap_review": "동일 기업집단 중심의 선정은 없다. 퓨리오사AI는 지역 수요·실증 협약, NIPA는 GPU 지원 운영, Unconventional AI는 글로벌 인수, Meta와 칩 3사는 인프라 금융으로 주체와 사건·판단 지점이 독립적이다. NVIDIA는 1번의 지원 GPU 모델과 5번의 잠재 투자자에 각각 등장하지만 서로 다른 국내 공공배정과 글로벌 자본조달 사건이며 반복 기사로 건수를 채우지 않았다.",
+    "candidate_counts": {
+      "discovered": 2854,
+      "time_eligible": 1891,
+      "independent_events": 13,
+      "verified": 10,
+      "selected": 5,
+      "basis": "docs/data/archive/index.json의 2026-10월 290개 조각 전체 28,946건을 읽고 URL 중복을 제거한 뒤 실제 firstSeenAt이 마감 전 72시간 안인 2,854건과 publishedAt이 마감 전 48시간 안인 1,891건을 집계했다. 아카이브와 직접 보완 검색에서 B300 배정, 경북 NPU 실증, NPU 전환비용, NeuReality 인수, Meta·SpaceX 금융, ASMPT 사업부 협상, HBM4 8단, Google Beam, 전력망 기준 제안, 삼성 기판 재보도, 중국 금지 GPU, AI 마이크로그리드의 13개 독립 사건을 비교했고 10건은 공개본문·공식자료로 시각과 핵심 사실을 검증했다."
+    },
+    "history_review": {
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-26",
+      "checked_dates": [
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26"
+      ],
+      "note": "저장소에 실제 존재하는 10월13일~26일 ready 원고 14개를 제목·주요 사실·출처까지 읽었다. GPU 지원·배정, 국내 NPU 실증과 사업화, TorchNeuron·TorchTPU·OpenShell, HBM·기판·패키징, AIDC 전력·인허가, 전략적 인수·인프라 금융 사건을 의미상 대조했다. 1번만 10월25일 모집 사건의 실질적 후속으로 기록했고 나머지 4건은 최근 회차에 없는 새 사건이다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "material_update",
+        "previous_editions": [
+          "2026-10-25"
+        ],
+        "new_fact": "10월25일 원고에는 공식 모집기간만 확인됐으나 10월26일 공개본문에서 신규 B300 480장, 과제당 8~32장, 43일 무상 배정과 이용자 피드백을 반영한 2027년 정식 지원 추진 방향이 새로 확인됐다.",
+        "evidence_url": "https://www.inews24.com/view/2018888",
+        "note": "같은 베타서비스 모집 사건의 후속이므로 새 사건으로 부풀리지 않고 배정·운영에 필요한 실질적 추가정보만 사용했다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 경북·경산·퓨리오사AI·경북IT융합산업기술원이 기존 공공 GPU 인프라와 국산 NPU를 결합해 제조·로봇·모빌리티·공공 실증 거점을 조성한 협약은 게재되지 않았다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 원고의 개별 NPU 공급·통합 성과와 구별되는 수요기업의 코드 전환·재검증·인력비용이라는 현장 장벽이 10월26일 취재와 토론회에서 새로 공개됐다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "Unconventional AI가 NeuReality를 현금·주식 거래로 인수하고 약 40명의 제품화·양산 인력을 흡수하는 사건은 최근 14일 원고에 게재되지 않았다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "Meta의 최대 950억달러 주식조달 구상과 NVIDIA·AMD·Broadcom의 합계 최대 50억달러 참여 관심은 최근 14일 원고에 없는 신규 인프라 금융 사건이다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026-10-26 2026-10-27 리벨리온 퓨리오사AI 딥엑스 모빌린트 하이퍼엑셀 고객검증 유상 PoC 제품통합 양산 반복구매 해외협력 K-Perf; site:rebellions.ai OR site:furiosa.ai OR site:deepx.ai OR site:mobilint.com NPU partnership deployment",
+          "official_sources": "경상북도 보도자료 https://www.gb.go.kr/page/10107/10004.do, 뉴스1 https://www.news1.kr/local/daegu-gyeongbuk/6332440, 시사저널e https://www.sisajournal-e.com/news/articleView.html?idxno=424581 및 국내 NPU 기업 공개 뉴스룸을 확인했다.",
+          "result": "경북·퓨리오사AI 실증 협약과 수요기업 전환비용 문제를 선정했다. 마감 내 새 유상 PoC·양산·반복구매·K-Perf 결과는 확인되지 않았다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr OR site:nipa.kr OR site:iitp.kr 2026-10-26 2026-10-27 NPU GPU AI반도체 공고 실증 조달 배정 활용; 지자체 AI반도체 국비 예산 실증 도입 조달; B300 480장 43일",
+          "official_sources": "NIPA 공고 https://www.nipa.kr/home/2-2/16976, 아이뉴스24 공개본문 https://www.inews24.com/view/2018888, 경상북도 공식 보도자료와 공개 기사를 확인했다.",
+          "result": "B300 480장의 과제별 무상 배정과 2027년 정식 지원 추진 방향을 10월25일 모집 공고의 실질적 추가정보로 선정했다. 09:20·09:27 collection 기록 부재는 직접 검색으로 보완했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "2026-10-26 AI accelerator acquisition partnership strategic chip software developer ecosystem Reuters; Meta 95 billion Nvidia AMD Broadcom; SpaceX Apollo 40 billion AI chip financing; Unconventional AI NeuReality",
+          "official_sources": "Reuters NeuReality 인수 https://www.reuters.com/business/unconventional-ai-buys-israeli-chip-startup-neureality-speed-product-development-2026-10-26/, Reuters Meta 조달 https://www.reuters.com/legal/transactional/meta-launches-35-billion-stock-offering-fund-ai-expansion-2026-10-26/, Reuters SpaceX 금융 https://www.reuters.com/business/media-telecom/spacex-enters-40-billion-deal-with-apollo-ai-chip-financing-2026-10-26/를 확인했다.",
+          "result": "제품화·양산 역량 확보 목적의 NeuReality 인수와 칩 공급 3사의 고객 지분투자 관심을 선정했다. SpaceX 리스금융과 ASMPT 사업부 협상은 상대 비교에서 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "2026-10-26 ROCm vLLM SGLang inference runtime kernel NPU orchestration hardware security chip portability; Google Beam llm-d NVIDIA Dynamo; ML Drift OpenShell TorchTPU",
+          "official_sources": "Google Cloud 영문 원문 https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud, AMD ROCm https://rocm.docs.amd.com/, llm-d https://llm-d.ai/docs/getting-started/accelerators 와 최근 원고 출처를 확인했다.",
+          "result": "Google Beam 원문은 10월16일, ML Drift·OpenShell·TorchTPU도 이미 공개·게재된 사건이었다. 마감 내 독립적인 새 운영 SW·국산 NPU 런타임 도입성과는 확인되지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026-10-26 HBM packaging interconnect CXL UCIe official release Reuters; Korea semiconductor cluster power water permit land investment; Samsung SK hynix 8-layer HBM4 Nvidia; AI data center electricity grid connection criteria Korea",
+          "official_sources": "HBM4 보도 https://news.metal.com/en/newscontent/104179286-samsung-and-sk-hynix-to-mass-produce-and-deliver-hbm4-in-q2-next-year-for-supply-to-nvidia, 경상북도 공식자료, 최근 14일 호남·용인 산단과 AIDC 원고 출처를 대조했다.",
+          "result": "8단 HBM4는 8월 선행 보도 및 회사 확인 부재, 삼성 기판은 10월22일 중복, 전력망 기준은 제안 단계여서 제외했다. 마감 내 별도 확정·집행 단계의 신규 기반 변화는 확인되지 않았다."
+        }
+      },
+      "alternative_sources": "당일 collection 최신 저장은 2026-10-27 09:04:47 KST 한 차례였고 42개 출처가 ok, HyperAccel global·Mobilint global·과기정통부 AI반도체·NIPA AI반도체 4개가 empty, failed 0건이었다. 09:20·09:27 실행 기록은 없어 공식 사이트와 공개 원문을 직접 검색했다. Google News 링크는 아이뉴스24·뉴스1·시사저널e·Reuters 직접 본문으로 대체했고, 마감 뒤 처음 공개된 사실은 선정하지 않았다."
+    }
+  }
+}
