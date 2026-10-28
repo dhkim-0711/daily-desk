@@ -224,7 +224,7 @@
       "number": 6,
       "title": "Meta, AMD·NVIDIA와 칩·시스템·SW 협력 확정…공급사 투자 40억달러",
       "category": "글로벌 가속기·전략적 제휴",
-      "collected_at": "2026-10-27T18:46:08+09:00",
+      "collected_at": "2026-10-28T00:51:29+09:00",
       "original_published_at": "2026-10-27T22:22:48+09:00",
       "original_url": "https://ir.amd.com/news-events/press-releases/detail/1302/amd-and-meta-advance-strategic-partnership-to-power-metas-superintelligence-infrastructure",
       "event_id": "meta-amd-nvidia-full-stack-partnership-investments-2026-10-27",
@@ -262,23 +262,23 @@
   "selection_audit": {
     "coverage": {
       "domestic_npu": {
-        "result": "selected",
+        "result": "reviewed",
         "note": "하이퍼엑셀·네이버클라우드 서버 PoC와 K-컴포저블 통합 검증, 인천의 업스테이지·퓨리오사AI LLM·NPU 실증 협약을 공개본문으로 확인했다. 유상 PoC·양산·반복구매로 확인된 신규 사건은 없었고 회사 내부 성능수치는 독립 검증과 구분했다."
       },
       "domestic_policy_demand": {
-        "result": "selected",
+        "result": "reviewed",
         "note": "수원 패키징 검증 플랫폼과 인천 지역 수요 발굴 협약을 검토했다. 중앙부처·NIPA·IITP, 지자체·테크노파크·지역기관의 공고·보도도 추가 검색했으나 당일 새 NPU 예산·조달·배정·집행 통계는 확인되지 않았다. 최신 09:44 KST 보완 수집에서 09:27 공개된 강릉 AI데이터센터 확정 부인 보도를 발견했지만 공개본문 접근 실패로 범위와 단계가 검증되지 않아 제외했다."
       },
       "global_accelerators": {
-        "result": "selected",
+        "result": "reviewed",
         "note": "Meta-AMD·NVIDIA의 확정 투자와 실제 설치·운영, Oracle의 다중 가속기 확대, Broadcom-Anthropic 금융구조를 비교했다. 전날 관심 단계였던 Meta 공급사 투자가 확정되고 칩·시스템·SW 범위가 공개된 실질적 추가사실을 통합 선정했다."
       },
       "operating_software": {
-        "result": "selected",
+        "result": "reviewed",
         "note": "AMD- Meta의 ROCm·PyTorch·Triton 협력과 설치·운영 사실을 선정했다. ROCm 10의 Ray 2.58 지원은 공식 기술자료로 확인했지만 독립 사업변화가 제한적이고 Meta 제휴의 실제 배포·개발자 생태계 정보가 더 구체적이어서 별도 기사로 선정하지 않았다."
       },
       "memory_packaging_infrastructure": {
-        "result": "selected",
+        "result": "reviewed",
         "note": "두산 김제 CCL 라인 투자협약, 수원 패키징 검증 플랫폼, NAVER-Brookfield AI 인프라 금융과 전력용량 계획을 선정했다. LG유플러스·Ecolab 액체냉각 운영표준 PoC와 NVIDIA-Oracle 데이터센터 확대도 비교했으나 협약 초기 단계 또는 주제 중복으로 제외했다."
       }
     },
@@ -380,10 +380,8 @@
       },
       {
         "article_number": 2,
-        "result": "material_update",
+        "result": "new_event",
         "previous_editions": [],
-        "new_fact": "7월 비구속적 조건합의에서 최대 90억달러 확정 계약으로 진전됐고 자산기구 투자, 매출연동 사용료, 8년 보증, 55MW·200MW 일정과 NVIDIA 투자 선행조건 충족이 공개됐다.",
-        "evidence_url": "https://en.sedaily.com/technology/2026/10/27/naver-signs-9-billion-ai-infrastructure-deal-with-brookfield",
         "note": "최근 14일 원고에는 게재되지 않았지만 오래된 조건합의의 단순 재서술이 아니라 확정 계약이라는 단계 변화를 검증했다."
       },
       {
