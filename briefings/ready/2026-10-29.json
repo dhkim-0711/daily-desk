@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-29",
+  "cutoff_at": "2026-10-29T09:30:00+09:00",
+  "window_start": "2026-10-28T09:30:00+09:00",
+  "created_at": "2026-10-29T09:50:43+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1, 2],
+      "bullets": [
+        "퓨리오사AI는 8200억원 시리즈D를 공식 확정하고 RNGD 카드 2만장 생산과 2027년 두 배 이상 확대 계획을 공개해 정책금융이 양산·글로벌 배치 단계로 연결되는 경로를 구체화했다.",
+        "광주교통공사는 국산 NPU 기반 차상 엣지 AI를 실제 운행 열차에서 2028년 9월까지 검증하기로 해 공공 수요기관의 현장 실증 범위를 제시했다."
+      ]
+    },
+    {
+      "article_numbers": [3, 4],
+      "bullets": [
+        "정부는 포항 AI 데이터센터의 경북도 40억원 출자에 지방재정 투자심사 면제 트랙을 적용해 6000억원 프로젝트의 행정·금융 실행 지연을 줄이기로 했다.",
+        "SK하이닉스는 HBM4 양산 확대와 2027~2028년 생산능력의 50% 이상을 장기계약으로 확보했다고 밝혀 메모리 공급 제약과 투자 가시성이 함께 커졌음을 보여줬다."
+      ]
+    },
+    {
+      "article_numbers": [5, 6],
+      "bullets": [
+        "미국 법무부는 엔비디아의 129억3000만달러 허깅페이스 인수가 AI 개발·배포의 핵심 유통지점 경쟁에 미칠 영향을 질의했으며, 이는 위법 판단이나 제소가 아닌 심사 단계다.",
+        "구글과 오라클은 2027년부터 OCI에서 TPU를 제공하기로 해 구글 자체 클라우드에 묶였던 AI칩 유통을 외부 하이퍼스케일러로 확장한다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "퓨리오사AI, 8200억원 시리즈D 공식 확정…RNGD 양산 확대 계획 공개",
+      "category": "국내 NPU·정책금융",
+      "collected_at": "2026-10-29T09:25:13+09:00",
+      "original_published_at": "2026-10-29T09:07:00+09:00",
+      "original_url": "https://www.ajunews.com/view/20261029090556363",
+      "event_id": "furiosa-series-d-official-close-production-plan-2026-10-28",
+      "event_first_published_at": "2026-10-28",
+      "event_evidence_url": "https://furiosa.ai/blog/furiosaai-620-million-series-d",
+      "selection_tier": "supplement",
+      "recency_evidence": "회사 공식 발표는 2026-10-28 날짜만 표시돼 24시간 우선구간 여부를 단정하지 않고 48시간 보완 후보로 분류했다. 2026-10-29 09:07 KST 아주경제가 공식 발표의 라운드 완료·투자자·자금용도를 공개했고 아카이브 firstSeenAt은 09:25:13 KST여서 마감 전 공개와 미게재 독립 사건임을 확인했다.",
+      "main_points": [
+        "퓨리오사AI는 6억2000만달러, 국내 보도 기준 약 8200억원 규모 시리즈D 투자유치를 완료했다고 공식 발표했다. 투자 후 기업가치는 29억달러, 약 3조8000억원으로 제시됐고 국민성장펀드 3700억원과 수출입은행·산업은행·네이버 등 국내외 투자자가 참여했다.",
+        "회사는 올해 RNGD 가속카드 2만장을 생산하고 메모리와 파운드리 생산능력을 확보해 2027년 생산을 두 배 이상 늘리겠다고 밝혔다. 이는 회사의 생산·배치 계획이며 실제 출하·고객 구매 성과와는 구분해야 한다."
+      ],
+      "implications": [
+        "정책성 자금의 승인 단계에서 실제 라운드 확정으로 진전됐고, 자금 용도가 RNGD 양산·글로벌 배치와 2나노·HBM4/4E 기반 3세대 칩 개발로 구체화됐다. 정책금융 성과는 투자금액 자체보다 생산량, 유상 고객 배치, 반복구매로 이어지는지를 후속 점검할 필요가 있다.",
+        "대규모 자금과 생산능력 확보는 국내 NPU가 설계개발에서 공급 실행으로 이동할 기반을 넓힌다. 다만 생산 목표와 회사가 제시한 성능·전력효율은 고객 워크로드의 독립 검증 및 매출 전환과 동일한 성과가 아니다."
+      ],
+      "sources": [
+        {
+          "title": "퓨리오사AI, 8200억원 투자유치 완료…기업가치 3.8조원",
+          "publisher": "아주경제",
+          "published_at": "2026-10-29T09:07:00+09:00",
+          "url": "https://www.ajunews.com/view/20261029090556363",
+          "verification": "full_text",
+          "verified_at": "2026-10-29T09:47:30+09:00"
+        },
+        {
+          "title": "FuriosaAI closes $620 million Series D to scale efficient, production-ready AI inference",
+          "publisher": "FuriosaAI",
+          "published_at": "2026-10-28",
+          "url": "https://furiosa.ai/blog/furiosaai-620-million-series-d",
+          "verification": "public_primary",
+          "verified_at": "2026-10-29T09:47:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "회사 원문은 2026-10-28로 표시됐고, 2026-10-29 09:07 KST 공개된 https://www.ajunews.com/view/20261029090556363 본문이 라운드 완료, 투자자와 자금용도를 인용해 09:30 마감 전 핵심 사실 공개를 확인했다. 09:47 확인 당시 회사 원문에 마감 뒤 수정 표시는 없었다."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "광주교통공사, 국산 NPU 차상 엣지 AI를 실제 운행 열차에서 실증",
+      "category": "국내 정책·수요처 실증",
+      "collected_at": "2026-10-28T14:53:34+09:00",
+      "original_published_at": "2026-10-28T09:49:00+09:00",
+      "original_url": "https://www.grtc.co.kr/subway/board/22/read/32934",
+      "event_id": "gwangju-transit-domestic-npu-edge-ai-pilot-2026-10-28",
+      "event_first_published_at": "2026-10-28T09:49:00+09:00",
+      "event_evidence_url": "https://www.grtc.co.kr/subway/board/22/read/32934",
+      "selection_tier": "primary",
+      "main_points": [
+        "광주교통공사는 과기정통부 AX 실증밸리 조성사업의 도시·생활혁신AX 분야에 선정돼 광주 도시철도 1호선에 국산 NPU 기반 차상 엣지 AI 플랫폼을 구축한다고 밝혔다. 혼잡도·쾌적도 분석, 쓰러짐·다툼·화재 등 이상상황 감지와 관제 연계, 분실물 탐지·검색을 실제 운행 환경에서 검증한다.",
+        "실증은 2028년 9월까지 진행되며, 공사는 운영 안정성과 서비스 효과를 확인한 뒤 다른 도시철도 차량 적용 가능성을 검토할 계획이다. 공모 선정과 구축·실증 계획이 확인된 단계로, 서비스 효과나 전국 확산이 이미 달성된 것은 아니다."
+      ],
+      "implications": [
+        "국산 NPU 수요정책이 범용 연산자원 제공을 넘어 도시철도 안전·편의라는 구체적 운영업무와 실제 수요기관으로 연결된 사례다. 사업 기획에서는 열차 진동·통신단절·전력제약 환경의 안정성, 관제 연계 정확도와 오탐률, 유지보수 비용을 성과지표로 확인할 필요가 있다.",
+        "현장 실증이 구매·확산으로 이어지려면 NPU 성능뿐 아니라 센서·CCTV 처리, 모델 업데이트, 운영 SW와 보안·개인정보 요건을 함께 검증해야 한다. 다른 도시철도 적용 검토는 향후 계획이므로 계약·조달 물량이 공개될 때 별도 판단해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "광주교통공사, AX 실증밸리 공모 선정 국산 AI 기술로 더 안전하고 편리한 도시철도 만든다",
+          "publisher": "광주교통공사",
+          "published_at": "2026-10-28T09:49:00+09:00",
+          "url": "https://www.grtc.co.kr/subway/board/22/read/32934",
+          "verification": "public_primary",
+          "verified_at": "2026-10-29T09:47:30+09:00"
+        },
+        {
+          "title": "'AX 실증밸리 선정' 광주교통공사, AI기반 도시철도 개발·실증",
+          "publisher": "뉴시스",
+          "published_at": "2026-10-28T13:21:07+09:00",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844633",
+          "verification": "full_text",
+          "verified_at": "2026-10-29T09:47:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "포항 AI 데이터센터, 경북도 출자 위한 지방재정 투자심사 면제 트랙 적용",
+      "category": "산업기반·인허가·투자실행",
+      "collected_at": "2026-10-28T10:14:48+09:00",
+      "original_published_at": "2026-10-28T10:00:00+09:00",
+      "original_url": "https://www.newsis.com/view/NISX20261028_0003844133",
+      "event_id": "pohang-ai-datacenter-local-investment-review-exemption-2026-10-28",
+      "event_first_published_at": "2026-10-28T10:00:00+09:00",
+      "event_evidence_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786765",
+      "selection_tier": "primary",
+      "main_points": [
+        "정부는 포항 AI 전용 데이터센터 사업에서 경상북도의 특수목적법인 출자금 40억원을 2027년 3월까지 확보하도록 지방재정 투자심사 면제 트랙을 적용하기로 했다. 경제관계장관회의 의결과 전문기관 검토를 거쳐 행정안전부가 협의면제를 결정·통보하는 절차다.",
+        "총사업비 6000억원은 자본금 1500억원과 PF 대출 4500억원으로 구성되며, 9월 말 공정률은 7.66%다. 수전용량 40MW·IT 부하 32MW로 2027년 11월 준공과 시운전을 거쳐 2028년 1월 운영을 목표로 하며, 총사업비와 예상 생산·고용효과를 이번 신규 예산이나 달성 성과로 보아서는 안 된다."
+      ],
+      "implications": [
+        "AI 데이터센터 사업의 지연요인이 전력·부지뿐 아니라 지방정부 출자에 필요한 행정심사와 약정기한에도 있음을 보여준다. 산업기반 정책은 승인 여부보다 면제 결정, 지방의회 예산편성, 출자 납입과 PF 집행, 공정률을 단계별로 추적할 필요가 있다.",
+        "40MW급 지역 AI 인프라는 비수도권 연산자원과 산업수요를 연결할 기회가 있지만, 운영 목표만으로 실제 입주 수요와 가동률을 판단할 수 없다. 향후 임차 고객, 가속기 구성, 전력·냉각 운영성과가 공개돼야 국산 NPU 활용 가능성도 평가할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "포항 AI 데이터센터 지방투심 면제…사업 속도 높인다",
+          "publisher": "뉴시스",
+          "published_at": "2026-10-28T10:00:00+09:00",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844133",
+          "verification": "full_text",
+          "verified_at": "2026-10-29T09:47:30+09:00"
+        },
+        {
+          "title": "경제관계장관회의-과학기술관계장관회의 연석회의 개최",
+          "publisher": "대한민국 정책브리핑·재정경제부",
+          "published_at": "2026-10-28",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786765",
+          "verification": "public_primary",
+          "verified_at": "2026-10-29T09:47:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "정부 원문은 2026-10-28 게시와 별첨 '지역활성화 투자 펀드 9호 프로젝트 신속 추진 방안'을 표시한다. 같은 핵심 내용이 2026-10-28 10:00 KST https://www.newsis.com/view/NISX20261028_0003844133 에 공개됐고 아카이브 firstSeenAt은 10:14:48 KST여서 마감 전 공개를 확인했으며, 확인 당시 마감 뒤 수정 표시는 없었다."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "SK하이닉스, HBM4 주력 전환·2027~2028년 생산능력 50% 이상 장기계약",
+      "category": "메모리·공급망",
+      "collected_at": "2026-10-28T14:53:34+09:00",
+      "original_published_at": "2026-10-28",
+      "original_url": "https://news.skhynix.com/en/q3-2026-business-results/",
+      "event_id": "sk-hynix-hbm4-lta-capacity-2026-10-28",
+      "event_first_published_at": "2026-10-28T10:55:00+09:00",
+      "event_evidence_url": "https://news.skhynix.com/en/q3-2026-business-results/",
+      "selection_tier": "primary",
+      "main_points": [
+        "SK하이닉스는 3분기 HBM4 출하가 본격화됐으며 4분기에는 출하량과 매출 모두 HBM3E를 넘어 주력 제품이 될 것으로 예상한다고 밝혔다. M15X를 연말까지 최대 가동해 HBM4 생산을 늘리고, 내년 용인 1단계 가동과 국내외 인프라 투자 확대를 추진할 계획이다.",
+        "14개 주요 고객과 체결한 장기공급계약 물량은 2027~2028년 총 생산능력의 50% 이상이며, 회사는 협의 중 수요까지 합치면 2029년까지 D램·HBM 물량이 사실상 판매됐다고 설명했다. 확정 LTA 50% 이상과 아직 협의 중인 수요를 구분해야 하며, 투자 확대도 수요·수익성에 따라 시기와 규모를 조정할 계획이다."
+      ],
+      "implications": [
+        "HBM4 양산 전환과 다년계약은 AI 가속기 공급망의 메모리 확보 경쟁이 단기 주문을 넘어 생산능력 선점으로 이동했음을 보여준다. 국내 AI칩 사업은 HBM 세대와 수급, 패키징·검증 일정이 제품 출시와 고객 납기를 제약할 수 있어 메모리 연계 계획을 조기에 점검할 필요가 있다.",
+        "장기계약은 수요 가시성을 높이지만 2029년 '완판' 표현에는 협상 중 물량이 포함된다. 정책·사업 판단에서는 확정 계약 비중, HBM4 수율·양산 속도, 용인 투자 집행과 일반 D램 공급의 상충을 분리해 볼 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "SK hynix Announces 3Q26 Financial Results",
+          "publisher": "SK hynix Newsroom",
+          "published_at": "2026-10-28",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+          "verification": "public_primary",
+          "verified_at": "2026-10-29T09:47:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "회사 원문은 2026-10-28로 표시됐고 HBM4 주력 전환, 2027~2028년 생산능력 50% 이상 LTA를 담고 있다. 2026-10-28 11:09 KST 공개된 https://www.news1.kr/industry/general-industry/6334643 이 같은 콘퍼런스콜 내용을 보도했고 아카이브 firstSeenAt은 14:53:34 KST여서 마감 전 공개를 확인했으며, 회사 원문 확인 당시 마감 뒤 수정 표시는 없었다."
+        },
+        {
+          "title": "SK하이닉스 '2029년까지 D램·HBM 완판…매분기 자사주 매입'(종합)",
+          "publisher": "뉴스1",
+          "published_at": "2026-10-28T11:09:00+09:00",
+          "url": "https://www.news1.kr/industry/general-industry/6334643",
+          "verification": "full_text",
+          "verified_at": "2026-10-29T09:47:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "미 법무부, 엔비디아의 허깅페이스 인수가 AI 경쟁에 미칠 영향 질의",
+      "category": "글로벌 가속기·전략적 인수",
+      "collected_at": "2026-10-29T03:48:46+09:00",
+      "original_published_at": "2026-10-29T03:33:38+09:00",
+      "original_url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/",
+      "event_id": "us-doj-nvidia-hugging-face-acquisition-inquiry-2026-10-28",
+      "event_first_published_at": "2026-10-29T03:33:38+09:00",
+      "event_evidence_url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/",
+      "selection_tier": "primary",
+      "main_points": [
+        "로이터는 미국 법무부가 엔비디아의 129억3000만달러 규모 허깅페이스 인수가 AI 경쟁에 미칠 영향을 관계자들에게 질의했다고 보도했다. 법무부는 개발자가 모델·데이터·도구를 공유하는 플랫폼이 엔비디아에 AI 배포의 핵심 유통지점을 장악할 지렛대를 제공할 수 있는지를 살펴보고 있다.",
+        "인수 계약은 9월 확정됐지만 2027년 상반기 종결 목표는 규제 승인 등 조건 충족을 전제로 한다. 현재 단계는 질의·검토이며 위법 판단이나 소송 제기는 아니고, 엔비디아는 허깅페이스가 여러 칩·클라우드 사업자를 계속 지원할 것이라고 밝힌 바 있다."
+      ],
+      "implications": [
+        "AI칩 경쟁이 하드웨어 공급에서 오픈모델·데이터·배포도구가 모이는 개발자 생태계의 소유권으로 확장됐음을 보여준다. 플랫폼 개방성이나 경쟁사 가속기 지원 조건이 바뀌면 국내 NPU의 모델 호환성·개발자 접근·글로벌 판로에도 간접 영향이 생길 수 있다.",
+        "정책·사업 기획에서는 인수 확정과 종결, 규제 질의와 집행을 구분하면서 허깅페이스의 다중 하드웨어 지원, 모델 최적화 도구와 배포 정책 변화를 추적할 필요가 있다. 국내 직접 연결이 없더라도 개발자 유통경로의 중립성은 가속기 전환비용을 좌우하는 중요한 글로벌 경쟁 변수다."
+      ],
+      "sources": [
+        {
+          "title": "US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say",
+          "publisher": "Reuters",
+          "published_at": "2026-10-29T03:33:38+09:00",
+          "url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/",
+          "verification": "full_text",
+          "verified_at": "2026-10-29T09:47:30+09:00"
+        },
+        {
+          "title": "NVIDIA definitive agreement to acquire Hugging Face",
+          "publisher": "U.S. Securities and Exchange Commission",
+          "published_at": "2026-09-02",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm",
+          "verification": "public_primary",
+          "verified_at": "2026-10-29T09:47:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "구글 TPU, 2027년부터 오라클 OCI에서 제공…외부 하이퍼스케일러 첫 공급",
+      "category": "글로벌 가속기·클라우드 생태계",
+      "collected_at": "2026-10-28T15:02:23+09:00",
+      "original_published_at": "2026-10-27",
+      "original_url": "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/",
+      "event_id": "google-tpu-oracle-cloud-external-hyperscaler-2026-10-27",
+      "event_first_published_at": "2026-10-27",
+      "event_evidence_url": "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/",
+      "selection_tier": "supplement",
+      "recency_evidence": "Oracle과 Google의 확정 발표는 2026-10-27 공개로 09:30 마감 전 48시간 이내이며, 최근 14일 원고에 미게재된 독립 사건이다. 2026-10-28 10:53 KST 국내 공개보도와 15:02:23 KST 아카이브 firstSeenAt을 대조해 단순 종합기사 재서술이 아니라 OCI가 구글 외부 첫 하이퍼스케일러 공급처가 된 사실을 확인했다.",
+      "main_points": [
+        "구글과 오라클은 2027년부터 OCI에서 구글 TPU를 제공한다고 발표했다. 구글 외부 하이퍼스케일러가 TPU를 제공하는 첫 사례로, 오라클은 전력·냉각·데이터센터 네트워킹을 맡고 고객은 OCI에서 여러 가속기 구조를 선택할 수 있게 된다.",
+        "초기 대상에는 학습용 TPU 8t와 추론용 TPU 8i가 포함되며 공급은 여러 해에 걸쳐 확대될 예정이다. 2027년 제공은 계획 단계이고, 구글이 제시한 세대별 성능과 비용효율은 실제 OCI 고객 워크로드에서 검증된 성과와 구분해야 한다."
+      ],
+      "implications": [
+        "자체 AI칩을 자사 클라우드 안에서만 제공하던 전략이 외부 유통 파트너를 활용하는 방식으로 바뀌면서 엔비디아 중심 시장의 공급경로가 다변화된다. 국내 NPU도 칩 성능만큼 타 클라우드의 전력·네트워크·운영도구와 결합해 판매할 수 있는 채널 전략이 중요해진다.",
+        "오라클의 다중 가속기 포트폴리오는 수요자가 가격·성능·모델 호환성을 기준으로 칩을 전환할 여지를 넓힌다. 정책·사업 기획에서는 클라우드 간 이식성, 컴파일러·런타임 지원, 장기 공급조건과 실제 이용률을 함께 비교할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "Oracle Brings Google TPUs to Oracle Cloud Infrastructure",
+          "publisher": "Oracle",
+          "published_at": "2026-10-27",
+          "url": "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/",
+          "verification": "public_primary",
+          "verified_at": "2026-10-29T09:47:30+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "퓨리오사AI 시리즈D 공식 발표와 생산계획, 광주교통공사의 국산 NPU 차상 엣지 실증, 경산 제조실증, 리벨리온 llm-d 지원, 딥엑스 VLM 공개를 비교했다. 경산 GPU 112장·NPU 8대는 10월26일 협약 공개 때 이미 확인돼 10월27일 원고에 게재된 사실이고, 리벨리온은 10월20일 llm-d 1.0 공개와 4월 통합의 재서술이라 신규 사건에서 제외했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "광주교통공사의 과기정통부 AX 실증밸리 선정과 실제 열차 실증 범위를 선정했다. 과기정통부·NIPA·IITP 공고, 중앙·지방정부, 테크노파크·지역기관의 NPU 예산·조달·도입·집행도 검색했으나 마감 내 별도의 새 구매물량·예산집행 통계는 확인되지 않았다. 당일 수집은 09:25 KST 완료됐고 NIPA AI반도체 출처는 empty여서 공개 사업페이지와 공공기관 원문으로 보완했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "엔비디아의 허깅페이스 인수에 대한 법무부 질의, 구글 TPU의 OCI 외부 공급, 오픈AI의 TPU 구매 추진 보도와 Meta-AMD·NVIDIA 후속 보도를 비교했다. 인수 심사는 개발자 유통지점의 경쟁구조, OCI 제휴는 자체칩의 외부 판매채널이라는 독립 변화를 보여 선정했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "llm-d 1.0의 리벨리온 NPU well-lit path, Google LiteRT CompiledModel API, ROCm 10.1·vLLM·SGLang 최신 지원과 퓨리오사 SDK를 확인했다. llm-d와 ROCm 후보는 최근 14일 이전 공개 또는 재서술이었고, LiteRT는 10월28일 날짜만 표시된 원문을 09:30 뒤 직접 발견해 마감 전 공개시각을 검증하지 못했으므로 선정하지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "SK하이닉스 HBM4·장기공급계약, 포항 데이터센터 투자심사 면제, 가온전선 배전케이블, 반도체 패키징용 감광성 결정화 유리, 호남 반도체 클러스터 후속 보도를 비교했다. HBM4 양산·LTA와 포항의 출자·PF·공정률은 실행 단계가 구체적이어서 선정했고, 개별 공급·기술개발과 기존 클러스터 계획 재서술은 후순위 또는 검증 부족으로 제외했다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "정책금융 승인·클로징 전망에서 공식 라운드 확정으로 진전됐고, 양산물량·메모리와 파운드리 확보·3세대 칩 개발 용도가 구체화됐다."},
+      {"article_number": 2, "reason": "공공 수요기관이 국산 NPU를 실제 운행 열차의 안전·편의 업무에 적용하는 구축·실증 범위와 종료시점을 공개해 수요창출 사업 판단에 직접적이다."},
+      {"article_number": 3, "reason": "총사업비 구상과 별개로 지방정부 출자에 필요한 투자심사 면제, PF 약정, 실제 공정률과 운영목표가 확인된 산업기반 정책 실행 변화다."},
+      {"article_number": 4, "reason": "HBM4 주력 전환과 확정 LTA 비중이 공개돼 AI 가속기 메모리 공급능력·장기계약·투자시기 판단에 중요한 새 사실을 제공한다."},
+      {"article_number": 5, "reason": "AI칩 공급자가 오픈모델·개발자 플랫폼을 인수하는 전략에 경쟁당국 질의가 시작돼 하드웨어와 SW 생태계 결합의 규제변수를 보여준다."},
+      {"article_number": 6, "reason": "구글 자체칩이 처음 외부 하이퍼스케일러 유통망으로 진입해 가속기 판매·운영 생태계와 칩 전환 경쟁의 구조적 변화를 만든다."}
+    ],
+    "excluded": [
+      {"title": "경산, GPU 112장에 국산 AI반도체 8대…제조업 AI 실증 본격화", "url": "https://www.news1.kr/local/daegu-gyeongbuk/6332440", "reason": "GPU 112장과 퓨리오사AI NPU 8대, 제조·로봇·모빌리티 실증 범위는 10월26일 협약 원문에서 이미 공개됐고 10월27일 원고에 같은 사건이 게재됐다. 10월29일 기사에서 추가 계약·성과는 확인되지 않았다."},
+      {"title": "리벨리온 NPU, 쿠버네티스 분산 추론 llm-d v1.0 공식 하드웨어 채택", "url": "https://llm-d.ai/blog/llm-d-v1.0-state-of-the-art-inference-ready-for-day-2", "reason": "llm-d 1.0은 10월20일 공개됐고 리벨리온 지원 통합은 4월 병합된 사실로, 10월28일 기사에 새로운 지원범위·배포성과가 확인되지 않았다."},
+      {"title": "Smaller apps and faster GPU inference with LiteRT in Google Play services", "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/", "reason": "운영 SW와 개발자 생태계 변화는 중요하지만 원문이 10월28일 날짜만 표시하고 당일 Google AI 수집 출처가 empty였다. 09:30 뒤 직접 발견해 마감 전 공개시각을 입증할 독립 근거가 없어 이번 회차에서 제외했다."},
+      {"title": "OpenAI plans to buy Google's AI chips, The Information reports", "url": "https://www.reuters.com/business/openai-plans-buy-googles-ai-chips-information-reports-2026-10-28/", "reason": "구매 추진은 관계자 인용 단계이고 금액·수량·일정이 공개되지 않았다. 확정된 OCI 외부 공급 제휴와 TPU 유통 다변화 주제가 겹쳐 별도 선정하지 않았다."},
+      {"title": "가온전선, 미국 빅테크에 1200억 배전케이블 공급", "url": "https://gaoncable.com/pr_center/news", "reason": "구체적 공급계약 후보로 비교했으나 공개 검색에서 오늘 보도의 직접 회사 공시·원문을 확인하지 못했고 기존 5월·8월 북미 버스덕트 계약과의 독립성도 충분히 검증되지 않아 제외했다."},
+      {"title": "세라믹기술원, 반도체 패키징용 감광성 결정화 유리 국산화 기반 마련", "url": "https://www.etnews.com/", "reason": "마감 직전 기사 제목은 확인했지만 공개된 공식 원문에서 연구단계·성능·양산 또는 수요기업 검증 범위를 충분히 대조하지 못해 선정하지 않았다."},
+      {"title": "호남 반도체 클러스터 품는 광산구…한발 앞선 반도체 행정", "url": "https://www.chosun.com/", "reason": "클러스터 부지·행정 후보로 재평가했으나 10월25일 원고의 그린벨트 계획 수정 이후 새 인허가 결정·착공·전력·용수 집행 사실이 확인되지 않아 중복 재서술로 제외했다."}
+    ],
+    "count_reason": "24시간 우선 구간에서 공개본문·공식자료와 사건시각을 검증한 독립 이슈 4건에, 회사 발표가 10월28일 날짜만 표시된 퓨리오사AI 공식 업데이트와 10월27일 Google TPU-OCI 확정 제휴 2건을 48시간 이내 미게재 보완으로 더해 기본 6건을 구성했다. 운영 SW 후보는 마감 전 공개시각 근거가 부족했고 나머지 후보는 중복·협상 초기·공개본문 검증 부족으로 7건 확대 요건을 충족하지 못했다.",
+    "company_overlap_review": "퓨리오사AI는 1번 자금조달·양산계획만 선정했고 10월27일 경북, 10월28일 인천 실증 협약과 사건·단계를 구분했다. 구글은 6번 TPU 외부 유통 제휴에만 직접 등장하며 오픈AI 구매 추진은 같은 경쟁변화의 미확정 후보로 제외했다. SK하이닉스와 엔비디아 사건은 각각 메모리 공급계약과 개발자 플랫폼 인수 심사로 독립적이다.",
+    "candidate_counts": {
+      "discovered": 4587,
+      "time_eligible": 1154,
+      "independent_events": 18,
+      "verified": 13,
+      "selected": 6,
+      "basis": "2026-10월 아카이브 323개 조각 32,243건을 모두 읽고 URL 기준 최근 72시간 4,587건을 확인했다. 48시간 내 AI반도체·정책·인프라 관련 후보 1,154건을 재평가해 실질 변화가 다른 18개 사건을 비교했으며, 공개본문·공식자료·마감시각까지 충분히 검증한 13개 중 6개를 선정했다. 직접 보완 검색에서는 아카이브 밖 LiteRT 후보를 발견했지만 마감 전 공개 근거 부족으로 제외했고 수치에 선정 가능 사건으로 추가하지 않았다."
+    },
+    "history_review": {
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-28",
+      "checked_dates": ["2026-10-15", "2026-10-16", "2026-10-17", "2026-10-18", "2026-10-19", "2026-10-20", "2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"],
+      "note": "14일간 실제 ready 원고 77건의 제목·주요사실·출처를 사건 단위로 대조했다. 경산 제조실증은 10월27일 게재돼 제외했고, 포항 투자심사 면제·광주교통공사 NPU 실증·SK하이닉스 HBM4 LTA·엔비디아 인수 심사는 미게재 신규 사건이다. 퓨리오사AI는 최근 원고의 지역 실증과 달리 공식 자금조달 확정·생산계획이라는 별도 사건이며, Oracle-Google 제휴는 48시간 보완 범위의 미게재 확정 사건이다."
+    },
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "최근 14일 원고에 퓨리오사AI 지역 실증은 있었지만 시리즈D 공식 발표와 2만장 생산·2027년 두 배 확대 계획은 게재되지 않았다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "국산 NPU를 도시철도 실제 운행 열차의 혼잡·이상상황·분실물 업무에 적용하는 수요기관 실증은 최근 14일 원고에 없었다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "포항 AI 데이터센터의 지방재정 투자심사 면제와 40억원 출자기한, PF·공정률은 최근 14일 원고에 게재되지 않았다."},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "HBM4 주력 전환과 2027~2028년 생산능력 50% 이상 LTA는 최근 14일 원고에 게재되지 않았다."},
+      {"article_number": 5, "result": "new_event", "previous_editions": [], "note": "9월 인수계약 자체가 아니라 10월28일 처음 보도된 법무부 경쟁영향 질의가 새 사건이며 최근 14일 원고에 없었다."},
+      {"article_number": 6, "result": "new_event", "previous_editions": [], "note": "Google TPU를 외부 하이퍼스케일러 OCI에서 제공하는 확정 제휴는 최근 14일 원고에 게재되지 않았고 48시간 보완 범위에 해당한다."}
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026-10-28 2026-10-29 퓨리오사AI 리벨리온 딥엑스 모빌린트 하이퍼엑셀 NPU 고객검증 유상 PoC 제품통합 양산 반복구매 해외협력; site:furiosa.ai Series D production; 광주교통공사 국산 NPU 차상 엣지 AI",
+          "official_sources": "FuriosaAI https://furiosa.ai/blog/furiosaai-620-million-series-d, 광주교통공사 https://www.grtc.co.kr/subway/board/22/read/32934, llm-d 공식 릴리스 https://github.com/llm-d/llm-d/releases 를 확인했다.",
+          "result": "퓨리오사AI 공식 자금조달·양산계획과 광주교통공사 수요실증을 선정했다. 경산 협약과 리벨리온 llm-d는 기존 공개·게재 사건으로 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr OR site:nipa.kr OR site:iitp.kr 2026-10-28 2026-10-29 NPU AI반도체 공고 실증 조달 배정 활용; 지자체 테크노파크 국산 NPU 예산 도입; 반도체 클러스터 부지 전력 용수 인허가 투자",
+          "official_sources": "과기정통부 보도자료·NIPA 사업공고·IITP 공개자료, 광주교통공사 원문, 정책브리핑 https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786765 를 확인했다.",
+          "result": "도시철도 NPU 실증과 포항 데이터센터 투자심사 면제를 선정했다. 별도의 새 중앙정부 NPU 구매물량·예산집행 통계는 확인되지 않았으며 NIPA AI반도체 수집 출처 empty는 공식 사업페이지로 보완했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "October 28 2026 Nvidia Hugging Face DOJ acquisition competition; Google TPU Oracle OCI outside Google Cloud; OpenAI plans buy Google TPU; strategic AI chip acquisition software developer ecosystem",
+          "official_sources": "Reuters https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/, SEC https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm, Oracle https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/ 를 확인했다.",
+          "result": "엔비디아 인수 심사와 Google TPU-OCI 확정 제휴를 선정했다. OpenAI TPU 구매는 관계자 인용·조건 미공개 단계이고 OCI 제휴와 주제가 겹쳐 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "October 28 2026 inference runtime compiler kernel ROCm vLLM SGLang accelerator portability official; 2026-10-28 NPU 컴파일러 런타임 SDK; Google LiteRT Play services CompiledModel API",
+          "official_sources": "Google Developers https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/, llm-d https://llm-d.ai/blog/llm-d-v1.0-state-of-the-art-inference-ready-for-day-2, AMD ROCm https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-10.1-blog/README.html 를 확인했다.",
+          "result": "LiteRT는 중요한 런타임 업데이트지만 날짜만 표시된 원문을 마감 뒤 발견해 09:30 이전 공개를 검증하지 못했다. llm-d·ROCm은 보완기간 밖 또는 재서술이라 선정하지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026-10-28 2026-10-29 HBM4 packaging interconnect CoWoS CXL official; Korea semiconductor cluster power water permit land investment; AI data center PF investment review; 감광성 결정화 유리 패키징",
+          "official_sources": "SK hynix https://news.skhynix.com/en/q3-2026-business-results/, 정부 정책브리핑 포항 데이터센터 별첨, 가온전선 뉴스룸, 한국세라믹기술원·전자신문 공개자료를 확인했다.",
+          "result": "SK하이닉스 HBM4·LTA와 포항 인프라 절차를 선정했다. 가온전선 오늘 보도와 패키징 유리는 직접 공식 원문·독립 사건 또는 양산단계 검증이 부족해 제외했다."
+        }
+      },
+      "alternative_sources": "당일 09:25:06 KST 수집은 45개 출처 중 43개 ok, Google AI와 NIPA AI반도체 2개 empty, failed 0건이었다. 아카이브 323개 조각 전체와 공식 뉴스룸·공공기관·공개 재배포 원문을 직접 대조했으며 empty를 후보 없음으로 처리하지 않았다. 직접 검색에서 발견한 자료는 실제 발견시각을 마감 전으로 소급하지 않았고, 마감 전 공개시각을 검증하지 못한 LiteRT는 제외했다."
+    }
+  }
+}
