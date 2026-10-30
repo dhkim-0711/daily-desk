@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-30",
+  "cutoff_at": "2026-10-30T09:30:00+09:00",
+  "window_start": "2026-10-29T09:30:00+09:00",
+  "created_at": "2026-10-30T09:48:10+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1,
+        2
+      ],
+      "bullets": [
+        "과기정통부는 피지컬 AI 트레이닝센터와 우정사업본부 현장 실증을 추진하되, 현재 단계는 정책 방향과 계획 공개로 확인됐다.",
+        "용인 반도체 산단 용수공급 상생협의는 광주시의 스마트도시·국가산단 요구와 관계 부처 입장차로 합의에 이르지 못해 기반시설 실행 리스크가 이어졌다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3,
+        4
+      ],
+      "bullets": [
+        "삼성전기와 말레이시아 에뮬러스는 실리콘 커패시터 테스트 시스템 협력을 MOU에서 2년 JDA로 구체화했지만 세부 범위·가격은 후속 SOW에 남겼다.",
+        "AMD ROCm HRX Loom v0.1은 CPU·GPU·NPU를 아우르는 컴파일러·런타임 경로를 공개해 이기종 가속기 개발자 생태계 경쟁을 넓혔다."
+      ]
+    },
+    {
+      "article_numbers": [
+        5,
+        6
+      ],
+      "bullets": [
+        "국내 HBM 패키징 소재는 실제 공정 검증 장비와 평가 데이터 부족이 국산화 병목으로 지적돼 소재 개발 이후의 검증 인프라 문제가 부각됐다.",
+        "구글은 TPU를 칩·네트워크·스토리지·소프트웨어가 묶인 시스템으로 직접 판매하며 내부 전용 가속기에서 외부 플랫폼 사업으로 전환을 본격화했다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "과기정통부, 피지컬 AI 트레이닝센터·우정사업본부 현장 실증 계획 공개",
+      "category": "NIPA·과기정통부 정책",
+      "collected_at": "2026-10-29T05:58:08.944Z",
+      "original_published_at": "2026-10-29T14:00:00+09:00",
+      "original_url": "https://www.yna.co.kr/amp/view/AKR20261029055000017",
+      "main_points": [
+        "과학기술정보통신부는 10월 29일 산학연 간담회에서 피지컬 AI 핵심기술 개발, 데이터 확보, 현장 실증을 잇는 정책 방향을 논의하고 2027년 피지컬 AI 트레이닝센터 구축 계획을 공개했다.",
+        "우정사업본부와 개발 기술의 현장 적용 가능성을 검증하는 실증을 병행하고 국내 R&D 성과와 국내 기업 제품을 활용한 풀스택 체계를 지원하겠다고 밝혔으며, 기사에서 확정 예산·사업자·조달 물량은 제시되지 않았다."
+      ],
+      "implications": [
+        "국산 AI 반도체 정책에서는 모델·로봇·데이터 사업과 연산 하드웨어를 별도 과제로 분리하기보다 실제 현장 워크로드와 검증 기준을 함께 설계할 기회가 생겼다.",
+        "후속 사업 기획 때는 트레이닝센터 구축 계획과 우정 현장 실증을 확정 사업·예산으로 간주하지 말고, 국산 NPU 참여 요건·수요기관 역할·성능 및 운영 검증 지표가 공고와 협약 단계에서 어떻게 구체화되는지 확인할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "정부, 피지컬AI 산업 육성 본격화…내년 트레이닝센터 구축",
+          "publisher": "연합뉴스",
+          "published_at": "2026-10-29T14:00:00+09:00",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261029055000017",
+          "verification": "full_text",
+          "verified_at": "2026-10-30T09:46:30+09:00"
+        }
+      ],
+      "event_id": "msit-physical-ai-training-center-post-office-pilot-2026-10-29",
+      "event_first_published_at": "2026-10-29T14:00:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/amp/view/AKR20261029055000017",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "용인 반도체 산단 용수공급 상생협의, 광주시 개발 요구 놓고 2차 회의 결렬",
+      "category": "반도체 클러스터·정책 실행",
+      "collected_at": "2026-10-29T10:51:24.641Z",
+      "original_published_at": "2026-10-29T17:10:00+09:00",
+      "original_url": "https://www.inews24.com/view/2020519",
+      "main_points": [
+        "10월 28일 열린 용인 반도체 산단 용수공급 지역상생협의체 2차 회의는 경기 광주시가 제시한 3만호 스마트도시와 국가산업단지 조성 요구를 두고 관계 부처와 이견을 좁히지 못한 채 끝났다.",
+        "광주시는 국토교통부와 기후에너지환경부가 기존 제도 원칙을 유지했다고 밝혔으며, 관계기관은 제안안을 다시 검토해 약 2주 뒤 3차 회의를 열기로 했으므로 지역개발안은 확정된 지원책이 아니다."
+      ],
+      "implications": [
+        "대규모 반도체 클러스터의 용수 관로는 기술적 공급계획만으로 실행되지 않으며 통과 지역의 규제·정주·산업 요구를 함께 조정해야 하는 정책 집행 과제임이 드러났다.",
+        "투자 일정 관리에서는 용수시설 공정률뿐 아니라 관계기관 협의 의제, 지역 보상 요구, 규제 검토의 결정 시점과 미합의 위험을 별도 점검해야 하며 3차 회의 결과를 확정 전제로 반영해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "박관열 광주시장 “국토부·기후부, 원론적 입장만 고수하면 상생협의체 의미 없어”",
+          "publisher": "아이뉴스24",
+          "published_at": "2026-10-29T17:10:00+09:00",
+          "url": "https://www.inews24.com/view/2020519",
+          "verification": "full_text",
+          "verified_at": "2026-10-30T09:46:30+09:00"
+        }
+      ],
+      "event_id": "yongin-semiconductor-water-cooperation-second-meeting-2026-10-28",
+      "event_first_published_at": "2026-10-29T17:10:00+09:00",
+      "event_evidence_url": "https://www.inews24.com/view/2020519",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 3,
+      "title": "삼성전기·에뮬러스, AI용 실리콘 커패시터 테스트 시스템 2년 JDA 체결",
+      "category": "국산 NPU 실증·협력",
+      "collected_at": "2026-10-29T23:35:43.436Z",
+      "original_published_at": "2026-10-29T23:47:00+09:00",
+      "original_url": "https://www.creditnews.kr/news/articleView.html?idxno=32136",
+      "main_points": [
+        "삼성전기와 말레이시아 반도체 검사장비 기업 에뮬러스는 AI 반도체용 실리콘 커패시터 테스트 시스템 공동개발계약을 체결했으며 계약 기간은 10월 29일부터 2년이고 이후 1년 단위 갱신 구조다.",
+        "이번 JDA는 2025년 4월 MOU를 정식 공동개발 틀로 격상한 것이지만 개별 프로젝트의 범위·일정·가격은 후속 작업명세서에서 합의하기로 해 개발 완료나 양산 장비 공급 확정을 의미하지 않는다."
+      ],
+      "implications": [
+        "한국 부품기업이 해외 검사장비 기업과 품질 검증 체계를 공동 설계하는 협력은 AI 패키지 부품의 양산 수율과 고객 인증을 뒷받침하는 구체적 사업 기회다.",
+        "정책·사업 관점에서는 공동개발계약 체결과 실제 장비 완성·공급·양산 적용을 구분해 추적하고, 국내 소재·부품 기업이 해외 테스트 역량에 의존하는 구간과 국내 검증 인프라로 내재화할 구간을 비교할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "삼성전기, 말레이 에뮬러스와 '실리콘 커패시터' 테스트 장비 공동개발",
+          "publisher": "한국신용신문",
+          "published_at": "2026-10-29T23:47:00+09:00",
+          "url": "https://www.creditnews.kr/news/articleView.html?idxno=32136",
+          "verification": "full_text",
+          "verified_at": "2026-10-30T09:46:30+09:00"
+        }
+      ],
+      "event_id": "samsung-electro-mechanics-aemulus-silicon-capacitor-jda-2026-10-29",
+      "event_first_published_at": "2026-10-29T23:47:00+09:00",
+      "event_evidence_url": "https://www.creditnews.kr/news/articleView.html?idxno=32136",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "AMD, CPU·GPU·NPU 공통 실행 경로 겨냥한 ROCm HRX Loom v0.1 공개",
+      "category": "가속기 운영 SW",
+      "collected_at": "2026-10-29T13:43:00.739Z",
+      "original_published_at": "2026-10-29T06:22:00-04:00",
+      "original_url": "https://www.phoronix.com/news/AMD-ROCm-HRX-Loom-0.1",
+      "main_points": [
+        "AMD는 ROCm HRX의 특화 컴파일러·중간표현 계층인 Loom 첫 태그 버전 v0.1을 공개했으며 SDK는 컴파일러, 런타임, 파이썬 API, 명령행 도구를 묶어 CPU·AMD GPU·AMD NPU 실행을 겨냥한다.",
+        "GPU용 HSA 코드 생성과 SPIR-V·Vulkan 경로를 지원하고 x86·WebAssembly 지원은 아직 성숙 중이어서, 이번 공개는 범용 상용화 완료가 아니라 초기 오픈소스 개발 단계의 기반 공개다."
+      ],
+      "implications": [
+        "가속기 경쟁이 칩 성능뿐 아니라 모델 프로그램을 여러 연산장치로 옮기는 컴파일러·런타임 경험으로 확장되면서 NPU 사업화에서도 개발자 전환 비용과 도구 호환성이 핵심 비교 항목이 된다.",
+        "국산 NPU 지원사업은 단일 벤치마크와 드라이버 제공 여부를 넘어 모델 자산 설치, 서빙, 디버깅, 이기종 실행 경로까지 평가하되 v0.1 단계인 Loom의 실제 안정성과 성능은 후속 검증이 필요하다."
+      ],
+      "sources": [
+        {
+          "title": "AMD's ROCm HRX Loom v0.1 Released For Targeting AMD CPUs, GPUs & NPUs",
+          "publisher": "Phoronix",
+          "published_at": "2026-10-29T06:22:00-04:00",
+          "url": "https://www.phoronix.com/news/AMD-ROCm-HRX-Loom-0.1",
+          "verification": "full_text",
+          "verified_at": "2026-10-30T09:46:30+09:00"
+        }
+      ],
+      "event_id": "amd-rocm-hrx-loom-v0-1-2026-10-29",
+      "event_first_published_at": "2026-10-29T06:22:00-04:00",
+      "event_evidence_url": "https://www.phoronix.com/news/AMD-ROCm-HRX-Loom-0.1",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 5,
+      "title": "국내 HBM 패키징 소재 국산화, 실제 공정 검증 장비·평가 데이터 부족이 병목",
+      "category": "국내 메모리·AI 인프라",
+      "collected_at": "2026-10-29T10:51:24.641Z",
+      "original_published_at": "2026-10-29T18:20:00+09:00",
+      "original_url": "https://www.asiae.co.kr/en/article/2026102918204857496",
+      "main_points": [
+        "인하대 윤창민 교수는 10월 29일 한국공업화학회 추계학술대회 프레스데이에서 국내 HBM 첨단 패키징 소재 기업들이 실제 제조 공정에 적용한 평가 장비와 데이터가 부족해 고객 검증에 어려움을 겪는다고 설명했다.",
+        "일본 기업은 자체 테스트베드와 장기간 축적한 공정 경험을 갖춘 반면 국내 중소 소재기업은 고가 장비 접근이 어렵고, 언더필처럼 열팽창·절연·방열 특성을 함께 맞춰야 하는 소재는 단품 개발만으로 채택을 입증하기 어렵다는 현장 진단이다."
+      ],
+      "implications": [
+        "소재 국산화 과제의 성과를 시제품 개발 건수로만 판단하면 실제 패키징 공정 데이터와 고객 인증 단계의 병목을 놓칠 수 있다.",
+        "공동 검증 장비, 제조사 연계 평가 프로토콜, 데이터 공유 범위와 비용 부담을 사업 설계에 포함하고 개발·시험·고객 승인·양산 채택을 구분해 집행 성과를 점검할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "South Korea Excels at HBM Production, but Key Materials Are Japanese... 'Validation Barrier' Stalls Localization",
+          "publisher": "The Asia Business Daily",
+          "published_at": "2026-10-29T18:20:00+09:00",
+          "url": "https://www.asiae.co.kr/en/article/2026102918204857496",
+          "verification": "full_text",
+          "verified_at": "2026-10-30T09:46:30+09:00"
+        }
+      ],
+      "event_id": "korea-hbm-packaging-material-validation-gap-2026-10-29",
+      "event_first_published_at": "2026-10-29T18:20:00+09:00",
+      "event_evidence_url": "https://www.asiae.co.kr/en/article/2026102918204857496",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "구글, TPU를 네트워크·스토리지·SW 결합 시스템으로 직접 판매…2027년 확대 예고",
+      "category": "Google AI 이슈",
+      "collected_at": "2026-10-29T13:43:00.739Z",
+      "original_published_at": "2026-10-29T13:30:45Z",
+      "original_url": "https://www.reuters.com/business/googles-nvidia-chip-challenge-boosts-cloud-sales-crimps-cash-flow-2026-10-29/",
+      "main_points": [
+        "알파벳은 과거 내부 사용 중심이던 TPU를 외부 고객에게 직접 판매하고 있으며, TPU 시스템은 칩뿐 아니라 네트워크·스토리지·소프트웨어를 묶은 형태라고 구글 클라우드가 밝혔다.",
+        "회사는 TPU 판매가 9월 분기 클라우드 매출에 의미 있게 기여했다고 설명하고 2027년 판매 확대를 전망했지만 매출·마진을 별도 공개하지 않았으며, 판매 전 재고 구축으로 현금흐름 부담도 커졌다고 밝혔다."
+      ],
+      "implications": [
+        "구글의 전환은 자체 가속기와 풀스택 소프트웨어를 내부 최적화 자산에서 외부 판매 플랫폼으로 확장하는 전략 변화로, 엔비디아 중심 시장의 경쟁 단위를 개별 칩에서 통합 시스템과 개발자 생태계로 넓힌다.",
+        "국내 가속기 기업과 지원사업은 칩 공급 수량만이 아니라 네트워크·스토리지·운영 SW 결합, 재고·금융 부담, 고객 전환 도구까지 포함한 상용화 역량을 비교해야 하며 2027년 전망을 확정 실적으로 해석해서는 안 된다."
+      ],
+      "sources": [
+        {
+          "title": "Google's Nvidia chip challenge boosts cloud sales, crimps cash flow",
+          "publisher": "Reuters",
+          "published_at": "2026-10-29T13:30:45Z",
+          "url": "https://www.reuters.com/business/googles-nvidia-chip-challenge-boosts-cloud-sales-crimps-cash-flow-2026-10-29/",
+          "verification": "full_text",
+          "verified_at": "2026-10-30T09:46:30+09:00"
+        }
+      ],
+      "event_id": "google-tpu-direct-systems-sales-business-model-2026-10-29",
+      "event_first_published_at": "2026-10-29T13:30:45Z",
+      "event_evidence_url": "https://www.reuters.com/business/googles-nvidia-chip-challenge-boosts-cloud-sales-crimps-cash-flow-2026-10-29/",
+      "selection_tier": "primary"
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "no_eligible_candidate",
+        "note": "최근 72시간 아카이브와 리벨리온·퓨리오사AI·딥엑스·모빌린트 공식·공개 보도, NIPA 공고를 확인했다. 10월 29일 08:35 KST가 당일 마지막 실제 수집이며 09:20·09:27 실행 기록은 없어 수집 공백으로 기록했다. 마감 전 48시간 안에 최근 14일 원고와 구별되는 신규 고객 검증·유상 PoC·제품통합·반복 구매 사건은 확인하지 못했고, 기존 조달·투자·해외 데이터센터 보도는 중복 또는 새 사실 부족으로 제외했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP 공고와 중앙·지역기관의 실증·조달·예산·데이터센터 후보를 점검했다. 09:20·09:27 수집 기록 부재를 보완하기 위해 공개 원문을 직접 대조했으며, 피지컬 AI 트레이닝센터·우정사업본부 실증 계획과 용인 산단 용수공급 2차 협의 결렬을 선정했다. 계획·논의 단계와 확정 예산·계약·집행을 구분했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "구글 TPU, 엔비디아, AMD 및 전략적 인수·제휴 후보를 확인했다. 10월 29일 알파벳 실적발표 뒤 공개된 TPU 시스템 직접 판매·재고·현금흐름이라는 새 사실을 10월 29일 오라클 공급 기사와 구분해 후속 선정했고, OpenAI의 구글 칩 구매 계획은 실제 최초 공개가 48시간 경계 밖인 10월 27일 23:59 UTC라 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm, 런타임, 커널, 컴파일러, 서빙·개발자 도구 후보를 검색하고 AMD ROCm HRX Loom v0.1 공개 원문을 확인했다. CPU·GPU·NPU 공통 실행 경로라는 산업적 의미를 인정하되 초기 v0.1과 성숙 중인 백엔드라는 한계를 본문에 반영했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단 패키징·인터커넥트·소재 검증과 클러스터 부지·전력·용수·인허가 후보를 점검했다. 삼성전기-에뮬러스 JDA, 국내 패키징 소재 검증 인프라 병목, 용인 산단 용수 협의 결과를 비교 선정했으며 삼성 zHBM 글은 날짜만 있고 09:30 이전 공개 근거가 부족해 제외했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국내 제품과 R&D 성과를 활용한다는 피지컬 AI 정책 방향, 트레이닝센터, 우정사업본부 현장 실증이라는 구체적 수요·사업 기획 지점이 새로 공개돼 정책 담당자의 후속 공고 점검 가치가 높다."
+      },
+      {
+        "article_number": 2,
+        "reason": "NPU 직접 언급이 없더라도 반도체 클러스터 용수공급과 지역 규제·개발 요구의 미합의는 대규모 투자 일정과 기관 협의에 직접 영향을 주는 산업기반 정책 변화다."
+      },
+      {
+        "article_number": 3,
+        "reason": "한국 부품기업과 말레이시아 테스트 장비기업의 협력이 MOU에서 2년 공동개발계약으로 진전돼 AI 패키지 부품 양산 검증의 구체적 사업 기회를 보여준다."
+      },
+      {
+        "article_number": 4,
+        "reason": "ROCm 생태계가 CPU·GPU·NPU 공통 컴파일·런타임·서빙 경로를 공개한 것은 가속기 전환 비용과 개발자 생태계 경쟁을 판단하는 새로운 운영 SW 변화다."
+      },
+      {
+        "article_number": 5,
+        "reason": "HBM 소재 개발 이후 실제 공정 평가 데이터와 장비 접근 부족이라는 현장 병목을 처음 공개해 소부장 지원의 검증·고객승인 단계 설계에 직접 참고할 수 있다."
+      },
+      {
+        "article_number": 6,
+        "reason": "구글이 자체 TPU를 네트워크·스토리지·SW가 결합된 외부 판매 시스템으로 전환한 사실은 글로벌 가속기 경쟁과 풀스택 상용화 역량의 중대한 변화이며 국내 직접 연결 없이도 비교 가치가 크다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "Samsung zHBM: Next-Generation Memory for the Data Movement Era",
+        "url": "https://news.samsungsemiconductor.com/global/part-2-zhbm-next-generation-memory-for-the-data-movement-era/",
+        "reason": "기술 내용은 중요하지만 공개일이 2026-10-29로만 표시되고 마감 후 직접 발견돼 09:30 KST 이전 공개를 입증할 독립 시각 근거가 부족했다."
+      },
+      {
+        "title": "OpenAI plans to buy Google's AI chips, The Information reports",
+        "url": "https://www.reuters.com/business/openai-plans-buy-googles-ai-chips-information-reports-2026-10-28/",
+        "reason": "구매 계획은 중요하지만 사건 최초 공개가 2026-10-27 23:59 UTC로 확인돼 이번 회차의 48시간 경계인 2026-10-28 00:30 UTC보다 31분 앞섰다."
+      },
+      {
+        "title": "US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say",
+        "url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/",
+        "reason": "2026-10-29 원고에 동일 사건과 핵심 사실이 이미 게재돼 새 결정·조건·집행 사실 없이 중복이다."
+      },
+      {
+        "title": "Oracle brings Google TPUs to Oracle Cloud Infrastructure",
+        "url": "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/",
+        "reason": "2026-10-29 원고에 외부 하이퍼스케일러 첫 공급 사건이 이미 게재됐다. 이번에는 별도 실적발표에서 확인된 직접 판매 시스템·재고·현금흐름의 새 사실만 후속 기사로 반영했다."
+      },
+      {
+        "title": "퓨리오사AI, 8200억원 시리즈D 공식 확정…RNGD 양산 확대 계획 공개",
+        "url": "https://www.ajunews.com/view/20261029090556363",
+        "reason": "2026-10-29 원고에 공식 확정과 양산 계획이 이미 게재됐으며 추가 납입·집행·고객 계약 사실이 확인되지 않았다."
+      }
+    ],
+    "count_reason": "아카이브 72시간 수집분과 공개 원문 보완 검색에서 시의성·본문 검증·사건 독립성·최근 14일 중복을 통과한 6건을 기본 기사 수로 선정했다. 국내 NPU 신규 사건이 없다는 이유로 오래된 기사나 범용 AI 소식을 채우지 않았고, 정책·산업기반·국제 협력·운영 SW·패키징·글로벌 가속기 변화를 각각 실제 중요도에 따라 비교했다.",
+    "company_overlap_review": "기사 3의 삼성전기는 실리콘 커패시터 테스트 시스템 국제 공동개발이고 기사 5의 삼성전자 경력 전문가 발언은 국내 HBM 패키징 소재 검증 인프라 병목에 관한 독립 취재다. 같은 기업집단 연관성이 있으나 주체·사건·검증 문서·정책 판단 지점이 달라 함께 선정했으며 다른 기업집단은 반복 선정하지 않았다.",
+    "candidate_counts": {
+      "discovered": 4910,
+      "time_eligible": 3002,
+      "independent_events": 8,
+      "verified": 6,
+      "selected": 6,
+      "basis": "docs/data/archive/index.json의 2026-10 조각 110개를 확인해 2026-10-27 00:30 UTC 초과부터 2026-10-30 00:30 UTC 이하 실제 firstSeenAt 기준 4,910건을 집계했고, 그중 publishedAt이 최근 48시간에 들어온 3,002건을 메타데이터상 시의성 후보로 구분했다. 아카이브·직접 검색에서 업무 관련성이 높은 8개 독립 사건을 본문과 최근 14일 원고로 비교했으며 공개시각·본문·중복을 모두 검증한 6건을 선정했다. 당일 collection은 03:56·08:35 KST 두 번만 기록돼 09:20·09:27 공백을 직접 검색으로 보완했다."
+    },
+    "history_review": {
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-29",
+      "checked_dates": [
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29"
+      ],
+      "note": "14개 확정 원고의 제목·주요 사실·event_id·원문과 출처 URL을 읽어 사건 단위로 비교했다. 기사 6은 전날 오라클의 TPU 제공 계획과 연결되지만 알파벳 실적발표에서 직접 판매 시스템 구성, 매출 기여, 재고·현금흐름이 새로 확인된 후속 사실로 처리했고 나머지 5건은 동일 사건 게재 이력이 없었다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 피지컬 AI 트레이닝센터와 우정사업본부 현장 실증 계획을 다룬 동일 사건이 없다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "용인 반도체 산단 용수공급 지역상생협의체 2차 회의 결렬은 1차 협의 예고와 구별되는 실제 회의 결과이며 최근 원고에 게재되지 않았다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "2025년 MOU 이후 2026년 10월 29일 2년 JDA 체결이라는 새 계약 단계는 최근 14일 원고에 없다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "ROCm HRX Loom 첫 태그 버전 v0.1 공개는 최근 14일 원고에 동일 릴리스가 없다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "국내 HBM 패키징 소재의 실제 공정 평가 데이터·장비 부족을 공개한 현장 진단은 최근 14일 원고에 동일 취재 사건이 없다."
+      },
+      {
+        "article_number": 6,
+        "result": "material_update",
+        "previous_editions": [
+          "2026-10-29"
+        ],
+        "note": "전날 오라클 OCI의 구글 TPU 제공 계획 이후 알파벳 실적발표를 통해 외부 직접 판매가 이미 매출에 의미 있게 기여하고 칩·네트워크·스토리지·SW 결합 시스템 재고가 현금흐름에 영향을 준다는 새 사실이 확인됐다.",
+        "new_fact": "구글 TPU가 외부 하이퍼스케일러 제공 계획을 넘어 직접 판매 시스템 사업으로 매출에 기여하고 있으며 미판매 재고·현금흐름 부담과 2027년 확대 계획이 공개됐다.",
+        "evidence_url": "https://www.reuters.com/business/googles-nvidia-chip-challenge-boosts-cloud-sales-crimps-cash-flow-2026-10-29/"
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "no_eligible_candidate",
+          "queries": "리벨리온·퓨리오사AI·딥엑스·모빌린트와 NPU·실증·수요기업·제품통합·해외협력을 2026년 10월 29~30일로 검색하고 아카이브 후보를 재검토했다.",
+          "official_sources": "NIPA 사업공고, 국내 NPU 기업 공개 뉴스룸·협력사 자료, 과기정통부 공개자료를 확인했다.",
+          "result": "최근 14일 게재 사건과 구별되는 마감 전 48시간 신규 고객 검증·유상 PoC·구매·양산 사건은 확인되지 않았다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "과기정통부·NIPA·IITP·지자체와 AI반도체·NPU·국비·예산·실증·도입·조달·데이터센터·용수·인허가를 조합해 검색했다.",
+          "official_sources": "과기정통부·NIPA·IITP 공개 페이지, 우정사업본부 연계 보도, 경기 광주시·관계기관 공개 내용을 대조했다.",
+          "result": "피지컬 AI 트레이닝센터·우정 현장 실증 계획과 용인 산단 용수공급 2차 협의 결과를 선정했으며 제안·계획·논의와 확정 사업을 구분했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "Google TPU·NVIDIA·AMD·OpenAI와 직접 판매·인수·제휴·칩 전환·개발자 생태계를 2026년 10월 28~30일로 검색했다.",
+          "official_sources": "Reuters 공개 본문, Oracle·Google 관련 공개 발표와 전날 확정 원고를 대조했다.",
+          "result": "구글 TPU 시스템 직접 판매의 새 사업모델을 후속 선정했고 OpenAI 구매계획은 사건 최초 공개가 48시간 밖이라 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "ROCm·HRX·Loom·커널·런타임·컴파일러·서빙·NPU 소프트웨어를 2026년 10월 29~30일로 검색했다.",
+          "official_sources": "AMD ROCm HRX 공개 저장소·문서와 Phoronix 공개 전문을 확인했다.",
+          "result": "CPU·GPU·NPU 공통 실행을 겨냥한 Loom v0.1을 선정하고 초기 버전 한계를 반영했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "HBM·첨단 패키징·인터커넥트·실리콘 커패시터·검증 인프라와 반도체 클러스터 부지·전력·용수·인허가를 검색했다.",
+          "official_sources": "삼성전기·에뮬러스 관련 공시 보도, 아시아경제 공개 전문, 경기 광주시와 관계기관 공개 내용을 대조했다.",
+          "result": "국제 공동개발 JDA, HBM 소재 검증 병목, 용수공급 협의 결과를 선정했고 날짜만 있는 zHBM 글은 마감 전 공개 근거 부족으로 제외했다."
+        }
+      },
+      "alternative_sources": "아이뉴스24 직접 열람 제한은 동일 공개 사실을 담은 오마이뉴스·아시아경제·광주시 제공 내용으로 교차확인했고 원고에는 마감 전 수집된 아이뉴스24 원문 URL과 실제 시각을 유지했다. 유료벽·검색 요약만으로 선정한 기사는 없으며 Reuters, 연합뉴스, Phoronix, 아시아경제, 한국신용신문의 공개 본문을 읽었다."
+    },
+    "shared_original_reviews": []
+  }
+}
+
