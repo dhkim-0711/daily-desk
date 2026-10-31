@@ -1,0 +1,463 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-10-31",
+  "cutoff_at": "2026-10-31T09:30:00+09:00",
+  "window_start": "2026-10-30T09:30:00+09:00",
+  "created_at": "2026-10-31T10:10:00+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1,
+        2
+      ],
+      "bullets": [
+        "고양시는 퓨리오사AI·엑스페릭스와 글로벌 AI 허브 유치 MOU를 맺었지만, 기술검증·공동사업과 투자 조건은 후속 협의 단계다.",
+        "현대차그룹은 새만금 AI 데이터센터 참여를 확정하고 11월 법인 설립과 인허가·착공 일정을 구체화해 구상에서 실행 준비로 진전했다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3,
+        4
+      ],
+      "bullets": [
+        "효성중공업과 지멘스는 전력망·데이터센터 솔루션 협력을 체결해 한국 전력기기와 글로벌 디지털 제어 기술의 결합 가능성을 열었다.",
+        "아마존은 트레이니엄 외부 판매 계획과 PyTorch 전환 도구를 함께 공개해 자체칩 경쟁을 하드웨어 판매와 개발자 생태계로 확대했다."
+      ]
+    },
+    {
+      "article_numbers": [
+        5,
+        6
+      ],
+      "bullets": [
+        "퍼듀대는 미국 대학 최초로 교내 Google TPU 인프라를 도입해 연구기관 수요처에서 비엔비디아 가속기의 실제 배치 경로를 만들었다.",
+        "엔비디아는 Dynamo용 검증된 쿠버네티스 런타임 레시피를 공개해 대규모 추론 운영 SW의 설치·검증 표준화를 강화했다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "고양시·퓨리오사AI·엑스페릭스, 글로벌 AI 허브 유치 협력 MOU 체결",
+      "category": "국내 NPU 실증·협력",
+      "collected_at": "2026-10-30T10:28:06.065Z",
+      "original_published_at": "2026-10-30T15:28:00+09:00",
+      "original_url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335570",
+      "main_points": [
+        "고양시는 10월 30일 퓨리오사AI·엑스페릭스와 3년간 글로벌 AI 허브 유치를 위한 업무협약을 체결했다. 퓨리오사AI는 AI 반도체·컴퓨팅 활용, 기술검증, 연구개발과 공동사업을 검토하고 엑스페릭스는 AI 복합센터 관련 사업·투자 방안을 모색하기로 했다.",
+        "협약은 협력 방향을 정한 단계이며 구체 사업, 투자액, 수요처, 유상 PoC와 조달 물량은 별도 협의로 남아 있다. 따라서 센터 유치나 투자가 확정·집행됐다고 볼 수 없다."
+      ],
+      "implications": [
+        "국내 NPU 기업과 지방정부, 인프라 사업자가 기술검증과 거점 유치를 함께 논의한 사례로, 지역 AI 인프라 사업에서 국산 가속기의 참여 경로를 구체화할 수 있는 사업 기회다.",
+        "후속 검토에서는 MOU를 성과로 확정하지 말고 실제 부지·전력·수요기관, 검증 워크로드, 비용 분담과 구매·투자 결정이 협약이나 계약으로 전환되는지 단계별로 확인할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "고양시, 퓨리오사AI·엑스페릭스와 글로벌 AI 허브 유치 MOU 체결",
+          "publisher": "인천일보",
+          "published_at": "2026-10-30T15:28:00+09:00",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335570",
+          "verification": "full_text",
+          "verified_at": "2026-10-31T10:09:30+09:00"
+        },
+        {
+          "title": "고양시, 퓨리오사AI·엑스페릭스와 글로벌 AI 허브 유치 업무협약",
+          "publisher": "뉴스로",
+          "published_at": "2026-10-30",
+          "url": "https://www.newsro.kr/articles/1920858",
+          "verification": "public_reprint",
+          "verified_at": "2026-10-31T10:09:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "인천일보 원문이 2026-10-30 15:28 KST에 공개되고 아카이브가 2026-10-30 19:28:06 KST에 수집해 핵심 협약 사실이 2026-10-31 09:30 KST 이전 공개됐음을 확인했다."
+        }
+      ],
+      "event_id": "goyang-furiosa-xperix-global-ai-hub-mou-2026-10-30",
+      "event_first_published_at": "2026-10-30T15:28:00+09:00",
+      "event_evidence_url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335570",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "현대차그룹, 새만금 AI 데이터센터 참여 확정…11월 법인 설립·2027년 착공 추진",
+      "category": "반도체 클러스터·정책 실행",
+      "collected_at": "2026-10-30T10:28:06.065Z",
+      "original_published_at": "2026-10-30T10:41:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261030038751055",
+      "main_points": [
+        "현대차그룹 5개사는 새만금 AI 데이터센터 투자 참여를 확정하고 11월 데이터센터 건설·인프라와 GPU 서비스 사업을 담당할 특수목적법인 2곳을 설립하기로 했다. 현대차그룹은 2027년 3월 착공과 2030년 서비스 개시를 목표로 현지 사무소를 열었다.",
+        "정부 공개자료에 따르면 건축심의는 10월 16일 완료됐고 건축허가와 산업단지 입주 절차를 병행하고 있다. 9조원은 장기 AI 밸리 전체 구상 규모로, 이번 발표에서 전액의 신규 예산·납입·집행이 확정된 것은 아니다."
+      ],
+      "implications": [
+        "기업 참여 확정, 법인 설립, 건축심의와 인허가 일정이 함께 제시돼 데이터센터 구상이 실제 사업 실행 준비로 이동했음을 보여준다.",
+        "정책 담당자는 총투자 구상보다 법인 출자, 허가 완료, 전력·용수 확보, 금융조달과 착공의 실제 이행을 구분해 추적하고 국산 가속기·운영 SW가 조달 구조에 들어갈 수 있는 시점을 확인할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "현대차그룹, AI 데이터센터 건립 본격 착수…다음달 법인 2개 설립",
+          "publisher": "연합뉴스",
+          "published_at": "2026-10-30T10:41:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261030038751055",
+          "verification": "full_text",
+          "verified_at": "2026-10-31T10:09:30+09:00"
+        },
+        {
+          "title": "현대차그룹, 새만금 AI 데이터센터 건립 본격 착수",
+          "publisher": "현대자동차그룹",
+          "published_at": "2026-10-30",
+          "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-ai-data-center-saemangeum-investment",
+          "verification": "public_primary",
+          "verified_at": "2026-10-31T10:09:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "연합뉴스 원문이 2026-10-30 10:41 KST에 공개됐고 동일 사건의 아카이브 항목이 2026-10-30 19:28:06 KST에 수집돼 공식 발표의 핵심 사실이 마감 전 공개됐음을 대조했다."
+        },
+        {
+          "title": "새만금 AI 데이터센터 투자 실행 지원 현황",
+          "publisher": "대한민국 정책브리핑",
+          "published_at": "2026-10-30",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156787259&pWiseMinistry=ministryNews&repCode=B00021&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98",
+          "verification": "public_primary",
+          "verified_at": "2026-10-31T10:09:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "연합뉴스와 현대자동차그룹 공개자료가 2026-10-30에 먼저 공개됐고 아카이브가 같은 날 19:28:06 KST에 사건을 수집해 건축심의·법인 설립·착공 계획의 마감 전 공개를 확인했다."
+        }
+      ],
+      "event_id": "hyundai-saemangeum-ai-data-center-spc-permit-execution-2026-10-30",
+      "event_first_published_at": "2026-10-30T10:41:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261030038751055",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 3,
+      "title": "효성중공업·지멘스, 디지털 전력망·AI 데이터센터 솔루션 전략적 협력",
+      "category": "AI 데이터센터·전력 인프라",
+      "collected_at": "2026-10-30T10:28:06.065Z",
+      "original_published_at": "2026-10-30T14:41:00+09:00",
+      "original_url": "https://www.news1.kr/industry/general-industry/6337880",
+      "main_points": [
+        "효성중공업과 독일 지멘스는 디지털 자산관리, 디지털 변전소, AI 데이터센터 통합 전력 솔루션을 공동 개발·사업화하는 글로벌 전략적 파트너십을 체결했다. 양사는 효성중공업의 반도체 변압기와 지멘스의 에너지관리시스템을 결합하는 방안도 추진한다.",
+        "이번 발표는 협력 범위와 공동 사업 방향을 정한 단계로, 특정 데이터센터 수주, 공급 물량, 투자액이나 상용화 완료가 확정된 것은 아니다."
+      ],
+      "implications": [
+        "국내 전력기기 기업과 글로벌 자동화·제어 기업의 제휴는 AI 데이터센터의 전력 효율과 운영 소프트웨어를 통합하는 사업 기회를 보여주며, 반도체 기반 전력변환 기술의 해외 판로 가능성도 넓힌다.",
+        "향후에는 공동개발 과제, 실증 부지, 고객 수주와 상용 공급을 구분해 확인하고 국내 AIDC 지원·인허가 정책에서도 전력기기와 에너지관리 SW의 통합 성능·상호운용성을 평가할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "효성중공업, 독일 지멘스와 디지털 전력망·AI 데이터센터 솔루션 협력",
+          "publisher": "뉴스1",
+          "published_at": "2026-10-30T14:41:00+09:00",
+          "url": "https://www.news1.kr/industry/general-industry/6337880",
+          "verification": "full_text",
+          "verified_at": "2026-10-31T10:09:30+09:00"
+        },
+        {
+          "title": "효성중공업, 지멘스와 디지털 전력 인프라·AI 데이터센터 사업 협력",
+          "publisher": "효성",
+          "published_at": "2026-10-30",
+          "url": "https://www.hyosung.com/kr/newsroom/view/19364",
+          "verification": "public_primary",
+          "verified_at": "2026-10-31T10:09:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "뉴스1 원문이 2026-10-30 14:41 KST에 공개됐고 관련 아카이브 항목이 2026-10-30 19:28:06 KST에 수집돼 공식 협력 사실이 마감 전 공개됐음을 확인했다."
+        }
+      ],
+      "event_id": "hyosung-siemens-digital-grid-ai-data-center-partnership-2026-10-30",
+      "event_first_published_at": "2026-10-30T14:41:00+09:00",
+      "event_evidence_url": "https://www.news1.kr/industry/general-industry/6337880",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "아마존, 트레이니엄 외부 판매 계획·TorchNeuron 공개로 자체칩 생태계 확대",
+      "category": "글로벌 가속기·운영 SW",
+      "collected_at": "2026-10-30T05:59:09.837Z",
+      "original_published_at": "2026-10-30T10:30:58+09:00",
+      "original_url": "https://biz.chosun.com/it-science/ict/2026/10/30/CK27AEYVBZCI3LJYORUM6OMSJY/",
+      "main_points": [
+        "아마존은 강한 외부 수요를 근거로 2027년 후반부터 자체 AI 가속기 트레이니엄을 AWS 밖의 고객도 사용할 수 있도록 판매할 계획이라고 밝혔다. 현재는 계획 단계이며 외부 직접 판매 계약이나 출하 실적이 공개된 것은 아니다.",
+        "아마존은 기존 PyTorch 코드를 큰 재작성 없이 트레이니엄에서 실행하도록 하는 TorchNeuron을 오픈소스로 공개했다. 3분기 Graviton·Trainium 매출 약정이 전년 동기 대비 20배 이상 늘었다는 회사 설명도 함께 제시됐지만 독립 검증된 시장점유율은 아니다."
+      ],
+      "implications": [
+        "자체칩을 내부 클라우드 원가 절감 수단에서 외부 판매 제품으로 확장하고 개발자 전환 도구를 함께 개방한 것은 엔비디아 중심 가속기 경쟁의 범위를 칩·소프트웨어·개발자 생태계로 넓히는 전략 변화다.",
+        "국산 NPU 사업도 성능 수치뿐 아니라 기존 PyTorch 자산의 이전 비용, 배포·디버깅 도구와 외부 판매 채널을 함께 평가해야 하며, 2027년 판매 계획과 현재의 확정 매출·출하를 혼동하지 않아야 한다."
+      ],
+      "sources": [
+        {
+          "title": "아마존, 자체 AI칩 ‘트레이니엄’ 외부에 판다…엔비디아와 맞대결",
+          "publisher": "조선비즈",
+          "published_at": "2026-10-30T15:16:00+09:00",
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/30/CK27AEYVBZCI3LJYORUM6OMSJY/",
+          "verification": "full_text",
+          "verified_at": "2026-10-31T10:09:30+09:00"
+        },
+        {
+          "title": "Amazon.com Announces Third Quarter Results",
+          "publisher": "Amazon",
+          "published_at": "2026-10-29",
+          "url": "https://press.aboutamazon.com/2026/10/amazon-com-announces-third-quarter-results",
+          "verification": "public_primary",
+          "verified_at": "2026-10-31T10:09:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "아마존 3분기 발표를 인용한 공개 원문이 2026-10-30 10:30:58 KST부터 보도되고 아카이브가 14:59:09 KST에 수집해 TorchNeuron과 외부 판매 계획의 핵심 사실이 2026-10-31 09:30 KST 이전 공개됐음을 확인했다."
+        }
+      ],
+      "event_id": "amazon-trainium-external-sales-torchneuron-2026-10-30",
+      "event_first_published_at": "2026-10-30T10:30:58+09:00",
+      "event_evidence_url": "https://biz.chosun.com/it-science/ict/2026/10/30/CK27AEYVBZCI3LJYORUM6OMSJY/",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 5,
+      "title": "퍼듀대, 미국 대학 최초 교내 Google TPU AI 인프라 도입",
+      "category": "글로벌 가속기·수요처",
+      "collected_at": "2026-10-29T23:35:43.436Z",
+      "original_published_at": "2026-10-29T19:42:56Z",
+      "original_url": "https://www.purdue.edu/newsroom/2026/Q4/purdue-is-first-u-s-university-to-deploy-google-tpu-ai-infrastructure/",
+      "main_points": [
+        "퍼듀대는 미국 대학 최초로 Google TPU 기반 AI 인프라를 교내 고성능컴퓨팅 환경에 통합한다고 발표했다. Google Public Sector, Cirrascale, DDN과 구축하며 기존 AI 연산능력을 약 30% 늘리고 초기 연구자 이용은 2027년 1월 시작할 계획이다.",
+        "교내 설치 방식은 데이터·보안·거버넌스 통제를 대학이 유지하는 수요기관 배치 모델을 제시하지만, 현재는 구축·도입 단계로 실제 연구 성과나 장기 이용률이 확인된 것은 아니다."
+      ],
+      "implications": [
+        "비엔비디아 가속기가 클라우드 서비스뿐 아니라 대학의 온프레미스 연구 인프라로 들어간 사례여서, 공공·연구기관 수요 창출에서 데이터 통제와 통합 지원이 도입 결정에 미치는 영향을 보여준다.",
+        "국내 실증·조달 사업은 가속기 성능 외에도 저장장치, 네트워크, 운영 SW, 사용자 교육과 보안 책임을 묶어 설계하고, 구축 용량과 실제 활용률·연구성과를 구분해 평가할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "Purdue is first U.S. university to deploy Google TPU AI infrastructure",
+          "publisher": "Purdue University",
+          "published_at": "2026-10-29T19:42:56Z",
+          "url": "https://www.purdue.edu/newsroom/2026/Q4/purdue-is-first-u-s-university-to-deploy-google-tpu-ai-infrastructure/",
+          "verification": "public_primary",
+          "verified_at": "2026-10-31T10:09:30+09:00"
+        }
+      ],
+      "event_id": "purdue-on-prem-google-tpu-infrastructure-2026-10-29",
+      "event_first_published_at": "2026-10-29T19:42:56Z",
+      "event_evidence_url": "https://www.purdue.edu/newsroom/2026/Q4/purdue-is-first-u-s-university-to-deploy-google-tpu-ai-infrastructure/",
+      "selection_tier": "supplement"
+    },
+    {
+      "number": 6,
+      "title": "엔비디아, Dynamo용 검증된 쿠버네티스 런타임 레시피 공개",
+      "category": "가속기 운영 SW",
+      "collected_at": "2026-10-31T01:04:53.070Z",
+      "original_published_at": "2026-10-31T06:47:42+09:00",
+      "original_url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+      "main_points": [
+        "엔비디아는 Dynamo 분산 추론을 쿠버네티스에 배포하기 위한 AI Cloud Runtime 레시피를 공개했다. GPU Operator, DRA, KAI Scheduler, Grove, 모니터링과 게이트웨이 구성요소를 고정 버전으로 묶고 생성·스냅샷·번들·배포·검증 절차를 제공한다.",
+        "EKS와 GB200·GB300을 대상으로 Dynamo 프런트엔드 KV 라우팅 또는 Gateway API·Dynamo EPP 경로를 제시했지만, 공개 레시피는 검증된 배포 기준선이지 모든 환경에서 성능·안정성을 보장하는 독립적인 실증 결과는 아니다."
+      ],
+      "implications": [
+        "가속기 경쟁에서 대규모 추론 서비스의 스케줄링·라우팅·관측·장애 대응을 재현 가능한 배포 묶음으로 제공하는 운영 SW가 칩 채택의 핵심 요소가 되고 있다.",
+        "국산 NPU 실증도 드라이버 설치 성공만 확인하기보다 쿠버네티스 배포, 다중 노드 스케줄링, 모델 라우팅, 모니터링과 장애복구까지 검증 가능한 레시피로 축적해야 실제 수요기관의 전환 비용을 낮출 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+          "publisher": "NVIDIA Developer",
+          "published_at": "2026-10-30",
+          "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+          "verification": "public_primary",
+          "verified_at": "2026-10-31T10:09:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Google News RSS는 NVIDIA Developer 원문의 공개시각을 2026-10-31 06:47:42 KST로 기록했다. 아카이브 최초 수집은 마감 후인 10:04:53 KST였으므로 collected_at은 소급하지 않았고, 공식 원문 전체에서 핵심 내용을 확인했으며 마감 뒤 수정 정황은 확인되지 않았다."
+        }
+      ],
+      "event_id": "nvidia-dynamo-validated-kubernetes-runtime-2026-10-31",
+      "event_first_published_at": "2026-10-31T06:47:42+09:00",
+      "event_evidence_url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+      "selection_tier": "primary",
+      "recency_evidence": "마감 후 수집됐지만 Google News RSS의 원문 공개시각 2026-10-31 06:47:42 KST가 09:30 KST 이전이고 공식 원문 전문으로 핵심 사실을 검증했다."
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "최근 72시간 전체 아카이브와 퓨리오사AI·리벨리온·딥엑스·모빌린트 공개자료, NIPA 공고를 확인했다. 마감 전 마지막 실제 수집은 2026-10-31 03:34:19 KST이고 09:20·09:27 실행은 없었으며 nipa-ai-chip 소스는 empty였다. 10:04:53 KST 보완 수집은 마감 후였으므로 이를 소급하지 않았고, 마감 전 공개된 고양시-퓨리오사AI-엑스페릭스 협약을 공개 원문으로 검증해 선정했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP, 중앙·지자체·공공기관의 NPU·AI반도체 실증·조달·예산과 데이터센터 부지·전력·용수·인허가·투자 실행을 검색했다. 고양시 협약과 새만금 데이터센터의 기업 참여·법인·건축심의·인허가 진전을 선정했으며 MOU·계획·확정·집행을 구분했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·Google TPU·Amazon Trainium·Intel과 전략적 인수·제휴·외부 판매를 비교했다. 아마존의 자체칩 외부 판매 및 개발자 전환 전략, 퍼듀대 TPU 배치, NVIDIA Dynamo 운영 SW를 선정했고 이미 게재된 NVIDIA-Hugging Face 사건과 오래된 제품 재서술은 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "TorchNeuron, NVIDIA Dynamo, ROCm, 커널·런타임·컴파일러·쿠버네티스 배포를 점검했다. TorchNeuron의 PyTorch 전환 경로와 Dynamo의 검증 배포 레시피를 공개 원문으로 확인했으며 계획·오픈소스 공개와 실제 고객 성과를 구분했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단 패키징·인터커넥트와 반도체 클러스터 부지·전력·용수·인허가·이전·기관 협의를 검색했다. 새만금 데이터센터 실행과 효성중공업-지멘스 전력 인프라 제휴를 선정했다. Samsung zHBM은 기술적 의미는 있으나 날짜만 공개돼 48시간 경계 이후 공개를 입증하지 못해 확대 기사로 넣지 않았다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국내 NPU 기업·지자체·인프라 기업이 기술검증과 공동사업을 논의한 구체적 협력으로, 국산 가속기의 지역 수요·거점 사업 연결 가능성을 판단할 새 사건이다."
+      },
+      {
+        "article_number": 2,
+        "reason": "기업 참여 확정, 법인 설립, 건축심의와 인허가 일정이 확인돼 AI 데이터센터 구상이 실제 산업기반 실행 준비로 이동한 변화를 보여준다."
+      },
+      {
+        "article_number": 3,
+        "reason": "한국 전력기기 기업과 글로벌 디지털 제어 기업의 제휴가 AI 데이터센터 전력 효율·운영 솔루션의 구체적 사업 기회를 만들 수 있어 비교 가치가 높다."
+      },
+      {
+        "article_number": 4,
+        "reason": "아마존이 자체 AI칩을 외부 판매 제품으로 전환하고 PyTorch 이식 장벽을 낮추는 도구를 함께 개방해 하드웨어·SW·개발자 생태계 경쟁을 동시에 바꾼다."
+      },
+      {
+        "article_number": 5,
+        "reason": "Google TPU가 미국 대학의 온프레미스 연구 인프라로 실제 도입되는 수요처 사례로, 공공·연구기관 가속기 조달과 데이터 통제 요건을 판단하는 데 유용하다."
+      },
+      {
+        "article_number": 6,
+        "reason": "Dynamo 추론 스택을 쿠버네티스에 재현 가능하게 배포·검증하는 운영 SW 공개로, NPU 사업화에서 칩 이후의 운영도구 경쟁을 보여주는 마감 전 신규 사건이다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "Samsung zHBM: Next-Generation Memory for the Data Movement Era",
+        "url": "https://news.samsungsemiconductor.com/global/part-2-zhbm-next-generation-memory-for-the-data-movement-era/",
+        "reason": "차세대 메모리 구조는 중요하지만 공개일이 2026-10-29로만 표시돼 이번 48시간 경계인 2026-10-29 09:30 KST 이후 처음 공개됐는지 입증할 시각 근거가 부족했다."
+      },
+      {
+        "title": "Foxconn working on new tie-up with OpenAI",
+        "url": "https://www.reuters.com/world/china/foxconn-working-new-tie-up-with-openai-says-there-is-no-ai-bubble-2026-10-30/",
+        "reason": "협력 논의 자체는 검토했지만 구체 내용은 추후 발표 예정이고 새 AI칩·SW·한국 생태계 사업 범위가 확인되지 않아 더 구체적인 후보보다 후순위로 제외했다."
+      },
+      {
+        "title": "Intel GPU D270 Dumps HBM for Laptop RAM",
+        "url": "https://www.techtimes.com/articles/329762/20261030/intel-gpu-d270-dumps-hbm-laptop-ram-air-cooled-inference-card-validated-73b-quarter.htm",
+        "reason": "D270 제품 사양은 기존 공개 내용을 다시 설명한 성격이 강하고 이번 기사에서 새 출시·고객 검증·판매 실적이 확인되지 않았다."
+      },
+      {
+        "title": "Marvell in advanced talks to buy Lumentum",
+        "url": "https://uk.marketscreener.com/news/marvell-in-advanced-talks-to-buy-lumentum-bloomberg-news-reports-ce785cd3db8af523",
+        "reason": "전략적 인수 협상으로 비교했지만 사건 최초 공개가 2026-10-28 21:57 UTC여서 48시간 경계인 2026-10-29 00:30 UTC보다 앞섰다."
+      },
+      {
+        "title": "US DOJ is inquiring about Nvidia's purchase of Hugging Face",
+        "url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/",
+        "reason": "2026-10-29 원고에 동일 인수와 규제 조사 사건이 이미 게재됐고 새 결정·조건·집행 사실이 확인되지 않았다."
+      },
+      {
+        "title": "Applied Materials to increase strategic investment in BE Semiconductor Industries",
+        "url": "https://appliedmaterials.gcs-web.com/news-releases/news-release-details/applied-materials-increase-its-strategic-investment-be",
+        "reason": "첨단 패키징 제휴·지분 확대는 중요하지만 2026-10-26 발표로 이번 48시간 보완 범위를 벗어났다."
+      }
+    ],
+    "count_reason": "전체 아카이브와 다섯 영역의 보완 검색에서 시의성·공개 본문·사건 독립성·최근 14일 중복을 통과한 6건을 기본 기사 수로 선정했다. 국내 NPU 협력, 산업기반 실행, 글로벌 제휴, 자체칩·개발자 생태계, 수요기관 배치, 운영 SW라는 서로 다른 판단 지점을 확보했으며 공개시각이 불명확한 메모리 후보로 7건을 채우지 않았다.",
+    "company_overlap_review": "선정 기사 5와 6은 각각 Google TPU의 대학 수요기관 배치와 NVIDIA Dynamo의 운영 SW 공개로 주체·사건·검증 문서가 다르다. 나머지 선정 기사에는 같은 기업집단 중심 사건의 반복이 없고, 아마존·구글·엔비디아 사건도 자체칩 판매, 수요기관 배치, 운영 SW라는 독립적 경쟁 변화로 비교했다.",
+    "candidate_counts": {
+      "discovered": 5117,
+      "time_eligible": 2858,
+      "independent_events": 12,
+      "verified": 6,
+      "selected": 6,
+      "basis": "docs/data/archive/index.json의 2026-10 최신 조각 중 첫 52개 5,200건을 읽었고 마지막 조각의 firstSeenAt이 2026-10-27 15:51:29 UTC로 72시간 시작점보다 이전임을 확인했다. 2026-10-28 00:30 UTC 초과부터 작성 시각까지 firstSeenAt 5,117건, publishedAt이 48시간 보완 범위이면서 09:30 KST 마감 이하인 2,858건을 메타데이터상 시의성 후보로 집계했다. 아카이브와 직접 검색에서 업무 관련성이 높은 12개 독립 사건을 비교해 공개시각·본문·최근 14일 중복을 모두 검증한 6건을 선정했다. 마감 전 collection은 01:49:55·03:34:16 KST 두 번이고 09:20·09:27 실행은 없었으며, 10:04:50 KST 수집은 마감 후 보완으로 구분했다."
+    },
+    "history_review": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-30",
+      "checked_dates": [
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "note": "14개 확정 원고의 제목·주요 사실·event_id·원문과 출처 URL을 읽어 사건 단위로 비교했다. NVIDIA-Hugging Face 인수 조사는 10월 29일과 중복해 제외했고, 6개 선정 사건은 동일 사건 게재 이력이 없었다. Samsung zHBM은 10월 30일 제외 기록까지 재평가했으나 48시간 경계 이후 공개를 입증하지 못했다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "고양시·퓨리오사AI·엑스페릭스의 3자 MOU와 구체적 협력 범위는 최근 14일 원고에 게재되지 않았다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "새만금 AI 데이터센터의 5개사 참여 확정, 2개 법인 설립과 건축심의·인허가 진전은 최근 14일 원고에 동일 사건이 없다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "효성중공업·지멘스의 디지털 전력망·AI 데이터센터 전략적 협력은 최근 14일 원고에 게재되지 않았다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "트레이니엄 외부 판매 시점과 TorchNeuron 공개를 결합한 전략 변화는 최근 14일 원고에 동일 사건이 없다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "퍼듀대의 미국 대학 최초 교내 Google TPU 인프라 도입은 최근 14일 원고에 게재되지 않았다."
+      },
+      {
+        "article_number": 6,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "NVIDIA Dynamo용 검증된 쿠버네티스 런타임 레시피 공개는 최근 14일 원고에 동일 릴리스가 없다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "퓨리오사AI·리벨리온·딥엑스·모빌린트와 NPU·유상 PoC·제품통합·수요기업·해외협력·조달을 2026년 10월 29~31일로 검색하고 아카이브 후보를 재검토했다.",
+          "official_sources": "NIPA 사업공고, 과기정통부 공개자료, 국내 NPU 기업·협력사·지자체 공개 원문을 확인했다.",
+          "result": "고양시-퓨리오사AI-엑스페릭스 협약을 선정했고 구체 사업·투자·구매가 별도 협의라는 한계를 반영했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "과기정통부·NIPA·IITP·지자체와 AI반도체·NPU·국비·예산·실증·도입·조달·데이터센터·부지·전력·용수·인허가를 조합해 검색했다.",
+          "official_sources": "대한민국 정책브리핑, 현대자동차그룹, 고양시 관련 공개자료와 연합뉴스·인천일보 공개 원문을 대조했다.",
+          "result": "고양시 협력과 새만금 데이터센터의 기업 참여·법인·건축심의·인허가 진전을 선정하고 계획·확정·집행을 구분했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "Amazon Trainium·Google TPU·NVIDIA·Intel과 외부 판매·수요기관 도입·인수·제휴·칩 전환을 2026년 10월 29~31일로 검색했다.",
+          "official_sources": "Amazon 3분기 공개자료, Purdue University, NVIDIA Developer와 공개 보도 원문을 확인했다.",
+          "result": "트레이니엄 외부 판매 계획, 퍼듀대 TPU 도입, NVIDIA Dynamo를 선정했고 오래된 Intel 제품 재서술과 범위가 미정인 Foxconn-OpenAI 논의는 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "TorchNeuron·NVIDIA Dynamo·ROCm·커널·런타임·컴파일러·Kubernetes·서빙을 2026년 10월 29~31일로 검색했다.",
+          "official_sources": "Amazon 공개자료와 NVIDIA Developer 기술 원문을 전체 확인했다.",
+          "result": "PyTorch 전환 경로와 검증된 쿠버네티스 배포 레시피를 선정하되 오픈소스 공개와 고객 운영 성과를 구분했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "HBM·zHBM·첨단 패키징·인터커넥트와 반도체 클러스터 부지·전력·용수·인허가·이전·기관 협의·투자 실행을 검색했다.",
+          "official_sources": "Samsung Semiconductor, 대한민국 정책브리핑, 현대자동차그룹, 효성 공개자료를 확인했다.",
+          "result": "새만금 실행과 효성중공업-지멘스 제휴를 선정했다. zHBM은 공개시각이 날짜만 있어 48시간 경계를 입증하지 못했고 Applied Materials-Besi는 기간 밖이라 제외했다."
+        }
+      },
+      "alternative_sources": "유료벽이나 검색결과 요약만으로 선정한 기사는 없다. 인천일보·연합뉴스·뉴스1·조선비즈 공개 본문과 현대자동차그룹·정부·효성·Amazon·Purdue·NVIDIA의 공개 원문을 대조했다. 마감 후 수집된 NVIDIA 항목은 RSS 공개시각과 공식 전문을 함께 확인하고 실제 firstSeenAt을 유지했다."
+    },
+    "shared_original_reviews": []
+  }
+}
