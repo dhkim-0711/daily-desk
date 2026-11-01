@@ -1,7 +1,251 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-01T16:27:12.706Z",
+  "updatedAt": "2026-11-01T16:47:22.064Z",
   "articles": [
+    {
+      "title": "GPU를 넘어: 시스템으로서 AI 팩토리 최적화하기 - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53SW11emI4anVibFdxWDM5VlgtTGt3YUZCanUyZUFQMUItMTJ2c0xjSHBOT2w5cGYwWUJReTdNVzh1TGlYZGY3VUNtTmdYdUJodnp3R3oxeW5obkdpeU9BbF9veGo5TWYwS1E5LVRR?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:18:54 GMT",
+      "summary": "GPU를 넘어: 시스템으로서 AI 팩토리 최적화하기 &nbsp;&nbsp; Unite.AI",
+      "outlet": "Unite.AI",
+      "outletUrl": "https://www.unite.ai",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-15T12:07:07.357Z"
+    },
+    {
+      "title": "DeepSeek to lead funding round for robotics AI startup Winverse at $400 mln - report - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdENTcjRCWjZFSG13aXg2RnI3cjBxSjl4OU5CN3IyazV0Zi1waTRlamhRSDZVeGVwcUNMNG1uV2ZhX01halJrWjh4U1RtQl9nUXZkbGVGN1ZsVzNNbzJ3QklLU3NaUjRick82QmJwXzJtX2FOVC1JME5ac0lxeWowRVNzc3hFbjhBUUU2MWlMZEZzY0lZcHk1TzJDT0kxckptVG1xU2NSMjNqM01nWURJblQ0V180eDBRTzJYN0FrTmdHb1NUYWxObGdTaHVxeFFoZ0x6cloxRTBhXzg?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:17:49 GMT",
+      "summary": "DeepSeek to lead funding round for robotics AI startup Winverse at $400 mln - report &nbsp;&nbsp; Investing.com India",
+      "outlet": "Investing.com India",
+      "outletUrl": "https://in.investing.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
+    {
+      "title": "GlobalFoundries’ Silicon Photonics Ambitions: Can Glass Waveguides Challenge TSMC’s COUPE in the Next Era of AI Infrastructure? - semivision",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVNV9RZWpSUHYyUEQ1VmJSWDJUaklLZ1lzbDV5SExiMDZaWlVJSUdkXzhQdTRrdWI3emJmbmZ3VmYwRUFxa28tdDhQdUxzVlVuT1djSU5RdEFIRWFrZUxjbWE2YnUyN0syazNmV0JiRUNoSFBMSHBoaTc1QmQzS2c?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:17:29 GMT",
+      "summary": "GlobalFoundries’ Silicon Photonics Ambitions: Can Glass Waveguides Challenge TSMC’s COUPE in the Next Era of AI Infrastructure? &nbsp;&nbsp; semivision",
+      "outlet": "semivision",
+      "outletUrl": "https://tspasemiconductor.substack.com",
+      "source": "메모리·패키징·인터커넥트",
+      "sourceIds": [
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "TSMC"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "파운드리·패키징"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-15T12:07:07.357Z"
+    },
+    {
+      "title": "Amazon May Spend $7 Billion on Decart - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUh3Q0RGRjFuTHhsRHJ1MmE1NTd5NWUtRGVEUXljU2IyZmhiM25NS3RuSGhHaFgzdUp5YzBuME5fY3JmVExFcFh0LU13Zk5Vamp4b3Z1a3hlLWVDS2pUejRSUUNWRUg0OU5BZ3oxcFhqZTdoQzJXekZSczZMeVZVQnJfelBVd0tZWFNtblNTNndIMjMtV0FqQ2xTdTk?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:15:06 GMT",
+      "summary": "Amazon May Spend $7 Billion on Decart &nbsp;&nbsp; TradingView",
+      "outlet": "TradingView",
+      "outletUrl": "https://www.tradingview.com",
+      "source": "글로벌 가속기 전략적 거래",
+      "sourceIds": [
+        "accelerator-strategic-deals-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
+    {
+      "title": "적중률 77% 월가 1위 전문가의 선택…2027년 엔비디아 300달러·마이크론 1,625달러 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xWmlRZEdRZjBva0J2YWJQel9ONXQtQ0FLd3JPRjdUMnE3NXpzOHJNeFprV0hISHIwWTVNZmdxSlh4MTh1MDBKRFl3?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:15:00 GMT",
+      "summary": "적중률 77% 월가 1위 전문가의 선택…2027년 엔비디아 300달러·마이크론 1,625달러 &nbsp;&nbsp; 코인리더스",
+      "outlet": "코인리더스",
+      "outletUrl": "https://www.coinreaders.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-12T21:42:25.155Z"
+    },
+    {
+      "title": "Moon Equity Holdings announced the strategic acquisition of Shieldcom - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1dFUVJHRWUxTnEzYjkxQllEOXFfZUs5TnhCQXlBREdVU3pSMmVsMjhxNjFRakdvcWdoN181ZHQxSjBxeGY2eFFsVjdWRDdmWEM0UmUyOFRHZ0dqRUNqS3JhVFQzU18xbVVfUTNRYnFJbGgtMVV5R3A5VzI1VklHMkFhUmMtaWFudzZFV0JDa241V0habjZuNEtUbmh4RmhicE1sVjhOSmFITHdhUTZ5T3IwLXhuRFlMZ1FoOVpHSG90dzlCcGtja0JFcmdDVUhQMnhmTFJXY29uSDNVbjFPMtIB4AFBVV95cUxOS1dFUVJHRWUxTnEzYjkxQllEOXFfZUs5TnhCQXlBREdVU3pSMmVsMjhxNjFRakdvcWdoN181ZHQxSjBxeGY2eFFsVjdWRDdmWEM0UmUyOFRHZ0dqRUNqS3JhVFQzU18xbVVfUTNRYnFJbGgtMVV5R3A5VzI1VklHMkFhUmMtaWFudzZFV0JDa241V0habjZuNEtUbmh4RmhicE1sVjhOSmFITHdhUTZ5T3IwLXhuRFlMZ1FoOVpHSG90dzlCcGtja0JFcmdDVUhQMnhmTFJXY29uSDNVbjFPMg?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:13:58 GMT",
+      "summary": "Moon Equity Holdings announced the strategic acquisition of Shieldcom &nbsp;&nbsp; The Manila Times",
+      "outlet": "The Manila Times",
+      "outletUrl": "https://www.manilatimes.net",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-14T06:07:24.751Z"
+    },
+    {
+      "title": "NVIDIA Rubin PCIe GPUs confirmed in HPE ProLiant Gen13 presentation - VideoCardz.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV0taZUFTSFlXS0FsTFltT3dsNWdLbk53cTNqOHduOXBuTlVWUElPdzVPLW9XOVZOcC1JdmZUc3VRZnVsdENRTUptdmdaVXBEXzRSS1g4eEwxa0NGM3hvSUFTdklHR0Q0dl9SRXFpUjVWY1dMWG90OEQ1SmE0MF8wY29qVG03LUJmTWlheXJkMktDd1hZOFlYc0hmNA?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:08:36 GMT",
+      "summary": "NVIDIA Rubin PCIe GPUs confirmed in HPE ProLiant Gen13 presentation &nbsp;&nbsp; VideoCardz.com",
+      "outlet": "VideoCardz.com",
+      "outletUrl": "https://videocardz.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-12T23:13:29.308Z"
+    },
+    {
+      "title": "Researchers bypass 6 AI agent frameworks with a simple ‘Repeat-After-Me’ prompt - CSO Online",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejU3T21MaDg5c0U1cmNNTkpRTnF5S3dyQ0ZDVFBEVmZlc2FhaTVvWmF1dTVlN3RGZ0J4QWdrTnhyaHNrbDY4bjNTbFJZVHBpUEs2aVZLTnBnTlJYdnVJNl9fN3A3cXUtWU5ZYUhmTmxIRi0tWktKMjRsclg2RmJWQ2ZnZE1YX3U4cXBGMU5BV1BGazU2eHlrdFhKcmF2cEx4MzNFN1kwYmlJb1lQOHZ3QjRnLTRzNDhrT3RWN0ptSGcwUQ?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:07:55 GMT",
+      "summary": "Researchers bypass 6 AI agent frameworks with a simple ‘Repeat-After-Me’ prompt &nbsp;&nbsp; CSO Online",
+      "outlet": "CSO Online",
+      "outletUrl": "https://www.csoonline.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
+    {
+      "title": "김정관 \"호남 반도체 투자 의지 절박\"…2029년 첫 공장 완공 목표 - JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KbExxb0pWWnI1SWN3c3NsdXBaZXRTOWphM3Y2LThVT2o1Q3gzVjQydF9zLVhmU0g0U2g4SDFHd1ZNdTNIcW5PVFFnaktWQXR2N0xaeg?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:07:00 GMT",
+      "summary": "김정관 \"호남 반도체 투자 의지 절박\"…2029년 첫 공장 완공 목표 &nbsp;&nbsp; JTBC",
+      "outlet": "JTBC",
+      "outletUrl": "https://news.jtbc.co.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-14T08:01:13.947Z"
+    },
+    {
+      "title": "Tech Futures Fall, Oil Rises Amid Trump Comments - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQREhqRW9yMTk2QWxZb0k1a19pUVZhNFF6WkRVRVVndFVCM05zTDlfdFg2dmlVNlY3bm1ydGswcWsxdWJwOHJWa1dFelhCNC1jTUdHdUE0QzJLUkUzMFZJckVMTWhiSVM1R0k2OGdINEJmSkxRMHFZYThJNWJLd0FwakV2LWJrYkV3Tzdta3R0MEZrYjFHaHRidEJwUzB3LXEzNmZJSC04alY1c2w1emdBcHhTc0xObW54bm0yckpTMVNzUUdNOW9hQ0pzRlNqUQ?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:07:00 GMT",
+      "summary": "Tech Futures Fall, Oil Rises Amid Trump Comments &nbsp;&nbsp; Investor's Business Daily",
+      "outlet": "Investor's Business Daily",
+      "outletUrl": "https://www.investors.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-12T16:06:06.831Z"
+    },
+    {
+      "title": "[Leadde AI, 아시아 태평양 교육팀이 수업 자료를 몇 분 만에 영상으로 전환하도록 지원] 교육용 AI Video Agent는 원본 자료를 분석하고 핵심 메시지를 파악 - AI넷",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9HMlZlcE9HeXhrWDU4Z3d1WGc4RHFwSWFBOXBOTW10ZXNwWW1DanlZTEstSWNrM3ZVWWhtdzVwTlM?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:05:19 GMT",
+      "summary": "[Leadde AI, 아시아 태평양 교육팀이 수업 자료를 몇 분 만에 영상으로 전환하도록 지원] 교육용 AI Video Agent는 원본 자료를 분석하고 핵심 메시지를 파악 &nbsp;&nbsp; AI넷",
+      "outlet": "AI넷",
+      "outletUrl": "http://www.ainet.link",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-12T16:06:06.831Z"
+    },
     {
       "title": "IMF Chief Georgieva: AI Investment Boom Sustains 3% Global Growth, Benefits Asian Economies - News and Statistics - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSXRCU09PMWNrd192bjNYcjRYdlRoOGxRX3VGZGEzcTZHQTZyQnF1Z2lJS1ZPZEdUeHVqODc1SGFzWEFUYmdDT1VSbWJOZWp1WlJfSkw1eEYwSERFSC1IU3JjZm1fTmZwLTU4UkI0Rm5Ua1RaeFR5ZFRXc013YnJFSnRzcEhoSlJVelVUcmhEU2YyOGQ0LVdpZ2Ftb1k2VndqVDJ3RHdlSlpLZW5Vd2pTZTEyeUh1dVB4RmdB?oc=5",
@@ -2003,250 +2247,6 @@
       "score": 25,
       "firstSeenAt": "2026-10-12T11:52:22.190Z",
       "lastSeenAt": "2026-10-12T16:06:06.831Z"
-    },
-    {
-      "title": "Shoptet buys Czech AI startup Jarabot after its billion-crown sale - Around Prague",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWE16Uy1VbEczd2Z1NVFSR1NCMlVNbDVNOU1XUTlpTTJwMWdNS3RxQ05lN0VsOUl4LTdXUXNXdUI0RHozZldvcUhDR3ZIR1FmWUNBSWJzYmtidTV3bGJmeGgyRVlUeVdxXzFSeVdlcUZvaG1sUjhJdFM1eVNXdGw1aThJSnRkenJuVGgxVWdJN3RqOXRUb1RrRXBQcFgzTTAtLXYtM3pZS3dnTE8ycmxnbg?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:35:58 GMT",
-      "summary": "Shoptet buys Czech AI startup Jarabot after its billion-crown sale &nbsp;&nbsp; Around Prague",
-      "outlet": "Around Prague",
-      "outletUrl": "https://aroundprague.cz",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-12T11:52:22.190Z",
-      "lastSeenAt": "2026-10-12T11:52:22.190Z"
-    },
-    {
-      "title": "AI Demand Squeezes Supply: SSD Contract Prices Triple in a Year to Record High - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4OFZDZzZfc0VDVC1TWWg5V2hyQV8yUEl2Y1Q4RFJ4U1k4aU43cWhIR3BuV0t4M2lhMlcyempmbHdfYXJaTlg4UWVTRy05TGZSTTBwck9KN3FBc1hfVjZ2ZnNDYUVFZjBLVWVGRVZ6bGpzQ2pic1E?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:35:00 GMT",
-      "summary": "AI Demand Squeezes Supply: SSD Contract Prices Triple in a Year to Record High &nbsp;&nbsp; BigGo Finance",
-      "outlet": "BigGo Finance",
-      "outletUrl": "https://finance.biggo.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-12T11:52:22.190Z",
-      "lastSeenAt": "2026-10-12T23:13:29.308Z"
-    },
-    {
-      "title": "토토 사이트 직원 구인 히 츠벳 프리랜서를 위한 시장 분석 효율적 방법 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83TVhlMjAydWYxRUJzenZXYUhodGx4T2ZjQUItcXRvaXFCSW1xSncxVnBmWUJJWDRfdThuSlNRTlI0dngtRXl1SkQ3WHF3bTFISVJ3SDNQa0UtWEl2Q282MDRwNXU4UEtMTXBSMERGM0JqSFk?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:34:47 GMT",
-      "summary": "토토 사이트 직원 구인 히 츠벳 프리랜서를 위한 시장 분석 효율적 방법 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://www.calgaryroughnecks.com",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 8,
-      "firstSeenAt": "2026-10-12T23:13:29.308Z",
-      "lastSeenAt": "2026-10-13T06:58:34.117Z"
-    },
-    {
-      "title": "CaixaBank expands Google Cloud partnership to boost AI and data capabilities - National Technology News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlNtMjItNHBseVl4QlB3cS1PWW9zbU1zSE9wMDFvX2NGRG5mZERpbnEzQ0VJTnJocVVXeG00Si12aFUyLTBRN1A5Q1kxU2hzdm8xdHJvRzFPdWRZUzV5b2JReE5MbmZ1a19DcGowS0pRUjZBUm1xYUFOTHhra0RONWl4SGlUVGgxdVkyUDJEYmlxOGJTQWtORmM2ZHBWWHhINFhsMUFrZWlPazhrdFZPV1JqNA?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:34:41 GMT",
-      "summary": "CaixaBank expands Google Cloud partnership to boost AI and data capabilities &nbsp;&nbsp; National Technology News",
-      "outlet": "National Technology News",
-      "outletUrl": "https://nationaltechnology.co.uk",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 23,
-      "firstSeenAt": "2026-10-12T11:52:22.190Z",
-      "lastSeenAt": "2026-10-12T23:13:29.308Z"
-    },
-    {
-      "title": "The largest investment boom in history! Annual AI infrastructure investment reaches 3.6% of U.S. GDP, 1.6 times that of the railway era and three times that of the internet era. - 富途牛牛",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXRtOXo0LVpoLWpzb0EtUUtHWUpuRWNydFdwR0FKTkd0OXBBMEhoaTVRcmN3aGROVzRMWlJGRGJRdVE3MWtJRHVfRGtRd3RDaG1VMk5rME5iX2t3VnJTZVFrQmtMTjhSeG5ESE9RdmtSTkIxOHRPaTJ1ZGJkQ3NHdGhnSnA2RnMtd0k2M0Qydk8wck9EVmhNSHNwUWlGeDUxSWtPbVVjajNyajgtOWMyOEFiRHBWSlNU?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:34:21 GMT",
-      "summary": "The largest investment boom in history! Annual AI infrastructure investment reaches 3.6% of U.S. GDP, 1.6 times that of the railway era and three times that of the internet era. &nbsp;&nbsp; 富途牛牛",
-      "outlet": "富途牛牛",
-      "outletUrl": "https://news.futunn.com",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-12T11:52:22.190Z",
-      "lastSeenAt": "2026-10-15T05:51:00.880Z"
-    },
-    {
-      "title": "TTM Technologies Announces $400 Million in Planned Strategic Investments to Accelerate AI Infrastructure Capacity in China and Malaysia - The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQWndTaXF0cWRYY1FKYW1MREN3ZGZfZ2hQRC1Gdl9fZEEwXzM1UW1rNkVodWpibDZzZHBuZmp2OWdUVndVa1B4S1ItdVkxdFBDdk5RenBqZ0tCZG9JYXp3U2xJQ2J0Zm1EWWhHbUhuQWh4VDdkVzUtZlBtbzUwUUNJNlZpcElUdV9xQmN4OHVpSmZaS0RZcmdhbmRhSnVvandPME9LdHpaOE10QUlrRDJEZ2hQMTRfNzhLZFh5d1RHVF9Cdk5HM21aU1FDR3UteTdicEJuRU91WUtHYkY1OWNkZ1JWLTdYbGRoRkZCWEl0cXB3cVZHeWZfMWk3NlNmN0dGSGhsV013MzVyYXZpa3VCS1NteUU1MnVXVWlycGpGTEhmbHdfNHJPNk5OV1ItU2tuREHSAbcCQVVfeXFMTkc0MlgycXAzWWwxXzFPZlYzekY0cGdZaHFXd04tNG5FVlAzZXJYYXg5aTVNRzJqTE5UVGdqR3Rrb2R6NEh5Sy1OclRTYzg0d1o5ZWNpcWtHUTk1eFF3Y1ZLQlFVRmQwR0c1M1dZT2JWTEI5RTdQTG1RWlJXZzZMR1dEVmN6RzlfZ0FuX2lLeE5oRkc3NzRqOFc2Y1FIXzAxTjdsekFNWUw5Z2dWMU9IOHZqd1ptQTczOGNUMmpWMnFvYjhBeEx0RjFFd3VjLTE4M2U3Vk1ObE55Qzc5OVNRa1NFbEZSZjgtSEVIYW9ScnNnTDZIWFE4QnJ5aEUwbVVmVmNMclptZXZkNHA5LUhQdHFKcmdkVVQwMzAwekR1LTdCelVFQ0I5dXgxcjZ1MVZQZThRT3NfYzg?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:32:35 GMT",
-      "summary": "TTM Technologies Announces $400 Million in Planned Strategic Investments to Accelerate AI Infrastructure Capacity in China and Malaysia &nbsp;&nbsp; The Manila Times",
-      "outlet": "The Manila Times",
-      "outletUrl": "https://www.manilatimes.net",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라",
-        "수출통제·공급망",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 22,
-      "firstSeenAt": "2026-10-12T11:52:22.190Z",
-      "lastSeenAt": "2026-10-13T03:00:06.725Z"
-    },
-    {
-      "title": "AI investment powers global growth as Asia emerges as key beneficiary: IMF - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQXJmSmtpOVhENUVKbTRMODh1T3VtS0g4d3cyYXRuY0lndWl0RDBxU0NKRlRvMk1uNHBQSm5rQVl5Nm1yOUE1S0Uyd0ZCUThGY05mNWR1MlM0VVdNLVVtTE5XaVl5ZVVtLUsxVURXZU5EeGVNS3NCVTFVeFB6VTJlZnN3TmJ6V0g2YWVvT0tkc0ZMM0o1TFBFVjFtb2JPbGtWU3lKY0xRN2stYmxJVTRlYmRBUDZESXRybVB0ZnFJckLSAc4BQVVfeXFMUFkxZkt2aXljYnlDaERSOHNOVG1VY0lkOVBmU3dnakJlLUJ5V21vSW5PSWFVbVpQOVVhRWJlcXlGTkVvTFJfUVZ5ZDhBeGlQLWtpVmZ5NEJtS0RoY3J2R1V1ZTFuOTR2Z1I5Y1pNZ2l4cEVTNVMtNXRHaTdGWldsSldVdzFidVhEdGxNbXJoQUx2MGFPUFNLLUZvX3hUVWJfcVlPd1ZLZ0hZNGFGbUVoaG1oNTRUZVdVOWR2QTVfOVB1NHNPWlJwbkJTdm5TOXc?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:32:29 GMT",
-      "summary": "AI investment powers global growth as Asia emerges as key beneficiary: IMF &nbsp;&nbsp; Fortune India",
-      "outlet": "Fortune India",
-      "outletUrl": "https://www.fortuneindia.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-12T11:52:22.190Z",
-      "lastSeenAt": "2026-10-12T16:06:06.831Z"
-    },
-    {
-      "title": "ORCA Announces Strategic AI Infrastructure Investment - openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXpFY0JWZUlvT0hzUUEwT3ZsRXNZbU1GZkpJVGVWcXlOU29lU2steWVKdUJXOEN2ejFwM2U4QXoyLUJWM2hJejhDcVRLclYzYUt1RXdxSGROV01rdmYyTmI1TWxxT3VNM1ViakJFaWNTbEExLWpMTVVJczM0YzVPUUdFeG81Z0xSc2ZIYTNXbkhPZDQ?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:32:01 GMT",
-      "summary": "ORCA Announces Strategic AI Infrastructure Investment &nbsp;&nbsp; openPR.com",
-      "outlet": "openPR.com",
-      "outletUrl": "https://www.openpr.com",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-12T11:52:22.190Z",
-      "lastSeenAt": "2026-10-15T05:51:00.880Z"
-    },
-    {
-      "title": "IREN Rises Overnight After Report of Anthropic AI Cloud Deal - TheEnergyMag",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSEtGWENSYjc5dzhpenFNaHA2dDR3MjRjazRJTFZfMjlSX05Wc004clluX3FsZUttZEJsTzNpUVFEWFZ6NHk5dkhhU0JfVkt3cnBBbEJJRDVnbGtlU2haUG1yMHpoYThxS19RNE9uRGZPX29KUE9rWlh1VmkzY3Y0RnpLRQ?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:31:49 GMT",
-      "summary": "IREN Rises Overnight After Report of Anthropic AI Cloud Deal &nbsp;&nbsp; TheEnergyMag",
-      "outlet": "TheEnergyMag",
-      "outletUrl": "https://theenergymag.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 16,
-      "firstSeenAt": "2026-10-12T11:52:22.190Z",
-      "lastSeenAt": "2026-10-13T06:58:34.117Z"
-    },
-    {
-      "title": "자동 진행과 수동 진행, 토토 가입 머니 제로 놀이터 지원 기능 구분 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWEhtV0lhaGY4OVNpd0VXSmRPYnIzYVBWTzNrdmZEQ1JCTGE3SUwzeVlLTVNvc1NaeHRxc3Nhc25mSUt5akxDR3VBTkl5a3BraUpCNXowUEpOUGNLYllfSm9oTVVMYW5sNG9Ba1RTYWxhdVJvbVJobWpaOHo3NGtCMjRqQnJVcWZUMzVkTmlQTWl4NHh1MjlMU2hjcUxISklJdnhyeHd3dVhELXVwRTNWUVQxQTBUQm9kZ0xxc1BrSHlmdEozVjZXVEJGV3EyaEpKQk96ZHN6bE5KNm5lWEFjZzFoV1QyQjJ2STVhTW9YUQ?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:31:00 GMT",
-      "summary": "자동 진행과 수동 진행, 토토 가입 머니 제로 놀이터 지원 기능 구분 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://www.calgaryroughnecks.com",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-12T23:13:29.308Z",
-      "lastSeenAt": "2026-10-14T01:10:06.419Z"
-    },
-    {
-      "title": "최태원 방문 사흘 만에 산업부 장관도 광주로…반도체 클러스터 조성 속도 내나 - 베타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DSTJITzhhajhHUkhZaUxXQUhERWpfMlRfNVFEQXd3MWdVeGI5dlFjd1JnTFlxeTZpa28xbnR3SV9rbmFNY21sRk9jaGd6aktFd3IzVUxwcmZGSU9YTU1PQTVFM1I?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:30:15 GMT",
-      "summary": "최태원 방문 사흘 만에 산업부 장관도 광주로…반도체 클러스터 조성 속도 내나 &nbsp;&nbsp; 베타뉴스",
-      "outlet": "베타뉴스",
-      "outletUrl": "https://www.betanews.net",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-12T11:52:22.190Z",
-      "lastSeenAt": "2026-10-13T06:58:34.117Z"
     }
   ]
 }

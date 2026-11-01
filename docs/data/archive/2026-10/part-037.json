@@ -1,7 +1,263 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-01T16:27:12.706Z",
+  "updatedAt": "2026-11-01T16:47:22.064Z",
   "articles": [
+    {
+      "title": "경북도, 국산 AI 반도체 실증거점 조성 - 서라벌신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zTndXeHI3aXdIS0dQeUtBQ3lrQXZidXpBTkhQMmtEeEo4S01VamhnclNEbWk0R25RZzZLLWtRTE5uU0lQUXJDVjNoNlY0ZGItVlZzZkZhUFpHb3FoQmNHNUE1ZGpVZFdqaWNVT0VQYUwwMWxQMEZZaEJCd2hPQQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:21:26 GMT",
+      "summary": "경북도, 국산 AI 반도체 실증거점 조성 &nbsp;&nbsp; 서라벌신문",
+      "outlet": "서라벌신문",
+      "outletUrl": "http://www.srbsm.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "furiosa",
+        "ai-chip-public-program",
+        "npu-commercialization"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "실증·조달"
+      ],
+      "issueCategory": "실증·조달",
+      "score": 16,
+      "firstSeenAt": "2026-10-29T10:51:24.641Z",
+      "lastSeenAt": "2026-10-31T13:53:33.382Z"
+    },
+    {
+      "title": "“글로벌 AI 반도체 올림피아드 이끈다”…박기호 세종대 컴퓨터공학과 교수, 그리스서 제8회 DoSSA 워크숍 개최 - 스마트경제",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PVG1qRzdEcWpfMDRndFo0MC13N3RBSzMxdzk0UnoxNFZ0SmE3RlFhNjF0Q0R6clBvU0FKb2Z4WGtyVFJDQjNpcUUxZGRnRWt0a3dPWTlGQkc3RHFEYjdKN2lUVEpoN2NlRUJkWmw0Yw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:20:34 GMT",
+      "summary": "“글로벌 AI 반도체 올림피아드 이끈다”…박기호 세종대 컴퓨터공학과 교수, 그리스서 제8회 DoSSA 워크숍 개최 &nbsp;&nbsp; 스마트경제",
+      "outlet": "스마트경제",
+      "outletUrl": "http://www.dailysmart.co.kr",
+      "source": "퓨리오사AI",
+      "sourceIds": [
+        "furiosa",
+        "accelerator-software-ko",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-11-01T01:02:49.409Z"
+    },
+    {
+      "title": "Samsung posts record profit as shares fall nearly 5% amid AI chip shortage warning - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTJTMnQyUE53ZUZ3ZGZWRUo1QnE1TmhPcWdydmE4a0h1WnhycTB5bXJYR1ZmOFg3RkZqNXdLYXNaREhkZWtpZi1QUFZCaFhadS1JRjNKa0ZlODlqOEtKVWVQUF95Y0ZySmNIbmRzbWRlNkdQc29FRS1vLWg4alBCWGR6M0FyeXZhRG9FWTNzc3k1ZU8zX2xjbjNGejljWENOOTQxUNIBqgFBVV95cUxNRjRhbkZ2c3B2WGQtNzBwS2tfX3oyY241QUVKem5iQkhKZmJqTzVmd0xjVnVWSXBjOGVoaDZlYWFOWlVnTVlfWUhISi1IaGtYcHU5MkhIMWJaU21CUVNjRno5aW9MLURaM1N3SXBWaVlxRVVaX2lmQ29Jd1g5RFhmR2w2WWROZjZCcGdEWTBJb1h4Y0dOcmxXay1XR2RKdlZFM3BLZHNqaG90UQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:20:13 GMT",
+      "summary": "Samsung posts record profit as shares fall nearly 5% amid AI chip shortage warning &nbsp;&nbsp; Firstpost",
+      "outlet": "Firstpost",
+      "outletUrl": "https://www.firstpost.com",
+      "source": "해외 AI반도체",
+      "sourceIds": [
+        "global-ai-chip"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Samsung"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-11-01T01:02:49.409Z",
+      "lastSeenAt": "2026-11-01T01:02:49.409Z"
+    },
+    {
+      "title": "China’s AI Stocks Rebound After $480 Billion Rout. Is the Worst Over? - Open Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWFkUDBxdlRySkRxT1hZbkhhWUZDQVVOX1pHYTBKc05Ma25lQ1lLQWlTVHFETGRXcXl0N0JRZDdXZkUxczY4SmVIZF9SWWhtV2ZZNzFsU3pveVh2ZjlfLTQtNmR2b3dXaVRlNUhTaXJsaHAxeDN0V0lrOGlENGxTT2JLai1hNnlzT1JYWXdmQlZXSGo2OUYxRHVlb1lWSjFfVE5GQ0Ntcw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:20:06 GMT",
+      "summary": "China’s AI Stocks Rebound After $480 Billion Rout. Is the Worst Over? &nbsp;&nbsp; Open Magazine",
+      "outlet": "Open Magazine",
+      "outletUrl": "https://openthemagazine.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "수출통제·공급망"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-11-01T01:02:49.409Z"
+    },
+    {
+      "title": "클라우드 매출 늘었지만…MS·알파벳 가른 투자 부담 - 딜사이트",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11MnVCUUNwRFlRY0MtUTMwdDdBamJnQUg2VmJiYjZ0ZjQ0RTVzVDZaNVRRWlNOTHdxMXo2ZEptNVB6OXFwa2VDOTI4Mzg0bGs?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:20:00 GMT",
+      "summary": "클라우드 매출 늘었지만…MS·알파벳 가른 투자 부담 &nbsp;&nbsp; 딜사이트",
+      "outlet": "딜사이트",
+      "outletUrl": "https://dealsite.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 21,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-31T06:06:59.265Z"
+    },
+    {
+      "title": "‘구글 너마저’…알파벳 주가, 시간외 10% 급락 - 농민신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfTVFWMWtHdmlPSE1fb1VNRUdRQlNsZUdkSVp5R2U4SE1YVXYwNnhjbGtVTXhJdWJEZmZSQVVNRDBFWnp3VTRzNEVpbGFpNmtOQWNNRmlXclB3dw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:20:00 GMT",
+      "summary": "‘구글 너마저’…알파벳 주가, 시간외 10% 급락 &nbsp;&nbsp; 농민신문",
+      "outlet": "농민신문",
+      "outletUrl": "https://www.nongmin.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "구글 너마저…‘알파벳’ 시간외거래서 10% 곤두박질 - 농민신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfTVFWMWtHdmlPSE1fb1VNRUdRQlNsZUdkSVp5R2U4SE1YVXYwNnhjbGtVTXhJdWJEZmZSQVVNRDBFWnp3VTRzNEVpbGFpNmtOQWNNRmlXclB3dw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:20:00 GMT",
+      "summary": "구글 너마저…‘알파벳’ 시간외거래서 10% 곤두박질 &nbsp;&nbsp; 농민신문",
+      "outlet": "농민신문",
+      "outletUrl": "https://www.nongmin.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 15,
+      "firstSeenAt": "2026-10-29T10:51:24.641Z",
+      "lastSeenAt": "2026-10-29T18:56:42.064Z"
+    },
+    {
+      "title": "삼성전자 \"내년 HBM 완판…10개사와 메모리 장기계약 협상중\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tcDhOYlVvWUtfRFEyOTJsbGt1Rl9qTktyRGlzdC1mcS1ndjNaVl9ZMW53dTRQZDBqTVVTX08yQ1E5Y05HbjkwcXp2YW5BMXplN2hNS2gxU0ItSHdwTTNXTdIBYEFVX3lxTE1tcDhOYlVvWUtfRFEyOTJsbGt1Rl9qTktyRGlzdC1mcS1ndjNaVl9ZMW53dTRQZDBqTVVTX08yQ1E5Y05HbjkwcXp2YW5BMXplN2hNS2gxU0ItSHdwTTNXTQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:19:30 GMT",
+      "summary": "삼성전자 \"내년 HBM 완판…10개사와 메모리 장기계약 협상중\" &nbsp;&nbsp; 연합뉴스",
+      "outlet": "연합뉴스",
+      "outletUrl": "https://www.yna.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 8,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-11-01T01:02:49.409Z"
+    },
+    {
+      "title": "Startups don’t need to win Google to win AI search, but they need to do this - Startup Daily",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN3ZIOXZWbUVHaFdyaUtRcWtxUmN4U2g1T1B6TkhVdkwwejZKMmd1em53dGJXamVla2txb2FwSlcwQ2RteGViSFdzLXBNZDlfcVpBMVBMT3VqR3JJbjNVX1Btb0NoVG9iR3BFZ3lKZGpkMzBscHZSSXFlRkFWV25UTHlVbVlNVy1UTmRUMDBnbTJNYkZKTmF0dDlsa0FWcVFiN2g0Ty13WE1PTXdpUlpJMHdJZGQ3WUFKbG4tZl9oS3R5MHJDelFYUg?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:19:21 GMT",
+      "summary": "Startups don’t need to win Google to win AI search, but they need to do this &nbsp;&nbsp; Startup Daily",
+      "outlet": "Startup Daily",
+      "outletUrl": "https://www.startupdaily.net",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-11-01T01:02:49.409Z"
+    },
+    {
+      "title": "AI chip shortage could worsen in 2027: What Samsung’s record $80 billion quarterly profit tells us - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOczhOb1pwM0tUVGJXSWtLd0ppVXAyS3BadlVVcHhTbzJZT19iVjhCZ0VPV3dDRW5JOE5hWGRIbUx2ODE2M1RDbFZsVWxDOU5JSlV2ZWRROXpsZWYyY09XLUJVUXlvbU1CX0QzMWhaMFZJTnpJcmE4QXp4c2szbkJXMGpidldvWUViWkMwOGYyVzh3eERSYTlHREQ1dFRaUG9zVmZualdZdHV2VkNNSzh6WmlaWVhyRTBQanlaTWJodWl3Y05LUXR6bF9KRzlhbl9jeHVibGtiX04tNjZMNWMyVWdYd19MRHQ2R1pURtIB8gFBVV95cUxNT2lLZHkzSDh6Y3ZCXzg3dWFWV3JOOFVtVFg5cjVVTThwOV9CWG9TbFRBYlRuQ3JmM3Ztc3BIdjRfUThCRkR0UUNlWnd0SDdicFJLcFBnT095Z3pGcE5mVFhHS21HTXluSW1BZUZCTlVCUkYzYXRWQ0RMdmkxMlRlVnZsQjZqTXA4amROMDR4OXl0OHBYMi1YbkgwRUJLeUxURElET19aNHBMdGVsOG5oQ0haVGpXMldGdHZNbWtyaU1tSDNuUzRnbTB6TlM3OGdNYXotYjdJTjVYYUJxcUtPdFRJT2N1MEQtMjdKOUgzeXNldw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:17:18 GMT",
+      "summary": "AI chip shortage could worsen in 2027: What Samsung’s record $80 billion quarterly profit tells us &nbsp;&nbsp; Livemint",
+      "outlet": "Livemint",
+      "outletUrl": "https://www.livemint.com",
+      "source": "해외 AI반도체",
+      "sourceIds": [
+        "global-ai-chip"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Samsung"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 15,
+      "firstSeenAt": "2026-10-31T22:49:34.559Z",
+      "lastSeenAt": "2026-11-01T01:02:49.409Z"
+    },
+    {
+      "title": "Samsung shares fall despite bullish outlook on AI spending - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTBCdmlaTXFKLTZPUHlhTElHQUN0d0t0OWhzb056YXZQdWdhM1RnTENzT2NGcGdTQ3dxZkF2Y2s5SWFmUW1UaWJaam1GV29VVHRaQ0R3cjFoTW9IQWlBQVdGYWZwQWZsdnpnX0pFZU9VbTU1RXE1Ym1UdWxoN2dwYWthUWI?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:12:14 GMT",
+      "summary": "Samsung shares fall despite bullish outlook on AI spending &nbsp;&nbsp; Financial Times",
+      "outlet": "Financial Times",
+      "outletUrl": "https://www.ft.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Samsung"
+      ],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
     {
       "title": "'AI 토큰'이 실질적 새 먹거리 … 통신 3사, GPU 투자 넘어 수익화 경쟁 새 국면 - 뉴데일리",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSjVRWXVTdWJKN1BvWVdwOXBGVkFvb3dBTm5MalBPZFVjQkEtVEhRTjVBQ2tZaHdyWk1tNk9DaHh0NndqVUtVclhVZjRrZUlROFZYX1BGN2k3cTZiWjRpSjRibmZnZDI3LU1jc2FhZHZDZ2pvWFZISEllUktDcTVnaNIBgAFBVV95cUxNSjVRWXVTdWJKN1BvWVdwOXBGVkFvb3dBTm5MalBPZFVjQkEtVEhRTjVBQ2tZaHdyWk1tNk9DaHh0NndqVUtVclhVZjRrZUlROFZYX1BGN2k3cTZiWjRpSjRibmZnZDI3LU1jc2FhZHZDZ2pvWFZISEllUktDcTVnaA?oc=5",
@@ -2044,262 +2300,6 @@
       "score": 15,
       "firstSeenAt": "2026-10-29T01:46:05.232Z",
       "lastSeenAt": "2026-10-29T18:56:42.064Z"
-    },
-    {
-      "title": "퓨리오사AI, 8200억 규모 시리즈 D 투자유치…기업가치 3.8조 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DTHRLZTBra0swWjVtdnQ2NTloN2o3dUxOX1RHZnVsNEt0aTYtOV8xaGlDREtDZXp6eUdmNFpZeV9VUWhGMlRHTlI5QTZGb2VVQWpJQlJ0LTE0TXFo?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:05:21 GMT",
-      "summary": "퓨리오사AI, 8200억 규모 시리즈 D 투자유치…기업가치 3.8조 &nbsp;&nbsp; 뉴스1",
-      "outlet": "뉴스1",
-      "outletUrl": "https://www.news1.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "퓨리오사AI"
-      ],
-      "taxonomyHits": [
-        "퓨리오사AI",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-11-01T01:02:49.409Z"
-    },
-    {
-      "title": "국민성장펀드가 찜한 퓨리오사AI, 8200억 투자유치…몸값 3.8조 - 유니콘팩토리",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KS0I3NXlnYkVCNGRLbkFBQWxqTEt2RHlpNl9HRmJNOXM1ajZzbEd5a0lDY0dOTk1sWEFCMFNZNW5BZE9PQmJiMEtxRXIzbjlWS09kWGpBLXdEckFZVndVWk0xTUgtd3EzMlVYOA?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:04:55 GMT",
-      "summary": "국민성장펀드가 찜한 퓨리오사AI, 8200억 투자유치…몸값 3.8조 &nbsp;&nbsp; 유니콘팩토리",
-      "outlet": "유니콘팩토리",
-      "outletUrl": "https://www.unicornfactory.co.kr",
-      "source": "퓨리오사AI",
-      "sourceIds": [
-        "furiosa",
-        "ai-chip-policy-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "퓨리오사AI"
-      ],
-      "taxonomyHits": [
-        "퓨리오사AI",
-        "투자·M&A"
-      ],
-      "issueCategory": "NPU",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-11-01T01:02:49.409Z"
-    },
-    {
-      "title": "Oracle Targets $225B Revenue by 2030 as AI Cloud Build-Out Accelerates - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLVNuLXhYZHNDUzAyMzlnOG5BQk9fTF9xMXc5dmZWTFBvY0I1dTdGb3QyY2ZjNTlaNzktLUlnSnFsQU96ZDFBbm1Qb0RqNEFvN3dKM3pFZXM2dnYzWmFrV2tvT01ac2lEOTZTRHFLb0NWUzZwUGVZQnpPQTdKdGR3RHdLbTN6cTdRbzRiMU9wOEJocVhRa0FQdjhCUzg?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:04:00 GMT",
-      "summary": "Oracle Targets $225B Revenue by 2030 as AI Cloud Build-Out Accelerates &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
-    },
-    {
-      "title": "대한광통신, 반도체 장비용 고출력 레이저 히터 특허 등록…관련 사업 확대 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hS2QxczlmaHVaTDYxS1RxZk5KOEV2U0l2eG9ITUFHU0pLQy11TWFzdjlqUHFjWmxrZWtYa0FwalJBZFF1NUxCMzBHNXZ1TUthLUhxeG10cElvV1NsWlZaeGhObnF5dEdvNmU1Rw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:04:00 GMT",
-      "summary": "대한광통신, 반도체 장비용 고출력 레이저 히터 특허 등록…관련 사업 확대 &nbsp;&nbsp; 이투데이",
-      "outlet": "이투데이",
-      "outletUrl": "https://www.etoday.co.kr",
-      "source": "글로벌 기업·한국 반도체 협력",
-      "sourceIds": [
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 6,
-      "firstSeenAt": "2026-11-01T01:02:49.409Z",
-      "lastSeenAt": "2026-11-01T01:02:49.409Z"
-    },
-    {
-      "title": "퓨리오사AI, 8,200억원 시리즈D 마무리…기업가치 3.8조원 - 플래텀(Platum)",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TT3RXMm9MakRmRUNqT01IdmZLcmd6LUJudXR0ZzlmU3IzbTBvOWVhWVN2dnc1NWV4eVZqMXZXVXljRUI3ZnVzQw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:03:53 GMT",
-      "summary": "퓨리오사AI, 8,200억원 시리즈D 마무리…기업가치 3.8조원 &nbsp;&nbsp; 플래텀(Platum)",
-      "outlet": "플래텀(Platum)",
-      "outletUrl": "https://platum.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "furiosa",
-        "ai-chip-policy-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "퓨리오사AI"
-      ],
-      "taxonomyHits": [
-        "퓨리오사AI"
-      ],
-      "issueCategory": "NPU",
-      "score": 20,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-11-01T01:02:49.409Z"
-    },
-    {
-      "title": "뉴로클, Neuro-T·Neuro-R 5.0 출시…VLM·Edge AI로 비전검사 고도화 - 헬로티",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1icEQ4cG1NNXFHOGdCTGZZUmJ3dXBuMmQ3eGEyaWxHRWlhU2VsVXBsYjRoMVdKLUFxQ0xEc2J1cGVwcmliR0FYN2oyZ3FiT1RGbEdtem95VHFTdkVPXzEw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:03:18 GMT",
-      "summary": "뉴로클, Neuro-T·Neuro-R 5.0 출시…VLM·Edge AI로 비전검사 고도화 &nbsp;&nbsp; 헬로티",
-      "outlet": "헬로티",
-      "outletUrl": "https://www.hellot.net",
-      "source": "국내 가속기 운영 SW 보도",
-      "sourceIds": [
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "온디바이스AI"
-      ],
-      "issueCategory": "온디바이스AI",
-      "score": 16,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-10-30T10:49:38.359Z"
-    },
-    {
-      "title": "Samsung Q3 operating profit jumps ninefold to record 107 trillion won on AI chip boom - investingLive",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTlQRURDTXNQSVprZjYwTDJDUHhhOWtjMjZKd2VMamtScVlyWDNZSlAyQnNsdEZRSXo0RnR6dkpJLUpReUdibGlidDhwbFN5My1COThXVnJYblB2NTl0aFI3NUN2NlgzY3pTeEtKUWhjS3dXRXVHUFVxWlZwZzBYbVpoS0RKX0Z0Y3JLX0RacUl4LUFuZ3lBbDdRUEU2bDRSQVNLaTVGb1JuRmR2cjFtS3NJd0xGM0p1dGdZ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:03:05 GMT",
-      "summary": "Samsung Q3 operating profit jumps ninefold to record 107 trillion won on AI chip boom &nbsp;&nbsp; investingLive",
-      "outlet": "investingLive",
-      "outletUrl": "https://investinglive.com",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Samsung"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 15,
-      "firstSeenAt": "2026-10-31T22:49:34.559Z",
-      "lastSeenAt": "2026-11-01T01:02:49.409Z"
-    },
-    {
-      "title": "\"호남 반도체, 투명한 정보 공개로 시민 참여 이끌어야\" - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCenF0NlJKV2kzMWJxdE1mQzk0RlBYQTFuVHNUanQ2UldLOFgtY2VwQkQyZ05pUHZBRW1QQ1FXaXR4OUdBY2FKVXNUUTNCdDY0YTk0dUtkRjAyTVZtUmZLNtIBeEFVX3lxTE9JamEyTm5WelV1d3UxamhobFUzVEtjc3FYRk9vRjl2VEVyaUE4TUo0V3QzYnpTNTA2QzRkaEYxdkpOaU42Rll3WHlQQUJGNGJhQ011OUIxSk5HaXZpd0Zwc2cxd290YVpQbG5HaDh4S1FlU1FkNU1hMg?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:02:49 GMT",
-      "summary": "\"호남 반도체, 투명한 정보 공개로 시민 참여 이끌어야\" &nbsp;&nbsp; 뉴시스",
-      "outlet": "뉴시스",
-      "outletUrl": "https://www.newsis.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-11-01T01:02:49.409Z"
-    },
-    {
-      "title": "유튜브, AI에 얼마나 인용되나… 구글 AI 개요 42%, 네이버는 0건 - 디지털 인사이트 DIGITAL iNSIGHT",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPdy1CZ2tGQ2pFZ1RLNVItemhDNFFYRDQyemRRWDc0RVZ6UzJhTmxMcURuRlp0TDJHY1hGSWdNcUNpQ2ZTM2std0tBYngyZzlvR0V5NW1CVXVoaTB5UEN3VGRvSk9sdl9hOTJHNHkySkNiNGhZbzNXVmJ2a2Zhb2RTUTJBSkpzV0lESGxGcDJ1YXhMWG5LWlpfOFoxTTJOTGh6VUlkVDRxX0d4ZHVPVmY3SlNRSmw0NVo3RzlPY2xBR0ZBZ3pqcE1aRC1yOTE4YzRnZjdNdFJ3amhWZVhjWl8wcFdJdkVqUDc3cDUyZWkxLUlhUEpBN3Z6b1RwT3lOdFJsNU90LWNzMXdWMF9raFNocV81T3p0TXh1ZVJpTzd5RG5CdkF1OVJPU3U0SmFNN3lybmc?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:02:46 GMT",
-      "summary": "유튜브, AI에 얼마나 인용되나… 구글 AI 개요 42%, 네이버는 0건 &nbsp;&nbsp; 디지털 인사이트 DIGITAL iNSIGHT",
-      "outlet": "디지털 인사이트 DIGITAL iNSIGHT",
-      "outletUrl": "https://ditoday.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
-    },
-    {
-      "title": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock? - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdURLRzAtUC1jelRrX0FXSTBCd3BlalBuZXY0VmxnR2lEMm9jWFhKNC1wOWdyd3R6UURXdnZBaTN4NkRhV0o1dmJnQlRKemVqVGg3Z3NvaE84QWlfeWM1WmdNODVlTHdhLWR5M1FoUVA3SWxXNmRLQ3FDbnVURF9hdVdCejBzalgwM2xSRVNEYzdHLWpTVXdEcDVSLVM5R0xYRFgxcVY5b0JXbmc0Z2dJSnZnam5hcXA0YTJJV1RKZWpWZzQ4NHp3OGl3cmZFRnBYUHVudkpfd0RTZEpzcGQtbVBpV3VNR2wzTnFrZjFqX1hqeW9IRDFN?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:02:40 GMT",
-      "summary": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock? &nbsp;&nbsp; The Globe and Mail",
-      "outlet": "The Globe and Mail",
-      "outletUrl": "https://www.theglobeandmail.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai",
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA",
-        "Google"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 27,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-11-01T01:02:49.409Z"
-    },
-    {
-      "title": "Samsung overtakes SK hynix in HBM revenue as HBM4 sales surge in Q3 - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11WFQ4T2pPblhWSTFGM3lSeXlxbWREV0RScW5Zb1NaZGNQWTh3emFhdWg1R2RNX0ptV2V1Q2pGNW9xNUF6QWdsSnUwd0VMOGJ0MUcwOVNyN3BfdTNnVjJjc2xVYVFCVmtBUGJnRU5vZWdqQzQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:02:04 GMT",
-      "summary": "Samsung overtakes SK hynix in HBM revenue as HBM4 sales surge in Q3 &nbsp;&nbsp; Crypto Briefing",
-      "outlet": "Crypto Briefing",
-      "outletUrl": "https://cryptobriefing.com",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Samsung"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 12,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-10-31T13:53:33.382Z"
     }
   ]
 }
