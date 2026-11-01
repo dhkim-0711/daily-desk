@@ -1,7 +1,434 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-01T06:21:17.502Z",
+  "updatedAt": "2026-11-01T06:37:30.498Z",
   "articles": [
+    {
+      "title": "마벨 테크놀로지 주가, 시간외 거래서 왜 급락했나? - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKUTE1T3YwVW9FZWcwcFJVaVVEWHJOOUVseHFodTQxY3ZUM2o2T3B0eVVvQnE4UjdyNVh2Wkk2VVNrUnh0ZFhkb1prcHdlV3BjZm9FRXVyTGxKcFkzb0gya0lpSzlJbW1ZcUh4NG90MDkzdW5mcnI0?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 22:04:00 GMT",
+      "summary": "마벨 테크놀로지 주가, 시간외 거래서 왜 급락했나? &nbsp;&nbsp; Investing.com 한국어",
+      "outlet": "Investing.com 한국어",
+      "outletUrl": "https://kr.investing.com",
+      "source": "AI반도체 시장·수급",
+      "sourceIds": [
+        "ai-chip-capital-market-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 8,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-31T17:40:58.673Z"
+    },
+    {
+      "title": "AI's New Bottleneck: Can the Boom Afford to Keep Growing? - Financial Sense",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlp5WlVkSzRDaGk0dGd2TDVsX0RMSnIzVWYxeU1NMkRzYWZMVWlzS0t2UExVYWFLb3J1d25UNzZsMDlfUmZqeFh4aE9lWko0LUJaRzg0QUxLNU9TNkg4MnNQb0FkSnY2a3N5R1MzQy00X2xQdG5ybWxxS203MGkyaTdTRmVLUzZUTnRXZV9zdGZ3VzNpRXpv?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 22:01:17 GMT",
+      "summary": "AI's New Bottleneck: Can the Boom Afford to Keep Growing? &nbsp;&nbsp; Financial Sense",
+      "outlet": "Financial Sense",
+      "outletUrl": "https://www.financialsense.com",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 11,
+      "firstSeenAt": "2026-10-31T01:33:01.539Z",
+      "lastSeenAt": "2026-10-31T06:06:59.265Z"
+    },
+    {
+      "title": "앤트로픽 상장신고서 뜯어보니…AI 투자 열풍 계속될까, SKT 선구안 빛났다 - 이코노미사이언스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ITGdCWUVRTTloMFdJVC1FOE81WHB6UG52XzFiRVhkWUljMmFteXBTZlhWVUZtNU9rNGJlbHpjSGQ2RlYwS3J1YlVMZ1d4WU5Fa3BhWmkxMnJHa3hqaUM5ek51NEt5N2JiQ3lOSF80QQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 22:00:00 GMT",
+      "summary": "앤트로픽 상장신고서 뜯어보니…AI 투자 열풍 계속될까, SKT 선구안 빛났다 &nbsp;&nbsp; 이코노미사이언스",
+      "outlet": "이코노미사이언스",
+      "outletUrl": "https://www.e-science.co.kr",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-29T10:51:24.641Z",
+      "lastSeenAt": "2026-10-29T23:35:43.436Z"
+    },
+    {
+      "title": "AI 공장이 온다…국가 경쟁력 된 데이터센터 - 아이티데일리",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CVjVfTm1IODE1NHlaZWhMS1k1QlJCdlNxSXVfQzVSVmh4a2ZFR2xnTDQtRjRVbElhZ1VJNzAwNlJEVnpSTzFBWmctaE1UUEZpTy05Q0hXWGphOWQ5UHBjWE1xSXYtRk9v?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 22:00:00 GMT",
+      "summary": "AI 공장이 온다…국가 경쟁력 된 데이터센터 &nbsp;&nbsp; 아이티데일리",
+      "outlet": "아이티데일리",
+      "outletUrl": "https://www.itdaily.kr",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market",
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "AI 전력 인프라 병목의 진짜 수혜자 - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45RnI3RjJ4UjJ3eTNPR0pyNm1OSEhsellNNEttcW1KTjZzMXZkM3lKbG92d01ZbUVzdFZDNkJTUFcxb0dyRXZJNjFIWjRfek5WQVdtTFN2SjJ5azNfTVk0NmVTZGVkVVNxYTZUc3UyX3hZeDRrVm41YjZkVWg?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 22:00:00 GMT",
+      "summary": "AI 전력 인프라 병목의 진짜 수혜자 &nbsp;&nbsp; 네이버 프리미엄콘텐츠",
+      "outlet": "네이버 프리미엄콘텐츠",
+      "outletUrl": "https://contents.premium.naver.com",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-29T13:43:00.739Z",
+      "lastSeenAt": "2026-10-30T06:13:35.368Z"
+    },
+    {
+      "title": "MS 오르고 구글 급락… AI 투자 성과에 주가 희비 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NakNLTWxMOU9pdGxaR0N0SWdnVG9XbklvN1haU25sNlFnaVpvemhLLVYwTFdzU2dmdWhnQlJOUnV2ZDRBTkgyZ1ExYXZNVVVrN1ZmTGNDZ3lBeWZ1cWV5UndfaWJkUzh2TFhBWE9fSDPSAXRBVV95cUxPOU82ZTJPdUptWFFjeTFfZDEtSlJFeXFXbklKVk4yTHpIeWlmX3JpMVNZQTFTWDFjY1lDUTJmUjZPRW91RTlfTk1GVS1EYkJ4QWtEbWtQV3pEeEdpZ2tTbmVtcDl5bmpsRHdqY0Y4Z0FpRmpxWQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:59:49 GMT",
+      "summary": "MS 오르고 구글 급락… AI 투자 성과에 주가 희비 &nbsp;&nbsp; IT조선",
+      "outlet": "IT조선",
+      "outletUrl": "https://it.chosun.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "Google",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 26,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "구글 클라우드 매출 103% 급증…알파벳, AI 성장에도 투자 부담 커져 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kRGlKeV9vejN2RndObFNxT1dKUnJTNndSS01OdzlQdGdoVmhyaTFfMjJmNnZIN2llYmZud292SVRxcWoyREwxZVM1RUFmaHVnUV9hQUhPdm9aZ3BfN0pyYzV3?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:58:31 GMT",
+      "summary": "구글 클라우드 매출 103% 급증…알파벳, AI 성장에도 투자 부담 커져 &nbsp;&nbsp; 디지털데일리",
+      "outlet": "디지털데일리",
+      "outletUrl": "https://m.ddaily.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 26,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-29T18:56:42.064Z"
+    },
+    {
+      "title": "제미나이도 AI 에이전트로…피차이 \"내년 구글 생산성 황금기\" - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObFJRTGVXN3VldzQ3clMwNldlMld4eGp2Mkx6SURybkpXcC01bzM3T0dNZDc4X2o2alppUF85RzJqQTAtOUM4eTVKd19jeWdLbEhTM2hyY0dYSFV5eTZOSUZpWEczOW5HMDhQX01aaU1aMGhhT3lkRmJSejAtN2RBbQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:57:03 GMT",
+      "summary": "제미나이도 AI 에이전트로…피차이 \"내년 구글 생산성 황금기\" &nbsp;&nbsp; 이데일리",
+      "outlet": "이데일리",
+      "outletUrl": "https://www.edaily.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "Google"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 23,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-29T01:46:05.232Z"
+    },
+    {
+      "title": "AI로 웃은 MS, 투자 부담에 발목 잡힌 구글 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPN25yU19QQUk2WUZ3eXhtRHBRMFZQVWRpM0dScERfQ0RlX2VlT0kwOEJhTHc1WUZKdGZTOUZOY0pubzFoeDJSSS1ObEl1UQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:56:48 GMT",
+      "summary": "AI로 웃은 MS, 투자 부담에 발목 잡힌 구글 &nbsp;&nbsp; 매일경제",
+      "outlet": "매일경제",
+      "outletUrl": "https://www.mk.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-29T18:56:42.064Z"
+    },
+    {
+      "title": "Randstad N : AI adoption accelerates talent demand with 93% of U.S. employers growing tech workforce. - www.marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQTBnMXF3ckJGblhxTTFISEo1ZEZQNXZkalh4dnRfLU03T3puUmRzYks2OE1SVnJraGs3Tk9OVmVkdlVFUHJfZjFiMlQwcDhkcWgxMFlhRHdxWGdUeXc1Q1FlNFpHRU9KSEhqSHZGTHlDSkk2NDU1YndHRzg1Q2NJWkd4dV9ZUVJnTWNVODZhMmpBS25tRlRXQm05VkNUUDVMRVB6WEZ2QWhlTC1uaWxNUVVEN21EWGZjUzZWRUxDWU5UWHNDYXo4R0J0YVI1VVY5VVJfLWplSHEtTXk5dnRXQ19BZw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:56:10 GMT",
+      "summary": "Randstad N : AI adoption accelerates talent demand with 93% of U.S. employers growing tech workforce. &nbsp;&nbsp; www.marketscreener.com",
+      "outlet": "www.marketscreener.com",
+      "outletUrl": "https://www.marketscreener.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-29T10:51:24.641Z"
+    },
+    {
+      "title": "알파벳, 클라우드 100% 성장에도 실적 기대치 미달…시간외 주가 10%↓ - 스페셜타임스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KZ01JWW43LVp4NmM5Mk9TSDJLWTUyS0pkeDN1SmMzMmJGTmtWc3JISzdzNFozbU9Qd0ZkbEplN1NEVnpsTF83NVpSbVRCb19aUU1VakwtMWlYd2tOc210b043U0xNeFlXTUhMZ1BuQ1k0RXc?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:55:58 GMT",
+      "summary": "알파벳, 클라우드 100% 성장에도 실적 기대치 미달…시간외 주가 10%↓ &nbsp;&nbsp; 스페셜타임스",
+      "outlet": "스페셜타임스",
+      "outletUrl": "https://www.specialtimes.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 18,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-29T00:25:13.616Z"
+    },
+    {
+      "title": "Cyber resiliency frameworks for enterprise AI infrastructure - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMGJ2UDNpU2lZUWJGZ25CZDN5NEJCZllkOEpJVHg5c1gzVUQxSHRzdWdTY1RFY0tFcGM3VVA4LXVSdElQSzZ6aGJxNUhqTlA2OGg1TkJFRDR0MmNpMjR2YVo2SlI4RnhxYUUxT1dqQXJSNG9VWkJhT2VrSmJ2LTF4MHZkYTZkS0RjelEzWjhpOFowZ3l2MWxJbnM1c0FTaDBpSzRtYkc5cVhJanpVY2hXNDZ0OFdpS1JhRTgtS3Y5VHRzdVItVWtJ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:54:00 GMT",
+      "summary": "Cyber resiliency frameworks for enterprise AI infrastructure &nbsp;&nbsp; SiliconANGLE",
+      "outlet": "SiliconANGLE",
+      "outletUrl": "https://siliconangle.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "AI인프라"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-31T17:40:58.673Z"
+    },
+    {
+      "title": "'윈도우의 MS, 검색의 구글은' 옛말…데이터센터가 빅테크 효자 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96bFpYSW9rT0d3cjVSQXhSZkNPSmFnZlJGeFRyaG1nRUdoa3RhdEpubGh6SnduYnpRXzdVYWQ1c0RYWWJxMlh1TTRHd2IzeHY0MzFFU2RiMHhwZw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:53:18 GMT",
+      "summary": "'윈도우의 MS, 검색의 구글은' 옛말…데이터센터가 빅테크 효자 &nbsp;&nbsp; 한국경제",
+      "outlet": "한국경제",
+      "outletUrl": "https://www.hankyung.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "Google"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 18,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-29T13:43:00.739Z"
+    },
+    {
+      "title": "알파벳, 클라우드 100% 성장에도 실적 기대치 미달에 주가 10%↓(종합) - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9peUhKbjBsc21wTGFvZm45bVlteDI2dGhYeC1NeDE2YVZ2bHdzaE1aTFFEUUxrci0ydkVjQk50S0M3UnBTSWthcTBIT3kyU0N0QXc?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:52:03 GMT",
+      "summary": "알파벳, 클라우드 100% 성장에도 실적 기대치 미달에 주가 10%↓(종합) &nbsp;&nbsp; 매일경제 마켓",
+      "outlet": "매일경제 마켓",
+      "outletUrl": "https://stock.mk.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 18,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-31T13:53:33.382Z"
+    },
+    {
+      "title": "Alphabet’s AI Spending Turned Free Cash Flow Negative - Finimize",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0hnRENCV0RnTFNjMFBORmNOZlF1cEtta0lHa25MdDRsbDRtamh6MWdRODd3NWl3TW5kUHVpYXBETUtSSmhNSFBPbGUtTHJ3c1c3R1VxM2d0aWk4NFJoRTBlV1E5Nlg0ZEV3bVJJcTdiS2twVmRpVFhPd0NuUzA4QlQ4eGJjZzRi?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:51:34 GMT",
+      "summary": "Alphabet’s AI Spending Turned Free Cash Flow Negative &nbsp;&nbsp; Finimize",
+      "outlet": "Finimize",
+      "outletUrl": "https://finimize.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global",
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "메타 파트너십 소식 속 AMD 3.24% 상승 마감 : 기업주식정보 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WbTk5WFBYaG43Mld1UkhmOHVyQjh0Z3ZJR1dadFBjX3dUNjI0c1NFR1VFZExkcFNPYjNoTlEwc3h4QWdwSlNMQ1B5QQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:50:00 GMT",
+      "summary": "메타 파트너십 소식 속 AMD 3.24% 상승 마감 : 기업주식정보 &nbsp;&nbsp; 재경일보",
+      "outlet": "재경일보",
+      "outletUrl": "https://news.jkn.co.kr",
+      "source": "AI반도체 시장·수급",
+      "sourceIds": [
+        "ai-chip-capital-market-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-29T01:46:05.232Z",
+      "lastSeenAt": "2026-10-30T10:49:38.359Z"
+    },
+    {
+      "title": "3 OpenAI GPT-6 Models Hit Google Cloud Preview [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaktwVTczY0dZcWpFOGFSS3RBYkxkYllNekp1SThtNnY1SFA5YXlwUUswRUNydmFOWFUxMmRHMVpZTkFWMWpSVGhfcnRtblpVdVRHWmd1c1lZTzFYazI1U2hWV2l1Sk5rUDAtSFZUSW14YmxCLXBPelFxaDdxVC1yc0VaMkpCZw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:49:34 GMT",
+      "summary": "3 OpenAI GPT-6 Models Hit Google Cloud Preview [2026] &nbsp;&nbsp; tech-insider.org",
+      "outlet": "tech-insider.org",
+      "outletUrl": "https://tech-insider.org",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-10-29T01:46:05.232Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "Articul8 launches Bivia to bring domain-specific decision intelligence to enterprise AI agents - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdDNVMGtxWlE2LXRxZEpYQ3hXMVFIeEZEZlF2TlBURlNENU1RQUZ5ZE83ejdSM3hlaVlpU3UtWUdEVlA5SjVMTUFsc0ZnZW9XMkQ4TF9Rc1pob29Wc3FyUF9CelNObmtqM0x5WmoxWVFoY3pWVjQ0N1IydUliX3ZzbjBqeFRudnA2cjJTNnlhMkpSaVM0MkRWcGxSajVIMUlQYVVlTDVjYmFvRUZPNjlkSXgzMURpSTJIMmp0Sk9Rd0k2bUNnbS1zR1EyQlBGLW1IUkNMOVljaUZXY2dRUFlNTFg0azJwVTN0WVBsSG5LcjQxUk1wcTJ3TFlwcWvSAYICQVVfeXFMTV82MTljaFpYTjRvRHFUU21DbEVSQmtIVGlhRHk0cWduemZReUZfdl9UejhyZ2hqRjEtcWlqTjRQWkk3SjJLOFNyV0NjcXN0OXg4UVc2Uk15djc4TTBodnNfWUxJeTMtc1Fqb3pIWTVVbzBtak04T3BxdFdCNFFJTVpPeFAyTU5pSU1DeFVYTnNBeFVDcVdJTE04VUZGVFpGZXBEaFhUa0ZnQmVKWlExdVFxX2hWN0FUZnVmMnczSFc1OGl1d2J6c2NkdVc0ektMSEFDLUxiQktvOGZCU3ltRzh3R3loeEJiMlZqRDE4S0pnMlRHWXhpWnAzMVZpRUpQbnhn?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:49:11 GMT",
+      "summary": "Articul8 launches Bivia to bring domain-specific decision intelligence to enterprise AI agents &nbsp;&nbsp; The Manila Times",
+      "outlet": "The Manila Times",
+      "outletUrl": "https://www.manilatimes.net",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "AI에이전트"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-11-01T06:37:30.498Z"
+    },
     {
       "title": "Google expands AI Search ads globally as core ad growth slows - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeThmNGZBWUdUVXNrQmZtLXJtb0E2OEpWSkphTzJ4a2FSdTBsZHowYUF6VXl1dkpSdmJvUUxFaXREZkxKZ2JIdFl1Rkl1QVJfTXpqcmZ2WGQxM1hWaW5wRVZGcld6M2hjVlUyR2oyc2QwNE9MTDVjMUZXSUJvdDNXcHdkdjVWTjFhbTJMWl9LSk05alhGcTktbzEtREY?oc=5",
@@ -1944,432 +2371,6 @@
       "score": 18,
       "firstSeenAt": "2026-10-29T01:46:05.232Z",
       "lastSeenAt": "2026-10-29T05:58:08.944Z"
-    },
-    {
-      "title": "Microsoft beats earnings estimates, even as AI spending spree continues - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWG9KaFdCQW1kQjdDU2ZzX25DcWplSG80X2pTMVBCbnZFcXM1LWtrUks1M2ZSWjRTSzRKdDZ2XzFxaDNESWRCZWpQNU1tbWY4akZZOXU4RDdvU3g5Mmk1amJ0TWJYYzlURi1qVlZ3SXZ6RTBEQzRWeWtpMDAyR3gwVm9FNG9RRWJ6dFpJYmN5d1JRdUFwVmJPcmFyRTFsMXdlaVBrR1hmLVFrZw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:24:40 GMT",
-      "summary": "Microsoft beats earnings estimates, even as AI spending spree continues &nbsp;&nbsp; The Seattle Times",
-      "outlet": "The Seattle Times",
-      "outletUrl": "https://www.seattletimes.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-10-30T10:28:06.065Z"
-    },
-    {
-      "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시 - AI타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsMDFfSVpveUhFYmZyX0s2RUo1UWNQM1ZHNGM3WjBoSnZVNTVUTElFRzB6ZGNCUFVJQTh3aGN5SThTUkZwZlNZSlpsRkp1NWZwbHdkMWE5a1NHa3lTYnRUUDRhS0pKdGJfeVE?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:22:15 GMT",
-      "summary": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시 &nbsp;&nbsp; AI타임스",
-      "outlet": "AI타임스",
-      "outletUrl": "https://www.aitimes.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-29T00:25:13.616Z",
-      "lastSeenAt": "2026-10-31T17:40:58.673Z"
-    },
-    {
-      "title": "ServiceNow Expands OpenAI Partnership for Enterprise AI and Cybersecurity - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPaWF0ZWJnZXJSUU1NOHZfX2RCSTM5VEFiV29pcnBJVmFzRTV5OTJ2Nng0LVp6bmNuc3dvNE9xREZCQTFIb3dMNlRUMy16WUNlMEJJdHFZd01oendNanNhSzBZZF93SnNxRzM4?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:21:26 GMT",
-      "summary": "ServiceNow Expands OpenAI Partnership for Enterprise AI and Cybersecurity &nbsp;&nbsp; TradingKey",
-      "outlet": "TradingKey",
-      "outletUrl": "https://www.tradingkey.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-29T00:25:13.616Z",
-      "lastSeenAt": "2026-10-29T06:14:00.383Z"
-    },
-    {
-      "title": "Alphabet Stock Falls 8% Even as Cloud Sales Double: Is AI Spending the Problem? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeklaRGZkZmU0VGEwX243bnRqdkwtUk5TaGQ2MHhCT2lrLS11Y0pOaFNLWkowQlFvNk5FTmFXSEszd1JjbkpaN2N3cjI5cG0ySFRzVU1rejBQaDUxejZ2UnFteHRpNFJ0Q3NGamU2UDNEc3lEWFE1V1BKblNMZVI2eTVYaXFZRTZ1R2t3cmh2OXhCWWhBUmhB?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:21:08 GMT",
-      "summary": "Alphabet Stock Falls 8% Even as Cloud Sales Double: Is AI Spending the Problem? &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global",
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI시장",
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 26,
-      "firstSeenAt": "2026-10-29T00:25:13.616Z",
-      "lastSeenAt": "2026-10-31T10:19:27.588Z"
-    },
-    {
-      "title": "Oracle stock soars as it promises the AI spending will start paying for itself - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNek90TmxXQ012U0s5VFNjRTlYcS14X2RqTkJVWWdfOVJ3QXIxcWw1SVUtTTd0aFZYVTVucVNwczItQUFpeFRoTHRELVpLWEU4a0ZHb29aUHRJSkxOVk1kM1FwN0gxZU9wVzQ3VUpFN1Z5VlpEbGFQWklDUTQzVHA4OVBmQ2piMlNGazQ3WlR5eXRkS3dYc2tmVTlySXdoUDBFNlZfclZJMGY4Y1hmWEJUdDVkUUtlVVZWMDhlcWxOLU52Y3JGaHEwSm52cU0zYl8z?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:20:39 GMT",
-      "summary": "Oracle stock soars as it promises the AI spending will start paying for itself &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-29T00:25:13.616Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
-    },
-    {
-      "title": "Alphabet’s Google Cloud Biz Did Its Job. Why the Stock Is Falling. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1cyWEw2N29xSWxneld4YlNXRFozMUVXMVVuR1ZBbXBDWno5Nzd4QklMQmFVZi1yTld5M2pfTk9TOXpYdGRBVm51WTNKQ2J4MVJPME1naEtCM3N2SXBNbVVlZzVBdS1nbnVnNy10WFFQanh4Y1VjUW12Y2dsYTVzTw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:20:00 GMT",
-      "summary": "Alphabet’s Google Cloud Biz Did Its Job. Why the Stock Is Falling. &nbsp;&nbsp; Barron's",
-      "outlet": "Barron's",
-      "outletUrl": "https://www.barrons.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 18,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
-    },
-    {
-      "title": "Microsoft beats forecasts as Azure accelerates and AI spending surges - CTech",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FOTNYeUd2c3p6dDhxOUFvOVpua3dvRjhkOHUxZFB1TVVRWUR3WEdPazFjTHZ1RlJXQnlRRUhqMTlwSHBYaGdVWV9YdjItQ2JNallnT1BORl82U0I1Tm5yMnR3RVpTUDQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:17:00 GMT",
-      "summary": "Microsoft beats forecasts as Azure accelerates and AI spending surges &nbsp;&nbsp; CTech",
-      "outlet": "CTech",
-      "outletUrl": "https://www.calcalistech.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-29T00:25:13.616Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
-    },
-    {
-      "title": "Advanced Micro Devices Inc (AMD) 주식 마감했습니다 상승 3.24%에 10월28일: 투자자가 알아야 할 정보 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSjBnTnl6VlgtZG9FQVZ4b0ZTTWxCLWxpQjdPNUxsam5MM0VqMlM1ZFE3MVUydW0zX0NZblUtcnRZZk1XNUlsRi1nMlFtVTJzRFdVanIzaW9DYVEtaG9zYkVKa2dPQzk5OTUxeWVQeElfaENxXzlkMWVSM29qdTkydFJaekMwUFFDT3QwQWl3?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:16:19 GMT",
-      "summary": "Advanced Micro Devices Inc (AMD) 주식 마감했습니다 상승 3.24%에 10월28일: 투자자가 알아야 할 정보 &nbsp;&nbsp; TradingKey",
-      "outlet": "TradingKey",
-      "outletUrl": "https://www.tradingkey.com",
-      "source": "AI반도체 시장·수급",
-      "sourceIds": [
-        "ai-chip-capital-market-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "AMD"
-      ],
-      "taxonomyHits": [
-        "온디바이스AI",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 18,
-      "firstSeenAt": "2026-10-29T00:25:13.616Z",
-      "lastSeenAt": "2026-10-31T17:40:58.673Z"
-    },
-    {
-      "title": "Why enterprises should own their AI, not just rent it | Google Cloud Blog - Google Cloud",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeF95Zl9FcVdvX0pQX1FsekZaUzRJNE8zMUdCMk5MeFd4RHpHZFdfenBPM3R6LVZGZXlyT2NzdDNtQnRKU2JmWXFUQ2hrRmk2RlZyb0R2blQ0T0FZZzBpVEd4NThNeHM0Uk5NczhRamw5TTF1X1VLN2Q0SlBONkZYLXdZV1J6aFRtdERteTVUT24?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:16:15 GMT",
-      "summary": "Why enterprises should own their AI, not just rent it | Google Cloud Blog &nbsp;&nbsp; Google Cloud",
-      "outlet": "Google Cloud",
-      "outletUrl": "https://cloud.google.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T06:14:00.383Z",
-      "lastSeenAt": "2026-10-31T17:40:58.673Z"
-    },
-    {
-      "title": "알파벳, 3Q 매출 급증에도 예상 하회…구글 클라우드 103% 성장 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMzV2dEF0Mk9CQlBHcXFucmU4R3M3Zll2TGtMWmZmNXpxMndNNVJGakhaYnJxdHEtYXRfOV8ySzBVdWdMNzUtelNKZ19xUjVka2ZYN2RUaW5VVDBKTzhSYTdlMTcyRk9DbXM5Q2hLRGx6TG5zV3NkWnpOYzVsSTRfOQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:16:02 GMT",
-      "summary": "알파벳, 3Q 매출 급증에도 예상 하회…구글 클라우드 103% 성장 &nbsp;&nbsp; 이데일리",
-      "outlet": "이데일리",
-      "outletUrl": "https://www.edaily.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 18,
-      "firstSeenAt": "2026-10-29T00:25:13.616Z",
-      "lastSeenAt": "2026-10-29T01:46:05.232Z"
-    },
-    {
-      "title": "Servicenow And Openai Accelerate Enterprise AI - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR0lxOEdYTTJKdnNZSXR6ZmU5bnA2cjZzZXc4Y3NMZjN2RldrN1VnZXB3dno4Nm5vN2N5bmYydjlYalM2MTNZZGVNNmhseTJKY1l2X09HSWdIQ1FFazVkMGdrV3R5MnNWSUNBbWwzeWExZy0za1FlTXo2eDlhR3JpV1FSN2ZMMUJCaDJhNTFSRHZNZm1HUnctaU5wX3prSFdvU1EybE9XWWhlbkkyQklMZkFHVzZHSkE?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:15:32 GMT",
-      "summary": "Servicenow And Openai Accelerate Enterprise AI &nbsp;&nbsp; TradingView",
-      "outlet": "TradingView",
-      "outletUrl": "https://www.tradingview.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-29T06:14:00.383Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
-    },
-    {
-      "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFpfdm5ucU1pTmJEQ0l6bDliR09sZTFzV1lKVjZaWldRanU2cUFjVG1iY1hhZHFBcFpQZkh2S1VWaGpxc1M5Y1pvUGhsZnQ3SE4yTkZHT0dyQTNoR1Npb043NW1tRUlST0NEdE5qSVB2T1BiRGFiZFFpVzNXa1RVZXJCbWU?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:15:16 GMT",
-      "summary": "Google shares tumble 10% after $51bn AI outlay deepens cash burn &nbsp;&nbsp; Financial Times",
-      "outlet": "Financial Times",
-      "outletUrl": "https://www.ft.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai",
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T10:51:24.641Z"
-    },
-    {
-      "title": "Cohu beats third quarter estimates on strong AI demand By Investing.com - Investing.com Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUU05X0dCODRKc0lOdk04YXZnZUxnUEwtTDNUcmZCZG1KNmdOR2p1eUN2TUFET0VIWDRzQUNDYUF6RXhwcmItck5kYmVuZnRlWTZZMEh1ZkZzbmRZbmszSXE0MUg1Q2FtSWpueDB0RFZQU0t6bmZZNlEtaXN3Q2JOdVJsb3JYRmZRdjZyMDNBRlFaZG5SRmVkX1E0N0pHRTNIY1YxQmpiamhQXy1wYWZIMnZYZ3YwQQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:15:02 GMT",
-      "summary": "Cohu beats third quarter estimates on strong AI demand By Investing.com &nbsp;&nbsp; Investing.com Nigeria",
-      "outlet": "Investing.com Nigeria",
-      "outletUrl": "https://ng.investing.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-10-29T05:58:08.944Z"
-    },
-    {
-      "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUMwY0xlTmlOWWZEMEZ1MjQ0YnY3eG1WV1k5T1pqOWkwTXFZTmk0c21wTVFibmpXaFdWRElJNVVOX1lyeGxITWpHQ2hBbVpvS1NQRmUxZlZaRVNiZWNfb25TWXAyWXl5Zm1zV3VuemEwNGppdlE5UURRVTA1ZDZmcWY3cFAxUWtMMWtlejRSZTB3QW9wWXRpNNIBngFBVV95cUxQUUg3OVpUN1J0S0pUY05lVXRETERQeFJua0pFSjlHd0Y0V3JkVWNOTTVlc2pIZHRIcUxFbDZYOVhIamNhaGtjbkpTUXo0MXlFVjl5Z0tzRFQyNVdDZjhPZEpySW5aaWh2OXJza1lIQldNM0poSlF6SzBnU2MwUWlVaG0wZ0dsV1F1NVpXRC05N2gxZG5RRGF5MkVwem1mQQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:13:50 GMT",
-      "summary": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny &nbsp;&nbsp; CNBC",
-      "outlet": "CNBC",
-      "outletUrl": "https://www.cnbc.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-29T00:25:13.616Z",
-      "lastSeenAt": "2026-10-31T17:40:58.673Z"
-    },
-    {
-      "title": "Fortinet Reports Q3 2026 Revenue Growth of 20% and Raises Full-Year Outlook - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByUTIwOExCNlJuNnpPRnNTcktyTlBPOVczRFU5UzRFU1ZvTXNDNTR3U0VMMHpfNXFhX0l6aHZCV3plbVM3allDMVhnamh3ZlVYcFF6T1RYcjFHa3VjcXJLTEVDWkxCdzVBT1JFVA?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:13:01 GMT",
-      "summary": "Fortinet Reports Q3 2026 Revenue Growth of 20% and Raises Full-Year Outlook &nbsp;&nbsp; TradingView",
-      "outlet": "TradingView",
-      "outletUrl": "https://www.tradingview.com",
-      "source": "가속기 운영 SW",
-      "sourceIds": [
-        "accelerator-software"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 7,
-      "firstSeenAt": "2026-10-30T16:49:59.511Z",
-      "lastSeenAt": "2026-10-31T17:40:58.673Z"
-    },
-    {
-      "title": "Alphabet Posts 25% Revenue Growth as Google Cloud Jumps 103% - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ2x6WlQ3OUlsZmFLazdONk55OTVTQzZJczlzQkN5anpOaW1sVEZJMEhESkJ2OEJmNVZ0VGtwbmw4Q1JmbTlUN1h3dmxiZUl0RjR0ZW5UT3lsbnhpY0hmTTF6eVEtbU9zSnhWVlRvcWJpbmd2YUQ5TnlZeEdsYTRRRE8tQ3hTX0E?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:12:12 GMT",
-      "summary": "Alphabet Posts 25% Revenue Growth as Google Cloud Jumps 103% &nbsp;&nbsp; Unite.AI",
-      "outlet": "Unite.AI",
-      "outletUrl": "https://www.unite.ai",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T06:14:00.383Z"
-    },
-    {
-      "title": "Alphabet Q3: Google Cloud revenue jumps 103% but search and ad sales miss forecasts - investingLive",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRndnYW9BRUZUM3FGd3VzWDloRk1aY293UVlXRnhuN3BCaWhabzB4bF9MWnBmdGFPVVh0ZlR3em9YaG4yQnoydnhvUHF5eHJwclFleU5wOWhBY2Z1NE1SWE82aG1sU3RwcHhna2ZUdjJoU1J4TnBXZ1NOdFdnelBFSllIVjJHNDZOZTF6dmI2d2xramItU1FldVBLTTFWM2xxV25fYk91TDk4TEJ5YzNVT3ZzWGkxZw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:12:12 GMT",
-      "summary": "Alphabet Q3: Google Cloud revenue jumps 103% but search and ad sales miss forecasts &nbsp;&nbsp; investingLive",
-      "outlet": "investingLive",
-      "outletUrl": "https://investinglive.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 18,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T05:58:08.944Z"
-    },
-    {
-      "title": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development - ServiceNow Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTmJmZ3lwWmpKMlowZmpaNEx4ZlJWbW9YTjZDZU1MUDEzZnJYVzhlS0g4emQxdVFxZXJGWWRDTnlIdGRMT0lNOElxWjBNUjZ5UWFTQ2l5RVFCWG1ScEVTYi1sY0dtbnhNME9YMktSYmFmR1dtcWVISHhqakhyRGlBbnU1aFpTOTRpczRaMHh5SjVGV2piQ3pXdFNPVjcyU1ZtcXl5RkxtRG55M0F6bnhTek50YzdPc1p5V3FPREVfSm9ncmxzZ2NKUXAyRThBTEstUWpKVjlic0w2bE5ZdXVtcS1aV2Zkc1RwRml5V1pLbzRLMXVKYXdaelpYTlpkVjhsZmdFdHpsLTBVSUJZMjgyOEdyX3dtUQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:11:02 GMT",
-      "summary": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development &nbsp;&nbsp; ServiceNow Newsroom",
-      "outlet": "ServiceNow Newsroom",
-      "outletUrl": "https://newsroom.servicenow.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "AI에이전트"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-29T00:25:13.616Z",
-      "lastSeenAt": "2026-10-31T17:40:58.673Z"
     }
   ]
 }
