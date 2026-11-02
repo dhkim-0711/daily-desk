@@ -1,7 +1,122 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T12:16:34.842Z",
+  "updatedAt": "2026-11-02T18:50:26.182Z",
   "articles": [
+    {
+      "title": "Using VPC Flow Logs to troubleshoot GKE workloads - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3VLNUMyQ19IMmk3UGRiWnpodkNkUjhDMWZpeVZFMk5QWjY1Q3doa1FlSGlyaWczZTBzSDdaV2IxTjMxSTRua3cxd3JNX3VUb1lUdlZJMEUyRy1oMGlBX3FnbEd6UDd5M1VXOVVZc29DaXpVN1pMOG5udFBuejZDUGtTekx0WjZCZXNKSHNySko1WnY2MzRSOG52YzRxVmM2QXk5aF96bHZzUkJRaW42Rw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 16:58:03 GMT",
+      "summary": "Using VPC Flow Logs to troubleshoot GKE workloads &nbsp;&nbsp; Google Cloud",
+      "outlet": "Google Cloud",
+      "outletUrl": "https://cloud.google.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-10-28T18:48:46.253Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "AI investment will fuel air cargo demand, Boeing forecast says - Everett Post",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGVFUDZ5Yzh3dnpKSjFkNUJVM1l6VEt5d3EtRHFHZWNYUDJvNEwzVnd0VVBjYVVIcVlMeFlCRVJDOEtvRF8wZzlMUlhXNW90MGU4ZWk2dlNicFJNM2xvZUZTVVpOak9ncS1qaU5XeGxpLVFiVWlBZVUtMmNUZS1SbzRhLVphVVNKNm1mLWpDWnpOVTd3bFpDdlVNZWQwMDJmT1hz?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 16:55:52 GMT",
+      "summary": "AI investment will fuel air cargo demand, Boeing forecast says &nbsp;&nbsp; Everett Post",
+      "outlet": "Everett Post",
+      "outletUrl": "https://www.everettpost.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-28T18:48:46.253Z",
+      "lastSeenAt": "2026-10-29T13:43:00.739Z"
+    },
+    {
+      "title": "Amazon Sales Expected to Climb With AI Spending in Focus -- Earnings Preview - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcW5WWXdpTkVmVVItZ3NZUTRXTllIcU1NMDNFbFFlbG1SUlZPTlJPU2lzYXQwM3o0V01JdDh1WWpQa0hQMGN0RnZzNzZYc2drNmhGaDlabERma0NVLV8tYWZOai1reE5ZSjhKVEdwazNNbmpraEtzQ1hvaTFSbHZyVGdWcEZPT01HWl9fNzB4LWUwakhTbXRYdFZmQ1NzM3NKeHc?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 16:53:29 GMT",
+      "summary": "Amazon Sales Expected to Climb With AI Spending in Focus -- Earnings Preview &nbsp;&nbsp; Moomoo",
+      "outlet": "Moomoo",
+      "outletUrl": "https://www.moomoo.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-28T18:48:46.253Z",
+      "lastSeenAt": "2026-10-29T05:58:08.944Z"
+    },
+    {
+      "title": "S&P 500 pulls within 1.2% of its all-time high even as majority of its stocks fell - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0RvZlg1ZnByaExDWmlpcU5XRHhFZDFONXFlcmd5Z201TktDQ3c1U0FyV3dHNUdBNGtpcUtvWkNfLTFuSUJPWnV1TG1xQ1lTTXhtMVJoWkowLU9iYlRDZzJ4T0drMTBaZlJCLWF4Y1BmaVlCZmVwbHpYbW5zWGs1Tno0RG94YVBy?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 16:53:00 GMT",
+      "summary": "S&P 500 pulls within 1.2% of its all-time high even as majority of its stocks fell &nbsp;&nbsp; Fortune",
+      "outlet": "Fortune",
+      "outletUrl": "https://fortune.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market",
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 8,
+      "firstSeenAt": "2026-10-28T18:48:46.253Z",
+      "lastSeenAt": "2026-10-31T13:53:33.382Z"
+    },
+    {
+      "title": "Nvidia Releases Open Nemotron 3.5 Transcribe Model for 40 Languages - SQ Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kM2FUNzhEYVZyczlwQ3E3azQ1RExOdzlVeE1Ia0Fua19WbGNndGozSEFYT0ZSNDdTOTFhckI5djItR2Mtb2MwY3pCcHQ0ZDc5ZTUwQVg5RllDb0tmTDNCYkVKbXMxQ3F0akx4ejJ6eWRhaXdJLXc?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 16:49:26 GMT",
+      "summary": "Nvidia Releases Open Nemotron 3.5 Transcribe Model for 40 Languages &nbsp;&nbsp; SQ Magazine",
+      "outlet": "SQ Magazine",
+      "outletUrl": "https://sqmagazine.co.uk",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-28T18:48:46.253Z",
+      "lastSeenAt": "2026-10-28T18:48:46.253Z"
+    },
     {
       "title": "SK Hynix Shakes Up the AI Chip Stock Narrative - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXlDanRhYUlWdGJMMXl6SW9ZNWVoVWM2SzZFdEpGdGdVNnBUQmNVbXd0REJPUDVjNm51Uzd1bUFwZGR0ZHl6aS1MbUlJUVVwV0R1cmJHQ0NRYl9zRkJRWEwzeWhGSVFCVkthMW9neGdHQWN3WTBmOHd2MXpYM29KXzhLdmNuOUhISmtJYm1lWndyV1hIeW5lMTROd0x1V0pXNXRscWJNd2ptQQ?oc=5",
@@ -2160,124 +2275,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-28T18:48:46.253Z",
       "lastSeenAt": "2026-10-29T18:56:42.064Z"
-    },
-    {
-      "title": "“향후 3년간 D램·HBM 물량 사실상 완판”⋯ AI 정점론 일축 - 국민일보",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MN3Q0aGtVcnU3eC12RlIwd0gyMFAwczktVXg3TzhLNVI5NzZCQzc2OU5mR0xuQUZ1TlV2dU1pZnp1cU05NlFhMnBwZ3dpUWZaUnpQY20xSWg?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 15:02:00 GMT",
-      "summary": "“향후 3년간 D램·HBM 물량 사실상 완판”⋯ AI 정점론 일축 &nbsp;&nbsp; 국민일보",
-      "outlet": "국민일보",
-      "outletUrl": "https://www.kmib.co.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-28T18:48:46.253Z",
-      "lastSeenAt": "2026-10-29T06:14:00.383Z"
-    },
-    {
-      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "publishedAt": "Wed, 28 Oct 2026 15:00:46 +0000",
-      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified [&#8230;]",
-      "outlet": "NVIDIA Blog",
-      "outletUrl": "https://blogs.nvidia.com",
-      "source": "NVIDIA 공식 기술발표",
-      "sourceIds": [
-        "nvidia-ai",
-        "nvidia-official-blog",
-        "accelerator-software"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-10-28T18:48:46.253Z",
-      "lastSeenAt": "2026-10-31T13:53:33.382Z"
-    },
-    {
-      "title": "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "publishedAt": "Wed, 28 Oct 2026 15:00:46 GMT",
-      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
-      "outlet": "NVIDIA Newsroom",
-      "outletUrl": "https://nvidianews.nvidia.com",
-      "source": "NVIDIA 공식 보도자료",
-      "sourceIds": [
-        "nvidia-official-news"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-10-28T18:48:46.253Z",
-      "lastSeenAt": "2026-10-31T13:53:33.382Z"
-    },
-    {
-      "title": "Keeping U.S. Technology Out Of China Will Not Boost National Security - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZlOGhfVXV4ZjNiaGRNSDFtTmt6S09FRXhOOS1fU1NDbURMU2NfS3BEbGk2N2YzME12ZTA1RTZ5dnU3WjA0dXJ2VmI5R0lxdkNMZXYtWHdyOFo0LWFEOGdoN05rYUdTckRXNi0yYmVXY291M0w1a08xTmt2SHNvMVJacU1IY1h4NlZaZ0pTZmc4T21xMGxhOWxR?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 15:00:34 GMT",
-      "summary": "Keeping U.S. Technology Out Of China Will Not Boost National Security &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "수출통제·공급망"
-      ],
-      "issueCategory": "수출통제·공급망",
-      "score": 11,
-      "firstSeenAt": "2026-10-28T18:48:46.253Z",
-      "lastSeenAt": "2026-10-29T00:25:13.616Z"
-    },
-    {
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYU5veWRiUWgzSl94VTg4NDlCZkJpX0NadTNIN1J3c3kxX3BOYk1TY2NUN3VNeUpFbUh4WWVXUmJyQ3dzTFhlcXlja0xIQWs4SlEteDFZTlVHMlAwS1F0Q1QxamJlbDBQTjh4R0ExX3ZQRFpXRlF3dzRHcXk0bkt4MVNMTS14N1RqcElCV3VsQUlXeVdlSlZkbG5qVkVNZw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 15:00:00 GMT",
-      "summary": "Voice AI in vogue: Nvidia releases new open transcription model &nbsp;&nbsp; TechCrunch",
-      "outlet": "TechCrunch",
-      "outletUrl": "https://techcrunch.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-28T18:48:46.253Z",
-      "lastSeenAt": "2026-10-31T13:53:33.382Z"
     }
   ]
 }

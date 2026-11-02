@@ -1,7 +1,132 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T12:16:34.842Z",
+  "updatedAt": "2026-11-02T18:50:26.182Z",
   "articles": [
+    {
+      "title": "“러시아의 구글도 당했다”…우크라, 얀덱스 AI 데이터센터 이틀째 공격 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VYklSRFJiWU9Mbng2WU5hZ09IVzVMci1fR1lSd0E4dXZTTGVzWlBBWk9oejBTRlQ1Mks1czUyXzlURXRKZEQ3SmtZWVlhZlJf?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 11:56:15 GMT",
+      "summary": "“러시아의 구글도 당했다”…우크라, 얀덱스 AI 데이터센터 이틀째 공격 &nbsp;&nbsp; 문화일보",
+      "outlet": "문화일보",
+      "outletUrl": "https://www.munhwa.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "Google"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-09T16:34:18.478Z",
+      "lastSeenAt": "2026-10-11T23:59:00.697Z"
+    },
+    {
+      "title": "Nuvonix and PNY Expand Enterprise AI Infrastructure Partnership in India - Konsulteer",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0VCVEI2S2FoX01tcXVTcG9WZTJ2b3V2OG5zRnFmYzVrc1AzQ3JHN2djR1I2M2ZKbzdYbWUtMWg1OHZBUWpuRkZNVDhlc1dvTV9jTlU2V1VnLVNEZVlVZ2Ytd2E0Wi1LZHBoQktUMFhVemxWUVR3b1czQXVCRVpDUWFYZnpIWXFadl84TmozVGhSVmpBQ1pZam94MFZ1Z25ISmFGdzJuWmYxQW8?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 11:56:15 GMT",
+      "summary": "Nuvonix and PNY Expand Enterprise AI Infrastructure Partnership in India &nbsp;&nbsp; Konsulteer",
+      "outlet": "Konsulteer",
+      "outletUrl": "https://www.konsulteer.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "AI인프라"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-09T16:34:18.478Z",
+      "lastSeenAt": "2026-10-10T07:44:52.668Z"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing's Earnings Call Eve: Foreign Brokerages Set NT$4,000 Target Price, Focus on AI Demand and Musk Collaboration - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzN2JVY1VnZmo3WVBUU2VhMjN0elFuLU1NRUV5U1RHOVgydUNFbU1tN2xRdG1OUTJEWFdFQ09lYlFrN0FLYVZUbVlMUmxPYjU4ZGFYZWVHS1ZqVDctd0JfM0p3d1pCSjhwLWdDZlpKblI1TE9ZTFE?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 11:55:00 GMT",
+      "summary": "Taiwan Semiconductor Manufacturing's Earnings Call Eve: Foreign Brokerages Set NT$4,000 Target Price, Focus on AI Demand and Musk Collaboration &nbsp;&nbsp; BigGo Finance",
+      "outlet": "BigGo Finance",
+      "outletUrl": "https://finance.biggo.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global",
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-09T16:34:18.478Z",
+      "lastSeenAt": "2026-10-12T11:52:22.190Z"
+    },
+    {
+      "title": "Nvidia-backed Australian AI Firm Firmus Scraps IPO Over Market Conditions - RTTNews",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1A5SnFJUVRRUVJUVDN6c3doR19TYnVaVGdKdzVCdmI1bGR6cFdJZ05RcEFENnZYSFBURFVlM0tQR2N2NnVUaE5wc0h6ZjY1UlhvckU0WXRmenFJdm5mYVNWMEF3ejRmcEJZZHRCVlJrN0hOWHhlR0Yxekg2WllTcXhzRVhaTm5rS0lyUFF1TW5WcEpBMWtpejdkQ2ZzN0F0dExLeS12QU1LUGVzVzBZak1wV1o?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 11:54:00 GMT",
+      "summary": "Nvidia-backed Australian AI Firm Firmus Scraps IPO Over Market Conditions &nbsp;&nbsp; RTTNews",
+      "outlet": "RTTNews",
+      "outletUrl": "https://www.rttnews.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-09T16:34:18.478Z",
+      "lastSeenAt": "2026-10-10T07:44:52.668Z"
+    },
+    {
+      "title": "CNBC-TV18 #AIPulse | OpenAI Revenue Concerns, Google’s Gemini Agent & SpaceX’s Spectrum Deal * OpenAI tells investors annualised revenue approaching $50 bn vs earlier reports of $70 bn * Google Cloud launches Gemini Agent for tasks, content and - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUk4tbHZlT2Zjbjd4Y2o0WTM0UWJIZVhBRFBwY2NlNmZEWU5HUVBDeVd5d1p1OFRQY1lpdlBCM19jU2tHalZqZDZYTzNDeEExLUlwalFyVmhBa0NfcTl6ejd3WjVVTVFJZmlBaWpNS1VXSnM1MFE5M21UaHUwVXRNLUhDbi0tYkFjMl9MaGNVblJZa0dpMDhuaDk0RkR5QQ?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 11:53:09 GMT",
+      "summary": "CNBC-TV18 #AIPulse | OpenAI Revenue Concerns, Google’s Gemini Agent & SpaceX’s Spectrum Deal * OpenAI tells investors annualised revenue approaching $50 bn vs earlier reports of $70 bn * Google Cloud launches Gemini Agent for tasks, content and &nbsp;&nbsp; LinkedIn",
+      "outlet": "LinkedIn",
+      "outletUrl": "https://www.linkedin.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai",
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "AI에이전트",
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 29,
+      "firstSeenAt": "2026-10-09T16:34:18.478Z",
+      "lastSeenAt": "2026-10-09T18:46:22.187Z"
+    },
     {
       "title": "Gemini partially down as users worldwide report problems with AI generation - Türkiye Today",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOVFkam4xcUVEdWoxOXBvTFZxLVB4SnlpSDhTT3lBVUZhOW1XNWtOTGM1VzBPdjNCZ3ozUUp4V3FRZU0zbl8za3hIeXQxR0Q5NExOTExTUmdYNWdtM3B1WkVqSkNkN25kTW5GNUZKb1dxdnIzazE3WmZRRnRBMWxFR1ZZcjF2NFJydTVUajhUV2V1QmRteE9GWldOUmE4WlEtcGRSNzZPMGtOMWIxMjlTSmhLU0ZwbUhJekZndDd3?oc=5",
@@ -2180,119 +2305,6 @@
       "issueCategory": "NPU",
       "score": 16,
       "firstSeenAt": "2026-10-09T11:16:32.130Z",
-      "lastSeenAt": "2026-10-12T06:18:44.480Z"
-    },
-    {
-      "title": "특수 기능의 이름보다 중요한 클락 제니아 호텔 & 카지노 발동 조건 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOWd3Q0JrclZQSVdwYXZ0dUdBcWgxcmFzMDROdmRzOEdxa2VpblJfUTV6T3RNLVEtSmJrRTFTNTdNX1lUeGRLNHBpWTVGbXVRSm9VbjhjSG5uS2w2UGZtcXE2X1B5SUlFUF84RkpaamVycE5UQS1sQ3d4blU3RklmWWREVlJnaVZ5N3ow?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 09:46:50 GMT",
-      "summary": "특수 기능의 이름보다 중요한 클락 제니아 호텔 & 카지노 발동 조건 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "국내 가속기 운영 SW 보도",
-      "sourceIds": [
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-10T01:43:02.876Z",
-      "lastSeenAt": "2026-10-12T06:18:44.480Z"
-    },
-    {
-      "title": "Agentic AI is bringing CPUs back to the core of enterprise AI infrastructure says AMD’s Derek Dicker - DQ",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWU15cEwxaGlMb2tEaW1lZGVKenVjQVo5bjU1dm5iSWIyZmpPNDNucXZjczVnU3FkNGc0WHFFQ1VFYWtLaFg3Mk5UaUk2NHJ6NWpYUm5QeUd0ZlQ5WUg3SmYtMkR4eFlhY3lBMkhwTTlOMFdHbmlRUnJyWlBxLUZWd2lYdkVTLVFrYXczUUF4eWlRYUVFM0l5ZDJZcTR6RHBVUHBIemNYTWp3N21jVmg0OTlELVpaemcxc2lLR3pmNWFxMl9uTHAwNlk5RlM2UUpzdUZJRktQbDBqZ9IB2gFBVV95cUxOWU15cEwxaGlMb2tEaW1lZGVKenVjQVo5bjU1dm5iSWIyZmpPNDNucXZjczVnU3FkNGc0WHFFQ1VFYWtLaFg3Mk5UaUk2NHJ6NWpYUm5QeUd0ZlQ5WUg3SmYtMkR4eFlhY3lBMkhwTTlOMFdHbmlRUnJyWlBxLUZWd2lYdkVTLVFrYXczUUF4eWlRYUVFM0l5ZDJZcTR6RHBVUHBIemNYTWp3N21jVmg0OTlELVpaemcxc2lLR3pmNWFxMl9uTHAwNlk5RlM2UUpzdUZJRktQbDBqZw?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 09:46:18 GMT",
-      "summary": "Agentic AI is bringing CPUs back to the core of enterprise AI infrastructure says AMD’s Derek Dicker &nbsp;&nbsp; DQ",
-      "outlet": "DQ",
-      "outletUrl": "https://www.dqindia.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud",
-        "accelerator-strategic-deals-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "AMD"
-      ],
-      "taxonomyHits": [
-        "AI시장",
-        "AI에이전트",
-        "AI인프라"
-      ],
-      "issueCategory": "AI시장",
-      "score": 26,
-      "firstSeenAt": "2026-10-09T11:16:32.130Z",
-      "lastSeenAt": "2026-10-12T06:18:44.480Z"
-    },
-    {
-      "title": "게임이 시작되지 않을 때 확인할 카지노가리 더블유 이용 조건 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHJJcXFldVZKbFdYVWU3d0ViWUNkNFFKcS1KekNFTjAxcFRsc0Fud2o0NGVoMDBEekxNZWp2aTZlemFLOENRTG5MblBzM0ZWMmhpRVBUWUNFbFBuOV9IOERiYmxxZm13V3hmY1VDWG1LcVh1ZzJmc2RyY1VYLUNoWF80Um4?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 09:46:13 GMT",
-      "summary": "게임이 시작되지 않을 때 확인할 카지노가리 더블유 이용 조건 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://www.calgaryroughnecks.com",
-      "source": "AI반도체 시장·수급",
-      "sourceIds": [
-        "ai-chip-capital-market-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 6,
-      "firstSeenAt": "2026-10-11T23:59:00.697Z",
-      "lastSeenAt": "2026-10-12T06:18:44.480Z"
-    },
-    {
-      "title": "Google reveals Gemini Agents — 'a single universal agent for work', which will even get their own Gmail account - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaHRnemE0czhhZDFveXFJb2VJTUNUMUwyY3FDTzZVYmxJN2t2YkxYWEVoODhRX2wtdlhjTTZaS2JIYlgzaEotRDhSdFlLLVdKZEZSczN5aExBSlM0bnhHTDVlVXE5OUN0TDRlaXY1NTNHcEtLQjFqdHhJeGNRNU1TUUQ3ZzN1WXRtMmVOM3VwR0w2X3BNelRVaWJFTlhJRjVMVjF0M1BiTVB5cjMtTWRGQmlSdlBSR1RRZ3gwZWg5d3N5S2dXUkZKNjhHTkxmc3JQcGc?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 09:45:58 GMT",
-      "summary": "Google reveals Gemini Agents — 'a single universal agent for work', which will even get their own Gmail account &nbsp;&nbsp; TechRadar",
-      "outlet": "TechRadar",
-      "outletUrl": "https://www.techradar.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "Google"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-10-09T16:34:18.478Z",
-      "lastSeenAt": "2026-10-09T18:46:22.187Z"
-    },
-    {
-      "title": "전체 화면에서 메뉴가 숨겨지나요? 탄핵 도박 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU25qY05VWXVLaDhUV3JTS3pNQzNCWWNkSEMwUTB5NUpVV2Y0SzVCR1h0bnRUc1g4UFZ1U2t3Tlkwd2RaWU55dnI4SlgyWFdRcnU1eDFId08tMEc2UWw1NVRLX3ZZRXZxQjB3QU9Ed013ZGpKMDJ3V1NXX2htZEZrajV2T1BuUm5rQ01SRFF4UF9PZDh5X1o1NWVha1hoMTFlTzhncDFUaXR6RUJkanlxcXdMOGJGZEJ4QUM2NUljSE9MaDdMb3V5c2Y3RTEyRTZPYTVWZHNESlU?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 09:45:26 GMT",
-      "summary": "전체 화면에서 메뉴가 숨겨지나요? 탄핵 도박 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-10T01:14:57.972Z",
       "lastSeenAt": "2026-10-12T06:18:44.480Z"
     }
   ]

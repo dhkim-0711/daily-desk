@@ -1,7 +1,118 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T12:16:34.842Z",
+  "updatedAt": "2026-11-02T18:50:26.182Z",
   "articles": [
+    {
+      "title": "HBM부터 ‘테라팹’까지…한미반도체 “연간 최대 매출 예상” - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kcTJ1dVVEY0lFdm83Y1ZpaG1RNExUUDl1SS1PWHVDdnZGY3c2YVRlUG13X2FuV19yaFZESzZNenV1QzBLRHBpZExxaFpjUk5n?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 04:12:07 GMT",
+      "summary": "HBM부터 ‘테라팹’까지…한미반도체 “연간 최대 매출 예상” &nbsp;&nbsp; 문화일보",
+      "outlet": "문화일보",
+      "outletUrl": "https://www.munhwa.com",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 8,
+      "firstSeenAt": "2026-10-30T05:59:09.837Z",
+      "lastSeenAt": "2026-11-01T07:27:17.206Z"
+    },
+    {
+      "title": "中 GPU업체 제품 성능 실측서 엔비디아 H200 앞서 주장 - SBS Biz",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00djJ3bVhmaUFiZEVheHEwWHYta0RFMzdqdnJOZGFadFBWQXFPcDF6cWVWNThDLUloOVEwaElUQkJvaUQ2LVdzbDNpcXB5c3M1RkFB0gFYQVVfeXFMTVp5a2VGOWV5b1l0dGFYdjlXQ2kyX21Tb1d6NGJxRFVkblJLRWxTWlFvZ01LdzIxX1NiU3A5eG9sV0JDaUc0Z3pRLUdBMTAzZEd1X0ZXTW5hQw?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 04:12:00 GMT",
+      "summary": "中 GPU업체 제품 성능 실측서 엔비디아 H200 앞서 주장 &nbsp;&nbsp; SBS Biz",
+      "outlet": "SBS Biz",
+      "outletUrl": "https://biz.sbs.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-30T05:59:09.837Z",
+      "lastSeenAt": "2026-11-02T01:02:18.129Z"
+    },
+    {
+      "title": "글로벌 대체투자 운용사, AI 인프라 투자 확대…\"안정적 임대 수익 확보 목적\" - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuVjlmMU9ENUdvR19NWHVicGZ0UXNET1Q2a1o4ZWtUZXpScW9yRlZEblhRUlJtSlFLaS0xM2hNdDhpWUhPZWd1VHh0aU1xV29GMEM1OHFoRURzZFN5ekpUY2xzSQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 04:09:52 GMT",
+      "summary": "글로벌 대체투자 운용사, AI 인프라 투자 확대…\"안정적 임대 수익 확보 목적\" &nbsp;&nbsp; 더구루",
+      "outlet": "더구루",
+      "outletUrl": "https://www.theguru.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-30T05:59:09.837Z",
+      "lastSeenAt": "2026-11-01T06:37:30.498Z"
+    },
+    {
+      "title": "현대차그룹, 새만금에 AI 데이터센터 짓는다…9조원 투자 본격화 - 더테크",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XcFh0Q2ZoN0ExZGt4eTQ1LVp4enFSYWdodXFDMlRWWWxWa3VuNGljdUVRTC0yUVZRLVhPOFVaVWFBVE1TVmhlendHMkpjSTN3RVdvTncwWng2Y1F3TkFfRjVnQQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 04:07:14 GMT",
+      "summary": "현대차그룹, 새만금에 AI 데이터센터 짓는다…9조원 투자 본격화 &nbsp;&nbsp; 더테크",
+      "outlet": "더테크",
+      "outletUrl": "https://www.the-tech.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-30T05:59:09.837Z",
+      "lastSeenAt": "2026-11-01T06:37:30.498Z"
+    },
+    {
+      "title": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWFudXhHd1lSZGxFRnhjNTZzM1pIaklaaGk5LUd3d2U5WDdWcUpaaDNWZGZFLTNkRjNhTnNwcDFaMVlxVUo1UEstUy02cVBGVXgzOWlRQ0tnUlQ1eWk4UVB0SEt4Nk1mNWdCQkJxTDY1UXBHZmc0RldFcHkwZGY0ZDZLaVdGVTRlTHZjd09nMnFRZzYtd2lCQmJ4azBTcExXWUhhZg?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 04:06:00 GMT",
+      "summary": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-30T06:13:35.368Z",
+      "lastSeenAt": "2026-11-02T01:28:59.868Z"
+    },
     {
       "title": "AI earnings: Big growth, bigger spending, tougher questions - Saxo",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTnQ4T3lSU3ByczNaZkVaUmttYTJBVjBwZS1pVGZkdTZrUVM3OWpZVW9VdXdua1NENUtZbjQwVWRsZFd4Qnd4TVpTMS1qSzJFcGxjOVVtZUJaZDBMclVPMDR3TURhWW5rVUVfaDQ1bEVITEZyTndIdTExcFB2SXU3ZjlOSk5Lc0p6dXdJUUJPbnh3MnZIN3NqRHVhUXByYTNTaU9kbm1DTmlRNFFhUHpHQzRGX3U5clFScTJr?oc=5",
@@ -2097,115 +2208,6 @@
       "score": 13,
       "firstSeenAt": "2026-10-30T05:59:09.837Z",
       "lastSeenAt": "2026-11-02T01:28:59.868Z"
-    },
-    {
-      "title": "LG CNS, 3분기 영업익 1382억…＂AI·클라우드 견인＂ - 한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14WHd3LUZacGhIMDh6LS0tOTl2TWl5S3IxQUpTeFRNaHJiS0NNNVRYMjZiUXRWNW9fa3I5R2dxdTltT2FDQTNkSzlLZmwzUVJFS3dWMHBsYkhxWE9uSGo2bkwyZnhyUEIwRGJ3NVhGcTZTelE?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 02:39:00 GMT",
-      "summary": "LG CNS, 3분기 영업익 1382억…＂AI·클라우드 견인＂ &nbsp;&nbsp; 한국경제TV",
-      "outlet": "한국경제TV",
-      "outletUrl": "https://m.wowtv.co.kr",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 16,
-      "firstSeenAt": "2026-10-30T10:28:06.065Z",
-      "lastSeenAt": "2026-10-30T18:34:19.467Z"
-    },
-    {
-      "title": "SK하이닉스, 미주총괄 신설 '안현 사장' 배치…\"美빅테크와 스킨십 강화\" - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VY1ZTSjlJR1BJZ2ZPQVQzc2dRRGhXV2VsemZhYk8zZWZ0UVlxTUppUGc4MjRMNU1rTXBVSXZEc1oxZzIwZ0d2aUxSLThLSGpFOWhPQ2UxZXRFNFFveWtpQtIBeEFVX3lxTE42OVk4ZTRhXzI1cjZfZDNLM0E1MTN4T0ozTlB2Vmg2N0xuT1ZxSnhGdG1VLVB0Y2pVbmhLRjd5cjc5ZVNOYTBkZ1oyV0NnVGRpX1RGUV84Z0tINXVBSUhRNXRKQ3Nrc3NMN01ib1cxbUFZVFR4SnZXQg?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 02:38:32 GMT",
-      "summary": "SK하이닉스, 미주총괄 신설 '안현 사장' 배치…\"美빅테크와 스킨십 강화\" &nbsp;&nbsp; 뉴시스",
-      "outlet": "뉴시스",
-      "outletUrl": "https://www.newsis.com",
-      "source": "글로벌 기업·한국 반도체 협력",
-      "sourceIds": [
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-31T01:33:01.539Z",
-      "lastSeenAt": "2026-11-01T16:27:12.706Z"
-    },
-    {
-      "title": "[AI 고속도로] AI에 클라우드 판 '흔들'…구글·MS 맹추격에 아마존 1위 수성 '비상' - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UVGlnaVZLcm9VbEtKWXNrYk5yd0RwbUdsajJXWXdpRmhpM3hOdzhoOGRSRUROU2dXUlhHbjdkenhZbHQybmdKWTRPUFVoU1RaUjE0S2d3?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 02:38:15 GMT",
-      "summary": "[AI 고속도로] AI에 클라우드 판 '흔들'…구글·MS 맹추격에 아마존 1위 수성 '비상' &nbsp;&nbsp; 지디넷코리아",
-      "outlet": "지디넷코리아",
-      "outletUrl": "https://zdnet.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 23,
-      "firstSeenAt": "2026-10-30T05:59:09.837Z",
-      "lastSeenAt": "2026-11-02T01:02:18.129Z"
-    },
-    {
-      "title": "현대차그룹, ‘9조 새만금 AI 밸리’ 본격화…내년 3월 착공 - 시사저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SaW1yd1RSR3gyWmp4ZjFSMEtXblduZWpwZG1QR3Z6R0N6QkVmeDFvRDRSNVdFQTZVRFpmRmpTV1duZHNZWkFLZ3R1WjczNHNUU0o0Um83bm13eUl5X0lWR0RGaGRmQ3d3alNfLUd1b9IBc0FVX3lxTE93Nl92VW9UbkFtQlplRm9abjZIYmVOLXM3UVRLR3hFUDJmQ1dGenEwMUJLZnBLdkZOaXpaS3JfNHlmMkNUZEZmaVBZU1M1TEF4c0dpemxOTFowcGNfa3lGell6Y2hMakRGY0x2X3loWnFqaWs?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 02:38:09 GMT",
-      "summary": "현대차그룹, ‘9조 새만금 AI 밸리’ 본격화…내년 3월 착공 &nbsp;&nbsp; 시사저널",
-      "outlet": "시사저널",
-      "outletUrl": "https://www.sisajournal.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-30T05:59:09.837Z",
-      "lastSeenAt": "2026-10-30T05:59:09.837Z"
-    },
-    {
-      "title": "현대차그룹, 9조원 새만금 AI 밸리에 데이터센터부터 짓는다… 2030년 가동 목표 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHb2xKUl9ORmRQSjBlRkdra3JYOFFRbnhaYkJIOUhpNkxqTmNnc3o0MjRzeTRYR1QtZzJTUm1acU0yNnM4aEZOdzIwZFFFbUtZejNKaEVLRDh2c2JpS2ktNVRUX3dKbVZMdWZiUzE0SHkwRGM4dFI2dHY4TlhWRUnSAZMBQVVfeXFMTk9wdXpVdi1GQzF1WUxwRzZnbDExNzY2R2hlOERuU3M4ZFFrTWotMDZ1ZmJLek1rOFVQZi1MNVFLSlh3dWNhajA3ckpaODYxY3dzY01DdzlyanpaU29FVnhpSjlLTGpWblItR1cyU3BDNHkybDJYcEtqN2tyTjBQelpveGw1dENsS2lMYnV1QTBEcF9V?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 02:38:00 GMT",
-      "summary": "현대차그룹, 9조원 새만금 AI 밸리에 데이터센터부터 짓는다… 2030년 가동 목표 &nbsp;&nbsp; Chosunbiz",
-      "outlet": "Chosunbiz",
-      "outletUrl": "https://biz.chosun.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 15,
-      "firstSeenAt": "2026-10-31T05:55:21.679Z",
-      "lastSeenAt": "2026-10-31T10:19:27.588Z"
     }
   ]
 }

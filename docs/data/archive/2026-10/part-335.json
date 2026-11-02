@@ -1,7 +1,123 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T12:16:34.842Z",
+  "updatedAt": "2026-11-02T18:50:26.182Z",
   "articles": [
+    {
+      "title": "Security updates - Broadcom Community",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUjAxXzRnUWpsMmE5bUZ5T1I2RkoxTlAzTVhreUNIOThETEtOM1ljWGJSYWd2Y2M1dlZMcEJJNloxM0h0WTVMMU14VUxCRUdqejV5bWVSLXRxU2hmZVF2bEZDR24yWEVxMExIRWJ1UkVwSGlEU3BaVk1CdVJ1M2ItdGd2ODlvRVY5Qll3WDBMV2NGUndhd2JZZTZfYUF1aHlvQ3BlNXBxdkU1cEo1YUZuS2F5ZE1zZndEODJ2UTd2ZFhUUUQtYi1V?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 12:33:08 GMT",
+      "summary": "Security updates &nbsp;&nbsp; Broadcom Community",
+      "outlet": "Broadcom Community",
+      "outletUrl": "https://community.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-06T17:25:04.264Z",
+      "lastSeenAt": "2026-10-09T02:04:00.554Z"
+    },
+    {
+      "title": "[테크-톡] AI 팩토리, 성능 경쟁에서 ROI 경쟁으로…엔비디아가 제시한 투자경제성 - 테크데일리",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnRkZCc1JuamxobW1BaW13OTdZaXU1MEw5TGZodExKa2JYVkFVYzNSUk1QUzl3Wk1ITlQtY2xFckd6MnJMYl9DVHU2TTNxaHdQTmM2UlM0OGQtQzB2ZlprNVU0TXhXclc5M2Z0bFJ30gFyQVVfeXFMUDZvOFBIN052Z3ZTdWhkOWR5REtWeGl3dF93UmwxRkY0aGhfOXA4dXF1d2gzdmlMWkRWQlVUVkg4M1VYRHVtQjhmcHk0NlhzXzhiUFl4aGpKSUlnQ3F5MjZGTmlyQ0ZLZ3ptaGVRdW9GeGxn?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 12:32:47 GMT",
+      "summary": "[테크-톡] AI 팩토리, 성능 경쟁에서 ROI 경쟁으로…엔비디아가 제시한 투자경제성 &nbsp;&nbsp; 테크데일리",
+      "outlet": "테크데일리",
+      "outletUrl": "https://www.techdaily.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-06T17:25:04.264Z",
+      "lastSeenAt": "2026-10-07T01:28:36.011Z"
+    },
+    {
+      "title": "Cowbell Adds AI Agent to Assess Risk to Cyberinsurance Portfolio - Security Boulevard",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVktnQk5OeXpZM2NwdlVKblNQbDFfbWZNa0ltLXpyLU5GQ2JGSEJxNkdteVF0TF9yQXpabDdNaW5tc3o2cGk1dnlpSVhqeUo2bnZGVkZfVWh2V1htODhNME4xRlAwZ1lqLXZIUmg1c1BRcUpEU3FDQ0lXbUZyTktVWE5RLUZqZmhWelJSQ0dLbHVJaUpNdm5NWVotaWtUT3dCcG5fLUp3?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 12:32:23 GMT",
+      "summary": "Cowbell Adds AI Agent to Assess Risk to Cyberinsurance Portfolio &nbsp;&nbsp; Security Boulevard",
+      "outlet": "Security Boulevard",
+      "outletUrl": "https://securityboulevard.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-06T17:25:04.264Z",
+      "lastSeenAt": "2026-10-07T11:00:30.069Z"
+    },
+    {
+      "title": "Constellation Energy Stock Jumps on 20-Year Power Deal With Google - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjZucElQdnVCaVRrbDFKSDFZZVBWMXlZZGFCa3BTX1VMNkhiRW90OW5Wd1VtR1pCNXVUM3MyRTBrXzZjTlFDcDFLWVJwb3pyYXo2a1FMN1B6emF4UndDd0gwWGJQQno1cGo0aDhnWVRzSzVOWUZ2Y3hsWmZMbXZOZTIxTlBaaHQ3WVYwSlloQWh0eDVRT0dORndzSWJFNXBsNjdKSGVIOWFsMkJqc3ZjYWIxamp2WTlPLUE?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 12:32:05 GMT",
+      "summary": "Constellation Energy Stock Jumps on 20-Year Power Deal With Google &nbsp;&nbsp; Investopedia",
+      "outlet": "Investopedia",
+      "outletUrl": "https://www.investopedia.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-10-06T17:25:04.264Z",
+      "lastSeenAt": "2026-10-07T06:09:20.068Z"
+    },
+    {
+      "title": "ASUS advances practical enterprise AI adoption - TahawulTech.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXM0LWxtc1RoY2tLNTBkbHk4MnE0MEZqc1VzeXFNVnM5cGZtc0dYTWxtMERuU1YtQ0dVZEFpZEp2d3d2YnRyWldzWmhIbVRiNXNjUFVZdWV5VENhY1FISTNRX2pQQVhTUGN2WU56SnU5d01WdVBOMFVPZjlmeS1rLUxlS3BLaHJXSkxqbg?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 12:31:21 GMT",
+      "summary": "ASUS advances practical enterprise AI adoption &nbsp;&nbsp; TahawulTech.com",
+      "outlet": "TahawulTech.com",
+      "outletUrl": "https://www.tahawultech.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global",
+        "ai-market-business"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-06T17:25:04.264Z",
+      "lastSeenAt": "2026-10-07T06:09:20.068Z"
+    },
     {
       "title": "Jensen Huang's son-in-law Nico Caprez runs Nvidia's push to finance the neoclouds - Dealroom",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDFUcGJmNVZ3UDJwU1RHTkpGa2htMjk1czJzNjNPeEdURFhuQWFQdzd1eGo2R2NQSG5XZzdDLUQ3a19Lc3kzVWF4bnUySVFha1lCQUtVVTcxTmttLWhXWWhoS2ZIMmtXa1ZyOWN1bVlTbXRlcWkwUTVEcW9CZkZKNUUzTUFvQzdISW1tMXpVUFNvS2JWbGtzU0lIVlNRWTI3UXVlbDNETC1oTG54RTlaaC00ekp4Zw?oc=5",
@@ -2161,119 +2277,6 @@
       ],
       "issueCategory": "AI인프라",
       "score": 19,
-      "firstSeenAt": "2026-10-06T17:25:04.264Z",
-      "lastSeenAt": "2026-10-09T09:37:24.909Z"
-    },
-    {
-      "title": "AI Agent Testing Is Becoming A Major Bottleneck, Says Box CEO Aaron Levie, Calling Enterprise Deployment - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2c5ZWF0Wl9CWWVDV3RsN0ducm9vQ0Y0TlNreUIzMzVtZUxnc2FPS2ZMWnZyLVlyYk5JWTJwb0NJdjJ3YjNOWjVaWEJxanp0dWpXaUtjLXpmc01UTlJzbVZkdUtWZV9NNlh1NDkybUdSeU5XLVp5V3ZRN3pnVUlFaDJMeXFmR1FKT0tkYV9tVlc3ajl0bmYtdUpwY2Z3SjNBblY3ZUxEMUJYN1g3dG8zMzF1dC0?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 11:05:58 GMT",
-      "summary": "AI Agent Testing Is Becoming A Major Bottleneck, Says Box CEO Aaron Levie, Calling Enterprise Deployment &nbsp;&nbsp; Benzinga",
-      "outlet": "Benzinga",
-      "outletUrl": "https://www.benzinga.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트",
-        "실증·조달"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 19,
-      "firstSeenAt": "2026-10-06T17:25:04.264Z",
-      "lastSeenAt": "2026-10-07T06:09:20.068Z"
-    },
-    {
-      "title": "Nvidia Stock Gets Jaw-Dropping Price Target Hike on Booming AI D - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONlk3M2RBY19DOXg4NUN2YVkxR0ZPaXZQX0lQWThxVnJjT2Fma3NvR2FfRUR4ZDVRQVpyNktsME9MVXAwUk94WlhMZDZJbFo2cDJmU2NJMkk2ODBib3NjS0x3MGhFLTRXaEdXRk9PYWVJN0w1MW54NkhTM3cxeVRtZ011UkxLcnVLUW5jZmFfQWNXRERtNUhEYXJlODN1WTVQaTJwbkh2YUhMUW8?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 11:03:45 GMT",
-      "summary": "Nvidia Stock Gets Jaw-Dropping Price Target Hike on Booming AI D &nbsp;&nbsp; GuruFocus",
-      "outlet": "GuruFocus",
-      "outletUrl": "https://www.gurufocus.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-06T11:12:33.144Z",
-      "lastSeenAt": "2026-10-06T11:12:33.144Z"
-    },
-    {
-      "title": "호텔 카지노 검증 보너스 대기 상태와 진행 상태 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1VpYWZxbmZuZ0dIa3RPLW54WFRnR2pkaVRRd3p5TWdIZWFvRG5CcXNYR0xUSHZQUU1BM1pKeFRRRUtlckpFVW5oSHlSdkMtY19xN0JudXU2LXJlR0VpcHNITS1XZWZDWGhHUjVBMHFsSmJnczZ3Ull3YUxNdG1mOVZ6MDRpeVRkQ3lVRW1RNEUtdw?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 11:03:27 GMT",
-      "summary": "호텔 카지노 검증 보너스 대기 상태와 진행 상태 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://www.calgaryroughnecks.com",
-      "source": "국내 가속기 운영 SW 보도",
-      "sourceIds": [
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-07T01:28:36.011Z",
-      "lastSeenAt": "2026-10-07T01:28:36.011Z"
-    },
-    {
-      "title": "Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers - Crunchbase News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWUhJUnVTYnI1aEhpSG8yNGltUVp1eFNmYnFsV3hLSTJhc2p1TzBzbl9yTXY1ZXVmNnBIQzhoRXlNbXV0d3c2X1lrR1NWQy1zbndwekYzZTNGUlNvbk15Mzl1RGNpYUJtSVE2VkhVaWFRWmN3VFVGSDl3WlRNM2NMUk9KU2NqQQ?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 11:00:47 GMT",
-      "summary": "Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers &nbsp;&nbsp; Crunchbase News",
-      "outlet": "Crunchbase News",
-      "outletUrl": "https://news.crunchbase.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-07T09:15:20.365Z",
-      "lastSeenAt": "2026-10-08T01:51:37.240Z"
-    },
-    {
-      "title": "“산단 내 NPU 30%는 국산으로” 지적에…김정관 “제가 하고싶던 말” - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PeldKVHlULW45dGIyYkt6bVFBc2hTdmowTmZ1ajIzbWY4SEZ4cVFRZlZPQkhnMjk3dmFmUWs0dUluTXVGTjN4WVREYXdFczNfSVHSAVNBVV95cUxNTm9JYjY5M1AxWWtSSnRMaTY2WlF0RFpjeDVPUDNKV3FlUngtSEY1QXNYbzdWdDFqTHh1MnNmeXlVR3hqZGpYUGdiQkxqQkdEYTJkcw?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 11:00:43 GMT",
-      "summary": "“산단 내 NPU 30%는 국산으로” 지적에…김정관 “제가 하고싶던 말” &nbsp;&nbsp; 서울경제",
-      "outlet": "서울경제",
-      "outletUrl": "https://www.sedaily.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "korea-ai-policy",
-        "government-npu-policy",
-        "npu-commercialization",
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "NPU"
-      ],
-      "issueCategory": "NPU",
-      "score": 16,
       "firstSeenAt": "2026-10-06T17:25:04.264Z",
       "lastSeenAt": "2026-10-09T09:37:24.909Z"
     }

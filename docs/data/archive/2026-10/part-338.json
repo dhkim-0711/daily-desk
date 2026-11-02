@@ -1,7 +1,127 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T12:16:34.842Z",
+  "updatedAt": "2026-11-02T18:50:26.182Z",
   "articles": [
+    {
+      "title": "쿠쿠·로봇웨어에이아이·넥스리얼, '국산 NPU 채용' 온디바이스 기기 공개 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XdjVjQ1pSYzJiWGtmTUxMMHNZZE03bDM5WUdqRk43VXpkbEYwNFF1UWFvQzZOeXdpNm43SnpySUJpUTZNaGRFRktLSnJMZFU?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 08:24:54 GMT",
+      "summary": "쿠쿠·로봇웨어에이아이·넥스리얼, '국산 NPU 채용' 온디바이스 기기 공개 &nbsp;&nbsp; v.daum.net",
+      "outlet": "v.daum.net",
+      "outletUrl": "https://v.daum.net",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "mobilint-broad",
+        "mobilint",
+        "npu-commercialization"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "NPU",
+        "온디바이스AI",
+        "K-엔비디아"
+      ],
+      "issueCategory": "NPU",
+      "score": 22,
+      "firstSeenAt": "2026-10-06T08:57:16.710Z",
+      "lastSeenAt": "2026-10-09T06:18:21.828Z"
+    },
+    {
+      "title": "AI 데이터센터 전력수요 4개월 만에 3배…김성환 \"더 정밀하게 예측\" - cpbc News",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04bzBqMVlMbUdiN3RISFZrTmgwRkZ0TVJweTk4OHB2QWpWNm1VUXE4ektSaTZXM05nNUlSVmVFNC16ZUdkeDhpYWEyUS1iU2FG?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 08:24:00 GMT",
+      "summary": "AI 데이터센터 전력수요 4개월 만에 3배…김성환 \"더 정밀하게 예측\" &nbsp;&nbsp; cpbc News",
+      "outlet": "cpbc News",
+      "outletUrl": "https://news.cpbc.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-07T01:22:11.936Z",
+      "lastSeenAt": "2026-10-07T01:28:36.011Z"
+    },
+    {
+      "title": "AMD plans to substantially increase supply in 2027, CEO says - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRHhtdDRPNjdNdHBVRXlsRmpUMUNSbUtqOG9LR3JwNVRFWnFnM1czZTZyZ1B2aEdpSlkxX2FGbGp6RHhEREcxb1E1dDFrc2VFZHY4MHV5V00zSU1Gb3lLV1plQUhzT2htWk9iT2VJcDkyVUZvTHBER20tUEUzaEszblA5RDh4SWtZbS12azh4LThpVjRLZXZBNEhuSHhQMms5b2IzSkQ0elZOOVpabHpudl9RSk1UclRqN1JHdGV1ajU5SXhiX2JZWE1ZdzFaQdIBzgFBVV95cUxQRHhtdDRPNjdNdHBVRXlsRmpUMUNSbUtqOG9LR3JwNVRFWnFnM1czZTZyZ1B2aEdpSlkxX2FGbGp6RHhEREcxb1E1dDFrc2VFZHY4MHV5V00zSU1Gb3lLV1plQUhzT2htWk9iT2VJcDkyVUZvTHBER20tUEUzaEszblA5RDh4SWtZbS12azh4LThpVjRLZXZBNEhuSHhQMms5b2IzSkQ0elZOOVpabHpudl9RSk1UclRqN1JHdGV1ajU5SXhiX2JZWE1ZdzFaQQ?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 08:24:00 GMT",
+      "summary": "AMD plans to substantially increase supply in 2027, CEO says &nbsp;&nbsp; The Economic Times",
+      "outlet": "The Economic Times",
+      "outletUrl": "https://m.economictimes.com",
+      "source": "해외 AI반도체",
+      "sourceIds": [
+        "global-ai-chip"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-06T08:57:16.710Z",
+      "lastSeenAt": "2026-10-08T06:27:57.646Z"
+    },
+    {
+      "title": "전남광주교육청·구글, AI 맞춤형 수업 확대한다 - 선데이뉴스신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQenljaV9reUtUSFFuajVELXpjeXFFVnpxaGMwamdfMU1GeWRNektFM2JPcEdGOUM5V29ITnJHV2JNaV9XbU1CdHNvcTRPRzRuV1VabTRDNGh5RUU?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 08:23:44 GMT",
+      "summary": "전남광주교육청·구글, AI 맞춤형 수업 확대한다 &nbsp;&nbsp; 선데이뉴스신문",
+      "outlet": "선데이뉴스신문",
+      "outletUrl": "http://newssunday.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-06T08:57:16.710Z",
+      "lastSeenAt": "2026-10-06T18:53:25.295Z"
+    },
+    {
+      "title": "AMD CEO Lisa Su sees 'very high' chip demand continuing for years, praises TSMC expansion - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZFgwb0tTSTQ4TEExb3NNbEx1WFV5bTROX25kV3RQaEZiY242WUxUSG91cG5CbndxM1EzZnNmamE3M2QzbjktQm9xQmFTMU9BNDJCSFl1V2ZjYm84TFdDWVBSTktCYTlrd1JDS2ZGRVh0RWNEMW9uQnVlbm84MDQyRnNwal9FeDdjcjR4MzNNUVh0NVppNHJYSXJsRnRzNkpXYzRYQTJYUXZIRmpkTHNSQTAwakI0NW10RkZ2ZjZlQ2FaQjZhcXN4eVVXcThfeHpJWDlrdnAxTVcwbHMwMWNlT1lRZw?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 08:23:27 GMT",
+      "summary": "AMD CEO Lisa Su sees 'very high' chip demand continuing for years, praises TSMC expansion &nbsp;&nbsp; TradingView",
+      "outlet": "TradingView",
+      "outletUrl": "https://www.tradingview.com",
+      "source": "해외 AI반도체",
+      "sourceIds": [
+        "global-ai-chip"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD",
+        "TSMC"
+      ],
+      "taxonomyHits": [
+        "파운드리·패키징"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-06T10:46:39.409Z",
+      "lastSeenAt": "2026-10-07T01:49:41.343Z"
+    },
     {
       "title": "Warren Buffett's Overlooked AI Race Pick - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1g1SE5Pc0lXUzMySzZfdzVEbHZhVmlFUjRaaGQ3Tmo2N3ZocGxJM3dVRmtIaXIzeV9pVVU2T0xsdzNTTVJGc1c3U0FkUUZYTlJWSW8tVUw2SXFwWVg1RTllSi1vcDZrX2hPUUV3OGxuREt3SmdnT3gzZHlxbzZxVHVhOW1zWmVwU29KeGxKWUZZcVAx?oc=5",
@@ -2156,119 +2276,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-06T08:57:16.710Z",
       "lastSeenAt": "2026-10-06T11:12:33.144Z"
-    },
-    {
-      "title": "스키선수 출신 젠슨 황 사위, 입사 2년만에 부사장…엔비디아 실세됐다 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xSk5ob2F4WkNmMzh2SVQxcFdqS0Jpb1l4N3VUcVRvR3dZenhXcFU5czV6RWd1NFY3a1VLa0ZCUmhRQjRhZEhKczlESzBiUzg?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 07:27:48 GMT",
-      "summary": "스키선수 출신 젠슨 황 사위, 입사 2년만에 부사장…엔비디아 실세됐다 &nbsp;&nbsp; v.daum.net",
-      "outlet": "v.daum.net",
-      "outletUrl": "https://v.daum.net",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-06T10:46:39.409Z",
-      "lastSeenAt": "2026-10-06T11:12:33.144Z"
-    },
-    {
-      "title": "스키선수 출신 젠슨 황 사위, 입사 2년만에 부사장…핵심측근 됐다 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91TGJqWEN6Q2hieFNiVWxKQXlJRmxyaTJubWM0UUJlTEg1X1NfVTlVZ0VBdlZWdXBweXdyZGZuTFQ2ZFBZS2ZqQ2hFNE94NFVYSEgxWmQtR3DSAV5BVV95cUxNYnBnZkdjR0lPVGVHQTVBbUtXUTBFQ21LYk44SmxwOGd0cU9VMkpPSEVwREZyRllwUEQ3LW13Zi1nZTg0blVhT0htUXJJdnBWY0t1Z3ZtbTlYcHdDeExn?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 07:25:54 GMT",
-      "summary": "스키선수 출신 젠슨 황 사위, 입사 2년만에 부사장…핵심측근 됐다 &nbsp;&nbsp; 뉴스1",
-      "outlet": "뉴스1",
-      "outletUrl": "https://www.news1.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-06T08:57:16.710Z",
-      "lastSeenAt": "2026-10-06T08:57:16.710Z"
-    },
-    {
-      "title": "헨켈, SEDEX 2026서 AI·HBM 시대 위한 첨단 패키징 소재 선보인다 - elec4.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kRmlwc2V3bWgzM3hkMUxxakRIQW9HeGVkMjl5ODd5Z3ZMQm41bThyb0xuREpfYm0xaVRBSHhsSEZob3hvWVJzV0ctU2lCYXNQRDVSMHNRbmFjSjBVRDdncUk4c19Qb0hKcjhjVjNB?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 07:25:42 GMT",
-      "summary": "헨켈, SEDEX 2026서 AI·HBM 시대 위한 첨단 패키징 소재 선보인다 &nbsp;&nbsp; elec4.co.kr",
-      "outlet": "elec4.co.kr",
-      "outletUrl": "https://elec4.co.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "파운드리·패키징"
-      ],
-      "issueCategory": "파운드리·패키징",
-      "score": 16,
-      "firstSeenAt": "2026-10-06T10:46:39.409Z",
-      "lastSeenAt": "2026-10-06T11:12:33.144Z"
-    },
-    {
-      "title": "AI Bubble Bursting? South Korea's Kospi Crashes 7% Amid AI Stocks Valuation Concerns - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWWQ2MEJYZ29Hc201NnpjU2RXa0tPRHlveTJfdER0MUUzbWlST0ZXYVZjdmVrSzFvVHQwUXNlRWtnQVZLb2hubHo0cTRxUzlpU2pNaHVyY3ctUTItOFJ2R3hqUG9VRTZOQTJsZUFrZ0NZM1g0bEctQTBtLVhfcTVCeW9DZEhqSWJtZnIzaUliTHNjX3UwYmVVUkFZVnFJcGZCbDRwMlJ3YXROcVdfVEFjVU91RTB0MWpudXRNa0FaQ09ZVXo0?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 07:24:43 GMT",
-      "summary": "AI Bubble Bursting? South Korea's Kospi Crashes 7% Amid AI Stocks Valuation Concerns &nbsp;&nbsp; Goodreturns",
-      "outlet": "Goodreturns",
-      "outletUrl": "https://www.goodreturns.in",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-06T08:57:16.710Z",
-      "lastSeenAt": "2026-10-07T09:15:20.365Z"
-    },
-    {
-      "title": "딥엑스, 두산로보틱스와 원전 제조 현장 AI 용접 솔루션 공동개발 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lRUVHUmNkLUdsVWhsUGY2dUl2MURvZFVKc3JuT1dJd3g0RzVVa0NSb0Q2aW8zOXRfZFppQkhNOTRQNEg0Q204TmNHMVBIcFU?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 07:24:09 GMT",
-      "summary": "딥엑스, 두산로보틱스와 원전 제조 현장 AI 용접 솔루션 공동개발 &nbsp;&nbsp; v.daum.net",
-      "outlet": "v.daum.net",
-      "outletUrl": "https://v.daum.net",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "deepx"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "딥엑스"
-      ],
-      "taxonomyHits": [
-        "딥엑스"
-      ],
-      "issueCategory": "NPU",
-      "score": 20,
-      "firstSeenAt": "2026-10-06T08:57:16.710Z",
-      "lastSeenAt": "2026-10-09T06:18:21.828Z"
     }
   ]
 }

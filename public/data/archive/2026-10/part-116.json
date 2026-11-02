@@ -1,7 +1,124 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T12:16:34.842Z",
+  "updatedAt": "2026-11-02T18:50:26.182Z",
   "articles": [
+    {
+      "title": "[창간 특집]미래 동해안 AI데이터센터 빼곡⋯‘年 수천억원’ 추가 세수 대변혁 - 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9neEJpLWVnWHE3S1VTbmhRamZ4YVRvN2RPay1tQ2RSamhQOTZGX1pIS0daRGFuMDJ0YzlKOTd0R3otNTlxWkxrblFaaEdjdGRpcTFOZDFoZEN0RlU?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 15:01:00 GMT",
+      "summary": "[창간 특집]미래 동해안 AI데이터센터 빼곡⋯‘年 수천억원’ 추가 세수 대변혁 &nbsp;&nbsp; 강원일보",
+      "outlet": "강원일보",
+      "outletUrl": "https://www.kwnews.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-22T22:45:34.762Z",
+      "lastSeenAt": "2026-10-25T12:32:15.609Z"
+    },
+    {
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "publishedAt": "Thu, 22 Oct 2026 15:00:02 +0000",
+      "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast [&#8230;]",
+      "outlet": "NVIDIA Blog",
+      "outletUrl": "https://blogs.nvidia.com",
+      "source": "NVIDIA 공식 기술발표",
+      "sourceIds": [
+        "nvidia-official-blog",
+        "nvidia-official-news",
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-25T12:32:15.609Z"
+    },
+    {
+      "title": "Nvidia & Microsoft unveil AI agents for Windows PCs - IT Brief Asia",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOazhQQXJuYmt2c2l5dXhaVUJPc0RkQ0VwRjNFb1lWT0VqZUJVTzVVcXhNZ21RQzVDRkF2YjZ1UjBTRElpQ3FMaXQ0WGgyMUJBMS1fTC05eHFlT0h4cHNsQTgyZ1lUclBlTHBEamsxSkJvMVZLZGV1YmpVdTUwYjZENEV3?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 15:00:00 GMT",
+      "summary": "Nvidia & Microsoft unveil AI agents for Windows PCs &nbsp;&nbsp; IT Brief Asia",
+      "outlet": "IT Brief Asia",
+      "outletUrl": "https://itbrief.asia",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 23,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-23T05:11:49.685Z"
+    },
+    {
+      "title": "SAP Q3 Cloud Revenue and Backlog Accelerate as Klein Drives AI Transformation - Cloud Wars",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVVnTVpZbHk0aGY3UXR0enRma2lndDA5VXFZRk8ybjZNU2NQSmctYTA2dTI0SmNpbWZmMmxJSlE5bWxsU1ZiVHRXUG44TVlZQXJ4MWhEV1BpODhKeXdhRnBuX0JxZ1hXRlNuaTgwdUs5Z3hKNVFVbUlMcFFPWnFuVkNlRlhYSmRyQl9iYjJoUUlaaHZpLXpsOHJzS0hmS2VhLVA5QXRCZFJ4UQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 15:00:00 GMT",
+      "summary": "SAP Q3 Cloud Revenue and Backlog Accelerate as Klein Drives AI Transformation &nbsp;&nbsp; Cloud Wars",
+      "outlet": "Cloud Wars",
+      "outletUrl": "https://cloudwars.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-22T22:45:34.762Z",
+      "lastSeenAt": "2026-10-23T05:01:32.260Z"
+    },
+    {
+      "title": "[AI시대 강원경제 대도약]투자금 91% 강원기업에…창업도시 탄탄한 밑거름 - 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tSEVOYnZwX2Mwd0oyLWx2UHlXOV9iTDFIbDN2ZldGTlk2UnB5OVJ4MnBFVERYLXV4ZUJnYUxkUUdtbUg5bmF4RGVncFhGYWpjSWluZnczMnZMRjA?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 15:00:00 GMT",
+      "summary": "[AI시대 강원경제 대도약]투자금 91% 강원기업에…창업도시 탄탄한 밑거름 &nbsp;&nbsp; 강원일보",
+      "outlet": "강원일보",
+      "outletUrl": "https://www.kwnews.co.kr",
+      "source": "지역 AI·반도체 산업금융",
+      "sourceIds": [
+        "regional-industry-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 14,
+      "firstSeenAt": "2026-10-25T01:38:19.640Z",
+      "lastSeenAt": "2026-10-25T12:32:15.609Z"
+    },
     {
       "title": "[창간특집-일상에 스며든 AI]병상부터 진료실까지⋯강원 의료현장 파고든 AI - 강원일보",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jTXJtZm5TYm1sVXJ3YmxKMHBmYzk3RUJUdFB1Vk04MzNMSDNzU09OcFRKdW1FdTV2b1ZmOTUtOGxOWXRWQ2RYcHIzVmdLTFFDUGkxYTFpUWUySWs?oc=5",
@@ -2113,121 +2230,6 @@
       "score": 15,
       "firstSeenAt": "2026-10-22T14:06:18.862Z",
       "lastSeenAt": "2026-10-25T12:32:15.609Z"
-    },
-    {
-      "title": "Gemini vs ChatGPT vs Claude API: $0.10 Cache Rate [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjB6RHdVUUgtTXlaS25WazZFODlqSmUtVFNlanIyLTM3LVlYZ2ZjaE9EMDVOcm5DZFQ2a2dxMHpTYlUyTzU1ekgtcXdWSWxLVFloazhQQ2tzZ3hhcWJydEhzamtFVENYN2tUNWZ6b3h3d2ZhblhYOVhyQVZfNFhWeTFn?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:38:57 GMT",
-      "summary": "Gemini vs ChatGPT vs Claude API: $0.10 Cache Rate [2026] &nbsp;&nbsp; https://tech-insider.org/",
-      "outlet": "https://tech-insider.org/",
-      "outletUrl": "https://tech-insider.org",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 15,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-22T17:56:53.418Z"
-    },
-    {
-      "title": "Terminal acquires Miami AI startup Stationed, plans to double team in Wynwood - Refresh Miami",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGJmRW9sWE1Edlo1WjZOVlFGM290cjRHQkZ2OTEyVDhUYkY4N2dJUGhKMjhJUDVJRmdmaW5HdDhLWmxQMVlyT3d1eTBEd09YZTlzNGM3TTVBaFpHY05aeHNmQU5tNkphR01wQnZ4Q0pETzRfMUFCTEdnaUZYaHpVRVIxYXlWN2dHb1FjN3B3TmlrckFXMENWWnZtY2pZdnB2UDF6WkRzSmlDMHc?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:38:37 GMT",
-      "summary": "Terminal acquires Miami AI startup Stationed, plans to double team in Wynwood &nbsp;&nbsp; Refresh Miami",
-      "outlet": "Refresh Miami",
-      "outletUrl": "https://refreshmiami.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-25T12:32:15.609Z"
-    },
-    {
-      "title": "IREN vs. TeraWulf: Which AI Infrastructure Stock Carries Less Risk Now? - Zacks Investment Research",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNi1fT1BqY296UC1pcENzcFZ4bjl1RU54VklMRF9weW9sOWEtWUFDSnIzUEg0NnVXbWVuTDdiVkZKU2tlTnh1YVVRaV9Md2J0ekR1NFQyR09xb3F4V3IzdlRnak5HVUlGX3NrRTIyUkpRRkprWTRNOHVFcFR3ZVFpNG42Z3dValJZU01FRmhlMmRNR01Ock9IOXBoVTRzUTJXQmdzSVpsai1PLXYxU2c?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:38:05 GMT",
-      "summary": "IREN vs. TeraWulf: Which AI Infrastructure Stock Carries Less Risk Now? &nbsp;&nbsp; Zacks Investment Research",
-      "outlet": "Zacks Investment Research",
-      "outletUrl": "https://www.zacks.com",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 17,
-      "firstSeenAt": "2026-10-24T22:44:16.207Z",
-      "lastSeenAt": "2026-10-25T06:00:10.063Z"
-    },
-    {
-      "title": "젠슨 황 \"AI 클라우드 수요 폭발적…돈 부족해 성장 못 따라간다\" - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Vb1JvMi01YWY5LTQwMnBBcFVTUmlJMWM1TEkwVHJOTlVuamdxMS14cUVIUllsS0l6cmVoRDJIZk1YZjVHOHo0cklrRXRHeTVVMnh3RU9oU2xUdlFj?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:38:00 GMT",
-      "summary": "젠슨 황 \"AI 클라우드 수요 폭발적…돈 부족해 성장 못 따라간다\" &nbsp;&nbsp; 뉴스핌",
-      "outlet": "뉴스핌",
-      "outletUrl": "https://www.newspim.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T17:56:53.418Z",
-      "lastSeenAt": "2026-10-25T06:00:10.063Z"
-    },
-    {
-      "title": "Volkswagen builds AI data flywheel with Nvidia and Voxel51 - Automotive World",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU1BDUGhWdjdEWHhwSk5xVWRHRkwtU291S3V0V0hoS2VEMjgtZ0NKOXBnN1JEc0JpSjkwdF9tb2ZxblZwTXZsb0tEclNLQTJHS19tN1FtNFliTjNRb1NtVi03dGtrcmtUNDZUMFVJam1haEhaMWJNaURyTjZ1Q2tPaXNSRVFUMW5Zb0d6WEZta3MzTVR6LUtfVmJOUUs?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:36:40 GMT",
-      "summary": "Volkswagen builds AI data flywheel with Nvidia and Voxel51 &nbsp;&nbsp; Automotive World",
-      "outlet": "Automotive World",
-      "outletUrl": "https://www.automotiveworld.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-23T05:59:20.208Z"
     }
   ]
 }
