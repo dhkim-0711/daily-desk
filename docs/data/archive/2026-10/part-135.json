@@ -1,7 +1,103 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "AI Agent Access Controls - Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NXzZ5UWRoZjBFejdpWTBrMElRdzBGMGdERXRVc2J2eXRCT2RhaVJDV0s3ME01Z1k0dEducXB1SWRrQlhuc0IxQU10cWlNWXV3b2lHT256aTlDU3VXT3QwdFA0ZjZCaFVJSmhv?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 13:10:03 GMT",
+      "summary": "AI Agent Access Controls &nbsp;&nbsp; Trend Hunter",
+      "outlet": "Trend Hunter",
+      "outletUrl": "https://www.trendhunter.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-21T15:36:47.115Z",
+      "lastSeenAt": "2026-10-21T17:59:30.941Z"
+    },
+    {
+      "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDBETHJXTWl6b3BJZ0lhT0w5VUVVVElKLUxDUnlyaGxfdEt5S01iZ1RrcDJTcWdXX1N4elJ5Z3J2emtFVDR5MVJ3V0VlNWcxbC1VM2RMdmtGWW8teUIweFowazd3ZllkVEU1aVFuN01wNXJfNDR1eHZCZW5BbUUyX3VPZU1veVZaaVJabE1ELUxDMF8tRVp5OGV3?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 13:09:26 GMT",
+      "summary": "Nvidia’s latest GPU driver brings a new way to speed up PC games &nbsp;&nbsp; The Verge",
+      "outlet": "The Verge",
+      "outletUrl": "https://www.theverge.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-21T15:36:47.115Z",
+      "lastSeenAt": "2026-10-22T07:57:53.219Z"
+    },
+    {
+      "title": "삼성전기, 엔비디아 핵심 공급사…“AI 기판 장기 공급” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hM0pUbm16cGxtRzNtMEFYZks5d1dBc0s2TF9fTG5Yb1Zrc01JMXhjY2JFVUZKaEVpdEszeGJhMVU5bkkwOFBFZnpiejhWN3ZGV0UxYjVPTU1EUdIBX0FVX3lxTE15ZUZIcjkwaVNZdjcycjJ0blZ0RVlfdi1MMjhMQW1nbFh2Vmk0SzZXR0RrbU0zM25nMnJDZ0x4NWNjVURQX2FSYUVqdVkzdm1vWkhIN1BFVFhFQXhuYm1R?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 13:08:00 GMT",
+      "summary": "삼성전기, 엔비디아 핵심 공급사…“AI 기판 장기 공급” &nbsp;&nbsp; 경향신문",
+      "outlet": "경향신문",
+      "outletUrl": "https://www.khan.co.kr",
+      "source": "글로벌 기업·한국 반도체 협력",
+      "sourceIds": [
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 18,
+      "firstSeenAt": "2026-10-24T09:47:37.554Z",
+      "lastSeenAt": "2026-10-24T11:58:11.660Z"
+    },
+    {
+      "title": "딥엑스, 교통 CCTV에 초저전력 NPU 탑재…글로벌 ITS 시장 공략 - 헤럴드경제 미주판",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9maERSTWEtREZKd05yWlVDOVBEaXFGTWZaN2x4WVZ2MHBQQlA4cnBSQTJ5NWZvVncxa3gxa3I0OTFBNmkwcVMweVdxaFFVUEl3eV9Jc0dxX2pUM3lBQnIyRg?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 13:07:00 GMT",
+      "summary": "딥엑스, 교통 CCTV에 초저전력 NPU 탑재…글로벌 ITS 시장 공략 &nbsp;&nbsp; 헤럴드경제 미주판",
+      "outlet": "헤럴드경제 미주판",
+      "outletUrl": "https://www.heraldk.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "deepx"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 23,
+      "firstSeenAt": "2026-10-22T05:11:37.149Z",
+      "lastSeenAt": "2026-10-25T05:05:29.391Z"
+    },
     {
       "title": "Nokia and Nvidia keep AI-RAN momentum going as they edge closer to commercial reality - Fierce Network",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUZHMDhFLWNsU1RkUzV1SHFQc2tRWDJXdmVhaFA3Xzh2UENwUUJOTXlScHJDbFBPa2pCb2NtVlZLTEZyRlNZekZGNGYxeVNDNjA2UXhOXy1TZk9IWXQ3NFdxcUt0WjVGOVRrRlkwTWZWeUN1dS1NV0x0M1lFdFhuOWd2YUpMS0lhdkIyVEcxYng1aDhYUVVnaGZPaWJVdHhJLXl1TXllVTZHUQ?oc=5",
@@ -2271,95 +2367,6 @@
       "score": 25,
       "firstSeenAt": "2026-10-21T12:53:16.803Z",
       "lastSeenAt": "2026-10-21T17:59:30.941Z"
-    },
-    {
-      "title": "지방공항 5대 관광권 시동…무안공항 경쟁력 뒤처지나? - 남도일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yei1QVGlzZXB5MDFXdzgwZkNqd3NkNEdWLW9Ocm44OXRPQ0U3QUtJeVJpcmVhdjFpNXVBYVl4LW4xcDhOajJ0Rmozb2E3NGNXckdxWFM5TEhWb1U4OHQ4Y0xNSEhCWGttUGdOT9IBcEFVX3lxTE1UNTJ6UVNzWlh4YXl0ZGt2LTEwY2FSV01lcXRPd3BZaXhHNXlmQ3h0SGRfdVlDdjh4ODlXYlZaQ3QzS3hjZE9Ya05rSjFSTEhDNHhKa1ktRWx0Rl9TVU4zVkgzbzd1QkR5OC1NUGUzbmg?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 12:16:00 GMT",
-      "summary": "지방공항 5대 관광권 시동…무안공항 경쟁력 뒤처지나? &nbsp;&nbsp; 남도일보",
-      "outlet": "남도일보",
-      "outletUrl": "https://www.namdonews.com",
-      "source": "정부 NPU 정책·예산",
-      "sourceIds": [
-        "government-npu-policy",
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-21T12:53:16.803Z",
-      "lastSeenAt": "2026-10-22T07:57:53.219Z"
-    },
-    {
-      "title": "반도체·군공항·여수박람회…통합특별시 첫 국감 3대 뇌관 - 남도일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tRkFJQXZRNWlSSjBjNzVrQkduZHM3SVRIMFVLdkx6WTJBUmFzdnMxTHBCMGNpZGwwdGxjUzBBNi00RElpU2dHRG9KR1dQaENmVGQ0WndRa2RnUFktaGNEMXc0a3ZZc3VMMS1CMtIBcEFVX3lxTE1rSUl4WnQ2VmFxWlBvWmRlM1RtRmRDWnc2bVljY0l6WlA2amZtbndFNkxJNmVrWENGTUkwamtObDR1NFAtdGdXOHg5Zy1CNUFubHZDakJlU1phUHJfd3pUanBmUkE4bVpQcFVyZFkyeXU?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 12:16:00 GMT",
-      "summary": "반도체·군공항·여수박람회…통합특별시 첫 국감 3대 뇌관 &nbsp;&nbsp; 남도일보",
-      "outlet": "남도일보",
-      "outletUrl": "https://www.namdonews.com",
-      "source": "지자체 NPU 정책·사업",
-      "sourceIds": [
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-21T12:53:16.803Z",
-      "lastSeenAt": "2026-10-22T07:57:53.219Z"
-    },
-    {
-      "title": "Jamie Dimon on the Economy, ‘Sticky’ Inflation and AI Spending - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQlhBX291ZU1BX293ZlhKc0hnZXFUSzQ2bEFNUWZlbzBPSW9VV1VjMVRUdjU4bl8tTDA1c0hnZ1VmdExfQ2ZSUHB6N2ZNSFI5WTROdDJJMTZaaDdWSlhHMmZDaHBpVU5BOWg0dkVJQ1puZ1QycWs0MUxzN1dzdjlZZmpxSnAxbEJUWVhTQU1IYXRWNHhkR1dtUWVFbzl4ZVBVUWROc2RQTEhGZWxRTkxrTGVRUjR5VTlicHdsZkFITGlZcDE3SzJORjZtbElXVzY5eEZZTlBDUUZDSE00LWlzb1NldDBSLXl2cnRfSnNnNnY3YXRv?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 12:15:23 GMT",
-      "summary": "Jamie Dimon on the Economy, ‘Sticky’ Inflation and AI Spending &nbsp;&nbsp; WSJ",
-      "outlet": "WSJ",
-      "outletUrl": "https://www.wsj.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-21T15:36:47.115Z",
-      "lastSeenAt": "2026-10-22T14:06:18.862Z"
-    },
-    {
-      "title": "Cassava Artificial Intelligence (AI) deploys NVIDIA Nemotron to accelerate agentic AI adoption across its markets - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQjZxMzJIeVBrbVgyZzhWemI3dlM5SDFtclJIMjdqQ0FXZW8zeHp4Y2NPaDZnTlhxRzhJR2FuRkRUSEpGZGdWemxlWEJGX3k2WFlvUTZ0UXRkbWJHSHFHLVAxOTJhR1hjQlhCTXJsRHZGUU8tMkstbWgtQmJZV3NIRHhJaW5RMHRqS09ZblBjb2doTFptOW1Jd2FqdlRXUXRUWl9nNDgwU3JkX1VZSXgtd1NDUE5QNU5LbWd4X3ozR0FoTmFjMm5JS21CLVQ2aXNybm5way10ZVEyTW96djJYblVYZUZzak1RczQ2QWpmUlI3VkF5YWZXWg?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 12:15:03 GMT",
-      "summary": "Cassava Artificial Intelligence (AI) deploys NVIDIA Nemotron to accelerate agentic AI adoption across its markets &nbsp;&nbsp; TradingView",
-      "outlet": "TradingView",
-      "outletUrl": "https://www.tradingview.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI시장",
-        "AI에이전트",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 26,
-      "firstSeenAt": "2026-10-21T17:59:30.941Z",
-      "lastSeenAt": "2026-10-26T14:10:00.606Z"
     }
   ]
 }

@@ -1,7 +1,106 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "Small Business AI Workspaces: Google Gives Gemini a Business Landing Page for Branding… - Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CaVFKR1lEc0VNRXVhdmNLTnVlSVlXcDgwUnItaGtrdmt5dXJQR3dNcHBibFd4REQ3eGl6cXp3TjZWS1ZYQ21WMThsTlhYT3ZoS1NjZkFidFhXZTVlXzVFdXg0X2pNVDVjakVsZFRtdzc?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 09:49:52 GMT",
+      "summary": "Small Business AI Workspaces: Google Gives Gemini a Business Landing Page for Branding… &nbsp;&nbsp; Trend Hunter",
+      "outlet": "Trend Hunter",
+      "outletUrl": "https://www.trendhunter.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-21T10:35:21.894Z",
+      "lastSeenAt": "2026-10-21T10:35:21.894Z"
+    },
+    {
+      "title": "동남아 디지털 경제, 올해 487조원 돌파…AI 이용자 2억4300만명 - 인공지능신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Xak1zQ3RhY0l4YkZlVXc3TXljREF0V2dwQ0kxXzNndmZ6MXBzU1M0UE1iU3luejFhMnpaMERtbkZkOUdXNGozaHd0NFNsUlFjZEtXSy1Kb25UMVNwa1d6dHZOaXc4WUk?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 09:49:48 GMT",
+      "summary": "동남아 디지털 경제, 올해 487조원 돌파…AI 이용자 2억4300만명 &nbsp;&nbsp; 인공지능신문",
+      "outlet": "인공지능신문",
+      "outletUrl": "https://www.aitimes.kr",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-21T12:53:16.803Z",
+      "lastSeenAt": "2026-10-24T09:47:37.554Z"
+    },
+    {
+      "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
+      "link": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
+      "publishedAt": "Wed, 21 Oct 2026 09:48:00 GMT",
+      "summary": "NVIDIA today announced the NVIDIA OpenShell Reference Architecture, which enables building, containing, observing and enforcing safe agents on enterprise infrastructure and edge systems.",
+      "outlet": "NVIDIA Newsroom",
+      "outletUrl": "https://nvidianews.nvidia.com",
+      "source": "NVIDIA 공식 보도자료",
+      "sourceIds": [
+        "nvidia-official-news",
+        "nvidia-ai",
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "추론",
+        "NVIDIA"
+      ],
+      "issueCategory": "추론",
+      "score": 26,
+      "fullSummary": "News Summary: The NVIDIA OpenShell Reference Architecture delivers enterprise governance, isolation and security for building, containing, observing and enforcing safe agents across enterprise infrastructure and edge systems. Built on the foundation of NVIDIA OpenShell secure runtime software, the architecture brings together NVIDIA Vera Rubin infrastructure for model inference, NVIDIA Vera CPUs for agent harnesses and tool use, and NVIDIA BlueField-4 DPUs running NVIDIA Sentry for in-silicon enforcement. The OpenShell Reference Architecture extends to the edge with NVIDIA RTX Spark, NVIDIA DGX Spark and NVIDIA DGX Station systems. The OpenShell Reference Architecture runs on leading enterpr...",
+      "summarySource": "article",
+      "firstSeenAt": "2026-10-21T10:35:21.894Z",
+      "lastSeenAt": "2026-10-25T12:32:15.609Z"
+    },
+    {
+      "title": "NVIDIA says Vera Rubin systems handle 30 times more AI work per unit of power. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZDhCUXBVRnVIUXF6YllZSU5EcVJjUjJ2dkl1VGlySVU5RE43d2xaeGxxeTZ0S1JBanFlREFXNTNYUXcwRjhhQ2FLQ3pWbjRCR0NHT0wzS3U5bkhRamdqSFlpczJpdjNEaEl4M3hqSlgyVXBQT3lnbFdlZ0hHVXFFclcyX3VxWWtzNGRnd3BDZFdrYllJRF9iTjByY09CR0dMM3B0bXJXMElVbXUyel9pbXVxSG12VHM?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 09:48:00 GMT",
+      "summary": "NVIDIA says Vera Rubin systems handle 30 times more AI work per unit of power. &nbsp;&nbsp; Stock Titan",
+      "outlet": "Stock Titan",
+      "outletUrl": "https://www.stocktitan.net",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai",
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-21T10:35:21.894Z",
+      "lastSeenAt": "2026-10-24T09:47:37.554Z"
+    },
     {
       "title": "Nvidia launches DSX POD, claims the Vera-Rubin reference architecture will make AI data centers more water and energy efficient - Data Center Dynamics",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOXzdEQjg3MDRGc053TUxheklHb1JQTzloUGNiOGdKb0dVZVk4cVdZZXY3V05HNFdOTmlCaF96cTRyTnBJSGhsQmFfcUxkaFBiVnJ5QzBmODJndXFPcFVlaWNsYWJUSGZsenZ1VkpQOEVMZzRiamNPd2NKVm5hM0ZicUxfb0hON0h2RU51Y1Q2ajFIblNTa3dOOFJzUDNiWk5tbmJmWG5CX3NiM1NpQWNxOE5HUkJiVDlncFNFbzY5WVpnN2hmSkZBVDlmZFdGQ2kwanpPNjl6UVFDX2lOVlViWDRtMXhBNkE3aTRQT0RybXNVenowVEgyRkJrT3ZSNDA?oc=5",
@@ -2185,105 +2284,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-21T10:35:21.894Z",
       "lastSeenAt": "2026-10-21T12:53:16.803Z"
-    },
-    {
-      "title": "HyperAccel CEO Kim Joo-young Named One of 30 Leaders Shaping Korea’s AI Future; Funding Tops ₩210 Billion - 코리아스타트업포스트",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uc3NFaG5PdEpBR0M0ODNJU3BzSlplSlVZTl82bWIxNXZBbDk4NlczdlZQXzE0VEtqU2ZZVWVfcW12dzRiRVlqRzhfMkFNeWxNUVRXQQ?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 08:36:20 GMT",
-      "summary": "HyperAccel CEO Kim Joo-young Named One of 30 Leaders Shaping Korea’s AI Future; Funding Tops ₩210 Billion &nbsp;&nbsp; 코리아스타트업포스트",
-      "outlet": "코리아스타트업포스트",
-      "outletUrl": "https://www.kspost.biz",
-      "source": "HyperAccel global",
-      "sourceIds": [
-        "hyperaccel-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "하이퍼엑셀"
-      ],
-      "taxonomyHits": [
-        "하이퍼엑셀",
-        "투자·M&A"
-      ],
-      "issueCategory": "NPU",
-      "score": 23,
-      "firstSeenAt": "2026-10-21T10:35:21.894Z",
-      "lastSeenAt": "2026-10-24T05:44:13.773Z"
-    },
-    {
-      "title": "하이퍼엑셀 김주영 대표, '한국 AI 이끌 30인' 선정… 누적 투자 2,100억 - 코리아스타트업포스트",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lU245YkVRbmZXSlBYS2xfSlRELXZsSmpURDY0OWVDYmZNRVN2T2pUV0ZldldPX1RQQjUwRk5LNWh0dUJOS1VkYm0xdkRHbkMwZ0tDMg?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 08:36:20 GMT",
-      "summary": "하이퍼엑셀 김주영 대표, '한국 AI 이끌 30인' 선정… 누적 투자 2,100억 &nbsp;&nbsp; 코리아스타트업포스트",
-      "outlet": "코리아스타트업포스트",
-      "outletUrl": "https://www.kspost.biz",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "hyperaccel",
-        "hyperaccel-broad"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "하이퍼엑셀"
-      ],
-      "taxonomyHits": [
-        "하이퍼엑셀",
-        "투자·M&A"
-      ],
-      "issueCategory": "NPU",
-      "score": 23,
-      "firstSeenAt": "2026-10-21T12:53:16.803Z",
-      "lastSeenAt": "2026-10-24T00:03:33.173Z"
-    },
-    {
-      "title": "시냅틱스, 구글 '코랄' 기반 엣지 AI 칩 공개...웨어러블·산업용 기기 겨냥 - AI타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JR1ZzeWJmYlVhM09WMGpvRF9jV3JBeHVZVG40djJ2d215aDExdTNudlFwcHBnalo5Ym5MVGQ0NVZxR0txT0xscDl6YXB4WF8tM05hSXpQSlpjUXc0b0x5S3FZa2RZd3VVTmc?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 08:36:00 GMT",
-      "summary": "시냅틱스, 구글 '코랄' 기반 엣지 AI 칩 공개...웨어러블·산업용 기기 겨냥 &nbsp;&nbsp; AI타임스",
-      "outlet": "AI타임스",
-      "outletUrl": "https://www.aitimes.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "온디바이스AI",
-        "Google"
-      ],
-      "issueCategory": "온디바이스AI",
-      "score": 23,
-      "firstSeenAt": "2026-10-21T10:35:21.894Z",
-      "lastSeenAt": "2026-10-21T22:44:58.342Z"
-    },
-    {
-      "title": "로봇·데이터센터·우주 '올인원' … 머스크 'AI제국' 승부수 던졌다 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1LdzZwdXpSS1BJT1paQzhOVlRqWkwwOEc0NngzcXBULXN4ZjJKU09yeFJseFhpRHFLLU5jQ1phdjNHSDI5NkE?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 08:33:43 GMT",
-      "summary": "로봇·데이터센터·우주 '올인원' … 머스크 'AI제국' 승부수 던졌다 &nbsp;&nbsp; 매일경제",
-      "outlet": "매일경제",
-      "outletUrl": "https://m.mk.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-21T10:35:21.894Z",
-      "lastSeenAt": "2026-10-22T00:38:42.431Z"
     }
   ]
 }

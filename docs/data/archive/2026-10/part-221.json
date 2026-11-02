@@ -1,7 +1,101 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+      "link": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+      "publishedAt": "Thu, 15 Oct 2026 05:00:12 +0000",
+      "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many computing advancements already underway [&#8230;]",
+      "outlet": "NVIDIA Blog",
+      "outletUrl": "https://blogs.nvidia.com",
+      "source": "NVIDIA 공식 기술발표",
+      "sourceIds": [
+        "nvidia-ai",
+        "nvidia-official-blog",
+        "nvidia-official-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 14,
+      "firstSeenAt": "2026-10-15T05:51:00.880Z",
+      "lastSeenAt": "2026-10-18T04:56:00.878Z",
+      "fullSummary": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing From building sovereign infrastructure and autonomous trucks to quantum-GPU supercomputing, Nordic countries are embracing and accelerating technological development. October 14, 2026 by Linda Malm 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems.",
+      "summarySource": "article"
+    },
+    {
+      "title": "[심층분석] 대한전선, 미국 초고압 전력망 턴키 수주 확대…AI 데이터센터가 바꾸는 전력 인프라 시장 - 뉴스밸류",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pVkl1bE1OVC1lNmlvbnJUYlJDcGFncjMtU2NFcWdtSGNwUTdiQTh3UGswRDN1YmpEZFRmLXNMX1VoT0g4R3YyQUQzNm5SN1lpTUFQbG9PZ0kwdHM4cHg0X29hanItYVdhZ2c?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 05:00:00 GMT",
+      "summary": "[심층분석] 대한전선, 미국 초고압 전력망 턴키 수주 확대…AI 데이터센터가 바꾸는 전력 인프라 시장 &nbsp;&nbsp; 뉴스밸류",
+      "outlet": "뉴스밸류",
+      "outletUrl": "https://www.newsvalue.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-15T12:07:07.357Z",
+      "lastSeenAt": "2026-10-16T00:19:39.597Z"
+    },
+    {
+      "title": "안성시, ‘SEDEX 2026’ 참가…반도체 기업 유치·기술협력 확대 - Queen 이코노미퀸",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yYS1teXM5ZkZOYVRwQnpCMER4WHVHM085OEU4cUlmTDdEZ3YxRFpLNWtzMzM2ZlJvRWEzR09HYnQ2cnNaZVVPU0pzbkFGSUs1RXIwM0p1NlRVVUU5Z0FHbUswV1VrbTBhaWc?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 05:00:00 GMT",
+      "summary": "안성시, ‘SEDEX 2026’ 참가…반도체 기업 유치·기술협력 확대 &nbsp;&nbsp; Queen 이코노미퀸",
+      "outlet": "Queen 이코노미퀸",
+      "outletUrl": "https://www.queen.co.kr",
+      "source": "글로벌 기업·한국 반도체 협력",
+      "sourceIds": [
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 6,
+      "firstSeenAt": "2026-10-17T11:10:24.420Z",
+      "lastSeenAt": "2026-10-18T04:56:00.878Z"
+    },
+    {
+      "title": "Google is now emailing Gemini subscribers about a change that will cost them 4x more - Android Authority",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOTljSXZiX2lqSkhiVldYMURMSTBZNzF6dzRzaDZRdDg1YnQwWkw5LVdFR0RnZmlVakc5WENCSGhkNDVKTGVIZlplMWhlT2ZrWkhxSTFnYXJiMWhERjVFRVNSSUNJNEJpY2lqY2FQS1lUakdYcUZBTnh5dEw3bzA3S0tGR2RBNHRnSVBybThUNA?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 04:59:00 GMT",
+      "summary": "Google is now emailing Gemini subscribers about a change that will cost them 4x more &nbsp;&nbsp; Android Authority",
+      "outlet": "Android Authority",
+      "outletUrl": "https://www.androidauthority.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 15,
+      "firstSeenAt": "2026-10-15T05:51:00.880Z",
+      "lastSeenAt": "2026-10-16T01:39:04.387Z"
+    },
     {
       "title": "세종사이버대 AI응용소프트웨어공학과, 우즈베키스탄 재학생의 '새로운 도전' - 잡포스트",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51RWlucVFieXRJUzdaVGtmSVlmRWRyR2FNSkZuUnh1YXlZN2tyZHZkZGdIR1FFTE5veC0tUXR5VVlaOEZaMTdTR0RCNUFWU0xMR0tzZVVDa1lUWmRLd2RIT3FKdkU4MGdfYjJSUGdzQnJ6QdIBckFVX3lxTE51RWlucVFieXRJUzdaVGtmSVlmRWRyR2FNSkZuUnh1YXlZN2tyZHZkZGdIR1FFTE5veC0tUXR5VVlaOEZaMTdTR0RCNUFWU0xMR0tzZVVDa1lUWmRLd2RIT3FKdkU4MGdfYjJSUGdzQnJ6QQ?oc=5",
@@ -2127,90 +2221,6 @@
       "score": 11,
       "firstSeenAt": "2026-10-15T04:59:50.156Z",
       "lastSeenAt": "2026-10-16T00:19:39.597Z"
-    },
-    {
-      "title": "팀스파르타, AI 역량 진단 ‘AXPI’ 확대…기업 AX 지원 강화 - 테크월드",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2X0REN0RmcndUbWVoejBobTRhVTJuYmNzNWZiWm5oVHBlYTc1ZnJkYUU5bTJfWHZYM0E4RE5kVGZ1VV9HZHRfZ3BRd3pncHl5a2NyMlRJWEdkRGdiaC1FV2h5Y2JEVnRu?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 03:15:49 GMT",
-      "summary": "팀스파르타, AI 역량 진단 ‘AXPI’ 확대…기업 AX 지원 강화 &nbsp;&nbsp; 테크월드",
-      "outlet": "테크월드",
-      "outletUrl": "https://www.epnc.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-15T05:51:00.880Z",
-      "lastSeenAt": "2026-10-16T00:19:39.597Z"
-    },
-    {
-      "title": "AI chip stocks in South Korea and Japan tumble after US semiconductor selloff - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBob01FREF2Z2lpUUhBYUZPWF9sMEg5MHlYUnNBeF92M2RtMWZudWJMZVRaYVZYWFlac3dBR3FPUVhRSVl5ZUFRZm5MS1gtUnkwN0kyaldWNDlJa09fMDJ3dnJNeG5HbnlwM1F6b1RnbnBvNkxLenBR?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 03:13:46 GMT",
-      "summary": "AI chip stocks in South Korea and Japan tumble after US semiconductor selloff &nbsp;&nbsp; Crypto Briefing",
-      "outlet": "Crypto Briefing",
-      "outletUrl": "https://cryptobriefing.com",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-15T04:50:37.120Z",
-      "lastSeenAt": "2026-10-17T23:59:04.133Z"
-    },
-    {
-      "title": "Fitch Affirms Tencent's Debt Ratings, Outlook Amid AI Spending Craze - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUDZ2V291Wks0UjVZTS1idEJ6OTd4X1dGOFZuc3NxVWJfeGRqNWhwV01uQ1hUbXBNM2JlNVdVbFlyd0tQT2VjS0lRaXB5VTNFQVdSSDJVUHpBTkk1WW1ubjNuQ29RVWJoQ1lqcUd3RjBHMU5QNTVERjQ0aG1DQmk1ZGNsNmdBeHhfUk56TUIxWlQyeGpwTElMbExIV21uWjBDQ0hhaDY4NWJRN3QxTkhIVEhsX3lRTmVuMjhfRw?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 03:12:15 GMT",
-      "summary": "Fitch Affirms Tencent's Debt Ratings, Outlook Amid AI Spending Craze &nbsp;&nbsp; marketscreener.com",
-      "outlet": "marketscreener.com",
-      "outletUrl": "https://www.marketscreener.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-15T04:50:37.120Z",
-      "lastSeenAt": "2026-10-15T12:37:32.831Z"
-    },
-    {
-      "title": "류진 한경협 회장 \"한미 전략투자 본격 실행단계…이제 기업의 시간\" - 더파워",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CWmxaVVRwM0dmY3FjNVNZSW9SdjBnUVRYaHlOalc5LTIwN0docmhadFF2alg1eXctaWpheUJPc0ZxazkzNTQ3YlYxY25YNTFHbHBRZmJZRTU5WmRyN0YzQl9mTEFfU294LW5NdUZWQkhycTNBem9kZWEweEo1UQ?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 03:10:58 GMT",
-      "summary": "류진 한경협 회장 \"한미 전략투자 본격 실행단계…이제 기업의 시간\" &nbsp;&nbsp; 더파워",
-      "outlet": "더파워",
-      "outletUrl": "https://www.thepowernews.co.kr",
-      "source": "지역 AI·반도체 산업금융",
-      "sourceIds": [
-        "regional-industry-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-15T04:50:37.120Z",
-      "lastSeenAt": "2026-10-17T23:59:04.133Z"
     }
   ]
 }

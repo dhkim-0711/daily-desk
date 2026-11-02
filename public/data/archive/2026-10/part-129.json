@@ -1,7 +1,103 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "PHP2Shell’s 2 CVEs Draw AI Tools From Google, OpenAI [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGOWJ1SUxENTFlQVFNVGxZM0xXUUNGdktEZUVSMS11dlY0bEgzRU1HbEtlLUhDUHpyNE9BWHlOMU51VTY1YVFQMUNrdU9rVHJRLWFHeTV6VGRNZ2cxaTc0Q1FINXdBUklkM0FnZk5qSklrak5x?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 23:45:42 GMT",
+      "summary": "PHP2Shell’s 2 CVEs Draw AI Tools From Google, OpenAI [2026] &nbsp;&nbsp; shattered.io",
+      "outlet": "shattered.io",
+      "outletUrl": "https://shattered.io",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-22T01:51:21.284Z",
+      "lastSeenAt": "2026-10-22T05:11:37.149Z"
+    },
+    {
+      "title": "구글, 데이터센터 비밀유지계약 중단…AI 인프라, 지역사회 신뢰가 변수로 - www.dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GTkFXbmk2NnBtOHdmZnlfdUpYZUxodFJzWnUxOExnX3VGNTVkZFUwY0twYjd3WHJZVDZNZ0QyYVMwV19Md0FYUjVRNktWQQ?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 23:45:33 GMT",
+      "summary": "구글, 데이터센터 비밀유지계약 중단…AI 인프라, 지역사회 신뢰가 변수로 &nbsp;&nbsp; www.dt.co.kr",
+      "outlet": "www.dt.co.kr",
+      "outletUrl": "https://www.dt.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-22T00:38:42.431Z",
+      "lastSeenAt": "2026-10-22T06:03:45.371Z"
+    },
+    {
+      "title": "네이버·두나무 결합 독점 우려에...금융위, 안전장치 검토 - 청년일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NX0tEaVM4VnItNkJfa3p3b081WXhzTlFxZnFSTjg2eE84YXVBdTNaYnUzMW1ydlRBNkx2MjVSaHRRdGNWd3BuMURpXzdrMlA2dTFxcGJfY19iQnpiY1NiUzVTM3M5Zl9yOHc?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 23:43:20 GMT",
+      "summary": "네이버·두나무 결합 독점 우려에...금융위, 안전장치 검토 &nbsp;&nbsp; 청년일보",
+      "outlet": "청년일보",
+      "outletUrl": "https://www.youthdaily.co.kr",
+      "source": "AI반도체 정책금융·집행",
+      "sourceIds": [
+        "ai-chip-policy-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-22T06:03:45.371Z",
+      "lastSeenAt": "2026-10-22T06:03:45.371Z"
+    },
+    {
+      "title": "삼성전기, 엔비디아에 수조원대 AI 기판 다년 공급···세종·부산 공동 투자 - 뉴스프리존",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQdENteUJuNmJYVFJNTDBrS1JDUWJMdm9jYVZQTEh0eEFRV1p5WHFWV3pCX1lBSnpCU2VFaVUtVFM2dkFnM0tkajZua3ZpeWNwRHd3MjlidDl6TGplV25kSHVTNksyVFVXMzlYRFF3UDRYbDDSAXdBVV95cUxNVGRLa0JBVzdObzBmVmtCMHRiVkNzbzhOel9wMk5hRk9MR1NmWktTS05xR0xEcHh3MG8xMUxacG9hTnk4Q1k4ODNtT0w4MVEyZXktaUZKRG9qNDJUeVhvZmpFWHhTeHpYcG9INU5JYy16RGUxUzczWQ?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 23:42:24 GMT",
+      "summary": "삼성전기, 엔비디아에 수조원대 AI 기판 다년 공급···세종·부산 공동 투자 &nbsp;&nbsp; 뉴스프리존",
+      "outlet": "뉴스프리존",
+      "outletUrl": "https://www.newsfreezone.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-22T00:38:42.431Z",
+      "lastSeenAt": "2026-10-24T22:44:16.207Z"
+    },
     {
       "title": "RTX Spark: 새로운 윈도우 PC 출시와 함께 전 세계에서 열린 축하 행사 - NVIDIA",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEpGR3UtNXFuLTltT0VGU0RTcV9IRlVGWlpRVVE1T3lJQ1N3amViZzc5WU5JMFRXZUR1MWlQQmdlaXlaMWkyb2xsM0txR2pRUVlkS1pPRmhMOWVnQ0dFbVJuQkRIRHVreHJDR0w2YlpHTE5CYUJVNm5xQjY0SlV3bkNSVERtQQ?oc=5",
@@ -2225,94 +2321,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-21T22:44:58.342Z",
       "lastSeenAt": "2026-10-21T22:44:58.342Z"
-    },
-    {
-      "title": "Meta stock surges on strong earnings report; tech giant unveils new shares to bankroll AI spending - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdGNZQjdDTWVickdINF9TRUxkUE1Cd2dBOHFYMnhRcUJhLXZscW4wV1hVUFg4dGJnM3l3T1gzWVBVemxSRGZVRnlJbzA3Ul9ISHhaczN0cER3Y184ZXNxQmIwVmdkaWhmdFQxaGJTczI5QTRlUVgwZXRCWEpyV0s0U3VWd29RSGNxRi1xbFF6QTdob3ZOam1EQmxuOW9QNmRyWkx1ZFpYMHdFLUpBOFZQdTV2NUNlZksxczd6RGFwRnJ4d204VHZLWWVxcFFVZkZyX2Z3?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 22:12:00 GMT",
-      "summary": "Meta stock surges on strong earnings report; tech giant unveils new shares to bankroll AI spending &nbsp;&nbsp; New York Post",
-      "outlet": "New York Post",
-      "outletUrl": "https://nypost.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-21T22:44:58.342Z",
-      "lastSeenAt": "2026-10-22T14:06:18.862Z"
-    },
-    {
-      "title": "AI Stocks Face Challenges, Market Observes Potential Rebound - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0ZIOXJ0U3Bnd0w3YlVidHFkR0x1WnlYYklhUjVDTjZsR01vOXlBQk9FZ0dSR0NWb2s5djRiVXVGUXFZdm1nTmx6bDFaQ0dyY2pmRUVteFFNaW82amdWMnctdy1MTFIwQi01bHZWN3RpZkVNYnlBUm03amVNNnRoUzlkbm1jUlVyajVrSTU3SEcwN21YTW4yMHZyNnAzNDg?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 22:11:54 GMT",
-      "summary": "AI Stocks Face Challenges, Market Observes Potential Rebound &nbsp;&nbsp; GuruFocus",
-      "outlet": "GuruFocus",
-      "outletUrl": "https://www.gurufocus.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-22T07:57:53.219Z",
-      "lastSeenAt": "2026-10-22T17:56:53.418Z"
-    },
-    {
-      "title": "Nvidia To Expand Packaging Supply Chain - Semiecosystem",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wWWxxcUFZTGVyUFJWdHRhMjRjVzVHOHNrdGVRMGx1cktJbEt1TDBYTnEwVkU4VGxFNFlqb2dxal9pOWRWVXdNV1VfYXVsRFpXeV9vOXlpMFJ1ZERHc1k0dGtwaGtzM3o5Yjh4NkgtOHdnMVR5SXdR?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 22:10:02 GMT",
-      "summary": "Nvidia To Expand Packaging Supply Chain &nbsp;&nbsp; Semiecosystem",
-      "outlet": "Semiecosystem",
-      "outletUrl": "https://marklapedus.substack.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "파운드리·패키징",
-        "수출통제·공급망"
-      ],
-      "issueCategory": "AI시장",
-      "score": 21,
-      "firstSeenAt": "2026-10-21T22:44:58.342Z",
-      "lastSeenAt": "2026-10-22T05:00:13.904Z"
-    },
-    {
-      "title": "정재헌 '무인차' vs 박윤영 'AIDC' vs 홍범식 '와이파이'…이통3사, AI네트워크 속도전 - 신아일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwYXFmOVNYRmFLdlhOMWhLVFVaQU15NzBwY3FjbEgxOVRQMFNOWThyN0dWcTZBU2xfMmN5X3kxSXc3a1FDTUZlRTFHdHZ0X180VExscWZ0ZF9BRGZ5cUdtbVpnckxPWUdfRUI2UVNfb0g?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 22:10:00 GMT",
-      "summary": "정재헌 '무인차' vs 박윤영 'AIDC' vs 홍범식 '와이파이'…이통3사, AI네트워크 속도전 &nbsp;&nbsp; 신아일보",
-      "outlet": "신아일보",
-      "outletUrl": "https://www.shinailbo.co.kr",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-21T22:44:58.342Z",
-      "lastSeenAt": "2026-10-24T16:32:57.734Z"
     }
   ]
 }

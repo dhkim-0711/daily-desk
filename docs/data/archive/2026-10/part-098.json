@@ -1,7 +1,99 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "과기정통부, '2026 AI 창작대회' 본선 개최 - 전파신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAydHd3cnU1VHc2UkVEREpOeFFGcVRnbEtsN2lRcmh4dE9wX1F6RkV1UkZJLXBnaWdlTndCS0JMb0VtT2MtNkcwSUxBUThNaDFqUElDR0dsMlhJYVNLR3VEQkYzMDEwcE94VEE?oc=5",
+      "publishedAt": "Sat, 24 Oct 2026 05:38:00 GMT",
+      "summary": "과기정통부, '2026 AI 창작대회' 본선 개최 &nbsp;&nbsp; 전파신문",
+      "outlet": "전파신문",
+      "outletUrl": "http://www.jeonpa.co.kr",
+      "source": "NIPA·과기정통부 정책",
+      "sourceIds": [
+        "nipa-msit-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "정책"
+      ],
+      "issueCategory": "",
+      "score": 26,
+      "firstSeenAt": "2026-10-24T05:44:13.773Z",
+      "lastSeenAt": "2026-10-27T05:23:50.475Z"
+    },
+    {
+      "title": "Amazon’s $5 billion Nvidia AI servers sit idle in | 내 손 안의 광장, 빠띠 - campaigns.do",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2bW5PNUZuQmhqdDRwc042STBya0lRRFBYS3FEYU5SWkxPbklmajhRZ3pOTzJMSFZzMkRENnRfRDJYZ2hJZG5TYUJ6bw?oc=5",
+      "publishedAt": "Sat, 24 Oct 2026 05:37:35 GMT",
+      "summary": "Amazon’s $5 billion Nvidia AI servers sit idle in | 내 손 안의 광장, 빠띠 &nbsp;&nbsp; campaigns.do",
+      "outlet": "campaigns.do",
+      "outletUrl": "https://campaigns.do",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-24T05:44:13.773Z",
+      "lastSeenAt": "2026-10-25T06:00:10.063Z"
+    },
+    {
+      "title": "[AI스토리] 中 ‘키미 K3.1’, GPT-6 아스트라급 성능으로 美 최상위 AI 턱밑 추격…오픈웨이트 공개에 보안 우려도 - 이코노미트리뷴",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bDk0dk9vdmIzMFFRaHp0b19tcjdSU1dFUTVQREc3UW5YZndPYlJwR0ozRW1ybzhoWjRyTm9fdFFJeVNkbjlkMHREQXhOZE84VnBkOTVNczZaR2Fqc0tJWTZvQU84TklSdTBFM0JPVnU3VzZJYkE4?oc=5",
+      "publishedAt": "Sat, 24 Oct 2026 05:37:33 GMT",
+      "summary": "[AI스토리] 中 ‘키미 K3.1’, GPT-6 아스트라급 성능으로 美 최상위 AI 턱밑 추격…오픈웨이트 공개에 보안 우려도 &nbsp;&nbsp; 이코노미트리뷴",
+      "outlet": "이코노미트리뷴",
+      "outletUrl": "https://www.economytribune.co.kr",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-24T09:47:37.554Z",
+      "lastSeenAt": "2026-10-27T05:23:50.475Z"
+    },
+    {
+      "title": "AMD 주가 1.7% 반등…인공지능 반도체 성장 기대 속 투자심리 회복할까 - 제민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GMEtDNldRdVRsOHY4WTMwNUo5aFotV1RwdVBORVFhbGZ2NS1iY3dIS21vcktEOUZGRWcweWxuanY1VTlWVHo4Rm9SYUtnZGNJc1lEU0E5N2VJY0pmRFcxWGJ0dXg0bVU?oc=5",
+      "publishedAt": "Sat, 24 Oct 2026 05:33:26 GMT",
+      "summary": "AMD 주가 1.7% 반등…인공지능 반도체 성장 기대 속 투자심리 회복할까 &nbsp;&nbsp; 제민일보",
+      "outlet": "제민일보",
+      "outletUrl": "https://www.jemin.com",
+      "source": "AI반도체 시장·수급",
+      "sourceIds": [
+        "ai-chip-capital-market-ko",
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-24T11:58:11.660Z",
+      "lastSeenAt": "2026-10-25T17:02:39.149Z"
+    },
     {
       "title": "New Auditing Framework Exposes Reliability Gaps in AI-Powered First-Aid Search Results - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeG1JTkpxSmJPamtfQ0pBbWhfc2V1VVdlVV90eExEemFMaWUyV3R4Y1pHSFFFWkpuUVQxaHYxRmd3b2lQVEg5eUVtUElES0h6dGhkM1Brd0g5WHNnams4NVF3RmFaa1hueHhRczQwcjdQNE9aamVhN2g0aVpPQURkWGc2X2ZwWFNVUExyNTMyYmNmUjNrYjE5QTVtV3B2d0ZySjJoVU0wdndVckRfZkZDYg?oc=5",
@@ -2200,94 +2292,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-24T04:46:23.742Z",
       "lastSeenAt": "2026-10-26T06:04:07.551Z"
-    },
-    {
-      "title": "Purdue University Northwest Provides First-Year Students Google Gemini Licenses to Support Artificial Intelligence Literacy - Purdue University Northwest",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWEp2Uk9WWVJvY3M4R2ZRVW1HZmc5ZzlSSjBfN1BIeWl4OFBUSzhGM2tFZ3lIQnpxazl2cWYzUFlTN2hEd0t1LWRVbUtxRUVzZHVXbVpnVmV4Yi1rejJqTHZyb25rZmNFakxyY2g4a2RVVFBidzR5NlIwdXZ4WkxzTDJaX25VRHhPRUJhRHFtTTFHQWgtejRzREdPNVF3dkItTm40RGlYdDlYV0dIX09PSk53c2xlWXpMT01LNVR2U1B4OXZNcG9IX0tKWDNVdFFmWkZxTVlVWWZkWkFP?oc=5",
-      "publishedAt": "Sat, 24 Oct 2026 00:16:05 GMT",
-      "summary": "Purdue University Northwest Provides First-Year Students Google Gemini Licenses to Support Artificial Intelligence Literacy &nbsp;&nbsp; Purdue University Northwest",
-      "outlet": "Purdue University Northwest",
-      "outletUrl": "https://www.pnw.edu",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-24T09:47:37.554Z",
-      "lastSeenAt": "2026-10-25T17:02:39.149Z"
-    },
-    {
-      "title": "“HBM만으론 한계”…삼성 'zHBM' vs 하이닉스 'HBF' 격돌 - SBS Biz",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6bXZIMkJLVzlkb0k2SWtISVdibk9XR2dHZ3ZfT3hMU0ktUllrdjYtUHNUMm00M1JGSk5PRGVFUnpCdFhGZV9rWkVUR1hRVTZxRktn0gFYQVVfeXFMTnVCcC1waEg5UjM0Qkppc2FGUHhIeVR1U1pXVkNyZW83cmRqcEZsa3RXREZGWTlzNDVSTnlqUVdLZV8xMmd5UEx2cndQMmxpZ3BtTDVuSllZdQ?oc=5",
-      "publishedAt": "Sat, 24 Oct 2026 00:12:00 GMT",
-      "summary": "“HBM만으론 한계”…삼성 'zHBM' vs 하이닉스 'HBF' 격돌 &nbsp;&nbsp; SBS Biz",
-      "outlet": "SBS Biz",
-      "outletUrl": "https://biz.sbs.co.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-24T04:46:23.742Z",
-      "lastSeenAt": "2026-10-27T00:04:50.261Z"
-    },
-    {
-      "title": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려” - AI타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByQVJOSGY5R1Ywb0FaSl9Oc3ExY29hRnNkTjFYaGx5NDNMM0NfUm5EeUU5VUVBajc2SXBOM2h3SWN0czVYTjM3b1RzVFU5TmNJQTR4Zmxkem4zNDYwd1o1YWk1T3Y1b2M2OFE?oc=5",
-      "publishedAt": "Sat, 24 Oct 2026 00:05:59 GMT",
-      "summary": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려” &nbsp;&nbsp; AI타임스",
-      "outlet": "AI타임스",
-      "outletUrl": "https://www.aitimes.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-24T09:47:37.554Z",
-      "lastSeenAt": "2026-10-26T05:09:10.180Z"
-    },
-    {
-      "title": "The Biggest AI Winners May Not Be AI Stocks - InvestorPlace",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDIzaFdnZlNjRFRrcW9YaWdMbWdCSlh6X1FzcGwyaVMySC1LVlA3RDZzUWltVU1qZ0M0QVd4Tl9TNG1GQkE5bUp4NzJSREZNLWxzQ3gxd3hsSHpQaE83MHdweVZTc2VCOFJzMHFaNWZUa2o0alBmaE9kaDRRSGVJZE05MkI?oc=5",
-      "publishedAt": "Sat, 24 Oct 2026 00:00:44 GMT",
-      "summary": "The Biggest AI Winners May Not Be AI Stocks &nbsp;&nbsp; InvestorPlace",
-      "outlet": "InvestorPlace",
-      "outletUrl": "https://investorplace.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-24T16:32:57.734Z",
-      "lastSeenAt": "2026-10-26T14:10:00.606Z"
     }
   ]
 }

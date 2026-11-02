@@ -1,7 +1,98 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "Samsung & SK hynix Reportedly Set To Ramp 8-Layer HBM4 Shipments For NVIDIA’s Rubin Ultra In Q2 2027, As Heat And Yield Issues Continue To Complicate 12-Layer Stack Manufacturing - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDlaWjZxV19EVHFPNl9RVGs5U0dOR1IxRE1ISXBNMkVNOExzQ1lZSUFJSFlLVWdGVlpPdEFsVEFtWWtQQ0pseTFhNDhDSE1CWnUtNzlTdm1GUUo1TVp6XzN1VTQ5M1dabHVIaEYwYUpVRXZLdnR2Q2gwVldEWU5ZOE92YXFyLWVB0gGOAUFVX3lxTE1Rdi1uZUdWeS12WkhzeVd4Y2lOdVh3OVMwR0pnQldWMFFrek9xVDJMS1Z6Ul83aVpfVzJYNkEwaDdXNUZ3LXROZDdqTW5tbENPSWNYUHg2RE9iSFhCdFpMcGJDSWk5NVR6T1d2RjFuMWhtYlBfQlh5ZDhRRmZxQ0U2YVU0RE1mU1gycXoxUnc?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 09:46:09 GMT",
+      "summary": "Samsung & SK hynix Reportedly Set To Ramp 8-Layer HBM4 Shipments For NVIDIA’s Rubin Ultra In Q2 2027, As Heat And Yield Issues Continue To Complicate 12-Layer Stack Manufacturing &nbsp;&nbsp; Wccftech",
+      "outlet": "Wccftech",
+      "outletUrl": "https://wccftech.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "Samsung"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 19,
+      "firstSeenAt": "2026-10-26T14:10:00.606Z",
+      "lastSeenAt": "2026-10-27T05:23:50.475Z"
+    },
+    {
+      "title": "Securing Qatar's digital future with sovereign AI - Technical Review Middle East",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmJEV2l4QVJ1bGQxZzZFR3lwVWlnUTVCLVBsdE9SbFRvbHpyQk91QkN1eHZfVHQwMVZFd2Fpblg3V2xrNzJmem15dDg5N2pVVXVsSFdmb29zR3d3YWJxY1hmVEF2R3VYM0JRUGZmR01DZUVvaDVFOE1idGRhRmdyQi1nY045M25qVkVpRmh3SWJQVjQ?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 09:45:35 GMT",
+      "summary": "Securing Qatar's digital future with sovereign AI &nbsp;&nbsp; Technical Review Middle East",
+      "outlet": "Technical Review Middle East",
+      "outletUrl": "https://technicalreviewmiddleeast.com",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "수출통제·공급망"
+      ],
+      "issueCategory": "수출통제·공급망",
+      "score": 16,
+      "firstSeenAt": "2026-10-26T14:10:00.606Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "“‘매출 정체’ 우려 뚫을 열쇠…한온시스템, AI 데이터센터 열관리에 쏜다” - 뉴스퀘스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ScHFsZDloeDVPVVdpVlZoeUtucFY0UThkTWdJZFlIa0FkMHJ6MG9udFEzY1AwdzhudklLTF9QS0pwSjdHSnNTejFfV2xpUy1qSEIzN2c5SU1vZ0RJQmlPS3ExNy1NTUhMRVM1NG9uTQ?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 09:43:18 GMT",
+      "summary": "“‘매출 정체’ 우려 뚫을 열쇠…한온시스템, AI 데이터센터 열관리에 쏜다” &nbsp;&nbsp; 뉴스퀘스트",
+      "outlet": "뉴스퀘스트",
+      "outletUrl": "https://www.newsquest.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-26T14:10:00.606Z",
+      "lastSeenAt": "2026-10-26T14:10:00.606Z"
+    },
+    {
+      "title": "Basis Report Finds AI Adoption Surging Among Marketers - MarTech Cube",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVHZZbnVBOFM3bVVpeHMzU2M5UGRkNnk3dUp0b2hpVjZQMEJ5OWJwaGQ2WGxOa1JSUG5rQi1fckVzQjBINmxZNVJZamlDYnJVWnY0cVdZN1VMVzNaNV85Y2NkZ2RfcVF6dTVNcmlMb3c3eE56eGJkN2VWMjM1dThyV19fbWJwSG1UVkVV?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 09:39:18 GMT",
+      "summary": "Basis Report Finds AI Adoption Surging Among Marketers &nbsp;&nbsp; MarTech Cube",
+      "outlet": "MarTech Cube",
+      "outletUrl": "https://www.martechcube.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-26T14:10:00.606Z",
+      "lastSeenAt": "2026-10-26T14:10:00.606Z"
+    },
     {
       "title": "AI, Google Search Help Reunite Missing 70-Year-Old Woman With Family - Deccan Chronicle",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSk5aWUEyMjVTNzdjMjAtNGI0R3Iza1o0UFVieWdMYW1Jekh0dVhiYld3Zk4wN1JiSlhOeVktbHRfNF9lRXVnTDUzNGpGbWVMOThReVJ5WEZYUUtjOUF2VUV6ZWdzSG1lbm1CTnkwNWlGV3d4WTdDZHdlTElqN3kzUmg0Y2ZBekNGRGQwdFZTa1I0eEVsOWpGWlpENDFzUFk3bHQwVUVsY2J5Z3BDMEJ2MzlSZ3E1bWJmQk9pT0tTeFY5bmg1dDhfVHoyTXRURUZhTUJB0gHTAUFVX3lxTE9KTlpZQTIyNVM3N2MyMC00YjRHcjNrWjRQVWJ5Z0xhbUl6SHR1WGJiV3dmTjA3UmJKWE55WS1sdF80X2VFdWdMNTM0akZtZUw5OFF5UnlYRlhRS2M5QXZVRXplZ3NIbWVubUJOeTA1aUZXd3hZN0Nkd2VMSWo3eTNSaDRjZkF6Q0ZEZDB0VlNrUjR4RWw5akZaWkQ0MXNQWTdsdDBVRWxjYnlncEMwQnYzOVJncTVtYmZCT2lPS1N4VjluaDV0OF9UejJNdFRFRmFNQkE?oc=5",
@@ -2168,93 +2259,6 @@
       "score": 18,
       "firstSeenAt": "2026-10-26T14:10:00.606Z",
       "lastSeenAt": "2026-10-26T14:10:00.606Z"
-    },
-    {
-      "title": "Japan Stocks Slip As AI Spending Faces A Reality Check - Finimize",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXVvbUY5NXRvWjl2ajR0ZlRLQ1F2ODhPbVpaZmU0YmZQTFFFYnNWSlhUUGMzU2o5am13OVFyQ2JiTVV2NGF5cmhiYTNFWU80Slo4dUo3SmlCQVFMcDduLUtRM1VfYWFMT00zcXN3MnJBSVhTZGdEQmttakhsNlRzbWc4Uy16XzktWHN3?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 08:23:56 GMT",
-      "summary": "Japan Stocks Slip As AI Spending Faces A Reality Check &nbsp;&nbsp; Finimize",
-      "outlet": "Finimize",
-      "outletUrl": "https://finimize.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-26T14:10:00.606Z"
-    },
-    {
-      "title": "UK Plans £100M AI Biosecurity Lab in Budget Package - Konsulteer",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTk0tZWt6UUgzLXp3WFJpOWVHQ2h6MnlBQ2xXbHgyTHRKVUg5OEl3T1pkcVFjbFQyUjVIY1MtbE9yUWJiLTJKZVNMVnFKbERyUDF5Zm9xY21zSWd0OGdhNGs2SHVfLWdQSS0xTzRhZ2xEYWF3bEU1TnpCMk5KMDE5QzVhc3VzUnhCa0Q1aWpEQ2E0T0tVdXhJZUwwQjdKVk1LUTB4OFFBWndXb0E3VG1TOQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 08:23:42 GMT",
-      "summary": "UK Plans £100M AI Biosecurity Lab in Budget Package &nbsp;&nbsp; Konsulteer",
-      "outlet": "Konsulteer",
-      "outletUrl": "https://www.konsulteer.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-26T14:10:00.606Z"
-    },
-    {
-      "title": "우상호 \"AI 데이터센터 유치 고발전 유감…투자 환경 악화 우려\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4aEUzMmtmb0dNT09Yb2sxbktsM193bjN6a09GQWt0ZTlsSmxneHV0WXJCQms5VUJyRmVsTW5tZHF3RmlrWjNiZmxScUZyMU5aLTVsTXg1eDhkUkwydEVhTNIBYEFVX3lxTFA4aEUzMmtmb0dNT09Yb2sxbktsM193bjN6a09GQWt0ZTlsSmxneHV0WXJCQms5VUJyRmVsTW5tZHF3RmlrWjNiZmxScUZyMU5aLTVsTXg1eDhkUkwydEVhTA?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 08:23:22 GMT",
-      "summary": "우상호 \"AI 데이터센터 유치 고발전 유감…투자 환경 악화 우려\" &nbsp;&nbsp; 연합뉴스",
-      "outlet": "연합뉴스",
-      "outletUrl": "https://www.yna.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-27T05:23:50.475Z"
-    },
-    {
-      "title": "Elon Musk’s $40 billion SpaceX debt deal: Why he predicts a shakeout among 200 AI cloud firms - Open Magazine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT1NvdHRjZi15MDlBRkdCZjQ4dGY3UWxZek9BQVl0Vk04LS1Zc0d4MWFlT3M4V2JFQTdMcEI1WEk1RTBwaEs4QUVDRXlQb2ZhNWJFeEJURVptSWE5YmVHVkptOHJYbHA3dzR6dlZINFZUZDdmbWlKakpqU3VrUHR1N0RxdDdBU3NDVUt6SzVxM09UdWUtRTl3ZXZOU2pFMnVNNzFEN1lBMDRSN1ZndkFoWVhUWGhEODdEOUJmMGU1X2ZHdjJSbHc?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 08:22:21 GMT",
-      "summary": "Elon Musk’s $40 billion SpaceX debt deal: Why he predicts a shakeout among 200 AI cloud firms &nbsp;&nbsp; Open Magazine",
-      "outlet": "Open Magazine",
-      "outletUrl": "https://openthemagazine.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 16,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-27T01:26:41.178Z"
     }
   ]
 }

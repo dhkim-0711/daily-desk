@@ -1,7 +1,98 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "AMD Helios AI Rack: HPE's $1.2B Vultr Deal [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HYzB6UkhhbFJpWkw3TUdYamNrTnZNSHIxRkV1bjBha05xQkVDYXdZSDFyM1IxLUQ5emt5d1BrNzE1TmE4bUdRU1ZlR29FTERoVUFQcHd6cFUxdkthQ2szMVJmcXJZTVNCRFk4eUktMWIxZw?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 09:45:00 GMT",
+      "summary": "AMD Helios AI Rack: HPE's $1.2B Vultr Deal [2026] &nbsp;&nbsp; shattered.io",
+      "outlet": "shattered.io",
+      "outletUrl": "https://shattered.io",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-05T22:54:59.985Z",
+      "lastSeenAt": "2026-10-05T22:54:59.985Z"
+    },
+    {
+      "title": "Japan Nikkei Hits 70,000 as AI Stocks Drive 2.53% Surge - Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbUdVQV93Qk55RjdhOVFXZEg3Yjc2cERCMFFCM2xGY2VvVlE1c3ZaM1cxMkdaVGNSU0tDdEVvSVJUNS11cTBmM1diVzNUMDNmcWRxeUJRYkNHZHZQWF9SV1E3aF9rNUN2aU9JQU5TYnpaWVpqb1lUU0w5RFU2UE9ybVhRblBTaFlHa3VzblE4VVFHYzZ2?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 09:45:00 GMT",
+      "summary": "Japan Nikkei Hits 70,000 as AI Stocks Drive 2.53% Surge &nbsp;&nbsp; Analytics Insight",
+      "outlet": "Analytics Insight",
+      "outletUrl": "https://www.analyticsinsight.net",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-05T12:50:36.209Z",
+      "lastSeenAt": "2026-10-06T17:25:04.264Z"
+    },
+    {
+      "title": "TCS Commits ₹70,000 Crore for 1GW AI Data Center Campus in Hyderabad - digitalterminal.in",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0ZycGM5SGpNTzFOQTNCZHpsU092Vl9sc0ZKTFk5THYza2NfemVUTFJCME1od0dCdUdWN0phb0tnZV9mN2UwSEs3aXE0WmJ0R0xVTDRST3dkYUNvcmRudkstQWRjTE5WNlpxVXdLTDVLYU43RzFkb2pUeE5xZDV6ZEplcWtURmtPeC1Zb3VUU1dRSnR4YnoxNDR6Z240VEdoRHR5VWtDeUNKOWpV0gG6AUFVX3lxTE4tNFVKdS1CMmZWaWtoRktpUTVKZGZxd3M1R2M3Z1JBSGNzS19RVkw1N2tES3B1Z1lhZlZwTkFwLXJsVVgwVnY2d0FTdk9WNm1CekNleXJza0ZuSlJ1VjVpMnF2MTllTzFFRENSNDFJcjNfZzFvQzd4WTRZeHpDRzQxbERBaktVLWFlWmRaNGVlZTl2VVBra3psYnlTdzluSWdLM3JyRlNUd2Y0MGNIb0p2bHViUWdoNWhQQQ?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 09:42:36 GMT",
+      "summary": "TCS Commits ₹70,000 Crore for 1GW AI Data Center Campus in Hyderabad &nbsp;&nbsp; digitalterminal.in",
+      "outlet": "digitalterminal.in",
+      "outletUrl": "https://digitalterminal.in",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-05T15:55:35.141Z",
+      "lastSeenAt": "2026-10-06T02:13:47.006Z"
+    },
+    {
+      "title": "엔비디아, AI 서버 훈풍에 사상 최고가 다시 넘본다. - 제민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wZFRBTE11VzU0Q19aQUtIbHVlbXZhaUV0Zi1BbmtkZDRVUmZPbUUzeWRZb1lZQk5XMkJ3QUVpTFh6Q1V1bHhxSHN2bUFTZEZ3aHRnSGZnZmVIN202QnRtMVBSaXBhOWM?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 09:41:21 GMT",
+      "summary": "엔비디아, AI 서버 훈풍에 사상 최고가 다시 넘본다. &nbsp;&nbsp; 제민일보",
+      "outlet": "제민일보",
+      "outletUrl": "https://www.jemin.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-05T12:50:36.209Z",
+      "lastSeenAt": "2026-10-06T02:13:47.006Z"
+    },
     {
       "title": "AWS Fixes AI Agent Flaws Enabling Authentication Bypass and Credential Theft - gbhackers.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OajZFOC00S0h0RzZHc3I4NGFneHRxQU1hRGdSaDBISkkxZ1pRMDFCcVExR3RteDNFQW9keWpDTkVoQWVNVWdXVzJpeWlVQmJIY3JnWlZfQmgzblJhOVFFbdIBYEFVX3lxTE9OajZFOC00S0h0RzZHc3I4NGFneHRxQU1hRGdSaDBISkkxZ1pRMDFCcVExR3RteDNFQW9keWpDTkVoQWVNVWdXVzJpeWlVQmJIY3JnWlZfQmgzblJhOVFFbQ?oc=5",
@@ -2139,95 +2230,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-05T12:50:36.209Z",
       "lastSeenAt": "2026-10-06T02:13:47.006Z"
-    },
-    {
-      "title": "CloudWalk's AI flywheel: 10M users and an AI agent for every small seller - Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUjhaM1FkSzF0QWlvTXlqdHNseEJDLXo1UE5fSWZ2WmRaOVRaTll1dXZOR29iN19WbEJtVUhLXzdoVG9uUUJsU1FDX3ppeXgwZ1pKZW1UWFlJX0NJdmNwUkpoWm0ySHA0TjlkaVR2SElJUTdBazhtd1NBSENHOXpWYWJGV2xYLVZibHA1cGpxMXRWZlE1LXJ0bUNaTGdyV2tOb3oxYXFB?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 08:19:22 GMT",
-      "summary": "CloudWalk's AI flywheel: 10M users and an AI agent for every small seller &nbsp;&nbsp; Dealroom",
-      "outlet": "Dealroom",
-      "outletUrl": "https://app.dealroom.co",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트",
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 19,
-      "firstSeenAt": "2026-10-05T12:50:36.209Z",
-      "lastSeenAt": "2026-10-06T02:13:47.006Z"
-    },
-    {
-      "title": "How I'd Build a Self-Healing AI Agent for Zero-Touch Bug Remediation - HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLXVYZGJHTkFFVnZ0QmNhaEhYeTVHM2tBemFzS2s5bFcyMHdMMWpzR0RSWW9LcDU0b2JTSnFYc212MDVDV1duWTg1cjBMTWttWm1vX01zMm9qX0hnUVFPc0dta3VFTHZScm15cjJScy1FTExUSy1zUFotMmJhZlEyV2Fzb052VzZYQzJDel9vOURkZTJG?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 08:19:05 GMT",
-      "summary": "How I'd Build a Self-Healing AI Agent for Zero-Touch Bug Remediation &nbsp;&nbsp; HackerNoon",
-      "outlet": "HackerNoon",
-      "outletUrl": "https://hackernoon.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-05T12:50:36.209Z",
-      "lastSeenAt": "2026-10-05T15:55:35.141Z"
-    },
-    {
-      "title": "대우건설 이강석 대표 공식 취임 … AI·데이터센터로 새 먹거리 찾는다 - biz.newdaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOW1DVVV6YXlXZHB4cnhycmdNRnRUbG90UHM5T25ma0lYeEd3VHAxUmlOTDJCUnZkdGtXdktqeHVHM3JMbGRINVJLNW45ODA5Z1J4dVJKWHI1dHh3cC1KVVFzX0dBUFNmRl9XRkhFV21HMTFJd2U0Q0ppMi1wb1ctRNIBgAFBVV95cUxQOW1DVVV6YXlXZHB4cnhycmdNRnRUbG90UHM5T25ma0lYeEd3VHAxUmlOTDJCUnZkdGtXdktqeHVHM3JMbGRINVJLNW45ODA5Z1J4dVJKWHI1dHh3cC1KVVFzX0dBUFNmRl9XRkhFV21HMTFJd2U0Q0ppMi1wb1ctRA?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 08:18:13 GMT",
-      "summary": "대우건설 이강석 대표 공식 취임 … AI·데이터센터로 새 먹거리 찾는다 &nbsp;&nbsp; biz.newdaily.co.kr",
-      "outlet": "biz.newdaily.co.kr",
-      "outletUrl": "https://biz.newdaily.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-05T12:50:36.209Z",
-      "lastSeenAt": "2026-10-06T02:13:47.006Z"
-    },
-    {
-      "title": "Autonomous AI Agent Chains Two Zammad Zero-Days in Machine-Speed Cyberattack - gbhackers.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lcVB0RGVQaG83NWJaX2xySGV5bEM2d3JqOUdPY0JHT0FjZjI2TmJSczBVdm14cHNURjBEZGVzc3c2Mzhya05mVjJoOWFXbVJ5dXZpWmJ30gFbQVVfeXFMTWc1YXE5WTBBS0NrbjdaS0pOazgxOVoxNUZyMDl1OV8xQUNMbW1UdXZWVU9qZWZEVGx6R19QX1NSWVpKNF84QTFrZTdGdFhVUXFxZXRNWFhkR1V2Zw?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 08:16:08 GMT",
-      "summary": "Autonomous AI Agent Chains Two Zammad Zero-Days in Machine-Speed Cyberattack &nbsp;&nbsp; gbhackers.com",
-      "outlet": "gbhackers.com",
-      "outletUrl": "https://gbhackers.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-05T12:50:36.209Z",
-      "lastSeenAt": "2026-10-05T15:55:35.141Z"
     }
   ]
 }

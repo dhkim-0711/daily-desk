@@ -1,7 +1,110 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "\"11조원 엔비디아 칩 매각 후 재임차 추진\"···아마존, AI 투자 부담 줄인다 - 뉴스웨이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hNmxwazhjYWhCSUo1bzJveThVUHRkcVo3aWRkZnFkY3Z4T2xKY1pkS3EwcnJaSElwUzcwaUljY1hkVXJIMEJUV2ZnNVJkdXJ6RmhNMVBtTTRTRENxdy1xWlhyZjk1Ti1teXc?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 08:12:08 GMT",
+      "summary": "\"11조원 엔비디아 칩 매각 후 재임차 추진\"···아마존, AI 투자 부담 줄인다 &nbsp;&nbsp; 뉴스웨이",
+      "outlet": "뉴스웨이",
+      "outletUrl": "https://www.newsway.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "NVIDIA",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 26,
+      "firstSeenAt": "2026-10-02T18:21:53.777Z",
+      "lastSeenAt": "2026-10-03T02:19:30.232Z"
+    },
+    {
+      "title": "한전, 변전소 AI 감시에 국산 NPU 투입…현장 실증 착수 - 한국면세뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiektYZlV1b3B3UFBWd2k3T0NFMHB0N194UW9NMncyWlBlMGI5TldGcWd6b3JfUGFVY2RpSkg0MTJhbUlIQVl2TkJ6SUl5eEtjNm9LQVR4dGNqU2NmVVR0Y05LNlgxeTZnQlE?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 08:11:48 GMT",
+      "summary": "한전, 변전소 AI 감시에 국산 NPU 투입…현장 실증 착수 &nbsp;&nbsp; 한국면세뉴스",
+      "outlet": "한국면세뉴스",
+      "outletUrl": "https://www.kdfnews.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "실증·조달"
+      ],
+      "issueCategory": "NPU",
+      "score": 21,
+      "firstSeenAt": "2026-10-04T06:47:34.042Z",
+      "lastSeenAt": "2026-10-04T06:47:34.042Z"
+    },
+    {
+      "title": "한전, 변전소에 ′국산 AI칩′ 심는다…리벨리온 NPU로 GPU 대체 실증 - megaeconomy.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvaTd5Ty1tc2w0Wi1PN3FEa1RVX1JXRTF3ZlJqdzNyYW5HS3FSNGNnNjVQR3puaHplMkx3VWxfVERQWjBodlpQNTlZN3B0RDFpTHFSc0R3dUgwcC0xaDJDNUlka0ZLM0RTUmhwRkpCS2xBU3B20gFyQVVfeXFMTTE0LUEzWEJpTDNhLVJSV0dZUXg3eXZMVTNPUzg3NTJtSjZIbnZnRkp1TTY4UTVwLS1IRjFrTlRyWnlBTklCTHFpcmQzRFhSQXY4QmFnYmhUNnpydkpCckMyMF9NQmJnYlNuRUZUYjdPQUVR?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 08:03:40 GMT",
+      "summary": "한전, 변전소에 ′국산 AI칩′ 심는다…리벨리온 NPU로 GPU 대체 실증 &nbsp;&nbsp; megaeconomy.co.kr",
+      "outlet": "megaeconomy.co.kr",
+      "outletUrl": "https://megaeconomy.co.kr",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "실증·조달"
+      ],
+      "issueCategory": "NPU",
+      "score": 26,
+      "firstSeenAt": "2026-10-02T18:21:53.777Z",
+      "lastSeenAt": "2026-10-05T07:40:54.911Z"
+    },
+    {
+      "title": "구글, TPU 실은 위성 궤도에 올려…우주 데이터센터 실증 착수 - 시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5TXk1ZlRVdFZqYlg4NlFlMDBKZXhSMlh5Mkl3UHlYR1dzQ1BBSWxzMHlOUlAtOUNSbGVWNy1jbERYdmxCLWd1SXNZTTN3eDN3cm1ncUsyYWQ5REh1V1Vsck9lN2hnRWE4ZlFKYnhzaFQwYm9VWVHSAXZBVV95cUxQOU15NWZUVXRWamJYODZRZTAwSmV4UjJYeTJJd1B5WEdXc0NQQUlsczB5TlJQLTlDUmxlVjctY2xEWHZsQi1ndUlzWU0zd3gzd3JtZ3FLMmFkOURIdVdVbHJPZTdoZ0VhOGZRSmJ4c2hUMGJvVVlR?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 07:57:42 GMT",
+      "summary": "구글, TPU 실은 위성 궤도에 올려…우주 데이터센터 실증 착수 &nbsp;&nbsp; 시사저널e",
+      "outlet": "시사저널e",
+      "outletUrl": "https://www.sisajournal-e.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "Google",
+        "실증·조달"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 26,
+      "firstSeenAt": "2026-10-02T10:27:24.775Z",
+      "lastSeenAt": "2026-10-05T07:40:54.911Z"
+    },
     {
       "title": "구글, TPU 실은 위성 궤도에 올려…우주 데이터센터 실증 착수 - sisajournal-e.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5TXk1ZlRVdFZqYlg4NlFlMDBKZXhSMlh5Mkl3UHlYR1dzQ1BBSWxzMHlOUlAtOUNSbGVWNy1jbERYdmxCLWd1SXNZTTN3eDN3cm1ncUsyYWQ5REh1V1Vsck9lN2hnRWE4ZlFKYnhzaFQwYm9VWVHSAXZBVV95cUxQOU15NWZUVXRWamJYODZRZTAwSmV4UjJYeTJJd1B5WEdXc0NQQUlsczB5TlJQLTlDUmxlVjctY2xEWHZsQi1ndUlzWU0zd3gzd3JtZ3FLMmFkOURIdVdVbHJPZTdoZ0VhOGZRSmJ4c2hUMGJvVVlR?oc=5",
@@ -2414,99 +2517,6 @@
       "score": 23,
       "firstSeenAt": "2026-10-01T18:49:49.722Z",
       "lastSeenAt": "2026-10-03T17:12:52.131Z"
-    },
-    {
-      "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVZMajNvc3MtS1Bmak5HNHNWSk81TFcydUt3QldZcHFMZXIzZ0VrWTBOLWhPMzUwZVk0b0g0ZEpVU1VyTUpXMXg1b0lsY2pQSEh0YV95TURteWwtZVVzdEc2RFZQek5yUmJFMURzT3ZlNElHVFdHYWc3LURRWWRjRDFOa2VhQ0hJaFB3SEVITHdkS05jTUNIVDFqeHd3azJoeHV3OWdBaE56QVUwdXJJ?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 18:23:04 GMT",
-      "summary": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
-      "outlet": "NVIDIA Developer",
-      "outletUrl": "https://developer.nvidia.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud",
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-10-01T18:49:49.722Z",
-      "lastSeenAt": "2026-10-02T02:03:14.813Z"
-    },
-    {
-      "title": "Classie launches Supervise to track, control and account for enterprise AI agents in real time - VMblog",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXViS0ItWWEzczVQaDlMN1VKY3lPa3pid1NjeU9Mdm5sUkhKemhGWEdxZ1pIOVFhSVdsRmpNVm92ZG5NZlZKZldxUG41N082R3dSd3R4UUQ5QllaYmU3c1FiR1NQX1JGNk1yY1BwUFBaU0N3RzF5T1gzSl92X2szbzV1UWdXS3pXRzB6TUFaS00yVWVRcVNlTVdLS0dmRGdIQmQwdXZuMWlKaDNzMWVQUG41aGNFRnZJelE?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 17:21:27 GMT",
-      "summary": "Classie launches Supervise to track, control and account for enterprise AI agents in real time &nbsp;&nbsp; VMblog",
-      "outlet": "VMblog",
-      "outletUrl": "https://vmblog.com",
-      "source": "AI 시장·비즈니스",
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "AI에이전트",
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 22,
-      "firstSeenAt": "2026-10-01T18:49:49.722Z",
-      "lastSeenAt": "2026-10-02T01:37:56.916Z"
-    },
-    {
-      "title": "CoreWeave brings Nvidia Vera Rubin, AI tools to its cloud services - Network World",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmYzcXJwVUZ6RWptRkNtZWxNSDh3YWMyMjRmb3VzUld3VzdYTTZHTDl4Y2dpcV9qYkEybkJNWTJrSG5HbkV6TlhJVFo3c0Fsa0JwVnNxNHVvT1BIbWJmcndNMndYekVybWlPSThNZ0VjQXR3M095SW5VQWVnRlZtMUhkVU54QXFfT2hPbU0xenduQmhucmhUbWVKXzdoTlVlazMwSGRpbFJBOVZvV1JSRzByaGZ6UQ?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 17:12:58 GMT",
-      "summary": "CoreWeave brings Nvidia Vera Rubin, AI tools to its cloud services &nbsp;&nbsp; Network World",
-      "outlet": "Network World",
-      "outletUrl": "https://www.networkworld.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 23,
-      "firstSeenAt": "2026-10-01T18:49:49.722Z",
-      "lastSeenAt": "2026-10-02T02:03:14.813Z"
-    },
-    {
-      "title": "AI cloud provider Blackfuel emerges from stealth, plans first deployment in Spain - Data Center Dynamics",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMnRwaXhPNkRmWWk2TU9PaDFEUnJXQ0hobWdtY290bkFCZDRoZVNucTdmZXYzeGs4Ync0eExFUHhsUGtjeGFVS3FwSTc3TXlFOUthX29QVUs5dFJXOGtPbTg2N1BSWTBUczRtR3pvMWtLbDV5ZzA2X3hXWVlLbzkyTUwxYXI4T3psS0lZaTQwSlRCMDhXb0NNT0oxRXNYTy15dS15Qi1fa1J2QnA2d0p3QzViM2dMaWZvMmJUY09sS3VEUQ?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 16:56:03 GMT",
-      "summary": "AI cloud provider Blackfuel emerges from stealth, plans first deployment in Spain &nbsp;&nbsp; Data Center Dynamics",
-      "outlet": "Data Center Dynamics",
-      "outletUrl": "https://www.datacenterdynamics.com",
-      "source": "AI 서비스·클라우드",
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라",
-        "데이터센터",
-        "실증·조달"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 22,
-      "firstSeenAt": "2026-10-01T18:49:49.722Z",
-      "lastSeenAt": "2026-10-02T01:37:56.916Z"
     }
   ]
 }

@@ -1,7 +1,102 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "과기정통부, 13개국과 양자기술 협력 논의…공동 R&D 확대 추진 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UNDg4bWpoMFpXTlNkdXEtYmNzNTYzNzgtWGNQRG1pdEg1VWdxUXVwTFlCOXJ0WkJ6X0plX1l6eGxZMExnOUdDcXJEWlQ3TlpibEtKQXZIOGg4UFRud0JPYkVNSkdsdVd3ZGVKcTNjdDVNZVk?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 06:00:00 GMT",
+      "summary": "과기정통부, 13개국과 양자기술 협력 논의…공동 R&D 확대 추진 &nbsp;&nbsp; 디지털투데이",
+      "outlet": "디지털투데이",
+      "outletUrl": "https://www.digitaltoday.co.kr",
+      "source": "NIPA·과기정통부 정책",
+      "sourceIds": [
+        "nipa-msit-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "정책"
+      ],
+      "issueCategory": "",
+      "score": 21,
+      "firstSeenAt": "2026-10-14T08:01:13.947Z",
+      "lastSeenAt": "2026-10-17T05:32:13.346Z"
+    },
+    {
+      "title": "NVIDIA and Danaher are working to link AI with lab experiments. The initial work focuses on select instruments. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEtid19BcllXOXJBaFhYUVZxVnNzN1JmSFk5NDdHUHRXenBmZnY2S3FtN0NjeHZYVU9NTjdkOHU5ZzJnRTNTZjVILTNtZmFSR05waGhrck5SZFJCOU1MTlJHSDZIb1pISEw1c3VCQTdjdzl4ZU5QdFRZd20wdW95UUdqek1MaDdFeVlxdVhveVctR29BU1NYQ3JkY0ZvMV92clZ4c3pLTS1Oel95?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 06:00:00 GMT",
+      "summary": "NVIDIA and Danaher are working to link AI with lab experiments. The initial work focuses on select instruments. &nbsp;&nbsp; Stock Titan",
+      "outlet": "Stock Titan",
+      "outletUrl": "https://www.stocktitan.net",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-14T08:01:13.947Z",
+      "lastSeenAt": "2026-10-14T14:01:50.995Z"
+    },
+    {
+      "title": "구글 딥마인드와 구글 클라우드, 유럽 연구자들에게 최첨단 모델 접근 권한 제공 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qOEFpX3pYb2FFTjRTZ2lnZENNbHRIVVprMVVGeGgyeDhFLVN2VE1GNXIzSFdXNDVQY3RaNGl4d0JJZ3RLb2hvc0JTUktUUDlCOG84WHJMNDRaWkNCMkN5c29JVDBrV1F0TlR2Z1czWU9IOVdEcUQyUg?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 06:00:00 GMT",
+      "summary": "구글 딥마인드와 구글 클라우드, 유럽 연구자들에게 최첨단 모델 접근 권한 제공 &nbsp;&nbsp; TradingView",
+      "outlet": "TradingView",
+      "outletUrl": "https://www.tradingview.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-10-14T12:50:02.243Z",
+      "lastSeenAt": "2026-10-15T04:59:50.156Z"
+    },
+    {
+      "title": "LSEG Accelerates Tick History Analysis With NVIDIA - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkJ3QUZsMVlpMy1WekJzM1pETkF5TWY2WGhja1VkdWt3X3IwZzV5TFA3amVOXzFGN1RNVXlMYV9ZRTZ0S0JnSFIzVl9sNmpsSDhsNU5lQWc2c2l5ZElxSHhoY1piSGxGdnRRTDZmRWEwcE1mX0RmUlB1QVhTUDRJU3JNc21fNEdzdW1EalBfM2Q2dkYwWURaOVhDYmhSODBH?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 06:00:00 GMT",
+      "summary": "LSEG Accelerates Tick History Analysis With NVIDIA &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-14T08:01:13.947Z",
+      "lastSeenAt": "2026-10-14T14:01:50.995Z"
+    },
     {
       "title": "London Stock Exchange Group PLC (LSEG) Partners With NVIDIA to Accelerate Tick History Analysis - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM3k3UHhrQW9abnlfaGxhbm4yMmxkNEhsbzA3eFZtSTRNNFQ4YmpJTjlvREd5cFBQT0dqeW41dG5iTmJGN0xJMHNsRVdveHlveFo2SkEtLUh5V1hqQ040alZ6V210d2VLMkdidUNjTm1DTVcxd29jLWw5dkVqejRIdENlT0l0VGltWjZuTWR0MTMxYWRGaE11RnB6SVYyS3FKcGhXdDRKN290RENVdzdpZ2lKSC0tb2FBbG9kS25yRjlfdm05d3BDb2tJYjRfOGxhR0tSOFA4R1dacVVo?oc=5",
@@ -2097,95 +2192,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-14T06:07:24.751Z",
       "lastSeenAt": "2026-10-17T04:49:34.467Z"
-    },
-    {
-      "title": "오텍캐리어, 구미 AI 데이터센터 냉각설비 공급 추진 - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EZkJ1SDA4MnlsRWtoaG1icFZjaEtVU1h0aXkwWWdZUDhpZ3RTcnRGSFozU3JZNkxLV0ZtWHNJN0NoNVpabV9ZdDc1VDduS0EyLVJzci1n?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 05:12:41 GMT",
-      "summary": "오텍캐리어, 구미 AI 데이터센터 냉각설비 공급 추진 &nbsp;&nbsp; 헤럴드경제",
-      "outlet": "헤럴드경제",
-      "outletUrl": "https://biz.heraldcorp.com",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market",
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-14T08:01:13.947Z",
-      "lastSeenAt": "2026-10-14T14:01:50.995Z"
-    },
-    {
-      "title": "안현 SK하이닉스 사장 \"HBM 넘어 메모리 계층 최적화…AI 생태계 성장 견인\" - www.ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3bEdNcER5aEtLSm5NY0RDbGlWVndHSHgwcTcwR0VoVkxGcVdISUNLRVRaamVvRWVzQlcyVWpIWW5lakVCZDM4TlFMSGU4bmJ3a3h4eTRjUjRLYjYxUFd4Q3dxSE05WjRm?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 05:12:23 GMT",
-      "summary": "안현 SK하이닉스 사장 \"HBM 넘어 메모리 계층 최적화…AI 생태계 성장 견인\" &nbsp;&nbsp; www.ebn.co.kr",
-      "outlet": "www.ebn.co.kr",
-      "outletUrl": "https://www.ebn.co.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-14T06:07:24.751Z",
-      "lastSeenAt": "2026-10-17T04:49:34.467Z"
-    },
-    {
-      "title": "GS건설, AI 데이터센터 액침냉각 기술 개발 착수…LG전자·GRC와 맞손 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sR0YydHhyeXRSTGZHUW9sTmdmMFdQY0xpY0JJMDRrYnVBcXZOS1cxNi1wUzktWHdYenRCckdpUm1yZ0pVSnFHTERmdVhSUDFkOXkzOEctUXA?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 05:12:19 GMT",
-      "summary": "GS건설, AI 데이터센터 액침냉각 기술 개발 착수…LG전자·GRC와 맞손 &nbsp;&nbsp; 매일경제",
-      "outlet": "매일경제",
-      "outletUrl": "https://www.mk.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy",
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-14T06:07:24.751Z",
-      "lastSeenAt": "2026-10-17T04:49:34.467Z"
-    },
-    {
-      "title": "HCLTech signs Anthropic partnership for enterprise AI - IT Brief Australia",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSmRrLUJFVU1JdTdLUVlNX19KYllfX2liV094b0k4UE52MjFWVGVSWTJvV1dvVHI3RmhqeWUwTVRQS0QyNnBNWDk0RWtmMUpDYk1KZW5fY3dfR2wyZVk4dnl5dlpSUkttM0xtSlNyTnJpN2VoQklOSk1tN1B0QVdRYXBNWXhFcGV3T2c?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 05:12:00 GMT",
-      "summary": "HCLTech signs Anthropic partnership for enterprise AI &nbsp;&nbsp; IT Brief Australia",
-      "outlet": "IT Brief Australia",
-      "outletUrl": "https://itbrief.com.au",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-14T06:07:24.751Z",
-      "lastSeenAt": "2026-10-14T17:58:43.781Z"
     }
   ]
 }

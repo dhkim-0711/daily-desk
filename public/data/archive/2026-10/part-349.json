@@ -1,7 +1,102 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "Google pauses open source bug bounty program amid AI submission surge - SC Media",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWs1QWM0MlR2eXpzeGVRSGhIdHhRVWpaWDhmeHhTQzlxcF82UTBFTTdrb08yU0dzN2lMdHI0NW1XbjVXS04wT2x0OWs2R0cxeVl3OTAyVVM3d0JhZGdNM0hKdWI5cGtLUEYzTHFpbzFnbVNEV3pXeVZmcEhiSE1zX2JVTkhvbHJBTlFhS0lCLUNXeF9FaGJSMmxURDQ4MndO?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 13:24:14 GMT",
+      "summary": "Google pauses open source bug bounty program amid AI submission surge &nbsp;&nbsp; SC Media",
+      "outlet": "SC Media",
+      "outletUrl": "https://www.scworld.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-05T22:54:59.985Z",
+      "lastSeenAt": "2026-10-06T08:57:16.710Z"
+    },
+    {
+      "title": "NYC 시의회 청문회, Anthropic, OpenAI, Google, Meta에게 선서 요구 - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzQtUzlwQmM5OUJtWU5RQm9ybW9iN3dFblctY19qdHJDQ3hYWGhNVHJRVEFMREF0THBDTVJsQTVZUXIxVjJlMm1sMTFxMEVaVWw4Wkx4YVNiRDZMeGxHX3Q5cXVuSUlGQ01nOTFNUy1pU2VVSWEzaHkwcXR6MElXa0h2M2VSWVBDS21BTGNtMWlWQlU?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 13:22:35 GMT",
+      "summary": "NYC 시의회 청문회, Anthropic, OpenAI, Google, Meta에게 선서 요구 &nbsp;&nbsp; Unite.AI",
+      "outlet": "Unite.AI",
+      "outletUrl": "https://www.unite.ai",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-05T15:55:35.141Z",
+      "lastSeenAt": "2026-10-05T22:54:59.985Z"
+    },
+    {
+      "title": "리사 수 AMD CEO 7개월 만에 방한…7일 '게이머 데이' 참석 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WVzlIZm9NSDVPcmFCWGpKejBwLUhZS0pnX2paZVI1OFBla3hCNTdZV0RGdFZ5cklaOUpRUm1lSENXcE1YLWpvZ1JuZl9JYzVSZEdpRnFSZE9hc3J0WXJsU3dWN2w4R0dxVl9Qd1lB?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 13:20:43 GMT",
+      "summary": "리사 수 AMD CEO 7개월 만에 방한…7일 '게이머 데이' 참석 &nbsp;&nbsp; 알파경제",
+      "outlet": "알파경제",
+      "outletUrl": "https://www.alphabiz.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-05T15:55:35.141Z",
+      "lastSeenAt": "2026-10-05T22:54:59.985Z"
+    },
+    {
+      "title": "엔비디아, 원전 설계·인허가 AI 적용…일정 단축 목표 - 토큰포스트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zQWJnZnNNdGRYaFhBYV9RTF9zaFI4OGdOVDNPRm04RDFLaENfSzhrQUFQeXRIZEI5b2lhdWhjRHRnbExiTFB5ajRLcER3N3FI?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 13:18:32 GMT",
+      "summary": "엔비디아, 원전 설계·인허가 AI 적용…일정 단축 목표 &nbsp;&nbsp; 토큰포스트",
+      "outlet": "토큰포스트",
+      "outletUrl": "https://www.tokenpost.kr",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-05T15:55:35.141Z",
+      "lastSeenAt": "2026-10-06T11:12:33.144Z"
+    },
     {
       "title": "AM Intelligence orders another 20,000 NVIDIA Rubin GPUs for India, Malaysia AI factories expansion - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOb252RnhKb0REX29oZE1aU3BfVDFVajdjUUZmLUtNY1c0Snh0amZlMThPbWkwcnY0dnR2aFQxVnpKZG0tZ1p0aGdqY1VfTVk4eThkd0JxdnZLUnBYN2xkNUhRWlZvMXlueVlDeFlfM1hrZ3oxVXJaY0kyZXpnS0ZjeE5WRFRDcU5mV1Q3ZFhOMGRobUtZXzhRN25NSDJiRmNtclNXaWg0eW5Bdlp4SzJORzAwWDZUaGV0U2lxMUJUOGJGc0ItUWd3eFE2SHFOamdTZUxQcXpLLW9aREV0MmNoWjQzVU5EMVlFWm9aOTFQYVlqdHMyQW5NdlVOZkVhbWpHdTJqdElhWXLSAYgCQVVfeXFMTm9udkZ4Sm9ERF9vaGRNWlNwX1QxVWo3Y1FGZi1LTWNXNEp4dGpmZTE4T21pMHJ2NHZ0dmhUMVZ6SmRtLWdadGhnamNVX01ZOHk4ZHdCcXZ2S1JwWDdsZDVIUVpWbzF5bnlZQ3hZXzNYa2d6MVVyWmNJMmV6Z0tGY3hOVkRUQ3FOZldUN2RYTjBkaG1LWV84UTduTUgyYkZjbXJTV2loNHluQXZaeEsyTkcwMFg2VGhldFNpcTFCVDhiRnNCLVFnd3hRNkhxTmpnU2VMUHF6Sy1vWkRFdDJjaFo0M1VORDFZRVpvWjkxUGFZanRzMkFuTXZVTmZFYW1qR3UyanRJYVly?oc=5",
@@ -2200,96 +2295,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-05T12:50:36.209Z",
       "lastSeenAt": "2026-10-06T08:57:16.710Z"
-    },
-    {
-      "title": "Google Pauses Open-Source Bug Bounty Program After Flood of Invalid AI-Generated Reports - CyberSecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVTBZcmhfRWwxTTM4ZHZ0bUVScnVReW0tNmt1aWloSl85WlF1eVVLQ3BPblBxTGVRTXZDV3lLanpPZzdUSkFRLVk0UEh3bm85T0JSSlRFcXlVNzlvNk16RFdBZy1nQ09DRU5ZVnZQWUVrUnhrbGVXcDZZTFhOVDNvUXhlUGl1d9IBhgFBVV95cUxPVTBZcmhfRWwxTTM4ZHZ0bUVScnVReW0tNmt1aWloSl85WlF1eVVLQ3BPblBxTGVRTXZDV3lLanpPZzdUSkFRLVk0UEh3bm85T0JSSlRFcXlVNzlvNk16RFdBZy1nQ09DRU5ZVnZQWUVrUnhrbGVXcDZZTFhOVDNvUXhlUGl1dw?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 11:44:49 GMT",
-      "summary": "Google Pauses Open-Source Bug Bounty Program After Flood of Invalid AI-Generated Reports &nbsp;&nbsp; CyberSecurityNews",
-      "outlet": "CyberSecurityNews",
-      "outletUrl": "https://cybersecuritynews.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-05T15:55:35.141Z",
-      "lastSeenAt": "2026-10-06T08:57:16.710Z"
-    },
-    {
-      "title": "Coforge Develops Framework To Guide Enterprise AI Agent Decisions - analyticsindiamag.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVGhINU5uOVd1RDdpVXQ1M3pFM1lEM3dyRFp6SnRUbGcxcTJBbVRIRlh3SkVXajVySlVjWGg3dXFvb2ktT0RuMHlRN0xDckpCV3BKa01fR2g0YTU3NjQwUGZGTjRXZjczZ0FROXVHV0Vpcjc3QUoxMnkxSWlTNGt1cVZGc1VmMXhMa2IzSS12djBiLXFhMk9uZVhtbEhicmhJbVMyYnR3?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 11:43:09 GMT",
-      "summary": "Coforge Develops Framework To Guide Enterprise AI Agent Decisions &nbsp;&nbsp; analyticsindiamag.com",
-      "outlet": "analyticsindiamag.com",
-      "outletUrl": "https://analyticsindiamag.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "AI에이전트"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-05T12:50:36.209Z",
-      "lastSeenAt": "2026-10-06T11:12:33.144Z"
-    },
-    {
-      "title": "ONTO Stock Up 126% in a Year: Is More Upside on the Horizon? - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYVZKWHlyYlRvVzRQWmV0Y05XdHdqOGJRQ1ExUHFsV3dIUkNaaFdzQ3pKMTB4enlWVUZHUDFjV0tNZlNvMGQ2YnFEd1JDUWV4NmVDMlEySzNidVAwTmdOak9xQlFTUHcyanlSdjBzMnFIUlNDLU9VUmo5d3NCdDBpY1JCN1hjVVdTQl9ldGRjai1OYVRKX1RVd0ZIeDNJMnBzQWgyT3I5VUI4YlJ5YzdGM3ZsTQ?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 11:43:00 GMT",
-      "summary": "ONTO Stock Up 126% in a Year: Is More Upside on the Horizon? &nbsp;&nbsp; TradingView",
-      "outlet": "TradingView",
-      "outletUrl": "https://www.tradingview.com",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 8,
-      "firstSeenAt": "2026-10-05T15:55:35.141Z",
-      "lastSeenAt": "2026-10-07T01:28:36.011Z"
-    },
-    {
-      "title": "Goldman Sachs upgrades Komatsu stock rating on AI capex cycle By Investing.com - Investing.com South Africa",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3Q4UER0cThZUldnc1RZcm5xc3huV2U0RXhxT2djRF9LaHoyNzJqY1Mzdmo2emQ5TjRyTHVzNmlaZklCSG9GNWhrRG1TSktZWmloamRiTU1aSkV6MFR0dG9vOEw5THR6b0xrUzVqQVk2VE1DMlBZckktd291MTR3ZW5MUzZhcTFfbXdGaUtCamV2RzlYZUhMcVFscWZJamlWNHQ4NW1JWTBHdnNxblBMYUJvWWg4clFOR01YaFl0OA?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 11:41:56 GMT",
-      "summary": "Goldman Sachs upgrades Komatsu stock rating on AI capex cycle By Investing.com &nbsp;&nbsp; Investing.com South Africa",
-      "outlet": "Investing.com South Africa",
-      "outletUrl": "https://za.investing.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-10-06T17:25:04.264Z",
-      "lastSeenAt": "2026-10-08T11:18:21.272Z"
     }
   ]
 }

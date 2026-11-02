@@ -1,7 +1,101 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "Morgan Stanley says these 24 AI infrastructure stocks are built to hold up even if capex slows - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYanNrUUxobk9zcmpTRkZWRWo5NHQzZllUZGJ2ZF9HSVdRRklvR3ZUYkt0d2UtbWhxYzI1emRRUWlUbG9aMXlEeVY1RkFickxGYU9jcW93MWFiRTdFS0R3eWcxTXd1Q3ctd0g3TzBiRElyQUFudzE1ZGNOMDdGV0k?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 09:15:01 GMT",
+      "summary": "Morgan Stanley says these 24 AI infrastructure stocks are built to hold up even if capex slows &nbsp;&nbsp; Yahoo Finance UK",
+      "outlet": "Yahoo Finance UK",
+      "outletUrl": "https://uk.finance.yahoo.com",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI시장",
+      "score": 14,
+      "firstSeenAt": "2026-10-24T16:32:57.734Z",
+      "lastSeenAt": "2026-10-25T06:00:10.063Z"
+    },
+    {
+      "title": "[형평성 상실한 정부 정책] \"구멍가게보다 못 한 산업부의 예산 편성\" 호남 클러스터 뭇매 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUbUpHQ3VRc2d1YV9SWUpwOWJHbWkzZDhWZmJ6Y295MGJaNU1hTXpOalNfTmNSR2I0TldSbG1CdlcxVTg2ejd4aEV5ZlVWeGZ3enU2VXdCQS1KR0NGQ2tuYWln?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 09:14:43 GMT",
+      "summary": "[형평성 상실한 정부 정책] \"구멍가게보다 못 한 산업부의 예산 편성\" 호남 클러스터 뭇매 &nbsp;&nbsp; 매일신문",
+      "outlet": "매일신문",
+      "outletUrl": "https://www.imaeil.com",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "정책"
+      ],
+      "issueCategory": "정책",
+      "score": 11,
+      "firstSeenAt": "2026-10-22T14:06:18.862Z",
+      "lastSeenAt": "2026-10-25T06:00:10.063Z"
+    },
+    {
+      "title": "Nvidia has unveiled a platform to prevent AI agents from getting out of control - logos-pres.md",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXA4dFZNaG5WbGNwX2JLODBwZ05kYnVySWQ4MTZDRzBLVDEwUWlKcDFnWjRnTk9jUGEwb0FaMnYtLVNJY2xHb0tOSXlqZGxoa0tOZFFyMURVbDNQTnRXTTEwYmk4RVdWUVh4ZDVoTDJnVlMweDFLVlRIanVOWmlaS1JMaGVXaVJRV0sxU0g3WThEcXZNdWptcERaQjFvdTljQUN2RVlENFVCTTduTXZv?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 09:14:26 GMT",
+      "summary": "Nvidia has unveiled a platform to prevent AI agents from getting out of control &nbsp;&nbsp; logos-pres.md",
+      "outlet": "logos-pres.md",
+      "outletUrl": "https://logos-pres.md",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 23,
+      "firstSeenAt": "2026-10-22T12:55:50.569Z",
+      "lastSeenAt": "2026-10-24T14:07:23.306Z"
+    },
+    {
+      "title": "Nvidia Unveils OpenShell to Keep AI Agents Under Control - logos-pres.md",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXA4dFZNaG5WbGNwX2JLODBwZ05kYnVySWQ4MTZDRzBLVDEwUWlKcDFnWjRnTk9jUGEwb0FaMnYtLVNJY2xHb0tOSXlqZGxoa0tOZFFyMURVbDNQTnRXTTEwYmk4RVdWUVh4ZDVoTDJnVlMweDFLVlRIanVOWmlaS1JMaGVXaVJRV0sxU0g3WThEcXZNdWptcERaQjFvdTljQUN2RVlENFVCTTduTXZv?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 09:14:26 GMT",
+      "summary": "Nvidia Unveils OpenShell to Keep AI Agents Under Control &nbsp;&nbsp; logos-pres.md",
+      "outlet": "logos-pres.md",
+      "outletUrl": "https://logos-pres.md",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 21,
+      "firstSeenAt": "2026-10-24T16:32:57.734Z",
+      "lastSeenAt": "2026-10-25T06:00:10.063Z"
+    },
     {
       "title": "Where will it all go? Examining AI’s infrastructure challenge - Global Telecoms Business",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGVVc0lLWFJfMjZFRWtVNUMtVXhydUpmUmNxYzhvazRlaXNCcUFZWGZVV2pkUHptSVN4SVpnZjBTM1RZWW1CU3NweXRyWDVJSFpYNHhHV0MySlFsSm41dmJwLVZhaHRxVklTZVdiMnJQY3dXTktPd3M3eURvSy1zV3daTUh4WTJaLVFnYjNIVVVaNS16dFF3?oc=5",
@@ -2168,100 +2262,6 @@
       "score": 23,
       "firstSeenAt": "2026-10-23T00:36:22.880Z",
       "lastSeenAt": "2026-10-25T06:00:10.063Z"
-    },
-    {
-      "title": "Sustaira Launches AI Agent Factory and Control Console to Accelerate Sustainability Impact - EIN Presswire",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcmo2bzBzMHFIUE4xNWJJd2YzWjJvVEtQTlZ3NkVXMFhKUmZEa3R1OUFEN0dqeUdwXzdSNGphU1J3Ql9JT0cwcnEzSktvbnBYWWJwdU9ScTBqYjU4OVlvamh2RWlaWXhqc2lsZ3pCTGlZeFJvTkRObVlFMTlhMHNieC1XZFNad0JDTE9UcFNxWFVKaEZoY0laVkdaa3hFUmR2NFBvYnptSG8yWjE5Smh4T3pERHlRX3VHYmRuYTItSGd6ZEsxWENnc1dYMmhZaDBscTNV?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 08:11:00 GMT",
-      "summary": "Sustaira Launches AI Agent Factory and Control Console to Accelerate Sustainability Impact &nbsp;&nbsp; EIN Presswire",
-      "outlet": "EIN Presswire",
-      "outletUrl": "https://www.einpresswire.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T12:55:50.569Z",
-      "lastSeenAt": "2026-10-22T17:56:53.418Z"
-    },
-    {
-      "title": "젠슨 황 “AI 소비 넘어 직접 생산해야”…엔비디아, 유럽 AI 경제 청사진 공개 - 뉴스탭",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5eDI5Q0F6TjZyUE5OY1Zzei11MHpkY0VNc3M1dldsVDhFSmhWSFZNQnU1djctbmRvZG9kVGZBdDkyNWo3R3NsRDRsMVlFTnVKSU1tMU5fa3hzMUFFTWdtenhWQkptR0lRZWJsaQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 08:10:56 GMT",
-      "summary": "젠슨 황 “AI 소비 넘어 직접 생산해야”…엔비디아, 유럽 AI 경제 청사진 공개 &nbsp;&nbsp; 뉴스탭",
-      "outlet": "뉴스탭",
-      "outletUrl": "https://www.newstap.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-22T12:55:50.569Z",
-      "lastSeenAt": "2026-10-22T14:06:18.862Z"
-    },
-    {
-      "title": "AI 반도체 전력·병목 잡는다··· 엔비디아, 삼성전기 카드 꺼낸 이유 - 그린포스트코리아",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZUG9LUG5KeEJoRGVzZHJkU0g1Z25sdG05UW9HbWFkZFlfZVVSeHlVLXRteXo1OXdhZnVxb2NBd0NKQjRUTWkyekhBcWFrMExMdkNIMmRWVmhFOVVEd0dWWF9fdFlDTzZSdmJGWWdUal9Vd05DSFlyVXdn0gF6QVVfeXFMTllQb0tQbkp4QmhEZXNkcmRTSDVnbmx0bTlRb0dtYWRkWV9lVVJ4eVUtdG15ejU5d2FmdXFvY0F3Q0pCNFRNaTJ6SEFxYWswTEx2Q0gyZFZWaEU5VUR3R1ZYX190WUNPNlJ2YkZZZ1RqX1V3TkNIWXJVd2c?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 08:10:28 GMT",
-      "summary": "AI 반도체 전력·병목 잡는다··· 엔비디아, 삼성전기 카드 꺼낸 이유 &nbsp;&nbsp; 그린포스트코리아",
-      "outlet": "그린포스트코리아",
-      "outletUrl": "https://www.greenpostkorea.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-22T12:55:50.569Z",
-      "lastSeenAt": "2026-10-23T00:36:22.880Z"
-    },
-    {
-      "title": "메르세데스-벤츠·엔비디아, 도심 자율주행 새 지평…목적지까지 주행 지원하는 '엠비 드라이브 어시스트 프로' 출시 - 인공지능신문",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KNXZ1Z0lpZ1B1WUF1a1VMemRNVEpFZHBaQzVBZzEzSV9OZU1tcEtjUlhYZkFKX3lwQ3NRWDB4TFJZSzRNVEtkQ1ZLSmZxNFY3NlZqN3NjenJWS0xtTzNkeWliSDNobDA?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 08:09:59 GMT",
-      "summary": "메르세데스-벤츠·엔비디아, 도심 자율주행 새 지평…목적지까지 주행 지원하는 '엠비 드라이브 어시스트 프로' 출시 &nbsp;&nbsp; 인공지능신문",
-      "outlet": "인공지능신문",
-      "outletUrl": "https://www.aitimes.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-22T12:55:50.569Z",
-      "lastSeenAt": "2026-10-24T05:44:13.773Z"
     }
   ]
 }

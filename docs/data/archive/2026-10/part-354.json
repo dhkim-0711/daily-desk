@@ -1,7 +1,98 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "Nvidia Hits Intraday Record as Depreciation Debate and Off-Balance-Sheet Liabilities Cloud the AI Boom - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HTFk2b3JlQjVaVDBGb3RXbTBjUG95NFZBSnJ2U2owRUlrb3dvVllidTQ5OFhVOGc0ZVB4N1l4ejBTaER4UDNCc19fSS03Q2ZyeHNEaVUwcThNU0Vkd1ZWOVE3T2wzdl9EVGVCTmhfN2w4ZjhEcUE?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 03:29:23 GMT",
+      "summary": "Nvidia Hits Intraday Record as Depreciation Debate and Off-Balance-Sheet Liabilities Cloud the AI Boom &nbsp;&nbsp; finance.biggo.com",
+      "outlet": "finance.biggo.com",
+      "outletUrl": "https://finance.biggo.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 23,
+      "firstSeenAt": "2026-10-05T06:56:19.074Z",
+      "lastSeenAt": "2026-10-05T15:55:35.141Z"
+    },
+    {
+      "title": "엔비디아 AI 노트북 OLED 한국이 독점 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83SF9aQmlMWVRRXy01Q2tMbW1nWWZLSlQzYVdhb1FSU0JGbHpvNmp0Um1SNHY0SmRsYVVqeWx6T25WanVrc2xJM2haYUU5WmlnMlREQ1Bhcmx1MU5OWjh0SzdDY2ZVdw?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 03:26:15 GMT",
+      "summary": "엔비디아 AI 노트북 OLED 한국이 독점 &nbsp;&nbsp; 디일렉",
+      "outlet": "디일렉",
+      "outletUrl": "https://www.thelec.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-05T12:50:36.209Z",
+      "lastSeenAt": "2026-10-08T01:51:37.240Z"
+    },
+    {
+      "title": "마이크론 AI 메모리 질주에 중국이 추격…HBM 시장 판도 바뀌나 - 제민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zb3d3QUc3ck01T2JETVJkeXcybVAzeTgxc2F5bDNRRnVEWElTcUZ4d1BObzAwUEZnUUVOTmpRX0VEMG5KUi11OUlYRlhtd0VfSXVyX1ppUFNDRnRYc1lwT1gzUDlYbFU?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 03:23:37 GMT",
+      "summary": "마이크론 AI 메모리 질주에 중국이 추격…HBM 시장 판도 바뀌나 &nbsp;&nbsp; 제민일보",
+      "outlet": "제민일보",
+      "outletUrl": "https://www.jemin.com",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-05T12:50:36.209Z",
+      "lastSeenAt": "2026-10-06T11:12:33.144Z"
+    },
+    {
+      "title": "아마존, 데이터센터 인허가에 비밀유지계약 안 쓴다…지역 반발 대응 - AI 매터스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zWXktbTVZOEZMekFGYkZfcm1Yc2Z6UnJmUFlZSGg4TXV3ZGd6T210bmt0STZsT1VjTVJPZVlBVnYtTkZBSklTVkxubFlJS2lGUy1SUA?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 03:20:33 GMT",
+      "summary": "아마존, 데이터센터 인허가에 비밀유지계약 안 쓴다…지역 반발 대응 &nbsp;&nbsp; AI 매터스",
+      "outlet": "AI 매터스",
+      "outletUrl": "https://aimatters.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-05T12:50:36.209Z",
+      "lastSeenAt": "2026-10-05T22:54:59.985Z"
+    },
     {
       "title": "구글, 오픈소스 버그바운티 중단…AI 자동 제보 대부분 무효 - AI 매터스",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ISEtBT1lBMENjXzB0bi1CWnRJRGVHWjJHdzl4a3hBOFhMZEVNY3FjM1Vwdi1vbVBJMXM0YUNWUUI2dGg3RVFwNm0xUlQ5SVYxQ01UWA?oc=5",
@@ -2080,96 +2171,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-05T12:50:36.209Z",
       "lastSeenAt": "2026-10-20T17:57:30.297Z"
-    },
-    {
-      "title": "대우건설 이강석 대표 공식 취임…“AI·데이터센터 미래사업 키운다” - 포쓰저널",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVnBqSi00Y2pMQzFBRXdJT3pFR2liMU5KUHdTWURsVGhDT1V3UVYzNEw3a3Fnd3hqNTRSVFBOVFNJVXBFNUNEU3JJcWduNV9kS1ZLRldMT1JiT1dEcVYxYlVUR3E?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 00:41:53 GMT",
-      "summary": "대우건설 이강석 대표 공식 취임…“AI·데이터센터 미래사업 키운다” &nbsp;&nbsp; 포쓰저널",
-      "outlet": "포쓰저널",
-      "outletUrl": "https://www.4th.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-05T12:50:36.209Z",
-      "lastSeenAt": "2026-10-05T22:54:59.985Z"
-    },
-    {
-      "title": "이름만 보고 오해하기 쉬운 카지노 꽁 머니 지급 pang04 com 기능 표현 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LcFhUTGExTmZ3MjFidV9ETTFudk9vaF9FalpxREZtUklMX3l5dnA5dGVVWDhHQzlrVDJuNXJSXzM5UmttRVY4aVBqY1FTTUpLcFc3bzJmcGUxd2t4LVJCWjAzV3l5YU1NUEpaOA?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 00:39:44 GMT",
-      "summary": "이름만 보고 오해하기 쉬운 카지노 꽁 머니 지급 pang04 com 기능 표현 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-05T12:50:36.209Z",
-      "lastSeenAt": "2026-10-07T01:49:41.343Z"
-    },
-    {
-      "title": "Ohio State and Google expand AI across research and student services | ETIH EdTech News - EdTech Innovation Hub",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVQxWjg2VFhKN3lkMW5ub3luTWhxdU1iOFQyU0VKNUt5WHpIejRDXzF1clZQb1FGeE5tRUo3YTF2S2h4N2RRVnQ3WjNXaGphU0ZiMVNzUThocXVBSy1oNzhHdDNJVmdvYWVhSVFMMzIwX0Z3c2dUXzNRTlVqSk9nVG4yck5qRWk3RExwVXN0UDRWdENxQzRFWjhaYktTd0d3OUZjLUpuckNURzN0UFF5UGFaZjhCcllJc3ZGRWszV0ZHZkZFb0c2UXBmX3JrNXFnWENFbkdR?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 00:30:53 GMT",
-      "summary": "Ohio State and Google expand AI across research and student services | ETIH EdTech News &nbsp;&nbsp; EdTech Innovation Hub",
-      "outlet": "EdTech Innovation Hub",
-      "outletUrl": "https://www.edtechinnovationhub.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-05T12:50:36.209Z",
-      "lastSeenAt": "2026-10-05T22:54:59.985Z"
-    },
-    {
-      "title": "Ohio State and Google strike major AI partnership with DeepMind research hub and new student tools - EdTech Innovation Hub",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVQxWjg2VFhKN3lkMW5ub3luTWhxdU1iOFQyU0VKNUt5WHpIejRDXzF1clZQb1FGeE5tRUo3YTF2S2h4N2RRVnQ3WjNXaGphU0ZiMVNzUThocXVBSy1oNzhHdDNJVmdvYWVhSVFMMzIwX0Z3c2dUXzNRTlVqSk9nVG4yck5qRWk3RExwVXN0UDRWdENxQzRFWjhaYktTd0d3OUZjLUpuckNURzN0UFF5UGFaZjhCcllJc3ZGRWszV0ZHZkZFb0c2UXBmX3JrNXFnWENFbkdR?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 00:30:53 GMT",
-      "summary": "Ohio State and Google strike major AI partnership with DeepMind research hub and new student tools &nbsp;&nbsp; EdTech Innovation Hub",
-      "outlet": "EdTech Innovation Hub",
-      "outletUrl": "https://www.edtechinnovationhub.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 19,
-      "firstSeenAt": "2026-10-06T02:13:47.006Z",
-      "lastSeenAt": "2026-10-06T11:12:33.144Z"
     }
   ]
 }

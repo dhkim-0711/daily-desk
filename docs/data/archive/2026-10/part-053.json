@@ -1,7 +1,102 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "오픈AI도 구글 TPU 구매 추진…앤트로픽 이어 TPU 확산 - SBS Biz",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YYkd0c2tZRE42Z2dEMTVZeENGQk1KMC1ZUjlBRHBXMnByeG81TWJHek1UTzdRaldkUmRjVE1ZTWk5YVIyeWpZRVdKbW81ckU0WG400gFYQVVfeXFMTkozQnRzLVdNNjgxMGhraGQ3N0RGZlZkejVHN295dnREZXZoWGhCWFRqa0t1ejkwOHlLOVF3WHg5WHZFTElMWG52dm5mN1NvZmptcDd5WVBCdQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 04:03:00 GMT",
+      "summary": "오픈AI도 구글 TPU 구매 추진…앤트로픽 이어 TPU 확산 &nbsp;&nbsp; SBS Biz",
+      "outlet": "SBS Biz",
+      "outletUrl": "https://biz.sbs.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-28T05:53:34.298Z",
+      "lastSeenAt": "2026-10-29T00:25:13.616Z"
+    },
+    {
+      "title": "Apple Nibbles Away at Nvidia - The Daily Upside",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNck9lNUR1R2dIbjJzUktyN0FjYWNfY2pSUHlQbGJQYkZoei1ubFd4U3dUZWxsOU1uTWVOa0o4M1RfZHlHdFo0dEpFZnBrNGZ3eUxBTzB3WFRrSmJhSDB2NWtZcElIcW13Z2RXQzBDUzlBbk9yX1dGVnhwNFF0cUtlc3hqZWFjbEk?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 04:02:29 GMT",
+      "summary": "Apple Nibbles Away at Nvidia &nbsp;&nbsp; The Daily Upside",
+      "outlet": "The Daily Upside",
+      "outletUrl": "https://www.thedailyupside.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-28T05:53:34.298Z",
+      "lastSeenAt": "2026-10-28T14:31:16.707Z"
+    },
+    {
+      "title": "Oracle expands AI chip offerings with Google, Nvidia, and Cerebras - Tech Wire Asia",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZm1YdFN3VkdWX2JXQjM4TlFhTzVIMVNDQ1lldmEyc2o0QmN3MG1lRVNiQjBpUmVSeHBmVzVxUHp2aUx4Y3pWaHhRU3FSck5qWk5kZURuQnB5M1FfeWthLWkybk9rTFF2VTFydjlzU1pobTdSbzlNZll6TVk?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 04:01:29 GMT",
+      "summary": "Oracle expands AI chip offerings with Google, Nvidia, and Cerebras &nbsp;&nbsp; Tech Wire Asia",
+      "outlet": "Tech Wire Asia",
+      "outletUrl": "https://techwireasia.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai",
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "Google"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "Google"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 27,
+      "firstSeenAt": "2026-10-28T05:53:34.298Z",
+      "lastSeenAt": "2026-10-28T14:31:16.707Z"
+    },
+    {
+      "title": "\"2029년까지 D램·HBM 완판\" AI 정점론 무색케 한 하이닉스 - 중소기업신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wOGFTdGZUNTVSSTI1eExEMGNscGZsTnJ5Ym5XMmtkQVBGa2MtcGdoeUIteDVXX1BZUi0tVzB4NFZUZXBxa09Uc1BqUVF6M3RVVlZvdURnZjhFSERlR0I2YWNKOUZRYnJSN0t6VVpn?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 04:01:05 GMT",
+      "summary": "\"2029년까지 D램·HBM 완판\" AI 정점론 무색케 한 하이닉스 &nbsp;&nbsp; 중소기업신문",
+      "outlet": "중소기업신문",
+      "outletUrl": "https://www.smedaily.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-28T07:24:09.373Z",
+      "lastSeenAt": "2026-10-29T01:46:05.232Z"
+    },
     {
       "title": "Google TPU Arrives on Oracle Cloud: New Split Architecture Transforms Enterprise AI Compute - Tech Times",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV1pzTmhOb3dOTmJJWk1iNVhXNWQyWmQzVnphS3d0aUIweDBRNEtXYUpEZWNIOWpyNXotUnBaZ3RzVlRBWVh3bzhkOGtIUGVrT3lkaEF4VzJfT3ZtYWFIUHRnTC14QzhOR2VBS2R2cUZlTkpWVUNaZGlfSDNQY25pZDlSYkZXOFJCOUFaVjVVQ0pKVHhDUEo3REo4OXNiT0xxRWFfY0MxRHBYLWsxeG1jU0FPcDhaeGdjMGxGWGpCbXlJN0tOdVNkNjRUVG83bUEybEpDUlJGLWNzZw?oc=5",
@@ -2159,100 +2254,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-28T05:53:34.298Z",
       "lastSeenAt": "2026-10-29T23:35:43.436Z"
-    },
-    {
-      "title": "Samsung beats SK Hynix in Q3 HBM revenue, Q4 to change market landscape - Sammy Fans",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZllWRDdTNGItbVNjZ0xFUTAwYlppdEtKQ2xZLXpvMm1XTU13N19iSzRCMC04NDEzeVBvbzYtTlk5UjF5bFFncllNdk9qWHVGZXBnbmVlRkExMmQ1ektDMmlDdDFNOHk2UXJlX2hiNkU0dTBpWWZaSGZjVTI2WGtfbmlnQ1nSAYoBQVVfeXFMTWJpZC1sd2I1eUV1VXJqdDBKeU9FcnhMb1JaT09JZmlma0p5SnBNcG1aNmhxSWxzRThTdFh5UFVDNGRxNzdqZWFyZ3FETEtGSENBbnhBOEZNOVN1T29DUWRCRVBSZGNCcDNvQTdmV3pJYTVtSnhET1VKMEpYSTkzblFvMUtTSlFmanF3?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 02:27:55 GMT",
-      "summary": "Samsung beats SK Hynix in Q3 HBM revenue, Q4 to change market landscape &nbsp;&nbsp; Sammy Fans",
-      "outlet": "Sammy Fans",
-      "outletUrl": "https://www.sammyfans.com",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Samsung"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 12,
-      "firstSeenAt": "2026-10-28T05:53:34.298Z",
-      "lastSeenAt": "2026-10-31T01:33:01.539Z"
-    },
-    {
-      "title": "SK하이닉스 “2029년까지 3년간 D램·HBM 물량 사실상 완판” - 경기일보",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91Ry1LcmhZdGZ5d0lCd2lwaTJJa3R3bThxaFNaNlBkSEZia216YVMxazFhMlNvbXdLUUd4Q2thTkhPVEc3MVRnYTEtZDZaXzR5S0xoN3h0MU05SEk?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 02:27:55 GMT",
-      "summary": "SK하이닉스 “2029년까지 3년간 D램·HBM 물량 사실상 완판” &nbsp;&nbsp; 경기일보",
-      "outlet": "경기일보",
-      "outletUrl": "https://www.kyeonggi.com",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-28T14:31:16.707Z",
-      "lastSeenAt": "2026-10-28T14:31:16.707Z"
-    },
-    {
-      "title": "‘구글 AI 노출’이라는 한 줄 지표가 위험한 이유 - 마케팅 - 정보공유 - 아이보스",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoM21sMkFXUFl2UENpTExNRUR5VkR1Q2JvRXAwMTV1a1c2UlBINXlsZ09LTWcyMXVFWVhHenpnSmZlWDQ4RmJqdUhfeVBNWm8?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 02:26:41 GMT",
-      "summary": "‘구글 AI 노출’이라는 한 줄 지표가 위험한 이유 - 마케팅 - 정보공유 &nbsp;&nbsp; 아이보스",
-      "outlet": "아이보스",
-      "outletUrl": "https://www.i-boss.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-28T05:53:34.298Z",
-      "lastSeenAt": "2026-10-28T18:48:46.253Z"
-    },
-    {
-      "title": "AI 투자 열기 여전, 메타 공모에 주문 5배...엔비디아·AMD 참여 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04ODZ5M2l2c0Jpemp3WU9MWU1OUllpUlRPeFBobVRaclQwZGZ1MjlFWXlVYUdvdC00RTc0UzQ5UEVha3JpU1ZkV0l2a3VTRFZOeGItNlJ1Y3lhQQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 02:26:22 GMT",
-      "summary": "AI 투자 열기 여전, 메타 공모에 주문 5배...엔비디아·AMD 참여 &nbsp;&nbsp; 파이낸셜뉴스",
-      "outlet": "파이낸셜뉴스",
-      "outletUrl": "https://www.fnnews.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "AMD"
-      ],
-      "taxonomyHits": [
-        "정책",
-        "AI시장",
-        "NVIDIA",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 43,
-      "firstSeenAt": "2026-10-28T06:02:23.284Z",
-      "lastSeenAt": "2026-10-28T06:02:23.284Z"
     }
   ]
 }

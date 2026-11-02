@@ -1,7 +1,96 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T18:50:26.182Z",
+  "updatedAt": "2026-11-02T22:18:13.619Z",
   "articles": [
+    {
+      "title": "지원 브라우저 안내는 어디에 있나요? 글로벌 포커 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOTR2LVU2ZDVxU09uUlRvQmRCdWZJWTNoY25Vc0d3eWxnRUxCdmY1VHlfTzVFRmlKbE5RMFJrY1AxTGlremhlUDZHMDNwY29mSE9jbmJ6dTkwM3BOYUdvaGZIWVZtUkQ4dWJKQW5Lb1ZpVWg5LUZ6X0l3QVFmZTdQZ3dpMGhQMVN5N1FxcEZXak9ZXzgxVW05OXlrNmkyQnpEYlpTc2F4TlV3b2FFSmtHU05rSkJYckxFNE0tR3oyZVhzZWg4SERMaHdHNmJRa2xScFkzcEJaRWtIZ3Z0bG5XZTZ0UWo3VF8yY1FGQ25WZGw?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 14:08:16 GMT",
+      "summary": "지원 브라우저 안내는 어디에 있나요? 글로벌 포커 &nbsp;&nbsp; Calgary Roughnecks",
+      "outlet": "Calgary Roughnecks",
+      "outletUrl": "https://www.calgaryroughnecks.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-07T19:18:42.713Z",
+      "lastSeenAt": "2026-10-07T19:18:42.713Z"
+    },
+    {
+      "title": "RBC 캐피탈, 마벨 테크놀로지 주가 목표 상향… AI 성장 전망에 기인 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DZ1lwTHIzY1RmcVllOUoxSFdRamVIS2lLWDc0YjFVdzBHeVFPVmxaZVFOS29zWTJGbER6N3hnbk9QUnN6ZlV3d25mVHI4SnE0VkFsbjJhN2NsLU9LdFdwUU95c05kbTJ6RWxDeFdDNS1JdzRX?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 14:08:00 GMT",
+      "summary": "RBC 캐피탈, 마벨 테크놀로지 주가 목표 상향… AI 성장 전망에 기인 &nbsp;&nbsp; Investing.com 한국어",
+      "outlet": "Investing.com 한국어",
+      "outletUrl": "https://kr.investing.com",
+      "source": "AI반도체 시장·수급",
+      "sourceIds": [
+        "ai-chip-capital-market-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-07T22:15:59.834Z",
+      "lastSeenAt": "2026-10-10T10:33:34.677Z"
+    },
+    {
+      "title": "Marvell’s $30B AI Chip Opportunity - NVIDIA (NASDAQ:NVDA), Marvell Technology (NASDAQ:MRVL) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHUxX3NlUTdvU2ZONmpvczBUZE5aOGdLWXNkeThzT3YxcWVTS0dIY0RpamUzN1lQdmdNS0gxQUc2a0NVVm05SjJoakc0a1lhN2lxWTlUa04tM0RnNHlLLW51d1hySmNYUWJPek84S1Q5RmNBYUU2ejE1TWFJQUtKZG9uUEc4enluS01OdmRjb0xPZG1PRlR0dnktVDg?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 14:04:47 GMT",
+      "summary": "Marvell’s $30B AI Chip Opportunity - NVIDIA (NASDAQ:NVDA), Marvell Technology (NASDAQ:MRVL) &nbsp;&nbsp; Benzinga",
+      "outlet": "Benzinga",
+      "outletUrl": "https://www.benzinga.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-07T19:18:42.713Z",
+      "lastSeenAt": "2026-10-08T01:51:37.240Z"
+    },
+    {
+      "title": "Nexentis Deploys MitoCareX Computational Drug Discovery Infrastructure on Google Cloud - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYWJYYU1Ob0I0ZEg2SnRTZ0dKN0x4bEdvVTItUGRXdFg3M0VwbVBFTGtQa3BMa3NaVVg3YUhfZ0JOZU43V0ZzVU5oWEJ0T3Z6XzNJbWhkLTB4ZUZPdXZUaEJIRWJDdXRRM2VUTFZxdUp4ZEJRakU1WWIyQ3h5NjU4TDd3WEV0M21mTFBIaWVsWFhHNTVxZndEX2VsM3ZYa01tbzVoOTFsYVJvZw?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 14:03:51 GMT",
+      "summary": "Nexentis Deploys MitoCareX Computational Drug Discovery Infrastructure on Google Cloud &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-10-07T19:18:42.713Z",
+      "lastSeenAt": "2026-10-07T22:15:59.834Z"
+    },
     {
       "title": "Google Faces £1 Billion Antitrust Lawsuit in London Over Play Store Fees - TIKR.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeG9YZnQxanVSY3Q4R2FYeWRqTEcwTUVNeDhEUC1aTEx2cjEzZXZ0NnkwSklJNzV3UjBvTE5LTk5CWFlhLXJ2LTVBeE14czR6Z3NCekI0a2o2N19ZeHZUZU5RbGRRYVhWVGJudTlFNTZzZURFazdTLWpEaV9DWVVtMVBvUQ?oc=5",
@@ -2178,96 +2267,6 @@
       ],
       "issueCategory": "AI시장",
       "score": 23,
-      "firstSeenAt": "2026-10-07T19:18:42.713Z",
-      "lastSeenAt": "2026-10-08T09:27:30.031Z"
-    },
-    {
-      "title": "랑그 도박 게임 설명의 예시 조합 읽기 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92UExLN2VSQWxmY1d3LW5HYk1mYldrWDB1d19FSWR0UTFzT0E4Zl9hQmMxUjB0WElXWVV0TDdidmxXZmhMT1RTRVZCUG5IRi1EUG5nc2FVNjZ5VHg1Z2NBUnB4V1BXaUVKTmVKOXNB?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 12:15:39 GMT",
-      "summary": "랑그 도박 게임 설명의 예시 조합 읽기 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-07T22:15:59.834Z",
-      "lastSeenAt": "2026-10-08T01:51:37.240Z"
-    },
-    {
-      "title": "Property Franchise Group Buys £900K Stake In AI Agent Biz - Law360",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QWHRFWUpsTjVqNGUtV3RJUnNpaHZNbFhPS1VOUkoxOXh4SVFOOWtRMkNqb2psNUFXTTBEM2QzVzJ6SDRicDlVTWxIS2FPekZHenljQlJ30gFWQVVfeXFMTVBYdEVZSmxONWo0ZS1XdElSc2lodk1sWE9LVU5SSjE5eHhJUU45a1EyQ2pvamw1QVdNMEQzZDNXMnpINGJwOVVNbEhLYU96Rkd6eWNCUnc?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 12:15:00 GMT",
-      "summary": "Property Franchise Group Buys £900K Stake In AI Agent Biz &nbsp;&nbsp; Law360",
-      "outlet": "Law360",
-      "outletUrl": "https://www.law360.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-07T19:18:42.713Z",
-      "lastSeenAt": "2026-10-08T06:27:57.646Z"
-    },
-    {
-      "title": "구글과 유니티 소프트, AI 게임 제작 플랫폼 출시…로블록스 주가 급락 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TdWtIVWU4TkdLR1ZUMDM3VjdPb1ZxRlVQcFEyOS12MHdoaUxHUmlUUmtOTVBmajFHLWltN2tKM0NVNnl4NjZWSG50NHltcWRUdWVlWG92NmtrYXZPdHdnbWc0aDFiSGhhMFlUVkJ1bzM?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 12:14:00 GMT",
-      "summary": "구글과 유니티 소프트, AI 게임 제작 플랫폼 출시…로블록스 주가 급락 &nbsp;&nbsp; Investing.com 한국어",
-      "outlet": "Investing.com 한국어",
-      "outletUrl": "https://kr.investing.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-08T01:51:37.240Z",
-      "lastSeenAt": "2026-10-08T06:27:57.646Z"
-    },
-    {
-      "title": "Unity Software surges on Google AI gaming partnership (U:NYSE) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbHhmZFc2ajJLVTJrYTc3NVVUTXlPbkpLMkVxaWxraWtSS2w0YnRIcGRwWjdGTklXUlE5cWZCcEJzcFBiTVJnQldCU290SlJYcEN1c2FzNVdlZlVhUTl3cTRvd2cwWTZqNnU4LThRVjdqVV81ZldrVDVxMl9kOE11ekxUTkVRSDNpWFlQOEI4elZ1Ty1vZkE?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 12:13:36 GMT",
-      "summary": "Unity Software surges on Google AI gaming partnership (U:NYSE) &nbsp;&nbsp; Seeking Alpha",
-      "outlet": "Seeking Alpha",
-      "outletUrl": "https://seekingalpha.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
       "firstSeenAt": "2026-10-07T19:18:42.713Z",
       "lastSeenAt": "2026-10-08T09:27:30.031Z"
     }
