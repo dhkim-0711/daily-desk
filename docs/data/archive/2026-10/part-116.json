@@ -1,7 +1,232 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T01:02:18.129Z",
+  "updatedAt": "2026-11-02T01:28:59.868Z",
   "articles": [
+    {
+      "title": "인피니언, 엔비디아 800V 데이터센터 GaN 전력칩 넣는다 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QQ3AzZ1JtNHctQktrU054OUIzUnpHbHdTRDlaNTZCTGljQzRMa2JTUmRwRGE5Z1h3UlU2QnNzYUFpMHJHWDBoQU84T1V1VVhNbVh6RHBYQ1FZRlpWdUExOFdSblV5UQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:47:36 GMT",
+      "summary": "인피니언, 엔비디아 800V 데이터센터 GaN 전력칩 넣는다 &nbsp;&nbsp; 디일렉",
+      "outlet": "디일렉",
+      "outletUrl": "https://www.thelec.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 18,
+      "firstSeenAt": "2026-10-22T22:45:34.762Z",
+      "lastSeenAt": "2026-10-25T12:32:15.609Z"
+    },
+    {
+      "title": "SK hynix: AI Memory Prices Could More Than Double In 2027 (NASDAQ:SKHY) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSk1lQUN3cjc3Vl9WYlhaZkVKMUFuc2J0RDQtTzFxTnBNZzhXUmtXZmJ4WV9QRWRxMlNkYkFoY3FvbThmRnRZRjNKcGd3SUR4dG9qSTAzekNsMUNUTVNMQ0xDZEhOcGxXWFAyV2tjSkxPb1pfbkNoekxDeFhpS0VqVmFoWk9vemdtVGZZVGMzZFdnN0VGYm4yemZSYXpLdw?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:36:27 GMT",
+      "summary": "SK hynix: AI Memory Prices Could More Than Double In 2027 (NASDAQ:SKHY) &nbsp;&nbsp; Seeking Alpha",
+      "outlet": "Seeking Alpha",
+      "outletUrl": "https://seekingalpha.com",
+      "source": "메모리·패키징·인터커넥트",
+      "sourceIds": [
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-23T05:01:32.260Z",
+      "lastSeenAt": "2026-10-25T12:32:15.609Z"
+    },
+    {
+      "title": "Nvidia continues impressive path at GTC Berlin, BNP Paribas says (NVDA:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0NFaGtkb1pjYUtvSFhxcV9peDROTGwybDRWWVZhXzZ3VUxCbnpxRFIweGNyZV9DcFEwVWlrX2d6T093ZnpIMWhYVVFabEVaZ0Q0eU03b1laYzF5MVBLUjJNUHpSY01mRmpRdkJNVGtGMkVuOG1oc3M5QklwalNFTHgzTGhmV3EzcWhUNkd1Sm01Wll2eEdaS245VGVGV0M1YXkw?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:35:22 GMT",
+      "summary": "Nvidia continues impressive path at GTC Berlin, BNP Paribas says (NVDA:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
+      "outlet": "Seeking Alpha",
+      "outletUrl": "https://seekingalpha.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-22T22:45:34.762Z"
+    },
+    {
+      "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1dkcFhzRDJhakxUNEd2MFg3amZxc3p2Wjd2VnRRRllFSGdDQWpjY21LQVpyZFhLdC0yOVVxVmFvMnZjNlNBTE1ZdDVvUUptNXI5bzh4M2Y1djVjNzdRNUd5WnNXVkdLc0VzZ2ZPbjdqdUU3YnMzUllqMm9jYUJxc1ptcVdhUTZwOGtyWg?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:34:09 GMT",
+      "summary": "A.I. and Its Dangers Are Embedded In the Midterm Elections &nbsp;&nbsp; The New York Times",
+      "outlet": "The New York Times",
+      "outletUrl": "https://www.nytimes.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-23T13:48:54.332Z",
+      "lastSeenAt": "2026-10-24T14:07:23.306Z"
+    },
+    {
+      "title": "A.I. Is Embedded in Your Election Experience. So Are Its Dangers. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1dkcFhzRDJhakxUNEd2MFg3amZxc3p2Wjd2VnRRRllFSGdDQWpjY21LQVpyZFhLdC0yOVVxVmFvMnZjNlNBTE1ZdDVvUUptNXI5bzh4M2Y1djVjNzdRNUd5WnNXVkdLc0VzZ2ZPbjdqdUU3YnMzUllqMm9jYUJxc1ptcVdhUTZwOGtyWg?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:34:09 GMT",
+      "summary": "A.I. Is Embedded in Your Election Experience. So Are Its Dangers. &nbsp;&nbsp; The New York Times",
+      "outlet": "The New York Times",
+      "outletUrl": "https://www.nytimes.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 6,
+      "firstSeenAt": "2026-10-24T16:32:57.734Z",
+      "lastSeenAt": "2026-10-24T16:32:57.734Z"
+    },
+    {
+      "title": "Market Open: AI Stocks Tumble as Anthropic Nears IPO Filing | Oct 22nd | 2026-10-22 | Investing News - Stockhouse",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUV6UVRJYkVSb245MVhEVVA5eVBPN2txcmFuaGJQV1hxU2RCYU9Wc0lGeEszcTFRbldVZ0ltWVEyVjRpc01sa2tvSHNqeGpnSlc2UG1aQ01FUzdOTjZpN2kzVnJaM0Vlb19oNkpTN2plSXpRakl3czNyTTl5cG9hSVYzMmI1SDVEcTVPdWl4Zl9vUVAyMlkxNFU4VzB3Z3VNWVBPaWNIeWtYLUFvU29SRTdyTGhidEhlbEJUVGxn?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:33:45 GMT",
+      "summary": "Market Open: AI Stocks Tumble as Anthropic Nears IPO Filing | Oct 22nd | 2026-10-22 | Investing News &nbsp;&nbsp; Stockhouse",
+      "outlet": "Stockhouse",
+      "outletUrl": "https://stockhouse.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-23T07:56:19.361Z"
+    },
+    {
+      "title": "Lenovo's New Yoga Laptops Target AI Creators With NVIDIA RTX Spark And OLED Displays - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN1RabUQ2MUJIbjkxU2w0X1JJYVhGaDJXTnl2d1UzMTUwbHA2WHd3OFFfQk9ZcDZJcnhKeVd0Y0FDeFFTVnlIUlVhc014SjZOY2Q0aUJLY3daZlZ3aGtkcndkaUdEOEZ4dkZKTDFOZFBqOTFwbG1rbkM0NFNBTHJqYTlESnZzVEE4MjgzQTNCUHZodzEzWkZBbi1wRjJZZHVvRk9RUmN3bF81V2xSeGRpQzJFck1SekN2SXdrMWwxZi1wS2xqd2JWUHRR0gHSAUFVX3lxTE4wWHhvWUhaNENrX3NtWlI0b1pRUVloLVR6YVB4dnprWGRBNHUxRzVJQ1hLdExjWXFScnkzRTh3SEE2RzJqOGU1NmNnd3lBakJ2WUVoSG9DS0JibHhzamx3cTJpSUtWNENULXBtSmZNQ2I0dnpGSmdyTzdCblphSFNTOUg4c2E0SzhzYXZYNkJVSmRaM2dqclZKcTJQd3A1VW01ek5ZdFFtUEtYUENPN09QWXQwYzJ2QktJbjN6WWo3MXl6el9hNkt4SXV0aHNwNFdSZw?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:33:25 GMT",
+      "summary": "Lenovo's New Yoga Laptops Target AI Creators With NVIDIA RTX Spark And OLED Displays &nbsp;&nbsp; NDTV Profit",
+      "outlet": "NDTV Profit",
+      "outletUrl": "https://www.ndtvprofit.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-22T17:56:53.418Z"
+    },
+    {
+      "title": "DA Davidson raises Meta stock price target to $800 on AI spending - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzM0ZDFLYV9DVklTWEZTVGtFWXZzbnZLRS1rSnRVbGVGWE9UYkdVSjVyTzlzZVhnVUppY28tcXAybU1fMnpzcWRkdlNETGY3OVh3aUxTQkR3NnZybFFaUXdGa1NzNzZZbkVabllLOWpIRmpNOFlLT1BhZmJFWG1MdW1xVVMwcFkwN0RtQVhtdnZJQVJ1VUh3YndXY2J3V0lIelhGN205LXdXWm1tTFNnUGY1N2FmTlNRYm1QZXJUYUFBQQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:32:05 GMT",
+      "summary": "DA Davidson raises Meta stock price target to $800 on AI spending &nbsp;&nbsp; Investing.com",
+      "outlet": "Investing.com",
+      "outletUrl": "https://www.investing.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-22T17:56:53.418Z"
+    },
+    {
+      "title": "Thursday, October 22, 2026: What's driving this tech stock's pullback despite strong AI adoption - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaWdCYTRWMHFnQzB1S1hDWU56c1o4d2l3ZFFrTTNYUTFRUHpiQWhtbnJYaGwwUHZQQW85a2Q5UHlOQnFtV2dGc09HNVc1QnhOM2JhaEFYQlZQdjVya1R6cHlYT3lmODZQZC1nZW1ZaXBBYkVickNTOVpyRG9ZRjB4TGRFVlZTWExkTmJPcWNpeVhQZU1RQTR6Q09pWTd1YUV6cE52Wm1sVWI1N0QzX2dsbG9JSktzU3gzYXpYR2Vha2JmZE5oMjg4cXBsT2xQM2ZlSWpKWG9R?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:31:35 GMT",
+      "summary": "Thursday, October 22, 2026: What's driving this tech stock's pullback despite strong AI adoption &nbsp;&nbsp; CNBC",
+      "outlet": "CNBC",
+      "outletUrl": "https://www.cnbc.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-25T12:32:15.609Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Says US Must Take China ‘Seriously,’ Warns Against Underestimating Its AI and Chi - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQb3d0amR6LVN1Zng3Z3hDWWF5X1M1bklrWHJFUkJfVlg2Uy00X1BQVkUzanpzVDljMVlqR1NyTUVhTUVlRGN6VmVyVlRNQTZiT0p6bjhoOFdxc1BmX2hQZUJjcXhJNWRqOVl0akJ6TVMxVG1NQlM5R0FBN2dPY29tRUVpRnk2S2NuT3Q3eTVyM1JMZWZka3h6cDllYW5hbHVma1A0ZVV2QmN2OXlJejl4MDkzMEIyY2FwMVVzdXNOOW9kc19kdGM3SmtkTmYyd2VmNWVFREpHRlJzeGdvSGRIQ1VNX0NMWVRVMk0ycDdUTnpVMko2Q0kzWlliQlZEZWxaM0VRM0pmV2ZJSDlBU2NBaVo1bVJ6VDBnbDZsdGFRTDJFT2RvWjlyR3RZTy1md1E3czZpdlllTi1Rb0F5X2J4NEVZU0Q?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:29:09 GMT",
+      "summary": "Nvidia CEO Jensen Huang Says US Must Take China ‘Seriously,’ Warns Against Underestimating Its AI and Chi &nbsp;&nbsp; Benzinga",
+      "outlet": "Benzinga",
+      "outletUrl": "https://www.benzinga.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "수출통제·공급망",
+      "score": 23,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-22T17:56:53.418Z"
+    },
     {
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVWkxaS10M1lTMkNibTlEeVNYcVZhQVFNTFNhbmNjSEc5VjV2T0wwOU05TmZmbEN6eFRjb1U0b0N3RWhvTk9IVnBCRnpYM3BIejZYWndkc0VIMTQ?oc=5",
@@ -2015,232 +2240,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-22T14:06:18.862Z",
       "lastSeenAt": "2026-10-23T05:59:20.208Z"
-    },
-    {
-      "title": "Tencent and Ant Group Bet on the Same Horse as Shanghai AI Startup Today AI's Cumulative Funding Tops $200 Million - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IajBsS3dwcktyWVdYNmV5V3pYYmJDX01WSk1EZVNCTkxqdGZ6bVctekItdnZYQXpLZUwteE5oSkI0a2N4eE1HRjRMTVRUZkdRby1RemdQZFJCUng1T1dwTHU0WElCZU9lSDRFbkV6eFE1b2Vwb1E?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:25:00 GMT",
-      "summary": "Tencent and Ant Group Bet on the Same Horse as Shanghai AI Startup Today AI's Cumulative Funding Tops $200 Million &nbsp;&nbsp; BigGo Finance",
-      "outlet": "BigGo Finance",
-      "outletUrl": "https://finance.biggo.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-25T05:05:29.391Z"
-    },
-    {
-      "title": "레드햇-엔비디아, 에이전틱 AI 보안 맞손 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeFBfXzNOM1Fsbi1SSm52TFdDa0hlUmxLbXY0enQzQXdrcWwta3BuR1Y2OVdvOGZrc19la0Jyb2VBbkZvMjl1WUx2ejJqYU9iVm1JNnFtcVpUYzUzckpVeHNyZXdhSnZfa2ZKa3p3bS03Tk1IU0dXcGw3UXdaLXFfUw?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:24:47 GMT",
-      "summary": "레드햇-엔비디아, 에이전틱 AI 보안 맞손 &nbsp;&nbsp; 이데일리",
-      "outlet": "이데일리",
-      "outletUrl": "https://www.edaily.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-22T17:56:53.418Z",
-      "lastSeenAt": "2026-10-25T12:32:15.609Z"
-    },
-    {
-      "title": "광주 반도체 클러스터 부지서 미군 공사…김정관 산업장관 “내용 파악해보겠다” - 직썰",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzT0NqTlJMX0FVR3JhdWNzT19VU2VqZ1JjdVpCWEQ0bm5CNi1WcHprUHg4a3pVVFJuSV9acTE0UkVwanJOXzZoQkZXdHpUOVhVX3ZLTkltLTRNYWhZbFN1eWpTeVEwUjRYUGV0ZdIBbEFVX3lxTFAzT0NqTlJMX0FVR3JhdWNzT19VU2VqZ1JjdVpCWEQ0bm5CNi1WcHprUHg4a3pVVFJuSV9acTE0UkVwanJOXzZoQkZXdHpUOVhVX3ZLTkltLTRNYWhZbFN1eWpTeVEwUjRYUGV0ZQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:24:28 GMT",
-      "summary": "광주 반도체 클러스터 부지서 미군 공사…김정관 산업장관 “내용 파악해보겠다” &nbsp;&nbsp; 직썰",
-      "outlet": "직썰",
-      "outletUrl": "https://www.ziksir.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-22T17:56:53.418Z",
-      "lastSeenAt": "2026-10-25T12:32:15.609Z"
-    },
-    {
-      "title": "Nvidia enters Italy via TIM: Why it matters - Decode39",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YS2hEVkpmclFwYXp5M2h6MENhQ041WHRZTjVrdVVVSzlFOHpsSzI3eklVLVlkcDN5Sm5tOUQ4RG8xQllsWHlSeDZ2cTlCQnhjQmFPYmlXaHk4RW1WMzFSVi1QTlBJa04wYXYtTkNBdjhITU1yRkIyUlJn?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:23:46 GMT",
-      "summary": "Nvidia enters Italy via TIM: Why it matters &nbsp;&nbsp; Decode39",
-      "outlet": "Decode39",
-      "outletUrl": "https://decode39.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-23T07:56:19.361Z"
-    },
-    {
-      "title": "WISeQey launches WISMind.AI platform for AI agent security - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmxEZ2pBbV9pdFFpWVNTWW9SQVhna3A3VUdaSW5jdENNWVZqU1Y3UkNmaWdOQUFMUFlTdklUTTJzdE1WU2hQc1ZXYXEwdlZqSDZ4QUZWWlBRNGJTbkJNal80V2JLNHI0dlRfZXduVExwTnJwUF9hckdRZlhSSUVHX2wyaE04eTJscDVSNURrX25OVjlETkxPVmRJcjQ5Zm01ZXBVNDB0bEE3T2YwRDhrOTNhS2o?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:23:33 GMT",
-      "summary": "WISeQey launches WISMind.AI platform for AI agent security &nbsp;&nbsp; Investing.com",
-      "outlet": "Investing.com",
-      "outletUrl": "https://www.investing.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-23T01:57:31.733Z"
-    },
-    {
-      "title": "Reco Integrates with Cyera to Prioritize AI Agent Risk Across Sensitive Data and Applications - markets.businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbEVuX2g3bUIzN1Jpa2V4elR4SFZrZlhwMndDLTBiMnhOem45V3ppSXBIb0xlYkgtRVRHM0p3eHFDTGJGa2gyeGJIYjA2eVNGcmhaeUM0MDVkV2xMVGJpVmt0LVE5c1J6N2plQk5VOEhDakxQTlIwaEpEOWZhN0pXQlFiU181WVdBX01lLWFUd2ZzLU90dXR1Y19XMWFVb0pjbnpldkgxbDlXY0NzUmQ3dnl2ZkJJeERLbEZXNGpRRzdiOHFHYjJrS1FwVmlXQmNiOHBCcHpLLVVvVkFRS2h6dGhmU2VHa0U?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:23:31 GMT",
-      "summary": "Reco Integrates with Cyera to Prioritize AI Agent Risk Across Sensitive Data and Applications &nbsp;&nbsp; markets.businessinsider.com",
-      "outlet": "markets.businessinsider.com",
-      "outletUrl": "https://markets.businessinsider.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-23T13:48:54.332Z"
-    },
-    {
-      "title": "Aegiq’s Quantum Computer Reduces Engineering Time With NVIDIA AI - Quantum Zeitgeist",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UTVJSOWhveml2dkdyNG9HbGV4NDNfaDV5MkFHYkdQUEoxS0kwRHVqX19CNXpGU21vaEVMNHFLM0loLVFIelpqbmc3Slg0YWthNk5TZUFoQTlfTDJ3dkVFb3VfUmJmc3V2WHpJUGEyUnhYdVl0RHZIQ2g1T09Idw?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:22:36 GMT",
-      "summary": "Aegiq’s Quantum Computer Reduces Engineering Time With NVIDIA AI &nbsp;&nbsp; Quantum Zeitgeist",
-      "outlet": "Quantum Zeitgeist",
-      "outletUrl": "https://quantumzeitgeist.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-22T17:56:53.418Z",
-      "lastSeenAt": "2026-10-23T07:56:19.361Z"
-    },
-    {
-      "title": "Anthropic introduces Claude Duet, a proactive AI agent for professionals - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVE5ScTA2YjJhaU5WcVJNZ1lHNTVvOFgxeFRNZ2JUTC13LWxWTWswYTgwV1VWUTR4RnRTYjE0UlphZWFRNjVNWFl4RHJXZ2Exa1d2RElzc2dPYlJ3TXdUUUt0WVg5cHRmbVdhd0xoVE1JaGRIM0Zhbk5KNnRJTms0eHZIVGphampTOGtnbW1aSWZxdGsxWmtEYXpvVVB5WVoxdElIREcxaGdacXF3?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:20:00 GMT",
-      "summary": "Anthropic introduces Claude Duet, a proactive AI agent for professionals &nbsp;&nbsp; SiliconANGLE",
-      "outlet": "SiliconANGLE",
-      "outletUrl": "https://siliconangle.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T17:56:53.418Z",
-      "lastSeenAt": "2026-10-25T12:32:15.609Z"
-    },
-    {
-      "title": "SK hynix vs. Nvidia: One AI Chip Stock Is Cheap, the Other Only Looks That Way, Says Top Investor - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbkd6UEN1cVFtZzFSRk14QWVHa3l4YUk0ZnRlVlJxNXpQalFGN2lBNzZDbnRkd0pqa1gteHlPY2kwZ0QyeEpMUjJhb2dibHh4RmZDQmxNNlUzNm1BTFJwc2RUTnh2NDBOd282MmR2VEZveEZ0MUR2N3hEanpjLUZVaEx4a1JJdDZ4ZXVvS0thY3ZZYjlSOERnaWdmQ1VQWE9aUTJRazdHdTJyQ0JsN0xjWmhzUTc0Y2ZuZ2hPRVZZUlhrUnY2MFpxRDUyUQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:19:55 GMT",
-      "summary": "SK hynix vs. Nvidia: One AI Chip Stock Is Cheap, the Other Only Looks That Way, Says Top Investor &nbsp;&nbsp; TipRanks",
-      "outlet": "TipRanks",
-      "outletUrl": "https://www.tipranks.com",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-25T12:32:15.609Z"
-    },
-    {
-      "title": "AI Stocks Slide After Earnings Disappoint; French Bonds Tumble and Oil Tops $112 -- Update - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVEIxamxjYzhMTENSbkQzYWlYZHZFZEhxbThxUTlHVkFUbEdGVFJiYzRtOVNOUnFCVFNqOHAtbVBMekFpRGFUVExQLW50bTZ2U0FpdS1mZ0R2bDZoU0htYmNVVGxyQkN0c2dWN0RTUjNQWExyUWpkejY3ZVpZaldVbWJVRlJmOTYwVUdNT2pDcFc2MTliUksxMl9lbEtwVER2RXJDenEwbGxHalQyN0lHQjFuR09YMnY4Y21zX28yWFpLcXdSUUJGS1JqMjlhQTNEandUOA?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:19:53 GMT",
-      "summary": "AI Stocks Slide After Earnings Disappoint; French Bonds Tumble and Oil Tops $112 -- Update &nbsp;&nbsp; marketscreener.com",
-      "outlet": "marketscreener.com",
-      "outletUrl": "https://www.marketscreener.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-23T01:57:31.733Z"
     }
   ]
 }

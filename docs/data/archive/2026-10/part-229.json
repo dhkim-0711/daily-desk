@@ -1,7 +1,238 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T01:02:18.129Z",
+  "updatedAt": "2026-11-02T01:28:59.868Z",
   "articles": [
+    {
+      "title": "RAG vs Fine-Tuning in 2026: Enterprise AI Accuracy, Costs and Seven Deployment Examples - InfotechLead",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcl90RmlTV2taZHE1VUgyZ2ltcWxEYW1GdnpIYzYzOFdvWkgzUVlRUXgxbjg5QkNla0hIZk9wSjYxb0ktZDN0X2pqelAwVi1FYWVjTkZjc0pOV0JpMFdmQnE0MHRrRzBFaUFPdHhSMHVlUUlmalFsXzBXVGFYeHoyOEYxTlRvTjNoVXJueXpwMU43ZnlUdVRGV0xYSkpSZWVWWEV1QldGTmQwbXVjNFd6bUpZbGJTSnFHekFRbEo5UlpJUUU5SnJqVTlYZ1JTN3plbmoxLTNCc9IB3wFBVV95cUxNbkh4bERBbXZoRl9wbkZIZUJPU0p4YjdUSERwRzVueWdIaGZyZkVuTnFOMktIeUpNRUJvVzNncHJLd0RiblBSV0l2SmNOa1lEVnRfbVllTzJPU1Y4cFQ1ZGpxMEhpYmxSd21sRnFHT0hBLVF5YW9iUU16OEJPQU83Y2pPWDdJQWZtSEFWLVNxRWVuM3pNNW5oTERaUHhIU3VQb3dTVzV4RkdUdFEzNDRLNzVaTTdZTnB6SE1rQV9yaVhjLVdDNm94RHBzYjRVdnRlYy1MYjJteVhZd1dnNmlJ?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 14:55:00 GMT",
+      "summary": "RAG vs Fine-Tuning in 2026: Enterprise AI Accuracy, Costs and Seven Deployment Examples &nbsp;&nbsp; InfotechLead",
+      "outlet": "InfotechLead",
+      "outletUrl": "https://infotechlead.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "실증·조달"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-15T00:28:45.158Z",
+      "lastSeenAt": "2026-10-15T04:50:37.120Z"
+    },
+    {
+      "title": "매도 압력에 가격이 짓눌리며 AMD 주가 하락 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2hHcl9VRU9NU2h3X3Zva0VJOXY0X1dvNnF3eW10RG1kd1NlRGNXTDF6NFFTZEdKX3FGY2gwcTRnY1JnWHBZRHVSeUFNUnNmSGU1eTB0YWdqYVFnbHBfek4xanFvNXlIbkVua0FLUlZMOGR2LVZaQWZ2bUdGeVJUNXNHa2JjTFg5dEN2Tw?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 14:52:39 GMT",
+      "summary": "매도 압력에 가격이 짓눌리며 AMD 주가 하락 &nbsp;&nbsp; Traders Union",
+      "outlet": "Traders Union",
+      "outletUrl": "https://tradersunion.com",
+      "source": "AI반도체 시장·수급",
+      "sourceIds": [
+        "ai-chip-capital-market-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-14T22:37:16.367Z",
+      "lastSeenAt": "2026-10-17T14:25:36.526Z"
+    },
+    {
+      "title": "'SOL 반도체 소부장 ETF 3종' 개인 순매수 한 달간 2231억원 - 코리아리포트",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIdEdMU1N1QWxKd2FxQVdIb1ZldjBUajNFeFI3MUlmeHVteGpVUlJDMjFpT1J6VVY2TGY5c2V1OUh1ekxvcXZ6bW1GZ2NIV2ZqZ0hVaVU3Z05TSnl4YnB6bEZ2aWJHbTZOMk9qLW45UGs?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 14:52:33 GMT",
+      "summary": "'SOL 반도체 소부장 ETF 3종' 개인 순매수 한 달간 2231억원 &nbsp;&nbsp; 코리아리포트",
+      "outlet": "코리아리포트",
+      "outletUrl": "https://www.koreareport.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-14T22:37:16.367Z",
+      "lastSeenAt": "2026-10-17T14:25:36.526Z"
+    },
+    {
+      "title": "Nvidia Weighs Reflection AI Acquisition or Bigger Investment, FT Reports - Channel Insider",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSG9fc3UyMUdWMkVfcm5TanYxYVoyRDZPampyRFAtVDJqODFQczRTQlhCYmMwNzBXNW1TUTRqN3JaZTM0N1ZsNFVfem9tNDFQSERob01NczVVOVlxek52djJWXzJpcHQyWk9GMkdUa0poY2k3enhRakstX1hqWjd6UUtKOWZVNjgzSV9BMWRCNnQ3cWRTTVpLc1g4amZXS1VER1ZXbHpMazZlY29TUjdTa1JCQTFnVWFhNl96ZER4SzFEdVJJdllF?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 14:51:12 GMT",
+      "summary": "Nvidia Weighs Reflection AI Acquisition or Bigger Investment, FT Reports &nbsp;&nbsp; Channel Insider",
+      "outlet": "Channel Insider",
+      "outletUrl": "https://www.channelinsider.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-14T17:58:43.781Z",
+      "lastSeenAt": "2026-10-14T17:58:43.781Z"
+    },
+    {
+      "title": "Three CMU Researchers Join Google Cohort To Study How AI Is Changing the Economy - Carnegie Mellon University",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUFhR1lzb0ZWWWxiX3J0ME5XNDg3TGVHNTJTSm8ycE5wX3JZRlVSYURfNm9Uc1VnSTRSclZhWjJQdGtGSGRzLWhxTEZNbEtWc3Y3WFFtcEFsb0lJazA2aUMzN0lXckNkdnBjdi1ydHI2ZU9kMXNmazhFbEQzV29mUGh1bHNLd1ZmTldveGczdHhmRFdTM3lNMFBlcVBNcmVnVWhhZDZaa3RpY24tMUpKVjFvbXhzSjZ4UTkwZnAxdVM2cTMteXZLVk4zWF84d2p1?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 14:40:01 GMT",
+      "summary": "Three CMU Researchers Join Google Cohort To Study How AI Is Changing the Economy &nbsp;&nbsp; Carnegie Mellon University",
+      "outlet": "Carnegie Mellon University",
+      "outletUrl": "https://www.cmu.edu",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-14T17:58:43.781Z",
+      "lastSeenAt": "2026-10-16T00:19:39.597Z"
+    },
+    {
+      "title": "One platform, four enterprise AI data challenges solved: Inside Dell AI Data Platform - IT Pro",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTXh3SUxTU1VjYkVIdDhxOWZLZDY1M1duT3B4clY3dmprLUMwQ0J6cmFaaDlWSHctV2QwblZldmNnTG9yc2lPdjc2TVRjRHRhZEVGU2c1WGJKbzBXS0g5ZVF6UWlzUjZ3eE9hMWg1dXFxdThTNUtLUEhDTUJ1OXh5cnRIWTFPWkhGSTh5SVE2U2llTmxidU5kR1BrS1IwUk11VjkxN3dLQjFZQmFhMXVfeFd1c0NKcXY5eDF0LWpxV0YwMzIwRmtUd0tETENqUF9JYS1CWVY3OA?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 14:38:08 GMT",
+      "summary": "One platform, four enterprise AI data challenges solved: Inside Dell AI Data Platform &nbsp;&nbsp; IT Pro",
+      "outlet": "IT Pro",
+      "outletUrl": "https://www.itpro.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-14T17:58:43.781Z",
+      "lastSeenAt": "2026-10-17T14:25:36.526Z"
+    },
+    {
+      "title": "Danaher, Nvidia Ink AI-Driven Science Automation Collaboration - GenomeWeb",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcEoweXVqbktwQWdsZzd1QWduS2J1aWdBbU1NcHJOWjZiaDFZb3l1c013MUNGQVdQVHZXQUZYcGgzLTJ0SEQyOS01VDItNGJGOEl1TWtXbUJ6VlJLVTA3QnBpQWwxa2U0VlZuMC1Iem1xLTlQNVJKSDRIdDVGRVBna09MWkhicmNxa19DdzVfc3FtNjdYRTEtaDJqTQ?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 14:37:00 GMT",
+      "summary": "Danaher, Nvidia Ink AI-Driven Science Automation Collaboration &nbsp;&nbsp; GenomeWeb",
+      "outlet": "GenomeWeb",
+      "outletUrl": "https://www.360dx.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-14T17:58:43.781Z",
+      "lastSeenAt": "2026-10-15T12:37:32.831Z"
+    },
+    {
+      "title": "Digital Sovereignty: Why No Single Vendor Can Deliver It Alone - Broadcom",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWFUQnNTSzNLYVZfX2d0SHBJalo4Z0pWVUU1M3pVNTY1MTdEYV9aanJMZXlDVlN2Y1EtdkdhYUxtamVTTHBTdjdVYzl3RmYwNGZlT2tUVHNUSDEySGtZZjR2bXJzMWRIOXpqZkNmSE12MmRDZ05MOXU3QXBTM3JFdTlTNm43VlYxc2g5cUpRbmFPN2lnZGZYdjNkWWpvYXBueVcxeFpWVkpsb1ZHQXZKbEZYR1ZwR1JfWml2eGc3dmJJQQ?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 14:35:26 GMT",
+      "summary": "Digital Sovereignty: Why No Single Vendor Can Deliver It Alone &nbsp;&nbsp; Broadcom",
+      "outlet": "Broadcom",
+      "outletUrl": "https://www.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [
+        "수출통제·공급망"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-10-14T17:58:43.781Z",
+      "lastSeenAt": "2026-10-17T14:25:36.526Z"
+    },
+    {
+      "title": "Yokohama teams with dotData on AI agent for R&D - Tire Business",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WLWh1WVpNS2dyNmxYeUR4RDdCQy1rZThvc25xTkQ2Y0hCOWVhVHBGRTVDRXN2SHE2akF3bV81bWM0SUFCSUhQMEx0M0NHd0QwUjRocklYam5oamtYRmdteDVqejNPYnduc1dReXY2dGViTndtYzczTA?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 14:35:00 GMT",
+      "summary": "Yokohama teams with dotData on AI agent for R&D &nbsp;&nbsp; Tire Business",
+      "outlet": "Tire Business",
+      "outletUrl": "https://www.tirebusiness.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-14T17:58:43.781Z",
+      "lastSeenAt": "2026-10-15T12:37:32.831Z"
+    },
+    {
+      "title": "Google Launches Gemini 4 Argon AI Model - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zbTVzcTdGc0lVTXZsZEtaSENXdURVQUtzeEdRNm9LZjBnanB3N2RKbGRVdzhIY0VEcUVHNm5OaDc4UHluR2pFR3FId3ZkTTlfUnFRYmQ5NXZtODRld0JSNGZnWnNadkRYbHctdjM1cUg?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 14:32:29 GMT",
+      "summary": "Google Launches Gemini 4 Argon AI Model &nbsp;&nbsp; ForkLog",
+      "outlet": "ForkLog",
+      "outletUrl": "https://forklog.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-14T22:37:16.367Z",
+      "lastSeenAt": "2026-10-14T22:37:16.367Z"
+    },
     {
       "title": "DeepMind co-founder warns AI hacking incidents are ‘early warning shots’ - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUs4bjRYUFJlSDAzMkFmZHF4WVlBdU5HbjcwMFVvc1FJLXlCQnJJMWM2MW0wNF9Ka2NWUmlFZXBWeHROU2hFWmZDQUNyY3pocldpWlNzRVlSNlJUV1M5aloyVDM5V0phR2tOT2doc0lIdGhLRGZSWDJpOG9oeDc5dlc3ZUlPR0dhWkVMa1l3N3lRaEdXOWNaSjhCMmhpdW1MaEFvcGo3b3NfLW94M3liYw?oc=5",
@@ -2059,236 +2290,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-14T14:01:50.995Z",
       "lastSeenAt": "2026-10-17T11:33:44.726Z"
-    },
-    {
-      "title": "GoDaddy, Infoblox, Google and Cloudflare Demonstrate Secure AI Agent Transactions Across Platforms - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSzg5ZmZRNmVnS3BMNzJfdnpaZW9qOVdZY2FadmhEWGdKem00bmI1MS1SRU5MQzcxVndLbDVDb0s3U2h4V2VJVVBvNjJHMWtFNkgteWM4VFFjcjQxOVhzUWlqcUstT1Y1VGFhN2RpUVZYc3pSZEJXUUNHY09LbjVIdkQxNGlFSHpaZ3RQQVQxMkVxUkFCYmNaUkVERXhFaGNKR2N2N2g0SVdTMkROektaTkNDVG9qbnZ6ZmNud040bVczcnZ6clpvWjFoUl80dVI5WGVSWU9nTkp1dWVzaHRya2ZuNW5wSGM?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "summary": "GoDaddy, Infoblox, Google and Cloudflare Demonstrate Secure AI Agent Transactions Across Platforms &nbsp;&nbsp; PR Newswire",
-      "outlet": "PR Newswire",
-      "outletUrl": "https://www.prnewswire.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud",
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 26,
-      "firstSeenAt": "2026-10-14T14:01:50.995Z",
-      "lastSeenAt": "2026-10-16T01:39:04.387Z"
-    },
-    {
-      "title": "A fake seller was stopped before an AI agent could buy. Google joined the demo. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU29BNUtCQVEwMVM0WUNncGpyMGRTclBjekZ1OFpxemZZSEhCNWxEOXJ6ZVdCemdhUEpaTkFZa19ZSlg1S2FKSG5Wd0dmejFwYXZlaVVKUXp0YXV5Z19ra3hoSE45Um8zakV5eVRhTU53TW9NeVZpVTFkREJkWDFERXhGN2x5YUpSOTNBeHJYMnkxUGw2bmE2MzZUNjR6WVhMRUJrbXBVUzhzNWxfcV9PQTlydnBSZXZKTjNQTU56WQ?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "summary": "A fake seller was stopped before an AI agent could buy. Google joined the demo. &nbsp;&nbsp; Stock Titan",
-      "outlet": "Stock Titan",
-      "outletUrl": "https://www.stocktitan.net",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-15T00:28:45.158Z",
-      "lastSeenAt": "2026-10-15T05:51:00.880Z"
-    },
-    {
-      "title": "Booking Holdings Plans to Fund New AI Startup Vayo With $100 Million - Skift",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUVETXFTUWNhTjlFX1hJamxZSDZBLUp2dnFUWWhleUQ4MEJNaWwzNlpzT1VwSW9UNjNJUV9mUVBwSHNqelpxa1gxTjhObVN5SHl6RVBIXzBpYzVaTjVmREpMVkNCQV9kajdNVmtuY3V1ZzNhMWs3eHRQdzBOMnJWRUVfbHVxRVdjM1dMSDJ0MDZmSjAyM2tzMm9B?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "summary": "Booking Holdings Plans to Fund New AI Startup Vayo With $100 Million &nbsp;&nbsp; Skift",
-      "outlet": "Skift",
-      "outletUrl": "https://skift.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-14T14:01:50.995Z",
-      "lastSeenAt": "2026-10-17T11:33:44.726Z"
-    },
-    {
-      "title": "Airship Achieves ISO 42001 Certification, Clearing the Path for Responsible Enterprise AI - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYU9YMjcwbmt1NmVlWjVHWTN3U1JpVUlqYXNGVXlNclp6bng5NXhOSXlIYVpXdGt1TFZYZDN5SmJEMG5ZVzNoZ0dHUEtja184VzZQY3lVZXdHWmo4Q1JMUVk5S1FzbnJqVHdERXN5QlpPNmFnQnZFdkU4eFZEaVhfOXhOVVlGdW8zcHdQejRZS01JUjRZbVZfQVFKSkJGQV9PYUlIR3hlV0NSZm1qVDc2RTZ5ZzhHTzFLYmVjR2NXUmY3dHQ4c29YbnJmRlNvZlVpSE44eU5ZRXlSbTdodS04QXNVNDdPRExmVmFqUEZ3?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "summary": "Airship Achieves ISO 42001 Certification, Clearing the Path for Responsible Enterprise AI &nbsp;&nbsp; STT Info",
-      "outlet": "STT Info",
-      "outletUrl": "https://www.sttinfo.fi",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-14T14:01:50.995Z",
-      "lastSeenAt": "2026-10-19T05:05:11.190Z"
-    },
-    {
-      "title": "Trevelino/Keller Enhances Crisis Monitoring With Hermes AI Agent - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUVlmLW8xWW52N01ISGx4M0VJci1VVFQxYzM0ZVdEMUxZZEk4YWxSMkd6cmJ2SS1SV0Q0dDlFNG44UG11dmZFUmFCQlctVzFDRnpaSGdPSjNCQWlLblF4WGRLTGJZM3UtekI0WWxkQ3ZNcU1idlNpOTdDZENrWjZYdG5hSk5LNWZFNnpmaVJ1d1pqV0puWUV5UThkeExoN3lUa29JYW8wckRNalVUdG9jUjd5N214d0JuN0Q4?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "summary": "Trevelino/Keller Enhances Crisis Monitoring With Hermes AI Agent &nbsp;&nbsp; PR Newswire",
-      "outlet": "PR Newswire",
-      "outletUrl": "https://www.prnewswire.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-14T14:01:50.995Z",
-      "lastSeenAt": "2026-10-15T04:50:37.120Z"
-    },
-    {
-      "title": "Tensormesh Launches Tensormesh Platform to Cut LLM Inference Costs by Reusing KV Cache at Enterprise Scale - FinancialContent",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQzNWbU1ZRXpQQlZ2NHo1VGhTbmFRZXVGM0dOQ2c3NWpIN2xkTWUwNW9qbDhFdGphNjVJU2lKWUduUWs0U2xGa0NINlRtUzk2YV9mUVdRdzZXZ2loYXdJWFhjZTU5bkJwMG1lQ3d4M2lqUHdJaHdPaDBUZndnT3JrVXBuR3lQRW1kSHItWG84UGwxYzhRbzB2WkxWbllrNV9wY1VENHdjRFNwcFFVdEplaGVpZnNHVnlGbDlOQ0x4dnpwOUdlaXoyWERrZVoyWm1xS3NzQVVENGRMekh3QU05eUJMdy1lS1dPWEg0Nlk2VndlNkh5RHNzazNR?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "summary": "Tensormesh Launches Tensormesh Platform to Cut LLM Inference Costs by Reusing KV Cache at Enterprise Scale &nbsp;&nbsp; FinancialContent",
-      "outlet": "FinancialContent",
-      "outletUrl": "https://www.financialcontent.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "추론"
-      ],
-      "issueCategory": "추론",
-      "score": 16,
-      "firstSeenAt": "2026-10-14T17:58:43.781Z",
-      "lastSeenAt": "2026-10-15T04:50:37.120Z"
-    },
-    {
-      "title": "Exclusive: Honeywell Technologies launches a 'brain behind the building' with Nvidia and Dell. Its CTO says humans will run it for now - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTk96d3BrbmFqMkItamwwUGhJWUZnVTdDVWJhbFJCakRXS09YVjNERnhFNVB0amViS1FKdFhjZjNhVHQ1LWVWSWFadlJjbTRPcXpacXZMWjV2VDlkcE8yNjBrRHM1ZldHTDdrcllab0hRWWFMVEdBZUFfTFNvclExaVVJMzZfUk81aEdndXh5eC1LaHh2TmxGRHNRN0JiVUJOM20xdEtSTmRtb2s?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "summary": "Exclusive: Honeywell Technologies launches a 'brain behind the building' with Nvidia and Dell. Its CTO says humans will run it for now &nbsp;&nbsp; Fortune",
-      "outlet": "Fortune",
-      "outletUrl": "https://fortune.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-14T14:01:50.995Z",
-      "lastSeenAt": "2026-10-15T05:51:00.880Z"
-    },
-    {
-      "title": "Earbuds and sensors can run generative AI on battery power with BrainChip’s new technology. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQem9QdHhiMmlnaGNxVV9jRnlTNXd3WVBBREFmMDE4Ulh5QmE0SE5nRkxXRHZybkZYb3RGT1VoOXVwbnE1VTA0eS1xQlBWc3JGbTd4dlRQbzhjVlpPaVRQRjVZemR1M2F6ZDJ1emVLWW9YaDl5eEJSQTZoNDJoQmMyXzNHLThoYTA0VFAzU3F4ZEwyX1ZVaGNLNlBXX19tUmRtMjVMa05XakIxT05aTUQ1SXgxQm5CTzdwMlBjS0FZOA?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "summary": "Earbuds and sensors can run generative AI on battery power with BrainChip’s new technology. &nbsp;&nbsp; Stock Titan",
-      "outlet": "Stock Titan",
-      "outletUrl": "https://www.stocktitan.net",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-14T14:01:50.995Z",
-      "lastSeenAt": "2026-10-15T05:51:00.880Z"
-    },
-    {
-      "title": "What the PPC agency of 2027 will look like - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uXzB1aUd5WGFZczZRcFczWXc1TDBOV3g0cTFKZ1p6QUVDcUR6RjNIRXF5VXhobldFa1lGdV82Q05ScDcxemF2bVU3LVJTdFQ5R180QV94a3cweGd4T0l5QjQ0RmZEUQ?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "summary": "What the PPC agency of 2027 will look like &nbsp;&nbsp; Search Engine Land",
-      "outlet": "Search Engine Land",
-      "outletUrl": "https://searchengineland.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-14T14:01:50.995Z",
-      "lastSeenAt": "2026-10-14T17:58:43.781Z"
-    },
-    {
-      "title": "Deloitte and Google Cloud Promise a ‘3x Faster Path to Measurable Business Impact’. The Path Has No Numbers on It. - Forkast News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM1hsRXVWZXJNQnN6TGdaUjlrZjllZk5KVFZwY1VBeWZCWUFUTlR0SDg2eHljeEM5a3NvdHJpVk95VW5sUE9nV09vUHBFSVg0UUF5ZlZfN00zUUhSZjBFSmtmeGMxWk5kclJwTmJ2VDZPTy03TmhKTDdGREEzck9PZnhwS0lwYmh2R1ZuTWdkZjVXUjNiT004RUNwNWoybnpUZWZldElBLXpJUk9pY1FUMTlUQ3pHREFfOWJiSVMyY2xKVzQ2TGFCb2RtMlo?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 12:58:41 GMT",
-      "summary": "Deloitte and Google Cloud Promise a ‘3x Faster Path to Measurable Business Impact’. The Path Has No Numbers on It. &nbsp;&nbsp; Forkast News",
-      "outlet": "Forkast News",
-      "outletUrl": "https://forkast.news",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 18,
-      "firstSeenAt": "2026-10-14T14:01:50.995Z",
-      "lastSeenAt": "2026-10-15T05:51:00.880Z"
     }
   ]
 }

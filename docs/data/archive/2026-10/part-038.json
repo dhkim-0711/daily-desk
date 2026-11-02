@@ -1,7 +1,244 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T01:02:18.129Z",
+  "updatedAt": "2026-11-02T01:28:59.868Z",
   "articles": [
+    {
+      "title": "\"AI 투자 감당할 체력 있나\"…MS·구글, '현금흐름'이 희비 갈랐다 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03ZmFwUjU1UEZ3dVpGNElSa1VSLXpIdkhQOXUzeXhCT1lncDFneW10RS16eVV4dzlqdHYyTzBlWVJ6clEtaUlQNjZSLWNsalZxMk5pd2VB?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:51:42 GMT",
+      "summary": "\"AI 투자 감당할 체력 있나\"…MS·구글, '현금흐름'이 희비 갈랐다 &nbsp;&nbsp; 지디넷코리아",
+      "outlet": "지디넷코리아",
+      "outletUrl": "https://zdnet.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "Google",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 26,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-31T01:33:01.539Z"
+    },
+    {
+      "title": "구글 AI 칩의 반격…2028년 TPU 매출 184조원 전망, 엔비디아 독주 흔드나 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5veER4LV9iSXhtQU9HVm1JRFp5N3c0YkNqdUVyV0g1b3AwVkZlYW1GR2NzR09ISHRYU040VjFqcDV0dk9pSVRoV2t4cXpuWnc0d3hxMWx5SkxtY1JDX2JLTzZKWVFJVnZxYmJfVl85OFhGcFk?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:51:09 GMT",
+      "summary": "구글 AI 칩의 반격…2028년 TPU 매출 184조원 전망, 엔비디아 독주 흔드나 &nbsp;&nbsp; 디지털투데이",
+      "outlet": "디지털투데이",
+      "outletUrl": "https://www.digitaltoday.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "Google"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 27,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "[ESGX 이슈 5] EU 공시 완화 논란부터 AI 데이터센터의 고용 갈등까지 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iM0JRQ1NoV0xlT2tJTEZ4ZV9OTGRheWxCRmhMdm44dURFbzJibmJxOW9wOFd6VmRlT0ZfeElpMEI2VWU3UTNBYlN0LU1yWnlpcFdpNmJZSGNLd1didnduZ252LTBmR2pPWlpDNnlhTXBIQThj?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:51:00 GMT",
+      "summary": "[ESGX 이슈 5] EU 공시 완화 논란부터 AI 데이터센터의 고용 갈등까지 &nbsp;&nbsp; 이투데이",
+      "outlet": "이투데이",
+      "outletUrl": "https://www.etoday.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "퓨리오사AI, 8200억원 투자 유치…기업가치 3.8조원 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRzhkaWJIMUZKb1ZOLUo5SXlNWTh1Q2tLVENtczM3dTR3RW5yb2t4dm82VTloM1NXMmJ1TGdLYnJqSzRaMGZfZ21kRC1kd0hoVUdYT1NRVEk0WGR0bklLYk02ZzdZZU5ST2NKSk5qRVRwcVFyZjdScUI1alhYTDUzNGNudw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:50:00 GMT",
+      "summary": "퓨리오사AI, 8200억원 투자 유치…기업가치 3.8조원 &nbsp;&nbsp; 조선일보",
+      "outlet": "조선일보",
+      "outletUrl": "https://www.chosun.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "furiosa",
+        "msit-ai-chip",
+        "ai-chip-policy-finance",
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "퓨리오사AI"
+      ],
+      "taxonomyHits": [
+        "퓨리오사AI",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-11-01T01:02:49.409Z"
+    },
+    {
+      "title": "삼성전자, 내년 HBM4E 양산…테일러 팹서 AI 반도체 성장 승부 - 마이데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlM3hDZVJDXy0wcjlPejE0V0F3X1ZVeVJWSjJnWm1VdUdIQ19GaVg1ZHBFaVlORXpjUmtyNXItRTl5NVNXc01mTjdvUWRzS2NLdzJNQ1NBTy1HYmpIcVNVYw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:49:59 GMT",
+      "summary": "삼성전자, 내년 HBM4E 양산…테일러 팹서 AI 반도체 성장 승부 &nbsp;&nbsp; 마이데일리",
+      "outlet": "마이데일리",
+      "outletUrl": "https://mydaily.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-29T06:14:00.383Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "반도체 팹 4GW 전력 수요···함평, 재생에너지 특구 요구 - 더리포트",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LU19RSW4xZ09Dc2xRanNsUFRsUVhmS2xZMFFBZ2syejhObGtkRG9JQVJDSk1fUXRuVk01ZXRvUXd3QUFxVV9HMENkckZ3d2FXVzl3WjVidlFuSEZFRzAwdnJCMHhXVFEzT3dUUW9n?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:47:26 GMT",
+      "summary": "반도체 팹 4GW 전력 수요···함평, 재생에너지 특구 요구 &nbsp;&nbsp; 더리포트",
+      "outlet": "더리포트",
+      "outletUrl": "https://www.thereport.co.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 8,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T23:35:43.436Z"
+    },
+    {
+      "title": "퓨리오사AI, 8200억 원 시리즈D 유치...기업가치 3조8000억 원 - 더에이아이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxVWZBaldjanFlTk1aeFJzVGhXT3VsckJvOURwQ2NOM0RZdDVubTZqLUhNUkhxdHU4bThNc3lNU1dVSVJVVDljZk05VG56d3RINmw2aFNnS1pHVUVQT2c3WkstNDkxU2JOV2tN?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:45:04 GMT",
+      "summary": "퓨리오사AI, 8200억 원 시리즈D 유치...기업가치 3조8000억 원 &nbsp;&nbsp; 더에이아이",
+      "outlet": "더에이아이",
+      "outletUrl": "https://www.newstheai.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "furiosa",
+        "ai-chip-policy-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "퓨리오사AI"
+      ],
+      "taxonomyHits": [
+        "퓨리오사AI"
+      ],
+      "issueCategory": "NPU",
+      "score": 20,
+      "firstSeenAt": "2026-10-29T10:51:24.641Z",
+      "lastSeenAt": "2026-11-01T01:02:49.409Z"
+    },
+    {
+      "title": "엔비디아, 휴머노이드 로봇칩 61% 장악…2030년 100만대 돌파 - 리드경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mdUtIMXBVYzZydlZyOUY4eHpOclBCN01icU83b0xZVnlJbmFXLXRnSWxYMF9Wc05oU0NGNVBjWVlvRkVEdjFDaGR6OTNDRGFLZEtwU1d2QWRNRGpVbThLV0E0eC13SkxuOExWOGlKaW0?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:45:00 GMT",
+      "summary": "엔비디아, 휴머노이드 로봇칩 61% 장악…2030년 100만대 돌파 &nbsp;&nbsp; 리드경제",
+      "outlet": "리드경제",
+      "outletUrl": "https://www.leadeconomy.co.kr",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 13,
+      "firstSeenAt": "2026-10-31T10:19:27.588Z",
+      "lastSeenAt": "2026-10-31T10:19:27.588Z"
+    },
+    {
+      "title": "DOJ Probes Nvidia’s Hugging Face Deal Over AI Competition Concerns - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczFZZW50RHVEYkwxX01FempLWWRSM3RFQ0x5a1lNMlFzUVJLT3p1NnB3N1hVU2FqQlFBWXlTMWwwbzUtNnNyS29vajZRM2FSQ25UZGUxQ1Z4NS1jOFAtQWhyY2RQb3hOeDNReERzS0hSXzU2Y0xqa2pNYVFMY2FSMHZFTDdFSHVmZlAyYThVTE42LUNKLW1pLUc0RnJGQW4yN3c?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:44:23 GMT",
+      "summary": "DOJ Probes Nvidia’s Hugging Face Deal Over AI Competition Concerns &nbsp;&nbsp; PYMNTS.com",
+      "outlet": "PYMNTS.com",
+      "outletUrl": "https://www.pymnts.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T18:56:42.064Z"
+    },
+    {
+      "title": "From Hydropower to Quantum Chips: How Québec Is Building Its Next AI, Semiconductor, and Quantum Technology Ecosystem - semivision",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnMnJPLWZWYVIwLXdwX2hzQko1cVl2V25wX2hNdzc1dWFvcENodGFZSW5DSktZa1hZWDRXNHRheEx2QzVCZnA5aThCWEUwR0N0QVhqLUM0ODhNRGZPMk0tcDBQdmI2cE9ibS1qTG1wTEQ1SmIyekg4d0c0LWoxZw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:44:06 GMT",
+      "summary": "From Hydropower to Quantum Chips: How Québec Is Building Its Next AI, Semiconductor, and Quantum Technology Ecosystem &nbsp;&nbsp; semivision",
+      "outlet": "semivision",
+      "outletUrl": "https://tspasemiconductor.substack.com",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 12,
+      "firstSeenAt": "2026-10-30T01:54:30.331Z",
+      "lastSeenAt": "2026-10-30T16:49:59.511Z"
+    },
     {
       "title": "토스증권 ”삼전닉스 HBM 전략 엇갈려...진폭 작아질 것\" - 주간한국",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PUGlkQU9DLWlBalFjV0dLaVRWNUNKc0lRYkp5ZnQ5VjFOMXFVUFJrdHRpRURyejBqTGRUUFZtdHd6OEZlNGE2NTJuZ2lhdzZ4VVRDeE9ZeGJ4Rmg5YTJ4VU9CcmQ2S2JTSUtVXzBjYzLSAXRBVV95cUxQU2Rhbm0wLWMwQlRJNjlEaURkdFpLT1BubGZoTXNJdmwzWFRZWlloeEVmck1NbnBNVTlLU3hwRkVMRnN4eTR6VTV1SnNlNTI2Y3RqZ0VaZkNYM1RSY0F5Z0JXM2ZURWVwWnNhajRzdzBUYXU3NA?oc=5",
@@ -2082,247 +2319,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-29T01:46:05.232Z",
       "lastSeenAt": "2026-10-29T18:56:42.064Z"
-    },
-    {
-      "title": "퓨리오사AI, 8200억 투자 유치 완료…기업가치 3.8조 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRFFRRU1oYTdJLXpaTExIV2ljZGRBQUJBQVlfdTIxNUxBRWtfWTBzN1Z1a1VCbzBoXzNUTGdSUGs5YWxiVnByX3UyM3RaaUpCR3fSAVNBVV95cUxNeV9WNFU0RGFROTF6NFd0bWl1c0d3S21wRHpaT3VFdWVaT3RFNW03NnBEVk51Wm5lZzdicFV4dEsyNVo5SW13akJHcTVBZTM5THBLOA?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:34:30 GMT",
-      "summary": "퓨리오사AI, 8200억 투자 유치 완료…기업가치 3.8조 &nbsp;&nbsp; 서울경제",
-      "outlet": "서울경제",
-      "outletUrl": "https://www.sedaily.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "퓨리오사AI"
-      ],
-      "taxonomyHits": [
-        "퓨리오사AI",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-10-31T22:49:34.559Z"
-    },
-    {
-      "title": "퓨리오사AI, 8200억원 투자 유치…기업가치 3.9조원 평가 - 데일리한국",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XUzYwQ25vSUVRdEZjblE4TjJTUVk0d1ZPMVJUSTQ5SUkxR055TEMzRnNub0dvYUZQbHhnQXF3VEVWMksyTERCemRCUWRSbjV1SUxWdzVCSl93RFlIWThub1ZEbldHMkhkOS1mdmI3NNIBc0FVX3lxTE01TTk4VDllQWpUb3ZDblJfQ0Fpb0J0S3NSMzdsczF5YmtETlYyaGd6NVdhUXBRNmpDN2dFX2FGbmtLN3hPR2d1ZnZhUENlQmMxelZ0RTBwRGxvSG4tQWVmM3A3UktuZ3U5VWpQd1pCU1ZiV0E?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:33:46 GMT",
-      "summary": "퓨리오사AI, 8200억원 투자 유치…기업가치 3.9조원 평가 &nbsp;&nbsp; 데일리한국",
-      "outlet": "데일리한국",
-      "outletUrl": "https://daily.hankooki.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "furiosa"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "퓨리오사AI"
-      ],
-      "taxonomyHits": [
-        "퓨리오사AI",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-11-01T01:02:49.409Z"
-    },
-    {
-      "title": "오라클, OCI에서 구글의 TPU 제공한다 - 디지털경제뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QSmRhdXl6c3poQW8wbExIVVhpVmdaMmpLMWZVTzZuMXNSdDc3LTdJeWxrVTgwVENzZDBBcl8zbGxlM2VmenE0dFAyTWJ1RGpULUZfd0t2YXdIUHpMRUVjcXFKeVA0OGlwWkE?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:33:02 GMT",
-      "summary": "오라클, OCI에서 구글의 TPU 제공한다 &nbsp;&nbsp; 디지털경제뉴스",
-      "outlet": "디지털경제뉴스",
-      "outletUrl": "https://www.denews.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T06:14:00.383Z"
-    },
-    {
-      "title": "세라믹기술원, 반도체 패키징용 '감광성 결정화 유리' 소재 개발 - 데일리안",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GWHJvMnROMldhbFBxbjRNNjY5eHNPa3N3ZmUwZk9aNjdabEs5QmdGa0pPeEY2bjM5WG5aa09DVE1EeGRLcV9IbmNsMWRmNWFtUVF6aQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:32:00 GMT",
-      "summary": "세라믹기술원, 반도체 패키징용 '감광성 결정화 유리' 소재 개발 &nbsp;&nbsp; 데일리안",
-      "outlet": "데일리안",
-      "outletUrl": "https://m.dailian.co.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "파운드리·패키징"
-      ],
-      "issueCategory": "파운드리·패키징",
-      "score": 11,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T23:35:43.436Z"
-    },
-    {
-      "title": "퓨리오사AI, 8200억 규모 투자 유치…기업가치 3.8조 평가 - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80TTB2bUV4TDdLVUxtT29zY2VFNkFXMlVCYmVSVF9LRlJfN3V0cXppbG1OQXJRbmJYM3ZrY3NIRnUzWTZUd3ZhckdtYld2NHFnQlRHTnpSRFdRaG9tN2o4dTlpeGR4Rk5HM2lRaC1VVFFQaWs?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:31:34 GMT",
-      "summary": "퓨리오사AI, 8200억 규모 투자 유치…기업가치 3.8조 평가 &nbsp;&nbsp; 디지털투데이",
-      "outlet": "디지털투데이",
-      "outletUrl": "https://www.digitaltoday.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "furiosa",
-        "ai-chip-policy-finance",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "퓨리오사AI"
-      ],
-      "taxonomyHits": [
-        "퓨리오사AI",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-31T22:49:34.559Z"
-    },
-    {
-      "title": "함평군, RE100 기반 반도체 산업클러스터 육성 추진 - 중앙이코노미뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBudVNOVmdrVlRHNm1SOXpaN0xwQVBWVVgtWWlEemNUODN0a0o5dkhHTnlMZklRb0RZSFVrSmYxQUU5cHdjYVczdElCSjJ2Z1FvQUdqcmtibTQyOFQtcS05YUFQS2REQnhDS1ZqeVdaMUJOdw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:30:20 GMT",
-      "summary": "함평군, RE100 기반 반도체 산업클러스터 육성 추진 &nbsp;&nbsp; 중앙이코노미뉴스",
-      "outlet": "중앙이코노미뉴스",
-      "outletUrl": "https://www.joongangenews.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T05:58:08.944Z"
-    },
-    {
-      "title": "국산 퓨리오사AI에 8200억 쏟아졌다…美 큰 손들 우르르, 몸값 3.8조 '잭팟' - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uMWNJZFFQbnk5dlRxY2xncEJ4ZElTOWxWUFE5YVZ1MlNqT05ERkVkQzlOdDhZU0J5aWMyc1FXYW9fdjczZk1HZV85NkRabk1lNlA4QnBNdThEdUc2RWtWXw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:29:49 GMT",
-      "summary": "국산 퓨리오사AI에 8200억 쏟아졌다…美 큰 손들 우르르, 몸값 3.8조 '잭팟' &nbsp;&nbsp; 아시아경제",
-      "outlet": "아시아경제",
-      "outletUrl": "https://www.asiae.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "furiosa"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "퓨리오사AI"
-      ],
-      "taxonomyHits": [
-        "퓨리오사AI"
-      ],
-      "issueCategory": "NPU",
-      "score": 20,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-10-31T22:49:34.559Z"
-    },
-    {
-      "title": "국산 AI 반도체 퓨리오사, 8200억 투자유치 마무리…세계향해 뛴다 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uMWNJZFFQbnk5dlRxY2xncEJ4ZElTOWxWUFE5YVZ1MlNqT05ERkVkQzlOdDhZU0J5aWMyc1FXYW9fdjczZk1HZV85NkRabk1lNlA4QnBNdThEdUc2RWtWXw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:29:48 GMT",
-      "summary": "국산 AI 반도체 퓨리오사, 8200억 투자유치 마무리…세계향해 뛴다 &nbsp;&nbsp; 아시아경제",
-      "outlet": "아시아경제",
-      "outletUrl": "https://www.asiae.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "furiosa",
-        "korea-ai-policy",
-        "npu-commercialization"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "퓨리오사AI"
-      ],
-      "taxonomyHits": [
-        "퓨리오사AI",
-        "투자·M&A"
-      ],
-      "issueCategory": "NPU",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-31T22:49:34.559Z"
-    },
-    {
-      "title": "TS트릴리온 장 초반 17%대 급등…자회사 TS코어, CJ대한통운과 90억 계약 - 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WejJtMmtrQjFLNVdQdFNKRFhmbVFralNUTjhzOFc5M1lrcjlCQXRBR0FST2w5OEE0Z2M2QXVnNXFmQ3FxOU52YjNiMlZxZnFJT0JoeGt2THc0MEczUEE?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:29:00 GMT",
-      "summary": "TS트릴리온 장 초반 17%대 급등…자회사 TS코어, CJ대한통운과 90억 계약 &nbsp;&nbsp; 뉴스투데이",
-      "outlet": "뉴스투데이",
-      "outletUrl": "https://www.news2day.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 8,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T06:14:00.383Z"
-    },
-    {
-      "title": "Microsoft's cloud growth, cash flow offer respite from AI spending fears - Euronext Markets: Real-time Stock Market Data | live",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclg2SEh4ZHVnWmFHWlByUGdsdDdvQVBqQ3Q3bE1yeDRIOWdKNUY0WkpqRVNfSjRkZHV6VFJ0QlFITGp6OVd6SzlvQWhBMkh0N2RtNTdMQmY3a2RDeWp0YkVUSzlFeHlrOWVZUVViR1RDTkwtSnd5UWFPWU1udU85b1hwTzVNVDRlS0VmenFkcWs0b1RrNkl4Vzh3TXphVjVUWGlhb0RvdENPOGZFdWc?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:28:19 GMT",
-      "summary": "Microsoft's cloud growth, cash flow offer respite from AI spending fears &nbsp;&nbsp; Euronext Markets: Real-time Stock Market Data | live",
-      "outlet": "Euronext Markets: Real-time Stock Market Data | live",
-      "outletUrl": "https://live.euronext.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "AI인프라"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
     }
   ]
 }

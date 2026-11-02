@@ -1,7 +1,234 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T01:02:18.129Z",
+  "updatedAt": "2026-11-02T01:28:59.868Z",
   "articles": [
+    {
+      "title": "DapuStor's KV Cache NVMe SSD offload explainer - Blocks & Files",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakNLa2JHTV9VdnBNcjhsUEt6SlFBd3l4WE5EeVZ1bFBmd0pjcVBmVTctWFlqdGlQY25MeTV1aldmZVJQc2FNQWlPN0ZrUXB3aFZxOFB5MVphTjZDbWhpUkMyeVdYTjBnWDRaekJyaDVIbVozTEFGTHZnamYxZkJyNVJmWEw2Q25obW1zYWFDR1JJekxjZ2RUb1lxdjRDejdHTzk0?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 15:09:06 GMT",
+      "summary": "DapuStor's KV Cache NVMe SSD offload explainer &nbsp;&nbsp; Blocks & Files",
+      "outlet": "Blocks & Files",
+      "outletUrl": "https://www.blocksandfiles.com",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-27T00:04:50.261Z"
+    },
+    {
+      "title": "Energy sector at forefront of AI adoption in Europe - Enlit World",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjE4MlJpdllSOS05M0R1OFBtdXJvMFBSenZvSWc1ZjRQRmNNWGhGWmpNWnY0bEszMkJaVlR5Q3F4NzBzWGx4UHNXMVR5WGNidkxialF6N2IwLVQ4Ui1ONFJSVGF0LUMybEhsUTZaXzRhd3phNnV4VzQzRDVtQVFmQmloU2poVTVaaGY4?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 15:08:33 GMT",
+      "summary": "Energy sector at forefront of AI adoption in Europe &nbsp;&nbsp; Enlit World",
+      "outlet": "Enlit World",
+      "outletUrl": "https://www.enlit.world",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-27T00:04:50.261Z"
+    },
+    {
+      "title": "NVIDIA Minerva Brings AIOps to AI Factories Through Dell, Lenovo, and Supermicro - StorageReview.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWQ4d3J0aWhIWTFFbDM4cWZ0bl9MM2lJOTE4Zk5wTmwwVjROTE5hX21Ta05GcEVWUUVydG9tR1lwV2gtc28yRTQwdWRuQjJ5QS1nc3Y4VnBTMWtQanRtVE9jSzJNRXlvN3dnZWpDMDZteUo3RXR4TWhjTzRzSUZBRTdaTlRFQVlvemgwMjlOaUJQY0w0T083WFFPU3k1aVVDaXhHZkVB0gGrAUFVX3lxTE1pOHluMlRONlhaNXN1bWtBMGpkaHpTSlhjeEx5Z1h5dGtxalB0NFFTX214bGdpYUxiMXZiYm1ETXdEU2pOX0tkX3c2SXVXcDl2NUdncXlkTjc1SDZkcldkSEVjb0ROMXozUUFHb3J4ME5KOTd2SlBBVnlMLTZRRmh2X2ozLS1RVkszbVZFc3FPeV9JTGtSQjY4ZDlvcUFjS1hFLUJILW5ray1qSQ?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 15:08:17 GMT",
+      "summary": "NVIDIA Minerva Brings AIOps to AI Factories Through Dell, Lenovo, and Supermicro &nbsp;&nbsp; StorageReview.com",
+      "outlet": "StorageReview.com",
+      "outletUrl": "https://www.storagereview.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-27T05:23:50.475Z"
+    },
+    {
+      "title": "SpaceX Secures $40 Billion in GPU Financing as Musk Expands AI Infrastructure Spending - Tekedia",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3R4NW1ud25qLUhSbjlKdGNMQ1dGTWQ3RzE0RlpydzJWQ29NOXQ5UzlYVWx1eDVKQ3dGRkZheFJ1TklVSlBLU1FKVkcwbnh1c0x1bkZxdlV4OWN3bUtJbGFSeWlvZ1FUU0hzWk9Jb2JXSVc1REpvcHFQUVRlcWRLOGVLU093aS1JM3dpMkZ5UTVLZDVUeDRZUU1VNDk0ZFBYRFhUSXl6VlVHSF9mNWtr?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 15:08:14 GMT",
+      "summary": "SpaceX Secures $40 Billion in GPU Financing as Musk Expands AI Infrastructure Spending &nbsp;&nbsp; Tekedia",
+      "outlet": "Tekedia",
+      "outletUrl": "https://www.tekedia.com",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 16,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-28T01:14:48.296Z"
+    },
+    {
+      "title": "NVIDIA Corporation (NVDA): A Key Beneficiary of Durable Global AI Infrastructure Buildout - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjlkQXNfRXA0dnVTN2VfQUtmeVA4UldwY1k5azREYTBrZWxObU1ReUk5YjlRbnJtaEtFcFF5di1UdDRUdWFlQmNERWlEdS1vZUxEc21pOVFpVGh4aUR4ZDMzcmpXLXJRb3JBeW5hNVJVNXB6Z21Ld0NHR3Y1alNXb2J3MlhfdTI2Q0ZtbjM2LWlGR1pzOEltWF9KRU5oVG9HUDVYQjR3?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 15:08:06 GMT",
+      "summary": "NVIDIA Corporation (NVDA): A Key Beneficiary of Durable Global AI Infrastructure Buildout &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 23,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-27T15:51:29.490Z"
+    },
+    {
+      "title": "Amkor 실적 발표 앞두고 AI 패키징 투자 성과 주목…주가 급락 만회할까 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jUDMxYm5BblJkMlBWTXVFQkpwMkczZ052ckdmUnFkZERETHdXR0xQbGxoVUZYa3VPcmJqM1diOHhWRnlUTHlMNnN4NjBraEUyeTA4bmlHdFlfSnNKbzd0ZUtJZnFhSXA5cjJF?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 15:07:00 GMT",
+      "summary": "Amkor 실적 발표 앞두고 AI 패키징 투자 성과 주목…주가 급락 만회할까 &nbsp;&nbsp; Investing.com 한국어",
+      "outlet": "Investing.com 한국어",
+      "outletUrl": "https://kr.investing.com",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "파운드리·패키징",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-28T00:44:44.486Z"
+    },
+    {
+      "title": "Meta plans $95 billion stock offering to fuel AI spending despite growing bubble fears - TechSpot",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHlmbjQ3UHdFSXJEajlmelQ0ZnQ5TVd5a1BnSGhtLTFSS1A3Nm5zSXZqNEl2TFBlRlEtQjI4RTdrN0VUeEtYa1FNZ1ZuMXBUTHNrMFc1OWpLSUJFcXVBSURLVjN1UFltX19XMlBrdjJYQ3lmYnRuVmEycTM4SDQ3MXVQTG5DWmx0cVFHckN3TQ?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 15:07:00 GMT",
+      "summary": "Meta plans $95 billion stock offering to fuel AI spending despite growing bubble fears &nbsp;&nbsp; TechSpot",
+      "outlet": "TechSpot",
+      "outletUrl": "https://www.techspot.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-27T01:26:41.178Z"
+    },
+    {
+      "title": "Nvidia sidesteps JEDEC HBM standard - Blocks & Files",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODk5R29OMjR1djBXOVR1QTJrOFdyS3NTdU1EQzQwRDRWa1lNT19fX1VCbEhVRkVtbUVxWlJMTkxoLVVYNVN3MkpiWEJ3bWRnYWlwMnpKM2NLNE8zeFBrdzI5bW5hZnBLTWpCUFBhdGN3ampBTDFrSmFaRS1XdjAtNlhod2RSck5RY2dHekpYb3NpSGcxQXc?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 15:06:32 GMT",
+      "summary": "Nvidia sidesteps JEDEC HBM standard &nbsp;&nbsp; Blocks & Files",
+      "outlet": "Blocks & Files",
+      "outletUrl": "https://www.blocksandfiles.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai",
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-28T00:44:44.486Z"
+    },
+    {
+      "title": "매도 압력이 단기 상승을 제한하는 가운데 AMD 주가는 회복할 수 있을까요? - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ1c2SllzZ3d6SmtJaDh2Z0N1V3ItaHFvUFlHQ3VfSDlybzRJVGxCNnlGOXFWX21XSV9NVFg2N0hicTdkUGRIb0xxcm5QbmhRb0JULUd5NXphV1d6WWJHTjVqWTBLR1loZ0g3VUVFTExZRWR6M09UTlNCOTRmYmtsQ0htWGJyQVBEdnoyQk5jVDdZQQ?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 15:05:59 GMT",
+      "summary": "매도 압력이 단기 상승을 제한하는 가운데 AMD 주가는 회복할 수 있을까요? &nbsp;&nbsp; Traders Union",
+      "outlet": "Traders Union",
+      "outletUrl": "https://tradersunion.com",
+      "source": "AI반도체 시장·수급",
+      "sourceIds": [
+        "ai-chip-capital-market-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-29T13:43:00.739Z"
+    },
+    {
+      "title": "Freedom Holding advances AI infrastructure development in Kazakhstan - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbHJIajNKNnljenZGT3Yta2t3VkxPOHNWS2xSVjFfVHg0ZmduVEItN1ZneHpORV9QTDRDTDdDTXFTQ2gtZkJIUGdwRjVOT0FPREI3OENKZTlvZzhPeG5NaE80a19wT1dVb3UwbnJjSWpwcUlyZU1JZTZONDZDSk9RUnNpQW9vejhuZHdLMktfVm9aYVpuX3RITHFkd1Q0djllY3ludWV1cHJVNDJybTVHeHVVbF8tZU1KLVE?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 15:05:12 GMT",
+      "summary": "Freedom Holding advances AI infrastructure development in Kazakhstan &nbsp;&nbsp; TipRanks",
+      "outlet": "TipRanks",
+      "outletUrl": "https://www.tipranks.com",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 16,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-29T13:43:00.739Z"
+    },
     {
       "title": "[반도체의 ‘미래’ 용인·화성 ‘지금’] 반도체 투자 효과, 공장 담장 밖으로 확산 - 광주드림",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3bUlMdzRMUXI0LVBIb1VITXFNMVBuTGthWEpOZ2dGSk1sWEVYRlAwYmtaUW5BWWN1bEtZNl8xQVdjcVNmZ0pjcjNnUzExYkFyakFGSjcwSUE3SC11cjIzYmQwRDFvUmVnRUE?oc=5",
@@ -2040,238 +2267,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-26T14:10:00.606Z",
       "lastSeenAt": "2026-10-26T14:10:00.606Z"
-    },
-    {
-      "title": "Anthropic IPO filing: Claude maker targets Nasdaq listing under ticker ANT amid AI market jitters | Hindustan Times - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaXNkOWp5NFYtMmNYNThLWWxmbE9BNXljLTVObjJaek9YeGpNYjZLTFpvUXhyNFNjT0FjcUJpZXpOeExsVmlpRjM5dlBSeklBZ0FlRXJXSW10dUFfajRpNXNzNWhVc2JxaXZuVDZTei1qV0JfaHVzcE1OQWh5cDBSM1pYZGNkMm9BTjNna2huUzdXNTFyaGVHSjdqc0hENVQyQkptWkJraUpKNDhZbjhHczQyLW1ESXhfNnBUbmVfZ0Fkd2ZDRDJONHFkdWpyNzhTWXdIdkR2c0NTX0dYUzZHRmJQMFI5Mk42by0zeGJVM3ZwWUR5LWlsTXhlMNIBgAJBVV95cUxNbDg2SXVhM1k2WjFsRmJsVmYtNzc2akxSWEgwNVdnWXBYRDVHNGxOdm5xR1VkQWtXckM5SVNtbnhsSFBqSzNKZTY2WW8xN1Y3NjVJdk9wRWNPV1ZWUHE3NnQ3aGJhSnR5MjV4azRibk5Eb0JXQVZscFgtaloyOS1DM3FIT1FsVVptTmd5dExzeW10RGVyVmtiUTNwazU3LVphbERZZXE4VXVSMFU4N1hMZzFwdkZFdWYzdEhYSFFrZmUwU2F3bTZOLWJRT3B6dEFHUDVsN0lxbDl5cDRJZGtBRGFWUURES0FCc1ExWWR3N09pSC1JbHkyNXgzSng0MDdu?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 13:39:57 GMT",
-      "summary": "Anthropic IPO filing: Claude maker targets Nasdaq listing under ticker ANT amid AI market jitters | Hindustan Times &nbsp;&nbsp; Hindustan Times",
-      "outlet": "Hindustan Times",
-      "outletUrl": "https://www.hindustantimes.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-26T14:10:00.606Z"
-    },
-    {
-      "title": "AI startup hacks Anthropic in 12 hours, gains access to employee details and internal messages - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWtFc2l4VDZsLU1YS19DaHFpc3dUQzNkbmxfbDlMWWFFRkZFelQ4eUZVdzFTbTB4YmtHQkdBcWJxbWN6T2pwMU83OThVR21qYTlYMlFDMDJLeXVySFFNQjVnNWZBTk43bHlkb1ZQQmdBeVhGWnBBRWVncVVFcG1qRDhnbHNSNUVDU1BZQ2dpRXJ5Z1B3V29sQWtWSWtUeWhtUGpFOGlQZ0JNQmN0RnFZckp1VW5Rc0d6ckJOQXFWeXB6LVhqUUxxOXBuZE5tVFlFVTh6cnc4ZDJWS0FES0JGeGhjdUVONW5zNVhVcmdob3AxZ9IB9wFBVV95cUxOdS00Z3BmT2tKWFRidzlaYXE2RzhzNmlkNEltdEx0c25jWkZ2UXFSWGJTTmVXRVpyVHBoZEMyS2xkNnc0UWtBRXhHcE8xSUF2RTFqRGZXMUZEbzBPSVRyUFVsMlVlRTNxbUYtNi1JNG02X3NGcW4tc0JQYTlGMjZIUWVBWGkxMWVDS3FiYzFybmJkd2lpdkhpMWcwWndVaEEyaTU0c1pfZnBRbS1EX0k5Mm1Fb3doUmQwN0VZVnZwcHJYZGFITk9FenFRT19uTHc3S1BfVXJPeW1fS0xEYTJsWGNMN3d4LVdPUThsVlJfcWh0bHp0VnNv?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 13:36:09 GMT",
-      "summary": "AI startup hacks Anthropic in 12 hours, gains access to employee details and internal messages &nbsp;&nbsp; India Today",
-      "outlet": "India Today",
-      "outletUrl": "https://www.indiatoday.in",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-27T10:59:25.232Z"
-    },
-    {
-      "title": "Forget Alphabet and Microsoft: Is Amazon the smartest AI play ahead of earnings? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLXhneFhvdjZwME56Wk1LQjdvejd2eloyLUliVkdsLUY5b3pydVkxZ1NXRjg1NjhJRG5neGZ0aGxKYVFlR3lFVDgtb0luWGgxR1M2Z25QbWZPV3dGYWVPTEFmQWFZWVM5VmRBNHV3WlhydThvTFVZQ01zRDlkc0gwazROV2haRjdBMFNha0J1c3VURm5kdl82RmtNQ3BFR2todU1EYUs0QnU?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 13:35:58 GMT",
-      "summary": "Forget Alphabet and Microsoft: Is Amazon the smartest AI play ahead of earnings? &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-27T05:23:50.475Z"
-    },
-    {
-      "title": "From Amazon to Google, the deep-pocketed investors in Anthropic - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUNGUW5tbnZDMW55VkkxZXBQYkF3a1dOQmw2Unk3MGVVRWlsdWttLVRWTmNkWVpERlVPZVNpeGhPMlJCYWdWczhlQjN0SHc3czRuaVNOQVBGZlV4aGZycFE4S1hlUGRXSkROWmVNYU0waG44cHNiaDM1MjdiVjQyVV9FRmdBeW1WVmREXzl3QVFDUlRXczd3NmYwWjVIeld6RXpIVkZ3?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 13:34:35 GMT",
-      "summary": "From Amazon to Google, the deep-pocketed investors in Anthropic &nbsp;&nbsp; Reuters",
-      "outlet": "Reuters",
-      "outletUrl": "https://www.reuters.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google",
-        "실증·조달"
-      ],
-      "issueCategory": "실증·조달",
-      "score": 18,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-27T10:59:25.232Z"
-    },
-    {
-      "title": "AI investment growth is expected to peak this quarter – Goldman Sachs (AMZN:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0k5bFpPZ25RbzZQYV9lZVI3NWE1UlZGUFJjMTlrR21MN2s4TXQwdVZPVmsxa1BZQWwtd0t4U3dnd2pRQ2dRV09pNVBmSEJ1Z0s5VmthTDVmZHAxMlg1SjFYdXM5NWVHeXlYV1puWVYyUzRwX2R5UUdqNXg3UEZOZ3RCVTZjdDZ4YTkyNWl6Q3oycTYxM3lIM1NpYTNmTE1nN1NTc2N6dlM?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 13:34:22 GMT",
-      "summary": "AI investment growth is expected to peak this quarter – Goldman Sachs (AMZN:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
-      "outlet": "Seeking Alpha",
-      "outletUrl": "https://seekingalpha.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-27T15:51:29.490Z"
-    },
-    {
-      "title": "Multi-location brands must optimize for AI search - Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXkyOVQwYld1VjBvck1Fa24xaEFCdDduTHFZdnp0TXplaWhJeDlDdzZnR2dZV0VCcFFwNVBON0xlOFFXUHk4d2FaN2N4YnBJS0I5dVRkUGhYLUtwUG44TkNPNnJrYkVQbWZaLVdOZWZCTDdWaUpDQ0J3RzNJdHVFaHVpbk9DRmZLbzZXWjNYSQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 13:33:59 GMT",
-      "summary": "Multi-location brands must optimize for AI search &nbsp;&nbsp; Fast Company",
-      "outlet": "Fast Company",
-      "outletUrl": "https://www.fastcompany.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-28T07:24:09.373Z"
-    },
-    {
-      "title": "Elon Musk’s latest move brings good news for Nvidia investors - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0QySEM2OW9ScGtKbUVZMHh4OXBvWUZmM0tWSlMyQlZSYnVCY0dhUTVPRU9zMW5VVUhFRklwZy03NHdSaTRLcnVSSzFQU2phcWtrSjI1LUdFc2ZESF9LdVl2S3ZyQWZlMUJwSFJham1DcDgyTkhZVHRvZzZHZ3U1S1ZMRW1pQlFrU2N0T2lGMWtCeUxDekhwVkR0NDh3NS1qQlZBUWhn?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 13:33:00 GMT",
-      "summary": "Elon Musk’s latest move brings good news for Nvidia investors &nbsp;&nbsp; TheStreet",
-      "outlet": "TheStreet",
-      "outletUrl": "https://www.thestreet.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-27T05:23:50.475Z"
-    },
-    {
-      "title": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN3JnZ2U5QTloUTVZZlB4YWZORXdGMzhNc184Qjd6WFUxWUJLNnRoT2N6eEdpRGZQUV9UM0k0QUg2ZkZteDM5TmNhdnY2aHBmdE9sNmlLeTNyTDRLd2I2Y1dSQ1BmbV84X2ZWdXhCRkxKWE5Yd2JGTWlkaFVMQXRBOGkzaFBwakxYaVNIT0JUdjZ1UDk2RV9sNUVZQ1dPeERUdklLNnJ3LTlDaTdtZFoyOE9DTHY0THVUNy1kdHdHVDRkQXdtNkdTMlQzdF9BSVFsU19fNmRQUFhuSFFsM1dBelBNUTRVdEs1QkFz0gHwAUFVX3lxTE1ZbnM2Q2dDSzVFRkVscmZ0bGwzTlg0YXNyTUJrTTVhMEM1SEh0S1UtUkV3UldvRlB0QWpyQU40NHNJTm0xNGlwMmhhVWI0RUJLbkpSR0VFdHNCQVhMOWM0YXc4YUdvdk9CZ1lpamlvLVBhRXNfWHNxZTlJa1o3SkJNOGtiQWh5MWlicW9VRXpaeDNKenVmVjNpYkpfdG5JRkVjeHBudk83U2NuSnpKYnhpcFRnUzNKeE42WHRwbnc4dXhBMDRYNXV2TW9QV0xsV0ZTNi00QzNxcEdsLTlyZXVmQzdscEtSZFcwVFpWLVJVbA?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 13:32:44 GMT",
-      "summary": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house &nbsp;&nbsp; The Economic Times",
-      "outlet": "The Economic Times",
-      "outletUrl": "https://m.economictimes.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai",
-        "accelerator-strategic-deals-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-29T10:51:24.641Z"
-    },
-    {
-      "title": "Interact brings 700 intranet capabilities to enterprise AI assistants with Interact MCP - AiThority",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFRUNG03RVZTczhveVJxb0lyWEY2Sm1QY21GR3NkRndtX2huMXZEMmhxN0MwMWIybmVoRjUtYm5uVUEta3BqejRlT0FwLTJJS1JnOG55TGtQQkNiM1QtTU9WM0dBSGNBWFpoNmpyLU5tNnhtOEtqQ0FKVVVXSnN6MEJTUENlLTBZRVhZMFd1LTVKNy13TjNDNFF2YXBTTXFtMTBSNW9kbjU1dlhaOWhsdVhXQkx6Skt3N1g3TVljM094TGYxMnc?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 13:32:35 GMT",
-      "summary": "Interact brings 700 intranet capabilities to enterprise AI assistants with Interact MCP &nbsp;&nbsp; AiThority",
-      "outlet": "AiThority",
-      "outletUrl": "https://aithority.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud",
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-27T10:59:25.232Z"
-    },
-    {
-      "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1UzRjJ6M0VaSXoydWlIZ2pzc2tGcUZtMjlzR1JhUE9UR0llUERrRWRJNUdTRWNNQU9IUUEycmZUVk40cEtCSjZ5TzRqZVRWT1JvMEtmQmlENklzd19LLWlDREZZakJ0MWdTOTZleEdBN1FVRFJGMGxHWnpkY2owdVFSQ0FWWHNFcWlPTUtpb1ZDRkZrY0tUMkZrdHRJMnFJZEZveXVQaG41OHFibWFyMWpfNG9jTlR0aTM1enNKT18?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 13:32:03 GMT",
-      "summary": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs &nbsp;&nbsp; Reuters",
-      "outlet": "Reuters",
-      "outletUrl": "https://www.reuters.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-27T15:51:29.490Z"
     }
   ]
 }
