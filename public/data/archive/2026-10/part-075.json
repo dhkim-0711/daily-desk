@@ -1,7 +1,75 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "[오늘장특징주]엔비디아, 일라이릴리, 노보노디스크, 테슬라 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRWRQQXZfelpoTEZCMlBYSWw5ZzR2bWh3Z3lGY0toLUVFeGlmSkM2bUswaDhJaU9ubldMcm1JVlJwR3dmWlBpYlQwVnhvNVlLa0tRU0M3cVM3Q2ljN0MxVXh5RGl4eVhBSi1xcnlaUFlQOUg2OEJsdkxpWGVVZzF5eA?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 21:32:50 GMT",
+      "summary": "[오늘장특징주]엔비디아, 일라이릴리, 노보노디스크, 테슬라 &nbsp;&nbsp; 이데일리",
+      "outlet": "이데일리",
+      "outletUrl": "https://www.edaily.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-27T01:26:41.178Z",
+      "lastSeenAt": "2026-10-27T05:15:11.997Z"
+    },
+    {
+      "title": "Vertiv, 사전 설계형 AI 인프라 플랫폼 SmartIT 출시 - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR3hkdTdraXJfVF8wXy1ybDRSODFqWXFPVVUxTi11V0JFWmhPTWoxaVl1dmJlbkhQVXpITlZ6M0JpbWpHWVFYRHdPRlVhX3paeUVSS0FpVHVCUTNybEUxaFRCUENJR0c3ZHR2cjdVem1iOXJTZmt4VDlhSVAzM3pRam1vNC00S3JBcDdHQlhkbTMyLUJ0?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 21:32:40 GMT",
+      "summary": "Vertiv, 사전 설계형 AI 인프라 플랫폼 SmartIT 출시 &nbsp;&nbsp; Unite.AI",
+      "outlet": "Unite.AI",
+      "outletUrl": "https://www.unite.ai",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-29T18:56:42.064Z"
+    },
+    {
+      "title": "Microsoft, Google Expand AI Beyond Semiconductors - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVV4c3ZUWnpwMGRoOUdBUmlJNm15QkVvYkRXXzBrN3YxOHMwUENOaEJEdVRaUkVjUXR5UEhOM01Uenk4UGxQd0pzLU1sZ01KV1FrMHg3MXAxT1ZoOGpkcERyNlJFXzh4bTNPaVVrb080MnNtWVlVd3ZyRnBPOG1kN2pqR2prT1Fl?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 21:31:43 GMT",
+      "summary": "Microsoft, Google Expand AI Beyond Semiconductors &nbsp;&nbsp; 조선일보",
+      "outlet": "조선일보",
+      "outletUrl": "https://www.chosun.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-27T01:26:41.178Z"
+    },
     {
       "title": "앤트로픽, IPO 서류서 사업 위험 공개…AI 보안 사고부터 데이터센터 반발까지 - AI타임스",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mdUxCa3k3ZHdxLUV3WmR6RzNsa0JjSHNpNkxHSktSdWdxTGMweTduY285LXFCV3RXMXA2M3V2N2JzdHdjRk55cjVTaG1xUklKXzdEZmoySUh0blg2cXJwOXFhdHc2cm9qVkE?oc=5",
@@ -2171,70 +2239,6 @@
       "score": 13,
       "firstSeenAt": "2026-10-27T00:04:50.261Z",
       "lastSeenAt": "2026-10-27T00:04:50.261Z"
-    },
-    {
-      "title": "NVIDIA Minerva, Dell, Lenovo, Supermicro와 협력하여 AI 팩토리에 AIOps 솔루션 제공 - StorageReview.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON1hNNFFqa3JwdFA2Q1ZJTWZQV29xV0FMUGR0MDJtWGVBTjF3U0xPV2wyNTYwTE5XcmJzTGo4UDIwUmJGeGVaYlI2UVFmX01mWlB5dzRkM29nTmZ0STNGTkUwNGpvMzRmMUMzeTljbkJ1ZlpqWE1IVFJUUjRYYTZOR2RzMmVkMHFsdkUyOFppQWFjS2pXQ1hwN29UZncxbWprM1o0SlVDTDVXd9IBrwFBVV95cUxQeFBWaUtUVmJSZDh0M1hYZlZXck9MdTJKSEpiOVJ1al9DR0l4YUFqMTVxazl3RWxRbzVnVEt5QWp6dXBGVS0zRjdIMzNzWWR6bXZqVlFBRVlmbFNsRWY5Y0g3TFF6SWNRX3lMWl9zSldZVmRkS2s5Ql96SjhEOWxJM294MGJyWUdmemtwUHZ2S0VycGlOdE55bjd5LW1LdDBqaVZ1emdoWGtMbDlnTE4w?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 19:16:11 GMT",
-      "summary": "NVIDIA Minerva, Dell, Lenovo, Supermicro와 협력하여 AI 팩토리에 AIOps 솔루션 제공 &nbsp;&nbsp; StorageReview.com",
-      "outlet": "StorageReview.com",
-      "outletUrl": "https://www.storagereview.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-27T01:26:41.178Z",
-      "lastSeenAt": "2026-10-27T09:46:08.096Z"
-    },
-    {
-      "title": "AI Regulation Is Shifting Focus to Chinese And Emerging Market AI Stocks - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHJlNWFQcURqRE5Hbmt2WFJERUFMSldmNjFUdUxfR0lJNEtqdXB0RS0xTTVsRGYzUDFaMVkxS0tydUxwUG9Uamw1dFFPVEdidlc0Sm9HWFZGaExzbWNtY0twMGhGM3dwUlRlVmNxMGNFaXFoeVhOQXpYUkRjeW5jVUtadWRhM2ZPSVlMQmRWZTZhYUpiUnBRUU8zazVFcTM5Rmc?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 19:10:31 GMT",
-      "summary": "AI Regulation Is Shifting Focus to Chinese And Emerging Market AI Stocks &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-27T00:04:50.261Z",
-      "lastSeenAt": "2026-10-27T05:23:50.475Z"
-    },
-    {
-      "title": "PipsWire Shares Q3 2026 AI Visibility Findings on 288 Trading Brands - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGhfS3VxZ3VmSkE5cDJFTUVjUTJMRVc5a0tTV2NmeGFnUlZaeC1hek5ueElBTnZla0t4WUFuRXE3RkR4aGJJNExQcmFZdzBwNGJLWlYwMFEwaHVWNGhqc0tsRVJtM2ZPMHlmREg0a3o3VzBON3VIQnZ0Y1NFLXcwTXN2NzFoOXItcDJfOWNIbHluRHRKX3ZOM2xRR05BNlhueGhlVGtQY1NGaGI2cVdlN3Y1V1JfTnpRLWc?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 19:06:23 GMT",
-      "summary": "PipsWire Shares Q3 2026 AI Visibility Findings on 288 Trading Brands &nbsp;&nbsp; Detroit Free Press",
-      "outlet": "Detroit Free Press",
-      "outletUrl": "https://www.freep.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-27T00:04:50.261Z",
-      "lastSeenAt": "2026-10-27T10:59:25.232Z"
     }
   ]
 }

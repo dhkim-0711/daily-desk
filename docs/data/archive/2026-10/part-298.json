@@ -1,7 +1,73 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "Google Cloud introduces Gemini agent for work - The News International",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHB2cXZNVGdoSHAyc3hHSjdGT0drbGVsU0FJS1poWS1aU2lXanpMNmJaQUtVTXp2RmtZUmoyLTE4WFVpaVJmZGFsbm94NmNjYmlkdUVwR0piUXdNWkNrMXR0c1BvM3gwZXJaeU45UzVjZWpwZmpoUExRdGhCa1hyVUVEYWlZNTlteFo2TkNqMGzSAYwBQVVfeXFMUFFsZmdCR1RTQWxtZW5TOVlTdXdENG50YlpfSF9rcFBXZ2ZVbm94OVdfcFhHbFZVMFp6Q3dqZGlDNFhFY1dPYlBuaWQtdi1nVVJWSFNkRXV3QTBqZkg3bWNVREZ3dHdCRmY2aTExNkZ4NkdoNEZJdDAzemhwZVVxTGlYU0lGUkZvbHFMWFA?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 17:46:00 GMT",
+      "summary": "Google Cloud introduces Gemini agent for work &nbsp;&nbsp; The News International",
+      "outlet": "The News International",
+      "outletUrl": "https://www.thenews.com.pk",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 26,
+      "firstSeenAt": "2026-10-08T19:15:39.537Z",
+      "lastSeenAt": "2026-10-08T22:27:18.434Z"
+    },
+    {
+      "title": "게임 정보가 바뀌었는지 확인하는 토토 고래 변경 기록 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdmhQLWQ1R213SkFUQzg5cW1mUkx5Xy15UkpCN3NUVXNacW1xdnhuUU1UVDhoUzB0TjMzMzZyYmNCQm9VOXd2UU42VUNxZl9pa1FKWnpEUUItMmladUVkdFNJbWM2cXVLZ3lfSVAzVk9YMDhvU25CTjcwWDRpd3pDdnhZX2tlb3BhSmUwX2Rxa3I5dzAyN3BOdVV0OG1XNk9zNkVEMjA2aThWVlZrWGNYU1JOLWIyR2ZyYmltLXBYTlktdFh5YTNWNHlQbmlENWJUTElnWVQxN0dKdGc?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 17:45:24 GMT",
+      "summary": "게임 정보가 바뀌었는지 확인하는 토토 고래 변경 기록 &nbsp;&nbsp; Calgary Roughnecks",
+      "outlet": "Calgary Roughnecks",
+      "outletUrl": "https://calgaryroughnecks.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-09T06:18:21.828Z",
+      "lastSeenAt": "2026-10-11T00:54:58.485Z"
+    },
+    {
+      "title": "화려한 효과와 실제 결과 표시, 스포츠 토토 영업 이익 구분하기 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEcFJ6cm4yWHhCbEdZa1RoLXlyWVd3aENlMnZIZjJWZXZ6MFhyamlRdXRqMjBRam84V2F4V1hsNFBsZnRYNzdpTFdBTGkxZXdZRTdFSVNfNXRSREpESjRPamtid3pMLTJBUEpIM200OA?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 17:42:17 GMT",
+      "summary": "화려한 효과와 실제 결과 표시, 스포츠 토토 영업 이익 구분하기 &nbsp;&nbsp; Calgary Roughnecks",
+      "outlet": "Calgary Roughnecks",
+      "outletUrl": "https://calgaryroughnecks.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 7,
+      "firstSeenAt": "2026-10-10T01:14:57.972Z",
+      "lastSeenAt": "2026-10-11T13:57:52.001Z"
+    },
     {
       "title": "Watch AI Spending Questions Persist as Washington Targets Tech Visas - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY3Z4djV1RlhpNUVoemhNaTlCTWcyMFBkZ21aZ1NpVGZaTm5xS05Oa3g0S3JuV1dYeUdJVkJaeXo1Y1dXM0k3c29aYUpKS2N0QXZFSkhUM05yREJWYzNoLWlpNzFxZ0lKQ19EYkFmeUF1MVhSbGVkSTBwYzJqbHI5b2FDRzFsdw?oc=5",
@@ -2188,76 +2254,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
       "lastSeenAt": "2026-10-11T13:57:52.001Z"
-    },
-    {
-      "title": "Exports hit record amid AI demand - Taipei Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pYXZGQ3h3dzh1cHBoWC16bzQ4eGs4dGtZcV90NXdlNU1Vd2lFTC1OZDdwa1VJOFBuLXU3T21LbmVIMEZpNDZMYS1HTnFuQ0d3RnRvT3BfaHpPWjUwYTE4M1N6SjA2RUtneFQ0Nk1GOEttWXdDb0E?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "summary": "Exports hit record amid AI demand &nbsp;&nbsp; Taipei Times",
-      "outlet": "Taipei Times",
-      "outletUrl": "https://www.taipeitimes.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-08T19:15:39.537Z",
-      "lastSeenAt": "2026-10-11T06:10:51.053Z"
-    },
-    {
-      "title": "During Deal Days, you can get lifetime access to Claude, GPT, Gemini, and more for a one-time payment of $70 - Clarksville Now",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSmlCZ1V4dTdVTmFISWgxbnZ6XzIyMUVrR2JVX2I0VGQ1ZHR2YzNIdVFEbW1WUG1WN3BnRUk4czFTZ2ZxQzBmMEM0TE1aOVRheWNYazZBX3dIbkMxa2JYUzhXM29VcXdBSjhLc1ZJZmNwZzhNXzVKMTF1LVRGckV6T0ZjaUZ4d2tPQkFramZZb2JUTGJ6a0FGLUZmblpsSTZpWTg4N0w3N2t0cV9NYldnbDB0VXBFRGt0SWFINTF3aEdjN052RlVJRTVPNFNHLTlpU09B?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "summary": "During Deal Days, you can get lifetime access to Claude, GPT, Gemini, and more for a one-time payment of $70 &nbsp;&nbsp; Clarksville Now",
-      "outlet": "Clarksville Now",
-      "outletUrl": "https://clarksvillenow.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 15,
-      "firstSeenAt": "2026-10-08T22:27:18.434Z",
-      "lastSeenAt": "2026-10-08T22:27:18.434Z"
-    },
-    {
-      "title": "Nvidia: Micron Just Gave It Away (NASDAQ:NVDA) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MU2NYd1VEeU93a0Rpc2N0azcxLVVmcDYyMkp0Ni12OEY1TmhyRGhjdlMxbE85MWllWXUwdFRUd0dDMzd3Q0pSSFIzT3YtTmVXRXg5OWp3VjdjSTBaRjZnUHVuTkM2RElmR2hIZ3A2NVZ2NGl4U2xoMkZvWGQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "summary": "Nvidia: Micron Just Gave It Away (NASDAQ:NVDA) &nbsp;&nbsp; Seeking Alpha",
-      "outlet": "Seeking Alpha",
-      "outletUrl": "https://seekingalpha.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-10-09T06:18:21.828Z",
-      "lastSeenAt": "2026-10-09T06:18:21.828Z"
     }
   ]
 }

@@ -1,7 +1,78 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware — massive raise could fund roughly 360,000 Vera Rubin GPUs across 5,000 NVL72 racks - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbUJmc1A4ajZaLVBLSWZOQWp0a0E0ckgwUzFlWXNwTWVUM00zOVZxd1hLOVNxUmNmSGxSeG9JaW95Z2d4RFlnV1FTcGpxVV80Q0VmSGEwTXNHWHJHeWlrTExCRW9uNUkxWFBGM252Tjh0bGtpbERWVnBoRUhCZ21YRmtpRjRFcXp0X2pGbVJRc01uQXA0b1N3U0JNVk1KV3BISjVQQ245clZtbUlocVo1V1dwVk40N2dPTUlqUTFiV3N6TEozSjdRUVJZZXBqS3hJN2xqQ0x4cTF4aE4xMEMxQlp4WFZ3eDNrZlJZazdHOHlNX1RTdFJTT1pXWjdFcUNEdVRPMXFPRXI1Tm1kVE9hY0w3Z1ptTWRuSjdHQU1tTWFfNWdNT0JveER1bVRBYnhDaUlsZHRCT3RVLU1sdFhrN0Rzc3ZyUkk?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 11:00:00 GMT",
+      "summary": "SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware — massive raise could fund roughly 360,000 Vera Rubin GPUs across 5,000 NVL72 racks &nbsp;&nbsp; Tom's Hardware",
+      "outlet": "Tom's Hardware",
+      "outletUrl": "https://www.tomshardware.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-08T11:18:21.272Z",
+      "lastSeenAt": "2026-10-10T17:48:08.857Z"
+    },
+    {
+      "title": "메타 데이터센터 채권도 급락…AI 투자에 무슨 일이 [오늘의 차트]｜Global Money Club - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GWWF3M2k2RndHUjU5Z1VVQ2piNmttdHdmQTFXU016WlNUd2NjcldHMFFmcWFLdGVWM2dqSmZhLUNBT3l0bnMycFRwWHdhMjZGbTBpellnM0lWWXc?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 11:00:00 GMT",
+      "summary": "메타 데이터센터 채권도 급락…AI 투자에 무슨 일이 [오늘의 차트]｜Global Money Club &nbsp;&nbsp; 중앙일보",
+      "outlet": "중앙일보",
+      "outletUrl": "https://www.joongang.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 22,
+      "firstSeenAt": "2026-10-08T11:18:21.272Z",
+      "lastSeenAt": "2026-10-09T06:18:21.828Z"
+    },
+    {
+      "title": "Meta Muse, Grok Bot, OpenAI Dots: Which AI agent should you use? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsUU5HR01wSG1kdFBTVk1DRnRFTHoyTDBnallVYkZxbU1zZWRzSm45WmNPRmdSQ2ZVQ3VzRkdlUF9Od181T2xfSlhsVmtQR3VLa2lrYTVYSGRiNmFUSFZfMTJrQTRDTXAtNDdNbFZVQndqd2R2alVfck94ME8?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 11:00:00 GMT",
+      "summary": "Meta Muse, Grok Bot, OpenAI Dots: Which AI agent should you use? &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-08T11:18:21.272Z",
+      "lastSeenAt": "2026-10-08T22:27:18.434Z"
+    },
     {
       "title": "Former Groq engineers sue board over $20 billion Nvidia deal, saying it handed Nvidia the LPU and the team that built it — plaintiffs allege the board kept billions from other shareholders - Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOM25ZSUl1VTdJSDctRjVFLUtpZ014ZkVKZjRXZVBpeWsxZmxmNG5pclFYRFI5R2pMVGxkYmxpRXNkQm9aVHFoOW1QdG01VE0wenhTenM3VDJ1ZDR0bHZseEJaWC10VnFGMnpNc3pzTkd1VHpzWHROd2dQNjNKR2s2aUwwcjdWdXNaVVlqV0F4N1YxWnY3dEthbkNlNy0wbWpFYUdhZ1dsTDF4LTZXZF9PN0V3Z0JPemJuQ09EZnNOYWJKSzM3M2dhTFJnUUFUWUtyX0NtYUJsQzF5ckZ4SUNvSl9EVGtJd1JZU04yN2RXYkNIV0d3YjBIZkhCeDJVS0I4aEdvU0ZNeWEyLWFwcHF2Ylphc1ZjT3JRdEZsVTRsMVF4VHhqTG9oRFNFYjVLRTlEY2daU0x4N2tCbDU0LXlhNGZ1ODhaRlZMM1hGUXZjdS1IM1Fzd3Q1djVmR2RYQkMxSFdj?oc=5",
@@ -2156,74 +2227,6 @@
       "score": 7,
       "firstSeenAt": "2026-10-10T06:01:06.270Z",
       "lastSeenAt": "2026-10-11T09:18:23.510Z"
-    },
-    {
-      "title": "AI startup Manus raises $500 million after Meta acquisition blocked by China - Tech Xplore",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40RGpEVDZZR0wzSlZ3MmhkWFNma2NxUFlnNjNVbng0LU1YeWpaMWtKSGRZRFZMWVBZZVFOaEE4aEhVTVZhdGxpZi11WFc5U2NGQXFNTWNPY3RDZWl3VVhSQnZ3RFdUaXRUMU5ZRy1iWUZxTFpSeldXaUxn?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 09:20:08 GMT",
-      "summary": "AI startup Manus raises $500 million after Meta acquisition blocked by China &nbsp;&nbsp; Tech Xplore",
-      "outlet": "Tech Xplore",
-      "outletUrl": "https://techxplore.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "수출통제·공급망",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 22,
-      "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-11T09:18:23.510Z"
-    },
-    {
-      "title": "설명 화면에서 찾는 루비카지노 게임 정보 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczVZSWpZZ0gyNzQ2eXhoNGZGRDBCX01RWGV6aUNadzQ0SzY4RE50RXpXRWxsUTF0c0ZlYmwwNnFIM21oQ3BFdVk0TWZYTXZWVVRaUFFYNXZMTW9iQ1MzWTgtUzhLUGNiUWVMMzRLOGlmNEFjdmhyQ183eTViRlk3cTdpOW9yU3RmaVRYTC1mWWRrTnZTc2loZEtRbTB4cWc3TDZEV2RGWTZxVzdrckk0?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 09:19:50 GMT",
-      "summary": "설명 화면에서 찾는 루비카지노 게임 정보 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "AI반도체 정책금융·집행",
-      "sourceIds": [
-        "ai-chip-policy-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 7,
-      "firstSeenAt": "2026-10-10T06:01:06.270Z",
-      "lastSeenAt": "2026-10-11T09:18:23.510Z"
-    },
-    {
-      "title": "Is Nvidia, at Bargain Levels Right Now, a Buy? Here Are the Bull and Bear Cases. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakVQX0Nnd2xMa3ROaFhpY19vS2E5WVRXbmoxeDNBbGVvSnNGdXdYWlBxUU9fUzNJMDR0QUt1Q25SQWVMS244WEF3QWN1elZrNWU0TWFuR2gzdnVMb0lNS0FybzcyQ3liaHJ4WnhVSFUtSm96ZjNkbjhyY1d2UFFKd3otVU5haDVCZFFvOTF1SHNkZW14Y0M5V1ZQYUkwUXdvOE5tVjVybUkwMWtjYURJNzdDblkzZ1hiYl9F?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 09:19:44 GMT",
-      "summary": "Is Nvidia, at Bargain Levels Right Now, a Buy? Here Are the Bull and Bear Cases. &nbsp;&nbsp; The Motley Fool",
-      "outlet": "The Motley Fool",
-      "outletUrl": "https://www.fool.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-08T09:27:30.031Z",
-      "lastSeenAt": "2026-10-09T02:04:00.554Z"
     }
   ]
 }

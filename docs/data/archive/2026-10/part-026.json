@@ -1,7 +1,74 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "Google Cloud London Outage Hits 35+ Services [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPck5XcjBxVW41cF90T2tXNTRweHFyeUM5ZERSaTlUWGhabVl2clVSQV92V25FX3BFRjAwNll2bnVwMjRKSC16MmFsSmszY3RjTTRxN0pVS1ktcWJnaXF2Tmt3U2VKTXh0LUhRb1ZiTmRObmMtaW45bzZaVE5mcGZ6NndhcEFTUQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 17:51:43 GMT",
+      "summary": "Google Cloud London Outage Hits 35+ Services [2026] &nbsp;&nbsp; tech-insider.org",
+      "outlet": "tech-insider.org",
+      "outletUrl": "https://tech-insider.org",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-10-30T05:59:09.837Z",
+      "lastSeenAt": "2026-10-30T06:13:35.368Z"
+    },
+    {
+      "title": "AI agent operates electron microscope using plain-language commands (w/video) - Nanowerk",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBldjdVWmI0aXhublJORjVtbnA4c2lnMXk5ZHZhdmswNkk1M0VTeGNVQkJSX0pZQXFNRHNTUW9EazktYXlwZ0pUN3dpSFVreURfZ1ZQVFFkaVJVWDNYRGZHbWl0LUtQNGM?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 17:49:26 GMT",
+      "summary": "AI agent operates electron microscope using plain-language commands (w/video) &nbsp;&nbsp; Nanowerk",
+      "outlet": "Nanowerk",
+      "outletUrl": "https://www.nanowerk.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-29T18:56:42.064Z",
+      "lastSeenAt": "2026-10-30T05:59:09.837Z"
+    },
+    {
+      "title": "Baseten, 20억 개 매개변수의 오픈 웨이트 의사결정 모델 Joey-1 출시 - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWnR0ZUJHU29BamJGX0I3ZlIzcWx5VVgzX0w2dEtOY1NlcTU1c2U3TjU3aUlZWldEMnRGYUlzMmt3RWZjYThtZkFucVJyOEZiSlpXVnBwM2E4YVhFM0p6M1lnaGhNWVUxRFdhVVRqSUNZc2V2cGNOd0V3b2VYQVI3SWZXRmpEakZH?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 17:49:03 GMT",
+      "summary": "Baseten, 20억 개 매개변수의 오픈 웨이트 의사결정 모델 Joey-1 출시 &nbsp;&nbsp; Unite.AI",
+      "outlet": "Unite.AI",
+      "outletUrl": "https://www.unite.ai",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 12,
+      "firstSeenAt": "2026-10-31T05:55:21.679Z",
+      "lastSeenAt": "2026-11-01T02:34:36.204Z"
+    },
     {
       "title": "Nvidia CEO Jensen Huang reportedly targeted by suspected Chinese spy — here's what we know - Tom's Guide",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa2NJYUJfVXloM1A3bVg2b3RSMTN5Zmd6T29OWEpXSXF4WFphN1NtQnpLMnFUYkl6c1hDZndfMzV5dzBNRzJjdU1DN1F1ZmRHYnFHbnZuWVlwVTlYWW5WY3k3NjNiR01yX2ZKdWoyVHJFcUJEMXZLZXdSc244VnRvbWVNS2VCcF9nTVZaZUNOOEQ2dFpiRDZydUJrQ1RqUW5VMTdDNXp6UVFzWHF3a1FQa3I2U19MVWM?oc=5",
@@ -2251,79 +2318,6 @@
       "taxonomyHits": [
         "AI시장",
         "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-29T18:56:42.064Z",
-      "lastSeenAt": "2026-10-30T10:28:06.065Z"
-    },
-    {
-      "title": "Crux Labs Raises Over $6M to Expand Enterprise AI Agent Evaluation Platform - citybiz",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkRNQzJOaEtSSlFialNXZDF2Uk44YVd2RExtdHVIV0sxWFlFUFZpRnpnVWVzWWtfX3hTT2NKWUxhLW5FbU9BU2U0MlpaTjNJZlBWR3FYRlVtRFoybWl2VnFLMVBreFczTWV6WmVsU0ktYTJZd2R1TklLWUpudUpEZlJRQVViSzNCSjRvT1lMMXpkMWhVMG91UDFKOHIyUFBrUkhHbWhTWFFMR1VxakFlekZsZw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 16:21:55 GMT",
-      "summary": "Crux Labs Raises Over $6M to Expand Enterprise AI Agent Evaluation Platform &nbsp;&nbsp; citybiz",
-      "outlet": "citybiz",
-      "outletUrl": "https://www.citybiz.co",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "AI에이전트",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 22,
-      "firstSeenAt": "2026-10-29T18:56:42.064Z",
-      "lastSeenAt": "2026-10-30T10:49:38.359Z"
-    },
-    {
-      "title": "Alphabet suffers $500bn wipe-out in AI search sell-off - The Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUp1Z0poM3J1Uzl1YmNPdW1MUWplN0wxZGk2WTl0aWY4cDE1N19LUlBnR2wtbUM3cGhMdVJyTU1mbmxreW0taUIyZHZIRzU1Zmh1QTVMRFp6U2ZUUGdVM1NOT3c3MUtoa1JadU9vcVJnVjVUMlZTVTVyTmVaZUFmYk5aMDM2YktkTlFNMmF6aGV3Rk0wWFcwS1o4Zw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 16:20:51 GMT",
-      "summary": "Alphabet suffers $500bn wipe-out in AI search sell-off &nbsp;&nbsp; The Times",
-      "outlet": "The Times",
-      "outletUrl": "https://www.thetimes.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-29T18:56:42.064Z",
-      "lastSeenAt": "2026-11-01T06:37:30.498Z"
-    },
-    {
-      "title": "Guidewire Software (GWRE): AI Adoption and Cloud Momentum Drive Stellar Q4 Results - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcnFSblY4VV8tb2tBMXlTRzB0S3NVTmNtZWd6LTFaRU9uZ3dWMVVLdVduX1F0aHU1WU90Zm1WWGtzNEFYcjBmSXQ5bzRZMjlsak9wSDY2U1lldXNTYWI5Q3JLc192Y0xnQVdsbWRNcEFKUjVmRU9hMnQ1MGg1MmNOc2diS3c1ejN2d0RTb1E5N2t2N1dKSW9YV1lETUNJaTRs?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 16:20:43 GMT",
-      "summary": "Guidewire Software (GWRE): AI Adoption and Cloud Momentum Drive Stellar Q4 Results &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "AI인프라"
       ],
       "issueCategory": "AI시장",
       "score": 19,

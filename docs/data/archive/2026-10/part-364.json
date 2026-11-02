@@ -1,7 +1,84 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "Who Makes GPUs Besides Nvidia, AMD? 90% Share Gap [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1WjhUNGd0Rms1QU9PZ0JLbWNKeHJPeW45ZzFLTGtpOFBVa2poV3o5NzAtdTlRZmNLemdKUG10Tmo5aTBBZktINW5kbC1HSEJLRXJjZ2c5OE9HRXZ1X18tNXZIX0RMZVRBQlBTTFdEZkRIUQ?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 15:51:42 GMT",
+      "summary": "Who Makes GPUs Besides Nvidia, AMD? 90% Share Gap [2026] &nbsp;&nbsp; tech-insider.org",
+      "outlet": "tech-insider.org",
+      "outletUrl": "https://tech-insider.org",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "AMD"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 24,
+      "firstSeenAt": "2026-10-02T01:04:49.133Z",
+      "lastSeenAt": "2026-10-02T07:30:57.907Z"
+    },
+    {
+      "title": "Nvidia Sentry's millisecond claim raises AI agent detection questions - TechTarget",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczltUTdLM2J5WXQ5bHg2c21HbkpRWjg3bjZNS1dFNGpjQWVNNFdLOW9aSTFHMjZGLUI5b3Y5TnVGeU5QT0JyMWdxYjBYME5LSVo4OUZsUkhaTmJ3ZlNDZjdVNzNMc29vUW96Qy1IY0U2Nkl0VmFzYl85cjBLUVNQZDJzdGdnZXp5emd0SWRNOHVEWVlWekpIMUl1TkZhWVVObHYxdEstcnhQenZsbjJYSVNWOWxheXdzZHZuRmZWRHNud9IBygFBVV95cUxQNkotRmZ5d09aWW9DM2J0YjdDMEQ5SkFLQ0RMQ0hHdXVpMHFZWi12SUplckhSLUN3RnNWZDNhbzRBakFPLXU2SGpSb2pVWEZ3V1NENC00c1BEcWpPclJVR1hhcHg2cDhzbG5VNGVHbXJqdkZxby1ULWhCTC1WZ1MwVmVmeXFxMk5CS2tqMVBJUnMzYzh1WHVBYldQN3dxTnhkdWtMY2IyaWZ2NEFQMlQwSW9HOThWdkRGSlZEUmFCc09YdDVfVU9WVDF3?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 15:45:00 GMT",
+      "summary": "Nvidia Sentry's millisecond claim raises AI agent detection questions &nbsp;&nbsp; TechTarget",
+      "outlet": "TechTarget",
+      "outletUrl": "https://www.techtarget.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud",
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 23,
+      "firstSeenAt": "2026-10-01T16:41:40.325Z",
+      "lastSeenAt": "2026-10-03T13:54:31.525Z"
+    },
+    {
+      "title": "Google Cloud G4 VM outperformed Amazon EC2 G7e on multi-GPU AI inference in Principled Technologies study - EIN News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQejI5QWNnMGR1WE01dk1XamRpLTJfNUZicnA5YW5KNWIxYkMxTFJsQi1FczdaamNndHphTVJxMTNkV3BEeUlmRlRRSmFJTW93NUF4OHE3aUpPQjRMdFdoSkZvZlNDems5eV83S18wVzdpVjdUY0hpaEF2bGtWcnFwQWx2b1VFOWZSd01LUHVkY2U1bmJHOFZvT1pvUy1JN1hmSGxiOXVzQnByckY4QmVKS1g3c2p6b2hNWjItT2VJOEJpdkRrcjY2MHlOMmRVTGw2eHVUcjNsX2RhZjJyNHlJNQ?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 15:41:00 GMT",
+      "summary": "Google Cloud G4 VM outperformed Amazon EC2 G7e on multi-GPU AI inference in Principled Technologies study &nbsp;&nbsp; EIN News",
+      "outlet": "EIN News",
+      "outletUrl": "https://www.einnews.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "추론",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 26,
+      "firstSeenAt": "2026-10-01T16:41:40.325Z",
+      "lastSeenAt": "2026-10-02T07:30:57.907Z"
+    },
     {
       "title": "AI data centers in space? Google kicks off the race with a key test - CNN",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEZncmZIVkt5SXJMM3F6VXVoWDRQUlRHS3dUMl9qOW1LZlliVFVxSW85UUlUWWducmlhU3pOQ2tWeDJqMWZ1Sjh6WnhCSG9OUWxmSndUQVhDcmlkZFlYbzV0WGxvemhFcGpidEM5Q1Q2ZzUwTG0xOVBMRERTUThqNmJRaw?oc=5",

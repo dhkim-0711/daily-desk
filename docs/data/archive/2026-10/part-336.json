@@ -1,7 +1,73 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3VMeWo4NUtvcHd0NU92ME10aTdvaDU5YTB3ZHVHTkNBMkJYUDREWUk0ZWhhYnZfZXpYdVhzSnFPZUZRa09yM1I3Rk9vNnoyYW5FU3dhb3VSaDNYMHRRZEtRZUU5Z3NCS1NvcG56YVE5TFBCSXJYblM0S1RwM3lUQVhNdzAtN2NZb2V2ajNldklrVVo4RGtNR0pieW9hdFduak9fckdRSHpnZ9IBrwFBVV95cUxNWUpNX1d2MXNZb0Z4cGR6WjZHZHBXbW5PdHNCNUU1VFNTZ2dTSERqa2tScmVHUnFCVzRoSllQT2s0a3BwcktYSFFVd0tLUC0xWWJMVmlRR3psb00zd3drTjVhd1RfT3ZVeGdxNlU1ZC0xa2IyX1RwOWNEMXh2blFQcDNRR015YW4zZUpJc0VJSlFrcGxkQjFrWW9VRmoyUXFQaWh6MTM1SEpFZXRtNVlN?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 11:00:01 GMT",
+      "summary": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales &nbsp;&nbsp; CNBC",
+      "outlet": "CNBC",
+      "outletUrl": "https://www.cnbc.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-06T18:53:25.295Z",
+      "lastSeenAt": "2026-10-06T18:53:25.295Z"
+    },
+    {
+      "title": "KB자산운용, AI 전력인프라 액티브 ETF 부각 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KNHh6SjBoc2wwMk1WOVAwNS1zU0JYNHVuUkMwLWMtWmFqaXFLa2hMQm55cTRMZFlRYzJKREpGUVVGalZYVHd3U1BjOHVZSzh4TTl5eWo5S1h6MlduUDQxQ293dDdib1pVaVhiWnY1OUFDTGPSAXdBVV95cUxOR1FsUWgtLXZVbUVLTHpRVFgxY1V4aFhvaFBZWGU0Zjg1NVU1TzJCTHRhcmxWMDF2VFg1Q1E1OE1YSk40NFNHek84Rk1oTVNFYlpfaGRLSmN4RV8wQTlwdGJyaEV5Zm5HWE9qNFVjdVBSMFFsaVA5Zw?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 11:00:00 GMT",
+      "summary": "KB자산운용, AI 전력인프라 액티브 ETF 부각 &nbsp;&nbsp; 핀포인트뉴스",
+      "outlet": "핀포인트뉴스",
+      "outletUrl": "https://www.pinpointnews.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-06T11:12:33.144Z",
+      "lastSeenAt": "2026-10-06T18:53:25.295Z"
+    },
+    {
+      "title": "AMD Plans Significant Increase in Chip Supply by 2027 - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRGFXYzJfRnk2Rlp1dVdyM1NOUU0wOVhER0ZhZ0k4aFkzRHAzU0xEWmZhNmJlcnpDWVRBTnl2ejcwcjVaRlRmeFBidk84b2NMYW1Dd19UdjdRbWV3UTNOT2xzZVdEMV9ORnBiQnhIMEgtU2czWTRzdFJJQTF5RFhmbktqdw?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 11:00:00 GMT",
+      "summary": "AMD Plans Significant Increase in Chip Supply by 2027 &nbsp;&nbsp; ForkLog",
+      "outlet": "ForkLog",
+      "outletUrl": "https://forklog.com",
+      "source": "해외 AI반도체",
+      "sourceIds": [
+        "global-ai-chip"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-06T17:25:04.264Z",
+      "lastSeenAt": "2026-10-08T16:56:41.528Z"
+    },
     {
       "title": "삼전닉스 앞지른 ‘소부장’… 해킹사태로 떠오른 ‘보안’ - 세계일보",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Lb0RfcUplRVJCN1JYTFRUdWtsNHprVFB5RUJEOEl2aVBOUF9DbUhwNlRhdWZMdlBmNDlQOURzN0xXdzJ6X3JDMEVUOWNYRHdaaVdBRHBtd2vSAVRBVV95cUxNbGlGX1hDSnJWdi1oY3dNVVhoYUo2TEI2N3NmQ1pzaU43T3cwNVczQTB0X09CTW5YRTFoUXBtVEpUZ2lCaDZpN0l5QlF5WVh0a0k2U0g?oc=5",
@@ -2163,74 +2229,6 @@
       "score": 21,
       "firstSeenAt": "2026-10-06T10:46:39.409Z",
       "lastSeenAt": "2026-10-08T22:27:18.434Z"
-    },
-    {
-      "title": "Global Market: AMD to increase AI chip supply substantially in 2027 to meet rising demand - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTGJVZWVtZWFLR2h3Mkl2a2VQRXhBOUFmYUdseWRvSS1WNjVtWUthVXpQNWZBbDVyT1l3Z0RwdUdHc2s2MkdjdW9fczg1bkFSdElYUDJFb1hpakpVUFhhekZ1RzdrYWk5MDdDZWdwZGU4SVFZNXB0cHdTd0t2R2U2NFNoeWRRN2UyNlFtQzFXMEp4SGJuaWc2YnppblpZTmxrLU84S3M0b29Xbm5hVHdiZzZaMkdxNWJjTVBlZUdfOUNBb0c4NWhvTlhvTWQ2LUd0ZHNRR2hNa0FiREFwNUpXdkZvMjRfNEFwUUNSTW8zN2VRZEhwb0xoYjhLQkJOLUtxTjVodmw2akNJUdIBjwJBVV95cUxQaTdSZ3JqREwyaWxLeG5fdWpSQnYxMzdPNUN1RWV2bE5jSFlxeXRBdXpsYXktNHE4ajFwaXZtMy1WRkhTSS03ZXNUeDNxeURsWkt3dXFCYkxUQ1ZQbXdLVUVpQVdISXB5d3l6QVJTTFFQMmY4bFl2Uzh4NWpyeGJSUkxIRGJ1M2JnMVc1VUJkeUt2WWlfa2Fna0tMay1qcGFtck4wVEpER1BGRXIzbWtLUHpITjhhdzZEVzAtakpmNWtrY2hfczRrdHhQSE81aUEtbGE5Tm1oRkJ3TzZVV0NJY3NRaDlubDUxQVhERzBvdENNWWNFczhrZVZ1aVpUbWhfal9odHRtcjM4UThkZHpV?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 09:31:31 GMT",
-      "summary": "Global Market: AMD to increase AI chip supply substantially in 2027 to meet rising demand &nbsp;&nbsp; The Economic Times",
-      "outlet": "The Economic Times",
-      "outletUrl": "https://m.economictimes.com",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "AMD"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 17,
-      "firstSeenAt": "2026-10-06T10:46:39.409Z",
-      "lastSeenAt": "2026-10-09T06:18:21.828Z"
-    },
-    {
-      "title": "두산로보틱스, 국산 AI 반도체로 ‘한국형 피지컬 AI’ 구현 - 환경일보",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ONW9QUnRaTGdrNk5KUTVOdjZxRUlHelFlamRZRE15UjJzRDlFVE9JcHVkTEM0QWYwREFzcC1USEpvelZsdTd1OEcyQU8yRFVnZTFJc1BsSHhldVQ2MGtFS1FCNXAyNHIx?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 09:30:33 GMT",
-      "summary": "두산로보틱스, 국산 AI 반도체로 ‘한국형 피지컬 AI’ 구현 &nbsp;&nbsp; 환경일보",
-      "outlet": "환경일보",
-      "outletUrl": "https://www.hkbs.co.kr",
-      "source": "AI반도체 공공사업",
-      "sourceIds": [
-        "ai-chip-public-program",
-        "government-npu-policy",
-        "npu-commercialization"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-06T10:46:39.409Z",
-      "lastSeenAt": "2026-10-09T06:18:21.828Z"
-    },
-    {
-      "title": "Arm Holdings Stock Forecast | Haas Flags AI Demand - Capital.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RbWlmR1NLZnJNcWVrTExqUmxwbHJGOXJsNnRneEJLN0gtV0w5c1VzMjRTeTlhWWlqVU43Rnk4SFltakZkMGg3bm1XNXNZRGZZclFwWHA2NnV0Mk5OU0ZEbTMzMFR3SXFyN0JIUVQyS24?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 09:30:13 GMT",
-      "summary": "Arm Holdings Stock Forecast | Haas Flags AI Demand &nbsp;&nbsp; Capital.com",
-      "outlet": "Capital.com",
-      "outletUrl": "https://capital.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Arm"
-      ],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-06T17:25:04.264Z",
-      "lastSeenAt": "2026-10-06T18:53:25.295Z"
     }
   ]
 }

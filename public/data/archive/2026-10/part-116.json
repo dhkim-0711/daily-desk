@@ -1,7 +1,73 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "\"삼성·하이닉스만 보면 놓친다\"…전문가가 경고한 반도체 전쟁 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWYlRoZ0ZyZVk5aGpCMWduNDZ0MEd6bDNaWTQwQlk3N3dTazRZSXNCSDduYXRVaXVfY3FCckNjd2tHb3pUcmJMT0pVcGE1c24wdUhJcFJyX0FWLTNybG1VUUlpeTByODF5dVM3SjV4UlRFRW5QTzdIRtIBeEFVX3lxTFBWYlRoZ0ZyZVk5aGpCMWduNDZ0MEd6bDNaWTQwQlk3N3dTazRZSXNCSDduYXRVaXVfY3FCckNjd2tHb3pUcmJMT0pVcGE1c24wdUhJcFJyX0FWLTNybG1VUUlpeTByODF5dVM3SjV4UlRFRW5QTzdIRg?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 15:00:00 GMT",
+      "summary": "\"삼성·하이닉스만 보면 놓친다\"…전문가가 경고한 반도체 전쟁 &nbsp;&nbsp; 뉴시스",
+      "outlet": "뉴시스",
+      "outletUrl": "https://mobile.newsis.com",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 6,
+      "firstSeenAt": "2026-10-25T12:32:15.609Z",
+      "lastSeenAt": "2026-10-25T12:32:15.609Z"
+    },
+    {
+      "title": "Watch AI Spending Faces the Profit Test - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1hzamF1Rm5TaGNoWXVSOEs1cEc0dHZENkt0VGRoeGhFWlprZWdNNi16VmdCNzAzZVF5eTRPdmFJN0pLY2p5QTk1Z2hCOEhTTFhBS2VSZGhUUVJYWnVPOVhjM3FYaHZyV0djUkVJR3hkVVI1YzFOdWFLQTFrWXBMSlgwTUZCZEE1TFM3X3hjRlAwQQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:59:28 GMT",
+      "summary": "Watch AI Spending Faces the Profit Test &nbsp;&nbsp; Bloomberg.com",
+      "outlet": "Bloomberg.com",
+      "outletUrl": "https://www.bloomberg.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-22T17:56:53.418Z"
+    },
+    {
+      "title": "SpaceX AI launches partner network with names like Nvidia, Databricks, Bain - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY2N6b2dIaDR4aDNCTmp2TnRWWXV6enp0Z2dTdEQ2WVVxYkt6VElyNjNnaXNkUUlWN2xPS25KNDlLakNqcnh6S2JJaXl1QmNDRzFJbkVtN0dHTjA4cHowNmJGUnhkOHdvSHJPV3huQllMcjNmcWloZ1FIcGVVS1puMXpCNU1XLWNvNGNaeGtoVHU4M3Y2MllxUE0tU3l5LXB3NS1FM2lneS1FV1NkeUc1RHlBcF9xM3U0elMwU2JRajV2OERsZlJpOU1Ed3d4ZmxWSHc?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:58:57 GMT",
+      "summary": "SpaceX AI launches partner network with names like Nvidia, Databricks, Bain &nbsp;&nbsp; TradingView",
+      "outlet": "TradingView",
+      "outletUrl": "https://www.tradingview.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-22T17:56:53.418Z"
+    },
     {
       "title": "SK hynix rated Buy with 47% upside on 2027 HBM price surge potential - Pluang",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQXNXejNEUmZmOGE0dmJjUTlHbEtYOExjX0NSem1JUndhV2ltZDE1d0t2MVc2ZnhXc2Nwbi1nbm8yTFh2cmxqWWtfVVZZUFdaSXBvaVdkUFlwM053aGs1ZFdDQWM5dk1oel9qc19WYkZEWkNwbHVtM2lqYmV0Uy1aWHg5NzlBdTdua2h2dWMzVkt3bXJ0ZFRJ?oc=5",
@@ -2172,71 +2238,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-22T14:06:18.862Z",
       "lastSeenAt": "2026-10-22T14:06:18.862Z"
-    },
-    {
-      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb - Traverse City Record-Eagle",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYU5iZFBPUDlLd19hMktLSXVCVEVDYlZYSzA3aGpyaTFETVUwUzd6ZzJiX2xPVWd3OFhLY0tZY1U0Y0p5T19WeFZNbjZ5OEhVeGc4SmhmY0p1cHZiQ3JqN1h2M2FrZUZJblJBV0FudEJ1WjE0UHU5WVRORzZSSW9td3FVU211UEFTZmF2WUF0aGZJa2cxWl9vNFUxVEY1cDlVb2xCSHlWZUt3VzdjclZtRzlIdGFCdW95UmhWNFk1bVE0V01UeDlobURHcXVSYTRmRk56cldhUWYzVmZJSkk1M1ByRDBBbG1wMWl3S1h1ZHA?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:32:59 GMT",
-      "summary": "AI stocks tumble and drag down markets worldwide as oil prices climb &nbsp;&nbsp; Traverse City Record-Eagle",
-      "outlet": "Traverse City Record-Eagle",
-      "outletUrl": "https://www.record-eagle.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-22T17:56:53.418Z"
-    },
-    {
-      "title": "Crusoe Partners with Araico on AI Cloud in Paraguay - Crusoe",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOenR6czlKRkhsejlSbjAtbFhPSFlWZzE4eWNIZVhhQVMyUnBmUnhRcFU0WWE5dFVnQ2VwSHdNRFB6bTd4V2l3Uk9Gdkk5dnRGRTVFN2dlbnZHZzF2QkJ5VllBcXlVOTJhR2dqeVhycXZYNWVCRWthUjVQaVRtaXZTb3o3N3hVVU5pelg2U2lLeDhSVDBGVEpwTXlZOUhydmM?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:32:49 GMT",
-      "summary": "Crusoe Partners with Araico on AI Cloud in Paraguay &nbsp;&nbsp; Crusoe",
-      "outlet": "Crusoe",
-      "outletUrl": "https://www.crusoe.ai",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-25T12:32:15.609Z"
-    },
-    {
-      "title": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...AI 투자 부담 재부각에 반도체주 '일제 하락' - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ULUY1NDh0UXNzN2V2TG45Uk9Pek1pRkhGLWkzaTZnWUhYVHdLSTF5QWlMUXg4OUhMdWMtemlpQ09FNWM1TDVZLUpSU2gxQWxJcXdOUXNBaW5BWGkx?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:32:00 GMT",
-      "summary": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...AI 투자 부담 재부각에 반도체주 '일제 하락' &nbsp;&nbsp; 뉴스핌",
-      "outlet": "뉴스핌",
-      "outletUrl": "https://www.newspim.com",
-      "source": "AI반도체 시장·수급",
-      "sourceIds": [
-        "ai-chip-capital-market-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 17,
-      "firstSeenAt": "2026-10-25T01:38:19.640Z",
-      "lastSeenAt": "2026-10-25T12:32:15.609Z"
     }
   ]
 }

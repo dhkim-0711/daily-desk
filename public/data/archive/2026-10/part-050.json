@@ -1,7 +1,80 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "‘전기·물 먹는 하마’ AI데이터센터 농촌에?…홍성 주민 반발 - 농민신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SQURxanpMbUppMGxiS3FFVWc5M29SQVVIY3hZSmN3VjdFWlBEVmlDcE1xX3VhcUc3N0JHaWtFNFJ5TlFIVGRCNkY0bTNZanE0cjh4cWxTWGVaUQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:11:00 GMT",
+      "summary": "‘전기·물 먹는 하마’ AI데이터센터 농촌에?…홍성 주민 반발 &nbsp;&nbsp; 농민신문",
+      "outlet": "농민신문",
+      "outletUrl": "https://www.nongmin.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-28T07:24:09.373Z",
+      "lastSeenAt": "2026-10-30T01:54:30.331Z"
+    },
+    {
+      "title": "[심층 분석] 엔비디아, AI 반도체 공급망에 생산능력 선투자…기판·패키징·테스트·광학 4대 병목 해소 나선다 - 뉴스밸류",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WVjFHLVhCOU1fWG84OXViUk15bHpVMXZmb0o1cnhYdDFPS0dYWWxleFQ1eC1PQlg1Y08xQ3BLSVR2dGNfWlF6T0drWVRBOFBEVExqTExQN2FZVG1EUkMxYWhZSTFvbjQzVVE?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:10:45 GMT",
+      "summary": "[심층 분석] 엔비디아, AI 반도체 공급망에 생산능력 선투자…기판·패키징·테스트·광학 4대 병목 해소 나선다 &nbsp;&nbsp; 뉴스밸류",
+      "outlet": "뉴스밸류",
+      "outletUrl": "https://www.newsvalue.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy",
+        "korea-global-ai-companies",
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "파운드리·패키징",
+        "수출통제·공급망",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 29,
+      "firstSeenAt": "2026-10-28T10:31:07.345Z",
+      "lastSeenAt": "2026-10-29T23:35:43.436Z"
+    },
+    {
+      "title": "SK hynix Details Memory-Tiering Technologies for AI Inference - TOKENPOST",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wMTR2VlpOMWd0T1ZNZDVjOGYzR0NjZjRCbWNLQzJFNUpSTkZtVXRNY0tpUDI3NzBILTVuMDk0VVk5U2swNGxTcUpRRGszWi1BTXFueEJtdDMzSXM?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:10:05 GMT",
+      "summary": "SK hynix Details Memory-Tiering Technologies for AI Inference &nbsp;&nbsp; TOKENPOST",
+      "outlet": "TOKENPOST",
+      "outletUrl": "https://www.tokenpost.com",
+      "source": "메모리·패키징·인터커넥트",
+      "sourceIds": [
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "추론"
+      ],
+      "issueCategory": "추론",
+      "score": 16,
+      "firstSeenAt": "2026-10-28T10:31:07.345Z",
+      "lastSeenAt": "2026-10-31T06:06:59.265Z"
+    },
     {
       "title": "LG유플러스-한국이콜랩, AIDC의 액체냉각 운영표준 공동 개발 맞손 - 디지털경제뉴스",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MNE9RZXk4c3MzSm1tbEJCM3RVMUlXZndVaUlrTFcyekpHeFBYTmtfZ0FSWlpKdFR6MWxBSGc5U3RSNVhTdTFKUV9HX1p4Nm13cWYzWnQ1MXdDdWpEbF94SDB0bFlfM3RXYWc?oc=5",
@@ -2144,73 +2217,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-28T07:24:09.373Z",
       "lastSeenAt": "2026-10-29T01:46:05.232Z"
-    },
-    {
-      "title": "AI 투자 지속될까…빅테크 실적에 쏠린 반도체업계 시선 - 딜사이트",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LUVVJQmJiWUotSkhoN1RYVFlDYkZmSk02dlJxNnl0U0Y2R1ppbGFzcDhVTW9HVU1CUUlIeUhfNXhMczRUYThubl9VaEYydVk?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 06:11:47 GMT",
-      "summary": "AI 투자 지속될까…빅테크 실적에 쏠린 반도체업계 시선 &nbsp;&nbsp; 딜사이트",
-      "outlet": "딜사이트",
-      "outletUrl": "https://dealsite.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-28T07:24:09.373Z",
-      "lastSeenAt": "2026-10-28T18:48:46.253Z"
-    },
-    {
-      "title": "Anthropic hacked by AI startup comprising former DOGE staff in just 12 hours - WION",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGhTZFB5UThnVGpwMU1MQmN3amVCZ0lfbXpFNVVHb2FXQmpiNkdTajlRWlJ6cDlGWmJ2c09nYzVuZS13d0VVZUpzeEZNbWp4b2N6ejlQdU5aR2RwUmpIMzVCLTVNWHlqUUJMWWh4ZHZkY1g5OEN2cWJteUYxQnpBZDZkbGVNRW1ISFc3MlRSYW9hckVMOFdtb3JHYzQzLVV5OWlpd3BSX3Y5VGlKMi1yWlZpNUctbHFpQW9URm9md0HSAcYBQVVfeXFMUFZ2MXFsS0NNWjZtTUVTeXZvYTNGS0U4SGpDLUlCS21oS3V5SlhNMXRZLWZBS2pGempuQllvd1dTZXhBNkgydlg4V01VVDBqWnI2MXJ6WDNhMWR6Tzc4Tm5aVUdadFhpcFFnUlNYYlB5cUYyNVh4WW9iWUpObEZrMi1qeDUtYzZOV21GaENCOVdGdi1EajJrenpObEdsLVI1YkFVdTFBZ3RnNjdhMGFGV2dsX3BBb3hjdWhLUm90RVlaYjhsZldR?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 06:11:00 GMT",
-      "summary": "Anthropic hacked by AI startup comprising former DOGE staff in just 12 hours &nbsp;&nbsp; WION",
-      "outlet": "WION",
-      "outletUrl": "https://www.wionews.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-28T10:31:07.345Z",
-      "lastSeenAt": "2026-10-29T00:25:13.616Z"
-    },
-    {
-      "title": "[심층분석] LG전자, 3분기 누적 영업이익 4조원 돌파…가전·전장 넘어 AI 데이터센터 냉각으로 성장축 이동 - 뉴스밸류",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RSnhQVDZxaE4wcEZNVHdrTmFzWTEwVVc1cEVINmt4Wk1DTHY2UzZnUjhKSUhXRVBjbmpqS2w4Z0RjR3FnNjBtZGFkc0kzYVZqZ1ctZVYwVktzbHlwckNrNXFpZFVYQWVIZUE?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 06:10:53 GMT",
-      "summary": "[심층분석] LG전자, 3분기 누적 영업이익 4조원 돌파…가전·전장 넘어 AI 데이터센터 냉각으로 성장축 이동 &nbsp;&nbsp; 뉴스밸류",
-      "outlet": "뉴스밸류",
-      "outletUrl": "https://www.newsvalue.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-28T10:31:07.345Z",
-      "lastSeenAt": "2026-10-29T00:25:13.616Z"
     }
   ]
 }

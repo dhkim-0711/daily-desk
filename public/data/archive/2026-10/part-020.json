@@ -1,7 +1,82 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "현대차그룹, 새만금 AI 데이터센터 투자 최종 확정…2027년 착공 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uOTZJVVU4WTJmbktCd09OX3BTVDlVcVhjTE9aMTRUMFNCWVVsdWttZFhGcG9najVTOUVvLUtQRTdmTGh4a2tJNkdtY1JiUHR1VlNyWNIBVEFVX3lxTE1uOTZJVVU4WTJmbktCd09OX3BTVDlVcVhjTE9aMTRUMFNCWVVsdWttZFhGcG9najVTOUVvLUtQRTdmTGh4a2tJNkdtY1JiUHR1VlNyWA?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 01:52:00 GMT",
+      "summary": "현대차그룹, 새만금 AI 데이터센터 투자 최종 확정…2027년 착공 &nbsp;&nbsp; 더팩트",
+      "outlet": "더팩트",
+      "outletUrl": "https://m.tf.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-30T05:59:09.837Z",
+      "lastSeenAt": "2026-11-02T01:02:18.129Z"
+    },
+    {
+      "title": "LG CNS, 3분기 영업익 15% 증가…AI·금융이 성장 견인 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LeFY0dlpRNVpyMUpsRnhXdXVkSEJnUzhCOFhpbmp1RllSd002YWNES3k3U29TMGk2NEswQ3RtbUVJVkRmMms4Y0ZvbE1OX0FBZ25pYTBxWi1jUQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 01:52:00 GMT",
+      "summary": "LG CNS, 3분기 영업익 15% 증가…AI·금융이 성장 견인 &nbsp;&nbsp; 한국경제",
+      "outlet": "한국경제",
+      "outletUrl": "https://www.hankyung.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-30T05:59:09.837Z",
+      "lastSeenAt": "2026-10-31T07:30:17.533Z"
+    },
+    {
+      "title": "포커스에이아이, 딥엑스와 국산 NPU 기반 AI 서버 양산 협약 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFV6azhLc3dGSjhMdk5pYkVPQlRuYWdpbmpIVWM0YUlmb1M5RTRkOWdkOEE5Zk9zWDhNWXBEZXViUW9pUjRYMXU5a3JwWmlhNXlQVXVPUC1EV3VHRm5JUWxhUXo5QVJJdG13dG1tWWVNdkdKdUROeEt3NTRydk9vVw?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 01:51:05 GMT",
+      "summary": "포커스에이아이, 딥엑스와 국산 NPU 기반 AI 서버 양산 협약 &nbsp;&nbsp; 이데일리",
+      "outlet": "이데일리",
+      "outletUrl": "https://www.edaily.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "deepx",
+        "public-regional-npu-demand",
+        "npu-commercialization",
+        "accelerator-software-ko",
+        "local-government-npu",
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 26,
+      "firstSeenAt": "2026-10-30T01:54:30.331Z",
+      "lastSeenAt": "2026-11-02T01:28:59.868Z"
+    },
     {
       "title": "\"엔비디아 비켜!\"...아마존, 자체 AI 칩 외부 판매 선언 - YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IQ3kwZ3lEaTJxTmUxOUFmNGZJcl92M1JObWtFbXhfWGpxTk9Qa1pZTlVFZ2w2V0dGR053ZDctRXpWZmNWRmVYY1lJMC1nWXd1UFpvM3FzQmlDb3RfWUE?oc=5",
@@ -1793,7 +1868,7 @@
       "issueCategory": "NVIDIA",
       "score": 20,
       "firstSeenAt": "2026-10-30T01:54:30.331Z",
-      "lastSeenAt": "2026-11-02T06:37:02.268Z"
+      "lastSeenAt": "2026-11-02T08:20:08.101Z"
     },
     {
       "title": "SK hynix establishes U.S.-based Americas headquarters… positions \"HBM key figure\" President Ahn Hyun at the forefront - 머니투데이",
@@ -2171,73 +2246,6 @@
       "score": 18,
       "firstSeenAt": "2026-10-30T01:54:30.331Z",
       "lastSeenAt": "2026-10-30T10:49:38.359Z"
-    },
-    {
-      "title": "LG CNS, 3Q 영업익 15% 증가…'AI·금융' 실적개선 견인 - 뉴스;트리",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBENEZOeDRqWlRJb3NrSC1jS1A3OWgwSEwycmlIaFBPd3pBdGRHVWFGWE4wdGtYUWdxVy1XbGdrejBwb2cyLU95aHdKOXRZc1BsLThULTRzeGhHQUhX?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 01:10:01 GMT",
-      "summary": "LG CNS, 3Q 영업익 15% 증가…'AI·금융' 실적개선 견인 &nbsp;&nbsp; 뉴스;트리",
-      "outlet": "뉴스;트리",
-      "outletUrl": "https://www.newstree.kr",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-30T01:54:30.331Z",
-      "lastSeenAt": "2026-11-02T01:02:18.129Z"
-    },
-    {
-      "title": "Alphabet’s worst day ever leaves Google search valued below fossil fuel stocks, BofA says - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVklwb2w0aEhtU3Q4OC11VW15SjFHQ1lqeEZtNV9iaFVHWl9oSVdub2otNzZsSWxzWnhRaUFPczdEUGFmOS1Pb1JDeGQtZ2ROTXEteEJwSFVjdG81OTdUS1htVy1LTlhjUmlBUmlJeWQ5SHphUEVSQVpyb0tYSENHejZxbkxOTE5BSG1xNk54aVZLUzJ4cmRPTQ?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 01:10:00 GMT",
-      "summary": "Alphabet’s worst day ever leaves Google search valued below fossil fuel stocks, BofA says &nbsp;&nbsp; Fortune",
-      "outlet": "Fortune",
-      "outletUrl": "https://fortune.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-10-30T16:49:59.511Z",
-      "lastSeenAt": "2026-10-30T18:34:19.467Z"
-    },
-    {
-      "title": "LG CNS, 3분기 영업이익 1382억원… 'AI·클라우드 성장'에 실적 개선 - 뉴스웰",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45WDhkNW5xRDZQTlBwVWFCVWItU1luM05XNGcxZ3d4cVJHd0ptQjRrWnQ1TEtVcjFKNmhYVmFKMHo5MFNMV1VrV0FMMEpGa3pGczREQXhvd1JnWGpPVHFkeHh1WmtEZW10VFNqYQ?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 01:09:50 GMT",
-      "summary": "LG CNS, 3분기 영업이익 1382억원… 'AI·클라우드 성장'에 실적 개선 &nbsp;&nbsp; 뉴스웰",
-      "outlet": "뉴스웰",
-      "outletUrl": "https://www.newswell.co.kr",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market",
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-30T01:54:30.331Z",
-      "lastSeenAt": "2026-10-31T06:06:59.265Z"
     }
   ]
 }

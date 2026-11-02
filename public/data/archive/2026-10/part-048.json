@@ -1,7 +1,82 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "Fed decision and Alphabet, Microsoft, Amazon earnings could shake up the AI trade over the next 48 hours - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGMyNlVMOV9mTHQ1ZEd2MWZiZDZsYUZ3U1dYQVVoeDBsbVd4V3BhemNaeTV1UjgxTDUwNEZsMzEyWjB4cUExZTBYS3d0b2dUX2NWa3p3N3RpWE9yZ1dpekd6cjNyOThHRDJST3dXaEs0R084Wk1kdmY3cHA2SXdFTEs1a1ByQ3RpZTNxUllGczdDMnktd1pmdnRON1duQ0Z2VHhRMF9iU3E?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:54:50 GMT",
+      "summary": "Fed decision and Alphabet, Microsoft, Amazon earnings could shake up the AI trade over the next 48 hours &nbsp;&nbsp; Business Insider",
+      "outlet": "Business Insider",
+      "outletUrl": "https://www.businessinsider.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-28T10:31:07.345Z",
+      "lastSeenAt": "2026-10-28T18:48:46.253Z"
+    },
+    {
+      "title": "빌려 쓰는 MS, 직접 짓는 아마존…엇갈린 ‘AI 투자 셈법’에 쏠린 눈 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmTUp6dl9nb09CVHFFVmdzblJtMWlBX2hPTXZnRzhjXzJsMm5RV3M4MHF6RW1JMG1uQkNvLTU2dUlLWjdZMXRNX0htWGp0c3BrZVhz0gFTQVVfeXFMUGZNSnp2X2dvT0JUcUVWZ3NuUm0xaUFfaE9NdmdHOGNfMmwyblFXczgwcXpFbUkwbW5CQ28tNTZ1SUtaN1kxdE1fSG1YanRzcGtlWHM?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:53:17 GMT",
+      "summary": "빌려 쓰는 MS, 직접 짓는 아마존…엇갈린 ‘AI 투자 셈법’에 쏠린 눈 &nbsp;&nbsp; 서울경제",
+      "outlet": "서울경제",
+      "outletUrl": "https://m.sedaily.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-28T14:31:16.707Z",
+      "lastSeenAt": "2026-10-30T01:54:30.331Z"
+    },
+    {
+      "title": "Oracle adds Google TPUs to OCI to expand enterprise AI compute options - Network World",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSjMtb1dvTTF0T25HLThIZm1oakNHQWZkMFh1ekcyRDdSTUlnd2gtMFVSNUtTWGtQVnVDOHF5TWFha1k1bF9qTVdudDdxbnZIUmdGNTh6MHpXUW5LcmpIdTdzNktRdkg1dWVGdzBNMWFkMnZHbzZ4NkdkeWlZYW9VeXhPb2lvX2JUX3lFbDJPbEJOaGtidmw1SjZEM1k3UXFEZlgtLUY4b3BXbWxDcHl4aFdVUk1kLXJrMjZpeg?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:49:22 GMT",
+      "summary": "Oracle adds Google TPUs to OCI to expand enterprise AI compute options &nbsp;&nbsp; Network World",
+      "outlet": "Network World",
+      "outletUrl": "https://www.networkworld.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud",
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 26,
+      "firstSeenAt": "2026-10-28T10:31:07.345Z",
+      "lastSeenAt": "2026-10-30T16:49:59.511Z"
+    },
     {
       "title": "Nvidia is scared: Leaker suggests RTX 5090 and RTX 5080 discontinuation signals impending AI collapse - Notebookcheck",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZDZ6MnNmUFA5Mk92QXZ4UEN2czUxQUNnY2FjaXBPclh5c3dWaEkwVTZVOUlYcURJQlRNUEVVOUhOSFNkOWdSdkRwOEtSekpWcVdpemkwX0NpODFBR01JWkJPb1ZrOHl4cEVIbTNleTFwSGNZNnZNNnpPSTBOaFlfSC1NZk9jQVFRR1VIQUVHNk1UYTNEckNndnYtMGRjN2loVm9TQ3dIN3Z3OG1lTmtJdUpxYWY3SEs5ZVNpaWNYbGctNFV2RTBCM1pSVG9LckRSb1MySWlFM1VKLXlPcFE?oc=5",
@@ -2177,83 +2252,6 @@
       "score": 26,
       "firstSeenAt": "2026-10-28T10:31:07.345Z",
       "lastSeenAt": "2026-10-31T07:30:17.533Z"
-    },
-    {
-      "title": "19조원 AI 투자에 제동…당국, 구글 핀란드 데이터센터 경찰 수사 요청 - 임팩트온",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YNGNFdkk1YXhLa3YyU211anZLSUlPWHFVeEI4dFZ2bFhtcGxnaktSUnB2aGUwVTlQRk5GWDltQ0FZdHFpUlFiMXpuTzU1ekRMVzZabG5EZU5wdGthTjBUclBSV3FGQW5JdGc?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 08:26:07 GMT",
-      "summary": "19조원 AI 투자에 제동…당국, 구글 핀란드 데이터센터 경찰 수사 요청 &nbsp;&nbsp; 임팩트온",
-      "outlet": "임팩트온",
-      "outletUrl": "https://www.impacton.net",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI시장",
-        "데이터센터",
-        "Google",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 29,
-      "firstSeenAt": "2026-10-28T10:31:07.345Z",
-      "lastSeenAt": "2026-10-30T01:54:30.331Z"
-    },
-    {
-      "title": "Market Chatter: OpenAI Looking to Buy Google's AI Chips - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2sxRTl1c05oT1JTeEdNcUFHa3lyLXFPckthMXZFcHI5TEZaVU9fWklTWDFmcWdydGpfVTFOZUVOWHJqWXpVQmx6OTdzVUcxTEZMMzIwX19rWnJha1h1OG45UExRSXpiaWZmeFdXYlZuVmp6T1B5U1JjNzNWOFFxQ0I2Qmx3VTRpVTMyVTIteHJ6cndncjN5TnFVdExPdw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 08:25:46 GMT",
-      "summary": "Market Chatter: OpenAI Looking to Buy Google's AI Chips &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T01:46:05.232Z"
-    },
-    {
-      "title": "LG전자, AI 냉각 '통합 솔루션' 확대 … 엔비디아와 로봇 데이터 50만 시간 확보 - 뉴데일리",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ibXZHOFUyVVhnRkpjUXFjaHBJYjMtVFBlUGhtY2lZa2JqZ3FMQlIwb01zVUVQNnVMTXF4dlowQWhPT3NkTGwydDlwRzJJdm1BWFp5MWZ1b1lPWjk4elZVcGpaWkRCbXYyT3NwSVVzQVhPWlJJRWdNYXVuMNIBgAFBVV95cUxPSnZnS2hkaUxuWUlxaG95empFclc5b2hJMm1pSVhZZmV5ZXQzRVdxRXBKQXNrVDZ5NUkybzA1em95d19zcGhkVmtZcm5qc0VwcjdnaTlSU1d4eHhlT3ZSN3F5MVhJV3dlMDhQWDlYSks2RGtxaUdPS2xFYWcxdU5iRQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 08:25:00 GMT",
-      "summary": "LG전자, AI 냉각 '통합 솔루션' 확대 … 엔비디아와 로봇 데이터 50만 시간 확보 &nbsp;&nbsp; 뉴데일리",
-      "outlet": "뉴데일리",
-      "outletUrl": "https://biz.newdaily.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 23,
-      "firstSeenAt": "2026-10-28T10:31:07.345Z",
-      "lastSeenAt": "2026-10-28T14:31:16.707Z"
     }
   ]
 }

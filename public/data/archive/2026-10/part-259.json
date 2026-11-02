@@ -1,7 +1,74 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "AI training energy reduced up to 50% with U-M software - Michigan Engineering News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXVlN2JnNzEtX0FtRnJmLUI4aVZSQVVlWVBHWGtFWHRaVzh3OTRKV1ctLWpCdm9KUWlUc0Y1Y1RJUlotbnBZUmVtSUpTODc3UGZJSG1abnVGZFNlbHdWUVFuUXVrNHgxR2h0SlhiNUJ2Z1YzQ0xBMTQ2UklXSkFhcEp2ZmdqZk1jRWdheEROUmxvQnlNT2c?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 16:32:08 GMT",
+      "summary": "AI training energy reduced up to 50% with U-M software &nbsp;&nbsp; Michigan Engineering News",
+      "outlet": "Michigan Engineering News",
+      "outletUrl": "https://news.engin.umich.edu",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-12T21:42:25.155Z",
+      "lastSeenAt": "2026-10-12T23:13:29.308Z"
+    },
+    {
+      "title": "ROCm 10 OpenCL vs. Mesa 26.3-dev Rusticl Performance On AMD Strix Halo - Phoronix",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRU96TUlDVUVnZkpNWGczcS1kZXZHd3BHcDEtbDFSNExSUzZNczllbmFVbkZvLTk4UEVqZTVqVm40RFBTb3drbWVYLWNCWkZTcEVEeTlsQ1F0enJlRFEtR09pOHU?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 16:32:00 GMT",
+      "summary": "ROCm 10 OpenCL vs. Mesa 26.3-dev Rusticl Performance On AMD Strix Halo &nbsp;&nbsp; Phoronix",
+      "outlet": "Phoronix",
+      "outletUrl": "https://www.phoronix.com",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-12T21:42:25.155Z",
+      "lastSeenAt": "2026-10-15T12:37:32.831Z"
+    },
+    {
+      "title": "Broadcom CEO Says AI Investors Have ‘No Clue’ - NVIDIA (NASDAQ:NVDA) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHVVSndiVE9qUzZ2dldNSlNEWWs0YXh3cmRxNkl6N0d3RXpESDZuVEdnRTB3a2ZiNHN2QXY1TVNVeXlsT1dzM3phOUxOWjUtSW5salNHbENjSGlvSWdpbnNjRmRZWUp6Q3RJc29qakt6Vjg2eVU0SnQxU2xSTDZORFV5VHNkbUdDb0ttc1QwdkRyYW8wNXZTbWt6MHhaNkk2aHIzTlNJOA?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 16:31:41 GMT",
+      "summary": "Broadcom CEO Says AI Investors Have ‘No Clue’ - NVIDIA (NASDAQ:NVDA) &nbsp;&nbsp; Benzinga",
+      "outlet": "Benzinga",
+      "outletUrl": "https://www.benzinga.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "Broadcom"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 24,
+      "firstSeenAt": "2026-10-13T06:52:47.139Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
     {
       "title": "Broadcom CEO Says Many AI Investors Have ‘No Clue,’ Likens Boom to a Casino - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHVVSndiVE9qUzZ2dldNSlNEWWs0YXh3cmRxNkl6N0d3RXpESDZuVEdnRTB3a2ZiNHN2QXY1TVNVeXlsT1dzM3phOUxOWjUtSW5salNHbENjSGlvSWdpbnNjRmRZWUp6Q3RJc29qakt6Vjg2eVU0SnQxU2xSTDZORFV5VHNkbUdDb0ttc1QwdkRyYW8wNXZTbWt6MHhaNkk2aHIzTlNJOA?oc=5",
@@ -2215,78 +2282,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-12T16:06:06.831Z",
       "lastSeenAt": "2026-10-15T12:37:32.831Z"
-    },
-    {
-      "title": "Cisco and NVIDIA Announce USFP: Expanding the Path to AI Connectivity - Cisco Blogs",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORW82XzZySmhBUllpTmFFR1RWSVBWUGN0UUZjOE1FNlFsYzg3WlJXRjMzWHRBdWZvRE9GUDRCWkF5UGl2NG9EbG9abGVFMkVlYWFsRFV5cDVqLWZ6bG4ta3g4NENfTkcxQzIyOUpla0cwVEtrdE16dFhvcTVYcDFiNnFWSGRWSWRwQ2J5SERJTTRMWmpkV1M5MGRvdEZMZw?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 15:03:25 GMT",
-      "summary": "Cisco and NVIDIA Announce USFP: Expanding the Path to AI Connectivity &nbsp;&nbsp; Cisco Blogs",
-      "outlet": "Cisco Blogs",
-      "outletUrl": "https://blogs.cisco.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-14T01:10:06.419Z"
-    },
-    {
-      "title": "브로드컴·퀄컴, AI 반도체 시장서 성장 전략 차별화…투자 매력은? - 더페어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qMjU3TkZsTEFoMm92ZXFXT3VBSlViNGZhalV3MUMzaWZJazdGOXd5aVMyY0FCdWhwdHdQT3FIZUFMQlhnODhOVWZOZmhwSW93OHpMLTVNSDU5bjY4OEd4WDRMaC1BbTJjUTQ1bUVRM3NoX1h20gF0QVVfeXFMTWoyNTdORmxMQWgyb3ZlcVdPdUFKVWI0ZmFqVXcxQzNpZklrN0Y5d3lpUzJjQUJ1aHB0d1BPcUhlQUxCWGc4OE5VZk5maHBJb3c4ekwtNU1INTluNjg4R3hYNExoLUFtMmNRNDVtRVEzc2hfWHY?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 15:03:20 GMT",
-      "summary": "브로드컴·퀄컴, AI 반도체 시장서 성장 전략 차별화…투자 매력은? &nbsp;&nbsp; 더페어",
-      "outlet": "더페어",
-      "outletUrl": "https://www.thefairnews.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy",
-        "ai-chip-capital-market-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-12T21:42:25.155Z",
-      "lastSeenAt": "2026-10-15T12:37:32.831Z"
-    },
-    {
-      "title": "Nvidia and Cisco unveil new USFP optical module for AI data centers - StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFZ4N3RIaS1ST3BxQzFZemZwVUhZNFVzVlhTSGpGVEUtU2JjR0xNTFd3bHE3YmZjZnJBTlNZeXlOc0dTWHBPRE1maks0T1hfRmozTGp4cml2Ui1lbXZob1YzcEpQVm1DZHd6ME83STI1SWNKenJ5OG1TYVBpU0tpay1XY1dyMVRIbjBOZEpxOHVhbEEwRzFYVE82c3RuX0s3Tl9mamNHYncwYkk3eC1lNWJXNnNQaUh5ZG9XeDUyWjhXaFF2?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 15:02:08 GMT",
-      "summary": "Nvidia and Cisco unveil new USFP optical module for AI data centers &nbsp;&nbsp; StreetInsider",
-      "outlet": "StreetInsider",
-      "outletUrl": "https://www.streetinsider.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 23,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-12T16:06:06.831Z"
     }
   ]
 }

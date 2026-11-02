@@ -1,7 +1,76 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "국가 AI 데이터 945종, 활용 문턱 낮춘다 - 뉴스앤넷",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yWlB6MmxPZ2N0Zzg1QUkyNk1oT1c2Y0NfSXF3TlZXWXc3cUdrVDFBOHNXcUpEeGFGR0tMOWNJdFVqV096Y1JWc0xibFZ3Sjk5U2ZLaHZvR1VObUJKbFBEY3VrWGJaVzVzVWc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 15:06:54 GMT",
+      "summary": "국가 AI 데이터 945종, 활용 문턱 낮춘다 &nbsp;&nbsp; 뉴스앤넷",
+      "outlet": "뉴스앤넷",
+      "outletUrl": "https://www.newsnnet.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy",
+        "nipa-msit-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-14T22:37:16.367Z",
+      "lastSeenAt": "2026-10-17T14:25:36.526Z"
+    },
+    {
+      "title": "'Half the GPU overhead' with 'comparable visual fidelity': Nvidia dramatically improves DLSS 5, which is great — but gamers want it on more GPUs - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTjZ3Y2k5WldYOGo0cVZuR0JNbk40eDRqUjZESWNKaTFPOHBld3NkN3k2amMwU0J0eU5nZ0lncEhQUUtZcEJHWTVuenBRU3RiMklnbF9Uc3BkMXNaMGRram9VWU5WT2I2NDJWTzlPWm1fOHBLTWJ0UGhuMVdDMm44U0tRb2NWVjhIaHZ6aGZBQlVSVWI3ZXhSWnRpOTZOc3NNR3RLVnZjNURIR1lYeGt5MDYtcFI5eTR4U1JmLVk3UWVfVk9ZVmJmYUNxWGRHUmphREp0TkNJUGtNY244MkVqdmllUDNnR0IwSmIyM0lQanJ1VWFGanFyMEdwc2gwVUJFdEhUbmQyUQ?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 15:06:45 GMT",
+      "summary": "'Half the GPU overhead' with 'comparable visual fidelity': Nvidia dramatically improves DLSS 5, which is great — but gamers want it on more GPUs &nbsp;&nbsp; TechRadar",
+      "outlet": "TechRadar",
+      "outletUrl": "https://www.techradar.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-14T17:58:43.781Z",
+      "lastSeenAt": "2026-10-15T00:28:45.158Z"
+    },
+    {
+      "title": "AI and jobs: 4 takeaways from Google’s chief economist - MIT Sloan",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVhFSFcyc0Nta3hza3NtWWlnWnBhZzB5bXAwaUJTMVFYMk1lTEkwOUlwOS1yTnhnLXg2Q0tTQUIwOVhYRzhpalUtaE5tYnAwUFViNlFsVjRCYXBRSkl6Qi10V0ZtUmMzM2YyMGxSTFRZeFBFbzdIbU1vOEJfS2tHbEtkOUNKZWVPY1VDNWRWckpiRU12Znc3Ng?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 15:06:39 GMT",
+      "summary": "AI and jobs: 4 takeaways from Google’s chief economist &nbsp;&nbsp; MIT Sloan",
+      "outlet": "MIT Sloan",
+      "outletUrl": "https://mitsloan.mit.edu",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-14T17:58:43.781Z",
+      "lastSeenAt": "2026-10-15T12:37:32.831Z"
+    },
     {
       "title": "Nvidia commits $250 million in compute to UK AI agent safety research - Crypto Briefing",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52NjM4RzhwUFFyVnV5UTRfZHJVQkhsZ2pyT1dMeExFMUR6aDJhNXBaRVZtRUZMN0dDVnBjRDU3bEF5Q3R3U2ExY3U1dDlHMWZtQU9LQnJQVExJSEZjY0UwMVR4MjA0UkJYTjhwRUVSQXk3WUU?oc=5",
@@ -2216,76 +2285,6 @@
       "score": 19,
       "firstSeenAt": "2026-10-14T14:01:50.995Z",
       "lastSeenAt": "2026-10-14T17:58:43.781Z"
-    },
-    {
-      "title": "Aligned Introduces Seller Agent, the Industry’s First AI Agent Built Inside the Deal Workspace - markets.businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWFBybG9RM0hnLTd3LXpxMU9GbkVqVTlBdExGNjFTZ1EzLWR1QkVIVEota3RtMVd6OFhLNTRZcHJKeEI5N3NFMnZYdkVOSlluQTRSTElyTjBNU2ZtaktZTVBGa2FDdDJHTUtibVhqSkMxZk9RQXpRSUZRRVdxbGhYMHlRSzFydWNjeDRNZDJDaUJZTlNvS2JCc1FjMVpVcG5YZDlLa1ZiajFuZzExNG03YXhKSzZjejhHUFlkMXZycUlJTU9ETUlQQVhQWXJyaGttZkJFOGxvTG5jNVUwWHFpa2VfbnJvUUU?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:14:17 GMT",
-      "summary": "Aligned Introduces Seller Agent, the Industry’s First AI Agent Built Inside the Deal Workspace &nbsp;&nbsp; markets.businessinsider.com",
-      "outlet": "markets.businessinsider.com",
-      "outletUrl": "https://markets.businessinsider.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-14T14:01:50.995Z",
-      "lastSeenAt": "2026-10-17T04:38:15.378Z"
-    },
-    {
-      "title": "GoDaddy·Google·Cloudflare, AI 에이전트 거래 시스템 시연 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVMXowNWxwMGhZZjVjMzNrR1VXai12aHJnVWlPXzVLa2o0VEVlRVU0UlQxb3k5RndqYUVBemV1Q196YlhUUlhwaGI3M3NFWGZ0aGhWRC04T0pxNE9zMk5EakZYam1hY0hlb01QRVoxdk0?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:13:00 GMT",
-      "summary": "GoDaddy·Google·Cloudflare, AI 에이전트 거래 시스템 시연 &nbsp;&nbsp; Investing.com 한국어",
-      "outlet": "Investing.com 한국어",
-      "outletUrl": "https://kr.investing.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 26,
-      "firstSeenAt": "2026-10-14T17:58:43.781Z",
-      "lastSeenAt": "2026-10-15T05:51:00.880Z"
-    },
-    {
-      "title": "피지컬 AI 예산, 전체 중 5%? 다시 보면 19%인 이유 - 블로터",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11SWpCdjN0UFRoZkludzZsSlhpSTZrdFZMVWl4R1dYWk9haXlHVkhBelczRTJYREJUWHJaZ3VwVjBiRE9BcGFSTnlVUGtUUU1mV29PWW1vTEcwLUFyNmw1Z2g1cVZ3X2JE0gFsQVVfeXFMT1lrckhlRWFVbE5TRC1rdjJVWUlBbXVSZ3QtZzVJLUNGZ1EycmpBQ2tiWVptX05tTGJaUWRZSkh5QldoUGxnS1QwblhFeElzZkFrTmxvTnFOY3Racmx6aTZBUHE3R2xPT1V4LTJm?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 13:11:26 GMT",
-      "summary": "피지컬 AI 예산, 전체 중 5%? 다시 보면 19%인 이유 &nbsp;&nbsp; 블로터",
-      "outlet": "블로터",
-      "outletUrl": "https://www.bloter.net",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "",
-      "score": 16,
-      "firstSeenAt": "2026-10-14T14:01:50.995Z",
-      "lastSeenAt": "2026-10-17T11:33:44.726Z"
     }
   ]
 }

@@ -1,7 +1,72 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "Google Cloud Audit Logs: How to Export and Analyze - SOC Prime",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXZVX1hkUjdCVnBKWWdHR3FURllYeFlzaFNDZ0dTT3Y3Z2hoM1B6QWM1RGR1amhyUEJGeFlNRXhoTGdHZ3dpOHJwSlZDMnhsMkRqMm5yWjZURXlEclVzZjE0WGVCeV9vcnB1UUxJTmRLN0UyVkRTamt3ZUR5UXE0ODN3eTVjZXc?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 16:56:31 GMT",
+      "summary": "Google Cloud Audit Logs: How to Export and Analyze &nbsp;&nbsp; SOC Prime",
+      "outlet": "SOC Prime",
+      "outletUrl": "https://socprime.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-27T15:51:29.490Z"
+    },
+    {
+      "title": "SK Hynix, Kioxia and the Geopolitics of Chipmaking - Technology Magazine",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHFuOG9sd0RVTVV6N1BQUUwwZjB5ZHVZdHVjZ2VKZVVJYzZ2cGJBMk5TdkxFNnZVeVhwVUVlWDNNX3RDNXpEQmpGLWlkcWNvWHdKSHE5QXhsTHhuOFB1bTBJOUlVRlJrOGw0TTA3eFdHVVVvdGpzZktFQ084ZTVlYW1NQWZpalRWanlRbzNn?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 16:56:13 GMT",
+      "summary": "SK Hynix, Kioxia and the Geopolitics of Chipmaking &nbsp;&nbsp; Technology Magazine",
+      "outlet": "Technology Magazine",
+      "outletUrl": "https://technologymagazine.com",
+      "source": "해외 AI반도체",
+      "sourceIds": [
+        "global-ai-chip"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-27T01:26:41.178Z",
+      "lastSeenAt": "2026-10-27T01:26:41.178Z"
+    },
+    {
+      "title": "The 7 most-used AI chatbots ranked by share of web traffic in 2026 - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wSEo4QmpQcVhlQzE5UWZWQ25hRTgtc1RmLTU0SzNROG5relI3ZzU2X0MxSEtTampHd0pna2pfZW5PYkNuSGllMDZSUk9iZFFqVUtSMmVRYS1sRHdiSW9jWkVEM2x5cUVabDhiclEwY1VWOTd5ZVhVZ0lsOA?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 16:55:22 GMT",
+      "summary": "The 7 most-used AI chatbots ranked by share of web traffic in 2026 &nbsp;&nbsp; qz.com",
+      "outlet": "qz.com",
+      "outletUrl": "https://qz.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-27T05:15:11.997Z",
+      "lastSeenAt": "2026-10-27T10:59:25.232Z"
+    },
     {
       "title": "User says freshly RMA'd Nvidia 5090 nearly burned again if not for MSI Safeguard - Neowin",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWkyaUU4THBtUkpJYzVSOGRSekpSUTVJUHE2SlVEVXRzOF9CQjl2Yk11UHRzeTJYZVNsMTRnaFNPR3RTaXlpZ05IbEFnbEVlNWxKSlJDdmc0NmJNM3FNaGY1MGtjMHJqZU5jbUM5NkFLanhDcmJDUUpmM3F5RVdrS1pGa0NBRU40QUFvc2Q5VDIxbmdzODZjeTZlZXllamhKR0FSeUtmaTlQMDhY?oc=5",
@@ -2190,70 +2255,6 @@
       "score": 15,
       "firstSeenAt": "2026-10-27T00:04:50.261Z",
       "lastSeenAt": "2026-10-27T00:04:50.261Z"
-    },
-    {
-      "title": "Two Welsh Founders Secure £415,000 UKRI Contract for AI Startup - Business News Wales",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNai1zLUVxSC1yb1VFczlkV2pMUTFUTkdnOElBaExnS3MtR1o5TlVobmptNndqdVl6NEhNRnkydzV0cGV6NkZzYU5rcjc5T1RCcFh1MHNpdlF1VDhkSUV3dkRoTEtFaTc3STNfWDhEYy1odGdBbUYxZGhWOGlRclcyMVNxV01NQVV1akFCZFJsYWllMlJIVm5R?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 15:21:55 GMT",
-      "summary": "Two Welsh Founders Secure £415,000 UKRI Contract for AI Startup &nbsp;&nbsp; Business News Wales",
-      "outlet": "Business News Wales",
-      "outletUrl": "https://businessnewswales.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-27T05:15:11.997Z",
-      "lastSeenAt": "2026-10-27T05:23:50.475Z"
-    },
-    {
-      "title": "Meta announced plan to raise $95 billion to build AI infrastructure - upi",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1lVEVYdjJRVDlFWkFydUtoWDhTNUVfQWxadTBFeXZyQnJwT2dBS3RBemktMjhjLXhmU1RfRWtONzVZN2Vsbnl3aVdhNVZlaVRGb3dvWGpURng2aGlNTHlCbk1STzBRUFdvZGdhaVpCWXRIbXdMTzUyVUU4ZzFmSEkycnFlYzI0alZpUlVLdzdqck50OF9XSzlXS2g3RlF1X2FzVNIBqgFBVV95cUxPQzk1OE5XcXpPbDNDU3k3ZlpKaE4zMXRXQ2w4ZnU2UEVncXBRejhTYnpXLXdNTkJ4X2VmYUliekRqNWJDazh1ZVd2bGVEWm9JQ01HeFNzWU41ZXJkOWNfNC1xWVdJMWlpZWwxYTlQTDh0Sml2WFBfUFBRTkVVVlc1RHNualZjVjU1LUJFYnVGVDZrR2xMNmVfOHcta3JjR2tVdFhtdERtUEVkUQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 15:21:19 GMT",
-      "summary": "Meta announced plan to raise $95 billion to build AI infrastructure &nbsp;&nbsp; upi",
-      "outlet": "upi",
-      "outletUrl": "https://www.upi.com",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 16,
-      "firstSeenAt": "2026-10-27T00:04:50.261Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
-    },
-    {
-      "title": "America needs a national model for solving big problems with AI - FedScoop",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zSWk3YWVXaXpLZ1Z0bzQ4NHhOMU9MWUpnUUZVamlpT2hodVN6aDJYZVZuY00wbWlYQWoxMHpmQ0JrOVBWLUxlbEpCdDgyZXducWZwWC04Q1lNOVQ0VXIyUQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 15:21:18 GMT",
-      "summary": "America needs a national model for solving big problems with AI &nbsp;&nbsp; FedScoop",
-      "outlet": "FedScoop",
-      "outletUrl": "https://fedscoop.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-27T00:04:50.261Z",
-      "lastSeenAt": "2026-10-27T10:59:25.232Z"
     }
   ]
 }

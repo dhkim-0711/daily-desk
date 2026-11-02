@@ -1,7 +1,80 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "Nvidia Launches Containerized DSX Pod System To Accelerate AI Factory Deployments - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRFZFYl9Lb2FiZUdvaDdrdFNHR0FhcTVaUHdJSmRGTzJsMFZBcklqbWNBOGpFZDFzUy1lTEFZVVc0TXVuSThMUGhiY0tFcUUtUU5qcWs1M01RRXJ3eHlxTE5GYllVUXRVX2dDUXhtMjFpV1djTV9NLWMtZHRSYkVKNHBZcUFxQmdCT0xqZUtVV20?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 14:16:11 GMT",
+      "summary": "Nvidia Launches Containerized DSX Pod System To Accelerate AI Factory Deployments &nbsp;&nbsp; TIKR.com",
+      "outlet": "TIKR.com",
+      "outletUrl": "https://www.tikr.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "nvidia-ai"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "실증·조달"
+      ],
+      "issueCategory": "실증·조달",
+      "score": 23,
+      "firstSeenAt": "2026-10-21T15:36:47.115Z",
+      "lastSeenAt": "2026-10-21T22:44:58.342Z"
+    },
+    {
+      "title": "NVIDIA details OpenShell reference architecture for AI agents - Blockchain News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGRrLUlQR1Fka0lqQ1MzZ2s0S2d0WWVaYUVwSFRENUhpQ1pXVUotdVlyNFExcG9YaEgwSzgyOWVJeHZMUFNhenRsQnQxbWNhcmM2Nm1keWx3cjY5SVRSSzR5ZldkUUxRSFJnZWx2NzNWTXdVaFRQbVVaSFRZZmowVTVqR0QtQWZPVXFuUmNNcVI?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 14:15:40 GMT",
+      "summary": "NVIDIA details OpenShell reference architecture for AI agents &nbsp;&nbsp; Blockchain News",
+      "outlet": "Blockchain News",
+      "outletUrl": "https://blockchain.news",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 23,
+      "firstSeenAt": "2026-10-21T15:36:47.115Z",
+      "lastSeenAt": "2026-10-24T14:07:23.306Z"
+    },
+    {
+      "title": "YGO Announces €8M Series A to Build AI Infrastructure Layer for Travel Industry - AI Insider",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFdvRUl6VEZZS1RxX0cyR19MLXhURXlSQl9EZVY3Z1lFVDZXQUdUWEg0YVFDeGh2U2pickN1QzZNaUZtRm9vMlBaZ2NMN1h4YWtvc2NLRGdOVHJnYmtMMFdHdF9TdE9Mdmd1NlAxOEJzdGhmSktSRmpzc25sYWhsTWt5aXZDd2d6R2dWM1FHOEVaZ1AwazRNMG9pNkRjRDE3bmwxQkJmdzlwYW1BZklEZTRWcEdYUndM?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 14:15:31 GMT",
+      "summary": "YGO Announces €8M Series A to Build AI Infrastructure Layer for Travel Industry &nbsp;&nbsp; AI Insider",
+      "outlet": "AI Insider",
+      "outletUrl": "https://theaiinsider.tech",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 16,
+      "firstSeenAt": "2026-10-21T22:44:58.342Z",
+      "lastSeenAt": "2026-10-24T14:07:23.306Z"
+    },
     {
       "title": "Adobe Rebuilds Photoshop and Premiere for NVIDIA’s RTX Spark AI Chip - Techeconomy",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHV6THlwWk5nNy1ZWEFOeVRCUXFVaHdCalBSSTBmaS04UVV2ekFMYzliU2Yzd0M1dE12RHZXZEtwX1YzSEs5WV9RRkhSRXI4WWNyQjF2RU1VTTlMb0FoM215QmtEdGpXcFUxZjFmTnVwb0FPLXVUeEdieDJhSXAtN09pakEwbmVmeWxnci1VbTlxUTZZ?oc=5",
@@ -2205,77 +2278,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-21T15:36:47.115Z",
       "lastSeenAt": "2026-10-24T05:44:13.773Z"
-    },
-    {
-      "title": "OpenAI will offer its advanced models on Google Cloud - Inspenet",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FODBGdGEtNVdiOVRybE0zNWhzZmxnbTFxTEpNcGlrX3oyUnNBeHBCemhEanZNcHdLUU1nZzVRVG5ET2J0OG1JRHQydHNjX3lORnl6WjJKNjNSWGRyZnZCNWpYMm9nS01kZnN0YTNvMjFDY2s5VnlB?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 13:00:25 GMT",
-      "summary": "OpenAI will offer its advanced models on Google Cloud &nbsp;&nbsp; Inspenet",
-      "outlet": "Inspenet",
-      "outletUrl": "https://inspenet.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 18,
-      "firstSeenAt": "2026-10-21T17:59:30.941Z",
-      "lastSeenAt": "2026-10-22T07:57:53.219Z"
-    },
-    {
-      "title": "St. Luke’s Health System Selects hellocare.ai for Enterprise AI Assisted Virtual Care Deployment in Southern Idaho - Becker's Hospital Review",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYXVDc0xBYmx4TkY4eERNV3FZY253VWpNSVlVTHBXbVVyMWlfZHpCVlNUQ2JTUVlXb1RFZzI3NU5kdTM1UE1XOHN5anJCV0VLY1VnS3VZbjlQX1Fwc2ZpYnFid2Y3bHNiY3cxa1dIa2hJR1FkSS1RSFA2NHlLUVNFSlVMQ1RnOG1ySG0ydVczaFN5UXRKeTF1Y0xUN2ZVcmZheGctdkhNeUdNdElvM3Y4dE56T3JBZ0JfRDhteWdLMEJCY1Q3YnFRcnd5V2pVZ29WWXdRNXpqZVNRUmJoS1gxRGxYVFFBR3U4TVNBejRzVjU0QQ?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 13:00:00 GMT",
-      "summary": "St. Luke’s Health System Selects hellocare.ai for Enterprise AI Assisted Virtual Care Deployment in Southern Idaho &nbsp;&nbsp; Becker's Hospital Review",
-      "outlet": "Becker's Hospital Review",
-      "outletUrl": "https://www.beckershospitalreview.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "실증·조달"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-21T15:36:47.115Z",
-      "lastSeenAt": "2026-10-24T00:34:18.123Z"
-    },
-    {
-      "title": "Phantom Labs Research Shows AI Agents Are Acting Beyond - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNUdrVG1TUmFwTWY3UXExclV6a2pGSGJQMmp0MUFNaXVGX2lyWkFFR2ZmdGs0T1RRcmxTY0p3a1hQSW9TZW90dWQ4WnVrODh6elUwQTJXeUI0VElVV2l3X25uSUtWSXl2VVFyTGxNN3pUUmZVamN5cWRYWGRWWS1JZUxOS0JXR1RWZ1hDNDB1YnFhMDNaTDQ5ZWlMNUpEQ0VidHVCeGxCOS1GNWlaZlItVm5KUXI5bkpZVmNReWpkX3BJaG4xNEhheU8ybGJGejdxZ283cl9UZ0JZTW9BVGhTTkh0T2dRa2x6ZkExSEFCZDNXaUdzc1o2UlNVRjV2eG1tTjNEU1FUS012UEt4VU1tLUJ5RnJ3VzFk?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 13:00:00 GMT",
-      "summary": "Phantom Labs Research Shows AI Agents Are Acting Beyond &nbsp;&nbsp; GlobeNewswire",
-      "outlet": "GlobeNewswire",
-      "outletUrl": "https://www.globenewswire.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-21T15:36:47.115Z",
-      "lastSeenAt": "2026-10-22T05:11:37.149Z"
     }
   ]
 }

@@ -1,7 +1,81 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "[AI는 어떻게 돈이 되나] ① 구글, 광고 넘어 클라우드·제미나이까지 - 오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42aTJXNUtPc3R6OXNrbFFjTVRqNmtGTWFDQXJHcXVGclZiSktZc2paZk5wX3M1Q0xOelR2QW85RlBKS3NFZHNFWDFWcXg5RDAyWUhZRlFaMkdQejc2TnJCOHdVVldtQ3JaSGN6LUVESEM?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 06:40:04 GMT",
+      "summary": "[AI는 어떻게 돈이 되나] ① 구글, 광고 넘어 클라우드·제미나이까지 &nbsp;&nbsp; 오피니언뉴스",
+      "outlet": "오피니언뉴스",
+      "outletUrl": "http://www.opinionnews.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 23,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-21T15:36:47.115Z"
+    },
+    {
+      "title": "국가AI전략위, 강원 AI 정책현장 점검…의료·교통·데이터센터 살펴 - 테크월드",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmdG1YZDhqcndiTi1GdEdPN25waEY5Y1dUSjhkM2ZUTlphTG9TS19UckFDM1ZQcllUMUpiMUl6dWJGQ0xZYzVkUDl3ekNvZjdJV3l2d1RielA2WVM4TWs1djJkY1hlb1o4?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 06:40:00 GMT",
+      "summary": "국가AI전략위, 강원 AI 정책현장 점검…의료·교통·데이터센터 살펴 &nbsp;&nbsp; 테크월드",
+      "outlet": "테크월드",
+      "outletUrl": "https://www.epnc.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "정책",
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 19,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-21T05:08:38.623Z"
+    },
+    {
+      "title": "NVIDIA's Vera CPU Secures Order from AI Startup Modal - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMW9jRGVVSmlTazJnRkkxOHRBbnRscUUxaUtNTExnUkZtTVVUSWdhZ0Q0OGVxVjZiQjRHa0NJQlJvMFZUZWcxT0FqWTVHTUdIZGhucmxrOU1RQnFzNkJCbV9zbURtUkJFNHc4OU1xazN2VGhGX2pNTWlsS3ZSSVY3VFdnWGNHWkIzWkhuMDR6eHE?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 06:39:40 GMT",
+      "summary": "NVIDIA's Vera CPU Secures Order from AI Startup Modal &nbsp;&nbsp; KuCoin",
+      "outlet": "KuCoin",
+      "outletUrl": "https://www.kucoin.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-21T00:34:26.486Z"
+    },
     {
       "title": "“바이오 키운다더니 예산 0원”…제주 AI 사업 도비 22억 논란 - 뉴스N제주",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WUW9ka0RKNFotb1o4RGhPbi03NHNFdkM4OWRRYkJLNEhONWNoSUx1cGxiaFlEWk9Jb0JIOVhyZDIyNi1LZ2syZGhYSWZranZvUDktbFJkV0VITzlXVUhwNnNIeHl2bG8?oc=5",
@@ -2084,71 +2158,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-20T12:40:52.451Z",
       "lastSeenAt": "2026-10-22T01:51:21.284Z"
-    },
-    {
-      "title": "세로형 화면에 어울리는지 보는 카지노친구 모바일 구성 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGR4RG9qRUFWZUxVYmtkUnl1cmgwaHRDNVREcFhoLU5Kb0lEeWlJUkZRNFA3S1JEVGl4bGlyUWFJbVdXZ3E5Y1dQRjZuSXhTTXl0TVJMMXhaNjBrNGw4blNJQmc0YzljSkZrSFpVNTlLNDN4dkUwZjJ0RGJsenNHTlI1aG1PakU4c0FUcDNLLUhKUWItWUkxNXZ1QUhSaDJsOFhXdE9VVE1PQW1rS0pSeldqQVhjdVp5cE0yLURLZkJ1VHdBXzNxaw?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 05:33:49 GMT",
-      "summary": "세로형 화면에 어울리는지 보는 카지노친구 모바일 구성 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "AI반도체 정책금융·집행",
-      "sourceIds": [
-        "ai-chip-policy-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-21T04:59:05.638Z",
-      "lastSeenAt": "2026-10-23T05:11:49.685Z"
-    },
-    {
-      "title": "KIC, 전략투자계정 신설 추진…국내 전략산업 투자 확대 - 스페셜타임스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoaVZHT2U4QmJFNHIya19va3dJU3d0TEVHWmdVdTJMY21VMzVrN1luSEJPeFEwUHhaYnc2RnZYaF9Dbkg0bVJ4RmltWF9oQ1ZaYUZxVkdYeUlNWml2b0NicFh4eG8yQjZ4ZFF5ZmtuMEsyQQ?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 05:33:35 GMT",
-      "summary": "KIC, 전략투자계정 신설 추진…국내 전략산업 투자 확대 &nbsp;&nbsp; 스페셜타임스",
-      "outlet": "스페셜타임스",
-      "outletUrl": "http://www.specialtimes.co.kr",
-      "source": "지역 AI·반도체 산업금융",
-      "sourceIds": [
-        "regional-industry-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-20T05:57:26.312Z",
-      "lastSeenAt": "2026-10-21T05:58:07.008Z"
-    },
-    {
-      "title": "AI Investment Poses Fresh Inflation Challenge for US Federal Reserve - Bold News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXlrY1hVUHA2bkluYllhZnpRZDBuYy14X3U1M2VJYkw0U0xhczk3eEdSdXJVcGhHQlI2LW1jb2RCbHhVMjUxTWc5REpKUXBVVjlyaktSZVVsV3JWUUpoLWVzSENKbWRmRExzV1JUeEs0WlcxSE84Q2xfd0VwcTZpeUtfS0EyWTV2WlVOSDkwM1dvWEJWNndub05PaWs?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 05:33:10 GMT",
-      "summary": "AI Investment Poses Fresh Inflation Challenge for US Federal Reserve &nbsp;&nbsp; Bold News",
-      "outlet": "Bold News",
-      "outletUrl": "https://boldnewsonline.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-20T12:11:50.172Z",
-      "lastSeenAt": "2026-10-20T12:11:50.172Z"
     }
   ]
 }

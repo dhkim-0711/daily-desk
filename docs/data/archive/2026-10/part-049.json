@@ -1,7 +1,84 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "19조원 AI 투자에 제동…당국, 구글 핀란드 데이터센터 경찰 수사 요청 - 임팩트온",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YNGNFdkk1YXhLa3YyU211anZLSUlPWHFVeEI4dFZ2bFhtcGxnaktSUnB2aGUwVTlQRk5GWDltQ0FZdHFpUlFiMXpuTzU1ekRMVzZabG5EZU5wdGthTjBUclBSV3FGQW5JdGc?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 08:26:07 GMT",
+      "summary": "19조원 AI 투자에 제동…당국, 구글 핀란드 데이터센터 경찰 수사 요청 &nbsp;&nbsp; 임팩트온",
+      "outlet": "임팩트온",
+      "outletUrl": "https://www.impacton.net",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "데이터센터",
+        "Google",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 29,
+      "firstSeenAt": "2026-10-28T10:31:07.345Z",
+      "lastSeenAt": "2026-10-30T01:54:30.331Z"
+    },
+    {
+      "title": "Market Chatter: OpenAI Looking to Buy Google's AI Chips - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2sxRTl1c05oT1JTeEdNcUFHa3lyLXFPckthMXZFcHI5TEZaVU9fWklTWDFmcWdydGpfVTFOZUVOWHJqWXpVQmx6OTdzVUcxTEZMMzIwX19rWnJha1h1OG45UExRSXpiaWZmeFdXYlZuVmp6T1B5U1JjNzNWOFFxQ0I2Qmx3VTRpVTMyVTIteHJ6cndncjN5TnFVdExPdw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 08:25:46 GMT",
+      "summary": "Market Chatter: OpenAI Looking to Buy Google's AI Chips &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-29T01:46:05.232Z",
+      "lastSeenAt": "2026-10-29T01:46:05.232Z"
+    },
+    {
+      "title": "LG전자, AI 냉각 '통합 솔루션' 확대 … 엔비디아와 로봇 데이터 50만 시간 확보 - 뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ibXZHOFUyVVhnRkpjUXFjaHBJYjMtVFBlUGhtY2lZa2JqZ3FMQlIwb01zVUVQNnVMTXF4dlowQWhPT3NkTGwydDlwRzJJdm1BWFp5MWZ1b1lPWjk4elZVcGpaWkRCbXYyT3NwSVVzQVhPWlJJRWdNYXVuMNIBgAFBVV95cUxPSnZnS2hkaUxuWUlxaG95empFclc5b2hJMm1pSVhZZmV5ZXQzRVdxRXBKQXNrVDZ5NUkybzA1em95d19zcGhkVmtZcm5qc0VwcjdnaTlSU1d4eHhlT3ZSN3F5MVhJV3dlMDhQWDlYSks2RGtxaUdPS2xFYWcxdU5iRQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 08:25:00 GMT",
+      "summary": "LG전자, AI 냉각 '통합 솔루션' 확대 … 엔비디아와 로봇 데이터 50만 시간 확보 &nbsp;&nbsp; 뉴데일리",
+      "outlet": "뉴데일리",
+      "outletUrl": "https://biz.newdaily.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-28T10:31:07.345Z",
+      "lastSeenAt": "2026-10-28T14:31:16.707Z"
+    },
     {
       "title": "SKHY Stock Jumps Premarket: Strategist Says SK Hynix Sits At AI’s ‘Toll Booth’ As Tech Giants Chase Scarce Memory - TradingView",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRkJnOE9ZaGJCSmpneHJlMGNzZEtTVUxWUG9qZnNoWW1IUFBrQ01qYnVyeXJPbGVkU2xrWVQzVE41RVZ2X2NFb1hEVFJNSEwxUkJUSjdiQW9KcXhjdXpUdnRXR0oxR2V6TDdwekY1elE3NWhFNE1WWGxTS3hzRGdKRUZMNDBxcUVGbFhfTDJnYzBIMk9sLXk4MkREbk1KY3otZTFwVGRCa1pVdlloYkVUblpWc3lJT3FXQWREZExHZ2w1S2puX3hqb3pUM3JfenA1TjRZQkltX29OZVdLNURod1pkeDZlODQ1SDkwS2lvV1QydzJ0LUg1NDhiYjRMaHNa?oc=5",
@@ -192,7 +269,7 @@
       "issueCategory": "AI시장",
       "score": 10,
       "firstSeenAt": "2026-10-31T01:33:01.539Z",
-      "lastSeenAt": "2026-11-02T06:37:02.268Z"
+      "lastSeenAt": "2026-11-02T08:20:08.101Z"
     },
     {
       "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding - MarkTechPost",
@@ -2133,79 +2210,6 @@
       "issueCategory": "실증·조달",
       "score": 9,
       "firstSeenAt": "2026-10-31T01:33:01.539Z",
-      "lastSeenAt": "2026-10-31T06:06:59.265Z"
-    },
-    {
-      "title": "‘전기·물 먹는 하마’ AI데이터센터 농촌에?…홍성 주민 반발 - 농민신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SQURxanpMbUppMGxiS3FFVWc5M29SQVVIY3hZSmN3VjdFWlBEVmlDcE1xX3VhcUc3N0JHaWtFNFJ5TlFIVGRCNkY0bTNZanE0cjh4cWxTWGVaUQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 07:11:00 GMT",
-      "summary": "‘전기·물 먹는 하마’ AI데이터센터 농촌에?…홍성 주민 반발 &nbsp;&nbsp; 농민신문",
-      "outlet": "농민신문",
-      "outletUrl": "https://www.nongmin.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-28T07:24:09.373Z",
-      "lastSeenAt": "2026-10-30T01:54:30.331Z"
-    },
-    {
-      "title": "[심층 분석] 엔비디아, AI 반도체 공급망에 생산능력 선투자…기판·패키징·테스트·광학 4대 병목 해소 나선다 - 뉴스밸류",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WVjFHLVhCOU1fWG84OXViUk15bHpVMXZmb0o1cnhYdDFPS0dYWWxleFQ1eC1PQlg1Y08xQ3BLSVR2dGNfWlF6T0drWVRBOFBEVExqTExQN2FZVG1EUkMxYWhZSTFvbjQzVVE?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 07:10:45 GMT",
-      "summary": "[심층 분석] 엔비디아, AI 반도체 공급망에 생산능력 선투자…기판·패키징·테스트·광학 4대 병목 해소 나선다 &nbsp;&nbsp; 뉴스밸류",
-      "outlet": "뉴스밸류",
-      "outletUrl": "https://www.newsvalue.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy",
-        "korea-global-ai-companies",
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "파운드리·패키징",
-        "수출통제·공급망",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 29,
-      "firstSeenAt": "2026-10-28T10:31:07.345Z",
-      "lastSeenAt": "2026-10-29T23:35:43.436Z"
-    },
-    {
-      "title": "SK hynix Details Memory-Tiering Technologies for AI Inference - TOKENPOST",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wMTR2VlpOMWd0T1ZNZDVjOGYzR0NjZjRCbWNLQzJFNUpSTkZtVXRNY0tpUDI3NzBILTVuMDk0VVk5U2swNGxTcUpRRGszWi1BTXFueEJtdDMzSXM?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 07:10:05 GMT",
-      "summary": "SK hynix Details Memory-Tiering Technologies for AI Inference &nbsp;&nbsp; TOKENPOST",
-      "outlet": "TOKENPOST",
-      "outletUrl": "https://www.tokenpost.com",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "추론"
-      ],
-      "issueCategory": "추론",
-      "score": 16,
-      "firstSeenAt": "2026-10-28T10:31:07.345Z",
       "lastSeenAt": "2026-10-31T06:06:59.265Z"
     }
   ]

@@ -1,7 +1,71 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "테마와 시스템을 함께 이해하는 포커 레이크 백 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN01mVUd0T05zbFlZRVRXbEt0ZzByQkEzTHVhakR6c2drVndkbDFpTGlxdXk0VVd5ZmRYU3IzR0gwSTV4U1dsZjl5S3o4ZnZHbEdCMjlqaE5DZmxxQkxmOEdsZmJGWDY3VnNESTkxellrVFpNUk5hS0QzdDhkZWl3UlVkNzlPLWk3UlJsZlVtZ0YzTjRDeERxdDVnUVgyRnNGWUx2MTNrZ29MUWJhYVBaei02aXJCbzFmTVE?oc=5",
+      "publishedAt": "Sat, 10 Oct 2026 03:41:55 GMT",
+      "summary": "테마와 시스템을 함께 이해하는 포커 레이크 백 &nbsp;&nbsp; Calgary Roughnecks",
+      "outlet": "Calgary Roughnecks",
+      "outletUrl": "https://www.calgaryroughnecks.com",
+      "source": "NIPA·과기정통부 정책",
+      "sourceIds": [
+        "nipa-msit-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-11T02:11:15.043Z",
+      "lastSeenAt": "2026-10-12T06:18:44.480Z"
+    },
+    {
+      "title": "‘호남 반도체’ 직접 챙긴 최태원…“가장 빠르게 짓겠다” - 투데이신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NSHZhNGJWelFaVEdfUGpJdGszOXZ0ckJxSmV1SmI1dmxqV3lGZnRPUUoyN29WQl9LUklvdlRoT0w3UTh5U3VZNFBDM3B0YWRtdFNfMTQxZ3kyVDBzdndIOWFUVXN6ekZ5Y1VKWkVpRdIBb0FVX3lxTE1NSHZhNGJWelFaVEdfUGpJdGszOXZ0ckJxSmV1SmI1dmxqV3lGZnRPUUoyN29WQl9LUklvdlRoT0w3UTh5U3VZNFBDM3B0YWRtdFNfMTQxZ3kyVDBzdndIOWFUVXN6ekZ5Y1VKWkVpRQ?oc=5",
+      "publishedAt": "Sat, 10 Oct 2026 03:40:22 GMT",
+      "summary": "‘호남 반도체’ 직접 챙긴 최태원…“가장 빠르게 짓겠다” &nbsp;&nbsp; 투데이신문",
+      "outlet": "투데이신문",
+      "outletUrl": "https://www.ntoday.co.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 7,
+      "firstSeenAt": "2026-10-12T02:03:59.552Z",
+      "lastSeenAt": "2026-10-12T02:03:59.552Z"
+    },
+    {
+      "title": "딥시크+화웨이 손잡았다 -> 'CUDA 없는 중국 AI 생태계'의 허와 실 => 엔비디아 족쇄 부수겠다는 베이징 > 중국 AI의 기술적 착시와 실제 현주소 >> 알고리즘 최적화 뒤에 숨겨진 물량 공세 = 중국 AI 10대 전략 승부수 | - 데일리머니",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiR3Mzb2pYMHZ0R1FfMUdDcGJhSmIyR2V0RS1FNURYazM1YWFNUTNLbS0wRUZmYV8xeHN1ZjcycnBWd0p2VURpNFo2M05ZMjdaQ0JFaFBoVjdXMkRIOUpRNm1zaWxaeG05ZXM5eFZlZzdfTmJEdUE?oc=5",
+      "publishedAt": "Sat, 10 Oct 2026 03:39:56 GMT",
+      "summary": "딥시크+화웨이 손잡았다 -> 'CUDA 없는 중국 AI 생태계'의 허와 실 => 엔비디아 족쇄 부수겠다는 베이징 > 중국 AI의 기술적 착시와 실제 현주소 >> 알고리즘 최적화 뒤에 숨겨진 물량 공세 = 중국 AI 10대 전략 승부수 | &nbsp;&nbsp; 데일리머니",
+      "outlet": "데일리머니",
+      "outletUrl": "http://www.thedailymoney.com",
+      "source": "글로벌 기업·한국 반도체 협력",
+      "sourceIds": [
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 19,
+      "firstSeenAt": "2026-10-12T02:03:59.552Z",
+      "lastSeenAt": "2026-10-13T03:00:06.725Z"
+    },
     {
       "title": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXRFaXVwV0tpVEo3YXpEeXJ0TVREdjZESjBRdjhOdlFrUlNocVNINy1PczZyeVNiYl9sSGlrbHJvUUtMV25HaEZpY09yczB3UEhPcFdneEdUcGJNY1ZQYXJIaHNOV05ZQWZmT2xPOVZhMnVWY3QzcVJIc01yYlBubS1NYmNmVjR4NXRqTnY1YXJ1OTA2WnJzbQ?oc=5",
@@ -2152,70 +2216,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-10T01:14:57.972Z",
       "lastSeenAt": "2026-10-10T17:48:08.857Z"
-    },
-    {
-      "title": "게임 소개 문구와 실제 기능을 대조하는 마작 반장전 시간 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzYWg5WXR0RVUyYk0xV1VZYk5GZ2hYZFpOeEp2WkR2WTlUWlRWS0ZMaFZyR3UtQkdXS0t0Tk1kX05iZHoySmNWdVhVeS11d2pqRTVBeUFwaHcyU3JPcmJQVllNQ2RHVmxGaXpfNWRXbGhkNHdDTkJwSU93?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 22:54:59 GMT",
-      "summary": "게임 소개 문구와 실제 기능을 대조하는 마작 반장전 시간 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "AI반도체 시장·수급",
-      "sourceIds": [
-        "ai-chip-capital-market-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 6,
-      "firstSeenAt": "2026-10-11T23:59:00.697Z",
-      "lastSeenAt": "2026-10-12T21:42:25.155Z"
-    },
-    {
-      "title": "How Investors May Respond To Brookfield (TSX:BN) AI Infrastructure Debate - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU3Y5YWUxNjd1cUVzRHRkWVNNbWxuVHN5WWtySmtpTjhpNWxURFZ1QlNBZjQ4SEliQzdrLXhlQUQ5TFYweEh1TUhSaUctX3kxTHN0Zmo0MlIxeDNuekltOVNaRWVaMWozdjhrVExIZWtoRHZkV1Utc2pMclg0NkxjZTN2bUVkWnA0N2RmNzBjQS14LXZvalF3enJoOEFIeEFVeTBPa05pNGJLYXhWVW1oRDA2Szh5cm1IbE5FYXJfSjF4aDlEdGxiWTNUNEQtUjc0cHpURmpqekR2UmxrbkHSAeMBQVVfeXFMTjc4U3NBVG1Xa2NsMnQxRmV4RDN1c09uYk51TEptNTZ3X1VuWjRjUmVSRXlZZVRINXdSQ3ozNU5pMmozNWJnSGFjTUJONVZlbTR1RDEyYTVfOWJOdEFNQmM5YXd2OW1iX1QxQWlLMHJ6ZWpTMVVIRFhySTJRSHJMazJSX1dnM3M1WWtnSDBDT2diV1hUU01RYnhlWl9RNGYtMW95ejJUdnZyZEFudVUzZ3drZHlrYnlLZ3JVT1F5SFRILUhaWmVOeWZ0UDBVbnNYQjZEc0lXMXZfZTdxM3BkemdxRU0?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 22:52:44 GMT",
-      "summary": "How Investors May Respond To Brookfield (TSX:BN) AI Infrastructure Debate &nbsp;&nbsp; Simply Wall Street",
-      "outlet": "Simply Wall Street",
-      "outletUrl": "https://simplywall.st",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 16,
-      "firstSeenAt": "2026-10-10T17:48:08.857Z",
-      "lastSeenAt": "2026-10-12T21:42:25.155Z"
-    },
-    {
-      "title": "NVDA Stock Rises Premarket: Vera Rubin AI Accelerator Delivers 2X Profit Per GW Than Blackwell, Semianalysis Says - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWW1TQTl5M3JPRlBkc2hIdU5lRGZvMUJPTjlOeEJUMWtVYm14Tkh5cXhQSGUyTFdYSlhUMzdjWEh1a0NRN3ZnazRiMElfcGo4c2VsRXRnbi1ROXVDakNvNVBSdGVySU0tSElyd3lBU3VzVnBORUk0blhoeDFpbDV6dWtQNm1LUmYzX2ItV3pEdjFZRXNmalY4ekVkUkJWdS1Rbi1EU3RZdnpFakhFSTB2XzZGZVFxS1BXUzZJTWRsRkthaXdkQTdJd25VSDVMdURTbVEzemxGX2xMQjYyMmFrNGlsWFZNeC1oUlpGLUh2QXh0WEhWLU1ycUxKaldLenlhWWJwUTZpOA?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 22:52:32 GMT",
-      "summary": "NVDA Stock Rises Premarket: Vera Rubin AI Accelerator Delivers 2X Profit Per GW Than Blackwell, Semianalysis Says &nbsp;&nbsp; Stocktwits",
-      "outlet": "Stocktwits",
-      "outletUrl": "https://stocktwits.com",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-10-11T06:10:51.053Z",
-      "lastSeenAt": "2026-10-21T15:36:47.115Z"
     }
   ]
 }

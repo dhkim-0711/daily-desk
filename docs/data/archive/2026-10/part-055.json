@@ -1,7 +1,71 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "삼정KPMG, 글로벌 반도체 산업의 6대 변화와 대응 방향 제시 - 조세일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UckpHdXlOWk1RTE13WWFqdGFQWEVWTmFhRThwTjhFcndzMGVxSnRXMVJYd0llVHU4TGZhTThoZWQzR1gyUUdyZlV5Y2RPMzlpS1JSQUtoMkpMZFQ2MkVDWktGRDNBTURDSlhaRm9Baw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 01:28:28 GMT",
+      "summary": "삼정KPMG, 글로벌 반도체 산업의 6대 변화와 대응 방향 제시 &nbsp;&nbsp; 조세일보",
+      "outlet": "조세일보",
+      "outletUrl": "http://www.joseilbo.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-28T14:31:16.707Z",
+      "lastSeenAt": "2026-10-30T01:54:30.331Z"
+    },
+    {
+      "title": "ASMPT sales jump 49% on AI chip packaging as core equipment unit misses - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd09nQUJJWW5zLUdZYkJtekJLZDZ6NkFCOFBRZ3I1ejRTQmJfSTE3aU8yMGFXcjFjZUYxYmhhQmw1a3dOclk2Rmk3Rm9IR1d1T3AybHUzdno5am9BZ1RieC1RY1ZQeFpNeGNzLVpvRll2cDlqS1BtOUphOEtNSVdDajJLaDV3OUhVbWxqakN4U0hOYzdfMU5VYWpjT0NlR0k?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 01:28:06 GMT",
+      "summary": "ASMPT sales jump 49% on AI chip packaging as core equipment unit misses &nbsp;&nbsp; Startup Fortune",
+      "outlet": "Startup Fortune",
+      "outletUrl": "https://startupfortune.com",
+      "source": "메모리·패키징·인터커넥트",
+      "sourceIds": [
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "파운드리·패키징"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-29T00:25:13.616Z",
+      "lastSeenAt": "2026-10-30T16:49:59.511Z"
+    },
+    {
+      "title": "AI 서버 열 식히는 냉각유체까지 관리…LGU+, 액체냉각 운영표준 개발 - 스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMV9QZTBsYmg4UnJRSHBPb3Jrb0ZpSVJGM2p5OEphVnJNdTZWX0liaHZCSHhaTWxXMjF0UVFEYzJNWXQ4dlowV0k1VTFmT3RHSnRuR3Y5WXZxSjhrY1VF?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 01:28:00 GMT",
+      "summary": "AI 서버 열 식히는 냉각유체까지 관리…LGU+, 액체냉각 운영표준 개발 &nbsp;&nbsp; 스마트투데이",
+      "outlet": "스마트투데이",
+      "outletUrl": "https://www.smarttoday.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-28T05:53:34.298Z",
+      "lastSeenAt": "2026-10-28T14:31:16.707Z"
+    },
     {
       "title": "초대형 발전 엔진으로 AI 데이터센터 공략 - 전북제일신문",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FdzFSX0VtaFZncGM1czFfZDlkcDMtMWxSbWNHX2pTUU1FV0l5VE9qY29XbFI4WTh5Q2tyVnh6Z1lFODN5OXN3R3Jnem1iazJmV2ZReWlPaTZWUjU5cmlIUUFNNzdQYVhsNUE?oc=5",
@@ -2158,74 +2222,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-28T00:44:44.486Z",
       "lastSeenAt": "2026-10-28T00:44:44.486Z"
-    },
-    {
-      "title": "\"명령만 따르던 로봇은 끝났다\"... 구글, 로봇 AI 두뇌 '제미나이 로보틱스 ER 2' 기업용 프리뷰 공개 - 인공지능신문",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53SGJhZjhueUJxWk5CcEJmckhEb2dIZkpfTUtwa3pjNWRLWnRUbjA2ZU93OUdrVG96b2Q2UXV6bVVGU200UXl1bEoxa0FzUGF0RnlOMG1kbmpRLXFoMC1zNElWMlhvYTA?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 00:42:50 GMT",
-      "summary": "\"명령만 따르던 로봇은 끝났다\"... 구글, 로봇 AI 두뇌 '제미나이 로보틱스 ER 2' 기업용 프리뷰 공개 &nbsp;&nbsp; 인공지능신문",
-      "outlet": "인공지능신문",
-      "outletUrl": "https://www.aitimes.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-28T01:14:48.296Z",
-      "lastSeenAt": "2026-10-28T18:48:46.253Z"
-    },
-    {
-      "title": "ASMPT Sales Jump 49% on AI Demand as Chip Unit Misses Estimate - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzZiT21nM0t1Ti1ITm5yc3ZmWVhkVTIxYkFud3VRbEZkdV8yWkY0bEtYdktZdlpiZmJrZ0lZZGlqNFEtR2tWVWFmdXNvZnprMllncEFBNXAtV0gtbWFZdFBLM1VidnNON2g5d3h4TzI0V2VxRHBZUy1MRGZNdm82eWw3ZlYwUVVZUktoNENhNkdzaEZGVVdzdG00b3ZUR240OFltbWlhU1NXZmhVWkwySE9n?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 00:42:30 GMT",
-      "summary": "ASMPT Sales Jump 49% on AI Demand as Chip Unit Misses Estimate &nbsp;&nbsp; Bloomberg.com",
-      "outlet": "Bloomberg.com",
-      "outletUrl": "https://www.bloomberg.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-28T01:14:48.296Z",
-      "lastSeenAt": "2026-10-29T00:25:13.616Z"
-    },
-    {
-      "title": "AIDC 열 식힐 '액체냉각' 운영표준 만든다…LGU+, 이콜랩과 맞손 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11bnpDdjAyX0IwSjZmaXBuM0tJNHpLZFdHNjRhLVZZOW5fZ0p5Q0toVkk4R2JiZXdQcGVCSnp5RkFWTjVydkpvVHk5QU5lMnhfUXVhMVpRamFiQQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 00:42:00 GMT",
-      "summary": "AIDC 열 식힐 '액체냉각' 운영표준 만든다…LGU+, 이콜랩과 맞손 &nbsp;&nbsp; 파이낸셜뉴스",
-      "outlet": "파이낸셜뉴스",
-      "outletUrl": "https://www.fnnews.com",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-10-28T01:14:48.296Z",
-      "lastSeenAt": "2026-10-28T06:02:23.284Z"
     }
   ]
 }

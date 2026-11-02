@@ -1,7 +1,70 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "\"회전한 객체도 AI 인식 가능\"…뉴로클, 비전검사 '뉴로티' 고도화 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5dW11ZjJYNEtiMEprN0lSbDJpeEhoM1A5bHdMSElRVWs2c1pZNDRManVweXJaSkJLUmlvZHBLZkFGX2d4b3IxLVkzRE53Z28tQmxKT3F3aVhfVnNwZnlBeDF1ZTNEZ01yQVM5NG9RTdIBb0FVX3lxTFB5dW11ZjJYNEtiMEprN0lSbDJpeEhoM1A5bHdMSElRVWs2c1pZNDRManVweXJaSkJLUmlvZHBLZkFGX2d4b3IxLVkzRE53Z28tQmxKT3F3aVhfVnNwZnlBeDF1ZTNEZ01yQVM5NG9RTQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "summary": "\"회전한 객체도 AI 인식 가능\"…뉴로클, 비전검사 '뉴로티' 고도화 - 머니투데이 &nbsp;&nbsp; 머니투데이",
+      "outlet": "머니투데이",
+      "outletUrl": "https://www.mt.co.kr",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-29T13:43:00.739Z",
+      "lastSeenAt": "2026-10-31T10:19:27.588Z"
+    },
+    {
+      "title": "경남도 “경남 전력망 변압기의 호남 반도체 전용 반대” - 경남일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43WDU4bWlyZGthaVdXZEJrcERrYnN0UG4wdUR3ZzdQY1ZHU1pmbV9fanNQdGdEdG9BVUlOS0RNcTJ0UnhfYWlZWjJ3ck5nY1hnNUJXbEU4RHo1Ynp4dVVIN2ZRRTN6dUFRWUxB?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 09:59:18 GMT",
+      "summary": "경남도 “경남 전력망 변압기의 호남 반도체 전용 반대” &nbsp;&nbsp; 경남일보",
+      "outlet": "경남일보",
+      "outletUrl": "https://www.gnnews.co.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-29T13:43:00.739Z",
+      "lastSeenAt": "2026-11-01T07:27:17.206Z"
+    },
+    {
+      "title": "Oracle opening more data centres in UAE and Saudi Arabia as AI demand soars - www.thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlpGcjZEbE5xbUJOYWFpSHdLcHVXU3BhZXdxQXRmWHVITGdkMFR6d2hkcjhac0dvM3c0ZEpfZ1JJcEpyc0lEM2U2bmxyLWJ1M0tPWkxpTnlLNG9ZaEItSjkyS1lMNHhLVHRmLWdyRHRlbUg4UWl5eFczbG9HbU15WVlFTm9heEhtYTVweGZHUGxXT0k1dGxWU2hrWGxPeF9hS01SODcwOXpWNDIyMEQ5emcxMnozbUZUS202OEkzd2loUk1UdmZFY1Zqell1cFdHalpR?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 09:58:34 GMT",
+      "summary": "Oracle opening more data centres in UAE and Saudi Arabia as AI demand soars &nbsp;&nbsp; www.thenationalnews.com",
+      "outlet": "www.thenationalnews.com",
+      "outletUrl": "https://www.thenationalnews.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-29T10:51:24.641Z",
+      "lastSeenAt": "2026-10-29T10:51:24.641Z"
+    },
     {
       "title": "삼성SDS “내년 영업익 1조원 목표”… ‘베라 루빈’ GPU 서비스·로봇 플랫폼 내년 출시 - Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2hJSlk4dkJpc2k1N2c2SWh3LUkzbGtHSm5GVFhFVWh4ei1uOG5uSmVGSm5IbDRMVks1OEtIUEZsay15d0tudnVuRU9YSVVueDUxZVdWWkdDdE5BdmFqZENJS0ZYRkNmUmtmRUJXQTF3N2I3RkRsSkE3NkJyQXZBU2NR0gGWAUFVX3lxTE1lalRidWRlZnYyM3RYSlJrbFR6YkxPZS1aeVFhV3RTSkVDcUlWRnNDMWhKRmV2eXU5aUVXTllKck15UDdmVGVRQ01tQVc2clJBdUpIOThpemNudFFPTjNPcnpkSHAyZXVJTW92R2NQeUpiTUI0T1Y0aUZiNERCSHE1Zkl0OW5tX21yemYxTENmX3p1RmEyQQ?oc=5",
@@ -2190,74 +2253,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-29T10:51:24.641Z",
       "lastSeenAt": "2026-11-01T07:27:17.206Z"
-    },
-    {
-      "title": "구글 울고 MS 웃고…AI투자 희비 엇갈려 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDhWZnJkWm1ULW5xaGhqTnBva1FHckswN3BFcGlzeVBSaXpCYmFlaEVpdEtKWXpnQ2JGMlJtekVoNkJybkxOWGJWcUtxaWV2eC02NWlqRF92bmxBRU1SSXJ0RHRNdVdxcW5NQzg4U1pybFhwbnZsSTlEcktwWHdBag?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 08:57:01 GMT",
-      "summary": "구글 울고 MS 웃고…AI투자 희비 엇갈려 &nbsp;&nbsp; 이데일리",
-      "outlet": "이데일리",
-      "outletUrl": "https://www.edaily.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T10:51:24.641Z",
-      "lastSeenAt": "2026-10-29T18:56:42.064Z"
-    },
-    {
-      "title": "Democratic Party Leader Speeds Saemangeum Project with Hyundai's AI Investment - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRk5yX2FGUUR6V1hCU29zcGlzMnkzdUpSbjBBLVA1SmNxU1JQRUVtekVXOTQ2ZkY5NHZEcWJhQVZRb2UxY0pISlVBZUJmci1IRThzTXpFZzl6Q3pMa2d4eGhDYlU1X0RJQW4yR2tYNTM1X2c3cDEydEtmQlNMa3lGVnROXzBHUjNP?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 08:56:20 GMT",
-      "summary": "Democratic Party Leader Speeds Saemangeum Project with Hyundai's AI Investment &nbsp;&nbsp; 조선일보",
-      "outlet": "조선일보",
-      "outletUrl": "https://www.chosun.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-29T10:51:24.641Z",
-      "lastSeenAt": "2026-10-29T10:51:24.641Z"
-    },
-    {
-      "title": "Nasdaq futures slide as mixed Big Tech results test AI trade - The Mighty 790 KFGO",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObl9qN21McEUxNWpMd01vNnFZMW5EVUtuLVNWNE1GbnFmWHFMalFoRDJwZkFHNFJIRnBnTTNidHVrOWRDSVlNd0VOV3cyd2ZHeHVsQ1QzVEtySE14bllQTXFjVWVrVUxMZF9mSmwxeDhxakRLU2NwLWs4TmZxekdjZUF5NnF0bExUN2NrZFdfdm5nNHM?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 08:55:17 GMT",
-      "summary": "Nasdaq futures slide as mixed Big Tech results test AI trade &nbsp;&nbsp; The Mighty 790 KFGO",
-      "outlet": "The Mighty 790 KFGO",
-      "outletUrl": "https://kfgo.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-29T13:43:00.739Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
     }
   ]
 }

@@ -1,7 +1,70 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "Microsoft’s Maia 300: 40% Gain, 96 Chips a Rack [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGLTNGVFlRa1pvU3VxRGZzVFZYWjBnc25lMXctdnhEem04WENlQXB3T1dtNkM3UmNUeDh1YXk2dEpMbFRWUXpScFZ4WTQ3d1A0azFRNkVGZEhybkVGQVh2ODlyVS1ydw?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 11:38:10 GMT",
+      "summary": "Microsoft’s Maia 300: 40% Gain, 96 Chips a Rack [2026] &nbsp;&nbsp; shattered.io",
+      "outlet": "shattered.io",
+      "outletUrl": "https://shattered.io",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 11,
+      "firstSeenAt": "2026-10-14T17:58:43.781Z",
+      "lastSeenAt": "2026-10-15T04:50:37.120Z"
+    },
+    {
+      "title": "[SEDEX 2026] 삼전닉스 차세대 경쟁에 감탄, 한미반도체 저력에 깜짝 - 투데이신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqazhxd1pQV2dqcE9PQXdQSDNNem1LY3ZET3dRU0NaMXZFcjVrNktHbnVJUzRmNVNkTVZoWjdzeTBCckpJc0wwN1U2V3VFNVJYV000cmtWWFdtUkMtXzhmUFBqMHdCV2VkVDQ2dHZDWdIBb0FVX3lxTFBqazhxd1pQV2dqcE9PQXdQSDNNem1LY3ZET3dRU0NaMXZFcjVrNktHbnVJUzRmNVNkTVZoWjdzeTBCckpJc0wwN1U2V3VFNVJYV000cmtWWFdtUkMtXzhmUFBqMHdCV2VkVDQ2dHZDWQ?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 11:37:46 GMT",
+      "summary": "[SEDEX 2026] 삼전닉스 차세대 경쟁에 감탄, 한미반도체 저력에 깜짝 &nbsp;&nbsp; 투데이신문",
+      "outlet": "투데이신문",
+      "outletUrl": "https://www.ntoday.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-14T14:01:50.995Z",
+      "lastSeenAt": "2026-10-17T11:33:44.726Z"
+    },
+    {
+      "title": "SK하이닉스, HBM 넘어 3D D램·HBF로…AI 메모리 판 키운다 - 데일리포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wN0tjZE1BMWJJa2UxXzl3clRRNUJFNnBmWldFMk1nTjZsUzRHSzdEZDJIdVo1alNWMmdrZnBDZVJGTlFnMHI3ZkV4b3dMVUpPSzVha2dvSi1MSXlyT0M0SWtYV0ctT2xrSVRrUmhDN1hKTk3SAXNBVV95cUxPMDdLY2RNQTFiSWtlMV85d3JUUTVCRTZwZlpXRTJNZ042bFM0R0s3RGQySHVaNWpTVjJna2ZwQ2VSRk5RZzByN2ZFeG93TFVKT0s1YWtnb0otTEl5ck9DNElrWFdHLU9sa0lUa1JoQzdYSk5N?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 11:37:29 GMT",
+      "summary": "SK하이닉스, HBM 넘어 3D D램·HBF로…AI 메모리 판 키운다 &nbsp;&nbsp; 데일리포스트",
+      "outlet": "데일리포스트",
+      "outletUrl": "https://www.thedailypost.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-14T14:01:50.995Z",
+      "lastSeenAt": "2026-10-17T11:33:44.726Z"
+    },
     {
       "title": "AMD Stock Forecast: BofA Raises Price Target to $720 on AI Demand - FXLeaders",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdUN1a0o4c1lMakN5aDNWdVd2dllLNkw0S3RHQldHYnh1cGMxTVBEQlNEZWR1UURPdUQ2YVl6VVdvdmUtRGpHcXFSTWVaWW1MZkpWN3RmZ3hhLU1NUXNXX0pNT1A2emV2YkdYcmtiVHI2V1Y3M2ZZblpROHQ0czlSeW1Bc1hZYm45VDhLeFR3VkdndGs?oc=5",
@@ -2195,76 +2258,6 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-10-14T12:50:02.243Z",
-      "lastSeenAt": "2026-10-14T17:58:43.781Z"
-    },
-    {
-      "title": "Google, AI로 만든 개인 앱 Google Play 공개 없이 실행...'바이브 코딩' 시대 본격화 - 데브타임즈",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95TVZMSGZuUTlQLUpzem8xN0Zxd21wRmdTLWVGSW5sMjJSTWJmUEMzcElKREhFTE02MVNNM1E5aWFUaHk3NU1sbzhFWUg1NlU?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 10:02:18 GMT",
-      "summary": "Google, AI로 만든 개인 앱 Google Play 공개 없이 실행...'바이브 코딩' 시대 본격화 &nbsp;&nbsp; 데브타임즈",
-      "outlet": "데브타임즈",
-      "outletUrl": "https://www.devtimes.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-14T12:50:02.243Z",
-      "lastSeenAt": "2026-10-14T22:37:16.367Z"
-    },
-    {
-      "title": "How Could BCE Inc. (TSX:BCE) Partnership With Cisco Shape Sovereign AI in Canada? - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0x3NTM3b1BPMXA5V0RHNEUtRk5halZvOWdXZ0hmRDZqTUxYQWgzdVZKNF82eGlpSDZCbXhIbzJrRjZnVmN5TGY2RjdTcGh6ZEY0TzJVamhuLVZ2bGQ2NWlBbVFjeEpoY3lWV2RrS2JRdEdjbVhfbWszckNxODk4R3B5U1VHMWxFMmdLZEJnbERXUjU2Y0ZFd1lvQ3ZJRXhRbWhTZlp4MTNxbWZfOWQxS1hpNzFRaEFzbXZBZ3VMMGowWUE?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 10:02:00 GMT",
-      "summary": "How Could BCE Inc. (TSX:BCE) Partnership With Cisco Shape Sovereign AI in Canada? &nbsp;&nbsp; Kalkine Media",
-      "outlet": "Kalkine Media",
-      "outletUrl": "https://kalkinemedia.com",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "수출통제·공급망"
-      ],
-      "issueCategory": "수출통제·공급망",
-      "score": 16,
-      "firstSeenAt": "2026-10-14T12:50:02.243Z",
-      "lastSeenAt": "2026-10-17T05:32:13.346Z"
-    },
-    {
-      "title": "😸 Google launched Gemini 4 Argon, tying GPT-6 - The Neuron",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFVHU0trMDFNZGdtSjJiV1Q0T2VtNHpkd3ZUME1MdF9iY0JlSUZfXzF2OGoyeTFMLWp1cXNGR0pZVVJlMm9XNDV0Nmo4U3hvUEhiWEpaWTRJa240VG5PMERzX1BOdUwxeExmUHFjLTJOV1U3aDFDMWZJWmFIdEMwQWM2anVoZmc?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 10:01:07 GMT",
-      "summary": "😸 Google launched Gemini 4 Argon, tying GPT-6 &nbsp;&nbsp; The Neuron",
-      "outlet": "The Neuron",
-      "outletUrl": "https://www.theneurondaily.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 15,
-      "firstSeenAt": "2026-10-14T14:01:50.995Z",
       "lastSeenAt": "2026-10-14T17:58:43.781Z"
     }
   ]

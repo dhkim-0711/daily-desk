@@ -1,7 +1,75 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "NVIDIA’s GTC Berlin 2026 Event This Week Might Do More For Intel Than For Itself - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR016eGxTOG5xdWREQzdfZ20yU2ExZG9oWUI1TnVMRmViZUs4bG5Sa1hUYk9BZlFJSGpnalVWS19iYTRxa0ZydGdrVkNiTG1DTDJSTlVWWklnLUlOMFVrdGMyb3BwTk9pLXN4SmFfV3hfZFpIT0IzZlJQdVZZUnIwZjFzSEZIemxyVFVrUkF6dU9EemJ3OFV3Wk9IbWhPZUVFelJnNkVQMnnSAagBQVVfeXFMTUdNenhsUzhucXVkREM3X2dtMlNhMWRvaFlCNU51TEZlYmVLOGxuUmtYVGJPQWZRSUhqZ2pVVktfYmE0cWtGcnRna1ZDYkxtQ0wyUk5VVlpJZy1JTjBVa3RjMm9wcE5PaS1zeEphX1d4X2RaSE9CM2ZSUHVWWVJyMGYxc0hGSHpsclRVa1JBenVPRHpidzhVd1pPSG1oT2VFRXpSZzZFUDJ5?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 20:39:00 GMT",
+      "summary": "NVIDIA’s GTC Berlin 2026 Event This Week Might Do More For Intel Than For Itself &nbsp;&nbsp; Wccftech",
+      "outlet": "Wccftech",
+      "outletUrl": "https://wccftech.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-19T22:38:25.607Z",
+      "lastSeenAt": "2026-10-20T12:11:50.172Z"
+    },
+    {
+      "title": "AI가 빈곤국 기후위기·전염병 해결할까[김창영의 실리콘밸리 룩] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EZ2UtZ1BqX2hZTUtFYVR1QXoxdW5OZm16U1B3R3R2NzJ1eU82Y0ItWGQwdklYV2NPQTBDSlNjM245eURfWERYOG0tZWF3SlBnLUHSAVNBVV95cUxNSklhZHFGQ3hnc0Q4NVpEWE9qRzB2aTlmam9GV0ZGLTNTUDZSVEg0ejVfVnd6bWZ5VUJCYWtueWlvS3hVR2RvSnFnNFNXQ1Q2YWlWRQ?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 20:39:00 GMT",
+      "summary": "AI가 빈곤국 기후위기·전염병 해결할까[김창영의 실리콘밸리 룩] &nbsp;&nbsp; 서울경제",
+      "outlet": "서울경제",
+      "outletUrl": "https://www.sedaily.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-19T22:38:25.607Z",
+      "lastSeenAt": "2026-10-20T05:57:26.312Z"
+    },
+    {
+      "title": "Nvidia’s Vera CPU Wins Modal, Claims 2x AI Speed [2026] - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUVFYSnNnZFNJU085cy1Ob2R4bFQ1azFMQlF0WVVHYUdBZlB2NzY4SlVrSTNLSkNHOUpXdnFqYzJEZ01hODg4WkxjanhUMnRfU0JBNl9PWEpqQUp0RjBXYUk3QnVOdE1Rb3E4b3ZVMVRwNC1W?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 20:38:55 GMT",
+      "summary": "Nvidia’s Vera CPU Wins Modal, Claims 2x AI Speed [2026] &nbsp;&nbsp; https://tech-insider.org/",
+      "outlet": "https://tech-insider.org/",
+      "outletUrl": "https://tech-insider.org",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-19T22:38:25.607Z",
+      "lastSeenAt": "2026-10-20T12:40:52.451Z"
+    },
     {
       "title": "Amazon Launches TorchNeuron to Challenge Nvidia's AI Grip - The Tech Buzz",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVXZCX0hKakR0OGczLVBBbmNPMjcyS2x1aUcyRjlLUVdxOEVubXVlUk1kTjBYUE5BT19xLTBpb1htQnh6b0dRX1RzdzBwTkpKaTBtNjRDVUR4UHBNZEFjZVRUY2lrVWJDUFZmNHJKc3VGV3VRUUdYX2ExQWFkc2lUZnpsWnpyTm1CWldaYVBpR1VZMmVh?oc=5",
@@ -2177,70 +2245,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-19T22:38:25.607Z",
       "lastSeenAt": "2026-10-20T12:40:52.451Z"
-    },
-    {
-      "title": "Microsoft reins in rogue AI agents with new tools - LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTXBUeFNPNDhNV09lU0hjWlMtc2kycGlKWldUNURfVXdhRGlrNHNuNEVUNEFsYzk5MHprOHlkb20yWk41T1V5Q18xci0tMFV1S3lyY0ZVREhSUGtkNGRGWEljcVMzaEhCbW1oY3UxRXhiYzUtMkJlTE5nVkY2RlR6cjBsQU9haUVRSWhaX0hyWXI?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 18:40:11 GMT",
-      "summary": "Microsoft reins in rogue AI agents with new tools &nbsp;&nbsp; LinkedIn",
-      "outlet": "LinkedIn",
-      "outletUrl": "https://www.linkedin.com",
-      "source": "글로벌 가속기 전략적 거래",
-      "sourceIds": [
-        "accelerator-strategic-deals-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-21T05:58:07.008Z"
-    },
-    {
-      "title": "기본 규칙은 어디까지 공통일까? poe 도박 베이스 비교 해설 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNWlNTms0djhITTVnRzl4RVl1OVlCNmZYb0tTWm9wdlVqTzc5LWJuM2F0QnZmTUxHUldfVEtzcDRuWXZ0aGhwSFBORllnbThoM1lxNUMyWU9kdUh0MS0yN3lDNENuelR5WFhJZ2hWVk9IMVpxNU5VMFFsOWdWTjE1OHZLMXlDd05rMExiX0dpcU5tMkszWXhrVVVtc2dXYVIyN1VKSU9vMUthUW9hYVV1UTd2Qm03WDhSZXdNMmlSamxZY0d4aU5BLTVhNGFTTFdYOWE1QUt0NXBWZzE5dXZHZWJCN0tPSzRiU1dYUnV2MlZqRnRVa0NLLTJRQWQ?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 18:39:39 GMT",
-      "summary": "기본 규칙은 어디까지 공통일까? poe 도박 베이스 비교 해설 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-20T01:03:48.272Z",
-      "lastSeenAt": "2026-10-22T17:56:53.418Z"
-    },
-    {
-      "title": "경마 종합예상지 게임 화면의 정보 우선순위 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOem9UanBBMGM2UmJtUDkwYk42VENWWDZwT1pnZWY4Vmw2M2l4TW44bXd6eHBMSTlpZ3gyTWFWak92ZG95ZWFiOGp4NVdRYmVOczlMc3NFMUVLQkJLN1VmVTBLT08zWm1ZY1VWa3RXb1F5eEpWd2dhcS1aNzNxOXdXaEhvV3M5ck5FbzFiTWxOVVFvaTk4cHd5SU5GdkpaYjRqLVF5d0lXal9QR1JfbmRQM21GOG1HWXI3TTVPVFFwWUhMczdEMXVMNGlKOVBWR215RGZn?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 18:38:20 GMT",
-      "summary": "경마 종합예상지 게임 화면의 정보 우선순위 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "글로벌 기업·한국 반도체 협력",
-      "sourceIds": [
-        "korea-global-chip-cooperation",
-        "msit-ai-chip",
-        "ai-chip-public-program"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-22T17:56:53.418Z"
     }
   ]
 }

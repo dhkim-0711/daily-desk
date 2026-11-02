@@ -1,7 +1,75 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "한전KDN, 발전 5사와 AI 활용 방안 모색 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QV25aNlFUa2xOeFdndWpTN3N5QmUtdWl4Z3hIVGlEVll4R0NDOW5TZTkzM0d2Qjh1WlVKZnNnU1UtZnU3cm1GUHE3VGM3Zw?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 07:20:13 GMT",
+      "summary": "한전KDN, 발전 5사와 AI 활용 방안 모색 &nbsp;&nbsp; 전자신문",
+      "outlet": "전자신문",
+      "outletUrl": "https://www.etnews.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 12,
+      "firstSeenAt": "2026-10-07T22:15:59.834Z",
+      "lastSeenAt": "2026-10-09T06:18:21.828Z"
+    },
+    {
+      "title": "'K-반도체' 품은 온디바이스 AI 한자리에 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vUV9ZdERrVmx1QW1uRnFZdHI3UkRPRFg3Smt5SURzWkpycFR5R0JwRHRtQWN1OURGUkVWbmVOLVJmeURHWWVTTHlNanc2SFpFQkExaF9R?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 07:19:48 GMT",
+      "summary": "'K-반도체' 품은 온디바이스 AI 한자리에 &nbsp;&nbsp; 지디넷코리아",
+      "outlet": "지디넷코리아",
+      "outletUrl": "https://zdnet.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "deepx"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "온디바이스AI"
+      ],
+      "issueCategory": "온디바이스AI",
+      "score": 16,
+      "firstSeenAt": "2026-10-06T08:57:16.710Z",
+      "lastSeenAt": "2026-10-09T06:18:21.828Z"
+    },
+    {
+      "title": "루카스메타, ‘PQCSAFE’ 구글 클라우드 마켓플레이스 출시 - 데일리시큐",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10LWh3aGpWdTdyVmlSZUlmY08zV2QycW84S2lwUHNWNWJKU1JxcWNCeHJISWRqTGZUWW5wQWlOdzZPZDQxbDhJVGx3TE03Q0c5dVNmZnBuZnU3dC1JY1RRU1kyaS1zeUpyVkNWMA?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 07:19:23 GMT",
+      "summary": "루카스메타, ‘PQCSAFE’ 구글 클라우드 마켓플레이스 출시 &nbsp;&nbsp; 데일리시큐",
+      "outlet": "데일리시큐",
+      "outletUrl": "https://www.dailysecu.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-10-06T10:46:39.409Z",
+      "lastSeenAt": "2026-10-07T01:28:36.011Z"
+    },
     {
       "title": "“범정부 대책기구 없어” “소관 핑계로 손놓나”…AI 해킹 대응 질타받은 과기부 - khan.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1UDBCbzVDdl93dGVOOWNSZWdrVnRaQ0lxWE9tc0FzT3B3QjFGVURtcWVhRmRVZ1VBUVo1Uk5zMlFjNFYtOXBJTGVhdW1xMTdWR3RqOEJVSkxXTk9VNlJv0gFfQVVfeXFMUHVQMEJvNUN2X3d0ZU45Y1JlZ2tWdFpDSXFYT21zQXNPcHdCMUZVRG1xZWFGZFVnVUFRWjVSTnMyUWM0Vi05cElMZWF1bXExN1ZHdGo4QlVKTFdOT1U2Um8?oc=5",
@@ -2154,74 +2222,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-06T08:57:16.710Z",
       "lastSeenAt": "2026-10-06T11:12:33.144Z"
-    },
-    {
-      "title": "AI팩토리에 승부 건 엔비디아 \"생산성·수명·범용성이 수익 좌우\" - edaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEpwd2ZsM1JpNXVacTU0b0ttaTRrMnFMYmJab0JNei1sRGNaekJpbTJJc2VzeE5meXI4UFQyZktPOEFmemdXc2h0VDFaMVpMcW93dTRwWllyQTdUNloyM0lNeTlhZ2lXeVBTb1hfajBwMklOcGFjNU5oQVdpZlBTag?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 06:09:58 GMT",
-      "summary": "AI팩토리에 승부 건 엔비디아 \"생산성·수명·범용성이 수익 좌우\" &nbsp;&nbsp; edaily.co.kr",
-      "outlet": "edaily.co.kr",
-      "outletUrl": "https://www.edaily.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-06T08:57:16.710Z",
-      "lastSeenAt": "2026-10-06T18:53:25.295Z"
-    },
-    {
-      "title": "Ghost’s $3,499 Core has no screen, because the computer is for your AI agent - Martin Cid Magazine",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkNXUF9DVE9WcXIwMUJITEJVQkxfX3Y3djdPQUd1V0ZvMWxxSEhtZVgteWduT2FZVklJUTlKSXlwWTZrYjlLZ29YYUFFVUl1VFJoTlpMQUdrY0R6RHhuLW5Fd0xvUV8yS21zVmVZbnJUbThRQkhzU28tb29ZZm9GQQ?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 06:07:34 GMT",
-      "summary": "Ghost’s $3,499 Core has no screen, because the computer is for your AI agent &nbsp;&nbsp; Martin Cid Magazine",
-      "outlet": "Martin Cid Magazine",
-      "outletUrl": "https://www.martincid.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-06T08:57:16.710Z",
-      "lastSeenAt": "2026-10-07T01:49:41.343Z"
-    },
-    {
-      "title": "ITM and BCD Travel team up to create AI adoption ‘blueprint’ - Business Travel News Europe",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjA3UDRkU1pLcnRLZU1OLWpYTXdmRjl5Y3FHdU9wY1I3dFdtczN3YUtTZUhjS3VrRzd1eDZPWDA4aDcyUXRVVlBZdGJqYkZ3LUxmZU1HbVpJV01zRl9WTklKaWJ2a1gwTENIcmpXa24zd0lkY2R1Y09VbXpyR1hMVGhkSFFzWS1rOHl4NXlpb08zMDZMSlQzWkpCZURTa0NPM1VENU5FZw?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 06:06:52 GMT",
-      "summary": "ITM and BCD Travel team up to create AI adoption ‘blueprint’ &nbsp;&nbsp; Business Travel News Europe",
-      "outlet": "Business Travel News Europe",
-      "outletUrl": "https://www.businesstravelnewseurope.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-06T08:57:16.710Z",
-      "lastSeenAt": "2026-10-07T01:49:41.343Z"
     }
   ]
 }

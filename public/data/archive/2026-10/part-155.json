@@ -1,7 +1,75 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "UK banks hit by Google Cloud outage - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjR6amdHcFpnYmJzZG93R1Q3SDFuQ2pMWlJhUUxJeGxVeWh4ZW1nekxUN0ZFWGRROEV3bDlDYWFlck93RHVsbVhFYTY3NVR4Z09xOXd1ZHMwMGZ2THl5M2FtcWFlLTdkX1FLd3BsRDROTms1Z1FFdUpfRTl3XzEzNUpRT18?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 11:00:34 GMT",
+      "summary": "UK banks hit by Google Cloud outage &nbsp;&nbsp; Financial Times",
+      "outlet": "Financial Times",
+      "outletUrl": "https://www.ft.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-21T12:53:16.803Z"
+    },
+    {
+      "title": "This AI agent was designed to build client relationships and boost retention - Employee Benefit News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTZVRlBOQjJ0MlZYN044dWFOQ3M0QkpZSDhzMDI0Q3d3X1RPTTJLQ0ZUWWdNWnhUbkpRSlpLSUVmcVBuZFZfVTZJYm9kRzdVTW5KV0NUWFhVMkprRmxwczhpQWo2SFhSd1owLWJHVnlycXJUVUZibm5RQUxCaXR4eXBmblRCS05BUHg4alRkRno3SEEtc0wtNDZXLWhVbi05OWdHczdkSFA3QzU3Snc?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 11:00:00 GMT",
+      "summary": "This AI agent was designed to build client relationships and boost retention &nbsp;&nbsp; Employee Benefit News",
+      "outlet": "Employee Benefit News",
+      "outletUrl": "https://www.benefitnews.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-21T05:58:07.008Z"
+    },
+    {
+      "title": "AI chip stocks bounce back as hyperscaler earnings loom, META equity raise in focus - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVjZCT25LZ1h3UUQ5bk91N2FQZXJ3X0l2d0N1TTRxem13T3ZPaXlJM29wdEFtUmhPTGNoQ0dEUWxDVjBWSVRYX1pQMXNfdHNoSldFSy1DcG00VnpKWm1INDBudmI1aHhsY3NlRkZESVAwNGFJYWlCRmZJazdiWGdjNWJyVlNYQXp4cDJVVEdicEcwV2s0NVYtbzF0eTdQMkNUMGtaeUVWMzdtUnBTLUN5REFIZjMzUm9FUm11QWd5MEdINDg5cHA2T3FrSzRsUC1Ca3dOTFA4djBMZUNwT3dXb0dqSWFmZkgzaUJRbDN6WHBIQ00?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 11:00:00 GMT",
+      "summary": "AI chip stocks bounce back as hyperscaler earnings loom, META equity raise in focus &nbsp;&nbsp; 24/7 Wall St.",
+      "outlet": "24/7 Wall St.",
+      "outletUrl": "https://247wallst.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai",
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-20T12:40:52.451Z",
+      "lastSeenAt": "2026-10-21T00:07:51.661Z"
+    },
     {
       "title": "갤럭시 디지털(GLXY), 코어위브(CRWV) 위기에 '휘청'...목표주가 57달러로 '뚝' - 코인리더스",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1Z0JIN1o2WFZkb3hPU2pTZE1PRldMeXNNYy1Cd2VFQWtvOXZTaThNNkpBb0NkYTRYSDVPRTY0RTNscnBkSGJXeXVB?oc=5",
@@ -2261,74 +2329,6 @@
       "score": 19,
       "firstSeenAt": "2026-10-20T12:11:50.172Z",
       "lastSeenAt": "2026-10-21T05:58:07.008Z"
-    },
-    {
-      "title": "ByteDance, Alibaba and Tencent order $35 billion of Nvidia chips: Reuters - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3FzUjAwbGtKMG13MFNmZFNJT3JnU2EwNWllSWZHX2llZkRDcXVEUDh3aWFyb1lHNzFyLWxoZmhfeXVrOW04UTViOVF5TzhQMWhMeUZSRk5yRzRLbE1VZ09Ta251bm5ua04yOGFNSmdzcmZ3V3dCZlhiaEtib3U2QUU3WEZqV0ZUbjBfanZaUWpmRVhEVmFYcGNxQQ?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 09:53:32 GMT",
-      "summary": "ByteDance, Alibaba and Tencent order $35 billion of Nvidia chips: Reuters &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-20T12:11:50.172Z",
-      "lastSeenAt": "2026-10-21T05:58:07.008Z"
-    },
-    {
-      "title": "Who pays when an AI agent goes rogue? - FT Adviser",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oWkJVcGR4cm9OWDhKNkl3MHI4U1hZQWVseGN4MERPMDNfT2UwMWV5R1VNU2tlNDE1VFJVMzVka0pTLUJiRktaRk9zZU1hRGc0Q0RBandwZWtXU1BrdEZlcHVEYnhUR2tvMmNnY1Z2TFVCUmJvZW44Vk53?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 09:53:21 GMT",
-      "summary": "Who pays when an AI agent goes rogue? &nbsp;&nbsp; FT Adviser",
-      "outlet": "FT Adviser",
-      "outletUrl": "https://www.ftadviser.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-20T12:11:50.172Z",
-      "lastSeenAt": "2026-10-20T12:40:52.451Z"
-    },
-    {
-      "title": "How To Negotiate An AI Agent Uptime Penalty Without Killing Your Margin - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFY0eTVFbzJab3U4aV9Sdnk5aVFIQVdDSGY3YXhUTlJaMmtyczhkUmduS25qM1VWN2gtdjdwRXRTdmtkRHh3MV9rRHhYYWRUekJRUkJKUEYzLWJzdE9jeThSN0FZUi0tRDlxcUxzVTRXR1NrVmxVemhDTG5FOWxHbjY0LUxENkc4bzZtQTEwcG1ZYzhERzU4cUhlMkw3TGxq?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 09:53:20 GMT",
-      "summary": "How To Negotiate An AI Agent Uptime Penalty Without Killing Your Margin &nbsp;&nbsp; Startup Fortune",
-      "outlet": "Startup Fortune",
-      "outletUrl": "https://startupfortune.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-20T12:11:50.172Z",
-      "lastSeenAt": "2026-10-20T17:57:30.297Z"
     }
   ]
 }

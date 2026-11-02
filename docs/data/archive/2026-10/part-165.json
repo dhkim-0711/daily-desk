@@ -1,7 +1,76 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "Nvidia Releases Open-Weight Bolt Model for Local AI Agents - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYTm1rLVJoSFFlVmlLMTh3QUpKbHNNb0tZSWV4SjZxQ3lWLXI3Z3F5WmRUSmcyeV9CMHhBTzJjVGJMNjBlY2ZsaXZpUk5RejV4bmxTY1RON0VBck0?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 22:13:41 GMT",
+      "summary": "Nvidia Releases Open-Weight Bolt Model for Local AI Agents &nbsp;&nbsp; www.tokenpost.com",
+      "outlet": "www.tokenpost.com",
+      "outletUrl": "https://www.tokenpost.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 23,
+      "firstSeenAt": "2026-10-20T01:03:48.272Z",
+      "lastSeenAt": "2026-10-20T01:16:21.351Z"
+    },
+    {
+      "title": "Amazon releases TorchNeuron to pull AI workloads off Nvidia chips - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUlUTUtVc3U4N2pfWlVaclctSFlKRWhkT09nLVNzU2RKcmNDOFE5SjZPenJsN3Zvb0luY1FjWkkwQ1N5dmg0bW8xbFFBUE9wcllIZEpiaVJfT1Fsa2VNeWl1a3BLN05KVkpRLUhiY2NNQ3FHcDc4Z3R4bk5wdTBybE5kdFRJd2F6NjhNQXdBdjFtYTFrTnBTNQ?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 22:10:05 GMT",
+      "summary": "Amazon releases TorchNeuron to pull AI workloads off Nvidia chips &nbsp;&nbsp; Startup Fortune",
+      "outlet": "Startup Fortune",
+      "outletUrl": "https://startupfortune.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-19T22:38:25.607Z",
+      "lastSeenAt": "2026-10-20T12:40:52.451Z"
+    },
+    {
+      "title": "\"AI가 다 해주니 누가 클릭해\"…검색 포털의 '제로클릭' 딜레마 > 시애틀 뉴스/핫이슈 - SeattleN",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3WUNGSnYzeDRZSEU5VlFLU3pubTM4M2ZvQThyYUxRbmlqSVdjbWF3WmVYUVBydF9zd3l4OS01NXhJREt3OXE3UEp3?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 22:10:02 GMT",
+      "summary": "\"AI가 다 해주니 누가 클릭해\"…검색 포털의 '제로클릭' 딜레마 > 시애틀 뉴스/핫이슈 &nbsp;&nbsp; SeattleN",
+      "outlet": "SeattleN",
+      "outletUrl": "https://www.seattlen.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-20T12:40:52.451Z"
+    },
     {
       "title": "현재 설정을 확인하고 시작하는 룰렛 어원 이용 순서 - Calgary Roughnecks",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU083WWZFUG1jMGxTS3dkcnRLekFNVlNvc2hUdzYxWG9vYUFyQmlDNzVIaENQblBRSEFXOVNiZkR6ZkRjRmxqYlhjbGUxcUE5VFhvREZId3ZBWEFydmtwQl9ESklWVnJLdGZ2NHVVdVBTc2U5TXVWWjBfSmdRbnBMTDFkSkltazNvWDNLM1ljWmk5WVhkNkFjYmxnRDZJSkNXTUdudGlrUmE3d3JUT09TY3NR?oc=5",
@@ -2150,74 +2219,6 @@
       "score": 13,
       "firstSeenAt": "2026-10-19T22:38:25.607Z",
       "lastSeenAt": "2026-10-19T22:38:25.607Z"
-    },
-    {
-      "title": "NVIDIA’s GTC Berlin 2026 Event This Week Might Do More For Intel Than For Itself - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR016eGxTOG5xdWREQzdfZ20yU2ExZG9oWUI1TnVMRmViZUs4bG5Sa1hUYk9BZlFJSGpnalVWS19iYTRxa0ZydGdrVkNiTG1DTDJSTlVWWklnLUlOMFVrdGMyb3BwTk9pLXN4SmFfV3hfZFpIT0IzZlJQdVZZUnIwZjFzSEZIemxyVFVrUkF6dU9EemJ3OFV3Wk9IbWhPZUVFelJnNkVQMnnSAagBQVVfeXFMTUdNenhsUzhucXVkREM3X2dtMlNhMWRvaFlCNU51TEZlYmVLOGxuUmtYVGJPQWZRSUhqZ2pVVktfYmE0cWtGcnRna1ZDYkxtQ0wyUk5VVlpJZy1JTjBVa3RjMm9wcE5PaS1zeEphX1d4X2RaSE9CM2ZSUHVWWVJyMGYxc0hGSHpsclRVa1JBenVPRHpidzhVd1pPSG1oT2VFRXpSZzZFUDJ5?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 20:39:00 GMT",
-      "summary": "NVIDIA’s GTC Berlin 2026 Event This Week Might Do More For Intel Than For Itself &nbsp;&nbsp; Wccftech",
-      "outlet": "Wccftech",
-      "outletUrl": "https://wccftech.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-20T12:11:50.172Z"
-    },
-    {
-      "title": "AI가 빈곤국 기후위기·전염병 해결할까[김창영의 실리콘밸리 룩] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EZ2UtZ1BqX2hZTUtFYVR1QXoxdW5OZm16U1B3R3R2NzJ1eU82Y0ItWGQwdklYV2NPQTBDSlNjM245eURfWERYOG0tZWF3SlBnLUHSAVNBVV95cUxNSklhZHFGQ3hnc0Q4NVpEWE9qRzB2aTlmam9GV0ZGLTNTUDZSVEg0ejVfVnd6bWZ5VUJCYWtueWlvS3hVR2RvSnFnNFNXQ1Q2YWlWRQ?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 20:39:00 GMT",
-      "summary": "AI가 빈곤국 기후위기·전염병 해결할까[김창영의 실리콘밸리 룩] &nbsp;&nbsp; 서울경제",
-      "outlet": "서울경제",
-      "outletUrl": "https://www.sedaily.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-20T05:57:26.312Z"
-    },
-    {
-      "title": "Nvidia’s Vera CPU Wins Modal, Claims 2x AI Speed [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUVFYSnNnZFNJU085cy1Ob2R4bFQ1azFMQlF0WVVHYUdBZlB2NzY4SlVrSTNLSkNHOUpXdnFqYzJEZ01hODg4WkxjanhUMnRfU0JBNl9PWEpqQUp0RjBXYUk3QnVOdE1Rb3E4b3ZVMVRwNC1W?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 20:38:55 GMT",
-      "summary": "Nvidia’s Vera CPU Wins Modal, Claims 2x AI Speed [2026] &nbsp;&nbsp; https://tech-insider.org/",
-      "outlet": "https://tech-insider.org/",
-      "outletUrl": "https://tech-insider.org",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-20T12:40:52.451Z"
     }
   ]
 }

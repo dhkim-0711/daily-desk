@@ -1,7 +1,79 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "Cisco and NVIDIA Announce USFP: Expanding the Path to AI Connectivity - Cisco Blogs",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORW82XzZySmhBUllpTmFFR1RWSVBWUGN0UUZjOE1FNlFsYzg3WlJXRjMzWHRBdWZvRE9GUDRCWkF5UGl2NG9EbG9abGVFMkVlYWFsRFV5cDVqLWZ6bG4ta3g4NENfTkcxQzIyOUpla0cwVEtrdE16dFhvcTVYcDFiNnFWSGRWSWRwQ2J5SERJTTRMWmpkV1M5MGRvdEZMZw?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 15:03:25 GMT",
+      "summary": "Cisco and NVIDIA Announce USFP: Expanding the Path to AI Connectivity &nbsp;&nbsp; Cisco Blogs",
+      "outlet": "Cisco Blogs",
+      "outletUrl": "https://blogs.cisco.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-14T01:10:06.419Z"
+    },
+    {
+      "title": "브로드컴·퀄컴, AI 반도체 시장서 성장 전략 차별화…투자 매력은? - 더페어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qMjU3TkZsTEFoMm92ZXFXT3VBSlViNGZhalV3MUMzaWZJazdGOXd5aVMyY0FCdWhwdHdQT3FIZUFMQlhnODhOVWZOZmhwSW93OHpMLTVNSDU5bjY4OEd4WDRMaC1BbTJjUTQ1bUVRM3NoX1h20gF0QVVfeXFMTWoyNTdORmxMQWgyb3ZlcVdPdUFKVWI0ZmFqVXcxQzNpZklrN0Y5d3lpUzJjQUJ1aHB0d1BPcUhlQUxCWGc4OE5VZk5maHBJb3c4ekwtNU1INTluNjg4R3hYNExoLUFtMmNRNDVtRVEzc2hfWHY?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 15:03:20 GMT",
+      "summary": "브로드컴·퀄컴, AI 반도체 시장서 성장 전략 차별화…투자 매력은? &nbsp;&nbsp; 더페어",
+      "outlet": "더페어",
+      "outletUrl": "https://www.thefairnews.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy",
+        "ai-chip-capital-market-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-12T21:42:25.155Z",
+      "lastSeenAt": "2026-10-15T12:37:32.831Z"
+    },
+    {
+      "title": "Nvidia and Cisco unveil new USFP optical module for AI data centers - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFZ4N3RIaS1ST3BxQzFZemZwVUhZNFVzVlhTSGpGVEUtU2JjR0xNTFd3bHE3YmZjZnJBTlNZeXlOc0dTWHBPRE1maks0T1hfRmozTGp4cml2Ui1lbXZob1YzcEpQVm1DZHd6ME83STI1SWNKenJ5OG1TYVBpU0tpay1XY1dyMVRIbjBOZEpxOHVhbEEwRzFYVE82c3RuX0s3Tl9mamNHYncwYkk3eC1lNWJXNnNQaUh5ZG9XeDUyWjhXaFF2?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 15:02:08 GMT",
+      "summary": "Nvidia and Cisco unveil new USFP optical module for AI data centers &nbsp;&nbsp; StreetInsider",
+      "outlet": "StreetInsider",
+      "outletUrl": "https://www.streetinsider.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-12T16:06:06.831Z"
+    },
     {
       "title": "\"엔비디아칩 독주 저지\"…MS,\"자체 AI칩 내년 백만개이상 투입\" - 한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwV2pWSVctOWdCNS1pVzBnSERSckJSTWdJQkRhRFpWQVljcXFKQjZUVDNmX2RYOTNfUGtPWnQxRzFtN3N4TGsyeDJlS3BKcW5Da2NrQkxEMERTQQ?oc=5",
@@ -2192,81 +2264,6 @@
       "taxonomyHits": [],
       "issueCategory": "",
       "score": 13,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-13T06:58:34.117Z"
-    },
-    {
-      "title": "Nvidia Has a $5.5 Trillion Valuation. Can the AI Giant Still Go Higher? - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZmFLSjFwdXJBYTlqa0JZTVVUWDZ1eE9EZzV3Mk9rV21pTm1Xc3hmeDllSWNpVXpBR2JucWJNWWFiZ1BHV2hvLTFxc2tzQlNrS08yZWdRMXZheW0zaFhwTVFkeWpsdzR1QmxFZGp4OFQ5dGJCUEJpWGh5WFR6aVZOX0NsMkR5SFRKNDZma05pa3N3SkxQM0JhdHY0V2pxY2R4SEJIRHpoWm1DeUNyWXNOamlB?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:30:00 GMT",
-      "summary": "Nvidia Has a $5.5 Trillion Valuation. Can the AI Giant Still Go Higher? &nbsp;&nbsp; 24/7 Wall St.",
-      "outlet": "24/7 Wall St.",
-      "outletUrl": "https://247wallst.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-13T06:58:34.117Z"
-    },
-    {
-      "title": "Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C — bespoke Frore LiquidJet Diamond cooling tames 770 W/cm² hotspots - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQWGdBblFiUVc3Tkd4dmI3U0JYQmNINjg5QzVaVmpoX0s0UVdKbWwxZWJmM191S1d1RE5YMUVtNC1KbUZiS19XLS1YNnVvTk9nSlVnY1h3VXJON3gzOXh2aWVhYXZhalA2VUItd1pLcHBheVo4azBMVnBSaGNwTlJkR0hqcWF6Y0FlRWJMd0xzRk41VUoybUlSUjF2OEp1R3dsMjVZZmN3UW50UWVnMU1uMnkyUC1lSDFvQkVwT2lpaWtQZWh3MTc4LU1ySVkwTXo5aV9UNmRPLTBSRUNReW91cnFZQWFYTmV3cjlpOF9EM29zRmN4Q3VwbWpNSk13STRXSXNocU5KSUYtVVlHV1hGSkJqUjlEU2xkSFlNM0dKb3BDSVNEVmJwNmkyTWt1RnZOajA5Mg?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:30:00 GMT",
-      "summary": "Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C — bespoke Frore LiquidJet Diamond cooling tames 770 W/cm² hotspots &nbsp;&nbsp; Tom's Hardware",
-      "outlet": "Tom's Hardware",
-      "outletUrl": "https://www.tomshardware.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-13T06:58:34.117Z"
-    },
-    {
-      "title": "AMD unveils Helion open rack blueprint for agentic AI infrastructure - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcGw3bmw5Wm9yOGtpS3hzVU9hdEhLQXd4cUhIUGowZDd2U1F1ekUyWV9IOTIxNzJ4cUJTbGVJcTdyUFM2Y3QwRU9wSjFwQ0d0RUhuQjBTRm95Z3RJM2hPMjIxZWxTV1g2TDhfVzJJU21INHVqN2hmNDltcWpXdEZjSjRRQkp0X3NlaUk3LTVKMnM1cnJ4Zi1mWm5aV0l6R0tKaGVDZERHSUxhcUo5THpNbVlqbDR4dks1NG4xeGptbWx3R0dQRVJxRHExYw?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 13:29:51 GMT",
-      "summary": "AMD unveils Helion open rack blueprint for agentic AI infrastructure &nbsp;&nbsp; TradingView",
-      "outlet": "TradingView",
-      "outletUrl": "https://www.tradingview.com",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "AMD"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "AI인프라",
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 26,
       "firstSeenAt": "2026-10-12T16:06:06.831Z",
       "lastSeenAt": "2026-10-13T06:58:34.117Z"
     }

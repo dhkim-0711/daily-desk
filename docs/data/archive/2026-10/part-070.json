@@ -1,7 +1,77 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "동원파츠, 'HBM 호황' 타고 실적 점프⋯IPO 흥행 도전 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlSHZwVU1sR2dyUjFheEhrNktSajRhNThYYzdxYnhpQnM3UnVDSjUxUVVuakUzVnNDeFNTczVOc3NuUHZUSUduUlJTNA?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 05:08:37 GMT",
+      "summary": "동원파츠, 'HBM 호황' 타고 실적 점프⋯IPO 흥행 도전 &nbsp;&nbsp; 아이뉴스24",
+      "outlet": "아이뉴스24",
+      "outletUrl": "http://www.inews24.com",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-27T09:46:08.096Z",
+      "lastSeenAt": "2026-10-28T01:14:48.296Z"
+    },
+    {
+      "title": "경산시, 퓨리오사AI와 ‘AI반도체 실증’ 협약…현장 적용 검증 - 대경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01eTg2Uy1Ka1I3WVdRNm9LRndkNEtVX0ZURV9lZ2Y2dHE3Qnh2cmNfQVBGaEhaTVpqT2RkbU9ONzJhREJLQXR2ODdQOXB1S2FxN2t4S2RtWWRaQm1xUjBsbFdaS25NWV9N?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 05:07:57 GMT",
+      "summary": "경산시, 퓨리오사AI와 ‘AI반도체 실증’ 협약…현장 적용 검증 &nbsp;&nbsp; 대경일보",
+      "outlet": "대경일보",
+      "outletUrl": "https://www.dkilbo.com",
+      "source": "AI반도체 공공사업",
+      "sourceIds": [
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "퓨리오사AI"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "퓨리오사AI",
+        "실증·조달"
+      ],
+      "issueCategory": "NPU",
+      "score": 25,
+      "firstSeenAt": "2026-10-28T05:53:34.298Z",
+      "lastSeenAt": "2026-10-28T14:31:16.707Z"
+    },
+    {
+      "title": "Michael Linke - Broadcom",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yR3dVS2xybjFHdWtUN3ZHQTNIYXFCOVJ4a3FjVDFTR3lyTkNCVWp5WWNjRlVQd3U2alFKa0YyMm56clJmY0dXWW9MNDQzRVZJTlo2OTZn?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 05:07:49 GMT",
+      "summary": "Michael Linke &nbsp;&nbsp; Broadcom",
+      "outlet": "Broadcom",
+      "outletUrl": "https://expert.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-28T01:14:48.296Z",
+      "lastSeenAt": "2026-10-30T01:54:30.331Z"
+    },
     {
       "title": "슈퍼마이크로, 2만 2,500개 AI 샌드박스 지원하는 ‘엔비디아 베라 CPU 랙’ 공개 - 뉴스탭",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DRnBIWW8xbXBQWW9nMDdOYzNZeWhxVmxPQjZ5dDBXYmprYXp6WnduOU1KS3dNcHkzLXBmWVpVbFhOdXNZRW5JWVlQWVF6YmYxam1HdVJmRnlwb0NFVWxvTkxwRHRYdHBycTJmZg?oc=5",
@@ -2168,70 +2238,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-27T05:15:11.997Z",
       "lastSeenAt": "2026-10-28T01:14:48.296Z"
-    },
-    {
-      "title": "SMT보다 ‘10배' 비싼데도 산다…펨트론, HBM 앞세워 AI 반도체 랠리 올라타나 - 얼리어답터뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vSjJ4dkZGcUplODdjcWlocVBtTGpVU2liV0NGYW80bFlPRnZNbzNTM1h4dnBxOGwxLWE5TWt0cTYwc0d4OV9QeTFB?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 03:51:50 GMT",
-      "summary": "SMT보다 ‘10배' 비싼데도 산다…펨트론, HBM 앞세워 AI 반도체 랠리 올라타나 &nbsp;&nbsp; 얼리어답터뉴스",
-      "outlet": "얼리어답터뉴스",
-      "outletUrl": "https://www.eanews.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-27T05:15:11.997Z",
-      "lastSeenAt": "2026-10-28T00:44:44.486Z"
-    },
-    {
-      "title": "SG AI startup Rivo launches WhatsApp bot for property leads - Tech in Asia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMUtJOVhHRlpiOHhXRVczcTQxbW0xNGp1YUc3dEZVNnJMYUVPbjB2R1Z1X1ltUm1OMjJDMFBybUY2R1k4Zkk0ZGQ2N21rUUE4QVU0VTB0VHdOaGhPNlBRMGtDOGxIdDM5NHZyV2ROQVNqMUx0YXBseW5zRTZPU2h6aGpfTE5jZXctVlg0QkRldXQ?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 03:51:00 GMT",
-      "summary": "SG AI startup Rivo launches WhatsApp bot for property leads &nbsp;&nbsp; Tech in Asia",
-      "outlet": "Tech in Asia",
-      "outletUrl": "https://www.techinasia.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-27T15:51:29.490Z",
-      "lastSeenAt": "2026-10-27T15:51:29.490Z"
-    },
-    {
-      "title": "Asia chipmaking, AI stocks surge on Anthropic IPO cheer By Investing.com - Investing.com South Africa",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazl5X2VSS2xrdVJLU1lpV1JSVEk3cmxBR3VsdmgzX0lVdEhzQVRlMkV6R1JMT3pGQ3JyMXF4ZUpJazJPalFxYWktSktUSGdpUV9GZlN1TUl1dmptV3d4Nk9DZTU2d255VWw5elRSRVA3N25wd2hicTZNcWFmTG9PMkJHeUQxUjIySlNRQ1FkTnozTEpzc3Fvb1VuNkNwVWZ5azM5dWFjVkphakp6c2E4?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 03:50:03 GMT",
-      "summary": "Asia chipmaking, AI stocks surge on Anthropic IPO cheer By Investing.com &nbsp;&nbsp; Investing.com South Africa",
-      "outlet": "Investing.com South Africa",
-      "outletUrl": "https://za.investing.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-27T05:15:11.997Z",
-      "lastSeenAt": "2026-10-27T05:23:50.475Z"
     }
   ]
 }

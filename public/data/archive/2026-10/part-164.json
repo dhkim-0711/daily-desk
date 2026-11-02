@@ -1,7 +1,77 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "[모닝 리포트] \"지슨, 데이터센터 확대에 무선백도어 사업 성장 기대\" - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRWxCc0gxYUV6eHk0SHdRX1BJZlFBSlBjZFNmMlRIT2w3NGVuVTZReXVRNkhhWVhQdkdHM014UjN0S1JvSF9ZSUx2bmNfT0RsVFl0NENPd3NoTWds?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 23:51:00 GMT",
+      "summary": "[모닝 리포트] \"지슨, 데이터센터 확대에 무선백도어 사업 성장 기대\" &nbsp;&nbsp; 뉴스핌",
+      "outlet": "뉴스핌",
+      "outletUrl": "https://www.newspim.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 11,
+      "firstSeenAt": "2026-10-20T01:03:48.272Z",
+      "lastSeenAt": "2026-10-20T17:57:30.297Z"
+    },
+    {
+      "title": "화웨이, 딥시크 협력으로 차세대 AI 칩 최적화…엔비디아 아성 정조준 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FZkxBU1RVWGR0ZDVVVjhyT09sUldDS3hwS3czblc1TUpLNzBTLWZfUG5ET1ptWjZfVHJLdC1QUTJjeWFBMEdXRGswaHFEV0xmd21YY2RYUHNDalBGYVJSUEY3WVI?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 23:50:52 GMT",
+      "summary": "화웨이, 딥시크 협력으로 차세대 AI 칩 최적화…엔비디아 아성 정조준 &nbsp;&nbsp; 디지털데일리",
+      "outlet": "디지털데일리",
+      "outletUrl": "https://www.ddaily.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-global-chip-cooperation",
+        "accelerator-strategic-deals-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-20T01:03:48.272Z",
+      "lastSeenAt": "2026-10-22T07:57:53.219Z"
+    },
+    {
+      "title": "클라우드플레어, 깃허브·노션 등과 협력…기업 AI 업무 자동화 확대 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zTlBELXBPMy1IUlFjZWRFTDN5YzBKcjVydjFsSi1OcE5DZU5QN0lUWnhYa2M5Z0t0a21wbjRFOTcwNzBiTWpzMG1MQzQxQQ?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 23:50:30 GMT",
+      "summary": "클라우드플레어, 깃허브·노션 등과 협력…기업 AI 업무 자동화 확대 &nbsp;&nbsp; 전자신문",
+      "outlet": "전자신문",
+      "outletUrl": "https://www.etnews.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 16,
+      "firstSeenAt": "2026-10-20T01:03:48.272Z",
+      "lastSeenAt": "2026-10-20T05:07:38.533Z"
+    },
     {
       "title": "FXC, AWS 기반 MCP 서버 출시… 국경 간 결제 데이터 연동 - 한국클라우드신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WRVVvaWtlLVRxSjllempyTXVZQXgzaGM1UU9VVXRqNDM2akJnaGVHTTNMTWxHM29ldGlFN2owVWNfTWFoS3V1WlV3SjB5QmJyaVQ1Wk5yOUlYZ1FRVFFlLUVwdWI4aWdONzNlRk1KVdIBc0FVX3lxTE1SanFZakwtaGdMSWlQNzdmWENaRzN2cXZDNWJJZTNyQi1paWlkVVp1Q1JxVm01dDhhV1BjZHM2U0wxYWswdU1JaDJ1YTlEdE1ocThNX05udVdlaV80aVU5aHpscXJsQTJTOGZXTFZ6Q1pHY3c?oc=5",
@@ -2130,75 +2200,6 @@
       "score": 6,
       "firstSeenAt": "2026-10-22T06:03:45.371Z",
       "lastSeenAt": "2026-10-22T14:06:18.862Z"
-    },
-    {
-      "title": "Nvidia Releases Open-Weight Bolt Model for Local AI Agents - www.tokenpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYTm1rLVJoSFFlVmlLMTh3QUpKbHNNb0tZSWV4SjZxQ3lWLXI3Z3F5WmRUSmcyeV9CMHhBTzJjVGJMNjBlY2ZsaXZpUk5RejV4bmxTY1RON0VBck0?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 22:13:41 GMT",
-      "summary": "Nvidia Releases Open-Weight Bolt Model for Local AI Agents &nbsp;&nbsp; www.tokenpost.com",
-      "outlet": "www.tokenpost.com",
-      "outletUrl": "https://www.tokenpost.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-10-20T01:03:48.272Z",
-      "lastSeenAt": "2026-10-20T01:16:21.351Z"
-    },
-    {
-      "title": "Amazon releases TorchNeuron to pull AI workloads off Nvidia chips - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUlUTUtVc3U4N2pfWlVaclctSFlKRWhkT09nLVNzU2RKcmNDOFE5SjZPenJsN3Zvb0luY1FjWkkwQ1N5dmg0bW8xbFFBUE9wcllIZEpiaVJfT1Fsa2VNeWl1a3BLN05KVkpRLUhiY2NNQ3FHcDc4Z3R4bk5wdTBybE5kdFRJd2F6NjhNQXdBdjFtYTFrTnBTNQ?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 22:10:05 GMT",
-      "summary": "Amazon releases TorchNeuron to pull AI workloads off Nvidia chips &nbsp;&nbsp; Startup Fortune",
-      "outlet": "Startup Fortune",
-      "outletUrl": "https://startupfortune.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-20T12:40:52.451Z"
-    },
-    {
-      "title": "\"AI가 다 해주니 누가 클릭해\"…검색 포털의 '제로클릭' 딜레마 > 시애틀 뉴스/핫이슈 - SeattleN",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3WUNGSnYzeDRZSEU5VlFLU3pubTM4M2ZvQThyYUxRbmlqSVdjbWF3WmVYUVBydF9zd3l4OS01NXhJREt3OXE3UEp3?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 22:10:02 GMT",
-      "summary": "\"AI가 다 해주니 누가 클릭해\"…검색 포털의 '제로클릭' 딜레마 > 시애틀 뉴스/핫이슈 &nbsp;&nbsp; SeattleN",
-      "outlet": "SeattleN",
-      "outletUrl": "https://www.seattlen.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-20T12:11:50.172Z",
-      "lastSeenAt": "2026-10-20T12:40:52.451Z"
     }
   ]
 }

@@ -1,7 +1,79 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "Getting started with Tanzu Hub - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNczJrWDRLSmhvUU1TZXBDc3htMlRQdUdEbEdNMEZsWWo3WWxsS1JJLWZTVFlPZEdnSkh2MlV6TVRtdDZGOXpreUp6Qi05YWlYeXpXUzBlS200Uy1VN3hEcm93Zk1XSE5zcmR5M2VYaUw2ZzgyQTdhTzE5eTdhY2Z6clI5ckxoY2phVEQ3X3gxYTB1ZFNwYmczbjJraHFIZVpTb0E0M3NhRXJVQmJoSWF3S2xRUW4zZw?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 04:01:43 GMT",
+      "summary": "Getting started with Tanzu Hub &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-21T22:44:58.342Z",
+      "lastSeenAt": "2026-10-24T00:03:33.173Z"
+    },
+    {
+      "title": "`중수청장 배석` AI에 물어본 李... 한동훈 `제미나이 할애비 데려와도 안 돼` - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhWjA3RU9kWVhVSkZacGx3SmY2TS1mQmZJZnp4dmg5ZVZ3VXR0TlI0aUdEVjluZEIxNGlMdHh4c3dYNXdPTmpkTXFZOXh3QjEwbGVUYUZrZzRKNFdkbm5vOU5B?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 04:01:33 GMT",
+      "summary": "`중수청장 배석` AI에 물어본 李... 한동훈 `제미나이 할애비 데려와도 안 돼` &nbsp;&nbsp; 매일신문",
+      "outlet": "매일신문",
+      "outletUrl": "https://www.imaeil.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-21T04:59:05.638Z",
+      "lastSeenAt": "2026-10-21T10:35:21.894Z"
+    },
+    {
+      "title": "F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered AI Factory Infrastructure - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMEItTVVjV19LM3dUZW8xVlpqdXZNQmJlT0RBZWtGbVhwSXpybDhyNDA4d2hSeU11TjB6N2ZFdWdCb3NWSzJzM01iN1lBdk5aT051RmVQTG56V2lCeUYwUlFiNGFFY1U2Q0F2S3BoVDN6VE9lemcwVDgxQ25OaWRpdlFR?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "summary": "F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered AI Factory Infrastructure &nbsp;&nbsp; Yahoo Finance Singapore",
+      "outlet": "Yahoo Finance Singapore",
+      "outletUrl": "https://sg.finance.yahoo.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai",
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "수출통제·공급망",
+      "score": 23,
+      "firstSeenAt": "2026-10-21T04:59:05.638Z",
+      "lastSeenAt": "2026-10-26T06:04:07.551Z"
+    },
     {
       "title": "CNN, Google strike multi-year partnership to explore generative AI - marketech apac",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXU5bDkwb0RpN2JOWjJldzlkajRQeXA1SjZmTXVTa0xmRnRzVmp3VzZONjZEY0UxcC05TmFyMVFtd0FzU294dzg4VGluNWwtYjlleXRjR01QQkJwQVVCbGlULVBaLWRENkRuZjZ3YXdWQXR3aVo5OVAyLWc0Q1dzMnNWRkFmTEVHR3F2dTJhUHBWdGx5Vmc5Sw?oc=5",
@@ -2146,76 +2218,6 @@
       "score": 23,
       "firstSeenAt": "2026-10-21T04:59:05.638Z",
       "lastSeenAt": "2026-10-21T12:53:16.803Z"
-    },
-    {
-      "title": "\"17-Year-Old Prodigy Formerly of China's Moonshot AI Joins US AI Startup\" - news.sbs.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uUF85aENFaHBpZlplWkRSaG9Od2ZrZ256Ry1vNk5CLTFfWnlXSnE5WTM4d2tRY1c0T2pJNjNHTm5iS0JyMk52elZTYzdZYnJPSHJsM21ULTNZdkZCX0tkRGhwbTlTUQ?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 02:18:00 GMT",
-      "summary": "\"17-Year-Old Prodigy Formerly of China's Moonshot AI Joins US AI Startup\" &nbsp;&nbsp; news.sbs.co.kr",
-      "outlet": "news.sbs.co.kr",
-      "outletUrl": "https://news.sbs.co.kr",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "수출통제·공급망"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-21T04:59:05.638Z",
-      "lastSeenAt": "2026-10-21T05:58:07.008Z"
-    },
-    {
-      "title": "AI chip scaling shifts into 3D, with performance per watt the new benchmark, says former TSMC VP - digitimes",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVl9aM3hSZFBTZVg2T25MaGI0Nno3azlmN0V3ME5mMEpFTVAwVDJZUVktbkNBN0NGcDJadmRGb01ETDB0eWFIR3RfYkg0MEU4SGd0cl8takZ6NGdWUjRXdUpSMGlyb3VfTjI3OWtHNkZjMi1IZlVFTjVhOF9haTFtTlJrZXhnWU56UkhQVw?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 02:17:39 GMT",
-      "summary": "AI chip scaling shifts into 3D, with performance per watt the new benchmark, says former TSMC VP &nbsp;&nbsp; digitimes",
-      "outlet": "digitimes",
-      "outletUrl": "https://www.digitimes.com",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "TSMC"
-      ],
-      "taxonomyHits": [
-        "파운드리·패키징"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-21T04:59:05.638Z",
-      "lastSeenAt": "2026-10-21T05:58:07.008Z"
-    },
-    {
-      "title": "엘리스, 장중 상한가에도 공모가 밑…IPO 새내기 10곳 중 8곳 마이너스 - 뉴스톱",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ITEllQnRtc3hSQVVPcmlISURlaUJ0SXRlSVBHZkRCdG5QWlRZdDBmZE5ZTTl2OFZIdnNOaFBnUFRWTm1VdGJ0U2NCaUlGS1EyWDZ5RVJUNUxxLVZYcDFjdWx6YW1YM1VsSms5d0FVbw?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 02:17:06 GMT",
-      "summary": "엘리스, 장중 상한가에도 공모가 밑…IPO 새내기 10곳 중 8곳 마이너스 &nbsp;&nbsp; 뉴스톱",
-      "outlet": "뉴스톱",
-      "outletUrl": "https://www.newstopkorea.com",
-      "source": "AI반도체 공공사업",
-      "sourceIds": [
-        "ai-chip-public-program"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 24,
-      "firstSeenAt": "2026-10-21T04:59:05.638Z",
-      "lastSeenAt": "2026-10-24T00:34:18.123Z"
     }
   ]
 }

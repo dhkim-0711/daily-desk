@@ -1,7 +1,79 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:37:02.268Z",
+  "updatedAt": "2026-11-02T08:20:08.101Z",
   "articles": [
+    {
+      "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 23:59:00 GMT",
+      "summary": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips &nbsp;&nbsp; The Information",
+      "outlet": "The Information",
+      "outletUrl": "https://www.theinformation.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai",
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "Google"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 27,
+      "firstSeenAt": "2026-10-28T00:44:44.486Z",
+      "lastSeenAt": "2026-10-30T10:28:06.065Z"
+    },
+    {
+      "title": "삼정KPMG \"글로벌 반도체 2000조 시대…美거점 확대·M&A 나서야\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xZmxlVXVQdnktWUNfQ2pFSWFBaml6SGR1VlVHTTFzVUQ4SUJZMUhORndtMGlza1pHU1VjMFRfRndHa0lWTWdwc2xfNkIxWFV1a0pWZU5aaEQ2Y1Z2VVhnd9IBeEFVX3lxTE8xLTlqWHR6elc0SDFibGsyc01JbFhsRUE5OUdJdGFjbk9waXJEQncxR1lMdmVrMTVZeEJJdW1pdGpZYVdSOEllNG16VGpkZk1Ha2wxQXdmM2VfczBsbFJPbUU4SnZJZjJPWFdSVzFKaVFZdHotZUEyTA?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 23:58:43 GMT",
+      "summary": "삼정KPMG \"글로벌 반도체 2000조 시대…美거점 확대·M&A 나서야\" &nbsp;&nbsp; 뉴시스",
+      "outlet": "뉴시스",
+      "outletUrl": "https://www.newsis.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 8,
+      "firstSeenAt": "2026-10-28T00:44:44.486Z",
+      "lastSeenAt": "2026-10-28T10:31:07.345Z"
+    },
+    {
+      "title": "‘젠슨 황 장녀’ 매디슨 황, 다음달 방한…엔비디아 AI 행사 참석 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSdUJxcTF5a2hCYW8tYVpzeXNxWmZKSXYydjdIZ3dUT25jU2I3QVhpVXBFaDUyWlpCNm9fNUpwZUR0WEg5ZGdjSTR6Ui0ycGtta2xVLUxpTE9HRVpaRFFiXzA0NHRaR3hTYk9QemZn?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 23:58:34 GMT",
+      "summary": "‘젠슨 황 장녀’ 매디슨 황, 다음달 방한…엔비디아 AI 행사 참석 &nbsp;&nbsp; 아시아투데이",
+      "outlet": "아시아투데이",
+      "outletUrl": "https://www.asiatoday.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-28T00:44:44.486Z",
+      "lastSeenAt": "2026-10-30T16:49:59.511Z"
+    },
     {
       "title": "HBM explained: the AI memory behind SK Hynix’s record profits and rising chip prices - investingLive",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHJheTc5N21aYWgtTGthSF9jZlBNYTY3SUZ1VXFZOXV5Y1NXemJqZ0R3NEpnSnNIVUFVLVYyMFhoekcxdUNzMUM4NEpkakY5eEV5cEp4VU4zdXpicHlaSkRLejFsT3BsSlZyQUdia3k1UjJuWFZxNDlHZHQ2aGUzYS03cVRvTTF4YzU1QXF5SURXU3RjY1hqandUajlSNEU3Q1hhQmJfNk53ei1ZckNmNWx0VzdacFV2ZUdJVQ?oc=5",
@@ -2209,76 +2281,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-28T00:44:44.486Z",
       "lastSeenAt": "2026-10-28T01:14:48.296Z"
-    },
-    {
-      "title": "NVIDIA to Invest $3B in Meta, Optimize Muse Training and Inference - HPCwire",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZTVxSThxSVNldUtWWjBPM21MeG0yYXhrRTktWC1GcDRqbWpoVG40dnB0UEFnVjBLX1FZNWVBVnRKODRaSWZWT0Y2cTQ4WXE5WmxtSHRrd3ZPa0pOWkRpekZnVEZFbmF2YjYtX1hWRDFFV3FKVTd2T2VXTldSOElIM3F1Vnk4Nkx3QURfSlJkcEhvRnJIMkY5dlVXZXhlSVhBdFJzN3JHTmc2dXc?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 22:36:29 GMT",
-      "summary": "NVIDIA to Invest $3B in Meta, Optimize Muse Training and Inference &nbsp;&nbsp; HPCwire",
-      "outlet": "HPCwire",
-      "outletUrl": "https://www.hpcwire.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "추론",
-        "NVIDIA"
-      ],
-      "issueCategory": "추론",
-      "score": 18,
-      "firstSeenAt": "2026-10-28T00:44:44.486Z",
-      "lastSeenAt": "2026-10-28T18:48:46.253Z"
-    },
-    {
-      "title": "The Four Pillars of Enterprise AI Readiness: Data, Governance, Workflows, and People - HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONExkZktaWGNSLVdYQnZXQmRMb2JzemdnQTV3X2RBSlYzOTZ0U2dPY3Y4U0FJc19yOVFJZ3NKb2pORmFBRnZVdlRrckE5b1dHOGp5MkVicXFNbEVlajRFX1RfdnE4djhnSTZCTzhNclJYWWI4ZVBWZTA0dHNQVlZBU0FhTncxZ0JjVUxIaVJjNEw2WXV3QXZhUXdHSXZoY01TWkY1NWRn?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 22:34:25 GMT",
-      "summary": "The Four Pillars of Enterprise AI Readiness: Data, Governance, Workflows, and People &nbsp;&nbsp; HackerNoon",
-      "outlet": "HackerNoon",
-      "outletUrl": "https://hackernoon.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-28T00:44:44.486Z",
-      "lastSeenAt": "2026-10-28T18:48:46.253Z"
-    },
-    {
-      "title": "I Rebuilt My 2020 AI Startup With Codex in a Few Hours - HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2VqN0hrbnJ4TzVMYkNtemx4bzI1OERoeGl6ZlhkbEFGakYzQm16LWV3MFB0OUtyWnpGa3EtZWdZYWdDalJ0YTZqellNcmR3RHVNdVBLdVBWbG1ubm44V1VsUnV0UmZrWWI2cjV2NlJfRWZHQ2MzNDdOdW9hMElrc0FIYw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 22:33:48 GMT",
-      "summary": "I Rebuilt My 2020 AI Startup With Codex in a Few Hours &nbsp;&nbsp; HackerNoon",
-      "outlet": "HackerNoon",
-      "outletUrl": "https://hackernoon.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-28T00:44:44.486Z",
-      "lastSeenAt": "2026-10-29T05:58:08.944Z"
     }
   ]
 }
