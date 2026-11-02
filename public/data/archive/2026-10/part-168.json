@@ -1,7 +1,124 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T01:28:59.868Z",
+  "updatedAt": "2026-11-02T06:22:37.395Z",
   "articles": [
+    {
+      "title": "ArchAgent: 이기종 시스템 설계를 위한 멀티에이전트 AI 프레임워크 - 뉴스 및 통계 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVd0aVc2Q2lYeWZPR1p2QWg0ekJEQzhVZ2JfNG1QYUpXSV9LZ0N6TGxVVXVMc09LY0U3Yk5wNlQwY1RORVE2alp6WFNXMG96cWVfZEMyOHFvZ3VLMzFjVXlheG0zWDcxcEdjTXFjcGlobWdtWVpXMWVSRmgtZUJrY0hTTXpJX0ltaE1aam5GUnFUNmtBX0R4bEZQLTdJcXg4bHI2MXlrenNMTHhmWVlZT3ZiX3FWejRheVlfc3pNR1QxeVNS?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 16:31:08 GMT",
+      "summary": "ArchAgent: 이기종 시스템 설계를 위한 멀티에이전트 AI 프레임워크 - 뉴스 및 통계 &nbsp;&nbsp; IndexBox",
+      "outlet": "IndexBox",
+      "outletUrl": "https://www.indexbox.io",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-20T01:16:21.351Z",
+      "lastSeenAt": "2026-10-20T05:07:38.533Z"
+    },
+    {
+      "title": "You can now modify the vBIOS on Nvidia gaming GPUs without flashing thanks to a solo developer’s project — provides a UI for quick VBIOS configuration - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQczctcXVzUmNIX1pHdFZJYXczXzN6SzZrNEozMzNVelVYVUJTWXkzbEZqQXdIUkNUODd5OXlVSDFzR2dDMlRrNmZaYmNnbDdSNDdSZ0hfNE1fYlQyTXYyX2p6OHdCTk95SXdDV2JOczUzcFpOY1pLX1dkMlV4dWZuWlUtM1dmTDVqdXFaMW8zN25ycnFPLVZJTFBJNnJxdTgzTThlc1RUMW43ZE1MZjNxaGRmRnAtZXpYREdzQVZKMEJEcFFlWU9XMkVSNXpaREcwMkxtQ3lsZUdUSG9TbVVzUm82QUwtUF9UZnBjQ0hMVWQ4RGY5TnFfczBHdVFlc0lfbXBVdloxQTFYTEdMZDczLWRyLVA?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 16:30:39 GMT",
+      "summary": "You can now modify the vBIOS on Nvidia gaming GPUs without flashing thanks to a solo developer’s project — provides a UI for quick VBIOS configuration &nbsp;&nbsp; Tom's Hardware",
+      "outlet": "Tom's Hardware",
+      "outletUrl": "https://www.tomshardware.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-19T22:38:25.607Z",
+      "lastSeenAt": "2026-10-21T00:07:51.661Z"
+    },
+    {
+      "title": "I was skeptical about Gemini on TVs, but now I'm sold - MakeUseOf",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DaDYwZzNWbF84MUI0OW91SEUzb1JJT0VKUUE5eFhIeURCVFR0VUF4RG1OZnJ2Q2piNjJiMzlWQkRDUHhTd1dOSUNMZGhzeENuM0Vndm9SQ1dWSXBCTDdHZXA2SXhmZy1a?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 16:30:15 GMT",
+      "summary": "I was skeptical about Gemini on TVs, but now I'm sold &nbsp;&nbsp; MakeUseOf",
+      "outlet": "MakeUseOf",
+      "outletUrl": "https://www.makeuseof.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 15,
+      "firstSeenAt": "2026-10-19T22:38:25.607Z",
+      "lastSeenAt": "2026-10-20T05:57:26.312Z"
+    },
+    {
+      "title": "Market Research Report on Chemical Mechanical Planarization (CMP) Slurries for Advanced Packaging - EIN News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFhDTkhhZXpabXhHa3l4T2VnTDZ6YU1HcFRtd2VCa0NsZWxuSU9uak4ycnF3UHd6MURBeVpXZzVWVk41U1RYQkliRHRGZWRyUlhSSDhLbTA4QUdpUVhydnZRYXYtVzVSbzNRNkRkZWhVcHJ1RVczNFNCWURORWJaN0RQTk5MQ0p2d0d6NlNiRzJMbmUwTGdjYUd5RGpXTWhIcHZYd1lUblRlN01BNmhzVXg4dnY1aGN2V0lGbjFHZk5xcjVKdU5OUnM5X09wZGJRSExn?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 16:30:00 GMT",
+      "summary": "Market Research Report on Chemical Mechanical Planarization (CMP) Slurries for Advanced Packaging &nbsp;&nbsp; EIN News",
+      "outlet": "EIN News",
+      "outletUrl": "https://www.einnews.com",
+      "source": "메모리·패키징·인터커넥트",
+      "sourceIds": [
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "파운드리·패키징"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-19T22:38:25.607Z",
+      "lastSeenAt": "2026-10-22T14:06:18.862Z"
+    },
+    {
+      "title": "Cognizant와 Google Cloud, Gemini 프런티어 역량 그룹 출범 - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVBkSDVlYnFBVHF0Yl9CQW9wbko3UEk1TG8tSnNwdlV4NWJMaW9IVTk4TVBfamhhX0ZGblhKaXAzMUFadlE2Umk0bTFTUnRMZC1QMDlkeXpVVFMybmxNS1R2ODctYzJkUldkcmsxRlpfS0hOVDYyMGdpWXZ6a3RESnhxLWRMZ2xOWmJtMEMtUUtGSFdSalE?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 16:29:15 GMT",
+      "summary": "Cognizant와 Google Cloud, Gemini 프런티어 역량 그룹 출범 &nbsp;&nbsp; Unite.AI",
+      "outlet": "Unite.AI",
+      "outletUrl": "https://www.unite.ai",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 23,
+      "firstSeenAt": "2026-10-19T22:38:25.607Z",
+      "lastSeenAt": "2026-10-20T05:57:26.312Z"
+    },
     {
       "title": "Google Cloud, Cognizant expand AI partnership - Breakingthenews.net",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnFGeGtFa2hjR0dmcUxGUTczT0ZESFJPdEdIYWMtSXF6cnVSX0NKMkMtdF9OM1VjN2ZZcklwZldfUElBQ0ZGWVMzRWVYZXFhVV9EaDhVVmJjS01rWXJ6N195WjJKdmU4RkVEc2dtRF9pQkJXSHpta1AzS1JPb2RRaXZySWJ2T1EtSEVvX1ZrYVlndDA?oc=5",
@@ -2158,119 +2275,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-19T22:38:25.607Z",
       "lastSeenAt": "2026-10-20T01:16:21.351Z"
-    },
-    {
-      "title": "\"테더, AI 반도체 기업 텐스토렌트 15억달러 투자 라운드 참여\" - 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lR1JodEFzOHgwY05FZXBMQ1BBSmI1M29GZzlHejg0RUlLNklibHU2T0FtWEFwUTQ5YzNQeUs0SE1xajZhQnNWNXkxMEZ1NmdE?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 14:55:05 GMT",
-      "summary": "\"테더, AI 반도체 기업 텐스토렌트 15억달러 투자 라운드 참여\" &nbsp;&nbsp; 블루밍비트",
-      "outlet": "블루밍비트",
-      "outletUrl": "https://bloomingbit.io",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy",
-        "ai-chip-public-program"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-20T05:57:26.312Z"
-    },
-    {
-      "title": "Opportunity for Better AI Adoption - Logistics Business",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1JheTVLbEpZc19FcGJCZXA3dVplUW9uUlhOQmtfV1dYUmg4YW8tWE5XeFEtaVBCQml2cDRFbmlOQzJwUG5mampYb0J5ZndEa29iMzZPRWNMd19WU2c5ekR4RVlmQjJNaDk4emNCUXQ2OF9kazZadVUtYUpMcFFyZTVweml1NFNTdFh4ZA?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 14:53:50 GMT",
-      "summary": "Opportunity for Better AI Adoption &nbsp;&nbsp; Logistics Business",
-      "outlet": "Logistics Business",
-      "outletUrl": "https://logisticsbusiness.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global",
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-20T12:11:50.172Z"
-    },
-    {
-      "title": "Nasdaq Jumps 259 Points to 26,399 as Intel Surges 5.5% and AI Stocks Rebound After Brutal Selloff - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLQ2JHTVBaNnk2RnRRajFLeTZ3UEtrN0dzZmJELTZaOG9kbEpuNzAxYnZaZm9uNkdOSlJSTkViMzdQazc2R3F5WVphOG1yTEN1NWFjZnJuS0FZWVBibVhzYU4xVFBZSnVnVTNKbWVMWHBMZ2U2?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 14:53:14 GMT",
-      "summary": "Nasdaq Jumps 259 Points to 26,399 as Intel Surges 5.5% and AI Stocks Rebound After Brutal Selloff &nbsp;&nbsp; HDFC Sky",
-      "outlet": "HDFC Sky",
-      "outletUrl": "https://hdfcsky.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-20T05:57:26.312Z"
-    },
-    {
-      "title": "PS6 Could Cost Over $1,000 as AI Demand Drives Component Costs Higher - Gadget Review",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTdNRm1MQVFHTUo0X2JyQm12VkcwbEM0eTJ0MVY0eml1anBuX2FyQ1FVSHNsbUVVZTk3c09sNzV3aXl6NzRRUUszdmYzWlhiNm1FcVBVSm9VMHMtQXNjSExGdEQxakxHWHlhVTV3TEFCd1I3d0hVZGF5Q0lOT2hmSFB4QXdjbEhnV3RXdkZIdUl6YUdqa0RVZ3RYZW8?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 14:52:52 GMT",
-      "summary": "PS6 Could Cost Over $1,000 as AI Demand Drives Component Costs Higher &nbsp;&nbsp; Gadget Review",
-      "outlet": "Gadget Review",
-      "outletUrl": "https://www.gadgetreview.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-20T05:57:26.312Z"
-    },
-    {
-      "title": "Accenture Federal Services and Google Public Sector Deploy Gemini Launchpads for Federal AI Agents - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSk02VFZISXBnTmtkQkhoeEVCMU4xcFFzTGRGSHBKc2hTM25sbVZxS3FnVTgyV1BIdHVTZ1JWWXZfLVRiaVlUam8xSjZxWkVua3NKUFBzTE9KeTBRSElFSGpmMl90YzlKczR5aVhKRmdSZlkxR3hmVGl2b3A1TWlDNllab090OHZwZkNrMktfdlFBZ1RXUjlnb2JKU2JrVmxNekF6ZXFFZw?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 14:52:28 GMT",
-      "summary": "Accenture Federal Services and Google Public Sector Deploy Gemini Launchpads for Federal AI Agents &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "Google"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-20T05:57:26.312Z"
     }
   ]
 }

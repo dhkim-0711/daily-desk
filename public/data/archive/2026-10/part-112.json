@@ -1,7 +1,120 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T01:28:59.868Z",
+  "updatedAt": "2026-11-02T06:22:37.395Z",
   "articles": [
+    {
+      "title": "데이터빈, 해수냉각 AI 데이터센터 개발 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qbExEUDl3ZDZqVl9Vc0JETEF2eFh6Ti0wTWZVdm9OWTZtaVhlVDNyaHprUzcwREk0aTFpYk9CUHZHbmJJU3BXTjlHOGR3bGVFODJVMERfUy1mT0I0dk1BZlFNWlM3SERCZThF?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 22:39:00 GMT",
+      "summary": "데이터빈, 해수냉각 AI 데이터센터 개발 &nbsp;&nbsp; 한스경제",
+      "outlet": "한스경제",
+      "outletUrl": "http://www.hansbiz.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-23T00:36:22.880Z",
+      "lastSeenAt": "2026-10-23T13:48:54.332Z"
+    },
+    {
+      "title": "TrueSource by Broadcom Delivers Remediated PHP Software in Under 60 Minutes - Broadcom",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbmRDNmo4OGV1ZDFxa1pvZmxpbVB5TEk1d3FBMkxLLUl5YXBFaENhSndKa05JZGdIU1RrZVo1STczZU5TNDhCaWVWVXpwTDhxRFBJQjl5RUpxMkc5X3VidzdNSFZYYlNxSzA5LTFHYy1iUHltRnY2Q2pibVBmaGdBS3FEbVp3WlF3eW9Id3U3MW8xT090eEpJamdtWUh0bG1iT0F6ZDFQLU5abmhNUFVIc2plYXhVTm0zS0txbFBCM0h1NHNXeWZGbUwxMA?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 22:37:59 GMT",
+      "summary": "TrueSource by Broadcom Delivers Remediated PHP Software in Under 60 Minutes &nbsp;&nbsp; Broadcom",
+      "outlet": "Broadcom",
+      "outletUrl": "https://www.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-10-22T22:45:34.762Z",
+      "lastSeenAt": "2026-10-25T17:02:39.149Z"
+    },
+    {
+      "title": "엔비디아 젠슨 황, 메모리 공급 과잉 우려에 \"많으면 좋다\" - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1UtU1pQdGFNdmFQTnpOTFdxandzMVVjbmpUUXR6YTFJNGo4bXdvRFgxVGVDSUd0c3FTTFdoQmFGS3Zic0gyY2xfLWRmblVSLXo1Yi1tY3Bkdw?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 22:32:04 GMT",
+      "summary": "엔비디아 젠슨 황, 메모리 공급 과잉 우려에 \"많으면 좋다\" &nbsp;&nbsp; 파이낸셜뉴스",
+      "outlet": "파이낸셜뉴스",
+      "outletUrl": "https://www.fnnews.com",
+      "source": "글로벌 기업·한국 반도체 협력",
+      "sourceIds": [
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-25T04:53:28.405Z",
+      "lastSeenAt": "2026-10-25T17:02:39.149Z"
+    },
+    {
+      "title": "Search Journey Optimization with Gemini: From Query Fan-Out to Grounded Decisions (Part 1 of 7) - HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmJvZG52dmxUVi1Dbm9ZdDh5NHJxczNvVUQyOUlIMjlKQ0hvQUUyVUl0aExmMGZUS3VVZTJWazJHV21uR3Q4OHFRSnF5RjBBeVp0cnQtY1VwTjJlUENVSFdraFRFVGdYUEN3OGpseU43T3hVNWpUWmNPV2lSQmNBTTlWM3Jlc2FlNkVxWkhTOGpJcjV2NFVqcUYtWlVwOHBSMk5OUkhTYTFJZlo0N28zemlpVGJhZw?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 22:31:43 GMT",
+      "summary": "Search Journey Optimization with Gemini: From Query Fan-Out to Grounded Decisions (Part 1 of 7) &nbsp;&nbsp; HackerNoon",
+      "outlet": "HackerNoon",
+      "outletUrl": "https://hackernoon.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 15,
+      "firstSeenAt": "2026-10-23T12:35:23.942Z",
+      "lastSeenAt": "2026-10-23T12:35:23.942Z"
+    },
+    {
+      "title": "Your Language Changes Who AI Search Cites - HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tdC1RNGpLMkZfZWw3SzV2c3VKbU10ZnVJdVBSalhtWEtrSzJ1eS1ScUtXRGw0T3gyXzRPVk9xWmlzdGFWa2tEdnp3cEtkNTIzelQxVkFyTWtCS195MXJ0WTdFaTJwWjRhVVNBOWpqMlg5QQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 22:31:43 GMT",
+      "summary": "Your Language Changes Who AI Search Cites &nbsp;&nbsp; HackerNoon",
+      "outlet": "HackerNoon",
+      "outletUrl": "https://hackernoon.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-22T22:45:34.762Z",
+      "lastSeenAt": "2026-10-25T06:00:10.063Z"
+    },
     {
       "title": "메타發 AI 쇼크…나스닥 2.6% 급락, SK하이닉스 ADR 8% 폭락 - ABC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40Z2hIdS0yc1ZVekQtUDNIWHU0T293ckh5Y1RGZDBSeHlvYzNJZmo0bnFVeDI2LUJHLWd0bXF3OG1Zc3Raa2FkZlVhaFkxZ0FGY3hoSGZoS3JneDk2eTEtelJNZ2VraFXSAWdBVV95cUxONGdoSHUtMnNWVXpELVAzSFh1NE9vd3JIeWNURmQwUnh5b2MzSWZqNG5xVXgyNi1CRy1ndG1xdzhtWXN0WmthZGZVYWhZMWdBRmN4aEhmaEtyZ3g5NnkxLXpSTWdla2hV?oc=5",
@@ -2098,120 +2211,6 @@
       "score": 6,
       "firstSeenAt": "2026-10-25T12:32:15.609Z",
       "lastSeenAt": "2026-10-25T17:02:39.149Z"
-    },
-    {
-      "title": "MP Semiconductor Summit 2026 Begins In Indore On October 23, CM Mohan Yadav To Inaugurate Event - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONzNKNktPeGdhOUU5c1VPZW9PeGNGTWZJRG8yc05qVzg1ejNYdlIwbE12OFZtUUJIX3hLZy1wMlNPVXphaXExQjNVa21zTnRxX0ZDT09ZZi1PRV9DcG1lNElnTEtSYnJUWlgxVHpQYWdyMUsyRS1sVnpnRFZHQVdWczlIVjBld1ZyTTR1andVYjZnb2JHNVVfNFlPemlnMU9oLUV3anhDT1Zya3Nka2dURWVTODN5bENqZ1VxTlI0Y1pydnJqOXZhOTNMcFJ5QmY5WlM40gHTAUFVX3lxTE43M0o2S094Z2E5RTlzVU9lb094Y0ZNZklEbzJzTmpXODV6M1h2UjBsTXY4Vm1RQkhfeEtnLXAyU09VemFpcTFCM1VrbXNOdHFfRkNPT1lmLU9FX0NwbWU0SWdMS1JiclRaWDFUelBhZ3IxSzJFLWxWemdEVkdBV1ZzOUhWMGV3VnJNNHVqd1ViNmdvYkc1VV80WU96aWcxT2gtRXdqeENPVnJrc2RrZ1RFZVM4M3lsQ2pnVXFOUjRjWnJ2cmo5dmE5M0xwUnlCZjlaUzg?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 20:22:00 GMT",
-      "summary": "MP Semiconductor Summit 2026 Begins In Indore On October 23, CM Mohan Yadav To Inaugurate Event &nbsp;&nbsp; Free Press Journal",
-      "outlet": "Free Press Journal",
-      "outletUrl": "https://www.freepressjournal.in",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 6,
-      "firstSeenAt": "2026-10-25T17:02:39.149Z",
-      "lastSeenAt": "2026-10-25T17:02:39.149Z"
-    },
-    {
-      "title": "Ackman and Schmidt back secretive Israeli AI startup Two Delta in seed round - Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekZCdnBCYkhKYm5vbm0yTnh4T0gyRkd3a3MzUm1WaGJ4bF8zMEN4Q1pMcUo2TEZVOWsyTk1vRDM0akZ0QlAwOWdTRlAySmFJRWluLXB5ZUZhSGgxdjdtbWxXYkt2YlFBOG5yWGtaUkNiWFFmX2hkc2ZWdkxkNHZKSEhSR3RETjQ2Z05MN091T2N3RlZST1pLU0hCZ25DbWtlbG1HUFdDRjNfVW9rZEdF?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 20:17:32 GMT",
-      "summary": "Ackman and Schmidt back secretive Israeli AI startup Two Delta in seed round &nbsp;&nbsp; Dealroom",
-      "outlet": "Dealroom",
-      "outletUrl": "https://app.dealroom.co",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T22:45:34.762Z",
-      "lastSeenAt": "2026-10-25T17:02:39.149Z"
-    },
-    {
-      "title": "Which AMD GPU Is The Closest Equivalent To The Nvidia RTX 5070? - BGR",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44T1BZZ1FBNFB3RDkxRkgxN2tVVXJlclJKaFRoRk43dkpiRlppd3JNVlhuS3RzTUdsVlFHWFJrOHRTUkxVTkJSb2N1aWNYS1BQNUVBV1FfZlJrVHdQMVdBZzduLVRheWZ4c1kzWC1aRFZQcnM5ZkZWNnZiWGtPenM?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 20:17:00 GMT",
-      "summary": "Which AMD GPU Is The Closest Equivalent To The Nvidia RTX 5070? &nbsp;&nbsp; BGR",
-      "outlet": "BGR",
-      "outletUrl": "https://www.bgr.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA",
-        "AMD"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 24,
-      "firstSeenAt": "2026-10-22T22:45:34.762Z",
-      "lastSeenAt": "2026-10-23T13:48:54.332Z"
-    },
-    {
-      "title": "NVIDIA Pours $171.5 Billion into NeoCloud Amid Financial Concerns - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS19qQ1RVbDRFVW5NTHJqeVlQSUU4TTZRU3hHM0hqTFVZZ1hTQmswNDlsRTU1VGRCRXJCUDFkRU9mUlJ5elY4U2ljaE9RM0JlOHNCRDNCZk9GREJNb3dXbWdIM2ozdkpHcFBFVXFVZXdYSlNrc3N2NEpmUjVjZ1NzSVlmNG9IYklE?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 20:15:58 GMT",
-      "summary": "NVIDIA Pours $171.5 Billion into NeoCloud Amid Financial Concerns &nbsp;&nbsp; 조선일보",
-      "outlet": "조선일보",
-      "outletUrl": "https://www.chosun.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 18,
-      "firstSeenAt": "2026-10-23T05:01:32.260Z",
-      "lastSeenAt": "2026-10-23T07:56:19.361Z"
-    },
-    {
-      "title": "Can Legrand (ENXTPA:LR) Hold A Discount As AI Demand Grows? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRE90QjBGOEJBZEtlejh0c3ZyVkt0T1NlQ0RSRzNpOFpReFIzUG0zdHlDdHpNSjNFTVVTNHVlMW5KWEpYdHB2SFRCVm1BeVd5TzlNdTBQNmZsZXBiQXFqS29qQ0F3YkJTX1BhbE05bUpVM0ZwcGdQWEpBMUc1TWFpU083RFFhQml5cUVqdlljRnZ1cWllZ1ZUaEh2TGQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 20:15:29 GMT",
-      "summary": "Can Legrand (ENXTPA:LR) Hold A Discount As AI Demand Grows? &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T22:45:34.762Z",
-      "lastSeenAt": "2026-10-23T13:48:54.332Z"
     }
   ]
 }

@@ -1,7 +1,121 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T01:28:59.868Z",
+  "updatedAt": "2026-11-02T06:22:37.395Z",
   "articles": [
+    {
+      "title": "Microsoft unveils Surface Laptop Ultra with Nvidia AI - Tech in Asia",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFlPTXJfWTBXSDNZWXpZSUJmcTJmTGlzT1lTVzBRVWtkX0V1MUFobjRUZ2JLNlZPcjZPNVdwUWI1Vm11STNUeUJ5NXFhWjJsRUtOS3pKZE1iQzFWWnRKX3g1Y056dkxhTUp5WXh1SWtEenpzeHVtNFJpSDJWdy1VRXM5VW4wRHM?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 00:19:00 GMT",
+      "summary": "Microsoft unveils Surface Laptop Ultra with Nvidia AI &nbsp;&nbsp; Tech in Asia",
+      "outlet": "Tech in Asia",
+      "outletUrl": "https://www.techinasia.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-08T06:27:57.646Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
+    {
+      "title": "Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbEk1VWd6YkZXNHhUNEpteFpUUFNoREFZWkR0SFR0VmdPc0xnQXJ5aHRNOF9TQmJ1TC1FcmlsRmkwOFNtX3NrekIzYkJtRU1FUnF3WHV2VzBhUmthQXN5STdJWm1CUUhKYnhnVlRsbEhISl9KQWcxWWF2akZ1R1kzT1VNQ2tYNG5KaVMzODVadHloNWY3cVo5Rzh5S25DVGVndFhLT0NaelZTRU1iOWlNazZqQW5sUQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 00:19:00 GMT",
+      "summary": "Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom &nbsp;&nbsp; Nikkei Asia",
+      "outlet": "Nikkei Asia",
+      "outletUrl": "https://asia.nikkei.com",
+      "source": "해외 AI반도체",
+      "sourceIds": [
+        "global-ai-chip"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Samsung"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 17,
+      "firstSeenAt": "2026-10-08T06:27:57.646Z",
+      "lastSeenAt": "2026-10-11T02:11:15.043Z"
+    },
+    {
+      "title": "하이엠솔루텍, AI 데이터센터 냉각 관리 확대…액체냉각도 맡는다 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WWUUzV3ltVGxZdUFvZkJnM3dHRmNSMFR6ZzZFamM1OXB5U0ZUcGcwMnF4UUY3ZHJyMjNwLXVCRk1jZVF5ZU1TQW5tdW5XZ29fRk9FbVh4LWNBUWs3dmUwUkFzcHFzaHdmMzkzM0ZNWWVfdnM?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 00:18:58 GMT",
+      "summary": "하이엠솔루텍, AI 데이터센터 냉각 관리 확대…액체냉각도 맡는다 &nbsp;&nbsp; 마켓인",
+      "outlet": "마켓인",
+      "outletUrl": "https://marketin.edaily.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-08T01:51:37.240Z",
+      "lastSeenAt": "2026-10-10T17:48:08.857Z"
+    },
+    {
+      "title": "▒종합 경제정보 미디어 - 이데일리IR▒ - ir.edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1ajhBQjlRUkd3SWJFYlBET0pPRUdSNEw4SDNBWmNaSGRHRzc3Y3NSbDlKdEhnYjZPV2FBYXZRdUlhbHRMVnA1cFBWYkw4ZmZQeWtEZ2xoOWhOeVhXZmQzTndLWQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 00:18:58 GMT",
+      "summary": "▒종합 경제정보 미디어 - 이데일리IR▒ &nbsp;&nbsp; ir.edaily.co.kr",
+      "outlet": "ir.edaily.co.kr",
+      "outletUrl": "https://ir.edaily.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure",
+        "korea-ai-policy",
+        "korea-global-ai-companies",
+        "korea-global-chip-cooperation",
+        "korea-npu",
+        "mobilint-broad",
+        "mobilint"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-08T06:27:57.646Z",
+      "lastSeenAt": "2026-10-28T18:48:46.253Z"
+    },
+    {
+      "title": "게임 구성 요소를 짧게 소개하는 40 메가 클로버 슬롯 무료 정보 카드 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQci1iWkFwdUxRbVpXQ19IUzQzaVlIcWJDUUlJNktDc0llamR0U29YakpaMTBUU2JuT0RheG80cEM3YnVTaDBWX3Q3VWFab2dscVR0SlZJc3Azc2xUNVhtTlU3XzVQdWhzZjBrLXhHZDk2NWNFVHNsQkZKVEJpM1NzVkhkd3NqTzJscEZkc0tQaWdwUERYTWFNRXJqR1F4U1lCeUtBckEybUtSd19mX3NtT1E3UFJVY1I0?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 00:18:22 GMT",
+      "summary": "게임 구성 요소를 짧게 소개하는 40 메가 클로버 슬롯 무료 정보 카드 &nbsp;&nbsp; Calgary Roughnecks",
+      "outlet": "Calgary Roughnecks",
+      "outletUrl": "https://www.calgaryroughnecks.com",
+      "source": "AI반도체 시장·수급",
+      "sourceIds": [
+        "ai-chip-capital-market-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-08T06:27:57.646Z",
+      "lastSeenAt": "2026-10-10T10:33:34.677Z"
+    },
     {
       "title": "Musk’s SpaceX is negotiating a $40 billion loan for Nvidia chips - Українські Національні Новини (УНН)",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVXVmZDJuc2t3MGsxNHRsclJhT1BDdGttTXgxekpNQ3pwRzFvNEZWTE1kQjVxV0tPOHhwejJnd3hkbVlnMFVySlhSRW1RbThTVkhlWE1CbmJrUk9QMUFMQkhEOUFmSDZVNG43OTV4Nl9NT2pfeWREZDItUjFjaFloNTJZTXFHQzNBV25EOEhBRFlaaDV1U2fSAZQBQVVfeXFMTmQtaTN6TFViUmZ1bDlNbGluc1JzaWN2emZEaWRwOWRfVU5ldFo0bEZESWxEQWNQZjJvLW1ubVUxQkROVnh1cXBRRFZXSlh1bmdGbllZNVNyM19JTVZwa2s0Z1hzOVQ2dnU1S2xnX1BxcWpMR3dGVkdFX2tfTzBacTNwRVR1VkFzUkZzR3JPd3NSSkhNeQ?oc=5",
@@ -2156,110 +2270,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-07T11:00:30.069Z",
       "lastSeenAt": "2026-10-08T22:27:18.434Z"
-    },
-    {
-      "title": "Arista steps up its Ethernet challenge to Nvidia’s AI scale-up networking fabric - Network World",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmxKYjRuMEdyaWczZ1p3Tm9xUlFvVFpKMER6VXhqQWREckF5T3JOY1NLU1NhNndWeE5IdlBpTFFXQUtJUW1BTnJ6cFFNMEIzaHh4bTNOWDBpUVRvQW1hXzNLTVVnRHFaTXZpWF9qOUZ5TVEyeU5GOW1PWm1xQUlBVUFvSlQtaG1TbS1BdWZUY0pUalVOcl9Fc2l1S0VwTm5BRElPNG9WblBVSXI0SXp4UmFOa1Mtc2FvWkdVZTVtU2REVGVOWlBXQQ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 22:46:11 GMT",
-      "summary": "Arista steps up its Ethernet challenge to Nvidia’s AI scale-up networking fabric &nbsp;&nbsp; Network World",
-      "outlet": "Network World",
-      "outletUrl": "https://www.networkworld.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-08T01:51:37.240Z",
-      "lastSeenAt": "2026-10-08T19:15:39.537Z"
-    },
-    {
-      "title": "보너스 유형에 따라 달라지는 바카라 8 연패 확률 화면 구성 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14d2FwQ0NOVVpZSjV0TndsS05pQ0lRb0xuUjNjZVVlQ1FZVkg3ZVlLTG9nUE9aRWZfeU1TdHRZNGdVYl9UQ2wyTnh4ZzNhLVFlcDAtelI2aXItSWtKRVlMQnhzcklNdw?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 22:44:53 GMT",
-      "summary": "보너스 유형에 따라 달라지는 바카라 8 연패 확률 화면 구성 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://www.calgaryroughnecks.com",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 6,
-      "firstSeenAt": "2026-10-10T07:44:52.668Z",
-      "lastSeenAt": "2026-10-10T17:48:08.857Z"
-    },
-    {
-      "title": "규칙을 읽다가 막히는 부분, 파워볼 당첨 금액 용어 풀이 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnpXVE1SVk4tcHc1ay1tLUdLS2R6b01HZG55VHJRMkQxSURVZHNKRHR2eXBfSkU2MTJYeGp4NTlOUEtaa2ZsVUtSdFBjb3BHNVIyR0lOT21NU1ZmUEd1OFV5ZDBqRDlJYURQbDY3bXBhMFZ0NmUxbDVmSlowUi05TmVfU1FvREx2NVpIQU9YNTNzVGJLQm5kMHRtNVZXV281bkxmR2Z1YXNkbmNwZkV1UXppUGhUZzR3SXc?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 22:44:09 GMT",
-      "summary": "규칙을 읽다가 막히는 부분, 파워볼 당첨 금액 용어 풀이 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "하이퍼엑셀 확장",
-      "sourceIds": [
-        "hyperaccel-broad"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-09T18:46:22.187Z"
-    },
-    {
-      "title": "게임 설명의 그림이 궁금한 분을 위한 do casinos close on thanksgiving - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UYUQ4cTJMRDZwTktPZUJzQmdRc1laNmZreWFiNlIyMUYtMXBaMTN0MnFKc0REU2EyUzdhU1hQYWlhUnc5Zkp0NzRJai1kaWZ5MDluWU05STJoZVMwZnM5TW1JcTluV0xhaU5ndG1sQQ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 22:43:35 GMT",
-      "summary": "게임 설명의 그림이 궁금한 분을 위한 do casinos close on thanksgiving &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "모빌린트 확장",
-      "sourceIds": [
-        "mobilint-broad"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-09T11:16:32.130Z"
-    },
-    {
-      "title": "마이크론, 넷리스트에 6억 달러 지급…HBM 특허 분쟁 종결 - 비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xQUx2bXR2Vk1POWdmZFg4TzBxZktXSFNKOV9wV25QY0FScHBIQnJOeXBzY3NQbFNJbTQtTW5QU0k2bE5Za2lmV2JtZzRZT2Q2dTBNLVJPZEVWQ1JITnRzMzRWNmYxU1p1V2c?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 22:43:00 GMT",
-      "summary": "마이크론, 넷리스트에 6억 달러 지급…HBM 특허 분쟁 종결 &nbsp;&nbsp; 비즈월드",
-      "outlet": "비즈월드",
-      "outletUrl": "http://www.bizwnews.com",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-08T01:51:37.240Z",
-      "lastSeenAt": "2026-10-10T17:48:08.857Z"
     }
   ]
 }

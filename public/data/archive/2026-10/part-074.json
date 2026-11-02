@@ -1,7 +1,120 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T01:28:59.868Z",
+  "updatedAt": "2026-11-02T06:22:37.395Z",
   "articles": [
+    {
+      "title": "Cloudflare, GLM-5.3 버그로 테넌트 세션 간 응답 155건 유출됐다고 밝혀 - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWtUeTZEZkh1RWhRYS1WcTJoM0w2QXBvMEZYbkYxUzEyakF6QVU4LVNIU3ZrcWdwSDQ4Z2Z2UmxrczV2MFU5S1NqM3JPazlraHlUemN6YXF6cWNhM0lHZF9oNnROSlFCT3FpQXd0emNzVXp1T1BnQm9jbTYzRWFFSDJzN29QWW5RbUZsaWVkZG1qZzBYTF9oaVlENHA?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 23:10:08 GMT",
+      "summary": "Cloudflare, GLM-5.3 버그로 테넌트 세션 간 응답 155건 유출됐다고 밝혀 &nbsp;&nbsp; Unite.AI",
+      "outlet": "Unite.AI",
+      "outletUrl": "https://www.unite.ai",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 15,
+      "firstSeenAt": "2026-10-28T07:24:09.373Z",
+      "lastSeenAt": "2026-10-28T07:24:09.373Z"
+    },
+    {
+      "title": "\"전기차 넘어 AI 전력망으로\"… 2035년 2차전지 시장 3,172억 달러 급성장 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42cGF5blhqLVJBVGxZR0NvTW5nRS0wMlk4WlFLekM3cWdZcE9qcFJwSXJPX2RxdHFVSl9qT011YVJuRThTcHdDbDAtblE3S1ljRGJVaGZ6a0RLSkllZWFHVDFhOUd6d1RBLXVtbVV2ZExBSVZw?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 23:09:32 GMT",
+      "summary": "\"전기차 넘어 AI 전력망으로\"… 2035년 2차전지 시장 3,172억 달러 급성장 &nbsp;&nbsp; 글로벌이코노믹",
+      "outlet": "글로벌이코노믹",
+      "outletUrl": "https://www.g-enews.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-27T01:26:41.178Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "Microsoft offers 60,000 employees voluntary buyouts as AI spending accelerates - KALB | News Channel 5",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHlxUEM1UzBfdU92QnRxbXZQUGtnampJN0YxdVRIcHdkWlVmV0NGbW5VM0w2ZkY1X1JSQmpmNWJuSzdHOFBBTmdZejVDUVhXaVJ5U3ZMVzVuTXI0ZEYwLXZOYWFXMHRjdmc1cS1NZGc1VUxKZFc5c1lUR3JhUThxS19SMWRtUTNyTnl2MlVQOVhncGVPbTRqNFE4cTRNQUpjUFFWd0QzMmRRSUHSAb8BQVVfeXFMTUxMMVNlRVlScTRqUWVSTi1RNnFMVU96Z2ZMamFxMU1Kb0VEQlZ4ZjZzNkFUYzFzSTM2SlRkc294cF9XYUdQM1lzR1FNdVBwSkVWbzhuVEZBdm56Zk1xODI3ajhIQVZPVHUwdjFfZm5jX3k5X0tmTEMyNzZRY0RnalNfS0FuLWVoQi1Pc210VndtdDhxOFRLUXVQTGh6NEpSV0dTV2tTOHlpLXc2aERFc3lnamlyNDlhTU1Ycl9RTlU?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 23:08:00 GMT",
+      "summary": "Microsoft offers 60,000 employees voluntary buyouts as AI spending accelerates &nbsp;&nbsp; KALB | News Channel 5",
+      "outlet": "KALB | News Channel 5",
+      "outletUrl": "https://www.kalb.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-27T01:26:41.178Z",
+      "lastSeenAt": "2026-10-28T14:31:16.707Z"
+    },
+    {
+      "title": "BT TO PIONEER LIVE AI-RAN DEPLOYMENT IN THE UK WITH NVIDIA AND NOKIA - BT Group",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWlMbmNvdXhMaE5Xb3BnWXNYdDFmQmRiVERjRkljX2dDdnA4dDkzM1VtZGFiM2J5QzFRalZCeUtZYWRfcHFLY0NKdk9VanZvR1BreFlyY1RPT1l2YU1qUENSbzl5U3FQdVpnNk82eW1kRmlOUlhpMV9HaWdfY1NOZ0RUaDVLTGF5dHhWZkJ4RW9VNFFkMUQ2QmpYQVk2cTE5?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 23:06:40 GMT",
+      "summary": "BT TO PIONEER LIVE AI-RAN DEPLOYMENT IN THE UK WITH NVIDIA AND NOKIA &nbsp;&nbsp; BT Group",
+      "outlet": "BT Group",
+      "outletUrl": "https://www.bt.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "실증·조달"
+      ],
+      "issueCategory": "실증·조달",
+      "score": 23,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-31T10:19:27.588Z"
+    },
+    {
+      "title": "Comau integrates Nvidia technology to accelerate development of AI-powered robots - Robotics & Automation News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHhkeUE5djllRk9yaGhBbVpJR1ZJNFhSMUZBV3pobE1KRFhtWkgwVVpuQ2ZsX1p2Sk4xd1c3MDBqdldlaU9JY1puVkI2VHVDcTlYcGs1VEVjNjV0bWlZeVpUNjg4cFVURTd6NUw3TWZ0eVNZZHE3eVJLZ0FSblZRTWduZW5nNUhHSFhZMFlnWkItYzNRTm5qbkN1SFEtU04tcVlYdVpLUlVBR0JwVmVSeF94eWE0OHdNX0o3WUlDQmFZQ1BvRTNtNWhNclIyREwzaDhSQw?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 23:06:30 GMT",
+      "summary": "Comau integrates Nvidia technology to accelerate development of AI-powered robots &nbsp;&nbsp; Robotics & Automation News",
+      "outlet": "Robotics & Automation News",
+      "outletUrl": "https://roboticsandautomationnews.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-27T00:04:50.261Z",
+      "lastSeenAt": "2026-10-27T15:51:29.490Z"
+    },
     {
       "title": "미국 반도체주 일제히 환호성…엔비디아·마이크론 오르고 AXT 8% '불기둥' - 핀포인트뉴스",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lb0Z1NXo1eTJUTVduV2RHUTVNSUxBUUR1T3paa2lhbGRxU1c3RTk2cnhLTm5hWWxIbmJEMU5pRENXN182enhudlhPNjE1bUgwWWVRY19mQWNJV2JrZVJQVjRNSXg4bFoxWEFsNlltT2ZSY1nSAXdBVV95cUxOaENFMGRHTDRRb0tZcnU1cXpnTVZXUGk4ZHpCZmR2YUZCdGh6cFJnNm9DX1QxRkJCRHF1eFBLV0FJUGhqd3BUXzhtYlZBdlJxdlh4eE02UV9ZMEI2LW5kTndPdlFKbW94am8zQWlPb2dHNmhtYjNabw?oc=5",
@@ -2134,119 +2247,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-27T05:15:11.997Z",
       "lastSeenAt": "2026-10-27T10:59:25.232Z"
-    },
-    {
-      "title": "NTT Data Expands AI Factories With Cisco To Take Enterprise AI From Pilot To Production: Exclusive - CRN",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOFFxcFhFNTZJeVdrZW5XdXFrR2RfSUY4RjdSVHZobF95NkMwa3hKMGplVG1Vald5WGd1WjIycjEtWmtKOHVpelFmNFdIbnVWdWFYMi1McmZlVVFXcUlhekVfWXVoYlpxUGM1dGNFSWEwa0hFQk9jUU1rN0VnOHFuQUZrbWRqZUMxNEhNZ25XaTRkdEZUa0E5MktkUzBmS3hUQXMtT1FRbnZCZkR2YVBOUnJLS0hOYnY4eVBUTklaaTdSUzctdlhnanZDSnhIWFp3VENXdw?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 21:24:27 GMT",
-      "summary": "NTT Data Expands AI Factories With Cisco To Take Enterprise AI From Pilot To Production: Exclusive &nbsp;&nbsp; CRN",
-      "outlet": "CRN",
-      "outletUrl": "https://www.crn.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "실증·조달"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-27T00:04:50.261Z",
-      "lastSeenAt": "2026-10-28T14:31:16.707Z"
-    },
-    {
-      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjV4MjBtaXZzVGU2M0ZiQU14UmItU0pvNGdxTUhfVkpLT1U1T2pjOVhYTHI1ZmpqdUhTSkp6RVduUlV3Q2tuX29DOHFVN1FzUGJQX0plOGNkNUwxNDEwS3ZTaE1BS0RtOFdCZ2pWb2lfNG5pd0k0dmgxcEFOT2dqSl8weEVzY3U4UjRPYWNUUE1HV2VzZVZEeHdTVzFrNGh5Q3U3UHg2VjRFaEk4ckhNLUp6TmFXOF9VSTFqN0NPSEdnR0g1WjROTW9OdFJQRWJ4LWdlbg?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 21:23:32 GMT",
-      "summary": "Injective launches onchain futures market tracking Nvidia GPU rental costs &nbsp;&nbsp; TradingView",
-      "outlet": "TradingView",
-      "outletUrl": "https://www.tradingview.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-27T00:04:50.261Z",
-      "lastSeenAt": "2026-10-27T15:51:29.490Z"
-    },
-    {
-      "title": "Microsoft Offers Buyouts Amid AI Spending Push - RTTNews",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMzlJSmgwaU00ZDFIbmhTSDBNMlNZSW5vT1JOanNHcTUwSHU2YTJOaW05anpkRmFxR3NmVk0wMUpTc0RQSmJ1dVVDR28tZTAwVGgycjR0ckw2NVF0bk1WMUVWNmZzQ21jNmZodS01ejJ4X3FfN096R0xVTXZjMWtJOG5pYi05NWtQRXh5cUdRd0k?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 21:20:43 GMT",
-      "summary": "Microsoft Offers Buyouts Amid AI Spending Push &nbsp;&nbsp; RTTNews",
-      "outlet": "RTTNews",
-      "outletUrl": "https://www.rttnews.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-27T01:26:41.178Z",
-      "lastSeenAt": "2026-10-27T05:23:50.475Z"
-    },
-    {
-      "title": "디지털 금융 허브 도약…전북도, 핀테크지원센터 문 열었다 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wSmlQWXdCMnNYY1ZLQ1JJS1RZc3FkOWI4emNqOF9VMWZranZ1ZF9Vc0ozMUdrcDlYbTZQYy1Bemk4N1B3MkFLZ05aMGlPVDhHcS10Ui1lMEVVS1ZnaUtuTDZUN3YydldBemxWbS1fTDVSc0Ey?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 21:20:00 GMT",
-      "summary": "디지털 금융 허브 도약…전북도, 핀테크지원센터 문 열었다 &nbsp;&nbsp; 이투데이",
-      "outlet": "이투데이",
-      "outletUrl": "https://www.etoday.co.kr",
-      "source": "지역 AI·반도체 산업금융",
-      "sourceIds": [
-        "regional-industry-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-27T00:04:50.261Z",
-      "lastSeenAt": "2026-10-29T05:58:08.944Z"
-    },
-    {
-      "title": "브로드컴, 개장 전 3% 이상 상승: 월가 은행들과 블랙스톤, 앤트로픽의 브로드컴 AI 칩 구매 지원 위해 630억 달러 자금 지원 파트너십 체결 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbTE1RHdTU3c2RTJiNVBrRS1raUc1cTNGcnNxaFZGU3VVVlV4N1ZNUG41LWRBY3Yzc2xrYlpHNlpUTzMzU2dXYnZWX29jajVVMGZmWUJtZUhfRF9SVWhpYzR0eFBXRDI4c2p4ZGJwWmM3MWl4VjN1aklBTXRRZHJvTkk0azRkamRldUw4WlV5MGo2cDB5YkFvOTBtaEFYU3ZJV1BkOWxMTjhBT0pwejQ1TDRpaVF0dw?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 21:16:00 GMT",
-      "summary": "브로드컴, 개장 전 3% 이상 상승: 월가 은행들과 블랙스톤, 앤트로픽의 브로드컴 AI 칩 구매 지원 위해 630억 달러 자금 지원 파트너십 체결 &nbsp;&nbsp; TradingKey",
-      "outlet": "TradingKey",
-      "outletUrl": "https://www.tradingkey.com",
-      "source": "AI반도체 시장·수급",
-      "sourceIds": [
-        "ai-chip-capital-market-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-27T15:51:29.490Z",
-      "lastSeenAt": "2026-10-29T18:56:42.064Z"
     }
   ]
 }

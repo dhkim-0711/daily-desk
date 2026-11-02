@@ -1,7 +1,132 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T01:28:59.868Z",
+  "updatedAt": "2026-11-02T06:22:37.395Z",
   "articles": [
+    {
+      "title": "AMD's Lisa Su courts Korean AI chipmakers as it takes on Nvidia - The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92MndUb01nN1NCRTNFNEtXbTJHaWQzd1Z3R2VsY2ZDTXc3ZnI4X0tVOUFfMXdVYkRYUHRydWlNSzdCYWtvVHJsZkFFcEstejNRdVVfaWVZVQ?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:33:14 GMT",
+      "summary": "AMD's Lisa Su courts Korean AI chipmakers as it takes on Nvidia &nbsp;&nbsp; The Korea Herald",
+      "outlet": "The Korea Herald",
+      "outletUrl": "https://www.koreaherald.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "AMD"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 24,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-07T06:09:20.068Z"
+    },
+    {
+      "title": "AMD 칩 옆에 국산 AI 칩 탑재… 리사 수 만난 딥엑스, 피지컬 AI 협업 가능성 열렸다 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONVRXQ3duYzVreU1jSXY1VFdvaUx2ZDFQeHdMUUJSM1paUjhtaUZoX0NGemtobTVCanBxcko3ZVk3YmZHUFlqak0xdDdZNG5qLThPMUpJVDBpbU15Z0lXb1YtOEVtaF9xRlMwdGhLaDdFblc5cEJOemNQY1FuSDZYWGV30gGWAUFVX3lxTE1ROVpManAwX1NLMy1zdjRKcWtKTGNZMk1IOFRHTFZFaUVqMkZvcGJzNGVwTlpBYmg0dUZqVTU4OXN6QTA1aVFsQ2ltcjJSSXRtNHRhLXVHZGVNSlZFNlBybVNVNTVXbmR6d2tPOTNPbHNvM2NqRXloZGpncUtVSWRHWnJKUXFsLXJTZUpscS1TQ3lEZlBaQQ?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:31:00 GMT",
+      "summary": "AMD 칩 옆에 국산 AI 칩 탑재… 리사 수 만난 딥엑스, 피지컬 AI 협업 가능성 열렸다 - 조선비즈 &nbsp;&nbsp; Chosunbiz",
+      "outlet": "Chosunbiz",
+      "outletUrl": "https://biz.chosun.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "deepx",
+        "npu-commercialization",
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD",
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 24,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-10T01:43:02.876Z"
+    },
+    {
+      "title": "South Korea aligns AMD and startups as DeepX pursues physical AI tie-up - CHOSUNBIZ - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aSVRtQXdnb2s5WllXR3hMek5XZW4xM041azhfLVRvYzJJUUI4Tk51Nk00Q2ZOSU1jUGlwRnphZ003UF9EaHlXSngwYzNXWE5hSVVCcFlKSFpxV1ZicjRGeVR1bmlrMG9kYkhEWW1UTzJfaTJ3b1Q3NkNn0gGOAUFVX3lxTE9DR3RXUDNsWi03WU5sN3VISnFWalBJV0lLWjlGbEc1LWhfa2hUMS1sajFaczlhd2d4bTdjeXBSVlh2THdBNDZ6UXh5WTd2UTRKc2l1THUtbWFPYm1oN3pFdS0yN3p4M3kwbWFvZmdhbEw5U20zcjRvV1pqZTB0ZXhhbEd1VzFRczAyVzZPS1E?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:31:00 GMT",
+      "summary": "South Korea aligns AMD and startups as DeepX pursues physical AI tie-up - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+      "outlet": "Chosunbiz",
+      "outletUrl": "https://biz.chosun.com",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD",
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 24,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
+    {
+      "title": "Korea, AMD, DeepX forge heterogeneous AI partnership to boost physical AI - CHOSUNBIZ - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aSVRtQXdnb2s5WllXR3hMek5XZW4xM041azhfLVRvYzJJUUI4Tk51Nk00Q2ZOSU1jUGlwRnphZ003UF9EaHlXSngwYzNXWE5hSVVCcFlKSFpxV1ZicjRGeVR1bmlrMG9kYkhEWW1UTzJfaTJ3b1Q3NkNn0gGOAUFVX3lxTE9DR3RXUDNsWi03WU5sN3VISnFWalBJV0lLWjlGbEc1LWhfa2hUMS1sajFaczlhd2d4bTdjeXBSVlh2THdBNDZ6UXh5WTd2UTRKc2l1THUtbWFPYm1oN3pFdS0yN3p4M3kwbWFvZmdhbEw5U20zcjRvV1pqZTB0ZXhhbEd1VzFRczAyVzZPS1E?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:31:00 GMT",
+      "summary": "Korea, AMD, DeepX forge heterogeneous AI partnership to boost physical AI - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+      "outlet": "Chosunbiz",
+      "outletUrl": "https://biz.chosun.com",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD",
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 23,
+      "firstSeenAt": "2026-10-08T16:56:41.528Z",
+      "lastSeenAt": "2026-10-10T01:43:02.876Z"
+    },
+    {
+      "title": "AI Agent Gateway: Open-source tool keeps credentials out of agent configs - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFYkpjbXAwZENoQ2UtOG84RFhzWXVTcnE4djU4UGl0cVRDTzMweXo0cTk5RnZDcFVWSWJ0bmhxN3BkMFVDNHZtT3RMVnFzU0dtSGVqQXRaOVNWTjZ6MVh3WVkzVkFHYmRPeEVKOVpaN0hKVXAyV1c0eGgxVUE?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:30:59 GMT",
+      "summary": "AI Agent Gateway: Open-source tool keeps credentials out of agent configs &nbsp;&nbsp; Help Net Security",
+      "outlet": "Help Net Security",
+      "outletUrl": "https://www.helpnetsecurity.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
     {
       "title": "[분석] 젠슨 황 잡으러 한국 온 리사 수···AMD가 찾은 건 '메모리와 데이터' - 여성경제신문",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHMVF0VHBOUVZmUVVINmdsR28xRkZBbEdtVl9NVEVYb0dXOENXV0ppSFNiSHVhZ3pfRmhhZFZoUWw5NHpnNnFFVVFlT0FvcHFNMDU4Zk91TVJGSWtPakcyU3ZENUtiNTZ3Z3pQekQ5MjV4cU3SAXdBVV95cUxORW5pNDRDU0c5N2d5Y1dkMEdXdkdlcnIxaEtoYU1iUkF4endpX196TVJjMzNGcEd6VU5WRlViU1pvZXc5NDB6WnVpU0pGN2ltN1NfeVVPRlhDQVJjRWZoUG82eGVUeXRFR0pKMkEyWFY1NjU2UmZmSQ?oc=5",
@@ -2135,116 +2260,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-07T19:18:42.713Z",
       "lastSeenAt": "2026-10-10T01:43:02.876Z"
-    },
-    {
-      "title": "[오늘 이 종목] 엔비디아 파트너 · 피지컬 AI 기대…MDS테크 '주목' - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5udHdoeEw5WmMwdG1ZLUFPNEI3MGt0Q1BPblNDdG9fcExJY3FaYmdFek9EUmlCcE9Rb05TT1BtZFVXUmRocEtsaWFCemFvNVZrcVRuYml4LTBzUTdhZEhWVERMTVl1WFZS0gFuQVVfeXFMT3o3TEpZZjZ4UWhqTUpnRDdjSThtMnlCWXp5WHJlOGdpQmVZRnhENy1RR2hpdG5USjkyNmQxOV8xZEdfb0t4UDNPQWVDS3l6ejV4U090REpMS1c5UThMRWJEdzM2ZFdwVlBuZzRkYUE?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:12:11 GMT",
-      "summary": "[오늘 이 종목] 엔비디아 파트너 · 피지컬 AI 기대…MDS테크 '주목' - 머니투데이 &nbsp;&nbsp; 머니투데이",
-      "outlet": "머니투데이",
-      "outletUrl": "https://www.mt.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-07T09:15:20.365Z",
-      "lastSeenAt": "2026-10-07T11:00:30.069Z"
-    },
-    {
-      "title": "여권 들고 떠나는 'AI 여행'…메가존 \"기업 AX 여정 책임진다\" - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ySFZGTXhwam5sSVc0ajhtRHN6U19yTGwza2RQSkZNbEd4bjdVbVdxbkNMaTgxQWFWQzR0eU1LZ0VCOWh3NWpDeFByOWFvRTJYS1NVbFJR?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:11:19 GMT",
-      "summary": "여권 들고 떠나는 'AI 여행'…메가존 \"기업 AX 여정 책임진다\" &nbsp;&nbsp; 지디넷코리아",
-      "outlet": "지디넷코리아",
-      "outletUrl": "https://zdnet.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-07T11:00:30.069Z"
-    },
-    {
-      "title": "Google’s AI Phone Calls May Soon Chat to Your Mom for You - PCMag Middle East",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWG01aUcyTWt1aVlIYWJ4d1ZHdlVKQlhadlpTd1NfNzZ6Tm5aOEdzMTRIQ3JpcDZKRHo1TkZhem9xU3R1LXlyek1fLVhiUl9KTDhlbk04TmJ5UFc3Q2t6YUxCQTczcXZzS050Y25RR3FQbEVsanFpbzVlSDVqektTWno2X010b3BKYks4a2s0V3BlT28?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:11:14 GMT",
-      "summary": "Google’s AI Phone Calls May Soon Chat to Your Mom for You &nbsp;&nbsp; PCMag Middle East",
-      "outlet": "PCMag Middle East",
-      "outletUrl": "https://me.pcmag.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-06T17:25:04.264Z",
-      "lastSeenAt": "2026-10-08T01:51:37.240Z"
-    },
-    {
-      "title": "'韓서 AI 인프라 동맹 구축' AMD, 국내 14개사와 맞손 - 중소기업신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95dDktb2tUeElaVXdtT0xmbkNpcG9PZTR4enNvYXBHckJoX0o2MzBFT2hhOURIRVVxRTlEMHVWYlgyaW9XWVdCNnBPanFhd05GRGEwTGFuTWFqUkNvVm5YSlFRUV9FdndVY2xGQg?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:11:13 GMT",
-      "summary": "'韓서 AI 인프라 동맹 구축' AMD, 국내 14개사와 맞손 &nbsp;&nbsp; 중소기업신문",
-      "outlet": "중소기업신문",
-      "outletUrl": "http://www.smedaily.co.kr",
-      "source": "국내 가속기 운영 SW 보도",
-      "sourceIds": [
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "AMD"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 17,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-09T18:46:22.187Z"
-    },
-    {
-      "title": "최정호 시장 취임 100일…\"익산 대전환 속도 낸다\" - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CbG9QZW1tU3pRc21IeFJrS3RxWktNMndWQ25STzgyWmlxZ3FyRk9YQ1ZyQnRhLWw3ZGtPU2VQdXJpZHFEbnExdTZPTmxHU1F0NTBlOEtJY2VadzBHZUhWddIBeEFVX3lxTFBjWXZRR25vSGRtVHhCeFIzelQ5VzdaTVFDYW1KVTVLWjI3MmpFdHlKZzhPSVpiZF96YkpQVHpRRjNoOWEzVjh4MHJmS2hiSjYxaXgzYlhLZkk0ZzBNYlhXeEEwSWQyZUZseXdnbmpNNzBzaThGcDRMag?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:10:31 GMT",
-      "summary": "최정호 시장 취임 100일…\"익산 대전환 속도 낸다\" &nbsp;&nbsp; 뉴시스",
-      "outlet": "뉴시스",
-      "outletUrl": "https://www.newsis.com",
-      "source": "지자체 NPU 정책·사업",
-      "sourceIds": [
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 8,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-09T09:37:24.909Z"
     }
   ]
 }

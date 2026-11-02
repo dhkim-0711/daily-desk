@@ -1,7 +1,116 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T01:28:59.868Z",
+  "updatedAt": "2026-11-02T06:22:37.395Z",
   "articles": [
+    {
+      "title": "Broadcom to Advance NTT DOCOMO’s Private Cloud with VMware Cloud Foundation - Broadcom",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSLS1JeV9uaUpuTnIySndMcnh4QkJ5dm9yZ0c0N0tYZHdFbWZfQzBzTjR2V0tSSGJGMGVkYnNzMmw0MFhBbFo5OWtsel9RM2hERTY2WGNxcGU3RlZaSG5fNS1ESkdHcEs5c0pCLQ?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 22:00:47 GMT",
+      "summary": "Broadcom to Advance NTT DOCOMO’s Private Cloud with VMware Cloud Foundation &nbsp;&nbsp; Broadcom",
+      "outlet": "Broadcom",
+      "outletUrl": "https://www.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-10-20T01:16:21.351Z",
+      "lastSeenAt": "2026-10-23T01:57:31.733Z"
+    },
+    {
+      "title": "[에이전틱 AI 맵 2026] 네이버클라우드, 자체 모델부터 인프라까지…공공·금융 전용 AI 구축 지원 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VWkw4ckdVamxlWE9qTWRsWmJXMFFBNWpXeW53M2xKb2FMcUVHeENzOVg5VHZtNjVfR3dXc3lFMk5UY0JMdUE4cERITlVYcnlrbjN6OVZ3Y1J3NjhpY0M3MVZDb2VPWHRtVjFoTTRDYjjSAXRBVV95cUxNTmM4emNac0NEVmNiNjM3ZnlnR3EweTU5cEZEelVtN2Rocm84LTBRWEFweGlqRS03c0ZlaTV6T015NXQxNElDWG15U1pxaWg3VTF0ejhIUHJ4Rjd1ZWFJWjROQXZOcmdrSzZWN2ZSaDY1bkxWbg?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 22:00:00 GMT",
+      "summary": "[에이전틱 AI 맵 2026] 네이버클라우드, 자체 모델부터 인프라까지…공공·금융 전용 AI 구축 지원 &nbsp;&nbsp; IT조선",
+      "outlet": "IT조선",
+      "outletUrl": "https://it.chosun.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 16,
+      "firstSeenAt": "2026-10-19T22:38:25.607Z",
+      "lastSeenAt": "2026-10-22T05:11:37.149Z"
+    },
+    {
+      "title": "Weekly Recap: Volatile trading, foreign selling and 2-3x 2027-28 valuation - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTEgzSVdhSnZ0dmtkT3pHaTlKdDhUQ0R4VTEzbGM0UkE0MVQzYUkyeVBhR193MDk5aTk3c2p6djJQUVR6ZnRoQWtyZFhlUDhXYURwYWZ1azBibmUxVGdNY2dFT0JaYmIzM1h1UElTeEdEcEMwVkdnU1RDRVFNdlhxZmhhaWNVMXBERHM1WktMNWkxM29EdkxrRWlVaUcwaVNRQlYyOGl0dU51MlpvWWNvOHZkdFlOQWp4SDZlYkhtMVVuUDhrS2ZFRHd5T2ZJcGs?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 22:00:00 GMT",
+      "summary": "Weekly Recap: Volatile trading, foreign selling and 2-3x 2027-28 valuation &nbsp;&nbsp; TradingView",
+      "outlet": "TradingView",
+      "outletUrl": "https://www.tradingview.com",
+      "source": "메모리·패키징·인터커넥트",
+      "sourceIds": [
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-20T01:03:48.272Z",
+      "lastSeenAt": "2026-10-22T17:56:53.418Z"
+    },
+    {
+      "title": "SKT·KT·LGU+, 미래 신사업 AIDC에 ‘사활’…“전력난 해소, ‘발등의 불’” - CEO스코어데일리",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11UVRpSUhpNjg1Q1R1ekxFOHhjNjJacjgtSjZ2am56WE5tX1NaMDUzR0lHeG9ocGQ1dklTc0g3NjI1VHRHRjlVYlItSVJRTFM3MjNhMzJqWll5V1BaQXBBbGNybmx3RHgt?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 22:00:00 GMT",
+      "summary": "SKT·KT·LGU+, 미래 신사업 AIDC에 ‘사활’…“전력난 해소, ‘발등의 불’” &nbsp;&nbsp; CEO스코어데일리",
+      "outlet": "CEO스코어데일리",
+      "outletUrl": "https://m.ceoscoredaily.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-19T22:38:25.607Z",
+      "lastSeenAt": "2026-10-21T00:34:26.486Z"
+    },
+    {
+      "title": "[뉴욕증시] AI·반도체 '불안한 반등'···국채↓·유가↑·'뇌관' 코어위브↓ - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UTFRVcGFyUE1MS0dXY1ZZQ3VZN0JMWFEtb3pqMUV1Uk1pZTNwN3VVaWhVa2NpdW9rWFlkaFpzb1I3dU9GTlljSlhtM0NscGNTT3ZRQi15WFR4dmc2a0NLbGVud3g3UFJDZ1E?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 21:59:35 GMT",
+      "summary": "[뉴욕증시] AI·반도체 '불안한 반등'···국채↓·유가↑·'뇌관' 코어위브↓ &nbsp;&nbsp; 서울파이낸스",
+      "outlet": "서울파이낸스",
+      "outletUrl": "https://www.seoulfn.com",
+      "source": "AI반도체 공공사업",
+      "sourceIds": [
+        "ai-chip-public-program",
+        "ai-chip-policy-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-19T22:38:25.607Z",
+      "lastSeenAt": "2026-10-20T05:07:38.533Z"
+    },
     {
       "title": "Billionaire David Tepper’s Appaloosa Management Has 31% of its portfolio Invested in These 2 Artificial Intelligence (AI) Stocks - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV21ESEh2Rk9USUNKaHMxS1hYdURWeHJpZXhYVC1DNzZqTW56eTN3dG9ZbEtZSkY4My02blZGcS1ZVGktMHpHb0FCakE3Q0tCVEFsX0N6cGpnMndkY09HeEk5cU5YeVg2RkpTU0ZGcEV5ZG5xMEpsLUdTT29xSzZrMzNiNVdVc09RdWhaTmZNUTk2U2xRM1EzeHJYemJSTHdjQmVuTVlrR0NFUWgtZjEzZWJ0UVowWHBzX1RQLXBRWDBuMGRjd2FCMXdFYzg3Qy00bkhmLUwzX0daR1A3WWFwWVlyYk5fVjA4alR6cHRGRkJDUHgzZjdRdVVLOWY?oc=5",
@@ -2111,115 +2220,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-19T22:38:25.607Z",
       "lastSeenAt": "2026-10-20T17:31:30.433Z"
-    },
-    {
-      "title": "알림창을 닫기 전 읽어야 할 한국 요르단 축구 중계 토토 내용 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMFZkSWxzX05ndjFkNndNcVNvUURnc0FzM1lyczZaR0ZuSy1tUW51VUczZGwxT3VLVmVfLXN4cFJpbGJXQXk4X21IMmtQUm94QTZOMmJObjZRMVFFSXJNMmkyUlpETUtjZDVDRVpvQUJzZTd0RENCSkc1cDVweHJFR2piWGFmNjVQNDNXU2ZrbVVNOVJ0Z0V0TDFMV3JaVTk5dkpLOC1tbUh1M1AydUZlUGREM1VIaU1BUEdyQlYyNDZyTmdjbDgwTVpXUG9NUTZ0cm1zZkQxaHpRclRHVWYzTVpIZTNTYmNmajJz?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 20:32:22 GMT",
-      "summary": "알림창을 닫기 전 읽어야 할 한국 요르단 축구 중계 토토 내용 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-20T05:57:26.312Z"
-    },
-    {
-      "title": "게임 정보를 비교표로 읽는 아이 마켓 포커스 유형 안내 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVXV5c2xsOTE1MzV4YUdwLVR5eFdSMURmaWlSWnRBVWsxOUJ1RnJqUDFNNGlYaUwzQnJnTkx4aWtiRnNGZE55aldpWUw5c1h3emdtSkRUVXdpREFZeTBjSGQ1NG1KbmdqcDdEeEpIQzJkOFpVREhWZHhlWlNuSDFKcXh3NXZienE5cXNrRzFyTEN4SGx0QS1iclhDbmlKR0cxSU5lRG8tYXVPa1dsUHJwSVA3dHVtbzA?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 20:30:45 GMT",
-      "summary": "게임 정보를 비교표로 읽는 아이 마켓 포커스 유형 안내 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-20T04:59:46.169Z",
-      "lastSeenAt": "2026-10-22T17:56:53.418Z"
-    },
-    {
-      "title": "This Nvidia-Backed Cloud Computing Firm Is Reportedly In Talks To Sign A $45B Compute Deal With Anthropic - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSWNaLS1MMzZoRWNQMEVIejNkU3g1NFJ3SFBGMlRDUnNibzdGWUhSVERmbm4zWVJZZk51amZDd0UtZ3pxUVppTlNuS3BiLU5lVEtObFgxXzVrWkJkYXNCd3hiNzhGcjJlQWdjMUhpYnRsM2xCUVgyZi1EejAzdG92WjUzTUx4dWl3Wl9rcnBPeHlmNGEtTGdNRnhSUXBnZVFKaDVZYk5XQWVsT1dGMHk0TkVWbE1CeXM3MTc4Tm5Haktqck9YSkVRY2J3bkw0MXBJbFVHM21iYUtWdWV0dEwyNGxYendlUjYydl9wLTFyN2d5WWk3MDF1Vw?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 20:29:16 GMT",
-      "summary": "This Nvidia-Backed Cloud Computing Firm Is Reportedly In Talks To Sign A $45B Compute Deal With Anthropic &nbsp;&nbsp; TradingView",
-      "outlet": "TradingView",
-      "outletUrl": "https://www.tradingview.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 18,
-      "firstSeenAt": "2026-10-20T01:03:48.272Z",
-      "lastSeenAt": "2026-10-20T05:57:26.312Z"
-    },
-    {
-      "title": "블랙잭 의사 파업 결과 연출을 건너뛸 수 있나요? - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSHY5bEs0UzdqaHp1d2JpOFJaT01tS0JldmxDSDdPaFdkMEY5UUhKOGRfMGtUQ3N1Q1RfSWJzOTI5ZkIzR2hQUldNZ1Bvd2pmRC1MUXFpaWxVRmVMRjJIWk9ablhQSkEzNHdkc3M0eDJKTmdsbHpyZEFEOEtncWNBZlZMQXRzazVrbFkzOGR0Mmp2eko0dXJ5WEc5eWRwWjZDYTlIUzYzbWpjQjB3aS1zb1JFWXVMTVdVVUNrN2haai1SWnNWcjNkY21aWFdlLXVxVlBwRjZR?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 20:27:39 GMT",
-      "summary": "블랙잭 의사 파업 결과 연출을 건너뛸 수 있나요? &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-10-20T12:11:50.172Z",
-      "lastSeenAt": "2026-10-20T12:11:50.172Z"
-    },
-    {
-      "title": "AMD says Nunchux video AI ran faster than playback on MI355X - Blockchain News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjNGalpmSEtfMmt2Nmh3aUxSbjQzd1NSeThVcThUQUExRVpKMkEyUVdSVGs5MHJPRW1EdGFtWmp5WWR4WTJ3QzRkYjVuaXF1NUpBbDk3TldrNWFVeVRRQ3o5MkRQMHNNRFZXaXBsSndSQXE2UWJVNms3Y2JzMndBVUkzTQ?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 20:25:57 GMT",
-      "summary": "AMD says Nunchux video AI ran faster than playback on MI355X &nbsp;&nbsp; Blockchain News",
-      "outlet": "Blockchain News",
-      "outletUrl": "https://blockchain.news",
-      "source": "가속기 운영 SW",
-      "sourceIds": [
-        "accelerator-software"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "AMD"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 17,
-      "firstSeenAt": "2026-10-19T22:38:25.607Z",
-      "lastSeenAt": "2026-10-21T05:58:07.008Z"
     }
   ]
 }

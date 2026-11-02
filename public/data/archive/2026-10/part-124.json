@@ -1,7 +1,132 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T01:28:59.868Z",
+  "updatedAt": "2026-11-02T06:22:37.395Z",
   "articles": [
+    {
+      "title": "AI 회의론에도 판 키우는 엔비디아…삼성·LG 동맹 확대 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0Z3X21iZGFpRFE2cFNDYXJFMHVybUg1V0dxWEdWYWd2Q2FtSFpZWE5MV3BWdU0tTm5LQ3JjdVVveUt1N2xjTmtKcGpPNUhuQW52aVdkZTlHOGsyQ1JqZ1VXN1FtVkUzNm1nVVpKNVJqLUpVc0FTbVF6N2VKeHQwZQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 05:01:05 GMT",
+      "summary": "AI 회의론에도 판 키우는 엔비디아…삼성·LG 동맹 확대 &nbsp;&nbsp; 이데일리",
+      "outlet": "이데일리",
+      "outletUrl": "https://www.edaily.co.kr",
+      "source": "글로벌 기업·한국 반도체 협력",
+      "sourceIds": [
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 18,
+      "firstSeenAt": "2026-10-24T11:58:11.660Z",
+      "lastSeenAt": "2026-10-25T04:53:28.405Z"
+    },
+    {
+      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "link": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "publishedAt": "Thu, 22 Oct 2026 05:00:56 GMT",
+      "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF […]",
+      "outlet": "NVIDIA Newsroom",
+      "outletUrl": "https://nvidianews.nvidia.com",
+      "source": "NVIDIA 공식 보도자료",
+      "sourceIds": [
+        "nvidia-official-news",
+        "nvidia-ai",
+        "nvidia-official-blog"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-10-22T05:11:37.149Z",
+      "lastSeenAt": "2026-10-25T04:53:28.405Z"
+    },
+    {
+      "title": "CrowdStrike Stock Has The Bull Case Changed After AI Security Tie Up With NVIDIA - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSlVIZkNNalFabFlKYjhBUk1aeTNVTkV3dWZUX25TYnVYeGF5Y3EzRUZMV3NWbUZ5aUpYc0doaUR0X18wVWhSUUlPT1lJZmhLcHhoT25FNGNZZlpNOVF2cjdoVjhrazVuS2M4TlZhZFFwaUtmeVVZVnRXRmZ2Y25kaWF4Ql9MaEplRXVnaFFzWWNvUzFIelNoOE1jTGVQWFpfd21iM180N3AwU3d0d1lhZW54RkJkcVFSajR4bEM4RUY4QU13ZmZ5YXV6TWZrRTE1YVdHT1RB0gHbAUFVX3lxTE1ST0F5cDlCRVlrQTBvWFBQdFVsejlJOU8tTlBZMDh0RGZ3RjFBZ25LNE9vLUdHY00xWFZBN0pSaWpYbTNvTHZzcVpDVzNZS1Q0UHBCVzg5bDlCS2x0VWhXb19jaTdSSTBPMjAtNWQ3ZW5uUGpkTDBIaEkwTWk1OFAtZGxpeDh1ZE9nUmVOUzJMelFsTE9XTVRYbEpMRnZxeDZYUFhmdFl2blhtc2M1VGk3aUNIOGZoU3NiRHBGRU1sTWpGRTVmUDJiSXo4REtWQ2FKbnFaWGdsbXdwcw?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 05:00:51 GMT",
+      "summary": "CrowdStrike Stock Has The Bull Case Changed After AI Security Tie Up With NVIDIA &nbsp;&nbsp; Simply Wall Street",
+      "outlet": "Simply Wall Street",
+      "outletUrl": "https://simplywall.st",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-22T06:03:45.371Z",
+      "lastSeenAt": "2026-10-22T06:03:45.371Z"
+    },
+    {
+      "title": "CNN and Google strike deal to test paid generative AI access to news - Tomorrow's Publisher",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb09IMnduZzgxNHdqT0tETmwtUm95Qko3WklHV2hWNXBjNjZVTVB3YUt3SGhGYlhvTlo0TjBQejE5QlY5bncyUUV6bzFvZ3dHTjdTaDJiRnBmd3VXZHU0OWhtN3B0dUFoNldUQUF0VzQ5N0pQSk95LWxSOVpXYk1YVUltaVczaFhFYjg4T0c1dDcwRVpaemhocUl4Z0ZWY3ZxTk5yMThXUE1Ic29LYUVDUnlqUlMxT0Q1SmVWUmNPbjl0dlFfQ1RvM0FR?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 05:00:50 GMT",
+      "summary": "CNN and Google strike deal to test paid generative AI access to news &nbsp;&nbsp; Tomorrow's Publisher",
+      "outlet": "Tomorrow's Publisher",
+      "outletUrl": "https://tomorrowspublisher.today",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-22T05:11:37.149Z",
+      "lastSeenAt": "2026-10-22T12:55:50.569Z"
+    },
+    {
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "publishedAt": "Thu, 22 Oct 2026 05:00:27 GMT",
+      "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]",
+      "outlet": "NVIDIA Newsroom",
+      "outletUrl": "https://nvidianews.nvidia.com",
+      "source": "NVIDIA 공식 보도자료",
+      "sourceIds": [
+        "nvidia-official-news",
+        "nvidia-ai",
+        "nvidia-official-blog"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-22T05:11:37.149Z",
+      "lastSeenAt": "2026-10-25T04:53:28.405Z"
+    },
     {
       "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
       "link": "https://blogs.nvidia.com/blog/dsx-power/",
@@ -2173,123 +2298,6 @@
       "score": 11,
       "firstSeenAt": "2026-10-22T05:00:13.904Z",
       "lastSeenAt": "2026-10-22T05:00:13.904Z"
-    },
-    {
-      "title": "모빌린트, '휴머노이드 온디바이스 AI 플랫폼' 국책과제 수행 - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15czIxMURUV1BXck56eG5tcldkbUdwVVZiWkpVOHQwZGZwdkVzVVJ2Y0d0aTRlZ2tpNWtSeWg5V0NCZkNRODJVOHZXNFVZazVIRU8yVnN3?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 03:29:08 GMT",
-      "summary": "모빌린트, '휴머노이드 온디바이스 AI 플랫폼' 국책과제 수행 &nbsp;&nbsp; 지디넷코리아",
-      "outlet": "지디넷코리아",
-      "outletUrl": "https://zdnet.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "mobilint",
-        "mobilint-broad",
-        "msit-ai-chip",
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "모빌린트"
-      ],
-      "taxonomyHits": [
-        "온디바이스AI",
-        "모빌린트"
-      ],
-      "issueCategory": "NPU",
-      "score": 23,
-      "firstSeenAt": "2026-10-22T05:00:13.904Z",
-      "lastSeenAt": "2026-10-25T01:38:19.640Z"
-    },
-    {
-      "title": "PHP 해킹 위험에 구글·오픈AI 긴급 대응…아마존 \"공격 시도 포착\" - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5OEc2YmhjTjFmSGs3Q1pmUHVLTzVXdjFCUEdsVE5YMXVLV2ctR3Y5eWJUYmc5X2NGM1Znc1QySldJT3VLTFFDN3AtUEJoZ0Nyb1hYU2FoQmd6UlBKemRna0NtYllyQnBmUEF0RkdqeEd1N211WlVWbNIBeEFVX3lxTFB5OEc2YmhjTjFmSGs3Q1pmUHVLTzVXdjFCUEdsVE5YMXVLV2ctR3Y5eWJUYmc5X2NGM1Znc1QySldJT3VLTFFDN3AtUEJoZ0Nyb1hYU2FoQmd6UlBKemRna0NtYllyQnBmUEF0RkdqeEd1N211WlVWbA?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 03:26:17 GMT",
-      "summary": "PHP 해킹 위험에 구글·오픈AI 긴급 대응…아마존 \"공격 시도 포착\" &nbsp;&nbsp; 뉴시스",
-      "outlet": "뉴시스",
-      "outletUrl": "https://mobile.newsis.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-22T05:11:37.149Z",
-      "lastSeenAt": "2026-10-22T05:11:37.149Z"
-    },
-    {
-      "title": "Amazon to invest over EUR160B in Germany for AI, cloud and logistics - digitimes",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSG9Od3ljbEhhQ0loR0JFek5QQVROUUxKTFRwUnlVdExyLVNXVVoxd01qWWhIZjlENlZRMDY2TmpOVXNzRDBlcVFpUUgydFhrR3lJNGVSNzNab1NlNS1scjR1dkxKVnpQQWxDSkcxSENNVkE0RS1GelJSOFcwNHRVeTdVUEpLdl9HOU50alUwVjBRNVI3RnB0dmdzSQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 03:25:00 GMT",
-      "summary": "Amazon to invest over EUR160B in Germany for AI, cloud and logistics &nbsp;&nbsp; digitimes",
-      "outlet": "digitimes",
-      "outletUrl": "https://www.digitimes.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T05:00:13.904Z",
-      "lastSeenAt": "2026-10-22T07:57:53.219Z"
-    },
-    {
-      "title": "\"호남반도체, 소외 없게\"…국감서 '주민수용성 확보' 지적 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zU3hmUHdEOXdPbkMtd3lOU05Mb1liZjFXa2JLNElpekJib0VtemFkVUZHU0prbDRNUU81WUxvZ2FQZC1jNTN6eXJfZ1c2NnVCSmlnclpHRWpuS3Y0Ti1kR9IBeEFVX3lxTE1rUzVSMW9KU29uV2tQbHRhaENQZkZieFFPYnlRb1BDaHEyZ1hpMkhtZlZQS2tKTkhlTlpSRmJPVjdqdGVBOXl2d0Q1ZjgxMk80RkJEdUZkMlBhd3pWMWh1bTVYcTAzeGVBdFdodVFTLXBuYmZXSnV6Yg?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 03:23:29 GMT",
-      "summary": "\"호남반도체, 소외 없게\"…국감서 '주민수용성 확보' 지적 &nbsp;&nbsp; 뉴시스",
-      "outlet": "뉴시스",
-      "outletUrl": "https://www.newsis.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-22T05:00:13.904Z",
-      "lastSeenAt": "2026-10-24T22:44:16.207Z"
-    },
-    {
-      "title": "Micron skips 4F² DRAM in strategic pivot against Samsung, SK Hynix and CXMT - Sammy Fans",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFcnpkc2xER19EbVR2ZzkzcU1rQ0wzVFJTRFUxaC1ocjBnV2VsR25TcTNFZ1YyWHhURG1YX2loRHhaMkJlUy0wU3phVEFjVWxpbVBkbHJzMVlJLVJEQXV2ME1ZVDdNcFFsdE8wcnJQZF9wM29YLUHSAXtBVV95cUxQTWdQcFRqdk1rbDNyS3JxWXlFLXdwemMtbGdvYWFxRGVRSDJtQ0JBSzJBU0kwOUdTc0YtTXF2X0hZZ3BFZ1VmaFIzb3ZOczRqRDA1YUd1dW5wcjc2Vk5KNG0xSUljOVhhQTJDc21jVklZRGR5RlZESDM2R3c?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 03:21:48 GMT",
-      "summary": "Micron skips 4F² DRAM in strategic pivot against Samsung, SK Hynix and CXMT &nbsp;&nbsp; Sammy Fans",
-      "outlet": "Sammy Fans",
-      "outletUrl": "https://www.sammyfans.com",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Samsung"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 12,
-      "firstSeenAt": "2026-10-22T05:00:13.904Z",
-      "lastSeenAt": "2026-10-25T01:38:19.640Z"
     }
   ]
 }
