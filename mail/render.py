@@ -24,6 +24,7 @@ EXPANDED_SELECTION_FROM = date(2026, 10, 6)
 LATER_CUTOFF_FROM = date(2026, 10, 7)
 PUBLICATION_CUTOFF_FROM = date(2026, 10, 7)
 MANDATORY_FINAL_SEARCH_FROM = date(2026, 10, 8)
+APPROVED_STRUCTURE_FROM = date(2026, 11, 3)
 SELECTION_COVERAGE_AREAS = (
     "domestic_npu", "domestic_policy_demand", "global_accelerators",
     "operating_software", "memory_packaging_infrastructure",
@@ -213,6 +214,8 @@ def validate_briefing(data, history_dir=None):
             original_urls.setdefault(article["original_url"], []).append(number)
         _paragraphs(article.get("main_points"), field + ".main_points")
         _paragraphs(article.get("implications"), field + ".implications")
+        if issue_date >= APPROVED_STRUCTURE_FROM or "importance" in article:
+            _paragraphs(article.get("importance"), field + ".importance", 1, 2)
         sources = article.get("sources")
         if not isinstance(sources, list) or not 1 <= len(sources) <= 5:
             raise ValueError(f"{field}.sources: 1-5 verified sources required")
@@ -246,6 +249,8 @@ def validate_briefing(data, history_dir=None):
         numbers = group.get("article_numbers")
         if not isinstance(numbers, list) or not 1 <= len(numbers) <= 2 or any(type(n) is not int for n in numbers):
             raise ValueError(f"summary_groups[{i}].article_numbers: 1-2 related article numbers required")
+        if issue_date >= APPROVED_STRUCTURE_FROM and len(numbers) != 1:
+            raise ValueError(f"summary_groups[{i}]: one article per group required from 2026-11-03")
         mentioned.extend(numbers)
         _paragraphs(group.get("bullets"), f"summary_groups[{i}].bullets", 2, 2)
     if sorted(mentioned) != list(range(1, len(articles) + 1)):
@@ -434,6 +439,7 @@ def _context(data):
     citation_id = 1
     for article in context["articles"]:
         article.setdefault("references", [])
+        article.setdefault("importance", [])
         for source in article["sources"]:
             source["citation_id"] = citation_id
             source["mark"] = str(citation_id).translate(SUPERSCRIPT)
@@ -471,6 +477,8 @@ def render_text(data):
         lines.extend(["", f"{article['number']:02d} {article['title']}", "주요 내용", *article["main_points"]])
         for reference in article["references"]:
             lines.append(f"참고 : {reference['title']}({reference['publisher']}, {reference['date_display']}) {reference['url']}")
+        if article["importance"]:
+            lines.extend(["중요성", *article["importance"]])
         lines.extend(["시사점", *article["implications"], "발행일 및 출처"])
         lines.extend(f"[{source['citation_id']}] {source['publisher']} · {source['date_display']} {source['url']}"
                      for source in article["sources"])
@@ -561,3 +569,4 @@ def main(argv=None):
 
 if __name__ == "__main__":
     main()
+
