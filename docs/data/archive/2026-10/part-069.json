@@ -1,7 +1,55 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T08:20:08.101Z",
+  "updatedAt": "2026-11-02T12:16:34.842Z",
   "articles": [
+    {
+      "title": "Meta, Muse AI 모델과 인프라 관련 NVIDIA와의 파트너십 강화 - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMDJpUmR6cGE4MkhTS2RPUk00NDF2ZnpXdWxGamItdHo2WkN0M19QYzRIdHpUMGFFUVh1bk5ZRzA4R0pkRURBVThiOHNSLVByNkFhSTRLekdFUkExY1IydGRBdGNiajlROHFmcWRlRHZiRVYwV3JQTjBsVEpFUy1JYjNWX0hLNjBzVjREdFZzSGlUNnpvcnU0VQ?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 06:18:03 GMT",
+      "summary": "Meta, Muse AI 모델과 인프라 관련 NVIDIA와의 파트너십 강화 &nbsp;&nbsp; Unite.AI",
+      "outlet": "Unite.AI",
+      "outletUrl": "https://www.unite.ai",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-27T10:59:25.232Z",
+      "lastSeenAt": "2026-10-29T00:25:13.616Z"
+    },
+    {
+      "title": "AI 반도체 벤처 '엣지에이아이', 중기부 ‘팁스' 선정 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkJoRlBHSExtd1ZWOHdmYVBmUkRoN0F1MmhmUFJnQ0ZqbURmeTdQbkpkZjJRUk1aenlWTEJkQjRWbXdXSWVMUUVwTnpVck5UUzVYaHQzYVZlQ0FtY2U1R0xmTmVfX1MxbFJqY25pR2E3a3M0dVRuejlTYlRHVzljUQ?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 06:17:07 GMT",
+      "summary": "AI 반도체 벤처 '엣지에이아이', 중기부 ‘팁스' 선정 &nbsp;&nbsp; 이데일리",
+      "outlet": "이데일리",
+      "outletUrl": "https://www.edaily.co.kr",
+      "source": "정부 NPU 정책·예산",
+      "sourceIds": [
+        "government-npu-policy",
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "온디바이스AI"
+      ],
+      "issueCategory": "온디바이스AI",
+      "score": 16,
+      "firstSeenAt": "2026-10-27T09:46:08.096Z",
+      "lastSeenAt": "2026-10-30T06:13:35.368Z"
+    },
     {
       "title": "Galaxy Buds On - Samsung Global Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xX0ZVWUZZYUdNUWlKcml5dnRfZmJtVFc5YjU1NXRwRGVjYmhlNHF6aGdfMi02MEU5LWNwYlpNT096ZWVuaHNoVU1fd1NxMDNsZ0dvZ01YYXBpWnk3OW1ISU05VjdVUQ?oc=5",
@@ -2208,48 +2256,6 @@
       "score": 13,
       "firstSeenAt": "2026-10-27T05:23:50.475Z",
       "lastSeenAt": "2026-10-29T06:14:00.383Z"
-    },
-    {
-      "title": "Morning Bid: All eyes on AI - KFGO",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Iby1ZVE5Ic3NJSG1INzVaVmNLY1AxemFVSzA0eUJseUVoSnZXbW1PS0lJam53b1l2ZW94MUxvNTZ4cFVsNlJfSlkzMTBIbEtfdXkydEtKMmtfZ0hUQ0VxdXRidzh1QQ?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 05:10:39 GMT",
-      "summary": "Morning Bid: All eyes on AI &nbsp;&nbsp; KFGO",
-      "outlet": "KFGO",
-      "outletUrl": "https://kfgo.com",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-27T05:15:11.997Z",
-      "lastSeenAt": "2026-10-28T01:14:48.296Z"
-    },
-    {
-      "title": "인텔, 이스라엘 양자 SW 기업 ‘클래식’ 인수… 칩부터 설계까지 ‘풀스텍’ 통합 - 사이언스모니터",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOUHRLN3BPeExxb01EM21iU1htRVBldGZ5dWhUTmFCMmdSUzA3M2YyVG81dldPdmxHX0ZVdjM0SVBLbUcyMXBONUF1b2huSUFud1NBMkdQRzVTQ2V4Mi05WnljaG1zbnJOdGdJTEdRNUl5S25CRzVqbk5jTGp2U24wdTFSbzVQV1dWRUxUOEdSSmwycU5FcjZLVmpLeWVHUzVKSXN4NFZrNVdMR2lWSHlwdmpCNTB4SkRVemRlblZ2ZXdZQWpsVFZnZHl5V085aEx1eXFuWUdCU0pYU3RDVHFZbzhjODduLWVfZ1Q4Z2I0Yi0tZzVPeGhGQmExTHM4d3BnanR0VUpyX1VRWnNWU2tTY1cxbDRpcU9RVzBxWkUzelFwZw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 05:09:29 GMT",
-      "summary": "인텔, 이스라엘 양자 SW 기업 ‘클래식’ 인수… 칩부터 설계까지 ‘풀스텍’ 통합 &nbsp;&nbsp; 사이언스모니터",
-      "outlet": "사이언스모니터",
-      "outletUrl": "https://scimonitors.com",
-      "source": "AI칩·SW 전략적 인수·제휴",
-      "sourceIds": [
-        "accelerator-strategic-deals-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-27T15:51:29.490Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
     }
   ]
 }

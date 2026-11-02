@@ -1,7 +1,56 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T08:20:08.101Z",
+  "updatedAt": "2026-11-02T12:16:34.842Z",
   "articles": [
+    {
+      "title": "Google's AI is winning. Search is paying for it. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLU5ORHpRNzlNWnZLamJIU0Z6Qm9fcFQzRHUyeDZkLVFDTkJZTm0tVU5sNVNEX25OZEtDTGxPWHdWdlR4WElyTjhJX0otYlN1MXJ5S2RBaVdzOHhRdHVqb3ZwekxEMXRDRHFDekhnMHJ6Y0ZCMXdFUFFTVElhYkx0WjZVY0RuQQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 11:00:00 GMT",
+      "summary": "Google's AI is winning. Search is paying for it. &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-30T16:49:59.511Z",
+      "lastSeenAt": "2026-10-30T16:49:59.511Z"
+    },
+    {
+      "title": "Benchmarking Nvidia’s Vera CPU for the data center — standalone Vera tested against Granite Rapids-AP and EPYC Turin - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRDk3MnJlakJ1Wll3TlZSdXFEOFFpc0FfMzBLbWhxMHJ3azJFVHJ2VnpBeU5NbHVaSjZSMVEzcnRYU1ZjV0FqQjgzcGpfN29MRHd2SGw1Wm9xd2FFNG45dm1wTlZPRDU1cDNKVl9MeGpGTzdmd18xQ184VEN5bERuNTVnTHhJRDhrR2xHbDQ4ckZxY1IwekZaeU1JQmhtTWNBRlBrX3BQSS1kTEt2TGVMRTZpa3dtYmtiWG02M21fSk85NU0wSnVVd1V1SHBva3RyLTAtZE9XRHNqNW5BVFlVWFZ1cjhyOExvZVBwTmx0eDhWckk?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 11:00:00 GMT",
+      "summary": "Benchmarking Nvidia’s Vera CPU for the data center — standalone Vera tested against Granite Rapids-AP and EPYC Turin &nbsp;&nbsp; Tom's Hardware",
+      "outlet": "Tom's Hardware",
+      "outletUrl": "https://www.tomshardware.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 18,
+      "firstSeenAt": "2026-10-30T16:49:59.511Z",
+      "lastSeenAt": "2026-10-31T07:30:17.533Z"
+    },
     {
       "title": "Gemini 4 Carbon Is Locked. The Way In Runs Through Google Cloud - Business Model Analyst",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSC1zbjlPTzFJMFY1Mnk0MXRzNjNiVHFtd2U4MkdjbzQ5cUtfWFlZYjlHbUhZWGVrYkNLME5WTU80OENuQWtpZDFwRUpHWVpMQ05ZZ3hhOHNLWjJQd1VhS2tsdkM4cFVRWi05N281ZDF0c3IzNlF6ZHBsLXZoRXJFdzM5UFJMci1L?oc=5",
@@ -1141,7 +1190,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-10-30T10:28:06.065Z",
-      "lastSeenAt": "2026-11-02T08:20:08.101Z"
+      "lastSeenAt": "2026-11-02T12:16:34.842Z"
     },
     {
       "title": "Nasdaq futures slide as Amazon, Intel earnings deepen AI spending concerns - Investing.com",
@@ -2205,52 +2254,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-30T10:28:06.065Z",
       "lastSeenAt": "2026-10-30T10:49:38.359Z"
-    },
-    {
-      "title": "Big Tech’s AI Spending Push Shakes Core Businesses; Foreigners Dump $1.17 Billion of Kospi Stocks - bloomingbit",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50SHhkVVRkUEEyUVJvbEZ0TTd6OVlKMVBQODd0N0NmUXFSMEV1anBMTXdMQjdwVWZQcGV3SzIwb2hMTV9PbHFQcVloemlTdk5lMUM4aA?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 09:10:39 GMT",
-      "summary": "Big Tech’s AI Spending Push Shakes Core Businesses; Foreigners Dump $1.17 Billion of Kospi Stocks &nbsp;&nbsp; bloomingbit",
-      "outlet": "bloomingbit",
-      "outletUrl": "https://en.bloomingbit.io",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-30T10:28:06.065Z",
-      "lastSeenAt": "2026-10-30T10:49:38.359Z"
-    },
-    {
-      "title": "[‘클릭’ 증시] 알파벳 쇼크에 급락세...AI 실망인가 구글 추락인가 - 공공뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42VW9fQ09lcXRLejcwM29KSjV0YzRiZEZCd3NoZURlal9JYWpkTGRGMTZibTJiZkR6dWxLVW1xT0FEd0hhWVVLZUFaYUxUbHZsaUFWTll0UXhZWUEzNmZRLTBEX2QxVV9jLXlV0gFuQVVfeXFMTUNfTkZTRWUxSUxZQ1M1cjVTX0pHcVNVMlFNak5CSkdGMkIyejRpVmtWUVFPZ3N3Q091MDB2RHp2eG5hemtaWEZ6Y21yM3c0cGxaZFBlMkNYUklvQWJtV3lnM2NvZHRUajhxc000M0E?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 09:07:59 GMT",
-      "summary": "[‘클릭’ 증시] 알파벳 쇼크에 급락세...AI 실망인가 구글 추락인가 &nbsp;&nbsp; 공공뉴스",
-      "outlet": "공공뉴스",
-      "outletUrl": "https://www.00news.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-30T10:28:06.065Z",
-      "lastSeenAt": "2026-10-31T06:06:59.265Z"
     }
   ]
 }

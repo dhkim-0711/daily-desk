@@ -1,7 +1,63 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T08:20:08.101Z",
+  "updatedAt": "2026-11-02T12:16:34.842Z",
   "articles": [
+    {
+      "title": "Tom Emmons - Broadcom",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13OVRJa005V0JGQ0owd1RIWWdOeWlzVWc3b0JxSjNBUFFMZmFfNDBsaldmTW84WEd2aVBpekYyZkhjdGdSUS1YZHF1bGdWQVo2dmxOcDNOQzR4eDZLdGVyMFFVMEZfZw?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 08:17:50 GMT",
+      "summary": "Tom Emmons &nbsp;&nbsp; Broadcom",
+      "outlet": "Broadcom",
+      "outletUrl": "https://www.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-28T01:14:48.296Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "국산 NPU 산업현장 검증…경북, 퓨리오사AI와 실증 거점 만든다 - 경북일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VdlVYT1dMODBXY1BoXzhTMXNDRjRLLWJKNW5ld1ExcEdmQ0VlbHhhbnh2QVU1dExfM0xwSWw5eTVnZE5vS0p4akFLbHViTWpPT1NFcjVWbmhaSGs1NG9heWh3bmltaDJKSzVQamdVZw?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 08:17:36 GMT",
+      "summary": "국산 NPU 산업현장 검증…경북, 퓨리오사AI와 실증 거점 만든다 &nbsp;&nbsp; 경북일보",
+      "outlet": "경북일보",
+      "outletUrl": "https://www.kyongbuk.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "furiosa",
+        "ai-chip-public-program",
+        "government-npu-policy",
+        "local-government-npu",
+        "npu-commercialization",
+        "korea-global-chip-cooperation",
+        "public-regional-npu-demand"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "퓨리오사AI"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "퓨리오사AI",
+        "실증·조달"
+      ],
+      "issueCategory": "NPU",
+      "score": 29,
+      "firstSeenAt": "2026-10-26T14:10:00.606Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
     {
       "title": "반도체·제조 강국 한국, 피지컬 AI도 잡으려면… \"현장 실증 늘려야\" - 인베스트 뉴스 | invest",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84ZlJVOC1YSlpQWkNxZHBXUU1fcXNBaUFYOTYybmJaRXNtNjNZQk5yNDBodWduR1Y3ZzdiOFk2Q0R3M1ZwWWtHUG5yUXQtam9xZnZBcEI3b3FFTWxpUDRuUExGbGh2eVhsRWpnR0RCRzNldw?oc=5",
@@ -2247,53 +2303,6 @@
       "score": 23,
       "firstSeenAt": "2026-10-26T14:10:00.606Z",
       "lastSeenAt": "2026-10-26T14:10:00.606Z"
-    },
-    {
-      "title": "경북도 국산 AI 반도체 실증 거점 구축 본격화 - 경북매일",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ejdQeXFib1I4cWNOczM2Y09fSkNtaFd6bEdZSTZEd0pkUW9TcDFjbVg1QTgzc3JCeExwTXVDaDVJd3BjYlZCTzVQOC1qM3dwQ1VOblBfYWRlZw?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 07:15:00 GMT",
-      "summary": "경북도 국산 AI 반도체 실증 거점 구축 본격화 &nbsp;&nbsp; 경북매일",
-      "outlet": "경북매일",
-      "outletUrl": "https://www.kbmaeil.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "furiosa",
-        "ai-chip-public-program",
-        "npu-commercialization"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "실증·조달"
-      ],
-      "issueCategory": "실증·조달",
-      "score": 16,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-29T06:14:00.383Z"
-    },
-    {
-      "title": "반도체 규제 13개 손질 나선 정부…삼성·SK 투자 속도 빨라질까 - https://www.newscenterkorea.com/",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZVXFMSUtRUU9hWFhXdlRTWV9RbkhCWWpHbm9KSklERjVkek5jTG0xOGRKN2c1ZTZZQnJBd3lPWU1uelFDMlRkcEpvS0ZPUXJhS0ltYkxHUGR0WTFlMlc5RlBnX1N6OHFnVFJoSlg1WWRsUQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 07:14:07 GMT",
-      "summary": "반도체 규제 13개 손질 나선 정부…삼성·SK 투자 속도 빨라질까 &nbsp;&nbsp; https://www.newscenterkorea.com/",
-      "outlet": "https://www.newscenterkorea.com/",
-      "outletUrl": "https://www.newscenterkorea.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-28T00:44:44.486Z"
     }
   ]
 }

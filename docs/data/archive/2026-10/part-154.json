@@ -1,7 +1,54 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T08:20:08.101Z",
+  "updatedAt": "2026-11-02T12:16:34.842Z",
   "articles": [
+    {
+      "title": "AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds - Infosecurity Magazine",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TQ2tvRXVXRlNzVWlNYVpiN24xWWxmai1nX09PZVNlOVhIS0RMMnJBUFlxQnIzeUJXZlBya0U0X0toRHRkMW0tSGNRYlZSUFpWb29jUzZHWmxHUkotbjUzRFZRV3U2UW0wTmw4YUdkR3gyaFNvVnR2UG5hZw?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 12:05:00 GMT",
+      "summary": "AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds &nbsp;&nbsp; Infosecurity Magazine",
+      "outlet": "Infosecurity Magazine",
+      "outletUrl": "https://www.infosecurity-magazine.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-21T10:35:21.894Z"
+    },
+    {
+      "title": "The U.S. has imposed sanctions on a Chinese company over allegations of stealing Google's AI technology — Bloomberg - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYkN3NjA1Y0FOdG9KUXViRTd6dzFnRXBZWnlkQ1hxZThIdmZhVVZKUE85T3FnSUpIVHJuZ0cxeU90WWRrLThISjE4Z2dPNFY0NlRyODZCWU9BOVh1X2RPZWlOU1dHdGxfWUh1ZmRiN3cyMHpSNUF3eTAyTEFtSk5TM0V5V2RPTktiRG94TzQxcmZ6X25yUzlvaXc4d0dfd19GNEdEenhYdE04d2V2Y05ueV93eHBGT1FQYlpBeFFJYjlsU2s1WnpkeWZ1b3pjMnRnTVlfNlhVM0g?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 12:04:21 GMT",
+      "summary": "The U.S. has imposed sanctions on a Chinese company over allegations of stealing Google's AI technology — Bloomberg &nbsp;&nbsp; UA.NEWS",
+      "outlet": "UA.NEWS",
+      "outletUrl": "https://ua.news",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "수출통제·공급망",
+      "score": 23,
+      "firstSeenAt": "2026-10-20T12:40:52.451Z",
+      "lastSeenAt": "2026-10-20T12:40:52.451Z"
+    },
     {
       "title": "Converge ICT plans two new data centers in Luzon for AI demand - ET Datacenters",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPc01fZE1LaWRHN1VQeGVhV3VtVmJabE8yR1RweFlGdDhyQnlhV0wyTV9zU0xfUEV0b1NaMi16dEI3QzBBbWJGV3lXQUpydktrcUc1U2wxQUlXNkNOaHlrRmNOZHBEcjVYNDI1ZzExaS1LeHYtSmJDaHJoQlp3bzlaVjhTV1d6bnlJRFBLTm9KOW5SRnB6UGZqMERmVTdNbGJSLTBJYUM4SXRsUlJzdERrX01HaEl0dTZSRFVNN2NLb3kyazhDVEZsb0FlWF9CeWdYWWtJeGZJX0FGS0xvVUk4blVTMVRKTWJoQ2RIcTJMcmlmMXFQeXM0eXJfMWthYlotbjNiVVhhOEEyUDNINDUwTHlR0gHgAUFVX3lxTE8zZVRXczZiaXRoN1BpY19xWmRpbmVxejMzMm1FUkFnT0s2eUh6Umg3R2tLWmZMSzItNzFTMHdodGVidEZlbElZQWVOLTFxNk4weUFjWGRyTERERzFPSThyQUdxb1FKUHRBNk1kZF9jXzZic2tsODNuZ1RaQXdCRGx3M3Vmb2t2R0tENFhjSmZhbjEzYjBZOWE4dVlsTGltRHE3UDNBRTRNT1ZUUmJBcmxyLW83YjlkU2JwdkQ0MWNhUVVuNXV1OHlNbVpKUDhkZGoyaUpIampTT1dsb2NqUlh2?oc=5",
@@ -2304,49 +2351,6 @@
       "score": 18,
       "firstSeenAt": "2026-10-20T12:11:50.172Z",
       "lastSeenAt": "2026-10-20T17:57:30.297Z"
-    },
-    {
-      "title": "DeepSeek releases DeepInfer, the engine it uses to serve its models - Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN3RPdUE4UEg4dmI1UllMUWxERExVX2VpZEZRRFM3RlJVRzFaYm9VbjNtODlzM2hFYWhYNm9CTkJDcmJEOUlmNmk0T2k0S01rTUFhRlFqY0ItUEFqV3lDUFIxc1NyYjlsZEl2Q3c0NXppcVVDUl9RWXNYMmNhQlQ3S2tOeWJJX0J5SGRMdHhCRl9jdzlobUE?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 11:03:16 GMT",
-      "summary": "DeepSeek releases DeepInfer, the engine it uses to serve its models &nbsp;&nbsp; Pasquale Pillitteri",
-      "outlet": "Pasquale Pillitteri",
-      "outletUrl": "https://pasqualepillitteri.it",
-      "source": "가속기 운영 SW",
-      "sourceIds": [
-        "accelerator-software"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-20T12:11:50.172Z",
-      "lastSeenAt": "2026-10-20T17:57:30.297Z"
-    },
-    {
-      "title": "AIB 데이터센터, 10월 투자설명회 자료 공시…포트폴리오 사업 현황 공유 - 데이터투자",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IdVRLTjR0OGl6WThHazVSWWhOMmdRN3BNV2NKRDg1RXduU0FuR3dLTVczR3FtYURJM3FoMkpUUHczMEJhNF9zQ2xJdi01R3pCdnBsV0R5bGY4cmp1OXFsNE56YlkxUDhlZTBHUXU0S3Q4dnM?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 11:01:26 GMT",
-      "summary": "AIB 데이터센터, 10월 투자설명회 자료 공시…포트폴리오 사업 현황 공유 &nbsp;&nbsp; 데이터투자",
-      "outlet": "데이터투자",
-      "outletUrl": "https://www.datatooza.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 14,
-      "firstSeenAt": "2026-10-20T12:11:50.172Z",
-      "lastSeenAt": "2026-10-21T04:59:05.638Z"
     }
   ]
 }

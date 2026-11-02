@@ -1,7 +1,60 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T08:20:08.101Z",
+  "updatedAt": "2026-11-02T12:16:34.842Z",
   "articles": [
+    {
+      "title": "퓨리오사AI, 8200억원 규모 시리즈 D 투자 유치 완료 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xcW1XQUM2VlFxNGN6TnE2ekNxQXZqTUFnTi0wd3EzN2xjSmdKOTdTTkdScmhWXzV0a2RIZkFDNjlQa0c3WDRJSUhMdlR2UQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 00:52:27 GMT",
+      "summary": "퓨리오사AI, 8200억원 규모 시리즈 D 투자 유치 완료 &nbsp;&nbsp; 전자신문",
+      "outlet": "전자신문",
+      "outletUrl": "https://www.etnews.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "furiosa",
+        "mobilint",
+        "mobilint-broad"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "퓨리오사AI"
+      ],
+      "taxonomyHits": [
+        "퓨리오사AI",
+        "투자·M&A"
+      ],
+      "issueCategory": "NPU",
+      "score": 23,
+      "firstSeenAt": "2026-10-29T01:46:05.232Z",
+      "lastSeenAt": "2026-10-31T22:49:34.559Z"
+    },
+    {
+      "title": "구글, 매출 25% 늘고도 주가 급락 “AI 인프라 투자 부담” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGajRCSjRpS2QxbEZ1aXJKUVNZS01zRzJ5clMyLTkyeHcwWUdNSVVGZnVfLXJLSF9BSDBiVU93SGc0VWhub3YwaWkwZmJmZw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 00:52:24 GMT",
+      "summary": "구글, 매출 25% 늘고도 주가 급락 “AI 인프라 투자 부담” &nbsp;&nbsp; 전자신문",
+      "outlet": "전자신문",
+      "outletUrl": "https://www.etnews.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-29T01:46:05.232Z",
+      "lastSeenAt": "2026-10-31T01:33:01.539Z"
+    },
     {
       "title": "알파벳, 클라우드 매출 103% 깜짝 증가에도 현금 흐름 악화 - 디일렉",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GQlpOSmJwTEo5SVFNSmI3dXNYQXhOZ1FsUGM4d0ZRaHpMTDh3M2FVOU5Td0p5bFdHeVJSemh4VmlTU2xVdi1FTnduZ0lFVEl1UzBRRWs0MVNyanc5OEJKdUUyTi1lUQ?oc=5",
@@ -2295,50 +2348,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-29T00:25:13.616Z",
       "lastSeenAt": "2026-10-29T01:46:05.232Z"
-    },
-    {
-      "title": "TS트릴리온 자회사 TS코어, CJ대한통운과 데이터센터 공조설비 계약 - MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RZ0tBOXROaUdnZDVJR2J0R0I1b0xHSWtJVlFQQ1dRQWtwdVhHbWtoZk5MZlJ0WTNaQXVWSm1BbXFURk1DZnRYZGRqUEZBbTJIT1ZZM2VyUkJpUW9uQXFR?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 23:47:19 GMT",
-      "summary": "TS트릴리온 자회사 TS코어, CJ대한통운과 데이터센터 공조설비 계약 &nbsp;&nbsp; MTN 머니투데이방송",
-      "outlet": "MTN 머니투데이방송",
-      "outletUrl": "https://news.mtn.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-29T10:51:24.641Z",
-      "lastSeenAt": "2026-10-29T10:51:24.641Z"
-    },
-    {
-      "title": "가온전선, 美 빅테크에 1200억 배전케이블 공급…AI 데이터센터 수요 급증 - 더테크",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfbGp0SlotRkNFb1pMU0VFNC0wak1YTm5qQnpqY2tSaWRMc1FBcy01Y0M2bG5ZaTNKSTh5ZnJzOF9vU0xtV21OZVJSQUxIMEdhSHdZUzdXalM3QlZjUTBZaU1lSQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 23:47:10 GMT",
-      "summary": "가온전선, 美 빅테크에 1200억 배전케이블 공급…AI 데이터센터 수요 급증 &nbsp;&nbsp; 더테크",
-      "outlet": "더테크",
-      "outletUrl": "https://www.the-tech.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-29T00:25:13.616Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
     }
   ]
 }

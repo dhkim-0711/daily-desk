@@ -1,7 +1,54 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T08:20:08.101Z",
+  "updatedAt": "2026-11-02T12:16:34.842Z",
   "articles": [
+    {
+      "title": "경북도 국산 AI 반도체 실증 거점 구축 본격화 - 경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ejdQeXFib1I4cWNOczM2Y09fSkNtaFd6bEdZSTZEd0pkUW9TcDFjbVg1QTgzc3JCeExwTXVDaDVJd3BjYlZCTzVQOC1qM3dwQ1VOblBfYWRlZw?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 07:15:00 GMT",
+      "summary": "경북도 국산 AI 반도체 실증 거점 구축 본격화 &nbsp;&nbsp; 경북매일",
+      "outlet": "경북매일",
+      "outletUrl": "https://www.kbmaeil.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "furiosa",
+        "ai-chip-public-program",
+        "npu-commercialization"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "실증·조달"
+      ],
+      "issueCategory": "실증·조달",
+      "score": 16,
+      "firstSeenAt": "2026-10-26T14:10:00.606Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "반도체 규제 13개 손질 나선 정부…삼성·SK 투자 속도 빨라질까 - https://www.newscenterkorea.com/",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZVXFMSUtRUU9hWFhXdlRTWV9RbkhCWWpHbm9KSklERjVkek5jTG0xOGRKN2c1ZTZZQnJBd3lPWU1uelFDMlRkcEpvS0ZPUXJhS0ltYkxHUGR0WTFlMlc5RlBnX1N6OHFnVFJoSlg1WWRsUQ?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 07:14:07 GMT",
+      "summary": "반도체 규제 13개 손질 나선 정부…삼성·SK 투자 속도 빨라질까 &nbsp;&nbsp; https://www.newscenterkorea.com/",
+      "outlet": "https://www.newscenterkorea.com/",
+      "outletUrl": "https://www.newscenterkorea.com",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-26T14:10:00.606Z",
+      "lastSeenAt": "2026-10-28T00:44:44.486Z"
+    },
     {
       "title": "경북, 국산 인공지능 반도체 실증·사업화 거점 조성 - 세명일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wemMwMWJiaUNOTm5xaWFaMDdoSzZ5YXJfRTAyb3UtNllva0ppQ01UbGNBY0dWN1hMcS00MFQzdWZiMTRET2RBaTVBY3BEYm10WEs4ZlVYV1BZbi1RZE5IWkRoaEJWVnZ4WlpVUmNzbkY?oc=5",
@@ -2155,48 +2202,6 @@
       "score": 11,
       "firstSeenAt": "2026-10-26T14:10:00.606Z",
       "lastSeenAt": "2026-10-28T07:24:09.373Z"
-    },
-    {
-      "title": "'데이터센터 특수' HD건설기계, 3분기 영업익 24% 급증 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcnpCekktbWtPM1RPZm1GdnZmUnVLV0h2YUJuSy1UaGplcUpyWjRZdkhYOVVYQ2otZVZWeHBUa29WZmpra2ZZdXhneDR0QUFiMk5oZjU4T2h2Q1JC?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 06:08:00 GMT",
-      "summary": "'데이터센터 특수' HD건설기계, 3분기 영업익 24% 급증 &nbsp;&nbsp; 뉴스핌",
-      "outlet": "뉴스핌",
-      "outletUrl": "https://www.newspim.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-27T01:26:41.178Z"
-    },
-    {
-      "title": "신정훈 의원 \"특별한 희생에는 특별한 보상해야\" - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10YlZoVHlES1d6eExsQlF1N2UyNmc0UE5vaGZ1cFZabzlpTWJKYlFwUmxoU2VIX0ZwYnBjZ3p1aURPaGNjcjU2VXVxSlFsY0VybTgyRlpB0gFWQVVfeXFMTXRiVmhUeURLV3p4TGxCUXU3ZTI2ZzRQTm9oZnVwVlpvOWlNYkpiUXBSbGhTZUhfRnBicGNnenVpRE9oY2NyNTZVdXFKUWxjRXJtODJGWkE?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 06:08:00 GMT",
-      "summary": "신정훈 의원 \"특별한 희생에는 특별한 보상해야\" &nbsp;&nbsp; 더팩트",
-      "outlet": "더팩트",
-      "outletUrl": "https://m.tf.co.kr",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-26T14:10:00.606Z",
-      "lastSeenAt": "2026-10-28T05:53:34.298Z"
     }
   ]
 }

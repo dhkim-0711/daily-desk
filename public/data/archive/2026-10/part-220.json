@@ -1,7 +1,53 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T08:20:08.101Z",
+  "updatedAt": "2026-11-02T12:16:34.842Z",
   "articles": [
+    {
+      "title": "AI Stocks Stumble, And Bonds Start Acting Like Hedges Again - Finimize",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYmwzUDJpc3ctZjZWbU0yVVJkSjJZYkg1ZVhiUHNxWkl6NmpUbFhjS19XNGlsMHJQMW1MOGstelowTHc3eldzOGhZdS04c2xTUFNxM1ZNaktOVkdQVGE4dERsM29vYWhtZlZfQUQ5XzZubDBLbENyZWJGbmlkLWx1VmJBdXBlWDRCMWRDQUlBOUc?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 06:01:44 GMT",
+      "summary": "AI Stocks Stumble, And Bonds Start Acting Like Hedges Again &nbsp;&nbsp; Finimize",
+      "outlet": "Finimize",
+      "outletUrl": "https://finimize.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-15T12:07:07.357Z",
+      "lastSeenAt": "2026-10-15T17:44:44.157Z"
+    },
+    {
+      "title": "“딥엑스 NPU, 3W로 영상·언어 AI 구현”…라즈베리 파이 공식 소개 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yVUhrUWhNSE1oTjVDNjR1Y2VYTjBkakxtSXRiZndYYVktT1lmbE01WTRmQUQ0bUJvSkZNc3dLYmxJR0ktYjBFT0FCLU90QQ?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 06:01:27 GMT",
+      "summary": "“딥엑스 NPU, 3W로 영상·언어 AI 구현”…라즈베리 파이 공식 소개 &nbsp;&nbsp; 전자신문",
+      "outlet": "전자신문",
+      "outletUrl": "https://www.etnews.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "deepx"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 23,
+      "firstSeenAt": "2026-10-15T12:07:07.357Z",
+      "lastSeenAt": "2026-10-18T05:48:25.445Z"
+    },
     {
       "title": "AI 사회적 영향 조사에 노동자 배제…정부 \"거버넌스 구축\" - 지디넷코리아",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwQ3hpa0VkUERPa2dsb24xRWVRWGFZZGJZZ19iTkh0UUpUWnZvWGlMMGZkRktPMVlvY2lldld6SmVOZFN3X2JLQUVsd045Vzl0R29RMF9R?oc=5",
@@ -2152,57 +2198,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-15T04:59:50.156Z",
       "lastSeenAt": "2026-10-16T01:39:04.387Z"
-    },
-    {
-      "title": "FuriosaAI pitches energy-efficient inference chip as an alternative to Nvidia - iTnews Asia",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmlhTDJxaDZBcmgtaTZrdXFRblZXUkRPdTQtR3l6SWF0em5mSS00Q2YydVR3WENZdUxtalowNHN1ZU5WdF9PNHptNGExTW9fVFhjYzBLUVN6RzJfcDlpNkRpMU9EOG5nR0ZMQW4wMDUwOUY5QnREZUJwZk9SNFZCTHJYdjNYSGNYMlpLMV9zYmZ2VmUydFhESFJmekdCR0taNThpV24zUm80VVB1alRtQmxETQ?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 04:52:54 GMT",
-      "summary": "FuriosaAI pitches energy-efficient inference chip as an alternative to Nvidia &nbsp;&nbsp; iTnews Asia",
-      "outlet": "iTnews Asia",
-      "outletUrl": "https://www.itnews.asia",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA",
-        "퓨리오사AI"
-      ],
-      "taxonomyHits": [
-        "추론",
-        "퓨리오사AI",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 25,
-      "firstSeenAt": "2026-10-15T04:59:50.156Z",
-      "lastSeenAt": "2026-10-15T12:37:32.831Z"
-    },
-    {
-      "title": "From lab to impact: Advancing AI for real-world progress in India - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2NLYXRHZFFMZ2gyaGJ3S25xS0owTnZGNFBxRE10OWh6UTl5M3lnM0tPMGQwam5DVVV6YTRDSGRqUDhVZ21EbHU5bEJEek9XOEg3d3gwR3BjM3BNR01hQTRvSTF1RFZ5Si1MRUJpbDMxdzZQS0tlc08yUm5ZMWhOa1VDQVBHN2N5clFJc2F2YlR4dUx0WXFYMzM2bHZ5Mi1ib2JaMk5zOUNYOFA3aFE?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 04:51:57 GMT",
-      "summary": "From lab to impact: Advancing AI for real-world progress in India &nbsp;&nbsp; blog.google",
-      "outlet": "blog.google",
-      "outletUrl": "https://blog.google",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-15T12:07:07.357Z",
-      "lastSeenAt": "2026-10-17T23:59:04.133Z"
     }
   ]
 }

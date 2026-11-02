@@ -1,7 +1,54 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T08:20:08.101Z",
+  "updatedAt": "2026-11-02T12:16:34.842Z",
   "articles": [
+    {
+      "title": "[Weekly 신기술 및 정책소식] KAIST, OLED 수명 예측 기술 개발…미세한 밝기 변화 분석 - KIPOST",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ncy1iYXlSc3JDckxKcWlVaEtOVEJRT0FFSjdFTjhMM2h5Mkl4ZkotbklvMmt1Y1h2VF9oYVk2aWhoekJyTzBqZ2FWNEZGN0tac0VvRV9oY3lDQ0FsakxFMmNJd2I2MUtD0gFsQVVfeXFMUFVEVDFqNzdXRHRQc1owWjBxS3dLdFJjNjctejNHMkM2XzU5Z3VmYTJrTWx4NjVyaEV1TUVfYXFhcXFFMnByNEdSTU1iOUV4OWNpTDJ1OVNnc0hISEM3RkVOSGg1ZnhISllpaXJw?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 12:55:33 GMT",
+      "summary": "[Weekly 신기술 및 정책소식] KAIST, OLED 수명 예측 기술 개발…미세한 밝기 변화 분석 &nbsp;&nbsp; KIPOST",
+      "outlet": "KIPOST",
+      "outletUrl": "https://www.kipost.net",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "정책",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 14,
+      "firstSeenAt": "2026-10-23T17:51:18.501Z",
+      "lastSeenAt": "2026-10-25T00:16:47.040Z"
+    },
+    {
+      "title": "The Telco AI Mafia. Meet the Companies Betting on NVIDIA to Get Rich from AI. - Sebastian Barros Newsletter",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3FNQlk4WW5SS0NkVXRPRXFxUXFUR2NITmpzMmdMUFc0c1dYRU52aVpzMFhVTE81b0tLZUdNZEtiWUxseHlqYWl6bEtKX1dVSDZmX0E4aktzdFNhU3dzY0FCbEZhSHpva0FuY0xKU2RTMWlYZGdNZF9XNDc5ejdpTUtn?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 12:55:20 GMT",
+      "summary": "The Telco AI Mafia. Meet the Companies Betting on NVIDIA to Get Rich from AI. &nbsp;&nbsp; Sebastian Barros Newsletter",
+      "outlet": "Sebastian Barros Newsletter",
+      "outletUrl": "https://sebastianbarros.substack.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-23T13:48:54.332Z",
+      "lastSeenAt": "2026-10-23T17:51:18.501Z"
+    },
     {
       "title": "Meta stock pares losses in pre-market trading following yesterday's 7% decline - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBsWC1HZmNiRnJHT3RIbzlmcmZLZVpRVVlibk5sMFhyLUJfSHVtZlhxNzBLWkJ6RkgtWWprZnl2ZUVCeVBzb3NOVzlJQkYwbjBvVzQtaFZDSk9rZGxlYWVjMEJnWFY0LVFiUVM0S2J1T0ExVTJMcFY4QjJ1ZDgwNVVrVEpENFpJMHVrRkpoVXJvSTktOE9fMU94dnpLR1UxWWlSTFVHallWRG1DTDBhNXJobzJpek5UeTk3dUFRZl9QMnJhaGo1OXo3TUhSeEg0LTVQeHZiZ0NuZw?oc=5",
@@ -2261,48 +2308,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-24T00:03:33.173Z",
       "lastSeenAt": "2026-10-24T00:03:33.173Z"
-    },
-    {
-      "title": "Jensen Huang: Why AI Memory Chip Oversupply May Not Arrive Until 2029 - KuCoin",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2xtSnVGR2lNdDFIQjV2OEV5bENoXzB1eDJaaEVPcTcwNUlBQTJ0YjhHZmFuVVc0SzduZmtDM1d2WVRJMzV0RXFUUXlDRnJnRW81M1lJOElHSUpOOGl2b0h6OHNodWNfRkNjWnpUQnVvZVlXQVpfMWgyeWlxNzZjMGNKRXNiQTVObTRWeWlNeU5qX3JFajFPZTNKWDA?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 11:02:00 GMT",
-      "summary": "Jensen Huang: Why AI Memory Chip Oversupply May Not Arrive Until 2029 &nbsp;&nbsp; KuCoin",
-      "outlet": "KuCoin",
-      "outletUrl": "https://www.kucoin.com",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 12,
-      "firstSeenAt": "2026-10-24T14:07:23.306Z",
-      "lastSeenAt": "2026-10-25T06:00:10.063Z"
-    },
-    {
-      "title": "HVAC AI Adoption: How Contractors Can Improve Profitability and Build Trust - Contracting Business",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLU9TSUxiUmZ6TndYUk5mbTI4Sy1yejlZR2xLN25Ed1lXUXlkMzRqeVVPUjJkME0wbVNRbzJQb2JsWkY3QTRiV2ZlSnNoY2tQNVI2X3VZUlV4SUR6VkFsak8xdDhXcDZjckNmdVc0OUdJbC1OV3lDVVdtYTJweGdFZ0M4WE5DeV9wcElVVFRoenpPd1BfRk5ZdE5LbU9LYjNxUEtpYmY5SXctT3FsWGZBYVhpU2VRVHR1WkdQOXFWWFJxRmMtaGd0TzIwODVKTFJlVkZTdA?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 11:01:11 GMT",
-      "summary": "HVAC AI Adoption: How Contractors Can Improve Profitability and Build Trust &nbsp;&nbsp; Contracting Business",
-      "outlet": "Contracting Business",
-      "outletUrl": "https://www.contractingbusiness.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-23T12:35:23.942Z",
-      "lastSeenAt": "2026-10-25T01:38:19.640Z"
     }
   ]
 }

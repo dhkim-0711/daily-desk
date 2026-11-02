@@ -1,7 +1,53 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T08:20:08.101Z",
+  "updatedAt": "2026-11-02T12:16:34.842Z",
   "articles": [
+    {
+      "title": "California Subpoenas OpenAI Over AI Agent Cybersecurity Breaches - Security Boulevard",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU1hOZU9BRlg2Q1JQNWJTcHR3a1BwdS1OQlI0N3NRbExkak5GLTFUWU93YkQ1R0wwRVN0MFFuLTRnUWhjZzZTd2FJaVY0ZloyQzBOc2tMU0FUV3RsN1BjZGlEOWdhc3BBU1VTU0tGUnNfdC1iaTF4UHhheDRpZGtfRzVadGlyd1dLLXMweUZDc2JPNmJ0X1FDYkhINUY2SEhhNENQV1Vn?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 19:58:57 GMT",
+      "summary": "California Subpoenas OpenAI Over AI Agent Cybersecurity Breaches &nbsp;&nbsp; Security Boulevard",
+      "outlet": "Security Boulevard",
+      "outletUrl": "https://securityboulevard.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-05T22:54:59.985Z",
+      "lastSeenAt": "2026-10-06T17:25:04.264Z"
+    },
+    {
+      "title": "Reactor Adds NVIDIA And Sapphire Ventures To Series A Round - Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVFh1SDdKUTdXMHpOQlVIbjg2aTAyYTRxUW1iWUJPWGd1UkI1X05pZ0wwS25hOVFnX2Nmb2l1aG04cmt5SU96MnQwTGVvN3lvaWNhNlRCa3R3U0ViUVJuSm1NbllGc0ZyUGdHUWZCYWRHQ1dsdUxmSXhHbmlodlpTTEtndDN2UdIBiwFBVV95cUxPZDlnRU0tQ3p5SV9qdF91Y3FGc0JBTGIzR0tRZnZVbUpxcU80SFZ1bF9zUmx4MUxqNnJ6Z1ZvUkp6LWZNM1JKaDNrc1NCT2FFNldmLWY5WjhGYUlEcEtqUy1VclNWUkFVajVTLWNJaGEwY3ZvSjI4WkVXd1M5d0YyT04xM3BvMFdnY0Rj?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 19:57:25 GMT",
+      "summary": "Reactor Adds NVIDIA And Sapphire Ventures To Series A Round &nbsp;&nbsp; Pulse 2.0",
+      "outlet": "Pulse 2.0",
+      "outletUrl": "https://pulse2.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-06T02:13:47.006Z",
+      "lastSeenAt": "2026-10-06T08:57:16.710Z"
+    },
     {
       "title": "Ex-OpenAI researcher tells NYC lawmakers AI safety fixes may be 'duct tape that will fall off' - Fortune",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMC1OZFVHa1hpUlNwOGhCaGlROXZveUpDdWxuNGM5YTVnVEFLNWRaUEJCanp6ck9GallxZm95Y0hnVXhIcUhrNWhPLW9ZOXFZck1aMVJNWE5QLThWM3hxRDNiZWJTazdkYXRBcERsOC1waGRBSHo4ZVNXYnhONXlORC1saHo5WnB3OUZEcmdyM2p2TzZHNDhaYVlJc0I1cW9EbXc?oc=5",
@@ -2208,54 +2254,6 @@
       ],
       "issueCategory": "NVIDIA",
       "score": 15,
-      "firstSeenAt": "2026-10-05T22:54:59.985Z",
-      "lastSeenAt": "2026-10-06T02:13:47.006Z"
-    },
-    {
-      "title": "Nvidia, OpenAI and the AI Money Loop - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Sd2VwcEdUTWFQQl9BcHZ4OE9jbW15aXVVcEpkUktuSVVERGwteDkzUVNPYmd6cUNBMWdKaWk0S3VhMWpUaXcxN3EwaW9fNXlCaDdCQ2ZTT1JyMXhBMmxUMUVINVFxVXJpZjlYc1gwcFFlQmFKUms5aXk1dw?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 17:20:06 GMT",
-      "summary": "Nvidia, OpenAI and the AI Money Loop &nbsp;&nbsp; Benzinga",
-      "outlet": "Benzinga",
-      "outletUrl": "https://www.benzinga.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-05T22:54:59.985Z",
-      "lastSeenAt": "2026-10-06T02:13:47.006Z"
-    },
-    {
-      "title": "Google, Amazon, and Microsoft Face a $4.2 Trillion AI Problem — and the Math Is Getting Dangerous - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdnZPRnRJdmhaZVVxbFV1UWR6QWVaWmdVSHlfQ3FjSDBwYzRxYjZyUC01UmNuUlo1aXg5YzFKb2lQWHFxaWpRaUZxM1g0XzRNM21BQmo4REZPTUpncHNxSmZZLWZRNGhSVzM5WDhaSUlKeEVuNVh6cXdmbkJuX1Fiek13Ukx6dWQ1UllLb0hQamJCRWRiVXViQUZjaTJRZ3BYRGl0clcxOE5iZjNoM0l3Q1U4dEVWNERRek50cTdBUTU3LWRQU1RIbHZoSWFjbzVfaXc?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 17:17:40 GMT",
-      "summary": "Google, Amazon, and Microsoft Face a $4.2 Trillion AI Problem — and the Math Is Getting Dangerous &nbsp;&nbsp; Barchart.com",
-      "outlet": "Barchart.com",
-      "outletUrl": "https://www.barchart.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
       "firstSeenAt": "2026-10-05T22:54:59.985Z",
       "lastSeenAt": "2026-10-06T02:13:47.006Z"
     }
