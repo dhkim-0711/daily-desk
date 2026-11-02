@@ -1,7 +1,139 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "세종대 박기호 교수, 아테네서 AI 반도체 시스템 구조 국제 워크숍 개최 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZZ2NsSGlLWGhDdHN5N2ZTRnp4a3JaTTFFTElucnR6UDFaQm1ZNWZqMGhET0ZUR1JTUF9pa01PaGlQb2VVYXd0VzVUeWZaamhiNTFlYWJuYmJGX29ISnZ4cTEySFRrOWl0MVktcTVMOUdEZw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:01:47 GMT",
+      "summary": "세종대 박기호 교수, 아테네서 AI 반도체 시스템 구조 국제 워크숍 개최 &nbsp;&nbsp; 중앙이코노미뉴스",
+      "outlet": "중앙이코노미뉴스",
+      "outletUrl": "https://www.joongangenews.com",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-11-01T01:02:49.409Z"
+    },
+    {
+      "title": "엔비디아 지원 받는 인니 AI기업 잔코어, GPU 구매 목적 31억 달러 대출 추진 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKOVcxcXM0Rm9GTW80ZlBwT3ptYnlIWTZFVjRmcjFhaGVYdWNpa1F4c2JuTDRhaGN3QXI3UTNid0thaHZYR004Wl95aUlTQ2lBb0E3UUZpV01CYnVhckNrRHlIYw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:01:01 GMT",
+      "summary": "엔비디아 지원 받는 인니 AI기업 잔코어, GPU 구매 목적 31억 달러 대출 추진 &nbsp;&nbsp; 더구루",
+      "outlet": "더구루",
+      "outletUrl": "https://www.theguru.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T18:56:42.064Z"
+    },
+    {
+      "title": "美는 데이터 센터 '밀실 개발' 제동… 韓은 거부 없으면 허가 - 한국클라우드신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81X1psYkVWMFFEMldEamNpVXg5NjJlbTJPc1ExWDkycWQ0cC1LbldvaDVFaXF4WmwyQXh6cVIxQld2VFZDWjAtS0dwUWlkZUR2MklONHNuS1N3bDBwbzNScmxwQjZ2R1R1d0lBdllZSdIBc0FVX3lxTE1pS2trWWo3dldNV1lkVnVEUzVpQjNhLThqSXdiX0JQUTJHV1FicUFfTUs3aVBaMHFKTmNid2thMFdTUGs3c24xY3M1YlJlTDBkLUZDd21GN1F3Tkowa0VqZnVKMlc3cXRCcThrVFBOWHhDX0E?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:00:50 GMT",
+      "summary": "美는 데이터 센터 '밀실 개발' 제동… 韓은 거부 없으면 허가 &nbsp;&nbsp; 한국클라우드신문",
+      "outlet": "한국클라우드신문",
+      "outletUrl": "https://www.kcloudnews.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 11,
+      "firstSeenAt": "2026-10-29T23:35:43.436Z",
+      "lastSeenAt": "2026-10-29T23:35:43.436Z"
+    },
+    {
+      "title": "삼성전자, 반도체서만 106조5000억 이익...\"내년 HBM 이미 완판\" - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mX19Qa0V3aWRWajl1eFNTVXd3VHhJWlJLbjRzQWtqb2hfTkF6Mk9vdVdOc05fcXJ3LXJYcTRma2x5TDFsUV9sT1RxcnlNTVhnOE1EbXBtSmlCWkh5MnNDT2FrMTJUQQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:00:50 GMT",
+      "summary": "삼성전자, 반도체서만 106조5000억 이익...\"내년 HBM 이미 완판\" &nbsp;&nbsp; 디일렉",
+      "outlet": "디일렉",
+      "outletUrl": "https://www.thelec.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-29T10:51:24.641Z",
+      "lastSeenAt": "2026-11-01T01:02:49.409Z"
+    },
+    {
+      "title": "Nvidia Stock Has Dropped Nearly 6% in a Month; Now Jim Cramer Is Asking Why ‘Anything Negative in Tech’ I - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmMtRmV3UmRJOVFzQ0NyS01vaVlnTTBXV01GbW52UDhNeGo4ZHNfMWNTUmE2MW1LT01Fb19xZDB6VndBOVlQTldtNFZLeXJTRDZuRndHWEVZSnIzV3FzUEZRUEFXQ0RFdnJGbnFNY0FaOUtLdDRkak40Q0hUZjkzaThiY1ZwNFYwWnNvRHNwYlpEOEk0T291Q3paTzhFTnlzODRxRXRib0t3LWVpanV2cQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:00:35 GMT",
+      "summary": "Nvidia Stock Has Dropped Nearly 6% in a Month; Now Jim Cramer Is Asking Why ‘Anything Negative in Tech’ I &nbsp;&nbsp; Benzinga",
+      "outlet": "Benzinga",
+      "outletUrl": "https://www.benzinga.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T10:51:24.641Z"
+    },
+    {
+      "title": "[현장에서] 첫 삽은 떴는데 전기는 어디서 옵니까? - 뉴스타파",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XbjlEeVI1VXNHc01fSHdVV3k2OXBpYVVsQXk5dHZqTjFfaTRJbk9ycG9QMWhfQ05jWnBlNm1USjZoVURXV1pZTHZ3?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:00:34 GMT",
+      "summary": "[현장에서] 첫 삽은 떴는데 전기는 어디서 옵니까? &nbsp;&nbsp; 뉴스타파",
+      "outlet": "뉴스타파",
+      "outletUrl": "https://newstapa.org",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-11-01T06:37:30.498Z"
+    },
     {
       "title": "AI로 돈 버는 빅테크… 韓 반도체 ‘완판’ 탄력 - 아시아타임즈",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsX1lTSzltbk5VRW5EN19feTJjWVo0XzN2WnNwUE9uTER2b290QkU2NlN0Nm9GUHNOZnQwOHdYNXp5N2xZMEpuWFIxMmVPa3o1b0J3YU05LVZBdjdjZGc?oc=5",
@@ -2162,151 +2294,6 @@
       "score": 15,
       "firstSeenAt": "2026-10-29T01:46:05.232Z",
       "lastSeenAt": "2026-10-29T18:56:42.064Z"
-    },
-    {
-      "title": "클라우데라, 엔비디아 에이전트 툴킷 기반 ‘클라우데라 블루프린트’ 출시 - elec4",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00NEJDSW9EdnVsYW5oTUV3THFSQm9OamhMVnpmNlB2VUxZd0x3Zkp0Yk40b3FMQ2tCbzhKVnVEMF83SHR0dHlWUnVGMGZkYmtGNG5yaXdxS010eVJsMUNNb3ZCOUI1NUM2MFpiQkt3?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:46:28 GMT",
-      "summary": "클라우데라, 엔비디아 에이전트 툴킷 기반 ‘클라우데라 블루프린트’ 출시 &nbsp;&nbsp; elec4",
-      "outlet": "elec4",
-      "outletUrl": "https://elec4.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 18,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-10-29T10:51:24.641Z"
-    },
-    {
-      "title": "SK하이닉스 오르고 장비주는 엇갈렸다…HBM 테마의 '온도 차' - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95X24xbk4tekJMcExLYkdlVmctcTB2QkIwSjdtbWR0dXJvTEowemRKUEpZQVkwcU5CQ1VMVVh4LVNST2l5UHFwa09ieWJWb05DQVFyVXExbi1WTjRsN0kxM2tMM21XYU1NQnNuWHQ3WWY5Mjk4UmRN0gF3QVVfeXFMT3lfbjFuTi16QkxwTEtiR2VWZy1xMHZCQjBKN21tZHR1cm9MSjB6ZEpQSllBWTBxTkJDVUxVWHgtU1JPaXlQcXBrT2J5YlZvTkNBUXJVcTFuLVZONGw3STEza0wzbVdhTU1Cc25YdDdZZjkyOThSZE0?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:46:16 GMT",
-      "summary": "SK하이닉스 오르고 장비주는 엇갈렸다…HBM 테마의 '온도 차' &nbsp;&nbsp; 핀포인트뉴스",
-      "outlet": "핀포인트뉴스",
-      "outletUrl": "https://www.pinpointnews.co.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T18:56:42.064Z"
-    },
-    {
-      "title": "Alphabet, Microsoft earnings reveal surging AI demand as spending soars - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczBCR3lMOUs2T2htM19DTlFzak8tVGNlTWZtUXpVU1ZDN05VMzBJOVU5bW9PV1lFOHRIYnR3SmhtV2tvUHQ2dWs3SEVBOEU4LUhjOFQyNHlFeV9HSVNCWW5STWtCdkJOc3d2VzNGMndvNUhMbERiempLNEhhZFRuWllWYkJxTndrM0FQYndUUkVEYzRsVjFSRWplYWpxUmFDTGFrQXhTd3FvZ9IBrwFBVV95cUxPMUtPOHJ1NUdHS3lXb3M1MVVBZklOanF6aFY2WkVCUE9pR0N3Z05ZOU01T3R5LUpFejJEUGVjQ3g1YjNBSEhqXzBxanphYXRHeVR0MzR1MTg2LXNlMzBNOFduaG9ZVGozeDRlSFFERUpEU1BERTY3ejJ2MWJaVDZPRUhpSkh5cXd1b2RJWmZudnJTRW5yRll1Qm81TTgyLXMtbUtqQ1RZZjFncEI0dmg0?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:45:00 GMT",
-      "summary": "Alphabet, Microsoft earnings reveal surging AI demand as spending soars &nbsp;&nbsp; Fox Business",
-      "outlet": "Fox Business",
-      "outletUrl": "https://www.foxbusiness.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global",
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI시장",
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-31T22:49:34.559Z"
-    },
-    {
-      "title": "퓨리오사AI, 8천200억 투자 유치…기업가치 3.8조 평가 - SBS Biz",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqWDZBbWlLZ0RxcVlCRDU1dWpjY1VGVzFwUW80S29WOG1rNERqc3BBZnJmeU9PbllSS3BJNTlhcDI1SGxwVXJTYXltcHpjXzlCOWVN0gFYQVVfeXFMTmNqcWdFTWVNbWlYdEplbk1EYXl6SnVIdXAtR2Roa2RYbUxWZG1BSFJ5enU2MFhfZHFGWjdqUzEwNjhiTGlrVGV0cUtrUzlkaks0cTQ1N09lNQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:45:00 GMT",
-      "summary": "퓨리오사AI, 8천200억 투자 유치…기업가치 3.8조 평가 &nbsp;&nbsp; SBS Biz",
-      "outlet": "SBS Biz",
-      "outletUrl": "https://biz.sbs.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "퓨리오사AI"
-      ],
-      "taxonomyHits": [
-        "퓨리오사AI",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-31T22:49:34.559Z"
-    },
-    {
-      "title": "현금을 벌어라…FCF에 MS는 웃고 알파벳은 울었다 - 아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jSzZzWDY3eHBCdEU4d3A5NXZjeFlqUk5mLV9VZzFYaG9LbWtDZzc3ZTJJUTE3ZThWeE1ZSU9CczNZR051OEpsNEhVbE9udGlkTTRxOXhEMjVBQdIBWEFVX3lxTE0za0ltX096cE5ZZ2ktV1RmUC1Hd2xKZzJRUnZZbk95M1hjVTRteXk4Ry1XRGtGYl9zVE5VZGJNd0hxQmtmQk5lUk9GR0ZqWnlBc1YzVzliblQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:44:43 GMT",
-      "summary": "현금을 벌어라…FCF에 MS는 웃고 알파벳은 울었다 &nbsp;&nbsp; 아주경제",
-      "outlet": "아주경제",
-      "outletUrl": "https://www.ajunews.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 15,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T01:46:05.232Z"
-    },
-    {
-      "title": "Google Pushes AI Agents Into Commerce as Spending Pressures Cash Flow - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzhGS1BoX1lnWEZvTmx2ZXBnSXd6NVM2RE5hT1ZTVWNUT1NwWkpRYzFvampSbFp6LTZOaDZqV1pJbmYzcUpPZVo0ZTdpY2g0UGpZMUctWWpUZmVWa0pVUGxPV0pPOExPT1VnV1hfUTRkRjI0N2hwbGtGdkRjcXlkbHFMWG9KSnVQeEY5WWdRdWM3OWtzaWlNcHk0MFM2ZXViYXhZUWE2d1NVU0U?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:44:06 GMT",
-      "summary": "Google Pushes AI Agents Into Commerce as Spending Pressures Cash Flow &nbsp;&nbsp; PYMNTS.com",
-      "outlet": "PYMNTS.com",
-      "outletUrl": "https://www.pymnts.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "Google"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-10-29T01:46:05.232Z",
-      "lastSeenAt": "2026-10-29T13:43:00.739Z"
     }
   ]
 }

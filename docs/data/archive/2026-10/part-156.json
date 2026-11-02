@@ -1,7 +1,147 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "What is Google Cloud? Everything we know amid major internet outage - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjVXaDZCNjRzdUhXSmljZFNBSDh6ZzdOc21wakpuMXllRGtpQ2haNG9oSk1LYUZiN0tmMDV2cXA2bGhya2djTFlxWlh6VjRGbXlfU3NjM1VBcEZmVDkxMk1fRy1hQS1fTGZVMk15R2JqU243ZDUtcG9zRDBBY3ViQ3l0dWFnWXhBSDRMbWJuWGZBVHZGSGNoMFpuOGQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 09:52:00 GMT",
+      "summary": "What is Google Cloud? Everything we know amid major internet outage &nbsp;&nbsp; The Independent",
+      "outlet": "The Independent",
+      "outletUrl": "https://www.independent.co.uk",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-21T00:34:26.486Z"
+    },
+    {
+      "title": "Nvidia standardizes HBM production at TSMC - Techzine Global",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWhlSzZ1dGNFNVRtUXVwMTBqcDFkNWVGSnRCY3o3a0wzdjNEQTZscF96QWRzdWhveE5zR0RIWmVMNzRsVkttamxseUdXRHZReHFUUkJLc3NkZ1hrYVFadXpDTEVidWlpaXd4Wlg4ZDlRTVpLV3lodkNNdjVsbzhLaGdiYi1MRHNGMlMta210Rm9WejQ3aVNHc09R?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 09:51:03 GMT",
+      "summary": "Nvidia standardizes HBM production at TSMC &nbsp;&nbsp; Techzine Global",
+      "outlet": "Techzine Global",
+      "outletUrl": "https://www.techzine.eu",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai",
+        "memory-packaging"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "TSMC"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "파운드리·패키징"
+      ],
+      "issueCategory": "AI시장",
+      "score": 22,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-23T07:56:19.361Z"
+    },
+    {
+      "title": "G20 central banks call for responsible AI adoption - Asset Publishing and Research Limited",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUZvdDRQN1dnU0dPLWphal9HdTVMS2VTYUpJc2tPVEFuYmtWNmpWdWtKLXVwM1d5RWRnX1E4N0dLU29pUlhxODBZTFIzSW1QUF82ZFQ2M2xXeThDVW1zckpENDhzY2dxaXdhVVNVSm5KRENVY2hBblItUTVuSWY4SC1vRFB4TC1BSENUWGJhekRpTFk?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 09:50:01 GMT",
+      "summary": "G20 central banks call for responsible AI adoption &nbsp;&nbsp; Asset Publishing and Research Limited",
+      "outlet": "Asset Publishing and Research Limited",
+      "outletUrl": "https://www.theasset.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-20T12:40:52.451Z"
+    },
+    {
+      "title": "China Steps Up AI Investment With $9 Billion Fund Backing Model Developers - Caixin Global",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS0c1OWJ5Vi1SRFR2aUxOV05SN0hjTG5YTUUxcnc1UXR4MnFpMmtvYWNlaV9sSlZWS2hMQW9TcGVRNGtxVF9tcmZoYjdjZzJWbjNtZTA5SDV5WV81WmFaeUNvQ182RUZqd29XT1lhajJmTnFiNk9uc2xtaFduMzFwUWJGUWhVZ1NEY1RkOUFidmZLVmhOU0hycTNjclVoN3hKT2NlNmZGR1d0ZTFxTTVzM1JDQTIzM3dzSVo0TmQ3VTM5c1cyS2JR?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 09:49:00 GMT",
+      "summary": "China Steps Up AI Investment With $9 Billion Fund Backing Model Developers &nbsp;&nbsp; Caixin Global",
+      "outlet": "Caixin Global",
+      "outletUrl": "https://www.caixinglobal.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "수출통제·공급망",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 22,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-21T00:07:51.661Z"
+    },
+    {
+      "title": "Millions unable to use Revolut app or cards as company suffers ‘service disruption’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFlKekU1Q1lvSWthRzgyR0ZrbGRxbnVLcVAtYUlsaXFNdU5NTG1sUkxud2E0RWJSLXhZX3RwcmpHR3BDY21uUGVJbklBalgwX1RaV1ZKak11NFE5bEllUGZVQjdTaUpqeHh3ejhpR3BwQ1FKeGNrNi1HWjU5ODBSckFzT3puZUJ5VjdNdFRPS3daX1JI?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 09:46:00 GMT",
+      "summary": "Millions unable to use Revolut app or cards as company suffers ‘service disruption’ &nbsp;&nbsp; The Guardian",
+      "outlet": "The Guardian",
+      "outletUrl": "https://www.theguardian.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-20T12:11:50.172Z",
+      "lastSeenAt": "2026-10-20T12:40:52.451Z"
+    },
+    {
+      "title": "[국감]칭찬은 통합교육청도 춤추게 한다...안규백, 전남광주 정책 호평 이어가 - 남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zWVd1NDlnMzZHSUdPT3k0bk5yRlByLVVtSFVEemJRTVAwZDMyVkJxbjhmUnkwQWtXUmpSbjFPcGtWaUkzcG92bWtfTjFGbk9pb1IxQXJ6cVFDelBKX055bXZkRThOUEU2cVg0YdIBcEFVX3lxTE9BWnNpS3k0Y3RSanVVdUxla0hQXzgtaVpqRjF3ek91ck9yd3JJcHg1bnByQmV4N0FwQkRiTDVIZ3dxNEYtczNNQk10Rl9TakNDQXZpbU9BSWlqSk5sTkZKTktvNUFycF82VnFpWnJDT24?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 09:45:05 GMT",
+      "summary": "[국감]칭찬은 통합교육청도 춤추게 한다...안규백, 전남광주 정책 호평 이어가 &nbsp;&nbsp; 남도일보",
+      "outlet": "남도일보",
+      "outletUrl": "https://www.namdonews.com",
+      "source": "정부 NPU 정책·예산",
+      "sourceIds": [
+        "government-npu-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "정책"
+      ],
+      "issueCategory": "",
+      "score": 11,
+      "firstSeenAt": "2026-10-21T04:59:05.638Z",
+      "lastSeenAt": "2026-10-21T05:58:07.008Z"
+    },
     {
       "title": "[국감]전국 최초 교육통합 무색…전남광주교육청 국정감사 ‘맹탕’ - 남도일보",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uNzN2T3FURGNkUFB5dlR2Ul81Z0VZV2pRbnNZTnJhWGV0QUp5dUZBem1DWmpwWEQ2ZnlibGFwWmQzTVBONmNtdVRtZjJDMmdqYnZfWERXX2JIWDN0SlFJMEJiZjVkWC1BalpjVNIBcEFVX3lxTE5oMnNaYm10TmhoSndzd3NrRGpjT2xZMVdYZ0hzdHA3SnRfdHp0VHpoMU5kQkk3c1Z5U1BaY3NkWjY0bjh3TWVSRnJIbXFTVlEtemZLcGo1N1dBRnNRNGZfdGJLN3FzbmxLcXNraDg5bVE?oc=5",
@@ -2096,128 +2236,6 @@
       "score": 11,
       "firstSeenAt": "2026-10-20T17:57:30.297Z",
       "lastSeenAt": "2026-10-23T01:57:31.733Z"
-    },
-    {
-      "title": "[증권言言] 하나증권 “삼성에스디에스, AI DC 추가 확보·글로벌 사업 추진 기대” - 마일드경제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PX0xLTXFRSS1hQ3FQbW1xMjY4RHZBM2tuV19hT0NtbGRjQkpWSzdhVk1FcTBlUFR2MVR6Y3c2MjZWazE3dXVzTkxublB5MkZXN2NBM3NJZG82eEtwcjcwUW5vMEh4bHZfNnln?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 08:33:00 GMT",
-      "summary": "[증권言言] 하나증권 “삼성에스디에스, AI DC 추가 확보·글로벌 사업 추진 기대” &nbsp;&nbsp; 마일드경제",
-      "outlet": "마일드경제",
-      "outletUrl": "https://www.todaymild.com",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-20T12:11:50.172Z",
-      "lastSeenAt": "2026-10-21T17:59:30.941Z"
-    },
-    {
-      "title": "다양한 심벌이 쓰이는 이유, 미라클 토토 구성 이야기 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWNrSmwzbHNab2xKWUgySUhhTUNrd0FfdFJPSDl6MWRxN0toTXZRaUlmNWFUZzl4QWJVZmNQaFI1YW9hVVVsSEJTMnlQVTd1bmxnZTIyTWktcWJQUV9UaGp2alBCOVNydXBRcXA0OTEzdzM2OGVlcTAtUUhQM0V1NlJrSjA3LXVZZllMX2pRbGk2dzhxNnoxUmZrdi04cS15azF4a1Njcw?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 08:32:43 GMT",
-      "summary": "다양한 심벌이 쓰이는 이유, 미라클 토토 구성 이야기 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-21T00:07:51.661Z",
-      "lastSeenAt": "2026-10-23T01:57:31.733Z"
-    },
-    {
-      "title": "음악과 화면 분위기로 읽는 바카라 시스템배팅 테마 소개 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUFVOFAtN1VfaHBrWW8yTzhRakRkWDNrMDdZMzJKcElyWXlpQ19VN2k2OW5pUzJuZllVT0dqUXpLakV4a3Jkd2FRbzR0a2ltUDF4RUM5SHNzM1Qydi1vd1NXV2FqanYyWFVGTWstUk5oY2VtTmNqVUhFd0JaVmE0M252ZzVYY1hvLTNHR0lrd3A0eGkyZWZ6c3lUMnNEaWR2WlE?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 08:32:08 GMT",
-      "summary": "음악과 화면 분위기로 읽는 바카라 시스템배팅 테마 소개 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-20T17:57:30.297Z",
-      "lastSeenAt": "2026-10-21T22:44:58.342Z"
-    },
-    {
-      "title": "[취재석] 전남광주 AI·반도체 산업 도약 본격화…지역 경제계 역할 중요해졌다 - 전국 | 기사 - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0ajBQYy1rRFZtVUo2cVEwdVY2Ylg1d2gtaW5FNl83aW1lLTJCRlpwUkxQYTlEeDhZT1Q3WjVESEQ3bE1zUTBSeGd2eEtNZDJqWkJCS2VwRlgyR1E?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 08:31:13 GMT",
-      "summary": "[취재석] 전남광주 AI·반도체 산업 도약 본격화…지역 경제계 역할 중요해졌다 - 전국 | 기사 &nbsp;&nbsp; 더팩트",
-      "outlet": "더팩트",
-      "outletUrl": "https://news.tf.co.kr",
-      "source": "정부 NPU 정책·예산",
-      "sourceIds": [
-        "government-npu-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-20T12:11:50.172Z",
-      "lastSeenAt": "2026-10-23T07:56:19.361Z"
-    },
-    {
-      "title": "[취재석] 전남광주 AI·반도체 산업 도약 본격화…지역 경제계 역할 중요해졌다 - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kMXEwVmRrRzNrcW90WGJiMzJVblMwbUZUWmVOOXY0Tk4xdk9WUzZpdUQ0MDFIRGVRUUVLdVZiTU8tNmRrY1BFb2gwRnAtd2s0YTJRWVh3?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 08:31:00 GMT",
-      "summary": "[취재석] 전남광주 AI·반도체 산업 도약 본격화…지역 경제계 역할 중요해졌다 &nbsp;&nbsp; 더팩트",
-      "outlet": "더팩트",
-      "outletUrl": "https://m.tf.co.kr",
-      "source": "지역 AI·반도체 산업금융",
-      "sourceIds": [
-        "regional-industry-finance",
-        "semiconductor-cluster-execution",
-        "government-npu-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-20T12:11:50.172Z",
-      "lastSeenAt": "2026-10-23T05:59:20.208Z"
-    },
-    {
-      "title": "게임별 규칙의 차이를 놓치지 않는 서든 핵 슬롯제 비교 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDFKWGgwVHZvLXFMMU1WajY5azBqN2Y3dU1KaS1lclhQS0podHNwUDJhZmlSa0xlVTdRQUpqT2s2SWIwbnU1WE1kSVRDUFdURVFFWW9Da2FFY2VlNmk1T0pHcG11eGs4bURMSHplZkZQT3pBUFZFTGk3cWNBeExZNVdWXzVMUFltc1VyNkg2V25hUGNyeHdoSmVPbEJlUFpEZVB6TFYwOA?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 08:30:49 GMT",
-      "summary": "게임별 규칙의 차이를 놓치지 않는 서든 핵 슬롯제 비교 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-21T00:07:51.661Z",
-      "lastSeenAt": "2026-10-23T07:56:19.361Z"
     }
   ]
 }

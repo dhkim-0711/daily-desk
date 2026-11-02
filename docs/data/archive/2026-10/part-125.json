@@ -1,7 +1,140 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "[분석] 엔비디아 한국 공급망 확대···LG 이어 삼성전기·앰코 - 데이터솜",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NLXRyS3l5Njd6My11VHlDb3RZMmdSQUpxNVpvd29CZDJZVm95SVVLb1Nlb2lSM0NCZm0xV0lkMXdaTzhqSkZ0YjYwaU9hU2pIajdDQlJRdWZBOGRoelVMV3ExZU1lb1NCTEkxZ0JpVzPSAXBBVV95cUxPTS10ckt5eTY3ejMtdVR5Q290WTJnUkFKcTVab3dvQmQyWVZveUlVS29TZW9pUjNDQmZtMVdJZDF3Wk84akpGdGI2MGlPYVNqSGo3Q0JSUXVmQThkaHpVTFdxMWVNZW9TQkxJMWdCaVcz?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 03:40:24 GMT",
+      "summary": "[분석] 엔비디아 한국 공급망 확대···LG 이어 삼성전기·앰코 &nbsp;&nbsp; 데이터솜",
+      "outlet": "데이터솜",
+      "outletUrl": "https://www.datasom.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure",
+        "korea-global-ai-companies",
+        "korea-global-chip-cooperation",
+        "ai-chip-public-program",
+        "rebellions"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "AI시장",
+      "score": 18,
+      "firstSeenAt": "2026-10-22T06:03:45.371Z",
+      "lastSeenAt": "2026-10-25T01:38:19.640Z"
+    },
+    {
+      "title": "AI 데이터센터 수혜주 건설·통신·전력 옥석 가리기 전망 : 한국증시 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SaHdlaWFJV2xwa3VwN1RSeGdDbXhyRFdSYkVwejlvT19JXzlYUjN3SW1yelFhUHhBTzdZVU1Kdm1tNExGeDN1TlhMRQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 03:36:38 GMT",
+      "summary": "AI 데이터센터 수혜주 건설·통신·전력 옥석 가리기 전망 : 한국증시 &nbsp;&nbsp; 재경일보",
+      "outlet": "재경일보",
+      "outletUrl": "https://news.jkn.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-22T05:00:13.904Z",
+      "lastSeenAt": "2026-10-22T05:00:13.904Z"
+    },
+    {
+      "title": "IBK기업은행, 글로벌 AI 혁신 어워즈서 '최우수 AI 기반 중기은행' 선정 - 더퍼블릭",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ROEQ2RVU0cEE0WGFSZzJYMUUwUWpmYW42ZGFEaW94QUF6N2ZkdVJrSWt1QTNTTndDNC1WR3F2LXRrR2lvYUFhZW05NnRramphbXhqSlVlSVFEaThuNmJKY19jNzEwdjM3X1o4al83NNIBb0FVX3lxTE9ROEQ2RVU0cEE0WGFSZzJYMUUwUWpmYW42ZGFEaW94QUF6N2ZkdVJrSWt1QTNTTndDNC1WR3F2LXRrR2lvYUFhZW05NnRramphbXhqSlVlSVFEaThuNmJKY19jNzEwdjM3X1o4al83NA?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 03:34:03 GMT",
+      "summary": "IBK기업은행, 글로벌 AI 혁신 어워즈서 '최우수 AI 기반 중기은행' 선정 &nbsp;&nbsp; 더퍼블릭",
+      "outlet": "더퍼블릭",
+      "outletUrl": "https://www.thepublic.kr",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-22T07:57:53.219Z",
+      "lastSeenAt": "2026-10-25T01:38:19.640Z"
+    },
+    {
+      "title": "보성 자립준비청년에 희망 보탠 K-water…800만 원 전달 - 남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95c1g4akhkMEUyNXE1VDJubW5ob3JTUWNDbjZHTFZTUlk0ZFBrN3RQdGtZYzkwNjRuem5Ual9PaW1vVEVHV1cwOWl3VHJGaEJLN1Y2QzMxcmp1bDdXWmxXaF9JUTVuc3FVRE9OT9IBcEFVX3lxTFA2LU85b3BuOFh6YUdqWEg5ZWg1ZTRsdDdDS0FNUTJqLWE4enB6VzZ6bnNNSFBKRkV2elJ2b0VDYjA2dThxMFJiZ2xPZVdieUhXd0N6SGNwLVozM0NuQTJqLWdqT2lTUnpYTk9pblo1NTM?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 03:31:00 GMT",
+      "summary": "보성 자립준비청년에 희망 보탠 K-water…800만 원 전달 &nbsp;&nbsp; 남도일보",
+      "outlet": "남도일보",
+      "outletUrl": "https://www.namdonews.com",
+      "source": "AI반도체 정책금융·집행",
+      "sourceIds": [
+        "ai-chip-policy-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-22T05:00:13.904Z",
+      "lastSeenAt": "2026-10-25T01:38:19.640Z"
+    },
+    {
+      "title": "SK하이닉스, ‘반도체의 날’서 동탑산업훈장 등 5건 수상…HBM 기술 경쟁력 인정 - 미디어파인",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XX0drUkN2QTVDQmRHZlJtTmtvb01raDNITk95MjFKaEJ4bXVHdkVnMDdjelhsR1FEVEg0N0hhNV9rQ0pZYnVUZlZDRGp5MjZ4NEN6dUd1Mkg5Yk5rdXRfd3RPbkQ3elROSEdPTXZB?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 03:30:01 GMT",
+      "summary": "SK하이닉스, ‘반도체의 날’서 동탑산업훈장 등 5건 수상…HBM 기술 경쟁력 인정 &nbsp;&nbsp; 미디어파인",
+      "outlet": "미디어파인",
+      "outletUrl": "https://www.mediafine.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-22T05:00:13.904Z",
+      "lastSeenAt": "2026-10-25T01:38:19.640Z"
+    },
+    {
+      "title": "베트남 데이터센터 2027~2030: 용량 확장에서 경쟁력 있는 성능으로 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeF9MOU13Nll0X1lLT2tGaHBUSG04RW5qNV9vaGtlelB2TzVpN3hBQko5aDBHbm9SVXBpbXhsTXE2cGgxUnpHakNBTHlfb08yM0tubTVtLW90UGROblotOWlQSXhiQXdzNG5iVWU2YnFxNTZZS2YtbXEzMDBlNTRMWE91WlY1NE1uNXd6VE1NMk5MQ19VNnRCYmpIcXc4YUVzOHc?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 03:29:33 GMT",
+      "summary": "베트남 데이터센터 2027~2030: 용량 확장에서 경쟁력 있는 성능으로 &nbsp;&nbsp; Vietnam.vn",
+      "outlet": "Vietnam.vn",
+      "outletUrl": "https://www.vietnam.vn",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 11,
+      "firstSeenAt": "2026-10-22T05:00:13.904Z",
+      "lastSeenAt": "2026-10-22T05:00:13.904Z"
+    },
     {
       "title": "모빌린트, '휴머노이드 온디바이스 AI 플랫폼' 국책과제 수행 - 지디넷코리아",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15czIxMURUV1BXck56eG5tcldkbUdwVVZiWkpVOHQwZGZwdkVzVVJ2Y0d0aTRlZ2tpNWtSeWg5V0NCZkNRODJVOHZXNFVZazVIRU8yVnN3?oc=5",
@@ -2161,144 +2294,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-22T05:00:13.904Z",
       "lastSeenAt": "2026-10-22T17:56:53.418Z"
-    },
-    {
-      "title": "Samsung Electro-Mechanics jumps 5% on Nvidia partnership - mkbn.mk.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0b1dWVWlWN0hpY19FZU1WUHk3TUlpNHJfUXNfeXBjYWI0aFJZYnRXSGNJVElTTWd3cEJGSzNxbm0xUmdNX2tVZXYzaFZrV29heHJDNkRn?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 02:12:19 GMT",
-      "summary": "Samsung Electro-Mechanics jumps 5% on Nvidia partnership &nbsp;&nbsp; mkbn.mk.co.kr",
-      "outlet": "mkbn.mk.co.kr",
-      "outletUrl": "https://mkbn.mk.co.kr",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA",
-        "Samsung"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 19,
-      "firstSeenAt": "2026-10-22T05:00:13.904Z",
-      "lastSeenAt": "2026-10-25T01:38:19.640Z"
-    },
-    {
-      "title": "권형택號 기보, 기술보증 넘어 기술혁신 종합 지원기관 도약 - S저널",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNzhpenpLZVFndEFiYU5UVzJlaGl1UTVQTlBHRjZYT0VnTkRsR3RzczZxRDcwQnlaRnVIYVljcm83dll4TXlmMnJtc2t5Sm05WDdfYmYxLVphUjNxWm1DVWVJT1FsNEpHQUpqajdn?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 02:11:50 GMT",
-      "summary": "권형택號 기보, 기술보증 넘어 기술혁신 종합 지원기관 도약 &nbsp;&nbsp; S저널",
-      "outlet": "S저널",
-      "outletUrl": "https://www.s-journal.co.kr",
-      "source": "지역 AI·반도체 산업금융",
-      "sourceIds": [
-        "regional-industry-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 7,
-      "firstSeenAt": "2026-10-24T00:34:18.123Z",
-      "lastSeenAt": "2026-10-25T01:38:19.640Z"
-    },
-    {
-      "title": "발전소 바닷물로 AI 서버 식힌다, 데이터빈 해수 활용 액침냉각 데이터센터 실증 - 플래텀(Platum)",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vMWc5clVESHJLUGttSEtPcy16UVVCTHBSRmpyU0toM2stTlFzZWd5OXpxRXlIaFRtUnZoTE1PdVk3RnQtZ1RXaw?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 02:11:18 GMT",
-      "summary": "발전소 바닷물로 AI 서버 식힌다, 데이터빈 해수 활용 액침냉각 데이터센터 실증 &nbsp;&nbsp; 플래텀(Platum)",
-      "outlet": "플래텀(Platum)",
-      "outletUrl": "https://platum.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터",
-        "실증·조달"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 19,
-      "firstSeenAt": "2026-10-22T05:00:13.904Z",
-      "lastSeenAt": "2026-10-22T07:57:53.219Z"
-    },
-    {
-      "title": "\"제미나이에게 물어봤다\"는 李…野 \"차라리 대통령도 AI로 바꾸자\" - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XN3d3LTBtai00X0RGbkNBaDAzNXpJWHZvN1pFWW9Jckx2V1dJa2xWQ2hha0lLOFNKOE9kVjNvT0R6T0tKRHRMUU9ic2c3RmZUUElDN1ZlQVNRWDBheXdoRw?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 02:10:35 GMT",
-      "summary": "\"제미나이에게 물어봤다\"는 李…野 \"차라리 대통령도 AI로 바꾸자\" &nbsp;&nbsp; 아시아경제",
-      "outlet": "아시아경제",
-      "outletUrl": "https://www.asiae.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-22T06:03:45.371Z",
-      "lastSeenAt": "2026-10-22T06:03:45.371Z"
-    },
-    {
-      "title": "델, 엔비디아 기반 AI 팩토리 고객 6500개 돌파…에이전틱 AI 운영 전환 가속 - 헬로티",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uNHRLcURidnEyNlNQZkpGMm9JQkFvOXR1X1dKeUlfTk5tS2E0MnhfT21UYTlEWXBlQnhXVk5PeVg1Ymg2VE5kc0pGSDBrT0hEdmp5eU9CQnBxUkV0ZFV3?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 02:10:35 GMT",
-      "summary": "델, 엔비디아 기반 AI 팩토리 고객 6500개 돌파…에이전틱 AI 운영 전환 가속 &nbsp;&nbsp; 헬로티",
-      "outlet": "헬로티",
-      "outletUrl": "https://www.hellot.net",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-22T12:55:50.569Z",
-      "lastSeenAt": "2026-10-25T01:38:19.640Z"
-    },
-    {
-      "title": "[단독]국민성장펀드, 하이닉스 전력 공급 LNG 발전소에 7000억 투자 검토 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUVHWXlPVFMybEo4MmhHWi1VTFFwcThaeGs3TTBXeGNDaldqR1NwUllBb2dsSmFMTVRMUnJoak94ZlhVY09DazFXeFBGel9LU1JybWE1anpqWDNzQWN2WWI4MThuYWlmS2tUbDZabjRHaHkzaHhQU2FrNkE2V3VvM1NR?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 02:09:00 GMT",
-      "summary": "[단독]국민성장펀드, 하이닉스 전력 공급 LNG 발전소에 7000억 투자 검토 &nbsp;&nbsp; 아시아경제",
-      "outlet": "아시아경제",
-      "outletUrl": "https://www.asiae.co.kr",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-22T05:00:13.904Z",
-      "lastSeenAt": "2026-10-23T13:48:54.332Z"
     }
   ]
 }

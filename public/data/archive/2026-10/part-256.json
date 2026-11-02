@@ -1,7 +1,144 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "AI 데이터센터 경쟁, GPU 넘어 전력·냉각 인프라로…통합 최적화 전략 모색 - 뉴스아이이에스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93cHBqOEpGdktwYmI4UXVKQVc0YjlscEdYUmdyWlYtN0VIeFRDbDF6SjFaLWxMc2k1d0MzN0NsNl9BX2FJTlFhU3FjZzBtT1NyZnk5Tjc4TlhkSmpmdnRtT19XRTFPeFA0Y0NuMjR30gFyQVVfeXFMTUNIOHZCX3lXblJ6Z3RXSTdtLUpZcXE5YUNrMDYwU25oOF9sY0J1WkV6bGtQNjFVd2lwNDhsOE42bjJuU0N3eFZuTVZmcWRHY1VkSDRjeUFxQzlSR29qX0hvVW9YbmFtRk1UUjJLeWM0Tl9n?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 00:00:15 GMT",
+      "summary": "AI 데이터센터 경쟁, GPU 넘어 전력·냉각 인프라로…통합 최적화 전략 모색 &nbsp;&nbsp; 뉴스아이이에스",
+      "outlet": "뉴스아이이에스",
+      "outletUrl": "http://www.newsiesports.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-13T03:00:06.725Z",
+      "lastSeenAt": "2026-10-13T19:50:30.683Z"
+    },
+    {
+      "title": "Intel names its Nvidia rival chip the GPU D270 with 480GB of memory - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRms0eEcxM3NtNVhhb21HWDBCS0hsNmtiMVJvcTF0RkFrSkdiR3duOVU1OHl2QWpXbTRQX1N0T3NVZGxUWW5neHR5RHlPQXRhcUctZENBS3lPeTFfY296UzZvQU9vemZLT3J0OUs4aXdidkdBRzR0ZlVuMDF1c3NOSV9CSjFJZ2pEUko1NGRtcmRSYm44NEJQblZXaw?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 00:00:13 GMT",
+      "summary": "Intel names its Nvidia rival chip the GPU D270 with 480GB of memory &nbsp;&nbsp; Startup Fortune",
+      "outlet": "Startup Fortune",
+      "outletUrl": "https://startupfortune.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-13T03:00:06.725Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
+    {
+      "title": "구글 17년 연구자·오픈AI 핵심 인재도 중국으로… 中의 AI 인재 ‘귀환 가속’ [이귀전의 왜-인재전쟁 ④] - 세계일보",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PcmhXekZoVEQyNHZHMU1yN2lrUTNqcHJJZVg3VnlGR2dZdG9mQlYtblI2UDVydGV2V2hFYThSb1dDZ1MwVkdRdEdoNHFHNEZ4eXhPbNIBVEFVX3lxTE5PcmhXekZoVEQyNHZHMU1yN2lrUTNqcHJJZVg3VnlGR2dZdG9mQlYtblI2UDVydGV2V2hFYThSb1dDZ1MwVkdRdEdoNHFHNEZ4eXhPbA?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 00:00:00 GMT",
+      "summary": "구글 17년 연구자·오픈AI 핵심 인재도 중국으로… 中의 AI 인재 ‘귀환 가속’ [이귀전의 왜-인재전쟁 ④] &nbsp;&nbsp; 세계일보",
+      "outlet": "세계일보",
+      "outletUrl": "https://m.segye.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-13T03:00:06.725Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
+    {
+      "title": "Watch Moderna, Google DeepMind, Biocon on AI in Science - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVNzLWJHZTVuc1FBS1FjSE95c2VBY2lTQVJzd3hsREJMTXZrSHNydXVGbkpBUVZReVJiSHVpSnl6cHJHWEJUVUF1ekdVTXJ6UlgxbVgxS2oxRFNYd3hZVHgxTGt1bmFQRFpBZGoxZmNkaHRXZFhrTTlDVXpnYlBmQjhwQU5vcjF0dlBBZzRIaGRNMW5kMGt2aEpJSk5Xa0xYdkIzWA?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 00:00:00 GMT",
+      "summary": "Watch Moderna, Google DeepMind, Biocon on AI in Science &nbsp;&nbsp; Bloomberg.com",
+      "outlet": "Bloomberg.com",
+      "outletUrl": "https://www.bloomberg.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-13T19:31:54.043Z",
+      "lastSeenAt": "2026-10-13T19:50:30.683Z"
+    },
+    {
+      "title": "Watch IMF Says Growth Should Pick Up With AI Investment Boost - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaE1LSVN4MkNLVnZwQXBMVWdqcmxKWGZPRm9yX3kwdUJvckR0U1ZZdEt0bEotNGJ0eUtOVUtXaHd3R1I3dzgybjFySF9hUy1QT3pFSm5xR3ByVWF2b2xTX1oydTBRRnB1aXhRTTZaZ2V5RXJEcFk2VWRqTGVLZklYR1FfY0JsTXcyTkRsMnhfMm5NQzdwQm4tUWNZdzd2VzVSUFZwOUUwNy1HMG1wX1hV?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 00:00:00 GMT",
+      "summary": "Watch IMF Says Growth Should Pick Up With AI Investment Boost &nbsp;&nbsp; Bloomberg.com",
+      "outlet": "Bloomberg.com",
+      "outletUrl": "https://www.bloomberg.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-10-13T19:31:54.043Z",
+      "lastSeenAt": "2026-10-14T08:01:13.947Z"
+    },
+    {
+      "title": "[제도] 반도체·AI 기업이라면, 특허전략을 지금 재점검해야 할 때 - willawip.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekdteUdHZFNrQkJqWEFaODY3WG1fZklqVjVFZGRDbDkyeG5wWk9rTU5YQzFSSXJ4cUlwcy13ejNTMktpREZGV3RXM2tLOWdZRTJQOVI3YjBjMDFqcWlBSk1PblpmRlA3MnJURy1vWjZlN0RJOWV6VUpSS1Z1cmlzNU5hOHU2czkxRXhaYmlpNmpvdw?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 00:00:00 GMT",
+      "summary": "[제도] 반도체·AI 기업이라면, 특허전략을 지금 재점검해야 할 때 &nbsp;&nbsp; willawip.com",
+      "outlet": "willawip.com",
+      "outletUrl": "https://willawip.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 12,
+      "firstSeenAt": "2026-10-14T17:58:43.781Z",
+      "lastSeenAt": "2026-10-15T00:28:45.158Z"
+    },
     {
       "title": "[Today's Signal] Microsoft Unveils Maia 300 AI Chip to Reduce Nvidia Dependence - Korea IT Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xbnFadWh2Qk9sRW44WmxveDdBSUZDY0N5ajFCUnY1U0Qwc0tnc0lETXNkRFZVeHpNZW9Qd0wzNkQ0Um9VVV9ZUGlyMWphb2hvZ1hMWW5jbGEwV1VYem5CWl96T19PMzdwY1Nvb3N2TXA?oc=5",
@@ -2087,135 +2224,6 @@
       "issueCategory": "Google",
       "score": 15,
       "firstSeenAt": "2026-10-13T03:00:06.725Z",
-      "lastSeenAt": "2026-10-13T06:58:34.117Z"
-    },
-    {
-      "title": "화면에 표시되는 승리 라인을 읽는 해외 경마 중계 결과 안내 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EYnVnQ2JPNlgtek83VGZfUHM3WTU1a3hIeEZaZ2lQMEVYeXBFX2F3cWJWQ1A5QzJIeUtzWDB2S1RxdUVKejAtby1nR2pyQ0NwTlJOdnNIcWxnZUJyb1BJV2xNS0xSVnM?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 21:27:02 GMT",
-      "summary": "화면에 표시되는 승리 라인을 읽는 해외 경마 중계 결과 안내 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-13T19:31:54.043Z",
-      "lastSeenAt": "2026-10-15T05:51:00.880Z"
-    },
-    {
-      "title": "Stock Market Today, Oct. 12: Iren Surges on Reports of Anthropic Cloud Services Deal - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMUJGTDBtd1V2VXBSLWRiV0ljMWdDZGdTdG05NXJkX2l2UjdYM1ZfTXJWLW5DOXd2RDk5MDc1NjlrakhMeHl0aEVYOWFycXlzdklVRUVWX1JLVUxnb1BVdGY5SXVBc3N0aXdoYmtaSDh4RXgtZmZsTFNGVWxWV2o2N3NDZDlNSEJZUU1NOFFwUDZnX2ZNUWQ4aWdzd3dSMURkQm9Wb0xEbU5KZ1A2UEFQSEJPQWhNWWpuZ0RqaEl4dlB5dDdnNmJqWVJPb0VnMnUtaEZJSzhsbHM0Q0hhRnl3cm5GLVVzdWJmc1lKSU9pejRMV3d2aFcyNU1SQQ?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 21:25:21 GMT",
-      "summary": "Stock Market Today, Oct. 12: Iren Surges on Reports of Anthropic Cloud Services Deal &nbsp;&nbsp; The Globe and Mail",
-      "outlet": "The Globe and Mail",
-      "outletUrl": "https://www.theglobeandmail.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-12T21:42:25.155Z",
-      "lastSeenAt": "2026-10-13T06:58:34.117Z"
-    },
-    {
-      "title": "뉴욕증시, 반도체주 약세·유가 상승에 혼조…나스닥 0.44%↓[뉴욕마감] - MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yMUg3OWlWenFmVmY5bUFrSkRlR3diNFRnamNMTVVNd2ZpeDhXMm1nanhSb0llR3RrMGg5b0cwdkZNUVBPajl4YlJhM1o1a0Z3clk0UTlkNUxicXQ0STBxajZGcjc?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 21:24:06 GMT",
-      "summary": "뉴욕증시, 반도체주 약세·유가 상승에 혼조…나스닥 0.44%↓[뉴욕마감] &nbsp;&nbsp; MTN 머니투데이방송",
-      "outlet": "MTN 머니투데이방송",
-      "outletUrl": "https://news.mtn.co.kr",
-      "source": "글로벌 기업·한국 반도체 협력",
-      "sourceIds": [
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-13T03:00:06.725Z",
-      "lastSeenAt": "2026-10-13T03:00:06.725Z"
-    },
-    {
-      "title": "Dell and Intel weigh the costs of enterprise AI scalability - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWpMLXN3WldvaGpCdUpVUTNELVFqZFYxdWlaUUFNMks0X2gyTGtiVGZmcjBkV21LcTR3dUhrODFCd2hxVThTdjJfcTVZZjF1V2pYellwcjlEMy1FajEybVM0elpTQnRMc2dXRXpZV3VCWXpZWldvd1Q2b1BEQlZsWnM5dW1FMGc1dF9hUGN3eTVnZE44MTBkV2tCcEJSaE9ZX2tjaEc1UUJNR3E4TjdGeA?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 21:24:00 GMT",
-      "summary": "Dell and Intel weigh the costs of enterprise AI scalability &nbsp;&nbsp; SiliconANGLE",
-      "outlet": "SiliconANGLE",
-      "outletUrl": "https://siliconangle.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-12T23:13:29.308Z",
-      "lastSeenAt": "2026-10-15T12:37:32.831Z"
-    },
-    {
-      "title": "UK AI minister details how the restored frontier model testing deal works - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeko0b2Z4NXhLWlpmQ0ZuaWFBUFRHaUNPMjBMS0Z6TFNnSzV4TnhVaUZWNFMzTnR6SEstRFlVd2hkRkZKZ3g2bmRfYWFBcXRvOFpnV3JQTmFrOVNVMWY4V1ZrVko5WWFNb2RYWEQ1RHpwS1NoUjNHeHBmaTNIdXV5cU1wQzhBVkluYk02QmZ4VkpEN2lCV3J4QkpNUVRLNGpKNXRj?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 21:21:57 GMT",
-      "summary": "UK AI minister details how the restored frontier model testing deal works &nbsp;&nbsp; Startup Fortune",
-      "outlet": "Startup Fortune",
-      "outletUrl": "https://startupfortune.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-13T03:00:06.725Z",
-      "lastSeenAt": "2026-10-13T06:58:34.117Z"
-    },
-    {
-      "title": "Microsoft bets big on new Maia 300 AI chip to reduce reliance on NVIDIA GPUs - TweakTown",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXpua0RYZHQ5QnM1T3EyLU85UzE3VC1FT2lsUlZETEpUcXd1bWtTaFBSVUpwZGplMmdhU2tjOUd6cDJ6Q0g5Q2xmeDZBQjBiazNGT2QwRDZsb09kSTVnMXNzQ0xVMjRnRkNOa1lpdTFYWGVrT3d6TFZuSHE2ZmNqMmFDTE4tTUVidUtTbVF6LXg4d0dUa3M5MnhhSzJoUW10Z210UklUZkd6LVk2MFZMX292TzVtd1ZDQi0xMFM2RmZ3bFU?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 21:19:15 GMT",
-      "summary": "Microsoft bets big on new Maia 300 AI chip to reduce reliance on NVIDIA GPUs &nbsp;&nbsp; TweakTown",
-      "outlet": "TweakTown",
-      "outletUrl": "https://www.tweaktown.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-12T21:42:25.155Z",
       "lastSeenAt": "2026-10-13T06:58:34.117Z"
     }
   ]

@@ -1,7 +1,144 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "임문영 의원, AMD에 ‘광주 AI 혁신센터 설립’ 공식 제안…글로벌 협력 움직임 주목 - CWN",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LRjk4NUZwa29IN2pIXzAxS0UxemZQOXF6cXlMVHhGWVV0YnhWMGJVdFZUcllTZFR1QzVCVW13RWJiQ0hCR3dvRjl2eHE4R0VnendOV2VvMlJfeXhnMktFY1FR?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 13:20:15 GMT",
+      "summary": "임문영 의원, AMD에 ‘광주 AI 혁신센터 설립’ 공식 제안…글로벌 협력 움직임 주목 &nbsp;&nbsp; CWN",
+      "outlet": "CWN",
+      "outletUrl": "https://www.cwn.kr",
+      "source": "글로벌 기업·한국 반도체 협력",
+      "sourceIds": [
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-10-12T02:03:59.552Z",
+      "lastSeenAt": "2026-10-12T11:52:22.190Z"
+    },
+    {
+      "title": "This NVIDIA security flaw could let attackers crash GPU monitoring services - How-To Geek",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzNRQlFudDN5NGpicDNPUE9uMW9qR1BUNWR6LWlpcFd1MGJaNTNtdU96emEzX3ZETjFxWjREOHBUNmFuOEl0Smg0RWVzb09mYkpNUVNnZ0R0Qm5LTFNvOEpKNXp5WGF3VW5kVzYxUlRFSEhZYmRQZEw5WktlcTh6ZXpQZ2FZSUMtZTFJeFVtMC1vcEE4ekhwRmVibk9qMTRoZjhidA?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 13:17:24 GMT",
+      "summary": "This NVIDIA security flaw could let attackers crash GPU monitoring services &nbsp;&nbsp; How-To Geek",
+      "outlet": "How-To Geek",
+      "outletUrl": "https://www.howtogeek.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-09T16:34:18.478Z",
+      "lastSeenAt": "2026-10-10T10:33:34.677Z"
+    },
+    {
+      "title": "Guix Integrates HIP/ROCm Stack, Making AMD GPU Computing a First-Class Citizen - news.lavx.hu",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWnZEWXVEUS03SnR2V3pMYVVoeGdhVXlhalBMbkNUQnhRMnpiRWJDOTVMcnZNcUVackJtRDVWSkh1UkpJZG9tc2czV3R3WTRkVFlFYlZuSkhDbjVGQXpEWi1lb1FMUFE1ak1OVGJsTmFteHBqRnFQS1FRWW4wMk1ZbXNlZDZ0a3gzcERzdnhrRENiTGt1TWM4Z1FJRTl6R0hIbmlCREVLMk5pQQ?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 13:16:31 GMT",
+      "summary": "Guix Integrates HIP/ROCm Stack, Making AMD GPU Computing a First-Class Citizen &nbsp;&nbsp; news.lavx.hu",
+      "outlet": "news.lavx.hu",
+      "outletUrl": "https://news.lavx.hu",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 17,
+      "firstSeenAt": "2026-10-09T16:34:18.478Z",
+      "lastSeenAt": "2026-10-12T11:52:22.190Z"
+    },
+    {
+      "title": "NTT DATA launches Munich AI Factory with NVIDIA and Dell to accelerate enterprise AI - Intelligent CIO",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeEExTlJtRzNJQ3VaRlowSGg0Q0ZQOFhwMXFnSTZfU0hqVUFLZDJkS3FfNzI0UTBnZTh1V3lMQk8zMUpJdWVCdVdJaXVzZ0ZnNmVpSHd6elU0bEdHMHdzclpyWTlCY29nd083d2ZyNXJIR0h5eEVIemRCRVZ5NENwVmRqU29jMHJBTTJkd2w0RXVUQTJnOHVkQkx1QmkyN1dwc0FoMDhHRVJJS1N6cW9zVTdvMkJTenZlNjR1SzhlTEVTQm9OYm5BNm5n?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 13:15:22 GMT",
+      "summary": "NTT DATA launches Munich AI Factory with NVIDIA and Dell to accelerate enterprise AI &nbsp;&nbsp; Intelligent CIO",
+      "outlet": "Intelligent CIO",
+      "outletUrl": "https://www.intelligentcio.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud",
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-09T16:34:18.478Z",
+      "lastSeenAt": "2026-10-10T10:33:34.677Z"
+    },
+    {
+      "title": "Dow Jones Top Markets Headlines at 9 AM ET: AI Stocks Recover as Futures Rise, Oil Slips | Canada ... - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRjRvbm50OTNMVlF4ZTRvdUwzUWt1Rm94UTJ3ZDVmRXZ4ZktkN2xIc0VvUFhBanp0VTdBVWFaaS1sbU5oQzBfRU41WlliU3Jsc3RwRWlFOEh3MkNYLXFkcFFXZjNJX1Z2UlVJdm42YjFCQXdIeE44SGw5aWpYMEZqbWFaZzRncEZvODU1cUlGUWxUMjJVdDZRZ2JtcGV0bjQ0RzZTYjlTSDI3Z0diRHdCV28wZXBUUFNaTHBCWUVzaHpkQnNfd24xdm1tNUxKaDZFdjFIWTBobGRVWVFjQy1SSWV1WQ?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 13:15:00 GMT",
+      "summary": "Dow Jones Top Markets Headlines at 9 AM ET: AI Stocks Recover as Futures Rise, Oil Slips | Canada ... &nbsp;&nbsp; Morningstar",
+      "outlet": "Morningstar",
+      "outletUrl": "https://www.morningstar.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-10T01:43:02.876Z",
+      "lastSeenAt": "2026-10-12T11:52:22.190Z"
+    },
+    {
+      "title": "The 6 Best AI Agents for Business: An In-Depth Comparison of Features, Security, and Setup - Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1MzTThyUXpQaEUtUE1QUm1PbnFQX1I3OWluRnhtbG9KOVNRdjcteEczY3dTQnE1RkVSbFlSY0NBY25WalM4WVB1V2RPbEtuNUstQzFEU2haV3BGeGxJbm10eF9oOWlyN3N2bzYxRWxVQW96dHpFTDUyV1g4VVgyZXpOQVFuV0xPaUZkb3ZDY0xpYVc0OFZUZzNSVmh5cTY5em9Jd1lWaldCWm1aZUlnbW05WEQzTlV1UXF4Z0paYUhTZWd1?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 13:14:27 GMT",
+      "summary": "The 6 Best AI Agents for Business: An In-Depth Comparison of Features, Security, and Setup &nbsp;&nbsp; Technology Org",
+      "outlet": "Technology Org",
+      "outletUrl": "https://www.technology.org",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-09T16:34:18.478Z",
+      "lastSeenAt": "2026-10-10T10:33:34.677Z"
+    },
     {
       "title": "AI Valuation Correction Could Trigger Wider Market Sell-Off, Margin Calls, Warns UN Report - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYThhN3QzVlBxV1JBZlhhRXQ4THpoQXlRcVdGeENsb2czOHdrdWdxTldkcGprTmVMaS03dTJXa1hnQ2tUUS1nd3ZieHVKcjAxSG5qakFoclcxeUVNNlZkNmxVei1MelRJcXR0MGx6b2FUZDBjQzA0S0F6cXh0WFhiamI4cENVS1l6RVB6bWJMMDJHNFlDUEwwWFNPN1JkdzE3TG50WkswUmsya1AwS3NYMklpalV3TVM4YjRiT05KbjhCc3lEWXBiS1RraUJOQklUZ2RvRElOTDRXTWxNN2ZLWmRn?oc=5",
@@ -2136,137 +2273,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-09T16:34:18.478Z",
       "lastSeenAt": "2026-10-10T07:44:52.668Z"
-    },
-    {
-      "title": "네이버, AI 수익화 본 궤도…내년 엔비디아와 ‘AI 팩토리’ 띄운다 [컨콜] - 쿠키뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mcnUwS2ZsLWY2Vm15OW50NWdZNmtOcllRZzI4LXJwVk5VTWJsT0VUajk4NU53ZjlPcEhFZmJvMzFRVnlPVXpfWTRGaVNhNENLdlZCOTAxMF84NzBLelp4RUNPRQ?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:31:23 GMT",
-      "summary": "네이버, AI 수익화 본 궤도…내년 엔비디아와 ‘AI 팩토리’ 띄운다 [컨콜] &nbsp;&nbsp; 쿠키뉴스",
-      "outlet": "쿠키뉴스",
-      "outletUrl": "https://www.kukinews.com",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 19,
-      "firstSeenAt": "2026-10-11T00:54:58.485Z",
-      "lastSeenAt": "2026-10-12T06:18:44.480Z"
-    },
-    {
-      "title": "Cypress Asset Management Inc. TX Sells 2,134 Shares of Advanced Micro Devices, Inc. $AMD - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU0xuN3JHQ2dOQXlHRW41SU1Uck16UHliRzBGcDVMc1pRSUNEZmk1UVpRMFhiZTBIRmlKUmttNmlteXowV1FuSktIUFRNU0RXeVBNWTlmY3gxamVmcFhvajgxVFd3aGdfdnVESHNoWXFCWjQ3OTlNaGVab1MtSEtNaFIzQklRdFBlMGtlSTZGeG9LTzdIVWdIQ2xBdUlIMk9CdWhNOF9FbU9UUnJlcTYzNzh2UEpRM1hUWTdKaHh0R1BvVW56bzREVWtJdzlsMVlZWWpkbEdyXzNtVUFf?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:31:18 GMT",
-      "summary": "Cypress Asset Management Inc. TX Sells 2,134 Shares of Advanced Micro Devices, Inc. $AMD &nbsp;&nbsp; MarketBeat",
-      "outlet": "MarketBeat",
-      "outletUrl": "https://www.marketbeat.com",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "AMD"
-      ],
-      "taxonomyHits": [
-        "온디바이스AI"
-      ],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-12T06:08:17.536Z",
-      "lastSeenAt": "2026-10-12T06:18:44.480Z"
-    },
-    {
-      "title": "AI stocks recover as futures rise, oil slips | World News - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeldkZUNQT2NXaFN3cTBDbnZqNnloSmROM2czNUFmbXl2Q2pwS3BlcXhpS1RmSjRVajVwVWZnWU9VMUdVcjliNHJXLWFKVllHWnNOS0FncGZES0xTbHNwcllReThCbkdhZEQwdW5ScjRZTnhmZUNSQm8tRWVoazRJcC1wc2lrYVJXVGtjSEpHSk9pUXREUm1VeVNTZTdKdnVQMGdSaWJJX0pVZ9IBrwFBVV95cUxPVjhvckJ1RXh4WWRscVVOYVN6S1dBWVRvcUwtMjRERXRNRjdMTTdPQVZ3SjdGemhfSFBDdURJRWpNMWF3S1NyU2RIRzNXX1B6TXh0eWhaRDZ5RG5VQU1yMko0Y0lmcDB2N3hCYjlfLVNDMS0zNS1PcFVSN1dIZkJjNGNiaDdQMkZBT0x5RVB0UGdSMUpjSkdMM2NtbFlKUkliS1Vid1RRV2dyaGpncWdN?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:30:20 GMT",
-      "summary": "AI stocks recover as futures rise, oil slips | World News &nbsp;&nbsp; Hindustan Times",
-      "outlet": "Hindustan Times",
-      "outletUrl": "https://www.hindustantimes.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-09T16:34:18.478Z",
-      "lastSeenAt": "2026-10-12T06:18:44.480Z"
-    },
-    {
-      "title": "젠슨 황, 미국 국가과학훈장 수훈…AI 반도체 혁신 공로 재조명 - 제민일보",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoQjdtTTl1aW5tSEFhUEpROHZjNGlVbUwxeDU0QzJmM3NCWUFjMkZMdHlOOGRyY1EtUXBKcUpYa3YzZkxRM2ZXdGhtTWRoVFEtajVVem1sQnJGM2JOcFZKQ2lKeG92djQ?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:29:52 GMT",
-      "summary": "젠슨 황, 미국 국가과학훈장 수훈…AI 반도체 혁신 공로 재조명 &nbsp;&nbsp; 제민일보",
-      "outlet": "제민일보",
-      "outletUrl": "https://www.jemin.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "government-npu-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-10T01:14:57.972Z",
-      "lastSeenAt": "2026-10-10T17:48:08.857Z"
-    },
-    {
-      "title": "Connected AI Agents with Fusion AI Agent Studio and Oracle Integration: Join us at Oracle AI World - Oracle Blogs",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWENYSkVYV0djc1ZiYjdGandZcWFaWlpzZlVDTGVpNkZ2Ym9OeHZrOWZtSnpDZ2x2Nmk2cUlINnRXaHFrTDNqY2s4T2RlQW9JaUpISkI0MDRMNDdJMW5Ob1EzYjJhNVVqOUFDajF4c3MxbzJQS0J3eFpaUE83NGFsakdjTnZKVUxuT21TN20yRGctcG5CQ0Zvb0VnMDZua3U3SG83aFp4aWZkMVV1YlktNHM2STZjZkpsV1Jvb1dRQ2VJc285WmdUMzJwYVdjMk0?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:29:41 GMT",
-      "summary": "Connected AI Agents with Fusion AI Agent Studio and Oracle Integration: Join us at Oracle AI World &nbsp;&nbsp; Oracle Blogs",
-      "outlet": "Oracle Blogs",
-      "outletUrl": "https://blogs.oracle.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-09T16:34:18.478Z",
-      "lastSeenAt": "2026-10-12T06:18:44.480Z"
-    },
-    {
-      "title": "Mind-Reading Baseball Cap Startup Sabi Raises $50 Million From Billionaire Vinod Khosla - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMlVDaDNXZm92VlBYNXhjaEk0aTdUbXNWM2k4UndEb19NTUdhY04wZjdOU2xNWVJyTHJra3BTMW0wWFN6RHdJWDNLNnZsc0w0X1NxeU9ITTMyUkd6bWhZWFFrWHBIS3FRSVBveHY0VmhtUllBbjk3bURqdmlsUW94R0paYzFQR0ZwdmZJMVhnTlV1QllPVm5XZm9fOGFSSmRVeXJhR1VrcXk5UEpkNml1T3VrclBfZ2tUeEFjb0g0SWlsaGdJemc?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:29:37 GMT",
-      "summary": "Mind-Reading Baseball Cap Startup Sabi Raises $50 Million From Billionaire Vinod Khosla &nbsp;&nbsp; Forbes",
-      "outlet": "Forbes",
-      "outletUrl": "https://www.forbes.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-09T18:46:22.187Z",
-      "lastSeenAt": "2026-10-12T06:18:44.480Z"
     }
   ]
 }

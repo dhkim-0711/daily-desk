@@ -1,7 +1,150 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "[기고] AI 시대, 우리 반도체는 왜 ‘엔비디아·TSMC’와 얽혀 있나 - 투데이신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mckZleDhVU0d6Y24tZjVYM054ZThiaXJ5T01BclU3QkU2eWhyeDlpenAtNFJJaVB5Z195LUVvbDgtRGRlVG5mMkd0NkZ2WmR6Wmh0NV9hUlplM2ZkOU1najdYYmFqSTNqd2xn0gFvQVVfeXFMT0I3bnJiUVBfRkRSNGptOVhmeExfdjhMS08tRDZJejBtcHRCQVJDNkM1VmR6SE9qYU9uQVFRSzRGNHlKdGIzTUR5QXVFQ3lqWkQ4dWdsSWZsVVV6VzU3bVZ5dkV2SzB3UE1NYzZ1VzVF?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 07:49:00 GMT",
+      "summary": "[기고] AI 시대, 우리 반도체는 왜 ‘엔비디아·TSMC’와 얽혀 있나 &nbsp;&nbsp; 투데이신문",
+      "outlet": "투데이신문",
+      "outletUrl": "https://www.ntoday.co.kr",
+      "source": "글로벌 기업·한국 반도체 협력",
+      "sourceIds": [
+        "korea-global-chip-cooperation",
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "TSMC"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "파운드리·패키징"
+      ],
+      "issueCategory": "AI시장",
+      "score": 27,
+      "firstSeenAt": "2026-10-19T11:15:30.807Z",
+      "lastSeenAt": "2026-10-21T12:53:16.803Z"
+    },
+    {
+      "title": "하나자산운용, 엔비디아 25% 담은 AI 반도체 ETF 상장 - 메가경제",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95R0hIRERjdGJLRnRERkZ0MHFYUE43NW5tejRlV0Q4WFpZSE1qSzNfQ0l3OFR2V3lqdW9Ld2FhbTBmVnU1c0RfanFsX1BqSE5HRlkzWEp3QzhyS3lJbVVIRVhQb3Zaamg5ZzhkTUp3SnREZ9IBckFVX3lxTE95R0hIRERjdGJLRnRERkZ0MHFYUE43NW5tejRlV0Q4WFpZSE1qSzNfQ0l3OFR2V3lqdW9Ld2FhbTBmVnU1c0RfanFsX1BqSE5HRlkzWEp3QzhyS3lJbVVIRVhQb3Zaamg5ZzhkTUp3SnREZw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 07:48:41 GMT",
+      "summary": "하나자산운용, 엔비디아 25% 담은 AI 반도체 ETF 상장 &nbsp;&nbsp; 메가경제",
+      "outlet": "메가경제",
+      "outletUrl": "https://m.megaeconomy.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-ai-policy",
+        "ai-chip-policy-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-19T11:15:30.807Z",
+      "lastSeenAt": "2026-10-22T06:03:45.371Z"
+    },
+    {
+      "title": "Who pays when an AI agent causes damage? - Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51aVpHRDY0RGNOZFhaaUNzaFFRVS00cFRNR1I4amxmZ3RFZVhhcm1KNjc1eGZuYzNKcXBuT1d5MWpvVWtWU3RlNTY5Ym5rdVZkeFhvWEpUTzBhMU1VMmo2NF9yc2VwdlRRQ3BjSXEyaDU0Z1NBSkVBRzBBaFFOdw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 07:48:39 GMT",
+      "summary": "Who pays when an AI agent causes damage? &nbsp;&nbsp; Dealroom",
+      "outlet": "Dealroom",
+      "outletUrl": "https://app.dealroom.co",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-19T11:15:30.807Z",
+      "lastSeenAt": "2026-10-19T14:37:41.852Z"
+    },
+    {
+      "title": "Anthropic Acquires Confidential AI Startup Opaque Systems - SecurityWeek",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGx1UnU3dGVlTklBS0ZIMFlZZnpwbUJoWnlPVW1RR1JtdVRqZm4wVHBFa19mOHNGeEt0SU9hXzJtWWVyV0ZIZ3RtWnlNNHltRUhabjJhcjVVWGNNcmZPR1VDUC1tRkZ0YWZSX1I0LXFpcGpXWW5fQXplOVpnOUhzTm5WTjJobnotMFNHWkhrZDnSAZYBQVVfeXFMTTRRUEl3Z2hLYy1oNnlsMGt1ZEVRN0R4eGRhNU9VV2ZJQVl0N29kN3ZMWHFBbFNUeTZHaXk1THVHOE1CNFNjZExVODVQd3ZoOHA5REZjWmhvOS1zcWd0cndycFJ6dzZfNHFMcUJaeFB1eThFV1FsaUdkdjJtWlI1R1dEZlpqbnctZlRBeDVqMEVuY2NaQ2xn?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 07:45:25 GMT",
+      "summary": "Anthropic Acquires Confidential AI Startup Opaque Systems &nbsp;&nbsp; SecurityWeek",
+      "outlet": "SecurityWeek",
+      "outletUrl": "https://www.securityweek.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-19T11:15:30.807Z",
+      "lastSeenAt": "2026-10-22T05:11:37.149Z"
+    },
+    {
+      "title": "사업 철수 vs 공모 경쟁…‘20년 계약 만료’ 롯데 광주월드컵점 운명은 - 남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QcWlYRXlTeU1SY2xtcF8tRVVQQUdkN2s4eWExOGZXT1dLUnAwTEZMT2dvcnBNQzU3SFQ5cnJqOHpIUGF1SkpOYWMwS2JMVkRoTklJS2dPWF9GTnRoSTlETzBxQXNfanBxYy0yStIBcEFVX3lxTE5IZXRGRTBXaUhDdURVbFlOdDlFel82Tm5EOEU2eVd6VEhNNjVFSWwwd2FrdkdMaXBqZ0tiblR5elVqOFZSUWR6cHh4cWNqSHlpS0tSUzl3UVF3NWd3cFByX3h5RUkxeWFTTExEYmN4ZzE?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 07:45:00 GMT",
+      "summary": "사업 철수 vs 공모 경쟁…‘20년 계약 만료’ 롯데 광주월드컵점 운명은 &nbsp;&nbsp; 남도일보",
+      "outlet": "남도일보",
+      "outletUrl": "https://www.namdonews.com",
+      "source": "AI반도체 공공사업",
+      "sourceIds": [
+        "ai-chip-public-program",
+        "local-government-npu"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "정책"
+      ],
+      "issueCategory": "AI시장",
+      "score": 21,
+      "firstSeenAt": "2026-10-19T11:15:30.807Z",
+      "lastSeenAt": "2026-10-21T00:34:26.486Z"
+    },
+    {
+      "title": "LS ELECTRIC, 美 빅테크와 1700억 규모 데이터센터 배전 솔루션 공급계약 - 에너지타임뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xNmVwRzEwX25LNl9QaVhUWDBvNnJqN3Z0YVBzTGV4blRPalB1WU9ZY0ZMUEFUejRxTTdDN1VVamtBa2g2cVBzR3Rwd0lKa1VNNmVMLU5fZnNWUHI5SEl3Y0tfZXNEc1BYSzJpcEJhZ0E0RDZsR1HSAXZBVV95cUxNcTZlcEcxMF9uSzZfUGlYVFgwbzZyajd2dGFQc0xleG5UT2pQdVlPWWNGTFBBVHo0cU03QzdVVWprQWtoNnFQc0d0cHdJSmtVTTZlTC1OX2ZzVlByOUhJd2NLX2VzRHNQWEsyaXBCYWdBNEQ2bEdR?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 07:44:27 GMT",
+      "summary": "LS ELECTRIC, 美 빅테크와 1700억 규모 데이터센터 배전 솔루션 공급계약 &nbsp;&nbsp; 에너지타임뉴스",
+      "outlet": "에너지타임뉴스",
+      "outletUrl": "http://www.enertopianews.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-19T11:15:30.807Z",
+      "lastSeenAt": "2026-10-21T00:34:26.486Z"
+    },
     {
       "title": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power - digitimes",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWhfNUhYYTVPQUJZQmw4azJVMnpCV0F1OV9wWWduNE1LQjNTcXRsTGpmLTduV3FhZnFISE5zcDhfRTdYVUVvZ1A1a0lGZUs1a25oOTg3QjFhUFRINkw4bHpSZGJ6Tk5XczZUcUtjcnVjZ01sc0Y4QU0tRFlOZENpdmh5MmdZaWRUa2x2cQ?oc=5",
@@ -2075,141 +2218,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-19T11:15:30.807Z",
       "lastSeenAt": "2026-10-22T06:03:45.371Z"
-    },
-    {
-      "title": "하나운용, 美 AI 반도체 ETF 출시…엔비디아+AI핵심기업 집중투자 - 비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUY0wwejJoS0pZVHRtVVRQWElpLVZSV21PMy1KdFBwNE5rQUdjYnU2bU1QOWw1NWttUTZ1ZzB2RHk5a2wyX3lwamtIR3pTcU5pQVRsZGVyamtxMVZjdHUxY3ZlTmd3UUd2ZWc?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 06:47:02 GMT",
-      "summary": "하나운용, 美 AI 반도체 ETF 출시…엔비디아+AI핵심기업 집중투자 &nbsp;&nbsp; 비즈워치",
-      "outlet": "비즈워치",
-      "outletUrl": "https://news.bizwatch.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-ai-policy",
-        "ai-chip-policy-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-19T11:15:30.807Z",
-      "lastSeenAt": "2026-10-23T00:36:22.880Z"
-    },
-    {
-      "title": "건설주 10%대 급락…'800조' 반도체 산단에 쏠린 눈 - 강릉뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43bUxveFprRGIxelRRQi1yaDRiY1VRdmtLSFJ6YXE5S0NKSnJJQ3A3bFo1YTBON3VlNDE3Z0FUX01JTUZaSG8yWWtZTms0MlMta3NDdzYyeUF1U3VpUU9od2M2MjczYVVCZHB5Q1QyYVdDZ9IBckFVX3lxTE43bUxveFprRGIxelRRQi1yaDRiY1VRdmtLSFJ6YXE5S0NKSnJJQ3A3bFo1YTBON3VlNDE3Z0FUX01JTUZaSG8yWWtZTms0MlMta3NDdzYyeUF1U3VpUU9od2M2MjczYVVCZHB5Q1QyYVdDZw?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 06:46:39 GMT",
-      "summary": "건설주 10%대 급락…'800조' 반도체 산단에 쏠린 눈 &nbsp;&nbsp; 강릉뉴스",
-      "outlet": "강릉뉴스",
-      "outletUrl": "http://www.gangneungnews.kr",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-19T11:15:30.807Z",
-      "lastSeenAt": "2026-10-20T05:57:26.312Z"
-    },
-    {
-      "title": "데이터시티위마켓·델타엔지니어링, AI 데이터센터·GPU 인프라 사업 맞손 - 이코노미스트",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LajZqYUhUbFB3NkE5aVFoVVlPWUxDdUZlWFVfZ1ZROUpoQy1tREhBQ3FIWF9Na25nUHJrZGFqWHl2WGJYMHZVVmJlX3FxMmxQS0FJMmt2RFVheE1wZnlwaHhB?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 06:45:00 GMT",
-      "summary": "데이터시티위마켓·델타엔지니어링, AI 데이터센터·GPU 인프라 사업 맞손 &nbsp;&nbsp; 이코노미스트",
-      "outlet": "이코노미스트",
-      "outletUrl": "https://economist.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-19T11:15:30.807Z",
-      "lastSeenAt": "2026-10-20T05:07:38.533Z"
-    },
-    {
-      "title": "Exclusive: Hunar AI valuation jumps 71% in Series A round - Entrackr",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUxXV29Od2EtZkZVRy0xTGJfdTNWU1NIZTA3dVVSZDhBZWZXTk03Zlg1NUhZdFRLM2Y1Q3c1WWRtMlNGVWFENVlVRnotenFVVWlqNk1OZ0Vma25tazR6ajBDZlVpRlZRd0RLeF9jZnNJMnVjeXRtTDJ5SkVoakRUMXpuSWM2dkVrcXpwUUUwZlh4V1lwMUZXSWZtONIBmwFBVV95cUxPRUxXV29Od2EtZkZVRy0xTGJfdTNWU1NIZTA3dVVSZDhBZWZXTk03Zlg1NUhZdFRLM2Y1Q3c1WWRtMlNGVWFENVlVRnotenFVVWlqNk1OZ0Vma25tazR6ajBDZlVpRlZRd0RLeF9jZnNJMnVjeXRtTDJ5SkVoakRUMXpuSWM2dkVrcXpwUUUwZlh4V1lwMUZXSWZtOA?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 06:44:50 GMT",
-      "summary": "Exclusive: Hunar AI valuation jumps 71% in Series A round &nbsp;&nbsp; Entrackr",
-      "outlet": "Entrackr",
-      "outletUrl": "https://entrackr.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "데이터센터",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 22,
-      "firstSeenAt": "2026-10-19T11:15:30.807Z",
-      "lastSeenAt": "2026-10-19T11:15:30.807Z"
-    },
-    {
-      "title": "서왕진 의원, 호남반도체 'SK·삼성 증인채택' 요구 제동 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56OTNILWVOUXdCZXlKbEhTRzFXVnFJeng1Qm0xT2NJZU02SEQ4Ukd0SF9LQ01IWlNiUU1BYkFFUDkxV2hPRkRrM3JabVZBcWZJODNkUTR5dUtRX2FSZmhoUWxwVnU0Mk5USVZMcncxZG4xY3BraWtxZ9IBeEFVX3lxTE56OTNILWVOUXdCZXlKbEhTRzFXVnFJeng1Qm0xT2NJZU02SEQ4Ukd0SF9LQ01IWlNiUU1BYkFFUDkxV2hPRkRrM3JabVZBcWZJODNkUTR5dUtRX2FSZmhoUWxwVnU0Mk5USVZMcncxZG4xY3BraWtxZw?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 06:44:12 GMT",
-      "summary": "서왕진 의원, 호남반도체 'SK·삼성 증인채택' 요구 제동 &nbsp;&nbsp; 뉴시스",
-      "outlet": "뉴시스",
-      "outletUrl": "https://mobile.newsis.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-19T11:15:30.807Z",
-      "lastSeenAt": "2026-10-21T00:34:26.486Z"
-    },
-    {
-      "title": "Former Huawei engineer’s robot AI startup Gewu Tongzhi raises nearly RMB 100 million - TechNode",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYndCWmlvRXNodGpMZUgtck0zRVpBeEJ1dUljeGhUdDZQcnVTYlE5bndDV2hHN0stSXVwRU1BWU5nMTMyVDQtRG02eE42ajJaN1FBb0pvNVltd1ZYSnUxV1Bubmh6RlUyekhSa0w5ek5KdXpNaEIxYURZckI4RF9QZEdwSHY4aUxCQTljTkp4MFBHWWpKVTF3UnhyLVI2VWNvVU5EMmlFMFJkV0ZNci0xT05wVFpaZ1k?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 06:41:03 GMT",
-      "summary": "Former Huawei engineer’s robot AI startup Gewu Tongzhi raises nearly RMB 100 million &nbsp;&nbsp; TechNode",
-      "outlet": "TechNode",
-      "outletUrl": "https://technode.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-19T11:15:30.807Z",
-      "lastSeenAt": "2026-10-20T12:40:52.451Z"
     }
   ]
 }

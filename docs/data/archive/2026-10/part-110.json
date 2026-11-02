@@ -1,7 +1,140 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "SUSE unveils sovereign AI platform with NVIDIA tie-up - IT Brief Asia",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGh3cDRQSkNUSUhRNGtvak1xT3BLSXVOaVN4NkZHVW50U0RKNzViNzEwdDlaM2NWZmI2WjN4b2FiT2h2LUQ3ZGdaWlVkSkhrZ1Bad3dNVW1sTlNNNmo5YnBLYmswbjhGR3Z5STRWT1pmaFR6c002Wk5uNW14V0tSVi13V1BMcE0?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 02:13:00 GMT",
+      "summary": "SUSE unveils sovereign AI platform with NVIDIA tie-up &nbsp;&nbsp; IT Brief Asia",
+      "outlet": "IT Brief Asia",
+      "outletUrl": "https://itbrief.asia",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai",
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "수출통제·공급망",
+      "score": 23,
+      "firstSeenAt": "2026-10-23T05:01:32.260Z",
+      "lastSeenAt": "2026-10-26T01:42:39.492Z"
+    },
+    {
+      "title": "SM국일, 2차전지·반도체 장비업체 '대진기계' 인수 추진 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTlJfVzl6Y2VHTnMyT080SzFKaDVXNUw5UmktR0U5S3FFbUhKRkxVMnZnYW1ybG5nODBudWUtX0NJei1HbjA0RlBabkJDbjlBbGotRVlxaG5rcG0ySEM4WTY5ZUpNR0ItSmpScUVxS2tmVUI0d09oSkhsVkV3NXB1UA?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 02:10:40 GMT",
+      "summary": "SM국일, 2차전지·반도체 장비업체 '대진기계' 인수 추진 &nbsp;&nbsp; 이데일리",
+      "outlet": "이데일리",
+      "outletUrl": "https://www.edaily.co.kr",
+      "source": "글로벌 기업·한국 반도체 협력",
+      "sourceIds": [
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 9,
+      "firstSeenAt": "2026-10-25T12:32:15.609Z",
+      "lastSeenAt": "2026-10-26T01:42:39.492Z"
+    },
+    {
+      "title": "[2026 국정감사] 김선민 \"국가AI센터 혜택 비밀에 부쳐선 안 돼\" - 내외경제TV",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Zbjc5Um45aGdSZTdKR0JtQjdpRHV5elBtTWswQkp6Y05fQVNSWjRoaVFoZUVaa3NZVzhKNkRabXV0aHptazdmajFmR1JIZ1h6bjVKQjgtd1l2ek1pNXBCYkJpR2NoUm1WVHFz?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 02:10:09 GMT",
+      "summary": "[2026 국정감사] 김선민 \"국가AI센터 혜택 비밀에 부쳐선 안 돼\" &nbsp;&nbsp; 내외경제TV",
+      "outlet": "내외경제TV",
+      "outletUrl": "https://www.nbntv.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy",
+        "nipa-msit-policy",
+        "government-npu-policy",
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-23T05:01:32.260Z",
+      "lastSeenAt": "2026-10-26T01:42:39.492Z"
+    },
+    {
+      "title": "AI 데이터센터 비상전원 공급 체결, 매수자금 고민은 연 5%대 스탁론으로 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BMEJ0YlJLS1NGTTlSX3BEai1FN2U0alMwVmU1RExycUlSbWxISzZmOXliblMzZUpwcDVFcnM4Y2VKRHVObkxxTkw0dVh0VUxEaEFB0gFTQVVfeXFMT0EwQnRiUktLU0ZNOVJfcERqLUU3ZTRqUzBWZTVETHJxSVJtbEhLNmY5eWJuUzNlSnBwNUVyczhjZUpEdU5uTHFOTDR1WHRVTERoQUE?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 02:10:00 GMT",
+      "summary": "AI 데이터센터 비상전원 공급 체결, 매수자금 고민은 연 5%대 스탁론으로 &nbsp;&nbsp; 서울경제",
+      "outlet": "서울경제",
+      "outletUrl": "https://m.sedaily.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-23T13:48:54.332Z",
+      "lastSeenAt": "2026-10-23T13:48:54.332Z"
+    },
+    {
+      "title": "민주당, ‘초광역특구법안’ 기습 발의…“반도체 대기업 특혜 맞춤법” - 농업인신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wUzBvVDNhY1pvdnU3ZXBaQjR0cjNic3VaS2FoWk5wX2dQVlQxMjFtVml4V2V3aHNPRERrb3E5UGFkN1NxNG1Pa0hqMks2UWVYOGxEYm12V1lJMW5tclFhRURGYmtFajQ3YVRPR093?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 02:06:52 GMT",
+      "summary": "민주당, ‘초광역특구법안’ 기습 발의…“반도체 대기업 특혜 맞춤법” &nbsp;&nbsp; 농업인신문",
+      "outlet": "농업인신문",
+      "outletUrl": "https://www.nongupin.co.kr",
+      "source": "지역 AI·반도체 산업금융",
+      "sourceIds": [
+        "regional-industry-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 7,
+      "firstSeenAt": "2026-10-25T01:38:19.640Z",
+      "lastSeenAt": "2026-10-26T01:42:39.492Z"
+    },
+    {
+      "title": "민주노총 인천본부 “초광역전략산업특구법은 노동개악… 즉각 철회해야 - 시민의소리",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuNmVaLTZITlZkQ01fTHBqQWprTXVYem1UZzBRSXU4Ml9IV3FpRDRyME5fTzRCYmVldTl2bmJ4dFZzRnBPc2tXejIzaFRIdTdGZXhiVUhlSmxNSFpXUGxiYjluUFRtWXd0N1hTUdIBcEFVX3lxTE1YdWFWWDRycU1UVHEtMVotUjJrdE1sUWZtOTRFdEhLSGthNDR4MzlFRFVKS2czR0xNdUhGbE5NN2JScHYyaWxOSThCRjZhTXI4azRkWmY5TEZ1bWc1UTZZTURvX0NsV0tuMVo2UjBlblg?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 02:06:28 GMT",
+      "summary": "민주노총 인천본부 “초광역전략산업특구법은 노동개악… 즉각 철회해야 &nbsp;&nbsp; 시민의소리",
+      "outlet": "시민의소리",
+      "outletUrl": "https://www.siminsori.com",
+      "source": "지역 AI·반도체 산업금융",
+      "sourceIds": [
+        "regional-industry-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 7,
+      "firstSeenAt": "2026-10-24T04:46:23.742Z",
+      "lastSeenAt": "2026-10-26T01:42:39.492Z"
+    },
     {
       "title": "中 반도체 채용 양극화, 인재난·취업난 동시 발생...왜? - 초이스경제",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGQk4yZlI0eENaVXY2TGg1ZHF3VG9NdXFQU05JRVZiT2JJZnhQczQ0YnNpTHNTRlZNazdjQU1tQ09MWTBucF93YTdLTjVUZGxEYjVLYmxBaERab3hLV2N5VlZtTEtiQmhYUGRvaWdJRlBuYkHSAXNBVV95cUxQRkJOMmZSNHhDWlV2NkxoNWRxd1RvTXVxUFNOSUVWYk9iSWZ4UHM0NGJzaUxzU0ZWTWs3Y0FNbUNPTFkwbnBfd2E3S041VGRsRGI1S2JsQWhEWm94S1djeVZWbUxLYkJoWFBkb2lnSUZQbmJB?oc=5",
@@ -2085,138 +2218,6 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-10-23T13:48:54.332Z",
-      "lastSeenAt": "2026-10-26T00:13:30.047Z"
-    },
-    {
-      "title": "Top 10 Best Free Instagram Followers: Easy Methods That Actually - Broadcom support portal",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjcC04d1pqR2RxWTZXdzdRWFZhWEtKWGJKVWR4N0xoRnplRWNLQUlhOEluVHhfeUtrNm43cXVaVGpON0lMNlJ3UXdKaUJ4blFMakpLUWd2NlN1dnktZmxUUjMtTmpNX2llbWFyaVlVRTE?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 00:33:35 GMT",
-      "summary": "Top 10 Best Free Instagram Followers: Easy Methods That Actually &nbsp;&nbsp; Broadcom support portal",
-      "outlet": "Broadcom support portal",
-      "outletUrl": "https://support.broadcom.com",
-      "source": "반도체 기업 공식발표",
-      "sourceIds": [
-        "official-chip-news"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Broadcom"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 12,
-      "firstSeenAt": "2026-10-10T06:01:06.270Z",
-      "lastSeenAt": "2026-11-02T06:22:37.395Z"
-    },
-    {
-      "title": "10 Best Sites to Gain Free Instagram Followers: (Boost Views, Likes) IG Profile Growth Tips 2026 DrCy - Broadcom support portal",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUV5XzlBbHlqRl9tX0Y4bmcxRjZYSFB4b1pLOTh3UHhhSHlIbmplYmlQTlVMemJyUWo1bWwzdUIyTF84ZjM5TTJhZmE1cDlvdGVwTHNTTEdDZkFMLU4yTGRIZ2ZaWVpqbVB2TGRhZFYtRGlxd2FSUDFDS2Y0eERrNmNR?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 00:33:35 GMT",
-      "summary": "10 Best Sites to Gain Free Instagram Followers: (Boost Views, Likes) IG Profile Growth Tips 2026 DrCy &nbsp;&nbsp; Broadcom support portal",
-      "outlet": "Broadcom support portal",
-      "outletUrl": "https://support.broadcom.com",
-      "source": "반도체 기업 공식발표",
-      "sourceIds": [
-        "official-chip-news"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Broadcom"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 12,
-      "firstSeenAt": "2026-10-10T06:01:06.270Z",
-      "lastSeenAt": "2026-10-26T00:13:30.047Z"
-    },
-    {
-      "title": "Compal and Verda expand AI cloud infrastructure partnership - digitimes",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVM3bkhYV2JoTF9yTi0tQlFjemFOemRnY3Z5V1RNb1NSTHNGOGtmNFUxVTBRTTkxcWFIc2xCQU5qajBVdVhPWnJiMk1WeWdXcHFLN2Uxd2FOVThFdGZ1T0NodUlEMWloVlNYWDZPRDdsQTVCdmwwbmIzMmVyRm5vcVBPWGdkT0ZmNm0wSGtRa1M4NmlqTTRpZGdWRVZiN2pJR0RJbEJGUkNhUEE?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 00:32:03 GMT",
-      "summary": "Compal and Verda expand AI cloud infrastructure partnership &nbsp;&nbsp; digitimes",
-      "outlet": "digitimes",
-      "outletUrl": "https://www.digitimes.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 16,
-      "firstSeenAt": "2026-10-23T01:57:31.733Z",
-      "lastSeenAt": "2026-10-23T13:48:54.332Z"
-    },
-    {
-      "title": "[AI 산업] LG이노텍·엔비디아, ‘피지컬 AI의 눈’ 잡는다…차세대 로봇 센싱 동맹 - AI라이프경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uVHl4VHowTlR5Q2JxOVRoSXNIZExVbGFSMEUtcTJwWFhtem5IdkRZamYydEVNZmNDdGZ3dmdNVW43M1liWWRFS1F1WTNMN1RaQVQ2OGMtYWMtRHJTalZvc29ueERvdVpGSEczctIBb0FVX3lxTE00ZmxJS1pMOEtSbmFQQXdLNVk5MlJQT1JzZVJKSW13N2c4dFJZc0hhU21yNkNiMzhpeC1hLS1HeUMzVVl1ZXFKZnNfQW5HZHc3eERXVXJkMWdTNDdWWkFickJkdWhUcTRLd0FXSUJyYw?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 00:30:13 GMT",
-      "summary": "[AI 산업] LG이노텍·엔비디아, ‘피지컬 AI의 눈’ 잡는다…차세대 로봇 센싱 동맹 &nbsp;&nbsp; AI라이프경제",
-      "outlet": "AI라이프경제",
-      "outletUrl": "https://www.aifnlife.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-23T12:35:23.942Z",
-      "lastSeenAt": "2026-10-23T17:51:18.501Z"
-    },
-    {
-      "title": "Samsung Electronics and SK hynix to unveil AI semiconductor vision, with energy constraints in focus - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rSEhsYmlMek1qV1oyVUVtSzB6UVl4TUFodWFCNjUzcjdpUWoyTklWcWltck9WRnIzVGlZcXdBVnRvTVpDaHk3LXFjRWg4LXZRREtnNS1OR28ySUUtYmhMUEZ0ZGtYVk1iRUhDdUU2Sno?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 00:30:00 GMT",
-      "summary": "Samsung Electronics and SK hynix to unveil AI semiconductor vision, with energy constraints in focus &nbsp;&nbsp; 머니투데이",
-      "outlet": "머니투데이",
-      "outletUrl": "https://www.mt.co.kr",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Samsung"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 16,
-      "firstSeenAt": "2026-10-24T22:44:16.207Z",
-      "lastSeenAt": "2026-10-25T17:02:39.149Z"
-    },
-    {
-      "title": "“Samjeon-Nix” in One Place… The Future of AI and Semiconductors Hinges on the “Energy Barrier” - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rSEhsYmlMek1qV1oyVUVtSzB6UVl4TUFodWFCNjUzcjdpUWoyTklWcWltck9WRnIzVGlZcXdBVnRvTVpDaHk3LXFjRWg4LXZRREtnNS1OR28ySUUtYmhMUEZ0ZGtYVk1iRUhDdUU2Sno?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 00:30:00 GMT",
-      "summary": "“Samjeon-Nix” in One Place… The Future of AI and Semiconductors Hinges on the “Energy Barrier” &nbsp;&nbsp; 머니투데이",
-      "outlet": "머니투데이",
-      "outletUrl": "https://www.mt.co.kr",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 11,
-      "firstSeenAt": "2026-10-25T22:48:41.282Z",
       "lastSeenAt": "2026-10-26T00:13:30.047Z"
     }
   ]

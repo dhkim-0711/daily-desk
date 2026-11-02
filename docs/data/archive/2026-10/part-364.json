@@ -1,7 +1,156 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "AI data centers in space? Google kicks off the race with a key test - CNN",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEZncmZIVkt5SXJMM3F6VXVoWDRQUlRHS3dUMl9qOW1LZlliVFVxSW85UUlUWWducmlhU3pOQ2tWeDJqMWZ1Sjh6WnhCSG9OUWxmSndUQVhDcmlkZFlYbzV0WGxvemhFcGpidEM5Q1Q2ZzUwTG0xOVBMRERTUThqNmJRaw?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 15:01:56 GMT",
+      "summary": "AI data centers in space? Google kicks off the race with a key test &nbsp;&nbsp; CNN",
+      "outlet": "CNN",
+      "outletUrl": "https://www.cnn.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "Google"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-01T16:41:40.325Z",
+      "lastSeenAt": "2026-10-03T13:54:31.525Z"
+    },
+    {
+      "title": "Hottest AI and Cloud Vendors: #1 Palantir, #2 Google Cloud, #3 Oracle - Cloud Wars",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmpPc2xaUnMyY041d1lZbnhmdHhXMHRpcTNNWTJXdzhHWUpxWXlNYzdKbTNyZ1RVdHhta1NzcWxfYVY0TWVRdWVBTldPNHdXakJzcWpOTUxUaDhFeURySVpmSFBaMlJuWkktZlZ3YTZXX1RWbjNZQ2NBV3RydTcwSzhpNmx6Ni1OcndWcnUzRzhLcjA?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 15:00:00 GMT",
+      "summary": "Hottest AI and Cloud Vendors: #1 Palantir, #2 Google Cloud, #3 Oracle &nbsp;&nbsp; Cloud Wars",
+      "outlet": "Cloud Wars",
+      "outletUrl": "https://cloudwars.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 23,
+      "firstSeenAt": "2026-10-02T01:04:49.133Z",
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
+    },
+    {
+      "title": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents — new hardware-and-software security stack can quarantine agents in milliseconds - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPOHJvOUFYU1lTVHZXT2tZbkJZVEFFZ2lzeVZMVXMwRVQtNWJwc1VPNS1iVWFDT0lkdmFoQ1N1NVFrbzlaRjNvZG13YU81N0ZTWFZSYWxxd1NSdnh3Vk0wUVBtVVFvWlBhOF9XbTFXN3ZvUjRUR1lQV0ZCSF8ySVNjYlBSdzZ1X1pPNmxDb3FfaVd5dWd6Y0lDX18zT3htbVhhRm8yVjRQSVBVRXhNeWZLUHpoeUFQNzUtN0pxZzhUaDJqOEgzNzlDZzZrTVk2OGFweHN5UzFEbmhsYkpsdTJILWRLbG42Ty1Ic09KR1V4NWlZV210b2ZyajRSZFFJV0tmMVJNeGg1enllTFByNTF0ZlRlYkJRV1lMSWRGS0dfTFAxemxlbnM4b1U5cm5FcEpxQXpUVW4wZW9QSDNQ?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 14:30:00 GMT",
+      "summary": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents — new hardware-and-software security stack can quarantine agents in milliseconds &nbsp;&nbsp; Tom's Hardware",
+      "outlet": "Tom's Hardware",
+      "outletUrl": "https://www.tomshardware.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 23,
+      "firstSeenAt": "2026-10-01T16:41:40.325Z",
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
+    },
+    {
+      "title": "The US government no longer calls it AI. President Donald Trump has signed an executive order renaming artificial intelligence as Super Intelligence, or SI. On the same day, the heads of Google, Meta, Anthropic, OpenAI, Nvidia and xAI signed the White Hous - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlAzTDFmZ3pTSl9HSHlFdmRPOWtJVk1nUU95ZGFWa0hCamUydzRlREJYdDNFbFd5UXo4NkJqOHJsWjZRQVc2YmU4RXd3R01NWTFYazl2Q3hQako2cmJuRHg4MmRMOVlBeUd6YU5YMFdPSVNqcHpFYXcxbDJxOTdKT1RXTmQ1ZU0yekVFdlN2S05ENXdOakdlYjM4eFZfYzZncHRwS0FEaXFXNEE?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 14:26:10 GMT",
+      "summary": "The US government no longer calls it AI. President Donald Trump has signed an executive order renaming artificial intelligence as Super Intelligence, or SI. On the same day, the heads of Google, Meta, Anthropic, OpenAI, Nvidia and xAI signed the White Hous &nbsp;&nbsp; LinkedIn",
+      "outlet": "LinkedIn",
+      "outletUrl": "https://www.linkedin.com",
+      "source": "NVIDIA 이슈",
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "Google"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "Google"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 27,
+      "firstSeenAt": "2026-10-01T16:41:40.325Z",
+      "lastSeenAt": "2026-10-01T18:49:49.722Z"
+    },
+    {
+      "title": "구글 AI칩 TPU, 스페이스X 로켓타고 우주로…우주데이터센터 첫걸음 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VV1FobFBIVDQwY3J1cHB3VFlOV3ZxaVpOck13VlhlZlRTTWhXUF93UWFNVE9XbmdPbENtazB6NGljNEx0SU9WZ3UzYThUYmQ0LWtHTmZxQWNKQQ?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 14:00:54 GMT",
+      "summary": "구글 AI칩 TPU, 스페이스X 로켓타고 우주로…우주데이터센터 첫걸음 &nbsp;&nbsp; 한국경제",
+      "outlet": "한국경제",
+      "outletUrl": "https://www.hankyung.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "Google"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-01T16:41:40.325Z",
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
+    },
+    {
+      "title": "세미파이브, 모빌린트와 K-온디바이스 AI 로봇 반도체 상용화 나서 - 데일리포스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mY0ppUi1CWFIxRHl5TTJ1VGFnU1VJVGJfRTRsRmgxM3dZaDRhT2QzX1kzU2E5SkdST1BnRVpYTDZabzgyLVFiQ1phMzY0cV9JS05ZZVhaVGptb1A1ZGlmRkpjM3Y3T2RUWW5qdVdtRdIBc0FVX3lxTE9sS3lxZE1wQ0JNeE9ITXhhQnFjRUh5eEMtaTF6ZHZPMXpZaThjSkxJQW42OVQ3dUYtZ2o5SnN5VmdfUmFWWEZNaGNLOG9IanV0VGlVU1FzOTh2LVlHSnBOMTE5bHo4WjhPV083SEJBd25PN0U?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 13:40:00 GMT",
+      "summary": "세미파이브, 모빌린트와 K-온디바이스 AI 로봇 반도체 상용화 나서 &nbsp;&nbsp; 데일리포스트",
+      "outlet": "데일리포스트",
+      "outletUrl": "https://www.thedailypost.kr",
+      "source": "모빌린트",
+      "sourceIds": [
+        "mobilint",
+        "mobilint-broad"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "모빌린트"
+      ],
+      "taxonomyHits": [
+        "온디바이스AI",
+        "모빌린트"
+      ],
+      "issueCategory": "NPU",
+      "score": 23,
+      "firstSeenAt": "2026-10-01T16:41:40.325Z",
+      "lastSeenAt": "2026-10-02T02:03:14.813Z"
+    },
     {
       "title": "Thales Unveils AI-Powered Cybersecurity Suite and Google Cloud Partnership at Paris Cyber Summit - FF News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXUzTjJ2LXQtSXlOZUUwaUFrU0tQU0toX2pqUmp2SUw3dkhOQTBrZzZFWTdTVFZtWUI2bnpJZ1p0Nno5LWc5eWUzNVoyRnJfQldTdEMyd3NndjJGdGR0RW11ZjA1WjVVOFNJTTBVUnNWS2ZhUTFxMG92X0ZmRWhJR0c3V0I3a0RCTjNGTC1FdXZsNmZWY2YzQm5iQjlhUGg2QlZhOWg2eUo4RUQxQ3BoSXZiOA?oc=5",

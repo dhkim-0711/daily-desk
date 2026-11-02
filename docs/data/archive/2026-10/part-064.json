@@ -1,7 +1,151 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "엔비디아, 메타 유상증자에 30억달러 투자...AI 에이전트 협력 확대 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIQ2luUWtqNTkyTUE1Y2lUd2ZoWlJvZVB5ekwwVmVHOGJtZ1dqNFNEeFdKLTBLVEdwbWF6dTFGbGtGNTU2bGQ5bTAzamk1ZlFzYzd0dVpyQXR6TURFMjgxcFY0UDlWU0pHSEJzYnhlVnN3YWs?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 12:17:00 GMT",
+      "summary": "엔비디아, 메타 유상증자에 30억달러 투자...AI 에이전트 협력 확대 &nbsp;&nbsp; 디지털투데이",
+      "outlet": "디지털투데이",
+      "outletUrl": "https://www.digitaltoday.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 26,
+      "firstSeenAt": "2026-10-27T15:51:29.490Z",
+      "lastSeenAt": "2026-10-27T15:51:29.490Z"
+    },
+    {
+      "title": "하이퍼엑셀, 삼성증권 출신 인사 CFO로 영입 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yTXc4MUJXazMtSkdtZzF6WTI1TzlabGc3WEp5NGpWYTdKdFVXTG05al9fMFBOcWZHeEhSYTRhdWtNblBxdHZ1QW9peDJTRkI0bWk5VFRWeDRYYlhucEpPbjN2bUdBdw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 12:15:18 GMT",
+      "summary": "하이퍼엑셀, 삼성증권 출신 인사 CFO로 영입 &nbsp;&nbsp; 디일렉",
+      "outlet": "디일렉",
+      "outletUrl": "https://www.thelec.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "hyperaccel",
+        "hyperaccel-broad",
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "하이퍼엑셀"
+      ],
+      "taxonomyHits": [
+        "하이퍼엑셀"
+      ],
+      "issueCategory": "NPU",
+      "score": 15,
+      "firstSeenAt": "2026-10-27T15:51:29.490Z",
+      "lastSeenAt": "2026-10-30T10:49:38.359Z"
+    },
+    {
+      "title": "CoreWeave Vs. Nvidia: Demand For Silicon is Not The Same Thing as Solvent, Credit-Backed Demand for Physical Infrastructure - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcFp0X3MyVjlSSFltekZYM25UVU92Tm5taGpfdGg5TUdCMWJHamNsQkEyYUotR2RuNlRLTHIyYm9yYjJJc09NUFotVmJ4MExlMndYQ0o0cXpnckJ0cVFiLWxSOFNVZFF2QkF0X1Jxczk2Y0NHQTF0YkY5eUVpLVVlN1FIQmFVbVQ5Z25XaXBOeHFmZXVSb01vRUh4clF1MU1kMUVLS1FiVnByejdyOUc4d0FJVnctakg3bmtLd1JSTnF4REUwZW5BYWloTTFBNmNlOGRfaDhTZ0lISG9rMFJHV3F2eUlwQVUwbFFTLWR4S0NOUXQtLW53?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 12:15:00 GMT",
+      "summary": "CoreWeave Vs. Nvidia: Demand For Silicon is Not The Same Thing as Solvent, Credit-Backed Demand for Physical Infrastructure &nbsp;&nbsp; 24/7 Wall St.",
+      "outlet": "24/7 Wall St.",
+      "outletUrl": "https://247wallst.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-10-27T15:51:29.490Z",
+      "lastSeenAt": "2026-10-28T07:24:09.373Z"
+    },
+    {
+      "title": "Where to Invest as AI Stocks Fall and Market Risks Rise - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVDdhT0J2d3BZWEdtNnRTbE1meHdyQmJaOEd5VUJ0VW1EWmJHMENHa0YwaGpONkFiaFdfSUEtSWtrWUJqUTJtWmpSZmtsemw5SnhHN3ZMcHdvU1VyelJpcVMtUXNyTXE1ZXBOV0w4OGs5dmItanNMWFV2UmFZNS1FSERaakRKQzVOR0lscTlTbEo1ZmZz?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 12:12:30 GMT",
+      "summary": "Where to Invest as AI Stocks Fall and Market Risks Rise &nbsp;&nbsp; Morningstar",
+      "outlet": "Morningstar",
+      "outletUrl": "https://global.morningstar.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-27T15:51:29.490Z",
+      "lastSeenAt": "2026-10-30T10:49:38.359Z"
+    },
+    {
+      "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBweFg0SG4wQksybTBjYjZhQmZ4RXdCeFJRa3ZmM09NMlhWVUcxYUd3aEYyUmd4VjQ1ZHdxbUkyLXRhZEwtY1FlYmlYc3NMMm9MZTVKU0JjcUdlaGFIMEZXLURjeVdSWkk0Wml6LW15a2pnOVhEeVlj0gF8QVVfeXFMUFdtX1Q4dmJGaFBlV2pQRmpCOWg4R3plVGZrV2g4YmVZaUZqZXpsYWZuV3pZWnJOOVY2dkxOdEJFSFVPWFpPMGE2RWZCS0lwWjJWeTRVblo1X2RaNUs5cGxwazgwRWQ1WE5OalI4MmJKQmlTWGhlNXk3cUF6cw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 12:11:08 GMT",
+      "summary": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs &nbsp;&nbsp; CNBC",
+      "outlet": "CNBC",
+      "outletUrl": "https://www.cnbc.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-27T15:51:29.490Z",
+      "lastSeenAt": "2026-10-28T10:31:07.345Z"
+    },
+    {
+      "title": "Google Cloud’s Gemini voice AI wants to do more than just talk - YourStory.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSXJ3VWZaUlFmcWw0MjN3T3lRTFZWQUp4eTZRREc5Vi01NHZDbXFvY3hRM2RHS29EWTNmNkJHMVBJVHEyV0ZzNHpvYjhtUU9NdEYyVjBVRlFuLXp4a2VNTHdveE50VEZiQzh6N1VsWVFKN3FGUVUtai0tckgyZW8?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 12:11:05 GMT",
+      "summary": "Google Cloud’s Gemini voice AI wants to do more than just talk &nbsp;&nbsp; YourStory.com",
+      "outlet": "YourStory.com",
+      "outletUrl": "https://yourstory.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 23,
+      "firstSeenAt": "2026-10-27T15:51:29.490Z",
+      "lastSeenAt": "2026-10-27T15:51:29.490Z"
+    },
     {
       "title": "Morning Call Sheet: Anthropic IPO risks, AI spending, earnings and Fed outlook - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjhqcTYySEtSR1FCMU1mSkhLazRvODlVMTNjMnNiRmh6LUhVaEFPcFpEQ1hETnVMT0dGNnNnTFJnUVlCU3hnVWk2bHB3c05BVmdXNEM3UHV4Nk9uOG9hc29nVWxMWnl3bk5BU0tQUVhhN2Y5d1VuYzB6SVBNc0RLTUFYM1Y2b1BTNFJJUGJrRDR0eHplaXFub1lUd1QyaHJySEhSTDR2LUxPNncxXzNiMkFWRWNiaERZNnc?oc=5",
@@ -2148,137 +2292,6 @@
       "score": 11,
       "firstSeenAt": "2026-10-27T10:59:25.232Z",
       "lastSeenAt": "2026-10-28T18:48:46.253Z"
-    },
-    {
-      "title": "오남석 경기도의원, 2026 경기도 지산학 미래성장 페어서 협력 강조 - 한국사회복지저널",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RZUJWb3U4MGsxUElFSDNPQ0FWUkZ0Y3RZTzE2b3J3T1Y3ODNPMGhjOFdoYjJvMFJWSVJWY0FuUWJxRzBGM3phZmI0M3ZPTWtOT0ZYakVTNHF4V2lzWTQzek1kdDFibzdFOEQ0?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:26:43 GMT",
-      "summary": "오남석 경기도의원, 2026 경기도 지산학 미래성장 페어서 협력 강조 &nbsp;&nbsp; 한국사회복지저널",
-      "outlet": "한국사회복지저널",
-      "outletUrl": "http://www.ksw-news.com",
-      "source": "AI반도체 공공사업",
-      "sourceIds": [
-        "ai-chip-public-program"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-27T10:59:25.232Z",
-      "lastSeenAt": "2026-10-28T07:24:09.373Z"
-    },
-    {
-      "title": "Node Union Unveils AI Infrastructure Investment Platform Connecting Participants to Computing Resources - Techeconomy",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGxCVDVSbWY4NDRBY3YzcjU0MkNKLUJlV2JCTFVCUzVlVklCNGNHVTlnVDYwbENrVFZGd2h2ME1fNlJoOWdLcnhJMUN6Q1k3QzhpczkzNDlSTkE3MUtybHlQRHlUd1lJMDEtTUlhZWphOWNnX1c5Umo2bDNRb2QzenhkUEJFMWM0VVJyUndGRW9mUEQ5dUVkRzEwdXFMLU9vNTBNNWNEbTlqMW9yTDVvZnE3dXF5T1hYQUVDTWxrNmlPWlM4?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:26:11 GMT",
-      "summary": "Node Union Unveils AI Infrastructure Investment Platform Connecting Participants to Computing Resources &nbsp;&nbsp; Techeconomy",
-      "outlet": "Techeconomy",
-      "outletUrl": "https://techeconomy.ng",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-27T10:59:25.232Z",
-      "lastSeenAt": "2026-10-30T10:49:38.359Z"
-    },
-    {
-      "title": "3 AI Stocks Bought by FIIs in September 2026 Quarter - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNd3RsOFVpRjlxQXlJWjNjLUtUemp3LUtSalM0QjUzeWs3YnZ4R2loS2ktejU5QUpqQWx0OXR5MDU2LVd5Q0tXMXNVdkFuczU0WDBOLVhkSjZkX2RxSmNtcE01ZkpTZzBfSFJDUHY0YmFKUU03ajhpRklhLXZwd3cySWdFQ0tkNFdfdzIzNk9udFhIdko5RXRfWldBbDZUbFg2WlFsYnlsQmttZDVfRGJJQ1N5MjBKa1dzTGdkN1Z6anVBSFdxaEw4NU1Kak5vNnV5ZU1OQmdvNFpFMFBoTXIycFlmcm13REE4LTZOTXpTMF95cVhiVDdhWEhJaTh1dWZjTFh6TFFXMFVkMGxhV29FNXRjTVZYSERDakNnQUxZNDNFT0EzQmJ4YU1YZzQ?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:26:03 GMT",
-      "summary": "3 AI Stocks Bought by FIIs in September 2026 Quarter &nbsp;&nbsp; Equitymaster",
-      "outlet": "Equitymaster",
-      "outletUrl": "https://www.equitymaster.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-27T10:59:25.232Z",
-      "lastSeenAt": "2026-10-27T10:59:25.232Z"
-    },
-    {
-      "title": "Google Cloud, Turkish tech association launch upskilling initiative - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcnUtU1RfaXNnc3dlMFpCd2V6U2p2MEVCV3NYS0l5MXBOeERIcVBtNUtRb2FUeU96elRpZENxdXR4N1lsNGNTeWZRY1F2S3pRLW9wb3REQm5BNnc3YXVGcmVKdUF3dFhCdTJwUzc5MTRNRDgzOEZFRG5lZnBEcnRKcnlDTlQwOWh5VnJfUGk2ZzRJYjNMOEExM21nN0lzQ2FoZEZJ?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:25:12 GMT",
-      "summary": "Google Cloud, Turkish tech association launch upskilling initiative &nbsp;&nbsp; Anadolu Ajansı",
-      "outlet": "Anadolu Ajansı",
-      "outletUrl": "https://aa.com.tr",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 18,
-      "firstSeenAt": "2026-10-27T10:59:25.232Z",
-      "lastSeenAt": "2026-10-27T15:51:29.490Z"
-    },
-    {
-      "title": "Insurtech Reliance Global plans $3.75 mn GPU cloud acquisition and XGPU rebrand - Beinsure",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BdjB4RF9zT3pXOW9QRFNPeXR6aDNBRVl6UDJVbVZVejh3SXFkQWs0OExRa3ZzbEE5aEROVklpaUhMeEhMbEc4VHNrODdEaHJBRkJFVkFqaS1QT3R4R21pRkY1SGZlVU5BekdrV2N5a0tiZHpKZ1FVSnJR?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:22:03 GMT",
-      "summary": "Insurtech Reliance Global plans $3.75 mn GPU cloud acquisition and XGPU rebrand &nbsp;&nbsp; Beinsure",
-      "outlet": "Beinsure",
-      "outletUrl": "https://beinsure.com",
-      "source": "글로벌 가속기 전략적 거래",
-      "sourceIds": [
-        "accelerator-strategic-deals-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-27T10:59:25.232Z",
-      "lastSeenAt": "2026-10-30T06:13:35.368Z"
-    },
-    {
-      "title": "Memphis business leaders can’t outsource the AI decision | Opinion - The Commercial Appeal",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUt2MUk4ZERybU5VWUlvbDR1clM0QzdZMEpTN2NDN2J0dGN3bW4tRGVjWC1ocDFKSnpwVmswUEdJX1didDhHSmFoVE56dVdvckdNRGdITy03ZndWdHo2ampRY1h0dW96VGZFWm9XQWVGb25BcEFvS1RPOVBqTHZPb1RfajdwREd4aUNHdTZYbnU2V0tjMzBBQ0dnV0stYmZtZElyWlhKRTFsSTEzckxLbWJnaU5pSE13WXlPRjBoYkFObUk?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:20:34 GMT",
-      "summary": "Memphis business leaders can’t outsource the AI decision | Opinion &nbsp;&nbsp; The Commercial Appeal",
-      "outlet": "The Commercial Appeal",
-      "outletUrl": "https://www.commercialappeal.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-27T10:59:25.232Z",
-      "lastSeenAt": "2026-10-27T15:51:29.490Z"
     }
   ]
 }

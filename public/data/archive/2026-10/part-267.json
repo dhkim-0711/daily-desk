@@ -1,7 +1,139 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "김동철 사장 “한전 서남권 반도체 전력설비 비용 20% 부담…25조 선납은 사채관리 때문” - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIUFFWeEJKMjAwTGJiemNXaE8xMFFETUwteVpJTGlUejF3TzhkQ1R3ZDFaQzVqT2NJQWxYb2F3QnM5OElyem9OSWJWbVo5aUhsNXpxXy1sSWluUVZIZEJiZ3Zxb0lXSWZHai1v?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 05:28:57 GMT",
+      "summary": "김동철 사장 “한전 서남권 반도체 전력설비 비용 20% 부담…25조 선납은 사채관리 때문” &nbsp;&nbsp; BBS불교방송",
+      "outlet": "BBS불교방송",
+      "outletUrl": "https://news.bbsi.co.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-12T06:08:17.536Z",
+      "lastSeenAt": "2026-10-12T06:18:44.480Z"
+    },
+    {
+      "title": "AI·반도체만 뜨겁다…KDI \"경기 개선에도 소비 회복 완만\" - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56OE5BdXJfb0ZDQmpkUEhPaVFBamloZE5EVWF2bU53SmliLVJUNVlFeENtOFJXTlRyUlNaVXhrQ2k5QkVWVFgwMWdhUHg5NlRwM2E1RTdzWXYtR2NTQ0RfcXRRc0kwcFhIeTdybzZxMTg?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 05:28:54 GMT",
+      "summary": "AI·반도체만 뜨겁다…KDI \"경기 개선에도 소비 회복 완만\" &nbsp;&nbsp; 신아일보",
+      "outlet": "신아일보",
+      "outletUrl": "https://www.shinailbo.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-12T11:52:22.190Z",
+      "lastSeenAt": "2026-10-13T03:00:06.725Z"
+    },
+    {
+      "title": "이억원, SC와 AX전략 논의 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JNkk1WVJoRE1DWGlYMk1CdjZwQWE5VS1uVkNGOXgxcnJGN1QxQlZnTlNuZW1ZNW5LMW9JVVdwN0JtSjV3VUpGV0FiaVlUYUlQMlHSAVNBVV95cUxNS2hrcTVNY1Q0blEzLUpnREhDZkkxSGtPZmpvclJPejFjZjNBeFRCY0pSbkJFd1FNbFoyYUdhZjJkNnVscThsbmNDNTZoYVlFZ3o4NA?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 05:28:27 GMT",
+      "summary": "이억원, SC와 AX전략 논의 &nbsp;&nbsp; 서울경제",
+      "outlet": "서울경제",
+      "outletUrl": "https://www.sedaily.com",
+      "source": "지역 AI·반도체 산업금융",
+      "sourceIds": [
+        "regional-industry-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-12T06:08:17.536Z",
+      "lastSeenAt": "2026-10-15T04:59:50.156Z"
+    },
+    {
+      "title": "TSMC, 미국서 실리콘 인터포저 조달…AI 반도체 공급망 현지화 속도 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14NzdzUEQ2a0ZjODFaTTg3MTc1aENFd3I2YlBfX1lJcGg2VGkyNXU1X1M1cHZ3ci1uNHFIUHMwdnNsd255TTRjX1EyQTlac3JyLUc4eWV2TmI4M3BzalIyOEZfaWpHMnVJ?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 05:27:58 GMT",
+      "summary": "TSMC, 미국서 실리콘 인터포저 조달…AI 반도체 공급망 현지화 속도 &nbsp;&nbsp; 녹색경제신문",
+      "outlet": "녹색경제신문",
+      "outletUrl": "https://www.greened.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy",
+        "ai-chip-public-program",
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "TSMC"
+      ],
+      "taxonomyHits": [
+        "파운드리·패키징",
+        "수출통제·공급망",
+        "실증·조달"
+      ],
+      "issueCategory": "AI시장",
+      "score": 26,
+      "firstSeenAt": "2026-10-12T06:08:17.536Z",
+      "lastSeenAt": "2026-10-15T04:59:50.156Z"
+    },
+    {
+      "title": "최태원 회장 이어 김정관 장관도 '광주행'…반도체 산단 부지·전력·용수 등 점검 - 글로벌경제신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yVFVkUFJmWkR5MHpUSDFkTTJSWmxVNU1LMTJHVzdsa0Q4M3Exa3ZLQlNVSHhBbzFPUjFocThWR2lTbW1kbVQ4WUZiaTFaRFhGV1FsUHJWbDR2Vlg4ZFZzeG1mencyeGZnMm1KdWszaXLSAXBBVV95cUxPclRVZFBSZlpEeTB6VEgxZE0yUlpsVTVNSzEyR1c3bGtEODNxMWt2S0JTVUh4QW8xT1IxaHE4VkdpU21tZG1UOFlGYmkxWkRYRldRbFByVmw0dlZYOGRWc3htZnp3MnhmZzJtSnVrM2ly?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 05:27:51 GMT",
+      "summary": "최태원 회장 이어 김정관 장관도 '광주행'…반도체 산단 부지·전력·용수 등 점검 &nbsp;&nbsp; 글로벌경제신문",
+      "outlet": "글로벌경제신문",
+      "outletUrl": "https://www.getnews.co.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-13T23:25:54.248Z"
+    },
+    {
+      "title": "제미나이 무료 이용자, 모델 선택권 사라진다… ‘오토’ 일원화 - 디지털 인사이트 DIGITAL iNSIGHT",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNUXJqb0lwdzJrdFAwa29ZNzRHVkpoeEZ5MU92Z2dSUkNLbDRTU3dWcDVxa2ZFcVBlazlEMmZVQW9QZWR2MGtPSUJ3NlR0MkZqRVdkTGxhREcwVXY5VnNDOFJXOFptUTRSRmloQWxPZEZ0bUM3dFNOMVd4UnBYTVhrN3FqbGRGRF81RU9RZzlLMnNnNUJGRHhXMGF6S1IyNEZPb1NYTGZ4QlJNRFA3Z3RWdUpoZDlSTl9seTRKTzE0Z2FXalJqOUhlSFVVd1dMcTMxMWtXTFV6bE0wZFE0Tkg4M0Z5RHRWbXppbUpmS2EwdGxfcFh3NGY3UjBhRm4wWDVRODZDY19MV1c0WDVkaXVpMDVqWHVIeHFZanRJR2ZtX2M2YXVyYmVxbHhqS1AwcE9T?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 05:27:43 GMT",
+      "summary": "제미나이 무료 이용자, 모델 선택권 사라진다… ‘오토’ 일원화 &nbsp;&nbsp; 디지털 인사이트 DIGITAL iNSIGHT",
+      "outlet": "디지털 인사이트 DIGITAL iNSIGHT",
+      "outletUrl": "https://ditoday.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 15,
+      "firstSeenAt": "2026-10-12T06:18:44.480Z",
+      "lastSeenAt": "2026-10-12T11:52:22.190Z"
+    },
     {
       "title": "이억원 금융위원장, SC그룹 경영진과 회동···금융허브·AI 혁신 논의 - 뉴스웨이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LYVF3Q2kyUjBpci1zbHFFNkM3SXBpbkYyM1F1cElsaEx4aUlTb1ZaTWNUWFFyRGdOT1A5OXUyNXM5WW03a3hMcnByZWRUbmZPeDhwUi1zUmlUdUsyRUg0Nmt5SFcxQzdi?oc=5",
@@ -2033,141 +2165,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-12T06:08:17.536Z",
       "lastSeenAt": "2026-10-12T06:18:44.480Z"
-    },
-    {
-      "title": "How to Build an AI Agent Data Deletion Request Process Before Your DPA Demands It - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHpoTEVNRVhzWVhoVlpZaGd2el9SVW5xbm9OeTMxbTUxMmRRUnAtMlFUM3dxUTlvS1lpemswUUNMOUcwZy1EalUzWXV4dFJLczU1ZzNIdENBOFZBbzZEZF9QbXRaX2NkdERGUUNSaVVLWXluQk9DQVRpelFybVpFa3dhRmpHd2Z5eWF6bk5BT290alhULWxRYWJPSWoxdERBVEJ0dVRYUkNtQUtJdGc?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 04:33:20 GMT",
-      "summary": "How to Build an AI Agent Data Deletion Request Process Before Your DPA Demands It &nbsp;&nbsp; Startup Fortune",
-      "outlet": "Startup Fortune",
-      "outletUrl": "https://startupfortune.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트",
-        "파운드리·패키징"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-12T06:08:17.536Z",
-      "lastSeenAt": "2026-10-13T03:00:06.725Z"
-    },
-    {
-      "title": "[반도체 따라잡기] 실적발표 앞둔 SK하이닉스 LTAㆍ솔리다임ㆍHBM 만족스러운 답변 필요 - SBS Biz",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nelFoRURsWFgtR1pLRXczdXAtSjNTV29EQVkxU3NBMjNfZEl4Slhib2RPMzdFdnFUNkVaQm81RWY1MGtleTV6bERiVTBkeHFEVUVnOW1id2TSAVhBVV95cUxPZ3pRaEVEbFhYLUdaS0V3M3VwLUozU1dvREFZMVNzQTIzX2RJeEpYYm9kTzM3RXZxVDZFWkJvNUVmNTBrZXk1emxEYlUwZHhxRFVFZzltYndk?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 04:32:00 GMT",
-      "summary": "[반도체 따라잡기] 실적발표 앞둔 SK하이닉스 LTAㆍ솔리다임ㆍHBM 만족스러운 답변 필요 &nbsp;&nbsp; SBS Biz",
-      "outlet": "SBS Biz",
-      "outletUrl": "https://biz.sbs.co.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure",
-        "ai-chip-capital-market-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 8,
-      "firstSeenAt": "2026-10-12T11:52:22.190Z",
-      "lastSeenAt": "2026-10-14T01:10:06.419Z"
-    },
-    {
-      "title": "Amazon in talks to acquire AI startup Decart for around $7 billion - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRFQ5SXJkeXRJODhJSzBsOGR2THFnN1NTalRqMG55VzFYLUt2VkFZZzdVSTVzZkh5TGxETmZtQlBtOHJjZW5lUV83XzlWRXd6cHExOHpCTGs3NXU0NnI2MmdZSDBFQ3Q3dzJmRUt6VVdRVnk5TGVuV2dfcnlCSU5sWE85bFA0eFpsNmV5ZWQ3azNRLUppYzJ5LVlYVml2TGJXZUFUdjVZdDNsSjA1OXNuZDRFdVktQWNBVXliMldnQ0hYakRXMkhESDFVbXMxS0XSAc8BQVVfeXFMTURUOUlyZHl0STg4SUswbDhkdkxxZzdTU2pUajBueVcxWC1LdlZBWWc3VUk1c2ZIeUxsRE5mbUJQbThyY2VuZVFfN185VkV3enBxMTh6QkxrNzV1NDZyNjJnWUgwRUN0N3cyZkVLelVXUVZ5OUxlbldnX3J5QklObFhPOWxQNHhabDZleWVkN2szUS1KaWMyeS1ZWFZpdkxiV2VBVHY1WXQzbEowNTlzbmQ0RXVZLUFjQVV5YjJXZ0NIWGpEVzJIREgxVW1zMUtF?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 04:31:42 GMT",
-      "summary": "Amazon in talks to acquire AI startup Decart for around $7 billion &nbsp;&nbsp; Business Standard",
-      "outlet": "Business Standard",
-      "outletUrl": "https://www.business-standard.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "accelerator-strategic-deals-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-12T06:18:44.480Z",
-      "lastSeenAt": "2026-10-15T05:51:00.880Z"
-    },
-    {
-      "title": "AI investment keeps global growth around 3%, with major Asia benefits: IMF - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSU5jdUZ3LVdRSFVkUU1LczYxUUNMSXRHZllZck43Qi03Nmc4WTRfNDBnT3dKbEdVbDVxbGxHLVpRM2E2dlRJbXBUX1JjR1NnRHJjMndjMjU2UlhpajVhUFpqWGsxci1MazBtdDlrWnFDQW1NNXdyZ3loOE5tdTdmQW4yY1k3WTE2dFVBREtSZkZrZEVnNXJmRU8zZXYzRkFlMHNwMHNLNGpFeWpqT0FMdm9BVjFLSndaM2g4ME1kb2R4a2FYUGVEYnhEblQ0Wl9RUXfSAdcBQVVfeXFMT1pvZlNSZ1NLZm5sZm1rZl9GMEp4cXdMWU9za2JPM1EtSm5fZzlxVy1jSXRYUHBsS3l5TFlUcEhmRjVsam02bzZVM3hOcUFWb19LR2J3QWFyVGhIeU1ZQ0x3N2JyRlRGbWhoekZCYnd1Vjd0eXl1Y0RsN2czTy1UNF9BaW9IQTIxLTNKR0E3VzNMVzkwMFNla3JYMm8xZGs2VW1GTzVlaTZPbnlWOVJ0WFdSZXhwR29LMmdYcmxnVmhTX3pyN0tiRl9tQ3ZCNlp4U0JKVkFBcEE?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 04:31:26 GMT",
-      "summary": "AI investment keeps global growth around 3%, with major Asia benefits: IMF &nbsp;&nbsp; Business Standard",
-      "outlet": "Business Standard",
-      "outletUrl": "https://www.business-standard.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global",
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-12T06:08:17.536Z",
-      "lastSeenAt": "2026-10-15T00:28:45.158Z"
-    },
-    {
-      "title": "At 17, Two Delhi Students Are Building an AI Companion to Make Classrooms More Inclusive - samsung.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnlqMG9FMVRhM2NUalhfd1ZOalcxdUEyVWxlNVdueGpSc0ZsbUZRa2p6R2NJci1POE9tNEZFczFBUGlZMVdFakR2Y2M2aVk1UzNKNW9XeFFjWUZjbnVSaGlidmdITm5TOGVHeVdmOGNBZjA4TkZMWjU4TnZDeHBjT01DRW9lVE0wNUFEaWtld1MzSkQtYlZ5U1I4R3JreXk2a0FpUDA5d3RmMkVTYzBRQVVlQ2hEdw?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 04:31:09 GMT",
-      "summary": "At 17, Two Delhi Students Are Building an AI Companion to Make Classrooms More Inclusive &nbsp;&nbsp; samsung.com",
-      "outlet": "samsung.com",
-      "outletUrl": "https://news.samsung.com",
-      "source": "반도체 기업 공식발표",
-      "sourceIds": [
-        "official-chip-news"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Samsung"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 17,
-      "firstSeenAt": "2026-10-12T06:08:17.536Z",
-      "lastSeenAt": "2026-10-12T06:18:44.480Z"
-    },
-    {
-      "title": "Two Delhi Students Develop Voice-First AI Companion for Visually Impaired Learners - samsung.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnlqMG9FMVRhM2NUalhfd1ZOalcxdUEyVWxlNVdueGpSc0ZsbUZRa2p6R2NJci1POE9tNEZFczFBUGlZMVdFakR2Y2M2aVk1UzNKNW9XeFFjWUZjbnVSaGlidmdITm5TOGVHeVdmOGNBZjA4TkZMWjU4TnZDeHBjT01DRW9lVE0wNUFEaWtld1MzSkQtYlZ5U1I4R3JreXk2a0FpUDA5d3RmMkVTYzBRQVVlQ2hEdw?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 04:31:09 GMT",
-      "summary": "Two Delhi Students Develop Voice-First AI Companion for Visually Impaired Learners &nbsp;&nbsp; samsung.com",
-      "outlet": "samsung.com",
-      "outletUrl": "https://news.samsung.com",
-      "source": "반도체 기업 공식발표",
-      "sourceIds": [
-        "official-chip-news"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Samsung"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 17,
-      "firstSeenAt": "2026-10-12T11:52:22.190Z",
-      "lastSeenAt": "2026-10-15T00:28:45.158Z"
     }
   ]
 }

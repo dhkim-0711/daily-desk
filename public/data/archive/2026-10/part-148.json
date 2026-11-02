@@ -1,7 +1,143 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "중국 빅테크, 엔비디아(NVDA.O) GPU 대량 주문...美 수출 규제에 수요 급증 - 메디컬투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54MV9tdWY3eXRESUhTbFU1ckpMWnZfTF9Ec2ZkTnlaV2FVbEgtRURHc21Gc0hnNzQzdkF5d19Gcm1wbTdFbnFEaU5yaHc3TzhwTzZPeFNBeXZVdmUzcnNXV2xMZlBHWEpRVEt2MQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 22:28:13 GMT",
+      "summary": "중국 빅테크, 엔비디아(NVDA.O) GPU 대량 주문...美 수출 규제에 수요 급증 &nbsp;&nbsp; 메디컬투데이",
+      "outlet": "메디컬투데이",
+      "outletUrl": "https://www.mdtoday.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-21T00:07:51.661Z",
+      "lastSeenAt": "2026-10-21T05:58:07.008Z"
+    },
+    {
+      "title": "[차이나 풍향계] 中 빅테크, 엔비디아 신형 GPU 300만개 주문…실제 공급은 10% 그칠 듯 - www.ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iRm40clYwUEhEbV9OY0JUQ0VOVEFjV0U5WHcwT0hWNFphNVdOZURkQndXTUNVdWRrZkE1ZzFKLU9ZU3ZkWG1pVkhBOEQyX2RQMmtfblFJNFRMUlNjZGNtQWZ0VHVIZGlf?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 22:26:07 GMT",
+      "summary": "[차이나 풍향계] 中 빅테크, 엔비디아 신형 GPU 300만개 주문…실제 공급은 10% 그칠 듯 &nbsp;&nbsp; www.ebn.co.kr",
+      "outlet": "www.ebn.co.kr",
+      "outletUrl": "https://www.ebn.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-21T00:34:26.486Z",
+      "lastSeenAt": "2026-10-21T00:34:26.486Z"
+    },
+    {
+      "title": "Elastic Application Runtime overview - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN1MxaUNBbjRrZDFQLVp2QzVUaXBwMndsRE83aWd2TGdyZk10Q1ZYZGtxc2gyaWVHY25Oc250UnNMdnc1c3FRRjFaOXIwb3A5YlRpUEJaRjNLVTE5dndYbDVud2tXS2NEaWlJeVpMNG9laHhNdjE1bWU0V2w1XzJsOUxwY3B0Tml4U0ZuU0N4QXVTN2pmZFZ4QWZ5anZTc2ctLWpLVmhhXzBfQ0g4MnV2c0V2cG9qS3h2OWc?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 22:25:53 GMT",
+      "summary": "Elastic Application Runtime overview &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-22T00:38:42.431Z",
+      "lastSeenAt": "2026-10-23T17:51:18.501Z"
+    },
+    {
+      "title": "AMD says EAGLE-4 runs on Instinct MI355X GPUs from day one - Blockchain News",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0X084ZTBUcDB2b29LOUM1M1RlQ0M2T0JqVVFUYUNSQU5mMWJOaEd3Wmw3c2ZZVk5fcGR0NWkwQnhQOGFLLW94YnNvVkVDbHJKTW1NeWVFLWxVRk15QW1nVXZKV0FQVU1GeWpVNlZB?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 22:25:09 GMT",
+      "summary": "AMD says EAGLE-4 runs on Instinct MI355X GPUs from day one &nbsp;&nbsp; Blockchain News",
+      "outlet": "Blockchain News",
+      "outletUrl": "https://blockchain.news",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 17,
+      "firstSeenAt": "2026-10-21T00:07:51.661Z",
+      "lastSeenAt": "2026-10-23T17:51:18.501Z"
+    },
+    {
+      "title": "구글, '토치TPU' 오픈소스 공개…파이토치 앱 TPU 이전 지원 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WSlB5dERoOVpqWjRialB6UTdrODE1dXdubVdfOUVzZnB0bngxM0JsdTNYTkhRdENWT1N2MXlGaElsTWxNVmo3Ylltb3h6eHJFVTlsUzRPaHNuWlNra2Q5cHJjcVZMRHFWUWdVT01hRzJha1k?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 22:25:01 GMT",
+      "summary": "구글, '토치TPU' 오픈소스 공개…파이토치 앱 TPU 이전 지원 &nbsp;&nbsp; 디지털투데이",
+      "outlet": "디지털투데이",
+      "outletUrl": "https://www.digitaltoday.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-21T00:07:51.661Z",
+      "lastSeenAt": "2026-10-21T10:35:21.894Z"
+    },
+    {
+      "title": "[뉴스클레임 사설] 용인 반도체 산단 속도전 멈춰야 - 뉴스클레임",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WcXFRRm11YjJxSnNDMXlwajNpcmFVNm1fZGF3TnQ2RS1yVDZ3YW1TRXpqckU0b2FVSGV6Q0NLc1RhdjdKc0NDS1g1YXItY1duQy1nZV9VXzB6MjdQNk45Q1k4dGs3d1l2U21XU3ZuOHDSAXRBVV95cUxPTmt1cFBoQTloQjFrOFlqWDlLVHNSV3dmWnRqa1pjaWRxRzRZQzY5Njg3X3RLQmRmQVJkSkdwNmk2cDFYZlBzdU00U3hjTkVhejFuN0NvLVRHWl9JQ3lnSXhBZzQxZVV0ZnZoZ2Rod1FyNkNUUQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 22:22:51 GMT",
+      "summary": "[뉴스클레임 사설] 용인 반도체 산단 속도전 멈춰야 &nbsp;&nbsp; 뉴스클레임",
+      "outlet": "뉴스클레임",
+      "outletUrl": "https://www.newsclaim.co.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-21T00:07:51.661Z",
+      "lastSeenAt": "2026-10-22T06:03:45.371Z"
+    },
     {
       "title": "AuxoAI Raises $20.7M to Scale Enterprise AI Deployments - Ventureburn",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yZzNfWlI5cXRrQ0NvNXJRNVVWR1BYMzI5V2NselF2QXJwVmJKanhJY1lXbFRxMnBCcDVSRUFUalN3ZDlEOUhiVnR6VmRRSm5scUhQbi1sQ1owRTNTeThodzd3V3d6MGFkWUHSAWpBVV95cUxOcmczX1pSOXF0a0NDbzVyUTVVVkdQWDMyOVdjbHpRdkFycFZiSmp4SWNZV2xUcTJwQnA1UkVBVGpTd2Q5RDlIYlZ0elZkUUpubHFIUG4tbENaMEUzU3k4aHc3d1d3ejBhZFlB?oc=5",
@@ -2117,141 +2253,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-21T00:07:51.661Z",
       "lastSeenAt": "2026-10-21T12:53:16.803Z"
-    },
-    {
-      "title": "Managing Governance at Runtime - Broadcom TechDocs",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa29XNS1KMTBxaG0weUoyTTVqMmVuV19HVHJGZGtPMnFrd041cGR5elpZa1pTemNySlcyLWdHMVZOaWFFcDJFX3lKZnZvOTBaUFpzdHdZaVhUTk5vaWdabTBZLVd5NlplOGZHcnN1cE1uU0xWRUNsR2lkR3pVaUN3a2J5YmRZWVpwNFVKLWJJZkFtS3RVMEoyY1ZCYk1JdmVncE84clkwaU5rUWR1bDVxSzdZc3RBUXJCWlNIMUZjeVdYMkdfMUhkUVlra1N4Z1ctMFF0RkU3U2pTLUU?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 20:12:05 GMT",
-      "summary": "Managing Governance at Runtime &nbsp;&nbsp; Broadcom TechDocs",
-      "outlet": "Broadcom TechDocs",
-      "outletUrl": "https://techdocs.broadcom.com",
-      "source": "반도체 기업 공식발표",
-      "sourceIds": [
-        "official-chip-news"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Broadcom"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-21T22:44:58.342Z",
-      "lastSeenAt": "2026-10-23T17:51:18.501Z"
-    },
-    {
-      "title": "Why Anthropic’s IPO Faces a Test That Goes Beyond Its Price Tag - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU1dQSTBzcW81bUc2bk0wTTlwTkF6VnJlWk9MX3NFVG1NQXpwOE90WjJBSkJnZGpFUXcyenZNSFNJR3dNM2FYOE5nU3JERnRDQnRON2pfcl92WFlQSmV3ZlE0Z21UeXRjRWFnRWZPU0JPZm5qY1I1U0lfUWxZRU1ObQ?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 20:12:00 GMT",
-      "summary": "Why Anthropic’s IPO Faces a Test That Goes Beyond Its Price Tag &nbsp;&nbsp; Barron's",
-      "outlet": "Barron's",
-      "outletUrl": "https://www.barrons.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-21T00:07:51.661Z",
-      "lastSeenAt": "2026-10-21T12:53:16.803Z"
-    },
-    {
-      "title": "German AI Stocks Riding The Nvidia Buildout Including SAP Stock - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1pQa3J0UjhRQUtRX2FBNS11N1JfRmRTeTZsUUhsNzhOVnRjMjJDWnhoeGROSGZna2YtR3ExbHlvWDBfbWZTN25oQUJPT1gyaUZVLWt6SkFGSkZUNkdrR2kzRF8wblA2X29BYnBVd3BOWHdHd09OYW5aNHJzQnRxajllOS1WMHJZczhYdG1pcFJ6UklncWNncXdoaXZ5OGhmdS13aXI0OWQ5aHNJMW8wTEs0RXQyWTUyN0xGU3NvZjRqNWU5T1VRVkhB0gHPAUFVX3lxTE5iZWJsMnhCRjd3MS03Nlg0TkJJNHRPMTJfTmhGLWYwVTNWWHFGaTVsb1prSURaYnVfd3luS2tCS1pCcVE2TXJ5RmpsanlkV3F5RFZldWdLQlZYOG9BN193ZExia2NiQzh3Y1lfSGZGZFJWbmY3STF0VDhRYXhxSXBoT2UtYndfNVhqSGdZdXhPUEEwamdjeDhLS2dzY1VpOTYxTkVVaW5iVWtTZnV2b2lDd0NMTXlrYnV0YkFBNVlWbV9yOHl6T2FQNjF1d3o5WQ?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 20:09:03 GMT",
-      "summary": "German AI Stocks Riding The Nvidia Buildout Including SAP Stock &nbsp;&nbsp; Simply Wall Street",
-      "outlet": "Simply Wall Street",
-      "outletUrl": "https://simplywall.st",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market",
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-21T00:07:51.661Z",
-      "lastSeenAt": "2026-10-21T15:36:47.115Z"
-    },
-    {
-      "title": "'추론 중 데이터' 보호 공백 메운다…포타닉스, 쿠버네티스 기밀 컨테이너용 컨피덴셜 AI 공개 - 한국데이터경제신문",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SQWtka2YxZHkxand4MG13dVVGdlFNa3J5V080elg4aFJhU0VQT1NrM1Q3ZWhKZWxYT05penBaQTVmeDBBa2NaT2t1SnkyV2VUOXVTbWxuVlJ0S2hBbDhTbFM5cUQzdnRZQUZqcVBFY1bSAXRBVV95cUxNS3RrRnRPdFRKWTNubjJZeUoxYmlEN19UUVhHWHRGaWRIQzhRcng1bFJ2N2ZlRV84RTk4dllRT25zRzlpWDNIZ05FSnN0NkgxMEVVMjVKMmQ5a2laNDFuekZmeWxpNmdDeEd3M2Mtc0VkRERTcA?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 20:03:00 GMT",
-      "summary": "'추론 중 데이터' 보호 공백 메운다…포타닉스, 쿠버네티스 기밀 컨테이너용 컨피덴셜 AI 공개 &nbsp;&nbsp; 한국데이터경제신문",
-      "outlet": "한국데이터경제신문",
-      "outletUrl": "https://www.dataeconomy.co.kr",
-      "source": "국내 가속기 운영 SW 보도",
-      "sourceIds": [
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "추론"
-      ],
-      "issueCategory": "추론",
-      "score": 15,
-      "firstSeenAt": "2026-10-22T01:51:21.284Z",
-      "lastSeenAt": "2026-10-23T17:51:18.501Z"
-    },
-    {
-      "title": "DeepSeek Open-Sourced the Engine That Runs Its Models – on Nvidia and Huawei Silicon Alike - Forkast News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHg2UzFzLWZzQjB4SkRwRjhaaUM2cFJDUVl2NGc4aXdCdDJSVWVYeUdwUkR4TGdXM0hfeFgtV0JJQ0R4TlJoOUpPZWxrVWg1YTlnX3NrOWI1YXlSakE3c2VxTmhVNmdyS2FjY1drM0xONGNRaU1XRkZJR2ttMmNXbWpMS3REWHdSZFJZZDY4ZWU1SVZHem1EYWlYUmNkbnFLWV9EMWtIZTdYWjBVaWJZ?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 20:02:50 GMT",
-      "summary": "DeepSeek Open-Sourced the Engine That Runs Its Models – on Nvidia and Huawei Silicon Alike &nbsp;&nbsp; Forkast News",
-      "outlet": "Forkast News",
-      "outletUrl": "https://forkast.news",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-21T00:07:51.661Z",
-      "lastSeenAt": "2026-10-21T00:34:26.486Z"
-    },
-    {
-      "title": "Build Semantic Caching for Generative AI Applications with OCI Cache - Oracle Blogs",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2pkZmp3VjdzeThIdjR5SHg3RWY5S0FmRGVUNjBrTGxIS25uSW5IZl9pSzRMYXF6cW83eXNTSDIya19mLUtOQ3B4SDdRN21zYVZzd0hHRldOOXJkLXlKVjdxTUs4aWJETUtTcGl5NjIxVHVxVjFqVnNXVndMS085Z195LWFreWJFZm5WSFY0VElpVl9KbWVoejljWQ?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 20:01:07 GMT",
-      "summary": "Build Semantic Caching for Generative AI Applications with OCI Cache &nbsp;&nbsp; Oracle Blogs",
-      "outlet": "Oracle Blogs",
-      "outletUrl": "https://blogs.oracle.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-21T00:07:51.661Z",
-      "lastSeenAt": "2026-10-21T17:59:30.941Z"
     }
   ]
 }

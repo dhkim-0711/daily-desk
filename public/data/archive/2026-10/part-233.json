@@ -1,7 +1,136 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "DB월드, 한국투자리얼에셋운용과 전략적 협업 - 스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PblZkZEp4R2ZsR1I2Si0wMXpyZ3Z4bGlKOENfWVhiY3JHNnN2Y2NYY0NGVW55VmMwYkF0c3psbEFBc05zcUxtTHU0SS1fd3ZLZ1dTRGFMYkVBYmJwRUk0?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 08:41:31 GMT",
+      "summary": "DB월드, 한국투자리얼에셋운용과 전략적 협업 &nbsp;&nbsp; 스마트투데이",
+      "outlet": "스마트투데이",
+      "outletUrl": "https://www.smarttoday.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-14T12:50:02.243Z",
+      "lastSeenAt": "2026-10-15T00:28:45.158Z"
+    },
+    {
+      "title": "[증권 이모저모] 삼성자산운용 국민성장펀드 2호 판매, 최대 1800만원 소득공제 - 굿모닝경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBscGQzd3BXcDlJUjZLUldIdFRiaUJLZlhjc1R0dDlvV29Ib1ZrMDdyZTdkV1JNenBKdmg2V3k3VjZaV0QzWHB0NHJpY1ZWTUZiU0p5VnkxWHhKVGpkd1JzSVY1cTZqUW1maF9ocg?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 08:41:13 GMT",
+      "summary": "[증권 이모저모] 삼성자산운용 국민성장펀드 2호 판매, 최대 1800만원 소득공제 &nbsp;&nbsp; 굿모닝경제",
+      "outlet": "굿모닝경제",
+      "outletUrl": "https://www.goodkyung.com",
+      "source": "AI반도체 정책금융·집행",
+      "sourceIds": [
+        "ai-chip-policy-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 6,
+      "firstSeenAt": "2026-10-17T01:32:34.036Z",
+      "lastSeenAt": "2026-10-17T05:32:13.346Z"
+    },
+    {
+      "title": "ASML raises 2026 sales outlook for a third time as AI demand outruns supply - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXVmbUdiUDhiN1pnbmRrUjAwdFhOQ0tuV1VqMjZhOU83bHFGNlhhcVh5d1FTZy01YzdaMjN3UFBuNEJLTTd3M19ObkoxcGNXUFc1TjVXbDhPX19GQndGTW00Rld1LWJMeVRSNmViMVJrc0hIYnNWTHQ0SEowcTVDaGFRVFpTdGhRODNCRHY4THM3NHhrXzdoMkdTRDQ1MTZjYjdWSm5n?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 08:41:05 GMT",
+      "summary": "ASML raises 2026 sales outlook for a third time as AI demand outruns supply &nbsp;&nbsp; Startup Fortune",
+      "outlet": "Startup Fortune",
+      "outletUrl": "https://startupfortune.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-14T12:50:02.243Z",
+      "lastSeenAt": "2026-10-14T17:58:43.781Z"
+    },
+    {
+      "title": "구글, 물리 추론 강화한 '로봇용 제미나이 4 아르곤' 출시 - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYdFlST2tLUjZTSTlqWV9aSS1CQTB6QUVDNVdnQ1ZrdXVEMlhvS0xBZGJ3cUxjMGtNQnJFMzB0TW1GdlhpSXRVUlZ4bFlsdUY4dGNEQ2pPRWF2VUpadjByU0RQNzVCUzJGM0E?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 08:39:48 GMT",
+      "summary": "구글, 물리 추론 강화한 '로봇용 제미나이 4 아르곤' 출시 &nbsp;&nbsp; AI타임스",
+      "outlet": "AI타임스",
+      "outletUrl": "https://www.aitimes.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "추론",
+        "Google"
+      ],
+      "issueCategory": "추론",
+      "score": 23,
+      "firstSeenAt": "2026-10-14T12:50:02.243Z",
+      "lastSeenAt": "2026-10-17T05:32:13.346Z"
+    },
+    {
+      "title": "What Could Amazon.com (AMZN) Gain From A $7 Billion AI Deal And Alexa Shift? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUHhpX0hLcHFCUHFtbTJDZnVNUjRxd0NmY1BUd1VWWV9tdE9uOXRaTEJKTzJuTlFYTDZqSHlHS3dnUHRaZ3ZNWXpoTHRRRGxoUEcwLTdBbUJSOXhKZW9aLUtVb2RCYzNHMzdhYkV1NG1SdHdqVmJZLTh1NnFkdzBTc2RhekFCOUs3bTVRazRtZ21KWTJ1OFV0azkxbEowS1dDXzNpVHR3aGJEUXVJMzJoZEJMcGZiYzctZmxLZVdNOUR0eFJ1VnRQM9IByAFBVV95cUxPUHhpX0hLcHFCUHFtbTJDZnVNUjRxd0NmY1BUd1VWWV9tdE9uOXRaTEJKTzJuTlFYTDZqSHlHS3dnUHRaZ3ZNWXpoTHRRRGxoUEcwLTdBbUJSOXhKZW9aLUtVb2RCYzNHMzdhYkV1NG1SdHdqVmJZLTh1NnFkdzBTc2RhekFCOUs3bTVRazRtZ21KWTJ1OFV0azkxbEowS1dDXzNpVHR3aGJEUXVJMzJoZEJMcGZiYzctZmxLZVdNOUR0eFJ1VnRQMw?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 08:39:42 GMT",
+      "summary": "What Could Amazon.com (AMZN) Gain From A $7 Billion AI Deal And Alexa Shift? &nbsp;&nbsp; Simply Wall Street",
+      "outlet": "Simply Wall Street",
+      "outletUrl": "https://simplywall.st",
+      "source": "글로벌 가속기 전략적 거래",
+      "sourceIds": [
+        "accelerator-strategic-deals-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-14T12:50:02.243Z",
+      "lastSeenAt": "2026-10-17T05:32:13.346Z"
+    },
+    {
+      "title": "‘백만평 광주숲’ 대안 모색…반도체 산단과 공존 가능할까 - 광주드림",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByU2JZNm5MUzhjNU5qMURXQ3RMR05McE83SXhuV1NiQUJBa2hmbDhJZkMybHhvT1d1QkQ1R1lmOEZLQ0QtYnBZWnVVaGVjdVFXX1BkY1pPRERNZkx0eUJ4Ny1Ia1U4WGpnUHc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 08:38:00 GMT",
+      "summary": "‘백만평 광주숲’ 대안 모색…반도체 산단과 공존 가능할까 &nbsp;&nbsp; 광주드림",
+      "outlet": "광주드림",
+      "outletUrl": "https://www.gjdream.com",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-14T12:50:02.243Z",
+      "lastSeenAt": "2026-10-15T05:51:00.880Z"
+    },
     {
       "title": "최태원, 광주 반도체 부지 점검…호남권 클러스터 신속 추진 주문 - 데일리뉴스",
       "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPU09GUFhwYzdXdUt0cHdoWVdKM2pJTjZvd0x1MmFQbVFVSzU4VlZPRmNweks5U3dQSU5KVUdNSFhDM2dBQi04anVJZFZmaFlEbGFFU0kxZ2RwX3pXWjFXblJQTklZSVhod2FCVmtvVE45TlBSa21WRnU5OFlRdHh6OWQtQzdidUJpX2ttTHVhRC1UTTljUl9aUHJ2T2p1bGVrS0dJX2oxaHVjYlVQWW5RMlhCd19ZVThRbEw5Qnlsay1YQlVFRnFVREVWX0dkWUM3Z3hGUm5EdFFTZW1BZUk1RFNZWlUxUlhEaXZZRXFidTFpZmwxQVZ1cjlYZG91aVIza0JxMzF5XzlLUy1ETll0MjFRbk1UQWJMSlp4Tkl0TkFQNEJDZHZCemhFUHIyQllpa2FyN3BJbHhhOXBUM0xaT1l3TkY0ZXdhS0RyNnJTMDNnR1BXdk9QbktCcE5JYXpISTNfQm55ZERCa3BlbUdvWjFOT3pHOW1paVpCbFlZQQ?oc=5",
@@ -2068,133 +2197,6 @@
       "score": 15,
       "firstSeenAt": "2026-10-14T08:01:13.947Z",
       "lastSeenAt": "2026-10-14T17:58:43.781Z"
-    },
-    {
-      "title": "창원에만 수조 원 규모 AI 데이터센터 3곳 추진 중…무사히 완공할 수 있을까 - 경남도민일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wSTJfeWNJZUczSTN2R0QwR0ZIc2RUZlNNNC0zWWFGYXNjaU9tVnFtNG5DVVZ2dEVlSGJmeW1qbWRHQ08wZDNEamRtZVVtTHBXbW5Hb0o3TmVVUkJLVlhJQW1ib0t3Yi1qR1E?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 07:45:19 GMT",
-      "summary": "창원에만 수조 원 규모 AI 데이터센터 3곳 추진 중…무사히 완공할 수 있을까 &nbsp;&nbsp; 경남도민일보",
-      "outlet": "경남도민일보",
-      "outletUrl": "https://www.idomin.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-14T12:50:02.243Z",
-      "lastSeenAt": "2026-10-17T01:32:34.036Z"
-    },
-    {
-      "title": "SK하이닉스, HBM 넘어 HBF로…AI 메모리 계층 최적화 추진 - PRESS9",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jbUVPS0M0UzRJLWZyc2E4ZEgza3B0aXhmSUh3XzhkeS0yNGgwVHU1ZzYzWWdGazBjTF9FLU9scEtJUXZ3VXhwTTVJUXVFNTU2N2dJc014UWVPTlQxYV8tdmp4aW4?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 07:45:03 GMT",
-      "summary": "SK하이닉스, HBM 넘어 HBF로…AI 메모리 계층 최적화 추진 &nbsp;&nbsp; PRESS9",
-      "outlet": "PRESS9",
-      "outletUrl": "http://www.press9.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-14T08:01:13.947Z",
-      "lastSeenAt": "2026-10-17T05:32:13.346Z"
-    },
-    {
-      "title": "구글, 목표만 주면 스스로 일하는 ‘제미나이 에이전트’ 기업용 출시 - AI 매터스",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BcE5ZSUNiZFlMb21wM2dOTjI1SmJ1MHFUS2Eya29IU0p6MDlnZjJQRVRiMmppZ1dsYlUySkFtUUhPbjlUVnJWVUVfeUx1aTZiT09vdQ?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 07:44:40 GMT",
-      "summary": "구글, 목표만 주면 스스로 일하는 ‘제미나이 에이전트’ 기업용 출시 &nbsp;&nbsp; AI 매터스",
-      "outlet": "AI 매터스",
-      "outletUrl": "https://aimatters.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "Google"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-10-14T12:50:02.243Z",
-      "lastSeenAt": "2026-10-14T22:37:16.367Z"
-    },
-    {
-      "title": "Anime Girl AI App With Customizable Personality And Privacy Features - Universidad de Córdoba (UCO)",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYnR6czdtdEp5N3hQOUNOOGl5UWhjelF2Wjh3RkFxSk9Ud3kxUHZQSTJGaVlmWHhIR0JYNmxWYlZ4bExwQldlRXJiWDl6SkYtSkZaRDRDM0QyeE1pRllGTm9ZRGxPaHZKUUZ6RGhYbHVzOWhpd05qMVhWdVRwQnFrYTFCQnE4eVduMFlRVU9sd0I1LUtKSkJ6d3pqTE8waDlsbUoyT3VGamZSN1NCT1ZuYUp3U1dGSWNfR0NFSHp5c1BXLTlwdkNCY0J5T3dvVGRmUVRVaFkxVkstRmNldW10T2dUV1d4SklzaTZkQnlQMElpTmhjZ1FYRE15d0hYdVgwR2ZTNlh1UHVfLXhHUDg0WA?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 07:44:35 GMT",
-      "summary": "Anime Girl AI App With Customizable Personality And Privacy Features &nbsp;&nbsp; Universidad de Córdoba (UCO)",
-      "outlet": "Universidad de Córdoba (UCO)",
-      "outletUrl": "https://www.uco.es",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-15T04:50:37.120Z",
-      "lastSeenAt": "2026-10-15T23:17:33.139Z"
-    },
-    {
-      "title": "[AI 수익성 점검] 매출 13배 뛴 노타…상반기 수주잔고 116억 '2배 증가' : 네이버 블로그 - Naver Blog",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQk9DckxFQlNLQksyZjVWU0dpVzF2ZF9rNnJ1MHh1Wm02ZjIxclN4R3RzMGY3WnV0TXlPUHVoRW9TZDBMakUtejUwekctODBKTlQwYkJPSG5HZVRfRkIwTmRHNzNWMW41QVBWbFhEUnk5ZGZRNFFEUEVJWm1rTVBxTXhxQ3BLTEY1M0l5dF9hdw?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 07:44:00 GMT",
-      "summary": "[AI 수익성 점검] 매출 13배 뛴 노타…상반기 수주잔고 116억 '2배 증가' : 네이버 블로그 &nbsp;&nbsp; Naver Blog",
-      "outlet": "Naver Blog",
-      "outletUrl": "https://blog.naver.com",
-      "source": "모빌린트 확장",
-      "sourceIds": [
-        "mobilint-broad"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-14T08:01:13.947Z",
-      "lastSeenAt": "2026-10-17T05:32:13.346Z"
-    },
-    {
-      "title": "7년 걸려 36→7위…서울 금융허브 경쟁력, 기관 이전에 후퇴 우려 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHZDcWZFVlQtT2FEbkd3bElkVFE0bmp6YkVsX2E1dURUbVBoRzMwcHZVZng2cmwwMmgxOEl1ck5EV2x2dnNvaXBLZjdiaXVjaFdtelNuRmZ0R0JLRnZJT3R0c29QSV9fWWlMTFJac1NPUmN2MEFpUFRlVVgyOGVCSw?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 07:43:14 GMT",
-      "summary": "7년 걸려 36→7위…서울 금융허브 경쟁력, 기관 이전에 후퇴 우려 &nbsp;&nbsp; 이데일리",
-      "outlet": "이데일리",
-      "outletUrl": "https://www.edaily.co.kr",
-      "source": "지역 AI·반도체 산업금융",
-      "sourceIds": [
-        "regional-industry-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 6,
-      "firstSeenAt": "2026-10-17T05:32:13.346Z",
-      "lastSeenAt": "2026-10-17T05:32:13.346Z"
     }
   ]
 }

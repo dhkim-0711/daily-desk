@@ -1,7 +1,137 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "美법무, 엔비디아-허깅페이스 인수도 조사…\"AI 유통망 장악 여부\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NnFHcUQ0VWNEZlEwTEdCY3JuYm1JSGdxRW5xTjczQmY3bVc1ZWJicXl5aEI2X19zb0ZGZXVSZWhlbHZpMmxxYnJzTTRNR1diYTBzS1I4NkRPWW83c09ESWdxYUVZVFZVVTBfRGN1dTNSQ2h0SWZtY9IBeEFVX3lxTE54NnFHcUQ0VWNEZlEwTEdCY3JuYm1JSGdxRW5xTjczQmY3bVc1ZWJicXl5aEI2X19zb0ZGZXVSZWhlbHZpMmxxYnJzTTRNR1diYTBzS1I4NkRPWW83c09ESWdxYUVZVFZVVTBfRGN1dTNSQ2h0SWZtYw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 03:18:29 GMT",
+      "summary": "美법무, 엔비디아-허깅페이스 인수도 조사…\"AI 유통망 장악 여부\" &nbsp;&nbsp; 뉴시스",
+      "outlet": "뉴시스",
+      "outletUrl": "https://mobile.newsis.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
+    {
+      "title": "삼성전자에 무슨 일이?…‘107조 실적 잔치’에도 주가는 폭락 - 더퍼블릭",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11d2wySVNkaHYzZV84bGprd3I2dG9Kd0Z3N2hfRnExdmVVOHM0cVhkcGVWYndwTmlfSmM2YUthN21sbjR4cUg0NWlHVFd1ZkxwUVNTMlRZODV6MW9HQ09UZ2xVUkVScnNscE5R0gFvQVVfeXFMUEVuRHZTa3dvQnpteVYyaXB1eDJHU2xRVktSa0tZNWNZQW14VG10YUd0ZVI1UGYyYnAydDVobnhXdGxzYWRvc25JTVJVMlNLUFVKcV9rVndtMFB1ZzJFWE5ENDdVYmphRHd3NjZuWUJv?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 03:18:03 GMT",
+      "summary": "삼성전자에 무슨 일이?…‘107조 실적 잔치’에도 주가는 폭락 &nbsp;&nbsp; 더퍼블릭",
+      "outlet": "더퍼블릭",
+      "outletUrl": "https://www.thepublic.kr",
+      "source": "AI반도체 시장·수급",
+      "sourceIds": [
+        "ai-chip-capital-market-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 8,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T23:35:43.436Z"
+    },
+    {
+      "title": "오라클, AI 네트워크 장애 대응 강화…처리 속도 높인다 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14SDlicUdlMklPZ3ZqbFI5amx2THpyZlRtYWRPWXdUdDg1WU9nTGtlV0VQeVZyUXBJV3pGRW5aV25FcExyd3BLZzRkOVhOMWRRZ2ZNYjRn?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 03:17:39 GMT",
+      "summary": "오라클, AI 네트워크 장애 대응 강화…처리 속도 높인다 &nbsp;&nbsp; 지디넷코리아",
+      "outlet": "지디넷코리아",
+      "outletUrl": "https://zdnet.co.kr",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 11,
+      "firstSeenAt": "2026-11-01T02:34:36.204Z",
+      "lastSeenAt": "2026-11-01T02:34:36.204Z"
+    },
+    {
+      "title": "Training SWE agents with Miles on MI355X: taming long-tail trajectories and complex sandbox coordination - LMSYS Org",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncEg3SU1pb2Y5bVNpVUhDZDktdks5VFd2UWMzaUJQc25DNi1xRHhWenp4RjhrMExydDBMbFhlaHpkczFkV0JTbWExbTR4a29ic05DSTZyV1dmN0FGeGVHS0tTbmJ4N29zLUZMWlpR?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 03:16:29 GMT",
+      "summary": "Training SWE agents with Miles on MI355X: taming long-tail trajectories and complex sandbox coordination &nbsp;&nbsp; LMSYS Org",
+      "outlet": "LMSYS Org",
+      "outletUrl": "https://www.lmsys.org",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-29T18:56:42.064Z",
+      "lastSeenAt": "2026-11-01T02:34:36.204Z"
+    },
+    {
+      "title": "AMD & Meta expand AI partnership with Helios systems - IT Brief Australia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWXEzZEdrc1M1eVM2SXlsaWVhZC1hVGRpYUUwc1dUbVZ3MzBfRVJnaVI3dS1pcEJ0LV9OYzFMaDNlZ1B4WHdYcmRXU3BKaEdvbVVoSVY2MXN2MWFObUJlX0NlZUJ5WVN3eDF0TmM3UDJOc29RWXFtdHhMckltTnozN2J1VjNTZw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 03:16:00 GMT",
+      "summary": "AMD & Meta expand AI partnership with Helios systems &nbsp;&nbsp; IT Brief Australia",
+      "outlet": "IT Brief Australia",
+      "outletUrl": "https://itbrief.com.au",
+      "source": "글로벌 가속기 전략적 거래",
+      "sourceIds": [
+        "accelerator-strategic-deals-global",
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 17,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-11-01T02:34:36.204Z"
+    },
+    {
+      "title": "Meet the Irish AI app aiming to end the chaos of organising family life - The Irish Times",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTdTaHhuSXdVTkhqbExiMlBKRmZUSmxCejE3eXAyNmV4NlR6bWJTaXBrSk9GNl9hTmhjQlZVWE81VUFsU01KX0JFNlBVRU11TGtVLUpwb1R2VEZYZ2dYY2w3aE1peGF5WjFBZWlidVdxSGZMMHV1STlRZlFTMlBwMEFLQnNxRjU4b3ZIeUJRTHJwMnhqd2FRckJ6N1pXZnNVM1hza29aODBjcTRKUVlIODNEVWhxWmlqSzI2UW5ablROS21LTUdYTFRn?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 03:15:03 GMT",
+      "summary": "Meet the Irish AI app aiming to end the chaos of organising family life &nbsp;&nbsp; The Irish Times",
+      "outlet": "The Irish Times",
+      "outletUrl": "https://www.irishtimes.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T10:51:24.641Z"
+    },
     {
       "title": "구글, AI·양자 해킹 공포 대응책 공개...\"개인 키 조각내 금고 지킨다\" - 코인리더스",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DWlhleDVDN29nb0ZQTEZOeFZNaUhjVXU5V1VCODl0OFZKMmZvWWxFdW4tS0xXZzlnZ2MyWXBXRU9vZjVMSXo4WkhB?oc=5",
@@ -2116,138 +2246,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-29T05:58:08.944Z",
       "lastSeenAt": "2026-10-29T18:56:42.064Z"
-    },
-    {
-      "title": "세종대 박기호 교수, 아테네서 AI 반도체 시스템 구조 국제 워크숍 개최 - 중앙이코노미뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZZ2NsSGlLWGhDdHN5N2ZTRnp4a3JaTTFFTElucnR6UDFaQm1ZNWZqMGhET0ZUR1JTUF9pa01PaGlQb2VVYXd0VzVUeWZaamhiNTFlYWJuYmJGX29ISnZ4cTEySFRrOWl0MVktcTVMOUdEZw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 02:01:47 GMT",
-      "summary": "세종대 박기호 교수, 아테네서 AI 반도체 시스템 구조 국제 워크숍 개최 &nbsp;&nbsp; 중앙이코노미뉴스",
-      "outlet": "중앙이코노미뉴스",
-      "outletUrl": "https://www.joongangenews.com",
-      "source": "국내 가속기 운영 SW 보도",
-      "sourceIds": [
-        "accelerator-software-ko",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-11-01T01:02:49.409Z"
-    },
-    {
-      "title": "엔비디아 지원 받는 인니 AI기업 잔코어, GPU 구매 목적 31억 달러 대출 추진 - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKOVcxcXM0Rm9GTW80ZlBwT3ptYnlIWTZFVjRmcjFhaGVYdWNpa1F4c2JuTDRhaGN3QXI3UTNid0thaHZYR004Wl95aUlTQ2lBb0E3UUZpV01CYnVhckNrRHlIYw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 02:01:01 GMT",
-      "summary": "엔비디아 지원 받는 인니 AI기업 잔코어, GPU 구매 목적 31억 달러 대출 추진 &nbsp;&nbsp; 더구루",
-      "outlet": "더구루",
-      "outletUrl": "https://www.theguru.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-10-29T18:56:42.064Z"
-    },
-    {
-      "title": "美는 데이터 센터 '밀실 개발' 제동… 韓은 거부 없으면 허가 - 한국클라우드신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81X1psYkVWMFFEMldEamNpVXg5NjJlbTJPc1ExWDkycWQ0cC1LbldvaDVFaXF4WmwyQXh6cVIxQld2VFZDWjAtS0dwUWlkZUR2MklONHNuS1N3bDBwbzNScmxwQjZ2R1R1d0lBdllZSdIBc0FVX3lxTE1pS2trWWo3dldNV1lkVnVEUzVpQjNhLThqSXdiX0JQUTJHV1FicUFfTUs3aVBaMHFKTmNid2thMFdTUGs3c24xY3M1YlJlTDBkLUZDd21GN1F3Tkowa0VqZnVKMlc3cXRCcThrVFBOWHhDX0E?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 02:00:50 GMT",
-      "summary": "美는 데이터 센터 '밀실 개발' 제동… 韓은 거부 없으면 허가 &nbsp;&nbsp; 한국클라우드신문",
-      "outlet": "한국클라우드신문",
-      "outletUrl": "https://www.kcloudnews.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 11,
-      "firstSeenAt": "2026-10-29T23:35:43.436Z",
-      "lastSeenAt": "2026-10-29T23:35:43.436Z"
-    },
-    {
-      "title": "삼성전자, 반도체서만 106조5000억 이익...\"내년 HBM 이미 완판\" - 디일렉",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mX19Qa0V3aWRWajl1eFNTVXd3VHhJWlJLbjRzQWtqb2hfTkF6Mk9vdVdOc05fcXJ3LXJYcTRma2x5TDFsUV9sT1RxcnlNTVhnOE1EbXBtSmlCWkh5MnNDT2FrMTJUQQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 02:00:50 GMT",
-      "summary": "삼성전자, 반도체서만 106조5000억 이익...\"내년 HBM 이미 완판\" &nbsp;&nbsp; 디일렉",
-      "outlet": "디일렉",
-      "outletUrl": "https://www.thelec.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-29T10:51:24.641Z",
-      "lastSeenAt": "2026-11-01T01:02:49.409Z"
-    },
-    {
-      "title": "Nvidia Stock Has Dropped Nearly 6% in a Month; Now Jim Cramer Is Asking Why ‘Anything Negative in Tech’ I - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmMtRmV3UmRJOVFzQ0NyS01vaVlnTTBXV01GbW52UDhNeGo4ZHNfMWNTUmE2MW1LT01Fb19xZDB6VndBOVlQTldtNFZLeXJTRDZuRndHWEVZSnIzV3FzUEZRUEFXQ0RFdnJGbnFNY0FaOUtLdDRkak40Q0hUZjkzaThiY1ZwNFYwWnNvRHNwYlpEOEk0T291Q3paTzhFTnlzODRxRXRib0t3LWVpanV2cQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 02:00:35 GMT",
-      "summary": "Nvidia Stock Has Dropped Nearly 6% in a Month; Now Jim Cramer Is Asking Why ‘Anything Negative in Tech’ I &nbsp;&nbsp; Benzinga",
-      "outlet": "Benzinga",
-      "outletUrl": "https://www.benzinga.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-10-29T10:51:24.641Z"
-    },
-    {
-      "title": "[현장에서] 첫 삽은 떴는데 전기는 어디서 옵니까? - 뉴스타파",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XbjlEeVI1VXNHc01fSHdVV3k2OXBpYVVsQXk5dHZqTjFfaTRJbk9ycG9QMWhfQ05jWnBlNm1USjZoVURXV1pZTHZ3?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 02:00:34 GMT",
-      "summary": "[현장에서] 첫 삽은 떴는데 전기는 어디서 옵니까? &nbsp;&nbsp; 뉴스타파",
-      "outlet": "뉴스타파",
-      "outletUrl": "https://newstapa.org",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-29T05:58:08.944Z",
-      "lastSeenAt": "2026-11-01T06:37:30.498Z"
     }
   ]
 }

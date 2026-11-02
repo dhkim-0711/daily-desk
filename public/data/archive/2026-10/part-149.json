@@ -1,7 +1,142 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "Managing Governance at Runtime - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa29XNS1KMTBxaG0weUoyTTVqMmVuV19HVHJGZGtPMnFrd041cGR5elpZa1pTemNySlcyLWdHMVZOaWFFcDJFX3lKZnZvOTBaUFpzdHdZaVhUTk5vaWdabTBZLVd5NlplOGZHcnN1cE1uU0xWRUNsR2lkR3pVaUN3a2J5YmRZWVpwNFVKLWJJZkFtS3RVMEoyY1ZCYk1JdmVncE84clkwaU5rUWR1bDVxSzdZc3RBUXJCWlNIMUZjeVdYMkdfMUhkUVlra1N4Z1ctMFF0RkU3U2pTLUU?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 20:12:05 GMT",
+      "summary": "Managing Governance at Runtime &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-21T22:44:58.342Z",
+      "lastSeenAt": "2026-10-23T17:51:18.501Z"
+    },
+    {
+      "title": "Why Anthropic’s IPO Faces a Test That Goes Beyond Its Price Tag - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU1dQSTBzcW81bUc2bk0wTTlwTkF6VnJlWk9MX3NFVG1NQXpwOE90WjJBSkJnZGpFUXcyenZNSFNJR3dNM2FYOE5nU3JERnRDQnRON2pfcl92WFlQSmV3ZlE0Z21UeXRjRWFnRWZPU0JPZm5qY1I1U0lfUWxZRU1ObQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 20:12:00 GMT",
+      "summary": "Why Anthropic’s IPO Faces a Test That Goes Beyond Its Price Tag &nbsp;&nbsp; Barron's",
+      "outlet": "Barron's",
+      "outletUrl": "https://www.barrons.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-21T00:07:51.661Z",
+      "lastSeenAt": "2026-10-21T12:53:16.803Z"
+    },
+    {
+      "title": "German AI Stocks Riding The Nvidia Buildout Including SAP Stock - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1pQa3J0UjhRQUtRX2FBNS11N1JfRmRTeTZsUUhsNzhOVnRjMjJDWnhoeGROSGZna2YtR3ExbHlvWDBfbWZTN25oQUJPT1gyaUZVLWt6SkFGSkZUNkdrR2kzRF8wblA2X29BYnBVd3BOWHdHd09OYW5aNHJzQnRxajllOS1WMHJZczhYdG1pcFJ6UklncWNncXdoaXZ5OGhmdS13aXI0OWQ5aHNJMW8wTEs0RXQyWTUyN0xGU3NvZjRqNWU5T1VRVkhB0gHPAUFVX3lxTE5iZWJsMnhCRjd3MS03Nlg0TkJJNHRPMTJfTmhGLWYwVTNWWHFGaTVsb1prSURaYnVfd3luS2tCS1pCcVE2TXJ5RmpsanlkV3F5RFZldWdLQlZYOG9BN193ZExia2NiQzh3Y1lfSGZGZFJWbmY3STF0VDhRYXhxSXBoT2UtYndfNVhqSGdZdXhPUEEwamdjeDhLS2dzY1VpOTYxTkVVaW5iVWtTZnV2b2lDd0NMTXlrYnV0YkFBNVlWbV9yOHl6T2FQNjF1d3o5WQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 20:09:03 GMT",
+      "summary": "German AI Stocks Riding The Nvidia Buildout Including SAP Stock &nbsp;&nbsp; Simply Wall Street",
+      "outlet": "Simply Wall Street",
+      "outletUrl": "https://simplywall.st",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market",
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-21T00:07:51.661Z",
+      "lastSeenAt": "2026-10-21T15:36:47.115Z"
+    },
+    {
+      "title": "'추론 중 데이터' 보호 공백 메운다…포타닉스, 쿠버네티스 기밀 컨테이너용 컨피덴셜 AI 공개 - 한국데이터경제신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SQWtka2YxZHkxand4MG13dVVGdlFNa3J5V080elg4aFJhU0VQT1NrM1Q3ZWhKZWxYT05penBaQTVmeDBBa2NaT2t1SnkyV2VUOXVTbWxuVlJ0S2hBbDhTbFM5cUQzdnRZQUZqcVBFY1bSAXRBVV95cUxNS3RrRnRPdFRKWTNubjJZeUoxYmlEN19UUVhHWHRGaWRIQzhRcng1bFJ2N2ZlRV84RTk4dllRT25zRzlpWDNIZ05FSnN0NkgxMEVVMjVKMmQ5a2laNDFuekZmeWxpNmdDeEd3M2Mtc0VkRERTcA?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 20:03:00 GMT",
+      "summary": "'추론 중 데이터' 보호 공백 메운다…포타닉스, 쿠버네티스 기밀 컨테이너용 컨피덴셜 AI 공개 &nbsp;&nbsp; 한국데이터경제신문",
+      "outlet": "한국데이터경제신문",
+      "outletUrl": "https://www.dataeconomy.co.kr",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "추론"
+      ],
+      "issueCategory": "추론",
+      "score": 15,
+      "firstSeenAt": "2026-10-22T01:51:21.284Z",
+      "lastSeenAt": "2026-10-23T17:51:18.501Z"
+    },
+    {
+      "title": "DeepSeek Open-Sourced the Engine That Runs Its Models – on Nvidia and Huawei Silicon Alike - Forkast News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHg2UzFzLWZzQjB4SkRwRjhaaUM2cFJDUVl2NGc4aXdCdDJSVWVYeUdwUkR4TGdXM0hfeFgtV0JJQ0R4TlJoOUpPZWxrVWg1YTlnX3NrOWI1YXlSakE3c2VxTmhVNmdyS2FjY1drM0xONGNRaU1XRkZJR2ttMmNXbWpMS3REWHdSZFJZZDY4ZWU1SVZHem1EYWlYUmNkbnFLWV9EMWtIZTdYWjBVaWJZ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 20:02:50 GMT",
+      "summary": "DeepSeek Open-Sourced the Engine That Runs Its Models – on Nvidia and Huawei Silicon Alike &nbsp;&nbsp; Forkast News",
+      "outlet": "Forkast News",
+      "outletUrl": "https://forkast.news",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-21T00:07:51.661Z",
+      "lastSeenAt": "2026-10-21T00:34:26.486Z"
+    },
+    {
+      "title": "Build Semantic Caching for Generative AI Applications with OCI Cache - Oracle Blogs",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2pkZmp3VjdzeThIdjR5SHg3RWY5S0FmRGVUNjBrTGxIS25uSW5IZl9pSzRMYXF6cW83eXNTSDIya19mLUtOQ3B4SDdRN21zYVZzd0hHRldOOXJkLXlKVjdxTUs4aWJETUtTcGl5NjIxVHVxVjFqVnNXVndMS085Z195LWFreWJFZm5WSFY0VElpVl9KbWVoejljWQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 20:01:07 GMT",
+      "summary": "Build Semantic Caching for Generative AI Applications with OCI Cache &nbsp;&nbsp; Oracle Blogs",
+      "outlet": "Oracle Blogs",
+      "outletUrl": "https://blogs.oracle.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-21T00:07:51.661Z",
+      "lastSeenAt": "2026-10-21T17:59:30.941Z"
+    },
     {
       "title": "Gemini’s Personal Intelligence is coming to cars - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjFHQ3NpaWpmdkczclNINjJPZ1I3R0g0OGFodUphVGxKT0lxbUxyQTlCRmhiaTVEeldkR1lnS2IxTnNybWFiakhrU0xIV19UU2l5T0twVGtRSmZ1WDN2eGVmT1lzMkg3aWc4OWdhUXFXbWpzX0hKbDlOOTZOaERBTUh0cGJPS2pQb2tqazh0clk?oc=5",
@@ -2183,140 +2318,6 @@
       "score": 18,
       "firstSeenAt": "2026-10-21T00:07:51.661Z",
       "lastSeenAt": "2026-10-21T12:53:16.803Z"
-    },
-    {
-      "title": "구자근 의원, 여야 산자중기위원들과 구미 산단 시찰…기업 투자·성장 지원 논의 - 다경뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SSFFtUm9ScGItOUxxQjRXekYzOUh0MWRzUFVOUTJRamVZODBzZ0pGeW5admlGa1ZsdDdMaU5zY0dxU2h4alExbEt5WUI4TkJQaDZXd3Uyc1Z5cGhQdnc?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 17:44:00 GMT",
-      "summary": "구자근 의원, 여야 산자중기위원들과 구미 산단 시찰…기업 투자·성장 지원 논의 &nbsp;&nbsp; 다경뉴스",
-      "outlet": "다경뉴스",
-      "outletUrl": "https://m.dkitnews.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-21T00:34:26.486Z",
-      "lastSeenAt": "2026-10-22T00:38:42.431Z"
-    },
-    {
-      "title": "A flaw in three major AI agent platforms shows why guardrails don't work - Star-Herald",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzVfUjcxamZna2lxZUVJVHN5TEg4WTdUenpwZlVBb3lITEdieXZVczFpQUhqUkZQbW1QaThVMExsX3Jncm9nc3FSQ0ZfTWhyVGRkZmFWSkRZSjRoenBZT0lGdms3V1RTR01vS1hXRDFuektFOF9tTXdWbDIzUTRPNDEzd0x6ZTBSUUZGc21UZTl0VTVnQTlnNEw4MEVnWWxn?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 17:42:32 GMT",
-      "summary": "A flaw in three major AI agent platforms shows why guardrails don't work &nbsp;&nbsp; Star-Herald",
-      "outlet": "Star-Herald",
-      "outletUrl": "https://starherald.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-20T17:57:30.297Z",
-      "lastSeenAt": "2026-10-20T17:57:30.297Z"
-    },
-    {
-      "title": "Goldman Sachs Risk Appetite Gauge Turns Negative as Investors Sell AI Stocks - TOKENPOST",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tNzU5MVVPQ04tWnduMzhBX1ZUNTJ6RDhwMzZnM19Bd0RmLVFqdVQ1azNaYU51ZlNUQS1obDcxeWZtRlk2WFZicFRtNlhfOTJSRW92SE1JdE1Tdw?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 17:41:59 GMT",
-      "summary": "Goldman Sachs Risk Appetite Gauge Turns Negative as Investors Sell AI Stocks &nbsp;&nbsp; TOKENPOST",
-      "outlet": "TOKENPOST",
-      "outletUrl": "https://www.tokenpost.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-10-21T00:07:51.661Z",
-      "lastSeenAt": "2026-10-21T00:34:26.486Z"
-    },
-    {
-      "title": "Revolut partially restores services after major Google Cloud outage - Latest news from Azerbaijan",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEY2ZnZlQUJlYk1fRkZucnRNQVZSb2ZEX1ZaRHd5WGUxUjVycFBVLXRJZDNob1dva1c2VzB5cTY0MHJ2bjl1dWpHdk5SNkp3bnJ0ZXdNSlJfN29BU0NDQ081VTB0YXF5UUdzREtDUzRTT3I5VXVnbl9xU3drd0tfTVEyOEgyTDNOTWhZcHdYaVhBZw?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 17:41:50 GMT",
-      "summary": "Revolut partially restores services after major Google Cloud outage &nbsp;&nbsp; Latest news from Azerbaijan",
-      "outlet": "Latest news from Azerbaijan",
-      "outletUrl": "https://news.az",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 18,
-      "firstSeenAt": "2026-10-21T00:07:51.661Z",
-      "lastSeenAt": "2026-10-21T00:34:26.486Z"
-    },
-    {
-      "title": "AI marketing ROI: What your AI investment actually returns - SmartBrief",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1dTTDRoNmdYcldSQUgwRS1OalF6WDlOa2pjRXdZRGRPX0ExM1Z0WnBVeW5HV3JtenNhRGZmTEUybmZxS1B0dXZ2VXl2c0xkajQtMTRmMHZtU3NmTU9WVm1EaWhkVTFDaHA3RFVmRlhDUTg4MFljdGdLQktJUWdnQ29fUlkxZk44dF94R21BSDR0ODZjNTBVQQ?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 17:41:33 GMT",
-      "summary": "AI marketing ROI: What your AI investment actually returns &nbsp;&nbsp; SmartBrief",
-      "outlet": "SmartBrief",
-      "outletUrl": "https://www.smartbrief.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-20T17:57:30.297Z",
-      "lastSeenAt": "2026-10-21T15:36:47.115Z"
-    },
-    {
-      "title": "A flaw in three major AI agent platforms shows why guardrails don't work - Twin Falls Times-News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0lxMEMxVl85UTFEc0lvSVU5RkVsWG5GbzFNamRJbW9QS3pUdFYxOVRzWGh5bVctNDE1MjByamV6bnRab1BhMWVJMVZNSXRnMlVyU3otWjFMalc2aEE3eGo4bmpfX2Y2ZnBRQVFSOHRUdVUzSWFIaFA1cjFKLW93UjVWM052dUpQN1U5R2ZFWkcyTjZHR1M3dnJUMFBITElOUkE?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 17:41:21 GMT",
-      "summary": "A flaw in three major AI agent platforms shows why guardrails don't work &nbsp;&nbsp; Twin Falls Times-News",
-      "outlet": "Twin Falls Times-News",
-      "outletUrl": "https://magicvalley.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-20T17:57:30.297Z",
-      "lastSeenAt": "2026-10-20T17:57:30.297Z"
     }
   ]
 }

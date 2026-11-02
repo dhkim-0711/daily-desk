@@ -1,7 +1,140 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T06:22:37.395Z",
+  "updatedAt": "2026-11-02T06:37:02.268Z",
   "articles": [
+    {
+      "title": "[오늘장특징주]마벨, 엔비디아, 씨게이트 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXZ1dG9JWGRmOHVoTUZaREdySjJEZEJkcGdwUXBHbzB2V3h4UWFDQV9tQmM1aGhxMHNUOXZjVjY3RDFrUFpCOFgzdkEybXhOUHROenhWNS1fb0ppNmhBLUt3eHhxS2M5Wl9HS19BN0xmdWxaaUxSc1FiREZ2X3VXdA?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 21:38:54 GMT",
+      "summary": "[오늘장특징주]마벨, 엔비디아, 씨게이트 &nbsp;&nbsp; 이데일리",
+      "outlet": "이데일리",
+      "outletUrl": "https://www.edaily.co.kr",
+      "source": "AI반도체 시장·수급",
+      "sourceIds": [
+        "ai-chip-capital-market-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-07T01:22:11.936Z",
+      "lastSeenAt": "2026-10-09T18:46:22.187Z"
+    },
+    {
+      "title": "구글, 美 원전서 3.6GW 확보…AI 데이터센터 전력난에 원전 승부수 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UVjlSalJPaFVYQy16cDVMLWhfM1E1ZnI0WmJGUlJpUVhNTU9MV2ZBYlJYa1gwYVFmY0U4UzJ6cmUwYk9GSWVkT044X2J5c0x3dldUTkFaQXVmaC1UOGpQU25vWGw5M0J4XzlTblVDcTJhckx3aHZN0gF3QVVfeXFMTlRWOVJqUk9oVVhDLXpwNUwtaF8zUTVmcjRaYkZSUmlRWE1NT0xXZkFiUlhrWDBhUWZjRThTMnpyZTBiT0ZJZWRPTjhfYnlzTHd2V1ROQVpBdWZoLVQ4alBTbm9YbDkzQnhfOVNuVUNxMmFyTHdodk0?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 21:36:18 GMT",
+      "summary": "구글, 美 원전서 3.6GW 확보…AI 데이터센터 전력난에 원전 승부수 &nbsp;&nbsp; 핀포인트뉴스",
+      "outlet": "핀포인트뉴스",
+      "outletUrl": "https://www.pinpointnews.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "Google"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-07T01:22:11.936Z",
+      "lastSeenAt": "2026-10-07T09:15:20.365Z"
+    },
+    {
+      "title": "한 화면에 담긴 정보량을 보는 최진기 도박 선택 항목 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93RTBobjNETkhRYzNDZC1fVzEzT21BTWVxUTRwN3F6X2VzbUUyZWRfV0hiVXdpdHBlbTVNdVhnOGEtbW1YMTlDSVVobDdIUUF5QlNWaXdlamdmUlE3QWdWYWNKTnBzOEN1dzUxTFBwaHV4VnFWZkZyS2ZaYw?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 21:35:48 GMT",
+      "summary": "한 화면에 담긴 정보량을 보는 최진기 도박 선택 항목 &nbsp;&nbsp; Calgary Roughnecks",
+      "outlet": "Calgary Roughnecks",
+      "outletUrl": "https://calgaryroughnecks.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-07T01:28:36.011Z",
+      "lastSeenAt": "2026-10-07T19:18:42.713Z"
+    },
+    {
+      "title": "\"中 오픈소스 독주 막는다\"… 엔비디아 지원 美 '리플렉션 AI', 초효율 모델 '빔' 공개 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamcwVWxWNko4emo3Z0NVQzhaOV9ZQ2FRTG54MVF3NVp0UlFvNXdCRDhVeVl1b19SUVNXd2czeWsxN2c0QVluam1tN2lJeTQxal9IQkZPbVF6Ui16akNBZEhTOFlHTmt0OXI2VEQxRGd1djBGWHUzc09VbXVrOU81UkZnMTNzX0Ew?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 21:35:00 GMT",
+      "summary": "\"中 오픈소스 독주 막는다\"… 엔비디아 지원 美 '리플렉션 AI', 초효율 모델 '빔' 공개 &nbsp;&nbsp; 글로벌이코노믹",
+      "outlet": "글로벌이코노믹",
+      "outletUrl": "https://www.g-enews.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-07T01:22:11.936Z",
+      "lastSeenAt": "2026-10-07T19:18:42.713Z"
+    },
+    {
+      "title": "US close: S&P 500, Nasdaq hit new highs as AI stocks rally - Sharecast.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXp4RVZIR2dQeWNXYW01TjgtU3pFUkVWSmpsWjV5NjFJTENET3pjTEM3eVllNVhIVTI5cWhIdWs0cTlVeDhkcWxEX3MzaUlxeGxabVBNMVQ2T25YTFpYRFM3SS1oNGhFVXlER2I4VUpGNll3QjZ5NnZLRGktSFVhTTFLamhCaGpxYmltMm00U3BEY28zREJyUTdUTFBwT2tVN1RhM2NMVlZ6MDU3d1BINXl3SXZOTURxWWRYZ3VrMDVNMkwxTVZz?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 21:34:12 GMT",
+      "summary": "US close: S&P 500, Nasdaq hit new highs as AI stocks rally &nbsp;&nbsp; Sharecast.com",
+      "outlet": "Sharecast.com",
+      "outletUrl": "https://www.sharecast.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-10-07T01:22:11.936Z",
+      "lastSeenAt": "2026-10-08T19:15:39.537Z"
+    },
+    {
+      "title": "숫자가 올라가는 연출과 최종 표시, 인 게임 광고 화면 해설 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSHJNd0MwUnhvUjJ0RTEzLTZWcF9rMWdpN0xnTnRqU1V4MktUeEFyLUFSRldnVFJmOTFObXJPVjdneS1ZSTgteS1XMjF3clFFTGJ1Tk9vX1J1VTMwWW5oYTF2SE5BZGRGbm9nZWFBb0FhOHBaS3RQczZ0Y09XSzdSaTB2ejlaT0EtR0pGT1h0cDRxUVlqbXlj?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 21:34:04 GMT",
+      "summary": "숫자가 올라가는 연출과 최종 표시, 인 게임 광고 화면 해설 &nbsp;&nbsp; Calgary Roughnecks",
+      "outlet": "Calgary Roughnecks",
+      "outletUrl": "https://calgaryroughnecks.com",
+      "source": "AI반도체 시장·수급",
+      "sourceIds": [
+        "ai-chip-capital-market-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 7,
+      "firstSeenAt": "2026-10-07T22:15:59.834Z",
+      "lastSeenAt": "2026-10-09T18:46:22.187Z"
+    },
     {
       "title": "엔비디아 또 사상 최고치...시총 6조달러 눈 앞 - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONk5RZms3YXA0MHRPRzBTWVhJWDNIUTlTc2JBQ0hWalNRalBoMzJ5UThzcmV4LUp6NU5LazFLcE1tT1NVSXBTaXhlMzNSWnYtdlBOY3l3S3NtTVZqdmx0NWU2Q0RCVU5FYUUzYlZNTnJpekJBTnVIMzF4VkFPMFVTbmQ5MA?oc=5",
@@ -2093,146 +2226,6 @@
       "score": 15,
       "firstSeenAt": "2026-10-07T01:22:11.936Z",
       "lastSeenAt": "2026-10-07T01:49:41.343Z"
-    },
-    {
-      "title": "Nvidia Strength Is Masking ‘A Whole Lot of Pain’ in the Broader Market, David Rosenberg Says - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRU81LXRWMGFaZUNtT3R5TGFFaHAxRnJkNlBiTFVkVjVaMU9NVkplSTQtYjN1bGltdHlhN3l1WVNLTlNvdnlUdm1RYzFjMlpqa2FnWlFBLXFxTmphY2ljck1Vc0htMWxjYm9FMFpXb01BRFJ6cjNVc3VQaEwza19YLVd2ZnVMRTB3VkpzSVJVY2Fvam15dlV2ZXluZHBwOW8?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 19:41:23 GMT",
-      "summary": "Nvidia Strength Is Masking ‘A Whole Lot of Pain’ in the Broader Market, David Rosenberg Says &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-10-07T01:22:11.936Z",
-      "lastSeenAt": "2026-10-07T11:00:30.069Z"
-    },
-    {
-      "title": "mj 마작 홀로 라이브 플레이 중 열 수 있는 정보 창 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52WEoxZ0x1b25BbEM4Yi1hcTBJSU1CMWVwWlFzU2M2VkpwTUVBa3JZaHFJMWY1eU45UHE1UjN6UHJlWGg0cDRkNndtckhMbDFSb3k4N1R1THFyNWYxeFczQ2Vpbkw4eHY1Z080UHAzZTBUWnZt?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 19:36:05 GMT",
-      "summary": "mj 마작 홀로 라이브 플레이 중 열 수 있는 정보 창 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://calgaryroughnecks.com",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-07T19:18:42.713Z",
-      "lastSeenAt": "2026-10-08T19:15:39.537Z"
-    },
-    {
-      "title": "Economic Impact of AI Demand May Last Longer, Says Daly - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUMwVm82Ul80LWloMlBwelpfZkhrTVJ2eGxiWmJPenhQNHRuOUdNWm5Ddk9xbjFzSm83MDdQR1ZZcWRMa0JGeHg4S3c4ZEVvb2NQSDVZS08xZnVwWFJsRFpfWlBzQ0gwemhMRGJlZWZpei1pbEt4S29JNFB3c0FjYzZZdnhmRUZOTzFzSWR6ZjNUY3ZTUkZyRA?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 19:33:26 GMT",
-      "summary": "Economic Impact of AI Demand May Last Longer, Says Daly &nbsp;&nbsp; GuruFocus",
-      "outlet": "GuruFocus",
-      "outletUrl": "https://www.gurufocus.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-07T01:22:11.936Z",
-      "lastSeenAt": "2026-10-07T06:09:20.068Z"
-    },
-    {
-      "title": "엔비디아, 개인용 AI 슈퍼컴퓨터 ‘DGX 스파크 64GB’ 공개 - 위클리포스트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54Zy1Fd0pvRXZyQUk1ZDh3bk9FV2F6T2JscXhnOElGVFRLeENpVlBVVWM0c01WV1Q2MFdlUXNFdlVhNmNrMUR2eUZCbjlRTnJzVHllaURQRXhkNXllbnlERjVraC1HZ1Nhb1E?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 19:30:26 GMT",
-      "summary": "엔비디아, 개인용 AI 슈퍼컴퓨터 ‘DGX 스파크 64GB’ 공개 &nbsp;&nbsp; 위클리포스트",
-      "outlet": "위클리포스트",
-      "outletUrl": "http://www.weeklypost.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-07T01:22:11.936Z",
-      "lastSeenAt": "2026-10-07T06:09:20.068Z"
-    },
-    {
-      "title": "Sarvam AI appoints Ex-Google Cloud India MD Sreedharan as president - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSUJlcE5GalEwc3RyYXB0cGN3NzBDY3Nia3gwRWFpYW90cDhPQ0FMcW03RlRVTHR0SUpweTRRb0pxZ0MzY1JvSnNneHpOeldxYnRtTzN3SV9ZaXJVSmRJYUZsU25IUkxpcmxSb2NqakZhRWNqM2tKRlpxM0M5QXdCRmtxVHNTd1VnVUFhS1dEdFRaWWNmVkZKQmFRUzByekZ6RjdIS0I2Rk1tWnd4YVBkb2xmUmV5ZkhCazRsLXpIUGpITjhVMEQxSXU0Q2ZVT2c4aDlkajFvaWQzUkJsejM4YmlQSGQ3T1lT0gHuAUFVX3lxTE9tXy1mXzJsM2ZLNHNkUXN6MnhZQTlvZVAzWDFKNjRfNXRuZWtqZ1pQNVdIcFZ1VDQtY2tfNFpwb3J0OGdnRFZqY2V6LVQycEJQVW0waldWVHZUNUtUQTBZWlJQTzJqLXpJX21TN0FEWkpjb3RLV25IRnhzZ2JVcHFKTWF4cXN3dURicGRqN2I4ODN4NzMxY3IySWlaeHdfUTF3MTN0cUZ0OHBWY1VJeEZLWjJxbWcwLUNLRy1IaEc3Y0hmY2Fnd2dBem9QU3J3YnIwN2ozN1R6VUo5b19wMl9QNHJ5enhFUVJFUDBoaWc?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 19:30:00 GMT",
-      "summary": "Sarvam AI appoints Ex-Google Cloud India MD Sreedharan as president &nbsp;&nbsp; The Times of India",
-      "outlet": "The Times of India",
-      "outletUrl": "https://timesofindia.indiatimes.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 23,
-      "firstSeenAt": "2026-10-07T01:22:11.936Z",
-      "lastSeenAt": "2026-10-07T01:49:41.343Z"
-    },
-    {
-      "title": "Stack Overflow Survey: AWS Leads Cloud Providers, Azure and Google Nearly Tied - Virtualization Review",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNUNVQjBEYnFxaG9ZVUlvWV9Ec2tGUno5U0ZIWjZyaDhDMzdaX1hSbFFBb2pzLU83dHJyRkp4cWh1U2QtaklLcGNxaEMzZjVQNTlGcU5XaWtaa1pEcGlxY1lpS0dONTl3TjNsazV2YUk2aEdkdW9kUlJ3bjgyMzQyOHF2NWxoeXZtSG5sM1ZjQ1RkaXRCZlNLWXg4ZGRsVm50NmxXVnBjNWswNGVRcGFRMWlzaHZCclpQTEM2dHJWWVlJNDhDZXM1b1N3?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 19:25:33 GMT",
-      "summary": "Stack Overflow Survey: AWS Leads Cloud Providers, Azure and Google Nearly Tied &nbsp;&nbsp; Virtualization Review",
-      "outlet": "Virtualization Review",
-      "outletUrl": "https://virtualizationreview.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 18,
-      "firstSeenAt": "2026-10-07T01:22:11.936Z",
-      "lastSeenAt": "2026-10-07T09:15:20.365Z"
     }
   ]
 }
