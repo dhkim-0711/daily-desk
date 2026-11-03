@@ -1,0 +1,477 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-03",
+  "cutoff_at": "2026-11-03T09:30:00+09:00",
+  "window_start": "2026-11-02T09:30:00+09:00",
+  "created_at": "2026-11-03T09:49:28+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "한미약품이 퓨리오사AI·엑스페릭스·베이글랩스와 협력해 체중관리 앱 에피데이의 챗봇을 국내 AI 인프라와 한국어 모델로 전환한다.",
+        "국산 NPU가 범용 벤치마크를 넘어 제약·헬스케어 서비스의 실제 응답 품질과 운영 안정성을 함께 검증할 수요 사례가 열렸다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "한경협과 국가AI전략위원회 간담회에서 15개 기업이 전력·인허가 예측 가능성과 국산 NPU의 공공 입찰·실증 기회 확대를 건의했다.",
+        "AIDC 경쟁의 병목이 건설 물량뿐 아니라 전력 일정, 발주 규격, GPU 중심 소프트웨어 호환성으로 구체화됐다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "K-문샷 로드맵은 2028년 누리호 7차 발사에 국산 NPU를 실은 100kg급 소형 위성을 올려 1년 이상 궤도 실증하는 구상을 제시했다.",
+        "저전력 NPU의 검증 무대가 지상 데이터센터에서 방사선·열·통신 제약이 큰 우주 엣지 연산으로 확장되는 초기 수요 신호다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "삼성SDS가 구미에 4,273억원을 투자해 초기 60MW, 최대 120MW 규모로 확장 가능한 AI 데이터센터를 착공했다.",
+        "자체 GPU 운영과 고객 장비 코로케이션, 공랭·액랭 혼합 설계를 결합해 제조 현장의 AI 인프라 수요를 흡수하려는 실행 단계 투자다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "엔비디아가 베라 루빈 NVL72용 Kubernetes AICR 레시피를 초기 실리콘에서 검증하고 DRA 플러그인 오류를 수정한 결과를 공개했다.",
+        "차세대 가속기 전환 경쟁이 칩 출하 전부터 드라이버·자원 할당·클러스터 검증을 묶은 운영 레시피 확보로 이동하고 있다."
+      ]
+    },
+    {
+      "article_numbers": [6],
+      "bullets": [
+        "마벨이 기업가치 1,150억달러로 평가된 루멘텀을 주식 교환 방식으로 인수하는 확정 계약을 체결했다.",
+        "커스텀 XPU와 전기식 인터커넥트에 레이저·트랜시버·광회로 스위칭을 결합하려는 풀스택 AI 연결 경쟁이 본격화됐다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "한미약품, 퓨리오사AI와 에피데이 챗봇 인프라 국산 전환 추진",
+      "category": "국내 NPU 기업",
+      "collected_at": "2026-11-02T17:20:08.101+09:00",
+      "original_published_at": "2026-11-02T16:00:10+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261102137600017",
+      "main_points": [
+        "한미약품은 10월 30일 퓨리오사AI·엑스페릭스·베이글랩스와 전략적 협력 계약을 맺고 체중관리 애플리케이션 에피데이의 AI 챗봇 인프라를 국산 기술로 전환하기로 했다. 현재 해외 클라우드에서 처리하는 챗봇 응답을 국내 AI 서버와 한국어 거대언어모델 기반으로 옮기는 것이 협력의 핵심이다.",
+        "한미약품은 서비스 요구사항과 사업 우선순위를 제시하고, 퓨리오사AI는 AI 반도체와 기술 협력을 맡는다. 엑스페릭스는 국내 AI 서버 구축·운영과 추론 환경을, 베이글랩스는 앱 개발과 답변 품질 검증을 담당하며 네 회사는 정기 협의체를 운영할 계획이다."
+      ],
+      "importance": [
+        "국산 NPU 기업의 사업화가 데이터센터 공급 제안에서 실제 소비자 서비스의 응답 품질·개인정보 처리·운영비를 함께 검증하는 단계로 이동할 수 있는 사례다. 제약사가 업무 요건을 정의하고 칩·서버·모델·애플리케이션 기업이 역할을 나눈 구조라서, 단일 칩 성능보다 풀스택 통합 능력이 채택을 좌우한다."
+      ],
+      "implications": [
+        "에피데이 전환이 진행되면 국산 가속기의 한국어 추론 성능뿐 아니라 피크 트래픽, 장애 복구, 모델 갱신, 서비스 품질을 실제 운영 환경에서 평가할 수 있다. 헬스케어처럼 답변 정확성과 데이터 관리 요구가 높은 업종에서 축적된 결과는 다른 규제 산업으로 확장할 때 중요한 고객 검증 자료가 될 수 있다.",
+        "후속 관찰에서는 서버 구축이나 시범 적용 발표보다 실제 트래픽 이전 시점, 적용 모델, 유료 서비스 운영비, 응답 품질 지표와 반복 구매 여부를 구분해 볼 필요가 있다. 협력사가 여러 층으로 나뉜 만큼 문제 발생 시 칩·런타임·모델·앱 사이의 책임과 개선 주기가 어떻게 설계되는지도 사업화 가능성을 가를 요인이다."
+      ],
+      "sources": [
+        {
+          "title": "한미약품, 체중관리 앱 인프라 국산 전환한다",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-02T16:00:10+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261102137600017",
+          "verification": "full_text",
+          "verified_at": "2026-11-03T09:45:00+09:00"
+        }
+      ],
+      "event_id": "hanmi-epiday-furiosa-domestic-ai-infrastructure-2026-10-30",
+      "event_first_published_at": "2026-11-02T16:00:10+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261102137600017",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "AIDC 업계, 전력·인허가 예측성과 국산 NPU 입찰 기회 확대 건의",
+      "category": "국내 AI 정책",
+      "collected_at": "2026-11-02T15:22:37.395+09:00",
+      "original_published_at": "2026-11-02T14:00:03+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261102101900003",
+      "main_points": [
+        "한국경제인협회와 대통령 직속 국가AI전략위원회는 11월 2일 AI 데이터센터 산업 생태계 활성화를 위한 기업 간담회를 열었다. 삼성SDS·현대자동차·SK텔레콤·KT클라우드·네이버클라우드와 퓨리오사AI·리벨리온·하이퍼엑셀 등 15개사가 참석해 전력 공급 시기·가능 용량의 사전 확인, 인허가 처리 기한과 조정 주체의 명확화를 요청했다.",
+        "반도체 업계는 GPU 중심 소프트웨어 환경과 특정 제품·서버 구성을 전제로 한 일부 공공 발주가 국산 NPU의 진입을 어렵게 한다고 지적했다. 이에 발주 기준을 상표나 구성보다 성능·처리 용량 중심으로 설계하고, 데이터센터 현장 실증과 테스트 비용 지원, 인증 절차 개선을 확대해 달라고 건의했다."
+      ],
+      "importance": [
+        "이번 간담회는 AIDC 공급 확대라는 포괄적 구호를 전력 연결 일정, 인허가 책임, 발주 규격, 소프트웨어 호환성이라는 실행 변수로 좁혔다. 데이터센터가 늘어도 입찰 규격과 운영 스택이 기존 GPU에 고정되면 국산 NPU의 초기 수요가 생기지 않는다는 산업 현장의 연결 고리가 구체적으로 드러났다."
+      ],
+      "implications": [
+        "전력과 인허가의 예측 가능성은 투자 시점뿐 아니라 어떤 가속기와 냉각·전력 장비를 조달할지 결정하는 기준이 된다. 규정 마련 과정에서 계통 접속 가능 시점과 허가 처리 절차가 구체화되면 국내 장비 기업이 설계 초기부터 참여할 여지가 커질 수 있다.",
+        "국산 NPU의 공공시장 진입은 단순 우대보다 성능·전력효율·처리 용량을 검증 가능한 방식으로 제시하고 기존 운영 SW와의 호환 비용을 확인하는 것이 중요하다. 간담회 건의가 향후 AIDC 특별법 하위 규정, 공공 발주 기준, 실증 지원 방식에 어떻게 반영되는지와 실제 입찰 참여·도입으로 이어지는지를 분리해 추적해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "AI 데이터센터 투자, 불확실성 줄이고 국산기술에 기회줘야",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-02T14:00:03+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261102101900003",
+          "verification": "full_text",
+          "verified_at": "2026-11-03T09:45:00+09:00"
+        },
+        {
+          "title": "AI데이터센터 활성화…기업 국산 NPU 실증 기회 늘려달라",
+          "publisher": "파이낸셜뉴스",
+          "published_at": "2026-11-02T18:33:00+09:00",
+          "url": "https://www.fnnews.com/news/202611021815447689",
+          "verification": "full_text",
+          "verified_at": "2026-11-03T09:45:00+09:00"
+        }
+      ],
+      "event_id": "fki-national-ai-committee-aidc-industry-meeting-2026-11-02",
+      "event_first_published_at": "2026-11-02T14:00:03+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261102101900003",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 3,
+      "title": "한국형 우주 데이터센터, 2028년 누리호에 국산 NPU 첫 실증 구상",
+      "category": "AI반도체 공공사업",
+      "collected_at": "2026-11-02T21:16:34.842+09:00",
+      "original_published_at": "2026-11-02T18:03:02+09:00",
+      "original_url": "https://www.fnnews.com/news/202611021803043451",
+      "main_points": [
+        "11월 2일 국회 우주데이터센터포럼에서 제시된 K-문샷 로드맵은 2028년 누리호 7차 발사에 국산 AI 반도체를 탑재한 100kg급 소형 위성을 올려 561km 궤도에서 1년 이상 실증하는 구상을 담았다. 위성 영상의 객체 인식과 데이터 선별, 방사선 오류 보정, 전력·열관리 등 우주 환경에서의 엣지 연산 핵심 기술을 검증하는 것이 목표다.",
+        "로드맵은 2031년 500kg급 중형, 2034년 수톤급 대형 우주 데이터센터로 확장하고 2035년 민간 상용화 기반을 마련하는 단계를 제시했다. 첫 소형 실증에는 약 140억원이 필요하며, 관계 기관은 2027년 1월 개발 착수를 목표로 예산과 발사 연계를 협의하는 단계다."
+      ],
+      "importance": [
+        "국산 NPU의 저전력 특성이 지상 데이터센터의 비용 절감 수단을 넘어 통신 대역폭과 전력이 제한된 우주 엣지 연산의 핵심 조건으로 평가되기 시작했다. 위성에서 데이터를 선별·처리하면 지상으로 내려보낼 데이터량을 줄일 수 있어, 칩 검증과 새로운 데이터 서비스 시장이 동시에 연결되는 장기 수요 경로다."
+      ],
+      "implications": [
+        "우주 실증은 일반 서버 벤치마크와 달리 방사선 내성, 열주기, 장기 무정비 운용, 오류 복구까지 포함해야 한다. 국산 NPU 기업에는 칩 자체뿐 아니라 보드·메모리·운영 SW와 영상 모델을 묶어 신뢰성을 입증할 기회가 될 수 있다.",
+        "로드맵의 성패는 2028년 발사 일정에 맞춘 예산 반영, 위성체 개발 주체, 탑재 NPU 선정과 지상 시험 기준이 언제 확정되는지에 달려 있다. 후속 단계에서는 실증 목표와 민간 수요를 연결해 어떤 데이터 처리 서비스가 비용을 지불할 고객을 확보할 수 있는지도 함께 확인해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "韓 우주 데이터센터, 2028년 누리호로 첫 실증…국산 AI 반도체 검증",
+          "publisher": "파이낸셜뉴스·뉴시스",
+          "published_at": "2026-11-02T18:03:02+09:00",
+          "url": "https://www.fnnews.com/news/202611021803043451",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-03T09:45:00+09:00"
+        }
+      ],
+      "event_id": "k-moonshot-space-datacenter-domestic-npu-demo-2026-11-02",
+      "event_first_published_at": "2026-11-02T18:03:02+09:00",
+      "event_evidence_url": "https://www.fnnews.com/news/202611021803043451",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "삼성SDS, 구미 60MW AI 데이터센터 착공…최대 120MW 확장",
+      "category": "국내 AI 정책",
+      "collected_at": "2026-11-02T17:20:08.101+09:00",
+      "original_published_at": "2026-11-02T15:19:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261102107951053",
+      "main_points": [
+        "삼성SDS는 11월 2일 경북 구미에서 AI 데이터센터 기공식을 열고 4,273억원 규모의 건립 사업을 시작했다. 약 1만4천평 부지에 초기 60MW 용량으로 구축하고 수요에 따라 최대 120MW까지 확장하며, 2028년 말 준공 뒤 2029년 가동을 목표로 한다.",
+        "센터는 공랭과 액랭을 결합한 하이브리드 냉각, 이중화 전력 공급과 고밀도 랙을 적용할 계획이다. 삼성SDS가 보유한 GPU를 직접 운영하는 구역과 고객사가 반입한 가속기·서버를 운영하는 코로케이션 구역을 함께 두고, 영남권 제조기업의 AI 전환 수요를 겨냥한다."
+      ],
+      "importance": [
+        "구미 센터는 계획 발표를 넘어 부지·인허가·투자액을 거쳐 착공 단계에 들어간 대규모 산업기반 변화다. 자체 GPU 서비스와 고객 장비 운영을 병행하는 구조는 제조기업이 전용 AI 인프라를 직접 보유하지 않고도 연산 자원을 확보하는 지역 수요 모델을 시험한다."
+      ],
+      "implications": [
+        "60MW에서 120MW로 확장 가능한 설계는 향후 가속기 세대와 고객 수요 변화에 대응할 여지를 주지만, 실제 증설은 전력 공급과 계약된 수요에 좌우된다. 액랭·전력설비·네트워크·운영 SW를 포함한 국내 공급망에는 착공 이후 장비 발주와 통합 검증이 구체화되는지가 중요한 사업 기회다.",
+        "제조 데이터와 공정 AI를 가까운 지역에서 처리하려는 수요가 커지면 지연시간·데이터 이동·보안 요건을 반영한 산업형 AI 클라우드 시장이 형성될 수 있다. 국산 NPU가 코로케이션이나 삼성SDS 서비스에 실제 포함되는지는 별도 확인이 필요하며, 랙 단위 고객 구성과 가동률이 센터의 수익성을 보여줄 핵심 지표가 된다."
+      ],
+      "sources": [
+        {
+          "title": "삼성SDS, 구미 AI 데이터센터 착공",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-02T15:19:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261102107951053",
+          "verification": "full_text",
+          "verified_at": "2026-11-03T09:45:00+09:00"
+        },
+        {
+          "title": "삼성SDS, 구미 AI 데이터센터 착공…삼성 영남권 60조 투자 계획 실행",
+          "publisher": "삼성SDS",
+          "published_at": "2026-11-02",
+          "url": "https://www.samsungsds.com/kr/news/gmdc-261102.html",
+          "verification": "public_primary",
+          "verified_at": "2026-11-03T09:45:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "삼성SDS 공식 원문은 2026-11-02 게시로 표시됐고, 같은 기공식의 연합뉴스 원문은 2026-11-02 15:19 KST에 공개됐다. 아카이브에서 관련 보도를 17:20:08.101 KST에 최초 수집해 11월 3일 09:30 마감 전에 투자액·용량·준공 목표와 착공 사실을 확인할 수 있었다."
+        }
+      ],
+      "event_id": "samsung-sds-gumi-ai-datacenter-groundbreaking-2026-11-02",
+      "event_first_published_at": "2026-11-02T15:19:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261102107951053",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 5,
+      "title": "엔비디아, 베라 루빈용 Kubernetes 운영 레시피 초기 실리콘 검증",
+      "category": "NVIDIA 이슈",
+      "collected_at": "2026-11-03T07:18:13.619+09:00",
+      "original_published_at": "2026-11-03T03:20:34+09:00",
+      "original_url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
+      "main_points": [
+        "엔비디아는 베라 루빈 NVL72용 Kubernetes AI Cloud Reference(AICR) 레시피를 초기 실리콘에서 검증한 결과를 공개했다. 레시피는 R615.23 오픈 GPU 드라이버, DRA 드라이버 v0.5.0, 64K 페이지를 사용하는 Ubuntu 26.04와 배포·검증 절차를 하나의 재사용 가능한 구성으로 묶었다.",
+        "검증 과정에서 루빈 아키텍처 값을 인식하지 못해 DRA의 kubelet 플러그인이 반복 재시작되는 오류를 발견했고 v0.5.0에서 수정했다. 엔비디아는 배포·Kubernetes 적합성 검사를 거쳐 노드 간 NCCL all-reduce에서 16GiB 기준 744.71GB/s를 측정했으며, 현재 구성은 정식 지원 수명주기 전의 프리뷰라고 명시했다."
+      ],
+      "importance": [
+        "차세대 가속기의 시장 전환이 하드웨어 출하만으로 이뤄지는 것이 아니라 드라이버·동적 자원 할당·운영체제·통신 라이브러리를 함께 검증하는 과정임을 보여준다. 초기 실리콘 단계에서 실제 Kubernetes 장애를 찾아 레시피에 반영한 것은 운영 SW의 준비 시점이 고객 도입 속도에 직접 영향을 준다는 신호다."
+      ],
+      "implications": [
+        "AICR 같은 검증 묶음은 클라우드와 기업 데이터센터가 새 GPU를 도입할 때 반복해야 하는 통합 작업을 줄여 엔비디아 생태계의 전환 비용을 낮춘다. 향후 가속기 경쟁은 최고 연산 성능뿐 아니라 표준 오케스트레이션에서 오류를 얼마나 빨리 발견하고 지원 가능한 조합을 배포하느냐로 확대될 가능성이 크다.",
+        "국산 NPU 기업도 드라이버와 런타임을 제공하는 수준을 넘어 Kubernetes 자원 할당, 컨테이너 이미지, 노드 간 통신, 관측·업데이트 절차를 재현 가능한 레시피로 제시해야 한다. 검증 수치의 조건과 프리뷰·정식지원 범위를 분리해 공개하면 수요기관이 PoC 결과를 실제 운영 전환 판단에 활용하기 쉬워진다."
+      ],
+      "sources": [
+        {
+          "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+          "publisher": "NVIDIA Developer Blog",
+          "published_at": "2026-11-03T03:20:34+09:00",
+          "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-03T09:45:00+09:00"
+        }
+      ],
+      "event_id": "nvidia-aicr-vera-rubin-kubernetes-recipe-2026-11-02",
+      "event_first_published_at": "2026-11-03T03:20:34+09:00",
+      "event_evidence_url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "마벨, 루멘텀 1,150억달러 전량주식 인수 계약…AI 연결 풀스택 통합",
+      "category": "NVIDIA 이슈",
+      "collected_at": "2026-11-03T03:50:26.182+09:00",
+      "original_published_at": "2026-11-03T03:15:52+09:00",
+      "original_url": "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/",
+      "main_points": [
+        "마벨은 루멘텀을 기업가치 1,150억달러로 평가한 전량주식 거래로 인수하는 확정 계약을 체결했다. 루멘텀 주주가 보유 주식 1주당 마벨 4.5주를 받는 구조이며, 거래 완료 뒤 마벨 기존 주주가 약 67%, 루멘텀 기존 주주가 약 33%를 보유할 예정이다.",
+        "양사는 마벨의 커스텀 XPU·스위칭·전기식 인터커넥트와 루멘텀의 레이저·광트랜시버·광회로 스위칭·인듐인 제조 역량을 결합해 AI 데이터센터 연결 포트폴리오를 확대하려 한다. 주주·규제 승인을 거쳐 2028년 상반기 완료를 예상하며, 10억달러가 넘는 비용·매출 시너지는 회사가 제시한 목표다."
+      ],
+      "importance": [
+        "AI 클러스터의 병목이 칩 연산에서 랙 내부·랙 간 데이터 이동으로 옮겨가면서 전기와 광 연결 기술을 한 회사가 설계하는 전략적 통합이 추진됐다. 인수 협상 단계였던 사건이 가격·교환비율·소유구조와 완료 예상 시점이 담긴 확정 계약으로 전환됐다는 점에서 글로벌 AI 반도체 경쟁 구도의 실질적 변화다."
+      ],
+      "implications": [
+        "커스텀 가속기와 광부품을 공동 최적화하면 고객별 시스템 설계에서 전력·대역폭·지연시간을 한꺼번에 조정할 수 있지만, 대형 거래의 규제 승인과 통합 실행에는 시간이 필요하다. 광모듈·레이저·패키징 공급업체에는 고객 집중과 설계 생태계 재편이 동시에 나타날 수 있다.",
+        "국내 기업은 HBM이나 가속기 단품뿐 아니라 CPO·실리콘 포토닉스·광회로 스위치와 네트워크 SW가 결합되는 발주 구조를 살펴야 한다. 2028년 완료까지 규제 심사, 고객 중복, 생산능력 투자와 실제 시너지 실현을 구분해 추적하는 것이 공급망 기회와 경쟁 압력을 판단하는 데 중요하다."
+      ],
+      "sources": [
+        {
+          "title": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal",
+          "publisher": "Reuters",
+          "published_at": "2026-11-03T03:15:52+09:00",
+          "url": "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/",
+          "verification": "full_text",
+          "verified_at": "2026-11-03T09:45:00+09:00"
+        },
+        {
+          "title": "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
+          "publisher": "Marvell Technology·Lumentum Holdings",
+          "published_at": "2026-11-02",
+          "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312526442758/d163169dex991.htm",
+          "verification": "public_primary",
+          "verified_at": "2026-11-03T09:45:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "공식 합병 발표는 미국 현지 2026-11-02자로 게시됐다. Reuters RSS는 확정 계약을 2026-11-03 03:15:52 KST에 공개했고 아카이브가 03:50:26.182 KST에 수집해 09:30 마감 전에 거래 조건과 단계가 공개됐음을 확인했다."
+        }
+      ],
+      "event_id": "marvell-lumentum-definitive-acquisition-2026-11-02",
+      "event_first_published_at": "2026-11-03T03:15:52+09:00",
+      "event_evidence_url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312526442758/d163169dex991.htm",
+      "selection_tier": "primary"
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026-10·11월 아카이브 조각 전체와 퓨리오사AI·리벨리온·딥엑스·모빌린트·하이퍼엑셀 관련 고객 도입·유상 PoC·제품통합·양산·반복구매·해외협력을 확인했다. 한미약품 에피데이의 국내 AI 인프라 전환을 실제 수요기업·칩·서버·앱 협력 사건으로 선정했고, 우주 데이터센터 국산 NPU 실증 로드맵도 별도 공공수요 후보로 비교했다. 당일 collection의 hyperaccel-global·msit-ai-chip·nipa-ai-chip 소스는 empty였으며 이를 후보 없음으로 해석하지 않고 직접 공개 원문 검색으로 보완했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP와 중앙·지자체·공공기관의 NPU 예산·실증·조달·집행, AIDC의 전력·인허가·부지·냉각, 지역 데이터센터 투자를 확인했다. 국가AI전략위원회·한경협 간담회의 전력·인허가·국산 NPU 입찰 건의를 정책 논의 단계로, K-문샷은 예산·기관 협의 중인 실증 구상으로, 삼성SDS 구미 센터는 4,273억원 투자와 착공이 확인된 실행 단계로 구분해 선정했다. 09:20·09:27 KST 수집은 없고 최신 collection이 07:18:10 KST였으므로 마감 전 공개 사실을 직접 검색해 보완했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google과 글로벌 가속기, 자체 AI칩, 전략적 인수·제휴를 확인했다. 베라 루빈용 Kubernetes 운영 레시피의 초기 실리콘 검증과 마벨의 루멘텀 확정 인수 계약을 선정했다. 온세미의 Ferric 인수, CEVA NeuPro NPU, 일반 자금조달과 개별 제품 발표도 비교했으나 산업 파급과 이번 회차의 다른 후보 대비 우선순위에서 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·CUDA·커널·런타임·컴파일러·서빙·Kubernetes·DRA와 이기종 가속기 운영 생태계를 검색했다. NVIDIA AICR의 베라 루빈 레시피가 드라이버·Ubuntu 64K 페이지·동적 자원 할당·NCCL 검증을 묶고 초기 실리콘 오류를 수정한 새 사실을 확인해 선정했다. 10월 31일 Dynamo용 Kubernetes 런타임과는 하드웨어 세대·검증 범위가 다른 후속 변화로 처리했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단 패키징·인터커넥트·실리콘 포토닉스와 데이터센터 전력·냉각·부지·투자 실행을 확인했다. 삼성SDS 구미 센터의 60MW 착공과 마벨·루멘텀의 전기·광 연결 통합을 선정했다. LG CNS 자카르타 센터 준공, 온세미·Ferric 전력반도체 거래와 통상적인 HBM·소재·장비 보도도 비교했으나 인프라 쏠림을 피하고 국내 NPU 수요·정책·운영 SW 사건을 우선해 제외했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국내 NPU가 수요기업의 실제 헬스케어 서비스 인프라로 들어가기 위해 칩·서버·모델·앱 역할을 구체화한 고객 전환 사건이다."
+      },
+      {
+        "article_number": 2,
+        "reason": "전력·인허가와 GPU 중심 발주·SW 호환성이 AIDC 투자와 국산 NPU 초기 수요를 동시에 막는 실행 과제로 구체화됐다."
+      },
+      {
+        "article_number": 3,
+        "reason": "국산 NPU의 저전력 특성을 우주 엣지 연산에서 검증하려는 2028년 실증 로드맵으로 새로운 공공·산업 수요 가능성을 보여준다."
+      },
+      {
+        "article_number": 4,
+        "reason": "4,273억원 투자, 60MW 초기 용량, 부지와 준공 목표가 확인된 착공 단계의 산업기반 변화로 제조 AI 수요와 연계된다."
+      },
+      {
+        "article_number": 5,
+        "reason": "차세대 GPU 전환을 앞두고 Kubernetes 운영 레시피를 초기 실리콘에서 검증하고 실제 플러그인 오류를 수정한 운영 SW의 실질적 진전이다."
+      },
+      {
+        "article_number": 6,
+        "reason": "협상 보도가 가격·교환비율·소유구조가 담긴 확정 계약으로 전환돼 AI 가속기와 광연결 풀스택 경쟁 구도에 중대한 변화가 생겼다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "LG CNS, 인도네시아 자카르타 AI 데이터센터 준공",
+        "url": "https://www.lg.co.kr/media/release/30737",
+        "reason": "30MW 센터 준공과 준공 전 임차 완료는 검증 가능한 해외 실행 성과지만, 구미 착공·전력 인허가·우주 실증 등 인프라 후보가 이미 다수여서 국내 NPU 고객 전환과 운영 SW를 우선했다."
+      },
+      {
+        "title": "onsemi to Acquire Ferric, Accelerating Power Delivery Innovation for AI Data Centers",
+        "url": "https://investor.onsemi.com/static-files/a59f685d-98cf-4979-8b55-6c29e058fee1",
+        "reason": "6억달러 현금과 최대 1억7,500만달러 조건부 대가의 인수 계약을 확인했으나, 마벨·루멘텀 거래가 AI 연결 생태계 전반의 전략적 재편을 더 크게 보여줘 최종 6건에서 제외했다."
+      },
+      {
+        "title": "CEVA Introduces NeuPro Next-Generation NPU Architecture",
+        "url": "https://www.ceva-ip.com/press/ceva-introduces-neupro-next-generation-npu-architecture-for-ai-at-the-edge/",
+        "reason": "신규 엣지 NPU 아키텍처 발표를 확인했으나 고객 도입·양산·생태계 전환의 구체성이 국내 수요·실증 후보보다 낮았다."
+      },
+      {
+        "title": "NVIDIA AI Day Seoul 2026 개최 예고",
+        "url": "https://www.nvidia.com/ko-kr/events/ai-day-seoul/",
+        "reason": "11월 9일 행사 예고로 실제 참여 결과나 한국 기업과의 구체적 협력 내용이 아직 공개되지 않았다."
+      },
+      {
+        "title": "국내 HBM·소재·장비 공급 전망 보도",
+        "url": "https://www.thelec.kr/news/articleView.html?idxno=35970",
+        "reason": "공급 전망 중심 보도로 이번 48시간 안에 확인된 신규 계약·양산·공급망 제약의 구체성이 부족해 유력 국내 NPU·정책 후보를 밀어내지 않았다."
+      },
+      {
+        "title": "마벨, 루멘텀 인수 협상 막바지 보도",
+        "url": "https://uk.marketscreener.com/news/marvell-in-advanced-talks-to-buy-lumentum-bloomberg-news-reports-ce785cd3db8af523",
+        "reason": "10월 31일 원고에서 제외 후보로 기록된 협상 단계 보도다. 이번 회차에는 확정 계약과 거래 조건이라는 실질적 새 사실만 material_update로 선정했다."
+      },
+      {
+        "title": "삼성SDS 구미 AI 데이터센터 관련 지역 투자 총액 보도",
+        "url": "https://www.samsungsds.com/kr/news/gmdc-261102.html",
+        "reason": "영남권 전체 60조원 투자 구상을 구미 센터 개별 예산으로 해석하지 않고, 확인된 센터 투자액 4,273억원과 착공 사실만 기사 4에 반영했다."
+      }
+    ],
+    "count_reason": "docs/data/archive/index.json의 2026-10 월 364개와 2026-11 월 23개 조각을 모두 읽고 다섯 영역의 보완 검색과 공식자료 대조를 완료했다. 공개 본문·48시간 시의성·사건 독립성·최근 14일 중복을 통과한 후보 가운데 국내 NPU 고객 전환, 정책·수요, 공공 실증, 실행 단계 인프라, 운영 SW, 글로벌 전략적 인수라는 서로 다른 변화를 더하는 6건을 선정했다. 일곱 번째 후보는 인프라 비중만 늘리거나 상대적 중요성이 낮아 기본 6건을 유지했다.",
+    "company_overlap_review": "선정 기사에서 동일 기업집단 중심 사건의 반복은 없다. 한미약품·퓨리오사AI 고객 전환, 국가AI전략위원회 간담회, K-문샷 실증, 삼성SDS 구미 센터, NVIDIA 운영 레시피, 마벨·루멘텀 인수는 주체와 산업 단계가 각각 독립적이다.",
+    "candidate_counts": {
+      "discovered": 3440,
+      "time_eligible": 2171,
+      "independent_events": 13,
+      "verified": 13,
+      "selected": 6,
+      "basis": "최신 체크아웃의 mail/candidates.py가 전체 아카이브 기준 3,440건 발견, 2,171건 시간 적격을 집계했다. docs/data/archive/index.json의 2026-10·11월 조각 387개를 오류 없이 모두 읽고 아카이브·직접 보완 검색에서 업무 관련성이 높은 13개 독립 사건의 공개 본문과 최초 공개시각을 검증해 6건을 선정했다. 당일 collection은 03:50·07:18 KST 두 번 완료됐고 42개 소스 ok, 3개 empty, 0개 failed였으나 09:20·09:27 수집은 없어 이후 공개된 마감 전 사실을 직접 검색으로 보완했다."
+    },
+    "history_review": {
+      "start_date": "2026-10-20",
+      "end_date": "2026-11-02",
+      "checked_dates": [
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02"
+      ],
+      "note": "14개 확정 원고의 제목·주요 사실·event_id·출처와 선정·제외 기록을 읽어 사건 단위로 비교했다. 기사 5는 10월 31일 NVIDIA Dynamo Kubernetes 레시피와 구별되는 베라 루빈 초기 실리콘 후속 변화이며, 기사 6은 같은 날짜 제외 후보였던 마벨·루멘텀 협상 보도가 확정 계약으로 전환된 material_update다. 나머지 4건은 동일 사건의 게재 이력이 없다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "한미약품 에피데이의 국내 AI 인프라 전환과 네 회사의 역할 분담은 최근 14일 원고에 동일 사건이 없다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "11월 2일 한경협·국가AI전략위원회 기업 간담회의 전력·인허가·국산 NPU 발주 건의는 최근 14일 원고에 게재되지 않았다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "2028년 누리호 7차 발사와 100kg급 국산 NPU 탑재 위성을 연결한 K-문샷 로드맵은 최근 14일 원고에 동일 사건이 없다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "삼성SDS 구미 AI 데이터센터의 투자액·초기 용량·착공과 준공 목표는 최근 14일 원고에 게재되지 않았다."
+      },
+      {
+        "article_number": 5,
+        "result": "material_update",
+        "previous_editions": ["2026-10-31"],
+        "new_fact": "Dynamo용 범용 Kubernetes 런타임 레시피 이후 베라 루빈 NVL72 전용 AICR 구성을 초기 실리콘에서 검증하고, 루빈 아키텍처 값을 인식하지 못한 DRA 플러그인 오류를 v0.5.0에서 수정했다.",
+        "evidence_url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
+        "note": "같은 NVIDIA Kubernetes 운영 주제지만 대상 하드웨어와 드라이버·OS·DRA 구성, 초기 실리콘 장애 수정 및 검증 결과가 새로 공개돼 실질적 후속 변화로 판단했다."
+      },
+      {
+        "article_number": 6,
+        "result": "material_update",
+        "previous_editions": ["2026-10-31"],
+        "new_fact": "인수 협상이 전량주식 확정 계약으로 전환되면서 1,150억달러 기업가치, 1주당 마벨 4.5주, 67대33 소유구조와 2028년 상반기 완료 예상 시점이 공개됐다.",
+        "evidence_url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312526442758/d163169dex991.htm",
+        "note": "10월 31일 원고의 제외 후보는 협상 단계였고, 이번에는 공식 계약과 거래 조건이 공개돼 글로벌 경쟁 구도의 material_update로 선정했다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026년 11월 2~3일 퓨리오사AI·리벨리온·딥엑스·모빌린트·하이퍼엑셀과 NPU·고객검증·유상 PoC·제품통합·양산·반복구매·해외협력·헬스케어·제조·우주 실증을 검색했다.",
+          "official_sources": "연합뉴스 한미약품·퓨리오사AI 협력 원문 https://www.yna.co.kr/view/AKR20261102137600017, 파이낸셜뉴스·뉴시스 우주 실증 원문 https://www.fnnews.com/news/202611021803043451, 과기정통부·NIPA·IITP 공고와 기업 뉴스룸을 확인했다.",
+          "result": "한미약품 서비스 인프라 전환과 K-문샷 우주 실증 구상을 선정했다. 나머지 기업의 새 고객 도입·양산·반복 구매는 마감 전 공개 본문과 신규성을 함께 충족하지 못했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "과기정통부·NIPA·IITP·국가AI전략위원회·지자체·공공기관과 NPU·AI반도체·국비·예산·실증·도입·조달·집행·AIDC·부지·전력·용수·인허가·이전을 조합해 검색했다.",
+          "official_sources": "한경협 공식 간담회 https://www.fki.or.kr/kor/news/statement.do?bbs_id=6309, 연합뉴스 https://www.yna.co.kr/view/AKR20261102101900003, 삼성SDS 공식 착공 발표 https://www.samsungsds.com/kr/news/gmdc-261102.html, 관련 정부·기관 공고를 대조했다.",
+          "result": "AIDC 전력·인허가와 국산 NPU 발주 건의, K-문샷 실증 로드맵, 구미 센터 착공을 각각 논의·계획·집행 단계로 구분해 선정했다. 지역 전체 투자 총액을 개별 NPU·센터 예산으로 쓰지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "2026년 11월 2~3일 NVIDIA·AMD·Google·Marvell·Lumentum·onsemi·CEVA와 가속기·자체 AI칩·전기·광 인터커넥트·인수·제휴·개발자 전환을 검색했다.",
+          "official_sources": "NVIDIA 개발자 원문 https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/, SEC 마벨·루멘텀 합병 발표 https://www.sec.gov/Archives/edgar/data/1633978/000119312526442758/d163169dex991.htm, 온세미 공식 인수 발표와 CEVA 제품 원문을 확인했다.",
+          "result": "베라 루빈 운영 레시피와 마벨·루멘텀 확정 계약을 선정했다. 온세미·Ferric과 CEVA NeuPro는 검증했으나 최종 6건 대비 파급·업무 관련성에서 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "ROCm·CUDA·커널·런타임·컴파일러·서빙·Kubernetes·DRA·NCCL·AICR와 이기종 가속기 운영·개발자 생태계를 검색했다.",
+          "official_sources": "NVIDIA AICR 베라 루빈 원문 https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/ 및 AMD ROCm·Kubernetes 관련 공개 문서를 확인했다.",
+          "result": "초기 실리콘에서 구성과 오류 수정까지 확인된 NVIDIA AICR를 선정했다. 단순 버전 업데이트나 과거 릴리스 재소개는 신규 산업 사건으로 채택하지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "HBM·첨단 패키징·CPO·실리콘 포토닉스·광트랜시버·광회로 스위칭과 데이터센터 전력·냉각·부지·투자·금융구조를 검색했다.",
+          "official_sources": "삼성SDS 구미 센터 https://www.samsungsds.com/kr/news/gmdc-261102.html, SEC 마벨·루멘텀 발표, LG CNS 자카르타 센터 https://www.lg.co.kr/media/release/30737, 온세미·Ferric 인수 원문을 대조했다.",
+          "result": "구미 센터 착공과 전기·광 연결 통합을 선정했다. LG CNS 자카르타 준공과 온세미·Ferric 거래는 독립 가치가 있으나 인프라 후보 비중과 상대적 중요성을 재검토해 제외했다."
+        }
+      },
+      "alternative_sources": "09:20·09:27 KST 수집 공백과 수집기 empty 소스는 한경협·삼성SDS·NVIDIA·SEC·LG·온세미 등 공식 원문과 연합뉴스·뉴시스 공개 본문으로 보완했다. 제한 기사나 검색 결과 한두 줄만으로 본문을 쓰지 않았고, 날짜만 표시된 공식자료는 정확한 RSS 공개시각·firstSeenAt과 동시 공개 원문을 대조해 cutoff_evidence를 기록했다."
+    },
+    "shared_original_reviews": []
+  }
+}
