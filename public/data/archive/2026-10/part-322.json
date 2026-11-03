@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "리사 수 AMD 회장 방한...국내 AI반도체와 협력 논의 - YTN 사이언스",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHJ6VzBpTjFHYW5zU3g4VDhNYk5GX2xoUFVBd3JBLThLSHU4Z3p3TGlQYzFwREVTRlQ0NHBBYTZNNnNqVjgwQ192TTBIaHNZdmxGTzA0dmc1T1F0VVJSdHVMZ1RuQllNd1F1U2RZb01PX3FSRkZWTjd3T2s1SGhaUDVZREViN2xmZUdudw?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 07:02:31 GMT",
+      "summary": "리사 수 AMD 회장 방한...국내 AI반도체와 협력 논의 &nbsp;&nbsp; YTN 사이언스",
+      "outlet": "YTN 사이언스",
+      "outletUrl": "https://m.science.ytn.co.kr",
+      "source": "AI반도체 공공사업",
+      "sourceIds": [
+        "ai-chip-public-program",
+        "npu-commercialization"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [
+        "NPU"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-07T09:15:20.365Z",
+      "lastSeenAt": "2026-10-10T06:12:35.366Z"
+    },
     {
       "title": "88% of CIOs say AI adoption is outpacing governance, leaving them accountable without control - PA Media",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbXVES0paTEdnREdHbl8zQktEZFlYc0RYRVc4NUZMS2N4dnZKYVEtb0Z1LVY3Z2lGUEQ1cTZzZ3BSU21SUFhqaF9UUkxwOUowN204djZ2UGpVVm9mY282ODFEd1k2UUVaTkdUNjhyR2x3QzQ2N2ZqcUF0Y1loMWZYWmJvYnVkSk9JdG9PVEFONVl5MjZiSTdlUVVMM0t6VXV5NDliWnRDS016R1M3eWwxU2RyX1B3dTFKUEwyLTBIdjlaMmRBdGJ6cGt3YWwzNlJDYlVZYlNucGVxTjQ?oc=5",
@@ -2225,28 +2250,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-07T09:15:20.365Z",
       "lastSeenAt": "2026-10-07T11:00:30.069Z"
-    },
-    {
-      "title": "현대ENG, 8700억 원창동 데이터센터 사업 수주 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VRWp1Z3lUejE0clVpNDQxUFdweXNqTV9GQzdaTnRQUkNWRDl1MTcwR3RkUHBrOUZpU21xWE50bDlUdUpMVkdMZFlOa0tyc0ZCSFJveFFxajQ5UQ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 05:49:48 GMT",
-      "summary": "현대ENG, 8700억 원창동 데이터센터 사업 수주 &nbsp;&nbsp; 한국경제",
-      "outlet": "한국경제",
-      "outletUrl": "https://www.hankyung.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-08T01:51:37.240Z"
     }
   ]
 }

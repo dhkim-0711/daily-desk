@@ -1,7 +1,29 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "현대ENG, 8700억 원창동 데이터센터 사업 수주 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VRWp1Z3lUejE0clVpNDQxUFdweXNqTV9GQzdaTnRQUkNWRDl1MTcwR3RkUHBrOUZpU21xWE50bDlUdUpMVkdMZFlOa0tyc0ZCSFJveFFxajQ5UQ?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:49:48 GMT",
+      "summary": "현대ENG, 8700억 원창동 데이터센터 사업 수주 &nbsp;&nbsp; 한국경제",
+      "outlet": "한국경제",
+      "outletUrl": "https://www.hankyung.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-08T01:51:37.240Z"
+    },
     {
       "title": "AMD 회장 리사 수, “한국에 AI 연구센터 설립할 것” - 이뉴스투데이",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10QTlEZ2F6TG1Ec0E5cUpIal9sU2hnaWx3VThKdFZJcE1zQ0NvOWV1MXpJTk83Rk5LSGRCSFZUS2FiOWU5M3pzT1JvZUFFUENLa1Nlc0ZzZXphLXNweFFPUWRwWGYzejNTTUt4U2NGZmjSAXRBVV95cUxPMmtlZVBvU3F6UkRQMVhvY1IxYTZSLVV5b3lOSFJ1OW5xd3pycUtvSEV2ZkxsY0pOLVNTa1BaRXVuck1IQjAweGU4TDdicG12b1JkMVpsZGNITGJ3M3NnMUI5RHlaQzFyMk81RGVsQXowOHBzNA?oc=5",
@@ -2268,30 +2290,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-07T06:09:20.068Z",
       "lastSeenAt": "2026-10-09T18:46:22.187Z"
-    },
-    {
-      "title": "SpaceX to raise $40 billion for Nvidia chips as demand for AI computing surges: Report - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGJ0OG8taXVhaTF2QkdpWVJBeFM2S1FZbURBVEhGaHNOaUM3NWN5VEVKQnRUd29wM0V1Zm9rQXJENG9uTU5BdjNyT1Z5S1d1dlJhTWpvSERpZ0N5Ujd1REdzWkxxb1dHNzVzaXM2WmpYcS03WjFRZUdfUXVpdnp4V1dtVXhhUUZKaURjcGxUczRXQjJaYklZWHVlUlpqeVdsMmZ1WjdmWGRLZVRMMFRn0gG0AUFVX3lxTE52bEJRczBnNzBlQ1FzMHRWWnl5T21hVDkxeXVxUnJlcHExOUU1MlJOY2pHVV9LYWIyeHFyQVNRdlBaWFNHVUhuck92ODlOU0ZtOHg5RV80eFhVM2tnQ0x4NTZzVHZVWjVUS2l0M3hKcS1QYkpzb19PRVB3Zm52RWpJQ0pWSmlNM3ZYMFBGODJzaUl0NVZFVVJYUWs4ZmVJVi1EdnBsT19SdjQ3ZmtweFB6T2NyUg?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:36:15 GMT",
-      "summary": "SpaceX to raise $40 billion for Nvidia chips as demand for AI computing surges: Report &nbsp;&nbsp; Firstpost",
-      "outlet": "Firstpost",
-      "outletUrl": "https://www.firstpost.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-07T11:00:30.069Z"
     }
   ]
 }

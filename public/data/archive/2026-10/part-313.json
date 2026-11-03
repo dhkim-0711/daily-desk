@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "[Gen-AI Analysis] RemotiveLabs brings full-vehicle software development to Google Cloud - Automotive Industry Portal MarkLines",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yZmUyd0pXNmROY3AyVW5qeWJJYkhaa2RuVXl3Qm96aElOekNrbDZaY3V0TFQzNTJiRGFjQlN4d2pEWllpNmxJWTlvS2lQc3gzX0E?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 20:47:00 GMT",
+      "summary": "[Gen-AI Analysis] RemotiveLabs brings full-vehicle software development to Google Cloud &nbsp;&nbsp; Automotive Industry Portal MarkLines",
+      "outlet": "Automotive Industry Portal MarkLines",
+      "outletUrl": "https://www.marklines.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 23,
+      "firstSeenAt": "2026-10-08T01:51:37.240Z",
+      "lastSeenAt": "2026-10-08T11:18:21.272Z"
+    },
     {
       "title": "This AI app turns Argentina’s news into a daily audio briefing - LatAm Journalism Review",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeElSR3FnN3FMY0NxcWRLQWd6dG5qOUF1Rlk0NHg3NFJ5LUxVUmpkQUVtc2x5aG9sZExucHlqNENRZU9FVGtvNGdxYlFiSHg2bDVHUWx3d3Zmb3kyLTM0VTYtcDlRMDNCNWpaVklqQnFTRWtFcW5SSkFBTXpneksxTGItRGhyR2sxbXNhdUhVQ0FRMXVOQXV2NUg2eHhhTERieFMxU1VIazA?oc=5",
@@ -2287,32 +2312,6 @@
       "score": 15,
       "firstSeenAt": "2026-10-07T22:15:59.834Z",
       "lastSeenAt": "2026-10-08T01:51:37.240Z"
-    },
-    {
-      "title": "SpaceX seeks $40bn to buy Nvidia chips as AI spending keeps growing - The Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONXlHRXB2VzBVLXBacnpIOXlNdGlZd01aUHhRbVdxR2NRSmYybUcwa0duSmF1R0NtNDFZQmlsM0xQN1VSMW13bzdROTNMUUw3b0VLNTlpWE9MNFNiOTVQMkZhRFZ6WjRzYzdOTnA1Vm1vS1NiRDNZYk9fRW5PZ0p3OWc5Wk5JdDVmWnRTcEJ1VlI5N25hbE1QdkhPQnc?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 18:40:00 GMT",
-      "summary": "SpaceX seeks $40bn to buy Nvidia chips as AI spending keeps growing &nbsp;&nbsp; The Times",
-      "outlet": "The Times",
-      "outletUrl": "https://www.thetimes.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global",
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI시장",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-07T19:18:42.713Z",
-      "lastSeenAt": "2026-10-08T09:27:30.031Z"
     }
   ]
 }

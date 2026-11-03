@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "NeuroSpark, OCI서 AMD Instinct GPU로 AI 추론 - 토큰포스트",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sdUUyaHZqbXFUckkzSVVzTWdwN0pfVTcwdm5MaGtFcFJSUUVpYktZUWM3TUtoTHZ4MldTOFdKOWhDUG1tSTB3R0N3cGR3Z3dtWll1blRn0gFWQVVfeXFMT2x1RTJodmptcVRySTNJVXNNZ3A3Sl9VNzB2bkxoa0VwUlJRRWliS1lRYzdNS2hMdngyV1M4V0o5aENQbW1JMHdHQ3dwZHdnd21aWXVuVGc?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 20:37:23 GMT",
+      "summary": "NeuroSpark, OCI서 AMD Instinct GPU로 AI 추론 &nbsp;&nbsp; 토큰포스트",
+      "outlet": "토큰포스트",
+      "outletUrl": "https://www.tokenpost.kr",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [
+        "추론"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-24T00:03:33.173Z",
+      "lastSeenAt": "2026-10-26T06:04:07.551Z"
+    },
     {
       "title": "미국증시 '마감 직전'...반도체ETF & AMD-마이크론-인텔 '상승' - 초이스경제",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DZEV6MXBpZXJRcjQ4ZEVFTGVjV2NfamsyMVVvWGZ5Qno5SGJaRUxVS1E5SVZpSTZ4S0Z4aDZwNVM3Rktia0wtYnpUaWZZWWhkeDZ5bXJPcFBxZ1FlMk1lVl9ZaFdETUgxc0lLLUZaalrSAXNBVV95cUxQSjZvZkdTTUNzR090NzYxaWNMYW5EdHJKZ0Y4N2hFQ2FHT3BRRkZQdlpxQlROOGl4SFozSWMwQ0U1OEFYVWpwVEFTNlg5VVZLQk1wQTdWNHByMDRKTk9oMUhBZDZ1Qms1M3Yya1RFUURSV1M0?oc=5",
@@ -2227,28 +2251,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-23T17:51:18.501Z",
       "lastSeenAt": "2026-10-24T04:46:23.742Z"
-    },
-    {
-      "title": "CoreWeave Stock: The AI Demand Story Is Strong, but One Risk Could Change Everything - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeV9xZG5Vb3hZeVhmYjNRc2RhNnJKbjBuNk9GVFljTnlNaS11RENhZ0tHbWZRTnpOQVNtQkZJMVo3SnJlbWtONVNfVldiYzFuVmhiMEh1dVliNVUyUVA4Zm1jcDVIN1VwS3NOSHI1NVp0MnVqNFQxRW1wU0hYMlFYc1c4QWMxRmNyVFN4RWdBVkdsMWlIMDlLNEc2czR5Y2RhS2JXdEw5cTlxa0k1QUhTckVDYkRfWXNYWnU0TG1rVnBMTldD?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 17:30:00 GMT",
-      "summary": "CoreWeave Stock: The AI Demand Story Is Strong, but One Risk Could Change Everything &nbsp;&nbsp; 24/7 Wall St.",
-      "outlet": "24/7 Wall St.",
-      "outletUrl": "https://247wallst.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-23T17:51:18.501Z",
-      "lastSeenAt": "2026-10-26T06:04:07.551Z"
     }
   ]
 }

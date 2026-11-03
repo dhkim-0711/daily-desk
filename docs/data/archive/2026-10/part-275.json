@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "Nvidia’s Nemotron 3.5 Ships at 30B, Eyes 1T Params [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmVE54aFBmczFXdW16a2lJWVo2Q0k5RUROMlI5dGN0RGdlLVFWVEtSWk1IZm5ZdFB2NzhoUDVSNTFtMTdXZlZkdFF1TlZWWFNiZTA4VldRejByRTlERk9lVXJwbTVBblNGVjB2ZjREUXppeWJDRE5RRFlhbw?oc=5",
+      "publishedAt": "Sun, 11 Oct 2026 15:11:04 GMT",
+      "summary": "Nvidia’s Nemotron 3.5 Ships at 30B, Eyes 1T Params [2026] &nbsp;&nbsp; shattered.io",
+      "outlet": "shattered.io",
+      "outletUrl": "https://shattered.io",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-11T23:59:00.697Z",
+      "lastSeenAt": "2026-10-12T11:52:22.190Z"
+    },
     {
       "title": "[중국 특징주] 中 핀테크 기업 '탄순과기', 엔비디아 GPU 2만개 구매 - 뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XZUpmRENtdnRfNGU2YWdqcFJTeGF4azluaHp1Z2hKM2VDOXlQQWktZnE5OGY5eklyUUowMXpkSFdTU0l6S181ak1YazZCT1NMU2JjSzZ4QzR1Ukcw?oc=5",
@@ -2216,33 +2240,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-11T13:57:52.001Z",
       "lastSeenAt": "2026-10-13T03:00:06.725Z"
-    },
-    {
-      "title": "엔비디아 투자 퍼머스, 50억 달러 IPO 철회…AI 데이터센터 가치 논쟁 - 유스연합",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02dEFGSTV2RWhxelVvYkRCWHlPWmRONVRVZWNpR25NdGhpOTdmNnBvSGl3MXZUMHV6NWY4STZGV05vc2FhVDN5RHdQajBjd19PUzFz?oc=5",
-      "publishedAt": "Sun, 11 Oct 2026 10:21:17 GMT",
-      "summary": "엔비디아 투자 퍼머스, 50억 달러 IPO 철회…AI 데이터센터 가치 논쟁 &nbsp;&nbsp; 유스연합",
-      "outlet": "유스연합",
-      "outletUrl": "https://www.youthassembly.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy",
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 26,
-      "firstSeenAt": "2026-10-11T13:57:52.001Z",
-      "lastSeenAt": "2026-10-12T06:18:44.480Z"
     }
   ]
 }

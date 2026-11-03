@@ -1,7 +1,37 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "국산 NPU 133억 사업 재조정...'공무원용 AI' 내년 가동 가능성↑ - 테크M",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LYVZMLW1GNmFtLW1ISnJzbTEzNVdGSmtidWNLU1g5UTFjWk02dkNRbkhCNmJYUzlfMFcydkxHbHhLQzZkaGc3dkVvbDI1LWx3ejJ4Q2FWT1VBU2VoczNwV1gxaXVLbkY1VFHSAWpBVV95cUxNS2FWTC1tRjZhbS1tSEpyc20xMzVXRkprYnVjS1NYOVExY1pNNnZDUW5IQjZiWFM5XzBXMnZMR2x4S0M2ZGhnN3ZFb2wyNS1sd3oyeENhVk9VQVNlaHMzcFdYMWl1S25GNVRR?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 02:21:24 GMT",
+      "summary": "국산 NPU 133억 사업 재조정...'공무원용 AI' 내년 가동 가능성↑ &nbsp;&nbsp; 테크M",
+      "outlet": "테크M",
+      "outletUrl": "https://www.techm.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "korea-ai-policy",
+        "government-npu-policy",
+        "npu-commercialization",
+        "accelerator-software-ko",
+        "furiosa",
+        "local-government-npu",
+        "rebellions"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아"
+      ],
+      "issueCategory": "NPU",
+      "score": 19,
+      "firstSeenAt": "2026-10-16T04:40:54.562Z",
+      "lastSeenAt": "2026-10-19T00:29:27.603Z"
+    },
     {
       "title": "AI·반도체주 4일 새 1조 달러 증발…삼성·하이닉스 ‘직격탄’ - 시사저널",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4ZU5uTzVnVVI1dGVhNy0zR0pibEJlT1BpZkpCb3NsYmpSTXY2Um5sS0JncDlwbk9Tc0J0RC0tbVJOcGpzNjNuazBBX3A3aDlubzdDaXpNSnl2WEJkOEVMZUVPc2dFTmQ2T3ZZOUk1ONIBc0FVX3lxTE9vNlljSnpXSEczSkdwXzFyN0pSclduZWwtYVRjd0hNQ3NjQ2dQUFFRcUxZaHFnVkk1dENET29MT2xSVUQ1emt2aXd2a18wYVRjLUFtby1ac1FzaTZvQkYzclNwRmdZWWdic3FQeFVQMk1jOEk?oc=5",
@@ -2163,30 +2193,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-16T01:39:04.387Z",
       "lastSeenAt": "2026-10-19T00:29:27.603Z"
-    },
-    {
-      "title": "Google Expands Gemini 4 Argon Access, Introductory API Rates Rise After Nov. 30 - JournalArta",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT3V2WW5NQ1hZNnlpck5Yb01ldGxvOVBMYy14NkkwaGxhaFBIUEV6UjE4ZHE3a1B0ckgzNm1PLVNqM2tQRmxtMnBvTTdqb0R0RkZDV21kcHJZNXJoUVU3MjRLZHcwQldLeUFMNlcwX2k2enFKb1ExWVc2N0l6TFFYQjM4MDhLNXM?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 01:08:36 GMT",
-      "summary": "Google Expands Gemini 4 Argon Access, Introductory API Rates Rise After Nov. 30 &nbsp;&nbsp; JournalArta",
-      "outlet": "JournalArta",
-      "outletUrl": "https://journalarta.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 15,
-      "firstSeenAt": "2026-10-16T01:39:04.387Z",
-      "lastSeenAt": "2026-10-16T05:47:23.879Z"
     }
   ]
 }

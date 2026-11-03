@@ -1,7 +1,34 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "Google earnings up next: Can Cloud growth justify record AI spending? - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGZxUnJyOFFrRUN2bGU1QTZZZzJEdWV3bTE3aHh4NGpGbkY4bkw4emF5U3Rmb0M2ZVZkRWFSYlhJQkpqRW1OOFIwTUFmYkRRSXZEWmp1RndaMGFyS0dEbWk0NUlSRks2RWRqWWRKWXRXeERLNW50NWxjRnlzb3RxY3E2UlBzT2x6dU1zMTA1SnNEdUp6bE9OcU56WWhqWThZaXBxVXJpSGQzYXVKa09uby0tRjZHbURibmdNSA?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 17:02:05 GMT",
+      "summary": "Google earnings up next: Can Cloud growth justify record AI spending? &nbsp;&nbsp; Investing.com",
+      "outlet": "Investing.com",
+      "outletUrl": "https://www.investing.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global",
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 26,
+      "firstSeenAt": "2026-10-28T18:48:46.253Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
     {
       "title": "리벨리온 NPU, 쿠버네티스 분산 추론 'llm-d' v1.0 공식 하드웨어 채택 - 한국신용신문",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tVXNKVlZoNzRINUs3S01RemNBc0RRTEFjODZUTm5WU1VmMGRXeHpTeHRQcXAwclM1QWZWai1BTDA2aUM2OF85ZDhqZDBuZkp3cnU0emEzbzEzb29mQ3dFNHBFNmd5d0YwamZV?oc=5",
@@ -2260,31 +2287,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-28T18:48:46.253Z",
       "lastSeenAt": "2026-10-28T18:48:46.253Z"
-    },
-    {
-      "title": "NTT DATA Expands AI Factory Footprint with Cisco and NVIDIA - Data Centre Magazine",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTNNb0ZZbDV4OUQ4cGN4VEFXZW5Lc2YwVnZnN05uQUotU05Xb1ltdjdYdGQ5U2xiR0s3bGp2TTc5NzJLbnozWFVFQWxRRm9RVDlTbExCSl9Jdk5VbjlkNjYtVWl0U3Q4eGkwN2xIOTlpZTZiaVFUUFlscUtCQUkwSkxWTzZKZ0dGdjFoLS1kSXFXZXdDSWx1SEs2QQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 15:05:56 GMT",
-      "summary": "NTT DATA Expands AI Factory Footprint with Cisco and NVIDIA &nbsp;&nbsp; Data Centre Magazine",
-      "outlet": "Data Centre Magazine",
-      "outletUrl": "https://datacentremagazine.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 23,
-      "firstSeenAt": "2026-10-28T18:48:46.253Z",
-      "lastSeenAt": "2026-10-29T06:14:00.383Z"
     }
   ]
 }

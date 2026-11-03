@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "구글 \"우주 데이터센터 실현 위해 스타십 최소 1800회 발사 필요\" - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QWEZBeHd0SUR0OU14VTQ1NEw4NVE1SThhdUw5YlNJVzVuTjlFT1BjX0RfTFF1VXdnYjZlc2VrT0xfd3pBYkNqX3pPcEJ3VUhVQWszMDA0dk1aRmlKRk9WeVNDY0NBLUFsTmc?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 08:35:27 GMT",
+      "summary": "구글 \"우주 데이터센터 실현 위해 스타십 최소 1800회 발사 필요\" &nbsp;&nbsp; AI타임스",
+      "outlet": "AI타임스",
+      "outletUrl": "https://www.aitimes.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "Google"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-02T10:27:24.775Z",
+      "lastSeenAt": "2026-10-05T07:40:54.911Z"
+    },
     {
       "title": "과기정통부, 피지컬 AI 확산 지원할 ‘무선전력전송’ 시험장 가동 - robotnews.tistory.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UR0swdC14bHYyX2w3U0VXODRpWTZXY2N0eVRDY1oxMHQ2NHh4SklXSDhIQ09KelRxM3pSMHVqOFF6UjMtVTY3bjI0Zw?oc=5",
@@ -2488,31 +2513,6 @@
       "issueCategory": "데이터센터",
       "score": 23,
       "firstSeenAt": "2026-10-02T01:04:49.133Z",
-      "lastSeenAt": "2026-10-03T17:12:52.131Z"
-    },
-    {
-      "title": "Google launches Project Suncatcher, a step towards AI data centers in space - npr.org",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHpoSkZMSUJMOGtZbVVtY3RWVmdBVExLSkNSSjlqRmdvRnByRHhuSVhYbVhPS3RYcF9oUTY2aHVZY3FUb1o5YnVScFlmX3Z1a3ZuZHk2NmZJcmNNWmlxS09JZjh6RE0wVGI4YWFpeTZuVjM5QVdmZmpXeWl4VElrWkJxbjFBcVNSa0lXdUJ2cmpvdm8tdlE?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 18:41:07 GMT",
-      "summary": "Google launches Project Suncatcher, a step towards AI data centers in space &nbsp;&nbsp; npr.org",
-      "outlet": "npr.org",
-      "outletUrl": "https://www.npr.org",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "Google"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 23,
-      "firstSeenAt": "2026-10-01T18:49:49.722Z",
       "lastSeenAt": "2026-10-03T17:12:52.131Z"
     }
   ]

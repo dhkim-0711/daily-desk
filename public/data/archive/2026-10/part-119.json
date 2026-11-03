@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "‘Ashamed to work at Google’: DeepMind researchers quit over US military AI contracts - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84b1dET21OV0wzMWJRc1UwMTdKTFRoOUtZSHNWdWtnY09LZTcxYmFNNFIxRFp3Tl9BV1dIY1VzQlVYY28zVGFHdXdHUi1YSmg1SGJxNEtCNzJzOHRpTXBhTEluYkQ5ZkJuTjY0bQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 11:01:18 GMT",
+      "summary": "‘Ashamed to work at Google’: DeepMind researchers quit over US military AI contracts &nbsp;&nbsp; Ynetnews",
+      "outlet": "Ynetnews",
+      "outletUrl": "https://www.ynetnews.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-22T12:55:50.569Z",
+      "lastSeenAt": "2026-10-22T14:06:18.862Z"
+    },
     {
       "title": "Market Views: How should investors assess the impact of massive AI infrastructure spending? - AsianInvestor",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1VJMDFURDB3ckJIMXdCWTdXaWNnZU5vVVZxVms1MWNjRURHdGt2djBZVzgwV2lxMDBpWlpnSE5iVmV2WXlmeGN0TWI3TU1QRnRrUzMzSS0zWC1BUWdITkhDUWJ3cjZPYUwwa0taRzRJWTUxZ0hYajBOc2w4VDNYVlB2SS1uU3g2VjlkalZlVHRud0Nqd1lwaHZ1LWNNUWVpQUJQcUpGMXBWTkp1UDdmcnJOc1F2TXpJRHIyMHRveGE1MWM?oc=5",
@@ -2277,33 +2301,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-22T12:55:50.569Z",
       "lastSeenAt": "2026-10-23T07:56:19.361Z"
-    },
-    {
-      "title": "Supermicro Introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% Liquid-Cooled Rack-Scale Solution, Complementing the NVIDIA Vera Rubin Platform, for Agentic AI at Scale - The Malaysian Reserve",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPUXZJd29fbmpqUWFaMHZ1a1NzaUhGd3h4SUx5Y1J0MXZ4a2M4b1c0M0prN1o4N2xwSWFXZDM4eGVneXlTWkFzNVl2OEhoMUpPT2hWOWRmR1B2X2R2NTFvWjlnYTZVZFJhNXpTVzFkWnRzVUlwV0tvTHFkOHBjdXZYcWgycm53SndBSzJTR2g3X0d2cHNrWVhSQ2RZMjFsRHRPVUp1WkZsdkMyd2hHNjJfY29wZlpFcW5lQ2VxaVF5TWRodU1uRWJOdlQ1QmNOOUVNY2xTbWFkZjl4dTRrekJ1ZElPcjg2VEhQUHZFdEo3ZW1uUUJEVllSb3F2RmVyUERoRWpUenlxTk5PUE1VR1Fwdlk3X0c4LTBtUXdmV1RUMWpZQWFNSUpXNHpmR0xib0JF?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 09:16:47 GMT",
-      "summary": "Supermicro Introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% Liquid-Cooled Rack-Scale Solution, Complementing the NVIDIA Vera Rubin Platform, for Agentic AI at Scale &nbsp;&nbsp; The Malaysian Reserve",
-      "outlet": "The Malaysian Reserve",
-      "outletUrl": "https://themalaysianreserve.com",
-      "source": "가속기 운영 SW",
-      "sourceIds": [
-        "nvidia-ai",
-        "accelerator-software"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 24,
-      "firstSeenAt": "2026-10-22T06:03:45.371Z",
-      "lastSeenAt": "2026-11-01T07:27:17.206Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "구글, '제미나이 4 아르곤' 전세계 출시 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CSUExWl9Ob3JHc2pGTlZGbDQ0RFIzd1ExbXFOTWFldUZyd3haRzhXWk5MU0d0UjZQUGhDNnV0SDFVQU5RTUx2WDF1VHJCc2tKZ2NrNS1ZYVAyUQ?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 00:37:01 GMT",
+      "summary": "구글, '제미나이 4 아르곤' 전세계 출시 &nbsp;&nbsp; 파이낸셜뉴스",
+      "outlet": "파이낸셜뉴스",
+      "outletUrl": "https://www.fnnews.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 15,
+      "firstSeenAt": "2026-10-14T01:10:06.419Z",
+      "lastSeenAt": "2026-10-14T08:01:13.947Z"
+    },
     {
       "title": "KT, 최대 800Gbps ‘AI 전용회선’ 출시…데이터센터 초고속 연결 - 마이데일리",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10OFFISXZsaExGNTg5emFxTVVJNGFnRS1rcWRHZERjZVpvOU5Wd0tYeThnYUdwcXljOEdQUjd3VU8wNk9lNHloWnFpbWJOd2N5WFdvQk5GTFhrZUZIWnR4TA?oc=5",
@@ -2188,27 +2212,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-13T23:25:54.248Z",
       "lastSeenAt": "2026-10-15T05:51:00.880Z"
-    },
-    {
-      "title": "1560조 '생산적 금융' 푼다…삼정KPMG \"민간자본 유입 생태계 만들어야\" - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OYmJ2Tjh4ZlZFbXJUbTRYUjJwcWR1QmRyVEJpM2ZJUUg1SmcwanBuT0FSdUJfRnItU2xDbEp5YVl4bG91cU5PdkZfNmh1dFlxT2tTTW53YjBxTkhEZ01NUThvSThxRWFlUHdELU1TWXVoUQ?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 23:13:00 GMT",
-      "summary": "1560조 '생산적 금융' 푼다…삼정KPMG \"민간자본 유입 생태계 만들어야\" &nbsp;&nbsp; 이투데이",
-      "outlet": "이투데이",
-      "outletUrl": "https://www.etoday.co.kr",
-      "source": "AI반도체 정책금융·집행",
-      "sourceIds": [
-        "ai-chip-policy-finance",
-        "government-npu-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-13T23:25:54.248Z",
-      "lastSeenAt": "2026-10-16T23:01:15.288Z"
     }
   ]
 }

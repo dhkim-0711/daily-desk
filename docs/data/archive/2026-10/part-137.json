@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "CrowdStrike, 엔비디아와 AI 에이전트 보안 협력 확대 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wdW14dGxheGJhU1U4XzN6d1ZYQ3ZaYXNLcHNRcWVGNU9SYV82bDJpYU9wRFV3azBLWGZEVUVFNjY4QXU4bkVQQXU5aS1Rd1htTUt5UFBnREo2S0phRDFXTHdtQXJFc3hyazBqSVl2WUw?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 11:37:00 GMT",
+      "summary": "CrowdStrike, 엔비디아와 AI 에이전트 보안 협력 확대 &nbsp;&nbsp; Investing.com 한국어",
+      "outlet": "Investing.com 한국어",
+      "outletUrl": "https://kr.investing.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 23,
+      "firstSeenAt": "2026-10-21T15:36:47.115Z",
+      "lastSeenAt": "2026-10-21T22:44:58.342Z"
+    },
     {
       "title": "Supermicro Brings NVIDIA Aerial RAN Computer Solutions to the Network Edge with Nokia to Enable Low-latency AI Services - Supermicro",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMXd6X2M1SDNWY09KYXh5MEhFeXUwMzZMS25xLXdFUzVleGVPRE82Q1VWMnhnWTkxUGl6bVJVVzloZ0FESFc2VzR2SndXMWFiRXFRaHVOd0o1M1lLUGFTWkF1N2dfWkcydXhaTGJMUm0tdzVISDdVbklBVDZiSEtZeGRVeDJxREhoQWctSWFOR1VuakY0VFJDd2Jpc21aMEtiNDJOTUJDV3Nzb2VyQXNyTGh6RmwzX1MtQ0J5ZmJIa08wRnNLT05WUGZIWVVaTU5jMk1Xdk9IQy1pWGNpRFNnRXpYYnBSMUUtSTlVQ3IwMTlwZVBNUnBPdkhHN3FfLVd6QUVFMk5qT0tsRFVJUEE?oc=5",
@@ -2435,29 +2460,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-21T17:59:30.941Z",
       "lastSeenAt": "2026-10-21T17:59:30.941Z"
-    },
-    {
-      "title": "AI 데이터센터 전력망 규제 강화 움직임…\"기존 투자 보호해야\" | - 팝콘뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hbUo1YlRoZVJtZzFwdV9sdzJKbjIta2JvMzB0alI4WmlFZEFpWklpcDlXaktldEVPbHlKVUp3M01fX1ROVHF1dFJjZllsZVM3UTlJcUQzMElyX2laWTdRTXhsaEFaenpXalBPeWozSnRTUQ?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 11:05:11 GMT",
-      "summary": "AI 데이터센터 전력망 규제 강화 움직임…\"기존 투자 보호해야\" | &nbsp;&nbsp; 팝콘뉴스",
-      "outlet": "팝콘뉴스",
-      "outletUrl": "http://www.popcornnews.net",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-21T12:53:16.803Z",
-      "lastSeenAt": "2026-10-22T06:03:45.371Z"
     }
   ]
 }

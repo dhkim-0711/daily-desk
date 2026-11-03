@@ -1,7 +1,34 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "삼성전기, 美엔비디아 AI 기판 공급망 확보…세종·부산에 공동투자 - 서울이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vZGlpaFhTX05oempzY2VtZGJpSjJ3U2V4MnpvcHpJWm1YalNOemFEeEdyalprYlg0aGs0VnlqelNLR0JmeHpYZUxPenlTTWJTRFMzRFNuWTVCcjdxMm9WMjlic2J5dEdwWEVTV293?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 01:33:55 GMT",
+      "summary": "삼성전기, 美엔비디아 AI 기판 공급망 확보…세종·부산에 공동투자 &nbsp;&nbsp; 서울이코노미뉴스",
+      "outlet": "서울이코노미뉴스",
+      "outletUrl": "http://www.seouleconews.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "수출통제·공급망",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 26,
+      "firstSeenAt": "2026-10-22T01:51:21.284Z",
+      "lastSeenAt": "2026-10-25T00:16:47.040Z"
+    },
     {
       "title": "[HBM 주도권 전쟁] \"너무 비싸 못 쓰겠다\"…빅테크, '금값' HBM에 대체재 찾고 공정 일원화 - CBC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40Wmh3ZU50cjdka3JCak1wOFNuUC1oUFA5aGxFY0pWSnplWmJTSVc4T1ByUDEyOTYxcG9qYWExT3drem1LY2M3bTl6cUl1c0xFMEZVZVQtZ2w1eklzaGU1T04tNTdGMnRG?oc=5",
@@ -2255,26 +2282,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-22T05:11:37.149Z",
       "lastSeenAt": "2026-10-22T07:57:53.219Z"
-    },
-    {
-      "title": "세종대 백성욱 교수팀, '설명 가능한 AI'로 생활인구 예측 기술 개발 - 팝콘뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BNlZhRmNGaWpCaEdmdWVIX1ZWbDdzMFhlQXVpS1ctUF9Xc0RxZlZVNTVtQm8ybXlEaHQ1X3JjMWU1TGtQcFk0XzZFLVgxTmpDdXk4Q1NSRzRYLXRiXzNMaUlWTzJZNHcyMV9NT05R0gFyQVVfeXFMT1VJWkRHZF90bklSU29vYjdXSjl2ajgyQnJRdFAteTRNSnRCSEhnemVkYWhUVndSN2R4NlpnNVFpenZWUlJLZFZsYkFtZHNNdm1BTlc1NkNZOVNFQzFMUlVmUkdNZS1IbUhURnpqZ1hqWVJR?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 00:37:55 GMT",
-      "summary": "세종대 백성욱 교수팀, '설명 가능한 AI'로 생활인구 예측 기술 개발 &nbsp;&nbsp; 팝콘뉴스",
-      "outlet": "팝콘뉴스",
-      "outletUrl": "http://www.popcornnews.net",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-22T22:45:34.762Z",
-      "lastSeenAt": "2026-10-25T00:16:47.040Z"
     }
   ]
 }

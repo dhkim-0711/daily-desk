@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "Google launches Project Suncatcher, a step towards AI data centers in space - npr.org",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHpoSkZMSUJMOGtZbVVtY3RWVmdBVExLSkNSSjlqRmdvRnByRHhuSVhYbVhPS3RYcF9oUTY2aHVZY3FUb1o5YnVScFlmX3Z1a3ZuZHk2NmZJcmNNWmlxS09JZjh6RE0wVGI4YWFpeTZuVjM5QVdmZmpXeWl4VElrWkJxbjFBcVNSa0lXdUJ2cmpvdm8tdlE?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 18:41:07 GMT",
+      "summary": "Google launches Project Suncatcher, a step towards AI data centers in space &nbsp;&nbsp; npr.org",
+      "outlet": "npr.org",
+      "outletUrl": "https://www.npr.org",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "Google"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-01T18:49:49.722Z",
+      "lastSeenAt": "2026-10-03T17:12:52.131Z"
+    },
     {
       "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnl0RGo0clZVWk13V2ttZGw4TlI2aTB0OTc5UzYyblgydGtBd2I4SWxqTUJ6VWtUcEhvbjdUUnRTUHJpMW0yaU5PX1VpUzRqMlVjc3RPVEQ5dk42UjJ6cDZDRE01Z2I5V1dManlFOW5DeVA3Q1VWS1Z5NzVtb1JJc2xDNmRfYWswYlRGczVXSFRxVzZyX1dJcVFXZ01xSGV6Qmpj?oc=5",
@@ -2304,28 +2329,6 @@
       "score": 26,
       "firstSeenAt": "2026-10-01T01:15:07.705Z",
       "lastSeenAt": "2026-10-05T01:16:44.257Z"
-    },
-    {
-      "title": "Nvidia pushes full-stack AI agent security as OpenAI sits out partner roster - digitimes",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmkxVExBQjRiNEx1UEt0alNsVDJubGdJSVRQYWc1U1J0M3RKaVN4a2YzbzNBdloycVluTFluQ1lFTkIyMFBTT3hUaU5jX3NFOEhXcFdDSENUZFpuT2diQmVSVkFZNmppN1JSQUdfQkl5WmZvT3FRalVpSHZXQVlRckJtUTdRNnR3VE1sX21LelZkM2Exc0lUZw?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 00:05:26 GMT",
-      "summary": "Nvidia pushes full-stack AI agent security as OpenAI sits out partner roster &nbsp;&nbsp; digitimes",
-      "outlet": "digitimes",
-      "outletUrl": "https://www.digitimes.com",
-      "source": "AI 서비스·클라우드",
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-10-01T01:15:07.705Z",
-      "lastSeenAt": "2026-10-01T18:49:49.722Z"
     }
   ]
 }

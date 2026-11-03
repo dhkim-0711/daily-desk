@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "Nvidia Pledges Millions To German Startups Under $10 Billion European AI Initiative - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mbE9vNk9YTTdqVkVNekdwOFBEZ3BmNVloZ1B4UVg5WXJaeFQ4R0RUOUFXOV9MdldVWC11ekdtbTJNU0VLUWplQU5CTVBsYWlfZlRuMWpWWU9IeVBINGZoRm5acjh6ZS0tc0xUQ0FwajY3V0dFUTBzRGVoUmIxbDA?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 15:00:00 GMT",
+      "summary": "Nvidia Pledges Millions To German Startups Under $10 Billion European AI Initiative &nbsp;&nbsp; TIKR.com",
+      "outlet": "TIKR.com",
+      "outletUrl": "https://www.tikr.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "nvidia-ai"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-20T17:31:30.433Z",
+      "lastSeenAt": "2026-10-21T00:34:26.486Z"
+    },
     {
       "title": "Oracle’s Fusion Claw Brings Governed Autonomy to Enterprise AI - Cloud Wars",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVJUMUxyQk1XQmZhQUo0YWZyYlJZTXRxSTlJbTB5dUpVeXFYOWZ0WjhfU1FoVUtDQ2dNNW5fbXlqTVpucElTOGU4YWVhaXd4Y1I4ODZTekI4cTdhaXZJemR0X0VKRUV2aFhTMVFCNXR3UXRWOEIxcHBSTEZyMGZ6THdGWjAzcnExVEJZRVVtZTY?oc=5",
@@ -2237,28 +2262,6 @@
       "score": 13,
       "firstSeenAt": "2026-10-20T17:31:30.433Z",
       "lastSeenAt": "2026-10-20T17:57:30.297Z"
-    },
-    {
-      "title": "vLLM Disaggregated Inference Gets Push KV Transfer, Slashing First-Token Latency Three Times - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMjlyal9IUWw4aGYtNzc3TWNIMkRUa2NrRXpsOTMwNVRLcTVkUDd1eG16RUJSY21CZ2RvRzN6QjBUakxtZlBXcXhRT1pnaVNOM2tZd003Z2h5R0IweV9xNV9lQTFHR1VZektEZDNVa0MwSWF6REJZU2ZDTWZjVzRjX2pmazdjNFZIeGtYemFYVDdXeGtobUNNNVNPX3A3X1Z6ZWdrM2ZxdGdzemxWZFJZb2JTMWtVZ3hkdEpUSHIyX3NsRS1XNlR1VHdvZTZoX0VUY0JaN1ltaUtLbTdLQUdB?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 13:38:41 GMT",
-      "summary": "vLLM Disaggregated Inference Gets Push KV Transfer, Slashing First-Token Latency Three Times &nbsp;&nbsp; Tech Times",
-      "outlet": "Tech Times",
-      "outletUrl": "https://www.techtimes.com",
-      "source": "가속기 운영 SW",
-      "sourceIds": [
-        "accelerator-software"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "추론"
-      ],
-      "issueCategory": "추론",
-      "score": 16,
-      "firstSeenAt": "2026-10-20T17:31:30.433Z",
-      "lastSeenAt": "2026-10-23T12:35:23.942Z"
     }
   ]
 }

@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "Infineon and Nvidia to develop gallium nitride power conversion tech for 800VDC data center racks - Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEJkZjJldDBpX3FLYXRlaDJJVHloNE1rdHFIdHJ6WTc1SllaSTZJWTU2QjFJd0xIemFOVHJNYVA5M2JkRUpYakJMeVJoX09pd1pwbm8yWXB1WVRZNW9IeG1zWGFrNFI1MmMtQ2R2aVlpLXZKSXFNamluNVo0N09CV0EyUXZpSFdETktKaGd5QUVCMzlTb2xKcC1pMnBqTVpxOTZyQWZXZndyRnA3Z2lsdXhPMVFhS2pHZm5Hd09GaHNTaXRNNnR3aWFLS2h6VjBqVWNjcmxITjg?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 12:33:18 GMT",
+      "summary": "Infineon and Nvidia to develop gallium nitride power conversion tech for 800VDC data center racks &nbsp;&nbsp; Data Center Dynamics",
+      "outlet": "Data Center Dynamics",
+      "outletUrl": "https://www.datacenterdynamics.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 18,
+      "firstSeenAt": "2026-10-22T12:55:50.569Z",
+      "lastSeenAt": "2026-10-23T00:36:22.880Z"
+    },
     {
       "title": "Agility Robotics Standardizes Digit 5 on NVIDIA IGX Thor Compute - Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRkZoYmQtWk1TZWlCREE5UzJVXzNQdko2UlpucHFPVTVYTm0wMjN3OGk3VmdWTVRHZmVVSXQ4b2NUMTBxQnpsOHNVZWkzYU1oVWZPXzVRYVNuOGFzNTRQQWZzYVAxRmt1blpRczV0MHpoc3lRdzNJR3AyN2pvYWVsNHpuVnp3Mi1iZlVNNEg3UQ?oc=5",
@@ -2268,30 +2293,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-22T12:55:50.569Z",
       "lastSeenAt": "2026-10-23T07:56:19.361Z"
-    },
-    {
-      "title": "‘Ashamed to work at Google’: DeepMind researchers quit over US military AI contracts - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84b1dET21OV0wzMWJRc1UwMTdKTFRoOUtZSHNWdWtnY09LZTcxYmFNNFIxRFp3Tl9BV1dIY1VzQlVYY28zVGFHdXdHUi1YSmg1SGJxNEtCNzJzOHRpTXBhTEluYkQ5ZkJuTjY0bQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 11:01:18 GMT",
-      "summary": "‘Ashamed to work at Google’: DeepMind researchers quit over US military AI contracts &nbsp;&nbsp; Ynetnews",
-      "outlet": "Ynetnews",
-      "outletUrl": "https://www.ynetnews.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-10-22T12:55:50.569Z",
-      "lastSeenAt": "2026-10-22T14:06:18.862Z"
     }
   ]
 }

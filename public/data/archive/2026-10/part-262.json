@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "NVIDIA’s 9-Year-Old Tesla V100 Still Packs Some Inference Muscle; 4 GPUs On An NVLink Board Can Outperform M5 Ultra, DGX Spark In Various AI Benchmarks By Up To 230% - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjAwMVZXLW1PTFo1MEMyeVNuVklqVWt0cUxDUDc2NXM5aGlzdGdudWNBRm15UTBSX0dhWmZNWGJLUXFHcDhjODNhZlFlY29XMjRwcTJ4T0xsUS1raFBhTnVvajZEN00yNUk3cURqMWtsR1p0WnZuS2FNRllBbkhsWTUzUXh5cUJ1OWfSAY8BQVVfeXFMT29hczFyYnczN1NOSmk1V1JfLWpvMmVSZGVSamVoa1pvb3U2NlR5bVlodEZ1Wmdhb2FZSUhZWTM5ZjNfNThMbVFWRmJWclYydzdBTi1VdUJUQjM1azhSY09SMWk5Sy1JXy1HMkg5ekRxcTVkOFdXMUh1a0t2VmtGWVdJdy04azNSSDZTVDh4THM?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 12:01:13 GMT",
+      "summary": "NVIDIA’s 9-Year-Old Tesla V100 Still Packs Some Inference Muscle; 4 GPUs On An NVLink Board Can Outperform M5 Ultra, DGX Spark In Various AI Benchmarks By Up To 230% &nbsp;&nbsp; Wccftech",
+      "outlet": "Wccftech",
+      "outletUrl": "https://wccftech.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "추론",
+        "NVIDIA"
+      ],
+      "issueCategory": "추론",
+      "score": 23,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-12T23:13:29.308Z"
+    },
     {
       "title": "Loops Raises $3.5M Seed to Connect AI Search, Shopping Assistance, and Retail Data - Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RRVIwMThwaDhJVTNoUmJld0swckhXMGNhVmtWMDczUHlFRU5TV0Y1NDNQWTVCd3lQbGlMN3gzbjlKOFBMWEVXVFZzYlh2c1JsTmwwZmd6cG02SF8yalE?oc=5",
@@ -2218,26 +2243,6 @@
       "score": 23,
       "firstSeenAt": "2026-10-12T11:52:22.190Z",
       "lastSeenAt": "2026-10-13T03:00:06.725Z"
-    },
-    {
-      "title": "어디까지가 한 라운드인가요? 토토로 네일아트 규칙 질문 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SbnRaYU5fMWhydnhjU1ZoUVMyS1lpVEpNZThkV1VoNEk3R3FMMlV3aU0zZW1OMUtIWjlQUldwODZCRzI0Y3BLaTg4bTN3NDFMMldUWUFRWHptTGhfTXB2X1ZTajI3NmF1dmh5ZnpLQUlqWGF4?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:28:43 GMT",
-      "summary": "어디까지가 한 라운드인가요? 토토로 네일아트 규칙 질문 &nbsp;&nbsp; Calgary Roughnecks",
-      "outlet": "Calgary Roughnecks",
-      "outletUrl": "https://www.calgaryroughnecks.com",
-      "source": "국산 NPU 실증·협력",
-      "sourceIds": [
-        "npu-commercialization"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-12T23:13:29.308Z"
     }
   ]
 }

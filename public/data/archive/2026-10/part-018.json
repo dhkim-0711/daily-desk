@@ -1,7 +1,38 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T06:57:50.818Z",
+  "updatedAt": "2026-11-03T07:07:08.733Z",
   "articles": [
+    {
+      "title": "포커스에이아이, 딥엑스와 국산 NPU 기반 AI 서버 양산 협약 체결 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14T2Q2RG5VRW80a0tGc0RadFpjSU8yaDNLYmgwdHZobUhScVAzdW50eUdQTURwME5qR1M5cnVGSHZVcEUtcm1HQWZrbFB1bkNYZ2hfOUhxVlpGWkRwdDhndVJUTmVVUUF6dlV5ZDhwdW1jRXVYcGfSAXtBVV95cUxPMzFHSzI3NlhrTXVWR1d1bS1Gdk5mVmRFVXk4cDk0RE1hS2FvaEMtVC1sMkNIU1pxc3BGc2xEc19xY2daVGI5XzZyYTVkTjdUeTVlekc3Y3F3QzFuSnZtbWtGOE43Qk1qcWdRTWo4V0kzT19aZF95UEwxSDg?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 04:18:28 GMT",
+      "summary": "포커스에이아이, 딥엑스와 국산 NPU 기반 AI 서버 양산 협약 체결 - 머니투데이 &nbsp;&nbsp; 머니투데이",
+      "outlet": "머니투데이",
+      "outletUrl": "https://www.mt.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "deepx",
+        "npu-commercialization",
+        "public-regional-npu-demand",
+        "accelerator-software-ko",
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 26,
+      "firstSeenAt": "2026-10-30T05:59:09.837Z",
+      "lastSeenAt": "2026-11-02T01:28:59.868Z"
+    },
     {
       "title": "현대차그룹, 새만금 9조 AI 밸리 본격화…데이터센터 착수·현장사무소 개소 - 전자신문",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXNE5wVTgwSHZmVm4tM1RVVlR3TVIzdk9GNnBIV2ZId1ZFbVlVdWZGZlZpc3NHMVVxRm53cXQyQ1AyYVZueUFwVDl4TzhvUQ?oc=5",
@@ -2185,31 +2216,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-30T05:59:09.837Z",
       "lastSeenAt": "2026-10-31T06:06:59.265Z"
-    },
-    {
-      "title": "ASML vs. Nvidia: Who Really Captures the AI Chip Boom? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGltbXc1aTdfR0pWSUIzSUsxUDgyZE9ubHkwQUdpOEd4aHcySkFfNW43ZDdMMkV5a1ZIZVFjYzRKQmx2TmFuNUZ2T2tVdGRmWjJqbmpXZEh5S1ZsOTNvMElTUUpZV0lsWkRFaTZ4R1JzQ2F2ODBIMGNabG5nMTNQYUVXX2szUXYxMU50NTQyb2hYR3RzOTBMeFk1ejNpaDdiWWc?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 02:45:43 GMT",
-      "summary": "ASML vs. Nvidia: Who Really Captures the AI Chip Boom? &nbsp;&nbsp; The Motley Fool",
-      "outlet": "The Motley Fool",
-      "outletUrl": "https://www.fool.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai",
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-10-30T05:59:09.837Z",
-      "lastSeenAt": "2026-11-02T01:28:59.868Z"
     }
   ]
 }
