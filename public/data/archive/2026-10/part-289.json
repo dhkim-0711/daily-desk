@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "Google, AI Slop, and the Future of Bug Bounty Security Programs - Cloud Wars",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHRGRVl2TGtYRWwxeWFfNVZLRld3VU81aWtGZXBhY3ZwWll5bVpMNFRhbE5ka3FYU1ZhZ1RpMU5MWTA0eHhZUFFDaHcxbXRFMjdaM0lHVmRETzFlQUpGaDZFblNCdC16cjNnMko5bWdZdVRfRWlVd2o3X1BOb2ZEUDVYT2xibmx2QkZzNC0ydjJqcjYxSG9ia011Yk51eHo5cXhrSEFXLV8?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 12:00:00 GMT",
+      "summary": "Google, AI Slop, and the Future of Bug Bounty Security Programs &nbsp;&nbsp; Cloud Wars",
+      "outlet": "Cloud Wars",
+      "outletUrl": "https://cloudwars.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 23,
+      "firstSeenAt": "2026-10-09T16:34:18.478Z",
+      "lastSeenAt": "2026-10-12T11:52:22.190Z"
+    },
     {
       "title": "Assort Health and Nextech to Codevelop Integrated AI Agent Offering for Ophthalmology Practices - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOajRYbi1fVi1KSXRUeW9Sd19lcS1TTzlITjg3S1kxaEhFeUpaUWhxRnJmMW9Zc0x3MUZ1WTcwNE5pNHBuZmNrVEd2ZnVObzdOamdwYW1rMDQtUDFQNVp6OF9oLXFRZjlhVktHcHJKdnlqaHBIOVF4NERuSTR2TGQyaDBsaTc4X1B0S20zMnV1WU95VHhtNHhvTkd5UmZzSGJrZklGWUdadk5TYzVrLTE3OENrcno2Tl9WdFZiWmVSWVphYmhBLWZ6VzFTT2dSSjdyRTNLQ1A3cktCdUhJSlFabGpFWmdTdw?oc=5",
@@ -2271,32 +2296,6 @@
       "score": 7,
       "firstSeenAt": "2026-10-10T10:33:34.677Z",
       "lastSeenAt": "2026-10-12T06:18:44.480Z"
-    },
-    {
-      "title": "Google’s New Gemini Agent Works Inside Microsoft 365. Can It Add to Google Cloud’s Growth? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnpqa0FyVm1KM2hCX1VtX0M1UnRma1Nxb3ZnT2stRFhEaG1xTGRoWFN5dUdvTkltZXRuRFc5RmNxWXdray1NUVhIZ2FQc1JtWFJnMTBFRjlxSVpyQXVfZUMtMXZSbmdSZ2lkdXlpYmRjSkpRdlA5RjFOa2s3ZnRWT0w5U1R6TmhtQmI2UjZfNFE3djBRYzd0bzltVDE?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 09:57:48 GMT",
-      "summary": "Google’s New Gemini Agent Works Inside Microsoft 365. Can It Add to Google Cloud’s Growth? &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 26,
-      "firstSeenAt": "2026-10-09T18:46:22.187Z",
-      "lastSeenAt": "2026-10-10T17:48:08.857Z"
     }
   ]
 }

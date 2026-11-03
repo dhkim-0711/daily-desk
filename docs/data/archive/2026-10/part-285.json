@@ -1,7 +1,27 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "코파일럿 하이브리드 인텔리전스, 코파일럿+PC 아니면 못 쓴다 - 디지털포커스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MWGJlSV9uRG1YQW10TEEzaUwyRGExOGhPenlNX214ZUhWRWt0a1g3c1hlM01fOWpHRkRvWGZCTTBEcWowY3lyamVzYUNFNTZFRmpOYVNKcWhGMDJUSUNmZWM3VWM4R2hKdy1iY0V1WUs?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 23:35:46 GMT",
+      "summary": "코파일럿 하이브리드 인텔리전스, 코파일럿+PC 아니면 못 쓴다 &nbsp;&nbsp; 디지털포커스",
+      "outlet": "디지털포커스",
+      "outletUrl": "https://www.digitalfocus.news",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 6,
+      "firstSeenAt": "2026-10-11T23:59:00.697Z",
+      "lastSeenAt": "2026-10-12T23:13:29.308Z"
+    },
     {
       "title": "$20B OpenAI Annualized Revenue Discrepancy: NVIDIA Share Price Drops Nearly 3% - 36Kr",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XQTBpMzIxcjZiSDRmcjB5TktqSEwzLVFqdEZJNVFSMzIwZTJMR2w4ZlpZZ1dNbmUwQU9ON1VVZUVORV9USVNjQmxCbFRXNkt5eXJv?oc=5",
@@ -2177,31 +2197,6 @@
       "score": 23,
       "firstSeenAt": "2026-10-10T01:14:57.972Z",
       "lastSeenAt": "2026-10-10T14:44:04.169Z"
-    },
-    {
-      "title": "엔비디아, 오픈AI 매출 우려 지속에 주가 약보합 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xZW1VVEIyb3ZWVnBLTEFFNXhkSGxJd21jRkNtR3hxX3FCWTF6U1ZuNjNmem9JUURLQ1c0Y1BCLUd4NGN2MWlHTUhyOXB0QzNIVWRaaUNTV3JuTVp3VVExTE5zTjNScVVrVWtkSXFnQlNHYjA?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 19:55:40 GMT",
-      "summary": "엔비디아, 오픈AI 매출 우려 지속에 주가 약보합 &nbsp;&nbsp; 마켓인",
-      "outlet": "마켓인",
-      "outletUrl": "https://marketin.edaily.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI시장",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-10T07:44:52.668Z",
-      "lastSeenAt": "2026-10-10T07:44:52.668Z"
     }
   ]
 }

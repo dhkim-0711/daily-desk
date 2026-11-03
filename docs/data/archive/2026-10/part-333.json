@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "엔비디아, DGX 스파크 64GB 공개... 로컬 AI 구축·확장 지원 - 미디어픽",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wWTN5VlpXTGNfM3pjYU5nTWFLOFBISWxza205UWFMTGNHc2ZKZmhDZ1FNMmppem1PdmlmUW1RbzItRUd3cXdtODhGR2lKd2JrYUptdEZxbFU5TW4tOHlBNGJLTERkTklGSFpr?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 15:23:53 GMT",
+      "summary": "엔비디아, DGX 스파크 64GB 공개... 로컬 AI 구축·확장 지원 &nbsp;&nbsp; 미디어픽",
+      "outlet": "미디어픽",
+      "outletUrl": "https://www.mediapic.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-06T17:25:04.264Z",
+      "lastSeenAt": "2026-10-07T01:28:36.011Z"
+    },
     {
       "title": "OtterlyAI Releases Study on German AI Search Citations: 64.9% Linked to German Addresses - markets.businessinsider.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNelQzRkxNN05ranBPMjllbHZBeWFqeGMwRHU2bHNHRjY1amdHVFZUMjNPOFV0R0xEV3poQUlreXpKaE43cVRjN1NxN2prMlBBX2NoTzFMNW4wNXBxZ0dIdDkxMXpBYUVpeTV2QmZDTDVrSFdLVmZQTkdZYjNYUkVBdmJSeUlOVkpUdWhNVHRVUTZUMlpXTVJ6eUhWYmc5U2hqNTBkYXowWFR1eGN4OWUzUV96eVBwZkVqNmFmaFRUY1JUaEdtM0pkX2FzelluQktmeGRLOWNTS1RreWUwUGc?oc=5",
@@ -2232,28 +2256,6 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-10-07T09:15:20.365Z",
-      "lastSeenAt": "2026-10-09T11:16:32.130Z"
-    },
-    {
-      "title": "Deploy AI agents on Kubernetes: Move from Ollama to vLLM - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40Y0M4OTVwbzZtSW1Md3VnQmljV0I1b0FCX1NkbnFhLV9TZ3FTUzZ4dm96Z0pGdkEtWHc1M0ZDb01NQQ?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 14:00:02 GMT",
-      "summary": "Deploy AI agents on Kubernetes: Move from Ollama to vLLM &nbsp;&nbsp; YouTube",
-      "outlet": "YouTube",
-      "outletUrl": "https://youtu.be",
-      "source": "가속기 운영 SW",
-      "sourceIds": [
-        "accelerator-software"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 15,
-      "firstSeenAt": "2026-10-07T19:18:42.713Z",
       "lastSeenAt": "2026-10-09T11:16:32.130Z"
     }
   ]

@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "엔비디아, 오픈AI 매출 우려 지속에 주가 약보합 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xZW1VVEIyb3ZWVnBLTEFFNXhkSGxJd21jRkNtR3hxX3FCWTF6U1ZuNjNmem9JUURLQ1c0Y1BCLUd4NGN2MWlHTUhyOXB0QzNIVWRaaUNTV3JuTVp3VVExTE5zTjNScVVrVWtkSXFnQlNHYjA?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 19:55:40 GMT",
+      "summary": "엔비디아, 오픈AI 매출 우려 지속에 주가 약보합 &nbsp;&nbsp; 마켓인",
+      "outlet": "마켓인",
+      "outletUrl": "https://marketin.edaily.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-10T07:44:52.668Z",
+      "lastSeenAt": "2026-10-10T07:44:52.668Z"
+    },
     {
       "title": "NVIDIA cuPhoton accelerates scientific image analysis ... - eeNews Europe",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xTjY2elZTX2l4X3NRdDh5ZXgzUVo3Y2NTQndlTVA0X0xfM25MdVFYSExKT1pRNkkzUXRnZlp4YTFBNGxlaEZoOVg0UmZVQk92bEd1UEJjOWtHQUZmTUFZQjJ5cVVBMGxHTjVuVTk0VHhiVnpvbTl3UVhMdlNOYW8?oc=5",
@@ -2221,31 +2246,6 @@
       "score": 13,
       "firstSeenAt": "2026-10-10T01:14:57.972Z",
       "lastSeenAt": "2026-10-12T16:06:06.831Z"
-    },
-    {
-      "title": "Google Gemini Agent Puts the Agent Ahead of the Model - The Futurum Group",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdFA4MWN3ME1TUlJJWVpBVGZDcmdCUll0d0ZTOC1MUDZSZHVQcThGSnlOR2VfTG5WekJmRmx6Y0dTb05teTFPdGV6bVh6UFM4MmJLMkFqcXl2OEMtRVMtTW1mOEJtRlc3em1WZUItXzFtcjZvSmJwQmJZVWJ5aUg4UmI0dUlXeVVmUTA0R0huWGwtdw?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 16:21:41 GMT",
-      "summary": "Google Gemini Agent Puts the Agent Ahead of the Model &nbsp;&nbsp; The Futurum Group",
-      "outlet": "The Futurum Group",
-      "outletUrl": "https://futurumgroup.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "Google"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-10-09T18:46:22.187Z",
-      "lastSeenAt": "2026-10-12T11:52:22.190Z"
     }
   ]
 }

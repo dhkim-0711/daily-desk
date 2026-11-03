@@ -1,7 +1,29 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "예보, 네이버클라우드와 공공서비스 AI 적용 추진 - 폴리뉴스 Polinews",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qcURXaVVzTWZZOHlwVmM0YkVqdnV5M3owcFpaUVFmRGhkOXpBQzZkdThCYlNEa2QtV1hCOTRGTUtPMlJyMXJJSXhQWlhsbC1OVjUzcXo3bG90UHdpWldKbUg5OUdLOXJKOXZXdXVB?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 05:56:55 GMT",
+      "summary": "예보, 네이버클라우드와 공공서비스 AI 적용 추진 &nbsp;&nbsp; 폴리뉴스 Polinews",
+      "outlet": "폴리뉴스 Polinews",
+      "outletUrl": "https://www.polinews.co.kr",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 16,
+      "firstSeenAt": "2026-10-19T11:15:30.807Z",
+      "lastSeenAt": "2026-10-19T14:37:41.852Z"
+    },
     {
       "title": "[이것봐라] \"AI 주인공은 칩이 아닌 부품?\" 미래에셋운용 'TIGER 글로벌MLCC&기판 ETF' 공개 - 이슈에디코",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fcFJtQ2VUYmF2N0dreE0yY2ROdThsdXA3X3BLTFlVMXJjVDNrZVR6bFVPZTZBNF9Md25rZmJFWkxxTndIZVo1YmtnOUxJYjZkUjE5cEVPOVlHUm4tYXZ1SWJINA?oc=5",
@@ -2186,28 +2208,6 @@
       "score": 11,
       "firstSeenAt": "2026-10-19T11:15:30.807Z",
       "lastSeenAt": "2026-10-21T00:34:26.486Z"
-    },
-    {
-      "title": "GS건설, AI 데이터센터서 5조 잭팟 터지나 - 아시아투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lMU9KYXp6S2kyMVd6YmtSdExlVE5wV1hBTG5aMzQ0R2llb3hDVWR5bTNmeWJEaDRhZjBzZ0Nqby1KV3phM2VXb0VUeHpKSFA0QS1rZ2lZc3VnVHpWVXNDMnZUSG1CODFXNURMODdB?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 04:52:27 GMT",
-      "summary": "GS건설, AI 데이터센터서 5조 잭팟 터지나 &nbsp;&nbsp; 아시아투데이",
-      "outlet": "아시아투데이",
-      "outletUrl": "https://www.asiatoday.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-10-19T05:05:11.190Z",
-      "lastSeenAt": "2026-10-20T17:57:30.297Z"
     }
   ]
 }

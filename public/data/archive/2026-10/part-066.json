@@ -1,7 +1,34 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "엔비디아, 메타에 4조원 투자…메타는 AI 투자 위해 129조원 조달 추진 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yQzM0Qjh3ei04WjFYUWNlU3hGYVIxX2ozRGFxZ3MyZ09kOGNiQnk2aFdxS3RWb2NqZ05wa1VLbk0yQi1vOEFVeEZfN0plSHVnNkpIM25NN1ptMWVi?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 09:14:00 GMT",
+      "summary": "엔비디아, 메타에 4조원 투자…메타는 AI 투자 위해 129조원 조달 추진 &nbsp;&nbsp; 뉴스핌",
+      "outlet": "뉴스핌",
+      "outletUrl": "https://www.newspim.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "NVIDIA",
+        "투자·M&A",
+        "실증·조달"
+      ],
+      "issueCategory": "AI시장",
+      "score": 29,
+      "firstSeenAt": "2026-10-27T09:46:08.096Z",
+      "lastSeenAt": "2026-10-28T01:14:48.296Z"
+    },
     {
       "title": "NIPA, ‘글로벌 피우다프로젝트’ 우수 개발물 6종 日 현장 실증 착수 - 아이티데일리",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QckhxVWg3bWdfVUR5UjNaamstemx1OU0zQVI2blM5RDZYdlgtbDZwVHJMUWttRWVNVU11UzRvaUZIVU5Pa0FaRl85MzVzTUZqaEY0cGJtVlp6a1A1NUpTbFVza3YzSTFl?oc=5",
@@ -2220,29 +2247,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-27T09:46:08.096Z",
       "lastSeenAt": "2026-10-28T00:44:44.486Z"
-    },
-    {
-      "title": "NIPA, 일본서 고령자 돌봄 서비스 실증 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfcHFhS1RJNmNscnpPcjdaWlFhcEl2RFdvWEwxXzdzUEdGN2lLTUhhQVpXdU5ZZnAxQWwzeFN3N1hhaFU2RElPc0FsM1g4R2xDOVRVdXY3T2lYNVdpZlo1TVV2VWdfbGxrTDF0VVlrekXSAXRBVV95cUxPSTNwM3ptOW81TWZ0c2RaWWlOTTZmcWsxZUxfaGxoMjdaNE9LamdDaFJxZXJ2NnczcWgzYUswd3RUM2IzcnBDRzNzMHpxcTNLRWJrcmRhMFlsaVdmb2Q5dldOUzhhMzNTWEpxM2QzaUhxLU1Waw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 08:10:54 GMT",
-      "summary": "NIPA, 일본서 고령자 돌봄 서비스 실증 &nbsp;&nbsp; IT조선",
-      "outlet": "IT조선",
-      "outletUrl": "https://it.chosun.com",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책",
-        "실증·조달"
-      ],
-      "issueCategory": "실증·조달",
-      "score": 24,
-      "firstSeenAt": "2026-10-27T09:46:08.096Z",
-      "lastSeenAt": "2026-10-30T06:13:35.368Z"
     }
   ]
 }

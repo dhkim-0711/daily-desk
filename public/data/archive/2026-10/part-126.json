@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "Samsung Electro-Mechanics, LG Innotek Expand AI Partnerships with Nvidia - Businesskorea",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3bW5YS3ZsVUtXT1c5TzFwN2pyS3pIVlptNFVNM3NBeEFENWpsTXVMU3Etbjd0MGQtcUEzLVFtVWZxbXpneVVpTmFya0NUeDczM3lNSFhIWTFkVV9GblUzR2tMeHk0ZjRhQ2p2ZmdYSEp3Qzd5?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 02:22:29 GMT",
+      "summary": "Samsung Electro-Mechanics, LG Innotek Expand AI Partnerships with Nvidia &nbsp;&nbsp; Businesskorea",
+      "outlet": "Businesskorea",
+      "outletUrl": "https://www.businesskorea.co.kr",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "Samsung"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 24,
+      "firstSeenAt": "2026-10-22T05:00:13.904Z",
+      "lastSeenAt": "2026-10-22T05:00:13.904Z"
+    },
     {
       "title": "디딤, 티웨이브디씨에스와 AI 데이터센터 개발·운영 협력 업무협약 체결 - www.dt.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BaGY4WE9nVXoxOXo4LWFkUWhBeWUxektNejMxRS1mZ0FhWmQzUWU3Zm9tcVN4VjQtYWNMOE4tczJDZTNFYWxTZU95bkUyZw?oc=5",
@@ -2300,28 +2325,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-22T01:51:21.284Z",
       "lastSeenAt": "2026-10-26T06:04:07.551Z"
-    },
-    {
-      "title": "Carolyn Duby on AI-agent security and zero trust - TNGlobal",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPczQwdmRka19kSk82NC1JVF9NbUhpQkp2V2poeUJ0TkUzalU3Yk1KczREYVZUXzNCMFgtU21pWTctWVhGUGNvM1RsRFVhMVROU3F6Z21GWFFIWl91Mk1RZE8xRkVBbk1Fa0wtdzlkS2UzVG9UVHNDMEhrSHNESUpyMnYya0N6STRRWVE?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 01:32:52 GMT",
-      "summary": "Carolyn Duby on AI-agent security and zero trust &nbsp;&nbsp; TNGlobal",
-      "outlet": "TNGlobal",
-      "outletUrl": "https://technode.global",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T01:51:21.284Z",
-      "lastSeenAt": "2026-10-22T14:06:18.862Z"
     }
   ]
 }

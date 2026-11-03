@@ -1,7 +1,30 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "Microsoft Israel cuts hit AI agent team, with 50 Copilot Studio employees summoned to pre-dismissal hearings - CTech",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDSnZKaEN1ZjRfX29nNjhtTEpRS1p0NEdSbldCNUJGM21LQTg2aE1NSnhsT3lQWW1PbjdjMmtFNFN2WFlzdXc3N0dqdGVpM3lqV25mNzhjbHNTSW1ZRnhLbkc2ZlVqVlU?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 13:40:00 GMT",
+      "summary": "Microsoft Israel cuts hit AI agent team, with 50 Copilot Studio employees summoned to pre-dismissal hearings &nbsp;&nbsp; CTech",
+      "outlet": "CTech",
+      "outletUrl": "https://www.calcalistech.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트",
+        "실증·조달"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 19,
+      "firstSeenAt": "2026-10-12T16:06:06.831Z",
+      "lastSeenAt": "2026-10-13T06:58:34.117Z"
+    },
     {
       "title": "구글, 핏빗 에어·엣지에 AI 건강 관리 강화…운동 자동 감지 100종 이상으로 확대 - 인공지능신문",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkTnRNQUppTlhwWXVnZUNqeTg2LTdwMWlPUE9lcGFHXzZPaDh6VjRrVHBuVUlJdkpjX01PNk9saFRHV1E3LVRsb05KLXI0b0NKenRNYUR6Z0lIVmNTV2sxSDBORi1Eck0?oc=5",
@@ -2239,31 +2262,6 @@
       "score": 13,
       "firstSeenAt": "2026-10-12T16:06:06.831Z",
       "lastSeenAt": "2026-10-13T06:58:34.117Z"
-    },
-    {
-      "title": "Coder creates NvidiaWatch tracker site that monitors hundreds of GPU driver bugs — site charts open issues, fixes, and forum feedback across updates - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNeG5BTmxNMEZwZ1FhTU9IdnVZMDY0bVZKTHBRTnotMVdOWmxoWXNWbFJOMnRqa3llRkxraGhkVXhha2pzMmNwMnZKb1RLV3N2bjVOZjRTWnUza216WTBEcGlyMk9aSDdhUHRYMlR4WHVaN2JsSF9uSzBJOGh3enNQRVdNRGs0X0M0YTVUT01vbTdlVGJhbjJ4T1hNejhoeXZ3NjhtTi1yRU1CVkV0QmVmMU1FLV9tZFpnZUIwUWZyTElHQ083QjBBMHMwNUMxX3pIYVdleWRQQXlnMGpyNzh0VUFORzhDTUZ6VEhUOFFLNzFuTlR3TEFCZGhhQVpkTFNpMnhRUURiTVljWHR2LTBzdi1IY1NEYU5KeFJHRjNteTM2U1NYMWc?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 12:00:00 GMT",
-      "summary": "Coder creates NvidiaWatch tracker site that monitors hundreds of GPU driver bugs — site charts open issues, fixes, and forum feedback across updates &nbsp;&nbsp; Tom's Hardware",
-      "outlet": "Tom's Hardware",
-      "outletUrl": "https://www.tomshardware.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 23,
-      "firstSeenAt": "2026-10-12T16:06:06.831Z",
-      "lastSeenAt": "2026-10-12T16:06:06.831Z"
     }
   ]
 }

@@ -1,7 +1,29 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "Chinese chipmakers roll out new RISC-V server CPUs for AI demand - Global Times",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vZ09OVHBISDU2MF9IZEdNQllVOWVoanN0T3dVdWtSUkdPMXlLOG1CbjJLeks5QVJXcjh5M2RTQ2xJRkhLSE1uOHdiWXBmTUNHSngtNnNJb0dpSm9IZVlnVzVB?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 15:04:00 GMT",
+      "summary": "Chinese chipmakers roll out new RISC-V server CPUs for AI demand &nbsp;&nbsp; Global Times",
+      "outlet": "Global Times",
+      "outletUrl": "https://www.globaltimes.cn",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-23T00:36:22.880Z"
+    },
     {
       "title": "Meta shares fall 6.7% as $1.2 trillion AI spending bill disclosed - Capital Brief",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZU15a1ZyU3I3aFJJRzRNNDZEbDU2ZjdCaGpab2p5UndXbXBJbWQxMlpsOUtCbnFnbWN5QUJ4bUFjMS0ya2k5Y3hueWdQLWxjTVdYbmhuTEsxQXpfTU5WeU1XTzNuZ3g1WFFoU09JSzNJaHNoQXFXQktZNjhfUnNOZVJ4d2hYcFFrZmUwQVpmZXZqdzRuOXlBclBsaHpvcW5oQjhhVFAxWVdZSV9WM2xCTC15MjBNZWg3T3FaRzRSQVYtUjIzXzl4blFUSHI5aFpOXzRJ?oc=5",
@@ -2201,30 +2223,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-22T14:06:18.862Z",
       "lastSeenAt": "2026-10-25T12:32:15.609Z"
-    },
-    {
-      "title": "Qblox Integrates NVIDIA DGX Spark With Quantum System Controller - The Quantum Insider",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTXFXcXY3YWZZeGZOS21LSTN3NDhYckU2Rll5M2E2SXY3ZHl6U2lHXzdFY2Vnal9ZOExBOEFmMFlBaFJPQlAxOW9iY3RXWXZoME5ENktTcFc2cC1zTjNpMkNSenc0Ty1ja29sTnF3b1FGYnJ2TFhzdGFWVTBmRDRPUTlKUEIwTWs4bGlSejRPZFRMY1dmWklKUWpXc1ctdw?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:42:32 GMT",
-      "summary": "Qblox Integrates NVIDIA DGX Spark With Quantum System Controller &nbsp;&nbsp; The Quantum Insider",
-      "outlet": "The Quantum Insider",
-      "outletUrl": "https://thequantuminsider.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-23T12:35:23.942Z"
     }
   ]
 }

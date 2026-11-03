@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "데이터센터와 환경 ①수사 받는 구글…데이터센터 건설 '제동' 확산 - 이코리아",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqR3JsSy1RdlVKQzFFb0YzNzRsbmV3a3lPU1ZsS0NqRGsxM3RlTklhMVBNb09wSVpEclNMcVp2OFVEZE4xN3hwZnBTbVMtcUtSSUgydFVzT1JVYU1qdTVTUl9XVTFyc2lWWmpyN0t4NA?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 07:47:58 GMT",
+      "summary": "데이터센터와 환경 ①수사 받는 구글…데이터센터 건설 '제동' 확산 &nbsp;&nbsp; 이코리아",
+      "outlet": "이코리아",
+      "outletUrl": "https://www.ekoreanews.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "Google"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 18,
+      "firstSeenAt": "2026-10-30T16:49:59.511Z",
+      "lastSeenAt": "2026-10-31T17:40:58.673Z"
+    },
     {
       "title": "곳곳에서 제동 걸리는 데이터센터...각국, 유치 경쟁에서 규제로 - 이코리아",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqR3JsSy1RdlVKQzFFb0YzNzRsbmV3a3lPU1ZsS0NqRGsxM3RlTklhMVBNb09wSVpEclNMcVp2OFVEZE4xN3hwZnBTbVMtcUtSSUgydFVzT1JVYU1qdTVTUl9XVTFyc2lWWmpyN0t4NA?oc=5",
@@ -2180,26 +2205,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-30T10:28:06.065Z",
       "lastSeenAt": "2026-10-31T01:33:01.539Z"
-    },
-    {
-      "title": "HANMI Semiconductor Co., Ltd.'s Operating Margin Tops 50% ... Third-Quarter Operating Profit at 90.8 Billion Won - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxeTBtVDBaLXpkbkJYa253NS1zSWdoekRZQjlNQjNXb2xCMm9EbHBwTWNfc3doS0ZHQi1TbVViZjJsM3NENTlvbFI2Q0tlYlJodmhz?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 06:27:17 GMT",
-      "summary": "HANMI Semiconductor Co., Ltd.'s Operating Margin Tops 50% ... Third-Quarter Operating Profit at 90.8 Billion Won &nbsp;&nbsp; 매일경제",
-      "outlet": "매일경제",
-      "outletUrl": "https://www.mk.co.kr",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 7,
-      "firstSeenAt": "2026-11-01T06:21:17.502Z",
-      "lastSeenAt": "2026-11-02T01:28:59.868Z"
     }
   ]
 }

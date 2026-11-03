@@ -1,7 +1,30 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "GeekyAnts Outlines AntFabric Architecture for Enterprise AI Workflows - Akron Beacon Journal",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGwzMzhGX0ZPLWJoQUEzN3dqTEQ5T3JLeThBSFZWRHpYQU5Hb3NLbXhzeTBsWGgwTGNEV2x4bXRGMFZXN3ZYQWhEVE40VVpJc1lfV3l3aHZqMU1zTVVWV25xS25Mc21SbGZJSm9vdnplSzdxNXduVEFyLXo3OVpUVWpWeUxudGg2OHRXY1dnbWk0X21jYlMwMlQwVU9YVjZOaUxhVFJRYmZ6RzJnU2hlUDRwYkhyRkFVVUJKZ1oxS1B5MXV4emc?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 16:28:19 GMT",
+      "summary": "GeekyAnts Outlines AntFabric Architecture for Enterprise AI Workflows &nbsp;&nbsp; Akron Beacon Journal",
+      "outlet": "Akron Beacon Journal",
+      "outletUrl": "https://www.beaconjournal.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud",
+        "ai-market-business"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-29T13:43:00.739Z",
+      "lastSeenAt": "2026-11-01T07:27:17.206Z"
+    },
     {
       "title": "Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A) - Google Cloud",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHFMekw2OXpEcFpGRHU3ckpwanJ3OFpXbGxKSW15S0U2T3M5TXMzODdLay0tbURZZDQ2ZFZTZ28wNndaVUpVcnYzS1daT2NqT3JnbllsM0lENjZTbWstTWRjbVpoQWQtSVBYbTJGQlhLSU1wcm5aaFBjWURGNXJVRU5HQks2VE5QVWc3V1lUS2tSMGFwSU9kLU5xNEF1Zm1SUDVsampPRmVwSHFCNjRHVGQzc1JES3J0RDNBWm0zWQ?oc=5",
@@ -2325,30 +2348,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-29T18:56:42.064Z",
       "lastSeenAt": "2026-11-01T06:37:30.498Z"
-    },
-    {
-      "title": "AI 답변의 유튜브 인용 87%가 구글 AI 오버뷰에서 나와… 네이버 AI 브리핑은 0건 - 매드타임스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtMjRFdWRQRWFpMEw4TEs3eE91al9CQ0RRS2dXd0YtdkMza1dBOWoxWFJVWDRqYTRKZ1AtcHYzZmZ0ZkFYWUNCTDVlVDNjZVk0LVFBUGMtWTFDckU3NzIwSVRsNkZXMDZYdVBNYQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 15:00:00 GMT",
-      "summary": "AI 답변의 유튜브 인용 87%가 구글 AI 오버뷰에서 나와… 네이버 AI 브리핑은 0건 &nbsp;&nbsp; 매드타임스",
-      "outlet": "매드타임스",
-      "outletUrl": "https://www.madtimes.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-29T18:56:42.064Z",
-      "lastSeenAt": "2026-10-31T01:33:01.539Z"
     }
   ]
 }

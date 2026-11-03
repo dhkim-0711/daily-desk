@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2JIR2puYk1SMlQwVlBzTHhMcTRDNGxpOG9fenpOWjhGbDZvRWYwUHdIRHB6YzNMQ1JUNTFjc0RvSmFmTnN2UFdKRnlQNl8wWW9oeVZpWlNJTFJ6UVpnSVRJVUdicGl6T2ttUHRlV0VnSWtiNnlpUkhwMHNoNTFqX0JlOV9jVnN3M3FIZzM0bUlFR2o1Y20wV2dB0gGaAUFVX3lxTFBDYkhHam5iTVIyVDBWUHNMeExxNEM0bGk4b196ek5aOEZsNm9FZjBQd0hEcHpjM0xDUlQ1MWNzRG9KYWZOc3ZQV0pGeVA2XzBZb2h5VmlaU0lMUnpRWmdJVElVR2JwaXpPa21QdGVXRWdJa2I2eWlSSHAwc2g1MWpfQmU5X2NWc3czcUhnMzRtSUVHajVjbTBXZ0E?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 03:19:18 GMT",
+      "summary": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration &nbsp;&nbsp; MarkTechPost",
+      "outlet": "MarkTechPost",
+      "outletUrl": "https://www.marktechpost.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai",
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-19T05:05:11.190Z",
+      "lastSeenAt": "2026-10-22T01:51:21.284Z"
+    },
     {
       "title": "1兆→3兆로 3배 확대… 앰코, 광주에 AI 반도체 패키징 공장 '첫 삽' - 파이낸셜포스트",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Mb0dreDdrcGZTeF9fZVU1UFdvOFdCVjRlV09fVk55Y1ZmQi1XU3pQNV9xMHZTRzllZkhDcTFoeUdWVjI2OHhRRXEzcGFZbEZYUG5jOV9pWnZoR2I0aXVxUWZDNWpDYkVuOWJybkZNcndWVzE4?oc=5",
@@ -2224,29 +2249,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-19T05:05:11.190Z",
       "lastSeenAt": "2026-10-19T22:38:25.607Z"
-    },
-    {
-      "title": "AI 데이터센터 투자 급증…“착공 가능성부터 따져야” - 전기신문",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41dmllS2M2Um92dnZsNmRPb1lGNUhkUEVtNWdXN1RNXzd4MTRtdXdLSjNGTjNMOWRPRWpqdkxocVNpQVFiWlp6aHRtbkJtXzh5UlF5ckNYdWtVWF9waWFJNm9MYVUtRGYzczFUQnM0OUbSAXBBVV95cUxONXZpZUtjNlJvdnZ2bDZkT29ZRjVIZFBFbTVnVzdUTV83eDE0bXV3S0ozRk4zTDlkT0VqanZMaHFTaUFRYlpaemh0bW5CbV84eVJReXJDWHVrVVhfcGlhSTZvTGFVLURmM3MxVEJzNDlG?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 01:56:55 GMT",
-      "summary": "AI 데이터센터 투자 급증…“착공 가능성부터 따져야” &nbsp;&nbsp; 전기신문",
-      "outlet": "전기신문",
-      "outletUrl": "https://www.electimes.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-19T04:51:36.633Z",
-      "lastSeenAt": "2026-10-21T00:34:26.486Z"
     }
   ]
 }

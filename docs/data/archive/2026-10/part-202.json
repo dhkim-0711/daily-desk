@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "[분석] CUDA 병권 뒤집힌다···코어 1000개 시대, 왕권은 어디에 - 여성경제신문",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nWm1oUHZGQ1l0akowUkhKaFIwNjIzNVlpbUpMWk1mcHFXSy11WTNCSmxHeEFnYVgyRDlkRW9XX05laXNTRk51WmpOUnAwRF9sTE16U3Y1bktqUGVUaXZBQl90ZlNMUEpISVZxaTk5ZEhweVlUOTFv0gF3QVVfeXFMT2dabWhQdkZDWXRqSjBSSEpoUjA2MjM1WWltSkxaTWZwcVdLLXVZM0JKbEd4QWdhWDJEOWRFb1dfTmVpc1NGTnVaak5ScDBEX2xMTXpTdjVuS2pQZVRpdkFCX3RmU0xQSkhJVnFpOTlkSHB5WVQ5MW8?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 08:28:08 GMT",
+      "summary": "[분석] CUDA 병권 뒤집힌다···코어 1000개 시대, 왕권은 어디에 &nbsp;&nbsp; 여성경제신문",
+      "outlet": "여성경제신문",
+      "outletUrl": "https://www.womaneconomy.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "accelerator-software-ko",
+        "accelerator-strategic-deals-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "",
+      "score": 11,
+      "firstSeenAt": "2026-10-16T11:54:32.707Z",
+      "lastSeenAt": "2026-10-19T06:05:32.039Z"
+    },
     {
       "title": "Coreweave's default risk indicator, the epicenter of artificial intelligence (AI) infrastructure deb.. - 매일경제",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIeDhBLVUwTE5ieGpnbFNuX3ItTnNnZWwxOUEzemw1ZkNISk5aaWtCNURVbEhnNDk5NzhSdDF2NE9WajZWY3BuMHNFZw?oc=5",
@@ -2204,28 +2228,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-16T11:54:32.707Z",
       "lastSeenAt": "2026-10-16T16:57:09.011Z"
-    },
-    {
-      "title": "Workday Rising - customers press customers on AI adoption and ROI, and get answers - diginomica",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BrTmZZZ1FlR2F2cUt0czdCbFBYN2NMQW5pOUVSZ3U5dzVpZU9HbDgtYm5PRFBfTlc0cDN4bUhLZ1pJQVR3VkZrWlFsejR6QnFUdXJYNEoxZUoyVHVyVEFjOXZOclhsemU3Zy05TTFDVzBRTmZzV29NYW1aMHhIQzAxa2VXNERhS3Uyb0pjWXdZWTNNS19NTzdGcFptLWNa?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 07:21:41 GMT",
-      "summary": "Workday Rising - customers press customers on AI adoption and ROI, and get answers &nbsp;&nbsp; diginomica",
-      "outlet": "diginomica",
-      "outletUrl": "https://diginomica.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-16T11:54:32.707Z",
-      "lastSeenAt": "2026-10-19T06:05:32.039Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "美 기업 CEO, 엔비디아 GPU 中 밀수 혐의로 체포됐다 - 스타트업레시피",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aQWZON3BmU3FrRmZnWHFjT3J4ZXNRczlRV2V4M2dDbkxjUkpaOWJCdGhOUjJma3gzeldPQkV2bmxDcl8xQ2lya2JkZFJGc1RUUGxaZmR6cmwxQjhXOVE?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 05:00:10 GMT",
+      "summary": "美 기업 CEO, 엔비디아 GPU 中 밀수 혐의로 체포됐다 &nbsp;&nbsp; 스타트업레시피",
+      "outlet": "스타트업레시피",
+      "outletUrl": "https://startuprecipe.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-08T06:27:57.646Z",
+      "lastSeenAt": "2026-10-08T16:56:41.528Z"
+    },
     {
       "title": "[News] Microsoft Expands Local AI Push With NVIDIA RTX Spark; Surface Ultra Priced Up to $5,899 as Memory Costs Rise - TrendForce",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWVF4V3AtMWJ5el9CdVpPUmlnSnN3VXA5UnI4UUdWRTU3ZDM4c0pCd2x2MGdxR2tvQVplV1JzT0ZKX1laMDlsUmlrel9TZWVQVG1ZZVlKcG11NmVFRFFuTUVxa18zYjBWZnh1NHBuZEgtX3V6SzlYRjJTVkRIX2djQ2s4VWFZaEN0UEJJUFYyWW8wX0xRem1fTDJyQ2hwXzRuNVNWMldDdGg4V1gxN2daOFhlZHdCNU9pWkJJWWFYVi1wNWFja2tacTJSS0Z3dWVEQUV5dkRmc3hVcWpqUHZTeEdjcExWYVV3MlhB?oc=5",
@@ -2223,29 +2247,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-08T06:27:57.646Z",
       "lastSeenAt": "2026-10-08T11:18:21.272Z"
-    },
-    {
-      "title": "AI IPO wave will inflate a bubble, warns advisor - InvestmentNews",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdll3RlplbkhuR3YwYlpsZ3ZkMXktVENVSVlLQi1NalhBdnRHTWNWSjdDR1ROdE9vRFhSM09CQmp2RDJTcTRKaFJrOFJkZWNjLVNtOEFweExCOGlpelJvUW01LXFvMWI3X3dfMXpiOElYcWFFU3NTVVR2c0x5cm5tZ2kzSzhBbHRtWlNfQVpKajhia2xFNFJnaVZWWjhZUkFDa19vZ0gyS0E?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 03:33:49 GMT",
-      "summary": "AI IPO wave will inflate a bubble, warns advisor &nbsp;&nbsp; InvestmentNews",
-      "outlet": "InvestmentNews",
-      "outletUrl": "https://www.investmentnews.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-08T06:27:57.646Z",
-      "lastSeenAt": "2026-10-11T07:05:30.500Z"
     }
   ]
 }

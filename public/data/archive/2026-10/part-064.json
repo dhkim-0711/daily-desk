@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "[슈퍼마이크로, 엔비디아 베라 CPU 256개 탑재한 100% 수냉식 랙 공개…대규모 에이전틱 AI 지원] 친환경 IT추구(We Keep IT Green)는 슈퍼마이크로의 상표 또는 등록상표이다. - AI넷",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE02Q2VnNGt6VFA5OFFPNjg5SjhhdzdQMklmUloweEFUeUp3OURRNmdwdVJ4aGg2R243cUlkM0JIN0c?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 12:29:08 GMT",
+      "summary": "[슈퍼마이크로, 엔비디아 베라 CPU 256개 탑재한 100% 수냉식 랙 공개…대규모 에이전틱 AI 지원] 친환경 IT추구(We Keep IT Green)는 슈퍼마이크로의 상표 또는 등록상표이다. &nbsp;&nbsp; AI넷",
+      "outlet": "AI넷",
+      "outletUrl": "http://www.ainet.link",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-27T15:51:29.490Z",
+      "lastSeenAt": "2026-10-27T15:51:29.490Z"
+    },
     {
       "title": "\"반도체 산단 전력만 38기가와트\"… 국감서 '탄소감축 충돌' | - 파인드비",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01OFNXSEJPU2FSQ3QxNUZSMmF4RTdhYzd1VUF6YnYyejZZbXNoNGVRUkZDQ2kzYXFOWGI4Rm5seE9WMjF1NWVycWdTMG1TOUNOVm1mR3lTV3VYSldjZ2VfMVY3ZWhGQ0tKSGc?oc=5",
@@ -2273,26 +2298,6 @@
       "score": 15,
       "firstSeenAt": "2026-10-27T15:51:29.490Z",
       "lastSeenAt": "2026-10-27T15:51:29.490Z"
-    },
-    {
-      "title": "[이슈대담] 막바지 접어든 국감…‘호남 반도체 산단’ 집중 - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45c2czZl9IczNaSGk1SFdLQTdHeEZGWkdoYk5zT0kwUVNCbl9iM1hKYW1HZEszWm9rcUdBTjRNWWZaMXlsOE1JSm5UM0xoWVpackFjWlEyMkNOMGM?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:48:00 GMT",
-      "summary": "[이슈대담] 막바지 접어든 국감…‘호남 반도체 산단’ 집중 &nbsp;&nbsp; KBS 뉴스",
-      "outlet": "KBS 뉴스",
-      "outletUrl": "https://news.kbs.co.kr",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-28T05:53:34.298Z",
-      "lastSeenAt": "2026-10-29T06:14:00.383Z"
     }
   ]
 }

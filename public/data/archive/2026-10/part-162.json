@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "엑스와이지, 엔비디아 교육과정에 휴머노이드 10대 공급 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVmhRemI1TTFCM3I1WWh3NkVBQWlJazRRX1VNWjhSVE82dGd0UTBlSkRCRnFLSnpvNld3MW1tM0NTUTZfTVh2Nk9tN293WnFsRVlISjl6bGttN1hiQ0tFYVlqemEtMkRPODNxYlhHWmhpaFRNUmltQWdEMEthRGI5TQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 02:42:54 GMT",
+      "summary": "엑스와이지, 엔비디아 교육과정에 휴머노이드 10대 공급 &nbsp;&nbsp; 이데일리",
+      "outlet": "이데일리",
+      "outletUrl": "https://www.edaily.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-10-20T04:59:46.169Z",
+      "lastSeenAt": "2026-10-20T12:40:52.451Z"
+    },
     {
       "title": "Chrome DevTools 154 Adds AI Agent Controls [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50S3NmMGpsbEpOUnVRdWdBdGhrQjN5Qko2YkYzaThhMjJsUGVQUXRzazhOWkRJNE9IRE9rNnhKam0tOGlXNlBJTnE0OXRxQnduUGNwa0VYZDZNTkZEZHYxWVYzSElDU0xNNHdBUkkzV2x6QQ?oc=5",
@@ -2173,30 +2197,6 @@
       "score": 19,
       "firstSeenAt": "2026-10-20T04:59:46.169Z",
       "lastSeenAt": "2026-10-23T00:36:22.880Z"
-    },
-    {
-      "title": "[슈퍼휴먼] AI 비서가 드디어 구글의 가장 인기 있는 도구들과 원활하게 연동된다. 2주 전 클로드(Claude)가 구글 워크스페이스에 자리를 잡았고 , 이제 챗GPT(ChatGPT)도 크롬에 통합되어 브라우저 어디에서든 조언을 제공하고 필요한 작업을 수행 - AI넷",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1HNHFhNEZDWE90WmNzU1diWHRfRmNhY1VJN01XZXFVSF9pRFQ4M0RkWVJ2Qkt1Z2laNDE0M0RpYlo?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 01:28:00 GMT",
-      "summary": "[슈퍼휴먼] AI 비서가 드디어 구글의 가장 인기 있는 도구들과 원활하게 연동된다. 2주 전 클로드(Claude)가 구글 워크스페이스에 자리를 잡았고 , 이제 챗GPT(ChatGPT)도 크롬에 통합되어 브라우저 어디에서든 조언을 제공하고 필요한 작업을 수행 &nbsp;&nbsp; AI넷",
-      "outlet": "AI넷",
-      "outletUrl": "http://www.ainet.link",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-10-20T04:59:46.169Z",
-      "lastSeenAt": "2026-10-20T05:57:26.312Z"
     }
   ]
 }

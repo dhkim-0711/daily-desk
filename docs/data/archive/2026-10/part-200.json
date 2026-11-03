@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "엔비디아 RTX 스파크 출시…윈도우 AI PC 시장 본격 공략 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GT0JDbHJJaVJzbFBSZ29DakFEaDBEWUlHVWVPRDZDb2ZxWnBGTWhSWGU2TlJ0YVl6ZlMyVDRZMHJYSEJtM0lGdWtoOGh3TllraTBxUldxQlXSAVhBVV95cUxORk9CQ2xySWlSc2xQUmdvQ2pBRGgwRFlJR1VlT0Q2Q29mcVpwRk1oUlhlNk5SdGFZemZTMlQ0WTByWEhCbTNJRnVraDhod05Za2kwcVJXcUJV?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 12:00:00 GMT",
+      "summary": "엔비디아 RTX 스파크 출시…윈도우 AI PC 시장 본격 공략 &nbsp;&nbsp; 아주경제",
+      "outlet": "아주경제",
+      "outletUrl": "https://www.ajunews.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "온디바이스AI",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-10-16T16:57:09.011Z",
+      "lastSeenAt": "2026-10-17T23:59:04.133Z"
+    },
     {
       "title": "We need an 'AI police': Should it be Nvidia's Jensen Huang? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0JxdUMtMTFkaVpZNE1lR3ZpMFo4c1ZBTE1OYzhGT3BiaUhfQ1JNYzJESnZjRk51dU5xejVQZG5Ib25JMjlEb0c2YXIxY084RUhMMjhFbUx5R255aXFIRm56a3ZNWWRld3hXMjJsb3hmVjRTbE45bW04OG1ORDZaMXJkaw?oc=5",
@@ -2260,30 +2285,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-16T23:01:15.288Z",
       "lastSeenAt": "2026-10-19T06:05:32.039Z"
-    },
-    {
-      "title": "Nvidia Releases Open Nemotron 3.5 Super VL With Weights, Data and Recipes - Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0RoaGhsam1QZ1VFSFowckRDWEVUdGg2Y2dWZy1tSkFpQjlTaGFtejhLRnBOYUpIaWE5QS13V3kzamdqYndzUFF2cC14Sk9tUU11Z3NzaWtRMXJRY0RQYXFfUDlmR1BqdFlRNTJpS0x5YWtiM0FycVc1VldjSVl5ekRyWDVuTXJrU0dmNA?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 10:13:00 GMT",
-      "summary": "Nvidia Releases Open Nemotron 3.5 Super VL With Weights, Data and Recipes &nbsp;&nbsp; Technology Org",
-      "outlet": "Technology Org",
-      "outletUrl": "https://www.technology.org",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-16T11:54:32.707Z",
-      "lastSeenAt": "2026-10-16T12:19:28.580Z"
     }
   ]
 }

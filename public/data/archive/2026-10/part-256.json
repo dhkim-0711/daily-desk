@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "China faces uphill battle to wean tech firms off Nvidia chips - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhEbjZpZnZxdThlX0h6OVZGSEZ4cUpMekJwOWVlUWZBTU5hZUwzSWh3Slp4UHZDN01faEtCTnZ6U3pxemd0SlVwTzdOYUtMNDd5emVZZF9JdG8yRzNWLXFnT0YzRjJRbk5lYTlZLWJhd2lVSjhxS21hSmN2amxsNTNmVHI?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 00:15:06 GMT",
+      "summary": "China faces uphill battle to wean tech firms off Nvidia chips &nbsp;&nbsp; Financial Times",
+      "outlet": "Financial Times",
+      "outletUrl": "https://www.ft.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "수출통제·공급망",
+      "score": 18,
+      "firstSeenAt": "2026-10-13T03:00:06.725Z",
+      "lastSeenAt": "2026-10-14T06:07:24.751Z"
+    },
     {
       "title": "AI demand spurs Abu Dhabi’s Dh250B energy investment | Khaleej Times - newspaper - Magzter",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlBGV1ZRc0FmajEwc3hvbE95Q2d3aGg5OHJVYlJWNjBrSDY1LUd4N0RONDVXSjVMQjZYN1hjaFRvUzM2bzdzejNCc0RHSkVCMWdHWEpjd3EzOUFOaldIci1SbnhibXVfZ2pIWVZRX2wwMWN0NnVKcDZDQXNQM2taU1VCVnZRMHNJTm1GaVJsQVBIRFFVU0s1ZFBLXzFVenQ4VTBGclpOZWI4UjA?oc=5",
@@ -2210,26 +2235,6 @@
       "score": 11,
       "firstSeenAt": "2026-10-13T03:00:06.725Z",
       "lastSeenAt": "2026-10-13T19:50:30.683Z"
-    },
-    {
-      "title": "[천지일보 이슈종합] 국정감사·정청래 비자 지연·미국 대북 정보공유 제한·중수청 인선 후폭풍·호남 반도체 클러스터 속도전·북한 탄도미사일·노벨경제학상 - 천지일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UV2tuVHpxeVgxVkpzSnJmbTk5QTJVQTVPVDBLbWgyNm8tOTBHLWZMOERyVlZESGtwTk13bGY1VUk0bG5kcVYxNE0yVDBBb1pQMk9pVEFjOFQtYU9uZThRRVpYTUNZVHZ0LVE?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 22:00:00 GMT",
-      "summary": "[천지일보 이슈종합] 국정감사·정청래 비자 지연·미국 대북 정보공유 제한·중수청 인선 후폭풍·호남 반도체 클러스터 속도전·북한 탄도미사일·노벨경제학상 &nbsp;&nbsp; 천지일보",
-      "outlet": "천지일보",
-      "outletUrl": "https://www.newscj.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-12T23:13:29.308Z",
-      "lastSeenAt": "2026-10-13T06:58:34.117Z"
     }
   ]
 }

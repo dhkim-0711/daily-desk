@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "엔비디아·시스코, AI 데이터센터용 광통신 모듈 ‘USFP’ 공동 개발… 대역폭 밀도 4배 확대 - 뉴스탭",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YUFFPeFd4emRUalZkanExM2ZTQlBxUERQejJ5MFg5UzBTZi1sT0R0dUNwR3VOa19XX3VUVXNfNXY2dncwZ09KODR0ZVFtSzlKV2huSUpNWDQtWnN4cEt2UnN4X1hSUk1PMGRfMw?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 07:34:18 GMT",
+      "summary": "엔비디아·시스코, AI 데이터센터용 광통신 모듈 ‘USFP’ 공동 개발… 대역폭 밀도 4배 확대 &nbsp;&nbsp; 뉴스탭",
+      "outlet": "뉴스탭",
+      "outletUrl": "https://www.newstap.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-13T23:25:54.248Z",
+      "lastSeenAt": "2026-10-13T23:25:54.248Z"
+    },
     {
       "title": "[AI 비용 vs 회수 전쟁] ③회수 전 GPU 교체 반복…본전 시점은 뒤로 - 네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HeV9BNEwxcmdJMFpreUE2Q3UxZmdFRlpMdHhNaTR4YXRheDZzS2ozQ3JQLUU0ZmlYbHprMzhJc2VYMXBGajdJTURlTkdoSWVhWl9uZ3E3WWh6SXREYktTVWc4cUo0cndtLXRwV1Y1cHI5bVZTRFh3TnFVdw?oc=5",
@@ -2222,28 +2247,6 @@
       "score": 11,
       "firstSeenAt": "2026-10-13T06:52:47.139Z",
       "lastSeenAt": "2026-10-14T06:07:24.751Z"
-    },
-    {
-      "title": "ESX 9.1.1.0100 Release Notes - Broadcom TechDocs",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUDBuMlgxNThaZ1I2Mzl5UThTVFB1UXdTNEFKYjV6T0UxamR6Y1hvb2xRRG10YjBYdjdZR1R2ejB3V2pVUTdud0Q4NzlxTmNGeHFKdnZKN0h5bEN0MDJ0dFRZOGhhV1FvaWRhUHN1YndBUVZ5ZV80X1BDNk1OVGxYRlI2MDMwa0VYY1d1Uld5bE12QTIzVkM5TXB3V0llTlh2TjBON25VdjdvSmJxelBaMWhkLXdTaW9sWE1JYzBZMU1WcDNkNnF4QUpVc3JuS3dpUF9HSnh2QUstclotV3NTWUVRM21nVEhuS2Fz?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 06:08:31 GMT",
-      "summary": "ESX 9.1.1.0100 Release Notes &nbsp;&nbsp; Broadcom TechDocs",
-      "outlet": "Broadcom TechDocs",
-      "outletUrl": "https://techdocs.broadcom.com",
-      "source": "반도체 기업 공식발표",
-      "sourceIds": [
-        "official-chip-news"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Broadcom"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 12,
-      "firstSeenAt": "2026-10-13T23:25:54.248Z",
-      "lastSeenAt": "2026-10-16T05:47:23.879Z"
     }
   ]
 }

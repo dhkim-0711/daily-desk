@@ -1,7 +1,29 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "Deploy AI agents on Kubernetes: Move from Ollama to vLLM - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40Y0M4OTVwbzZtSW1Md3VnQmljV0I1b0FCX1NkbnFhLV9TZ3FTUzZ4dm96Z0pGdkEtWHc1M0ZDb01NQQ?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 14:00:02 GMT",
+      "summary": "Deploy AI agents on Kubernetes: Move from Ollama to vLLM &nbsp;&nbsp; YouTube",
+      "outlet": "YouTube",
+      "outletUrl": "https://youtu.be",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 15,
+      "firstSeenAt": "2026-10-07T19:18:42.713Z",
+      "lastSeenAt": "2026-10-09T11:16:32.130Z"
+    },
     {
       "title": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come - CNBC",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aUUZyVHEwZVRJd1RCMUJEaTlRZ1puM2Y3bDZNdi1NWDMwd1RYdjVESDJQSHNaOFpkTzNuRUJUbkZFcWtGLWdNUkNxY3E4OU4wQkgxZkdqWC15UDZtQWQweEFLNXlORXlMZVlXeXNnZ0Q3Q2NRLWlhWkd4UDgycmPSAYQBQVVfeXFMUExzVjA0ZzU4QU8yODdiQ2NWczJLRVJCVEVQRUx3U0hZU21ZMkdGeDVkVXJTSnlMa1Y3T0xic0xubzR1Q3prcGlkbDRZdzd2UlVBTWE1OXVIZXBpc2tvWmg4c1dIQ1hDb1h1TG9qMUdrdWdpck54dlpkZmo3VTRON1dKUU1o?oc=5",
@@ -2239,29 +2261,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-06T17:25:04.264Z",
       "lastSeenAt": "2026-10-09T16:34:18.478Z"
-    },
-    {
-      "title": "Boost Run stock surges 9.5% on $525.6M AI cloud deal - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53aGtXTVlDbzFqd2RSbkJKRGptRGtna3JRR1NZWkQtcXJJZG4zb0psdjI0RGM4UTdsMTJ3ZEhaOHBXMzZIQVRLVjR2MFdVeEVlZ25DdmRWUU5RczNmdDdjUVhiNG1OUE56d1pjTDNsOTU3b0ZnbW8tc0lhdkh6dw?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 12:38:11 GMT",
-      "summary": "Boost Run stock surges 9.5% on $525.6M AI cloud deal &nbsp;&nbsp; Yahoo Finance UK",
-      "outlet": "Yahoo Finance UK",
-      "outletUrl": "https://uk.finance.yahoo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-06T17:25:04.264Z",
-      "lastSeenAt": "2026-10-06T18:53:25.295Z"
     }
   ]
 }

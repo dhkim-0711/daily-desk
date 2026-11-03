@@ -1,7 +1,33 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "3W 초저전력으로 영상·언어 AI 구현…딥엑스 NPU 글로벌 주목 - 헬로티",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FWG5ZZ0Qxb3U1azFzZ3d0cDF6VmhNRjZoUVMwbmxYUnllMWEtMmktbk13S3Z0a0g5UFR0bmZBN0wtY0c4czN3RVh2SmZmLURWelpNZGFHa2IyeUI3Tk1r?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 08:06:13 GMT",
+      "summary": "3W 초저전력으로 영상·언어 AI 구현…딥엑스 NPU 글로벌 주목 &nbsp;&nbsp; 헬로티",
+      "outlet": "헬로티",
+      "outletUrl": "https://www.hellot.net",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "deepx"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "딥엑스"
+      ],
+      "issueCategory": "NPU",
+      "score": 23,
+      "firstSeenAt": "2026-10-15T12:07:07.357Z",
+      "lastSeenAt": "2026-10-18T05:48:25.445Z"
+    },
     {
       "title": "토스證 \"AI 반도체 공급 핵심은 대만\"…TSMC·폭스콘 분석 리포트 발간 - 뉴스1",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DQWt6RE01Rm03WklYdExhR2M3S2hsRUUxdVpxUmxMSFZTVXNadEFpVThCR3dYdmV6R0tCTGpoV3dILUJoZklWWHNsS18zX2RQNDlYN0ZSQ1hWMFJjdGRn?oc=5",
@@ -2174,26 +2200,6 @@
       "issueCategory": "AI시장",
       "score": 23,
       "firstSeenAt": "2026-10-15T12:07:07.357Z",
-      "lastSeenAt": "2026-10-18T05:48:25.445Z"
-    },
-    {
-      "title": "전남광주 반도체 클러스터 속도전…최태원·정부 릴레이 점검 - DealSite경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85VDQ4dWNZT0F1ZHFCNFI3a2IxUmZ2cG9odTJHWmhrYVU4SDFiMlZzUlZaT2VpMnAyaTF3blFTZzJyOU1ITGdvMmFPR3hIcjF5dEpPS2lR?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 07:07:05 GMT",
-      "summary": "전남광주 반도체 클러스터 속도전…최태원·정부 릴레이 점검 &nbsp;&nbsp; DealSite경제TV",
-      "outlet": "DealSite경제TV",
-      "outletUrl": "https://news.dealsitetv.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-10-15T23:17:33.139Z",
       "lastSeenAt": "2026-10-18T05:48:25.445Z"
     }
   ]

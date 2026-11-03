@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-02T22:18:13.619Z",
+  "updatedAt": "2026-11-03T01:47:20.917Z",
   "articles": [
+    {
+      "title": "구글, 보안 성능 앞세운 ‘제미나이 4 카본’ 공개 - 보안뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4VExGUjBCYzAtUkgwZ094M3gzTENuZWVMbEQ5d3Y4Z0k3S3FrS29uT291cXJhWjhXZ2tnaG56WHBUUjdRYlcxbnhXbU43amRfTGFFZVlEME5aeFdZb3lhQzE2WFB3SWtNeFRF?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 03:36:49 GMT",
+      "summary": "구글, 보안 성능 앞세운 ‘제미나이 4 카본’ 공개 &nbsp;&nbsp; 보안뉴스",
+      "outlet": "보안뉴스",
+      "outletUrl": "https://www.boannews.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 15,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T13:43:00.739Z"
+    },
     {
       "title": "Seismic scales sovereign enterprise AI globally with Linux on Azure - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnUUlYZ29KNTlhVXhHeVkxT3NXbFUtYV91LV9pbGI0THV6Mks3LTNwaHdvQS13VXRRdDNna0JHeFdWX1B2Z3ZpSGZsZC04Y21EQ29SUV9oVmRJb05fZm5RV1JWY3d3azhQQ2FhdUNoVUtLbktVWGFUUTRXRmdoZw?oc=5",
@@ -2213,30 +2237,6 @@
       "score": 13,
       "firstSeenAt": "2026-10-29T05:58:08.944Z",
       "lastSeenAt": "2026-10-29T06:14:00.383Z"
-    },
-    {
-      "title": "브로드컴 목표가 400달러로 상향…AI 투자 확대 기대 - 스페셜경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NY05GMkZZbmR4Z254WGpLS1ZPT1cxSndDNXBQbHZuZzdYa0prVVZhdnhUN3p6VUJaZEg4NkdvUjRxc0xPZWw5ajBUNnBJb0xILU5UbF8wN0pXVnNERGRMYUx1bnpLUGNPWDJuZg?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 02:10:38 GMT",
-      "summary": "브로드컴 목표가 400달러로 상향…AI 투자 확대 기대 &nbsp;&nbsp; 스페셜경제",
-      "outlet": "스페셜경제",
-      "outletUrl": "https://www.speconomy.com",
-      "source": "AI반도체 공공사업",
-      "sourceIds": [
-        "ai-chip-public-program",
-        "ai-chip-capital-market-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-10-29T13:43:00.739Z",
-      "lastSeenAt": "2026-11-01T01:02:49.409Z"
     }
   ]
 }
