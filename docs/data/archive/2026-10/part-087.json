@@ -1,7 +1,29 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "AI 데이터센터 전력 10%만 써도 기본요금은 30% - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Z2FTeF9KVU5vQ3RiR21nSTZOQk0xeTJtOExQZDEyVF9TaHVGcEstVDYxSUhhd3cwSTJuQkR1UUFFeFpLTFdnTGtaWld6ZG1oV2ptNkdR?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 02:59:10 GMT",
+      "summary": "AI 데이터센터 전력 10%만 써도 기본요금은 30% &nbsp;&nbsp; 지디넷코리아",
+      "outlet": "지디넷코리아",
+      "outletUrl": "https://zdnet.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-10-26T04:57:32.653Z",
+      "lastSeenAt": "2026-10-27T00:04:50.261Z"
+    },
     {
       "title": "삼전닉스, 역대급 실적에도 주가 급락…주주환원 실효성 논란 - 산경투데이",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2SFAzNGpvcF9ENWVibDQ2X1h1YXVzZ3A1TnR6a1FIbmV5NTc1RjBJVDJySk9sdGJmVkhqeE1VYTRTakNkOUh0Z1NPeFZrbmFrRXNYRm9pUnZqWjVxQkEyUk1yRldpcWc5blM0d3VOX3rSAXRBVV95cUxNdlBTTjlRMDlNd2VxSjRUek04cGlsZ1BjMVVtUmkwbXc0a3h4V2hvTG5rQzVRRUhFTnJKLXFZOHZhZDducDRDbEdBbmNNcUNEdFFZVk9IejhMbEkwUjdyNnNNYzhPbkZMN3pfVEktV01JUDlmRQ?oc=5",
@@ -2205,28 +2227,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-26T01:42:39.492Z",
       "lastSeenAt": "2026-10-26T14:10:00.606Z"
-    },
-    {
-      "title": "GPU는 확보했는데 AI는 왜 느릴까?…오케스트로, 추론 최적화 전략 공개 - 테크월드",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wX3hCRWNlWXJqVkNST0RQa0FDOERtZTZ5RnVrXzJkUEU3aEVrUG5Mc29uMXhDME5xeHBTbWZ5cTBad3QwUi1qM1JxMVYyZnA5TVFjdVlISVNRcWtJNW4ydVVzT1UtWG9F?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 01:30:00 GMT",
-      "summary": "GPU는 확보했는데 AI는 왜 느릴까?…오케스트로, 추론 최적화 전략 공개 &nbsp;&nbsp; 테크월드",
-      "outlet": "테크월드",
-      "outletUrl": "https://www.epnc.co.kr",
-      "source": "국내 가속기 운영 SW 보도",
-      "sourceIds": [
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "추론"
-      ],
-      "issueCategory": "추론",
-      "score": 16,
-      "firstSeenAt": "2026-10-26T01:42:39.492Z",
-      "lastSeenAt": "2026-10-29T00:25:13.616Z"
     }
   ]
 }

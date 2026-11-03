@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "Decoding quantum errors with NVIDIA Ising Decoding on AWS - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOckFQYmxPSHh3N3hrOFB6YWY5OWRGSl90UVdHcmdwazVlS0pjVHBxLVpXTW5ocnEza1hOZU5VczNSamdDbDI2U2RyLU9xeDUwdGFNblliZ0Z4dnNWYnpfVXhtT3o3WHhWM24tNzhiTmFEOWRrNFBQZC14T2hhS0lMc3lsMW5ibzJ6T3lFMzJzN25aTUtpRVByMzNxb3RpRmhkWEtVd19jUDM?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 18:13:03 GMT",
+      "summary": "Decoding quantum errors with NVIDIA Ising Decoding on AWS &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "outlet": "Amazon Web Services (AWS)",
+      "outletUrl": "https://aws.amazon.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-21T22:44:58.342Z",
+      "lastSeenAt": "2026-10-22T07:57:53.219Z"
+    },
     {
       "title": "Intel advances chip plants as AI demand surges - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1FyMjkyaUt1UVctaFNjY0xZSFFKYklmRkVvSG5YT0plQk1BNGNRSGt2QzEtaDJOWnpZTkFTVVFma3dyZjRuOWthdDctcllIQUtIVjVrT0UxeGNib1JUTS00WjhaSTlqSVQ2cnNuWnZGd0t4UzZaSnRxMzdyY0QtRDd5eWFFemtJOFpDZ2t4VHVqYTdUbnlhMi1ac3I?oc=5",
@@ -2259,28 +2283,6 @@
       "score": 15,
       "firstSeenAt": "2026-10-21T22:44:58.342Z",
       "lastSeenAt": "2026-10-21T22:44:58.342Z"
-    },
-    {
-      "title": "PEGA Q3 deep dive: execution challenges persist amid AI adoption and go-to-market changes - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNS1UZ3o2MndrYzVhZDI1d0JHVE1KS2dqaW9UODJWdDVTVVVrWjNtZlRpTU1SRUNlR2dHRmRGZVlEdWhQQnY4Q2VzRHE5SXlzMkxKODlFQXBrLVJTb3E4UDF1UWFXd0lGSzFzNzVHNUZmWWFzU1AwUGJiUTNsMnpLSnRGTlVNT2lnUUpKMnNrUG5QYU1TWHJuaTdDd2V2TUlUckZSZXh1d0IzdG80b2xGQnhDdjQ3R29HM0t2Q0c5VDhJUzNoZ3U2UW1ZeU9hOTRGX2xGbi1WWVpBUS1FUUJxeFRoMA?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 15:50:46 GMT",
-      "summary": "PEGA Q3 deep dive: execution challenges persist amid AI adoption and go-to-market changes &nbsp;&nbsp; TradingView",
-      "outlet": "TradingView",
-      "outletUrl": "https://www.tradingview.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-21T17:59:30.941Z",
-      "lastSeenAt": "2026-10-22T14:06:18.862Z"
     }
   ]
 }

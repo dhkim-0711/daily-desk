@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "What Nvidia Just Announced - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01OEhBMjBIQ3ZoQkFEVXJRXzhLWjJQbE5RVjVaUjBQSlVVR2RYY0F0bTB5aFluZzVWOFJwaWlGb3VhMlhQSzNBNzFEUHBDVzQ4V0lJYTE3NHg3SkJrSzVKSDZR?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 14:47:14 GMT",
+      "summary": "What Nvidia Just Announced &nbsp;&nbsp; https://tech-insider.org/",
+      "outlet": "https://tech-insider.org/",
+      "outletUrl": "https://tech-insider.org",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-10-08T22:27:18.434Z",
+      "lastSeenAt": "2026-10-09T02:04:00.554Z"
+    },
     {
       "title": "SpaceX Needs $40 Billion To Buy Chips From Nvidia — Here's Why - BGR",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxcnhudnZlODZ1S3dxX2t0RXdEVmNmRW8xTGNfR1U0OVdVSWs5dnh4czIwaG5JUkpOU1pMb0o1NUdnTGp3a1Q5NEFKdVhxQlhvakY4cTlNVDcwRWtnWDRZV3pJNFd4NTJJYnNnUWx4YjFSdzFreXI0cA?oc=5",
@@ -2256,31 +2280,6 @@
       "score": 15,
       "firstSeenAt": "2026-10-08T16:56:41.528Z",
       "lastSeenAt": "2026-10-11T09:18:23.510Z"
-    },
-    {
-      "title": "Alphabet's Google Cloud Chosen by Zip US for AI-Native Product Factory - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb1hLZnRmOFRKZ2d0ZGlLbDMwRkNGZXRnaGxxX0dGdWdydS0wcmo3TGlkaDhTdllxUEZhajBtYklDMFpUUm5MUmkzUTctSzRrdzVEX25BYkhPckFkVkRMZ1paWXI1LVdMZ1owaDVJSGs1Um42cGdXNnZZalhieHpieHVQbVNySkFUclFzUk5CeEt5bDhydzdLZXJINzdKcWxlN0dIN19nbU1yQVA2ck5STnFBNHhfMXAtRmQwaTdQeGY?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 13:28:02 GMT",
-      "summary": "Alphabet's Google Cloud Chosen by Zip US for AI-Native Product Factory &nbsp;&nbsp; marketscreener.com",
-      "outlet": "marketscreener.com",
-      "outletUrl": "https://www.marketscreener.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-10-08T16:56:41.528Z",
-      "lastSeenAt": "2026-10-08T22:27:18.434Z"
     }
   ]
 }

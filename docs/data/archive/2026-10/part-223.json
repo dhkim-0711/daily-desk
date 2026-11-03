@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "엔비디아 \"위험한 AI엔 칩 공급 중단\"…개발 속도는 유지 - 엠에스투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NLXNXelpmSkpOb2RmeU9iSVhBZTFvbFpneFRUZG9mQVg3MlFTckc1c3BwRFZabkhaWkRsZW9CQ1R0QWdfRFJEbHNmaURESDdqd1NJQ1ZLLUR4VVFUUV9BR1JZV1FjeWRLaGd3ZNIBcEFVX3lxTE4tNUMxUFk5NUNUSVdqTl8yU1FpVmRBZUpiVXZwZFdiRFNvNXptcHFtM0ZyZWF6cGFqdnp2OERYbElheUNTWkVwdzVxUFA3SUQxX0k2NVRVRG14UkRHdnRwMGdSb0FzQjJqNElIQ1BBT3Y?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 01:52:14 GMT",
+      "summary": "엔비디아 \"위험한 AI엔 칩 공급 중단\"…개발 속도는 유지 &nbsp;&nbsp; 엠에스투데이",
+      "outlet": "엠에스투데이",
+      "outletUrl": "https://www.mstoday.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-10-15T12:07:07.357Z",
+      "lastSeenAt": "2026-10-17T23:59:04.133Z"
+    },
     {
       "title": "구미시, SEDEX 2026에서 반도체 기업 투자유치 상담 추진 - 매일일보",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jbkRFVklickFzcHVwc2dyWWY4N0dHV2JWQVBER2d3c3pMaldfT1lwX01OTDRpMVZSUEpXcm5FbGw3V2h2MmRSaHhRdHFQcFl6LUUtdU9qSEJnTFdCVXVEazdxY1Q?oc=5",
@@ -2230,31 +2255,6 @@
       "score": 6,
       "firstSeenAt": "2026-10-17T23:59:04.133Z",
       "lastSeenAt": "2026-10-17T23:59:04.133Z"
-    },
-    {
-      "title": "Riverlane and NVIDIA Demonstrate Accelerated QEC Decoder Calibration Using GPU Processing - Quantum Computing Report",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc0drdU9tWkJvR1JqY2lmUUJUX3phWW4wNWdxMEhQTGNZdVhTWmVCakxQYWI1eVBQLVJYRWJpanlpNU1iVVlhQ0lSaXdRcHBSV0FET1U0ZkNxdWlmcHF3MjU0TDVhcTRPZEtFbVJxNWpWVkdCUWtQbEt2cDk0blR0azFWZlNfVktnay14eDJ2RUxLT09PVm1jNWc2T3Q3cXdSYnE2aERRLTY1ZFJfcDVpaV83eUV3aVA1Rm5DWEYtcE81SDjSAcgBQVVfeXFMTTQ3VEZFbFJIMDhGd3JueG9QMW9BZUdObTZUbGNsYkNVWXBpZXZMTHBncHBTQ2U3Z19QS1drRWVTaXBpODJjLTRHN3JtQm5SOG5udDJ1d0pPNkZrbVdReWtKLTNaUFI2d3Qtc0ROU1BNTllEV001OXJybWlZZ0lfM1RhUGZpZXdKcERVTFdVcDVadDMtRGRad2NJbHAyNXJ6ZWV1cG80Zlk3dVhqd2hfeUpuZGM4S3lEVFphYkxSZFlKV2FKWmJ4OWQ?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 00:34:11 GMT",
-      "summary": "Riverlane and NVIDIA Demonstrate Accelerated QEC Decoder Calibration Using GPU Processing &nbsp;&nbsp; Quantum Computing Report",
-      "outlet": "Quantum Computing Report",
-      "outletUrl": "https://quantumcomputingreport.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "파운드리·패키징"
-      ],
-      "issueCategory": "파운드리·패키징",
-      "score": 23,
-      "firstSeenAt": "2026-10-15T04:50:37.120Z",
-      "lastSeenAt": "2026-10-15T17:44:44.157Z"
     }
   ]
 }

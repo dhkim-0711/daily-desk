@@ -1,7 +1,29 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "First Abu Dhabi Bank Accelerates AI Adoption to Drive Enterprise-Wide Transformation - Bain & Company",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUViemRPVG5fbXVpakF2NWdPYUg2emFPRVhzdnd0V0hDOW5zczNwSkI5TVYtMFdGeTdNVk82LWM4UUJqT25LRXRCYkI1ZlBIbFU4VE9Wc28wQ3l3Zzk3eXZrZXlycGcxbW0xQzV2YjgzSnItUHhuVDBMY01QMlFmZUVHU1pOM3Y1ZWV5alBhSzhaX1hK?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 19:30:39 GMT",
+      "summary": "First Abu Dhabi Bank Accelerates AI Adoption to Drive Enterprise-Wide Transformation &nbsp;&nbsp; Bain & Company",
+      "outlet": "Bain & Company",
+      "outletUrl": "https://www.bain.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-10-29T01:46:05.232Z",
+      "lastSeenAt": "2026-10-29T13:43:00.739Z"
+    },
     {
       "title": "ServiceNow (NOW) Deepens Enterprise AI Workflow Push - Simply Wall St",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWxnem9PdkJMZUY0N2tWWUd1UFpVTGFzRDBib05acWpDS3RYN0tuRnJKVmY0Z1kxR3Z2OXk1MFJKY2hzdkxIdjVleGdWTVNiSm5LMTBSd3gyV0NfNF9sNVVoZE9WbmpmWlZzblktVWNaaFg4eG9nTVNxR3NwSEM4WGJHMXBrZWJCekN5QW9Ub2tyWW40bnlvMkNDV0hHWVg2R3huT2N3LVM2VDFTdk1aZWVGR2Rib0HSAbwBQVVfeXFMUEstTWFtdFlVTXJ5T0dZWVY2ZktSVU9ZX083c2FoeU93cmoyVWdWWWI1bkRIR0FXeF9uSUpLWkp2R1RoNUxqVVJ3cnhhMEkxZnZVbkdaRjVMTVAyYURpQ3liUk10dzVteDVTZ0ltd1U2dDVTNmdDcFlWa3p0eFlKRFhHa2I5RDRUS0xVcHRhVjRobU4wWFNfYkVCN0EzeE1sNktvRTEzMDBSUUlzcXVDX29NLUNmT05GWmNQOVY?oc=5",
@@ -2266,34 +2288,6 @@
       "score": 26,
       "firstSeenAt": "2026-10-28T18:48:46.253Z",
       "lastSeenAt": "2026-10-29T06:14:00.383Z"
-    },
-    {
-      "title": "리벨리온 NPU, 쿠버네티스 분산 추론 'llm-d' v1.0 공식 하드웨어 채택 - 한국신용신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tVXNKVlZoNzRINUs3S01RemNBc0RRTEFjODZUTm5WU1VmMGRXeHpTeHRQcXAwclM1QWZWai1BTDA2aUM2OF85ZDhqZDBuZkp3cnU0emEzbzEzb29mQ3dFNHBFNmd5d0YwamZV?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 17:01:00 GMT",
-      "summary": "리벨리온 NPU, 쿠버네티스 분산 추론 'llm-d' v1.0 공식 하드웨어 채택 &nbsp;&nbsp; 한국신용신문",
-      "outlet": "한국신용신문",
-      "outletUrl": "https://www.creditnews.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "rebellions",
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "추론",
-        "리벨리온"
-      ],
-      "issueCategory": "NPU",
-      "score": 26,
-      "firstSeenAt": "2026-10-28T18:48:46.253Z",
-      "lastSeenAt": "2026-10-31T13:53:33.382Z"
     }
   ]
 }

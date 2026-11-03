@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "SpaceX Stock Drops After Hours as Elon Musk-led Company Seeks $40 Billion to Buy Nvidia Chips - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmJxblp1S2xfUTZDWlluRzU4T1FOY2RxRTNneVdiUTU5TW8xZk5VRlA2d2dTcEJrZkI1WmZ3MWxZOWNrUzRzbUFEWHdJQWFKUVMwS3lVUzlqaTU3NFZCSXJUUWVHZXdPZ0hOLVJ1ZlJOa3c0WGNJUi05RGdzaHkwcVo5VGVfUUJ3RFR4dWZad19mS0xweWt1QUVR?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 01:49:00 GMT",
+      "summary": "SpaceX Stock Drops After Hours as Elon Musk-led Company Seeks $40 Billion to Buy Nvidia Chips &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-07T06:09:20.068Z"
+    },
     {
       "title": "부산진해경자청, 한국MS와 데이터 센터 협력 논의 - 메트로신문",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNmhlSURlYWNHUlNrR0NTNkJvOXFZdWZDWWN2by1NbDVRQlZHTE9oODRGLWtmcVVueTRnOXVidlZzVFVlN1hxWkhqVWNtSXFKVXI0cUlibnhPRUN5QkFDaw?oc=5",
@@ -2254,28 +2278,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-07T01:22:11.936Z",
       "lastSeenAt": "2026-10-09T18:46:22.187Z"
-    },
-    {
-      "title": "현대엔지니어링, 8700억 인천 데이터센터 수주…군산 이어 연속 성과 - Daum",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmNGtNWDZWU2k2ZDF2VnRtYWhrNTh0d21MSXBqZjJRbUVEOEEwcHBhRkg3ZHQwRjhmQnRMMXVWUHRYdmlfNG1vc3JlcG5SU2M?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 01:03:03 GMT",
-      "summary": "현대엔지니어링, 8700억 인천 데이터센터 수주…군산 이어 연속 성과 &nbsp;&nbsp; Daum",
-      "outlet": "Daum",
-      "outletUrl": "https://v.daum.net",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-07T01:22:11.936Z",
-      "lastSeenAt": "2026-10-07T06:09:20.068Z"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "[사설] 호남 반도체 전력망, 한전은 재무 타령만 할 것인가 - 진일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FVlVOMFdNLTFSSHZhOEE2S0Z1c3FuOWRCRFlFMVVvSnZBa3g5eDc2VFNpb1JUcHRBcEFSWEN3UF9RNTJGb0c1aFVubGdhZUVBaXQ5OTFIUXM5amJrS2lmMEZqRHh5RG1oWUw3LVQyOA?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 07:35:00 GMT",
+      "summary": "[사설] 호남 반도체 전력망, 한전은 재무 타령만 할 것인가 &nbsp;&nbsp; 진일보",
+      "outlet": "진일보",
+      "outletUrl": "https://www.jnilbo.com",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-10-13T19:31:54.043Z",
+      "lastSeenAt": "2026-10-15T00:28:45.158Z"
+    },
     {
       "title": "엔비디아·시스코, AI 데이터센터용 광통신 모듈 ‘USFP’ 공동 개발… 대역폭 밀도 4배 확대 - 뉴스탭",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YUFFPeFd4emRUalZkanExM2ZTQlBxUERQejJ5MFg5UzBTZi1sT0R0dUNwR3VOa19XX3VUVXNfNXY2dncwZ09KODR0ZVFtSzlKV2huSUpNWDQtWnN4cEt2UnN4X1hSUk1PMGRfMw?oc=5",
@@ -2225,28 +2245,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-13T06:52:47.139Z",
       "lastSeenAt": "2026-10-14T01:10:06.419Z"
-    },
-    {
-      "title": "LS일렉트릭, 북미 데이터센터 현장발전 시장서 배전사업 확대 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZZm9SVXZaa2FuWWFIay00eFVVSjJVdnBGZ0p3T19zNjVhRGFxSWpLRWdsaVJsMjF3aTJELWQ2cnVnMGJxcFRiNUJqNWxKTlhlaE82RVZ6NExJVVNCZnBESjFxRkk?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 06:08:53 GMT",
-      "summary": "LS일렉트릭, 북미 데이터센터 현장발전 시장서 배전사업 확대 &nbsp;&nbsp; 매일일보",
-      "outlet": "매일일보",
-      "outletUrl": "https://www.m-i.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-10-13T06:52:47.139Z",
-      "lastSeenAt": "2026-10-14T06:07:24.751Z"
     }
   ]
 }

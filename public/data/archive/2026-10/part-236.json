@@ -1,7 +1,37 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "publishedAt": "Wed, 14 Oct 2026 06:00:28 +0000",
+      "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make [&#8230;]",
+      "outlet": "NVIDIA Blog",
+      "outletUrl": "https://blogs.nvidia.com",
+      "source": "NVIDIA 공식 기술발표",
+      "sourceIds": [
+        "nvidia-official-blog",
+        "nvidia-official-news",
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "AI인프라",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 26,
+      "fullSummary": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations Across the region, local software, infrastructure and integration partners are using NVIDIA accelerated computing and models to build agentic applications that improve city operations and public services. October 13, 2026 by Charbel Aoun 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents...",
+      "summarySource": "article",
+      "firstSeenAt": "2026-10-14T06:07:24.751Z",
+      "lastSeenAt": "2026-10-17T05:32:13.346Z"
+    },
     {
       "title": "12화 12. 젠슨 황, AI 공장을 만들다 - 브런치",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WVHVlLUV6UXZQNE9uVmp1T1RSTEZ4RXFhNW5mSVQxaTNrTWJ0eEFPU3o4aGRMbjFtZ0NoWlRXV1Q3aFVFbS1OekRLaVM?oc=5",
@@ -2171,27 +2201,6 @@
       "score": 13,
       "firstSeenAt": "2026-10-14T06:07:24.751Z",
       "lastSeenAt": "2026-10-15T00:28:45.158Z"
-    },
-    {
-      "title": "카카오 '모두의 AI' MAU 500만 목표…과업 완료율로 성과 평가 | - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93OVpFQm5TTHoyRnc3TmM4WkgxWlVqemVpT3BWdkNmZGMzNldpWFM0ZWhKcTBRNzk3RHdoUUNxdXFMeGx1NFJncGg3el9MZ1RDUFNxWTk5eE9ZY0lfNUFPYTdydmpuckNLR3J5LVdjU21wMllK?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 05:14:15 GMT",
-      "summary": "카카오 '모두의 AI' MAU 500만 목표…과업 완료율로 성과 평가 | &nbsp;&nbsp; 연합인포맥스",
-      "outlet": "연합인포맥스",
-      "outletUrl": "https://news.einfomax.co.kr",
-      "source": "국산 NPU 실증·협력",
-      "sourceIds": [
-        "npu-commercialization",
-        "ai-chip-public-program"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-14T06:07:24.751Z",
-      "lastSeenAt": "2026-10-17T04:49:34.467Z"
     }
   ]
 }

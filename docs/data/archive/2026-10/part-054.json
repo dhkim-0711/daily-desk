@@ -1,7 +1,33 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "광주교통공사, 국내 도시철도첫 NPU 기반 차상 엣지 AI 실증 - 한국철도일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOa3V1MTZtQ0dSNXl2OUdfWk5VWTlLMlFLSzFUX01HNk1DbE9uTFNZdEhQMFFNWE9rS0RhZ1diUC01YnRHdjVuX0Q3MjZ0ZnBSdEo5WU9LYWdRaEc4dk40eW1wNDBGMTJVNFV1ZzBucWo?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 02:28:56 GMT",
+      "summary": "광주교통공사, 국내 도시철도첫 NPU 기반 차상 엣지 AI 실증 &nbsp;&nbsp; 한국철도일보",
+      "outlet": "한국철도일보",
+      "outletUrl": "https://www.korearailroad.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "local-government-npu",
+        "npu-commercialization"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "NPU",
+        "온디바이스AI",
+        "실증·조달"
+      ],
+      "issueCategory": "NPU",
+      "score": 22,
+      "firstSeenAt": "2026-10-28T05:53:34.298Z",
+      "lastSeenAt": "2026-10-31T01:33:01.539Z"
+    },
     {
       "title": "LG유플러스, 한국이콜랩과 AI 데이터센터 액체냉각 표준 개발 - 더트래커",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OS1E2dkxVRlBXQy03RHI4SGZLNE1hUk5LaU16SEpSSk10eVJLYnhpRVFlYi1ZN1ZqWEZMVkNBQkNCbzVvY0pqSF82bVh2Q3lMYXdOZUxXdGE?oc=5",
@@ -2209,27 +2235,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-28T05:53:34.298Z",
       "lastSeenAt": "2026-10-28T05:53:34.298Z"
-    },
-    {
-      "title": "SK머티리얼즈, 일본 후루카와전기와 AI 반도체 재료사업 협력 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vakpnLV95VUVzdF9uOEZNbF96OTk1QU1ZMlkwSlBLNHhrZUY3MG9kZHJBSkhRQXJpV0tNTkNEVGVQaGlwbWFJa0phWWkzelRCa25oOUpKeHhiaTluRF80M9IBYEFVX3lxTE9vakpnLV95VUVzdF9uOEZNbF96OTk1QU1ZMlkwSlBLNHhrZUY3MG9kZHJBSkhRQXJpV0tNTkNEVGVQaGlwbWFJa0phWWkzelRCa25oOUpKeHhiaTluRF80Mw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 01:35:48 GMT",
-      "summary": "SK머티리얼즈, 일본 후루카와전기와 AI 반도체 재료사업 협력 &nbsp;&nbsp; 연합뉴스",
-      "outlet": "연합뉴스",
-      "outletUrl": "https://www.yna.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy",
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-28T05:53:34.298Z",
-      "lastSeenAt": "2026-10-31T05:55:21.679Z"
     }
   ]
 }

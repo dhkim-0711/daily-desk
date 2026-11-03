@@ -1,7 +1,31 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "부산대, 구글 전문가와 글로벌 진로·AI 활용법 공유 - 중도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FQkJ5Ni13OFJOUEd2WHllbGp6dUExSGlUNkQyRUsxQmVxQTJMVTVueDd0bVhmajNyWi12bloxWkNlSkd4NkFYcVNPNGFBcHJZSXBSMVNmLVlGald2OHl4VmNESnhwX2VzRVB4Vg?oc=5",
+      "publishedAt": "Sat, 24 Oct 2026 00:21:29 GMT",
+      "summary": "부산대, 구글 전문가와 글로벌 진로·AI 활용법 공유 &nbsp;&nbsp; 중도일보",
+      "outlet": "중도일보",
+      "outletUrl": "https://www.joongdo.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-10-24T00:34:18.123Z",
+      "lastSeenAt": "2026-10-26T05:09:10.180Z"
+    },
     {
       "title": "How to Price AI Agent Seats With Variable Usage That Actually Holds - Startup Fortune",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3ByVzAzMlFTNVgwVDNfLWthRG1hZkpLaG1Sb2otT3V4bFBINlhRX0s0TXhSX181bjBVTENzT2NTRF9LZXJ3cWExMV84dHE3STk5U21USHlncFZPSTdEQ2tPQ3pBRzF6eFhucVRIN3BOSkhrdmxmdFZPTHkxaURKYmVoNndUVmFWQzlkQ2NKRC1aeEQ0a0dvdUE3WQ?oc=5",
@@ -2187,28 +2211,6 @@
       "score": 20,
       "firstSeenAt": "2026-10-24T00:03:33.173Z",
       "lastSeenAt": "2026-10-26T06:04:07.551Z"
-    },
-    {
-      "title": "미국증시 '마감 직전'...반도체ETF & AMD-마이크론-인텔 '상승' - 초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DZEV6MXBpZXJRcjQ4ZEVFTGVjV2NfamsyMVVvWGZ5Qno5SGJaRUxVS1E5SVZpSTZ4S0Z4aDZwNVM3Rktia0wtYnpUaWZZWWhkeDZ5bXJPcFBxZ1FlMk1lVl9ZaFdETUgxc0lLLUZaalrSAXNBVV95cUxQSjZvZkdTTUNzR090NzYxaWNMYW5EdHJKZ0Y4N2hFQ2FHT3BRRkZQdlpxQlROOGl4SFozSWMwQ0U1OEFYVWpwVEFTNlg5VVZLQk1wQTdWNHByMDRKTk9oMUhBZDZ1Qms1M3Yya1RFUURSV1M0?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 20:37:07 GMT",
-      "summary": "미국증시 '마감 직전'...반도체ETF & AMD-마이크론-인텔 '상승' &nbsp;&nbsp; 초이스경제",
-      "outlet": "초이스경제",
-      "outletUrl": "https://www.choicenews.co.kr",
-      "source": "AI반도체 시장·수급",
-      "sourceIds": [
-        "ai-chip-capital-market-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "AMD"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 12,
-      "firstSeenAt": "2026-10-24T04:46:23.742Z",
-      "lastSeenAt": "2026-10-27T00:04:50.261Z"
     }
   ]
 }

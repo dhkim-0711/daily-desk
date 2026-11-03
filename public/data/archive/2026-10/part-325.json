@@ -1,7 +1,36 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "국산 AI 반도체, AMD와 글로벌 진출 노린다 - 네이트뷰",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKRThfZDh6ZEZHbDhTUURYazJONE1pRVhYRkRvdnlPdUtCOHFGcV9VY0Nja3hXRElVM3RSa01kZjdYWTluTUs2SEJwb1d4b0Y50gFWQVVfeXFMTy1tYzlxNEltSG10RTlsaTdDSFJ0Q3dna0RKWmNWQUlJdW9SMkFzTTJvSkZSTm1JYlNJdnZrZnNRUllSNTZsNWJvUnU1S29uaW45dElHUGc?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 02:48:00 GMT",
+      "summary": "국산 AI 반도체, AMD와 글로벌 진출 노린다 &nbsp;&nbsp; 네이트뷰",
+      "outlet": "네이트뷰",
+      "outletUrl": "https://view.nate.com",
+      "source": "과기정통부 AI반도체",
+      "sourceIds": [
+        "msit-ai-chip",
+        "ai-chip-public-program",
+        "rebellions",
+        "furiosa",
+        "npu-commercialization",
+        "nipa-msit-policy",
+        "government-npu-policy",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 17,
+      "firstSeenAt": "2026-10-07T06:09:20.068Z",
+      "lastSeenAt": "2026-10-23T00:36:22.880Z"
+    },
     {
       "title": "‘서남권 NH금융허브’ 신설… 전남광주시 전략산업 지원 - 문화일보",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzWE5rZGlzeG5STkVFSHQ4UHcyU2JLbTlESnppcEZ5aXJDUGFDWUNQNGtlVDR6eU1qbGg1UWktNDBRNDRJWGRLNHc2OGd1SnFh?oc=5",
@@ -2263,30 +2292,6 @@
       "score": 13,
       "firstSeenAt": "2026-10-07T06:09:20.068Z",
       "lastSeenAt": "2026-10-09T06:18:21.828Z"
-    },
-    {
-      "title": "SpaceX Stock Drops After Hours as Elon Musk-led Company Seeks $40 Billion to Buy Nvidia Chips - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmJxblp1S2xfUTZDWlluRzU4T1FOY2RxRTNneVdiUTU5TW8xZk5VRlA2d2dTcEJrZkI1WmZ3MWxZOWNrUzRzbUFEWHdJQWFKUVMwS3lVUzlqaTU3NFZCSXJUUWVHZXdPZ0hOLVJ1ZlJOa3c0WGNJUi05RGdzaHkwcVo5VGVfUUJ3RFR4dWZad19mS0xweWt1QUVR?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 01:49:00 GMT",
-      "summary": "SpaceX Stock Drops After Hours as Elon Musk-led Company Seeks $40 Billion to Buy Nvidia Chips &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-10-07T06:09:20.068Z",
-      "lastSeenAt": "2026-10-07T06:09:20.068Z"
     }
   ]
 }

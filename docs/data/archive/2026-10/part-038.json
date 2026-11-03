@@ -1,7 +1,27 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "AI 답변에 인용되는 유튜브, 조회수보다 질문에 답한 영상 - 플래텀(Platum)",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TVktJUndpb2tIQ3JpX0JnS0hhemxHVkNSdTFUd3pDcGwwWm1sWTN6aVl0aVdJNGF2TDFsajF2eEpsRHM2V1hxYQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 02:10:52 GMT",
+      "summary": "AI 답변에 인용되는 유튜브, 조회수보다 질문에 답한 영상 &nbsp;&nbsp; 플래텀(Platum)",
+      "outlet": "플래텀(Platum)",
+      "outletUrl": "https://platum.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-10-29T05:58:08.944Z",
+      "lastSeenAt": "2026-10-29T06:14:00.383Z"
+    },
     {
       "title": "브로드컴 목표가 400달러로 상향…AI 투자 확대 기대 - 스페셜경제",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NY05GMkZZbmR4Z254WGpLS1ZPT1cxSndDNXBQbHZuZzdYa0prVVZhdnhUN3p6VUJaZEg4NkdvUjRxc0xPZWw5ajBUNnBJb0xILU5UbF8wN0pXVnNERGRMYUx1bnpLUGNPWDJuZg?oc=5",
@@ -2270,28 +2290,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-29T01:46:05.232Z",
       "lastSeenAt": "2026-10-29T01:46:05.232Z"
-    },
-    {
-      "title": "NEAR Protocol Announces Launch of Kimi K3.1 Pro on AI Cloud - Cryptonews.net",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tNkhBNVVLdHFIMDZKNkV3LUVxbzJwS1oxVkNoUlp2RmkwbmRkejBQWE4zb01Xejg4TnlRYlZyOU1jSVUxVFoxWmxJNnhIMElwdTJVVTBOSHNRMnMy?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:00:00 GMT",
-      "summary": "NEAR Protocol Announces Launch of Kimi K3.1 Pro on AI Cloud &nbsp;&nbsp; Cryptonews.net",
-      "outlet": "Cryptonews.net",
-      "outletUrl": "https://cryptonews.net",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 16,
-      "firstSeenAt": "2026-10-29T10:51:24.641Z",
-      "lastSeenAt": "2026-10-29T10:51:24.641Z"
     }
   ]
 }

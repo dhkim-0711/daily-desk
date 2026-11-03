@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "엔비디아, 中 AI칩 점유율 34% '뚝'…화웨이 28% 추격 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lQXpzMlhwV1YzeFZhcEFFTzZWbXJVVTNweVA5clowZnZxM2NfVkhSM0UyQ0FYQl9GZ2lDd2x4TlpZeFlQUk5zODJHWmZSbV9GR01aaU9QOG9LWGJ5T0xJaXg4VndNYzktMjFTWkc4djZfLWpa0gF0QVVfeXFMTmVBenMyWHBXVjN4VmFwQUVPNlZtclVVM3B5UDlyWjBmdnEzY19WSFIzRTJDQVhCX0ZnaUN3bHhOWll4WVBSTnM4MkdaZlJtX0ZHTVppT1A4b0tYYnlPTElpeDhWd01jOS0yMVNaRzh2Nl8talo?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 12:23:15 GMT",
+      "summary": "엔비디아, 中 AI칩 점유율 34% '뚝'…화웨이 28% 추격 &nbsp;&nbsp; IT조선",
+      "outlet": "IT조선",
+      "outletUrl": "https://it.chosun.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "government-npu-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-10-13T19:31:54.043Z",
+      "lastSeenAt": "2026-10-16T11:54:32.707Z"
+    },
     {
       "title": "Nvidia Loses Ground in China as AI Chip Shipments Plunge 44% - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFFoWld0RzFpYUVpUHh5WHhZSE9rcGZnVkpRZEhQYWdNTUpodUdMdENwT2djcFZjWjA2Qi1MMlF4Mkd2UVZ3ajhXRG5HX1FOeFBfeWFWcmZzSWFNcU5BZU96cVVsNkVyTG85ZFBoMXZxSjg4ajVPU29Tc2d4ZHFXWHAzbHZaMG55djk3ZWNhY3VXNy15YnRMekFhU2dLVVBEZldqOU52TWlrYmZCOXh5M3E2TVZYN09Xb1Zr?oc=5",
@@ -2183,26 +2208,6 @@
       "score": 8,
       "firstSeenAt": "2026-10-13T19:31:54.043Z",
       "lastSeenAt": "2026-10-14T01:10:06.419Z"
-    },
-    {
-      "title": "Semtech, AI 인터커넥트를 위해 Tower에서 전용 SiGe 생산능력 확보 - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjVZd2xPMUpobk52Zk5VY21yZzJicGhYQXhvNV8wWEU3SzlLZjRDTTAxcGJ5UFRWcTYyendDQUxBUkJQd1ZiT3kwT082OXVmWWdsOG90ckQ3TzZlZ1AtN1NyTGJIcVVHSngtV2JCbVdhU2tUTm5PR2R2NWJLRkdJNTRpNG9EVHk4X2FsVTNxc3FwSW5RZm5xQw?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 10:29:46 GMT",
-      "summary": "Semtech, AI 인터커넥트를 위해 Tower에서 전용 SiGe 생산능력 확보 &nbsp;&nbsp; Unite.AI",
-      "outlet": "Unite.AI",
-      "outletUrl": "https://www.unite.ai",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-10-13T19:31:54.043Z",
-      "lastSeenAt": "2026-10-14T05:12:24.109Z"
     }
   ]
 }

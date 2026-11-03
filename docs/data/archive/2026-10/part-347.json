@@ -1,7 +1,33 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "Nvidia, Broadcom face limited risk from US data center power crunch - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUZaS3lldlgtOU4tMjBkWWxLaXN0ckRYMUIzZUtMOFZhdEpRZGlGa2w5azVpZ080TTZ5VmRXSGZKYzdPWS1xNVJaQ05Zc1V0Tm91Y05TSEk0Tnp3SmZBd0Y1M3c5S3puYUo1WE1aeVc4NkxYZkxQUFFmdmJ4SmF0Rlo5YmdQOTJEbWlyTHFWQUM?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 17:38:30 GMT",
+      "summary": "Nvidia, Broadcom face limited risk from US data center power crunch &nbsp;&nbsp; Latest news from Azerbaijan",
+      "outlet": "Latest news from Azerbaijan",
+      "outletUrl": "https://news.az",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "Broadcom"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 22,
+      "firstSeenAt": "2026-10-05T22:54:59.985Z",
+      "lastSeenAt": "2026-10-05T22:54:59.985Z"
+    },
     {
       "title": "Press Kit: Agentic PCs - newsroom.amd.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41QzktbGJGNS1nWVJ3anh2M2tuQXFicFNDLUhUM2R5WEctMjZFQ19vVVNaRVJXeHFJb0pVWkh0LXF5V3VsNXJib2w3MWV0R0dDaVp1R0NJaUdIa3pGN1dkV1AyRTZIbk5FWnc?oc=5",
@@ -2266,32 +2292,6 @@
       "score": 12,
       "firstSeenAt": "2026-10-05T15:55:35.141Z",
       "lastSeenAt": "2026-10-08T11:18:21.272Z"
-    },
-    {
-      "title": "Promevo Launches Insights by Promevo for a Total View of AI Agents, Gemini Enterprise Adoption, and Google Cloud Spend - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbG5TcGZHdlpsX3dhU2VaUU5uS1pzSEV0d0RsX29DekRzclcxc0RtOG0wb3I4aXAxYTRFcHJabEZFT253ZXFNYS1ueDVDeTFlU1Bwam8wSF8xblRmcUhVMFpkcmpySnoxdDlzN0JnSFdIcFp4N25uRjBrbHI3OVd2YXB4MnNZLXYyZUlEdE1vWEFZYXZuNGk4bGl0b0hNU2ZzRnhVXzRSSzdEUW1lZlNJdWZtaGpiaUNoMW1uc0VsQ1pPWnMxbnc0Und4MUNCZUVkV0xvNnhuT2l2bWFfR0F1UkRmWTlNaGdjS2pULWg2R3pfaXRvNlJYSHVHUXQ5ZVRrTXc?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 15:04:00 GMT",
-      "summary": "Promevo Launches Insights by Promevo for a Total View of AI Agents, Gemini Enterprise Adoption, and Google Cloud Spend &nbsp;&nbsp; PR Newswire",
-      "outlet": "PR Newswire",
-      "outletUrl": "https://www.prnewswire.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "AI인프라",
-        "Google"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 26,
-      "firstSeenAt": "2026-10-05T15:55:35.141Z",
-      "lastSeenAt": "2026-10-06T11:12:33.144Z"
     }
   ]
 }

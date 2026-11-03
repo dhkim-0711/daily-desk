@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "엔비디아 DSX, 유럽 AI 팩토리 전력·냉각 효율 향상 지원 - 미디어픽",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94MHNjcGhkeW1SdDF2SW1OOXU5cElKZG9ROVRsUmFSTkFsUHF6TDBoa2FzV2lvVHZDRDAxYk1lQU1JLXdVdVNYWmZFRWtVVnRNVHk1Wmd4bGw0cnl6NlhyaUhkWWxGUElOYkFZ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 15:04:08 GMT",
+      "summary": "엔비디아 DSX, 유럽 AI 팩토리 전력·냉각 효율 향상 지원 &nbsp;&nbsp; 미디어픽",
+      "outlet": "미디어픽",
+      "outletUrl": "https://www.mediapic.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-23T05:11:49.685Z"
+    },
     {
       "title": "Chinese chipmakers roll out new RISC-V server CPUs for AI demand - Global Times",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vZ09OVHBISDU2MF9IZEdNQllVOWVoanN0T3dVdWtSUkdPMXlLOG1CbjJLeks5QVJXcjh5M2RTQ2xJRkhLSE1uOHdiWXBmTUNHSngtNnNJb0dpSm9IZVlnVzVB?oc=5",
@@ -2201,28 +2226,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-22T17:56:53.418Z",
       "lastSeenAt": "2026-10-23T01:57:31.733Z"
-    },
-    {
-      "title": "Meta’s new Class C stock to keep Zuckerberg in California, fund AI spending spree - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOendIcEI1OEszaHNVWmpqb3RWZm8wTHctWWEwY0MyVHBDcGVjdmxSdEhySlplVkhVWG9DTmxLeUF2Z1lHQmp3RFVLWlVmTTBTSHRodktObXFUcm01OGxIemlhRk8xUTg0VWJaTF9IblpWSVlTOHhBQ25DclBvUEZGNXRWeG9hLWUxSHRnZ1c2X2hTM1VZN0VsQ293WlZBcDFMNGFqdlNJcVIzYjFzTlp5ZjMxS3NGVy1pRkpaaDg3Z05zRVF2LW81M3JGVjVUTUNJLXc?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 13:44:05 GMT",
-      "summary": "Meta’s new Class C stock to keep Zuckerberg in California, fund AI spending spree &nbsp;&nbsp; Investing.com",
-      "outlet": "Investing.com",
-      "outletUrl": "https://www.investing.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-10-22T14:06:18.862Z",
-      "lastSeenAt": "2026-10-25T12:32:15.609Z"
     }
   ]
 }

@@ -1,7 +1,29 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "Ramp built an AI agent harness in six weeks — and LangChain's CEO says it's part of a bigger shift - The New Stack",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtOEJGVk1RNWp4QVdQWENqeVdQTGJqWHdSd0RfaGdSWWpld0FBWFFraWpVNHJQV3JlSmlKOWZkWkNCWUo3NW5FRGJUX2l3cFlMZXZiUFFreWJ6dXpUdHI0?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 16:32:30 GMT",
+      "summary": "Ramp built an AI agent harness in six weeks — and LangChain's CEO says it's part of a bigger shift &nbsp;&nbsp; The New Stack",
+      "outlet": "The New Stack",
+      "outletUrl": "https://thenewstack.io",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-10-22T17:56:53.418Z",
+      "lastSeenAt": "2026-10-25T12:32:15.609Z"
+    },
     {
       "title": "Supersizing AI: The Changing Role of Advanced Packaging - TechInsights",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQbnNsbTdVRFlBb1hjYnNvZmFIOHA0TzlxS05iMVlNMEt6aHdnYURSX2NkYWNRODVhSkljTDF4eDQtMldDSC1ZQmd0T2F3bWMwMkR4Y25oLU9vZHNPSGIxOENtNk4tUWVPVEl6NjhXVXh0SUpHZEE?oc=5",
@@ -2272,31 +2294,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-22T17:56:53.418Z",
       "lastSeenAt": "2026-10-25T17:02:39.149Z"
-    },
-    {
-      "title": "엔비디아 DSX, 유럽 AI 팩토리 전력·냉각 효율 향상 지원 - 미디어픽",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94MHNjcGhkeW1SdDF2SW1OOXU5cElKZG9ROVRsUmFSTkFsUHF6TDBoa2FzV2lvVHZDRDAxYk1lQU1JLXdVdVNYWmZFRWtVVnRNVHk1Wmd4bGw0cnl6NlhyaUhkWWxGUElOYkFZ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 15:04:08 GMT",
-      "summary": "엔비디아 DSX, 유럽 AI 팩토리 전력·냉각 효율 향상 지원 &nbsp;&nbsp; 미디어픽",
-      "outlet": "미디어픽",
-      "outletUrl": "https://www.mediapic.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 23,
-      "firstSeenAt": "2026-10-22T17:56:53.418Z",
-      "lastSeenAt": "2026-10-23T05:11:49.685Z"
     }
   ]
 }

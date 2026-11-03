@@ -1,7 +1,32 @@
 {
   "month": "2026-10",
-  "updatedAt": "2026-11-03T01:47:20.917Z",
+  "updatedAt": "2026-11-03T06:57:50.818Z",
   "articles": [
+    {
+      "title": "NVIDIA GTC Berlin 2026: DSX PODs, Supply Chain Targets, and OpenShell - news.lavx.hu",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQjhfaXdHVk8xOG9pZzlZU0dWMWpDbldFek5iTXZqR1BzczdabDdmOGVtZ0FwUmFxTmlWbGpxcW93SXNRWF9iQi1FeEZzNzFfOXM4UnVZUFJjNFRTb3JxMXhRV3pHUl96TklOMTREQS13N0k0T2pJdlp0azY4QjhlMEVoM0tnTFBHV0JqWjkxMU81ODlpeWo5Z3g4NA?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 20:26:44 GMT",
+      "summary": "NVIDIA GTC Berlin 2026: DSX PODs, Supply Chain Targets, and OpenShell &nbsp;&nbsp; news.lavx.hu",
+      "outlet": "news.lavx.hu",
+      "outletUrl": "https://news.lavx.hu",
+      "source": "가속기 운영 SW",
+      "sourceIds": [
+        "accelerator-software"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "AI시장",
+      "score": 18,
+      "firstSeenAt": "2026-10-21T22:44:58.342Z",
+      "lastSeenAt": "2026-10-24T16:32:57.734Z"
+    },
     {
       "title": "A strong profit report from SpaceX helps lift tech stocks and Wall Street - BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFZCMXpkWmJ6bnM1RjZTX19JMDVuVmVOcXA0RThZOFJFQ0pTeUN2SGRjUlZRQktQbHBtLUczMUsyVkgwNjhCSzJQa3BabzM2eWQ5MlBwQXU1MEVtX0RuTHM4U1lqRXkxdkFyUmhrUElDSFNady0tWEJnMDFDbTBSam9tRnRpeE4wM2FpUjFlUjU3X3RHZlRUX3NiNko5aE5UQ0tBZjRhTVNIQQ?oc=5",
@@ -2260,30 +2285,6 @@
       "score": 16,
       "firstSeenAt": "2026-10-21T22:44:58.342Z",
       "lastSeenAt": "2026-10-24T16:32:57.734Z"
-    },
-    {
-      "title": "Decoding quantum errors with NVIDIA Ising Decoding on AWS - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOckFQYmxPSHh3N3hrOFB6YWY5OWRGSl90UVdHcmdwazVlS0pjVHBxLVpXTW5ocnEza1hOZU5VczNSamdDbDI2U2RyLU9xeDUwdGFNblliZ0Z4dnNWYnpfVXhtT3o3WHhWM24tNzhiTmFEOWRrNFBQZC14T2hhS0lMc3lsMW5ibzJ6T3lFMzJzN25aTUtpRVByMzNxb3RpRmhkWEtVd19jUDM?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 18:13:03 GMT",
-      "summary": "Decoding quantum errors with NVIDIA Ising Decoding on AWS &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "outlet": "Amazon Web Services (AWS)",
-      "outletUrl": "https://aws.amazon.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-10-21T22:44:58.342Z",
-      "lastSeenAt": "2026-10-22T07:57:53.219Z"
     }
   ]
 }
