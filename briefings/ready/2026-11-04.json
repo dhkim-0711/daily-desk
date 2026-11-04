@@ -1,0 +1,395 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "cutoff_at": "2026-11-04T09:30:00+09:00",
+  "window_start": "2026-11-03T09:30:00+09:00",
+  "created_at": "2026-11-04T09:53:00+09:00",
+  "status": "ready",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "딥엑스가 AMD 본사 경영진에게 Kria 플랫폼과 저전력 NPU 결합, ROCm과 자사 SDK 연동 방안을 제안했다.",
+        "정부 간담회에서 시작된 협력이 CPU·GPU·NPU 이기종 컴퓨팅의 구체적 기술 논의로 진전됐다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "모빌린트 REGULUS가 CEVA의 NeuPro-Nano NPU와 SensPro DSP를 통합해 10 TOPS를 3W 미만에서 제공한다.",
+        "REGULUS 기반 MLD-R1 USB 가속기가 출하되면서 설계 통합이 상용 제품 단계로 이어졌다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "호남권 반도체 클러스터 협의에서 2030년 6.3GW 전력과 하루 65만 톤 용수 공급 전략이 제시됐다.",
+        "기관별 공급 가능성 검토가 송전망·예비용수·조기 인력 배출이라는 실행 과제로 구체화됐다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "AMD의 3분기 매출은 133억7700만달러로 45% 늘었고 데이터센터 매출은 전년 대비 97% 증가했다.",
+        "Instinct GPU와 EPYC CPU 수요가 함께 확대되며 AI 인프라 경쟁이 GPU 단품에서 플랫폼 공급으로 넓어졌다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "엔비디아가 해외 클라우드 고객에게 신규 계약의 중국 기업 비중을 49% 이하로 낮추도록 요구했다는 보도가 나왔다.",
+        "수출통제가 칩의 물리적 반출을 넘어 해외 데이터센터의 연산 서비스 고객 구성까지 확장되는 변화다."
+      ]
+    },
+    {
+      "article_numbers": [6],
+      "bullets": [
+        "온세미는 Ferric을 현금 6억달러와 최대 1억7500만달러의 조건부 대가로 인수하는 계약을 체결했다.",
+        "AI 프로세서 전력 변환을 패키지·기판 가까이 통합하는 IVR 기술이 전략적 인수 대상으로 부상했다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "딥엑스·AMD, Kria·ROCm 기반 이기종 컴퓨팅 협력 방안 논의",
+      "category": "국내 NPU 기업",
+      "collected_at": "2026-11-03T06:57:50.818Z",
+      "original_published_at": "2026-11-03T14:31:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261103118400017",
+      "main_points": [
+        "딥엑스는 11월 3일 판교 본사에서 AMD 글로벌 AI 마켓 총괄 키스 스트라이어 수석부사장과 AMD코리아 경영진을 만나 피지컬 AI와 이기종 컴퓨팅 분야 협력 가능성을 논의했다. 이번 회동은 10월 7일 과기정통부 주관 AMD·국내 AI반도체 기업 라운드테이블과 10월 21일 AMD코리아 실무진 방문에 이은 후속 논의다.",
+        "딥엑스는 AMD Kria 임베디드 플랫폼에 자사 초저전력 NPU를 결합해 로봇의 실시간 제어와 인식·추론을 함께 처리하는 방안을 제안했다. AMD의 오픈 소프트웨어 플랫폼 ROCm과 딥엑스 SDK를 연동해 CPU·GPU·NPU가 워크로드를 분담하는 개발 환경도 협력 의제로 제시했다."
+      ],
+      "importance": [
+        "글로벌 CPU·GPU 사업자와 국내 NPU 기업의 협력이 포괄적 교류를 넘어 하드웨어 모듈과 소프트웨어 실행환경의 구체적 결합안으로 진전됐다. 국산 NPU의 판로가 단독 서버나 칩 공급에 그치지 않고 글로벌 플랫폼 안의 보조 가속기로 확장될 수 있는 경로를 보여준다."
+      ],
+      "implications": [
+        "협력은 현재 기술 방안을 제안하고 검토하는 단계다. 향후 Kria 보드에서의 전력·지연시간·정확도 검증과 ROCm-SDK 연동 범위, 공동 고객 또는 제품 일정이 공개돼야 실제 제품 통합 단계로 넘어갔는지 판단할 수 있다.",
+        "이기종 가속기 생태계에서는 칩 성능뿐 아니라 모델 변환, 메모리 이동, 디버깅과 배포 도구의 연속성이 채택을 좌우한다. 국내 NPU 기업이 글로벌 CPU·GPU 플랫폼과 공통 개발 경로를 만들면 수요기업의 전환 비용을 낮추고 피지컬 AI 현장 도입의 선택지를 넓힐 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "딥엑스, AMD 만났다…피지컬 AI·이기종 컴퓨팅 협력",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-03T14:31:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261103118400017",
+          "verification": "full_text",
+          "verified_at": "2026-11-04T09:49:05+09:00"
+        }
+      ],
+      "event_id": "deepx-amd-kria-rocm-heterogeneous-computing-talks-2026-11-03",
+      "event_first_published_at": "2026-11-03T14:31:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261103118400017",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "모빌린트 REGULUS, CEVA NPU·DSP 첫 양산 적용…USB 가속기 출하",
+      "category": "Mobilint global",
+      "collected_at": "2026-11-03T06:57:50.818Z",
+      "original_published_at": "2026-11-03T11:13:45+09:00",
+      "original_url": "https://www.eetasia.com/ceva-dsp-and-npu-power-mobilints-10-tops-regulus-edge-ai-soc/",
+      "main_points": [
+        "모빌린트의 엣지 AI SoC REGULUS는 CEVA의 NeuPro-Nano NPN32 NPU와 SensPro AI DSP를 모빌린트 자체 처리 아키텍처에 통합했다. CEVA는 이를 NeuPro NPU 제품군의 첫 양산 적용이라고 밝혔으며, REGULUS는 3W 미만 전력에서 10 TOPS 성능과 최대 8GB 메모리를 지원한다.",
+        "SensPro는 센싱·신호처리, NeuPro-Nano는 상시 추론, 모빌린트 고유 가속기는 나머지 AI 연산을 분담한다. REGULUS를 사용한 MLD-R1 AI USB 가속기는 현재 출하 중이며 PyTorch·ONNX·Hugging Face·TensorFlow·TFLite·Keras 생태계를 지원한다고 회사가 설명했다."
+      ],
+      "importance": [
+        "국내 NPU 기업이 외부 DSP·NPU IP와 자체 아키텍처를 결합하고 이를 실제 출하 제품으로 연결했다는 점에서 단순 설계 발표보다 사업화 단계가 앞서 있다. 피지컬 AI 기기는 센싱과 추론을 한 칩에서 처리해야 하므로, 여러 연산 엔진과 범용 프레임워크를 묶는 통합 역량이 고객 채택의 핵심이 된다."
+      ],
+      "implications": [
+        "MLD-R1 출하는 고객이 기존 시스템에 USB 형태로 엣지 AI를 추가할 수 있는 낮은 진입 경로를 제공한다. 다만 양산 물량, 유상 고객, 반복 구매와 현장 성능은 공개되지 않아 상용 출하와 시장 확산의 규모는 구분해 추적해야 한다.",
+        "국산 AI반도체의 경쟁력 평가는 TOPS뿐 아니라 센서 전처리, 모델 호환성, 메모리 제약과 전력 한도 안에서의 전체 파이프라인으로 넓어질 필요가 있다. 외부 IP와 자체 NPU를 조합하는 설계는 개발 기간을 줄일 수 있지만 IP 비용과 소프트웨어 지원 책임을 함께 관리해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "Ceva DSP and NPU Power Mobilint’s 10-TOPS REGULUS Edge AI SoC",
+          "publisher": "EE Times Asia",
+          "published_at": "2026-11-03T11:13:45+09:00",
+          "url": "https://www.eetasia.com/ceva-dsp-and-npu-power-mobilints-10-tops-regulus-edge-ai-soc/",
+          "verification": "full_text",
+          "verified_at": "2026-11-04T09:49:05+09:00"
+        },
+        {
+          "title": "Ceva and Mobilint Advance Physical AI with REGULUS Edge AI SoC",
+          "publisher": "CEVA·PR Newswire",
+          "published_at": "2026-11-02T14:00:00+09:00",
+          "url": "https://www.prnewswire.com/news-releases/ceva-and-mobilint-advance-physical-ai-with-regulus-edge-ai-soc-302925294.html",
+          "verification": "public_primary",
+          "verified_at": "2026-11-04T09:49:05+09:00"
+        }
+      ],
+      "event_id": "mobilint-ceva-regulus-production-mld-r1-shipping-2026-11-02",
+      "event_first_published_at": "2026-11-02T14:00:00+09:00",
+      "event_evidence_url": "https://www.prnewswire.com/news-releases/ceva-and-mobilint-advance-physical-ai-with-regulus-edge-ai-soc-302925294.html",
+      "selection_tier": "supplement"
+    },
+    {
+      "number": 3,
+      "title": "호남권 반도체 클러스터, 6.3GW 전력·하루 65만 톤 용수 전략 제시",
+      "category": "반도체 클러스터·정책 실행",
+      "collected_at": "2026-11-03T17:53:03.343Z",
+      "original_published_at": "2026-11-03T23:11:46+09:00",
+      "original_url": "https://womensgolf.ikbc.co.kr/article/view/kbc202611030050",
+      "main_points": [
+        "광주 군공항 이전 부지 일원에 추진되는 호남권 반도체 클러스터를 두고 지역 대학·기업·행정기관이 전력·용수·인력 공급 방안을 논의했다. 보도에서 제시된 2030년 첫 양산 시점의 목표 전력은 6.3GW이며, 공급량보다 송전망의 적기 구축과 안정성이 핵심 과제로 제시됐다.",
+        "용수는 기존 저수지와 하수 재이용으로 하루 65만 톤을 확보하고 가뭄·확장에 대비해 2032년까지 하루 41만 톤의 예비 물량을 추가 확보하는 구상이 소개됐다. 전남대는 관련 학과 재학생의 전공 전환과 학·석사 패스트트랙으로 연구 인력 배출 시기를 앞당기는 방안을 제시했다."
+      ],
+      "importance": [
+        "대규모 팹 투자는 부지 발표보다 전력·용수·송전망·인력의 공급 시점이 실제 착공과 양산 일정을 좌우한다. 이번 논의는 기관별로 가능한 공급원과 예비 물량, 인력 배출 수단을 수치화했다는 점에서 클러스터 계획을 산업기반 실행 과제로 전환하는 과정이다."
+      ],
+      "implications": [
+        "제시된 수치는 관계기관의 공급 전략이며 송전망 인허가, 용수 법정계획 반영, 가뭄 시 운영 기준과 투자 주체가 후속으로 확정돼야 한다. 전력 총량이 충분하다는 전망과 2030년까지 필요한 망을 실제로 구축할 수 있는지는 별도 일정으로 관리할 필요가 있다.",
+        "국내 AI반도체 생태계에는 팹 건설 자체뿐 아니라 전력관리 반도체, 냉각·제어, 공정 데이터 처리와 지역 실증 수요가 연계될 수 있다. 인프라와 인력 계획을 기업의 착공·장비 반입 일정과 함께 공개하면 공급망 기업이 투자 시점을 판단하기 쉬워진다."
+      ],
+      "sources": [
+        {
+          "title": "반도체 클러스터 인프라 구축 방안 논의 속도",
+          "publisher": "KBC광주방송",
+          "published_at": "2026-11-03T23:11:46+09:00",
+          "url": "https://womensgolf.ikbc.co.kr/article/view/kbc202611030050",
+          "verification": "full_text",
+          "verified_at": "2026-11-04T09:49:05+09:00"
+        }
+      ],
+      "event_id": "honam-semiconductor-cluster-power-water-workforce-strategy-2026-11-03",
+      "event_first_published_at": "2026-11-03T23:11:46+09:00",
+      "event_evidence_url": "https://womensgolf.ikbc.co.kr/article/view/kbc202611030050",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "AMD 3분기 데이터센터 매출 97% 증가…Instinct·EPYC 동반 성장",
+      "category": "반도체 기업 공식발표",
+      "collected_at": "2026-11-03T23:41:01.738Z",
+      "original_published_at": "2026-11-04T06:21:42+09:00",
+      "original_url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results",
+      "main_points": [
+        "AMD의 2026년 3분기 매출은 133억7700만달러로 전년 동기 대비 45%, 전 분기 대비 16% 증가했다. GAAP 영업이익은 28억3200만달러, 비GAAP 주당순이익은 2.09달러였고 데이터센터 부문 매출은 Instinct GPU와 EPYC CPU 판매 확대로 전년 대비 97% 늘었다.",
+        "AMD는 4분기 매출을 170억달러에서 ±3% 범위로 전망했다. 회사는 Helios 랙스케일 시스템과 차세대 Venice CPU 생산 확대가 데이터센터 성장의 추가 동력이 될 것으로 제시했다."
+      ],
+      "importance": [
+        "AI 가속기 수요가 엔비디아 한 회사에만 집중되는 국면에서 AMD의 데이터센터 매출이 두 배 가까이 늘어난 것은 대체 공급자와 CPU·GPU 결합 플랫폼의 시장 검증이 진행되고 있음을 보여준다. 성장의 기반이 Instinct GPU와 EPYC CPU 모두에 걸쳐 있다는 점은 고객이 칩 단품보다 시스템 구성을 함께 평가하고 있음을 시사한다."
+      ],
+      "implications": [
+        "AMD의 성장세가 지속되면 AI 데이터센터 구매자는 GPU 공급 다변화와 CPU·네트워크·소프트웨어 조합을 더 적극적으로 비교할 수 있다. 반면 회사의 4분기 전망과 Helios·Venice 확대는 향후 계획이므로 실제 출하량과 고객 채택은 후속 실적에서 확인해야 한다.",
+        "국내 NPU 기업에는 ROCm과 EPYC 기반 환경에서 보조 가속기·엣지 NPU를 연동하는 기회가 커질 수 있다. 딥엑스와 AMD의 협력 논의처럼 이기종 실행 경로가 구체화되면 성능 검증도 단일 칩 벤치마크에서 전체 워크로드 비용과 전력 효율로 이동할 가능성이 높다."
+      ],
+      "sources": [
+        {
+          "title": "AMD Reports Third Quarter 2026 Financial Results",
+          "publisher": "AMD",
+          "published_at": "2026-11-04T06:21:42+09:00",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results",
+          "verification": "public_primary",
+          "verified_at": "2026-11-04T09:49:05+09:00"
+        }
+      ],
+      "event_id": "amd-q3-2026-data-center-revenue-results",
+      "event_first_published_at": "2026-11-04T06:21:42+09:00",
+      "event_evidence_url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 5,
+      "title": "엔비디아, 해외 클라우드의 중국 고객 비중 49% 이하 요구 보도",
+      "category": "NVIDIA 이슈",
+      "collected_at": "2026-11-03T06:57:50.818Z",
+      "original_published_at": "2026-11-03T14:02:08+09:00",
+      "original_url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
+      "main_points": [
+        "파이낸셜타임스는 엔비디아가 해외 데이터센터·클라우드 파트너에게 신규 계약 기준으로 중국 기업에 제공하는 서비스 비중을 49% 이하로 제한하고, 최소 51%를 비중국 고객에게 판매하도록 요구했다고 관계자들을 인용해 보도했다. 기존 계약은 적용 대상에서 제외되고 지침은 영업·지역 조직을 통해 구두로 전달된 것으로 전해졌다.",
+        "보도는 중국 기업이 수출통제를 우회해 해외 데이터센터의 엔비디아 칩을 임차하는 경로를 줄이려는 조치로 해석했다. 엔비디아는 49% 기준을 직접 확인하지 않았으며, 미국산 칩을 기반으로 한 글로벌 클라우드가 미국 AI 산업의 경쟁 기반이라는 입장을 밝혔다."
+      ],
+      "importance": [
+        "AI 반도체 공급 제한이 칩의 최종 도착지에서 해외 클라우드 서비스의 고객 구성으로 확대되면 데이터센터 사업자의 판매 전략과 가동률까지 영향을 받는다. 기업의 구두 지침이라는 형태지만 신규 계약에 적용된다면 동남아시아 등 중국 수요를 겨냥한 해외 AI 인프라의 금융성과 수요 가정이 달라질 수 있다."
+      ],
+      "implications": [
+        "공식 문서가 공개되지 않았고 엔비디아가 비율을 확인하지 않았으므로 적용 범위와 집행 방식은 후속 확인이 필요하다. 클라우드 사업자는 최종 사용자 확인, 고객 포트폴리오 관리와 계약 심사를 강화해야 할 가능성이 있다.",
+        "중국 기업의 고성능 연산 접근성이 낮아지면 중국산 가속기와 자체 소프트웨어 생태계의 전환 압력이 커질 수 있다. 한국 기업도 해외 GPU 임차·재판매 사업에서 수요국 구성과 규제 준수 조건을 자금조달 및 가동률 계획에 반영해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "Nvidia orders data centre clients to reduce China exposure",
+          "publisher": "Financial Times",
+          "published_at": "2026-11-03T14:02:08+09:00",
+          "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
+          "verification": "full_text",
+          "verified_at": "2026-11-04T09:49:05+09:00"
+        },
+        {
+          "title": "Nvidia orders data centre clients to reduce China exposure, FT reports",
+          "publisher": "Reuters",
+          "published_at": "2026-11-03",
+          "url": "https://www.reuters.com/world/asia-pacific/nvidia-orders-data-centre-clients-reduce-china-exposure-ft-reports-2026-11-03/",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-04T09:49:05+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Financial Times 원문 RSS가 2026-11-03 14:02:08 KST에 공개됐고 아카이브가 15:57:50.818 KST에 수집했다. Reuters는 11월 3일 같은 보도를 재확인했으며 두 자료 모두 2026-11-04 09:30 KST 마감 전에 이용 가능했다."
+        }
+      ],
+      "event_id": "nvidia-cloud-partners-china-customer-cap-2026-11-03",
+      "event_first_published_at": "2026-11-03T14:02:08+09:00",
+      "event_evidence_url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "온세미, Ferric 최대 7억7500만달러 인수 계약…AI칩 전력기술 통합",
+      "category": "글로벌 가속기 전략적 거래",
+      "collected_at": "2026-11-02T22:18:13.619Z",
+      "original_published_at": "2026-11-03T06:05:00+09:00",
+      "original_url": "https://investor.onsemi.com/news-releases/news-release-details/onsemi-acquire-ferric-establishing-leadership-power-delivery",
+      "main_points": [
+        "온세미는 통합 전압조정기 기술 기업 Ferric을 현금 6억달러에 인수하고 매출 목표 달성에 따라 최대 1억7500만달러를 추가 지급하는 계약을 체결했다. 거래는 통상적 종결 조건을 거쳐 2026년 말까지 완료할 예정이며 Ferric 직원 약 50명이 온세미에 합류할 것으로 예상된다.",
+        "Ferric의 IVR은 컨트롤러·FET·인덕터·커패시터를 단일 패키지에 통합해 기존 개별 전압조정기보다 보드 면적을 50~70% 줄인다고 회사가 설명했다. 온세미는 인수 발표와 함께 2030년 AI 데이터센터 매출 목표를 5억달러 높여 30억달러 이상으로 제시했다."
+      ],
+      "importance": [
+        "AI 프로세서의 전력 밀도가 높아지면서 전압 변환을 보드에서 패키지·기판 가까이 옮기는 기술이 시스템 성능과 토큰당 전력 효율을 좌우하고 있다. 온세미의 제조·고객 기반과 Ferric의 IVR·자성체 특허를 결합하는 거래는 AI칩 경쟁이 연산 코어에서 전력 전달 아키텍처까지 확대됐음을 보여준다."
+      ],
+      "implications": [
+        "IVR이 채택되면 보드 공간과 전력 손실을 줄일 수 있지만 열관리, 패키지 설계, 수율과 고객 검증을 함께 해결해야 한다. 인수 계약은 체결됐으나 2026년 말 종결과 이후 제품화·매출 전환은 별도 단계다.",
+        "국내 패키징·기판·전력반도체 기업에는 가속기 주변 전원부를 단품으로 공급하는 모델에서 패키지 공동설계와 자성체 통합으로 역량을 넓힐 필요성이 커진다. 국내 AI칩 개발에서도 최대 연산 성능뿐 아니라 전력 변환 손실과 과도 응답을 포함한 시스템 평가가 중요해질 전망이다."
+      ],
+      "sources": [
+        {
+          "title": "onsemi to Acquire Ferric, Establishing Leadership in Power Delivery for Next-Generation AI Processors",
+          "publisher": "onsemi",
+          "published_at": "2026-11-03T06:05:00+09:00",
+          "url": "https://investor.onsemi.com/news-releases/news-release-details/onsemi-acquire-ferric-establishing-leadership-power-delivery",
+          "verification": "public_primary",
+          "verified_at": "2026-11-04T09:49:05+09:00"
+        }
+      ],
+      "event_id": "onsemi-ferric-definitive-acquisition-2026-11-02",
+      "event_first_published_at": "2026-11-03T06:05:00+09:00",
+      "event_evidence_url": "https://investor.onsemi.com/news-releases/news-release-details/onsemi-acquire-ferric-establishing-leadership-power-delivery",
+      "selection_tier": "supplement"
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026-10월 365개와 2026-11월 37개 아카이브 조각 전체, 퓨리오사AI·리벨리온·딥엑스·모빌린트·하이퍼엑셀 관련 고객 도입·공동개발·실증·양산·매출 후보를 확인했다. 딥엑스의 AMD Kria·ROCm 연동 제안과 모빌린트 REGULUS 기반 MLD-R1 출하를 각각 협력 논의와 상용 출하 단계로 구분해 선정했다. collection의 hyperaccel-global·nipa-ai-chip 소스는 두 실행 모두 empty였으므로 이를 후보 없음으로 해석하지 않고 기업·기관 공개 원문을 직접 검색했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP와 중앙·지자체·공공기관의 NPU 정책·국비·도입·실증·조달·집행, 반도체 클러스터의 부지·전력·용수·인허가·이전 후보를 확인했다. 호남권 클러스터 기관 협의의 6.3GW 전력·하루 65만 톤 용수·인력 공급 방안을 계획 단계로 선정했다. 전남광주특별시의 국비 5000억원 추가 확보 협의는 지역 전체 요구액을 NPU 개별 예산으로 볼 수 없어 제외했다. 09:20·09:27 KST 수집은 없고 최신 collection은 08:40:59 KST였으므로 마감 전 공개 원문을 직접 검색해 보완했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google·CEVA·온세미와 글로벌 가속기, 자체 AI칩, 중국 접근 제한, 전략적 인수·제휴를 확인했다. AMD 데이터센터 실적, 엔비디아의 해외 클라우드 중국 고객 제한 보도, 온세미·Ferric 확정 인수 계약을 선정했다. NVIDIA DGX Spark MoE 최적화와 CEVA 차세대 NeuPro 발표도 공개 원문으로 비교했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·CUDA·커널·런타임·컴파일러·서빙·Kubernetes와 CPU·GPU·NPU 이기종 실행환경을 검색했다. 딥엑스가 ROCm과 자사 SDK 연동을 구체적인 협력 의제로 제시한 사건을 선정했다. NVIDIA DGX Spark의 MoE 커널·FP8·추측 디코딩 최적화는 기술적으로 유효하지만 단일 개발자 실험이어서 고객 통합·상용 출하·공급 제한 후보보다 후순위로 제외했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단 패키징·인터커넥트·전력반도체와 데이터센터 전력·용수·냉각·부지·금융구조를 확인했다. 호남권 클러스터의 전력·용수 공급 전략과 온세미의 Ferric IVR 인수를 선정했다. 엔비전의 800V DC·SST 시스템, 개별 냉각장비 인증·전시와 통상적인 HBM 전망을 비교했으나 공개 검증 수준과 상대적 업무 관련성에서 제외했다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "국내 NPU가 AMD Kria·ROCm 생태계와 결합하는 구체적 하드웨어·소프트웨어 협력안으로, 정부 업무협의 이후의 후속 진전을 보여준다."},
+      {"article_number": 2, "reason": "국내 엣지 AI SoC가 외부 NPU·DSP IP를 양산 적용하고 실제 USB 가속기 출하로 연결돼 사업화 단계가 확인됐다."},
+      {"article_number": 3, "reason": "반도체 클러스터의 성패를 좌우하는 전력·용수·인력 공급을 기관별 수치와 실행 수단으로 구체화한 산업기반 변화다."},
+      {"article_number": 4, "reason": "AMD 데이터센터 매출 97% 증가가 GPU·CPU 대체 공급자와 플랫폼 경쟁의 시장 검증을 보여준다."},
+      {"article_number": 5, "reason": "수출통제가 해외 클라우드의 고객 구성과 신규 계약으로 확장되는 중대한 글로벌 연산 접근성 변화다."},
+      {"article_number": 6, "reason": "AI 프로세서의 패키지 근접 전력 전달 역량을 확보하려는 확정 인수 계약으로 전략적 경쟁 범위를 넓힌다."}
+    ],
+    "excluded": [
+      {
+        "title": "NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%",
+        "url": "https://developer.nvidia.com/blog/?p=124221",
+        "reason": "MoE 커널·FP8·추측 디코딩의 42.5% 처리량 개선을 공개 원문으로 확인했지만 단일 장비·모델 실험이며, 고객 통합과 상용 출하가 확인된 국내 NPU 및 공급 제한 후보를 우선했다."
+      },
+      {
+        "title": "中 엔비전, AI 데이터센터용 800V DC·SST 시스템 세계 최초 상용화",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUotX1cxTl9hemNKNXJsWWk3Zmp4bTNmTEJ5Q2Z3S0Jfck1lZlFKc2tyWm1Iak9IZmpCU0VMZzRERVBUWjFDQVJTMzE0d3g0SUwtaWNpWFdQRURwNndZZXdxb0IxZU50YUpyZmk4RmdyTzdGY2JYNHpfMGVZZ1hLTFhWamNERTdI",
+        "reason": "800V DC·SST 전력 구조의 산업적 의미는 있으나 제조사 공식 원문과 실제 상용 고객·설치 범위를 충분히 교차검증하지 못해 선정하지 않았다."
+      },
+      {
+        "title": "전남광주특별시 'AI·반도체 핵심 현안' 국회 심의 총력",
+        "url": "https://www.namdonews.com/news/articleView.html?idxno=928007",
+        "reason": "국회 심의에서 5000억원 추가 확보를 협의했지만 지역 전체 요구액이며 개별 AI반도체 사업의 확정 예산·집행 변화로 구분할 근거가 부족했다."
+      },
+      {
+        "title": "칩스앤미디어, 우주 넘어 로봇으로…피지컬 AI 시장 공략",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MNlREV3AtNHlCM296QzkwQkpGaVY3dWVDUko0MGNYM1hneWxSVHpDWEVDTVd6XzFCVHZlbGN0ZnhMeG1jYnRVWDBfMlpqNjVSMEhMT0g3MVpVaWRn",
+        "reason": "피지컬 AI 확대 방향은 확인했지만 구체적 신규 고객·유상 계약·양산 물량보다 전략 설명 비중이 커 모빌린트 출하와 딥엑스 협력 논의를 우선했다."
+      },
+      {
+        "title": "[심층리포트] 12차 전기본 데이터센터 전력 11.9GW, 3~4GW 축소 검토",
+        "url": "https://www.dataeconomy.co.kr/news/articleView.html?idxno=43572",
+        "reason": "전력수요 추계의 불확실성을 구체화했지만 24시간 주 분석 구간보다 앞선 보완 후보이고 정부 확정안이 아니라 검토 보도여서 당일 클러스터 기관 협의를 우선했다."
+      },
+      {
+        "title": "오텍캐리어, 데이터센터코리아 2026 참가…엔비디아 인증 CDU 앞세워 공략",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzUWp3NENHdS01VDV4d1J6REg3Tld0cjEzbDNacnJCX3BpN1RMS2wwVFF1cWNQNXB6Rk9YOWdWaDJneXVESkhrV1BaSy12S0hCWk9ONk5pR0NoRjFzajktTg",
+        "reason": "개별 냉각장비 인증과 전시 참가 소식으로, 산업기반·전력기술·국내 NPU 사업화의 구조적 변화보다 우선순위가 낮았다."
+      }
+    ],
+    "count_reason": "docs/data/archive/index.json의 2026-10월 365개와 2026-11월 37개 조각을 오류 없이 모두 읽고 다섯 영역의 보완 검색과 공개 원문 대조를 완료했다. 국내 NPU의 글로벌 협력 논의와 상용 출하, 반도체 클러스터 산업기반, 글로벌 가속기 시장 검증, 연산 접근 제한, 전략적 전력기술 인수라는 서로 다른 변화를 더하는 6건을 선정했다. 일곱 번째 후보는 단일 기술 실험 또는 인프라 비중만 늘려 기본 6건을 유지했다.",
+    "company_overlap_review": "선정 기사 1과 4에 AMD가 함께 등장하지만 기사 1은 딥엑스와의 Kria·ROCm 연동 제안, 기사 4는 분기 데이터센터 시장 검증으로 주체·사건·산업 단계가 독립적이다. 두 사건을 함께 보면 국내 NPU의 이기종 생태계 기회와 AMD 플랫폼의 시장 확장을 연결해 판단할 수 있어 다른 후보와 비교 후 모두 유지했다. 나머지 중심 기업은 중복되지 않는다.",
+    "candidate_counts": {
+      "discovered": 3626,
+      "time_eligible": 2762,
+      "independent_events": 11,
+      "verified": 9,
+      "selected": 6,
+      "basis": "최신 체크아웃의 mail/candidates.py가 전체 아카이브 기준 3,626건 발견, 2,762건 시간 적격을 집계했다. 2026-10·11월 아카이브 조각 402개와 직접 보완 검색에서 업무 관련성이 높은 11개 독립 사건을 비교했고 9개 사건의 공개 본문과 공개시각을 검증해 6건을 선정했다. 당일 collection은 02:53:00·08:40:59 KST 두 차례 완료됐고 각 실행에서 43개 소스 ok, 2개 empty, 0개 failed였으나 09:20·09:27 실행은 없었다."
+    },
+    "history_review": {
+      "start_date": "2026-10-21",
+      "end_date": "2026-11-03",
+      "checked_dates": ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-03"],
+      "note": "14개 확정 원고의 제목·주요 사실·event_id·출처와 선정·제외 기록을 읽어 사건 단위로 비교했다. 딥엑스·AMD 후속 회동, 모빌린트 REGULUS 양산 적용, 클러스터 공급 전략, AMD 실적과 엔비디아 중국 고객 제한은 게재 이력이 없다. 온세미·Ferric 계약은 11월 3일 원고의 제외 후보였으나 미게재 상태이고 48시간 이내 보완 조건을 충족해 재평가했다."
+    },
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "AMD 본사 수석부사장 방문과 Kria·ROCm 연동안은 최근 14일 원고에 동일 사건이 없다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "CEVA IP의 REGULUS 첫 양산 적용과 MLD-R1 출하는 최근 14일 원고에 게재되지 않았다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "6.3GW 전력·하루 65만 톤 용수·인력 공급을 묶은 기관 협의는 최근 14일 원고에 동일 사건이 없다."},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "AMD 2026년 3분기 확정 실적과 데이터센터 매출 97% 증가는 신규 공개 사건이다."},
+      {"article_number": 5, "result": "new_event", "previous_editions": [], "note": "엔비디아가 신규 해외 클라우드 계약의 중국 고객 비중을 제한했다는 보도는 최근 14일 원고에 동일 사건이 없다."},
+      {"article_number": 6, "result": "new_event", "previous_editions": [], "note": "온세미·Ferric 계약은 11월 3일 원고에서 비교 후 제외돼 독자에게 게재되지 않았고, 48시간 내 미게재 보완 후보로 재평가했다."}
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026년 11월 3~4일 퓨리오사AI·리벨리온·딥엑스·모빌린트·하이퍼엑셀과 NPU·고객검증·유상 PoC·제품통합·양산·반복구매·해외협력·피지컬 AI를 검색했다.",
+          "official_sources": "딥엑스 공개 설명과 연합뉴스 https://www.yna.co.kr/view/AKR20261103118400017, CEVA·PR Newswire https://www.prnewswire.com/news-releases/ceva-and-mobilint-advance-physical-ai-with-regulus-edge-ai-soc-302925294.html, EE Times Asia https://www.eetasia.com/ceva-dsp-and-npu-power-mobilints-10-tops-regulus-edge-ai-soc/ 및 과기정통부·NIPA 공개자료를 확인했다.",
+          "result": "딥엑스·AMD의 구체적 연동안과 모빌린트의 출하 제품을 선정했다. 다른 국내 NPU 기업의 새 고객·유상 계약·반복 구매는 마감 전 공개 본문과 신규성을 함께 충족하지 못했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "과기정통부·NIPA·IITP·중앙부처·지자체·공공기관과 NPU·AI반도체·국비·예산·실증·도입·조달·집행·클러스터·부지·전력·용수·인허가·이전을 조합해 검색했다.",
+          "official_sources": "KBC 호남권 클러스터 원문 https://womensgolf.ikbc.co.kr/article/view/kbc202611030050, 전남광주 예산협의 공개 보도 https://www.namdonews.com/news/articleView.html?idxno=928007, 과기정통부·NIPA 사업공고와 국정성과 공개자료를 대조했다.",
+          "result": "호남권 클러스터의 전력·용수·인력 공급 전략을 계획 단계로 선정했다. 지역 전체 국비 5000억원 증액 요구는 NPU 개별 예산이나 확정 집행으로 해석하지 않고 제외했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "2026년 11월 2~4일 NVIDIA·AMD·Google·CEVA·onsemi와 가속기·자체 AI칩·중국 접근 제한·인수·제휴·시장 실적을 검색했다.",
+          "official_sources": "AMD 공식 실적 https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results, Financial Times https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2, Reuters https://www.reuters.com/world/asia-pacific/nvidia-orders-data-centre-clients-reduce-china-exposure-ft-reports-2026-11-03/, onsemi 공식 인수 발표 https://investor.onsemi.com/news-releases/news-release-details/onsemi-acquire-ferric-establishing-leadership-power-delivery를 확인했다.",
+          "result": "AMD 시장 실적, 엔비디아 고객 제한 보도, 온세미·Ferric 확정 계약을 선정했다. 공식 확인이 부족한 800V DC 상용화 보도는 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "ROCm·CUDA·커널·런타임·컴파일러·서빙·Kubernetes·SDK·CPU GPU NPU 이기종 컴퓨팅과 DGX Spark MoE 최적화를 검색했다.",
+          "official_sources": "딥엑스·AMD 연동 보도 https://www.yna.co.kr/view/AKR20261103118400017, NVIDIA 기술 원문 https://developer.nvidia.com/blog/?p=124221, AMD ROCm 공개자료를 확인했다.",
+          "result": "ROCm과 딥엑스 SDK 연동을 협력 의제로 제시한 사건을 선정했다. NVIDIA MoE 최적화는 검증했지만 단일 장비·모델 기술 실험으로 최종 6건에서 제외했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "HBM·첨단 패키징·인터커넥트·IVR·전력반도체와 데이터센터 전력·용수·냉각·부지·투자·금융구조를 검색했다.",
+          "official_sources": "KBC 클러스터 공급 전략 원문, onsemi·Ferric 공식 인수 발표와 8-K, 한국데이터경제신문 12차 전기본 분석 https://www.dataeconomy.co.kr/news/articleView.html?idxno=43572를 대조했다.",
+          "result": "클러스터 전력·용수 협의와 패키지 근접 IVR 인수를 선정했다. 통상적 HBM 전망·개별 냉각장비 전시와 공식 검증이 부족한 해외 전력시스템 보도는 제외했다."
+        }
+      },
+      "alternative_sources": "09:20·09:27 KST 수집 공백과 두 empty 소스는 기업·기관 공식 발표, 연합뉴스·KBC·Reuters 공개 본문으로 보완했다. 접근 제한이 있는 엔비디아 중국 고객 제한 보도는 FT 원문과 Reuters 재보도를 대조했고, 검색 결과 한두 줄만으로 본문을 작성하지 않았다."
+    },
+    "shared_original_reviews": []
+  }
+}
