@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-11-05T06:59:49.089Z",
+  "generatedAt": "2026-11-05T07:11:18.763Z",
   "news": {
     "articles": [
       {
@@ -30,7 +30,7 @@ window.__DASHBOARD_DATA__ = {
           "실증·조달"
         ],
         "issueCategory": "AI시장",
-        "score": 39
+        "score": 38
       },
       {
         "title": "AMD·과기정통부, 첫 운영위서 국산 NPU 연계 방안 논의했다 - 토큰포스트",
@@ -307,9 +307,8 @@ window.__DASHBOARD_DATA__ = {
         "summary": "AMD, 퓨리오사AI·망고부스트와 MOU...엔비디아 의존도 낮춘다 &nbsp;&nbsp; 중앙이코노미뉴스",
         "outlet": "중앙이코노미뉴스",
         "outletUrl": "https://www.joongangenews.com",
-        "source": "국내 NPU 기업",
+        "source": "퓨리오사AI",
         "sourceIds": [
-          "korea-npu",
           "furiosa",
           "korea-global-chip-cooperation"
         ],
@@ -815,6 +814,30 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "정책",
         "score": 28
+      },
+      {
+        "title": "AMD, AI 데이터센터 보증 규모 85억 달러···엔비디아 추격에 재무 부담 커지나 - Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOMEsya1lVbWRHUHpFVDdGNTNyM3Jtc0FPWGpYTUdJczZCa3lZMllqVlQ0WGJjczktMW1nRVFIaFRYcHpLUTROUG1DbXRHMFNwVmttcmRuZ2xnTVo1bFI5Y2RyMkJEVGtkMFRLMXB1YktQdzRzQk0zajBrOVhsTG9pbjBxb3RqNHl4MENfQVlMWk9wMHk4YTBBVUNCcGhua2FQX1RITVlpdnowVUlBeEdiaUhrdGpsd0FvbHZHRlhtV0ExSG5fWENralVvRDhNcUtFQm1laXVsRWtISGZUdE1taFRRX1NROG81OHpwenZrWEJESHZjMUlNNEpwRFh5b09sR19ERXZiWWppVDlsUm8xZjQ0MEg4dndCOU5aWTJ3T1lRYmtoeEpGbW1vNE9jdk1yQVlDdlBxS0ZCYnpuZ3dZ?oc=5",
+        "publishedAt": "Thu, 05 Nov 2026 06:59:17 GMT",
+        "summary": "AMD, AI 데이터센터 보증 규모 85억 달러···엔비디아 추격에 재무 부담 커지나 &nbsp;&nbsp; Benzinga",
+        "outlet": "Benzinga",
+        "outletUrl": "https://kr.benzinga.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 27
       },
       {
         "title": "[GAM]AMD 3조달러 AI 영토 장악 나섰다 ② 오픈 생태계로 엔비디아 맹추격 - 뉴스핌",
@@ -1568,26 +1591,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "과기정통부·국토부, AI 인허가 사전진단 서비스 개발...내년 첫선 - 디지털투데이",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XU0ktMWRKTlNDMUs3OVBzNTNVTUl6LUp2MlphMjNyUUFRcThjSVF0ZFZVamJvYUlpdmVMbVB3Y19CTjVPUkJyNlRXS3lUTHZ3RGRxclNYcjYtZTY5V3ZBbmhyZFoyYzMtNGZOQlhLNk4xODA?oc=5",
-        "publishedAt": "Wed, 04 Nov 2026 07:00:00 GMT",
-        "summary": "과기정통부·국토부, AI 인허가 사전진단 서비스 개발...내년 첫선 &nbsp;&nbsp; 디지털투데이",
-        "outlet": "디지털투데이",
-        "outletUrl": "https://www.digitaltoday.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 26
-      },
-      {
         "title": "AMD, 퓨리오사·망고부스트와 공조...내년 봄 이기종 AI 실증 인프라 구축 - AI타임스",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yaU0zYUhOampLLS1HcjA4VnNHaF9tVHNmQkRRS1FYY0VRRXV0LXN2MUU2NmYzX0ZqZkNQNjBkS0NqOHNmcVBCV1MxTDFRRTdZLXFoMVJfOWVwQ0dHYms4SHVZZE5Sc1lIOEE?oc=5",
         "publishedAt": "Wed, 04 Nov 2026 05:18:36 GMT",
@@ -1681,6 +1684,26 @@ window.__DASHBOARD_DATA__ = {
           "실증·조달"
         ],
         "issueCategory": "AI시장",
+        "score": 25
+      },
+      {
+        "title": "과기정통부·국토부, AI 인허가 사전진단 서비스 개발...내년 첫선 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XU0ktMWRKTlNDMUs3OVBzNTNVTUl6LUp2MlphMjNyUUFRcThjSVF0ZFZVamJvYUlpdmVMbVB3Y19CTjVPUkJyNlRXS3lUTHZ3RGRxclNYcjYtZTY5V3ZBbmhyZFoyYzMtNGZOQlhLNk4xODA?oc=5",
+        "publishedAt": "Wed, 04 Nov 2026 07:00:00 GMT",
+        "summary": "과기정통부·국토부, AI 인허가 사전진단 서비스 개발...내년 첫선 &nbsp;&nbsp; 디지털투데이",
+        "outlet": "디지털투데이",
+        "outletUrl": "https://www.digitaltoday.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
         "score": 25
       },
       {
@@ -1913,6 +1936,7 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "ai-chip-public-program",
           "npu-commercialization",
+          "ai-chip-policy-finance",
           "korea-global-chip-cooperation"
         ],
         "sourceLang": "ko",
@@ -2145,6 +2169,30 @@ window.__DASHBOARD_DATA__ = {
         "score": 25
       },
       {
+        "title": "Nvidia and AMD Are Backing a $6 Billion AI Startup Taking on Grok - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0xGVW5LdmlnT1NGbHdtbWw2MDYtM0hGVkJTWUdUNFRucG55cmZIX0M0SGlZTkx4cUE5MFhYN2JQNXRRaG9UY1FyQmRXX2E0SkcwbGxwMkw2WGZtejVZOFNHOVViX01FYnV4YUxfQmtNTFVKT2NNc1NBajRncHFkX2RyZzBELWJsMjA5Z1Z5eTNJN3gwcFNB?oc=5",
+        "publishedAt": "Mon, 02 Nov 2026 15:44:02 GMT",
+        "summary": "Nvidia and AMD Are Backing a $6 Billion AI Startup Taking on Grok &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 25
+      },
+      {
         "title": "AMD, 2027년 매출 80% 성장 승부수…AI 반도체 시장에서 엔비디아 추격 속도 높인다. - 제민일보",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1OXpXQUcxUE9nek5ybEtCQ0JHVGNVXzNIZzk1VmYtTXA4dU5OdGVYcVlCLS1STUI4QzlSSGlGeGJsWURKQmdBU1A3dDZaY0RwNlNNZmdwWS1GeGcxbzNXN0dGMG1UeUk?oc=5",
         "publishedAt": "Wed, 04 Nov 2026 20:50:57 GMT",
@@ -2192,12 +2240,12 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
-        "title": "Mamdani Accuses Google Of Forcing Ai Into Schools Through Search Access Policy - News12 | Westchester",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa25SSVNMSmNZY2Ryam1oMFlzTzVLZzZUS0E2ZFdIYnE2SWtfMVAyNEs1T1AzdXp3NV9hN3FRRURFSE9hM29PVGFkOVFKdW9jTFlhWlBRYnFiaWRrUFdzNWJCUjFRVTJiVUpVYzAydDJxa0ZBbkJfeElJd1JQOTFUMUZCNU1TX1JFMGhJQ05VYUdDSk5ub2p2SkJzMlhjTEpoWXRuM3dKV2tadWd5T3c?oc=5",
-        "publishedAt": "Wed, 04 Nov 2026 17:29:53 GMT",
-        "summary": "Mamdani Accuses Google Of Forcing Ai Into Schools Through Search Access Policy &nbsp;&nbsp; News12 | Westchester",
-        "outlet": "News12 | Westchester",
-        "outletUrl": "https://westchester.news12.com",
+        "title": "Mamdani Accuses Google Of Forcing Ai Into Schools Through Search Access Policy - News12 | Long Island",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3IxenFUVW80VWV3Z0YxOWRpTUhZSndRVl9Jd2FxWFJWOENBdUlLSFVFLUNxOW92XzdOcVBVb3Z5aUprVVdCcUdqS0E1ZUgtR3FOVGowRDlNdlhWRlZ0M2xyOWdXbXo0Y2ZqV2pKNldUUFlRY0tQYVR4cE9oZnB5Vm1Ub2FSTFFyUmhHdTFoeDZSUHZmWlJkWlNUWHJVYnNNeDIza0xpYVBBVVBW?oc=5",
+        "publishedAt": "Wed, 04 Nov 2026 17:28:15 GMT",
+        "summary": "Mamdani Accuses Google Of Forcing Ai Into Schools Through Search Access Policy &nbsp;&nbsp; News12 | Long Island",
+        "outlet": "News12 | Long Island",
+        "outletUrl": "https://longisland.news12.com",
         "source": "Google AI 이슈",
         "sourceIds": [
           "google-ai"
@@ -2349,8 +2397,7 @@ window.__DASHBOARD_DATA__ = {
           "korea-npu",
           "furiosa",
           "accelerator-software-ko",
-          "korea-global-chip-cooperation",
-          "accelerator-strategic-deals-ko"
+          "korea-global-chip-cooperation"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -2394,54 +2441,6 @@ window.__DASHBOARD_DATA__ = {
         "summary": "AMD, 퓨리오사AI·망고부스트와 이기종 AI 인프라 업무협약 체결 &nbsp;&nbsp; 디지털데일리",
         "outlet": "디지털데일리",
         "outletUrl": "https://www.ddaily.co.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "furiosa"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "AMD",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 24
-      },
-      {
-        "title": "AMD, 퓨리오사AI·망고부스트와 손잡았다…한국형 AI 인프라 구축 본격화 - 뉴스탭",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FWDRmZkd2czdoY0o2aWkzN0ZMalp6T3VqY3ZCVGV1Y0dlNXZFZ2tPV09GUWJhS0dQYjhlLWVPMWJCZU5yYldwdkJ6SVhzVjNac1Exci0zbkZEUTljOGpMOExiUDlrWnFEamJucw?oc=5",
-        "publishedAt": "Wed, 04 Nov 2026 07:07:04 GMT",
-        "summary": "AMD, 퓨리오사AI·망고부스트와 손잡았다…한국형 AI 인프라 구축 본격화 &nbsp;&nbsp; 뉴스탭",
-        "outlet": "뉴스탭",
-        "outletUrl": "https://www.newstap.co.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "furiosa"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "AMD",
-          "퓨리오사AI"
-        ],
-        "taxonomyHits": [
-          "퓨리오사AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 24
-      },
-      {
-        "title": "AMD, 퓨리오사AI·망고부스트와 개방형 AI 인프라 개발 - IT조선",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PSE5MQlNRRDJrZ3RXS3hBcjdGbC05bzY2TEZ4eURuRnJDQU1HcWpzeWZLcDJxTFk4TE5NMzBQeDRwUU1ZeTVoUFAyNndtQ1NheVFZb3F3Z0tBWktPOEd5QlNhQlVoellKS0ZLalM2X3Y?oc=5",
-        "publishedAt": "Wed, 04 Nov 2026 07:04:59 GMT",
-        "summary": "AMD, 퓨리오사AI·망고부스트와 개방형 AI 인프라 개발 &nbsp;&nbsp; IT조선",
-        "outlet": "IT조선",
-        "outletUrl": "https://it.chosun.com",
         "source": "국내 NPU 기업",
         "sourceIds": [
           "korea-npu",
@@ -2735,11 +2734,11 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "메가존소프트, 구글 클라우드 AI 인증 2개 획득 - m.edaily.co.kr",
+        "title": "메가존소프트, 구글 클라우드 AI 인증 2개 획득 - 이데일리",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3I5cGVBTTBwLWViZjgtVEt5THA5OGtST0ZVZnpSQUpvNlBySnVnSVhQQVZKcVMyX2tYRUZEaWZGX2l4cVp0Nk1TLW01Q3lHZ1BHbXpMc1NkRFJteDZSUm9wVnNRa1FQOXh6WHJzS1AyMUxrX3hvdUFGV3VmUkFRUA?oc=5",
         "publishedAt": "Thu, 05 Nov 2026 05:03:01 GMT",
-        "summary": "메가존소프트, 구글 클라우드 AI 인증 2개 획득 &nbsp;&nbsp; m.edaily.co.kr",
-        "outlet": "m.edaily.co.kr",
+        "summary": "메가존소프트, 구글 클라우드 AI 인증 2개 획득 &nbsp;&nbsp; 이데일리",
+        "outlet": "이데일리",
         "outletUrl": "https://www.edaily.co.kr",
         "source": "해외 빅테크 국내 보도",
         "sourceIds": [
@@ -3154,6 +3153,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
+        "title": "Can Google Build a Massive AI Data Center in Space? (Video) - Thomasnet",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OS2dtQ2l3TE5XaENpZnh6TEFITkk3dmxSSXZPREZaY1Fib0gzTmhVQUFYUUJlQnZiRWNGNTRWdWNrSUd2LXlJWUpLbjdHNW1OOFdXYlQ2V2dWZzlSWGJMUlF5YWZVZk9LYXFKdlIzMDgyY3h1?oc=5",
+        "publishedAt": "Wed, 04 Nov 2026 21:55:12 GMT",
+        "summary": "Can Google Build a Massive AI Data Center in Space? (Video) &nbsp;&nbsp; Thomasnet",
+        "outlet": "Thomasnet",
+        "outletUrl": "https://www.thomasnet.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "Google"
+        ],
+        "issueCategory": "데이터센터",
+        "score": 23
+      },
+      {
         "title": "“AI 금지하면 검색도 못 한다”…구글, 美 학교에 AI 도입 압박 - 서울경제",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03cHp1UUNsLURFRE95ejNud2JkdWoxTnYwUEcycnFSSS1xM1pxeWtkX1Iya2hPMm1mN0FRZVp6OXJoR3FMRlh2b2NOUFc3dVpibXfSAVNBVV95cUxOT0tEazVnSko4R2Y2Wlg2WHg3VFhkVlJ1ZWpxU2dLRzh6VS1DVHZhRE1xNHZkUFlwZTZ5cmJEQ3JWYmJJSFVhdGJPRjlsRTVLdENmRQ?oc=5",
         "publishedAt": "Wed, 04 Nov 2026 20:30:00 GMT",
@@ -3483,6 +3505,54 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "Google",
+        "score": 23
+      },
+      {
+        "title": "AMD, 퓨리오사AI·망고부스트와 손잡았다…한국형 AI 인프라 구축 본격화 - 뉴스탭",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FWDRmZkd2czdoY0o2aWkzN0ZMalp6T3VqY3ZCVGV1Y0dlNXZFZ2tPV09GUWJhS0dQYjhlLWVPMWJCZU5yYldwdkJ6SVhzVjNac1Exci0zbkZEUTljOGpMOExiUDlrWnFEamJucw?oc=5",
+        "publishedAt": "Wed, 04 Nov 2026 07:07:04 GMT",
+        "summary": "AMD, 퓨리오사AI·망고부스트와 손잡았다…한국형 AI 인프라 구축 본격화 &nbsp;&nbsp; 뉴스탭",
+        "outlet": "뉴스탭",
+        "outletUrl": "https://www.newstap.co.kr",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "furiosa"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "AMD",
+          "퓨리오사AI"
+        ],
+        "taxonomyHits": [
+          "퓨리오사AI"
+        ],
+        "issueCategory": "NPU",
+        "score": 23
+      },
+      {
+        "title": "AMD, 퓨리오사AI·망고부스트와 개방형 AI 인프라 개발 - IT조선",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PSE5MQlNRRDJrZ3RXS3hBcjdGbC05bzY2TEZ4eURuRnJDQU1HcWpzeWZLcDJxTFk4TE5NMzBQeDRwUU1ZeTVoUFAyNndtQ1NheVFZb3F3Z0tBWktPOEd5QlNhQlVoellKS0ZLalM2X3Y?oc=5",
+        "publishedAt": "Wed, 04 Nov 2026 07:04:59 GMT",
+        "summary": "AMD, 퓨리오사AI·망고부스트와 개방형 AI 인프라 개발 &nbsp;&nbsp; IT조선",
+        "outlet": "IT조선",
+        "outletUrl": "https://it.chosun.com",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu",
+          "furiosa"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "AMD",
+          "퓨리오사AI"
+        ],
+        "taxonomyHits": [
+          "퓨리오사AI"
+        ],
+        "issueCategory": "NPU",
         "score": 23
       },
       {
@@ -3842,29 +3912,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "딥엑스, AMD와 회동…피지컬 AI·이기종 컴퓨팅 기술 협력 모색 - www.ebn.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HRG9INHlOZ1lUQllFUmMxaVJFbXdKTHlxXzVYUFRKR2c1MDE0NnBuSG9lZHBieVdCd2NPeXp2bExHU3JfanFCUlZnQzRPSERkaWxPQ01FTWJXSWdCejl5WmRKR2VSZ01n?oc=5",
-        "publishedAt": "Tue, 03 Nov 2026 07:08:39 GMT",
-        "summary": "딥엑스, AMD와 회동…피지컬 AI·이기종 컴퓨팅 기술 협력 모색 &nbsp;&nbsp; www.ebn.co.kr",
-        "outlet": "www.ebn.co.kr",
-        "outletUrl": "https://www.ebn.co.kr",
-        "source": "딥엑스",
-        "sourceIds": [
-          "deepx"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "AMD",
-          "딥엑스"
-        ],
-        "taxonomyHits": [
-          "딥엑스"
-        ],
-        "issueCategory": "NPU",
-        "score": 23
-      },
-      {
         "title": "AI데이터센터 활성화… 기업 \"국산 NPU 실증 기회 늘려달라\" - 파이낸셜뉴스",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5Y3BJc1BPekdRZUllVXNYNWVvTjNIOFB5S0ZudXV6dFY2ZTNSNFlnNEdVeVcxV2cydXVNbmRRY2JqcV90SjQ0TmJIQUFhNjJ0M3g3US1FZEluQQ?oc=5",
         "publishedAt": "Mon, 02 Nov 2026 09:33:56 GMT",
@@ -4012,7 +4059,6 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "korea-npu",
           "rebellions",
-          "korea-ai-policy",
           "npu-commercialization"
         ],
         "sourceLang": "ko",
@@ -4211,54 +4257,6 @@ window.__DASHBOARD_DATA__ = {
           "모빌린트"
         ],
         "issueCategory": "NPU",
-        "score": 22
-      },
-      {
-        "title": "모빌린트 NPU, Ray 가속기 자원 관리 체계 편입…AI 개발 편의성 대폭 향상 - 헬로티",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtamdOSU1IZFRaQ1pkOTJOdlktN3BsQjdCSGVXWGJOblh4QjNqYzJzdEFzTm8wZFJRLVFzYTVEUW01ZmFhZXVtcU1mZXFZcHNudE5HTUp1OUZ5QnV5MFZn?oc=5",
-        "publishedAt": "Wed, 04 Nov 2026 05:38:46 GMT",
-        "summary": "모빌린트 NPU, Ray 가속기 자원 관리 체계 편입…AI 개발 편의성 대폭 향상 &nbsp;&nbsp; 헬로티",
-        "outlet": "헬로티",
-        "outletUrl": "https://www.hellot.net",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "mobilint",
-          "mobilint-broad"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "모빌린트"
-        ],
-        "taxonomyHits": [
-          "NPU",
-          "모빌린트"
-        ],
-        "issueCategory": "NPU",
-        "score": 22
-      },
-      {
-        "title": "\"클라우드 토큰 병목 깬다\"…AMD·클레비, NPU·GPU 결합 로컬 AI 공략 - 디지털데일리",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42dG1UOTExMmcxdlk1UzJseWkyd2dmcS1naHZoQTJVRG1XREdVVHd6VGZaLUEwWlNmRGlpSHR6SkZWbERNMW42WjNobWwyRHlKWE9Kd3YtRkZSMU4ybGhoWlNzVWg?oc=5",
-        "publishedAt": "Wed, 04 Nov 2026 05:23:18 GMT",
-        "summary": "\"클라우드 토큰 병목 깬다\"…AMD·클레비, NPU·GPU 결합 로컬 AI 공략 &nbsp;&nbsp; 디지털데일리",
-        "outlet": "디지털데일리",
-        "outletUrl": "https://www.ddaily.co.kr",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NPU"
-        ],
-        "issueCategory": "AI시장",
         "score": 22
       }
     ],
@@ -7202,14 +7200,14 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-11-05T06:59:46.966Z"
+    "generatedAt": "2026-11-05T07:11:15.832Z"
   },
   "briefing": {
     "date": "2026년 11월 5일 목요일",
     "summary": [
       "오늘의 최상위 이슈: 과기정통부·AMD·모레·망고부스트, 국산 NPU 결합 인프라 실증 착수 - 디지털데일리",
-      "강한 기술·시장 신호: NPU 34, AI인프라 26, 데이터센터 22, 온디바이스AI 6, 추론 7",
-      "주요 기업 신호: 퓨리오사AI 23, 모빌린트 11, 딥엑스 4, 리벨리온 0, 하이퍼엑셀 0"
+      "강한 기술·시장 신호: NPU 32, AI인프라 25, 데이터센터 24, 온디바이스AI 6, 추론 7",
+      "주요 기업 신호: 퓨리오사AI 23, 모빌린트 10, 딥엑스 3, 리벨리온 0, 하이퍼엑셀 0"
     ],
     "leadArticles": [
       {
@@ -7240,7 +7238,7 @@ window.__DASHBOARD_DATA__ = {
           "실증·조달"
         ],
         "issueCategory": "AI시장",
-        "score": 39
+        "score": 38
       },
       {
         "title": "AMD·과기정통부, 첫 운영위서 국산 NPU 연계 방안 논의했다 - 토큰포스트",
@@ -7490,15 +7488,15 @@ window.__DASHBOARD_DATA__ = {
       "technologies": [
         [
           "NPU",
-          34
+          32
         ],
         [
           "AI인프라",
-          26
+          25
         ],
         [
           "데이터센터",
-          22
+          24
         ],
         [
           "온디바이스AI",
@@ -7524,11 +7522,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "모빌린트",
-          11
+          10
         ],
         [
           "딥엑스",
-          4
+          3
         ],
         [
           "리벨리온",
@@ -7544,11 +7542,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "Google",
-          45
+          46
         ],
         [
           "NVIDIA",
-          30
+          32
         ],
         [
           "TSMC",
@@ -7655,11 +7653,11 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          84
+          85
         ],
         [
           "NPU",
-          41
+          39
         ],
         [
           "정책",
@@ -7667,11 +7665,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "국내 기사",
-          132
+          130
         ],
         [
           "해외 기사",
-          48
+          50
         ]
       ],
       "sections": [
