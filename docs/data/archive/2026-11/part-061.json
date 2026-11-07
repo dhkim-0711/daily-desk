@@ -1,7 +1,123 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-07T06:10:56.864Z",
+  "updatedAt": "2026-11-07T06:22:45.745Z",
   "articles": [
+    {
+      "title": "SemiAnalysis launches GDPx: the best AI agent completes just 12% of its high-value tasks, and finance and legal score zero - Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSDA0WWliMGVneGg4Y2dXWXdnTUhiLXlBUnVwdEg1emRYZE0tU0I1RjJRemlzSnRnUEktS3A0SmtWc2FWR0pNYzRmcUZfN3VlOFNDcHBoZ0RGZzk1SldBQjI3TVpTNHB1Y2hQZkhkVHFISGdSRDhEQ2NwclF4dGFGN1EwSEpldkVqa0REZGVYYVVZWWVOVE9UY3h5VXlZQnh3QnF5WFBoN2NNazlfTUY1Mm5UYlVVNWdQNlczVlVQbzlWOGEtZEo1R2o0TnlqNDZGNnduRWs4am5ZUXNqUVpULTNuSjRBbjBL?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 11:03:32 GMT",
+      "summary": "SemiAnalysis launches GDPx: the best AI agent completes just 12% of its high-value tasks, and finance and legal score zero &nbsp;&nbsp; Dealroom",
+      "outlet": "Dealroom",
+      "outletUrl": "https://app.dealroom.co",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-11-02T18:50:26.182Z",
+      "lastSeenAt": "2026-11-03T07:51:12.167Z"
+    },
+    {
+      "title": "Nvidia stock valuation gets torched by tech stock rout - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZseDhYeDZxTDFzcm9tLVdXRlo0RzdnTzR6U284RVFhTW1Rc09WU2R6TG1iODczZUQ0RUdPTDdPR09CajZWc0tNMV9laGxQZktza2RtZXRKTE5YT0xfY2FFWFRmVTkyWUxnb251UEJ5TWV5UFJ0VzU1LVgtTzEyZ0RjcURPUXItdEc2YzdSREtuRGZhVUlHQ3JMbWNOZmllc1RzNUphcFBRSjFTakZrT0dpTENVMFhFVVE?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 11:02:44 GMT",
+      "summary": "Nvidia stock valuation gets torched by tech stock rout &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 18,
+      "firstSeenAt": "2026-11-02T12:16:34.842Z",
+      "lastSeenAt": "2026-11-05T07:11:18.763Z"
+    },
+    {
+      "title": "Nebul deploys Nvidia GPUs at Datacenter United campus in Belgium - Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUhJZ1ZkZWlvempNMF8yZ0VzcW9GYm94eVJGekhmdW0wNzdULUtUWG1ONHQ4Zmw3cmpkQVQ5MnctMmpaMzZ0WkhtYlhqUkl1ZUJHZXJYUlVRQWF0RWxtOWdrb2VBZjhDNHVuZzhFUXZUNXp4ZWtWaXFWdm9rWGthSF9MVjB0WU1UMGNySUh5dmFMd3ZYaktZVnJVaTloYmV5WnMycmZUTVQ2T0xo?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 11:01:30 GMT",
+      "summary": "Nebul deploys Nvidia GPUs at Datacenter United campus in Belgium &nbsp;&nbsp; Data Center Dynamics",
+      "outlet": "Data Center Dynamics",
+      "outletUrl": "https://www.datacenterdynamics.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-11-02T12:16:34.842Z",
+      "lastSeenAt": "2026-11-05T06:59:49.089Z"
+    },
+    {
+      "title": "Alphabet Plummets After Earnings. I Think the Stock Looks Like a Genius Buy Now. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWM3WTI4UndTQ29xM1phcExVY3hrX1hnc3lHakpEcFJFbWJzQ3VtSVRHUXB4Z1B4ZW9abTdzZWpiZmJUbm1TcDh5R0ltX3FObFRwZVdYVmg1VGxRVnl3YU9rMzI4bTlMbFZFWG5DS0xxX0NFdmtBd3pyY1U4TkNpdDJSZUtodzdkQ3E4b1hfVTA3eWNySjV4NFFNTzh4MUp3aUR3M3JR?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 11:01:00 GMT",
+      "summary": "Alphabet Plummets After Earnings. I Think the Stock Looks Like a Genius Buy Now. &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-11-02T12:16:34.842Z",
+      "lastSeenAt": "2026-11-03T07:51:12.167Z"
+    },
+    {
+      "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTJxMVlLZVJ1YmQwOGw0Y2R0b3JqQS04aWZzVl9xU0J4cS1SRXBoZmlSSDhqNWtCODRlMEdtdWNEZ0U3Q3BYbVhJQjZ3UE5ZV05UMUpuQXJDMms4MHBZWS1nbkRqRnZXbXlySXVPVGpTZHB5X2RSWU1ib1JHM1BBOUxwb1BvYWRXMVJiSDhPSjBEcjTSAZgBQVVfeXFMTjlfeHpPbmxGR2lCLXhKS2lvQWotNV9HYmhKTEhvVUJMemRQbnBpOUg3Zkd6Vzc1M1g4X2pDWFU1WGZnaEdTTElnZDJlOEFrMDNMbnBuRjR1eFFYcnZodzFsSXNZVjNVVm41aE82UVlsRTVlZ2tYMllib1hQRjBZT0drLUpIdV9OY1lWV0pUNUNGZG95cS0xZFc?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 11:00:01 GMT",
+      "summary": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks &nbsp;&nbsp; CNBC",
+      "outlet": "CNBC",
+      "outletUrl": "https://www.cnbc.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-11-02T12:16:34.842Z",
+      "lastSeenAt": "2026-11-05T07:11:18.763Z"
+    },
     {
       "title": "Weekly Recap: Danish data center expansion and Nvidia capacity purchase - TradingView",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ3ZTZ2tUbmhmSy1zZklWVm5tRXBTd09BdHZLUFhtUDhDdW9PUzdEYU9lNW9jal94djBTa0E3bGtFLXQza0V4M0gxaXBuZjFqeVh1VXBMUnNvZ3hzaWFqYktRTlBaZEVmdHpmdFUzSmZMU2ZRTThHVld4MHBFRVE5T2lLdU5ibkpLRkZ2RFU1NVR3TGN4U3dPaXlzMy1nX1hDcUJ1LUFQYVM1NlpXMmNaalFyYVlJR1hZQTNiQS1ndFRKUnBlSXFNenVQa20?oc=5",
@@ -2132,120 +2248,6 @@
       "score": 16,
       "firstSeenAt": "2026-11-02T12:16:34.842Z",
       "lastSeenAt": "2026-11-02T12:16:34.842Z"
-    },
-    {
-      "title": "Big Tech Earnings: AI Spending, Stocks & Bitcoin Outlook - eToro",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFd5YW9Pend5WUZwMm92dXBSSUU0WXlPeHJPMXd2WjgyYl9HcVN6ejhtSHhZb3c4X21mazB2dFBQZWhUSWdoWkJhbFhOWW5XbVFidGRLSFVkUGFVUm9pWnBKc3ZrQW5hbEtDcUtaLVBWeGNLZXpfN2ExTk5aQzZlRkRrX2hYQTYtcUFDV3hxdDdUaUV4dzg2Q1RTV0E?oc=5",
-      "publishedAt": "Mon, 02 Nov 2026 09:24:58 GMT",
-      "summary": "Big Tech Earnings: AI Spending, Stocks & Bitcoin Outlook &nbsp;&nbsp; eToro",
-      "outlet": "eToro",
-      "outletUrl": "https://www.etoro.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-02T12:16:34.842Z",
-      "lastSeenAt": "2026-11-02T12:16:34.842Z"
-    },
-    {
-      "title": "삼성SDS, 구미 AI 데이터센터 착공…영남권 60조 투자 첫 가시적 성과 - 테크수다",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zSUdlVTJiVlNHWnNCeEpPcU9sV2ZJTFFrWklWSUlqcUpzeTVqcTVnS3dwTHVwNFRvRl9jTVc5djNmeXhKaUs3ZmdzTHZQT2dUc2YxcjZxTEZ2T1BXZW95alBjOHhOd1hrRFQwR3N30gFzQVVfeXFMUFlFclJWTmpMcC14WmQzQk1kQWxQWkRmcjYyUzFJVkxsaUszWFJxc1dYNTRrN0Q5SS1WMFl6WmR4X0pyYldHM3RTTWUzTVZmUWxqZHRNRnRMQnZWanJaS0h2X2FORVJPcGVTX0VMVjd1dnVBYw?oc=5",
-      "publishedAt": "Mon, 02 Nov 2026 09:24:25 GMT",
-      "summary": "삼성SDS, 구미 AI 데이터센터 착공…영남권 60조 투자 첫 가시적 성과 &nbsp;&nbsp; 테크수다",
-      "outlet": "테크수다",
-      "outletUrl": "https://www.techsuda.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-11-02T18:50:26.182Z",
-      "lastSeenAt": "2026-11-02T18:50:26.182Z"
-    },
-    {
-      "title": "Cognizant Creates 25,000-Strong OpenAI Enterprise AI Practice - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2JGa1lIdDFxUjh6VVBVOHlPQWVhVkllT2tTNzAwbmpab3lpYjZoMlV1aFZfVDJhN0RrMjJtLTVicHI3X3VBLU5DcWlTdmtTVkJrbko3Uno1eXo1a1lOeUtxb2VwZTFybkFZMnJtYU5OemlUVmJ4X0NpZktVQVlzdW9sQXFkblU1dV8xUEZ0eHlRRTMxNktRT1dPWnZaNzRUeExoREFoYkQ?oc=5",
-      "publishedAt": "Mon, 02 Nov 2026 09:24:14 GMT",
-      "summary": "Cognizant Creates 25,000-Strong OpenAI Enterprise AI Practice &nbsp;&nbsp; BW Businessworld",
-      "outlet": "BW Businessworld",
-      "outletUrl": "https://www.businessworld.in",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business",
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-02T12:16:34.842Z",
-      "lastSeenAt": "2026-11-03T07:51:12.167Z"
-    },
-    {
-      "title": "Goldman Sachs updates AI adoption tracker through October 2026 - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZjJtajZXbzZWM3NwNlMwMFpMd000WGdZSG5UZ01iMVRmeC1LM191SFBkbVZyUnE2d2dhREgwakdjUmFXZ2RLYjlsakQtMVpWcFRyazhmNllUeVhhblNrekdGeDJVdjN1emhiUFJYTF9uSngyLXJSaW04RFV0cFBwQThPYVJYdzNvd2U4TDNQUlFyX2liR1VTLVZPZWMya1RsUERoSTBLVHZlZ0xHc2s3aE81NVV0TWRsdnN5Z1ZrdXBZZw?oc=5",
-      "publishedAt": "Mon, 02 Nov 2026 09:23:55 GMT",
-      "summary": "Goldman Sachs updates AI adoption tracker through October 2026 &nbsp;&nbsp; Investing.com",
-      "outlet": "Investing.com",
-      "outletUrl": "https://www.investing.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-11-02T18:50:26.182Z",
-      "lastSeenAt": "2026-11-03T01:47:20.917Z"
-    },
-    {
-      "title": "삼성, 영남 ‘60조 투자’ 첫발…삼성SDS, 구미 AI데이터센터 착공 - 주간한국",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NaWJOMldMMVNTTmVSNFRrQkRIS1RQX1Q2VTExQ1lXX1dJR1AxYnJsNlhYc2k1NjN4ZFMwSTBicEpBRU1mSzRNMnNQQWJlSHpKS0NwNEpqWERIUFF2MVRYRDd5clZsbEd4Yk9RTTdSSGLSAXRBVV95cUxPWi1CZmR2M1JibmZFZS1BMWRMbDc4d3pKZHpFSFhGY0RYLU96alBlNGpGTV8xWVBQYjBhVVNoZTZQY1JEN0JUWGdISlRZaDV1VnNDNnRJSVZCNmNZU3FVWW5XRTFtYkE4Qy1RUXZsejlPdGFsbA?oc=5",
-      "publishedAt": "Mon, 02 Nov 2026 09:23:38 GMT",
-      "summary": "삼성, 영남 ‘60조 투자’ 첫발…삼성SDS, 구미 AI데이터센터 착공 &nbsp;&nbsp; 주간한국",
-      "outlet": "주간한국",
-      "outletUrl": "https://weekly.hankooki.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-11-02T12:16:34.842Z",
-      "lastSeenAt": "2026-11-03T07:51:12.167Z"
     }
   ]
 }

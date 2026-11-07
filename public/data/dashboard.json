@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T06:10:56.864Z",
+  "generatedAt": "2026-11-07T06:22:45.745Z",
   "news": {
     "articles": [
       {
@@ -101,8 +101,7 @@
         "outletUrl": "https://www.connecticheon.com",
         "source": "AI반도체 공공사업",
         "sourceIds": [
-          "ai-chip-public-program",
-          "government-npu-policy"
+          "ai-chip-public-program"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -664,27 +663,6 @@
         "score": 26
       },
       {
-        "title": "NIPA, 한·아세안 AI 창업팀 동남아 진출 지원 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qNEdlZVZDMFZ2WkN5Q2RxV2xSM2lXajhEeTNycGktWlhqOXZlb0tjOVlRUlhkdEhuZTVSS3JYbU9uV0VLZEVfY0NiTjRQeWIxYms1NnNn?oc=5",
-        "publishedAt": "Fri, 06 Nov 2026 06:22:37 GMT",
-        "summary": "NIPA, 한·아세안 AI 창업팀 동남아 진출 지원 &nbsp;&nbsp; 지디넷코리아",
-        "outlet": "지디넷코리아",
-        "outletUrl": "https://zdnet.co.kr",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy",
-          "ai-chip-public-program"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
-        "score": 26
-      },
-      {
         "title": "[GAM]AMD 3조달러 AI 영토 장악 나섰다 ② 오픈 생태계로 엔비디아 맹추격 - 뉴스핌",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nZFFmWTBMSTdSSEVZZlpzaDZHX2tPS0NyaVdxandDT3lNT2w5SElpQlY0QWRIZS1jUFFmZDh6d2psRHlwRWp2V1I1RjBYWVJtY085ajdrMzJaTDV1?oc=5",
         "publishedAt": "Thu, 05 Nov 2026 23:01:00 GMT",
@@ -732,6 +710,27 @@
         ],
         "issueCategory": "NVIDIA",
         "score": 26
+      },
+      {
+        "title": "NIPA, 한·아세안 AI 창업팀 동남아 진출 지원 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qNEdlZVZDMFZ2WkN5Q2RxV2xSM2lXajhEeTNycGktWlhqOXZlb0tjOVlRUlhkdEhuZTVSS3JYbU9uV0VLZEVfY0NiTjRQeWIxYms1NnNn?oc=5",
+        "publishedAt": "Fri, 06 Nov 2026 06:22:37 GMT",
+        "summary": "NIPA, 한·아세안 AI 창업팀 동남아 진출 지원 &nbsp;&nbsp; 지디넷코리아",
+        "outlet": "지디넷코리아",
+        "outletUrl": "https://zdnet.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy",
+          "ai-chip-public-program"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "정책",
+        "score": 25
       },
       {
         "title": "과기정통부·KISA, '에이전틱 AI 제로트러스트 안내서' 발표…AI 자율행위 보안 강화 - 테크데일리",
@@ -2386,8 +2385,7 @@
         "outletUrl": "https://www.aitimes.com",
         "source": "해외 빅테크 국내 보도",
         "sourceIds": [
-          "korea-global-ai-companies",
-          "korea-ai-policy"
+          "korea-global-ai-companies"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -2610,29 +2608,6 @@
         "score": 23
       },
       {
-        "title": "엔비디아 \"RTX 스파크, '로컬 AI 에이전트 시대' 겨냥\" - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XQmxVOVdMbEdLYXdsWUZDWmQ3TkJ4amlrLURCVXBDZkFiM0R6QWN4cHFWbzFHT196LXNaNHEtdV9KclFDd280aFJnVFNyNi1yc0tyTmhR?oc=5",
-        "publishedAt": "Fri, 06 Nov 2026 06:12:51 GMT",
-        "summary": "엔비디아 \"RTX 스파크, '로컬 AI 에이전트 시대' 겨냥\" &nbsp;&nbsp; 지디넷코리아",
-        "outlet": "지디넷코리아",
-        "outletUrl": "https://zdnet.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 23
-      },
-      {
         "title": "엔비디아·AMD, 韓 AI 반도체 스타트업에 잇단 러브콜 - 아시아경제",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uM0VUekw2Q2dlUFVOc3VrR3BDSGwzZ21feER5RkJoRm9WSUF1ZGgwSU5XQ2hlYWxNMnRYWG5Nd3JlZFo3R1FidTExRU1qRjNnVUxxbHQzNXIyMEs3clF4dA?oc=5",
         "publishedAt": "Fri, 06 Nov 2026 05:19:17 GMT",
@@ -2700,7 +2675,7 @@
       },
       {
         "title": "선거 후 AI 규제 우려에도… 오픈AI \"데이터센터 투자·자금 조달 계속\" - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95REdZVExfdVVLZ3dtb1dNcUI1M1RMcTBnM2NjRFl6OUxWU0xOeFRkZ1ZDVFJEQkQ1LTBMNUVIM3ZVQ21IVllJeTRHbkNKTXZFWTNqWHNGeGgwLVdWTjBRazBiRWZFaXNa0gFuQVVfeXFMTmVPM0JHalloZUc3ZFdsRmpnWTNUUUFUVmVxU1duSm1vRjY1WGN3ODBwcFA4UFJZaExlWWJPWm96VnczTDBUYTllREtjMmxpWjVCSUVXU0VybmxESXlkQm52XzM2SW9lRWxkLVBXdlE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lTzNCR2pZaGVHN2RXbEZqZ1kzVFFBVFZlcVNXbkptb0Y2NVhjdzgwcHBQOFBSWWhMZVliT1pvelZ3M0wwVGE5ZURLYzJsaVo1QklFV1NFcm5sREl5ZEJudl8zNklvZUVsZC1QV3ZR0gFuQVVfeXFMTmVPM0JHalloZUc3ZFdsRmpnWTNUUUFUVmVxU1duSm1vRjY1WGN3ODBwcFA4UFJZaExlWWJPWm96VnczTDBUYTllREtjMmxpWjVCSUVXU0VybmxESXlkQm52XzM2SW9lRWxkLVBXdlE?oc=5",
         "publishedAt": "Sat, 07 Nov 2026 05:20:33 GMT",
         "summary": "선거 후 AI 규제 우려에도… 오픈AI \"데이터센터 투자·자금 조달 계속\" - 머니투데이 &nbsp;&nbsp; 머니투데이",
         "outlet": "머니투데이",
@@ -3194,6 +3169,29 @@
         "score": 22
       },
       {
+        "title": "엔비디아 \"RTX 스파크, '로컬 AI 에이전트 시대' 겨냥\" - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XQmxVOVdMbEdLYXdsWUZDWmQ3TkJ4amlrLURCVXBDZkFiM0R6QWN4cHFWbzFHT196LXNaNHEtdV9KclFDd280aFJnVFNyNi1yc0tyTmhR?oc=5",
+        "publishedAt": "Fri, 06 Nov 2026 06:12:51 GMT",
+        "summary": "엔비디아 \"RTX 스파크, '로컬 AI 에이전트 시대' 겨냥\" &nbsp;&nbsp; 지디넷코리아",
+        "outlet": "지디넷코리아",
+        "outletUrl": "https://zdnet.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI에이전트",
+        "score": 22
+      },
+      {
         "title": "[현장] 엔비디아 \"AI가 PC와 상호작용 바꾼다\"···RTX 스파크로 에이전트 시장 공략 - 스마트비즈",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrckMyZUJXQmlqdno2Q3hScVZCbFBKQ2M1LUtnZzFxMFJKSHVmalNVSWhBYkFvektGWTQxREpDUDVSOGY3ZDhhUHQySFUyTU5oRDFOQldoTU1aV2syd3d2MlhqQS1yRmE5bGdQTA?oc=5",
         "publishedAt": "Fri, 06 Nov 2026 05:16:05 GMT",
@@ -3589,29 +3587,6 @@
         "score": 22
       },
       {
-        "title": "Box Partners With NVIDIA to Deliver the Trusted Content Layer for Enterprise AI - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdFgtLXV4RWhQdGJzaTd2MHM2bWlmQjJnZlZNNWd1bHRIc1BpaWIweV9WS0R1ZmlhRER1Rl96ZmZBX3UzWGw4VFFZdnJNcm9fT250Y3R5YnNzYWZZczlFZFNFZU9FNE9lVUVWVFZOYl9zbkJfc2d3THFxMGpZM0lIbTRxOFRRVlZ5U3QycHg5a3pwSEdZRnFRYnJtVUZPd0JC?oc=5",
-        "publishedAt": "Thu, 05 Nov 2026 14:00:00 GMT",
-        "summary": "Box Partners With NVIDIA to Deliver the Trusted Content Layer for Enterprise AI &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "AI 시장·비즈니스",
-        "sourceIds": [
-          "ai-market-business"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
         "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aWotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVE?oc=5",
         "publishedAt": "Thu, 05 Nov 2026 13:34:14 GMT",
@@ -3678,29 +3653,6 @@
           "NVIDIA"
         ],
         "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
-        "title": "메가존소프트, 구글 클라우드 AI·제미나이 최고 등급 인증 획득 - IT조선",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hV1ZPSC15anNISzJLZW1KdE83QXd6LWIwVXBOR1BteUUtT01UOFN5cXJwODFmNnp3YkZkVi1vQ1BXZnBZVW1UUmRRWVllV0ZESkRwOWowX1NoWWUyV3Y5UVlicHM0WEZnM2VnWS1Ga0s3RXM20gF0QVVfeXFMTWFXVk9ILXlqc0hLMktlbUp0TzdBd3otYjBVcE5HUG15RS1PTVQ4U3lxcnA4MWY2endiRmRWLW9DUFdmcFlVbVRSZFFZWWVXRkRKRHA5ajBfU2hZZTJXdjlRWWJwczRYRmczZWdZLUZrSzdFczY?oc=5",
-        "publishedAt": "Thu, 05 Nov 2026 06:17:39 GMT",
-        "summary": "메가존소프트, 구글 클라우드 AI·제미나이 최고 등급 인증 획득 &nbsp;&nbsp; IT조선",
-        "outlet": "IT조선",
-        "outletUrl": "https://it.chosun.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
         "score": 22
       },
       {
@@ -4162,6 +4114,52 @@
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
+        "score": 21
+      },
+      {
+        "title": "메가존소프트, 구글 클라우드 AI·제미나이 최고 등급 인증 획득 - IT조선",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hV1ZPSC15anNISzJLZW1KdE83QXd6LWIwVXBOR1BteUUtT01UOFN5cXJwODFmNnp3YkZkVi1vQ1BXZnBZVW1UUmRRWVllV0ZESkRwOWowX1NoWWUyV3Y5UVlicHM0WEZnM2VnWS1Ga0s3RXM20gF0QVVfeXFMTWFXVk9ILXlqc0hLMktlbUp0TzdBd3otYjBVcE5HUG15RS1PTVQ4U3lxcnA4MWY2endiRmRWLW9DUFdmcFlVbVRSZFFZWWVXRkRKRHA5ajBfU2hZZTJXdjlRWWJwczRYRmczZWdZLUZrSzdFczY?oc=5",
+        "publishedAt": "Thu, 05 Nov 2026 06:17:39 GMT",
+        "summary": "메가존소프트, 구글 클라우드 AI·제미나이 최고 등급 인증 획득 &nbsp;&nbsp; IT조선",
+        "outlet": "IT조선",
+        "outletUrl": "https://it.chosun.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 21
+      },
+      {
+        "title": "메가존소프트, 구글클라우드 AI 최고 등급 인증 2개 획득…AX 사업 확대 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41SUctdVVxLWpxaWFYMHc4Rm5FSWs4UUhhbVpCNGY1M3hDVXhuT0t0SWtYLVZNZEI5a2pmdTZWR00zVG5SUmd0YThhNndhcFFVYTRvenpR?oc=5",
+        "publishedAt": "Thu, 05 Nov 2026 05:29:55 GMT",
+        "summary": "메가존소프트, 구글클라우드 AI 최고 등급 인증 2개 획득…AX 사업 확대 &nbsp;&nbsp; 지디넷코리아",
+        "outlet": "지디넷코리아",
+        "outletUrl": "https://zdnet.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI인프라",
         "score": 21
       }
     ],
@@ -7137,13 +7135,13 @@
         ]
       }
     ],
-    "generatedAt": "2026-11-07T06:10:54.524Z"
+    "generatedAt": "2026-11-07T06:22:43.644Z"
   },
   "briefing": {
     "date": "2026년 11월 7일 토요일",
     "summary": [
       "오늘의 최상위 이슈: 과기정통부·AMD·모레·망고부스트, 국산 NPU 결합 인프라 실증 착수 - 디지털데일리",
-      "강한 기술·시장 신호: NPU 9, AI인프라 18, 데이터센터 44, 온디바이스AI 3, 추론 5",
+      "강한 기술·시장 신호: NPU 9, AI인프라 19, 데이터센터 44, 온디바이스AI 3, 추론 5",
       "주요 기업 신호: 퓨리오사AI 19, 딥엑스 3, 리벨리온 1, 하이퍼엑셀 0, 모빌린트 0"
     ],
     "leadArticles": [
@@ -7246,8 +7244,7 @@
         "outletUrl": "https://www.connecticheon.com",
         "source": "AI반도체 공공사업",
         "sourceIds": [
-          "ai-chip-public-program",
-          "government-npu-policy"
+          "ai-chip-public-program"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -7416,7 +7413,7 @@
         ],
         [
           "AI인프라",
-          18
+          19
         ],
         [
           "데이터센터",
@@ -7462,7 +7459,7 @@
         ],
         [
           "NVIDIA",
-          60
+          59
         ],
         [
           "AMD",
@@ -7470,7 +7467,7 @@
         ],
         [
           "Google",
-          33
+          34
         ],
         [
           "TSMC",
@@ -7573,7 +7570,7 @@
       "metrics": [
         [
           "AI시장",
-          80
+          79
         ],
         [
           "NPU",
@@ -7585,11 +7582,11 @@
         ],
         [
           "국내 기사",
-          126
+          127
         ],
         [
           "해외 기사",
-          54
+          53
         ]
       ],
       "sections": [

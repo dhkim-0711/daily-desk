@@ -1,7 +1,86 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-07T06:10:56.864Z",
+  "updatedAt": "2026-11-07T06:22:45.745Z",
   "articles": [
+    {
+      "title": "Runware expands engineering leadership with senior hires from NVIDIA, OpenAI and NetApp - Lohud",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbjhMZ0FWdEJjb2FvNWVKUFVBRjJOLTEzaDFLSW9YZkNKTTlkRVdRWHAwTVUyMzJrWUxjVW9zU0RFRDNlUVFuMWNvemk4bFF4MTBMMDRVU0tab0MzRng3eFBpWkxqUWxDTWYybXdWWEotYldHSkRFdXVTeGtNWFZUdG9GQl8tZjM2dG5hLWNCaVppUkVtN0Fqek1neUJnYWdzVUxmQ0RCQjB0dzlLUmFwaVNOWl9MTGNDTG5mYWtTYS1FUDZTQWM0SWVsUEhybXVfNnc?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 16:00:52 GMT",
+      "summary": "Runware expands engineering leadership with senior hires from NVIDIA, OpenAI and NetApp &nbsp;&nbsp; Lohud",
+      "outlet": "Lohud",
+      "outletUrl": "https://www.lohud.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-11-05T20:38:08.026Z",
+      "lastSeenAt": "2026-11-06T07:11:18.961Z"
+    },
+    {
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "link": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+      "publishedAt": "Thu, 05 Nov 2026 16:00:05 +0000",
+      "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. [&#8230;]",
+      "outlet": "NVIDIA Blog",
+      "outletUrl": "https://blogs.nvidia.com",
+      "source": "NVIDIA 공식 기술발표",
+      "sourceIds": [
+        "nvidia-official-blog",
+        "nvidia-official-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-05T20:38:08.026Z",
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
+    },
+    {
+      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+      "link": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+      "publishedAt": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. [&#8230;]",
+      "outlet": "NVIDIA Blog",
+      "outletUrl": "https://blogs.nvidia.com",
+      "source": "NVIDIA 공식 기술발표",
+      "sourceIds": [
+        "nvidia-official-blog",
+        "nvidia-official-news",
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "AI인프라",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 26,
+      "fullSummary": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge November 5, 2026 by Amr Elmeleegy 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack.",
+      "summarySource": "article",
+      "firstSeenAt": "2026-11-05T20:38:08.026Z",
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
+    },
     {
       "title": "AI investment outpaces revenue for TD SYNNEX resellers - CFOtech Asia",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb00yRTFBZmZWRWpTd0tKMEdmckVlOGZySlRuVm90RDVFaU5tS00xTWRiUFlWUkl5Ri1Ua0tGeGJCTlY0dV9qMGRsaDRqS3lzWEMxd01IMTd2T2ZmUl8zRU1Dd3R0SGZtYUlWZmtTN1lPcldGUTc5SHFHRlFjNmd4ZUFraFVHdVl6?oc=5",
@@ -48,7 +127,7 @@
       "issueCategory": "AI인프라",
       "score": 18,
       "firstSeenAt": "2026-11-05T20:38:08.026Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "West Monroe Survey: AI Spending Surges as 74% of Enterprises Commit Over 10% of IT Budgets to AI - PR Newswire",
@@ -92,7 +171,7 @@
       "issueCategory": "AI에이전트",
       "score": 16,
       "firstSeenAt": "2026-11-05T20:38:08.026Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Live Take | AI Stocks Crash as Nasdaq Plunges: Is It Time to Buy the Dip? - Moomoo",
@@ -356,7 +435,7 @@
       "issueCategory": "AI시장",
       "score": 8,
       "firstSeenAt": "2026-11-05T20:38:08.026Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Give a team of 20 access to GPT, Claude, and Gemini for a one-time $69.97 - 828 News Now",
@@ -406,7 +485,7 @@
       "issueCategory": "데이터센터",
       "score": 18,
       "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "수출입銀, 퓨리오사AI에 200억 투자 …창사 이래 최초 - 쿠키뉴스",
@@ -431,7 +510,7 @@
       "issueCategory": "NPU",
       "score": 22,
       "firstSeenAt": "2026-11-06T23:30:51.629Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "AI backlash threatens trillion-dollar data centre boom, say tech leaders - Financial Times",
@@ -689,7 +768,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "중국 AI 스타트업 Moonshot AI, 유럽서 엔비디아 블랙웰 접근 모색 - Investing.com 한국어",
@@ -786,7 +865,7 @@
       "issueCategory": "AI시장",
       "score": 18,
       "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Stock Indexes Pressured as Chipmakers and AI Stocks Plunge - Barchart.com",
@@ -833,7 +912,7 @@
       "issueCategory": "NVIDIA",
       "score": 27,
       "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Amazon, Google Could Outperform Nvidia as AI Trade Shifts - Amazon.com (NASDAQ:AMZN) - Benzinga",
@@ -1048,7 +1127,7 @@
       "issueCategory": "Google",
       "score": 20,
       "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "AI Search Pulse Year-End Finale: Big Bets for 2027 - PR Newswire",
@@ -1112,7 +1191,7 @@
       "issueCategory": "AI시장",
       "score": 13,
       "firstSeenAt": "2026-11-05T20:38:08.026Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Google finds hackers using AI agents in real breaches - TechInformed",
@@ -1274,7 +1353,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-11-06T18:27:46.627Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Box Unveils the Next Generation of Enterprise AI with New Agenti - GuruFocus",
@@ -1384,7 +1463,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "\"AI 버블? 아직 시작도 안 했다\"…전문가가 짚은 AI·반도체 진짜 꼭지의 조건 - 뉴시스",
@@ -1405,7 +1484,7 @@
       "issueCategory": "",
       "score": 13,
       "firstSeenAt": "2026-11-05T20:38:08.026Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "송정역 투자선도지구, 반도체 산단 속도 못 맞춘다 - www.gjdream.com",
@@ -1587,7 +1666,7 @@
       "issueCategory": "NVIDIA",
       "score": 20,
       "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Apple Makes Surprising Move to Rein In AI Spending - TradingView",
@@ -1609,7 +1688,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "AI stocks fall, oil bounces back after ‘blue wave’ drop - شبكة تواصل الإخبارية",
@@ -1695,7 +1774,7 @@
       "issueCategory": "AI시장",
       "score": 12,
       "firstSeenAt": "2026-11-05T20:38:08.026Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Supermicro launches KV cache solution with IBM and Nvidia - Investing.com",
@@ -1990,7 +2069,7 @@
       "issueCategory": "Google",
       "score": 20,
       "firstSeenAt": "2026-11-05T20:38:08.026Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Box partners with NVIDIA to launch AI retrieval engine - Investing.com",
@@ -2128,7 +2207,7 @@
       "issueCategory": "AI시장",
       "score": 12,
       "firstSeenAt": "2026-11-05T20:38:08.026Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Emerging market opportunities expanding beyond AI infrastructure, semiconductors - Markets Group",
@@ -2172,7 +2251,7 @@
       "issueCategory": "AI에이전트",
       "score": 16,
       "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Dylan Efron Powers His Passions in New Samsung Galaxy Tab S12 Series Campaign - samsung.com",
@@ -2194,7 +2273,7 @@
       "issueCategory": "",
       "score": 12,
       "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "CloudBolt Adds New AI Agent Governance Capabilities to Its Cloud Management Platform - The Manila Times",
@@ -2217,76 +2296,7 @@
       "issueCategory": "AI인프라",
       "score": 19,
       "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
-    },
-    {
-      "title": "Price of gold jumps and AI stocks fall as investors react to 'blue wave' - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQjZQemZETEdjUzhpTVN5S0UtVlZsTTgtX1UtRW9nTHJyTFRIUU9keGJEc0x4NkhtVkVpNVFUN1E0MHlMcFdTNU9pY1gtYUJEN2RUMlNJZDl0cVVNelFDNGtXU1JoUUNVN21qOXlPNGg1UF9GdDhjLXpjYU1MZjRGMk8teEVaOG1Hem9zS0wtTWV3dTJPYzdJeUpR?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 14:09:00 GMT",
-      "summary": "Price of gold jumps and AI stocks fall as investors react to 'blue wave' &nbsp;&nbsp; The Independent",
-      "outlet": "The Independent",
-      "outletUrl": "https://www.independent.co.uk",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-05T15:48:49.182Z"
-    },
-    {
-      "title": "Moonshot Sought Europe’s Nvidia GPUs; 30-50% Premium Floated - FourWeekMBA",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTTA5WTVLRFpLM2hIaFBVWDZCclBidkhkcjdDdXEwWldldlRsU1p1emwxNFFnZmowV0JkUnU0SUJKUU5xam5CVUxLMnk5RXJSM0NMQnpoZ2NWcXR1SzN2X1k2amFWSW02RWxTeENtVjR1azExUDM3WXNkc09NcGJCMnFBVlhrYmNQTlIzZUtB?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 14:08:23 GMT",
-      "summary": "Moonshot Sought Europe’s Nvidia GPUs; 30-50% Premium Floated &nbsp;&nbsp; FourWeekMBA",
-      "outlet": "FourWeekMBA",
-      "outletUrl": "https://fourweekmba.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-05T15:48:49.182Z"
-    },
-    {
-      "title": "\"中 '키미' 개발사 문샷, 유럽서 엔비디아 블랙웰 임대 추진\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYzM0RlFyWnc4Q3R4ZW5UZmRzdktkX0dURmN4Y1l2QklCdGF3djFkc0cwMGdNc1RZNzFfcVRoU1dhYnZGVWNPajlicV9BaVVMaEJsTGtMc3BoanZ6WFBOM0FEcGFpZkVLejF6QTljREY?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 14:07:19 GMT",
-      "summary": "\"中 '키미' 개발사 문샷, 유럽서 엔비디아 블랙웰 임대 추진\" &nbsp;&nbsp; 연합인포맥스",
-      "outlet": "연합인포맥스",
-      "outletUrl": "https://news.einfomax.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 18,
-      "firstSeenAt": "2026-11-05T15:48:49.182Z",
-      "lastSeenAt": "2026-11-06T07:11:18.961Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     }
   ]
 }

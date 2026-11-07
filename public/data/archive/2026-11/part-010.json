@@ -1,7 +1,79 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-07T06:10:56.864Z",
+  "updatedAt": "2026-11-07T06:22:45.745Z",
   "articles": [
+    {
+      "title": "로컬 AI 에이전트 시대 새로운 PC 플랫폼, 엔비디아 RTX 스파크 프레스 이벤트 - 보드나라",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKMjVvNEtWT1ZtZEFMazQ3WnV2UmZnTUhkczZybnVkVlpvekhwWlE2QlFrdkljRHJyamRhUk93Z2JkQXJ0RU5BN1FfQ29hM1kyaXRlUFctWTgzZmhUZTVuUnRQbw?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 06:27:54 GMT",
+      "summary": "로컬 AI 에이전트 시대 새로운 PC 플랫폼, 엔비디아 RTX 스파크 프레스 이벤트 &nbsp;&nbsp; 보드나라",
+      "outlet": "보드나라",
+      "outletUrl": "https://www.bodnara.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 23,
+      "firstSeenAt": "2026-11-06T06:58:25.444Z",
+      "lastSeenAt": "2026-11-06T07:11:18.961Z"
+    },
+    {
+      "title": "씨이랩, 국민성장펀드 투자 유치…100억 규모 CB 발행 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DVTFsSWNvclJxMmtDRk9yVnJsN1czaE5zdEpDbk16YlZ5bE1iRWtGOFh3b05YWG10elhCcVZWZ1k2a2xpajJITzlNRXkxd0owN092OUtfczd2WlpYdTVsaEdWYldxdw?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 06:27:36 GMT",
+      "summary": "씨이랩, 국민성장펀드 투자 유치…100억 규모 CB 발행 &nbsp;&nbsp; 디일렉",
+      "outlet": "디일렉",
+      "outletUrl": "https://www.thelec.kr",
+      "source": "AI반도체 정책금융·집행",
+      "sourceIds": [
+        "ai-chip-policy-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-11-06T11:29:45.021Z",
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
+    },
+    {
+      "title": "Google Cloud says it deleted leaked presidential info at Korean gov't request - The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc2JQOUNLaGp1VmFycUdtWUpocTJSSHFJYWZlTkVLVnpuU0xlcktPQVBCSXFTNDJSdlFRNktBc01BMUlkdDF4OEZMdEllYjJhWjFHeENMdU10X1VwVEpNbzY1dGxWaXBCbk1Sak5yeWtiT3ZiY2ZPV3hHalA1clRTTkxJUzZFWklnR3MzMUFTR3B3UGdFaTFSTjNRUEJUdHVHU0hQbE9oYlRNSGtHRmhxclFQckZmYUwxeHlwSjJ3LTEyTmlTSEZ4Q1d0VzNTUdIB0wFBVV95cUxOcnkwUjl1bU9Ndmhka1hUN3NtZ3hHYzBDLUJ3ZWpUT2hHZmtraVBvd3l1aGVuaElLMlU2WHN5OUlWWXFmTFpWNWU3azk3eDRaV29EQkZMVWdjcFp1OGRCS0QyQXhJQm9qcDB4TTVkRnd0QmxqZ3h1R2paMkF3RnhGSFVXSmRfYUhaZnlSSjVzQVBuOEk2Q1Bjb0JfemcyOEFtUFdIR0NYTU1TLXhuV3h1dmE3UlJXQ29nenBaTG5LWEttZU9wTUFEYm5LV2dtdmNMcnRF?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 06:27:03 GMT",
+      "summary": "Google Cloud says it deleted leaked presidential info at Korean gov't request &nbsp;&nbsp; The Korea Times",
+      "outlet": "The Korea Times",
+      "outletUrl": "https://www.koreatimes.co.kr",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google"
+      ],
+      "issueCategory": "AI인프라",
+      "score": 18,
+      "firstSeenAt": "2026-11-06T06:58:25.444Z",
+      "lastSeenAt": "2026-11-07T01:50:57.866Z"
+    },
     {
       "title": "Iren's AI cloud revenue nearly triples to USD 200 mln in first quarter - Telecompaper",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb21sSnlFU01DempaeXR6MWlYOS1CQVMzcFdKSVlHZEZMblBCZkNEVzRPOXRuLXNGa2hGcFFqQ3VyY2VVUVV6bHk3WXlwcVlHQ25KNGx2ZEtsc1dYeWVocG9RX3BnNWQzbUNnNEZuc2hqc1lrZmk2TGcxMFJqRlpHdXo2NHV1bkk2WTZIUDBZQTFMUEZTRFU0RDM0REdWdG1rTVZOd3NpM3lHZzJBeVNVWnRB?oc=5",
@@ -45,7 +117,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "일상부터 AI 작업까지…엔비디아 'RTX 스파크', 윈도우 PC 판 바꿀까 - 글로벌이코노믹",
@@ -69,7 +141,7 @@
       "issueCategory": "NVIDIA",
       "score": 20,
       "firstSeenAt": "2026-11-06T07:11:18.961Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "NIPA, 한·아세안 AI 창업팀 동남아 진출 지원 - 지디넷코리아",
@@ -92,7 +164,7 @@
       "issueCategory": "정책",
       "score": 26,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "It's not just AI stocks anymore: SoftBank bonds slide as selloff spreads to credit markets - Moneycontrol.com",
@@ -158,7 +230,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "\"1페타플롭 AI 슈퍼칩 담았다\"…엔비디아, `RTX 스파크` 데모 시연 - 디지털데일리",
@@ -182,7 +254,7 @@
       "issueCategory": "NVIDIA",
       "score": 20,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "광양경자청, 이차전지·반도체 소부장 투자유치 전략 모색 - 보도자료 | 기사 - 더팩트",
@@ -271,7 +343,7 @@
       "issueCategory": "AI시장",
       "score": 13,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "LG전자, 구글 광고 어워즈 2관왕…AI 마케팅 광고수익률 1190% - 포인트데일리",
@@ -318,7 +390,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "광양경자청, 신산업·에너지·소재부품 전문가 간담회 개최 > 뉴스 - 더코리아",
@@ -362,7 +434,7 @@
       "issueCategory": "NVIDIA",
       "score": 20,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "엔비디아 \"RTX 스파크, '로컬 AI 에이전트 시대' 겨냥\" - 지디넷코리아",
@@ -387,7 +459,7 @@
       "issueCategory": "AI에이전트",
       "score": 23,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Cocoon and DSRV unite to power on-chain financial APIs and AI agent payments - Chosunbiz",
@@ -431,7 +503,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "\"AI 우려 과도하지만 바닥은 아직\"…리서치 수장 7인 진단 - 마켓인",
@@ -473,7 +545,7 @@
       "issueCategory": "데이터센터",
       "score": 16,
       "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Truck Carrying $11.4 Million Worth of Nvidia AI Chips Vanishes Without a Trace in the US - BigGo Finance",
@@ -616,7 +688,7 @@
       "issueCategory": "AI시장",
       "score": 20,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "오픈AI, 데이터센터 전력 비용 전액 부담 약속…주민 반발 달래기 - AI타임스",
@@ -661,7 +733,7 @@
       "issueCategory": "AI시장",
       "score": 11,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "美 데이터센터 규제에 반사이익 기대감…NHN 23%↑[핫종목] - 뉴스1",
@@ -750,7 +822,7 @@
       "issueCategory": "파운드리·패키징",
       "score": 16,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "\"美 민주당, 데이터센터 차단 유인 없다...'낙폭 과대' 반도체·ESS 주목할 때\" [리서치센터장 긴급 진단] - 한국경제",
@@ -795,7 +867,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "美 민주당 압승에 데이터센터 규제 강화 우려...비트코인 채굴·전력·반도체 기업 타격 전망 - 더구루",
@@ -817,7 +889,7 @@
       "issueCategory": "데이터센터",
       "score": 11,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Singapore authorities warn of risks of personal AI agents — Channel NewsAsia - UA.NEWS",
@@ -901,7 +973,7 @@
       "issueCategory": "",
       "score": 7,
       "firstSeenAt": "2026-11-07T06:10:56.864Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Nvidia and Apollo in talks to repurpose Brightspeed telecom buildings for AI: report - TradingView",
@@ -1017,7 +1089,7 @@
       "issueCategory": "파운드리·패키징",
       "score": 16,
       "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "China espionage probe: Why US lawmakers want Nvidia CEO Jensen Huang to testify - Firstpost",
@@ -1249,7 +1321,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "UCIe Market to Reach US$ 13,995.5 Million by 2033, Growing at 35.8% CAGR - openPR.com",
@@ -1269,7 +1341,7 @@
       "issueCategory": "AI시장",
       "score": 8,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Ireland Data Centre Growth: How AI Infrastructure Is Driving Business Investment - Business News This Week",
@@ -1293,7 +1365,7 @@
       "issueCategory": "AI시장",
       "score": 22,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "美 데이터센터 규제 우려에 아시아 증시도 '휘청' - 지디넷코리아",
@@ -1382,7 +1454,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Future Secure AI raises USD 82 mln to expand enterprise AI Co-Worker business - Telecompaper",
@@ -1405,7 +1477,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "'올해는 로컬 에이전트의 해'...엔비디아 고가 AI PC 누가 쓰나 했더니 - 테크M",
@@ -1451,7 +1523,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Doximity Inc (DOCS) Q2 2027 Earnings Call Highlights: AI Search Becomes Eight-Figure Business ... - Yahoo Finance",
@@ -1472,7 +1544,7 @@
       "issueCategory": "AI시장",
       "score": 13,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "씨이랩, 국민성장펀드 투자 유치 ··· 100억 규모 전환사채 발행 - 데이터넷",
@@ -1496,7 +1568,7 @@
       "issueCategory": "AI시장",
       "score": 11,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "MS, 엔스케일 데이터센터 추가 임대 철회…AI 인프라 투자 재점검 - AI타임스",
@@ -1519,7 +1591,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Oracle vs. Alphabet: Which Is the Better AI Cloud Stock to Own for the Next 5 Years? - AOL.com",
@@ -1545,7 +1617,7 @@
       "issueCategory": "AI시장",
       "score": 23,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "IREN Ltd (IREN) Q1 2027 Earnings Call Highlights: AI Cloud Revenue Nearly Triples to $200 ... - Yahoo Finance Australia",
@@ -1615,7 +1687,7 @@
       "issueCategory": "AI시장",
       "score": 24,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "[포토] 금한승 차관, 용인 반도체 산단 통합용수공급사업 점검회의 주재 - 환경일보",
@@ -1635,7 +1707,7 @@
       "issueCategory": "AI시장",
       "score": 8,
       "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "AI stocks drop after midterm elections - KWCH",
@@ -1655,7 +1727,7 @@
       "issueCategory": "AI시장",
       "score": 13,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "씨이랩, 국민성장펀드 유치…AIDC 확장 위해 100억 CB 조달 - 뉴스포스트",
@@ -1678,7 +1750,7 @@
       "issueCategory": "실증·조달",
       "score": 11,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "[현장] 엔비디아 \"AI가 PC와 상호작용 바꾼다\"···RTX 스파크로 에이전트 시장 공략 - 스마트비즈",
@@ -1703,7 +1775,7 @@
       "issueCategory": "AI시장",
       "score": 23,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "배경훈 \"AI 데이터센터 투자 더 필요…美 주춤할 때 경쟁력 확보\" - 이투데이",
@@ -1810,7 +1882,7 @@
       "issueCategory": "",
       "score": 8,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "China And Hong Kong AI Stocks Slide After Nasdaq Tech Selloff - Finimize",
@@ -1899,7 +1971,7 @@
       "issueCategory": "NVIDIA",
       "score": 20,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "구글 '170억달러' 와이오밍 데이터센터…전력비 전액 부담 - 디지털투데이",
@@ -2038,7 +2110,7 @@
       "issueCategory": "",
       "score": 21,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "AI 앱 분명 막았는데…美 13세 '구글 AI모드'로 극단선택 계획 - 뉴스1",
@@ -2062,7 +2134,7 @@
       "issueCategory": "Google",
       "score": 20,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "텍사스 주지사 당선인 \"주민 보호책 마련 전까지 데이터센터 사업 중단해야\" - 프리진경제",
@@ -2128,7 +2200,7 @@
       "issueCategory": "AI에이전트",
       "score": 16,
       "firstSeenAt": "2026-11-06T18:27:46.627Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "HBM 호황이 파운드리도 살릴까…삼성전자, ‘반도체 시너지’ 시험대 - 이지경제",
@@ -2150,7 +2222,7 @@
       "issueCategory": "파운드리·패키징",
       "score": 11,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "한세모빌리티, NIPA 지원사업 선정… 임직원 AX 교육 및 컨설팅 추진 - 파이낸셜투데이",
@@ -2172,7 +2244,7 @@
       "issueCategory": "정책",
       "score": 21,
       "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     },
     {
       "title": "Tencent Cloud expands enterprise AI capabilities in Singapore - Telecompaper",
@@ -2196,73 +2268,7 @@
       "issueCategory": "AI시장",
       "score": 19,
       "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-07T06:10:56.864Z"
-    },
-    {
-      "title": "‘블루웨이브’에 美 데이터센터 건설 제동…中 반사이익 얻나 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3VPLThjR0l2bnFTdzg5Yllhem5INnBOaUdGa2NLcTRXZ1ZOczZqOGRzQzNzMnRlMjNQWWkxVFQyQUpXNnJHeUVRcmpjR3NJY1ZKcUIyY2EtS3NsU1l5YUJyX3dHN1kyQlotbGlmaWVycXZBTE5yeHhUWHp4NDl1TVdjUQ?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 04:55:00 GMT",
-      "summary": "‘블루웨이브’에 美 데이터센터 건설 제동…中 반사이익 얻나 &nbsp;&nbsp; 조선일보",
-      "outlet": "조선일보",
-      "outletUrl": "https://www.chosun.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-07T01:50:57.866Z"
-    },
-    {
-      "title": "엔비디아, 로컬 AI와 창작 지원하는 ‘RTX 스파크’ PC 기술 소개 - 캐드앤그래픽스",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ255bGNYV3RXVDNrNGMtTHNMZFdoRjhCZlcxQTZ0dGpjOFZPNDdTZC1ITENQcWFpSHVmQnRnemNIQm1tcUExb1NVVTRHTVFkd3BhYUZZZnp0LTQtVXJtc1lmSC1BQjJRVEpDRUYyMHlaaVRRQnNJcEpjZy1sVVdZQWhBbXpDMlpNWW5Hd2Zn?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 04:54:45 GMT",
-      "summary": "엔비디아, 로컬 AI와 창작 지원하는 ‘RTX 스파크’ PC 기술 소개 &nbsp;&nbsp; 캐드앤그래픽스",
-      "outlet": "캐드앤그래픽스",
-      "outletUrl": "https://www.cadgraphics.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-06T19:56:25.622Z"
-    },
-    {
-      "title": "Waymo expands into five metros with $5 billion loan as AI stocks sink - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTl4cEZsTktiQ1VGLVBzUVBJd3BtQWRWM2xzUFVkeW9QUHl4VzZaRmN5elNCTXFKV3Q5QTR0NDRzSExMMkxTZkdDRG1fY2NMVkREbVZsaUVacW9ELTdQOUJHVy0zODRoUUkwOUtiYkRyaW9BTlFQOUlSX3MwTkRKdVF1THlhTzluZThka01LaUJ6RG0wTlhSbklyTkw?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 04:53:25 GMT",
-      "summary": "Waymo expands into five metros with $5 billion loan as AI stocks sink &nbsp;&nbsp; Startup Fortune",
-      "outlet": "Startup Fortune",
-      "outletUrl": "https://startupfortune.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 13,
-      "firstSeenAt": "2026-11-06T06:58:25.444Z",
-      "lastSeenAt": "2026-11-06T12:00:32.429Z"
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
     }
   ]
 }
