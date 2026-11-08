@@ -1,0 +1,392 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-08",
+  "cutoff_at": "2026-11-08T09:30:00+09:00",
+  "window_start": "2026-11-07T09:30:00+09:00",
+  "created_at": "2026-11-08T09:50:00+09:00",
+  "status": "ready",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "국회 예산심사에서 과기정통부의 2027년 AI 예산 9조4000억원 가운데 미래대응기금 5조4000억원의 사업계획·법인·GPU 배분안이 미비하다는 지적이 제기됐다.",
+        "GPU 확보 규모보다 배분·설치·전력·수익회수 계획을 예산 의결 전에 연결해야 한다는 집행 순서 문제가 정책 쟁점으로 부상했다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "6개 주채권은행이 반도체·배터리·AI 등 전략산업 투자 기업집단의 정기 재무평가에 최대 5점의 가점을 반영하는 기준을 운영하기 시작했다.",
+        "대규모 선행투자를 일반 기업과 같은 부채지표로 평가하던 방식이 산업 특성을 반영하는 방향으로 바뀌어 설비투자 금융의 제약이 일부 완화될 수 있다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "매디슨 황 엔비디아 수석이사가 8일 방한을 취소하면서 배경훈 부총리 면담과 국내 기업 협력 논의가 무산됐고, 9~10일 AI 데이 행사는 예정대로 열린다.",
+        "예고됐던 정부·스타트업 협력이 실제 협의 단계로 이어지지 못한 만큼 행사 결과와 후속 접촉을 구분해 확인할 필요가 생겼다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "TSMC가 최대 고객 엔비디아의 요청을 받아 3D D램 생산계획을 검토하고 있으며 신설 공장이나 기존 팹 전환 방안을 살피는 것으로 보도됐다.",
+        "파운드리·첨단패키징 강자인 TSMC가 메모리까지 수직 통합할 경우 삼성전자·SK하이닉스·마이크론의 AI 메모리 경쟁구도와 고객 협상력이 달라질 수 있다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "마이크로소프트가 구형 엔비디아 GPU 기반 오라클 AI 컴퓨팅 용량의 가치를 낮게 평가해 계약을 갱신하지 않고 최근 수개월간 사용량을 줄인 것으로 보도됐다.",
+        "가속기 세대교체가 클라우드 용량의 계약기간과 자산가치를 단축하면서 네오클라우드·데이터센터 금융에서 장비 노후화 위험이 핵심 변수로 떠올랐다."
+      ]
+    },
+    {
+      "article_numbers": [6],
+      "bullets": [
+        "미국 정부가 H200 구매를 허가한 중국 기업 가운데 설립 17개월에 불과하고 등록 사무실이 비어 있으며 제재 대상 투자사와 연계된 곳이 확인됐다고 보도됐다.",
+        "판매량 제한이나 위치 추적만으로는 최종 사용자를 검증하기 어렵다는 사례가 드러나 수출허가 심사의 실소유·운영능력 확인이 공급통제의 새 병목이 됐다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "과기정통부 AI 예산 5.4조원, GPU 배분·법인·전력계획 미비 논란",
+      "category": "국내 정책·사업 집행",
+      "collected_at": "2026-11-07T10:41:19.601Z",
+      "original_published_at": "2026-11-06T18:49:08+09:00",
+      "original_url": "https://gyeongnampost.com/post/GRsE4SX9",
+      "main_points": [
+        "국회 과학기술정보방송통신위원회의 2027년도 예산안 심사에서 최형두 의원은 과학기술정보통신부 AI 예산의 사업 설계와 집행 순서를 문제로 제기했다. 정부의 2027년 AI 예산은 약 9조4000억원이며, 이 가운데 5조4000억원이 신설 미래대응기금에 편성되고 4조6250억원은 프런티어 AI 사업 출자로 구성된다고 의원실은 밝혔다.",
+        "프런티어 AI 사업에는 차세대 GPU 1만 장 확보 3조8500억원, 데이터 7500억원, 인재 250억원이 제시됐다. 그러나 출자를 받을 특수목적법인은 2027년 10월 설립 전망이고 민간 매칭, 수익 회수, 투자위험 관리, GPU 배분·설치·전력계획은 아직 확정되지 않았다는 것이 의원실 지적이다.",
+        "의원실은 2025년 추경 GPU 배분에서 산업계 몫이 계획 30%보다 낮은 12.8%였고 수도권 배분이 71.7%였다고 분석했다. 과기정통부는 GPU 배분계획을 연내 수립해 별도 보고하겠다고 답했으며, 기사에는 부처의 추가 반론은 포함되지 않았다."
+      ],
+      "importance": [
+        "AI 예산 확대 자체보다 GPU 확보, 배분, 전력과 운영주체를 어떤 순서로 확정할지가 국회 심사의 핵심 쟁점으로 전환됐다. 대규모 출자와 장비 구매가 실제 연구·산업 수요에 연결되려면 집행기관과 이용자 배분 기준이 예산 규모와 함께 검증돼야 한다.",
+        "과거 GPU 집행률과 지역·산업계 배분 수치가 함께 제시되면서 연산자원 정책의 성과평가가 확보 물량에서 실제 사용률과 수요 접근성으로 넓어졌다."
+      ],
+      "implications": [
+        "후속 예산심사에서는 GPU 기종과 도입 시점, 설치지역, 계통·자가발전 계획, 산학연 배분 기준을 하나의 운영계획으로 대조할 필요가 있다. 법인 설립이 장비 도입보다 늦어질 경우 계약·보유·운영 책임을 누가 맡는지도 집행 가능성을 가르는 요소다.",
+        "국산 NPU와 기존 GPU 지원사업에는 대형 GPU 구매가 어떤 워크로드를 담당하고 추론 수요를 어떤 방식으로 분산할지가 중요하다. 이용률, 대기시간, 기업 규모·지역별 접근성과 사업화 결과를 함께 공개하면 연산자원 확충이 실제 수요 창출로 이어지는지 판단하기 쉬워진다."
+      ],
+      "sources": [
+        {
+          "title": "GPU만 사고 세부계획은 미룬 과기정통부 AI 예산 5.4조…AI 예산, 금액보다 순서와 내실이 먼저",
+          "publisher": "경남포스트",
+          "published_at": "2026-11-06",
+          "url": "https://gyeongnampost.com/post/GRsE4SX9",
+          "verification": "full_text",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "기사 본문은 11월 6일 과방위 예산안 전체회의와 의원실 자료를 다루며, 동일 사건의 최초 공개 기사가 2026년 11월 6일 18:49 KST에 배포된 사실을 아카이브와 공개 검색으로 대조했다. 11월 8일 09:30 KST 마감 전에 공개된 내용이며 검증 시점에 수정 표시는 확인되지 않았다.",
+          "verified_at": "2026-11-08T09:48:30+09:00"
+        }
+      ],
+      "event_id": "msit-2027-ai-budget-future-response-fund-gpu-allocation-scrutiny-2026-11-06",
+      "event_first_published_at": "2026-11-06T18:49:08+09:00",
+      "event_evidence_url": "https://gyeongnampost.com/post/GRsE4SX9",
+      "selection_tier": "supplement"
+    },
+    {
+      "number": 2,
+      "title": "은행권, AI·반도체 선행투자 기업 재무평가에 전략산업 가점 도입",
+      "category": "산업금융·투자 기반",
+      "collected_at": "2026-11-07T16:38:31.029Z",
+      "original_published_at": "2026-11-07T09:01:37+09:00",
+      "original_url": "https://www.mk.co.kr/news/economy/12201384",
+      "main_points": [
+        "금융감독원·은행연합회·신용평가사·회계법인이 참여한 주채무계열 제도개선 태스크포스가 주채무계열 재무구조개선 운영준칙을 개정했고, 5대 은행과 산업은행은 관련 내규를 바꿔 정기평가에 전략산업 가점을 반영하고 있다. 대상은 AI·반도체·배터리처럼 대규모 선행 설비투자로 차입 부담이 커지는 산업을 보유한 기업집단이다.",
+        "은행은 AI·반도체·배터리·바이오·방산·조선 등 전략산업의 매출·자산 비중과 투자계획을 평가해 최대 5점의 가점을 줄 수 있다. 2026년 주채무계열 42곳 가운데 전략산업 비중이 큰 기업집단은 재무구조개선약정 체결이나 자구계획 요구의 부담이 완화될 수 있다.",
+        "이번 조치는 은행의 개별 대출 승인이나 신규 정책자금 배정을 의미하는 것이 아니라 대기업집단의 정기 재무평가 기준을 바꾼 것이다. 실제 효과는 은행별 내규 적용과 기업집단별 투자계획 인정 범위에서 결정된다."
+      ],
+      "importance": [
+        "설비투자 직후 부채비율이 악화되는 전략산업의 특성을 정기 재무평가에 반영해, 장기 투자와 단기 재무건전성 관리 사이의 충돌을 줄이려는 제도 변화다. AI 데이터센터와 반도체 생산시설처럼 회수기간이 긴 투자의 금융조건에 영향을 줄 수 있다.",
+        "산업정책이 보조금·대출 공급뿐 아니라 은행의 위험평가 방식까지 확장됐다는 점에서 인프라 금융의 구조적 변화로 볼 수 있다."
+      ],
+      "implications": [
+        "가점이 투자 확대를 유도하려면 전략산업 매출·자산 비중뿐 아니라 확정된 투자계약, 공사 진척과 현금흐름을 어떻게 반영하는지 확인해야 한다. 평가 완화가 기업별 위험을 가리는 방식으로 작동하지 않도록 투자 단계와 상환능력을 함께 보는 기준이 필요하다.",
+        "AI반도체 생태계에서는 대기업·클라우드 사업자의 대형 설비투자와 중소 팹리스·소프트웨어 기업의 자금 접근성이 서로 다르다. 이번 기준 변화가 공급망 협력사나 프로젝트 금융조건에 전달되는지, 대기업집단 평가에만 머무는지를 후속 자료에서 구분해 볼 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "은행, 반도체·배터리 기업 재무평가 우대한다",
+          "publisher": "매일경제",
+          "published_at": "2026-11-07T09:01:37+09:00",
+          "url": "https://www.mk.co.kr/news/economy/12201384",
+          "verification": "full_text",
+          "verified_at": "2026-11-08T09:48:30+09:00"
+        }
+      ],
+      "event_id": "korea-main-debtor-groups-strategic-industry-financial-evaluation-bonus-2026-11-07",
+      "event_first_published_at": "2026-11-07T09:01:37+09:00",
+      "event_evidence_url": "https://www.mk.co.kr/news/economy/12201384",
+      "selection_tier": "supplement"
+    },
+    {
+      "number": 3,
+      "title": "매디슨 황 방한 취소로 과기부 면담 무산…AI 데이는 예정대로",
+      "category": "글로벌 기업·한국 협력",
+      "collected_at": "2026-11-07T23:57:52.135Z",
+      "original_published_at": "2026-11-07T21:35:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261107050000017",
+      "main_points": [
+        "엔비디아 옴니버스·로보틱스 제품 마케팅 수석이사 매디슨 황이 11월 8일로 예정했던 한국 방문을 취소했다. 황 수석이사는 9~10일 서울 코엑스에서 열리는 엔비디아 AI 데이 서울 2026에 참석하고 관계 부처와 협의할 예정이었다.",
+        "방한 취소로 배경훈 부총리 겸 과학기술정보통신부 장관과의 면담과 국내 기업 협력 논의가 무산됐다. 취소 사유는 가족 사정으로만 알려졌고 구체적인 내용은 공개되지 않았다.",
+        "황 수석이사의 불참과 별개로 엔비디아 AI 데이 행사는 예정대로 진행된다. 행사에는 국내 주요 기업과 개발자·스타트업이 참여하지만 정부 면담과 황 수석이사 주도의 협력 논의는 열리지 않는다."
+      ],
+      "importance": [
+        "최근 예고됐던 정부–엔비디아 고위급 협의와 국내 AI·로보틱스 기업 접촉이 실제 회동 직전에 취소된 물질적 변화다. 행사 개최와 핵심 인사의 정책·사업 협의를 분리해 봐야 협력 진척을 정확히 판단할 수 있다.",
+        "방한 예고 자체를 협력 성과로 해석하기보다 실제 참여자, 논의 의제와 후속 일정이 확인될 때까지 단계별로 추적해야 한다는 점을 보여준다."
+      ],
+      "implications": [
+        "AI 데이에서 국내 20개 파트너사의 기술 발표와 개발자 프로그램은 예정대로 진행되므로, 행사에서 공개되는 제품통합·실증·공급계획은 별도로 확인할 가치가 있다. 다만 취소된 정부 면담이나 기업 협의 내용을 행사 일반 발표로 대체해 해석해서는 안 된다.",
+        "국산 NPU·로보틱스 기업의 글로벌 협력 기회는 특정 임원의 방한보다 공동개발 범위, 기술지원 인력, 후속 계약 일정으로 평가하는 편이 적절하다. 엔비디아 또는 과기정통부가 재조정된 면담 일정을 제시하는지가 다음 확인 지점이다."
+      ],
+      "sources": [
+        {
+          "title": "젠슨 황 장녀 매디슨 황, 방한 하루 앞두고 취소…가족 사유",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-07T21:35:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261107050000017",
+          "verification": "full_text",
+          "verified_at": "2026-11-08T09:48:30+09:00"
+        },
+        {
+          "title": "매디슨 황 방한 돌연 취소…내일 배경훈 과기부총리 만남 불발",
+          "publisher": "뉴시스",
+          "published_at": "2026-11-07",
+          "url": "https://m.newsis.com/view/NISX20261107_0003859040",
+          "verification": "full_text",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "뉴시스 본문은 과기정통부 확인을 인용해 11월 8일 예정 면담 취소를 보도했다. 연합뉴스가 같은 사실을 2026년 11월 7일 21:35 KST에 공개해 11월 8일 09:30 KST 마감 전 공개 사실을 대조했으며 검증 시점에 수정 표시는 확인되지 않았다.",
+          "verified_at": "2026-11-08T09:48:30+09:00"
+        }
+      ],
+      "event_id": "nvidia-madison-huang-korea-visit-msit-meeting-cancelled-2026-11-07",
+      "event_first_published_at": "2026-11-07T21:35:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261107050000017",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "TSMC, 엔비디아 요청으로 3D D램 생산 검토…메모리 진입 가능성",
+      "category": "AI 메모리·전략 경쟁",
+      "collected_at": "2026-11-07T06:10:56.864Z",
+      "original_published_at": "2026-11-07T00:45:40+09:00",
+      "original_url": "https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/",
+      "main_points": [
+        "TSMC가 최대 고객 엔비디아의 요청을 받아 3D D램 생산계획을 검토하기 시작했다고 디인포메이션을 인용해 Reuters가 보도했다. 3D D램은 메모리 셀을 수직으로 쌓아 용량과 집적도를 높이는 구조이며, TSMC와 엔비디아는 Reuters의 논평 요청에 즉시 답하지 않았다.",
+        "검토안에는 첨단 메모리용 공장을 새로 건설하거나 기존 팹을 인수해 D램 생산시설로 전환하는 방안이 포함된 것으로 전해졌다. 생산 개시 시점, 투자규모와 구체적인 공정은 공개되지 않았다.",
+        "사업은 첨단 패키징을 담당하는 쉬궈진 TSMC 부사장이 주도하는 것으로 보도됐다. 실제 진입이 이뤄지면 TSMC는 삼성전자·SK하이닉스·마이크론과 경쟁하게 된다."
+      ],
+      "importance": [
+        "파운드리와 CoWoS 첨단패키징의 핵심 공급자인 TSMC가 메모리 생산까지 검토하면 AI 가속기의 연산칩·메모리·패키징 공급을 한 사업자가 더 깊게 통합할 수 있다. 이는 고객이 메모리 공급선과 패키징 일정을 조정하는 방식을 바꿀 수 있다.",
+        "엔비디아가 공급 부족 대응을 위해 기존 메모리 3사 밖의 생산능력을 탐색한다는 점은 HBM 이후 차세대 메모리의 기술규격과 협상력이 가속기 설계사 중심으로 이동할 가능성을 보여준다."
+      ],
+      "implications": [
+        "현재는 내부 검토와 계획 수립 단계이므로 실제 경쟁구도 변화는 공장 부지, 공정선택, 고객 인증과 양산 일정이 공개될 때 판단해야 한다. 기존 팹 전환은 착공 시간을 줄일 수 있지만 D램 공정기술과 수율 확보에는 별도 검증이 필요하다.",
+        "국내 메모리 기업에는 HBM 공급량뿐 아니라 3D D램 구조, 로직·메모리 공동설계와 패키징 통합 역량이 경쟁축으로 추가될 수 있다. 파운드리 고객과 메모리 고객의 이해상충, 장기 공급계약 조건도 후속 관찰 대상이다."
+      ],
+      "sources": [
+        {
+          "title": "TSMC considers making advanced memory chips, The Information reports",
+          "publisher": "Reuters",
+          "published_at": "2026-11-07T00:45:40+09:00",
+          "url": "https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/",
+          "verification": "full_text",
+          "verified_at": "2026-11-08T09:48:30+09:00"
+        }
+      ],
+      "event_id": "tsmc-considers-nvidia-requested-3d-dram-production-2026-11-06",
+      "event_first_published_at": "2026-11-07T00:45:40+09:00",
+      "event_evidence_url": "https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/",
+      "selection_tier": "supplement"
+    },
+    {
+      "number": 5,
+      "title": "마이크로소프트, 구형 GPU 기반 오라클 AI 용량 계약 축소",
+      "category": "AI 인프라·클라우드 운영",
+      "collected_at": "2026-11-06T23:30:51.629Z",
+      "original_published_at": "2026-11-07T02:46:46+09:00",
+      "original_url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+      "main_points": [
+        "마이크로소프트가 오라클에서 임차하던 AI 컴퓨팅 용량 계약을 갱신하지 않고 최근 수개월 동안 사용을 줄여 왔다고 Bloomberg를 인용해 Reuters가 보도했다. 2023년 체결된 다년 계약은 AI 기능을 적용한 Bing 서비스에 오라클 클라우드 인프라를 사용하는 내용이었다.",
+        "오라클 인프라가 구형 엔비디아 GPU를 사용하면서 마이크로소프트의 변화한 요구를 충족하지 못해 임차 용량의 가치가 낮아졌다는 것이 보도의 핵심이다. 오라클은 이전 세대 GPU를 포함한 OCI AI 인프라 수요가 여전히 강하다고 밝혔고 마이크로소프트는 즉시 논평하지 않았다.",
+        "마이크로소프트는 IREN에 네트워크 설계 변경을 요구해 일부 인프라 인도가 지연됐고 다른 네오클라우드 프로젝트의 지연·비용을 더 엄격하게 점검하는 것으로도 보도됐다. IREN은 연환산 매출능력 40억달러 이상을 가동하는 목표가 연말에서 다음 해 1월 이후로 밀렸다고 밝혔다."
+      ],
+      "importance": [
+        "AI 컴퓨팅 계약의 가치가 데이터센터 건물이나 전력용량만이 아니라 장착된 가속기의 세대와 네트워크 설계에 의해 빠르게 재평가되고 있다. 장기 임대계약보다 GPU 제품주기가 짧을 경우 공급자가 자산 노후화 위험을 더 크게 부담할 수 있다.",
+        "대형 수요자가 네오클라우드의 설계와 납기를 직접 점검하는 흐름은 AI 인프라 조달이 단순 용량 구매에서 기술사양·공정관리까지 포함하는 구조로 바뀌고 있음을 보여준다."
+      ],
+      "implications": [
+        "데이터센터·GPU 금융에서는 계약기간, 장비 교체권, 잔존가치와 후속 세대 업그레이드 비용을 함께 봐야 한다. 구형 GPU도 추론 등 다른 워크로드에 활용될 수 있으므로 계약 종료가 곧 설비 무가치화를 뜻하는지는 실제 재배치율과 가격에서 확인해야 한다.",
+        "국산 NPU와 이기종 가속기 사업에는 특정 세대의 성능뿐 아니라 모델 이전, 네트워크 호환성과 운영소프트웨어 업데이트가 장기 고객 유지에 중요하다는 신호다. 수요자 사양 변경을 흡수할 수 있는 모듈형 설계와 성능·비용 측정 기준이 계약 안정성을 높일 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports",
+          "publisher": "Reuters",
+          "published_at": "2026-11-07T02:46:46+09:00",
+          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+          "verification": "full_text",
+          "verified_at": "2026-11-08T09:48:30+09:00"
+        }
+      ],
+      "event_id": "microsoft-winds-down-oracle-ai-capacity-older-nvidia-gpus-2026-11-06",
+      "event_first_published_at": "2026-11-07T02:36:39+09:00",
+      "event_evidence_url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+      "selection_tier": "supplement"
+    },
+    {
+      "number": 6,
+      "title": "미국 H200 수출허가, 빈 사무실·제재 연계 중국 기업 심사 논란",
+      "category": "글로벌 가속기·수출통제",
+      "collected_at": "2026-11-07T16:38:31.029Z",
+      "original_published_at": "2026-11-08T00:43:45+09:00",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "main_points": [
+        "미국 상무부가 엔비디아 H200 AI칩 구매를 허가한 중국 기업 가운데 뉴매트릭스가 실질적 영업 흔적이 거의 없는 회사로 확인됐다고 뉴욕타임스와 The Verge가 보도했다. 회사는 설립 17개월에 불과했고 등록 주소의 사무실은 비어 있었으며 건물 안내와 관리 기록에서도 확인되지 않았다.",
+        "뉴매트릭스의 소유주들은 2024년부터 미국 정부 제재 명단에 오른 중국계 사모투자사와 연계된 것으로 보도됐다. 다른 허가 기업에서도 국가안보 관련 거래제한 대상과의 연결이 나타나 구매자 심사가 충분했는지 논란이 제기됐다.",
+        "미국은 중국향 H200 판매를 일부 허용하면서 검사와 관세, 판매량 조건을 적용해 왔다. 이번 보도는 허가된 법인의 실소유 관계와 실제 운영능력을 확인하는 절차가 칩 이동을 추적하는 기술적 통제와 별도의 취약점임을 보여준다."
+      ],
+      "importance": [
+        "수출통제의 집행 위험이 우회 운송이나 칩 위치 추적에만 있는 것이 아니라 구매허가 단계의 법인 실체·실소유자 검증에도 존재한다는 구체적 사례다. 서류상 신규 법인이 제재 대상 네트워크의 우회 창구로 사용될 수 있다면 허가제의 신뢰성이 약해진다.",
+        "가속기 공급사가 고객확인과 정부 허가를 통과했더라도 최종 사용자를 충분히 확인하지 못할 수 있어, 상업적 파트너 인증과 공적 수출심사의 책임 경계가 다시 쟁점이 될 수 있다."
+      ],
+      "implications": [
+        "후속 조치에서는 상무부가 허가를 재검토하는지, 엔비디아가 고객 실사 기준을 강화하는지, 이미 출하된 물량과 실제 설치장소를 어떻게 확인하는지가 중요하다. 기업 간 소유관계, 사무실·인력과 데이터센터 용량을 교차확인하는 절차가 추가될 가능성이 있다.",
+        "한국을 포함한 가속기 유통·클라우드 사업자는 최종 사용자 증빙을 계약서와 법인등록에만 의존하기보다 실제 운영시설, 지배관계와 재판매 경로까지 관리해야 할 수 있다. 규제가 강화되면 합법적 중소 고객의 접근비용도 늘 수 있으므로 위험기반 심사와 처리기간의 균형이 필요하다."
+      ],
+      "sources": [
+        {
+          "title": "The US let Nvidia sell chips to an empty office in China",
+          "publisher": "The Verge",
+          "published_at": "2026-11-08T00:43:45+09:00",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+          "verification": "full_text",
+          "verified_at": "2026-11-08T09:48:30+09:00"
+        }
+      ],
+      "event_id": "us-h200-export-license-chinese-empty-office-end-user-vetting-2026-11-07",
+      "event_first_published_at": "2026-11-07T19:00:41+09:00",
+      "event_evidence_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "selection_tier": "primary"
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026-11월 아카이브 전체와 국내 NPU 기업·수요기관 공개자료를 대조해 리벨리온·퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀의 고객, 실증, 공동개발, 매출·수익 검증과 해외협력을 확인했다. 11월 7일 원고의 퓨리오사AI 지역 실증과 모빌린트 수요기업 공동개발 이후 마감 전 새 계약·현장 운영 성과는 확인되지 않았다. 당일 collection의 최신 저장은 08:57:49 KST였고 09:20·09:27 실행은 없었으며 hyperaccel 계열 수집 소스의 empty 결과는 공개 검색으로 보완했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP·국회·금융당국, 중앙부처·지자체·공공기관·테크노파크의 NPU 검증·도입·조달·예산·공모·정책금융을 확인했다. AI 예산 5.4조원의 집행 설계와 GPU 배분 지적, 전략산업 재무평가 가점 도입을 선정했다. 별도의 새 지방정부 NPU 구매·계약·운영 성과는 공개 본문과 신규성을 함께 충족하지 못했고 nipa-ai-chip 수집 소스의 empty 결과는 정부·기관 공개자료로 대조했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·Qualcomm과 글로벌 가속기 공급, 클라우드 접근, 고객검증, 수출통제와 자체칩 전략을 확인했다. 미국 H200 허가 기업의 실체·제재 연계 심사 문제와 마이크로소프트의 구형 GPU 기반 용량 계약 축소를 선정했다. 11월 7일 원고의 동남아 칩 위치 추적 요건과는 각각 허가 전 고객심사와 자산가치 재평가라는 독립 사건으로 구분했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·CUDA·XLA·PJRT·StableHLO·컴파일러·런타임·커널·서빙·KV 캐시와 NPU 운영도구의 11월 7~8일 공개자료를 확인했다. 11월 6일 원고에 XLA Serving Engine과 공유 KV 캐시가 반영된 뒤 마감 전 별도의 중대한 신규 운영 SW 사건은 확인되지 않았다. 클라우드 계약 축소 기사에서는 구형 가속기의 소프트웨어·네트워크 이전성과 장비 수명주기 문제를 검토했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·3D D램·첨단패키징·기판·인터커넥트와 데이터센터 부지·전력·인허가·투자·금융을 확인했다. TSMC의 3D D램 진입 검토와 전략산업 재무평가 가점을 선정했다. 마이크론 대만 공장 노사 갈등과 주말 데이터센터 반대 후속은 지엽성·반복성이 높아 제외했고, 전일 선정한 패키징 증설 금융과 구글 와이오밍 부지 인수는 반복하지 않았다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "AI 예산의 대규모 GPU 구매와 법인·배분·전력계획 사이의 집행 공백, 기존 배분 통계가 함께 공개돼 정책·사업 기획의 직접성이 높다."},
+      {"article_number": 2, "reason": "AI·반도체 선행투자의 특성을 은행 정기평가에 반영하는 실제 시행 변화로, 산업 인프라 금융조건에 영향을 줄 수 있다."},
+      {"article_number": 3, "reason": "최근 원고에서 예고한 엔비디아–정부·스타트업 협의가 방한 취소로 무산된 실질적 후속 변화이며 행사 자체는 계속된다는 구분이 필요하다."},
+      {"article_number": 4, "reason": "TSMC가 엔비디아 요청으로 3D D램 진입을 검토해 파운드리·패키징·메모리의 전략적 경쟁구도를 바꿀 가능성이 생겼다."},
+      {"article_number": 5, "reason": "구형 GPU가 클라우드 장기계약의 갱신과 자산가치에 직접 영향을 준 사례로, 가속기 세대교체와 인프라 금융의 연결을 보여준다."},
+      {"article_number": 6, "reason": "H200 수출허가를 받은 중국 법인의 실체와 제재 연계 문제가 확인돼 위치 추적과 구별되는 최종사용자 심사 취약점이 드러났다."}
+    ],
+    "excluded": [
+      {
+        "title": "엔비디아, 네이버에 1조3412억원 납입 완료…지분 4.13% 확보",
+        "url": "https://www.yna.co.kr/view/AKR20261106136800017",
+        "reason": "투자금 납입은 중요하지만 사건이 11월 6일 15:57 KST에 처음 공개돼 11월 7일 회차의 주 분석구간에 해당했고, 11월 8일 후보에는 새로운 금액·지분·사업단계가 추가되지 않아 재게재하지 않았다."
+      },
+      {
+        "title": "마이크론, 노조와 성과급 갈등에 대만 HBM 공장 건설 사실상 중단",
+        "url": "https://www.sedaily.com/NewsView/2H1QXQYJBM",
+        "reason": "HBM 공급기반 후보로 검토했으나 개별 사업장의 노사 갈등에 초점이 맞춰져 있고 생산능력·가동 일정의 확인된 산업적 변화가 부족해 TSMC 3D D램 후보보다 후순위로 제외했다."
+      },
+      {
+        "title": "Google reveals $548 million Qualcomm stake from AI acquisition",
+        "url": "https://www.reuters.com/business/alphabet-discloses-548-million-worth-qualcomm-stake-2026-11-06/",
+        "reason": "SEC 공시와 Modular 인수의 주식대가를 확인했으나 신규 전략투자라기보다 기존 인수거래에서 발생한 지분 보유 성격이 강해 별도 경쟁 변화로 확대하지 않았다."
+      },
+      {
+        "title": "미국발 AI 데이터센터 불안…국내 업계 사업 추진 문제없어",
+        "url": "https://www.mk.co.kr/news/business/12201574",
+        "reason": "미국 중간선거 이후 규제·주가 우려의 반복 분석 비중이 높고 국내 프로젝트의 확정된 전력·인허가·투자 변경이 확인되지 않아 제외했다."
+      }
+    ],
+    "count_reason": "2026-11월 아카이브와 당일 collection 3,191건, 최근 14일 확정 원고, 다섯 영역의 최종 공개 검색을 대조했다. 국내 예산 집행과 산업금융, 정부–글로벌 기업 협의의 취소, 3D D램 전략 경쟁, 클라우드 가속기 자산가치, 수출허가 고객심사라는 서로 다른 6개 사건을 선정했다. 주말 데이터센터 반대·주가 기사, 개별 HBM 노사갈등과 기존 사건 후속은 독립성과 업무 관련성이 낮아 기본 6건을 유지했다.",
+    "company_overlap_review": "엔비디아는 기사 3의 방한 취소, 기사 4의 TSMC 메모리 검토 요청, 기사 6의 H200 수출허가에 등장하고 기사 5에는 구형 GPU 공급자로 언급된다. 같은 기업 반복을 재검토한 결과 중심 주체와 판단영역이 각각 한국 협력 일정, 메모리 공급구조, 수출허가 심사, 클라우드 자산수명으로 독립적이며 검증 원문도 다르다. 국내 신규 NPU 계약 후보가 부족한 주말 수집 상황에서 네 사건이 가속기 생태계의 서로 다른 핵심 제약을 보여줘 유지했다.",
+    "candidate_counts": {
+      "discovered": 3191,
+      "time_eligible": 1554,
+      "independent_events": 13,
+      "verified": 10,
+      "selected": 6,
+      "basis": "python mail/candidates.py --date 2026-11-08 결과에서 마감 전 72시간부터 작성 시점까지 실제 발견 기사 3,191건, 마감 전 48시간 발행 조건 적합 기사 1,554건을 확인했다. 업무 관련성이 높은 13개 독립 사건을 비교하고 10개 사건의 공개 본문·공개시각을 검증해 6건을 선정했다. 당일 collection의 최신 저장은 2026-11-07 23:57:49 UTC, 즉 11월 8일 08:57:49 KST였고 최신 실행은 ok 41개, empty 4개, failed 0개였다. 09:20·09:27 실행은 없어 08:57 이후 공백을 직접 공개 검색으로 보완했다."
+    },
+    "history_review": {
+      "start_date": "2026-10-25",
+      "end_date": "2026-11-07",
+      "checked_dates": [
+        "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-03", "2026-11-04", "2026-11-05", "2026-11-06", "2026-11-07"
+      ],
+      "note": "14개 확정 원고의 제목·주요 사실·event_id·원문 URL과 선정·제외 기록을 읽었다. AI 예산 집행 설계, 전략산업 재무평가 가점, TSMC 3D D램 검토, 마이크로소프트–오라클 용량 축소와 H200 허가기업 심사는 게재 이력이 없다. 매디슨 황 방한 취소는 11월 6일 원고에서 예고한 정부–엔비디아·스타트업 협의의 실질적 후속으로 material_update로 기록했다."
+    },
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "2027년 AI 예산의 법인·GPU 배분·전력계획과 기존 배분 통계가 예산심사에서 함께 공개된 사건은 최근 14일 원고에 없다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "은행권이 전략산업 가점을 실제 정기 재무평가에 반영하기 시작한 제도 변화는 최근 14일 원고에 없다."},
+      {"article_number": 3, "result": "material_update", "previous_editions": ["2026-11-06"], "note": "11월 6일 원고는 과기정통부가 엔비디아와 국내 AI 스타트업 협의를 주선할 예정이라고 다뤘고, 이번에는 핵심 방한과 부총리 면담이 취소된 사실이 확인됐다.", "new_fact": "매디슨 황의 방한 취소로 배경훈 부총리 면담과 국내 기업 협력 논의가 무산됐지만 AI 데이 행사는 예정대로 진행된다.", "evidence_url": "https://www.yna.co.kr/view/AKR20261107050000017"},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "TSMC가 엔비디아 요청을 받아 3D D램 생산과 신규·전환 팹을 검토한 사건은 최근 14일 원고에 없다."},
+      {"article_number": 5, "result": "new_event", "previous_editions": [], "note": "마이크로소프트가 구형 GPU를 이유로 오라클 AI 용량 계약을 축소한 사건은 최근 14일 원고에 없다."},
+      {"article_number": 6, "result": "new_event", "previous_editions": [], "note": "H200 허가를 받은 중국 법인의 빈 사무실과 제재 대상 연계가 확인된 고객심사 사건은 최근 14일 원고에 없다."}
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026년 11월 7~8일 리벨리온·퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀과 NPU·고객·유상 PoC·실증·제품통합·반복구매·해외협력을 검색했다.",
+          "official_sources": "과기정통부 공개 목록 https://www.msit.go.kr/contents/cont.do?mId=353&mPid=340&sCode=user, NIPA 사업공고 https://www.nipa.kr/home/bsnsAll/00/nttDetail?bbsNo=4&nttNo=16602&tab=1, AICA 국산 NPU 성과교류회 안내 https://ypa.or.kr/information/educationnotice/?mod=document&uid=7542 및 기업 공개 뉴스룸을 확인했다.",
+          "result": "전일 선정된 퓨리오사AI 지역 실증과 모빌린트 공동개발 이후 마감 전 새 계약·고객 운영·매출 검증 사건은 확인되지 않았다. 11월 10일 성과교류회는 예정 행사라 선정하지 않았다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "과기정통부·NIPA·IITP·국회·금융위원회·금융감독원·지자체·공공기관과 NPU·AI반도체·국비·예산·실증·도입·조달·GPU 배분·정책금융을 조합해 검색했다.",
+          "official_sources": "NIPA 고성능컴퓨팅 지원 공고 https://www.nipa.kr/home/bsnsAll/00/nttDetail?bbsNo=4&nttNo=16602&tab=1, 금융위 생산적 금융 자료 https://fsc.go.kr/no010101/88052, 국회 예산안 질의 공개 보도 https://gyeongnampost.com/post/GRsE4SX9 를 확인했다.",
+          "result": "AI 예산 5.4조원의 집행·배분 계획 지적과 은행권 전략산업 재무평가 가점을 선정했다. 별도의 새 지자체 NPU 구매·조달·운영 성과는 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "2026년 11월 7~8일 NVIDIA H200·AMD·Google TPU·Qualcomm과 가속기 공급·수출허가·최종사용자·클라우드 계약·자체칩·전략적 지분을 검색했다.",
+          "official_sources": "NVIDIA 10-Q https://investor.nvidia.com/files/doc_financials/2027/NVDA-2027-Q2-10Q-Final-including-exhibits.pdf, Reuters 마이크로소프트–오라클 원문 https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/, The Verge 공개 본문 https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government 를 확인했다.",
+          "result": "구형 GPU 기반 용량 계약 축소와 H200 허가기업 고객심사 문제를 선정했다. Alphabet의 Qualcomm 지분은 Modular 인수 대가 성격이 강해 신규 전략투자로 확대하지 않았다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "ROCm·CUDA·XLA·PJRT·StableHLO·컴파일러·커널·런타임·서빙·KV 캐시·NPU 운영도구의 11월 7~8일 공개자료를 검색했다.",
+          "official_sources": "AMD ROCm 공식 릴리스 https://rocm.docs.amd.com/en/latest/about/release-notes.html, Google XLA 공식 블로그 https://opensource.googleblog.com/2026/11/supercharging-xla-inference-xla-serving-engine.html 및 GitHub ROCm 릴리스를 확인했다.",
+          "result": "11월 6일 원고에 XLA Serving Engine과 공유 KV 캐시가 이미 반영됐고 마감 전 별도의 중대한 신규 운영 SW 사건은 확인되지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "3D D램·HBM·CoWoS·첨단패키징·기판·인터커넥트와 AI 데이터센터 부지·전력·인허가·투자·금융을 2026년 11월 7~8일 기준으로 검색했다.",
+          "official_sources": "Reuters TSMC 3D D램 원문 https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/, 매일경제 전략산업 금융 보도 https://www.mk.co.kr/news/economy/12201384, 전일 Reuters 첨단패키징 원문을 대조했다.",
+          "result": "TSMC의 3D D램 진입 검토와 전략산업 재무평가 가점을 선정했다. 마이크론 대만 공장 노사갈등과 데이터센터 반대 후속은 산업 전반의 확정 변화가 부족해 제외했다."
+        }
+      },
+      "alternative_sources": "Reuters 원문과 공개 재배포를 대조했고, 뉴욕타임스 접근 제한 후보는 The Verge 공개 본문과 아카이브 공개시각으로 확인했다. 국회 예산 지적은 상세 공개 재배포와 아카이브의 최초 보도시각을 대조했다. 4개 empty 수집 소스는 과기정통부·NIPA·기업 뉴스룸과 공개 검색으로 보완했으며 오류·미확인을 후보 없음으로 바꾸지 않았다."
+    }
+  }
+}
