@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T22:46:16.173Z",
+  "generatedAt": "2026-11-09T22:58:16.912Z",
   "news": {
     "articles": [
       {
@@ -1812,9 +1812,8 @@
         "summary": "SKT, 엔비디아 GPU·리벨리온 NPU 결합⋯\"소버린 AI 토큰 공급\"(종합) &nbsp;&nbsp; 아이뉴스24",
         "outlet": "아이뉴스24",
         "outletUrl": "http://www.inews24.com",
-        "source": "해외 빅테크 국내 보도",
+        "source": "국내 NPU 기업",
         "sourceIds": [
-          "korea-global-ai-companies",
           "korea-npu",
           "rebellions",
           "npu-commercialization",
@@ -2837,8 +2836,7 @@
         "outletUrl": "https://www.bloomberg.com",
         "source": "NVIDIA 이슈",
         "sourceIds": [
-          "nvidia-ai",
-          "google-ai"
+          "nvidia-ai"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -2860,9 +2858,8 @@
         "summary": "Nvidia vs. Alphabet: The AI Revolution Is Big Enough for Both. Here's the Better Buy. &nbsp;&nbsp; The Globe and Mail",
         "outlet": "The Globe and Mail",
         "outletUrl": "https://www.theglobeandmail.com",
-        "source": "NVIDIA 이슈",
+        "source": "Google AI 이슈",
         "sourceIds": [
-          "nvidia-ai",
           "google-ai"
         ],
         "sourceLang": "en",
@@ -2905,7 +2902,7 @@
       },
       {
         "title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory - Decrypt",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHk2Q3JFOWpJcjBhbVkxMlp6Umh1NGJxSVRaaDZBNi1lS3lXOHpfeV9oNFA3WDdxbGxtSmVUcy11RHBwcmEyNTZSVUpqaW5mWUlQLWJ4c0FIZUpyTVFhQVR0SXZpNjkzMkNXcWRyNE1jQ1dnWDJlSzNrbVcwOUxYcElsRkk?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0tjVUxOM2EzN25ycWc4TU94TXdaVnd5X09nWm5XX25TeE10SWs0SllSc0xjTndrUkRrZFgyLWp3WDFMcFZOcnJCdndSTHR0V0lmTUtjdGhBS2RKZGFQNEtCcWp4b2dEei11TzZiSnBJc28xdTZ5NGRVekJ2amh4SUtQVFZzNmtz?oc=5",
         "publishedAt": "Mon, 09 Nov 2026 20:16:02 GMT",
         "summary": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory &nbsp;&nbsp; Decrypt",
         "outlet": "Decrypt",
@@ -2959,9 +2956,8 @@
         "summary": "Google Introduces Two New AI Chips to Challenge Nvidia &nbsp;&nbsp; The National CIO Review",
         "outlet": "The National CIO Review",
         "outletUrl": "https://nationalcioreview.com",
-        "source": "NVIDIA 이슈",
+        "source": "Google AI 이슈",
         "sourceIds": [
-          "nvidia-ai",
           "google-ai"
         ],
         "sourceLang": "en",
@@ -3476,6 +3472,30 @@
         ],
         "sourceLang": "ko",
         "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 27
+      },
+      {
+        "title": "Google ships four TPU variants in one year as it ramps up competition with Nvidia - The Decoder",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTRKSkN4WGNPOEpHMDJlUWw5QnZnOXlDUFV2bzA4dVBBcE5GenVVMWp6NGRQaTRTMDFqVHF4YkN3WlBYYlo2YjhGdkw1SHY5N2xiT2FRRjNza0RGY2NlNC1Bb2J0YzZ1a29yZ3hRQ2c4NTRIWmZyNzUycHRXeEV3RzBBbXlQdXdZTUZseUFXUElDWWRjc2tKOUdER1VFXzZLWFp0Yy02Rk1hQQ?oc=5",
+        "publishedAt": "Mon, 09 Nov 2026 13:00:51 GMT",
+        "summary": "Google ships four TPU variants in one year as it ramps up competition with Nvidia &nbsp;&nbsp; The Decoder",
+        "outlet": "The Decoder",
+        "outletUrl": "https://the-decoder.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
         "companyHits": [
           "NVIDIA",
           "Google"
@@ -4219,9 +4239,8 @@
         "summary": "엔비디아, 리벨리온·SK텔레콤과 NVLink Fusion 기반 소버린 AI 인프라 협력 &nbsp;&nbsp; 헬로티",
         "outlet": "헬로티",
         "outletUrl": "https://www.hellot.net",
-        "source": "해외 빅테크 국내 보도",
+        "source": "국내 NPU 기업",
         "sourceIds": [
-          "korea-global-ai-companies",
           "korea-npu",
           "rebellions",
           "korea-global-chip-cooperation"
@@ -4652,9 +4671,8 @@
         "summary": "국산 AI 반도체, 엔비디아 GPU와 연결…SKT·리벨리온 3자 협력 &nbsp;&nbsp; MTN 머니투데이방송",
         "outlet": "MTN 머니투데이방송",
         "outletUrl": "https://news.mtn.co.kr",
-        "source": "해외 빅테크 국내 보도",
+        "source": "국내 NPU 기업",
         "sourceIds": [
-          "korea-global-ai-companies",
           "korea-npu",
           "rebellions",
           "mobilint",
@@ -4720,31 +4738,6 @@
           "msit-ai-chip",
           "ai-chip-public-program",
           "npu-commercialization",
-          "korea-global-chip-cooperation"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "리벨리온"
-        ],
-        "taxonomyHits": [
-          "리벨리온",
-          "NVIDIA"
-        ],
-        "issueCategory": "NPU",
-        "score": 27
-      },
-      {
-        "title": "엔비디아 GPU에 국산 AI칩 결합…SKT·리벨리온과 3자 협력 - 미주중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ILUpId2MzQWloSHYwWG0yeXc4bDZlWXdHRDM2LWVNWU9HdXZaQXBZTGJ1NHh1dzdJeDBELUV0ZmpVX3plQnlhNVE1aDkxc183dkVFUy1BenY0ajA4eFdlWEpB?oc=5",
-        "publishedAt": "Mon, 09 Nov 2026 05:00:00 GMT",
-        "summary": "엔비디아 GPU에 국산 AI칩 결합…SKT·리벨리온과 3자 협력 &nbsp;&nbsp; 미주중앙일보",
-        "outlet": "미주중앙일보",
-        "outletUrl": "https://www.koreadaily.com",
-        "source": "AI반도체 공공사업",
-        "sourceIds": [
-          "ai-chip-public-program",
           "korea-global-chip-cooperation"
         ],
         "sourceLang": "ko",
@@ -7477,14 +7470,14 @@
         ]
       }
     ],
-    "generatedAt": "2026-11-09T22:46:13.949Z"
+    "generatedAt": "2026-11-09T22:58:14.728Z"
   },
   "briefing": {
     "date": "2026년 11월 10일 화요일",
     "summary": [
       "오늘의 최상위 이슈: 과기정통부·엔비디아, 국산 NPU 글로벌 생태계 편입 추진…SKT·리벨리온 협력 - 데일리안",
       "강한 기술·시장 신호: NPU 75, AI인프라 21, 데이터센터 15, 온디바이스AI 1, 추론 5",
-      "주요 기업 신호: 리벨리온 132, 퓨리오사AI 0, 하이퍼엑셀 0, 딥엑스 0, 모빌린트 0"
+      "주요 기업 신호: 리벨리온 131, 퓨리오사AI 0, 하이퍼엑셀 0, 딥엑스 0, 모빌린트 0"
     ],
     "leadArticles": [
       {
@@ -7809,7 +7802,7 @@
       "companies": [
         [
           "리벨리온",
-          132
+          131
         ],
         [
           "퓨리오사AI",
@@ -7833,7 +7826,7 @@
         ],
         [
           "Google",
-          32
+          33
         ],
         [
           "AMD",
@@ -7936,7 +7929,7 @@
         ],
         [
           "NPU",
-          138
+          137
         ],
         [
           "정책",
@@ -7944,11 +7937,11 @@
         ],
         [
           "국내 기사",
-          134
+          133
         ],
         [
           "해외 기사",
-          46
+          47
         ]
       ],
       "sections": [
