@@ -1,0 +1,487 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "cutoff_at": "2026-11-10T09:30:00+09:00",
+  "window_start": "2026-11-09T09:30:00+09:00",
+  "created_at": "2026-11-10T09:52:30+09:00",
+  "status": "ready",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "엔비디아·SK텔레콤·리벨리온이 NVLink Fusion을 기반으로 SK텔레콤 AI 데이터센터에서 리벨리온 NPU와 엔비디아 GPU를 함께 운용하는 이기종 컴퓨팅 체계를 구축하기로 했다.",
+        "국산 NPU의 경쟁 단계가 단일 칩 성능 비교에서 글로벌 인터커넥트·시스템 아키텍처와의 결합, 데이터센터 실증, 해외 사업화로 확장됐다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "구글이 보안 추론용 TPU 8tx와 대규모 컨텍스트용 TPU 8i Max를 공개했고, 8tx 호스트에는 5세대 AMD EPYC를 결합해 하드웨어 기반 기밀 컴퓨팅을 제공한다.",
+        "동일 세대 칩을 보안·메모리·네트워크·오픈소스 SW와 재조합해 고객별 시스템을 빠르게 내놓는 방식이 가속기 경쟁의 핵심으로 부상했다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "Q.ANT와 IONOS가 독일 데이터센터의 베어메탈 서버에서 2세대 광자 NPU를 실제 고객 워크로드로 시험하는 무료 제한형 파일럿을 11월 시작했다.",
+        "연구기관 평가에 머물던 광자 컴퓨팅이 SDK·클라우드 접근·고객 성능평가를 묶은 상용 검증 단계로 이동해 대체 가속기의 생태계 형성 방식을 보여준다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "과기정통부가 SK브로드밴드의 데이터센터·해저케이블 사업을 SK호라이즌으로 분할하는 신청에 대해 11월 10~30일 의견수렴과 인가 심사를 진행한다.",
+        "AI 데이터센터를 통신사의 별도 인프라 법인으로 분리하는 구조가 자본조달뿐 아니라 사업운영 능력·시장경쟁·이용자 보호를 함께 심사받는 단계에 들어갔다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "국토교통부가 인허가 간소화 특례 제외 기준을 1000만㎡에서 2000만㎡로 높여 1000만~2000만㎡ 공공 산업단지의 계획·승인 절차를 통합하는 시행령 개정안을 입법예고했다.",
+        "반도체·데이터센터처럼 대형화하는 첨단산업 부지에 최대 약 2년의 절차 단축 경로가 열리지만, 개별 산단 적용은 면적과 지정계획이 확정된 뒤 판단해야 한다."
+      ]
+    },
+    {
+      "article_numbers": [6],
+      "bullets": [
+        "ING가 스타게이트 뉴멕시코 데이터센터 관련 2500만달러를 포함한 약 5억달러 규모 데이터센터 대출채권 12건의 매각을 추진하고 있다.",
+        "AI 인프라 금융이 신규 대출 확대에서 기존 대출을 사모펀드·보험사 등에 이전해 집중위험과 전력·인허가 지연 위험을 분산하는 단계로 확장됐다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "엔비디아·SK텔레콤·리벨리온, NVLink 기반 국산 NPU 이기종 AI 인프라 협력",
+      "category": "국내 NPU·글로벌 협력",
+      "collected_at": "2026-11-09T06:49:11.435Z",
+      "original_published_at": "2026-11-09T05:00:00Z",
+      "original_url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
+      "main_points": [
+        "엔비디아·SK텔레콤·리벨리온은 9일 서울 코엑스 엔비디아 AI 데이에서 NVLink Fusion 협력 MOU를 체결했다. SK텔레콤의 AI 데이터센터에 엔비디아 GPU와 리벨리온 NPU를 함께 배치하고, 외부 가속기를 엔비디아 시스템에 연결하는 NVLink Fusion을 이용해 이기종 컴퓨팅 환경을 구현하는 것이 핵심이다.",
+        "과기정통부는 협약 체결을 지원했고 이도규 정보통신정책실장, 엔비디아 레이몬드 테 수석부사장, SK텔레콤 정석근 CTO, 리벨리온 박성현 대표가 참석했다. 정부는 AMD와의 이기종 컴퓨팅 협력에 이어 엔비디아 아키텍처와의 연계가 구체화됐다고 평가하고, 다른 국산 NPU 기업으로 협력 범위를 넓혀 실증·사업화·수출을 지원할 계획이다.",
+        "같은 날 열린 AI 스타트업 파트너십 포럼에는 퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀을 포함한 국내 스타트업 22개사가 참여했다. 다만 이번에 공개된 구체적 시스템 통합 협약의 당사자는 엔비디아·SK텔레콤·리벨리온이며, 다른 기업의 참여 방식과 도입 일정은 별도로 확인해야 한다."
+      ],
+      "importance": [
+        "국산 NPU가 독립 장비나 벤치마크를 넘어 실제 AI 데이터센터의 GPU 시스템과 상호연결되는 단계로 이동했다. 글로벌 지배적 플랫폼의 인터커넥트에 접속할 수 있으면 고객은 기존 GPU 자산을 유지하면서 워크로드별로 국산 NPU를 배치할 수 있어 도입 전환비용을 낮출 여지가 있다.",
+        "이번 협력은 칩 자체 성능뿐 아니라 메모리 공유, 데이터 이동, 스케줄링, 장애관리와 개발도구가 사업화 경쟁력을 좌우한다는 점을 분명히 한다. 특정 가속기 종속을 줄이려는 소버린 AI 수요와 엔비디아 생태계의 개방 전략이 만나는 사례이기도 하다."
+      ],
+      "implications": [
+        "향후 평가는 MOU 체결 자체보다 SK텔레콤 데이터센터에서 어떤 모델과 서비스가 어느 규모로 구동되는지, GPU와 NPU 사이의 데이터 이동비용·처리량·전력효율이 어떻게 측정되는지에 달려 있다. 통합 SW의 책임 주체와 상용 고객 전환 일정도 함께 확인할 필요가 있다.",
+        "국산 NPU 지원은 단일 칩 성능검증에서 이기종 클러스터의 운용 안정성, 개발자 도구, 모델 이식과 과금체계까지 범위를 넓혀야 한다. 동시에 NVLink 연계 경험을 다른 인터커넥트와 클라우드 환경에서도 재사용할 수 있어야 고객 선택권과 수출 가능성이 커진다.",
+        "다른 국내 기업으로 협력이 확산될 경우 공통 인터페이스와 검증 절차를 어느 수준까지 공유할지가 생태계 효율을 좌우한다. 기업별 개별 통합을 반복하기보다 수요기관이 비교할 수 있는 워크로드·운영지표를 축적하는 방향이 중요하다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
+          "publisher": "NVIDIA",
+          "published_at": "2026-11-09T05:00:00Z",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
+          "verification": "public_primary",
+          "verified_at": "2026-11-10T09:46:00+09:00"
+        },
+        {
+          "title": "[AI픽] 국산 NPU, 엔비디아와 손잡고 글로벌 AI 시장 공략",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-09T14:00:00+09:00",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261109045800017",
+          "verification": "full_text",
+          "verified_at": "2026-11-10T09:46:00+09:00"
+        }
+      ],
+      "event_id": "nvidia-skt-rebellions-nvlink-fusion-mou-2026-11-09",
+      "event_first_published_at": "2026-11-09T05:00:00Z",
+      "event_evidence_url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "구글, 보안형 TPU 8tx·고밀도 TPU 8i Max 공개…AMD EPYC와 이기종 구성",
+      "category": "글로벌 가속기·운영 SW",
+      "collected_at": "2026-11-09T22:46:16.173Z",
+      "original_published_at": "2026-11-09T13:03:29Z",
+      "original_url": "https://ir.amd.com/news-events/press-releases/detail/1304/amd-epyc-expands-its-leadership-at-the-foundation-of-ai",
+      "main_points": [
+        "구글은 8세대 TPU 포트폴리오에 TPU 8tx와 TPU 8i Max를 추가해 한 해 동안 네 종류의 시스템을 내놓았다. TPU 8tx는 5세대 AMD EPYC 호스트와 결합해 모델 가중치와 민감 데이터를 사용 중에도 격리하는 하드웨어 기반 기밀 컴퓨팅을 제공하고, TPU 8t 대비 최대 2배 낮은 지연시간을 목표로 보안 추론·소규모 학습·비공개 미세조정에 맞췄다.",
+        "TPU 8i Max는 두 개의 TPU 8i 칩을 한 패키지에 결합해 8i 대비 연산량·SRAM·HBM 대역폭을 각각 두 배로 늘리고, 기존 랙 면적에서 장문 컨텍스트와 다중 에이전트 워크로드의 연산밀도를 높인다. 구글은 TPU 사업 고객이 약 100곳에 이르렀다고 밝혔으며, 같은 8세대 칩을 패키징·네트워크·메모리·보안 구성으로 차별화했다.",
+        "구글은 PyTorch 네이티브 지원, XLA Serving Engine, TPU Sync, GKE 동적 슬라이싱 등 오픈소스·운영 SW도 함께 제시했다. AMD는 8tx 호스트 CPU가 x86 호환성과 Infinity Guard 보안을 제공하며, EPYC가 10곳이 넘는 하이퍼스케일러와 프런티어 AI 연구소에서 GPU와 자체 가속기 시스템의 호스트로 쓰인다고 설명했다."
+      ],
+      "importance": [
+        "새 칩 하나의 성능보다 같은 실리콘을 고객 요구에 맞춰 보안·메모리·네트워크·호스트 CPU와 재조합하는 시스템 설계가 제품 출시 속도를 좌우하는 변화다. 특히 TPU와 AMD CPU의 결합은 자체 가속기 시대에도 범용 CPU·보안기술·소프트웨어 호환성이 시스템 경쟁력의 핵심임을 보여준다.",
+        "TPU가 약 100개 고객과 온프레미스·타 클라우드 공급을 향해 확장하면서 가속기 경쟁은 폐쇄형 내부 자산에서 외부 개발자·기업 고객을 위한 플랫폼 경쟁으로 이동하고 있다. 하드웨어와 함께 PyTorch·서빙·메모리 계층·오케스트레이션을 묶은 점이 그 변화를 뒷받침한다."
+      ],
+      "implications": [
+        "가속기 평가에서는 최고 연산량뿐 아니라 기밀 컴퓨팅, 장문 컨텍스트의 메모리 이동, 호스트 CPU와의 데이터 경로, 장애복구와 개발자 도구를 통합해 비교해야 한다. 동일 칩을 여러 시스템으로 파생하는 설계는 시장 요구 변화에 대응하는 시간과 개발비를 줄일 수 있다.",
+        "국내 NPU 기업도 서버 CPU·네트워크·HBM·런타임을 포함한 참조 시스템을 고객 유형별로 제시할 필요가 있다. 금융·공공처럼 민감 데이터가 많은 수요처에서는 모델 사용 중 보호와 기존 x86 소프트웨어 호환성이 도입 판단의 실질적 기준이 될 수 있다.",
+        "오픈소스 서빙과 오케스트레이션 지원이 확대되면 고객의 가속기 전환비용은 낮아지지만, 성능 비교는 공급사가 제시한 벤치마크보다 실제 모델·동시 사용자·운영비 기준으로 확인해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "AMD EPYC Expands Its Leadership at the Foundation of AI",
+          "publisher": "AMD",
+          "published_at": "2026-11-09T13:03:29Z",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1304/amd-epyc-expands-its-leadership-at-the-foundation-of-ai",
+          "verification": "public_primary",
+          "verified_at": "2026-11-10T09:46:00+09:00"
+        },
+        {
+          "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+          "publisher": "Google",
+          "published_at": "2026-11-09",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-10T09:46:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "구글 원문은 2026-11-09 게시일을 표시한다. AMD가 같은 TPU 8tx 발표를 2026-11-09 13:03:29 UTC에 배포했고 아카이브가 2026-11-09 22:46:16 UTC에 수집했으므로, 구글이 공개한 TPU 8tx·8i Max 핵심 사실은 2026-11-10 09:30 KST 마감 전에 공개돼 있었다. 확인 당시 구글 원문에 수정 시각 표시는 없었고 AMD 동시 공식발표와 내용을 대조했다."
+        }
+      ],
+      "event_id": "google-tpu-8tx-8i-max-amd-epyc-2026-11-09",
+      "event_first_published_at": "2026-11-09T13:03:29Z",
+      "event_evidence_url": "https://ir.amd.com/news-events/press-releases/detail/1304/amd-epyc-expands-its-leadership-at-the-foundation-of-ai",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 3,
+      "title": "Q.ANT·IONOS, 광자 NPU를 베어메탈 클라우드 고객 워크로드로 검증",
+      "category": "차세대 가속기·개발 생태계",
+      "collected_at": "2026-11-10T09:44:00+09:00",
+      "original_published_at": "2026-11-09T14:00:00Z",
+      "original_url": "https://qant.com/news/q-ant-and-ionos-launch-photonic-computing-pilot/",
+      "main_points": [
+        "독일 광자 컴퓨팅 기업 Q.ANT와 클라우드 사업자 IONOS는 2세대 광자 NPU를 IONOS 베어메탈 서버에서 고객이 직접 시험하는 공동 파일럿을 시작했다. 승인된 참여자는 독일 소재 IONOS 데이터센터에서 자체 데이터와 소프트웨어로 AI 모델을 실행하고, 광학 방식으로 비선형 함수를 처리하는 NPU의 성능과 적용 가능성을 평가한다.",
+        "파일럿은 11월부터 제한된 참여자에게 무료로 제공되며 구체적 사용사례와 서버 관리 역량을 신청 조건으로 둔다. 산업 영상처리, 시계열 예측, 과학 시뮬레이션, 로봇 등이 대상이고 Q.ANT는 온보딩·워크로드 검토·최종 성능평가를, IONOS는 베어메탈 인프라 운영을 맡는다.",
+        "Q.ANT는 9월 공개한 SDK로 시뮬레이션과 애플리케이션 개발을 지원한 데 이어 이번에는 물리 프로세서 접근을 열었다. 해당 NPU는 앞서 라이프니츠·율리히 슈퍼컴퓨팅센터에서 평가됐으며, 이번 단계에서는 연구기관이 아닌 잠재 고객의 실제 워크로드 결과를 제품과 SW 스택 개선에 반영한다."
+      ],
+      "importance": [
+        "광자 가속기가 연구실 벤치마크에서 상용 데이터센터의 고객 검증 단계로 이동했다는 점이 핵심이다. 새로운 연산 구조는 칩 성능만으로 시장을 만들기 어렵고, SDK·프레임워크·원격 접근·기술지원·검증 절차가 함께 갖춰져야 개발자와 수요기업이 전환비용을 판단할 수 있다.",
+        "IONOS의 유럽 내 데이터 주권 인프라와 결합한 구조는 대체 가속기의 초기 시장이 대규모 범용 학습보다 에너지비용과 데이터 통제가 중요한 특화 워크로드에서 형성될 수 있음을 보여준다."
+      ],
+      "implications": [
+        "파일럿의 산업적 가치는 참여 수보다 실제 워크로드에서 얻는 정확도·지연시간·전력·운영비 결과와 기존 CPU·GPU 시스템과의 통합 난이도로 판단해야 한다. 회사가 제시한 파라미터 절감 사례는 참여자의 독립된 결과와 생산환경 전환 여부로 추가 검증될 필요가 있다.",
+        "국내 차세대 가속기 지원에서도 시제품 제작과 연구기관 시험 이후 고객이 자신의 데이터·코드로 평가할 수 있는 접근 경로가 중요하다. 베어메탈 제공, 프레임워크 호환, 기술지원과 결과 공유 규칙을 묶은 프로그램은 초기 수요를 발굴하는 참고 모델이 될 수 있다.",
+        "광자 NPU가 비선형 함수와 특정 수학연산에 강점을 보이는 만큼 범용 GPU 대체로 단순 비교하기보다 어떤 모델 블록을 공동처리할 때 전체 시스템 비용이 낮아지는지 확인하는 접근이 적절하다."
+      ],
+      "sources": [
+        {
+          "title": "Q.ANT and IONOS Launch Photonic Computing Pilot",
+          "publisher": "Q.ANT",
+          "published_at": "2026-11-09",
+          "url": "https://qant.com/news/q-ant-and-ionos-launch-photonic-computing-pilot/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-10T09:46:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Q.ANT 원문은 2026-11-09 게시일을 표시하고 GlobeNewswire 배포본은 최초 배포시각을 2026-11-09 14:00:00 UTC로 기록한다. 이는 2026-11-09 23:00 KST로 당일 09:30 KST 마감 전이며, Q.ANT 원문과 배포본의 파일럿 핵심 사실을 대조했다. 확인 당시 원문에 수정 시각 표시는 없었다."
+        },
+        {
+          "title": "Q.ANT and IONOS Launch Photonic Computing Pilot",
+          "publisher": "GlobeNewswire",
+          "published_at": "2026-11-09T14:00:00Z",
+          "url": "https://www.hapskorea.com/globenewswire/?gnw_id=3398482/language/en",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-10T09:46:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "GlobeNewswire 재배포본에 2026-11-09 14:00:00 UTC 배포시각이 표시돼 있으며, 이는 2026-11-09 23:00 KST로 2026-11-10 09:30 KST 마감 전이다. Q.ANT 공식 원문과 제목·참여사·파일럿 범위·시작월을 대조했고 수정 표시는 확인되지 않았다."
+        }
+      ],
+      "event_id": "qant-ionos-photonic-npu-bare-metal-pilot-2026-11-09",
+      "event_first_published_at": "2026-11-09T14:00:00Z",
+      "event_evidence_url": "https://www.hapskorea.com/globenewswire/?gnw_id=3398482/language/en",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "과기정통부, SK브로드밴드 데이터센터·해저케이블 분할 인가 심사 착수",
+      "category": "AI 인프라·사업구조",
+      "collected_at": "2026-11-09T01:41:38.129Z",
+      "original_published_at": "2026-11-09T09:35:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261109039200017",
+      "main_points": [
+        "과기정통부는 SK브로드밴드가 데이터센터와 자가 해저케이블 기반 국제전용회선 사업을 인적분할해 신설법인 SK호라이즌을 만드는 신청에 대해 인가 심사를 진행하고, 11월 10일부터 30일까지 각계 의견을 받는다. SK브로드밴드는 9월 1일 분할 인가를 신청했다.",
+        "심사에서는 신설·존속 법인의 재정·기술 능력과 사업 운용 능력, 기간통신사업 경쟁에 미치는 영향, 이용자 보호와 공익을 살핀다. 의견수렴은 분할 승인 자체가 아니라 전기통신사업법에 따른 심사 절차의 한 단계이며, 접수 의견을 반영해 인가 여부를 판단한다.",
+        "분할 계획은 AI 데이터센터 운영과 해저케이블 인프라를 별도 법인에 집중하고 기존 유선·미디어 사업과 자본·운영 구조를 나누려는 것이다. 데이터센터와 국제 연결망을 함께 묶은 법인이 독립적으로 투자와 확장을 수행할 수 있는지가 향후 심사의 실질적 관건이다."
+      ],
+      "importance": [
+        "통신사가 보유한 데이터센터를 내부 사업부가 아니라 별도 인프라 법인으로 전환하는 과정에서 정부 인가와 공익 심사가 본격화됐다. AI 데이터센터의 자본집약도가 커지면서 투자자 유치와 자산 확장을 위한 법인 분리가 늘 수 있지만, 통신망·미디어 사업과 공유하던 재무·기술 역량이 어떻게 배분되는지도 함께 검토해야 한다.",
+        "데이터센터와 해저케이블을 한 법인에 묶는 구조는 연산시설과 국제 데이터 경로를 통합해 제공하려는 전략이다. 국내 AI 인프라 경쟁이 전력·서버 용량뿐 아니라 글로벌 연결성과 사업금융 구조까지 포함하는 방향으로 넓어졌음을 보여준다."
+      ],
+      "implications": [
+        "심사 결과를 볼 때는 법인 분할 승인 여부뿐 아니라 인력·설비·부채·장기계약의 이전 범위와 기존 이용자 보호 조건을 확인해야 한다. 데이터센터 확장 투자계획이 존속 통신사업의 재정 건전성이나 서비스 투자에 어떤 영향을 주는지도 주요 판단 지점이다.",
+        "AI 인프라 사업기획에서는 시설 규모와 투자액 외에 운영주체의 신용도, 해저케이블과 국내망의 연결조건, 고객 계약의 연속성을 함께 볼 필요가 있다. 별도 법인이 인가를 받으면 투자자금과 자산을 명확히 분리할 수 있지만 초기에는 조직·계약 이전비용이 발생할 수 있다.",
+        "국산 NPU와 클라우드 사업자에는 데이터센터 운영주체가 바뀔 때 조달·실증·서비스 계약의 상대방과 기술검증 책임이 어떻게 정리되는지가 직접적인 사업환경 변수가 된다."
+      ],
+      "sources": [
+        {
+          "title": "SK브로드밴드 사업 분할 심사…과기정통부, 의견수렴",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-09T09:35:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261109039200017",
+          "verification": "full_text",
+          "verified_at": "2026-11-10T09:46:00+09:00"
+        }
+      ],
+      "event_id": "msit-skb-datacenter-subsea-spin-off-review-2026-11-09",
+      "event_first_published_at": "2026-11-09T09:35:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261109039200017",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 5,
+      "title": "국토부, 대형 공공 첨단산단 인허가 특례 확대…최대 2년 단축 추진",
+      "category": "반도체 산업기반·인허가",
+      "collected_at": "2026-11-09T12:07:37.377Z",
+      "original_published_at": "2026-11-09T17:15:09+09:00",
+      "original_url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04001606645644080",
+      "main_points": [
+        "국토교통부는 공공이 신규 개발하는 산업단지의 인허가 간소화 특례 제외 기준을 1000만㎡ 이상에서 2000만㎡ 이상으로 높이는 시행령 개정안을 9일 입법예고했다. 개정되면 1000만㎡ 이상 2000만㎡ 미만 공공 산단도 개발계획과 실시계획을 하나의 산업단지계획으로 통합하고 관계부처 협의와 환경영향평가 등을 병행할 수 있다.",
+        "국토연구원 자료상 일반 산업입지법 절차는 개발계획과 실시계획에 각각 12~24개월이 걸리는 반면 특례법의 산업단지계획 승인은 약 6개월이 걸린다. 국토부는 사업에 따라 인허가 기간을 최대 약 2년 줄일 수 있다고 설명했으며 입법예고 기간은 11월 23일까지다.",
+        "정부는 반도체·데이터센터·로봇 공장 등 첨단산업 시설의 대형화와 민간의 규제완화 요구에 대응한 선제 정비라고 밝혔다. 호남권 반도체 국가산단은 현재 계획면적이 1000만㎡ 미만이어서 바로 적용되는 것은 아니며, 협력사 부지 등을 포함해 규모가 확대될 경우 적용 가능성을 검토할 수 있다."
+      ],
+      "importance": [
+        "대형 첨단산업 프로젝트의 지연요인이 개별 인허가를 순차 처리하는 구조에 있다는 점을 반영해 특례 범위를 넓힌 제도 변화다. 반도체 공장과 데이터센터는 생산시설뿐 아니라 전력·용수·물류·주거를 함께 계획해야 하므로 산단 규모가 커질수록 절차 병행의 효과가 커질 수 있다.",
+        "다만 개정안은 특정 반도체 산단의 지정이나 예산을 확정한 조치가 아니라 적용 가능한 면적 구간과 절차를 바꾸는 입법 단계다. 실제 사업기간 단축은 환경평가·기관협의·전력과 용수 시설의 준비도가 함께 맞아야 현실화된다."
+      ],
+      "implications": [
+        "반도체 클러스터 일정은 팹 착공일만이 아니라 산단계획 통합, 관계부처 협의, 기반시설 설계의 병렬 처리 가능성을 기준으로 다시 평가할 필요가 있다. 개정 시행 여부와 1000만~2000만㎡ 구간에 들어오는 실제 후보 사업을 추적해야 한다.",
+        "인허가 기간이 짧아지면 투자 불확실성과 금융비용을 낮출 수 있지만, 절차 단축이 조사와 주민협의의 질 저하로 이어지지 않도록 초기 데이터와 기관 간 역할을 명확히 해야 한다. 특히 전력·용수 공급계획이 산단계획과 같은 속도로 준비되지 않으면 공장 가동 일정은 그대로 늦어질 수 있다.",
+        "국내 AI반도체 생태계에는 팹·패키징·데이터센터·수요기업이 함께 입주하는 대형 산단의 조성 속도가 빨라질 가능성이 있다. 지원사업은 산단 지정 단계와 실제 입주·가동 단계를 구분해 기업 수요와 검증시설 투입 시점을 맞추는 것이 중요하다."
+      ],
+      "sources": [
+        {
+          "title": "반도체 산단 인허가 최대 2년 단축 추진…대형 공공산단 규제 푼다",
+          "publisher": "이데일리",
+          "published_at": "2026-11-09T17:15:09+09:00",
+          "url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04001606645644080",
+          "verification": "full_text",
+          "verified_at": "2026-11-10T09:46:00+09:00"
+        }
+      ],
+      "event_id": "molit-large-public-industrial-complex-permit-special-case-2026-11-09",
+      "event_first_published_at": "2026-11-09T17:15:09+09:00",
+      "event_evidence_url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04001606645644080",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "ING, AI 데이터센터 대출채권 5억달러 매각 추진…인프라 위험 분산 확대",
+      "category": "AI 인프라·금융구조",
+      "collected_at": "2026-11-09T06:49:11.435Z",
+      "original_published_at": "2026-11-09T13:39:00+09:00",
+      "original_url": "https://www.chosun.com/economy/tech_it/2026/11/09/UZ4NR3VC2ZCJDDQCN2JFBWI4G4/",
+      "main_points": [
+        "네덜란드 은행 ING가 약 5억달러 규모의 데이터센터 대출채권 12건을 다른 투자자에게 매각하는 방안을 추진한다고 조선일보가 블룸버그 보도를 인용해 전했다. 매각 대상에는 오픈AI·오라클·소프트뱅크의 스타게이트 뉴멕시코 데이터센터 관련 2500만달러 대출과 밴티지데이터센터스·사이러스원 관련 채권이 포함됐다.",
+        "ING는 11월 19일까지 건당 최소 1000만달러 규모의 매입 제안을 받을 예정이다. JP모건체이스와 모건스탠리도 데이터센터 대출을 사모펀드·보험사 등에 이전하거나 위험을 분담하는 방안을 검토하는 것으로 보도됐다.",
+        "기사에 따르면 뉴멕시코 스타게이트 프로젝트는 전력공급 문제를 겪었고 오라클은 9월 완공 지연에 대비한 불가항력 조항 관련 통지를 개발업체에 보냈다. 다만 ING의 매각 이유는 확인되지 않았으며 대출채권 매각은 은행이 집중위험을 관리하고 대출여력을 확보하는 통상적 자산관리 수단이기도 하다."
+      ],
+      "importance": [
+        "AI 데이터센터 금융이 프로젝트에 신규 자금을 공급하는 단계에서 기존 대출의 신용위험을 자본시장 투자자에게 이전하는 단계로 확장되고 있다. 전력·인허가·완공 지연이 대주단의 자산회전과 가격에 반영되기 시작하면 데이터센터 사업비와 자금조달 조건에도 영향을 줄 수 있다.",
+        "스타게이트처럼 상징성이 큰 프로젝트 관련 대출까지 매각 대상에 포함됐다는 점은 은행이 AI 수요 전망과 별개로 산업 집중도를 관리하고 있음을 보여준다. 이는 부실 확정의 신호라기보다 인프라 금융의 투자자층과 위험 배분 구조가 넓어지는 변화로 보는 것이 적절하다."
+      ],
+      "implications": [
+        "데이터센터 사업성 평가에서는 임대계약과 가속기 수요뿐 아니라 전력 인입시점, 공사 지연 조항, 대출채권의 재매각 가능성과 투자자 요구수익률을 함께 봐야 한다. 대출 유통시장이 커질수록 프로젝트별 위험 정보의 투명성과 표준화가 중요해진다.",
+        "국내 AI 인프라 프로젝트도 단일 은행단 대출에 의존하기보다 보험사·연기금·사모신용 등 장기자금을 연결할 수 있지만, 위험 이전이 실제 총조달비용을 낮추는지는 별도 검토가 필요하다. 전력과 인허가 일정이 불확실하면 매각 할인이나 금리 가산으로 비용이 다시 사업자에게 돌아갈 수 있다.",
+        "가속기·HBM 공급사에는 데이터센터 금융조건이 서버 발주와 설치 일정의 선행변수가 된다. 확정 주문과 장기 수요 전망을 구분할 때 프로젝트의 금융종결과 전력 확보 여부를 함께 확인할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "AI 데이터센터 대출도 매물로… 은행들 투자 위험 줄이기 나서",
+          "publisher": "조선일보",
+          "published_at": "2026-11-09T13:39:00+09:00",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/09/UZ4NR3VC2ZCJDDQCN2JFBWI4G4/",
+          "verification": "full_text",
+          "verified_at": "2026-11-10T09:46:00+09:00"
+        }
+      ],
+      "event_id": "ing-datacenter-loan-portfolio-sale-2026-11-09",
+      "event_first_published_at": "2026-11-09T13:39:00+09:00",
+      "event_evidence_url": "https://www.chosun.com/economy/tech_it/2026/11/09/UZ4NR3VC2ZCJDDQCN2JFBWI4G4/",
+      "selection_tier": "primary"
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026-11월 전체 아카이브와 11월 10일 collection, 리벨리온·퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀의 고객·현장도입·공동개발·실증·매출·해외협력 자료를 확인했다. 엔비디아·SK텔레콤·리벨리온의 NVLink Fusion MOU와 실제 행사 결과를 선정했다. 최신 collection 저장은 07:58:14 KST였고 09:20·09:27 실행은 없었으며, hyperaccel 2개·mobilint-global·nipa-ai-chip의 empty 결과는 기업·정부 공식자료와 공개 검색으로 보완했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP와 중앙부처·지자체·공공기관·테크노파크의 NPU 도입·조달·실증·국비·데이터센터·반도체 산단 자료를 확인했다. 새 직접 구매·조달 성과보다 NVLink 이기종 실증 협력, SK브로드밴드 데이터센터 법인분할 심사, 대형 공공산단 인허가 특례가 정책 판단에 중요한 변화로 확인됐다. 무안 반도체 육성 제안과 지역 갈등성 보도는 실행단계가 낮아 제외했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·Q.ANT와 자체칩·이기종 시스템·보안·광자 컴퓨팅·전략적 제휴를 확인했다. 구글 TPU 8tx·8i Max와 AMD EPYC 결합, Q.ANT·IONOS의 물리 광자 NPU 고객 파일럿을 서로 다른 신규 사건으로 선정했다. 엔비디아의 국내 스타트업 투자 계획은 같은 AI 데이·포럼 맥락과 계획단계가 겹쳐 기사 1의 배경으로만 반영했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·CUDA·XLA·PJRT·StableHLO·PyTorch·컴파일러·커널·런타임·서빙·오케스트레이션의 11월 9~10일 공개자료를 점검했다. 구글이 TPU 신제품과 함께 TorchTPU·XLA Serving Engine·TPU Sync·GKE 동적 슬라이싱을 통합 제시한 변화를 기사 2에 반영했다. 11월 6일 원고에 반영된 XLA Serving Engine 단독 출시를 다시 별도 사건으로 게재하지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·D램·첨단패키징·인터커넥트와 데이터센터 부지·전력·인허가·법인구조·대출 위험 이전을 확인했다. SK호라이즌 분할 심사, 대형 공공산단 특례 확대, ING의 데이터센터 대출채권 매각 추진을 선정했다. SK하이닉스의 미국 맞춤형 메모리 인력 확대와 통상적 CoWoS 공급 보도는 새 고객·수주·집행 사실이 약해 후순위로 뒀다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국산 NPU가 엔비디아 GPU와 실제 AI 데이터센터에서 연동되는 구조를 정부·통신사·칩기업이 구체화해 고객도입·사업화와 직접 연결되는 변화다."
+      },
+      {
+        "article_number": 2,
+        "reason": "구글이 보안·메모리 문제별 TPU 시스템과 AMD 호스트 CPU, 오픈소스 운영 SW를 함께 공개해 이기종 가속기 경쟁의 새 기준을 제시했다."
+      },
+      {
+        "article_number": 3,
+        "reason": "광자 NPU가 연구기관 시험에서 상용 클라우드의 실제 고객 워크로드 검증으로 이동해 차세대 가속기의 사업화 경로를 보여준다."
+      },
+      {
+        "article_number": 4,
+        "reason": "국내 AI 데이터센터와 국제 연결망을 별도 인프라 법인으로 분리하는 계획이 정부 인가·공익 심사 단계에 들어가 사업구조와 자본조달에 영향을 준다."
+      },
+      {
+        "article_number": 5,
+        "reason": "반도체·데이터센터 대형화에 맞춰 공공 산단 특례 적용범위를 확대하는 입법예고로, 산업기반의 실제 인허가 순서를 바꾸는 정책 변화다."
+      },
+      {
+        "article_number": 6,
+        "reason": "AI 데이터센터 대출의 위험을 사모펀드·보험사 등으로 이전하는 움직임이 구체적 매각 규모와 일정으로 확인돼 인프라 금융구조 변화를 보여준다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+        "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+        "reason": "국내 AI 스타트업 4곳에 대한 계획 투자는 검토했으나 같은 날 같은 엔비디아·과기정통부 행사에서 나온 사실이고 개별 투자금액·집행일정이 공개되지 않았다. 구체적 시스템 통합 MOU를 다룬 기사 1과 기업집단·행사 중복을 피하고 배경으로만 반영했다."
+      },
+      {
+        "title": "김성환 '반도체 산단 전력·용수 적기 공급'…변전소 선제 확충·ESS 송전망 구축",
+        "url": "https://www.fnnews.com/news/202611091537377654",
+        "reason": "국회 예산안 설명에서 전력·용수·변전소·ESS 방향을 제시한 내용은 중요하지만 개별 산단별 예산·용량·착공일이 제시되지 않았다. 구체적 면적기준과 입법절차가 확인된 인허가 특례보다 실행단계가 낮아 별도 선정하지 않았다."
+      },
+      {
+        "title": "엔비디아, 2028년까지 한국 리벨리온 AI 반도체 자사 플랫폼에 탑재 추진",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY2ozMXZvRkluenBKcXc3VHJ0QWl1V093ajJvcXlyLWVSeWZESlBmaE96c0tqLTEyWW05ZElYQktoanhES1dWWFRfZ1FnRTRN?oc=5",
+        "reason": "같은 NVLink Fusion 협력 사건의 후속 보도이며 별도 공개 원문으로 독립 계약을 확인하기 어려웠다. 기사 1의 공식 발표와 연합뉴스 원문에 근거해 사건을 통합했다."
+      },
+      {
+        "title": "SK하이닉스, 엔비디아 맞춤형 메모리 위해 미국 엔지니어링 조직 확대",
+        "url": "https://eastasiabrief.com/2026/11/09/sk-hynix-expands-u-s-engineering-team-for-custom-nvidia-memory/",
+        "reason": "미국 기술인력 확대는 검토했으나 새 고객계약·수주·제품양산 단계보다 기존 맞춤형 HBM 전략의 조직 보강 성격이 강했다. 국내 NPU·가속기·인프라 금융의 구체적 변화보다 후순위로 제외했다."
+      },
+      {
+        "title": "무안군, 군공항 이전 연계 반도체산업 육성 추진",
+        "url": "https://news.google.com/rss/search?q=%EB%AC%B4%EC%95%88%EA%B5%B0%20%EA%B5%B0%EA%B3%B5%ED%95%AD%20%EC%9D%B4%EC%A0%84%20%EB%B0%98%EB%8F%84%EC%B2%B4%EC%82%B0%EC%97%85%20%EC%9C%A1%EC%84%B1&hl=ko&gl=KR&ceid=KR:ko",
+        "reason": "지역의 산업육성 구상은 확인했으나 중앙정부 사업 선정·예산·기업 투자·부지 실행이 확정되지 않은 제안 단계였다. 지엽적 지역 쟁점으로 더 구체적인 국가 인허가·데이터센터 구조 변화를 밀어내지 않았다."
+      },
+      {
+        "title": "DEEPX says its DX-M1 kept butter solid in an AI chip heat test",
+        "url": "https://mezha.net/eng/bukvy/deepx-says-its-dx-m1-kept-butter-solid-in-an-ai-chip-heat-test/",
+        "reason": "저전력 특성을 보여주는 시연이지만 표준 벤치마크·고객 워크로드·유상 도입·제품통합 결과가 아니어서 국내 NPU 사업화 검증 후보로는 근거가 부족했다."
+      }
+    ],
+    "count_reason": "python mail/candidates.py --date 2026-11-10 결과로 마감 전 72시간부터 작성 시점까지 2,976건을 발견했고 2,197건이 시간조건에 들어왔다. 아카이브·collection과 최종 공개 검색에서 업무 관련성이 높은 15개 독립 사건을 비교하고 공개 본문·공개시각을 확인한 11개 사건 가운데 6건을 선정했다. 국내 NPU 고객도입, 이기종 가속기와 운영 SW, 인프라 인허가·법인·금융구조를 우선했으며 통상적 HBM·조직·지역 제안으로 수를 늘리지 않았다.",
+    "company_overlap_review": "엔비디아는 기사 1의 협력 플랫폼 주체이고 기사 2에는 중심 기업으로 등장하지 않는다. 구글·AMD는 기사 2, Q.ANT·IONOS는 기사 3, SK브로드밴드·과기정통부는 기사 4, 국토부는 기사 5, ING와 데이터센터 대출시장은 기사 6의 중심 주체로 서로 다른 사건이다. 같은 엔비디아 AI 데이에서 발표된 스타트업 투자 계획은 중복 후보로 제외했고, SK그룹이 기사 1과 4에 등장하지만 기사 1은 이기종 가속기 기술협력, 기사 4는 별도 법인의 정부 인가 심사로 사실·주체·영향이 독립적이다.",
+    "candidate_counts": {
+      "discovered": 2976,
+      "time_eligible": 2197,
+      "independent_events": 15,
+      "verified": 11,
+      "selected": 6,
+      "basis": "python mail/candidates.py --date 2026-11-10의 전체 아카이브 집계에서 2,976건 발견, 2,197건 시간조건 적합을 확인했다. 업무 관련성이 높은 15개 독립 사건을 직접 비교하고 11개 사건의 공개 본문과 최초 공개시각을 검증해 6건을 선정했다. 당일 collection의 최신 저장은 2026-11-09 22:58:14 UTC, 즉 11월 10일 07:58:14 KST였고 최신 실행은 ok 41개, empty 4개, failed 0개였다. 09:20·09:27 수집은 없어 07:58 이후 공백을 다섯 영역의 직접 공개 검색과 공식자료로 보완했으며 Q.ANT 사건은 09:44 KST에 직접 처음 읽어 늦은 수집 근거를 별도 기록했다."
+    },
+    "history_review": {
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-09",
+      "checked_dates": [
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09"
+      ],
+      "note": "14개 확정 원고의 제목·주요 사실·event_id·원문 URL과 선정·제외 기록을 읽고 사건 단위로 대조했다. 기사 1의 NVLink Fusion MOU는 11월 6일의 과기정통부·엔비디아 간담회 예고가 실제 3사 시스템 협력으로 구체화된 별도 결과이며, 기사 2의 TPU 8tx·8i Max는 10월 29일 OCI 외부 공급과 10월 30일 TPU 직접판매 전략 이후 공개된 새 시스템이다. 기사 3~6의 광자 NPU 고객 파일럿, SK브로드밴드 분할 심사, 산단 특례 확대, ING 대출채권 매각은 최근 14일 게재 이력이 없다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "11월 6일 원고는 엔비디아와 국내 NPU 기업의 간담회 예고였고, 이번에는 엔비디아·SK텔레콤·리벨리온이 실제 NVLink Fusion MOU와 데이터센터 통합 범위를 공개한 새 사건이다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "TPU 8tx·8i Max와 AMD EPYC 호스트 구성은 이전 TPU 외부공급·직접판매 보도 이후 처음 공개된 새 시스템과 제품군 확장 사건이다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "Q.ANT 2세대 광자 NPU를 IONOS 베어메탈 고객 워크로드에 개방한 파일럿은 최근 14일 원고에 없다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "SK브로드밴드 데이터센터·해저케이블 사업분할에 대한 과기정통부 의견수렴·인가 심사 착수는 최근 14일 원고에 없다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "1000만~2000만㎡ 공공 산단에 인허가 간소화 특례를 확대하는 시행령 입법예고는 최근 14일 원고의 개별 산단 전력·용수·그린벨트 사건과 다른 신규 제도 변화다."
+      },
+      {
+        "article_number": 6,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "ING가 스타게이트 관련 채권을 포함한 5억달러 규모 데이터센터 대출 매각을 추진하는 사건은 최근 14일 원고에 없다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026년 11월 9~10일 리벨리온·퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀과 NPU·NVLink·고객·현장도입·유상 PoC·실증·제품통합·반복구매·수출·매출을 검색하고 AI 데이 실제 행사 결과를 대조했다.",
+          "official_sources": "NVIDIA 공식 발표 https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion, 연합뉴스 공개 본문 https://www.yna.co.kr/amp/view/AKR20261109045800017, NVIDIA 국내 스타트업 투자 발표 https://blogs.nvidia.com/blog/korean-startup-investments-msit/ 를 확인했다.",
+          "result": "엔비디아·SK텔레콤·리벨리온의 실제 NVLink Fusion MOU를 선정했다. 같은 행사 투자 계획은 개별 집행조건이 부족하고 중복성이 높아 별도 기사로 선정하지 않았다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "과기정통부·NIPA·IITP·중앙부처·광역·기초지자체·공공기관·테크노파크와 NPU·AI반도체·국비·예산·실증·도입·조달·데이터센터·반도체 산단·전력·용수·인허가를 조합해 검색했다.",
+          "official_sources": "연합뉴스 NVLink 행사 본문 https://www.yna.co.kr/amp/view/AKR20261109045800017, 연합뉴스 SK브로드밴드 분할 심사 본문 https://www.yna.co.kr/view/AKR20261109039200017, 이데일리 산단 특례 공개 본문 https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04001606645644080, 기후부 예산안 설명 재배포 https://www.fnnews.com/news/202611091537377654 를 확인했다.",
+          "result": "새 NPU 직접 구매·조달 성과는 확인되지 않았다. NVLink 이기종 데이터센터 협력, 데이터센터 법인분할 심사, 대형 산단 인허가 특례를 선정하고 지역 제안·예산 방향 발언은 단계가 낮아 제외했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "2026년 11월 9~10일 NVIDIA·AMD·Google TPU·Q.ANT·광자 NPU와 가속기 보안·이기종 호스트·고객 파일럿·전략적 제휴·자체칩 생태계를 검색했다.",
+          "official_sources": "Google TPU 공식 블로그 https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/, AMD 공식 발표 https://ir.amd.com/news-events/press-releases/detail/1304/amd-epyc-expands-its-leadership-at-the-foundation-of-ai, Q.ANT 공식 발표 https://qant.com/news/q-ant-and-ionos-launch-photonic-computing-pilot/ 와 GlobeNewswire 시각 근거 https://www.hapskorea.com/globenewswire/?gnw_id=3398482/language/en 를 확인했다.",
+          "result": "TPU 8tx·8i Max와 AMD 호스트 결합, Q.ANT·IONOS 광자 NPU 파일럿을 독립 사건으로 선정했다. 두 사건은 기존 TPU 공급전략이나 연구기관 시험을 재서술한 것이 아니라 새 시스템과 새 고객 접근 단계다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "ROCm·CUDA·XLA·PJRT·StableHLO·PyTorch·컴파일러·커널·런타임·서빙·KV 캐시·오케스트레이션·가속기 전환도구의 11월 9~10일 공개자료를 검색했다.",
+          "official_sources": "Google TPU 공식 블로그의 TorchTPU·XLA Serving Engine·TPU Sync·GKE 동적 슬라이싱 https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/, Google XLA Serving Engine 원문 https://opensource.googleblog.com/2026/11/supercharging-xla-inference-xla-serving-engine.html, Q.ANT SDK·파일럿 원문 https://qant.com/news/q-ant-and-ionos-launch-photonic-computing-pilot/ 를 확인했다.",
+          "result": "구글의 신규 TPU 시스템과 통합된 운영 SW 확장을 기사 2에 반영했다. 11월 6일 원고에 이미 게재된 XLA Serving Engine 단독 공개와 동일 사건은 다시 선정하지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026년 11월 9~10일 HBM·D램·첨단패키징·인터커넥트와 AI 데이터센터 부지·전력·인허가·법인분할·해저케이블·대출채권·위험분담을 검색했다.",
+          "official_sources": "연합뉴스 SK브로드밴드 분할 본문 https://www.yna.co.kr/view/AKR20261109039200017, 이데일리 산단 특례 본문 https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04001606645644080, 조선일보 데이터센터 대출 본문 https://www.chosun.com/economy/tech_it/2026/11/09/UZ4NR3VC2ZCJDDQCN2JFBWI4G4/ 를 확인했다.",
+          "result": "데이터센터 법인구조, 산단 인허가, 대출 위험 이전이라는 서로 다른 인프라 실행·금융 변화를 선정했다. 통상적인 HBM 조직·공급 전망과 지역 갈등 보도는 후순위로 제외했다."
+        }
+      },
+      "alternative_sources": "공식 발표와 공개 전문을 우선했고 Q.ANT는 09:44 KST 늦은 발견이라 GlobeNewswire의 2026-11-09 14:00 UTC 배포시각과 Q.ANT 원문을 대조해 마감 전 공개를 확인했다. 구글 날짜 전용 원문은 AMD의 2026-11-09 13:03:29 UTC 동시 공식발표로 마감 전 사실을 검증했다. 4개 empty 수집 소스와 09:20·09:27 수집 공백은 기업 뉴스룸·정부 발표·공개 검색으로 보완했으며, 검색결과 제목이나 요약만으로 주요 내용을 작성하지 않았다."
+    }
+  }
+}
