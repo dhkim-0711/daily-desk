@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-11",
+  "cutoff_at": "2026-11-11T09:30:00+09:00",
+  "window_start": "2026-11-10T09:30:00+09:00",
+  "created_at": "2026-11-11T09:51:27+09:00",
+  "status": "ready",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "딥엑스가 삼성 2나노 공정 기반 DX-M2의 설계를 마치고 2027년 3월 첫 샘플, 2분기 고객 평가, 4분기 초기 양산을 목표로 제시했다.",
+        "80TOPS와 최대 96GB LPDDR5X를 10W 안팎 모듈에 담는 구상이 고객 평가 단계로 이동하면서 국산 NPU의 대형 생성형 AI 온디바이스 적용 가능성을 시험하게 됐다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "광주은행과 신용보증기금이 호남 반도체 클러스터를 포함한 지역 민간투자사업의 후보 발굴·사업성 검토·보증 연계 금융을 공동 지원하기로 했다.",
+        "대규모 산업기반 조성에 지역은행의 현장 네트워크와 정책보증을 결합하는 금융구조가 마련돼 향후 개별 사업의 자금조달 가능성을 높일 경로가 생겼다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "산업통상부 장관이 호남 반도체 클러스터의 기업별 팹 배치를 11월 안에 마무리하고 이후 산단 협약을 진행할 예정이라고 밝혔다.",
+        "부지 선정 뒤 핵심이던 팹 배치가 협의 마무리 단계로 진입해 용수·전력·인허가·선행 공사의 구체화 순서를 좌우하게 됐다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "NHN은 2027년 말까지 약 100MW의 AI 데이터센터를 운영하고 서울·인천에 1,700대 이상의 B300 GPU를 배치해 2027년 1월부터 순차 서비스할 계획이다.",
+        "광주·장성·포항과 수도권 임차 거점을 함께 확장하는 구조는 국내 GPU 서비스가 단일 공공센터에서 다지역 상용 인프라로 커지는 변화를 보여준다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "메타가 NVIDIA·AMD GPU에서 운영 중인 Triton 저수준 확장 TLX를 공개하고, 추천모델 학습에서 20~25%의 종단간 MFU를 확보했다고 밝혔다.",
+        "고수준 커널 언어의 생산성을 유지하면서 워프그룹·클러스터를 직접 제어하는 계층이 개방돼 이기종 가속기 최적화와 자체칩 전환을 잇는 컴파일러 생태계가 확대됐다."
+      ]
+    },
+    {
+      "article_numbers": [6],
+      "bullets": [
+        "엔비디아가 에이전트 보안 런타임 OpenShell을 CNCF에 기증하고 Kubernetes Engine·Recipes·Snapshot 등 AI 팩토리 운영 도구를 공개했다.",
+        "가속기 공급 경쟁이 모델 실행뿐 아니라 에이전트 권한통제, 클러스터 배포, 장애복구와 체크포인트 복원까지 포함한 운영 표준 경쟁으로 확장됐다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "딥엑스, 삼성 2나노 DX-M2 설계 완료…2027년 고객 평가·초기 양산 목표",
+      "category": "국내 NPU·제품화",
+      "collected_at": "2026-11-10T04:20:56.793Z",
+      "original_published_at": "2026-11-10T10:39:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261110069100017",
+      "main_points": [
+        "딥엑스는 삼성전자 2나노 공정을 적용한 차세대 NPU DX-M2가 CES 2027 AI 부문 혁신상을 받았다고 밝혔다. 회사는 11월 초 테이프아웃을 마쳤으며 2027년 3월 첫 샘플, 2분기 고객 평가용 샘플, 4분기 초기 양산을 거쳐 2028년 본격 양산을 추진한다.",
+        "DX-M2는 5W급 온디바이스 생성형 AI 처리를 목표로 하고 80TOPS 성능, 최대 96GB의 8채널 LPDDR5X 메모리, 약 10W 모듈 전력 범위를 제시했다. 대형 비전언어모델과 생성형 AI를 서버가 아닌 장비 내부에서 처리하도록 설계한 것이 핵심이다.",
+        "딥엑스는 삼성 파운드리의 2나노 공정과 함께 저전력 설계·메모리 용량을 결합해 로봇·산업장비·엣지 서버를 겨냥한다. 이번 공개에는 제품화 일정이 포함됐지만 고객명과 평가 물량, 양산 수주 규모는 공개되지 않았다."
+      ],
+      "importance": [
+        "국산 NPU 경쟁이 소형 추론 칩에서 생성형 AI와 대형 모델을 장비 내부에서 처리하는 제품군으로 확대됐다. 메모리 용량과 전력 범위를 함께 제시한 점은 최고 연산량보다 실제 모델 탑재 가능성과 시스템 설계 제약을 중심으로 고객 검증을 받겠다는 변화다.",
+        "삼성 2나노 공정의 국내 팹리스 적용 사례가 고객 평가 일정과 연결됐다는 점도 중요하다. 설계 완료 이후 샘플·평가·초기 양산으로 이어지는 단계별 이행 여부가 국내 선단공정과 NPU 생태계의 사업화 역량을 함께 보여주게 된다."
+      ],
+      "implications": [
+        "향후 평가는 CES 수상보다 2027년 샘플에서 목표 전력·성능·메모리 대역폭이 재현되는지, 실제 생성형 모델의 지연시간과 정확도가 고객 환경에서 유지되는지에 달려 있다. 96GB 구성이 필요한 수요처와 모듈 가격, 발열·전원 설계도 확인해야 한다.",
+        "로봇과 산업장비 고객에게는 클라우드 의존을 줄이는 이점이 있지만 모델 최적화·컴파일러·업데이트 도구가 함께 제공돼야 도입 비용을 낮출 수 있다. 칩 성능과 함께 고객 평가용 소프트웨어, 참조 모듈, 장기 공급계획을 묶어 검증하는 것이 중요하다.",
+        "정책·사업 기획에서는 테이프아웃과 양산 사이의 고객 평가 전환율, 유상 샘플과 반복 구매, 수요기업 제품통합 여부를 구분해 추적할 필요가 있다. 선단공정 활용 자체보다 실제 매출과 생산 수율로 이어지는지가 산업적 성과의 핵심이다."
+      ],
+      "sources": [
+        {
+          "title": "삼성 2나노 적용 딥엑스 AI칩, CES 혁신상 수상",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-10T10:39:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261110069100017",
+          "verification": "full_text",
+          "verified_at": "2026-11-11T09:46:00+09:00"
+        },
+        {
+          "title": "DX-M2: Big AI Inside the Machine",
+          "publisher": "Consumer Technology Association",
+          "published_at": "2026-11-10",
+          "url": "https://www.ces.tech/ces-innovation-awards/2027/dx-m2-big-ai-inside-the-machine/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-11T09:46:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "CES 공식 제품 페이지는 2026-11-10 공개 사실을 표시하고, 연합뉴스가 2026-11-10 10:39 KST에 동일 제품 사양과 수상 사실을 공개했다. 두 원문을 대조했으며 이는 2026-11-11 09:30 KST 마감 전이다. 확인 당시 수정 시각 표시는 없었다."
+        }
+      ],
+      "event_id": "deepx-dx-m2-samsung-2nm-product-roadmap-2026-11-10",
+      "event_first_published_at": "2026-11-10T10:39:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261110069100017",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "광주은행·신용보증기금, 호남 반도체 클러스터 민간투자 금융 협력",
+      "category": "지역 산업금융·반도체 기반",
+      "collected_at": "2026-11-10T07:28:40.562Z",
+      "original_published_at": "2026-11-10T14:21:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261110111200054",
+      "main_points": [
+        "광주은행과 신용보증기금은 지역 민간투자사업 활성화를 위한 업무협약을 체결하고 호남 반도체 클러스터를 포함한 첨단산업 기반사업의 후보 발굴과 금융지원을 함께 추진하기로 했다. 두 기관은 광주·전남 지역의 유망 민간투자사업을 공동으로 찾고 사업 구조와 타당성을 검토한다.",
+        "신용보증기금의 보증과 광주은행의 대출을 연계하고, 사업 초기부터 금융구조 자문과 기관 간 정보공유를 제공하는 것이 협약의 핵심이다. 대형 기반시설 사업에서 민간 사업자의 자금조달 가능성을 높이고 지역 금융기관이 사업 발굴 단계부터 참여하는 구조다.",
+        "이번 협약은 특정 반도체 시설의 대출액이나 보증 한도를 확정한 계약이 아니라 후보 발굴과 금융지원 체계를 만든 단계다. 실제 지원 규모는 개별 사업의 사업성 검토, 보증 심사와 대출 약정 이후 확인된다."
+      ],
+      "importance": [
+        "반도체 클러스터 논의가 부지·예산 구상에서 민간자본을 끌어들이기 위한 금융구조 설계로 넓어졌다. 지역은행의 현장 정보와 정책보증을 결합하면 장기 회수기간과 초기 위험 때문에 자금조달이 어려운 기반시설 사업의 실행 가능성을 높일 수 있다.",
+        "정책금융이 단순 보조금이 아니라 사업 후보 발굴·타당성 검토·보증·대출을 잇는 방식으로 개입한다는 점이 산업적으로 중요하다. 향후 전력·용수·교통·지원시설 중 어떤 사업이 민간투자 대상으로 구조화되는지가 클러스터 실행 속도를 좌우할 수 있다."
+      ],
+      "implications": [
+        "협약의 성과는 발굴한 사업 수보다 개별 사업의 총사업비, 자기자본 비율, 보증 범위와 위험분담 방식이 공개될 때 평가할 수 있다. 공공 인프라와 수익형 시설을 구분하고 장기 수요계약이나 이용료 구조가 금융비용을 감당하는지도 확인해야 한다.",
+        "산업기반 금융에서는 기업 투자계획과 공공 인허가 일정이 어긋날 때 발생하는 지연 위험을 누가 부담하는지가 핵심이다. 보증 연계 대출이 초기 위험을 낮추더라도 사업수익과 상환재원이 명확하지 않으면 재정 부담이 뒤로 이동할 수 있다.",
+        "다른 지역의 AI반도체·데이터센터 사업에도 지역은행과 정책보증기관의 공동 발굴 모델을 적용할 수 있지만, 지원 대상과 심사 기준을 공개해 사업성 낮은 지역 현안과 산업적으로 필요한 기반시설을 구분하는 장치가 필요하다."
+      ],
+      "sources": [
+        {
+          "title": "광주은행·신용보증기금, 민간투자사업 활성화 협력",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-10T14:21:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261110111200054",
+          "verification": "full_text",
+          "verified_at": "2026-11-11T09:46:00+09:00"
+        }
+      ],
+      "event_id": "gwangjubank-kodit-honam-semiconductor-private-finance-mou-2026-11-10",
+      "event_first_published_at": "2026-11-10T14:21:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261110111200054",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 3,
+      "title": "산업부, 호남 반도체 클러스터 팹 배치 11월 마무리·산단 협약 예고",
+      "category": "반도체 클러스터·정책 실행",
+      "collected_at": "2026-11-10T04:20:56.793Z",
+      "original_published_at": "2026-11-10T12:07:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261110091000001",
+      "main_points": [
+        "김정관 산업통상부 장관은 국회 예산결산특별위원회에서 호남 반도체 클러스터에 참여하는 기업들의 팹 배치를 11월 안에 마무리할 예정이라고 밝혔다. 기업별 배치가 정리되면 산업단지 협약을 진행하는 순서를 제시했다.",
+        "정부는 광주 군공항 이전 전에도 활용 가능한 일부 구역의 선행 공사를 검토하고 있으며, 군공항 이전과 전체 배치의 윤곽은 2026년 말부터 2027년에 걸쳐 나타날 것으로 설명했다. 첫 팹은 2030년 양산을 목표로 추진 중이다.",
+        "장관은 협의 과정에서 기업이 투자 철회 의사를 밝힌 적은 없다고 답했다. 다만 이번 발언은 기업별 팹 위치와 투자금액을 공개한 최종 협약이 아니라 배치 협의를 마무리하겠다는 일정 설명이며, 산단 계획·인허가·기반시설 공사는 이후 절차다."
+      ],
+      "importance": [
+        "클러스터 후보지 선정 뒤 불확실했던 기업별 팹 배치가 산단 협약 직전 단계로 이동했다. 팹의 위치와 순서가 정해져야 전력·용수·교통·폐수처리 용량과 토지보상, 인허가 범위를 구체화할 수 있어 후속 산업기반 투자의 출발점이 된다.",
+        "군공항 이전 전체를 기다리지 않고 일부 구역을 먼저 개발하는 방안은 대형 산업 프로젝트의 일정 단축 가능성을 높이는 동시에 부지 분할, 안전, 기반시설 선투자 위험을 새로 만든다. 일정 발표보다 기업 협약과 부처·지자체 역할 분담이 실제 실행력을 판단하는 기준이 된다."
+      ],
+      "implications": [
+        "11월 배치 협의가 마무리되면 기업별 팹 수·면적·착공 순서와 공공 인프라 부담 범위를 우선 확인해야 한다. 여러 사업을 합산한 지역 전체 투자액이나 국비 구상을 개별 팹의 확정 투자로 해석하지 않는 것이 중요하다.",
+        "선행 공사를 추진할 경우 군공항·탄약창 이전 일정과 산단 인허가가 서로 의존하는 구간을 공개하고, 임시 전력·용수와 장기 공급망을 분리해 관리할 필요가 있다. 기업의 장비 반입과 생산 목표에 맞춘 역산 일정이 있어야 지연 비용을 줄일 수 있다.",
+        "국내 반도체 기반정책에서는 부지 지정 이후 배치·협약·인허가·착공·양산을 각각 다른 단계로 관리해야 한다. 이번 발표의 후속 판단은 11월 협약이 실제 체결되는지와 2027년 인허가·용지 공사 계획이 구체화되는지에 달려 있다."
+      ],
+      "sources": [
+        {
+          "title": "산업장관 호남 반도체 클러스터 팹 배치 이달 내 마무리",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-10T12:07:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261110091000001",
+          "verification": "full_text",
+          "verified_at": "2026-11-11T09:46:00+09:00"
+        }
+      ],
+      "event_id": "honam-semiconductor-cluster-fab-layout-november-2026",
+      "event_first_published_at": "2026-11-10T12:07:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261110091000001",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "NHN, 2027년 말 AI 데이터센터 100MW 운영·B300 GPU 1,700대 배치 계획",
+      "category": "AI 인프라·연산자원",
+      "collected_at": "2026-11-10T04:20:56.793Z",
+      "original_published_at": "2026-11-10T09:55:00+09:00",
+      "original_url": "https://www.yna.co.kr/amp/view/AKR20261110026052527",
+      "main_points": [
+        "NHN은 3분기 실적 발표에서 2027년 말까지 약 100MW 규모의 AI 데이터센터를 운영하겠다고 밝혔다. 포항에서 20MW를 임차하고 광주 연구개발특구에 10MW를 건립하며, 전남광주 장성의 파인 데이터센터 26MW도 장기 임차해 지역 거점을 늘린다.",
+        "수도권에서는 서울 가산과 인천 가좌 데이터센터에 엔비디아 B300 GPU 1,700대 이상을 배치하고 2027년 1월부터 순차적으로 상용 서비스를 시작할 계획이다. 광주 국가 AI 데이터센터에도 B300을 추가하고 크래프톤 GPU 클러스터 매출 인식을 이어간다.",
+        "NHN클라우드의 3분기 매출은 전년 동기 대비 75.5% 증가했고 영업이익을 유지했다. 서울 양평 리전의 외부 고객용 GPU 물량은 5년 계약 기준으로 모두 판매됐다고 회사가 설명했으며, 이번 확장은 자체 건립과 장기 임차를 병행하는 구조다."
+      ],
+      "importance": [
+        "국내 AI 연산자원 투자가 단일 공공 데이터센터나 단기 GPU 임대에서 다지역 100MW급 상용 인프라와 장기 고객계약으로 이동하고 있다. 임차와 자체 건립을 병행하면 가동 시점을 앞당길 수 있지만 전력·네트워크·운영 표준을 여러 거점에서 일관되게 관리해야 한다.",
+        "GPU 물량 판매와 클라우드 매출 증가가 함께 확인된 점은 데이터센터 확장이 단순 시설계획을 넘어 수요 검증과 연결되고 있음을 보여준다. 다만 발표된 총 용량 중 실제 가동, 건설, 임차 약정 단계가 섞여 있어 단계별 실적을 나눠 볼 필요가 있다."
+      ],
+      "implications": [
+        "2027년 100MW 목표는 각 센터의 전력 인입·준공·GPU 조달 일정과 고객계약 전환율로 평가해야 한다. 특히 B300 1,700대의 설치 시점, 네트워크 구성, 이용률과 서비스 가격이 연산자원 접근성에 미치는 영향을 추적할 필요가 있다.",
+        "다지역 운영은 재해복구와 고객 근접성에 유리하지만 지역별 전력비·통신비·인력과 냉각 조건 차이가 원가를 좌우한다. 공공 AI 컴퓨팅 사업과 민간 장기계약이 같은 자원을 두고 경쟁하거나 보완하는 구조도 구분해야 한다.",
+        "국산 NPU가 이런 상용 클라우드에 진입하려면 GPU 서비스와 별도의 시범장비 공급을 넘어 동일한 과금·모니터링·장애관리 체계에 통합돼야 한다. 실제 고객 워크로드의 비용·성능 비교가 가능할 때 이기종 가속기 수요로 이어질 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "NHN AI 데이터센터 내년 말까지 100MW 규모로 확장",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-10T09:55:00+09:00",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261110026052527",
+          "verification": "full_text",
+          "verified_at": "2026-11-11T09:46:00+09:00"
+        },
+        {
+          "title": "NHN 2026년 3분기 실적 발표",
+          "publisher": "NHN",
+          "published_at": "2026-11-10",
+          "url": "https://inside.nhn.com/news/985",
+          "verification": "public_primary",
+          "verified_at": "2026-11-11T09:46:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "NHN 공식 원문은 2026-11-10 게시일을 표시하고 연합뉴스가 같은 실적 발표와 100MW 계획을 2026-11-10 09:55 KST에 보도했다. 두 원문을 대조했으며 2026-11-11 09:30 KST 마감 전 공개가 확인됐다. 확인 당시 공식 원문에 수정 시각 표시는 없었다."
+        }
+      ],
+      "event_id": "nhn-cloud-100mw-ai-datacenter-b300-expansion-2026-11-10",
+      "event_first_published_at": "2026-11-10T09:55:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/amp/view/AKR20261110026052527",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 5,
+      "title": "메타, NVIDIA·AMD용 저수준 Triton 확장 TLX 공개…자체칩 지원도 추진",
+      "category": "가속기 운영 SW·컴파일러",
+      "collected_at": "2026-11-10T17:43:20.720Z",
+      "original_published_at": "2026-11-10T17:00:06Z",
+      "original_url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+      "main_points": [
+        "메타는 Triton Low-Level Extensions인 TLX를 공개했다. TLX는 Triton의 Python 기반 커널 작성 모델을 유지하면서 워프그룹, 스레드 블록 클러스터, 비동기 메모리 이동과 같은 최신 GPU 하드웨어 기능을 개발자가 직접 제어하도록 한다.",
+        "메타는 TLX를 NVIDIA Hopper·Blackwell과 AMD MI300·MI350X GPU의 생산 워크로드에 적용했다. 추천모델 학습에서는 수천 대의 Blackwell GPU에서 종단간 20~25%의 모델 플롭 활용률을 확보했고, IKBO 추론 커널에서는 순지연시간을 최대 약 3분의 2 줄였다고 밝혔다.",
+        "분산 그룹드 GEMM은 MoE 대형언어모델 사전학습에 운영 중이며, 메타는 TLX를 torch.compile 백엔드와 연결하고 자체 MTIA를 포함한 맞춤형 가속기까지 지원할 계획이다. 코드를 공개해 하드웨어 업체와 개발자가 공통 저수준 확장을 추가하도록 했다."
+      ],
+      "importance": [
+        "가속기 성능을 끌어내기 위해 CUDA나 어셈블리로 내려가던 영역에 이식 가능한 저수준 컴파일러 계층이 생겼다. 고수준 생산성과 하드웨어 고유 제어를 결합하면 NVIDIA·AMD·자체칩 사이에서 커널 최적화 자산을 재사용할 여지가 커진다.",
+        "대규모 추천·MoE 학습에 이미 적용됐다는 점에서 단순 연구용 언어가 아니라 생산 운영 SW 경쟁의 사례다. 칩 공급사의 독점 도구뿐 아니라 대형 수요기업이 컴파일러 확장 규격을 주도하면서 개발자 생태계와 하드웨어 채택에 영향을 줄 수 있다."
+      ],
+      "implications": [
+        "TLX의 실질적 가치는 공개 벤치마크보다 다양한 모델·정밀도·GPU 세대에서 유지보수 비용을 줄이는지에 달려 있다. 커널 자동튜닝, 디버깅, 정확도 검증과 업스트림 Triton 호환성이 장기 채택의 핵심이다.",
+        "국내 NPU 운영 SW도 고수준 그래프 컴파일러와 하드웨어 고유 커널 사이의 확장 계층을 분리하면 고객 코드 이식과 최적화 인력 활용을 개선할 수 있다. 다만 TLX 호환을 목표로 할 때는 특정 GPU 명령을 모방하기보다 공통 의미체계와 백엔드 인터페이스를 확보하는 접근이 필요하다.",
+        "메타가 MTIA 지원을 예고한 것은 자체칩 도입에서도 GPU용 개발자 경험을 재사용하려는 전략을 보여준다. 자체 가속기 경쟁력은 실리콘뿐 아니라 기존 PyTorch·Triton 워크플로를 얼마나 자연스럽게 흡수하는지로 평가될 가능성이 커진다."
+      ],
+      "sources": [
+        {
+          "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+          "publisher": "Meta Engineering",
+          "published_at": "2026-11-10T17:00:06Z",
+          "url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-11T09:46:00+09:00"
+        }
+      ],
+      "event_id": "meta-tlx-hardware-native-triton-extensions-2026-11-10",
+      "event_first_published_at": "2026-11-10T17:00:06Z",
+      "event_evidence_url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "엔비디아, OpenShell CNCF 기증·Kubernetes AI 팩토리 운영도구 공개",
+      "category": "AI 인프라 운영 SW·보안",
+      "collected_at": "2026-11-10T17:43:20.720Z",
+      "original_published_at": "2026-11-10T16:00:03Z",
+      "original_url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "main_points": [
+        "엔비디아는 AI 에이전트의 권한·도구·데이터 접근을 통제하는 오픈소스 런타임 OpenShell을 CNCF 샌드박스에 기증했다. OpenShell은 에이전트를 격리된 실행환경에서 운영하고 정책 기반 네트워크·파일·도구 접근을 적용하는 역할을 한다.",
+        "엔비디아는 Google 주도의 Agent Substrate에도 참여하고, Dynamo와 KAI Scheduler를 Kubernetes 환경에 연결한다. 새 Data Center Supercomputing 제품군에는 NVIDIA Kubernetes Engine, 공개 미리보기인 Recipes, 체크포인트와 모델 복제본을 복원하는 Snapshot이 포함됐다.",
+        "회사는 Snapshot을 이용해 Crusoe의 GLM-5.3 복원 시간을 8분에서 31초로, Saturn의 vLLM 복원 시간을 2~8.5분에서 6~34초로 줄였다고 밝혔다. 수치는 엔비디아와 설계 파트너의 측정이며, SK텔레콤을 포함한 생태계 파트너들이 통합 계획을 제시했다."
+      ],
+      "importance": [
+        "AI 인프라 경쟁이 GPU 배치와 모델 서빙을 넘어 에이전트 보안, 클러스터 스케줄링, 재현 가능한 배포와 장애복구를 통합하는 운영 계층으로 확장됐다. CNCF 기증은 공급사 도구를 Kubernetes 생태계의 공동 거버넌스 아래 두려는 움직임이다.",
+        "대규모 가속기 클러스터에서는 모델 체크포인트 복원 시간이 곧 유휴 GPU 비용과 서비스 복구시간으로 이어진다. 운영 SW가 하드웨어 이용률과 신뢰성을 좌우하면서 데이터센터의 경쟁 기준이 칩 수량에서 복구·보안·자동화 지표로 넓어지고 있다."
+      ],
+      "implications": [
+        "OpenShell과 Snapshot의 도입 가치는 정책 표현력, 멀티테넌시 격리, 기존 Kubernetes 보안도구와의 호환성, 실제 장애에서의 복원 성공률로 검증해야 한다. 공급사가 제시한 복원 시간은 모델 크기·스토리지·네트워크 조건을 함께 비교할 필요가 있다.",
+        "국산 NPU와 이기종 클러스터가 상용 데이터센터에 들어가려면 동일한 정책·스케줄링·체크포인트 인터페이스에 연결되는 것이 중요하다. 하드웨어별 별도 운영체계를 만들기보다 CNCF·Kubernetes 표준과 연계해 고객의 운영 전환비용을 낮추는 방향이 유리하다.",
+        "SK텔레콤의 통합 계획은 국내 AI 데이터센터가 글로벌 오픈소스 운영도구의 실제 적용처가 될 가능성을 보여준다. 향후에는 통합 발표보다 가속기 종류별 장애복구, 에이전트 접근통제, GPU/NPU 이용률과 운영인력 절감 효과를 확인해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+          "publisher": "NVIDIA",
+          "published_at": "2026-11-10T16:00:03Z",
+          "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-11T09:46:00+09:00"
+        }
+      ],
+      "event_id": "nvidia-openshell-cncf-kubernetes-ai-factory-tools-2026-11-10",
+      "event_first_published_at": "2026-11-10T16:00:03Z",
+      "event_evidence_url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "selection_tier": "primary"
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026-11월 전체 아카이브와 11월 11일 후보를 기준으로 딥엑스·리벨리온·퓨리오사AI·모빌린트·하이퍼엑셀의 고객평가·현장도입·공동개발·양산·매출·해외협력을 확인했다. 딥엑스 DX-M2의 설계 완료와 고객평가·초기양산 일정을 선정했다. 퀄리타스반도체·모빌린트 IP 공급은 10월 1일 계약 공시 뒤 기술범위를 재설명한 보도로 확인돼 신규 사건에서 제외했다. 최신 collection은 2026-11-11 02:43 KST였고 09:20·09:27 실행 기록은 없어 공식자료와 공개 검색으로 보완했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP와 중앙부처·광역·기초지자체·공공기관·지역 금융기관의 NPU·AI반도체 도입, 실증, 조달, 국비·지방비, 산단·데이터센터 후보를 확인했다. 새 NPU 직접 구매·조달 성과는 확인되지 않았고, 호남 반도체 클러스터의 팹 배치 일정과 광주은행·신용보증기금의 민간투자 금융협력을 선정했다. 지역 전체 투자 구상과 개별 사업 확정을 구분했고 주민 도로·주차장 제안은 실행단계와 산업 파급이 낮아 제외했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·Meta와 자체칩·이기종 가속기·전략적 제휴를 확인했다. 11월 10일 원고에 이미 게재된 NVIDIA·SK텔레콤·리벨리온 NVLink Fusion과 Google TPU 8tx·8i Max 후속 보도는 중복으로 제외했다. 새 사건 가운데 Meta TLX의 NVIDIA·AMD 생산 적용과 MTIA 확장 계획, NVIDIA의 AI 팩토리 운영도구를 선정했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·CUDA·Triton·PyTorch·컴파일러·커널·런타임·서빙·Kubernetes·스케줄링·보안·체크포인트 복원을 점검했다. Meta TLX와 NVIDIA OpenShell·Kubernetes Engine·Recipes·Snapshot을 서로 다른 신규 운영 SW 사건으로 선정했다. SGLang 보안사고 보도는 공개된 1차 기술보고서와 영향범위를 충분히 대조하지 못해 제외했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·D램·첨단패키징·UCIe·CXL·인터커넥트와 데이터센터 부지·전력·용수·인허가·금융구조를 확인했다. NHN의 100MW 다지역 AI 데이터센터 확장, 호남 클러스터 팹 배치, 지역은행·정책보증 연계 금융을 선정했다. 파네시아 CES 수상과 통상적 HBM 공급 전망은 고객도입·수주·산업기반 실행의 새 사실이 상대적으로 약해 후순위로 뒀다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "국산 NPU의 선단공정 설계 완료가 고객평가·초기양산 일정과 연결돼 제품화·매출 전환 가능성을 판단하는 직접 자료다."},
+      {"article_number": 2, "reason": "호남 반도체 클러스터 등 산업기반 사업에 지역은행 대출과 정책보증을 결합하는 금융구조가 새로 마련돼 인프라 투자 실행과 연결된다."},
+      {"article_number": 3, "reason": "기업별 팹 배치가 11월 마무리와 산단 협약 단계로 이동해 부지·전력·용수·인허가의 실행 순서를 좌우하는 정책 변화다."},
+      {"article_number": 4, "reason": "NHN이 100MW·B300 1,700대 이상의 다지역 상용 AI 인프라와 실제 클라우드 수요를 함께 공개해 연산자원 접근성과 시장구조에 영향을 준다."},
+      {"article_number": 5, "reason": "NVIDIA·AMD 생산 워크로드에 적용된 저수준 Triton 확장이 공개돼 이기종 가속기와 자체칩의 개발자 생태계 전환에 중요한 변화다."},
+      {"article_number": 6, "reason": "에이전트 보안과 Kubernetes 배포·복구 도구를 CNCF 생태계에 연결해 AI 팩토리 경쟁을 운영 표준과 신뢰성 영역으로 확장했다."}
+    ],
+    "excluded": [
+      {
+        "title": "퀄리타스반도체, 모빌린트 NPU에 초고속 인터페이스 IP 공급",
+        "url": "https://www.viva100.com/article/20261110501123",
+        "reason": "UCIe·PCIe·MIPI 통합 범위는 중요하지만 공급계약이 10월 1일 공시된 뒤 기술구성을 설명한 후속 보도였다. 최근 48시간의 독립 신규 사건으로 볼 실질적 추가 계약·수주·제품통합 결과가 부족해 제외했다."
+      },
+      {
+        "title": "NVIDIA·SK텔레콤·리벨리온 NVLink Fusion 협력 후속 보도",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
+        "reason": "2026-11-10 원고에 같은 MOU·시스템 통합 범위가 이미 게재됐고 후속 보도에서 별도 계약·고객·실증 결과가 확인되지 않아 사건 중복으로 제외했다."
+      },
+      {
+        "title": "Google TPU 8tx·8i Max 후속 보도",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+        "reason": "2026-11-10 원고에 제품 구성·AMD EPYC 결합·운영 SW가 이미 게재됐고 새로운 제품·공급계약·고객 운영결과가 없어 중복 제외했다."
+      },
+      {
+        "title": "SGLang 공급망 보안사고 관련 보도",
+        "url": "https://news.google.com/search?q=SGLang%20security%20breach%20November%202026",
+        "reason": "보안사고의 영향 사용자 수와 수정 범위를 확인할 공개 1차 기술보고서가 충분하지 않아 검색결과와 2차 보도만으로 본문을 작성하지 않았다."
+      },
+      {
+        "title": "광산구 주민들 반도체 근로자 위해 도로·주차장 확대 제안",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261110115800054",
+        "reason": "지역 공론장에서 나온 제안으로 예산·사업선정·설계·조달이 확정된 단계가 아니며, 클러스터 팹 배치와 금융구조의 구체적 변화보다 산업적 우선순위가 낮았다."
+      },
+      {
+        "title": "파네시아 CXL 4.0 스위치 CES 2027 혁신상",
+        "url": "https://news.google.com/search?q=Panesia%20CXL%204.0%20CES%202027",
+        "reason": "인터커넥트 기술 후보로 검토했으나 고객도입·양산·대형 주문이나 새로운 산업기반 실행이 확인되지 않아 국내 NPU 제품화와 AI 데이터센터 운영 변화보다 후순위로 제외했다."
+      }
+    ],
+    "count_reason": "python mail/candidates.py --date 2026-11-11 결과로 마감 전 72시간부터 작성 시점까지 3,682건을 발견했고 2,849건이 시간조건에 들어왔다. 아카이브·collection과 최종 공개 검색에서 업무 관련성이 높은 14개 독립 사건을 비교하고 10개 사건의 공개 본문·공개시각을 검증해 6건을 선정했다. 국내 NPU 제품화, 산업기반 금융·배치·연산자원, 이기종 가속기 운영 SW를 우선했고 전날 게재 사건과 통상적 소재·수상 보도로 수를 늘리지 않았다.",
+    "company_overlap_review": "호남 반도체 클러스터는 기사 2와 3에 함께 등장하지만 기사 2는 광주은행·신용보증기금의 민간투자 금융체계, 기사 3은 산업부와 투자기업의 팹 배치·산단 협약 일정으로 주체·사건·정책효과가 독립적이다. 기사 4는 NHN, 기사 5는 Meta, 기사 6은 NVIDIA가 중심이며 기사 1의 딥엑스와 중복 기업집단이 없다. NVIDIA·SK텔레콤·리벨리온의 전날 협력은 별도 후보에서 중복 제외했다.",
+    "candidate_counts": {
+      "discovered": 3682,
+      "time_eligible": 2849,
+      "independent_events": 14,
+      "verified": 10,
+      "selected": 6,
+      "basis": "python mail/candidates.py --date 2026-11-11의 전체 아카이브 집계에서 3,682건 발견, 2,849건 시간조건 적합을 확인했다. 업무 관련성이 높은 14개 독립 사건을 직접 비교하고 10개 사건의 공개 본문과 최초 공개시각을 검증해 6건을 선정했다. 당일 collection의 최신 저장은 2026-11-10 17:43:18 UTC, 즉 11월 11일 02:43:18 KST였고 09:20·09:27 수집 실행은 기록되지 않았다. 이후 공백은 다섯 영역의 직접 공개 검색과 공식자료로 보완했으며 실제 firstSeenAt을 소급하지 않았다."
+    },
+    "history_review": {
+      "start_date": "2026-10-28",
+      "end_date": "2026-11-10",
+      "checked_dates": [
+        "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-03", "2026-11-04", "2026-11-05", "2026-11-06", "2026-11-07", "2026-11-08", "2026-11-09", "2026-11-10"
+      ],
+      "note": "14개 확정 원고의 제목·주요 사실·event_id·원문 URL과 선정·제외 기록을 읽고 사건 단위로 대조했다. NVIDIA·SK텔레콤·리벨리온 NVLink Fusion과 Google TPU 8tx·8i Max는 11월 10일 게재 사건으로 제외했다. 딥엑스 DX-M2 제품화 일정, 광주은행·신용보증기금 금융협력, 호남 팹 배치 일정, NHN 100MW 계획, Meta TLX, NVIDIA OpenShell·AI 팩토리 운영도구는 최근 14일 원고에 같은 사건이 없다."
+    },
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "DX-M2의 삼성 2나노 설계 완료와 2027년 샘플·고객평가·초기양산 일정은 최근 14일 원고에 없다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "광주은행과 신용보증기금의 지역 민간투자사업 공동 발굴·보증연계 금융 MOU는 최근 14일 원고에 없다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "산업부가 호남 클러스터의 기업별 팹 배치를 11월 마무리하고 산단 협약으로 이어가겠다고 공개한 일정은 최근 14일 원고에 없다."},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "NHN의 2027년 말 100MW 운영과 B300 1,700대 이상 수도권 배치 계획은 최근 14일 원고에 없다."},
+      {"article_number": 5, "result": "new_event", "previous_editions": [], "note": "Meta TLX의 NVIDIA·AMD 생산 적용과 MTIA 확장 계획은 최근 14일 원고에 없다."},
+      {"article_number": 6, "result": "new_event", "previous_editions": [], "note": "OpenShell CNCF 기증과 Kubernetes Engine·Recipes·Snapshot 공개는 최근 14일 원고에 없다."}
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026년 11월 10~11일 딥엑스·리벨리온·퓨리오사AI·모빌린트·하이퍼엑셀과 NPU·고객평가·양산·유상 PoC·제품통합·수출·매출을 검색했다.",
+          "official_sources": "CES DX-M2 공식 페이지 https://www.ces.tech/ces-innovation-awards/2027/dx-m2-big-ai-inside-the-machine/ 와 연합뉴스 공개 본문 https://www.yna.co.kr/view/AKR20261110069100017, 퀄리타스반도체·모빌린트 공개 본문 https://www.viva100.com/article/20261110501123 를 확인했다.",
+          "result": "딥엑스 DX-M2의 설계 완료와 고객평가·초기양산 일정을 선정했다. 퀄리타스·모빌린트는 10월 계약의 후속 설명으로 시의성이 부족해 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "과기정통부·NIPA·IITP·산업부·지자체·공공기관·테크노파크·지역은행과 NPU·AI반도체·국비·지방비·실증·도입·조달·산단·데이터센터를 조합해 검색했다.",
+          "official_sources": "연합뉴스 호남 팹 배치 https://www.yna.co.kr/view/AKR20261110091000001, 광주은행·신용보증기금 MOU https://www.yna.co.kr/view/AKR20261110111200054, NHN 공식 실적 발표 https://inside.nhn.com/news/985 를 확인했다.",
+          "result": "새 NPU 직접 구매·조달 성과는 확인되지 않았다. 팹 배치 일정과 민간투자 금융협력, NHN 다지역 AI 인프라 계획을 선정하고 주민 제안은 실행단계가 낮아 제외했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "2026년 11월 10~11일 NVIDIA·AMD·Google TPU·Meta·자체칩·이기종 가속기·전략적 제휴·고객 도입을 검색했다.",
+          "official_sources": "Meta TLX 공식 발표 https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/, NVIDIA 공식 발표 https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/, Google TPU 공식 발표 https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ 를 확인했다.",
+          "result": "Meta TLX와 NVIDIA AI 팩토리 운영도구를 신규 사건으로 선정했다. Google TPU와 NVIDIA·SK텔레콤·리벨리온 협력 후속은 11월 10일 원고와 중복돼 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "ROCm·CUDA·Triton·PyTorch·컴파일러·커널·런타임·서빙·Kubernetes·스케줄링·에이전트 보안·체크포인트 복원의 11월 10~11일 공개자료를 검색했다.",
+          "official_sources": "Meta TLX 원문 https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/ 과 NVIDIA OpenShell·Kubernetes 도구 원문 https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/ 를 확인했다.",
+          "result": "생산 GPU 커널 최적화와 AI 팩토리 보안·배포·복구를 각각 다루는 두 신규 사건을 선정했다. SGLang 보안사고는 공개 1차 자료가 부족해 제외했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026년 11월 10~11일 HBM·D램·첨단패키징·UCIe·CXL·인터커넥트와 AI 데이터센터 부지·전력·용수·인허가·정책금융을 검색했다.",
+          "official_sources": "NHN 공식 발표 https://inside.nhn.com/news/985, 연합뉴스 NHN 100MW 본문 https://www.yna.co.kr/amp/view/AKR20261110026052527, 호남 팹 배치 https://www.yna.co.kr/view/AKR20261110091000001, 민간투자 금융 MOU https://www.yna.co.kr/view/AKR20261110111200054 를 확인했다.",
+          "result": "AI 데이터센터 확장, 팹 배치, 정책보증 연계 금융이라는 서로 다른 산업기반 변화를 선정했다. 통상적 HBM 전망과 수상 중심 인터커넥트 보도는 후순위로 제외했다."
+        }
+      },
+      "alternative_sources": "공식 발표와 공개 전문을 우선했고 날짜만 표시된 CES·NHN 원문은 같은 날 정확한 시각이 표시된 연합뉴스 공개 본문과 대조해 마감 전 공개를 확인했다. 09:20·09:27 수집 공백은 기업 뉴스룸·정부 발언 공개 본문·직접 검색으로 보완했다. 검색결과 제목이나 요약만으로 최종 기사 본문을 작성하지 않았으며, 1차 자료가 부족한 SGLang 보안사고는 제외했다."
+    }
+  }
+}
