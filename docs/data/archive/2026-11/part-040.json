@@ -1,59 +1,57 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-11T20:09:42.287Z",
+  "updatedAt": "2026-11-11T23:03:50.484Z",
   "articles": [
     {
-      "title": "Who is Alice Huang, the Megaspeed executive at the center of the Jensen Huang controversy - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVhfUDRlQnlpaGYtdTUtNVNsbS1KT2ZkdlRmM0xLS000T0NTTnJBMEpsSE5CRlA4V3B1dlhURHhfcUFkdC1HeHUzQUhiSzhrMG9NQmdJS2phNHR3c05lX3B5N3RyZmo0WXB2UDE0N2ZFYVo2cHIwXy1Lc29uRlFneTFMUVlmaTFHTDloWENmR0FoNk91S1Br?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:18:00 GMT",
-      "summary": "Who is Alice Huang, the Megaspeed executive at the center of the Jensen Huang controversy &nbsp;&nbsp; Business Insider",
-      "outlet": "Business Insider",
-      "outletUrl": "https://www.businessinsider.com",
-      "source": "NVIDIA 이슈",
+      "title": "광주특별시, 서남권 반도체 보도 반박 “사실관계 달라” - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xcm5iX2tfT1JHX0Y1MjNfVDdjWDRwVVE2RHh5OHg5WHBwUEo1NTUtaTFmM2d3WU1CUVFRX2c0MWtlMXlWOGJHTlU3UGJZTjY3LVhEazktcmpCUDNwa1Jaa0FlM0I?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:18:15 GMT",
+      "summary": "광주특별시, 서남권 반도체 보도 반박 “사실관계 달라” &nbsp;&nbsp; 서울경제TV",
+      "outlet": "서울경제TV",
+      "outletUrl": "https://www.sentv.co.kr",
+      "source": "반도체 클러스터·정책 실행",
       "sourceIds": [
-        "nvidia-ai"
+        "semiconductor-cluster-execution"
       ],
-      "sourceLang": "en",
-      "region": "global",
+      "sourceLang": "ko",
+      "region": "domestic",
       "companyHits": [],
       "taxonomyHits": [],
       "issueCategory": "",
       "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-10T17:43:20.720Z"
+    },
+    {
+      "title": "이형일 “美중간선거 뒤 데이터센터 투자 지켜봐야” : 경제 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NRlVfd2dmNzB3M1hLcHRXeDg5OWJlSzNqcS1PQ29wS3R3X3VuTmNLMnNPLUEyVW05d3dDYXFsMVhVQ3FkaDIxTVZ2TQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:18:08 GMT",
+      "summary": "이형일 “美중간선거 뒤 데이터센터 투자 지켜봐야” : 경제 &nbsp;&nbsp; 재경일보",
+      "outlet": "재경일보",
+      "outletUrl": "https://news.jkn.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 14,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
       "lastSeenAt": "2026-11-09T12:07:37.377Z"
     },
     {
-      "title": "Samsung, Google to Open Preorders for AI Smart Glasses This Week - Koreabizwire",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0psRHIxbGtJNk1xTjlIRExVY1AxeGtTWXlJa1lMSFo0bGswcVZjV25kZVhMNXZIdG9mcHBzeS1qcUhMLUxyUlFOUmJGRVdvRnp5TmN0TVNDaGp2OFdsbjZKSFJKbjllMFZMQjhfS3ZITnh5dnBLQ2I0R3NkRy1ya3VUcWNjMkVOU0VKbjR1bHBvVG5Ub0VCRU1B?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:17:42 GMT",
-      "summary": "Samsung, Google to Open Preorders for AI Smart Glasses This Week &nbsp;&nbsp; Koreabizwire",
-      "outlet": "Koreabizwire",
-      "outletUrl": "http://koreabizwire.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google",
-        "Samsung"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 24,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T12:46:06.088Z"
-    },
-    {
-      "title": "삼성·구글, 제미나이 탑재 AI 스마트 안경 사전 예약…메타와 맞 대결 - CEO스코어데일리",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxQ21ObGlZYVJqWXRHcXJYRFluUFJnejBvYUpkZFNiZ3NzWVRXblZNak0wdzEtcU80Q2k4VUFySnBkRHZlX2xXMjZ0RFNic0lqaGxVbDc4NGFUWkJxX2F0RGVXYUtTNjVJ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:17:32 GMT",
-      "summary": "삼성·구글, 제미나이 탑재 AI 스마트 안경 사전 예약…메타와 맞 대결 &nbsp;&nbsp; CEO스코어데일리",
-      "outlet": "CEO스코어데일리",
-      "outletUrl": "https://m.ceoscoredaily.com",
+      "title": "SKT 부사장 \"GPU 가동 준비 하루 이상→60분 목표\"…엔비디아와 협력 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WM0x1UEo3czl0eFF2QUU0QmZHN0t3YVBINlRYWWZqc0xYUFRxcUptSmJGRkV3OEkzYXdUS3ZpT09iT3REYXhidkMzLVFXUVQzNTlOMm0zUE40U1d6aWJmUnVIZ2ZtZTN0ZnNUbNIBbEFVX3lxTE9WM0x1UEo3czl0eFF2QUU0QmZHN0t3YVBINlRYWWZqc0xYUFRxcUptSmJGRkV3OEkzYXdUS3ZpT09iT3REYXhidkMzLVFXUVQzNTlOMm0zUE40U1d6aWJmUnVIZ2ZtZTN0ZnNUbA?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:17:44 GMT",
+      "summary": "SKT 부사장 \"GPU 가동 준비 하루 이상→60분 목표\"…엔비디아와 협력 - 머니투데이 &nbsp;&nbsp; 머니투데이",
+      "outlet": "머니투데이",
+      "outletUrl": "https://www.mt.co.kr",
       "source": "해외 빅테크 국내 보도",
       "sourceIds": [
         "korea-global-ai-companies"
@@ -61,23 +59,903 @@
       "sourceLang": "ko",
       "region": "domestic",
       "companyHits": [
-        "Google"
+        "NVIDIA"
       ],
       "taxonomyHits": [
-        "Google"
+        "NVIDIA"
       ],
-      "issueCategory": "Google",
+      "issueCategory": "NVIDIA",
       "score": 20,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
     },
     {
-      "title": "엔비디아-SKT-리벨리온 3자 MOU - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kWjVZc3V0UE5MUnhNMVVwdWRYMklnaUJPeG4wYTM1ZzRSS294NmJiTWFMQWZ2cGVWUEtEZXNVc3R3b2JXTWNZaHhQeDdyQWRpUEZLM182RlFyVW5tNkpQbQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:16:41 GMT",
-      "summary": "엔비디아-SKT-리벨리온 3자 MOU &nbsp;&nbsp; 뉴시스",
+      "title": "“용인 반도체, 향후 2~3년이 승부처”…이언주 의원, 전력 예산 삭감 제동 - 인천일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oaFM5RmRNdUxsWmpkeW5mLVF1TnJ2SEVZSDl3SkEwSTV6RzFxVHhyd3ZGOWNLRkRVS01pd0NzVjRYLXBhSVBkSzdSbUIxM3RjNlFhRnNCQkplQjhqZ2tsSDU4azhsQ0tlYnBRcW1IeDY?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:16:00 GMT",
+      "summary": "“용인 반도체, 향후 2~3년이 승부처”…이언주 의원, 전력 예산 삭감 제동 &nbsp;&nbsp; 인천일보",
+      "outlet": "인천일보",
+      "outletUrl": "https://www.incheonilbo.com",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "정책"
+      ],
+      "issueCategory": "정책",
+      "score": 11,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "[현장] 엔비디아·SKT·리벨리온, AI 인프라 삼각동맹…협력 방향은 - www.ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QVVNkYWI0bnJuMExrLTJ6UktzZkpXTTJPNEJkdGo2cTBPemZrOWtCYmJRcnJjSkpwX3YtejJHY3VJcThUb2JqemkwX24xZjRkM01Vazk1RUpPcEUxdzkzUk9NTTdDMjRw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:15:57 GMT",
+      "summary": "[현장] 엔비디아·SKT·리벨리온, AI 인프라 삼각동맹…협력 방향은 &nbsp;&nbsp; www.ebn.co.kr",
+      "outlet": "www.ebn.co.kr",
+      "outletUrl": "https://www.ebn.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 27,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "정석근 SKT \"GPU·NPU 결합해 세계서 가장 싸게 토큰 생산\" - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UTVU5b2JKZWM5U3BPcUZkOVhvWHZpT3Z6dXJTZUdfU3k5LU1lUWgzeHFVY3ZNbUJkVFZnZzZLT2hVZ21WanJEWTk3WlllWXNvQ3phOEhB?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:15:56 GMT",
+      "summary": "정석근 SKT \"GPU·NPU 결합해 세계서 가장 싸게 토큰 생산\" &nbsp;&nbsp; 지디넷코리아",
+      "outlet": "지디넷코리아",
+      "outletUrl": "https://zdnet.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "rebellions",
+        "korea-ai-policy",
+        "npu-commercialization",
+        "government-npu-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "NPU"
+      ],
+      "issueCategory": "NPU",
+      "score": 16,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "“호남에 물 없다? 사실 아니다”…전남광주, 반도체 용수 논란 반박 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rc3NJSWgxR0ljV0JMY0NIR1hUa01nS0tlYkp2R2FlaVZlUGFPTThnYk5sWlBsU01IYmtXTHdMaTNXMmp1ajNPamVXQ1J3eUhibEHSAVNBVV95cUxOdjhXYXRqbGtzV0lFMloyalBLQW1IeHBGSXIxTDRKTENfdjJiR1NMdTJuYkQyQ3RKWG1UeDViTERfSmhwNGRzcXVJdVYwbkktM2dpdw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:15:30 GMT",
+      "summary": "“호남에 물 없다? 사실 아니다”…전남광주, 반도체 용수 논란 반박 &nbsp;&nbsp; 서울경제",
+      "outlet": "서울경제",
+      "outletUrl": "https://www.sedaily.com",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-11-09T22:46:16.173Z",
+      "lastSeenAt": "2026-11-10T07:37:39.463Z"
+    },
+    {
+      "title": "SKT·엔비디아·리벨리온 맞손…GPU·NPU 결합 ‘한국형 소버린 AI’ 구축 - 대한경제",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4U2NFMU5tNjRxX2U4bEtqdXIwcHJfajBMS0lmblltcXVEQzRaMDBaQ0tUenpmR3Y2OHdxdXdhdjlkMlFfc0xMamp4YXBwb2NJX1huZkhfdnlGWTdtMGRDeDE3TTNVR1VONS1uRUpEVS1XRXdH?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:15:26 GMT",
+      "summary": "SKT·엔비디아·리벨리온 맞손…GPU·NPU 결합 ‘한국형 소버린 AI’ 구축 &nbsp;&nbsp; 대한경제",
+      "outlet": "대한경제",
+      "outletUrl": "https://www.dnews.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "rebellions",
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 30,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "이상일 용인특례시장, 용인 첨단시스템반도체 국가산업단지 공사 대책 마련 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwYmhXRFVKUnVSem01dnlSSC1hNUNyUHZMMnZ6SFE0N21MUWliR0d2MnVlTXRCLXd0QmZmb3E1SVU2dVhiUmdnYm83NF9MTzJWUkQ2RmdRNTl4Y1o1bkg1M0xLWU4?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:15:15 GMT",
+      "summary": "이상일 용인특례시장, 용인 첨단시스템반도체 국가산업단지 공사 대책 마련 &nbsp;&nbsp; 매일일보",
+      "outlet": "매일일보",
+      "outletUrl": "https://www.m-i.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 8,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "U.S. futures mixed as Nvidia probe and AI earnings gauntlet test tech rebound - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUm1RZWNobzNpNVlVbEw2X210Y29vb3prRHFDQjYwelpJVHA5NXk0cXg0UWxRWEdLbkIyYmJnN2hMVkVDYUpCOUQ0c2lEU1VPeVpLVm9lNU1xYlFWVlNvWnF5ZGNjLTg5X1BuQ1RSSFpEZmRFNHlGazJORnI3RkhOc0JLX3Y3Unk1NjZCLUNjNFhTM04taVd1Y1ZlTWZjaFZ2WDRXSGN0S3AyRFRQdnBEQVBhSjZZQW5KMnRoeGZtTDNQSXVEdmc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:15:10 GMT",
+      "summary": "U.S. futures mixed as Nvidia probe and AI earnings gauntlet test tech rebound &nbsp;&nbsp; Investing.com",
+      "outlet": "Investing.com",
+      "outletUrl": "https://www.investing.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global",
+        "ai-investment-market",
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI시장",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-10T08:21:30.515Z"
+    },
+    {
+      "title": "광주 반도체 용수시설 723억…시의회서 지방비 부담 논란 제기 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yUnZqUkhQTVFWUFZWME0yaTVpMUM4TEZGOHl3R3JUU18tdzFmOFdROE02Y1JMNDVUR25tV2g3dXFUUjQySWM3S0FkV2Q4eExrSTNtbVp6OU9lam_SAWBBVV95cUxQSlNqNzNZNThvT09Yb1dTdnBXWjF6TnR3TWI1eldsQWU2MlhOb0U2WVlMRHpwaVBMYUZtempMSGNOVmVEcVZpRXJjZGZaN0NRT21fQzRBdldLZldBaHhVbS0?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:15:05 GMT",
+      "summary": "광주 반도체 용수시설 723억…시의회서 지방비 부담 논란 제기 &nbsp;&nbsp; 연합뉴스",
+      "outlet": "연합뉴스",
+      "outletUrl": "https://www.yna.co.kr",
+      "source": "지자체 NPU 정책·사업",
+      "sourceIds": [
+        "local-government-npu",
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "노타, AMD 협력 추론 최적화 공개 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZZ1BYMXNFSENwcHRyLTRDWEtIV0NUTnNBRDhCWk1JZm54MkowNlN3dmN3Slp4OGlFX3ZZemZRLW9mdmJVN05ybk1CcWR4WTF5VHBIck5oLWdkMWc3NTV4SlFyT0d1WVlOSXZsddIBb0FVX3lxTFBYQkVFU2ItaWZxYUF0WDVmU3RfdUNyeGZHMmN0ZnIyY2N6ZnR6cWtpeG9GNW1QUS1XWjdGZ3lWc2pIVl9nenRqaXVydGVuZ0VmSFJEVHpXX1NBeXg2UWU2LThiUTA2amtLRU4zQjRHWQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:14:51 GMT",
+      "summary": "노타, AMD 협력 추론 최적화 공개 &nbsp;&nbsp; 한스경제",
+      "outlet": "한스경제",
+      "outletUrl": "https://www.hansbiz.co.kr",
+      "source": "국내 가속기 운영 SW 보도",
+      "sourceIds": [
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [
+        "추론"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "SK텔레콤, 엔비디아·리벨리온과 GPU·NPU 통합 협약…\"소버린 AI 인프라 구축 추진\" - https://www.moneystorm.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tR0VBdEZBM0QzZ2ZXSU1nUXBnMmRUd1hzZTJ1VUVGV05CYjBPVHZ6QmdNNUs3LWU2TEdKcUhuZ2dua0JOYmRMVnpkQ0FzQnZKMXI1S3VXRlQ0STZUOW03SHc2eWRZel9ZSlE?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:14:20 GMT",
+      "summary": "SK텔레콤, 엔비디아·리벨리온과 GPU·NPU 통합 협약…\"소버린 AI 인프라 구축 추진\" &nbsp;&nbsp; https://www.moneystorm.kr/",
+      "outlet": "https://www.moneystorm.kr/",
+      "outletUrl": "https://www.moneystorm.kr",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 28,
+      "firstSeenAt": "2026-11-11T20:09:42.287Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "SKT, 엔비디아 GPU·리벨리온 NPU 결합⋯\"소버린 AI 토큰 공급\"(종합) - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KVUhXTnpBUzAxaWdiT3JLV0k2UWloa0R2V0ZvdzJDMjR4ZUxRdjVFNEpYYnUwdzRUM0czODF4SHZuaWZEajQtTXFOVQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:14:04 GMT",
+      "summary": "SKT, 엔비디아 GPU·리벨리온 NPU 결합⋯\"소버린 AI 토큰 공급\"(종합) &nbsp;&nbsp; 아이뉴스24",
+      "outlet": "아이뉴스24",
+      "outletUrl": "http://www.inews24.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "rebellions",
+        "npu-commercialization",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 30,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "SK텔레콤, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발 협약 - 퍼블릭뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrc2Y0akpucmVBNzdiZGZPUl9fMjRKUjhqVTU1NllsOE83UVdKdUVpVjcwWnZJU25ZeHpRMmlRcTZSM1JYMVNsYVNJY2tmNjg5QTNvd2pGZGNhdWNucElBWkszV05NM3o5QVBR?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:12:36 GMT",
+      "summary": "SK텔레콤, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발 협약 &nbsp;&nbsp; 퍼블릭뉴스통신",
+      "outlet": "퍼블릭뉴스통신",
+      "outletUrl": "https://www.ttlnews.com",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 30,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
+    {
+      "title": "엔비디아 시스템에 국산 AI 칩 싣는다…'답변 생성' 분담 추진 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1UF9LM2REcHJEZjVVc1JOM3ZRY0lCSHdpZlRKdkpDSWEyaGJBbkNfVEZ5aEZCeFgxdVpuYkdldG52VDdXVUhrUnNJMjk3S0R0OHZmMTlwT3gtZ9IBVEFVX3lxTE1VTHI5MnlxYkVXaDU3ZkxOMV83SFVvZDMwZGtDYWxpQTBNSkdzVHgza0Q0QTFjTWhLdWhVZXF2dTFBSVZRbk1UdzkzWXAtNW9ROTNPeQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:12:09 GMT",
+      "summary": "엔비디아 시스템에 국산 AI 칩 싣는다…'답변 생성' 분담 추진 &nbsp;&nbsp; 더팩트",
+      "outlet": "더팩트",
+      "outletUrl": "https://news.tf.co.kr",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "한귀례 시의원 “반도체 양산 앞서 주거·교통 기반 마련해야” - 대로미디어",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyaG9VdHFHTGRudXdad1hVeVRuS0Q4bnBHc3ZRa0NDc0E1OWVIVFh3RjA4S3V2d3ZBanJGWDlESnRaeDNqcFUtQ2ZqclJfSV9tbWtlbUpVbXdQRVRaZEF0UmpMN0dNVDFud093?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:11:57 GMT",
+      "summary": "한귀례 시의원 “반도체 양산 앞서 주거·교통 기반 마련해야” &nbsp;&nbsp; 대로미디어",
+      "outlet": "대로미디어",
+      "outletUrl": "https://www.daeromedia.com",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
+    {
+      "title": "엔비디아 손잡은 韓 기업들…AI 반도체·로봇·자율주행 협력 가속 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZDR0U2szN3JXR1hacF9nVWhRZDNSUThYX1JVRlFtZVNZQk8xeEFzeHdjMVlJeThJVklPcDlTUDVfeW9CLW90ZnlQVUpUZHNNbThoTFJvb3dUUQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:11:37 GMT",
+      "summary": "엔비디아 손잡은 韓 기업들…AI 반도체·로봇·자율주행 협력 가속 &nbsp;&nbsp; 파이낸셜뉴스",
+      "outlet": "파이낸셜뉴스",
+      "outletUrl": "https://www.fnnews.com",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions",
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "SPX: S&P 500 Futures Edge Higher After Asia Stocks Power Up. Key AI Earnings Ahead - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdzhYcEY4VG1wVWRRODBDU25SUVUzR0lTRUN6RHFIaW82aXB4bHk2czA2bGdXa1ZRSTdTS3IzVVJOVkhiWFljNDRSclRfdGs2MGZoazNtT0NQdU1RT3dRNVEtTm9oQ01FTW02X2ZoakNrVzlpRWlBRGVqTUtEVUNCbzB2RGUtYmNLLVRNb2MzemlKVzhVZlFRdFloSWZ6NmdkbXRzMFBabm5HczUwY0JNd0FBWW14RnB0Z0xFYnNQSC1udXRmNDBPM21KTWVHTVp3dWJQeWxQYmx1Zw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:11:00 GMT",
+      "summary": "SPX: S&P 500 Futures Edge Higher After Asia Stocks Power Up. Key AI Earnings Ahead &nbsp;&nbsp; TradingView",
+      "outlet": "TradingView",
+      "outletUrl": "https://www.tradingview.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T08:23:06.410Z"
+    },
+    {
+      "title": "Markets Brief: The Silver Lining in the Election’s Bad News for Some AI Stocks - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0RUZGx1bHVzSEpuVEtncWtRNFpGVDhmcjUtMEZQdWFISHpPSW94c0lwQ0tXYkw2NWRQNmtjNmFMYTFRbFYwNFlIcDROSlp4NDRuam5BWXczazI1RnhOakU5MU1iRnhkTEdMb3IxdXYxa0JEQ01iMHI4VWoyVEJhN2VaNFl0VWJaOXdOUjdXYUZDSC1fNE1z?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:10:50 GMT",
+      "summary": "Markets Brief: The Silver Lining in the Election’s Bad News for Some AI Stocks &nbsp;&nbsp; Morningstar",
+      "outlet": "Morningstar",
+      "outletUrl": "https://www.morningstar.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T16:36:16.746Z"
+    },
+    {
+      "title": "\"韓 NPU로 엔비디아와 협력\"…리벨리온·SKT ’소버린 AI’ 동맹 By EBN - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqZkFmNTNvWEZ0WHdGQU5ZT3BnR3dVaVVNQnhPTldNektTTHRNV1NRZU8wQ0Z0TE1SUEdCeEVSdmNOSjQ1azZyd01YWFJNcEo0YVVaaXpNSmZiaE5FcmxseWExZ0FRcEQtWTlGcTJiMVc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:10:00 GMT",
+      "summary": "\"韓 NPU로 엔비디아와 협력\"…리벨리온·SKT ’소버린 AI’ 동맹 By EBN &nbsp;&nbsp; Investing.com 한국어",
+      "outlet": "Investing.com 한국어",
+      "outletUrl": "https://kr.investing.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "rebellions",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 30,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "[더테크 픽] AI 질문은 GPU, 답변은 국산 NPU…SKT·엔비디아·리벨리온 손잡았다 - 더테크",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hV3VpbUpHWXAwQmpkdmVFbENLWDhXNEJjVzRoYmZwSjNvZWtwdDFXSlVuTzYweUVmRWNscThaVDI3UUd2dExkbXlNbXFleDdGSkdFcUszMVJTcF9jN2NBT3ZNcw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:09:13 GMT",
+      "summary": "[더테크 픽] AI 질문은 GPU, 답변은 국산 NPU…SKT·엔비디아·리벨리온 손잡았다 &nbsp;&nbsp; 더테크",
+      "outlet": "더테크",
+      "outletUrl": "https://www.the-tech.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "rebellions",
+        "npu-commercialization",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 33,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "SKT, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발 협력 By EBN - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vSldTbWlXQzdPZ09JT1JldXhEU1U3aDdEekcxQkN2OU5XbUsxNkl5ZUE1bXZETnFkYm13QWNpVlNxaHRKeDlyRnkyaG9qUzlqX29WRTFqZ0E2WS02MnBCckxvblB1Yzd0YXJ3ZlAyM0w?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:09:00 GMT",
+      "summary": "SKT, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발 협력 By EBN &nbsp;&nbsp; Investing.com 한국어",
+      "outlet": "Investing.com 한국어",
+      "outletUrl": "https://kr.investing.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 30,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "리벨리온에 대해 설명하는 박성현 대표 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FdHRKclBFbzYtdjBrcUtQektYX0JTR296TVU4NlhoZGE0Rmp3MnZPSmpGVXNZTC1Icm85ckZPN0ZPXzlRUnRZVmZ0V2FET2Z4SlZ0bU1qWTJtbDc0?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:09:00 GMT",
+      "summary": "리벨리온에 대해 설명하는 박성현 대표 &nbsp;&nbsp; 뉴스핌",
+      "outlet": "뉴스핌",
+      "outletUrl": "https://www.newspim.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온"
+      ],
+      "issueCategory": "NPU",
+      "score": 15,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
+    {
+      "title": "발표하는 박성현 리벨리온 대표 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13YU9KTUE1dGJiQ1dxcGJLMm1UcHlwX3JVZzVBa2NnUnBtdGpRY21VNERFT0t3aHZHSkV6cTlRSTJUQkZLTWdoc0Z2UFVXN3JRT1Vvb1lzUGlmNE9t?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:09:00 GMT",
+      "summary": "발표하는 박성현 리벨리온 대표 &nbsp;&nbsp; 뉴스핌",
+      "outlet": "뉴스핌",
+      "outletUrl": "https://www.newspim.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온"
+      ],
+      "issueCategory": "NPU",
+      "score": 15,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
+    {
+      "title": "엔비디아-리벨리온-SKT, 소버린 AI 인프라 ‘맞손’…“NV링크 생태계에 국산 NPU 연결” - 아이티데일리",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04MFpuOU81YkJ4SGNibk9EMDZWcllKNzFrVWJuWlRLcEp1bUhEbFpIeEo3R3kwQTdxQTltczNNLTZKZHNoX1pUQ1BRcWNrZ21UREIxMk8tRmN5RXo0NEt3TmVoUWthQ3NV?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:08:03 GMT",
+      "summary": "엔비디아-리벨리온-SKT, 소버린 AI 인프라 ‘맞손’…“NV링크 생태계에 국산 NPU 연결” &nbsp;&nbsp; 아이티데일리",
+      "outlet": "아이티데일리",
+      "outletUrl": "https://www.itdaily.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "rebellions",
+        "npu-commercialization",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 33,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "SKT, 엔비디아·리벨리온과 소버린 AI 구축…GPU·NPU 통합 시스템 개발 - 비욘드포스트",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90RHM2SGV0VmdIYllFRm11bmRic2RpVDN4cDNNVDNrZXRpVzBDdGlUa1BzQ3RVcjJjcW5BeGJDUUwwYkdPcnQ2bWpOakNETkVhU29ES1dGT1Uwd2J4VjZwSERFQmFqaGRyTHVpN1R3cllMdUhmcVlGY2JlbkU?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:06:23 GMT",
+      "summary": "SKT, 엔비디아·리벨리온과 소버린 AI 구축…GPU·NPU 통합 시스템 개발 &nbsp;&nbsp; 비욘드포스트",
+      "outlet": "비욘드포스트",
+      "outletUrl": "https://www.beyondpost.co.kr",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions",
+        "msit-ai-chip",
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 30,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "Nvidia Crisis: 3 Ways It Hurts China More Than Helps [2026] - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRjdJbVc2UWZWMllfb3Yxcmp5aXJGZkJFU09xWlhfSUgtREFQajBNbFNmTUEtRksxdlZWc2tvS1VUcUJtcWtBa25fWmQzOFgzX1RSUC1BR01yNURTR0MzMmhnM0pIMFZ2dDQ5aktQT0ZnOVhqVjF1aEFxZzZreXVrT3RpZHJIdWpDdUU1R2RkUmxhQ2hhWWRR?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:06:23 GMT",
+      "summary": "Nvidia Crisis: 3 Ways It Hurts China More Than Helps [2026] &nbsp;&nbsp; https://tech-insider.org/",
+      "outlet": "https://tech-insider.org/",
+      "outletUrl": "https://tech-insider.org",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "수출통제·공급망",
+      "score": 18,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
+    {
+      "title": "SKT·리벨리온과 손잡은 엔비디아...한국형 소버린 AI 인프라 구축나서 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vb0dPWk14bnc3S21LZER3T18xZEdzTWJ0OVhNVWxXU2x6VHpYb2hvMzhGZ0RsVWpkZTFIZkswa2tnVjJlajltSjRiZTY2a3BXVWU0ZkxrNErSAVhBVV95cUxOb29HT1pNeG53N0ttS2REd09fMWRHc01idDlYTVVsV1NselR6WG9obzM4RmdEbFVqZGUxSGZLMGtrZ1YyZWo5bUo0YmU2NmtwV1VlNGZMazRK?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:06:19 GMT",
+      "summary": "SKT·리벨리온과 손잡은 엔비디아...한국형 소버린 AI 인프라 구축나서 &nbsp;&nbsp; 아주경제",
+      "outlet": "아주경제",
+      "outletUrl": "https://www.ajunews.com",
+      "source": "정부 NPU 정책·예산",
+      "sourceIds": [
+        "government-npu-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 27,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
+    {
+      "title": "SK텔레콤·엔비디아·리벨리온, 한국형 AI 인프라 구축 협력 - 뉴스퀘스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5c0EtQXh6VmFsekxzQldOQ3JncFBEVTdDZEdQaEE0bC1HWFdpSzdUR3RLQkpUSnFXTmRnWm0yNTVfVHdRN2lkMXhGY2h3a0taQndadUo2SzhUUXFydFZaeUxIUjFUcGR3WjVpbmprYw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:06:04 GMT",
+      "summary": "SK텔레콤·엔비디아·리벨리온, 한국형 AI 인프라 구축 협력 &nbsp;&nbsp; 뉴스퀘스트",
+      "outlet": "뉴스퀘스트",
+      "outletUrl": "https://www.newsquest.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 27,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
+    {
+      "title": "엔비디아 덮친 '젠슨 황 리스크'…韓 반도체·AI 업계 파장 촉각 - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNLWZOcm4zZmZYTTAxNFFfaEVpS0ZnNzVqVHUwOUtseG9wakFQV3d5TWx6N3dzZFJqT2ROb0lRekdNX1NxUlFmNENOQVlqSmhTMnowN1N1UjN4SXAtcHlvS1JDLWpHbGNVSEZwNmVidWRxYndzb3RUMm9zTjEyVjhoU210aG82MU91TGJRVVptYTVLeXdnZ0FmZVlTcXZUX1d3QkxHZ0dlZkl4YVhPSG9xaEFhR2RiaWpjT1FlQ0JnWFhsMG9XZ1ZaMDhBNXVGeWNyYTNPVGYyNXdEN3FDQi0yaWF0R1hibVRSTTNsN1h2cmlZQk13LW9Mb1BJeHhSakdUaHdHSFJmOU5KNWpVMEFvM2JvdlhnOU1U?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:06:00 GMT",
+      "summary": "엔비디아 덮친 '젠슨 황 리스크'…韓 반도체·AI 업계 파장 촉각 &nbsp;&nbsp; 데일리안",
+      "outlet": "데일리안",
+      "outletUrl": "https://www.dailian.co.kr",
+      "source": "글로벌 기업·한국 반도체 협력",
+      "sourceIds": [
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:07:37.377Z"
+    },
+    {
+      "title": "SKT·엔비디아·리벨리온, GPU·NPU 결합한 한국형 소버린 AI 인프라 개발…AI 추론 성능·전력 효율 높인다 - 인공지능신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00bkxtRGdjOGF1OTdPR0x3MnlicHZaRmNja2plR2dNYWg3WG5OTFFNSmlqTk41WG93WnhlTjkxa2p0MXJHRmxRTHpoMUlfdkFpeXpnTUlwd1BIQlRzbzhFTkFNVHRJZTg?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:05:25 GMT",
+      "summary": "SKT·엔비디아·리벨리온, GPU·NPU 결합한 한국형 소버린 AI 인프라 개발…AI 추론 성능·전력 효율 높인다 &nbsp;&nbsp; 인공지능신문",
+      "outlet": "인공지능신문",
+      "outletUrl": "https://www.aitimes.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "rebellions",
+        "korea-ai-market",
+        "npu-commercialization",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "추론",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 33,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "미국 중간선거 민주당 승리는 \"중국에 기회\" 평가도 나와, AI 데이터센터 투자 위축 리스크 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRR3JubnhWSWI4Qm43MHhib25vSXdLZ3BESHM1dDM2aXU4cXJQbENxUURsX29SVUgyeHNvZUpQQ1lidnBQV3R0WHVCcVljQzBGZEcxM01DaTVkMXBybVR2ZDhsTnJ2WjVObjVNODFJZ3c3aDg?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:05:23 GMT",
+      "summary": "미국 중간선거 민주당 승리는 \"중국에 기회\" 평가도 나와, AI 데이터센터 투자 위축 리스크 &nbsp;&nbsp; 비즈니스포스트",
+      "outlet": "비즈니스포스트",
+      "outletUrl": "https://www.businesspost.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:07:37.377Z"
+    },
+    {
+      "title": "미국 중간선거 민주당 승리는 \"중국에 기회\" 평가도 나와, 미국 AI 데이터센터 투자 위축 리스크 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRR3JubnhWSWI4Qm43MHhib25vSXdLZ3BESHM1dDM2aXU4cXJQbENxUURsX29SVUgyeHNvZUpQQ1lidnBQV3R0WHVCcVljQzBGZEcxM01DaTVkMXBybVR2ZDhsTnJ2WjVObjVNODFJZ3c3aDg?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:05:23 GMT",
+      "summary": "미국 중간선거 민주당 승리는 \"중국에 기회\" 평가도 나와, 미국 AI 데이터센터 투자 위축 리스크 &nbsp;&nbsp; 비즈니스포스트",
+      "outlet": "비즈니스포스트",
+      "outletUrl": "https://www.businesspost.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-11-09T12:46:06.088Z",
+      "lastSeenAt": "2026-11-10T04:20:56.793Z"
+    },
+    {
+      "title": "LIS Technologies Co-Founder Shares How the Next AI Infrastructure Investment May Be Hidden in the Nuclear Fuel Cycle - Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRkFlMEZLTGQwRkhiWExIMVg1Xy1keUhMSlNld1ZuUXRfQjJRQThXbnpTMWxZTkZvd0o5dkE3cWtfbTEyUWRvckxrdFFqd0NCTXEyb201aVJMeG5FZmFjSWVzdVM5RGlkaXlpQ2tzaWwybDZnUElkX0N4UmI1bDhIWVJrZkZjd1NBZEs0cU5FcHpZXzVMTGtDQml6SEJXTTh3VG50aVdmMTRrQVo0azhWMUdUSVVwdHdwR2pXbzVlQmhXSTE3MUt0WDQzTmQzcGZCZjNaZGVlU3FnRU5jR01kcHRPYXhkMlJjN1lv?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:05:14 GMT",
+      "summary": "LIS Technologies Co-Founder Shares How the Next AI Infrastructure Investment May Be Hidden in the Nuclear Fuel Cycle &nbsp;&nbsp; Technology Org",
+      "outlet": "Technology Org",
+      "outletUrl": "https://www.technology.org",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-10T08:21:30.515Z"
+    },
+    {
+      "title": "ETRI \"AI 비전문가용 개발도구 '탱고', 산업 현장에 확산\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tNzZSUGpnNzBqTkFoMVpuWlJfdzF1czdkOTJWRDNKQ1VFY3hGaXo1VVJtM1k3RDkwM0tydk5INF84N1MydDN6ZDZHTUF6UzhIYnlmemhTQkkwTEx6OVJMMXQwUkQ0SnQwd2F3YUQ5dFJEOC1adFNVYtIBeEFVX3lxTE0tNzZSUGpnNzBqTkFoMVpuWlJfdzF1czdkOTJWRDNKQ1VFY3hGaXo1VVJtM1k3RDkwM0tydk5INF84N1MydDN6ZDZHTUF6UzhIYnlmemhTQkkwTEx6OVJMMXQwUkQ0SnQwd2F3YUQ5dFJEOC1adFNVYg?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:05:14 GMT",
+      "summary": "ETRI \"AI 비전문가용 개발도구 '탱고', 산업 현장에 확산\" &nbsp;&nbsp; 뉴시스",
       "outlet": "뉴시스",
-      "outletUrl": "https://www.newsis.com",
+      "outletUrl": "https://mobile.newsis.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T01:54:03.553Z"
+    },
+    {
+      "title": "이형일 \"美중간선거 이후 데이터센터 투자, 상황 지켜봐야\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCWTZIRk5mQWJMaXl4azN1THMxb0tmaHlJNWF5MElMamdjLTJFUGhuRzZfUmw4SzUtZjZWV1EzcEotV05MbG1UX0R5Ny1ldkFVdUJSeWdfdm1JQXBKejBSUtIBYEFVX3lxTFBCWTZIRk5mQWJMaXl4azN1THMxb0tmaHlJNWF5MElMamdjLTJFUGhuRzZfUmw4SzUtZjZWV1EzcEotV05MbG1UX0R5Ny1ldkFVdUJSeWdfdm1JQXBKejBSUg?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:05:07 GMT",
+      "summary": "이형일 \"美중간선거 이후 데이터센터 투자, 상황 지켜봐야\" &nbsp;&nbsp; 연합뉴스",
+      "outlet": "연합뉴스",
+      "outletUrl": "https://www.yna.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 14,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T06:56:02.508Z"
+    },
+    {
+      "title": "엔비디아, 韓 기업과 손잡고 '피지컬 AI' 협력 가속 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hbzg1N3VKU05vUEdvQTlad3JuckZ5dTVpU2Flc3pNd2czV0pQa2ZPV1JISUZrSkRuVHB6UF9VeEpvMmJ1WW5nY2s1LUtYak10OUxTVEZZT1lrZ2NYWmFpZEdtb3M?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:05:03 GMT",
+      "summary": "엔비디아, 韓 기업과 손잡고 '피지컬 AI' 협력 가속 &nbsp;&nbsp; 매일일보",
+      "outlet": "매일일보",
+      "outletUrl": "https://www.m-i.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
+    {
+      "title": "엔비디아-SKT-리벨리온, 3자 MOU 체결 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FY09haHN1cGNZc1hMWG9CdDFWTzZHUlVVMWdRZEFrY245ZjJpWHJUbkplSmhjS1RQSFFlNVNKRUNWMjBOOUxsUWtLTTVJSTFmMUptc2ViOGppVWNH?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:05:00 GMT",
+      "summary": "엔비디아-SKT-리벨리온, 3자 MOU 체결 &nbsp;&nbsp; 뉴스핌",
+      "outlet": "뉴스핌",
+      "outletUrl": "https://www.newspim.com",
       "source": "국내 NPU 기업",
       "sourceIds": [
         "korea-npu"
@@ -94,16 +972,136 @@
       ],
       "issueCategory": "NPU",
       "score": 22,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
       "lastSeenAt": "2026-11-09T22:58:16.912Z"
     },
     {
-      "title": "광주특별시 조선일보 호남반도체 클러스터 왜곡보도 법적 대응 - 아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JT0YyZERwSXB3c0NVSzVsSUgyazIwWEVtcGYxdzJ6Q0lKOHJtM0lHOWtQbnR6eDk1MDhxcUZBTWxaUDZMcmZSVXQ5YjR6ckduVjZOUWY3bF9yd9IBWEFVX3lxTFBwdkxyV2hMNTNWTGoybThHbE4xZnhqdlNNSzdyeWVOcWFuTmR0S0JNTnkwVTduV1YyRVgtRE83S0lienU0TmVlV01fR2phTmoxWlFOZnVJYzE?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:16:25 GMT",
-      "summary": "광주특별시 조선일보 호남반도체 클러스터 왜곡보도 법적 대응 &nbsp;&nbsp; 아주경제",
-      "outlet": "아주경제",
-      "outletUrl": "https://www.ajunews.com",
+      "title": "SK텔레콤, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발…소버린 AI 인프라 구축 - 시사캐스트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HOHkxUkJtOXN3OXdaMWpUODVKWmNhYWFmSjBHenFlTkF0QWZBUFVOVElTRzV0NFgyRkpXQnhIakVjMlhKazV4OTZqenFCTlRfWGVSbkVQZHA5ZE5rTUg5ektucjhfbUxs?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:04:55 GMT",
+      "summary": "SK텔레콤, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발…소버린 AI 인프라 구축 &nbsp;&nbsp; 시사캐스트",
+      "outlet": "시사캐스트",
+      "outletUrl": "http://www.sisacast.kr",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 30,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:07:37.377Z"
+    },
+    {
+      "title": "이상일 용인특례시장, “국가산단 공사 관련 시민 불편 최소화하도록 철저한 대책 마련할 것” - www.skedaily.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12V0F3Z2cwbHViYkJ4WVQ5U1YwczZ2QlIxcFdPSFdKTEI3R1h3VzNKVTR6RkFlaHUyeS1SLWhzY3l4SnY3ZkRsYTg3MS1VLU5RX3pzdHNfLUU0OG9Ia2hVVkdPWmR6YXdXTHc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:04:19 GMT",
+      "summary": "이상일 용인특례시장, “국가산단 공사 관련 시민 불편 최소화하도록 철저한 대책 마련할 것” &nbsp;&nbsp; www.skedaily.com",
+      "outlet": "www.skedaily.com",
+      "outletUrl": "https://www.skedaily.com",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 8,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-10T12:59:31.488Z"
+    },
+    {
+      "title": "젠슨 황 리스크에 엔비디아 ‘침묵’…매디슨 황 방한 취소, 한국 AI 협력 영향 촉각 - www.sisaworld.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TM3FEMHprUjllRUhzdGE5a3Y5Z2xGQ19zZXFfOG9qM3RVTHZZSTQxaHlpeS04VW9UNV9BOW5TZGV5OHFJemNGMFpaUjFiQld1RjVHOWxaeVFlM1MzcW4wdUV6RkpWTGdUU2c?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:04:16 GMT",
+      "summary": "젠슨 황 리스크에 엔비디아 ‘침묵’…매디슨 황 방한 취소, 한국 AI 협력 영향 촉각 &nbsp;&nbsp; www.sisaworld.kr",
+      "outlet": "www.sisaworld.kr",
+      "outletUrl": "https://www.sisaworld.kr",
+      "source": "글로벌 기업·한국 반도체 협력",
+      "sourceIds": [
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T20:09:42.287Z"
+    },
+    {
+      "title": "국산 NPU, 엔비디아와 연계해 글로벌 AI 인프라 시장 진출 본격화 - 피디언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94Wk5uSlEzaDItTFJUZ2FuTjl3ZElEX2tqbmpEbzBBT2tyU0laekp0RmlMZ09NU3pQVXl1YWZXeU1YTmtvdDlOdUVwMWYtSE5hNG1Pc2ZDNFlqTjdG?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:03:41 GMT",
+      "summary": "국산 NPU, 엔비디아와 연계해 글로벌 AI 인프라 시장 진출 본격화 &nbsp;&nbsp; 피디언뉴스",
+      "outlet": "피디언뉴스",
+      "outletUrl": "https://www.pedien.com",
+      "source": "과기정통부 AI반도체",
+      "sourceIds": [
+        "msit-ai-chip"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 25,
+      "firstSeenAt": "2026-11-10T07:37:39.463Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "South Korea sees robust AI investment despite US midterms, market concerns - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLXdGTUtSREtVQ0pWLW10SnZMRTd4MEQ0Nkw5amU4MUZ0NGIyUllYNXFsa2tydjhPM1g2cV9sSlpYQWFPQ0VHOWIyazNaSk93U0NfV0lJSE1Va294cE43VEtUdzVzcGF5VTNZR0xURWNuVzdIbnk3X2lNYmJrMVp2NUlZdFZqU0ZPNHZlMldsQm5PVlNCdVp0NkxXWTlSZ3JmTk82MDJYRV9LMkhGSWRLRDdDc1NKUXViTkE5T1BRa1VLeU91?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:02:19 GMT",
+      "summary": "South Korea sees robust AI investment despite US midterms, market concerns &nbsp;&nbsp; marketscreener.com",
+      "outlet": "marketscreener.com",
+      "outletUrl": "https://www.marketscreener.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T22:46:16.173Z"
+    },
+    {
+      "title": "배미경 전남광주 대변인, '호남 반도체 6조 심의·용수 부족' 보도 정면 반박 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RcVpnbm1vZ2NnMENSSUs2blRyTzFWS1RmUXdOSGFtMWsweDBMLVVRNHZtWnA5X0lISDFUY0R3VFFHd3E4cF9uSVQtZTlEZzg2azNhNnFQbzNtZGd2UTRuMFFDU0xPMlVm?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:01:09 GMT",
+      "summary": "배미경 전남광주 대변인, '호남 반도체 6조 심의·용수 부족' 보도 정면 반박 &nbsp;&nbsp; 녹색경제신문",
+      "outlet": "녹색경제신문",
+      "outletUrl": "https://www.greened.kr",
       "source": "반도체 클러스터·정책 실행",
       "sourceIds": [
         "semiconductor-cluster-execution"
@@ -114,21 +1112,114 @@
       "taxonomyHits": [],
       "issueCategory": "",
       "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T00:54:30.056Z"
+    },
+    {
+      "title": "광주특별시 “서남권 반도체클러스터 왜곡·폄훼 중단하라” - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sZkJnclAxMXBlOW9TNVNHZ0N1bzRjMU42WDRnb2d5b3A4blZFalFTQnlhSFBVamhqZUlVTVZXVDc1cVNWMldqWUJ2UjdYVldrU3FHcFhjenV1M19xMUtr?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:01:05 GMT",
+      "summary": "광주특별시 “서남권 반도체클러스터 왜곡·폄훼 중단하라” &nbsp;&nbsp; MTN 머니투데이방송",
+      "outlet": "MTN 머니투데이방송",
+      "outletUrl": "https://news.mtn.co.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-10T17:43:20.720Z"
+    },
+    {
+      "title": "DeepSeek’s AI agent push gains speed as Harness tops 1.5 million daily users - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUlFWGhzSVJHVWJFNG5qVno4Y2pKR3RHWGU4dmU2YjNDUHFoaDFESWtDai1CTW5BQWI3Y3VZZ0ZReURjU2thNktuRXRZWFJhUWhqSVM2ZGNSTUMzRVNxbWdGbTJHWlIzZzhDUHhBaDdHVzhIWVVjQko5UXN4WDJ2SmFNVk5EaE5aLThZY1dIRlB6VDFxc3N5a19uZ0JEQnBaZlhzRGFlVzNPTG14Qi1mYTJCOWtlVHVNakI0UlljUWU?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:00:04 GMT",
+      "summary": "DeepSeek’s AI agent push gains speed as Harness tops 1.5 million daily users &nbsp;&nbsp; South China Morning Post",
+      "outlet": "South China Morning Post",
+      "outletUrl": "https://www.scmp.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 19,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
+    {
+      "title": "[영상] AI 반도체 승부수 된 '패키징'…엔비디아가 찍은 '이 기업' - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wQ1M2MExLNng0VEJITElkaXpNX0pSdFpBOVVGUlZYSnY4cGE4V18yeVQ3VGh0Zk1TZnpreV8tVktzOVk4SDJGelFuNWZPRHlDYWhVVnhER1JDelFIRnc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:00:00 GMT",
+      "summary": "[영상] AI 반도체 승부수 된 '패키징'…엔비디아가 찍은 '이 기업' &nbsp;&nbsp; 더구루",
+      "outlet": "더구루",
+      "outletUrl": "https://theguru.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "파운드리·패키징"
+      ],
+      "issueCategory": "파운드리·패키징",
+      "score": 23,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "Oppenheimer, 데이터센터 성장에 AMD 투자의견 상향 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wSWRqOTdpdmNkalo2M1FvSzhCYi1jNi1IRTZlX1h4SFNDNUxVenRfeG02bDY3MFk3UklwdUV6dUVzNGdCSlV4clZZR1MxaW4yQ2FyVkpocDgtcnI1OVlGODUzUWVaSjVmQTlUX0pYM3hNbDV6?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 07:00:00 GMT",
+      "summary": "Oppenheimer, 데이터센터 성장에 AMD 투자의견 상향 &nbsp;&nbsp; Investing.com 한국어",
+      "outlet": "Investing.com 한국어",
+      "outletUrl": "https://kr.investing.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "AMD"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 18,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
       "lastSeenAt": "2026-11-10T04:20:56.793Z"
     },
     {
-      "title": "엔비디아, \"리벨리온·SKT와 한국 소버린 AI 인프라 고도화 나선다\" - 캐드앤그래픽스",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTJPcmNNR0U1WWNQeDd0WEs1WnJtSFUzcXJNaHgyUWdiTDhZTXJWZTBWRm5PTEJjRzZWVjZZaEdkaWxmUWwybXE4V1RuWTZlRjdDRFg5eW1TbFAwY0ZteDlXRDdhNWlmZFJmbHROLWpuM3gySkVNMF9DRVM1eTZfZVhOQmxxWEJNeldRWmpB?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:15:47 GMT",
-      "summary": "엔비디아, \"리벨리온·SKT와 한국 소버린 AI 인프라 고도화 나선다\" &nbsp;&nbsp; 캐드앤그래픽스",
-      "outlet": "캐드앤그래픽스",
-      "outletUrl": "https://www.cadgraphics.co.kr",
-      "source": "해외 빅테크 국내 보도",
+      "title": "\"한국, AI 토큰 수출국으로\"…엔비디아·SKT·리벨리온 손잡았다(종합) - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LZHN6d0tMNzcyenBiRl96d01rbl9PTmpYU3kxS3I4S1A1VlM2SWdUc2U3czBqU29xd3VmWmZ2MEl3NzlaYU8zS0Y5ZzJWakY1UmNTS1MzLUhoTHB4WVJjemQzU1h4LTZsZVhJLdIBbEFVX3lxTE9LZHN6d0tMNzcyenBiRl96d01rbl9PTmpYU3kxS3I4S1A1VlM2SWdUc2U3czBqU29xd3VmWmZ2MEl3NzlaYU8zS0Y5ZzJWakY1UmNTS1MzLUhoTHB4WVJjemQzU1h4LTZsZVhJLQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:58:51 GMT",
+      "summary": "\"한국, AI 토큰 수출국으로\"…엔비디아·SKT·리벨리온 손잡았다(종합) - 머니투데이 &nbsp;&nbsp; 머니투데이",
+      "outlet": "머니투데이",
+      "outletUrl": "https://www.mt.co.kr",
+      "source": "국내 NPU 기업",
       "sourceIds": [
-        "korea-global-ai-companies",
         "korea-npu",
-        "korea-global-chip-cooperation"
+        "rebellions",
+        "msit-ai-chip"
       ],
       "sourceLang": "ko",
       "region": "domestic",
@@ -142,21 +1233,24 @@
       ],
       "issueCategory": "NPU",
       "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
     },
     {
-      "title": "SK텔레콤, 엔비디아·리벨리온과 손잡았다…한국형 AI 인프라 구축 본격화 - 리드경제",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZk9PN1JlVG5hNjRwUzJsWEZTSTJHT3pmRWtUX1doNmpuVm9DS1JUeGE3VzVpdjUtYS1FTlRsR2JYZnNIb05UTThUaFNrVWxkZ3hPb0pGV0RHTUZ3RXI1N2RISDE5RXF2WjE4UXlKMEs?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:15:25 GMT",
-      "summary": "SK텔레콤, 엔비디아·리벨리온과 손잡았다…한국형 AI 인프라 구축 본격화 &nbsp;&nbsp; 리드경제",
-      "outlet": "리드경제",
-      "outletUrl": "https://www.leadeconomy.co.kr",
+      "title": "엔비디아·SKT·리벨리온 손잡았다…국산 AI 반도체 해외 진출 모색 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuTUNlZ2gxS1p1LWN5Smc0YVRHQWxrNENsSXlZWGszaTNHSnlXUVJVbDJyQW1oZ0RvSTFpX21JWWVGSGVxVlphOGxlWVVKOWFIeDlNWFBGOG5fSENPTGFzY1lKLWhTd9IBZkFVX3lxTFBuTUNlZ2gxS1p1LWN5Smc0YVRHQWxrNENsSXlZWGszaTNHSnlXUVJVbDJyQW1oZ0RvSTFpX21JWWVGSGVxVlphOGxlWVVKOWFIeDlNWFBGOG5fSENPTGFzY1lKLWhTdw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:58:14 GMT",
+      "summary": "엔비디아·SKT·리벨리온 손잡았다…국산 AI 반도체 해외 진출 모색 &nbsp;&nbsp; 동아일보",
+      "outlet": "동아일보",
+      "outletUrl": "https://www.donga.com",
       "source": "해외 빅테크 국내 보도",
       "sourceIds": [
         "korea-global-ai-companies",
         "korea-npu",
         "rebellions",
+        "msit-ai-chip",
+        "ai-chip-public-program",
+        "npu-commercialization",
         "korea-global-chip-cooperation"
       ],
       "sourceLang": "ko",
@@ -171,233 +1265,43 @@
       ],
       "issueCategory": "NPU",
       "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
     },
     {
-      "title": "美민주당 AI 규제 땐 중국 반사이익…\"추월할 기회\" - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmxpOXYzZW5DUDRydzFxSDZ4MktXV1RiSXpwa2dwamEyWm1qeGtGQ25WOEdVLTE3VHBVVGhoaGdtMlEwakEwOGROZnVDamFpUUNIcy1jc2gzY2NNQ2tuNjlCcXc2aFFaTk4tQklwVnhTYzdpR1ozOFMxbE9qcXQtWg?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:14:39 GMT",
-      "summary": "美민주당 AI 규제 땐 중국 반사이익…\"추월할 기회\" &nbsp;&nbsp; 이데일리",
-      "outlet": "이데일리",
-      "outletUrl": "https://www.edaily.co.kr",
-      "source": "국내 AI 정책",
+      "title": "젠슨 황 리더십 논란 속 서울 AI 데이…엔비디아는 답변 피해 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QR1lXcHFnRlVjVnZ1NzhVWldkLXVtdl9WRWVuMTRTa3J3am54SEZ6MEI4V2NyMElGZEx1M1hqY0RnVzRWYXlENERlNDJpR2VuWGg2aE5EX1BJR0FtRXRHbtIBYEFVX3lxTE1QR1lXcHFnRlVjVnZ1NzhVWldkLXVtdl9WRWVuMTRTa3J3am54SEZ6MEI4V2NyMElGZEx1M1hqY0RnVzRWYXlENERlNDJpR2VuWGg2aE5EX1BJR0FtRXRHbg?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:57:50 GMT",
+      "summary": "젠슨 황 리더십 논란 속 서울 AI 데이…엔비디아는 답변 피해 &nbsp;&nbsp; 연합뉴스",
+      "outlet": "연합뉴스",
+      "outletUrl": "https://www.yna.co.kr",
+      "source": "해외 빅테크 국내 보도",
       "sourceIds": [
-        "korea-ai-policy"
+        "korea-global-ai-companies"
       ],
       "sourceLang": "ko",
       "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-10T04:20:56.793Z"
-    },
-    {
-      "title": "“From Launching an AI App to Starting a Social Venture” ...A New Chapter in Life for Seoulites in Their 40s and 50s, All in One Place - 더글로벌기빙뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WdGtnMFRoSzFKclFLMnhYaHZQRnJUMWdqMnpTdlNIX05yV0NEMUFtbkNEaDBsWmZKQXY1ZnN1eVdTRnVlOGZWdy1JeHQ1UnlvRnZudQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:14:00 GMT",
-      "summary": "“From Launching an AI App to Starting a Social Venture” ...A New Chapter in Life for Seoulites in Their 40s and 50s, All in One Place &nbsp;&nbsp; 더글로벌기빙뉴스",
-      "outlet": "더글로벌기빙뉴스",
-      "outletUrl": "https://theggnews.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
+      "companyHits": [
+        "NVIDIA"
       ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-11-09T22:46:16.173Z",
-      "lastSeenAt": "2026-11-10T12:59:31.488Z"
-    },
-    {
-      "title": "APPN Q3 2026 deep dive: AI adoption and platform modernization drive outperformance - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1ozYmJSVVp6QUNOM2RCQjA2RDBwajFJZ3dQek91U3dZRlk5bnk5Qlk1RDRvWEk0WVcyMjlUYlJ6ei1yY3ZrWTgyVWtjMzlBOHlOTXdhZFptMzFJWlcxLTI0ZjI1Zm40VU1yNGJOVzJHbk0zbEtqZGxXblJnYU1VYzhWZVF5dEYtcElVRERMUQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:13:00 GMT",
-      "summary": "APPN Q3 2026 deep dive: AI adoption and platform modernization drive outperformance &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
       "taxonomyHits": [
-        "AI시장"
+        "NVIDIA"
       ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-09T22:46:16.173Z",
-      "lastSeenAt": "2026-11-10T04:20:56.793Z"
-    },
-    {
-      "title": "美 빅테크 AI 투자 속도가 韓 HBM 수출 좌우…'G제로' 경고 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiV0poZG9sbFl3YXBYQ0FZRkRUamlOWUdyRk1hUzhMeFVwUzE4d3VvZGtKWl81RGdFekxRS1JudThCR0plS3ozSGs4UjMxYmI0dmFqNTRQeDFzUQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:12:25 GMT",
-      "summary": "美 빅테크 AI 투자 속도가 韓 HBM 수출 좌우…'G제로' 경고 &nbsp;&nbsp; 파이낸셜뉴스",
-      "outlet": "파이낸셜뉴스",
-      "outletUrl": "https://www.fnnews.com",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T01:54:03.553Z"
-    },
-    {
-      "title": "서울시, 독일 헨켈 반도체 R&D센터 유치 - 스마트비즈",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cWREeGNQWldjLXJSTXZ2QVl2NENKVWZDakpCNUVzemVuaDZtenZPZTBaNXhsU2xrOWlOeXBZSTQyTlF0SjYzMy1Uelk0b090emF2cVo1SW5XcjBpWEdoZHVKWXd5S0pDLXZVMg?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:11:42 GMT",
-      "summary": "서울시, 독일 헨켈 반도체 R&D센터 유치 &nbsp;&nbsp; 스마트비즈",
-      "outlet": "스마트비즈",
-      "outletUrl": "https://www.smartbizn.com",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "전남광주통합특별시의회 노진성 의원 \"한 번의 지적은 실수, 반복된 지적은 책임\",광주환경공단 계약 관리 질타 - 누리일보",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83cTNxZEFQTDItQU4xY0stVTZ1aGo1RlVVeWJWYktQc2ZIbUhMdDk3SDVQMmJHRjkxemFITm1QQ01uSUMwaURpSlBfd2JqM3IwQWo1cy1HTy1QbzFl?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:11:25 GMT",
-      "summary": "전남광주통합특별시의회 노진성 의원 \"한 번의 지적은 실수, 반복된 지적은 책임\",광주환경공단 계약 관리 질타 &nbsp;&nbsp; 누리일보",
-      "outlet": "누리일보",
-      "outletUrl": "https://nuriilbo.com",
-      "source": "지자체 NPU 정책·사업",
-      "sourceIds": [
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "임종국 전남광주통합특별시의원, “광주 상수도 182억 들여 물 사오고 118억 땅속에 흘려보내” - 전남투데이",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Xamc0NFY0aFU0dkpZQml2aFVyV1RmZm5xU0VYY2VxdEREZVU1VzJQTkIxZHRESkdCWFI0WU1KNFNTX1RuVWpYOTN0b0VsV2hocG5faE50ZEE0Z2VKMmhncE41UQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:10:37 GMT",
-      "summary": "임종국 전남광주통합특별시의원, “광주 상수도 182억 들여 물 사오고 118억 땅속에 흘려보내” &nbsp;&nbsp; 전남투데이",
-      "outlet": "전남투데이",
-      "outletUrl": "https://www.jntoday.co.kr",
-      "source": "지자체 NPU 정책·사업",
-      "sourceIds": [
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
       "lastSeenAt": "2026-11-09T22:58:16.912Z"
     },
     {
-      "title": "US Market Week Ahead: October CPI and AI Earnings in Focus - Gotrade",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IV3Bia1U3V3dTYlpZdUJVZmtEakM0U1pHX2s2SS1tVy00NF9MTnJmZTVFaXBPa0hPa3ZXMTd4SHd1NmFOVHlUa1Y1YUFvNDVEVDFHeGNYZ0FMbFctU1FTNUJOcFVxZ21ENzBKbVAtUFdPREJhTkRoWjJ3?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:10:00 GMT",
-      "summary": "US Market Week Ahead: October CPI and AI Earnings in Focus &nbsp;&nbsp; Gotrade",
-      "outlet": "Gotrade",
-      "outletUrl": "https://www.heygotrade.com",
-      "source": "AI 투자·자본시장",
+      "title": "SKT·엔비디아·리벨리온, GPU·NPU 결합한 소버린 AI 인프라 개발 - 이로운넷",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxLXRoZ0VJRWxkWmxPNHlKV3lGa0pld2dfUDU3TnFqV0FEa2VUM2dzNW8ta1FlV2NqQ3J3cGJ5SFBSQlFoSnhTUlFnX1dEYmcwQ3dPcVc4V05OQ2c5aDJIdUJEc0JBUQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:57:43 GMT",
+      "summary": "SKT·엔비디아·리벨리온, GPU·NPU 결합한 소버린 AI 인프라 개발 &nbsp;&nbsp; 이로운넷",
+      "outlet": "이로운넷",
+      "outletUrl": "https://www.eroun.net",
+      "source": "해외 빅테크 국내 보도",
       "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-09T12:07:37.377Z",
-      "lastSeenAt": "2026-11-10T04:20:56.793Z"
-    },
-    {
-      "title": "AI 데이터센터 랙당 300㎾ 대응…전력·냉각 바뀐다 - 애플경제",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXeFZrTHVFUkxMa1UxdlhhemlpZzJlWElONFRCbjgtc2FEMWJqMWpoU2pCTDdEeDRaNk9BQlEzTzZ5ay1LaXJfaFVBNGllcFZyZHA1U3RaX0xoTjBvanlaOFFJVnB2WUNV?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:10:00 GMT",
-      "summary": "AI 데이터센터 랙당 300㎾ 대응…전력·냉각 바뀐다 &nbsp;&nbsp; 애플경제",
-      "outlet": "애플경제",
-      "outletUrl": "http://www.applen.or.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-11-09T12:07:37.377Z",
-      "lastSeenAt": "2026-11-09T12:07:37.377Z"
-    },
-    {
-      "title": "Nvidia, Rebellions and SK Telecom partner on Korea AI systems - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3pha1llSFhtN2JGdjZTbl9DX1pUR29qZTJyUmZscVNjMVFEMUxRUXVOQzRpSkhSMWlaSXJPQk5GUFZjNm8yN0g1Zkk0UjdiNG85YWdnWEhnZVQwbDNKX09ZTTlpZ2hCdTlzTGc2eU9RZlRocHF3N2dZeWZEa2VnNWc5Q0I1Y0E0MUEtNmdaeWktTXZ4M1NpTTVna21QaU9FX3A4c0o5YWdJM195cjN0NzhBUG0xQmpHNlJWOFpKZw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:09:06 GMT",
-      "summary": "Nvidia, Rebellions and SK Telecom partner on Korea AI systems &nbsp;&nbsp; Investing.com",
-      "outlet": "Investing.com",
-      "outletUrl": "https://www.investing.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "SKT, 엔비디아·리벨리온과 풀스택 소버린 AI 강화…GPU·NPU 개발 MOU - 컨슈머타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBENjBhV2FaMGZFWUgtUE5BVUJtNk5EZ3d6VHl1NndXZ3hmVndMLVFIdkQ5emQyb21seVd2d2EtZk43a1Z1WjlpbDh3LXJONDB1ZndPWWxNcy1qZXZ3VVVLdFJVSU5vdnM4Mmc?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:08:57 GMT",
-      "summary": "SKT, 엔비디아·리벨리온과 풀스택 소버린 AI 강화…GPU·NPU 개발 MOU &nbsp;&nbsp; 컨슈머타임스",
-      "outlet": "컨슈머타임스",
-      "outletUrl": "https://www.cstimes.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
+        "korea-global-ai-companies",
         "korea-npu",
         "rebellions"
       ],
@@ -414,16 +1318,315 @@
       ],
       "issueCategory": "NPU",
       "score": 30,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
     },
     {
-      "title": "엔비디아, 한국 AI 모델 추론 성능 최대 2배 높인다…다이나모 배포 레시피 공개 - 뉴스탭",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VZk0xa2lfbENPRDRIaGk1X0g4VXJOLVRCOVRCVDFDM2lpNlVqOEZ6RnRTRkxENFRFQjlWaDFZZnlGTjdLM2NDX2ZMZFQyU3FGQ3VJSU5QTHl0SEZVbWgyOTlvVjF3X3NQZ3pWag?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:08:56 GMT",
-      "summary": "엔비디아, 한국 AI 모델 추론 성능 최대 2배 높인다…다이나모 배포 레시피 공개 &nbsp;&nbsp; 뉴스탭",
-      "outlet": "뉴스탭",
-      "outletUrl": "https://www.newstap.co.kr",
+      "title": "SoftBank's cloud and AI revenue jumps 37% as first-half group sales rise 11.7% - Telecompaper",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSlRCNWREanFoWUNjUFo3MFlETU5xZU9XNE5faDhBeThmaTI3cGYxVHJocUozUm5XaVhVN3J5Q0lsckN3RU42dW54ZjJkMi1TaXluZVEzSy1NRW9HVE5wZjJZMlo2WmtBTTE5QlcwZmxRdkJ3ZDBVZTg1R1NQRFNkREtObGJuSFE3ZUZJZjZvazZuc1Z5OGI2M01nbVNOWjdUNlBuWVBldTV3TVB3cV9NaUZTS25zM0l6?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:57:36 GMT",
+      "summary": "SoftBank's cloud and AI revenue jumps 37% as first-half group sales rise 11.7% &nbsp;&nbsp; Telecompaper",
+      "outlet": "Telecompaper",
+      "outletUrl": "https://www.telecompaper.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "AI인프라"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
+    {
+      "title": "SKT, 엔비디아·리벨리온과 손잡고 소버린 AI 인프라 구축 - 중소기업신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJZjJDV1QxXzZTa1RLYzV3ajd5Uk1ueVo5VHkwelNkeXNvTnJCaktiUXhoSUxneG5ackpBbzk0T1J2ZkJGb3hDeUJnM1N2ZW9PNVUteTlPMldDT0FFaUhMUzlEQlFGZUZRT09BSg?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:57:33 GMT",
+      "summary": "SKT, 엔비디아·리벨리온과 손잡고 소버린 AI 인프라 구축 &nbsp;&nbsp; 중소기업신문",
+      "outlet": "중소기업신문",
+      "outletUrl": "http://www.smedaily.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 27,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
+    {
+      "title": "SKT·엔비디아·리벨리온, 한국형 소버린 AI 구축 '삼각편대' | - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByNlNWd1ZNSUV3dGpSS0REWC1Sc0piV2J3bU0tSHd3N2g1bUFLclpvNzJsd2xoMnhaSURIVHNOZGFpN2xHUEhLRWw3SE9RQUgycFhCNjNBRlgwNlNHU0htTktZVXZVLTN0SlFwRDV0Y1ZqeU5U?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:57:20 GMT",
+      "summary": "SKT·엔비디아·리벨리온, 한국형 소버린 AI 구축 '삼각편대' | &nbsp;&nbsp; 연합인포맥스",
+      "outlet": "연합인포맥스",
+      "outletUrl": "https://news.einfomax.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "rebellions",
+        "ai-chip-policy-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 27,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "SKT·엔비디아·리벨리온, GPU·NPU 통합 개발…한국형 소버린 AI 인프라 구축 - 나눔경제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hNGpIX2hQT2dkNnlUYVFKbm9wZ01vNGtPVWVBTXVOOWtqNldyaHlmUllFT3YzcWFQLTVSYWRtMnBaSEZPdF82RTBjQ2pzVU9xR2R3NWlacVc0Ykp3dkRHVG5UZWJVMm5nN1F6eQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:57:08 GMT",
+      "summary": "SKT·엔비디아·리벨리온, GPU·NPU 통합 개발…한국형 소버린 AI 인프라 구축 &nbsp;&nbsp; 나눔경제뉴스",
+      "outlet": "나눔경제뉴스",
+      "outletUrl": "https://www.nanumy.co.kr",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions",
+        "ai-chip-public-program"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 30,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T20:09:42.287Z"
+    },
+    {
+      "title": "이상일 용인시장, 반도체 국가산단 공사 교통대책 마련…철도기금 최대 1조 조성 - 전국매일신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tdklldWhXak12cmNFb1BmcFRRaEtCcmlMN2FOeS0zazY3WlVQNkhXamVrUF9rMEg3dTNXRmZuQTRHZm9ZYkg4Ulc5eE45ekhsWkpJQk8wOGRhRkRrbzRnWndwRTNsTzM5eExzZGJR?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:57:06 GMT",
+      "summary": "이상일 용인시장, 반도체 국가산단 공사 교통대책 마련…철도기금 최대 1조 조성 &nbsp;&nbsp; 전국매일신문",
+      "outlet": "전국매일신문",
+      "outletUrl": "https://www.jeonmae.co.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 8,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-10T17:43:20.720Z"
+    },
+    {
+      "title": "SKT·엔비디아·리벨리온, GPU·NPU 결합 '분리형 추론' 인프라 구축…한국형 소버린 AI 가속 - IT타임스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02X0tzZUQzcGdsc3RBeVYza29TRExHVE1IREdtaGV6WUFHeEJXVHQ2T3ZDdmJ2bWJkY2loQ0ExVkJ3UUZjWmJUMjlsWE1XMkhISHpDbEtWQ2o2dFFVZTlJVjhWVzFsaUl0?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:56:58 GMT",
+      "summary": "SKT·엔비디아·리벨리온, GPU·NPU 결합 '분리형 추론' 인프라 구축…한국형 소버린 AI 가속 &nbsp;&nbsp; IT타임스",
+      "outlet": "IT타임스",
+      "outletUrl": "https://www.ittimes.com",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "추론",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 33,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-10T04:20:56.793Z"
+    },
+    {
+      "title": "삼성중공업, SOFC 사업 확대… 친환경 선박·부유식 데이터센터 전력시장 공략 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Xelp6M2R3X0tuWjJhYkJtYjdaaTRkOVR1NnBxLXhnRXFub3JMVlRmVzN5OUtORVA5cWs2cTVIUEVXVzJ2OGVtMm9XSERnZGxyeXYyS3oxajlyMDB3Z1lYS0UwX25lRmlSNGZHby01T0w?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:56:58 GMT",
+      "summary": "삼성중공업, SOFC 사업 확대… 친환경 선박·부유식 데이터센터 전력시장 공략 &nbsp;&nbsp; Korea IT Times",
+      "outlet": "Korea IT Times",
+      "outletUrl": "https://www.koreaittimes.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
+    {
+      "title": "Europe’s AI Funding Hit $27.6B in 9 Months; London Took 54% - FourWeekMBA",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUXdmeU56SEQ5aVZiRlk1c3FXUXpjdXo4Sm1hUVJWTHpNRXV5VDFSOUx5VkFUQnNNVDd5cmp2SmZTR1AzQ2hQam43SVJlTk9OaUhkcWRDRXdURzF0TmxZMHlYTGhhSllJdlUxUnJQR3hEblowMU1qSnlRWklJcTJoem9BLXY2V2FHS3BJ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:56:44 GMT",
+      "summary": "Europe’s AI Funding Hit $27.6B in 9 Months; London Took 54% &nbsp;&nbsp; FourWeekMBA",
+      "outlet": "FourWeekMBA",
+      "outletUrl": "https://fourweekmba.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-10T07:37:39.463Z"
+    },
+    {
+      "title": "국산 NPU, 엔비디아 플랫폼 올라탄다 - 동행미디어 시대",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HMUxQRTN5akVGRG9NNTI3dWg1UFZwQ3VvdmtuZEVVMnB4NDNON2hWRldreXl0T1l4T3VVY2tETmx4Y3RLRkRuU2p0c2ZiVEU3bXlUdUduZDZVWlJ3aEE?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:55:44 GMT",
+      "summary": "국산 NPU, 엔비디아 플랫폼 올라탄다 &nbsp;&nbsp; 동행미디어 시대",
+      "outlet": "동행미디어 시대",
+      "outletUrl": "https://www.sidae.com",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions",
+        "npu-commercialization",
+        "korea-npu",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 26,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "Is Google Losing The AI Search Battle To Itself? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2tiNjRPYUxqSlVyT3dMMmdIODNtamdtdjRMdGpuVGlqd25MRUxkSFNzaGFKMDhwam1QWFhkNVlJX1lra1lJcG5vQTl1X3o1UklHWnY4cVpVMUxHbHhnbVFyS014RmZUMmhuLTVuS1NfTnRvM0hZakFTc2hGN1RoX1pfdGgxYnpFME1Sb28zUk5BYk5WMWRVUUh2NDVmcXdBbkE?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:55:11 GMT",
+      "summary": "Is Google Losing The AI Search Battle To Itself? &nbsp;&nbsp; Forbes",
+      "outlet": "Forbes",
+      "outletUrl": "https://www.forbes.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud",
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "美 데이터센터 전력 장벽, K반도체에 오히려 기회? - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIMlB1eEhiMXpWYm1QblhJWlE3M3AyQUc0X2JWWTJSNGoyUjM5a0J5QlFKMEhXVDZBVWd6Sy1ScmxJVDFiTkVwWUFha1JObGZRNHNBU2IwTXVYUdIBWEFVX3lxTFA1TjdpRVRyazJrR25ZVVlzVWdVcFA2Yy1Pdmo2RzFiVVhja2k3NE9mNEdHb3dKUE1RVmJFTXByTzJVTkRGY2RzQm1zVkxpLWx6VTJYRGF1ZWw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:55:08 GMT",
+      "summary": "美 데이터센터 전력 장벽, K반도체에 오히려 기회? &nbsp;&nbsp; 아주경제",
+      "outlet": "아주경제",
+      "outletUrl": "https://www.ajunews.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 11,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
+    {
+      "title": "Apple CEO Ternus pushes accelerated AI agent strategy beyond Siri - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iWENLSmYtQmVHVnh5UE4xdWhia2JyeXVyV3AycWhWTzR1a2tiTU1Od1kxcEpCZVA3SWxaOTZkYzJ0QWpJeUJubjFZQkdTNWNBa3JWZjVvUU9tV0RDWnZCcmY0bDh1a25mcUNLbDQ4UDVqTHhjX3NsVUJR0gGOAUFVX3lxTE4zZS1COUVzdzBocGRucnBEQXNhUWNmaFFBMXk4UjVKdzhyNEZqaDNwVVhwWW5GZDBsQmVJeXJoYndnbWpNbjNhejc0cGZzT29NWFZRbU02aEZ2S1luU2xRSkVoaHlObUpMZ2l4NHNYUERVcjFXM0JMTkRsUjAzNS00ekFmeW1xd2xVLThla3c?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:55:00 GMT",
+      "summary": "Apple CEO Ternus pushes accelerated AI agent strategy beyond Siri &nbsp;&nbsp; Chosunbiz",
+      "outlet": "Chosunbiz",
+      "outletUrl": "https://biz.chosun.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
+    {
+      "title": "\"피지컬AI 황금시대\"…엔비디아 AI 데이 서울 2026 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRNUMycFN3MjhsV2h6MVo3SGU0Qzg5RU1zaUtPS0Y5WTdZQXo5Mjl0dUp4QmV5ZmxhV1JjMW1za0VVSVZWSUJoSFJyUmRlZU9lVWlQUmpDUGVmN01YWFBuZEhBam5CMFZ6eDRNVWlfa1ZIVU42VnVFeA?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:54:46 GMT",
+      "summary": "\"피지컬AI 황금시대\"…엔비디아 AI 데이 서울 2026 &nbsp;&nbsp; 연합뉴스",
+      "outlet": "연합뉴스",
+      "outletUrl": "https://www.yna.co.kr",
       "source": "해외 빅테크 국내 보도",
       "sourceIds": [
         "korea-global-ai-companies"
@@ -434,26 +1637,785 @@
         "NVIDIA"
       ],
       "taxonomyHits": [
-        "추론",
         "NVIDIA"
       ],
-      "issueCategory": "추론",
-      "score": 23,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T06:49:11.435Z"
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
     },
     {
-      "title": "SKT·엔비디아·리벨리온, 한국형 소버린 AI 인프라 구축 맞손 - 데이터넷",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hYmtBX1psZHI5RE1feDA2c00wZF9OVlN4cWlrOS1UOHQwWS1ueHdKT0VndHl6MXZ4N2FGWmJvbGtPWnVjWmZWODlUdjlvOFZaZmpzai1xcW52N3p3bkNIYzFOd3Z0ZzREOThpcg?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:07:14 GMT",
-      "summary": "SKT·엔비디아·리벨리온, 한국형 소버린 AI 인프라 구축 맞손 &nbsp;&nbsp; 데이터넷",
-      "outlet": "데이터넷",
-      "outletUrl": "https://www.datanet.co.kr",
+      "title": "AI 에이전트 자율 생태계 도래와 노동 시장 가치 평가 기준의 전면 재편 > 거대 파운데이션 인프라에서 수직적 온디바이스 에이전트로 이동하는 수급 - 데일리머니",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrTEc1akozLTFkcy02UFFiVThRYmZhOUplYkRSMjhOTnFIcFhVNjgzRG9jYTl1YllydzZjTkJGdWpfZDREMEJtUUxOaTlDdWJhWE41SnhYZmJ4dEE5YUp5eC1DLTRhVzN3Z1hSSlZpYlI4aXM?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:54:18 GMT",
+      "summary": "AI 에이전트 자율 생태계 도래와 노동 시장 가치 평가 기준의 전면 재편 > 거대 파운데이션 인프라에서 수직적 온디바이스 에이전트로 이동하는 수급 &nbsp;&nbsp; 데일리머니",
+      "outlet": "데일리머니",
+      "outletUrl": "https://www.thedailymoney.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트",
+        "온디바이스AI"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "SoftBank: Record H1 revenue and operating income drove higher FY2027 guidance amid accelerating AI investment - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPX2pVbFBtUlN3X1U3UWtOMGZyN2hraVl5R0pBWXd1REREMGk5akV3dEVaNmRqaUVkYThPazNFU2JXM3hvczFTZk1QNGplOGgxc3l5c1gxSnJKUVplWmdFaDJDMFdhMldOaVB6a1V5aFlrVE5aaFdNeGE5c3N6ZFljNTN6amVMV0Y0TjZCQllIeEx6R1lYU3R0LWJXcW5hUUcwSTVHWkpWcVprTFV1YmdTMzdHbGpXcE14QUMzdTZDSW9GRmctWXdpeFpkVkxkZU5zVzV6My1BdllSUE5ib2xzLVE4V2F3YzRDTmgtS1pqMmtXNFZYRl85WC1WR2ZkMWhrY0xKWnVhN0FBLV9pcWNVLXVvMVgxaTJ4Ym1B?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:54:00 GMT",
+      "summary": "SoftBank: Record H1 revenue and operating income drove higher FY2027 guidance amid accelerating AI investment &nbsp;&nbsp; TradingView",
+      "outlet": "TradingView",
+      "outletUrl": "https://www.tradingview.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
+    {
+      "title": "전남광주통합특별시, “호남 반도체 용수·전력 충분, 수도권 독식주의 폄훼 보도에 강력 유감” - 무등뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NdzA3VVRTWk01N1hHYVFmVWxSQnc1TElkZFc3akpUODlnVlE3R2RGT1BfRFR5Z1lkejAxX2VITmlkR1BGbi0wbURDeVF3eGVEaEhvZ2w3REFxVXBvYUhRSHhSM21va2M?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:53:26 GMT",
+      "summary": "전남광주통합특별시, “호남 반도체 용수·전력 충분, 수도권 독식주의 폄훼 보도에 강력 유감” &nbsp;&nbsp; 무등뉴스",
+      "outlet": "무등뉴스",
+      "outletUrl": "https://www.mdns.co.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-10T08:21:30.515Z"
+    },
+    {
+      "title": "우상호 “강릉 AI데이터센터 정치 공세에 기업 투자 위축” - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YbEtrMGZTeml0a3Q0SDBac1pLMHFYUkZ5Mk1XeWtUMjl5UURxSElqZURBV3YxOEJTbEU2aXJweVNNTUM5cFp4M0tSVjBtaFlvUDdORA?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:53:18 GMT",
+      "summary": "우상호 “강릉 AI데이터센터 정치 공세에 기업 투자 위축” &nbsp;&nbsp; 매일경제",
+      "outlet": "매일경제",
+      "outletUrl": "https://www.mk.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
+    {
+      "title": "엔비디아 AI 생태계에 국산 NPU 심는다 - 아시아타임즈",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqdkxJbWZzNUJqRDJDMUluWE45Q0FFUHBmMzN4Tk80aVZ0R3ZoaWtfaHdEUzBMYkhnTEFVMHhGdk04Z2lxajFvSG1uMF9NdEg2N0NXblFJa2c1WElTYmc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:53:00 GMT",
+      "summary": "엔비디아 AI 생태계에 국산 NPU 심는다 &nbsp;&nbsp; 아시아타임즈",
+      "outlet": "아시아타임즈",
+      "outletUrl": "https://www.asiatime.co.kr",
       "source": "해외 빅테크 국내 보도",
       "sourceIds": [
         "korea-global-ai-companies",
-        "rebellions",
+        "korea-npu",
+        "npu-commercialization",
+        "korea-global-chip-cooperation",
+        "accelerator-strategic-deals-ko",
+        "msit-ai-chip",
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 26,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "SKT, NVIDIA and Rebellions Join Forces to Build Korea’s Sovereign AI Infrastructure - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ad3BPRHN1ZXEzN1RxT1pqeGc5VFNNd3BWX2d1emlNbWVMWHVXQ1dBSkpaZU4zTkUtT0FfUzE0ZnI5MlVTYlBwZlNsTEJZWWNuZFdMOTZTdGtsZjRnY1hLZFRrcUxSWkxjV2JqbG5keUs?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:52:37 GMT",
+      "summary": "SKT, NVIDIA and Rebellions Join Forces to Build Korea’s Sovereign AI Infrastructure &nbsp;&nbsp; Korea IT Times",
+      "outlet": "Korea IT Times",
+      "outletUrl": "https://www.koreaittimes.com",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy",
+        "accelerator-strategic-deals-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "리벨리온",
+        "NVIDIA",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "NPU",
+      "score": 33,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "몸집 키우는 AI 인프라 유통사…서버·GPU 입도선매 주문 쏟아져 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sTEp5TF9sSlhra2FxTGxKMm5kdHdXVFlSNm9aRUdWSVg3UEVCX1hPVWtzT0hHblRDc3dzQWpPVERSa0tzd2NYdEtQaUNwUVFQTzNJVEV2NXdyUQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:52:37 GMT",
+      "summary": "몸집 키우는 AI 인프라 유통사…서버·GPU 입도선매 주문 쏟아져 &nbsp;&nbsp; 한국경제",
+      "outlet": "한국경제",
+      "outletUrl": "https://www.hankyung.com",
+      "source": "AI칩·SW 전략적 인수·제휴",
+      "sourceIds": [
+        "accelerator-strategic-deals-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "TIER raises Taiwan's 2026 growth forecast to 12.34% on AI demand - Focus Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2Y2V6c0xNNmwydHJYR0VIZEx4LXZnQjFUT0syVW5XSTgwc1dCMEUxaUVGdVlwa3g2UnBSbmR1M0d5LXFvMDkyRk5iX1l0VnlZYjA3dDF0Yw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:52:00 GMT",
+      "summary": "TIER raises Taiwan's 2026 growth forecast to 12.34% on AI demand &nbsp;&nbsp; Focus Taiwan",
+      "outlet": "Focus Taiwan",
+      "outletUrl": "https://focustaiwan.tw",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
+    {
+      "title": "[포토] 국산 NPU, 엔비디아 손잡고 글로벌 AI 시장 진출 나선다 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42dE9aNElKcjV2OUJRb1BsTnVGZUZQRHFLVUtHSk9HX0dLVGowTi1XTEp4NU1IYnljX2l3a21GdDgyTWg0czFRNlNZNmNtOWNxOHVrZTE1ZUpzamNpclFIdg?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:51:49 GMT",
+      "summary": "[포토] 국산 NPU, 엔비디아 손잡고 글로벌 AI 시장 진출 나선다 &nbsp;&nbsp; 아시아경제",
+      "outlet": "아시아경제",
+      "outletUrl": "https://www.asiae.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "npu-commercialization"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 26,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "Nvidia Shorts Hit $9.1M After Huang Affair Admission [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVZXTDlNSmtYXzIwV3FtdU5CWVRveVR0VnkzYzNoaUVmcy15NTktbl9FNFRaRnZwMklPWS0zWkNjTkxweFpfRlhpeDlyeWVqMC1BMmlieUZFM1BjdTFzU0d1Sm9HU3pkU3Q3UWsyZi1tSXZIS2dPVXo4UmZHbVNkUUh0bEtIQVZXVklnRVkxenYxMUdQUHc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:51:40 GMT",
+      "summary": "Nvidia Shorts Hit $9.1M After Huang Affair Admission [2026] &nbsp;&nbsp; tech-insider.org",
+      "outlet": "tech-insider.org",
+      "outletUrl": "https://tech-insider.org",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-09T07:00:36.604Z"
+    },
+    {
+      "title": "HBM 넘어 국산 NPU·AI 모델까지…엔비디아, 한국 AI 생태계 전방위 협력 - 포인트데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wWmsyUG1tTUdXa0toVllCc0pMN0xKeXMtcjZuaUcyT3RhTEU2bElUcWRFZ0VSUlI5bWp4S2l4TTFpWGpyQ09nTlkzYmtkekpWUGREalNVR0FIV1ZtUXJjZVh3LWVSV01aRzNFbWJkUlrSAXRBVV95cUxPY2VKUkkyaDUxb2x1cTRTQS01NzV2UWN3eVhkMnBZYVkyWVNWZ0ZqTUpVYklSTGZwOVpxNTFLVXNpeHdWM2NiMy1jZ3ZEQ2tiOUhpeWlFdTdmTkc5RmpzMktmcFdaZjRJQk1yb05ydF9JYmdhOA?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:51:02 GMT",
+      "summary": "HBM 넘어 국산 NPU·AI 모델까지…엔비디아, 한국 AI 생태계 전방위 협력 &nbsp;&nbsp; 포인트데일리",
+      "outlet": "포인트데일리",
+      "outletUrl": "https://www.pointdaily.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "korea-infrastructure",
+        "npu-commercialization",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 26,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "[포토] SKT·엔비디아·리벨리온, 한국형 소버린 AI 인프라 협력 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3RTR2cmxCR1FfU2RjRjZxcnZ4Q0x5aGF4bWRjTkNmYXNDTkdGQkJwQTQtcW5Zbld3TFQ5M0JQYlZtXzZPWXJCOFlKU254N0s2OTBUMGdUZ2hpQ0tRR2VJbA?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:50:56 GMT",
+      "summary": "[포토] SKT·엔비디아·리벨리온, 한국형 소버린 AI 인프라 협력 &nbsp;&nbsp; 아시아경제",
+      "outlet": "아시아경제",
+      "outletUrl": "https://www.asiae.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
         "korea-npu"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 27,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
+    {
+      "title": "[Photo] SKT, NVIDIA, Rebellions Collaborate on Korean-Style Sovereign AI Infrastructure - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPVnROYmxWWVhoejhHbDI1QmlzakNGdTdlTmZkSFN1MXVfbWV2QXpPbTZiVDk3c2xrMmhTUE5sUVk4VUNCOGg1Z3BIWXotenZsUjlrcjhLTFR0Y3Q4T1M2aXFTMEc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:50:55 GMT",
+      "summary": "[Photo] SKT, NVIDIA, Rebellions Collaborate on Korean-Style Sovereign AI Infrastructure &nbsp;&nbsp; 아시아경제",
+      "outlet": "아시아경제",
+      "outletUrl": "https://www.asiae.co.kr",
+      "source": "해외 정책·투자",
+      "sourceIds": [
+        "global-policy"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "리벨리온",
+        "NVIDIA",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "NPU",
+      "score": 33,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "Rebellions to pair Korean AI chip with Nvidia GPUs - Aju Press",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YUGhrOTYzYmQtbTFQaWJRUThXd3o3cHE5NVZJeUZPZ1dpQzE1SVJhcmtVbkU0RXJsam15TWRON2lERHR6enpCTzVfNVlaajBNUWlIQUoyZ9IBV0FVX3lxTE1YUGhrOTYzYmQtbTFQaWJRUThXd3o3cHE5NVZJeUZPZ1dpQzE1SVJhcmtVbkU0RXJsam15TWRON2lERHR6enpCTzVfNVlaajBNUWlIQUoyZw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:50:28 GMT",
+      "summary": "Rebellions to pair Korean AI chip with Nvidia GPUs &nbsp;&nbsp; Aju Press",
+      "outlet": "Aju Press",
+      "outletUrl": "https://m.ajupress.com",
+      "source": "글로벌 가속기 전략적 거래",
+      "sourceIds": [
+        "accelerator-strategic-deals-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 27,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T20:09:42.287Z"
+    },
+    {
+      "title": "[포토] 엔비디아·SK텔레콤·리벨리온, NVLink 업무협약 체결 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xYVo0X2dlSXoxTjJVVURWcHg5bjlGVjFSOEtWQ0ttVndGRGxNNkpKNTZrdS1EZlQ4VUpCZUxKQ3J2SlBfdDJvYTJ3eU1EYmFvbGY0b19TemVjbDFXc3Y2Uw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:50:06 GMT",
+      "summary": "[포토] 엔비디아·SK텔레콤·리벨리온, NVLink 업무협약 체결 &nbsp;&nbsp; 아시아경제",
+      "outlet": "아시아경제",
+      "outletUrl": "https://www.asiae.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 22,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
+    {
+      "title": "화순군, 반도체 소부장 기업 유치 추진…산업단지·주거단지 조성 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aQ2lFakN0M1U3TEhfeTVPT1VtLXJIMXJLT0JEZFpwYXN3THpDY2U4WFMtZ29STFVINFRFSUYwWDJZYk1DRUZCRTN3SmNDRHFzWmh3cmxYNVMyQWoxQ3Rnd0pFeWY?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:50:03 GMT",
+      "summary": "화순군, 반도체 소부장 기업 유치 추진…산업단지·주거단지 조성 &nbsp;&nbsp; 매일일보",
+      "outlet": "매일일보",
+      "outletUrl": "https://www.m-i.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-11T01:54:03.553Z"
+    },
+    {
+      "title": "Explainer: What we know about Nvidia's probe into CEO Jensen Huang - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzg0SWNIOFJSV3ZySXd6Ml9OWmdJS3ZlbDRMVWFOUVhRa1g5bE91N0VRTkJTQlVpbjhiWXJnSEt0ZlVmM3NVUVFyNk9nV2FVNG9jdXNWUFB5bnpESTd6M1Z4eGJPWGJHZUNYcEdPUDRqaVdXQlRaSjk4NEpHZVRxbkgtYnNTSERpUjJvczFDU0x3WE1CZFB6RG0zRm00SEc3RkRzMGlGend0WjdSenc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:50:00 GMT",
+      "summary": "Explainer: What we know about Nvidia's probe into CEO Jensen Huang &nbsp;&nbsp; Reuters",
+      "outlet": "Reuters",
+      "outletUrl": "https://www.reuters.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-09T07:00:36.604Z"
+    },
+    {
+      "title": "What we know about Nvidia's probe into CEO Jensen Huang - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzg0SWNIOFJSV3ZySXd6Ml9OWmdJS3ZlbDRMVWFOUVhRa1g5bE91N0VRTkJTQlVpbjhiWXJnSEt0ZlVmM3NVUVFyNk9nV2FVNG9jdXNWUFB5bnpESTd6M1Z4eGJPWGJHZUNYcEdPUDRqaVdXQlRaSjk4NEpHZVRxbkgtYnNTSERpUjJvczFDU0x3WE1CZFB6RG0zRm00SEc3RkRzMGlGend0WjdSenc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:50:00 GMT",
+      "summary": "What we know about Nvidia's probe into CEO Jensen Huang &nbsp;&nbsp; Reuters",
+      "outlet": "Reuters",
+      "outletUrl": "https://www.reuters.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
+    {
+      "title": "SKT·엔비디아·리벨리온, GPU·NPU 동맹… 한국형 소버린 AI 인프라 구축 본격화 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42U0JRQjZJNXNIZG1keGdVODBYU01XM3d2azNvRk5wVVd2aG5zaWo1Y1ZJckk1REw5M2JkNzlvaGJfS25uQmdobUp1LU1mdDl2dEpMSVYzdGlvUG5QUmZONlVyRTgzZTB5eVMyXy00dVg?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:49:22 GMT",
+      "summary": "SKT·엔비디아·리벨리온, GPU·NPU 동맹… 한국형 소버린 AI 인프라 구축 본격화 &nbsp;&nbsp; Korea IT Times",
+      "outlet": "Korea IT Times",
+      "outletUrl": "https://www.koreaittimes.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "rebellions",
+        "npu-commercialization",
+        "accelerator-software-ko",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 30,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "[AI서울 2026] ‘100% 국산화’ 대신 글로벌 협력체계로…엔비디아-韓 ‘소버린 AI’ 앞당긴다 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YbXJvUGVWVklWSzBVaWRyZjA3MUo3ek9qeDVkU0IyU0xKcmp2QXlpR2tNckt6WHhaQnpnemMyc3VKUm5hTmVNTUxvSk5wMHU1THFZLWZGMXEtUnNQZTl6c3MyYw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:49:16 GMT",
+      "summary": "[AI서울 2026] ‘100% 국산화’ 대신 글로벌 협력체계로…엔비디아-韓 ‘소버린 AI’ 앞당긴다 &nbsp;&nbsp; 에너지경제신문",
+      "outlet": "에너지경제신문",
+      "outletUrl": "https://www.ekn.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "삼성·SK 'HBM 수퍼 갑' 흔들리나···美 AI DC 제동·TSMC D램 검토 - 뉴스프리존",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lREdpSDhicDZpZnFuZXJILUFHQ2xxZy1kR1ZUT1NtZGxKYk5NVXV4a0VSOUlsWUFGN0w1RHVPRmlldnNHNkRCbXhKSThqYklsejR3aFRSQ3R4eWhJTXZPdDB2eXdqR3VNYV9NeTM2X3I1cG_SAXdBVV95cUxQVWVXTWUtemxWN0M0MnR6QzllTnQzLVVhMEs2ZTl6a3h2QmdfeGVWV043WmhwLWdUdE1XNDBJU3ZVNHlmWGJwNHBNaFBFZjZTZXFPVjVmaFd2TjJDaS1IbEQtdUZWWDA2cDdNT1FFSUNNVEF1RXJ0cw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:49:05 GMT",
+      "summary": "삼성·SK 'HBM 수퍼 갑' 흔들리나···美 AI DC 제동·TSMC D램 검토 &nbsp;&nbsp; 뉴스프리존",
+      "outlet": "뉴스프리존",
+      "outletUrl": "https://www.newsfreezone.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "TSMC"
+      ],
+      "taxonomyHits": [
+        "파운드리·패키징"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "'엔비디아 AI데이' 국산 NPU 글로벌 진출 길 연다…소버린 AI 협력 확대 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lZlNNNW1kY0t3SFN3dGtIZHhzMHdGM09lZ24tWnY4Q3ZMQUdTN2JpNy11UkI2WWRjWGVSTWRpTkxWQmUzMDhqbmN3bndzelo5dm5ad0FrdnU5aEZFZWlmdzhQVndEM3U1MEtsdVBnUEQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:47:14 GMT",
+      "summary": "'엔비디아 AI데이' 국산 NPU 글로벌 진출 길 연다…소버린 AI 협력 확대 &nbsp;&nbsp; 신아일보",
+      "outlet": "신아일보",
+      "outletUrl": "https://www.shinailbo.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "rebellions",
+        "nipa-msit-policy",
+        "msit-ai-chip",
+        "government-npu-policy",
+        "npu-commercialization",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "K-엔비디아",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 26,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "CoreWeave Faces a Major Earnings Test: Concerns Over AI Cloud Debt Are Growing, and the \"Burning Cash for Growth\" Model Is Under Scrutiny - 富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFRHalc0MTJMNGNrNFZ2cnktZlUyUmZtdXZ5em1PazNDX1ExWkppdmM4OVgtNXZzTEREcEw3LXptSFYxTjZBRThwdUJIUS1BMXhwQThyaHJXWU1XWUI5b0tSTWRMajRrVzFkSXpDWFNKVnJqLVRWRHNZaVpJQWNlWFkyVmhmU0VFb29xaWJ6YW42eFZpczJkRUVaWHdUa0ItbWxPeldB?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:45:59 GMT",
+      "summary": "CoreWeave Faces a Major Earnings Test: Concerns Over AI Cloud Debt Are Growing, and the \"Burning Cash for Growth\" Model Is Under Scrutiny &nbsp;&nbsp; 富途牛牛",
+      "outlet": "富途牛牛",
+      "outletUrl": "https://news.futunn.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI인프라"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-11-09T06:49:11.435Z",
+      "lastSeenAt": "2026-11-09T07:00:36.604Z"
+    },
+    {
+      "title": "‘제미나이로 길 안내’ 삼성전자·구글 AI 안경, 12일부터 사전 예약 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRZWhha2d4c1ZLTGhRdTBoRGNFRWNNMzdjY0t4RkktR0VfVTlaOWVidWpBNGJfRnEzdjBoaXBlbXRyMHVnUE9lNmtmdkFFM0xBTGlIOWNlVUtzY2NDX2szcW9XTW9Nb1RiSDM3M0FR?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:45:58 GMT",
+      "summary": "‘제미나이로 길 안내’ 삼성전자·구글 AI 안경, 12일부터 사전 예약 &nbsp;&nbsp; 아시아투데이",
+      "outlet": "아시아투데이",
+      "outletUrl": "https://www.asiatoday.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-09T07:00:36.604Z"
+    },
+    {
+      "title": "'HBM 기술통' 삼성 이어 하이닉스도 미국총괄에 기용 - 코리아리포트",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6MVFJNjJVRUVCYkNPajRsZl9KZXJtSWNwZ2lZemkycXBiMXVjdFZQSGVxN0pSYjVwQWRsVk5vUTVCdzVubVZaVWFfalp5VDRrYWduLXNZc18xWmJmTklDNWgwcW5MUC1HZlluZmlrZVI?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:44:23 GMT",
+      "summary": "'HBM 기술통' 삼성 이어 하이닉스도 미국총괄에 기용 &nbsp;&nbsp; 코리아리포트",
+      "outlet": "코리아리포트",
+      "outletUrl": "https://www.koreareport.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-11T08:23:06.410Z"
+    },
+    {
+      "title": "Clalit receives $2 million from Google.org to develop AI healthcare assistant - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2VG9yM2ZqRlQ2Z2NXUWFRQ1JyTllFNmdDbHhsVGxlbDAwajdOdTlPUzBsdUh6ek14Y3dvVTdObWxWSGNSV0tDQThlTkxHZ0EzeUtqV1NabWVLYWNTRFhSR09xak5oeEpkMnc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:43:35 GMT",
+      "summary": "Clalit receives $2 million from Google.org to develop AI healthcare assistant &nbsp;&nbsp; Ynetnews",
+      "outlet": "Ynetnews",
+      "outletUrl": "https://www.ynetnews.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T06:49:11.435Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
+    {
+      "title": "삼성, 영남 60조 투자 첫발 뗐다 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMQ0JWOXlGZ3hMUmE2amxoQXl2dlhTSUlkTTdMd04xS1lqWF9jenJUTm5jTzNnTHJSSmxSYUdDN2Z2TmxvNXVCWVVPM3RxNFdzQW5aamktTmFIUQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:42:53 GMT",
+      "summary": "삼성, 영남 60조 투자 첫발 뗐다 &nbsp;&nbsp; 한국경제",
+      "outlet": "한국경제",
+      "outletUrl": "https://www.hankyung.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 11,
+      "firstSeenAt": "2026-11-09T06:49:11.435Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
+    {
+      "title": "엔비디아, 리벨리온·SK텔레콤과 NVLink Fusion 기반 소버린 AI 인프라 협력 - 헬로티",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yOWR2WGJ3QmVyNnBkNy1RanBGQjhfdjAyVHgtZmVZbGZfMzhISS1JeHFOU0NvQUlXbG0tUGVyaUh4WVE3SzFXaEhjRWhzSEpSaTFGeHNkTldJM1ZPOUdr?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:42:38 GMT",
+      "summary": "엔비디아, 리벨리온·SK텔레콤과 NVLink Fusion 기반 소버린 AI 인프라 협력 &nbsp;&nbsp; 헬로티",
+      "outlet": "헬로티",
+      "outletUrl": "https://www.hellot.net",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "korea-global-chip-cooperation",
+        "rebellions"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 27,
+      "firstSeenAt": "2026-11-09T06:49:11.435Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "AI 인프라 시장 '합종연횡'…SKT·엔비디아·리벨리온 손잡아 - 중소기업투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjT25EYWxROW43M3FHWHhVbU1nUWpweGpfRFVESWxFZVlkTEZ2YWQwOFFxLU8yYWpQSnRTdDBsTFRiMGNJTzhKNElkM3RYX1BhaWVPZHg3TU0yM3pwMG9CaWRFelhHUEJP0gFsQVVfeXFMT0ZZektpdTN5TnQzUVRHX2pUZndZXzdFSVdNQ0Q1UHo5blV2N0czOGVFb1VSd2xSRHhOTTg0LUctTUU5LVhEOFFBQ0VHZ2hDWDFDY3dlZWREeFFjaWpNeVVyTVRMZllLQVZJQXlx?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:42:28 GMT",
+      "summary": "AI 인프라 시장 '합종연횡'…SKT·엔비디아·리벨리온 손잡아 &nbsp;&nbsp; 중소기업투데이",
+      "outlet": "중소기업투데이",
+      "outletUrl": "http://www.sbiztoday.kr",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions",
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 26,
+      "firstSeenAt": "2026-11-11T01:54:03.553Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "SKT·엔비디아·리벨리온, AI 반도체 통합 협력 - 스페셜경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UYkNCVmprZlRWa2xHcUdEcW9ZLVVpQkVKWnpXMU0wMlF4RmhMMFVvZmhOTVA0MWh1RW1Fc2YwQlh3dEFGb1duODdWSjd6T1g2NEhzTFVoZ0FFdURuMXVnVDZmYXVCYy1pWGJVXw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:42:11 GMT",
+      "summary": "SKT·엔비디아·리벨리온, AI 반도체 통합 협력 &nbsp;&nbsp; 스페셜경제",
+      "outlet": "스페셜경제",
+      "outletUrl": "https://www.speconomy.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "rebellions",
+        "ai-chip-public-program",
+        "npu-commercialization",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 27,
+      "firstSeenAt": "2026-11-09T07:00:36.604Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "엔비디아 뇌에 리벨리온 탑재…SKT, 소버린 AI 동맹 '풀스택 강화' - 파이낸셜포스트",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVaG9IVUQ2U0RUZDdvT0pkSTBSVzlqZ0hHaU5fNy1jdjNPSEZOb0xsSmNtVUZNNVY0X09ZRjc4RnJZLWxrYWpFaWNqTVY2U1J0U3NtTWVVaXo4TkZrMDhDVmlsdndIcktuaGNzalNHbUJSNVIz?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:41:42 GMT",
+      "summary": "엔비디아 뇌에 리벨리온 탑재…SKT, 소버린 AI 동맹 '풀스택 강화' &nbsp;&nbsp; 파이낸셜포스트",
+      "outlet": "파이낸셜포스트",
+      "outletUrl": "https://www.financialpost.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "rebellions"
       ],
       "sourceLang": "ko",
       "region": "domestic",
@@ -471,112 +2433,12 @@
       "lastSeenAt": "2026-11-09T07:00:36.604Z"
     },
     {
-      "title": "[포토] 발표하는 제시 클레이턴 엔비디아 AI 인프라 부문 수석 매니저 - 아이뉴스24",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tSGJWR0RYaWxpSjEwcUZhMjFpcWlyMUcxSC1oRFZjOFhMYXM2LXFYcldpM0dQakxLQkFuMG0zcFFuMzZud2JUbDRjbw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:07:08 GMT",
-      "summary": "[포토] 발표하는 제시 클레이턴 엔비디아 AI 인프라 부문 수석 매니저 &nbsp;&nbsp; 아이뉴스24",
-      "outlet": "아이뉴스24",
-      "outletUrl": "http://www.inews24.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "Nvidia (NVDA) Stock May Be A Bargain Following Data Center Regulation Fears - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemZUbXc2MllpTkE0Q3JjNFhFSE0xTGlqbEFFYXJfZzZSczU1TEt6dWY3d1ZUQk4zcUFsNUt5Rld4OWoxYzBGSG9WVkNURFFIX1RNeEhVNDdvQklDY1RDYWFUeHcyVkVkbjNLYmRrUURGQjlSVkJqWXBERU9IZmQ4Z2FBaEs?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:07:00 GMT",
-      "summary": "Nvidia (NVDA) Stock May Be A Bargain Following Data Center Regulation Fears &nbsp;&nbsp; Yahoo Finance Australia",
-      "outlet": "Yahoo Finance Australia",
-      "outletUrl": "https://au.finance.yahoo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 18,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T12:07:37.377Z"
-    },
-    {
-      "title": "Best AI for UI Design in 2026: We Gave 5 Tools the Same Brief - Fello AI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4UWEtUFMya0MtNWt5eVdVUkIxclB1OGhpd1EzRVlPX0VscVdzSE1QVW5FRnZQYndST0JiQXZuTjZETFhqZmJTaTdULU5yWDdhMDhfVg?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:06:39 GMT",
-      "summary": "Best AI for UI Design in 2026: We Gave 5 Tools the Same Brief &nbsp;&nbsp; Fello AI",
-      "outlet": "Fello AI",
-      "outletUrl": "https://felloai.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-11-09T12:07:37.377Z",
-      "lastSeenAt": "2026-11-09T12:46:06.088Z"
-    },
-    {
-      "title": "SKT, 엔비디아 GPU·리벨리온 NPU 결합해 한국형 소버린 AI 인프라 구축 - 인더뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BbGE1RHhWalVIT01MTDhPQ3VYS05sZ0Y5Uk1ua3NjbHFQZzFzSi1kZE1TVjdMTm5RT2pOQndpcUx4YjhiUWpubnBhd2xmS0JobzhYZFZETTkxcGdTaTZLMVAtbzk?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:06:35 GMT",
-      "summary": "SKT, 엔비디아 GPU·리벨리온 NPU 결합해 한국형 소버린 AI 인프라 구축 &nbsp;&nbsp; 인더뉴스",
-      "outlet": "인더뉴스",
-      "outletUrl": "https://www.inthenews.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-npu",
-        "rebellions",
-        "ai-chip-public-program",
-        "government-npu-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 30,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T00:54:30.056Z"
-    },
-    {
-      "title": "삼성·구글 손잡은 AI 안경 나온다…12월 출시 예정 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EQVJJMjA2VUcyWkx6cVZPLVdIOFdGTm9lR3FtQ3hxRXdtdmFISVBOcEhSOGptQi1BOU1OVGNHU0FDbWx1WUpNODdWUEZ1ODlPVnRLcTZHYWJ3QmM0?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:06:00 GMT",
-      "summary": "삼성·구글 손잡은 AI 안경 나온다…12월 출시 예정 &nbsp;&nbsp; 뉴스핌",
-      "outlet": "뉴스핌",
-      "outletUrl": "https://www.newspim.com",
+      "title": "전주대, 구글 AI 도구 활용 ‘제미나이 아카데미’ 운영 - 투데이안",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YOUgxV3IxZ3UyblZ0eEVNcnF0TTZDR0JsUUpmTUFsTHJITXdhWHM3aHZ3cy15Uzh0LUN6X3huTTNybDhySzFWN2VRTVVyZjJ1OHhPV0RVUlY0YU5hdjBCQ19TSGRCOFhp?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:41:36 GMT",
+      "summary": "전주대, 구글 AI 도구 활용 ‘제미나이 아카데미’ 운영 &nbsp;&nbsp; 투데이안",
+      "outlet": "투데이안",
+      "outletUrl": "http://www.todayan.com",
       "source": "해외 빅테크 국내 보도",
       "sourceIds": [
         "korea-global-ai-companies"
@@ -595,442 +2457,35 @@
       "lastSeenAt": "2026-11-09T07:00:36.604Z"
     },
     {
-      "title": "임종국 의원, 657억 원 도수관로 조기 완공 촉구…광주 누수 손실 118억 원 - 미디어이슈",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZS3JHZkQ4VEMxbnN6cmEzeVV5NnZuX0ctTTZVSkhnaks3Z2hsMDhjLXpzMmVHNGl3VVRTeUxNd1pIUnhGYi1Jcw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:06:00 GMT",
-      "summary": "임종국 의원, 657억 원 도수관로 조기 완공 촉구…광주 누수 손실 118억 원 &nbsp;&nbsp; 미디어이슈",
-      "outlet": "미디어이슈",
-      "outletUrl": "http://www.mediaissue.net",
-      "source": "지자체 NPU 정책·사업",
+      "title": "Korea’s AI-driven export boom fuels growth, but household gains still lag - Korea JoongAng Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdW1vYnR3VXl0Z2VMMXQ2cS1DNW5MWGlvWG1CcFJsNkx0QzU5cHltNnFiUlZ2NHpHNkI5QTR1R3RHS1Q0OGFuRkprbzR6MUQ2RTZpeWl2dEswdlFSZFVpbkd1RVlaS01oSWc2d2F0eXliQTVZTzI1S3RrNnRpVDlqU212eHhmYUxOaUpIREl1SE94NUxYbDFOYjdGS3RFTkpNWTNyOG1tZTJKR09QUG96ekdRV2FybWhfUjBzd3hDSkc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:41:10 GMT",
+      "summary": "Korea’s AI-driven export boom fuels growth, but household gains still lag &nbsp;&nbsp; Korea JoongAng Daily",
+      "outlet": "Korea JoongAng Daily",
+      "outletUrl": "https://www.koreajoongangdaily.com",
+      "source": "해외 정책·투자",
       "sourceIds": [
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T12:07:37.377Z",
-      "lastSeenAt": "2026-11-09T22:58:16.912Z"
-    },
-    {
-      "title": "Who is Alice Huang, Chinese exec accused of spying on Nvidia CEO? - France 24",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1ZsdFV6WHBaSHBkV3dON3pGR3RUVXZwenVlZTNTck1zaFpVb0dEbkxpbzdfUVV4TTdKRW52NEd2UjlWU2c2bXlEOHFjbzNna2U0UVlVZmwzV1pGUXFCYkFTajJxRzNLVkpDZGR4WWxBa2QtbFpkTU9URkJaWDI3S0hNOVlhNzdlclJtUFJfbnBKUTFITFhNUXZDc2NJcWtHMXZMUHJHUUMybjBjbm9B?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:05:55 GMT",
-      "summary": "Who is Alice Huang, Chinese exec accused of spying on Nvidia CEO? &nbsp;&nbsp; France 24",
-      "outlet": "France 24",
-      "outletUrl": "https://www.france24.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T12:46:06.088Z"
-    },
-    {
-      "title": "과기정통부, SK브로드밴드 분할 심사 착수…30일까지 의견 수렴 - 경기일보",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odllRN0VKWWF3QlVldE9qbDloOTNUdWkxT0puS3gxTW1nOHNuTFp6bnZFNzRjTUhvRTQtMm9MS1FsS19BcnYxOTdGY0Utb2hDSGdqZ1lHZFJ2djQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:05:54 GMT",
-      "summary": "과기정통부, SK브로드밴드 분할 심사 착수…30일까지 의견 수렴 &nbsp;&nbsp; 경기일보",
-      "outlet": "경기일보",
-      "outletUrl": "https://www.kyeonggi.com",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "",
-      "score": 21,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "Nvidia Board Investigation: 3 Parts Decoded [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEhHeDZOTU9WbEZLdG1PTW9acm52NC1BU0duTmZ3MG92U3QxZVcteFdaM2xVdkZuMEVSOVBHUGExaHJqOFpoYUhmektjZ21WeWNZMmNVU2pYaDAyYlJYN1Q5U195RVJRQVhYbXhxV2xFUzR3UDVUV0x2aGw0SENVY05NZ2NWR2VfQjlrcTB4dWs?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:05:41 GMT",
-      "summary": "Nvidia Board Investigation: 3 Parts Decoded [2026] &nbsp;&nbsp; https://tech-insider.org/",
-      "outlet": "https://tech-insider.org/",
-      "outletUrl": "https://tech-insider.org",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T06:49:11.435Z"
-    },
-    {
-      "title": "[포토] 발표하는 박성현 리벨리온 공동창업자 겸 CEO - 아이뉴스24",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DemwwdnlTMlBNYWg3Y1pDZDFQWTdVWGFwTm5IMjlVS1pTYmduZUlpakZOR19NdFc2U2FpX3JWZVJLeGtab2EtOUtTNA?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:05:33 GMT",
-      "summary": "[포토] 발표하는 박성현 리벨리온 공동창업자 겸 CEO &nbsp;&nbsp; 아이뉴스24",
-      "outlet": "아이뉴스24",
-      "outletUrl": "http://www.inews24.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온"
-      ],
-      "issueCategory": "NPU",
-      "score": 15,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "Nvidia·리벨리온·SK텔레콤, 한국형 AI 인프라 구축 협력 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWWXkyOVZlTVRDdGVVc00xeEhpbmVOellDcUhKRTNfcllua1FIN0JqRGtmaktSMGEwWXpaUDd3WE5ZWDBaNTlwWTFYWkNfWDJDdGhHSXJ1aGZtVDg0QlpESHUxdlVBVW12SXZ0ZWhtOTBxNXlpWE1F?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:04:00 GMT",
-      "summary": "Nvidia·리벨리온·SK텔레콤, 한국형 AI 인프라 구축 협력 &nbsp;&nbsp; Investing.com 한국어",
-      "outlet": "Investing.com 한국어",
-      "outletUrl": "https://kr.investing.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T01:54:03.553Z"
-    },
-    {
-      "title": "국산 NPU, 엔비디아와 손잡고 글로벌 AI 시장 공략 - 전파신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mVnY2WG54RWxEUmlwTEEwRFZ3YUdZLWljaVByM1c4dWJmeENCTjRnakRVdmVCQ1N0cVZwaFI4eE4tVmtqc1dVc2M5a2lEQ28wVU5wWFkyT1g4TmlPQWlDV2VfNWJzQmVpR2c?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:04:00 GMT",
-      "summary": "국산 NPU, 엔비디아와 손잡고 글로벌 AI 시장 공략 &nbsp;&nbsp; 전파신문",
-      "outlet": "전파신문",
-      "outletUrl": "http://www.jeonpa.co.kr",
-      "source": "국내 가속기 운영 SW 보도",
-      "sourceIds": [
-        "accelerator-software-ko",
-        "korea-npu",
-        "npu-commercialization"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "K-엔비디아",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 26,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "엔비디아, 韓과 글로벌 AI 협력 - 전파신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mVnY2WG54RWxEUmlwTEEwRFZ3YUdZLWljaVByM1c4dWJmeENCTjRnakRVdmVCQ1N0cVZwaFI4eE4tVmtqc1dVc2M5a2lEQ28wVU5wWFkyT1g4TmlPQWlDV2VfNWJzQmVpR2c?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:04:00 GMT",
-      "summary": "엔비디아, 韓과 글로벌 AI 협력 &nbsp;&nbsp; 전파신문",
-      "outlet": "전파신문",
-      "outletUrl": "http://www.jeonpa.co.kr",
-      "source": "국산 NPU 실증·협력",
-      "sourceIds": [
-        "npu-commercialization"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-09T12:07:37.377Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar] - Search Engine Journal",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWZzYnQ4ek01Q3B2amNjLUw3VW1PS2EwVGRDSzlYQVVtQjdreXZrb05YTzBkRFYyZTBrekhhSzBGYzg4RGs0Vm1ySVhFVlFrMWh4S1Y0RkFoQmJxX3hmQ0pXSS11NTB4NGZMVUNNT3ZMV3lseC1Gelp0S1VaaHpScGVBUXBqdkI5Tm83YW5sYktFN0x1SGRubVVHeXFQZDVndFJYVFYzT3BhYWpBLXYzNzFnOWxYUEZOT3NNeA?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:03:22 GMT",
-      "summary": "Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar] &nbsp;&nbsp; Search Engine Journal",
-      "outlet": "Search Engine Journal",
-      "outletUrl": "https://www.searchenginejournal.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
+        "global-policy"
       ],
       "sourceLang": "en",
       "region": "global",
       "companyHits": [],
       "taxonomyHits": [],
       "issueCategory": "",
-      "score": 11,
-      "firstSeenAt": "2026-11-11T06:41:26.106Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
+      "score": 13,
+      "firstSeenAt": "2026-11-09T12:46:06.088Z",
+      "lastSeenAt": "2026-11-11T08:23:06.410Z"
     },
     {
-      "title": "자율주행차 도로 운행 임박…시민 안전대책은 아직인가 - 광주in",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HaW5JbkdFOGMxMFFnZHJ2ZXI2SUxDSkJCR09COFpycHNuNEpkX092OHNGVGI3d2R3U2swRUxnNGhYTFRfemVURzhuZ1diTHhtQTkzczRsYUs2S1VleG1ON2NMbzNfOGg4eVMxOQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:03:13 GMT",
-      "summary": "자율주행차 도로 운행 임박…시민 안전대책은 아직인가 &nbsp;&nbsp; 광주in",
-      "outlet": "광주in",
-      "outletUrl": "https://www.gwangjuin.com",
-      "source": "지자체 NPU 정책·사업",
+      "title": "Alpha Scorpion Officially Launches Its DApp, Bringing Self-Directed Trading, AI Market Intelligence, and Custody Services into One Platform - Carroll County Mirror-Democrat",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3VxLVBsd0pfNVVienF3T1VHVFZjMllvdVdaelF1amUwR2U5QXQtX1NrMlI1TkRVbXdCeHRVVjJ4NkFEWkVjbXNLRkswdm84aVZGQVlwUEhsQUROdnQ1Y29yOWI2amkycUhibk5UQ3V0T2hVN0NseDBVQXBHbDYtQXJfSmFIRndFcDVndUhOdXE4UlFjMUFUY2FMVV9NdF9mdDBES1dJUEp5YUtLMi1vZ3YzWld5ajA?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:40:21 GMT",
+      "summary": "Alpha Scorpion Officially Launches Its DApp, Bringing Self-Directed Trading, AI Market Intelligence, and Custody Services into One Platform &nbsp;&nbsp; Carroll County Mirror-Democrat",
+      "outlet": "Carroll County Mirror-Democrat",
+      "outletUrl": "https://www.mycarrollcountynews.com",
+      "source": "AI 시장 전체",
       "sourceIds": [
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLdVRudVhSejZlMXpvRlVhd1B0UlhUdmtmanU3NjNHNFhVVi1TUEMwVmpaZktkNG5XeV9CZ0ZOQ2duOEt2UlE5YWxSUkdwVU1acHBJTS13NndtS0U?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:01:52 GMT",
-      "summary": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal &nbsp;&nbsp; BBC",
-      "outlet": "BBC",
-      "outletUrl": "https://www.bbc.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "[기획] 반도체 클러스터 배후수요 잡아라…용인 신규 분양시장 주목 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRVU9uMnFUQjVRY0x4S1FWSEc5Y0tCREpydFoyNE5hVm5jRnpXQ3BON1VEU0h5V0EyazRBU0dEVU1nSGlsT1JQQ0ZwX1F0dXMtSmlfMzFBREE0SVFtZnZIYnRKQTU?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:01:17 GMT",
-      "summary": "[기획] 반도체 클러스터 배후수요 잡아라…용인 신규 분양시장 주목 &nbsp;&nbsp; 매일일보",
-      "outlet": "매일일보",
-      "outletUrl": "https://www.m-i.kr",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "AI시장",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T16:36:16.746Z"
-    },
-    {
-      "title": "[포토] '엔비디아 AI 데이' - 아이뉴스24",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSFk3YXBVSVhQRjMwX052cmszbTNQMEluWEI1Z3AwZXRVSmNsVGdJSVROTTZzZE9qUnNod1RuY0oya0tTMnVjTHJNOA?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:00:19 GMT",
-      "summary": "[포토] '엔비디아 AI 데이' &nbsp;&nbsp; 아이뉴스24",
-      "outlet": "아이뉴스24",
-      "outletUrl": "http://www.inews24.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "Wirken: Open-source AI agent gateway - Help Net Security",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR0NEVXdqUkx4dXVCOWlqU2ZZa3diTlA3TVk3Tld2aU5QRF92LXpXOUE0d0JCdWVEaV9SUV84T285eFp0QmhiZC1JQVdBdWljZVlnN25MOVRlTnphWE5GX1ZKNU45MF9yUzRnWlgtazY0TkhDUjR3VkF6anEyLUs3VlFuTkplUQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:00:12 GMT",
-      "summary": "Wirken: Open-source AI agent gateway &nbsp;&nbsp; Help Net Security",
-      "outlet": "Help Net Security",
-      "outletUrl": "https://www.helpnetsecurity.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-10T12:59:31.488Z"
-    },
-    {
-      "title": "NVIDIA, 한국과 협력해 반도체부터 인재까지 소버린 AI 협력 확대 - NVIDIA",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfTVN2WWplOUZNaVFJcElNdG50OEVCd3VfOU9FU2k4WVhyR0RIV1VyRmluUUxla3BQakRXQkZ1anpwNDVTZWNVeWRRLVhhWm95dVV2aHB4d0kzY0hIQUx1TFpGc1hVWGFFbTNVc3lCeWZYT1E?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:00:05 GMT",
-      "summary": "NVIDIA, 한국과 협력해 반도체부터 인재까지 소버린 AI 협력 확대 &nbsp;&nbsp; NVIDIA",
-      "outlet": "NVIDIA",
-      "outletUrl": "https://blogs.nvidia.co.kr",
-      "source": "글로벌 기업·한국 반도체 협력",
-      "sourceIds": [
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "The only thing Nvidia couldn’t predict with all its AI. Writer: Daniyal - X",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xbzBOTzd4N01nYlZySnR6TnRyUDg3UEdKNW8yYk5sOWRLMjJidDRBZVlzSl9pcjZITk9wY011cGpyWndIZ0otTGh1SlNtSkFaeS02bjVtRU5sRzVfZ3dWOVdUR1FGYkVaQ2lacg?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:00:02 GMT",
-      "summary": "The only thing Nvidia couldn’t predict with all its AI. Writer: Daniyal &nbsp;&nbsp; X",
-      "outlet": "X",
-      "outletUrl": "https://x.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "[AI픽] 국산 NPU, 엔비디아와 손잡고 글로벌 AI 시장 공략 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHMHEzTG1JU0Nqa1hRMEx1S1NKSHRBSHUzTEFsbFdBU3F4QUFXQ05rNkhIbmdqZ1pFUU9DLUh4MnpQaGhBd1JDVGF3?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:00:01 GMT",
-      "summary": "[AI픽] 국산 NPU, 엔비디아와 손잡고 글로벌 AI 시장 공략 &nbsp;&nbsp; 코인리더스",
-      "outlet": "코인리더스",
-      "outletUrl": "https://www.coinreaders.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "korea-ai-policy",
-        "npu-commercialization",
-        "government-npu-policy",
-        "ai-chip-public-program",
-        "korea-global-chip-cooperation",
-        "korea-global-ai-companies",
-        "nipa-msit-policy",
-        "accelerator-software-ko",
-        "msit-ai-chip"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "K-엔비디아",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 26,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "Nvidia, SKT, Rebellions partner on AI computing system - Breakingthenews.net",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR25Ibi01ak9oeWxuWFV3WG5yUWg5Y2JOTDdfM0U0bUN2bXYyMDh5LVJQZGhWZXEtN1NuME9XR2FSTjhCNHRWVlpRYmh5cEVQV3lybXdBTFppWWFkMGVKeVZOWVBzb0xWM3lPcEwydXBMT21kcy1JUENUNjcyZld2cWxSTXNXNmxKZ3JWdm1MOXdrc2p6azl4VGR1Nmh6Zw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:00:00 GMT",
-      "summary": "Nvidia, SKT, Rebellions partner on AI computing system &nbsp;&nbsp; Breakingthenews.net",
-      "outlet": "Breakingthenews.net",
-      "outletUrl": "https://breakingthenews.net",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T12:07:37.377Z"
-    },
-    {
-      "title": "3 US Events to Watch as Inflation and AI Earnings Test Bitcoin - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81c3pGbVRqdzNHQmY0c0F5VEdyLXZnRUFWWnpsUkFvQ296VlZLdEpqbUZfYUFDZUJ3YS00TGY0NnJrWTBjMjhHaVUtd3dnb2JVTWV0MjlyRVpKVEdHajJRLXJ0U3NjNnNkQWVWcQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:00:00 GMT",
-      "summary": "3 US Events to Watch as Inflation and AI Earnings Test Bitcoin &nbsp;&nbsp; BeInCrypto",
-      "outlet": "BeInCrypto",
-      "outletUrl": "https://beincrypto.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
+        "ai-market-global"
       ],
       "sourceLang": "en",
       "region": "global",
@@ -1041,1395 +2496,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-11-09T12:07:37.377Z",
-      "lastSeenAt": "2026-11-11T11:49:46.967Z"
-    },
-    {
-      "title": "개인정보위, 정책포럼 개최…AI 침해 대응·사전예방 강화 모색 - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04X0pQaWtNbkFITDU0MzVidmZNbDJ6X1BwWlAxbUNlaWc1ZWxtYmxIZTM3SGdGMWtPRGZyYXZUU0xlWDVGc1pPUEtQVmpRZw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:00:00 GMT",
-      "summary": "개인정보위, 정책포럼 개최…AI 침해 대응·사전예방 강화 모색 &nbsp;&nbsp; 전자신문",
-      "outlet": "전자신문",
-      "outletUrl": "https://www.etnews.com",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "",
-      "score": 16,
-      "firstSeenAt": "2026-11-09T22:46:16.173Z",
-      "lastSeenAt": "2026-11-11T00:54:30.056Z"
-    },
-    {
-      "title": "부산시, 내년 예산 19조 3513억 원…출산·AI 전환 투자 - 산업단지신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11VVNFVEZldlRyOVVIZWlfS3ZHUWZiRXJjdGI0UDZxOXNxenVOWTdVX0hKVk5wYzZ2NGJfS0FzeTZJcFd6M0dRaWhWNDhWM3RPeGJlQmwtMm84U1Y3RTRrNnlobWh0bWc3TEhONE9nbw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:59:13 GMT",
-      "summary": "부산시, 내년 예산 19조 3513억 원…출산·AI 전환 투자 &nbsp;&nbsp; 산업단지신문",
-      "outlet": "산업단지신문",
-      "outletUrl": "https://www.sandannews.co.kr",
-      "source": "지역 AI·반도체 산업금융",
-      "sourceIds": [
-        "regional-industry-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-10T17:43:20.720Z"
-    },
-    {
-      "title": "광주환경공단 지방 공공기관 평가 3년 연속 다등급…시의회 \"반복 지적\" - 남도일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DN1NydmlYSTVIWGNNTHRseC1wdGJWTUYwczRkckQ4MVd4cUJNTmFsT2NZRzVwamJCRTE2UUtZcVEtN3Myb2VIYURRekUyUFlFNXFaR3ZRMFBaa3B5UWlMQ2E4blRMMm9wbDlsaNIBcEFVX3lxTE5ON3IxazRESkZPNHRXaTZkNy1ET29VeXpDd3IyMTRMdnpRWG5UZDYyMTM4MHNHM3NRZTNZNjAzUTF2UTZuOFoxWXhtV3ZiTnl5R0w3MEJTTU5FdU83UWo0cC1mdmcta281WEtlelFpbXg?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:58:18 GMT",
-      "summary": "광주환경공단 지방 공공기관 평가 3년 연속 다등급…시의회 \"반복 지적\" &nbsp;&nbsp; 남도일보",
-      "outlet": "남도일보",
-      "outletUrl": "https://www.namdonews.com",
-      "source": "지자체 NPU 정책·사업",
-      "sourceIds": [
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T07:00:36.604Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "국산 NPU, 엔비디아 시스템에 들어가다…SKT 데이터센터서 GPU와 한 몸 된다 - 글로벌에픽",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaaWFRVHA5VDNxemdnSGJ2ODhqUWprMVAxbS03TzA0RGsyTEdPTUhCT0pwYjRnWG1QYXlROUI0LWJVR1B1S0xhV0R3Znk2VkZDbUxhQVVDbTNBdklXMjdKdi1BYnBFZHBXWUtBdnI2YTVMZldkbDlMTmRPYTM?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:56:13 GMT",
-      "summary": "국산 NPU, 엔비디아 시스템에 들어가다…SKT 데이터센터서 GPU와 한 몸 된다 &nbsp;&nbsp; 글로벌에픽",
-      "outlet": "글로벌에픽",
-      "outletUrl": "https://www.globalepic.co.kr",
-      "source": "딥엑스",
-      "sourceIds": [
-        "deepx",
-        "npu-commercialization"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NPU",
-        "K-엔비디아",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 29,
-      "firstSeenAt": "2026-11-09T12:07:37.377Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "국산 NPU, 엔비디아 손잡고 글로벌 AI 시장 진출 나선다 - 브릿지경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xZTF0NU5EdnU1d25WYzJuemstbHU0Z01XdFRJMDducGdYTUVyMkxPcFAyY1FuTm9zOXBkdHZINTVIMUV5TVlNQTZZQkVBZlItMkQxT05QdGxmZw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:56:00 GMT",
-      "summary": "국산 NPU, 엔비디아 손잡고 글로벌 AI 시장 진출 나선다 &nbsp;&nbsp; 브릿지경제",
-      "outlet": "브릿지경제",
-      "outletUrl": "https://www.viva100.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-npu",
-        "korea-ai-policy",
-        "ai-chip-public-program",
-        "government-npu-policy",
-        "npu-commercialization",
-        "accelerator-software-ko",
-        "korea-global-chip-cooperation",
-        "msit-ai-chip"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "K-엔비디아",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 26,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "엔비디아·SKT·리벨리온, 소버린 AI 인프라 고도화 협력 - 서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBaVRKRGFmWWZma3FYdUQzbmpaRjBWcVRIX2RZeGttbVZBVml3ZzNJel9Lc0RfLVNCVWhaTE9aZHJZdXdtWWN0Z3R6VVdybHNLX05NaG03X3JlOEstVjFaUnZHMEluM3FMclE?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:55:28 GMT",
-      "summary": "엔비디아·SKT·리벨리온, 소버린 AI 인프라 고도화 협력 &nbsp;&nbsp; 서울파이낸스",
-      "outlet": "서울파이낸스",
-      "outletUrl": "https://www.seoulfn.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-npu",
-        "rebellions",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "한화세미텍, 37세 김진우 신임 대표 내정…HBM 장비 사업 성장 속도 - 나눔경제뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83aU1jOWwyUUJfaHBaYUZueHUxNVJlVGpUYzZvcTNzcFh0SV91emlzejg3alNUQ01fVFB0OUNKYTBRNC1NRlgwbGhMZkxlY0cwZnY0ejBvdDRIMk1jNWVWNVhRVDdYTHdrNkZlTg?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:55:09 GMT",
-      "summary": "한화세미텍, 37세 김진우 신임 대표 내정…HBM 장비 사업 성장 속도 &nbsp;&nbsp; 나눔경제뉴스",
-      "outlet": "나눔경제뉴스",
-      "outletUrl": "https://www.nanumy.co.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T01:54:03.553Z"
-    },
-    {
-      "title": "'질문 처리는 엔비디아 GPU, 답변 생성은 국산 NPU' …SKT, AI 추론 실증 - 더글로벌기빙뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqMERGakZ2VmhuTEZTV3pSbUVfQ3lQa3M1YkE4MGt3blM2TURFTlJXT1o5MVlXY21nVWQxaW9lVFhHMmJyUjBRa1Y5QVhnSEhtOU11MQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:55:00 GMT",
-      "summary": "'질문 처리는 엔비디아 GPU, 답변 생성은 국산 NPU' …SKT, AI 추론 실증 &nbsp;&nbsp; 더글로벌기빙뉴스",
-      "outlet": "더글로벌기빙뉴스",
-      "outletUrl": "https://theggnews.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-npu",
-        "rebellions",
-        "korea-ai-market",
-        "npu-commercialization",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "추론",
-        "K-엔비디아",
-        "NVIDIA",
-        "실증·조달"
-      ],
-      "issueCategory": "NPU",
-      "score": 32,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "[뉴스핌 이 시각 PICK] 엔비디아 없는 '엔비디아 AI 데이' 外 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHNnc1alNNR25ySl9ITUVoTVh2eU9KelZLVHlNUG85V1pJYndqU0pPQ21MS0U5LVRpcVZCd1ExLVlFX1MwdGg4bDhuTlJkZ3BKLWViRUFBSzRRNktx?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:55:00 GMT",
-      "summary": "[뉴스핌 이 시각 PICK] 엔비디아 없는 '엔비디아 AI 데이' 外 &nbsp;&nbsp; 뉴스핌",
-      "outlet": "뉴스핌",
-      "outletUrl": "https://www.newspim.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
       "lastSeenAt": "2026-11-09T12:46:06.088Z"
-    },
-    {
-      "title": "Seoul to host Henkel R&D center for AI and HBM chip materials with 12.1 billion won investment - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajJOb1ZUd3p3V1Y5NnllOFhHTDRCaGY3V3dpX3hCNjNOVEZtRi05Sld6bU1XM1E0VUpqMmdNX3hOUkRCWm1HQ21rbHcwM29SVjJBdWM3ek5paVN1d2FUOFp1cG9Mc1EtdU0yUVRVUTVVRGQ1MTEtZGdtRGNIU3ZjbdIBlAFBVV95cUxQVmg0dkpGRTJJRV83c2Fwc1pwcW9SdEc0Z1QyVjZteC1aNDViZ08wTzJGVDZlWDBOZTR4aVQyell0djNLbTk3eHNraFBsSzZZVlJSWlkzOWs3ZXQtZ3VUMzBKYmpmUU1Na0RBdlVzcGJEYXBZVTdvdFhoZ0dieFRneUp5LUc4eUlVOTI0ZkFGalFqZkxa?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:55:00 GMT",
-      "summary": "Seoul to host Henkel R&D center for AI and HBM chip materials with 12.1 billion won investment &nbsp;&nbsp; Chosunbiz",
-      "outlet": "Chosunbiz",
-      "outletUrl": "https://biz.chosun.com",
-      "source": "메모리·패키징·인터커넥트",
-      "sourceIds": [
-        "memory-packaging"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "한화세미텍, 37세 김진우 신임 대표 내정…HBM 장비 사업 키운다 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUxHNTdRSVFFYnpXczNZUjdSTnpES21KQUk2enhuVXRFOXlUV093NnI4M2Ftb2hEU3oyZjlJdmpMOU0wX3RXZHNUUWdaVHQ3cDE3VVF6bjZaOGZMeXJsazdYS0ZfTnp3V0M1Y0EtaGYwMkl3bTNvZlFZdmROTkROSA?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:54:41 GMT",
-      "summary": "한화세미텍, 37세 김진우 신임 대표 내정…HBM 장비 사업 키운다 &nbsp;&nbsp; 이데일리",
-      "outlet": "이데일리",
-      "outletUrl": "https://www.edaily.co.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-10T08:21:30.515Z"
-    },
-    {
-      "title": "네이버클라우드, 엔비디아 동맹으로 AI 학습 효율 50%↑…‘네모트론4’ 개발 협력 확대 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tbFl5Rjl2cVlXODZMaFZuQXZoWUVBV2hLYWl2WDExWG95dE0zNHpRRmN5SXFZVE8tdmRZMnpmMm1QdUd1U2ZnUng5eWJZM29IQm1XT05XVXVvdC1QaHV2bGdKMlQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:54:31 GMT",
-      "summary": "네이버클라우드, 엔비디아 동맹으로 AI 학습 효율 50%↑…‘네모트론4’ 개발 협력 확대 &nbsp;&nbsp; 디지털데일리",
-      "outlet": "디지털데일리",
-      "outletUrl": "https://www.ddaily.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 23,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T12:46:06.088Z"
-    },
-    {
-      "title": "반도체·에너지·데이터센터…전남광주 미래산업, 민간투자로 키운다 - 진일보 | 전남일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBY3BpTWNDRGVMUF9oS1BBZGNtZE00cTBhOVZhbVdGZllBMU5ZR2ctZWxFN0JEak00TXNlWndOeTZHa2taMVNvdDdmcUxEQlhKTHFEUHBBQlozWDBZMm1qMzVreVQ4ODM1SEF0SV9jSQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:54:28 GMT",
-      "summary": "반도체·에너지·데이터센터…전남광주 미래산업, 민간투자로 키운다 &nbsp;&nbsp; 진일보 | 전남일보",
-      "outlet": "진일보 | 전남일보",
-      "outletUrl": "https://www.jnilbo.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy",
-        "regional-industry-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 14,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T22:58:16.912Z"
-    },
-    {
-      "title": "GPU 발열 잡는 액체냉각 기술 한자리에…한국이콜랩, 차세대 AIDC 운영 전략 공개 - 뉴스탭",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tenB4TkFIVjA4VnE5MlZ6YngxdGItVVpYX2JXSmlCTFRYSzRZLTIxMEtxRmw4UGJPVFQ1TnFTUGg4dElHOU52X2ZnRHVNLVBIQl90VG1sUnFIUzIzM2d5cURzNTNrNGRfT0VPMQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:54:09 GMT",
-      "summary": "GPU 발열 잡는 액체냉각 기술 한자리에…한국이콜랩, 차세대 AIDC 운영 전략 공개 &nbsp;&nbsp; 뉴스탭",
-      "outlet": "뉴스탭",
-      "outletUrl": "https://www.newstap.co.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "사업자 연계 106건·계약 상담 320만달러 성과…NIPA, 한-베트남 AI·디지털 포럼 개최 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xZ0VBNERSZEJ2UVJ3WXg1VlMtWHFjREt5cV9pcEhIenNTYkFqdUlOaXdEd0JxNVdWR0MzVTZUWjFsVGJaNV92WlRKSXZJbEpWOWZCQXlFWktSS2NFTTJiNVhZQXk?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:54:06 GMT",
-      "summary": "사업자 연계 106건·계약 상담 320만달러 성과…NIPA, 한-베트남 AI·디지털 포럼 개최 &nbsp;&nbsp; 디지털데일리",
-      "outlet": "디지털데일리",
-      "outletUrl": "https://www.ddaily.co.kr",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "AI시장",
-      "score": 26,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "Yale’s Sonnenfeld Gives Huang Roughly Even Odds of Staying NVIDIA CEO - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFBGNUtnOXJBS1k4R1hxZlhueF82d2Rod1V6Z2tYUm15U3NJcnlfVFZETHZtTmVaSkRTRXdMRmhrODhIaHpGTUJET242WG9oS0s2YUh3d015N0hQZ3B3UDMxYXZxUUZIekxINDdaSHptT19EcmJzWWtNT0FMN1VMLVU0bzJKZEFud2N2T1c1YnpYVlQ0?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:54:02 GMT",
-      "summary": "Yale’s Sonnenfeld Gives Huang Roughly Even Odds of Staying NVIDIA CEO &nbsp;&nbsp; Unite.AI",
-      "outlet": "Unite.AI",
-      "outletUrl": "https://www.unite.ai",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "서울시, 121억 규모 독일 헨켈 반도체 소재 R&D센터 유치 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYjNBUHRfTG9QeFNXdWRIbldoY2hNRWE1d05QOVM1RFN0TTlqdmNacl9VMjZ3WVRIdkxuWF9sc0J6VFlENkVJZ0c5QVhVbFpxcFNhZVU4TTJaYW1ORkx4dTMwT1RLWnJkWWhNRUgxN1pKbE9TdXEydGRVNy1xendFSGRoajBxLUpCZ0E?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:54:00 GMT",
-      "summary": "서울시, 121억 규모 독일 헨켈 반도체 소재 R&D센터 유치 &nbsp;&nbsp; Chosunbiz",
-      "outlet": "Chosunbiz",
-      "outletUrl": "https://biz.chosun.com",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-10T12:59:31.488Z"
-    },
-    {
-      "title": "SKT·엔비디아·리벨리온, 한국형 소버린 AI 인프라 개발 협력 - NSP통신",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16dll6NWNwaWpEY2JYZG5fOUNwR1d1QS1idjFENjhkRGFtamJUZDFwdmk4UEl5YldOVmxuRGxvVVRiUDNqZDVCS082Y2xwLVRFS2tNdVJoQ3RZRnpFVlZCRw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:53:36 GMT",
-      "summary": "SKT·엔비디아·리벨리온, 한국형 소버린 AI 인프라 개발 협력 &nbsp;&nbsp; NSP통신",
-      "outlet": "NSP통신",
-      "outletUrl": "https://www.nspna.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "SKT, 엔비디아·리벨리온과 한국형 소버린 AI 인프라 공동 개발 - 서울타임즈뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XZmJiQm1jRUlmVzgxUWk5cHBlS2tPQWFTaUpnNzNnY0QzdmJpZzlwU3dXT1RsaF81Tl8tZF9remRDZnVkaW5ud1E4WUdYRjZfWGRJUDR3bGhqWll4WUxRY2RadFdvZk9GQmow?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:52:45 GMT",
-      "summary": "SKT, 엔비디아·리벨리온과 한국형 소버린 AI 인프라 공동 개발 &nbsp;&nbsp; 서울타임즈뉴스",
-      "outlet": "서울타임즈뉴스",
-      "outletUrl": "https://www.seoultimes.news",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "rebellions",
-        "npu-commercialization",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "한국형 AI 인프라 구축 박차…SKT-엔비디아-리벨리온, ‘맞손’ - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzN0Z2amxqdW9oNVIwdnNIaU95ZFVYOUJzOXFObHR6bWFLZjZtcHZTeTQ1NU4tS1BBWnV5Wm5kOVkyUUgzVU42U1dVOFB3akk1OEZwLW13?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:52:27 GMT",
-      "summary": "한국형 AI 인프라 구축 박차…SKT-엔비디아-리벨리온, ‘맞손’ &nbsp;&nbsp; 헤럴드경제",
-      "outlet": "헤럴드경제",
-      "outletUrl": "https://biz.heraldcorp.com",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "rebellions"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "Nvidia investigates alleged Chinese spy links to CEO - Information Age | ACS",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWFhenA3MERMR2hibkhaWURlZmw3Yy1DbEdBSXhLRnc4Skk1bTR5WWJkZ3FqNUw2c3d5bHpTSFJoUUJmU09ndEl3bjNTNkVZYmhRSzZONEpvelpnRTQ4ak5UZHBGbS1vMFFPZG5kb2NRb2tXd3dxNnJCQ2h5U2xoQzRoN09KUFhGcWpOZUNYZS1DbWp3NkM0?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:50:39 GMT",
-      "summary": "Nvidia investigates alleged Chinese spy links to CEO &nbsp;&nbsp; Information Age | ACS",
-      "outlet": "Information Age | ACS",
-      "outletUrl": "https://ia.acs.org.au",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "美 AI 투자 늦어진다는데…삼성·SK HBM 'LTA' 안전할까 - 블로터",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sZWNQTENidnB4MktKT0xxczNWRFFVaFJ6T1VxOVZPOTQtNnB5bjZOOUk5OU5Gd245cVJhd3Z4Z095LVFvYllCclRJNVk0VlFmd0dFblpEdlZ1R18ya1E1UXhSelg2YWFI0gFsQVVfeXFMUFpRbU1YUjV1NTkzYVV1NV96SFNPOXZQT3Y3Y0RKU09BMnlmWEVxOFpVQkJXeHJGbFlLOGxQNUcza3BaWU9HNjB0SHlHUlZXOUdtVjhRUEFKbnp1WHZBSm1UUHd2b1RmdGU1N3RN?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:50:21 GMT",
-      "summary": "美 AI 투자 늦어진다는데…삼성·SK HBM 'LTA' 안전할까 &nbsp;&nbsp; 블로터",
-      "outlet": "블로터",
-      "outletUrl": "https://www.bloter.net",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "[뉴스후] 데이터센터 멈추면 왜 '빚폭탄'인가…AI업계의 美민주당 간청이 드러낸 구조적 위험 - 데일리연합",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96UkpjcmlucUthazMwNXAwOXFDVy1NU01ZWXZDZXNtOXBTNG1Gak1SbEl0V29SeGNscTA3aTNoclZBS0h0VDRldHVVTHlfZThSUHdNbmswVXNKTU0?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:50:08 GMT",
-      "summary": "[뉴스후] 데이터센터 멈추면 왜 '빚폭탄'인가…AI업계의 美민주당 간청이 드러낸 구조적 위험 &nbsp;&nbsp; 데일리연합",
-      "outlet": "데일리연합",
-      "outletUrl": "https://dailyan.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T12:07:37.377Z"
-    },
-    {
-      "title": "This hedge fund called out Huang’s ‘special relationship’ months ago - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWWVHUGFRWVNqWnlISVRoWVVBanJqNjNCc1VaRG5lSGMtcWZ1QUgzNm5Ob0VxNGhFSEtkckg3OG11ZFBPaElCa1h5ZC0yczM4akhaTzhhWWFLV0Z1UkZXbUgyaXVvTlZMTXVrS1g4YTZ4NUpDeVoyc3BJS3JvcTVZNXFHRlpwSHhPdl9Ecjk1dWJndWhVUGhEeUhZTGE4NHFNMWFXanFKb3FwTzhPdEktX0I0U0R4VDlkQ29lLVMtUFRSSFE?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:50:00 GMT",
-      "summary": "This hedge fund called out Huang’s ‘special relationship’ months ago &nbsp;&nbsp; AFR",
-      "outlet": "AFR",
-      "outletUrl": "https://www.afr.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "NVIDIA, 리벨리온·SK텔레콤과 NVLink Fusion 기반 소버린 AI 인프라 고도화 협력 발표 - NVIDIA",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPamdSNDJMR3BudjNwS1E2amttLU92aS1ScWxsTUJoQU44ZFI5bVBhc2NHRkhLajI4NW1iYjY0SUFiZ192cFRzalRFem1BWlBIckpoa3E5ZVROVi1tcGxla3BIZ01xS0VzbFo5NURqSnJCZHdVb1lBYkNpWFBzZU9PMnNJQ3hoOUtjZ1JqTFo3a1c2TTFoX2RuSFozVDF3LW95UjZpd2d1b1pGa0xpaXNvVjF5UXA0M19JbVpMYnV5T1ROR1JKVDhSSmJ2QWxJdkxKUnNES2xOaUhVVC1VQmgzSV9IaGJkdDU4?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:49:47 GMT",
-      "summary": "NVIDIA, 리벨리온·SK텔레콤과 NVLink Fusion 기반 소버린 AI 인프라 고도화 협력 발표 &nbsp;&nbsp; NVIDIA",
-      "outlet": "NVIDIA",
-      "outletUrl": "https://blogs.nvidia.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "rebellions",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "Nvidia Jensen Huang Probe: 5 Key Facts [Updated 2026] - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnVUaGhXSGE3a0NqSzhJQXVDUVN0TWxzY01PSk42NXQzTlE5RkZ1dmdhRmFHT3kzSFVOdFM2dzRpcV8tMEg5R0ZvUW9LaXhxQ0xmdkUtSjV3VTU5QUVrSnRwVkEzTnpYcGVyODVqd1hUVW5pYlVQd3lIUHdBaEdiczdZNVFQVk5lNUxDWTVSRFMwdThPT1ZRcW1pNWdqcHdE?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:49:28 GMT",
-      "summary": "Nvidia Jensen Huang Probe: 5 Key Facts [Updated 2026] &nbsp;&nbsp; tech-insider.org",
-      "outlet": "tech-insider.org",
-      "outletUrl": "https://tech-insider.org",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "Samsung Tests Paid Galaxy AI Subscription: Plans and Price - PaidFreeDroid",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVllEYzJXOWh2TkNINkdhbW8xWERweEtrODhORWJmQzFvRzhLMW5DTE9iTVRWTkg1S3N4MzJRR2R3Y0hEVDlxb3lFRGRyTkF3QXBDUEFyd3ZKSHRTRzVBV3dIY01XbG9FbnNrMGRuRko0ZDRlM05IRGhxUDVIeFUxS2JYM2pGWmFIQUc0QWVhWmtubGlJTGZr0gGcAUFVX3lxTFB0V3llNDNYYXp2bzhmTGtWaTZfN3ZoaF9rd1ZnbHVRdW84Nndpc25JQkk4cUhSLUVENnlIZ0VhUG16ejMxUjE1bTZQc0pBMzQ3bWxhZWJ5VG9NNEhEbkVfai1EVjhFV2djZ0U4THhSYWF3WExJMUtoaGYxX2I3VXBsWDRHRGdsU0dvalg0dk9xb0NwUkFSUDNkc3dLRQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:49:12 GMT",
-      "summary": "Samsung Tests Paid Galaxy AI Subscription: Plans and Price &nbsp;&nbsp; PaidFreeDroid",
-      "outlet": "PaidFreeDroid",
-      "outletUrl": "https://paidfreedroid.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Samsung"
-      ],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 17,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T12:46:06.088Z"
-    },
-    {
-      "title": "동남아 데이터센터도 '스톱'…태국 49곳·말레이·인니 중단 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkRk9nZFdhaWNrci1PeXF3VWJuZi1aOXBRMGFuVWNsc0xZQUdfQ3ZzNUdOX2RyTXQ1djNkVk1wc2RxTlRDSHlPTTI4TzNFQm84UzdYRWNGOURzV2Nva1NDdElDeEh0dnZy0gFuQVVfeXFMTXZma19ZXzItNWxWWGNFY0g0M0hFV25ycExWUDF0cElZOUhZQ252bnBEWUdIVVJfemFxQ0xVT3ZhOFN1SzhId21UbVhFbjM2Yi01TWFFY1RwMmRuakpBdjVrMjFvb0JRd2ljUUtFckE?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:48:40 GMT",
-      "summary": "동남아 데이터센터도 '스톱'…태국 49곳·말레이·인니 중단 - 머니투데이 &nbsp;&nbsp; 머니투데이",
-      "outlet": "머니투데이",
-      "outletUrl": "https://www.mt.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T22:58:16.912Z"
-    },
-    {
-      "title": "SKT·엔비디아·리벨리온, GPU·NPU 결합 소버린 AI 인프라 협력 - 라이센스뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HZkNZdTVmSlZMa3lyWmFiakZMT2k3SVhWb1hRZG5ReExmcEV3UHUydlpwYTRWT3ZPRUVnQ0JFRl9wWlpIYWhJNGU3bTFsdGZSODNrUktsWEdVMXJ0UnFXdFprR1hzWDZ5MV9B?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:48:03 GMT",
-      "summary": "SKT·엔비디아·리벨리온, GPU·NPU 결합 소버린 AI 인프라 협력 &nbsp;&nbsp; 라이센스뉴스",
-      "outlet": "라이센스뉴스",
-      "outletUrl": "https://www.lcnews.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "rebellions",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 30,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "'HBM 협력사'에서 'D램 경쟁자'로?… TSMC 메모리 진출설에 '촉각' - 더퍼블릭",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qNUhuR3oyQ0VzbFcyZE56aFhIXzhiRkhLQ0s0M0tZY1FNZWhrbG8xVTRTYWhuc0ZWbi15YlpQRk1vSWtjQXVKbHFvY3dheG50eC1FTG55VkVWRWJzVnlOSWFwZ1hWUEZkOUlF0gFvQVVfeXFMTmdkSFBkWlc4SGo1ek9lcmsyU2x5MW9IZGh4UGxUazRFQWc3aGhsdXJOWVpnME1ENG9pbnhwcGVBOUVDOHB4dkNQMVBoZjNkZGhfZ1prVkZGbGRXUnphM1J4SkFFYy1aTzVpRHVtVmVj?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:47:59 GMT",
-      "summary": "'HBM 협력사'에서 'D램 경쟁자'로?… TSMC 메모리 진출설에 '촉각' &nbsp;&nbsp; 더퍼블릭",
-      "outlet": "더퍼블릭",
-      "outletUrl": "https://www.thepublic.kr",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "TSMC"
-      ],
-      "taxonomyHits": [
-        "파운드리·패키징"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-10T12:59:31.488Z"
-    },
-    {
-      "title": "Nvidia, SKT and Rebellions team up to build Korean sovereign AI - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSUc2RXhQbXpmUEtyemxoU2UyOXptWVdRYnJETFA2UlBpZ0ZsaWZqdEFPVU1QWlZfOG1LNnJCX29pY1d1M2JEMEJNTFNDQnI1TGxfSl9RSmtLSk5lQVpBNC1ydXpJQ1Iwd3VOVTl2Y2VObVV1d1ZLeDlrZnJfYlhFVHdzMk5WaEhWVF9YdDMxR1RpazhLTDNTeVVFeTgwTVNHdVRYSFNfRE83SUpzTzdwb193?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:46:06 GMT",
-      "summary": "Nvidia, SKT and Rebellions team up to build Korean sovereign AI &nbsp;&nbsp; 디지털투데이",
-      "outlet": "디지털투데이",
-      "outletUrl": "https://www.digitaltoday.co.kr",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA",
-        "수출통제·공급망"
-      ],
-      "issueCategory": "NPU",
-      "score": 30,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-10T08:21:30.515Z"
-    },
-    {
-      "title": "엔비디아·SKT·리벨리온 '맞손'...한국형 소버린 AI 구축 협력 - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoRlVGVXFud0FtcnpmRE1rQ2ltZFNWcmFOdmdWU1E0RkZ5OFU1XzUtVnU3LVpVLWMtN3dwdjBOaUtmNlRXd05iZ2N1OWJUZWpmdk1MR2xhWl9kLWRLWUJxWEk3bnZaTDdNVDBuSmQzRWlNMTg?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:46:06 GMT",
-      "summary": "엔비디아·SKT·리벨리온 '맞손'...한국형 소버린 AI 구축 협력 &nbsp;&nbsp; 디지털투데이",
-      "outlet": "디지털투데이",
-      "outletUrl": "https://www.digitaltoday.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "rebellions",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "전남광주통합특별시 \"서남권 반도체 클러스터 악의적 왜곡,허위 보도\" 강경 대응 예고 - 남도일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3eHcyS2lUV21ScktFeDBkLWRpdTZ4Skw0ZnFPRzlJcmZTYWlQVGZGTndSSDlhU2o4SWlwbVMzVGtnR0lDU1hyVERQblNzQlA3Z05jZ291RTQtbW93aW9yTnl6YkZ3MzR5R2dnbNIBcEFVX3lxTFB6Z1M0cWN4THozcHdCQ192SUs2Y0o1bzg1VWlPaUNkRlNIam1WNnhUYUxnN01CMklrRmN1cTNvTGpTV29yU3hQRnh6bXFkemZianF0NlowNTFtcUYzNlFLSmlGcUJBZml0Wk1PcUpvS20?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:46:00 GMT",
-      "summary": "전남광주통합특별시 \"서남권 반도체 클러스터 악의적 왜곡,허위 보도\" 강경 대응 예고 &nbsp;&nbsp; 남도일보",
-      "outlet": "남도일보",
-      "outletUrl": "https://www.namdonews.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-10T04:20:56.793Z"
-    },
-    {
-      "title": "\"AI 규제 법안 쏟아진다\"…현실화하는 '블루쓰나미' 공포 [이슈+] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YWE82QUlCU01ZQTdVUkVvRy1JOFhhdG5XbDJHNWl2RUFyMzZwYTFveXNKVElxOWN1S2NlQnhWVzBNZU5oQlJrb2R5a2tkc0hMQUtENHVPeFpJUQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:45:32 GMT",
-      "summary": "\"AI 규제 법안 쏟아진다\"…현실화하는 '블루쓰나미' 공포 [이슈+] &nbsp;&nbsp; 한국경제",
-      "outlet": "한국경제",
-      "outletUrl": "https://www.hankyung.com",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "충남 송전탑 대책위, 용인 반도체 국가산단 착공강행 저지 천막농성 - 백제뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqQVpiSkp4M09IaGlxZW9XbzdNWnM5T09MOVNESnhXLXJ6NmxfYnpqRFZKQ2MwYXliTHktOERQQVJtYV9SRnkxdXJEXzhaYWhtX0xGMmliNDMxVEVCWVhXVUlyR0hZenBrLW1aMg?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:45:04 GMT",
-      "summary": "충남 송전탑 대책위, 용인 반도체 국가산단 착공강행 저지 천막농성 &nbsp;&nbsp; 백제뉴스",
-      "outlet": "백제뉴스",
-      "outletUrl": "https://www.ebaekje.co.kr",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-10T07:37:39.463Z"
-    },
-    {
-      "title": "Goldman Sachs looks at healthcare as potential next AI investment theme - Medical Buyer",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcGI0eWRUTzlWck1qbjl4am5ieW00Vkl6ZWVGYi1VTjBaWUwtVVpuMnlPYWhOVVVxZTdMVTlZS2xLWW5wMklJU2EzZ1VUc0JZenNKTjN2Z3U0SE1XaHBCUnptNjBmTHQtcTZjT29CUE5HTDNtUEpNVmR1aWk1Z2l6RVdNZVBONWNsUll0TmtuTF8xcVJ2eF8yemlJOHAtblZr?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:44:52 GMT",
-      "summary": "Goldman Sachs looks at healthcare as potential next AI investment theme &nbsp;&nbsp; Medical Buyer",
-      "outlet": "Medical Buyer",
-      "outletUrl": "https://medicalbuyer.co.in",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T06:49:11.435Z"
-    },
-    {
-      "title": "[기획] 팹만 짓는 게 아니다…용인 반도체 산단 공공공사 2조원대 발주 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUVV3cTcyNEVKSHZYYk5hTDlCOVVxaWF6ZEZLcFZicDVIeHVMLWhNdE4tbzBHM2tTMnJWeXhSUGI0MmdodmV2bXdMYzBaazNZamMxWkdPdS1QalJMNmtUaWRGbTk?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:44:37 GMT",
-      "summary": "[기획] 팹만 짓는 게 아니다…용인 반도체 산단 공공공사 2조원대 발주 &nbsp;&nbsp; 매일일보",
-      "outlet": "매일일보",
-      "outletUrl": "https://www.m-i.kr",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T01:54:03.553Z"
-    },
-    {
-      "title": "부산시, 19조 원대 예산으로 '미래 대전환'…해양·AI·민생에 방점 - 국제뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90ajg2Q01WSnN3TjZSMFZYekNiUFAzUUwyNmZaVEZxeU0tQVhwb3ljSmIzQWgtMnNlSkhjeGFMR2EyN1FVOVZZNEppYkhaX2Vfb2paQ1JiQjE3NFRlV1pWT1M5aWtIWWN1LW9GaHZB?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:44:28 GMT",
-      "summary": "부산시, 19조 원대 예산으로 '미래 대전환'…해양·AI·민생에 방점 &nbsp;&nbsp; 국제뉴스",
-      "outlet": "국제뉴스",
-      "outletUrl": "https://www.gukjenews.com",
-      "source": "지역 AI·반도체 산업금융",
-      "sourceIds": [
-        "regional-industry-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "",
-      "score": 16,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-10T04:20:56.793Z"
-    },
-    {
-      "title": "SKT, 엔비디아·리벨리온과 소버린 AI 인프라 구축한다 - 비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QUFhJVG1ROEZMajdHbG92ZlVIR3ZNeHR4YnBMUGlBLXg0NUNkMnEwRmdWTTBnV0ZvaXdocjlKODh4RGt3VkNWV1BsN0lyam54MUxvTF9pdlpzZlRoX2tLa3RVcFA4VS02b3c?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:43:03 GMT",
-      "summary": "SKT, 엔비디아·리벨리온과 소버린 AI 인프라 구축한다 &nbsp;&nbsp; 비즈워치",
-      "outlet": "비즈워치",
-      "outletUrl": "https://news.bizwatch.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-npu",
-        "rebellions"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "리벨리온, 엔비디아·SKT와 한국형 소버린 AI 기반 넓힌다 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6Zzk1RUNYNHIwOEp6QWtBWFZDcFExSFlySUV2WVFQbWZZT2NUUFc0ODB4QTdmWmR0TFVqa3BROTZ3M2VIR0x0bWlNQWhuRDFEcWYxdDRtOXhQWjV6OE14VtIBYEFVX3lxTFB6Zzk1RUNYNHIwOEp6QWtBWFZDcFExSFlySUV2WVFQbWZZT2NUUFc0ODB4QTdmWmR0TFVqa3BROTZ3M2VIR0x0bWlNQWhuRDFEcWYxdDRtOXhQWjV6OE14Vg?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:41:17 GMT",
-      "summary": "리벨리온, 엔비디아·SKT와 한국형 소버린 AI 기반 넓힌다 &nbsp;&nbsp; 연합뉴스",
-      "outlet": "연합뉴스",
-      "outletUrl": "https://www.yna.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-npu",
-        "rebellions",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "국산 AI 반도체, 엔비디아 생태계 올라탄다···SKT-리벨리온 3자 협력 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqRDNaTFhzMnhhc2txRGd2N2NPSkxZMEEwR195SGE4RkE1cmRYSUMwdFJSODRsNlZ3TjRMVmRCNE9FZEI3SUdZRXM4Nk9WRXdpN3AxSmZQOE40UdIBX0FVX3lxTFBodGN4ZnRqMWZ5WloyTjBrWTlpdkFFdm9RMVJOS0FBc21uN1NnRGd4b2NtdGlQTmQzNE5lY25vS2FwSW9SVjZjYm9LbWJrRTJGWjJEc1p3Tkxfc1RvTlNv?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:40:00 GMT",
-      "summary": "국산 AI 반도체, 엔비디아 생태계 올라탄다···SKT-리벨리온 3자 협력 &nbsp;&nbsp; 경향신문",
-      "outlet": "경향신문",
-      "outletUrl": "https://www.khan.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-npu",
-        "rebellions",
-        "msit-ai-chip",
-        "ai-chip-public-program",
-        "npu-commercialization",
-        "korea-global-chip-cooperation",
-        "accelerator-strategic-deals-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "SKT·엔비디아·리벨리온, 한국형 소버린 AI 인프라 구축 협력 나선다 - 이코노뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtZ0pNU2cwdjJYRWQ1a2htSEpPeWItRmhOUjZGd1F0VXFUdDRHZER4NVRiOFB3bzJiRmRvek84ZEs3Q1M4UXh4akMtZUxPWWt5cmtqTmJNU3lORWMwZUhiM3RtT3dmR0xpejJvelRB?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:40:00 GMT",
-      "summary": "SKT·엔비디아·리벨리온, 한국형 소버린 AI 인프라 구축 협력 나선다 &nbsp;&nbsp; 이코노뉴스",
-      "outlet": "이코노뉴스",
-      "outletUrl": "http://www.econonews.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "rebellions"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "공무원도 AI로 직접 만든다…과기정통부 간부들도 직접 바이브 코딩 실습 - www.cwn.kr",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42RzBmalZvaVFwWV91dXd3b1lZZXR4RDR6M2ZobDF4eEdWLVdwNldacTJZd3c3bEtyRVkzSWJMT1F5cjZULUg5X2Exb0J3Sm9DZVN3OHh4UG16elpubFlfLXNn?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:39:00 GMT",
-      "summary": "공무원도 AI로 직접 만든다…과기정통부 간부들도 직접 바이브 코딩 실습 &nbsp;&nbsp; www.cwn.kr",
-      "outlet": "www.cwn.kr",
-      "outletUrl": "https://www.cwn.kr",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "",
-      "score": 26,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T08:23:06.410Z"
-    },
-    {
-      "title": "Nvidia Probe Puts China Exposed US Chip Stocks In Focus - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWlSbE9XZzlfaVhTazBCdWxkTERCSXBXQk5PRW9HNFpuQk9rRlBpVGlMQ0Y0enIwY3FLWkVxRmtwd1lrYm8wdGR5SVBBdnhPcDItS1dZSVlNeVkzYjVnd1N4ajQzejhxNkdfOW1WejB4TUx0bk4tTkpSTFRpMWdncHlodHNjSUo2NURjeWFVaFNEWnQzcXFYWUxlbw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:37:30 GMT",
-      "summary": "Nvidia Probe Puts China Exposed US Chip Stocks In Focus &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "수출통제·공급망"
-      ],
-      "issueCategory": "AI시장",
-      "score": 18,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "SK 반도체·LG 로봇·네이버 AI…엔비디아, 韓 AI생태계 '밀착' - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDRhWTZORmhhUkN1cy1mOFhGVjRwTHFFenhyek93WWt4aUMtR0tSQ1hZc28wOERRRjItWGVnMngtOWwtTnVKbzVvQjNua2R0ZDZyaUVoSTdsUUFaVl9TRUtDMTBGNVNyc1FGb3V0V0x2ajRXWTcyVDl0TXc1d052Zw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:37:03 GMT",
-      "summary": "SK 반도체·LG 로봇·네이버 AI…엔비디아, 韓 AI생태계 '밀착' &nbsp;&nbsp; 이데일리",
-      "outlet": "이데일리",
-      "outletUrl": "https://www.edaily.co.kr",
-      "source": "글로벌 기업·한국 반도체 협력",
-      "sourceIds": [
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
-    },
-    {
-      "title": "“데이터센터 승인 멈춘다” 美 규제 변수에 국내 건설사 ‘촉각’ - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNazhtYms1VGNtZzZMSEdLR3FMdGZZRV9KOWNuSk9ITEpjc2lrWDloYUwzT1lsMy1HRnZfSlMyUGtraDJaRGR0V1RWUnp0bUl2TTZRLS1DWTl0U09GMnV1YVFiS1l4b21MLXFIeU5xd2VCLVJlYVVwQklScWI1NUVuUQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:36:53 GMT",
-      "summary": "“데이터센터 승인 멈춘다” 美 규제 변수에 국내 건설사 ‘촉각’ &nbsp;&nbsp; 이데일리",
-      "outlet": "이데일리",
-      "outletUrl": "https://www.edaily.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T22:58:16.912Z"
-    },
-    {
-      "title": "엔비디아 GPU에 국산 NPU 결합…SKT 데이터센터서 실증 - www.dt.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wdzF5WklaRGhfODR6c2dqSVltTTI2MWZyWVFfbU56Uzd3c2VFQnlubTAwQzZyRjN6TThJcjVQeHBYUkdpbmcxR29BcnotQQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:36:51 GMT",
-      "summary": "엔비디아 GPU에 국산 NPU 결합…SKT 데이터센터서 실증 &nbsp;&nbsp; www.dt.co.kr",
-      "outlet": "www.dt.co.kr",
-      "outletUrl": "https://www.dt.co.kr",
-      "source": "지자체 NPU 정책·사업",
-      "sourceIds": [
-        "local-government-npu",
-        "npu-commercialization",
-        "government-npu-policy",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NPU",
-        "K-엔비디아",
-        "NVIDIA",
-        "실증·조달"
-      ],
-      "issueCategory": "NPU",
-      "score": 32,
-      "firstSeenAt": "2026-11-09T12:07:37.377Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "SK텔레콤, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발 협력 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GSDMzU2h0dmRzbjdkeFdGdWFvZUM4MGFOQlNnRVQ0QTVhd0JhSFpOcnNsN3JTZGFMTG54eEFyTDhMbnhsUVdva2FOSVZjby1NTWx1WA?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:36:00 GMT",
-      "summary": "SK텔레콤, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발 협력 &nbsp;&nbsp; 이투데이",
-      "outlet": "이투데이",
-      "outletUrl": "https://www.etoday.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-npu",
-        "rebellions",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 30,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
-    },
-    {
-      "title": "이언주 의원, 용인 반도체클러스터 전력 공급·305억 원 예산 감액 점검… 골목상권 차등 지원 촉구 - 월드장애인사랑뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54WmR0VkhMUktLbWxjUVpkVDFabXllSUVuR0Jzb2pxWFFCVmk0Vm15RXgzbkZBMGc5LWlfUnJ0RHpSWk5ZeHhFakxPMUpNZWJzWkRack42eUtCdE51TkNKMmVzd1Z5RkJwN3psdEp0QQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:36:00 GMT",
-      "summary": "이언주 의원, 용인 반도체클러스터 전력 공급·305억 원 예산 감액 점검… 골목상권 차등 지원 촉구 &nbsp;&nbsp; 월드장애인사랑뉴스",
-      "outlet": "월드장애인사랑뉴스",
-      "outletUrl": "https://www.youcandonews.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "AI시장",
-      "score": 11,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T06:56:02.508Z"
-    },
-    {
-      "title": "SKT-엔비디아-리벨리온, 한국형 소버린 AI 인프라 구축 추진 - 한국NGO신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9heFQyRV9iUy1ZY2hNd3YwZzhtd1RaWXRic2l0RGRiUDN3NC1NYlRwNTlSWkhzeVdlVjlYbFI1bkx1QU5BcEZmc0RhTndtQlBVajVvejdoUDZPSFA0YlR2SUdGeWFudEox?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:35:30 GMT",
-      "summary": "SKT-엔비디아-리벨리온, 한국형 소버린 AI 인프라 구축 추진 &nbsp;&nbsp; 한국NGO신문",
-      "outlet": "한국NGO신문",
-      "outletUrl": "https://www.ngonews.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T22:58:16.912Z"
-    },
-    {
-      "title": "Google Takes Over $30.9 Billion AI Startup's Unfinished Data Centre Project - The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS0xzWkp0a3dvaDhnNHlaYVR4a0EzbWhCNW51d0tCMHA2LU5KMjZoZ2d0NWlqV1U2UFZ4bDBvcXZWWU9iS0xuYXV2bVhiazM2UWg4ejJkbHRzQUtEbF94Nm9yRW1Gck44ZHZMX0Z3bHNodVRuQXV0ZWtZMnhDX0xKX0loOElqZExBTTU5U2RQMGhJRUhQZG1PLW5zZFF5TU4wNlFMVE00LV95eU03OWV3RUx2a24?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:35:23 GMT",
-      "summary": "Google Takes Over $30.9 Billion AI Startup's Unfinished Data Centre Project &nbsp;&nbsp; The Hans India",
-      "outlet": "The Hans India",
-      "outletUrl": "https://www.thehansindia.com",
-      "source": "AI 시장·비즈니스",
-      "sourceIds": [
-        "ai-market-business"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI시장",
-        "데이터센터",
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 26,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T12:46:06.088Z"
-    },
-    {
-      "title": "Nvidia Partners With Korea's Rebellions, SK Telecom on AI Push - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWZYUW96VnFhUUJ0RXk5aXVWenV5ZXJHSHBaQ0lyWEpCR0J6Wl92WHFGdVJJVk5HQVZpZm5WSzByS2ZIRDhObnU4NWFqVVc5VmdkY2t3clh1MER5dHpfbFFkajNtMHYyaEh6dkJ2bUNYYWhTanVQSXFPZXhRSmk0X0xacjNMME00czV6WFBweVpmTWVhbWNub2VR?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:35:17 GMT",
-      "summary": "Nvidia Partners With Korea's Rebellions, SK Telecom on AI Push &nbsp;&nbsp; The Tech Buzz",
-      "outlet": "The Tech Buzz",
-      "outletUrl": "https://www.techbuzz.ai",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai",
-        "global-policy",
-        "accelerator-strategic-deals-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 27,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T06:56:02.508Z"
-    },
-    {
-      "title": "이언주 \"반도체 속도전, 앞으로 2~3년이 승부처” - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xVTlnN3g4R1lucFNQem9QQkcyb2NIdHRxN0lXVHBvV0tVSHZLUkRHemtLTkhybHhzaVFoUTMyb1NXemRGT0J3TG1HYlVQWlVmbl93dWVyTThlQ3BUeVZuZNIBeEFVX3lxTFB4SWpwYkw5ck1wRUZkcEk3QjVFTm1mOTZtcUdZeFI2NTBqU2RaMWRldGJIdVd0MG1tZnNGbkZDbTJJdjN0Y0d4SGkwZHh5N2ZPWmhPS0c5dzlSVzdDc0h6d1RTaFk0N1RIZ2o3Zmo2U0RYUmRLUWhqeQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:35:12 GMT",
-      "summary": "이언주 \"반도체 속도전, 앞으로 2~3년이 승부처” &nbsp;&nbsp; 뉴시스",
-      "outlet": "뉴시스",
-      "outletUrl": "https://www.newsis.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-10T17:43:20.720Z"
-    },
-    {
-      "title": "Nvidia Teams Up With South Korea's SK Telecom and Rebellions to Integrate South Korean NPUs Into GPU Racks - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01NlpPMkhuN3h0bm84MXhVTDEwR21xOG1YSXA4Nk5USjNwZVhBTVdNYkI5N3pjckpmeVNMR3RoaEZVOGlQeFkyUWxybEFnU2puSVNqNTJIYmlaYWpGenZ0X1BiWV9vMUl3RHp4T0tVal96WDhsUGc?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:35:00 GMT",
-      "summary": "Nvidia Teams Up With South Korea's SK Telecom and Rebellions to Integrate South Korean NPUs Into GPU Racks &nbsp;&nbsp; BigGo Finance",
-      "outlet": "BigGo Finance",
-      "outletUrl": "https://finance.biggo.com",
-      "source": "글로벌 가속기 전략적 거래",
-      "sourceIds": [
-        "accelerator-strategic-deals-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NPU",
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 33,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-11T16:36:16.746Z"
-    },
-    {
-      "title": "OpenAI CFO Says AI Demand Is 'Real' Even as Market Corrects, Affirms Investment Will Continue; IPO Targeted for 2027 - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKSjhjSlgxMEZoc254TzBORElPLU5uSHBWVHpITGZFY1oyVmd2QTRxZF83X0FpSEs2cHQ2aHpVZ0pyNzc3MXRpNXMwOE8tOFA4MmJibkFtSk16ZzFSRFNlUUhKWjQ0a3dQZnhmRFFINlJTQWx5T0E?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:35:00 GMT",
-      "summary": "OpenAI CFO Says AI Demand Is 'Real' Even as Market Corrects, Affirms Investment Will Continue; IPO Targeted for 2027 &nbsp;&nbsp; BigGo Finance",
-      "outlet": "BigGo Finance",
-      "outletUrl": "https://finance.biggo.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T12:46:06.088Z"
-    },
-    {
-      "title": "엔비디아·SKT·리벨리온, 3자 AI 반도체 협력…국산 NPU 연동 추진 - 민주신문",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xY2Q2eVo4VnhmRUFwaTB6VFlUS1Fpek9LS1FmRGhmcU1UcXJpekJfcGFIOHhPNnAxRFNIclU2NHJZM0lVX19IQ2FLSHk1SVV4LTdYX0dIbzJuZFZTN2ZXV1BaOTBzWnfSAWtBVV95cUxObHEtNi1wVDF0c2hSaTF1NWVKTl9LU0wwVDRTRExUVlVrSC16SFlnZmU1ZXUxNEdISExFY0paVnNNT3JOWEE5LXQ1LVVmSUhiY0hpOG91ZXA3M0w5Q0VKdXVJOEV0aXlSTWJ5Yw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:34:55 GMT",
-      "summary": "엔비디아·SKT·리벨리온, 3자 AI 반도체 협력…국산 NPU 연동 추진 &nbsp;&nbsp; 민주신문",
-      "outlet": "민주신문",
-      "outletUrl": "http://www.iminju.net",
-      "source": "과기정통부 AI반도체",
-      "sourceIds": [
-        "msit-ai-chip",
-        "deepx",
-        "ai-chip-public-program",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "K-엔비디아",
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 33,
-      "firstSeenAt": "2026-11-09T12:07:37.377Z",
-      "lastSeenAt": "2026-11-10T17:43:20.720Z"
     }
   ]
 }
