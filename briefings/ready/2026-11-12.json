@@ -1,0 +1,438 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-12",
+  "cutoff_at": "2026-11-12T09:30:00+09:00",
+  "window_start": "2026-11-11T09:30:00+09:00",
+  "created_at": "2026-11-12T09:48:20+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "딥엑스 대표가 12월 엔비디아 본사에서 DX-M1·DX-M2와 엔비디아 GPU를 모듈·보드 단위로 결합하고 소프트웨어를 연동하는 방안을 논의할 예정이다.",
+        "국산 저전력 NPU가 GPU를 대체하는 구도를 넘어 로봇의 감지 연산을 분담하는 이기종 구성과 엔비디아 고객망을 통한 해외 판로를 모색하는 단계로 이동했다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "김종민 의원이 국가·지자체·공공기관의 핵심 인프라 구축 때 국산 반도체 탑재 제품을 우선 구매할 수 있도록 하는 반도체특별법 개정안을 발의했다.",
+        "산자위 소관 공공기관의 2024년~2026년 8월 AI 가속기 구매액 102억8,760만원 중 국산 NPU가 250만원에 그친 수요 공백을 실증·구매 연계 제도로 보완하려는 입법이다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "래블업은 120곳 이상의 사업장과 단일 사업장 2,000개 이상 GPU 운영 경험을 공개했으며, 적용 사례에서 GPU 활용률을 30%에서 85%로 높이고 예산을 40% 줄였다고 밝혔다.",
+        "엔비디아·AMD·인텔 장비별 최적화와 금융·자동차 고객 확대, 94.7%의 반복매출 비중은 이기종 가속기 운영 SW가 실제 기업 업무와 수익으로 연결되는 경로를 보여준다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "AMD가 최대 256코어의 EPYC Embedded 9006과 삼성 DDR5·PCIe 6.0 SSD·CXL 3.2 메모리 모듈을 결합한 반도체 자동화 테스트 구성을 공개했다.",
+        "AI 인프라용 메모리 경쟁이 제품 공급을 넘어 고대역폭 메모리와 입출력 장치를 양산 규모에서 검증하는 제조 테스트 환경의 공동 고도화로 확장됐다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "GS와 포스코가 동해 1.2GW·약 15조원 AI 데이터센터 사업을 포함해 설계 초기부터 철강·전력·냉각 솔루션을 결합하는 전략적 협력 MOU를 체결했다.",
+        "데이터센터 개발사가 설계·시공·에너지·냉각과 소재 공급사를 하나의 공급망으로 묶고 국내 실적을 바탕으로 북미·아시아 공동 사업까지 추진하는 구조가 만들어졌다."
+      ]
+    },
+    {
+      "article_numbers": [6],
+      "bullets": [
+        "영국 AI칩 기업 프랙타일이 정부의 Sovereign AI 펀드와 British Business Bank가 참여한 7억2,000만달러 시리즈C를 유치해 기업가치 70억달러를 인정받았다.",
+        "민간 벤처자금과 국가 정책금융이 추론칩의 2027년 상용 출시를 함께 뒷받침하면서 AI 주권 전략이 연구지원에서 자국 하드웨어 기업의 대규모 성장자본 공급으로 확대됐다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "딥엑스, 엔비디아 GPU와 국산 NPU 결합 논의…피지컬 AI 해외시장 겨냥",
+      "category": "국내 NPU·글로벌 협력",
+      "collected_at": "2026-11-11T06:56:02.508Z",
+      "original_published_at": "2026-11-11T15:52:00+09:00",
+      "original_url": "https://www.hankyung.com/article/202611110565i",
+      "main_points": [
+        "딥엑스 김녹원 대표는 12월 첫째 주 미국 엔비디아 본사를 방문해 엔비디아 GPU와 딥엑스의 DX-M1 또는 DX-M2 NPU를 결합하는 방안을 논의할 예정이다. 양사는 11월 9일 서울에서 열린 AI 스타트업 파트너십 포럼에서 협력 가능성을 타진했으며, 딥엑스가 엔비디아와 직접 기술 협력을 추진하는 것은 이번이 처음이라고 보도됐다.",
+        "검토되는 방식은 모듈 또는 보드 단위에서 두 회사 칩을 함께 구성하고 소프트웨어를 연동하는 이기종 컴퓨팅이다. 휴머노이드 로봇에서 GPU가 복잡한 상황 판단과 행동 계획을 맡고, 저전력 NPU가 카메라·센서에서 들어오는 감지·분류 연산을 처리해 전력과 지연시간을 낮추는 구상이다.",
+        "딥엑스는 이 구성을 피지컬 AI 시장과 해외 판로 확대에 활용하려 한다. 현재는 엔비디아 임원과의 기술 논의를 앞둔 단계로, 구체적인 인터페이스·소프트웨어 연동 범위와 공동개발 일정은 후속 협의에서 정해질 예정이다."
+      ],
+      "importance": [
+        "국산 NPU의 사업화 전략이 단일 칩 성능 경쟁에서 GPU와 역할을 분담하는 시스템 통합으로 넓어졌다. 로봇처럼 전력·응답시간·복합 연산을 동시에 요구하는 시장에서는 GPU 대체보다 이기종 구성이 고객 도입의 현실적인 출발점이 될 수 있다.",
+        "엔비디아 생태계와의 연동은 딥엑스가 자체 SDK만으로 해외 고객을 확보할 때보다 시장 접근성을 높일 수 있다. 반면 데이터 이동과 런타임 통합이 실제 성능 이점으로 이어져야 하므로 칩 간 연결 규격과 개발도구가 협력의 핵심 자산이 된다."
+      ],
+      "implications": [
+        "다음 확인 지점은 12월 회동 뒤 공동 참조보드, 소프트웨어 통합 계획, 로봇 제조사나 모듈 고객의 검증 일정이 구체화되는지다. 회동 자체보다 실제 워크로드에서 GPU 단독 대비 전력·지연시간·비용이 얼마나 개선되는지가 사업성을 좌우한다.",
+        "이기종 구성이 확산되면 국산 NPU 기업은 CUDA 기반 상위 애플리케이션과 자사 컴파일러·런타임 사이의 호환 계층을 안정적으로 제공해야 한다. 모델 분할, 메모리 이동, 장애 대응까지 묶인 운영 SW 역량이 칩 사양만큼 중요한 경쟁 기준이 된다.",
+        "국내 실증과 수요 연계에서도 GPU와 NPU를 선택지로 분리하기보다 하나의 시스템에서 워크로드별 배치 효율을 검증하는 방식이 유용하다. 후속 공동개발과 고객 평가가 확인되면 국산 NPU의 글로벌 생태계 편입 사례로 추적할 가치가 있다."
+      ],
+      "sources": [
+        {
+          "title": "[단독] 엔비디아 GPU에 딥엑스 NPU 결합…김녹원 대표, 내달 美 본사 찾는다",
+          "publisher": "한국경제",
+          "published_at": "2026-11-11T15:52:00+09:00",
+          "url": "https://www.hankyung.com/article/202611110565i",
+          "verification": "full_text",
+          "verified_at": "2026-11-12T09:42:00+09:00"
+        }
+      ],
+      "event_id": "deepx-nvidia-gpu-npu-heterogeneous-cooperation-talks-2026-11-11",
+      "event_first_published_at": "2026-11-11T15:52:00+09:00",
+      "event_evidence_url": "https://www.hankyung.com/article/202611110565i",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "공공기관 국산 AI반도체 우선구매법 발의…NPU 실증·수요 연결 근거 마련",
+      "category": "국내 정책·공공 수요",
+      "collected_at": "2026-11-11T06:41:26.106Z",
+      "original_published_at": "2026-11-11T11:15:15+09:00",
+      "original_url": "https://chemie.or.kr/article/1065579984993142",
+      "main_points": [
+        "김종민 의원은 국가·지방자치단체·공공기관이 전력망, 정보통신망, AI 데이터센터 등 국가안보 핵심 인프라를 구축·운영할 때 국산 반도체 탑재 제품을 우선 구매할 수 있도록 하는 반도체특별법 개정안을 대표 발의했다. 산업통상부가 성능·품질·신뢰성·정보보호 실증과 구매 연계를 행정적·재정적으로 지원할 수 있는 근거도 포함했다.",
+        "김 의원실이 산업통상자원중소벤처기업위원회 소관 42개 공공기관의 구매 내역을 분석한 결과, 2024년부터 2026년 8월까지 AI 가속기 구매액 102억8,760만원 가운데 국산 NPU 구매는 퓨리오사AI 레니게이드 1장, 250만원이었다. 금액 기준 엔비디아 비중은 99.98%였고, 전체 구매액의 47.2%는 국내 NPU 기업이 겨냥하는 추론 용도였다고 설명했다.",
+        "개정안은 공공기관이 국산 제품을 구매할 수 있는 법적 근거와 실증 지원 수단을 마련하는 내용이다. 발의 단계이므로 향후 국회 심사와 시행 제도 설계가 필요하며, 실제 구매 물량과 기관별 적용 기준은 아직 정해지지 않았다."
+      ],
+      "importance": [
+        "국산 NPU 정책의 병목이 연구개발이나 제품 지정만이 아니라 실제 공공 구매와 운영 이력 부족이라는 점을 구체적인 구매 데이터로 드러냈다. 특히 추론 수요가 존재하는 기관에서도 국산 칩 도입이 거의 없었다는 사실은 성능 검증과 조달의 연결 구조를 다시 설계할 필요성을 보여준다.",
+        "법안은 우선구매 근거와 성능·보안 실증 지원을 한 틀에 담아 기술검증 뒤 구매로 이어지지 않던 단절을 줄이려 한다. 향후 제도화되면 국산 NPU 기업이 해외 고객에게 제시할 수 있는 운영 레퍼런스와 유지보수 경험을 공공 영역에서 확보하는 통로가 될 수 있다."
+      ],
+      "implications": [
+        "입법 과정에서는 국산의 정의, 우선구매 적용 대상, 경쟁성·성능 기준, 보안 인증과 총소유비용 평가 방식을 명확히 해야 한다. 제품 원산지만으로 구매를 유도하면 수요기관의 서비스 품질과 운영 책임 문제가 남을 수 있어 워크로드별 기준이 필요하다.",
+        "실행 단계에서는 추론 서비스의 정확도·지연시간·전력·가동률과 장애 대응, 기존 GPU 시스템과의 연동을 함께 검증해야 한다. 시범구매 건수보다 실제 이용률, 후속 증설, 반복 구매, 유지보수 매출이 국산 NPU 수요 창출의 성과를 더 잘 보여준다.",
+        "정부 사업과 공공기관 조달을 연결할 때 K-Perf 같은 성능검증 결과와 수요기관의 실제 모델·데이터 환경을 매칭하는 절차가 중요하다. 법안 심사와 별도로 예정된 공공기관 협력 논의가 구체적인 수요기관·물량·실증 일정으로 이어지는지도 함께 추적해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "김종민 의원, 공공기관 국산AI반도체 우선구매법 대표발의…공공이 첫 수요처돼야",
+          "publisher": "화학신문",
+          "published_at": "2026-11-11T11:15:15+09:00",
+          "url": "https://chemie.or.kr/article/1065579984993142",
+          "verification": "full_text",
+          "verified_at": "2026-11-12T09:43:00+09:00"
+        },
+        {
+          "title": "김종민 의원 공공기관 국산 AI 반도체 우선 구매해야",
+          "publisher": "중도일보",
+          "published_at": "2026-11-11T16:15:00+09:00",
+          "url": "https://www.joongdo.co.kr/web/view.php?key=20261111010003866",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-12T09:43:00+09:00"
+        }
+      ],
+      "event_id": "national-assembly-domestic-ai-semiconductor-preferential-procurement-bill-2026-11-11",
+      "event_first_published_at": "2026-11-11T11:15:15+09:00",
+      "event_evidence_url": "https://chemie.or.kr/article/1065579984993142",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 3,
+      "title": "래블업, 120곳서 이기종 GPU 운영…금융·자동차 고객과 반복매출 확대",
+      "category": "운영 SW·사업화",
+      "collected_at": "2026-11-11T23:03:50.484Z",
+      "original_published_at": "2026-11-12T05:10:03+09:00",
+      "original_url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01676086645645064",
+      "main_points": [
+        "래블업은 기업이 보유한 GPU와 서버를 통합 관리하고 자원을 배분하는 백엔드닷AI를 국내외 120곳 이상의 사업장에서 운영하고 있다고 밝혔다. 회사는 단일 사업장에서 GPU 2,000개 이상을 운영한 경험이 있으며, 공개한 적용 사례에서는 GPU 활용률이 30%에서 85%로 높아지고 관련 예산이 40% 절감됐다고 설명했다.",
+        "회사는 엔비디아와 AMD 장비를 한 플랫폼에서 관리하면서 제조사별 규격과 성능 특성에 맞춘 최적화를 제공한다. 인텔과는 차기 GPU 크레센트 아일랜드의 통합·최적화와 컨피덴셜 컴퓨팅을 협력 중이며, 금융 분야 신한은행 슈퍼 SOL과 자동차 분야 현대모비스의 연구개발 환경 등으로 고객이 확대됐다고 밝혔다.",
+        "래블업의 2025년 반복매출 비중은 94.7%로 제시됐다. 회사는 미국 법인과 영국·싱가포르 파트너를 통해 해외 판매를 준비하고, 추론 관리 시스템 컨티넘과 모델 최적화 도구 MLxcel, 에이전트 자원·보안 관리용 누빔 베타를 순차적으로 확대할 계획이다."
+      ],
+      "importance": [
+        "이기종 가속기 운영 SW가 기술 시연을 넘어 다수 사업장, 대규모 GPU 운영, 금융·자동차 업무와 반복매출로 연결된 국내 사례다. 가속기 종류가 늘어날수록 장비 구매보다 자원 배분·가동률·보안·모델 실행을 통합하는 소프트웨어가 인프라 경제성을 결정한다.",
+        "엔비디아 중심 환경에서 AMD와 인텔까지 최적화 범위를 넓힌 점은 특정 하드웨어에 종속되지 않는 운영 계층의 시장가치를 보여준다. 이는 향후 국내 NPU가 기업 인프라에 들어갈 때도 별도 운영체계를 새로 만드는 대신 기존 플랫폼과 연동할 수 있는 가능성을 높인다."
+      ],
+      "implications": [
+        "기사에 제시된 활용률과 비용 절감은 회사가 공개한 고객 사례이므로 워크로드 규모, 비교 기준, 장비 교체 효과를 분리해 확인할 필요가 있다. 다만 120곳 이상 운영과 높은 반복매출 비중은 일회성 구축보다 지속적인 운영 수요가 형성됐다는 신호다.",
+        "향후 경쟁력은 서로 다른 GPU의 공통 기능만 지원하는 수준을 넘어 장비별 최적화를 유지하면서도 업그레이드와 장애 대응을 자동화하는 데 달려 있다. 추론·에이전트 서비스가 늘면 자원 격리, 모델 보안, 비용 배분과 서비스 수준 관리가 추가 수익원이 될 수 있다.",
+        "국산 NPU 생태계에서는 운영 플랫폼과의 사전 연동, 스케줄러 플러그인, 모니터링 지표 표준화가 도입 장벽을 낮출 수 있다. 실제 고객 환경에서 GPU·NPU 혼합 자원 배치와 비용 절감 효과를 검증하면 칩 공급과 운영 SW 사업을 함께 확장할 기반이 된다."
+      ],
+      "sources": [
+        {
+          "title": "엔비디아·AMD GPU 한꺼번에 관리…래블업, AI 인프라 시장 공략",
+          "publisher": "이데일리",
+          "published_at": "2026-11-12T05:10:03+09:00",
+          "url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01676086645645064",
+          "verification": "full_text",
+          "verified_at": "2026-11-12T09:43:00+09:00"
+        }
+      ],
+      "event_id": "lablup-heterogeneous-gpu-operations-enterprise-revenue-evidence-2026-11-12",
+      "event_first_published_at": "2026-11-12T05:10:03+09:00",
+      "event_evidence_url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01676086645645064",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "삼성·AMD, EPYC 기반 차세대 메모리·스토리지 테스트 인프라 협력",
+      "category": "글로벌 협력·반도체 기반",
+      "collected_at": "2026-11-11T06:41:26.106Z",
+      "original_published_at": "2026-11-11T11:41:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261111089400003",
+      "main_points": [
+        "AMD는 6세대 EPYC Embedded 9006 시리즈와 삼성전자의 DDR5 RDIMM·MRDIMM, PCIe 6세대 기반 PM1763 SSD, CXL 3.2 기반 MD310 메모리 확장 모듈을 결합한 구성을 공개했다. 삼성전자는 이 구성을 차세대 반도체 제조 테스트 인프라에 도입하는 협력을 추진한다.",
+        "EPYC Embedded 9006은 최대 256개 코어, PCIe 6세대와 CXL 3.1 연결성을 지원하고 이전 세대보다 최대 1.8배 높은 처리량을 제공한다. 반도체 자동화 테스트 장비에서 메모리·저장장치 검사 작업을 제어하고 여러 테스트를 동시에 수행하는 시스템 제어·오케스트레이션 엔진으로 쓰인다.",
+        "삼성전자는 고대역폭 메모리와 고속 입출력 장치를 양산 규모에서 검증하는 데 필요한 연산 성능과 데이터 처리 역량을 확보하려 한다. AMD의 공식 발표에는 삼성 부품 구성이 파트너 사례로 포함됐으며, 실제 제조 테스트 환경 도입 범위는 양사의 후속 협력에서 구체화된다."
+      ],
+      "importance": [
+        "AI 서버용 메모리와 저장장치가 고속화되면서 제품 자체 성능뿐 아니라 제조 단계에서 대량의 부품을 병렬 검증하는 테스트 인프라가 병목으로 부상했다. CPU·메모리·SSD·CXL 모듈을 하나의 검증 구성으로 묶는 협력은 양산 품질과 출시 속도 경쟁으로 이어진다.",
+        "삼성전자가 AMD의 연산·입출력 플랫폼을 자사 제조 환경과 연결하면 HBM 이외의 DDR5, CXL 메모리, 차세대 SSD까지 AI 인프라 포트폴리오의 검증 기반을 넓힐 수 있다. 글로벌 프로세서 기업과 한국 메모리 생태계의 협력이 공급계약에서 제조 테스트 공동 고도화로 확장됐다는 점이 중요하다."
+      ],
+      "implications": [
+        "후속 관찰에서는 실제 ATE 적용 라인, 처리량 개선, 검사시간 단축, 지원 제품 세대가 공개되는지 확인해야 한다. 발표된 최대 성능이 삼성 제조 환경의 실측 성과와 같지는 않으므로 도입·검증·확산 단계를 구분할 필요가 있다.",
+        "CXL과 PCIe 6세대가 테스트 인프라에 들어오면 메모리 확장과 고속 저장장치의 상호운용성 검증 수요가 커진다. 국내 장비·테스트·펌웨어 기업에는 새로운 인터페이스와 오류 분석 도구를 선제적으로 지원할 기회가 생긴다.",
+        "AI반도체 정책에서도 설계·제조 장비뿐 아니라 제품을 양산 규모에서 검증하는 컴퓨팅·데이터 인프라를 산업기반으로 볼 필요가 있다. 국산 가속기와 메모리 모듈도 같은 환경에서 신뢰성·호환성을 검증할 수 있다면 고객 평가 기간을 줄이는 데 도움이 된다."
+      ],
+      "sources": [
+        {
+          "title": "삼성전자, AMD와 차세대 반도체 테스트 인프라 협력",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-11T11:41:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261111089400003",
+          "verification": "full_text",
+          "verified_at": "2026-11-12T09:42:00+09:00"
+        },
+        {
+          "title": "AMD Launches 6th Gen AMD EPYC Embedded Processors",
+          "publisher": "AMD Newsroom",
+          "published_at": "2026-11-10",
+          "url": "https://newsroom.amd.com/news/2026-in-depth-embedded-epyc-venice/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-12T09:42:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "AMD 뉴스룸은 2026-11-10 공개일과 삼성 메모리·스토리지 결합 구성을 표시하고, 연합뉴스가 동일 구성을 2026-11-11 11:41 KST에 공개했다. 두 원문은 2026-11-12 09:30 KST 마감 전에 아카이브에 수집됐고 확인 당시 수정 시각 표시는 없었다."
+        }
+      ],
+      "event_id": "samsung-amd-epyc-embedded-semiconductor-test-infrastructure-2026-11-11",
+      "event_first_published_at": "2026-11-10",
+      "recency_evidence": "AMD 공식 발표는 2026-11-10 공개일만 표시해 정확한 시각을 알 수 없다. 2026-11-11 11:41 KST 연합뉴스 공개 본문과 2026-11-11 15:41 KST 이전 아카이브 수집기록으로 늦어도 마감 전 공개를 확인했으며, 날짜 불확실성을 고려해 48시간 보완 후보로 평가했다.",
+      "event_evidence_url": "https://newsroom.amd.com/news/2026-in-depth-embedded-epyc-venice/",
+      "selection_tier": "supplement"
+    },
+    {
+      "number": 5,
+      "title": "GS·포스코, 1.2GW AI 데이터센터에 철강·전력·냉각 공급망 결합",
+      "category": "AI 인프라·산업 협력",
+      "collected_at": "2026-11-11T08:23:06.410Z",
+      "original_published_at": "2026-11-11T16:30:00+09:00",
+      "original_url": "https://www.fnnews.com/news/202611111450444091",
+      "main_points": [
+        "GS그룹과 포스코는 AI 데이터센터 사업의 전략적 협력을 위한 MOU를 체결했다. 포스코가 설계 초기부터 참여해 포스맥, 전자파 차폐 소재, 고효율 전기강판과 발전·냉난방 효율화 기술을 제안하고, GS는 개발·전력 공급·설계·시공·액체냉각·운영 역량을 결합한다.",
+        "우선 협력 대상에는 GS AI인프라가 강원 동해 북평제2일반산업단지에서 추진하는 1.2GW 규모 데이터센터가 포함된다. 1단계 예상 투자액은 약 15조원이며, GS는 2028년부터 단계적으로 준공한 뒤 1.2GW를 추가해 총 2.4GW로 확대하는 계획을 제시했다.",
+        "양사는 공급사 조기 참여 방식으로 공사 기간과 건설·운영비를 낮추고, 기자재 공급망·기술개발·해외 프로젝트 대응을 위한 실무협의체를 구성한다. 국내 프로젝트 경험을 바탕으로 포스코와 GS글로벌의 네트워크를 활용해 북미·아시아 사업도 공동 발굴할 계획이다."
+      ],
+      "importance": [
+        "AI 데이터센터 투자가 서버와 전력 조달을 넘어 구조재·차폐·전력설비·냉각·운영기술을 설계 단계부터 통합하는 산업 프로젝트로 바뀌고 있다. 공급사를 초기 설계에 참여시키는 방식은 대형 AIDC의 공기와 비용, 기자재 표준을 함께 좌우할 수 있다.",
+        "국내 철강·건설·에너지 기업이 하나의 공급망으로 해외 프로젝트를 겨냥한다는 점도 중요하다. AI 인프라 투자 확대가 GPU 구매뿐 아니라 소재와 전력기기, 냉각, 설계·시공 역량의 수출 기회로 이어질 수 있는 구조다."
+      ],
+      "implications": [
+        "평가의 초점은 MOU 이후 동해 프로젝트의 자금조달, 전력 공급계약, 단계별 착공·준공, 실제 기자재 발주가 계획대로 이어지는지다. 15조원은 기존 1단계 투자 구상이며 이번 협약으로 새로 확정된 발주액과 구분해야 한다.",
+        "소재·냉각·전력 솔루션이 설계 초기부터 함께 검토되면 총소유비용과 에너지효율을 기준으로 공급망을 최적화할 수 있다. 반면 1.2GW급 프로젝트는 계통·인허가·수요 확보가 장기간에 걸쳐 진행되므로 모듈화와 단계별 투자 통제가 중요하다.",
+        "국산 NPU와 서버 기업에는 이런 대형 프로젝트의 조달 사양이 특정 GPU에 고정되기 전에 이기종 가속기와 운영 SW를 제안할 접점이 생긴다. 실무협의체가 서버·네트워크·소프트웨어까지 범위를 넓히는지, 국내 장비사의 실제 공급계약으로 연결되는지 확인할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "GS·포스코, AI 데이터센터 사업 협력…수익성 개선에 기여",
+          "publisher": "연합인포맥스",
+          "published_at": "2026-11-11T16:16:00+09:00",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444238",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-12T09:44:00+09:00"
+        },
+        {
+          "title": "포스코·GS, AI 데이터센터 협력…설계부터 철강·전력·냉각 결합",
+          "publisher": "파이낸셜뉴스",
+          "published_at": "2026-11-11T16:30:00+09:00",
+          "url": "https://www.fnnews.com/news/202611111450444091",
+          "verification": "full_text",
+          "verified_at": "2026-11-12T09:42:00+09:00"
+        }
+      ],
+      "event_id": "gs-posco-ai-datacenter-integrated-supply-chain-mou-2026-11-11",
+      "event_first_published_at": "2026-11-11T16:16:00+09:00",
+      "event_evidence_url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444238",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "영국, 프랙타일 7억2,000만달러 투자에 정책금융 참여…AI칩 성장자본 공급",
+      "category": "글로벌 AI칩·정책금융",
+      "collected_at": "2026-11-11T23:03:50.484Z",
+      "original_published_at": "2026-11-11T14:53:00Z",
+      "original_url": "https://www.reuters.com/legal/transactional/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-funding-round-2026-11-11/",
+      "main_points": [
+        "영국 런던·브리스틀 기반 AI칩 스타트업 프랙타일은 7억2,000만달러 규모 시리즈C 투자에서 70억달러 기업가치를 인정받았다. Thrive Capital, Founders Fund, Lightspeed, Redpoint가 투자를 주도했고 CapitalG, BlackRock, DST Global, 영국 Sovereign AI 펀드와 British Business Bank 등이 참여했다.",
+        "프랙타일은 AI 추론 성능을 높이면서 에너지 사용과 비용을 낮추는 칩과 소프트웨어를 함께 개발하고 있다. 회사는 2027년 첫 상용 칩 출시를 계획하며, 이번 자금을 제품 상용화와 영국 내 기술·인력 기반 확대에 사용할 예정이다.",
+        "영국 정부는 이번 투자를 5억파운드가 넘는 라운드의 일부로 설명하고, 해외 컴퓨팅 공급망 의존을 줄이며 자국의 AI 하드웨어 역량을 키우기 위한 정책금융 사례로 제시했다. 정책 펀드와 국책은행이 대규모 민간 라운드에 함께 참여한 것이 특징이다."
+      ],
+      "importance": [
+        "AI 주권 정책이 컴퓨팅 자원 구매와 연구개발 보조를 넘어 자국 AI칩 기업의 후기 성장자본을 공급하는 단계로 확대됐다. 상용 칩 출시 전 기업에 정부와 민간이 함께 대규모 자금을 투입한 것은 설계 기술을 자국 산업과 일자리로 연결하려는 금융 전략을 보여준다.",
+        "7억2,000만달러 라운드는 엔비디아 중심 추론 시장에 도전하는 스타트업의 개발·양산·소프트웨어 투자 여력을 크게 높인다. 동시에 상용 제품과 고객 검증 전 높은 기업가치가 형성된 만큼 기술 성능뿐 아니라 생산 파트너와 실제 수요 확보가 중요해졌다."
+      ],
+      "implications": [
+        "프랙타일의 다음 단계는 2027년 상용 칩 일정, 파운드리·패키징 공급망, 개발자 도구, 초기 고객과 성능 검증을 공개하는 것이다. 자금조달 규모가 크더라도 양산 수율과 고객 전환이 확인돼야 정책금융의 산업적 성과를 판단할 수 있다.",
+        "정부가 직접 기업을 지원하면서도 대형 민간 투자자와 같은 라운드에 참여한 구조는 기술기업의 자본 확충과 시장 검증을 결합한다. 한국의 AI반도체 금융도 프로젝트 보조, 정책대출, 지분투자의 역할을 구분하고 후속 민간자금과 양산 자금을 어떻게 연결할지 참고할 수 있다.",
+        "글로벌 가속기 경쟁은 제품 사양뿐 아니라 장기 자본과 자국 수요, 공급망을 묶는 생태계 경쟁으로 진행되고 있다. 국내 기업도 해외 정책펀드·수요기관과 공동 실증하거나 현지 생산·고용 계획을 결합하는 방식으로 시장 진입 경로를 넓힐 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "UK-backed AI chip startup Fractile hits $7 billion valuation in funding round",
+          "publisher": "Reuters",
+          "published_at": "2026-11-11T14:53:00Z",
+          "url": "https://www.reuters.com/legal/transactional/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-funding-round-2026-11-11/",
+          "verification": "full_text",
+          "verified_at": "2026-11-12T09:42:00+09:00"
+        },
+        {
+          "title": "Sovereign AI and British Business Bank invest in British firm developing the next generation of AI hardware",
+          "publisher": "UK Government",
+          "published_at": "2026-11-11",
+          "url": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware",
+          "verification": "public_primary",
+          "verified_at": "2026-11-12T09:42:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "영국 정부 원문은 2026-11-11 공개일을 표시하고, Reuters가 같은 투자 라운드를 2026-11-11 14:53 UTC에 공개했다. 이는 2026-11-11 23:53 KST로 2026-11-12 09:30 KST 마감 전이며, 수집기는 관련 보도를 2026-11-12 08:03:50 KST에 저장했다. 확인 당시 정부 원문의 수정 시각 표시는 없었다."
+        }
+      ],
+      "event_id": "fractile-series-c-uk-sovereign-ai-policy-finance-2026-11-11",
+      "event_first_published_at": "2026-11-11T14:53:00Z",
+      "event_evidence_url": "https://www.reuters.com/legal/transactional/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-funding-round-2026-11-11/",
+      "selection_tier": "primary"
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026-11월 전체 아카이브와 11월 11~12일 후보를 기준으로 딥엑스·리벨리온·퓨리오사AI·모빌린트·하이퍼엑셀의 고객도입·공동개발·실증·양산·수익·해외협력을 확인했다. 딥엑스와 엔비디아의 GPU·NPU 이기종 협력 논의를 선정했다. 모빌린트 글로벌 수집원은 empty였으나 국내 기사·기업명 보완 검색으로 확인했고, 모빌린트 SoC IP 공급 보도는 09:30 뒤 공개돼 다음 회차 대상으로 남겼다. 최신 collection은 2026-11-12 08:03:47 KST였고 09:20·09:27 실행 기록은 없어 직접 공개 검색으로 보완했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP와 국회·중앙부처·지자체·공공기관·테크노파크의 NPU 조달, 실증, 지원사업 배정, 산단·데이터센터를 확인했다. 공공기관 국산 AI반도체 우선구매 근거를 담은 법안과 42개 기관의 구매 실적을 선정했다. 구미 300MW 데이터센터의 전력계통영향평가 통과와 호남 산단 전력선로 일정도 검증했으나, 직접적인 국산 NPU 수요 제도와 공급망 협력보다 우선순위가 낮아 제외했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·프랙타일과 자체칩·이기종 가속기·전략적 협력·고객 도입을 확인했다. 딥엑스·엔비디아 이기종 협력과 프랙타일의 정책금융 결합 투자를 선정했다. Anthropic의 AMD MI355X 커널 전환 주장은 한 모델의 프롬프트 처리에 한정된 기업 설명으로 검토했고, Google TPU 8tx·8i Max 후속은 11월 10일 원고와 중복 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·CUDA·Triton·컴파일러·커널·런타임·서빙·스케줄링·보안과 국내 운영 SW를 점검했다. 래블업의 120곳 이상 운영, 단일 사이트 GPU 2,000개 이상, 금융·자동차 고객과 반복매출을 선정했다. Anthropic의 3일 AMD 포팅은 산업적 의미가 있으나 세부 비용·처리량·인간 검토 범위가 공개되지 않아 실제 다중 고객 운영 실적보다 후순위로 뒀다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·D램·첨단패키징·UCIe·CXL·인터커넥트와 AIDC 부지·전력·용수·인허가·금융구조를 확인했다. 삼성·AMD의 제조 테스트 인프라와 GS·포스코의 1.2GW AIDC 공급망 협력을 선정했다. 구미 300MW 전력계통영향평가 통과는 중요 후보였으나 GS·포스코의 설계·전력·냉각·소재 통합과 해외사업 범위보다 파급이 제한적이어서 제외했고, 통상적 HBM 소재·주가 전망은 후순위로 뒀다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "국산 NPU가 엔비디아 GPU와 연산을 분담하고 글로벌 고객망을 활용하는 첫 직접 기술협력 논의로, 피지컬 AI 제품통합과 해외 판로의 구체적 경로를 보여준다."},
+      {"article_number": 2, "reason": "공공기관 구매액과 국산 NPU 도입 실적을 수치로 제시하고 우선구매·실증 지원의 법적 근거를 제안해 국내 NPU 수요정책 판단에 직접 연결된다."},
+      {"article_number": 3, "reason": "이기종 GPU 운영 SW가 120곳 이상 고객, 대규모 운영, 금융·자동차 적용과 반복매출로 이어진 사례여서 운영 생태계의 사업성을 확인할 수 있다."},
+      {"article_number": 4, "reason": "AMD와 삼성 메모리·스토리지가 양산 규모 테스트 환경을 공동 고도화해 글로벌 기업과 한국 반도체 생태계의 구체적 제조 기반 협력에 해당한다."},
+      {"article_number": 5, "reason": "1.2GW·약 15조원 AIDC에 설계·철강·전력·냉각을 결합하고 해외 공동사업을 추진해 산업적으로 중요한 인프라 공급망 변화를 보여준다."},
+      {"article_number": 6, "reason": "영국 정부 펀드와 국책은행이 7억2,000만달러 AI칩 성장자본에 참여해 주권 AI 전략과 민간 금융을 결합한 국제 경쟁 변화를 보여준다."}
+    ],
+    "excluded": [
+      {
+        "title": "구미 5산단 300MW AI 데이터센터, 전력계통영향평가 통과",
+        "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090504",
+        "reason": "200MW 부지 정지와 100MW 인허가 마무리, 계통영향평가 통과를 확인한 중요 인프라 후보였다. 다만 공급계약·송배전 설비·단계별 전력 일정이 남아 있고, 설계부터 소재·전력·냉각과 해외사업을 묶은 GS·포스코 협력이 더 넓은 산업 파급을 보여 6건 원칙에서 제외했다."
+      },
+      {
+        "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+        "url": "https://modelsatwork.news/article/anthropic-claude-amd-gpu-port-three-days-four-chip-families-ipo-prospectus",
+        "reason": "AMD MI355X에서 한 모델의 프롬프트 처리 커널을 3일 만에 구현했다는 주장은 포팅 자동화의 중요한 신호다. 그러나 IPO 로드쇼의 기업 설명이며 전체 학습·서빙 처리량, 비용, 인간 검토 범위가 공개되지 않아 실제 고객 운영·매출 자료가 있는 래블업보다 후순위로 뒀다."
+      },
+      {
+        "title": "퀄리타스반도체, 모빌린트 로봇용 SoC에 통합 솔루션 공급",
+        "url": "https://news.google.com/search?q=%ED%80%84%EB%A6%AC%ED%83%80%EC%8A%A4%EB%B0%98%EB%8F%84%EC%B2%B4%20%EB%AA%A8%EB%B9%8C%EB%A6%B0%ED%8A%B8%20%EB%A1%9C%EB%B4%87%EC%9A%A9%20SoC",
+        "reason": "국산 NPU 제품통합 후보지만 최초 공개시각이 2026-11-12 09:33 KST로 09:30 마감 뒤여서 이번 회차에서 제외하고 다음 회차 후보로 남겼다."
+      },
+      {
+        "title": "김성환 기후장관, 호남 반도체 산단 전력·용수 현장점검",
+        "url": "https://news.google.com/search?q=%EA%B9%80%EC%84%B1%ED%99%98%20%ED%98%B8%EB%82%A8%20%EB%B0%98%EB%8F%84%EC%B2%B4%20%EC%82%B0%EB%8B%A8%20%EC%A0%84%EB%A0%A5%20%EC%9A%A9%EC%88%98%202026-11-11",
+        "reason": "2027년 1월 전력공급선로 착공 예정은 새 세부 일정이나, 11월 11일 원고의 호남 클러스터 팹 배치·협약 일정과 같은 사업의 후속 현장점검이다. 별도 확정 계약·예산 집행의 추가 사실이 부족해 중복을 피했다."
+      },
+      {
+        "title": "LG화학, 일본 주도 HBM 접합 소재 국산화 확대",
+        "url": "https://news.google.com/search?q=LG%ED%99%94%ED%95%99%20HBM%20%EC%A0%91%ED%95%A9%20%EC%86%8C%EC%9E%AC%20%EA%B5%AD%EC%82%B0%ED%99%94%202026-11-11",
+        "reason": "NCF에 이은 MR-MUF 개발 착수는 공급망 후보로 검토했으나 고객 검증·양산·대형 주문이 확인되지 않은 소재 개발 단계여서 NPU 수요·운영 SW·대형 인프라 협력보다 후순위로 제외했다."
+      },
+      {
+        "title": "딥엑스, 2026 특허기술상 홍대용상 수상",
+        "url": "https://news.google.com/search?q=%EB%94%A5%EC%97%91%EC%8A%A4%202026%20%ED%8A%B9%ED%97%88%EA%B8%B0%EC%88%A0%EC%83%81%20%ED%99%8D%EB%8C%80%EC%9A%A9%EC%83%81",
+        "reason": "기술 인정 사실은 확인했으나 고객·제품통합·실증·양산·매출의 새 변화가 아니어서 엔비디아와의 이기종 협력 논의보다 우선순위가 낮았다."
+      },
+      {
+        "title": "Google TPU 8tx·8i Max 및 삼성·SK하이닉스 HBM 기회 후속 보도",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+        "reason": "TPU 8tx·8i Max의 제품 구성과 AMD EPYC 결합은 2026-11-10 원고에 이미 게재됐다. 후속 보도에서 별도 고객 계약·메모리 주문·운영 결과가 확인되지 않아 사건 중복으로 제외했다."
+      }
+    ],
+    "count_reason": "python mail/candidates.py --date 2026-11-12 결과로 마감 전 72시간부터 작성 시점까지 4,730건을 발견했고 2,803건이 시간조건에 들어왔다. 전체 아카이브·collection과 최종 공개 검색에서 업무 관련성이 높은 16개 독립 사건을 비교하고 8개 사건의 공개 본문·공개시각을 검증해 6건을 선정했다. 국내 NPU 제품통합·공공 수요, 이기종 운영 SW, 한국 반도체 제조 기반, AIDC 공급망, 전략적 정책금융을 우선했고 통상적 소재·수상·주가 보도와 전날 게재 사건으로 수를 늘리지 않았다.",
+    "company_overlap_review": "딥엑스와 NVIDIA가 기사 1에, AMD와 삼성전자가 기사 4에 등장하지만 서로 다른 기업집단과 사건이다. 기사 3은 래블업, 기사 5는 GS·포스코, 기사 6은 프랙타일과 영국 정부가 중심이며 동일 기업집단 중심 기사가 두 건 이상 없다. 딥엑스의 특허상 수상과 Google TPU 후속은 별도 후보에서 우선순위·중복을 이유로 제외했다.",
+    "candidate_counts": {
+      "discovered": 4730,
+      "time_eligible": 2803,
+      "independent_events": 16,
+      "verified": 8,
+      "selected": 6,
+      "basis": "python mail/candidates.py --date 2026-11-12의 전체 아카이브 집계에서 4,730건 발견, 2,803건 시간조건 적합을 확인했다. 관련성이 높은 16개 독립 사건을 직접 비교하고 8개 사건의 공개 본문과 최초 공개시각을 검증해 6건을 선정했다. 최신 collection은 2026-11-11 23:03:47 UTC, 즉 11월 12일 08:03:47 KST에 1,705개 고유 후보를 저장했고 45개 수집원 중 44개는 ok, mobilint-global 1개는 empty였다. 09:20·09:27 수집 실행은 기록되지 않아 아카이브 집계와 다섯 영역 직접 검색을 구분해 보완했으며 실제 firstSeenAt을 소급하지 않았다."
+    },
+    "history_review": {
+      "start_date": "2026-10-29",
+      "end_date": "2026-11-11",
+      "checked_dates": [
+        "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-03", "2026-11-04", "2026-11-05", "2026-11-06", "2026-11-07", "2026-11-08", "2026-11-09", "2026-11-10", "2026-11-11"
+      ],
+      "note": "14개 확정 원고의 제목·주요 사실·event_id·원문 URL과 선정·제외 기록을 읽고 사건 단위로 대조했다. Google TPU 8tx·8i Max는 11월 10일, 딥엑스 DX-M2 제품 로드맵과 호남 반도체 클러스터 팹 배치는 11월 11일 게재 사건으로 후속 후보에서 중복 제외했다. 이번 6건은 최근 14일 원고에 같은 회동 계획, 법안, 고객 운영 실적, 테스트 인프라 협력, AIDC 공급망 MOU, 정책금융 라운드가 없다."
+    },
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "딥엑스와 엔비디아의 GPU·NPU 모듈/보드 결합 및 12월 본사 협의 계획은 최근 14일 원고에 없다. 11월 11일 DX-M2 제품 로드맵과는 협력 주체·통합 범위가 다른 신규 사건이다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "공공 핵심 인프라의 국산 반도체 우선구매 근거와 실증 지원을 담은 반도체특별법 개정안 발의는 최근 14일 원고에 없다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "래블업의 120곳 이상 운영, 단일 사업장 GPU 2,000개 이상, 금융·자동차 고객과 반복매출 자료는 최근 14일 원고에 없다."},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "AMD EPYC Embedded 9006과 삼성 메모리·SSD·CXL 모듈을 결합한 제조 테스트 인프라 협력은 최근 14일 원고에 없다."},
+      {"article_number": 5, "result": "new_event", "previous_editions": [], "note": "GS·포스코의 설계 초기 참여와 철강·전력·냉각 통합, 해외 공동사업 MOU는 최근 14일 원고에 없다."},
+      {"article_number": 6, "result": "new_event", "previous_editions": [], "note": "프랙타일의 7억2,000만달러 시리즈C에 영국 Sovereign AI 펀드와 British Business Bank가 함께 참여한 사건은 최근 14일 원고에 없다."}
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026년 11월 11~12일 딥엑스·리벨리온·퓨리오사AI·모빌린트·하이퍼엑셀과 NPU·고객·제품통합·공동개발·실증·양산·매출·해외협력을 검색했다.",
+          "official_sources": "딥엑스·엔비디아 협력 공개 본문 https://www.hankyung.com/article/202611110565i 와 리벨리온 공공조달 공식 페이지 https://kr.rebellions.ai/newsroom/public_procurement_innovation_product/ 를 대조했다. mobilint-global 수집원 empty는 국내 기업명·제품명 검색으로 보완했다.",
+          "result": "딥엑스와 엔비디아의 이기종 결합 논의를 선정했다. 리벨리온·퓨리오사·모빌린트·하이퍼엑셀에서 마감 전 공개된 더 중요한 신규 고객 계약·양산·매출 사건은 확인되지 않았고, 모빌린트 통합 솔루션 보도는 마감 뒤 공개돼 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "과기정통부·NIPA·IITP·산업부·국회·지자체·공공기관·테크노파크와 NPU·AI반도체·국비·지방비·조달·실증·GPU/NPU 지원·산단·데이터센터를 조합해 검색했다.",
+          "official_sources": "국산 AI반도체 우선구매법 공개 본문 https://chemie.or.kr/article/1065579984993142, NIPA 고성능 컴퓨팅 지원사업 https://www.nipa.kr/home/bsnsAll/7/nttDetail?bbsNo=4&bsnsDtlsIemNo=29&nttNo=16567&tab=2, 구미 전력계통평가 본문 https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090504 를 확인했다.",
+          "result": "공공기관 구매 실적과 우선구매·실증 지원 근거를 제시한 법안을 선정했다. 구미 데이터센터와 호남 산단 후속은 비교했으나 직접적인 국산 NPU 수요 변화보다 후순위로 제외했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "2026년 11월 11~12일 NVIDIA·AMD·Google TPU·프랙타일·Cerebras·Groq와 AI accelerator·inference chip·heterogeneous computing·strategic partnership·sovereign AI funding을 검색했다.",
+          "official_sources": "영국 정부 프랙타일 투자 발표 https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware, Reuters 투자 본문 https://www.reuters.com/legal/transactional/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-funding-round-2026-11-11/, AMD·Anthropic 협력 원문 https://newsroom.amd.com/news/amd-anthropic-strategic-partnership/ 을 확인했다.",
+          "result": "프랙타일 정책금융 라운드와 딥엑스·엔비디아 이기종 협력을 선정했다. Anthropic 3일 포팅 주장은 제한된 워크로드의 기업 설명이고 Google TPU 후속은 중복이라 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "2026년 11월 11~12일 ROCm·CUDA·Triton·compiler·kernel·runtime·serving·GPU orchestration·heterogeneous accelerator management·agent security와 국내 운영 SW를 검색했다.",
+          "official_sources": "래블업 인터뷰 전문 https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01676086645645064, AMD ROCm 구성 문서 https://rocm.docs.amd.com/en/develop/components/runtimes-and-compilers.html, AMD·Anthropic 공식 협력 https://newsroom.amd.com/news/amd-anthropic-strategic-partnership/ 을 확인했다.",
+          "result": "래블업의 이기종 가속기 운영 실적과 고객·수익 자료를 선정했다. Anthropic의 자동 커널 포팅은 독립 측정과 전체 운영 범위가 부족해 제외했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026년 11월 11~12일 HBM·DDR5·CXL·PCIe 6·UCIe·advanced packaging·interconnect와 AIDC 부지·전력·용수·인허가·냉각·정책금융·공급망을 검색했다.",
+          "official_sources": "AMD EPYC Embedded 공식 발표 https://newsroom.amd.com/news/2026-in-depth-embedded-epyc-venice/, 삼성·AMD 공개 본문 https://www.yna.co.kr/view/AKR20261111089400003, GS·포스코 공개 본문 https://www.fnnews.com/news/202611111450444091, 구미 300MW 본문 https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090504 를 확인했다.",
+          "result": "제조 테스트 인프라 협력과 1.2GW AIDC 통합 공급망을 선정했다. 구미 계통평가와 HBM 접합소재 개발은 비교했으나 6건 원칙에서 산업 파급·실행범위가 상대적으로 낮아 제외했다."
+        }
+      },
+      "alternative_sources": "아카이브의 최신 수집은 08:03 KST였고 09:20·09:27 실행이 없어 공개 원문과 기업·정부 자료를 직접 검색했다. 접근이 불안정한 기사도 검색결과 요약만으로 쓰지 않고 공개 전문 또는 동일 사실을 담은 공개 재배포본과 대조했다. 프랙타일 정부 원문과 AMD 원문처럼 날짜만 표시된 출처는 정확한 시각이 있는 Reuters·연합뉴스와 대조해 마감 전 공개를 확인했다."
+    }
+  }
+}
