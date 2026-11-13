@@ -1,0 +1,504 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-13",
+  "cutoff_at": "2026-11-13T09:30:00+09:00",
+  "window_start": "2026-11-12T09:30:00+09:00",
+  "created_at": "2026-11-13T09:49:44+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "산업부가 8,002억원 규모 K-온디바이스 AI반도체 프로젝트의 2030년 10종 개발·검증 로드맵과 민관합동 전략위원회 운영안을 공개했다.",
+        "수요기업의 요구사양·테스트베드 제공, 삼성 파운드리의 2027년 시제품 21회 우선 배정, IP 비용 유연화가 제품 탑재까지의 병목을 함께 겨냥한다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "노타가 하이퍼엑셀의 데이터센터용 베르다 LPU에 LLM 모델·커널 최적화를 공급하는 계약을 2년 연속 체결했다.",
+        "국산 가속기 사업화에서 칩 단품보다 모델 압축·메모리 효율·SDK 연동을 반복 구매하는 운영 소프트웨어 수요가 확인됐다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "파네시아와 인텔코리아가 제온 플랫폼과 PCIe 6.4·CXL 3.2 퓨전 스위치의 상호운용성·성능을 검증하고 랙스케일 참조구조와 PoC로 확대하기로 했다.",
+        "국내 CXL 팹리스의 실리콘 제품이 서버 CPU 생태계와 결합해 부품 검증에서 시스템급 채택 경로로 이동하는 협력이다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "LMSYS가 엔비디아·AMD·인텔·구글·메타·클라우드플레어·모달·RadixArk를 창립 회원으로 SGLang 컨소시엄을 출범시켰다.",
+        "서로 다른 가속기와 대규모 서비스 사업자가 추론 엔진의 모델 지원·분산 실행·하드웨어 최적화 로드맵을 공동 논의하되 코드 결정권은 오픈소스 유지관리자에게 남긴다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "젠슨 황이 엔비디아 CEO와 이사직에서 즉시 물러났고, CFO 콜레트 크레스가 CFO를 겸하는 임시 CEO를 맡아 이사회가 후임 탐색에 착수했다.",
+        "11월 9일 이사회 조사 보도에서 실제 최고경영자 교체로 단계가 바뀌며 가속기 로드맵·공급망 협력의 의사결정 연속성이 핵심 점검 항목이 됐다."
+      ]
+    },
+    {
+      "article_numbers": [6],
+      "bullets": [
+        "삼성전자가 충남 아산 온양캠퍼스에서 6조원 규모 HBM 전용 패키징 팹을 착공하고 2028년 6월 첫 신규 라인 가동을 목표로 제시했다.",
+        "메모리 전공정 증설과 달리 AI 가속기 공급능력을 좌우하는 첨단 후공정 병목에 대규모 투자가 실제 착공 단계로 진입했다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "산업부, 국산 온디바이스 AI칩 10종 로드맵 확정…삼성 2나노 시제품 우선 배정",
+      "category": "국내 정책·사업화·수요처",
+      "collected_at": "2026-11-12T02:54:44.546Z",
+      "original_published_at": "2026-11-12T11:00:00+09:00",
+      "original_url": "https://www.yna.co.kr/amp/view/AKR20261112061400003",
+      "main_points": [
+        "산업통상부는 6월 착수한 8,002억원 규모 K-온디바이스 AI반도체 기술개발 프로젝트의 구체적 로드맵을 발표했다. 2030년까지 자율주행차용 1종, 스마트가전용 3종, 협동로봇·휴머노이드·농작업로봇·무인드론용 각 1종과 선단공정·극한환경용 반도체 설계자산 각 1종 등 10종을 개발·검증하는 일정이다.",
+        "산업부 차관과 민간 전문가가 공동위원장을 맡는 민관합동 전략위원회가 매년 개발계획을 확정하고 진행 상황과 기업 간 기술·이해관계 쟁점을 조정한다. 가전용 AI칩 1종은 제조 시점을 기존 계획보다 1년 이상 앞당길 예정이다.",
+        "수요기업은 요구사양과 실사용 테스트베드를 제공하고 제품 탑재 실증을 지원한다. 삼성전자 파운드리는 2027년 2나노 3회, 4나노 4회 등 총 21회의 MPW·싱글런 수요를 기존 생산계획과 조율해 우선 반영하며, IP 기업은 대금 지불 유연화와 공통 IP 패키지로 팹리스 부담을 낮추기로 했다."
+      ],
+      "importance": [
+        "이번 발표는 기존의 국산 칩 개발 지원을 수요기업 요구사양, 제품 통합·실증, 파운드리 슬롯, 설계자산 조달이 연결된 실행 로드맵으로 구체화했다. 특히 실제 제품 채택을 성과 기준으로 제시해 기술개발 과제와 수요시장 사이의 간극을 정책 설계의 중심에 놓았다.",
+        "선단공정 시제품 기회와 IP 비용은 개별 팹리스가 단독으로 해결하기 어려운 공통 병목이다. 2027년 공정별 시제품 횟수를 사전에 제시한 것은 개발 일정 예측 가능성을 높이고, 수요기업의 테스트베드 참여는 검증 결과가 구매·양산 판단으로 이어질 가능성을 키운다."
+      ],
+      "implications": [
+        "향후 평가는 칩 10종의 개발 건수보다 수요기업 요구사양 반영, 시제품 성공률, 제품 탑재 시험과 후속 구매로 이어지는 전환율을 함께 봐야 한다. 전략위원회가 분과별 병목과 일정 변경을 축적하면 과제 관리뿐 아니라 공통 설계·검증 기반을 보완하는 자료가 될 수 있다.",
+        "파운드리 우선 배정은 제한된 시제품 기회를 넓히지만 칩별 설계 완성도와 공정 준비도가 맞지 않으면 슬롯 활용 효율이 떨어질 수 있다. MPW 배정과 IP 지원을 소프트웨어·모듈·수요제품 통합 일정과 함께 관리하는 것이 중요하다.",
+        "자동차·가전·로봇·방산처럼 인증과 제품주기가 다른 시장을 하나의 성과 기준으로 비교하기보다, 분야별로 실증에서 양산 채택까지 필요한 증거와 의사결정 시점을 구분할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "K-온디바이스 AI반도체 속도…2030년까지 AI칩 등 10종 개발",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-12T11:00:00+09:00",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261112061400003",
+          "verification": "full_text",
+          "verified_at": "2026-11-13T09:44:28+09:00"
+        },
+        {
+          "title": "K-온디바이스 AI반도체, ‘상생’으로 속도낸다",
+          "publisher": "산업통상부",
+          "published_at": "2026-11-12",
+          "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172399/view",
+          "verification": "public_primary",
+          "verified_at": "2026-11-13T09:44:28+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "산업통상부 원문은 등록일을 2026-11-12로 표시하며, 같은 핵심 사실을 담은 연합뉴스 원문이 2026-11-12 11:00 KST에 송고됐다. 해당 보도는 아카이브에 2026-11-12 11:54:44 KST 처음 저장돼 2026-11-13 09:30 KST 마감 전에 공개된 사실을 확인했고, 확인 시점에 공식 본문과 수치가 일치했다."
+        }
+      ],
+      "event_id": "motir-k-ondevice-roadmap-2026",
+      "event_first_published_at": "2026-11-12T11:00:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/amp/view/AKR20261112061400003",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "노타·하이퍼엑셀, LPU용 LLM 최적화 2년 연속 계약…반복매출 단계 진입",
+      "category": "국내 NPU·운영 소프트웨어",
+      "collected_at": "2026-11-12T12:34:57.116Z",
+      "original_published_at": "2026-11-12T18:25:22+09:00",
+      "original_url": "https://www.etnews.com/20261112000469",
+      "main_points": [
+        "노타는 하이퍼엑셀의 데이터센터용 베르다 LPU에서 대규모언어모델을 효율적으로 구동하기 위한 모델·커널 최적화 후속 계약을 체결했다. 양사는 2025년 9월 첫 계약에 이어 두 번째 연간 계약을 맺었다.",
+        "노타는 자사 모델 최적화 플랫폼 넷츠프레소와 하이퍼엑셀의 SDK·Legato를 연계해 양자화, 메모리 사용 효율화, LPU 특화 커널 최적화를 수행한다. 적용 범위는 데이터센터와 기업용 LLM 추론을 겨냥한다.",
+        "이번 계약은 일회성 기술검증이 아니라 동일 고객이 다음 연도에도 최적화 업무를 구매한 사례다. 다만 공개된 내용에는 계약 금액, 최종 고객의 상용 서비스 규모나 LPU 출하량은 포함되지 않았다."
+      ],
+      "importance": [
+        "국산 AI 가속기의 경쟁력은 연산 칩 사양만이 아니라 주요 모델을 실제 하드웨어에 맞게 압축하고 커널·메모리를 조정하는 소프트웨어에서 결정된다. 동일 고객과의 2년 연속 계약은 이 기능이 프로젝트성 자문을 넘어 반복 구매 가능한 전문 서비스로 자리 잡을 가능성을 보여준다.",
+        "하드웨어 기업과 독립 최적화 기업의 역할 분담은 국산 가속기 생태계가 자체 SDK만으로 모든 모델을 대응하는 부담을 줄인다. 동시에 고객별 모델 변경 때마다 최적화 수요가 발생할 수 있어 운영 소프트웨어의 매출 경로를 넓힌다."
+      ],
+      "implications": [
+        "후속 성과를 판단하려면 최적화 전후의 처리량·지연시간·메모리 사용량과 지원 모델 수를 동일 조건에서 확인할 필요가 있다. 계약 반복 여부와 함께 최종 수요기업의 운영 기간, 모델 업데이트 대응 속도가 사업성의 핵심 지표가 된다.",
+        "국산 NPU 지원사업에서도 칩 제공만으로는 실제 도입이 어려우므로 모델 포팅, 커널 최적화, 모니터링을 하나의 활용 패키지로 볼 필요가 있다. 다만 특정 칩에 대한 맞춤 개발이 누적될수록 유지보수 비용이 커질 수 있어 재사용 가능한 컴파일·런타임 계층의 범위를 함께 점검해야 한다.",
+        "이번 사례는 공급기업 간 계약이므로 최종 고객의 구매와는 구분해야 한다. 향후 베르다 LPU 탑재 서버의 실제 배치와 최적화 소프트웨어의 별도 매출이 확인되면 반복계약의 산업적 의미를 더 정확히 평가할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "노타, 하이퍼엑셀과 'AI 반도체 최적화' 후속 계약 체결",
+          "publisher": "전자신문",
+          "published_at": "2026-11-12T18:25:22+09:00",
+          "url": "https://www.etnews.com/20261112000469",
+          "verification": "full_text",
+          "verified_at": "2026-11-13T09:44:28+09:00"
+        }
+      ],
+      "event_id": "nota-hyperaccel-optimization-renewal-2026",
+      "event_first_published_at": "2026-11-12T18:25:22+09:00",
+      "event_evidence_url": "https://www.etnews.com/20261112000469",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 3,
+      "title": "파네시아·인텔, CXL 3.2 스위치 검증 착수…랙스케일 PoC로 확대",
+      "category": "메모리·인터커넥트·인프라",
+      "collected_at": "2026-11-12T12:34:57.116Z",
+      "original_published_at": "2026-11-12T17:30:00+09:00",
+      "original_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281141",
+      "main_points": [
+        "파네시아와 인텔코리아는 서울에서 열린 Intel AI Summit Seoul 2026에서 CXL 기반 AI 데이터센터 인프라 협력을 위한 업무협약을 체결했다. 우선 인텔 제온 플랫폼과 파네시아의 PCIe 6.4·CXL 3.2 퓨전 스위치 간 상호운용성과 성능을 검증한다.",
+        "검증 이후 양사는 랙스케일 참조 아키텍처를 공동 설계하고 고객 대상 개념검증으로 협력 범위를 확대할 계획이다. 파네시아는 해당 스위치를 실리콘으로 구현했으며, CXL 3.2의 포트 기반 라우팅을 지원한다고 설명했다.",
+        "협력 단계는 제품 공급 계약이 아니라 기술검증과 참조구조 공동개발을 위한 업무협약이다. 공개 자료에는 PoC 고객, 검증 일정과 구매 물량이 제시되지 않았다."
+      ],
+      "importance": [
+        "CXL은 GPU·CPU·메모리를 유연하게 묶어 AI 서버의 메모리 용량과 자원 활용률을 높이는 핵심 인터커넥트다. 국내 팹리스의 CXL 3.2 스위치가 인텔 서버 플랫폼과 직접 검증되는 것은 칩 수준 성능 주장보다 시스템 통합 가능성을 확인하는 단계로 이동했다는 의미가 있다.",
+        "랙스케일 참조구조는 서버 제조사와 데이터센터 고객이 도입을 검토할 수 있는 공통 설계 기반이 된다. 상호운용성 결과가 공개되고 실제 PoC로 이어지면 국내 인터커넥트 기업이 글로벌 CPU 생태계에 진입할 수 있는 레퍼런스가 형성된다."
+      ],
+      "implications": [
+        "검증에서는 대역폭과 지연시간뿐 아니라 장애 격리, 펌웨어 호환성, 다양한 메모리 장치와의 운용 안정성을 함께 봐야 한다. CXL 세대가 빨라질수록 스위치 성능과 서버 소프트웨어·관리도구의 성숙도가 도입 속도를 좌우한다.",
+        "국내 AI 인프라 실증에서 CXL을 검토할 때 단일 부품 벤치마크보다 CPU·가속기·메모리 풀을 포함한 랙 단위 워크로드와 총비용을 평가하는 방식이 적합하다. 참조구조가 공개되면 국산 메모리 모듈과 서버 기업이 참여할 접점도 넓어진다.",
+        "업무협약 이후 실제 성과는 공동 검증 완료, 고객 PoC 착수, 서버 업체의 설계 채택 순으로 확인할 수 있다. 각 단계를 구분해 추적해야 기술 협력이 매출과 공급망 진입으로 이어지는지를 판단할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "Panmnesia to Accelerate CXL Server Adoption in AI Data Centers with Ecosystem Partner",
+          "publisher": "BusinessKorea",
+          "published_at": "2026-11-12T17:30:00+09:00",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281141",
+          "verification": "full_text",
+          "verified_at": "2026-11-13T09:44:28+09:00"
+        },
+        {
+          "title": "Panmnesia and Intel Korea Sign MOU to Advance CXL-Based AI Infrastructure",
+          "publisher": "Panmnesia",
+          "published_at": "2026-11-12",
+          "url": "https://panmnesia.com/news/en/2026-11-12-panmnesia-intel-mou-eng/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-13T09:44:28+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "파네시아 공식자료는 2026-11-12 게시일과 같은 날 개최된 협약을 명시한다. 동일 사실을 담은 BusinessKorea 원문은 2026-11-12 17:30 KST에 공개됐고 아카이브에 21:34:57 KST 저장돼 2026-11-13 09:30 KST 마감 전 공개와 핵심 내용 일치를 확인했다."
+        }
+      ],
+      "event_id": "panmnesia-intel-cxl-mou-2026",
+      "event_first_published_at": "2026-11-12T17:30:00+09:00",
+      "event_evidence_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281141",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "SGLang 컨소시엄 출범…엔비디아·AMD·인텔·구글이 추론 SW 공동 로드맵",
+      "category": "가속기 운영 소프트웨어",
+      "collected_at": "2026-11-12T20:46:25.042Z",
+      "original_published_at": "2026-11-13T04:00:00+09:00",
+      "original_url": "https://www.lmsys.org/blog/2026-11-12-sglang-consortium",
+      "main_points": [
+        "LMSYS는 오픈소스 AI 추론 엔진 SGLang의 컨소시엄을 출범시켰다. 창립 회원에는 엔비디아, AMD, 인텔, 구글, 메타, 클라우드플레어, 모달, RadixArk가 참여한다.",
+        "회원사는 기술 대표자를 지정해 연 2회 로드맵 회의에 참여하고, 엔지니어링 전문성·배포 피드백·시험 자원·공동개발로 기여한다. 우선 과제는 최신 모델 지원, 추론·멀티모달 워크로드, 분산 추론, 하드웨어 최적화다.",
+        "컨소시엄이 공동 우선순위를 논의하지만 기술 결정과 코드 수용 권한은 SGLang 유지관리자가 계속 보유한다. 이는 특정 반도체 업체가 프로젝트를 단독 통제하지 않도록 하면서 여러 하드웨어에 대한 최적화를 제도화한 구조다."
+      ],
+      "importance": [
+        "AI 가속기 경쟁의 무게중심이 학습 칩 성능에서 대규모 추론의 비용·운영 효율로 옮겨가면서 추론 엔진이 하드웨어 채택을 좌우하는 공통 계층이 되고 있다. 경쟁 관계인 GPU·CPU·TPU 사업자와 대형 서비스 운영사가 같은 오픈소스 로드맵에 참여한 것은 이기종 가속기 지원을 개별 포팅에서 공동 생태계 문제로 전환한다.",
+        "유지관리자의 최종 결정권을 보존한 점은 공급자 참여 확대와 오픈소스 중립성 사이의 균형을 의도한 것이다. 실제 공동 시험과 업스트림 코드가 늘면 신규 가속기 업체가 모델별 최적화를 처음부터 구축해야 하는 비용을 줄일 수 있다."
+      ],
+      "implications": [
+        "향후 컨소시엄의 실질적 성과는 회원사 수보다 공개된 작업반 과제, 업스트림 기여, 가속기별 성능 회귀시험과 배포 안정성에서 확인해야 한다. 로드맵 논의가 특정 대형 사업자의 요구에 치우치지 않는지도 중요하다.",
+        "국내 NPU 기업은 SGLang 같은 공통 추론 엔진에 백엔드와 커널을 지속적으로 업스트림하면 자체 SDK 밖의 개발자와 운영도구에 접근할 수 있다. 이를 위해 일회성 벤치마크보다 모델 업데이트와 분산 실행을 따라가는 유지보수 역량이 필요하다.",
+        "운영기관 입장에서는 여러 가속기를 동일 엔진으로 관리할 수 있을 때 도입 전환비용이 낮아진다. 다만 공통 API가 성숙해도 하드웨어별 관측·스케줄링·장애 대응 차이는 남으므로 실제 혼합 클러스터 운용 검증이 병행돼야 한다."
+      ],
+      "sources": [
+        {
+          "title": "LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference",
+          "publisher": "LMSYS Org",
+          "published_at": "2026-11-12",
+          "url": "https://www.lmsys.org/blog/2026-11-12-sglang-consortium",
+          "verification": "public_primary",
+          "verified_at": "2026-11-13T09:44:28+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "LMSYS 원문은 2026-11-12 샌프란시스코 발표를 명시한다. 동일 보도자료의 공개 시각은 Business Wire 재배포본에서 2026-11-12 14:00 EST, 즉 2026-11-13 04:00 KST로 확인됐고 아카이브에는 05:46:25 KST 저장돼 09:30 KST 마감 전에 공개된 핵심 사실과 원문 일치를 확인했다."
+        },
+        {
+          "title": "LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference",
+          "publisher": "Business Wire via Yahoo Finance",
+          "published_at": "2026-11-12T14:00:00-05:00",
+          "url": "https://finance.yahoo.com/technology/ai/articles/lmsys-org-launches-sglang-consortium-190000546.html",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-13T09:44:28+09:00"
+        }
+      ],
+      "event_id": "sglang-consortium-launch-2026",
+      "event_first_published_at": "2026-11-12T14:00:00-05:00",
+      "event_evidence_url": "https://finance.yahoo.com/technology/ai/articles/lmsys-org-launches-sglang-consortium-190000546.html",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 5,
+      "title": "젠슨 황 엔비디아 CEO 즉시 사임…콜레트 크레스 임시 CEO 체제",
+      "category": "글로벌 가속기·전략 경쟁",
+      "collected_at": "2026-11-12T20:46:25.042Z",
+      "original_published_at": "2026-11-13T05:22:50+09:00",
+      "original_url": "https://www.reuters.com/business/view-nvidia-ceo-jensen-huang-steps-down-2026-11-12/",
+      "main_points": [
+        "엔비디아는 공동창업자 젠슨 황이 사장·최고경영자와 이사직에서 즉시 물러났다고 발표했다. 최고재무책임자 콜레트 크레스가 CFO를 겸한 임시 CEO를 맡았고, 이사회는 내부와 외부 후보를 대상으로 후임 탐색에 착수했다.",
+        "하비 C. 존스가 이사회 최초의 의장으로 선임됐다. 회사는 임시 경영체제에서도 운영과 제품 로드맵을 이어갈 계획이라고 밝혔다.",
+        "이번 사임은 11월 9일 엔비디아 이사회가 황 CEO 관련 보도를 조사하고 있다는 보도 이후 발생한 후속 사건이다. 조사 보도 단계에서 실제 최고경영자와 이사회 구성 변경 단계로 상황이 전환됐다."
+      ],
+      "importance": [
+        "엔비디아는 AI 가속기뿐 아니라 CUDA, 네트워킹, 서버 설계와 국가·기업 협력을 한 묶음으로 주도해 왔고 황 CEO는 주요 기술·투자 관계의 중심이었다. 즉시 사임은 단순 인사 변동보다 제품 우선순위와 파트너십 의사결정의 연속성을 시험하는 사건이다.",
+        "CFO가 임시 CEO를 겸하는 구조는 단기 운영 안정에 초점을 둔 조치로 볼 수 있지만, 장기 후임이 기술 로드맵과 생태계 전략을 어떻게 계승할지는 열려 있다. 경쟁 가속기 업체와 대형 고객이 공급선·소프트웨어 선택을 재평가할 가능성도 커졌다."
+      ],
+      "implications": [
+        "단기적으로는 블랙웰·루빈 계열 공급 일정, 주요 클라우드와의 용량 계약, CUDA 생태계 투자에 변화가 있는지를 확인해야 한다. 회사의 운영 지속 방침과 실제 자본배분·개발 일정 사이에 차이가 생기는지가 핵심이다.",
+        "국내 메모리·파운드리·서버 및 NPU 기업에는 엔비디아와 진행 중인 기술협력의 담당 체계와 의사결정 속도가 중요하다. 인물 중심의 관계보다 계약·공동개발·상호운용 로드맵의 제도화 수준을 점검할 계기가 된다.",
+        "경쟁 구도에서는 AMD·구글·맞춤형 ASIC 공급자가 고객의 다변화 요구를 활용할 수 있지만, 엔비디아의 설치 기반과 소프트웨어 전환비용은 여전히 크다. 경영 공백을 즉각적인 시장점유율 변화로 단정하기보다 후임 선임과 고객 주문 행동을 함께 추적해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
+          "publisher": "Reuters",
+          "published_at": "2026-11-13T05:22:50+09:00",
+          "url": "https://www.reuters.com/business/view-nvidia-ceo-jensen-huang-steps-down-2026-11-12/",
+          "verification": "full_text",
+          "verified_at": "2026-11-13T09:44:28+09:00"
+        },
+        {
+          "title": "NVIDIA Announces CEO Transition",
+          "publisher": "NVIDIA",
+          "published_at": "2026-11-12",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx",
+          "verification": "public_primary",
+          "verified_at": "2026-11-13T09:44:28+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "엔비디아 공식자료는 2026-11-12 즉시 효력의 CEO 교체를 명시한다. 같은 발표를 다룬 Reuters 원문은 2026-11-13 05:22:50 KST 공개됐고 아카이브에 05:46:25 KST 저장돼 09:30 KST 마감 전 공개와 공식자료의 핵심 사실 일치를 확인했다."
+        }
+      ],
+      "event_id": "nvidia-ceo-investigation-2026",
+      "event_first_published_at": "2026-11-13T05:22:50+09:00",
+      "event_evidence_url": "https://www.reuters.com/business/view-nvidia-ceo-jensen-huang-steps-down-2026-11-12/",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "삼성전자, 온양 HBM 패키징 팹 6조원 착공…2028년 첫 라인 가동",
+      "category": "메모리·패키징·산업 인프라",
+      "collected_at": "2026-11-12T07:22:57.474Z",
+      "original_published_at": "2026-11-12T15:19:40+09:00",
+      "original_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1731451",
+      "main_points": [
+        "삼성전자는 충남 아산 온양캠퍼스에서 6조원 규모 HBM 전용 패키징 팹 건설에 착수했다. 첫 신규 라인은 2028년 6월 가동을 목표로 하며 기존 계획보다 약 1년 앞당긴 일정이다.",
+        "삼성은 온양에 HBM 패키징 5개 라인을 구축할 계획이며 건설비 6조원과 장비 투자 40조원을 포함한 총 46조원 구상을 제시했다. 이번 착공은 그 가운데 공장 건설이 실제 실행 단계에 들어간 첫 조치다.",
+        "정부는 착공식과 함께 충청권 첨단산업 투자 지원방안을 발표했다. 다만 충청권 전체 투자계획과 삼성전자의 HBM 패키징 투자액은 범위가 다르므로 개별 사업 규모를 지역 전체 총액과 구분해야 한다."
+      ],
+      "importance": [
+        "HBM 공급능력은 D램 생산뿐 아니라 TSV, 적층, 검사 등 첨단 패키징 처리량에 의해 좌우된다. 온양 투자는 AI 가속기용 메모리의 후공정 병목에 대규모 전용 설비를 배치하고 첫 라인 일정을 앞당겼다는 점에서 통상적인 증설 계획보다 실행성이 높다.",
+        "패키징 5개 라인 구상은 장비·소재·테스트 기업의 중장기 수요를 만들 수 있고, 충청권의 후공정 인력·전력·물류 수요도 확대한다. 착공에서 가동까지의 일정 관리가 글로벌 HBM 고객 인증과 공급 확대 시점을 결정하게 된다."
+      ],
+      "implications": [
+        "향후에는 토목·건축 진척뿐 아니라 패키징 장비 반입, 공정 인증, 고객별 HBM 제품의 양산 전환 시점을 구분해 추적해야 한다. 건설비와 장비 투자액을 모두 현재 집행된 금액으로 해석해서는 안 되며 연차별 실행 규모가 중요하다.",
+        "국내 생태계에는 후공정 장비, 검사, 기판, 열관리 분야의 공급 기회가 커지지만 고객 인증과 수율 요구가 진입장벽이 된다. 지역 지원은 일반 인프라 확대와 함께 전문인력, 전력 품질, 소재·장비 공동 검증 기반을 연결할 필요가 있다.",
+        "대규모 HBM 패키징 투자는 메모리 기업 간 공급경쟁을 심화시키는 동시에 AI 가속기 업체의 조달 선택지를 넓힐 수 있다. 실제 시장 영향은 첫 라인 가동 시점의 HBM 세대와 고객 인증 결과, 경쟁사의 증설 속도에 따라 달라진다."
+      ],
+      "sources": [
+        {
+          "title": "삼성전자, 6조원 규모 HBM 패키징 팹 착공…충청권 투자 본격화",
+          "publisher": "EBN",
+          "published_at": "2026-11-12T15:19:40+09:00",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1731451",
+          "verification": "full_text",
+          "verified_at": "2026-11-13T09:44:28+09:00"
+        },
+        {
+          "title": "충청권 메가프로젝트 착공식 개최, 첨단산업 투자 본격 실행",
+          "publisher": "산업통상부",
+          "published_at": "2026-11-12",
+          "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172400/view",
+          "verification": "public_primary",
+          "verified_at": "2026-11-13T09:44:28+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "산업통상부 원문은 2026-11-12 착공과 지원방안을 명시한다. 동일 착공 사실을 담은 EBN 원문은 2026-11-12 15:19:40 KST에 공개됐고 아카이브에 16:22:57 KST 저장돼 2026-11-13 09:30 KST 마감 전 공개와 핵심 수치 일치를 확인했다."
+        }
+      ],
+      "event_id": "samsung-onyang-hbm-packaging-groundbreaking-2026",
+      "event_first_published_at": "2026-11-12T15:19:40+09:00",
+      "event_evidence_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1731451",
+      "selection_tier": "primary"
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "전체 아카이브에서 리벨리온·퓨리오사AI·하이퍼엑셀·딥엑스·모빌린트와 국산 NPU 실증·공동개발·해외 협력 후보를 확인했다. 노타-하이퍼엑셀의 2년 연속 최적화 계약은 반복 구매와 운영 SW 결합이라는 새 사실이 확인돼 선정했고, 하이퍼엑셀 SC26 시연과 파운드리·메모리 확보 인터뷰는 동일 기업 반복 및 자체 주장 중심이라 비교 후 제외했다. 최신 수집은 05:46:22 KST였고 09:20·09:27 수집 완료 기록이 없어 공식·공개 원문 보완 검색을 수행했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "산업부·과기정통부·NIPA·IITP 공식자료와 중앙부처, 광역·기초지자체, 지방의회, 테크노파크·지역기관의 NPU·AI반도체 예산·실증·조달·데이터센터 후보를 점검했다. 산업부의 8,002억원 K-온디바이스 사업은 이미 착수한 사업의 10종 로드맵, 2027년 시제품 21회, 수요기업 테스트베드 역할이라는 새 실행계획을 공식자료와 연합뉴스로 대조해 선정했다. 지역 종합예산·국비 기사에서는 개별 NPU 사업의 확정·집행 근거가 약한 후보를 지역 전체 금액과 구분해 제외했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·Intel·맞춤형 가속기와 전략적 인수·제휴·경영 변화를 점검했다. 엔비디아 CEO 사임은 11월 9일 이사회 조사 보도에서 실제 경영진 교체로 단계가 바뀐 실질적 후속 사실이라 공식 발표와 Reuters를 확인해 선정했다. Intel의 한국 AI 협력 발언과 T-Head IPO 재보도는 각각 구체 계약 부족과 최초 사건 시의성 초과로 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "SGLang·ROCm·커널·런타임·스케줄링·Kubernetes·HW 연계 보안 후보를 점검했다. SGLang 컨소시엄은 경쟁 가속기 업체와 대규모 운영사가 공동 로드맵에 참여하는 새 거버넌스로 확인돼 선정했다. NVIDIA Kubernetes Engine 관련 글은 11월 10일 공개로 48시간 기준을 벗어났고, Intel-RadixArk 최적화 발표는 같은 SGLang 생태계의 세부 협력으로 통합 비교했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단 패키징·CXL·인터커넥트·AIDC 전력·금융구조와 클러스터 부지·인허가 후보를 점검했다. 삼성 온양 HBM 전용 패키징 팹은 6조원 착공과 2028년 첫 라인 일정이 확인돼 대형 투자 실행 변화로 선정했고, 파네시아-인텔 CXL 검증은 국내 스위치의 시스템급 PoC 경로로 선정했다. Penguin Solutions의 CXL DDR4 카드와 일반 AIDC 투자 보도는 국내 유력 후보 대비 파급·검증 단계가 낮아 제외했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국산 AI칩 10종의 개발 일정뿐 아니라 수요기업 테스트베드, 파운드리 시제품 슬롯, IP 비용을 연결한 실행계획이 공개돼 국내 NPU의 제품 채택 경로와 정책 사업 관리에 직접 참고할 변화다."
+      },
+      {
+        "article_number": 2,
+        "reason": "동일 고객과 2년 연속 계약을 통해 국산 LPU의 모델·커널 최적화가 반복 구매되는 운영 소프트웨어 사업으로 전환되는 신호를 확인할 수 있다."
+      },
+      {
+        "article_number": 3,
+        "reason": "국내 CXL 팹리스 제품이 인텔 제온과 상호운용 검증을 거쳐 랙스케일 참조구조와 고객 PoC로 확대되는 구체적인 글로벌 시스템 협력 경로다."
+      },
+      {
+        "article_number": 4,
+        "reason": "경쟁 가속기·클라우드·모델 운영사가 오픈소스 추론 엔진 로드맵을 공동 논의하는 구조는 이기종 가속기 지원과 개발자 생태계의 중요한 변화다."
+      },
+      {
+        "article_number": 5,
+        "reason": "엔비디아의 실제 CEO·이사회 교체는 세계 AI 가속기 공급망, 제품 로드맵과 한국 기업 협력의 의사결정 연속성에 직접 영향을 줄 수 있는 실질적 후속 사건이다."
+      },
+      {
+        "article_number": 6,
+        "reason": "HBM 패키징 병목을 겨냥한 6조원 규모 팹이 계획을 넘어 착공에 들어가고 첫 라인 일정이 앞당겨져 AI 반도체 공급기반의 실행 변화를 보여준다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "HyperAccel to Showcase LPU-Based AI Inference System at SC26, Highlighting Power and Cost Efficiency",
+        "url": "https://www.prnewswire.com/news-releases/hyperaccel-to-showcase-lpu-based-ai-inference-system-at-sc26-highlighting-power-and-cost-efficiency-302937584.html",
+        "reason": "8-LPU 서버와 내부 벤치마크는 기술 후보로 확인했지만 행사 시연 예고와 회사 자체 비교치 중심이며, 같은 기업의 반복 계약이라는 사업화 증거가 더 강한 2번 기사를 우선했다."
+      },
+      {
+        "title": "Intel and RadixArk Collaborate to Advance Open AI Inference on Intel Platforms",
+        "url": "https://www.intel.com/content/www/us/en/newsroom/news/intel-radixark-collaborate-advance-open-ai-inference.html",
+        "reason": "인텔 플랫폼의 SGLang 업스트림 최적화는 확인했으나 4번 컨소시엄 출범과 같은 추론 SW 생태계의 세부 협력으로, 별도 슬롯보다 컨소시엄의 다중 하드웨어 거버넌스 변화를 우선했다."
+      },
+      {
+        "title": "T-Head Semiconductor Files for Hong Kong IPO",
+        "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926124859/tm2629456d1_ex99-1.htm",
+        "reason": "관련 공개자료는 11월 10일 사건으로 48시간 시의성 기준을 벗어났고, 11월 12일 재보도에서 독립적인 새 자금·일정이 확인되지 않았다."
+      },
+      {
+        "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+        "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
+        "reason": "11월 10일 공개된 운영 SW 설명으로 48시간 기준을 벗어났고 최근 회차의 이기종 가속기 운영 기사와 비교해 당일 신규성이 부족했다."
+      },
+      {
+        "title": "Penguin Solutions Introduces CXL-Enabled DDR4 Module to Help Address Memory Shortages in AI Data Centers",
+        "url": "https://www.penguinsolutions.com/company/newsroom/press-releases/cxl-enabled-ddr4-memory-module",
+        "reason": "DDR4 재사용형 CXL 카드라는 제품 변화는 확인했으나 국내 파네시아의 인텔 제온 검증·랙스케일 PoC가 국내 생태계와 시스템 채택 경로에서 더 직접적이었다."
+      }
+    ],
+    "count_reason": "최근 24시간 공개된 후보 가운데 국내 정책 실행, 국산 가속기 반복계약, CXL 시스템 협력, 이기종 추론 SW 거버넌스, 글로벌 가속기 경영 변화, HBM 패키징 투자 실행을 서로 독립된 6개 이슈로 선정했다. 7번째 후보는 기존 6건과 구별되는 추가 가치나 검증 강도가 충분하지 않아 기본 6건을 유지했다.",
+    "company_overlap_review": "중심 기업집단이 중복되는 단독 기업 기사는 없다. 다만 엔비디아는 4번 SGLang 컨소시엄의 8개 창립 회원 중 하나이며 5번에서는 경영진 교체의 중심 기업이다. 두 사건은 각각 다중 하드웨어 추론 SW 거버넌스와 독립적인 최고경영자 교체로 사실·영향·검증 출처가 달라 별도 선정했다.",
+    "candidate_counts": {
+      "discovered": 4590,
+      "time_eligible": 2792,
+      "independent_events": 14,
+      "verified": 10,
+      "selected": 6,
+      "basis": "python mail/candidates.py가 전체 아카이브와 2026-11-13 작성 시점까지 발견한 기사 4,590건, 48시간 조건에 맞는 기사 2,792건을 집계했다. 중복 기사와 동일 사건을 묶어 업무 관련성이 높은 14개 독립 사건을 비교했고, 공개 원문 또는 공식자료로 10개 사건을 검증한 뒤 6개를 선정했다. 당일 collection의 최신 저장은 05:46:22 KST이며 45개 출처 중 ok 43개, empty 2개, failed 0개였다. 09:20·09:27 완료 기록 부재는 다섯 영역 직접 보완 검색으로 보충했다."
+    },
+    "history_review": {
+      "start_date": "2026-10-30",
+      "end_date": "2026-11-12",
+      "checked_dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12"
+      ],
+      "note": "최근 14일 모든 ready 원고의 제목, 주요 사실, original_url, sources와 event_id를 읽어 사건 단위로 비교했다. 1·2·3·4·6번은 동일 사건의 과거 게재가 없었고, 5번은 2026-11-09 이사회 조사 보도의 후속으로 CEO 즉시 사임·임시 CEO·이사회 의장 선임이라는 실질적 새 사실을 확인했다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "6월 사업 착수 자체가 아니라 11월 12일 처음 공개된 10종 일정, 전략위원회, 2027년 시제품 21회와 수요기업 역할을 새 사건으로 비교했다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "2025년 첫 계약의 재서술이 아니라 2026년 두 번째 연간 계약과 베르다 LPU 대상 후속 최적화 범위를 중심으로 신규성을 확인했다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "파네시아의 과거 CXL 제품·미국법인 보도와 구분되는 인텔 제온 상호운용 검증 및 랙스케일 PoC 협약을 새 사건으로 확인했다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "기존 SGLang 기술 업데이트와 달리 8개 기업이 창립 회원으로 참여하는 상설 컨소시엄 출범과 로드맵 회의 구조가 처음 공개됐다."
+      },
+      {
+        "article_number": 5,
+        "result": "material_update",
+        "previous_editions": ["2026-11-09"],
+        "note": "2026-11-09 원고는 이사회 조사 착수 단계였고, 이번에는 젠슨 황의 즉시 사임, 콜레트 크레스 임시 CEO, 하비 존스 이사회 의장 선임으로 실제 지배구조가 변경됐다.",
+        "new_fact": "젠슨 황이 CEO·이사직에서 즉시 사임하고 CFO 콜레트 크레스가 임시 CEO를 겸임했으며 이사회가 후임 탐색에 착수했다.",
+        "evidence_url": "https://www.reuters.com/business/view-nvidia-ceo-jensen-huang-steps-down-2026-11-12/"
+      },
+      {
+        "article_number": 6,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "충청권 투자 구상의 반복이 아니라 온양 HBM 패키징 팹 6조원 착공, 2028년 첫 신규 라인 가동 일정이라는 실행 사실을 새 사건으로 확인했다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "국내 NPU 기업 하이퍼엑셀 리벨리온 퓨리오사AI 딥엑스 모빌린트 고객 도입 공동개발 실증 계약 매출 2026-11-12; HyperAccel SC26 LPU; 노타 하이퍼엑셀 후속 계약",
+          "official_sources": "전자신문 공개 본문 https://www.etnews.com/20261112000469 및 HyperAccel SC26 공개자료 https://www.prnewswire.com/news-releases/hyperaccel-to-showcase-lpu-based-ai-inference-system-at-sc26-highlighting-power-and-cost-efficiency-302937584.html 를 확인했다.",
+          "result": "노타-하이퍼엑셀 2년 연속 최적화 계약을 선정했다. 다른 국내 NPU 후보는 기존 사건 재서술, 자체 시연 수치, 구체 수요처·계약 단계 부족 또는 최근 회차 중복으로 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:motir.go.kr AI반도체 NPU 온디바이스 2026-11-12; site:msit.go.kr NPU AI반도체; site:nipa.kr AI반도체 공고; site:iitp.kr AI반도체; 지자체 테크노파크 NPU 국비 예산 실증 도입 조달 2026-11-12",
+          "official_sources": "산업통상부 K-온디바이스 공식자료 https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172399/view 와 정책브리핑·연합뉴스 공개 본문을 대조했다. 과기정통부·NIPA·IITP와 지역기관의 당일 공개 후보도 점검했다.",
+          "result": "10종 로드맵과 수요기업·파운드리·IP 역할이 구체화된 산업부 사건을 선정했다. 지자체·지역기관 후보 중 마감 전 공개된 독립 NPU 계약·운영·집행 변화는 추가로 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "NVIDIA AMD Google TPU Intel AI accelerator November 12 2026 official; Nvidia CEO transition; AI chip acquisition partnership developer ecosystem",
+          "official_sources": "NVIDIA CEO 전환 공식자료 https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx 와 Reuters 공개 원문을 확인했고, Intel·T-Head 관련 공식자료를 비교했다.",
+          "result": "엔비디아 CEO 즉시 사임을 11월 9일 조사 보도의 material update로 선정했다. T-Head IPO와 NVIDIA Kubernetes 자료는 48시간 시의성 기준에서 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "SGLang consortium NVIDIA AMD Intel Google Meta November 12 2026; ROCm kernel runtime heterogeneous accelerator Kubernetes security November 12 2026",
+          "official_sources": "LMSYS 공식 발표 https://www.lmsys.org/blog/2026-11-12-sglang-consortium 와 Business Wire 재배포, Intel-RadixArk 발표를 확인했다.",
+          "result": "SGLang 컨소시엄의 다중 하드웨어 거버넌스 출범을 선정했다. Intel-RadixArk 개별 최적화는 같은 생태계 세부 협력으로 통합 비교했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "HBM packaging CXL interconnect AIDC power financing November 12 2026 Korea; site:motir.go.kr 충청권 HBM 착공; Panmnesia Intel CXL MOU",
+          "official_sources": "산업통상부 충청권 착공자료 https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172400/view, EBN 공개본문, 파네시아 공식자료 https://panmnesia.com/news/en/2026-11-12-panmnesia-intel-mou-eng/ 및 BusinessKorea 본문을 확인했다.",
+          "result": "삼성 온양 HBM 패키징 착공과 파네시아-인텔 CXL 시스템 검증을 서로 다른 인프라 사건으로 선정했다. 일반 메모리 전망·개별 CXL 제품 발표는 상대적 우선순위가 낮았다."
+        }
+      },
+      "alternative_sources": "유료벽·접근 제한 후보는 공식 보도자료, 회사 뉴스룸, 공개 재배포본과 동시 보도로 핵심 사실을 대조했다. 공개 본문이나 마감 전 공개 근거가 충분하지 않은 후보는 선정하지 않았으며, 검색결과 문구만으로 본문을 작성하지 않았다."
+    }
+  }
+}
