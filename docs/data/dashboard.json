@@ -1,7 +1,34 @@
 {
-  "generatedAt": "2026-11-13T02:08:27.289Z",
+  "generatedAt": "2026-11-13T02:35:08.855Z",
   "news": {
     "articles": [
+      {
+        "title": "LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference - The Joplin Globe",
+        "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPLXBkbzhaTUptTTNld1RPT2hSd1B1YlY0SmtBUVVLcjMtSjdwQ3RjallPV0pDT1h2bW1aOGNtUzF5NmdwQnJpSGlDZnJJbktrTnVYVi1fcW1xLUFqblR1ajhJR1RnT1JaTkhweS1nMTZTTmVIRXVTS1hfRzN1cjB5TnpGMjR2dnFMWUR6cTVkZS13ZmNYNURXMnN2VEJyS2ZWNHlLTzVMVGpaQTdZdTZHeHROYVd6U0JJZjRnSzllSE1UV0lyX2RxLXlkOGVJWmN1Z2xvWm9XaGlHcGVIeDBUOFUySVVBNnJob0xhenoteVdLTG1qZWJpeW1EVW9jdkYteFR0M1lnaEEwdGREcXE5OXMzUkhzRlIzSl8ycW5wdmZ6bWxJYVNLanN3QQ?oc=5",
+        "publishedAt": "Thu, 12 Nov 2026 19:02:39 GMT",
+        "summary": "LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference &nbsp;&nbsp; The Joplin Globe",
+        "outlet": "The Joplin Globe",
+        "outletUrl": "https://www.joplinglobe.com",
+        "source": "가속기 운영 SW",
+        "sourceIds": [
+          "accelerator-software"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "추론",
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "AI시장",
+        "score": 37
+      },
       {
         "title": "LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0hxdUhRazZsblVsMmtvbEp1MkVTMHU5alBrN3ZHdm04UERFS3lWRkpRQWhlbjMwMHFPS3RMdFRnc1RHVTZnMU1rdkNNSzV6N3l3a2RrMDJiNnJjZFFpU0VMalNFTENlNHJ6X0pUUm5BejZIOGhNQUR4ZjVON3lxbUdBcjBKM1BYa21ZT1pTcVE4YjJKa1RUdW5QSGJUUkM2ekE?oc=5",
@@ -210,27 +237,6 @@
         ],
         "issueCategory": "NPU",
         "score": 30
-      },
-      {
-        "title": "과기정통부, 기업 소통을 바탕으로 국산 인공지능 반도체 상용화 지원 성과를 앞당긴다 - 과학기술정보통신부",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzZhTDNXOVVZeWtsMk9hamhzN1JwOTg1S2NOUU0wT2VkS1VVWWtXYlBtQlVsYk9tcmJiTHlsY0NDWXFseUhXZkl4aTljLUo3S3BhYk1HbTNESTcyYWV4elZOSmhYaDI4YVNVOHlKSG16ZGplajljQlVlaUpUZnVXZkhiOXJQQ29wcEl4QXNn?oc=5",
-        "publishedAt": "Thu, 12 Nov 2026 14:09:08 GMT",
-        "summary": "과기정통부, 기업 소통을 바탕으로 국산 인공지능 반도체 상용화 지원 성과를 앞당긴다 &nbsp;&nbsp; 과학기술정보통신부",
-        "outlet": "과학기술정보통신부",
-        "outletUrl": "https://www.msit.go.kr",
-        "source": "정부·공공기관 공식자료",
-        "sourceIds": [
-          "official-korea-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "NPU"
-        ],
-        "issueCategory": "정책",
-        "score": 29
       },
       {
         "title": "Nvidia’s memory chip push with Taiwan’s TSMC could weaken the roles of Samsung and SK hynix in supply chains - Livemint",
@@ -781,15 +787,15 @@
         "score": 27
       },
       {
-        "title": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents - Google Cloud",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU3FiV3V4Uzd2M2k3cDlnWHIwdHdScHdzUGRaTkdWcVVDc2x3UUI0UnVJM1NWUjZJalBQOEIxWnBkRkdEel9tUTZTWWlyRHFtdURuVFFwOFI3NTVWRWY3cFoySU05YmFTaEI0Qmp3UlN2MXk0a0ZyTEYzUEg0eUlYV0tORzlVNWJpSkxlRTBOSGhfNFRQb3d1YVdvMjR2dThHdU5uS0VhTjh2Z1VtcFlrSUtxMFNLeG1TRThrWk9nOThlSlRCYW9ickNXd0NmRlJ3cUlHSHJzOEsyTE5LY1dPQUhxc0RRdVRn?oc=5",
-        "publishedAt": "Tue, 10 Nov 2026 02:28:53 GMT",
-        "summary": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents &nbsp;&nbsp; Google Cloud",
-        "outlet": "Google Cloud",
-        "outletUrl": "https://cloud.google.com",
-        "source": "Google AI 이슈",
+        "title": "Alphabet (GOOGL) Taps Hong Kong And Singapore Debt Markets As AI Funding Draws $7 Billion Orders - Simply Wall St",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek4yVU1iUTh4U3BzQmRRNEZRRl9SVTJOYTR1UFoxZFRrd1F6RjEzcDUyajdPcGNGdnlBbDI1OTVTU3NFeXJnZC1BdEhyY2ZNWWowQVVVTDNqUWJhTUJQaXp5dzlQRUxLaGVtWXA5SFJSZURvdkhVcXhBUkVzMVRxaXhwaDhiMWI1dW5tWTRPQ1I3SVU5alpvYlRkSnl5SGZPN19ONzltVWFqWmJSRlRNeEdQcUhhVXROeUpSdFkxRWtKQdIBxwFBVV95cUxQaHZYUmhUdWFuV3l3OGxSOUFoNzMwdTY3elpaaEEzaDlFMlNiR2gxTUY2LXJOV3Nzci1oOWd5N3p5QlFXZUF2LXl5MlhNNjFZM2hzR1IyLWJsSHJjRTBBSHpxY1dGRWcyXzN6UnBFSUd0V3ZxSzkxbGQySDRSYTJBOHpvOFVnMnREMmxycnBLRXNDTGRCQloyOC0tYnN1bUZtYlRRN0R1R2VQRHJlMlk1Zm9GamRHWEYyMXlpZzRVbnlzS25seXlN?oc=5",
+        "publishedAt": "Fri, 13 Nov 2026 02:25:44 GMT",
+        "summary": "Alphabet (GOOGL) Taps Hong Kong And Singapore Debt Markets As AI Funding Draws $7 Billion Orders &nbsp;&nbsp; Simply Wall St",
+        "outlet": "Simply Wall St",
+        "outletUrl": "https://simplywall.st",
+        "source": "AI 투자·자본시장",
         "sourceIds": [
-          "google-ai"
+          "ai-investment-market"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -797,13 +803,60 @@
           "Google"
         ],
         "taxonomyHits": [
-          "AI에이전트",
-          "AI인프라",
-          "추론",
-          "Google"
+          "AI시장",
+          "Google",
+          "투자·M&A"
         ],
-        "issueCategory": "AI인프라",
-        "score": 27
+        "issueCategory": "AI시장",
+        "score": 26
+      },
+      {
+        "title": "젠슨 황 떠난 엔비디아…AI 투자·금융지원 사업 '시험대' - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LVFZSOFM5NDA3V0RWVmdDMGwweTB1ODI0R0RUQS1ydHBkU3lNZVBWMFJjejZxTHhuM3VfRklNbTYwNFNuWkZFazlKLVRkSWU5Ulhhejd0N1lQRXJjNzMydg?oc=5",
+        "publishedAt": "Fri, 13 Nov 2026 02:20:00 GMT",
+        "summary": "젠슨 황 떠난 엔비디아…AI 투자·금융지원 사업 '시험대' &nbsp;&nbsp; 아시아경제",
+        "outlet": "아시아경제",
+        "outletUrl": "https://www.asiae.co.kr",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 26
+      },
+      {
+        "title": "엔비디아 '대마불사' 논란…AI 투자 확대에 금융시장 우려 - 인터내셔널포커스",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11NzE1Nlo4bU0ybmg3V3AtYUNHazFMaS0wTlByQnVKUDVkekdZUnpmR0VpZWVab0tnVXh0MkRWRHdfTzJPcnFCNnkwMEVhZ0RkUDJPeU13?oc=5",
+        "publishedAt": "Fri, 13 Nov 2026 02:16:04 GMT",
+        "summary": "엔비디아 '대마불사' 논란…AI 투자 확대에 금융시장 우려 &nbsp;&nbsp; 인터내셔널포커스",
+        "outlet": "인터내셔널포커스",
+        "outletUrl": "https://dspdaily.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 26
       },
       {
         "title": "딥엑스, 인텔 오픈비노에 NPU 연동 추진…AI 추론 생태계 확장 - 전자신문",
@@ -1224,26 +1277,6 @@
         "score": 26
       },
       {
-        "title": "과기정통부 ‘AI 안전 지킴이’ 발대식 개최 - NK경제",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNGtFZXBRaWlFaEJDUl9EMDNBcnlNSlY2akhSalZqRDIyRVEtQXpZamt3V2xsUkZfTjAxNC1neUpFVDJ1anpiZEczdGw5YXNiSExNdlM3NkQ3LWIzR0VPOXFzOEwybllwLWfSAW5BVV95cUxPZ3NwUXpIQm5BM0JjUlJxQ1FLcVNqemc2R19WVmhxX3NUSFJLYmVOMlN6MENrTmpvdlEtMWxTcnBlMkQ0XzBHMzZlTndITFFQSHhxQXZFUjBaY3ZZdlE4UHNYbWhJQ3Y4Y0FqNVFndw?oc=5",
-        "publishedAt": "Thu, 12 Nov 2026 05:18:35 GMT",
-        "summary": "과기정통부 ‘AI 안전 지킴이’ 발대식 개최 &nbsp;&nbsp; NK경제",
-        "outlet": "NK경제",
-        "outletUrl": "http://www.nkeconomy.com",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "",
-        "score": 26
-      },
-      {
         "title": "동국대 이민호 교수, AI바이오 혁신 공로 과기정통부 장관 표창 수상 - 이뉴스투데이",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93US1uZFdmeDBkNWNWZlhJOHpkcExHa195akpOMXl6alpSekJYeDB2ejJPM1UteWFtalZUNDNSTjdZTVpZSm10VkJ0RWtKYVlwX3pCTmFhVWNEUlVkeHhNNWIzVkpBeURDXzZfbGh2aXDSAXRBVV95cUxONlM1Y0Y4YzNhaFJnNFdhTnZobzRyWGlGRWRWVGZYeTBfU1RwWXNMaHREbGJJekl2N0dKVkVtNkM1cGRxWEVhbEJ2ZV9XdDAyTGFnV2JKdXlSODFhSU5iSi1lS2xKRTZaWjcyWlFpWXlvbDRaMA?oc=5",
         "publishedAt": "Thu, 12 Nov 2026 04:55:00 GMT",
@@ -1319,8 +1352,7 @@
         "source": "국내 NPU 기업",
         "sourceIds": [
           "korea-npu",
-          "rebellions",
-          "korea-global-chip-cooperation"
+          "rebellions"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -1917,31 +1949,6 @@
         "score": 25
       },
       {
-        "title": "SKT-엔비디아-리벨리온, 한국형 소버린 AI 인프라 구축 - 문화저널21",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DVXRUelUtRFRnRkFRczJhM0NibVhaR3llbnRVTk40bkJVNHAyOE9vLVI2TEFRSUlvNUtMbkZkbUFBNHZScTFhbWRqNG5oMmJ4TU13VUhoYjI5R3p6X3ExU051TmV6eUU?oc=5",
-        "publishedAt": "Tue, 10 Nov 2026 02:32:04 GMT",
-        "summary": "SKT-엔비디아-리벨리온, 한국형 소버린 AI 인프라 구축 &nbsp;&nbsp; 문화저널21",
-        "outlet": "문화저널21",
-        "outletUrl": "https://www.mhj21.com",
-        "source": "국내 NPU 기업",
-        "sourceIds": [
-          "korea-npu",
-          "rebellions"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA",
-          "리벨리온"
-        ],
-        "taxonomyHits": [
-          "리벨리온",
-          "NVIDIA"
-        ],
-        "issueCategory": "NPU",
-        "score": 25
-      },
-      {
         "title": "삼성전자·AMD·브로드컴, 엔비디아 리더십 공백 수혜 기대…AI 반도체 판도 변화 - 중앙이코노미뉴스",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NTkVYbUJHWDN4NkFFbnJPR3lQSXR3YlZ1Q1huOU9Hd0MzRjZtM0pYOGJOLWM5cUdibTBCb0RzSTEzTDcteEt6X1ZNRkRwWnpkRmNTWHN6RkhVRS1MWUtvV2dhUk9CS1RENTgxeC1GNDZKUQ?oc=5",
         "publishedAt": "Fri, 13 Nov 2026 01:01:24 GMT",
@@ -2104,29 +2111,6 @@
         "score": 24
       },
       {
-        "title": "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off? - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUFRelQ3SHo1eld4ZGloSnNYNkdmcGpVdHg2WFczR1Jib3BJMG80a0xYRlU4amE5UFZqeXJNa0lscVVOdkhsek9TNHdrZFQyU0huYjZQUEtYTW9pYTA3NXhSZkloV28wSWNZbjVMTW9vRnNoSjZDdE9VWTc5ODZJNS1kdUlEVU5kdDlnXzF3c2xWV1d2bGZXNHJ4eko2cC1HNFNSSENoV0xHLW9BTFJMcjgzM3BvQUxvT3JMd244NHBVNktvYm5HR25DZmdZVDNXQmJtOE12UGJ3UQ?oc=5",
-        "publishedAt": "Thu, 12 Nov 2026 14:09:00 GMT",
-        "summary": "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off? &nbsp;&nbsp; The Motley Fool",
-        "outlet": "The Motley Fool",
-        "outletUrl": "https://www.fool.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 24
-      },
-      {
         "title": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study - Fierce Pharma",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlh1MGktTFl3SEdkWkN3Rlk2ZHNtTlhabzY2UkFuelZ5dFJfaHZ4U0VHc2dacDZ0bHoyVU1vSmRwTHdad1U3a3NDTUFHeEtGWlZreUxJMnJaRXFNaEV6VjY0bnVEVGhLWlVGR05CUnM4eldSZFJBXzRLT1F3Uk1VRm94c2ZaekR0S2hqTEVkRFhuX0d5MWx4ZDhVdnZqaHNfZVdIV3VLNS0yeTA?oc=5",
         "publishedAt": "Thu, 12 Nov 2026 12:45:05 GMT",
@@ -2158,7 +2142,8 @@
         "outletUrl": "https://bushwickdaily.com",
         "source": "AI 시장·비즈니스",
         "sourceIds": [
-          "ai-market-business"
+          "ai-market-business",
+          "google-ai"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -2383,6 +2368,52 @@
         ],
         "issueCategory": "정책",
         "score": 24
+      },
+      {
+        "title": "딥엑스, 인텔코리아와 AI 추론 협력…로봇·서버로 확대 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yRFdoS3NacmJkZHJWT1YyRy1ibnVxekN1VE5LRWVsMWM2WFZQTVRncWJ2UElzQ0xIdi1xUWVEaUN3MWpDN2dWN3FmSlNEUzVl?oc=5",
+        "publishedAt": "Fri, 13 Nov 2026 02:29:06 GMT",
+        "summary": "딥엑스, 인텔코리아와 AI 추론 협력…로봇·서버로 확대 &nbsp;&nbsp; 매일경제",
+        "outlet": "매일경제",
+        "outletUrl": "https://www.mk.co.kr",
+        "source": "국내 NPU 기업",
+        "sourceIds": [
+          "korea-npu"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "딥엑스"
+        ],
+        "taxonomyHits": [
+          "추론",
+          "딥엑스"
+        ],
+        "issueCategory": "NPU",
+        "score": 23
+      },
+      {
+        "title": "HyperAccel to Showcase LPU-Based AI Inference System at SC26, Highlighting Power and Cost Efficiency - ACROFAN USA",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwa1lyN3FiTmxfRHk3OExfU2ZjajFQYUJXdmhZQmw5eDhlZmM0QTZYYnJhcU5KSEt5R1dyQ2VtTjZheUVpTm9RbmMzaHBRbDFOS0JSOW44aUp5S3g5?oc=5",
+        "publishedAt": "Fri, 13 Nov 2026 02:21:11 GMT",
+        "summary": "HyperAccel to Showcase LPU-Based AI Inference System at SC26, Highlighting Power and Cost Efficiency &nbsp;&nbsp; ACROFAN USA",
+        "outlet": "ACROFAN USA",
+        "outletUrl": "https://us.acrofan.com",
+        "source": "AI 서비스·클라우드",
+        "sourceIds": [
+          "ai-agents-cloud"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "하이퍼엑셀"
+        ],
+        "taxonomyHits": [
+          "추론",
+          "하이퍼엑셀"
+        ],
+        "issueCategory": "NPU",
+        "score": 23
       },
       {
         "title": "Should You Buy Alphabet Stock Now That Google Will Let Customers Run Its AI Chips in Their Own Data Centers? - The Motley Fool",
@@ -2743,9 +2774,8 @@
         "summary": "딥엑스·인텔, AI반도체 연동 추진…서버까지 협력 &nbsp;&nbsp; 이데일리",
         "outlet": "이데일리",
         "outletUrl": "https://www.edaily.co.kr",
-        "source": "국내 NPU 기업",
+        "source": "딥엑스",
         "sourceIds": [
-          "korea-npu",
           "deepx",
           "korea-ai-market"
         ],
@@ -3669,28 +3699,6 @@
         "score": 22
       },
       {
-        "title": "K-온디바이스 AI반도체, '상생'으로 속도낸다 - 대한민국 정책브리핑",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUhXQllJQVBmLU56cjBSZFNIOXpQanRzZ0dpbU5yclpmZ3M1dWdVM1RhZTczY0RpMHFWMXpPWFowUUx6QncxR0hyOTNtdHFWaTRXVkEyNHlLXy04TkVrTUpaTWJTck1JcDVTMFhVcWJMWkN0VTBGaVZCbE9nY3pqdXRGZjZVajRidEd4UDZQeFVzdw?oc=5",
-        "publishedAt": "Thu, 12 Nov 2026 02:16:14 GMT",
-        "summary": "K-온디바이스 AI반도체, '상생'으로 속도낸다 &nbsp;&nbsp; 대한민국 정책브리핑",
-        "outlet": "대한민국 정책브리핑",
-        "outletUrl": "https://www.korea.kr",
-        "source": "정부·공공기관 공식자료",
-        "sourceIds": [
-          "official-korea-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "NPU",
-          "온디바이스AI"
-        ],
-        "issueCategory": "NPU",
-        "score": 22
-      },
-      {
         "title": "노타, 하이퍼엑셀과 AI반도체 최적화 기술 공급 후속 계약 - 뉴스핌",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yb1hFT2ZvbVZ0bUNfVklKM1R4aWdsMWZDNmJVVFMtY3dvQ0dQRmlVTWNVRHNXbmMyQ3pmczRYWkN3UXFrczlILThSNDR6c2Fib1FvaVAyOWppcTcx?oc=5",
         "publishedAt": "Thu, 12 Nov 2026 01:05:00 GMT",
@@ -4241,7 +4249,8 @@
           186.63999938964844,
           178.6699981689453,
           168.88999938964844,
-          173.72999572753906
+          173.72999572753906,
+          166.19000244140625
         ],
         "candles": [
           {
@@ -4397,6 +4406,13 @@
             "high": 177.5399932861328,
             "low": 170.77000427246094,
             "close": 173.72999572753906
+          },
+          {
+            "date": "2026-11-12T14:30:00.000Z",
+            "open": 151.00999450683594,
+            "high": 167.13999938964844,
+            "low": 148.8000030517578,
+            "close": 166.19000244140625
           }
         ]
       },
@@ -4431,7 +4447,8 @@
           284.7799987792969,
           288.1499938964844,
           287.3800048828125,
-          293.45001220703125
+          293.45001220703125,
+          298.70001220703125
         ],
         "candles": [
           {
@@ -4587,6 +4604,13 @@
             "high": 295.739990234375,
             "low": 289.4800109863281,
             "close": 293.45001220703125
+          },
+          {
+            "date": "2026-11-12T14:30:00.000Z",
+            "open": 293.7699890136719,
+            "high": 302.55999755859375,
+            "low": 293.69000244140625,
+            "close": 298.70001220703125
           }
         ]
       },
@@ -4621,7 +4645,8 @@
           449.0400085449219,
           508.5799865722656,
           515.2100219726562,
-          552.9000244140625
+          552.9000244140625,
+          585.2999877929688
         ],
         "candles": [
           {
@@ -4777,6 +4802,13 @@
             "high": 567.6500244140625,
             "low": 522.6500244140625,
             "close": 552.9000244140625
+          },
+          {
+            "date": "2026-11-12T14:30:00.000Z",
+            "open": 569.280029296875,
+            "high": 594,
+            "low": 554.9000244140625,
+            "close": 585.2999877929688
           }
         ]
       },
@@ -4811,7 +4843,8 @@
           293.69000244140625,
           319.4800109863281,
           331.9800109863281,
-          345.2200012207031
+          345.2200012207031,
+          364.3599853515625
         ],
         "candles": [
           {
@@ -4967,6 +5000,13 @@
             "high": 356.8500061035156,
             "low": 344.30999755859375,
             "close": 345.2200012207031
+          },
+          {
+            "date": "2026-11-12T14:30:00.000Z",
+            "open": 356.79998779296875,
+            "high": 369.82000732421875,
+            "low": 354.7200012207031,
+            "close": 364.3599853515625
           }
         ]
       },
@@ -5001,7 +5041,8 @@
           375.44000244140625,
           388.6199951171875,
           396.4800109863281,
-          413.3500061035156
+          413.3500061035156,
+          405.489990234375
         ],
         "candles": [
           {
@@ -5157,6 +5198,13 @@
             "high": 416.79998779296875,
             "low": 407.0299987792969,
             "close": 413.3500061035156
+          },
+          {
+            "date": "2026-11-12T14:30:00.000Z",
+            "open": 394.6199951171875,
+            "high": 411.7699890136719,
+            "low": 393.9100036621094,
+            "close": 405.489990234375
           }
         ]
       },
@@ -5191,7 +5239,8 @@
           174.6199951171875,
           186.3000030517578,
           181.49000549316406,
-          203.36000061035156
+          203.36000061035156,
+          199.77999877929688
         ],
         "candles": [
           {
@@ -5347,6 +5396,13 @@
             "high": 207.44000244140625,
             "low": 188.4250030517578,
             "close": 203.36000061035156
+          },
+          {
+            "date": "2026-11-12T14:30:00.000Z",
+            "open": 190.36500549316406,
+            "high": 204.77000427246094,
+            "low": 190,
+            "close": 199.77999877929688
           }
         ]
       },
@@ -5381,7 +5437,8 @@
           690,
           733.1500244140625,
           725.1099853515625,
-          811.2999877929688
+          811.2999877929688,
+          798.4400024414062
         ],
         "candles": [
           {
@@ -5537,6 +5594,13 @@
             "high": 827.5800170898438,
             "low": 763.0499877929688,
             "close": 811.2999877929688
+          },
+          {
+            "date": "2026-11-12T14:30:00.000Z",
+            "open": 769.3099975585938,
+            "high": 799.7000122070312,
+            "low": 764.5700073242188,
+            "close": 798.4400024414062
           }
         ]
       },
@@ -5571,7 +5635,8 @@
           28.760000228881836,
           28.600000381469727,
           27.790000915527344,
-          30.43000030517578
+          30.43000030517578,
+          26.989999771118164
         ],
         "candles": [
           {
@@ -5727,6 +5792,13 @@
             "high": 31.190000534057617,
             "low": 29.1200008392334,
             "close": 30.43000030517578
+          },
+          {
+            "date": "2026-11-12T14:30:00.000Z",
+            "open": 27.280000686645508,
+            "high": 29,
+            "low": 25.700000762939453,
+            "close": 26.989999771118164
           }
         ]
       },
@@ -5734,11 +5806,11 @@
         "symbol": "005930.KS",
         "name": "삼성전자",
         "market": "KR",
-        "price": 212500,
+        "price": 211750,
         "currency": "KRW",
-        "changePct": -8.405172413793103,
+        "changePct": -8.72844827586207,
         "previousClose": 232000,
-        "marketTime": "2026-11-13T01:48:22.000Z",
+        "marketTime": "2026-11-13T02:15:04.000Z",
         "closes": [
           232000,
           232000,
@@ -5763,7 +5835,7 @@
           198900,
           206000,
           208000,
-          212500
+          211750
         ],
         "candles": [
           {
@@ -5931,8 +6003,8 @@
             "date": "2026-11-13T00:00:00.000Z",
             "open": 214000,
             "high": 216000,
-            "low": 212000,
-            "close": 212500
+            "low": 211000,
+            "close": 211750
           }
         ]
       },
@@ -5940,11 +6012,11 @@
         "symbol": "000660.KS",
         "name": "SK하이닉스",
         "market": "KR",
-        "price": 1275000,
+        "price": 1267000,
         "currency": "KRW",
-        "changePct": -11.642411642411643,
+        "changePct": -12.196812196812196,
         "previousClose": 1443000,
-        "marketTime": "2026-11-13T01:48:22.000Z",
+        "marketTime": "2026-11-13T02:15:03.000Z",
         "closes": [
           1443000,
           1419000,
@@ -5969,7 +6041,7 @@
           1212000,
           1277000,
           1254000,
-          1275000
+          1267000
         ],
         "candles": [
           {
@@ -6137,8 +6209,8 @@
             "date": "2026-11-13T00:00:00.000Z",
             "open": 1292000,
             "high": 1317000,
-            "low": 1274000,
-            "close": 1275000
+            "low": 1266000,
+            "close": 1267000
           }
         ]
       }
@@ -6738,11 +6810,11 @@
       {
         "symbol": "^KS11",
         "name": "KOSPI",
-        "price": 5448.19,
+        "price": 5423.18,
         "currency": "KRW",
-        "changePct": -9.728681849437079,
+        "changePct": -10.143073723976242,
         "previousClose": 6035.35,
-        "marketTime": "2026-11-13T01:48:20.000Z",
+        "marketTime": "2026-11-13T02:15:00.000Z",
         "closes": [
           6035.35009765625,
           6008.81005859375,
@@ -6766,7 +6838,8 @@
           5018.85009765625,
           5239.1298828125,
           5375.35986328125,
-          5448.18994140625
+          5342.72998046875,
+          5423.18017578125
         ],
         "candles": [
           {
@@ -6924,22 +6997,29 @@
             "close": 5375.35986328125
           },
           {
+            "date": "2026-11-12T00:00:00.000Z",
+            "open": 5385.93994140625,
+            "high": 5458.83984375,
+            "low": 5293.0498046875,
+            "close": 5342.72998046875
+          },
+          {
             "date": "2026-11-13T00:00:00.000Z",
             "open": 5452.41015625,
             "high": 5504.43994140625,
-            "low": 5438.89990234375,
-            "close": 5448.18994140625
+            "low": 5423.18017578125,
+            "close": 5423.18017578125
           }
         ]
       },
       {
         "symbol": "^KQ11",
         "name": "KOSDAQ",
-        "price": 719.79,
+        "price": 720.08,
         "currency": "KRW",
-        "changePct": -14.006666427726605,
+        "changePct": -13.972020118753203,
         "previousClose": 837.03,
-        "marketTime": "2026-11-13T01:48:20.000Z",
+        "marketTime": "2026-11-13T02:15:00.000Z",
         "closes": [
           837.030029296875,
           823.8800048828125,
@@ -6963,7 +7043,8 @@
           638.969970703125,
           667.6099853515625,
           705.0999755859375,
-          719.7899780273438
+          696.530029296875,
+          720.0800170898438
         ],
         "candles": [
           {
@@ -7121,25 +7202,59 @@
             "close": 705.0999755859375
           },
           {
+            "date": "2026-11-12T00:00:00.000Z",
+            "open": 703.219970703125,
+            "high": 711.8599853515625,
+            "low": 687.4000244140625,
+            "close": 696.530029296875
+          },
+          {
             "date": "2026-11-13T00:00:00.000Z",
             "open": 705.9600219726562,
             "high": 725.8099975585938,
             "low": 705.9600219726562,
-            "close": 719.7899780273438
+            "close": 720.0800170898438
           }
         ]
       }
     ],
-    "generatedAt": "2026-11-13T02:08:23.728Z"
+    "generatedAt": "2026-11-13T02:35:05.369Z"
   },
   "briefing": {
     "date": "2026년 11월 13일 금요일",
     "summary": [
-      "오늘의 최상위 이슈: LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference - Yahoo Finance",
-      "강한 기술·시장 신호: NPU 22, AI인프라 19, 데이터센터 11, 온디바이스AI 2, 추론 12",
-      "주요 기업 신호: 딥엑스 16, 리벨리온 12, 하이퍼엑셀 5, 퓨리오사AI 3, 모빌린트 0"
+      "오늘의 최상위 이슈: LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference - The Joplin Globe",
+      "강한 기술·시장 신호: NPU 20, AI인프라 19, 데이터센터 11, 온디바이스AI 1, 추론 14",
+      "주요 기업 신호: 딥엑스 17, 리벨리온 11, 하이퍼엑셀 6, 퓨리오사AI 3, 모빌린트 0"
     ],
     "leadArticles": [
+      {
+        "title": "LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference - The Joplin Globe",
+        "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPLXBkbzhaTUptTTNld1RPT2hSd1B1YlY0SmtBUVVLcjMtSjdwQ3RjallPV0pDT1h2bW1aOGNtUzF5NmdwQnJpSGlDZnJJbktrTnVYVi1fcW1xLUFqblR1ajhJR1RnT1JaTkhweS1nMTZTTmVIRXVTS1hfRzN1cjB5TnpGMjR2dnFMWUR6cTVkZS13ZmNYNURXMnN2VEJyS2ZWNHlLTzVMVGpaQTdZdTZHeHROYVd6U0JJZjRnSzllSE1UV0lyX2RxLXlkOGVJWmN1Z2xvWm9XaGlHcGVIeDBUOFUySVVBNnJob0xhenoteVdLTG1qZWJpeW1EVW9jdkYteFR0M1lnaEEwdGREcXE5OXMzUkhzRlIzSl8ycW5wdmZ6bWxJYVNLanN3QQ?oc=5",
+        "publishedAt": "Thu, 12 Nov 2026 19:02:39 GMT",
+        "summary": "LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference &nbsp;&nbsp; The Joplin Globe",
+        "outlet": "The Joplin Globe",
+        "outletUrl": "https://www.joplinglobe.com",
+        "source": "가속기 운영 SW",
+        "sourceIds": [
+          "accelerator-software"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "Google",
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "AI인프라",
+          "추론",
+          "NVIDIA",
+          "Google"
+        ],
+        "issueCategory": "AI시장",
+        "score": 37
+      },
       {
         "title": "LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0hxdUhRazZsblVsMmtvbEp1MkVTMHU5alBrN3ZHdm04UERFS3lWRkpRQWhlbjMwMHFPS3RMdFRnc1RHVTZnMU1rdkNNSzV6N3l3a2RrMDJiNnJjZFFpU0VMalNFTENlNHJ6X0pUUm5BejZIOGhNQUR4ZjVON3lxbUdBcjBKM1BYa21ZT1pTcVE4YjJKa1RUdW5QSGJUUkM2ekE?oc=5",
@@ -7350,27 +7465,6 @@
         "score": 30
       },
       {
-        "title": "과기정통부, 기업 소통을 바탕으로 국산 인공지능 반도체 상용화 지원 성과를 앞당긴다 - 과학기술정보통신부",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzZhTDNXOVVZeWtsMk9hamhzN1JwOTg1S2NOUU0wT2VkS1VVWWtXYlBtQlVsYk9tcmJiTHlsY0NDWXFseUhXZkl4aTljLUo3S3BhYk1HbTNESTcyYWV4elZOSmhYaDI4YVNVOHlKSG16ZGplajljQlVlaUpUZnVXZkhiOXJQQ29wcEl4QXNn?oc=5",
-        "publishedAt": "Thu, 12 Nov 2026 14:09:08 GMT",
-        "summary": "과기정통부, 기업 소통을 바탕으로 국산 인공지능 반도체 상용화 지원 성과를 앞당긴다 &nbsp;&nbsp; 과학기술정보통신부",
-        "outlet": "과학기술정보통신부",
-        "outletUrl": "https://www.msit.go.kr",
-        "source": "정부·공공기관 공식자료",
-        "sourceIds": [
-          "official-korea-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책",
-          "NPU"
-        ],
-        "issueCategory": "정책",
-        "score": 29
-      },
-      {
         "title": "Nvidia’s memory chip push with Taiwan’s TSMC could weaken the roles of Samsung and SK hynix in supply chains - Livemint",
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaEFyNGowSFExbGFzRjNiSkdPUGRCUnFTdnk2RFlDQjhPRUp3T0dPVkpxeEo2OVlEZm83QnVTQU11MllqU215VnpIZDBVVjVPVW1OOFl5RDdBbnRYTlduZ0lmOTQ0U1VzVkhaUmtwSFppOFlnekVrMFB5RjBKLVlFQ24tZWdwZG1iUTJxVC1TRnpEcWhqYzBGZVNTcHo2SjNqSkNSdXh1MktocGNNTThRdmFJZklSdTlOWjF2VDhkQzFEb09hVktobGJ0VEY1Nk9HRU9wcFl0c0RGb1FOckk0Y1VCZHUtMXotLTlHNHhYeTJsMVlfcWZGV21YNNIBgAJBVV95cUxNWkNVOXhhWkh2V0gzNm42YTJYRWRIUkhiTHJwNEJiZXZta3NTcVhIQll5Y2xrT2ZEWERYTG03Qjhfemx6c2lmeDluTnJEN1Y1QjlLOUFycHY0TERBcjlJQ0N6R1V0WDhBVVk0ak5uSk82bWNKT1VkVXZXdXJqeThRV2JSbWZpRjhaV0psaDE2N0s2MFQ2LWl2LTN3QUZHcTFpVzByOXY1eUJTMWJOVEV6SnY3NG8zRDUzc2h1dUhybkViVVRJRE9oZ25jWlBteHNzSFlhWWVXYkNuN3dTT25pZlh1UGZHRGQ5M210Smd6MG1HQ3NPTy1ITjAtV1Q5cEVU?oc=5",
         "publishedAt": "Thu, 12 Nov 2026 04:52:49 GMT",
@@ -7401,7 +7495,7 @@
       "technologies": [
         [
           "NPU",
-          22
+          20
         ],
         [
           "AI인프라",
@@ -7413,15 +7507,15 @@
         ],
         [
           "온디바이스AI",
-          2
+          1
         ],
         [
           "추론",
-          12
+          14
         ],
         [
           "AI에이전트",
-          22
+          21
         ],
         [
           "파운드리·패키징",
@@ -7431,15 +7525,15 @@
       "companies": [
         [
           "딥엑스",
-          16
+          17
         ],
         [
           "리벨리온",
-          12
+          11
         ],
         [
           "하이퍼엑셀",
-          5
+          6
         ],
         [
           "퓨리오사AI",
@@ -7451,11 +7545,11 @@
         ],
         [
           "NVIDIA",
-          76
+          77
         ],
         [
           "Google",
-          51
+          52
         ],
         [
           "AMD",
@@ -7566,7 +7660,7 @@
       "metrics": [
         [
           "AI시장",
-          65
+          68
         ],
         [
           "NPU",
@@ -7574,15 +7668,15 @@
         ],
         [
           "정책",
-          7
+          6
         ],
         [
           "국내 기사",
-          105
+          104
         ],
         [
           "해외 기사",
-          75
+          76
         ]
       ],
       "sections": [
