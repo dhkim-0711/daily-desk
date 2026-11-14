@@ -1,0 +1,486 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-14",
+  "cutoff_at": "2026-11-14T09:30:00+09:00",
+  "window_start": "2026-11-13T09:30:00+09:00",
+  "created_at": "2026-11-14T09:50:19+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "딥엑스가 중국 애지봇의 자율구동 로봇용 NPU 협력을 결정하고, 현대위아가 구매·시험한 NPU를 2027년 등속조인트 AI 비전 검사 공정에 투입할 예정이다.",
+        "국산 NPU가 로봇 협의와 국내 제조라인의 구매·테스트 통과를 동시에 확보해 개발 협력에서 실제 현장 도입으로 이동하는 사례가 확인됐다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "딥엑스와 인텔코리아가 OpenVINO와 NPU의 모델 변환·실행 호환성을 검토하고, KTNF와는 이기종 온프레미스 AI 서버 협력을 추진한다.",
+        "국산 NPU 채택의 병목인 개발도구와 서버 통합을 글로벌 CPU·오픈소스 추론 SW·국산 서버가 함께 다루는 생태계 협력이다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "과기정통부가 엔비디아와 GPU 26만장 공급을 재확인했고, 정부 직접 확보분 3만5천장 중 약 2만1천장을 확보했으며 나머지 약 1만4천장은 2027년 초까지 입고될 예정이다.",
+        "국가AI전략위는 경영진 교체 위험을 계기로 GPU·NPU 선택지 확대와 국산 AI반도체-엔비디아 플랫폼 연계를 공급망 대응 의제로 올렸다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "IITP가 산·학·연 40여명과 2027년 피지컬AI 핵심기술개발 신규과제를 공유하고 모델·데이터·AI반도체·로봇 분야 공동과제를 논의했다.",
+        "400여 기관 규모 얼라이언스의 논의가 기술 분야별 액션그룹과 신규 R&D 과제 발굴로 구체화돼 국산 컴퓨팅과 수요산업을 연결할 기획 창구가 형성되고 있다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "SGLang이 NVIDIA NIM Certified 마이크로서비스의 추론 엔진으로 채택돼 검증 컨테이너·모델별 프로필·보안 유지관리와 결합됐다.",
+        "전날 다중 가속기 컨소시엄 출범에 이어 오픈소스 추론 엔진이 엔비디아의 기업용 배포 경로에 편입되면서 공동 로드맵이 상용 운영 단계로 확장됐다."
+      ]
+    },
+    {
+      "article_numbers": [6],
+      "bullets": [
+        "삼성전자가 시가총액 약 56억달러인 미국 데이터센터 냉각업체 모딘 인수를 협상 중이며, 수주 내 거래 가능성이 거론됐다.",
+        "메모리 중심 사업에서 AI 데이터센터 열관리로 범위를 넓히려는 전략적 거래로, 냉각 설루션을 반도체·서버와 묶는 인프라 경쟁이 강화되고 있다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "딥엑스 NPU, 애지봇 자율로봇·현대위아 AI 검사라인 도입 경로 확보",
+      "category": "국내 NPU·수요처 도입",
+      "collected_at": "2026-11-13T06:55:40.274Z",
+      "original_published_at": "2026-11-13T11:39:00+09:00",
+      "original_url": "https://kr.investing.com/news/stock-market-news/article-2174222",
+      "main_points": [
+        "딥엑스는 중국 휴머노이드 로봇 업체 애지봇과 차세대 자율구동 로봇에 자사 NPU를 탑재하는 기술 협력 방향을 결정했다. 애지봇은 2026년 상반기 약 9,700대의 휴머노이드 로봇을 출하해 43% 이상의 시장점유율을 기록했다는 카운터포인트리서치 수치가 기사에 제시됐다.",
+        "국내에서는 현대위아가 딥엑스 NPU를 구매해 스마트팩토리 자동화용 기술시험을 통과시켰다. 현대위아는 등속조인트의 결함을 판정하는 AI 비전 검사 유닛에 해당 칩을 적용해 2027년 실제 공장 생산라인에 투입할 예정이라고 확인했다.",
+        "애지봇 협력은 자율구동 시스템의 개발 방향을 확정한 단계이고, 현대위아 사례는 구매·테스트를 거쳐 현장 투입을 예정한 단계다. 두 수요처의 도입 단계가 다른 만큼 향후 양산 물량과 반복 구매는 별도로 확인할 필요가 있다."
+      ],
+      "importance": [
+        "국산 NPU 사업화에서 가장 부족했던 증거는 공급사 발표가 아니라 수요기업의 구매·시험과 실제 적용 일정이다. 현대위아 사례는 제조업 생산라인의 품질검사라는 구체적 업무에서 구매와 테스트 통과가 확인돼 기술검증을 현장 도입으로 연결한 사례다.",
+        "애지봇과의 협력은 저전력·저발열 특성이 배터리 제약이 큰 자율로봇의 선택 기준이 될 수 있음을 보여준다. 국내 제조 현장과 해외 로봇 고객을 동시에 확보하면 동일 NPU와 소프트웨어 스택을 여러 피지컬AI 시장에 확장할 수 있다."
+      ],
+      "implications": [
+        "후속 평가는 애지봇의 탑재 모델과 양산 일정, 현대위아 생산라인의 가동 기간·검사 정확도·장애율을 구분해 확인해야 한다. 기술시험 통과 이후 실제 구매 물량과 추가 라인 확산이 반복매출 여부를 판단하는 핵심이다.",
+        "로봇과 제조설비는 카메라 입력, 안전요건, 실시간 지연 허용치가 다르므로 칩 성능뿐 아니라 비전 파이프라인·모델 업데이트·현장 유지보수 체계가 중요하다. 두 사례에서 축적되는 운영 데이터가 공통 SDK와 모듈의 재사용성으로 이어지는지를 볼 필요가 있다.",
+        "국산 NPU 실증사업도 칩 설치 건수보다 수요기업의 구매 의사, 시험 통과 기준, 실제 가동과 후속 발주를 단계별 성과로 관리할 수 있다. 특히 제조검사처럼 경제효과를 계산할 수 있는 업무는 GPU 대비 전력·총소유비용을 현장 데이터로 비교하기 적합하다."
+      ],
+      "sources": [
+        {
+          "title": "[단독] 딥엑스, 中 애지봇 뚫었다…현대위아에도 NPU 공급",
+          "publisher": "EBN via Investing.com",
+          "published_at": "2026-11-13T11:39:00+09:00",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2174222",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-14T09:43:00+09:00"
+        }
+      ],
+      "event_id": "deepx-agibot-hyundai-wia-deployment-2026",
+      "event_first_published_at": "2026-11-13T10:08:53+09:00",
+      "event_evidence_url": "https://kr.investing.com/news/stock-market-news/article-2174222",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "딥엑스·인텔·KTNF, OpenVINO 연동과 이기종 온프레미스 AI 서버 협력",
+      "category": "국내 NPU·운영 소프트웨어",
+      "collected_at": "2026-11-13T02:08:27.289Z",
+      "original_published_at": "2026-11-13T09:47:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261113048500017",
+      "main_points": [
+        "딥엑스와 인텔코리아는 AI 추론 기술 협력을 위한 업무협약을 체결하고 인텔의 오픈소스 추론 최적화 소프트웨어 OpenVINO와 딥엑스 NPU의 연동을 검토한다. 기존 AI 모델과 개발도구를 유지하면서 모델 변환과 실행 환경의 호환성을 확보하는 것이 핵심 과제다.",
+        "피지컬AI 분야에서는 로봇 제어를 맡는 인텔 x86 프로세서와 환경 인식·추론을 맡는 딥엑스 NPU를 결합한 플랫폼을 검증한다. 삼성 2나노 공정과 약 5W 전력을 목표로 개발 중인 DX-M2를 기업용 AI 장비와 온디바이스 서비스에 적용하는 방안도 살핀다.",
+        "딥엑스·인텔코리아·KTNF는 별도 3자 협약을 통해 CPU와 NPU를 결합한 온프레미스 AI 추론 서버의 설계, 소프트웨어 연동, 성능·호환성 검증과 고객 공동 PoC를 추진한다. 현재 단계는 연동·검증과 사업화 가능성을 모색하는 업무협약이다."
+      ],
+      "importance": [
+        "국산 NPU의 고객 채택은 칩 성능만으로 결정되지 않고 기존 모델·도구의 이식 비용과 서버 통합 안정성에 크게 좌우된다. OpenVINO 연동은 개발자가 인텔 환경에서 사용하던 워크플로를 유지하면서 국산 NPU를 선택할 수 있는 경로를 만드는 작업이다.",
+        "글로벌 CPU·추론 SW, 국내 NPU, 국산 서버 제조 역량을 한 시스템에서 검증하는 구조는 단일 부품 공급보다 실제 기업용 어플라이언스에 가깝다. 공동 PoC가 성공하면 온프레미스 수요처가 GPU 외 가속기를 평가할 수 있는 참조구성이 생긴다."
+      ],
+      "implications": [
+        "후속 검증에서는 지원 모델 수와 변환 성공률, CPU-NPU 작업분배, 처리량·지연시간·전력, 장애 시 복구를 함께 측정해야 한다. OpenVINO 연동이 데모 수준을 넘어 정기 릴리스와 기술지원 체계로 유지되는지가 생태계 효과를 좌우한다.",
+        "국산 NPU 지원사업은 하드웨어 제공과 별도로 모델 포팅·서버 인증·운영도구를 묶어 수요기관이 평가할 수 있는 공통 절차를 마련할 수 있다. KTNF 같은 서버 기업이 참여하면 부품 벤치마크를 조달 가능한 시스템 사양으로 전환하기 쉬워진다.",
+        "이번 협력은 1번의 고객 도입과 달리 개발·운영 생태계 구축 단계다. 향후 공동 PoC 고객, 검증 완료 일정, 서버 제품화와 유상 공급이 확인될 때 실제 사업화 성과를 판단할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "[AI픽] 딥엑스, 인텔과 AI 반도체 협력…로봇·서버로 확대",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-13T09:47:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261113048500017",
+          "verification": "full_text",
+          "verified_at": "2026-11-14T09:43:00+09:00"
+        },
+        {
+          "title": "딥엑스, 인텔코리아와 OpenVINO·NPU 연동 추진",
+          "publisher": "e4ds news",
+          "published_at": "2026-11-13T10:33:00+09:00",
+          "url": "https://www.e4ds.com/sub_view.asp?idx=24124",
+          "verification": "full_text",
+          "verified_at": "2026-11-14T09:43:00+09:00"
+        }
+      ],
+      "event_id": "deepx-intel-ktnf-openvino-mou-2026",
+      "event_first_published_at": "2026-11-13T09:39:46+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261113048500017",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 3,
+      "title": "정부, 엔비디아 GPU 26만장 공급 재확인…국산 NPU 포함 자원 다변화 검토",
+      "category": "국내 정책·연산자원 수요",
+      "collected_at": "2026-11-13T09:59:36.232Z",
+      "original_published_at": "2026-11-13T17:50:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261113155451017",
+      "main_points": [
+        "과학기술정보통신부는 엔비디아 경영진 교체 직후 현안점검회의를 열어 한국에 대한 첨단 GPU 26만장 공급과 기존 협력 사업을 예정대로 추진한다는 계획을 엔비디아 측과 재확인했다. 국가AI전략위원회도 별도 긴급회의에서 국내 AI 산업과 반도체 공급망 영향을 점검했다.",
+        "정부가 직접 확보할 엔비디아 B200 기준 약 3만5천장 가운데 약 2만1천장을 확보했고, 나머지 약 1만4천장은 2027년 초까지 입고될 예정이다. 별도 1만5천장은 국가AI컴퓨팅센터를 통해 확보 중이며, 확보 자원은 기업·대학·연구기관의 연구개발과 정부 AI 사업에 배분할 계획이다.",
+        "정부와 엔비디아는 NVLink를 활용한 국산 AI반도체와 엔비디아 플랫폼 연계, AI 컴퓨팅 인프라, 피지컬AI 공동연구·인재양성, GTC 한국 개최 추진을 이어가기로 했다. 전략위는 GPU와 NPU 등 다양한 컴퓨팅 자원의 활용 가능성과 국내 AI반도체 경쟁력·공급망 대응을 함께 검토하기로 했다."
+      ],
+      "importance": [
+        "이번 회의는 전날 엔비디아 CEO 사임이라는 글로벌 경영 변수가 한국의 GPU 확보와 공동사업에 미칠 영향을 정부가 공급 수량·입고 일정과 함께 점검한 첫 후속 조치다. 단순 협력 의지보다 이미 확보한 물량과 잔여 입고 계획을 공개해 연산자원 정책의 이행 상태를 구체화했다.",
+        "동시에 국산 NPU를 공급망 다변화와 플랫폼 연계의 대상으로 명시했다. GPU 확보를 계속하면서 특정 기업의 경영 변화에 흔들리지 않는 구조를 만들겠다는 문제의식은 국산 가속기를 대체재가 아니라 혼합 인프라의 선택지로 평가하는 정책 의제를 강화한다."
+      ],
+      "implications": [
+        "향후에는 26만장 총계와 정부 직접 확보 5만장 계획을 구분하고, 실제 입고·설치·배정·활용률을 사업별로 추적해야 한다. 확보 수량만으로는 기업과 연구기관의 대기수요가 얼마나 해소되는지 판단하기 어렵다.",
+        "국산 NPU 연계는 NVLink 호환성, 모델·런타임 지원, 혼합 클러스터 스케줄링과 장애대응까지 검증해야 실제 활용으로 이어진다. GPU와 NPU를 동일 지원사업에서 제공할 경우 워크로드별 성능·비용·전력 기준을 공개하면 수요기관의 선택 근거를 만들 수 있다.",
+        "경영진 교체 같은 외부 충격을 계기로 공급계약, 기술지원 책임, 공동개발 일정이 특정 인물보다 조직·계약에 기반하는지 확인할 필요가 있다. 정부-민간 정보공유 체계는 공급 차질 징후뿐 아니라 국산 가속기의 대체 가능 범위를 사전에 파악하는 데도 활용될 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "젠슨 황 사임에 정부 긴급 점검…GPU 공급·협력 유지 총력(종합)",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-13T17:50:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261113155451017",
+          "verification": "full_text",
+          "verified_at": "2026-11-14T09:43:00+09:00"
+        }
+      ],
+      "event_id": "korea-nvidia-gpu-supply-emergency-review-2026",
+      "event_first_published_at": "2026-11-13T17:50:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261113155451017",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "IITP, 2027 피지컬AI 신규과제 공유…AI반도체·로봇 공동기획 확대",
+      "category": "국내 정책·R&D 협력",
+      "collected_at": "2026-11-13T09:59:36.232Z",
+      "original_published_at": "2026-11-13T15:07:34+09:00",
+      "original_url": "https://www.koit.co.kr/news/articleView.html?idxno=209895",
+      "main_points": [
+        "정보통신기획평가원은 서울 대한상공회의소에서 피지컬AI 얼라이언스 풀스택 분과 기술교류회를 열고 2027년 피지컬AI 핵심기술개발사업 신규 R&D 과제의 주요 내용을 공유했다. 얼라이언스 소속 기업·대학·연구기관 관계자 40여명이 참여했다.",
+        "참석자들은 피지컬AI 모델과 데이터, AI반도체, 로봇 등 핵심 분야별 협력 수요와 공동 추진 방안을 논의했다. 풀스택 분과는 AI모델·월드모델·데이터·컴퓨팅 플랫폼·통신 네트워크·로봇의 6개 분야에 액션그룹을 두고 기술개발 과제를 발굴한다.",
+        "피지컬AI 얼라이언스에는 현재 400여 기업·기관이 참여하며 K-피지컬AI 풀스택, 버티컬 산업 브릿지, 기반 거버넌스의 3개 분과로 운영된다. 이번 보도는 과제 선정이나 예산 집행 결과가 아니라 2027년 신규과제의 내용과 참여기관 협력 수요를 조율한 기획 단계다."
+      ],
+      "importance": [
+        "피지컬AI는 모델·데이터뿐 아니라 현장 센서, AI반도체, 통신, 로봇 제어가 함께 작동해야 하므로 개별 기술과제만으로는 제품 통합이 어렵다. IITP가 신규 R&D 과제를 풀스택 액션그룹과 연결한 것은 기술개발과 수요산업 협력을 같은 기획 구조에서 다루려는 변화다.",
+        "AI반도체가 별도 핵심 분야로 포함되면 국산 NPU 기업이 로봇·제조 수요기관의 요구사양과 실증 환경을 과제 초기부터 반영할 접점이 생긴다. 400여 기관 규모의 협의체가 실제 공동과제와 테스트베드로 이어지는지가 정책 효과를 좌우한다."
+      ],
+      "implications": [
+        "신규과제 기획에서는 모델 정확도나 칩 연산성능뿐 아니라 실제 로봇 작업 성공률, 지연시간, 안전, 장시간 운용과 업데이트 비용을 공동 성과지표로 설계할 필요가 있다. 그래야 모델·반도체·로봇 참여기관의 목표가 현장 실증 단계에서 분리되지 않는다.",
+        "국산 AI반도체 기업에는 수요기관이 제공하는 실제 데이터와 하드웨어 제약을 조기에 확보하는 기회가 될 수 있다. 반대로 참여기관 수가 많아질수록 인터페이스와 책임 범위가 모호해질 수 있어 액션그룹별 산출물과 통합 검증 일정을 명확히 하는 것이 중요하다.",
+        "후속 확인 대상은 2027년 공고의 세부 과제, 예산·주관기관, 수요기업 참여 방식과 실증 장소다. 논의된 공동과제가 실제 공모와 협약으로 전환되는지를 단계별로 추적해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "IITP, 피지컬AI 풀스택 기술협력 강화…산·학·연 공동과제 발굴",
+          "publisher": "정보통신신문",
+          "published_at": "2026-11-13T15:07:34+09:00",
+          "url": "https://www.koit.co.kr/news/articleView.html?idxno=209895",
+          "verification": "full_text",
+          "verified_at": "2026-11-14T09:43:00+09:00"
+        },
+        {
+          "title": "AI 두뇌에 로봇 몸 입힌다…한국형 피지컬AI 개발 속도",
+          "publisher": "헤럴드경제",
+          "published_at": "2026-11-13T15:05:17+09:00",
+          "url": "https://biz.heraldcorp.com/article/10936487",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-14T09:43:00+09:00"
+        }
+      ],
+      "event_id": "iitp-physical-ai-fullstack-2027-rd-planning-2026",
+      "event_first_published_at": "2026-11-13T15:05:17+09:00",
+      "event_evidence_url": "https://biz.heraldcorp.com/article/10936487",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 5,
+      "title": "SGLang, NVIDIA NIM 기업용 추론 엔진 채택…검증·보안·지원 체계 결합",
+      "category": "가속기 운영 소프트웨어",
+      "collected_at": "2026-11-13T23:52:40.153Z",
+      "original_published_at": "2026-11-14T02:52:15+09:00",
+      "original_url": "https://staging.lmsys.org/blog/2026-11-13-sglang-nvidia-nim",
+      "main_points": [
+        "LMSYS와 엔비디아는 SGLang이 NVIDIA NIM Certified 마이크로서비스의 기반 추론 엔진으로 사용된다고 발표했다. NIM은 SGLang 위에 검증된 컨테이너, 지원 모델·GPU별 최적화 구성과 엔비디아 AI 엔터프라이즈 지원을 제공한다.",
+        "NIM 프로그램의 검증 범위는 30개가 넘는 엔비디아 하드웨어 SKU와 37개 이상의 주요 모델에 걸쳐 있다. SGLang의 Unified Radix Cache와 Breakable CUDA Graph 같은 기능에 워크로드별 튜닝과 하드웨어 인식 프로필을 결합해 배포 시작점을 제공한다.",
+        "NIM은 취약점 검사·수정, 검증 릴리스와 선택형 기업지원으로 운영 수명주기를 관리하고, 배포에서 발견된 성능·구성 개선을 SGLang 업스트림에 환류할 계획이다. 이는 전날 출범한 SGLang 컨소시엄의 공동 로드맵과 구별되는 실제 기업용 제품 채택 단계다."
+      ],
+      "importance": [
+        "오픈소스 추론 엔진의 영향력은 회원사 참여보다 실제 상용 배포 경로에 채택될 때 커진다. SGLang이 엔비디아의 검증 마이크로서비스에 들어가면서 성능 기능이 보안 유지관리·호환성 표·기업지원과 결합돼 운영 조직이 도입할 수 있는 형태로 전환됐다.",
+        "동시에 SGLang은 여러 하드웨어를 지원하는 중립적 추론 계층을 지향하지만 NIM은 엔비디아 하드웨어를 중심으로 검증한다. 개방형 엔진과 공급자별 상용 패키지가 함께 확장되는 구조는 가속기 경쟁에서 운영 SW가 차별화와 잠금효과를 동시에 만드는 방식을 보여준다."
+      ],
+      "implications": [
+        "국내 NPU 기업은 SGLang 백엔드와 커널을 업스트림하는 것에 더해 검증 컨테이너, 지원 모델 표, 보안 업데이트와 성능 프로필을 제공해야 기업 고객의 운영 기준을 맞출 수 있다. 단순 API 호환성보다 반복 가능한 배포·지원 체계가 채택을 좌우한다.",
+        "운영기관은 동일 엔진을 써도 공급자별 검증 범위와 지원 수준이 다르다는 점을 고려해야 한다. 모델·하드웨어 조합별 처리량, 지연시간, 취약점 대응과 업그레이드 호환성을 같은 방식으로 비교하면 이기종 가속기 선택의 실질적 전환비용을 파악할 수 있다.",
+        "향후에는 엔비디아 NIM에서 나온 개선이 실제 SGLang 업스트림에 반영되는지, 다른 가속기 회원사가 동등한 검증·패키징 경로를 만드는지를 확인할 필요가 있다. 그 결과가 컨소시엄의 다중 하드웨어 중립성을 판단하는 지표가 된다."
+      ],
+      "sources": [
+        {
+          "title": "SGLang and NVIDIA NIM: Advancing Enterprise Inference Together",
+          "publisher": "LMSYS Org",
+          "published_at": "2026-11-13",
+          "url": "https://staging.lmsys.org/blog/2026-11-13-sglang-nvidia-nim",
+          "verification": "public_primary",
+          "verified_at": "2026-11-14T09:43:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "LMSYS 원문은 게시일을 2026-11-13으로 표시한다. 같은 원문의 Google News RSS 공개시각은 2026-11-13 17:52:15 UTC, 즉 2026-11-14 02:52:15 KST로 기록됐고 아카이브에는 08:52:40 KST 처음 저장됐다. 09:30 KST 마감 전에 원문 전체와 NIM 채택·검증 범위를 확인했으며 확인 시점에 수정된 핵심 사실은 없었다."
+        }
+      ],
+      "event_id": "sglang-nvidia-nim-certified-integration-2026",
+      "event_first_published_at": "2026-11-14T02:52:15+09:00",
+      "event_evidence_url": "https://staging.lmsys.org/blog/2026-11-13-sglang-nvidia-nim",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "삼성전자, 美 모딘 인수 협상…AI 데이터센터 냉각 역량 확대 추진",
+      "category": "AI 데이터센터·전략적 인수",
+      "collected_at": "2026-11-13T06:55:40.274Z",
+      "original_published_at": "2026-11-13T09:29:51+09:00",
+      "original_url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02781446645645392",
+      "main_points": [
+        "삼성전자가 미국 데이터센터 냉각시스템 업체 모딘 매뉴팩처링 인수를 협상 중이라고 블룸버그가 소식통을 인용해 보도했다. 수주 내 거래가 가시화될 수 있다는 관측이 나왔지만 최종 결정은 내려지지 않았고 다른 인수후보가 등장하거나 협상이 결렬될 가능성도 남아 있다.",
+        "모딘은 미국 위스콘신주에 본사를 둔 상업·산업용 열관리 기업으로, 지난달 자동차 사업을 분할해 데이터센터 냉각 설루션 중심으로 사업을 재편했다. 보도에 따르면 냉각 부문의 최근 3년 연평균 성장률은 86%이며, 보도 당시 시가총액은 약 56억달러였다.",
+        "이번 협상은 삼성전자가 메모리 반도체 중심의 수익구조에서 AI 데이터센터 인프라로 사업 범위를 넓히려는 전략적 선택으로 해석된다. 삼성전자와 모딘은 보도 시점에 공식 입장을 내놓지 않았다."
+      ],
+      "importance": [
+        "AI 데이터센터의 전력밀도가 높아지면서 냉각은 서버 설치용량과 운영비를 좌우하는 핵심 시스템이 됐다. 대형 반도체 기업이 냉각 전문기업의 인수를 검토하는 것은 칩 공급을 넘어 열관리까지 포트폴리오를 확대하려는 경쟁 변화를 보여준다.",
+        "모딘이 자동차 사업을 분리하고 데이터센터 열관리에 집중한 직후 인수 논의가 진행된 점도 중요하다. 거래가 성사되면 삼성은 반도체·메모리와 냉각 설루션을 결합해 데이터센터 고객과 더 넓은 접점을 확보할 수 있다."
+      ],
+      "implications": [
+        "거래의 산업적 효과는 인수 가격과 자금조달, 모딘의 고객계약 유지, 삼성의 기존 공조·데이터센터 사업과의 통합 방식에 따라 달라진다. 협상 보도와 최종 계약, 규제 승인과 실제 통합을 각각 구분해 추적해야 한다.",
+        "국내 AI 인프라 생태계에서는 액체냉각, 전력·열관리 제어, 서버·랙 설계가 반도체와 함께 패키지화될 가능성이 커진다. 국산 가속기 사업자도 칩 전력효율뿐 아니라 서버 단위 냉각 요구와 운영비를 고객 제안에 포함해야 경쟁력을 비교하기 쉽다.",
+        "글로벌 시장에서는 LG전자·다이킨·버티브 등 기존 열관리 사업자와 반도체 기업 간 경쟁·제휴가 확대될 수 있다. 냉각 기업의 높은 성장률이 인수가격에 반영될 경우 대형 기술기업의 인프라 수직통합이 자본집약적으로 바뀌는지도 살펴볼 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "삼성전자, 美데이터센터 냉각업체 모딘 인수 협상",
+          "publisher": "이데일리",
+          "published_at": "2026-11-13T09:29:51+09:00",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02781446645645392",
+          "verification": "full_text",
+          "verified_at": "2026-11-14T09:48:00+09:00"
+        },
+        {
+          "title": "삼성전자, 美 데이터센터 냉각시스템 업체 모딘 인수 추진",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-13T15:23:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261113121300009",
+          "verification": "full_text",
+          "verified_at": "2026-11-14T09:43:00+09:00"
+        }
+      ],
+      "event_id": "samsung-modine-acquisition-talks-2026",
+      "event_first_published_at": "2026-11-13T09:29:51+09:00",
+      "event_evidence_url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02781446645645392",
+      "selection_tier": "supplement",
+      "recency_evidence": "최초 공개는 아카이브의 2026-11-13 09:29:51 KST 보도로 확인돼 주 분석구간 시작보다 9초 앞섰다. 48시간 이내 미게재 보완 후보로 분류했으며, 데이터센터 냉각 전문기업 전체 인수를 검토하는 전략적 변화의 독립성과 산업적 파급을 비교해 선정했다."
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "전체 아카이브와 공개 원문에서 딥엑스·리벨리온·퓨리오사AI·하이퍼엑셀·모빌린트의 고객 도입, 공동개발, 실증, 해외 협력과 매출 후보를 점검했다. 딥엑스의 애지봇 협력과 현대위아 구매·시험·현장 투입 일정은 수요처와 단계가 구체적이어서 선정했고, 인텔·KTNF 협력은 개발도구와 서버 통합이라는 별도 생태계 사건으로 선정했다. 노타 3분기 실적과 딥엑스 1,300억원 투자 보도는 같은 기업의 더 직접적인 고객·현장·생태계 변화보다 우선순위가 낮았다. 최신 수집은 08:52:37 KST이며 09:20·09:27 완료 기록이 없어 직접 보완 검색을 수행했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP, 중앙정부·지자체·공공기관·테크노파크의 NPU·AI반도체 예산, 조달, 실증센터, 데이터센터와 집행 후보를 점검했다. 과기정통부·국가AI전략위의 GPU 26만장 공급 재확인과 국산 NPU 다변화 검토, IITP의 2027 피지컬AI 신규과제·액션그룹 협력 논의를 선정했다. NIPA AI반도체 수집원은 empty였으므로 공식 공고·공개 보도 대체검색을 했고, 지역기관에서 마감 전 공개된 독립적인 NPU 구매·조달·운영 변화는 추가로 확인되지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·Intel·Arm과 맞춤형 가속기의 제품, 공급망, 경영 변화와 전략적 제휴를 점검했다. 정부의 엔비디아 공급 점검은 전날 CEO 교체 보도에 대한 국내 정책의 실질적 후속 대응으로 선정했고, Arm CEO 후임 접촉 보도는 인선 협의 단계이며 같은 엔비디아 사건 비중이 과도해질 수 있어 제외했다. Intel 23개사 얼라이언스는 11월 12일 행사 사실이 주 분석구간보다 오래됐고, 11월 13일 보도에 독립적인 신규 사실이 부족해 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "SGLang·vLLM·ROCm·커널·런타임·스케줄링·Kubernetes와 HW 연계 보안 후보를 점검했다. SGLang의 NVIDIA NIM 채택은 전날 컨소시엄 출범과 달리 검증 컨테이너·보안 유지관리·기업지원으로 이어진 상용 운영 단계의 새 사실이어서 material update로 선정했다. vLLM의 두 DGX Station GLM 구동 사례는 단일 벤더 기술 튜토리얼 성격이 강해 제외했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단 패키징·CXL·인터커넥트·AIDC 전력·냉각·금융구조와 클러스터 부지·인허가 후보를 점검했다. 삼성전자의 모딘 인수 협상은 데이터센터 냉각 전문기업 전체를 대상으로 한 전략적 거래로 선정했다. 용인·호남 반도체 전력망 기획기사는 기존 협약·수요 전망을 종합한 보도로 당일 독립적인 확정 일정이나 계약이 확인되지 않아 제외했고, 구글 아시아 채권 발행은 일반 자금조달 성격이 강해 후순위로 평가했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "중국 로봇 수요처와의 탑재 협력에 더해 현대위아가 NPU를 구매·시험하고 실제 제조라인 투입 일정을 확인해 국산 NPU의 고객 검증과 현장 도입을 직접 보여준다."
+      },
+      {
+        "article_number": 2,
+        "reason": "국산 NPU가 인텔 OpenVINO와 국산 서버에 연동되는 협력은 개발도구·호환성·온프레미스 PoC라는 채택 병목을 동시에 다루는 구체적인 생태계 변화다."
+      },
+      {
+        "article_number": 3,
+        "reason": "엔비디아 경영 변화 직후 정부가 GPU 공급 수량과 입고 현황을 재확인하고 국산 NPU를 포함한 자원 다변화를 공식 대응 의제로 올려 연산자원 정책 판단에 직접 관련된다."
+      },
+      {
+        "article_number": 4,
+        "reason": "2027년 피지컬AI 신규 R&D 과제와 AI반도체·로봇 분야 협력 수요를 액션그룹에서 조율해 국산 컴퓨팅과 수요산업을 연결할 정책 기획의 구체적 진행을 보여준다."
+      },
+      {
+        "article_number": 5,
+        "reason": "SGLang이 NVIDIA NIM의 기반 엔진으로 채택돼 오픈소스 추론 기술이 검증·보안·기업지원이 포함된 상용 배포 경로로 확장된 실질적 후속 변화다."
+      },
+      {
+        "article_number": 6,
+        "reason": "삼성전자가 고성장 데이터센터 냉각 전문기업 인수를 협상하는 사건은 반도체 기업의 AI 인프라 수직통합과 열관리 경쟁을 보여주는 산업적으로 중요한 전략적 거래다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "반도체 공장 들어서는데 전력망은 언제…용인·호남권 공급 비상[전력 확보 전쟁①]",
+        "url": "https://www.newsis.com/economy/economy-general/",
+        "reason": "전력망 구축 지연 위험은 중요하지만 11월 14일 기획기사의 공개 본문에서 기존 용인·호남 협약과 수요 전망을 넘어선 새 계약·확정 일정·집행 변화가 충분히 확인되지 않았다."
+      },
+      {
+        "title": "노타, 3분기 매출 51%↑…글로벌 반도체 고객 확대 성과",
+        "url": "https://www.edaily.co.kr/",
+        "reason": "분기 매출 성장과 손실 축소는 확인했지만 전날 노타-하이퍼엑셀 반복계약이 게재됐고, 당일 딥엑스의 구체 고객 구매·현장 도입이 사업화 판단에 더 직접적이었다."
+      },
+      {
+        "title": "딥엑스, 차세대 AI 반도체에 1300억 투자",
+        "url": "https://www.sedaily.com/",
+        "reason": "투자계획은 산업기반 후보로 확인했으나 같은 기업의 고객 도입과 OpenVINO·서버 협력 두 사건보다 실제 수요·생태계 증거가 약해 추가 슬롯을 배정하지 않았다."
+      },
+      {
+        "title": "Nvidia approaches Arm CEO Haas as employees seek Huang's return, reports say",
+        "url": "https://www.reuters.com/",
+        "reason": "후임 후보 접촉은 전날 CEO 사임의 후속 인선 협의 단계로 확인했으나 확정된 지배구조 변화가 아니며, 국내 공급·협력에 대한 정부의 구체 대응을 우선했다."
+      },
+      {
+        "title": "Alphabet Raises $3.8 Billion Through Singapore, Hong Kong Bonds Amid AI Spending Push",
+        "url": "https://www.channelinsider.com/",
+        "reason": "아시아 채권시장을 활용한 AI 투자 재원 조달은 비교했지만 일반 기업 자금조달 성격이 강하고 냉각 전문기업 인수 협상보다 인프라 구조 변화가 제한적이었다."
+      },
+      {
+        "title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+        "reason": "분산 추론 구성은 확인했지만 특정 모델·장비의 기술 튜토리얼이며, SGLang-NIM의 기업용 검증·지원 체계 채택이 운영 SW 생태계 변화로 더 중요했다."
+      }
+    ],
+    "count_reason": "최근 24시간 신규 보도를 중심으로 국내 NPU 수요처 도입, 글로벌 CPU·운영 SW 연동, 정부 연산자원 대응, 피지컬AI R&D 협력, 기업용 추론 SW 채택, 데이터센터 냉각 인수 협상을 서로 독립된 6개 이슈로 선정했다. 7번째 후보는 기존 6건과 구별되는 신규성·업무 관련성·검증 강도가 충분하지 않아 기본 6건을 유지했다.",
+    "company_overlap_review": "딥엑스가 1·2번에서 반복되지만 1번은 애지봇·현대위아라는 수요기업의 협력·구매·현장 투입 사건이고, 2번은 인텔 OpenVINO·KTNF 서버와의 개발·운영 생태계 협약이다. 주체 일부가 같아도 고객 도입과 소프트웨어·시스템 통합으로 사실·단계·검증 출처가 독립적이며 두 사건 모두 국내 NPU 정책·사업 판단의 최우선 유형에 해당한다. 엔비디아는 3번의 공급·정책 대응과 5번의 SGLang 상용 패키징에 등장하지만 정부 공급망 대응과 운영 SW 제품 채택으로 중심 사건이 다르다.",
+    "candidate_counts": {
+      "discovered": 4827,
+      "time_eligible": 2852,
+      "independent_events": 15,
+      "verified": 11,
+      "selected": 6,
+      "basis": "python mail/candidates.py가 전체 아카이브에서 기사 4,827건, 48시간 조건에 맞는 기사 2,852건을 집계했다. 중복 기사와 동일 사건을 묶어 업무 관련성이 높은 15개 독립 사건을 비교했고 공개 본문·공식자료로 11개를 검증한 뒤 6개를 선정했다. 당일 collection의 최신 저장은 08:52:37 KST이며 45개 출처 중 ok 44개, empty 1개, failed 0개였다. NIPA AI반도체 수집원의 empty와 09:20·09:27 완료 기록 부재는 다섯 영역의 직접 보완 검색으로 보충했다."
+    },
+    "history_review": {
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-13",
+      "checked_dates": [
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "note": "최근 14일 모든 ready 원고의 제목, 주요 사실, original_url, sources와 event_id를 읽어 사건 단위로 비교했다. 1·2·3·4·6번은 동일 사건의 과거 게재가 없었다. 5번은 2026-11-13 SGLang 컨소시엄 출범의 후속이지만 NVIDIA NIM Certified 마이크로서비스의 기반 엔진 채택과 기업용 검증·보안·지원이라는 실질적 새 사실을 확인했다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "딥엑스의 기존 칩 설계·협력 보도와 구분되는 애지봇 자율로봇 협력 결정, 현대위아 구매·시험 통과와 2027년 생산라인 투입 일정을 새 사건으로 확인했다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "11월 12일 엔비디아와의 협력 논의와 별개로 인텔 OpenVINO 모델 변환·실행 호환성 및 KTNF 온프레미스 서버 공동 PoC를 새 협력 사건으로 확인했다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "전날 엔비디아 CEO 사임 자체가 아니라 과기정통부·국가AI전략위가 공급 수량·입고 현황을 재확인하고 국산 NPU 다변화를 논의한 국내 정책 대응을 독립 사건으로 평가했다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "6월 피지컬AI 얼라이언스 2기 출범의 반복이 아니라 2027년 신규 R&D 과제 주요 내용과 분야별 공동과제 수요를 공유한 실행 단계의 새 사실을 확인했다."
+      },
+      {
+        "article_number": 5,
+        "result": "material_update",
+        "previous_editions": ["2026-11-13"],
+        "note": "전날 원고는 SGLang의 다중 가속기 컨소시엄과 공동 로드맵을 다뤘고, 이번에는 NVIDIA NIM Certified 마이크로서비스의 기반 엔진 채택과 검증 컨테이너·보안 유지관리·기업지원이라는 상용 운영 경로가 새로 공개됐다.",
+        "new_fact": "SGLang이 NVIDIA NIM Certified 마이크로서비스를 구동하며 30개 이상 하드웨어 SKU와 37개 이상 모델의 검증 프로필, 취약점 관리와 기업지원을 제공하는 기반 엔진으로 채택됐다.",
+        "evidence_url": "https://staging.lmsys.org/blog/2026-11-13-sglang-nvidia-nim"
+      },
+      {
+        "article_number": 6,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "삼성전자의 기존 데이터센터·HBM 투자와 구분되는 미국 냉각 전문기업 모딘 전체 인수 협상이라는 전략적 거래를 새 사건으로 확인했다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "딥엑스 애지봇 현대위아 NPU 공급 2026-11-13; 딥엑스 인텔코리아 KTNF OpenVINO NPU 협력; 국내 NPU 리벨리온 퓨리오사AI 하이퍼엑셀 모빌린트 고객 도입 실증 계약 매출 2026-11-13",
+          "official_sources": "EBN 공개 재배포 https://kr.investing.com/news/stock-market-news/article-2174222, 연합뉴스 공개 본문 https://www.yna.co.kr/view/AKR20261113048500017, e4ds 공개 본문 https://www.e4ds.com/sub_view.asp?idx=24124 를 확인했다.",
+          "result": "딥엑스의 애지봇·현대위아 고객 도입 사건과 인텔·KTNF 개발·운영 생태계 사건을 독립적으로 선정했다. 다른 국내 NPU 후보는 이전 회차 중복, 회사 전망·투자계획 중심 또는 구체 수요처·실행 단계 부족으로 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr GPU 26만장 점검회의 2026-11-13; 국가AI전략위원회 GPU NPU 활용; IITP 피지컬AI 2027 신규과제; site:nipa.kr AI반도체 NPU 공고; 지자체 테크노파크 NPU 국비 예산 실증 도입 조달 2026-11-13",
+          "official_sources": "연합뉴스 정부 점검 공개본문 https://www.yna.co.kr/view/AKR20261113155451017, Reuters 공개본문 https://www.reuters.com/world/asia-pacific/south-korea-says-nvidia-will-keep-gpu-pledges-after-huangs-resignation-2026-11-13/, 정보통신신문 https://www.koit.co.kr/news/articleView.html?idxno=209895 와 헤럴드경제 https://biz.heraldcorp.com/article/10936487 를 대조했다.",
+          "result": "GPU 공급·국산 NPU 다변화 점검과 2027 피지컬AI 신규과제 협력 논의를 선정했다. NIPA 수집원 empty는 공식 공고 대체검색으로 확인했으며 지자체·지역기관의 독립적인 당일 NPU 구매·운영 변화는 추가로 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "NVIDIA AMD Google TPU Intel Arm AI accelerator November 13 2026 official; Nvidia Arm CEO search; Intel Korea AI alliance 23 companies D-Series",
+          "official_sources": "Reuters의 엔비디아 한국 공급 보도와 Arm CEO 접촉 보도, Intel AI Summit 관련 공개 보도를 비교했다.",
+          "result": "국내 공급망과 국산 NPU 정책 대응을 3번에 반영했다. Arm CEO 접촉은 협의 단계, Intel 23개사 얼라이언스는 최초 사건 시의성과 신규 사실이 약해 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "SGLang NVIDIA NIM November 13 2026; vLLM SGLang ROCm kernel runtime heterogeneous accelerator Kubernetes security November 13 2026",
+          "official_sources": "LMSYS 공식 원문 https://staging.lmsys.org/blog/2026-11-13-sglang-nvidia-nim 과 NVIDIA NIM 연결 문서를 확인했고, NVIDIA vLLM 기술 블로그를 비교했다.",
+          "result": "SGLang의 NIM 기업용 배포·검증·지원 통합을 전날 컨소시엄 출범의 material update로 선정했다. 단일 모델·DGX 구성 튜토리얼은 상대적 파급이 낮아 제외했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "Samsung Modine acquisition Reuters Bloomberg November 13 2026; 용인 호남 반도체 전력망 공급 비상 2026-11-14; HBM packaging CXL interconnect AIDC power financing November 13 2026",
+          "official_sources": "연합뉴스 공개본문 https://www.yna.co.kr/view/AKR20261113121300009 와 Reuters 공개본문 https://www.reuters.com/technology/samsung-talks-buy-data-center-cooling-firm-modine-bloomberg-news-reports-2026-11-13/ 를 확인하고, 뉴시스 전력망 기획기사와 기존 한전·정부 협약 공개자료를 대조했다.",
+          "result": "삼성-모딘 인수 협상을 전략적 인프라 거래로 선정했다. 전력망 기획은 기존 사실 중심, 구글 채권은 일반 자금조달, 통상 HBM·CXL 제품 보도는 국내 NPU·정책 후보보다 우선순위가 낮았다."
+        }
+      },
+      "alternative_sources": "유료벽·접근 제한 후보는 공개 재배포본, 통신사 전문, 회사·기관 공식 원문과 동시 보도로 핵심 사실을 대조했다. 공개 본문이나 마감 전 공개 근거가 충분하지 않은 후보는 선정하지 않았고, Google News 제목·요약만으로 기사 본문을 작성하지 않았다."
+    }
+  }
+}
