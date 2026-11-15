@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-11-15T06:46:41.064Z",
+  "generatedAt": "2026-11-15T06:57:36.931Z",
   "news": {
     "articles": [
       {
@@ -57,7 +57,7 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "NPU",
-        "score": 39
+        "score": 38
       },
       {
         "title": "엔비디아, 과기정통부와 AI 스타트업 파트너십 포럼 개최… 국내 스타트업 투자 확대 - 미디어픽",
@@ -919,6 +919,30 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "추론",
+        "score": 25
+      },
+      {
+        "title": "Nvidia CEO transition — Jensen Huang steps down, sparking AI investment concerns - The Korea Daily",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BNUFGWWZWODV0eWs1cHpXa0FEd01PUzVNcVRiYm1aOUNiTUxMampXeVJ6Q1dfajZsdWhiQ3FpZnJ1a2xxOUtUYW02Qm8tY3NpRk43MEkwNWpodnZqNU50NndnSm1wNkdLYVRoSmV3?oc=5",
+        "publishedAt": "Fri, 13 Nov 2026 07:13:45 GMT",
+        "summary": "Nvidia CEO transition — Jensen Huang steps down, sparking AI investment concerns &nbsp;&nbsp; The Korea Daily",
+        "outlet": "The Korea Daily",
+        "outletUrl": "https://en.koreadaily.com",
+        "source": "AI 시장 전체",
+        "sourceIds": [
+          "ai-market-global"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
         "score": 25
       },
       {
@@ -1822,6 +1846,29 @@ window.__DASHBOARD_DATA__ = {
         "taxonomyHits": [
           "NVIDIA",
           "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "AI Data Center Stocks Crater On Nebius Outlook And Nvidia Uncertainty, But Applied Digital's (NASDAQ: APLD) $36.2B Lease Book Remains Intact - Foreign Policy Journal",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUEZJQ0NSRnhyY3dzNXVGR0V4MEMtVGlxSkN3TDZUalV1UzhYQWJWdHFYYjF5RXh6bldfeXZib2xtTS1pRUJUNkQzLW90Ym5TOTBwR2cxaklLdWNpQjN2aTB6aXFMVWIyeEVLNmxTbDIwdHZCY29VcFYxUTlQdXRFWGtyYUxaVkRlaXhGNV9EYmFDM0l5bTgweHRQU3hwbXc3V0RDTkUxb0QzcUhzcGJ0ZTVHcnJzTkZLaUI2b0FvTE1kVi00bHdQeEFwSzNBaGZOckVkM0ZtUjN6LXM5TVg4VGhYaHpEVjQwci1ieG9XbG5teVk4bENTN1BqVzZiQ3E0TEFsT0l3Y19VX2FnS05uaQ?oc=5",
+        "publishedAt": "Sun, 15 Nov 2026 01:55:00 GMT",
+        "summary": "AI Data Center Stocks Crater On Nebius Outlook And Nvidia Uncertainty, But Applied Digital's (NASDAQ: APLD) $36.2B Lease Book Remains Intact &nbsp;&nbsp; Foreign Policy Journal",
+        "outlet": "Foreign Policy Journal",
+        "outletUrl": "https://www.foreignpolicyjournal.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "데이터센터",
+          "NVIDIA"
         ],
         "issueCategory": "AI시장",
         "score": 23
@@ -2872,29 +2919,6 @@ window.__DASHBOARD_DATA__ = {
           "하이퍼엑셀"
         ],
         "issueCategory": "NPU",
-        "score": 22
-      },
-      {
-        "title": "엘리스그룹, 엔비디아 B300 GPU 클라우드 베타 개시 - 더에이아이",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxVFFqYlJ2T1RvT0dXeWhxX0xYNHhBLUwwblZpUmlybE5ORGFPajhZQmFTR1lVV1hPMnF2amNhczZZMWxCNnhQMkp6d1Z1WkxOS3dhSVdlX2JCZmV0RWs5ZndwaXpoWFVaQUE?oc=5",
-        "publishedAt": "Fri, 13 Nov 2026 07:55:11 GMT",
-        "summary": "엘리스그룹, 엔비디아 B300 GPU 클라우드 베타 개시 &nbsp;&nbsp; 더에이아이",
-        "outlet": "더에이아이",
-        "outletUrl": "http://www.newstheai.com",
-        "source": "국내 AI 정책",
-        "sourceIds": [
-          "korea-ai-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI인프라",
         "score": 22
       },
       {
@@ -4184,28 +4208,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI시장",
-        "score": 20
-      },
-      {
-        "title": "AI Debt Risks Mount: Why Borrowing by Meta, Alphabet, Microsoft and Oracle Worries Investors - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaEpPZzJXdWZGekJuTVJaclVjbm9oaUJZZ1U2aVJzenZyVU4yM081TzdQZUoxTXhydldqV0l4ZzItZzBCR3lkZm1hcFEtTFo1bmVvbnphdnAybUpKTDFRYlpuZUpNNjNjb0UzaUUwMmJtTjQ4X1lpeGotbzZtdjRkYzNvZGluN2ZSWWU4dXBySnZ0Umt2d0FDY0JKdUZLVjdZdXE4VHdDSWIwNmF5ZnFVUnV6YUZtXzA1dmxLMzVTTlYteTZQalhpZUdiN1BCX2prVTQ3SEthZW05RUpSajBYOFMyUQ?oc=5",
-        "publishedAt": "Sun, 15 Nov 2026 02:10:20 GMT",
-        "summary": "AI Debt Risks Mount: Why Borrowing by Meta, Alphabet, Microsoft and Oracle Worries Investors &nbsp;&nbsp; TradingKey",
-        "outlet": "TradingKey",
-        "outletUrl": "https://www.tradingkey.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
         "score": 20
       }
     ],
@@ -7213,13 +7215,13 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-11-15T06:46:38.962Z"
+    "generatedAt": "2026-11-15T06:57:34.685Z"
   },
   "briefing": {
     "date": "2026년 11월 15일 일요일",
     "summary": [
       "오늘의 최상위 이슈: [보도참고] 세계 중심에 서는 ‘K-엔비디아’ 육성으로 AI반도체 글로벌 강국 도약 - 과학기술정보통신부",
-      "강한 기술·시장 신호: NPU 25, AI인프라 24, 데이터센터 8, 온디바이스AI 1, 추론 20",
+      "강한 기술·시장 신호: NPU 25, AI인프라 23, 데이터센터 9, 온디바이스AI 1, 추론 20",
       "주요 기업 신호: 딥엑스 25, 퓨리오사AI 3, 하이퍼엑셀 2, 리벨리온 1, 모빌린트 0"
     ],
     "leadArticles": [
@@ -7278,7 +7280,7 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "NPU",
-        "score": 39
+        "score": 38
       },
       {
         "title": "엔비디아, 과기정통부와 AI 스타트업 파트너십 포럼 개최… 국내 스타트업 투자 확대 - 미디어픽",
@@ -7494,11 +7496,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI인프라",
-          24
+          23
         ],
         [
           "데이터센터",
-          8
+          9
         ],
         [
           "온디바이스AI",
@@ -7540,11 +7542,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          96
+          97
         ],
         [
           "Google",
-          42
+          41
         ],
         [
           "AMD",
@@ -7655,7 +7657,7 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          83
+          85
         ],
         [
           "NPU",
@@ -7667,11 +7669,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "국내 기사",
-          100
+          99
         ],
         [
           "해외 기사",
-          80
+          81
         ]
       ],
       "sections": [
