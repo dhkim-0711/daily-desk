@@ -1,7 +1,185 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-15T11:30:04.859Z",
+  "updatedAt": "2026-11-15T11:54:25.937Z",
   "articles": [
+    {
+      "title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1 - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zQjNNd0lFdFRrUGJnT25rdnltQUIzWERTNVIyQ2hWbk51b1F6dEpoeHg5ektZY3hpUGdTamhjUktDajFoc3p1YzA0WVdxWG5NdWFWWHlIaTdsaUNaNFZnRDZuUUVpLUllLUE?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 08:44:08 GMT",
+      "summary": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1 &nbsp;&nbsp; AI타임스",
+      "outlet": "AI타임스",
+      "outletUrl": "https://www.aitimes.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-11-06T11:29:45.021Z",
+      "lastSeenAt": "2026-11-07T06:22:45.745Z"
+    },
+    {
+      "title": "장중 '5천피' 깨졌다…데이터센터 쇼크에 삼전닉스 '와르르' - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jaGJWVU9VbzVtV3gzVjhWMzZqNm1Mb2JRNUlVaEItdUkzQzdIbVU4WTk0LVBFQkVLX1NrRnRnSVE3ZTVfRmtKNzUwdU5jMHBKSzlYcGp1d1hXQQ?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 08:43:28 GMT",
+      "summary": "장중 '5천피' 깨졌다…데이터센터 쇼크에 삼전닉스 '와르르' &nbsp;&nbsp; 한국경제",
+      "outlet": "한국경제",
+      "outletUrl": "https://www.hankyung.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 11,
+      "firstSeenAt": "2026-11-06T12:00:32.429Z",
+      "lastSeenAt": "2026-11-07T01:50:57.866Z"
+    },
+    {
+      "title": "통신 3사, AI 데이터센터에 승부…투자 확대 속 수익성 확보 과제 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TbjI4UGF4aDVXOHkwQ254ZlBGUDdaRVItV3Fzc3FoSnllRkdDZnNETk9taHQ0RVBmVjQyVHpia3pucThZSlAtQmFVcHBHRFVJWjNjak13ZEppUdIBVEFVX3lxTE0wUFpDZGk3OEF5ekZwZzlsQ1VHcTBLNkJDUmdESURfbDVPQ3loeXFfRE1jRWI0ZTJ3VXZ2MEd2QjdEZEhUWS1TMlVDX1ZITFJtOUdiOQ?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 08:42:19 GMT",
+      "summary": "통신 3사, AI 데이터센터에 승부…투자 확대 속 수익성 확보 과제 &nbsp;&nbsp; 더팩트",
+      "outlet": "더팩트",
+      "outletUrl": "https://news.tf.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-11-06T11:29:45.021Z",
+      "lastSeenAt": "2026-11-07T01:50:57.866Z"
+    },
+    {
+      "title": "엔비디아, 네이버에 1조3412억원 투자… 글로벌 AI 협력 강화 - 파이낸셜포스트",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iRi1obE13X1VMeWJKYzNwUnZ0WVFSMUltRDgzR2JYRmZIMzE5TWx6MGlqNGdQd2xrYTlXMWYwa1BIMlRMUXdjYXY0c0NLbVUwNmNGOUFxbXdua0tqUkRZeEVsNHZnMklMNk5mMW51R1FGZVlm?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 08:40:23 GMT",
+      "summary": "엔비디아, 네이버에 1조3412억원 투자… 글로벌 AI 협력 강화 &nbsp;&nbsp; 파이낸셜포스트",
+      "outlet": "파이낸셜포스트",
+      "outletUrl": "https://www.financialpost.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 23,
+      "firstSeenAt": "2026-11-06T11:29:45.021Z",
+      "lastSeenAt": "2026-11-06T12:00:32.429Z"
+    },
+    {
+      "title": "Anthropic brings bank account connectivity to Claude: Check spending, balances and loan interest with AI - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcUNYZ1Z6U1ZvTllaYkxGWjZvS0YzYThseGl4UHhzSlBkR291UDQ5d3FDMVlDNlpYSTdlOHVST056WHRYNXpndThIRWV5Z2doZG5MeUFtdVE2MmlhdW45LWtmSnNIUnF1UmNNc2lkWGpLcnZVTFVZcVd2RGtJb2Z3bG5Gd2JoVW5JeFQ3cjhubnhFcUZUVUtyUmVXendTVFRMOFhMOE5ESXVmYW80QktYT3BKZlhpOHVVeTc0OC1OZFNsQ21hbkswU28wNjhxQU9PdWJ2U3U5MEZMZDhoZXg1eVRUS0LSAeoBQVVfeXFMTUxSWHNXWGdPTW82bmM4cmlwcHQ4OFZnSkg5ZGo4RlRIQjB5QjZkV1d2U1pZYXBjU1lWVVRDRjJnd1U5NmZFdHlBMVRWOFBvZGxFQko2YldGY1BOTFdKZWlEMm1IME1mTGx1ZFB5a01pdVVkVVJjbzl3ZVRSYWd5bmNLWnFxV3dTblVNaTF0NTdfMTNjUjRSSGYxMGFrNE9oVnp2dEM4MW1IT01MV3VXYkkwTWNXT1Z5MDRLUmtYc0R3bGV4bnpfS3F5WU93NFRoOFFmWUh1cnlEcjhDZjY4LUxVTUxVLW1wT2hR?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 08:39:47 GMT",
+      "summary": "Anthropic brings bank account connectivity to Claude: Check spending, balances and loan interest with AI &nbsp;&nbsp; Livemint",
+      "outlet": "Livemint",
+      "outletUrl": "https://www.livemint.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 11,
+      "firstSeenAt": "2026-11-08T13:53:22.828Z",
+      "lastSeenAt": "2026-11-09T07:00:36.604Z"
+    },
+    {
+      "title": "씨이랩, 국민성장펀드서 100억 원 유치…AI데이터센터 사업 확장 속도 - 워크투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iTmFMdGl3ZkJxRHUtbldrRU9icVlxQl9GTWlXZDI4UVlHeVExSkZEVlBBODRjQzlhQm1RZ1ZVMElITEZPT0t3ZlR3SHBOUGRldGZLdDhGQ2FjbXA4a09fdEYyN3hwSDdIY01pNg?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 08:39:23 GMT",
+      "summary": "씨이랩, 국민성장펀드서 100억 원 유치…AI데이터센터 사업 확장 속도 &nbsp;&nbsp; 워크투데이",
+      "outlet": "워크투데이",
+      "outletUrl": "http://www.worktoday.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-11-06T11:29:45.021Z",
+      "lastSeenAt": "2026-11-06T18:27:46.627Z"
+    },
+    {
+      "title": "정부, 반도체주 급락에 전문가 소집… “AI 동향 점검” - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05UVlQNUE3aXotbTdiR0NXcENUUjlVMzlqVWZuNmcteXZNVjR6YzVBUWN0eG90anZXWjhnbW1IV1VkbzNBREFQTkpobkQ3TkJNR1VJY2owQnBKTjktNkpIZlZFdkNhR0p3U2dxbEtTQlrSAXRBVV95cUxPU05KcW41aElhWHQwSFNMejNFcVRzamFqd0ZhMXhLT0RvZWpTUGF2MlpoMWhRaHJtZWs3RzY0MWM3UkZQY0dKQy1XTlItNmh0aUJ0OVU3bHZpdl9zcS0wWDJpRWlMWVNKbk54N1JHVW9vWkRKNQ?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 08:38:11 GMT",
+      "summary": "정부, 반도체주 급락에 전문가 소집… “AI 동향 점검” &nbsp;&nbsp; IT조선",
+      "outlet": "IT조선",
+      "outletUrl": "https://it.chosun.com",
+      "source": "정부 NPU 정책·예산",
+      "sourceIds": [
+        "government-npu-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 12,
+      "firstSeenAt": "2026-11-08T06:15:51.612Z",
+      "lastSeenAt": "2026-11-09T01:41:38.129Z"
+    },
+    {
+      "title": "“AI와 만난 금융, 포용과 생산적 투자 새 지평 연다” - 인사이트코리아",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TMGhLdDJMWXczdVVjb1VsWmJnZFhFbWl0X0hyWFAyMUlxQXpqbkdHWjRiYzBoSUxwbFJnY3ZRdFpUbVl6cjNleTFVZmYwNW9icHNmRlRPOUlESzdpMktOUEc1b05aQ2laelJ6N25PNUM1M0hCUXNv0gF3QVVfeXFMTVMwaEt0MkxZdzN1VWNvVWxaYmdkWEVtaXRfSHJYUDIxSXFBempuR0daNGJjMGhJTHBsUmdjdlF0WlRtWXpyM2V5MVVmZjA1b2Jwc2ZGVE85SURLN2kyS05QRzVvTlpDaVp6Uno3bk81QzUzSEJRc28?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 08:37:30 GMT",
+      "summary": "“AI와 만난 금융, 포용과 생산적 투자 새 지평 연다” &nbsp;&nbsp; 인사이트코리아",
+      "outlet": "인사이트코리아",
+      "outletUrl": "https://www.insightkorea.co.kr",
+      "source": "지역 AI·반도체 산업금융",
+      "sourceIds": [
+        "regional-industry-finance"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 15,
+      "firstSeenAt": "2026-11-08T01:21:32.055Z",
+      "lastSeenAt": "2026-11-09T07:00:36.604Z"
+    },
     {
       "title": "Stevens INI researchers use generative AI to fill gaps in brain wiring maps - Keck School of Medicine of USC",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjQyOFVjRWxGdmNDb2pPOWdwVjZScVgyUUNtTzlTelhxdjI2M3NxU21KY05Sdkt4QmppUE1pcUFhQzZvQ3dQaFhYVHhxTWpSSDY4aGY4ajFvd29iOVl5QW1pelcwX3JLVU1mc0ZWRk42LXBjOGk4cW00bGVfU1BvaEFtTFA1aUhsQldqZ0V5bjZtc24zanJlSmN2QTZzU3JNdl8yYw?oc=5",
@@ -2106,191 +2284,6 @@
       "score": 16,
       "firstSeenAt": "2026-11-06T11:29:45.021Z",
       "lastSeenAt": "2026-11-06T19:56:25.622Z"
-    },
-    {
-      "title": "Nvidia (NVDA) Explores AI Data Center Expansion in Telecom Buildings Amid Stock Sell-Off - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHhGTlk2emctWENUYTNNT1UxdUlGY0ZjZTFnUVY2dURkUVJyaXplbXZ4VlhiZUZabUFpWDhMVFdvak5LVGY5NHJ5UWFGb1NKY2JYa2IwNG84TGJfLVpJd1lRTmhuNmRhOG9BcUxfVDdORk0zQ1RMU1czQTRwVDhadmNSa19FcGJBTjQzMWpVY1NWXzZHNFpJLTg1SkR4UGoxNThHS0xpMVZ0UFZIenNHVzJxY0lyLVhjeDV5SlFlenVDUQ?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:39:17 GMT",
-      "summary": "Nvidia (NVDA) Explores AI Data Center Expansion in Telecom Buildings Amid Stock Sell-Off &nbsp;&nbsp; GuruFocus",
-      "outlet": "GuruFocus",
-      "outletUrl": "https://www.gurufocus.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-06T12:00:32.429Z"
-    },
-    {
-      "title": "IREN Limited Reports Q1 FY2027 AI Cloud Revenue Surge, Operating ARR Doubles (Ticker: IREN) - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWd5bGNiMkdEMHpYTHE2ODZXMWIzeHJZR1lrS2hsZG1CaXJUamd0VDBtN1NUNk9Uc0Fra1YyMXUtcGhBR1IydzhWN1AxTzFuMWlRbjFGVnJFZzRsaWh6Mk1IdFFxbzNJT2czekk3bEhvRGR2WWhFWl9NaTRpVzJQWFZWMmlVT0tUYnZjQTc3V1hqT25qMS1KUGJhREZsR2puTlFReTdDM1FnMlBXZ0ZNZm9HZGo0UEpuNkdhZGpqTmlkakl0?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:39:16 GMT",
-      "summary": "IREN Limited Reports Q1 FY2027 AI Cloud Revenue Surge, Operating ARR Doubles (Ticker: IREN) &nbsp;&nbsp; GuruFocus",
-      "outlet": "GuruFocus",
-      "outletUrl": "https://www.gurufocus.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-06T19:56:25.622Z"
-    },
-    {
-      "title": "美 AI 데이터센터 규제 강화 우려···K조선 FDC 사업 탄력받을까 - 시사저널e",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kRDNwS3lHSUJlcXB3bzJOWTVVcTR2ZUhZZU1QVnVreDk3LUJQc2J4UlBDYThoLTQydkpIdS1qT0hkS0VzNm1WckJCY1hDM0FNdXBzSnM3c29uWWhrMU0xZlV1VlhyTU94aEJXZWw3ekc3d9IBdkFVX3lxTE9VTjhyZ3pFcW80d24xaE00MGVrVnhmWEllakNVVjhCNzVQTWhneGJZcGxJS3M4SVpfNmdxb01nZ0N2dllFYjJuYnZpY01GeFpQeVZTa0s2WkdvaXl6QmdWTVNCbGVuT3g3OVhfeG40bHE1aW16LUE?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:38:09 GMT",
-      "summary": "美 AI 데이터센터 규제 강화 우려···K조선 FDC 사업 탄력받을까 &nbsp;&nbsp; 시사저널e",
-      "outlet": "시사저널e",
-      "outletUrl": "https://www.sisajournal-e.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-08T06:31:16.737Z"
-    },
-    {
-      "title": "네이버, 엔비디아 투자금 10억달러 수혈..\"AI 팩토리 투입\" - 포쓰저널",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoU1JtRTk2dW1sbHNEY001UDRXanhheWVlcFdBdWVOQWp1M2I3WmZlX1N2Yzlob2ItUS13MHB4T3g3SkRUVDk5cDlkbDk0R25ULUhrVmhqTnVhWkpPSnNqSDdWSTQ?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:37:51 GMT",
-      "summary": "네이버, 엔비디아 투자금 10억달러 수혈..\"AI 팩토리 투입\" &nbsp;&nbsp; 포쓰저널",
-      "outlet": "포쓰저널",
-      "outletUrl": "https://www.4th.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 23,
-      "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-06T18:27:46.627Z"
-    },
-    {
-      "title": "젠슨 황, 하루 만에 22조 증발…세계 10대 부자 탈락 '엔비디아 급락 여파' - 경기일보",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YWm5ZRUdPVWxoTVhza1I0d2F6TS0ta1F1N2gxZWppalFCOFZ4SkJ0Rk1sclRMWGJTdEN4YnNLd1B2WEN6clhTQXFiRkplR3NqclB4MXpwU0Y5TU0?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:37:16 GMT",
-      "summary": "젠슨 황, 하루 만에 22조 증발…세계 10대 부자 탈락 '엔비디아 급락 여파' &nbsp;&nbsp; 경기일보",
-      "outlet": "경기일보",
-      "outletUrl": "https://www.kyeonggi.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-11-06T18:27:46.627Z",
-      "lastSeenAt": "2026-11-07T01:50:57.866Z"
-    },
-    {
-      "title": "박지원, 국회 예산안조정소위 선임…전북 현안 국비 확보 '든든한 지원군' 되나 - 프레시안",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zSURMUzd0LTc1eWdXYU5Fa1BjYTcycVF3NHdGU0hwTlZoekxxeFFyZ0lfLUkyMXdXN2lYWFlVMU5wZnRyWlQ2dTRGWUZWOWo5ZFNDM3IzcUJZWV93ZDVTVzFkcEhjVW44QmFr?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:36:02 GMT",
-      "summary": "박지원, 국회 예산안조정소위 선임…전북 현안 국비 확보 '든든한 지원군' 되나 &nbsp;&nbsp; 프레시안",
-      "outlet": "프레시안",
-      "outletUrl": "https://www.pressian.com",
-      "source": "지자체 NPU 정책·사업",
-      "sourceIds": [
-        "local-government-npu",
-        "government-npu-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "정책",
-      "score": 11,
-      "firstSeenAt": "2026-11-07T06:10:56.864Z",
-      "lastSeenAt": "2026-11-09T01:41:38.129Z"
-    },
-    {
-      "title": "Apple 10-K Flags AI Agent Risk as Siri Opens Up - Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb21nMXRtOU11RDR5dGpiV2NEYkp4bUVGNUctanFuSzFjalRSdzB2RlZ3Q053SWJ6Snh0ODh0OGtjYXA0UEIzTHNuYUJ2WU5QclFpTElRRTJoMzVXTGs0NXQ5dXpXb1ktb3c5Qmp0V0xjeHJZejlkY2d6VUpZZmVJRVp5OEpfcFA4bjZoTnRlaTZuaEU?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:36:00 GMT",
-      "summary": "Apple 10-K Flags AI Agent Risk as Siri Opens Up &nbsp;&nbsp; Technology Org",
-      "outlet": "Technology Org",
-      "outletUrl": "https://www.technology.org",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-06T12:00:32.429Z"
-    },
-    {
-      "title": "Apple Flags Rogue AI Agent Risk in Annual Filing as Siri Opens to Apps - Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb21nMXRtOU11RDR5dGpiV2NEYkp4bUVGNUctanFuSzFjalRSdzB2RlZ3Q053SWJ6Snh0ODh0OGtjYXA0UEIzTHNuYUJ2WU5QclFpTElRRTJoMzVXTGs0NXQ5dXpXb1ktb3c5Qmp0V0xjeHJZejlkY2d6VUpZZmVJRVp5OEpfcFA4bjZoTnRlaTZuaEU?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:36:00 GMT",
-      "summary": "Apple Flags Rogue AI Agent Risk in Annual Filing as Siri Opens to Apps &nbsp;&nbsp; Technology Org",
-      "outlet": "Technology Org",
-      "outletUrl": "https://www.technology.org",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-11-06T18:27:46.627Z",
-      "lastSeenAt": "2026-11-08T13:53:22.828Z"
     }
   ]
 }

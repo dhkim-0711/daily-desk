@@ -1,7 +1,183 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-15T11:30:04.859Z",
+  "updatedAt": "2026-11-15T11:54:25.937Z",
   "articles": [
+    {
+      "title": "Nvidia is like a central bank in its support of AI ecosystem: Kindred Ventures' Maqubela - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWU9VVjlET2dUVnFKb2RpR1lBb2MtdlZJR1pIam1QeXhZc0FKUWNaOFBLRkNkZ1pIWlNkTEpmRzM4bVRZTENTcHlPVXMyblR3UG9WLU5yVDBqWk9PRHM1ZkRzQXBVUS1rVkdqbFFrcDZiRUJZdzEwSk9QcE1rTE1uS3Q0dnBudG9nQXZuQURYRUlsdzVKZ2pBWGs1eTRtalU4cW1jTHZsYTVtV3dWMUFERDdXaFpPOUticmJlY1JEZUNMT2VEcGxQcA?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 12:36:33 GMT",
+      "summary": "Nvidia is like a central bank in its support of AI ecosystem: Kindred Ventures' Maqubela &nbsp;&nbsp; CNBC",
+      "outlet": "CNBC",
+      "outletUrl": "https://www.cnbc.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-11T16:36:16.746Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "광주 군공항 2028년 이전·2032년 준공…반도체 산단 ‘4년 공백’ 줄일 법안 발의 - 지이코노미",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LSnRiSkF6aXdkRzFrMi1aUWJMa2hET205SXJGZlRJd1YwVHE5a1BiN1I0TFlCdFBvWWZCYWttbWpnVk4zVzRkU245RGl0X2hmV2x4VkNEdnQ3X2xuZnV3WXNaQnI?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 12:35:42 GMT",
+      "summary": "광주 군공항 2028년 이전·2032년 준공…반도체 산단 ‘4년 공백’ 줄일 법안 발의 &nbsp;&nbsp; 지이코노미",
+      "outlet": "지이코노미",
+      "outletUrl": "https://www.geconomy.co.kr",
+      "source": "반도체 클러스터·정책 실행",
+      "sourceIds": [
+        "semiconductor-cluster-execution"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-11-11T16:36:16.746Z",
+      "lastSeenAt": "2026-11-14T11:24:08.395Z"
+    },
+    {
+      "title": "Alphabet or CoreWeave: Which AI Stock Is Better to Buy in a Market Crash? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2FDLU9JbWFNOW5BNnVqWFpHUzFVN1VpaFY5UGthS2FYRF94ZE04Zm1vdUlvdlEySVlCT3dpd2dxNXZsbTJlQ0RRdXFrRUNZYllZR1lqOEc5SUJOLVdMSEh5Q0JlZlJLYTd6cnpfYUNmV1d6M3VZVlNTcjQ3RDgwX2ZUcDJncHNnTTQ3QmJuaXZ4ZlZaOXlkTDFBUUNJT1N1?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 12:35:00 GMT",
+      "summary": "Alphabet or CoreWeave: Which AI Stock Is Better to Buy in a Market Crash? &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-11-11T16:36:16.746Z",
+      "lastSeenAt": "2026-11-12T13:16:10.111Z"
+    },
+    {
+      "title": "Inside Kong Konnect’s Expansion for Enterprise AI Agents - AI Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMHMxa2ktVUpPVDdkcnZRQVdQX0g3UWE3MGpvLUhEblRnUjJKcTBvU0oxaVFWbURxV1h5NTNoQTc0ZzZFSnMtOUc0VnhBUWxuNERNcmlxZDh3Uk9qZDVJSlIzOVpHcVdOM3Z0ZnFpTUQxZmtwcmVpRWVRNFdORFpFd0hDWlJOR0VzTmc4?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 12:34:44 GMT",
+      "summary": "Inside Kong Konnect’s Expansion for Enterprise AI Agents &nbsp;&nbsp; AI Magazine",
+      "outlet": "AI Magazine",
+      "outletUrl": "https://aimagazine.com",
+      "source": "AI 시장·비즈니스",
+      "sourceIds": [
+        "ai-market-business",
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장",
+        "AI에이전트"
+      ],
+      "issueCategory": "AI시장",
+      "score": 19,
+      "firstSeenAt": "2026-11-11T16:36:16.746Z",
+      "lastSeenAt": "2026-11-13T12:06:19.034Z"
+    },
+    {
+      "title": "Alibaba is expected to benefit from the Hong Kong listing of AI chip unit T-Head - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTENUWTl1NVNoMVZ0R01fUm82aERhc0ZfN2J5VmlYRDAwR3FRZVRKdzlZakR2LVZacEptOXVDbzRRODE0WFNxRzVxR19Nd0theWFuOXVKUkg0eFNrVXlGcjZCM2RUTWZsVGx3SDhkTU5OcDNGTDlEZmFERGwtRGRjbk5mX21MZmxUaXdYWVp5MmwyUTFUN0ZSUlFtdDhOdG5PdVVHS3ZDSTJQQUdJbjdvOEVINnBxM2hXc3g0RGxCSmw5WmtEVDJNR0pPY0JzU0xlYUozZ0U3ZFFOWjQ?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 12:32:25 GMT",
+      "summary": "Alibaba is expected to benefit from the Hong Kong listing of AI chip unit T-Head &nbsp;&nbsp; TradingView",
+      "outlet": "TradingView",
+      "outletUrl": "https://www.tradingview.com",
+      "source": "글로벌 가속기 전략적 거래",
+      "sourceIds": [
+        "accelerator-strategic-deals-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-11-11T16:36:16.746Z",
+      "lastSeenAt": "2026-11-12T02:54:44.546Z"
+    },
+    {
+      "title": "Nvidia scandal likely to fizzle out in weeks: Higgsfield Co-Founder - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN2gxb011bXl3WWFENjFwZVNqcEZILUlqTkVKbHhmMXRLVzBpX0MyZXhqLUpQNDZSX0lfSy1uSTF2WnVwa1l4ci1fUjZGdWpjYVEyUHI2WFV4anQ2cEZXQjlBUVJrSGNMc3AwQUIxS0dUbWN1aUFwNVJsWGM3WVZ0QWpZYy1HTFY1bmhRS0QySGhCMkllTUZFajZ1Zw?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 12:31:42 GMT",
+      "summary": "Nvidia scandal likely to fizzle out in weeks: Higgsfield Co-Founder &nbsp;&nbsp; CNBC",
+      "outlet": "CNBC",
+      "outletUrl": "https://www.cnbc.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-11-11T16:36:16.746Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "Watch AI Stocks Rally After Coreweave's Results; Treasury Market Closed - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU00tTWJTd3hBcTdDd050R2M4Nkx6X19DSzFtSktHSGdNM0ZTbllqNnp0VmFjbUp0NmVtWVhxbXJuZHhrQU9QazZZWTBIMzRpeTNCWnlnR0xnT1ZEcnFINnNMUU1Sd0pCMGFFdV9EbjhmLU1EdHhaTFVBWllsUG5VTFVNNHByQ0o4?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 12:31:34 GMT",
+      "summary": "Watch AI Stocks Rally After Coreweave's Results; Treasury Market Closed &nbsp;&nbsp; Bloomberg.com",
+      "outlet": "Bloomberg.com",
+      "outletUrl": "https://www.bloomberg.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-11-11T16:36:16.746Z",
+      "lastSeenAt": "2026-11-12T07:32:32.958Z"
+    },
+    {
+      "title": "CoreWeave Boosts AI Stocks and Revenue Forecasts - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTRZS0hhVnY5bHc3UDItM0ViaGgtQjhWNWpta0ZjZjBjZzJQV25YbVpFZjhCQkUwX2RSd0N5V1pCVVVRX1ZBa2ZfdlhSdjJkc3Exb3lZN1N5QW96WUhROWFVQ1FNQ2pCY1N0RzVVWEZLeFdwTHd2Q1VPeGl6WUlfblRRT0NneTNmR0p3Q25VWm0?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 12:29:55 GMT",
+      "summary": "CoreWeave Boosts AI Stocks and Revenue Forecasts &nbsp;&nbsp; GuruFocus",
+      "outlet": "GuruFocus",
+      "outletUrl": "https://www.gurufocus.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-11-11T16:36:16.746Z",
+      "lastSeenAt": "2026-11-11T16:36:16.746Z"
+    },
     {
       "title": "Broadcom Stock Rallies 3.91% to $331.98 as Google AI Chip Demand Strengthens - FXLeaders",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUJhUEtWcTh6YVg1T2ZkeXBTd1NDRVV1LU1NeTdVeXl1OTRvdzViN2ZyVGU3TTdReGlsUjZpbHQ4MDJmWXZBTjhWTDJKNW5ULW1pR2U5Q241U0NWRUdNOE5xM2kzSDc3SjluTGtaXzFKY1cwVTZCMHN3c1NLOTZ1bWIwU0xwb09ZYlJRVTRHdHRMYy1xT0Yzd3F3Qzc2a2lVRFZMZVhYcFo0b3NES2JrRzdrY3dQdGxp?oc=5",
@@ -552,7 +728,7 @@
       "issueCategory": "AI인프라",
       "score": 16,
       "firstSeenAt": "2026-11-11T16:36:16.746Z",
-      "lastSeenAt": "2026-11-15T11:30:04.859Z"
+      "lastSeenAt": "2026-11-15T11:54:25.937Z"
     },
     {
       "title": "What now for Nvidia’s Jensen Huang, and should Congress ban RSI? : Machine Gods - NPR",
@@ -2075,185 +2251,6 @@
       "score": 16,
       "firstSeenAt": "2026-11-11T11:49:46.967Z",
       "lastSeenAt": "2026-11-12T07:32:32.958Z"
-    },
-    {
-      "title": "Why Are AI Chip Stocks Nvidia, Micron, and SK Hynix Surging in Premarket Today, November 11? - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWl9yM3pCZlVRRGJCcVJGb29jWUtoTTZwb1BpX2RnQ2VVTk1XYkNEQ1F1VGRfNFZLWFpCZHgxbkhfNHh1eTdzTUFXRWtyeWkzNTNUeW1CZEFibXhfTE85eEViVS12eE8xVlBscUdnRnRRN010ZTlaWjFKRDQ1WXdnSk84aU5vU1ZhdVc0Uzc0Um1ob1cxcVVVbzc3TGxOdHBMNTkzc3pzTHVGMTU1RGNCOVkxYUtzMk5ocUE?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 10:42:34 GMT",
-      "summary": "Why Are AI Chip Stocks Nvidia, Micron, and SK Hynix Surging in Premarket Today, November 11? &nbsp;&nbsp; TipRanks",
-      "outlet": "TipRanks",
-      "outletUrl": "https://www.tipranks.com",
-      "source": "해외 AI반도체",
-      "sourceIds": [
-        "global-ai-chip"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-11-11T11:49:46.967Z",
-      "lastSeenAt": "2026-11-14T06:53:20.023Z"
-    },
-    {
-      "title": "Nvidia shares suffer their biggest drop since 2025 🚩 What’s next for the AI giant? Is this conversation helpful so far? - XTB.com",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV1VfSXpCbUtvbmFrdzJ5dmtJNUJrZE8xTmQxV1J1NFVHOGpLb2NmbF91bEE1Ukhqc1hVWlpjcHNheUlVcEJsRm5laGV2SUxmZFJvdzZscDU2bVhSQWtEUzJjdy1aOTc5c21nNmVSbFQwMGdWVFJwbG1PSU1ya2lpV2J6QWVCTXU4N1RRWm54ZWx3cEN4MWJkWGYwUW5LUmFRVHRRbXBmWFNEYWJXd2dwczBfUWZaSzAyX2dWR1A4amxMaUhBZ2VrX0pMalFVV0NmVDE0VVhHX1dJTlF0XzFMZHpMLVdzdURGT29OSF9taml5OGxwSEpveXFHWHVkMURGVkRN?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 10:42:26 GMT",
-      "summary": "Nvidia shares suffer their biggest drop since 2025 🚩 What’s next for the AI giant? Is this conversation helpful so far? &nbsp;&nbsp; XTB.com",
-      "outlet": "XTB.com",
-      "outletUrl": "https://www.xtb.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-11-11T11:49:46.967Z",
-      "lastSeenAt": "2026-11-11T11:49:46.967Z"
-    },
-    {
-      "title": "김성환 기후에너지부 장관, 호남권 반도체 산단 전력 점검차 전남광주 방문 - 프레시안",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85TU1zMng0dnpxUnpXSTQzVlFJMVhyeXF2Z1RWc3p4RW16Rm1BQ0hCNno4bjREUDNTQUo2REg0aTRNejY0YnRjbHRDV09Ea3Q2c3ZNQ2JCeDdVNTVIYXRRNTJCMF9zMVdsdVBR?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 10:42:25 GMT",
-      "summary": "김성환 기후에너지부 장관, 호남권 반도체 산단 전력 점검차 전남광주 방문 &nbsp;&nbsp; 프레시안",
-      "outlet": "프레시안",
-      "outletUrl": "https://www.pressian.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-11T11:49:46.967Z",
-      "lastSeenAt": "2026-11-14T06:53:20.023Z"
-    },
-    {
-      "title": "We Saw an AI Agent Run Photoshop on the NVIDIA RTX Spark Surface | Adobe MAX - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSFVKVV9RWFBvZ2N2dkExUmxvc3EzLVcwcnN1bV9mZWJFMGNvV2ROOXBCVWFmTUE5M0h5OGpQMTVRWUVyMmRUR19XZFI5VWdEWE90UEM2ZnY5eENwcUNGMThnaWFRX05KQ3c4Yk9tNFlwNmQ4d2RZOHc1a0ZhWnU3NFlBMm1YZHZQMW5lelRlQ3hyZmxZaUtnNTgtdTdwMzVwcTNCbzlldk1yNjBfYUIyZUdTM3E5amhfUUsyT0dZOTdMdW5BcEktb254UXZPZG9jTlpJaDJQei1Dbk5h0gHiAUFVX3lxTE1JLVRzUTJJeUQxMXRUaTM5a080emtmTWtvUmRTNVlURklCVWFpX1Q4ZGwybXlKN0gyVWJ4SjE3REt4VTBndTZqRVJ1d0N0UjMwbnBaNDNvbEdlSUVPSkx1SFNCeTRjbEFKa0pYcFlDSEJTMFoyY0R1OUhvY0c4dG5zUzNQNlVsUzZpNmdXZjY0blNtaC0zU2taX0JZYjBwX3pLcVpHcEkyR2JEOUZpN3FORDJQMlBJSjUweURBVjd6dTNtclhwbHpxbGJoYWtZRnJLSmVIQ213MkZNaDU5QzZvLXc?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 10:41:15 GMT",
-      "summary": "We Saw an AI Agent Run Photoshop on the NVIDIA RTX Spark Surface | Adobe MAX &nbsp;&nbsp; The Economic Times",
-      "outlet": "The Economic Times",
-      "outletUrl": "https://m.economictimes.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-11-11T11:49:46.967Z",
-      "lastSeenAt": "2026-11-11T16:36:16.746Z"
-    },
-    {
-      "title": "AI 유니콘 20곳 목표…최종 단계 연계 기업에 100억원 이상 지원 - 토큰포스트",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OTDlyMEJhMDNjSmNWR2hqQjNreVVnOEVMU3JsalBtSjlodXB6VnR0akJCVTNYcHNyaU01NHgxNTA2S1dtZ1FkM2NmbEdJbU9NUV8tYlln0gFWQVVfeXFMTU5MOXIwQmEwM2NKY1ZHaGpCM2t5VWc4RUxTcmxqUG1KOWh1cHpWdHRqQkJVM1hwc3JpTTU0eDE1MDZLV21nUWQzY2ZsR0ltT01RXy1iWWc?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 10:39:54 GMT",
-      "summary": "AI 유니콘 20곳 목표…최종 단계 연계 기업에 100억원 이상 지원 &nbsp;&nbsp; 토큰포스트",
-      "outlet": "토큰포스트",
-      "outletUrl": "https://www.tokenpost.kr",
-      "source": "공공·지역기관 NPU 수요",
-      "sourceIds": [
-        "public-regional-npu-demand"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 12,
-      "firstSeenAt": "2026-11-12T13:16:10.111Z",
-      "lastSeenAt": "2026-11-14T06:53:20.023Z"
-    },
-    {
-      "title": "Former Cointelegraph CEO Joins AI Agent Chain Phase. Who’s Liable When Agents Pay Wrong? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjJGb0htMFFfa3ZwSTA1QTFzMmVnVWk5RVBoYVg1SThiNEt6LVlqMXlmT1RNaF9sRXlrVG1IVXh5ejUzQzdaamg4Rjk4cTc5UUJ0QzAwVmFzUEZyRWllaWIwYlF1TGt2ZGRMTmRqcUQ4aUJpQW1mQVZUZlRVRGRnZU1QQlBXbzlfTGdMTjI4M0M3a3lrWXlVMXE1ZkVEN1E?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 10:39:23 GMT",
-      "summary": "Former Cointelegraph CEO Joins AI Agent Chain Phase. Who’s Liable When Agents Pay Wrong? &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-11-11T11:49:46.967Z",
-      "lastSeenAt": "2026-11-12T07:32:32.958Z"
-    },
-    {
-      "title": "‘This Whole Thing’s Crumbling’: Scott Galloway Says AI Capex Now Rests on Just 2 Companies and Feels Exactly Like 1999 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHByMXRIMFRDODNpMlhyTHhvcjlmTXROTFdVTmVZaHJqV1l3MDQtWXlldFVTbVNUdnZCbmo0UEZqRV83aUR0QTBGOUpCM0haWndWTm5PclBnaVhmelFBQVVMYjZwLUpyUmlkN2hkSWVobnE2SzlqSlFQVERZbnYxX0R4Ymk3cnN3N09wQXhUWkk3NGZwbld6Y3djaWlOWF8xbnc?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 10:34:04 GMT",
-      "summary": "‘This Whole Thing’s Crumbling’: Scott Galloway Says AI Capex Now Rests on Just 2 Companies and Feels Exactly Like 1999 &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "AI 투자·자본시장",
-      "sourceIds": [
-        "ai-investment-market"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-11T16:36:16.746Z",
-      "lastSeenAt": "2026-11-14T06:53:20.023Z"
-    },
-    {
-      "title": "Your Wear OS watch can now run Meta’s Muse AI agent - Android Authority",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4NzhEQldXeTljYkVsZXYyVUhIZGlnbTZVaXpRQ0V1UjJFMXVyWkF3cWUyUmM4ck9SQWM2V2FkeVRVSlFNcmNwNTg0RWgtbTR0THRHZTBUTks5WXpuUFdXVlRNWEQ1YjZlNnpseG9wYw?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 10:34:00 GMT",
-      "summary": "Your Wear OS watch can now run Meta’s Muse AI agent &nbsp;&nbsp; Android Authority",
-      "outlet": "Android Authority",
-      "outletUrl": "https://www.androidauthority.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-11-11T11:49:46.967Z",
-      "lastSeenAt": "2026-11-11T20:09:42.287Z"
     }
   ]
 }

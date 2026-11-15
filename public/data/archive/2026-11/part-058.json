@@ -1,7 +1,195 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-15T11:30:04.859Z",
+  "updatedAt": "2026-11-15T11:54:25.937Z",
   "articles": [
+    {
+      "title": "Microsoft and IBM Unite for a Giant AI Agent Push - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdExyNkVncjJzRGN6Tm03Q21SWXRmV0RxbmEwUHM3cGhtWnlXUEZkeE1JbVc4TnhMNVQwQVBsT29yZG56QUdhQ1UwQ280amhUNVJPek56QWNEejhWZXlUQlVtbEJuZDRPb2U5OENxTU0taTdzdFZyYV92Y3NSWDFEQnllT2N4cnJQcU41T3dEWnpfV1B4YXhj?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 18:06:48 GMT",
+      "summary": "Microsoft and IBM Unite for a Giant AI Agent Push &nbsp;&nbsp; Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outletUrl": "https://finance.yahoo.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-11-11T00:54:30.056Z",
+      "lastSeenAt": "2026-11-11T20:09:42.287Z"
+    },
+    {
+      "title": "Super Micro Falls 4% as NVIDIA's Slide Drags AI Server Stocks; Dell Drops 6%, Hewlett Packard Enterprise Declines 2% - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ2FvbmFFTVZFZWxuYkRXZlRxcG9JOFBRUkZFQjJHbFVPWHlRbVVPbVlQSmpUOE9yZWxGSEFYb21LZ0J1M3U3MFFVeE9GdWxIY0YyeGI0Q1FmSXpwU054UUFoQk9XWUwzVGNNdi1NUlREdHRUZi1PNGN5cV9rTm8wUDQ2ZzdZODh6R210THdUQnViMlo0cjFQeGF2X0l5QW55OXRtOF9YX0pFbnJ6RnVHUEFmZ2NuMF9pTGN6Z2d4bGphY3lHMnQzNloxNG5ETWhKVEZEU0lzSGtSc1BuRW5FSE9RSlFWQk9MM3c?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 18:02:00 GMT",
+      "summary": "Super Micro Falls 4% as NVIDIA's Slide Drags AI Server Stocks; Dell Drops 6%, Hewlett Packard Enterprise Declines 2% &nbsp;&nbsp; 24/7 Wall St.",
+      "outlet": "24/7 Wall St.",
+      "outletUrl": "https://247wallst.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-11-11T00:54:30.056Z",
+      "lastSeenAt": "2026-11-11T01:54:03.553Z"
+    },
+    {
+      "title": "Google Adds TPU 8tx And 8i Max As Its AI Chip Business Nears 100 Customers - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMFMyMWlUWjRpU3h5ZVNuSktrY3BhWTZ0X3VnMFIxSTBqLVV2UXljbUhySG44WFdHQnMwOGhkR29vNVZGOC1uZGV0WlVqRVBDVU4xTGU5YlpfZkM2ZVZrWlVJRW1rTk9NakE1S3JLNUNDNm96UnRFemFhN09jVW5FMkl3dEtXdW0xY3JFWFpxR2dMVzF6Z0U1R3BCLW5KQk4zenVkYmt4aGdCcUtISTcxcDVBYmhZenE1VEFNa2hfVVA5X3Jo?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 18:01:54 GMT",
+      "summary": "Google Adds TPU 8tx And 8i Max As Its AI Chip Business Nears 100 Customers &nbsp;&nbsp; Forbes",
+      "outlet": "Forbes",
+      "outletUrl": "https://www.forbes.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-11-11T00:54:30.056Z",
+      "lastSeenAt": "2026-11-11T16:36:16.746Z"
+    },
+    {
+      "title": "Nvidia’s Real Risk Isn’t Jensen Huang’s Scandal. It’s The Family - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVFwLXRGa1dSZ3k0OEhvLXZELVpmVjVxSDBrWkZNckpWa01CZlh0aEtKS3lZc2U0aHc5YzcyU2VYRmZkM0hTSld0RTF1M3hLSkZmcGdHNmtYdXdleEZ0TkV6WHNWRjU2ZnhRcjg1ZFZEcDdQMFdEaW5PRWtoRmVJQmhYVjFYeF9XelFpR01kSTZIcVhVVEtMazlQR1pwc1lmSkJzN2JkOFRBVUdtNXNRaEZ4aG1MUXNsb21oS2xNWm0tVlc3SjFv?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 18:00:58 GMT",
+      "summary": "Nvidia’s Real Risk Isn’t Jensen Huang’s Scandal. It’s The Family &nbsp;&nbsp; Forbes",
+      "outlet": "Forbes",
+      "outletUrl": "https://www.forbes.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-11-11T00:54:30.056Z",
+      "lastSeenAt": "2026-11-11T16:36:16.746Z"
+    },
+    {
+      "title": "엔비디아 AI칩 75억달러 중국 공급 의혹…24만개 유통 경로 논란 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMUNtS3lDTFY2N0hYRHd4dVdReEZObFFYUmtXYnQ5ZF9WQzBaUDVmSHVKdlY4WXZFQzV1aWlENjQyVWYzMzZ1X0pvaEUwWVVORDVUT3J0cGlSVjU2ZWlFbU1WcklOMXFkajhVdW96NnhOMmFFYlB5a0lVM2dndnE0WU9hZ2hJVE8z?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 18:00:00 GMT",
+      "summary": "엔비디아 AI칩 75억달러 중국 공급 의혹…24만개 유통 경로 논란 &nbsp;&nbsp; 글로벌이코노믹",
+      "outlet": "글로벌이코노믹",
+      "outletUrl": "https://www.g-enews.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-11-11T00:54:30.056Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "엔비디아 AI칩 75억 달러 중국 공급 의혹…24만 개 유통 경로 논란 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMUNtS3lDTFY2N0hYRHd4dVdReEZObFFYUmtXYnQ5ZF9WQzBaUDVmSHVKdlY4WXZFQzV1aWlENjQyVWYzMzZ1X0pvaEUwWVVORDVUT3J0cGlSVjU2ZWlFbU1WcklOMXFkajhVdW96NnhOMmFFYlB5a0lVM2dndnE0WU9hZ2hJVE8z?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 18:00:00 GMT",
+      "summary": "엔비디아 AI칩 75억 달러 중국 공급 의혹…24만 개 유통 경로 논란 &nbsp;&nbsp; 글로벌이코노믹",
+      "outlet": "글로벌이코노믹",
+      "outletUrl": "https://www.g-enews.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-11-11T06:41:26.106Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
+    {
+      "title": "Google Debuts Gemini AI Agent for Healthcare Operations - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYm92cWJnemR2VEFTUWMtNE9JV1JjZ0hjT2xHeGpPb3ZaTWZ0M0NVczVJakY2c29kUnJLNHZOWk5ncXFPM2diWWs4d05wUlMzN21sWXdpNnRWT08tRVB6eENzc192dWRLcTZoQTkwNklmbXFCb3pib25YY2FGd0VYNUk0MHlJY0lsNWtZQkphcU4zTnhFZGlxeEVpM2RlMmxGOWVhRG5fYWNNbTlUbmc?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 17:57:06 GMT",
+      "summary": "Google Debuts Gemini AI Agent for Healthcare Operations &nbsp;&nbsp; PYMNTS.com",
+      "outlet": "PYMNTS.com",
+      "outletUrl": "https://www.pymnts.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud",
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "Google"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 23,
+      "firstSeenAt": "2026-11-11T00:54:30.056Z",
+      "lastSeenAt": "2026-11-12T13:16:10.111Z"
+    },
+    {
+      "title": "Stanford AI100 Report Examines Generative AI’s Rise and Societal Impact - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU2E5SmhmeHAtdU16ZEpUbTkxdlFQTmJLUm5TelBGejhoU2JZc2pEUkNLLTZaTlBReHdtZkhpdm9HdHZoYm1OMnZrUVRIU1JEci1sVmJEd0VQeTdBTFVnRGlQcXI0UmRVLWNBLXpJQkM5S1BNZDhkWTdDMnM2d0RTRlJBRWVmMjBBSklpWUJESDJ5Wkx2anVDWkYxUU5QT0NFRVVLTTBCNVFEM2tSZVFCc3JwUQ?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 17:56:53 GMT",
+      "summary": "Stanford AI100 Report Examines Generative AI’s Rise and Societal Impact &nbsp;&nbsp; HPCwire",
+      "outlet": "HPCwire",
+      "outletUrl": "https://www.hpcwire.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-11-11T00:54:30.056Z",
+      "lastSeenAt": "2026-11-11T11:49:46.967Z"
+    },
     {
       "title": "What's Going on With Alphabet Stock on Tuesday? - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWNyYXFOZlF0WkN3dFhPUkxBMU9FQnZudVBlVUNkQWFFZER6OUNMVzFIUlBTVFF3b3RtbHRZMlppWEROVlhwMHVrck1vNGN6NHV2cXYzU3NHT2o0M0U5Sk5pNHUxTEVjTkFWQVFKSVFhRGZrUllEMGd3NVFneWVNN3ZlV09WaHRUZ05TQmlTTFB3bHkwOGtLNlBfNWcwQXM?oc=5",
@@ -1649,7 +1837,7 @@
       "issueCategory": "AI시장",
       "score": 16,
       "firstSeenAt": "2026-11-10T17:43:20.720Z",
-      "lastSeenAt": "2026-11-15T11:30:04.859Z"
+      "lastSeenAt": "2026-11-15T11:54:25.937Z"
     },
     {
       "title": "WhiteMatter Raises $20 Million Series A to Expand Enterprise AI Agent Security Platform - citybiz",
@@ -2126,189 +2314,6 @@
       "score": 15,
       "firstSeenAt": "2026-11-10T17:43:20.720Z",
       "lastSeenAt": "2026-11-11T01:54:03.553Z"
-    },
-    {
-      "title": "Trump says FBI is looking at Nvidia CEO Jensen Huang’s affair with alleged Chinese agent - KOTA Territory News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmc4Ynk3dy1fcHRJcldRWHhsWnlqeU1Qb0VQeFRndzVWaXc5Z2tXNTNSSEZQc0RTb254M1h6djlrYXlxU3F3TFFmOS1MdHlpMGxCUVhOTC13b3F6YTA0anZlMEZUd0I1MVVVTDF1dUI4T3Nfa1JBT0lod2lTNXJFcTRudGtJQU5OT3hQdzFqVFFsT09YeWFMMXZjNTNKclZ6NG9nb1V0dWJfdWZXN0kzX0tINmdsTktpZTRN0gHPAUFVX3lxTE5UdjhqRHREdlJ0aTEwaTUzQ3RPc0hnSUZNR1lLV3F5eXBydVQ1VnJSajBTWG1JUl9LUHpySUN4Y3BUT2J3eWRWTmhUb3pUYlB2LXhZSlktRm9tTjFGdXd6SzdvY0VJZ1A2d2ZxaDViYXNlZmVkeHJZR1dQcTNHdGd1cnkyRlJ2RXpyYmhkN0kyRko1c0xOeEtnWWdzckJJZ2h5OGZqd25DbTVqRllxV1ZNOURuSlBYQk9jOFIwVFd2eUM0YUhqVE1BeFUtMERhRQ?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 16:15:00 GMT",
-      "summary": "Trump says FBI is looking at Nvidia CEO Jensen Huang’s affair with alleged Chinese agent &nbsp;&nbsp; KOTA Territory News",
-      "outlet": "KOTA Territory News",
-      "outletUrl": "https://www.kotatv.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-11-10T17:43:20.720Z",
-      "lastSeenAt": "2026-11-10T17:43:20.720Z"
-    },
-    {
-      "title": "Gigabyte Launches the AI TOP AERO Powered by NVIDIA RTX Spark - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXE0dGQtcHh4VUJNTWdWLWVacDEzNXlUb1RpbmVtb1VCcEtRMmNmV0Z0NEVhQ1pwanIxM3o5MHluSWQzY1l1NDk2TVpEWnluX2JpeVJJVE94bEJDTXM1UWMxSzFmYmp6TFRvdlpWRlRHZlVFTFB0TU11c1h1QkZsb2VEdkJqZFNrR1VoX1dDbFFLWHhkZklJd2VRd3PSAaIBQVVfeXFMUE5YVkltdXVLV2FweFZwM0pMaFNHSjRqaWotWGZfOWdESWJ2NDZ2MzE2WWRGZHdsek9CbU9FSVVqUUJGN2hfWFVuYmdiWEdLQ0dydkhrSjNnRUV0MzhkUzJubW5GRk9FYjNON1lBRTlVeDl6NFAxdGF0bmoyV0lXUjdCMm12UmwtdmRDaWtpU0Y0TkpZbndrUWJiRzh5OG50elpR?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 16:14:59 GMT",
-      "summary": "Gigabyte Launches the AI TOP AERO Powered by NVIDIA RTX Spark &nbsp;&nbsp; TechPowerUp",
-      "outlet": "TechPowerUp",
-      "outletUrl": "https://www.techpowerup.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-10T17:43:20.720Z",
-      "lastSeenAt": "2026-11-10T17:43:20.720Z"
-    },
-    {
-      "title": "Aberdeen scholar's research on generative AI cited in landmark CJEU proceedings - University of Aberdeen",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NUDRtUTFhWVJacDNFNjNHekJyUU5iRjlqaXJlaE9oaFQ1V1RNcHVPd3dERkE2TU84YUJtTUlNZ3B3TXdzMnBzcmdB?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 16:14:50 GMT",
-      "summary": "Aberdeen scholar's research on generative AI cited in landmark CJEU proceedings &nbsp;&nbsp; University of Aberdeen",
-      "outlet": "University of Aberdeen",
-      "outletUrl": "https://www.abdn.ac.uk",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-11-11T00:54:30.056Z",
-      "lastSeenAt": "2026-11-11T06:56:02.508Z"
-    },
-    {
-      "title": "LangChain Deep Agents now natively supports Oracle AI Database 26ai and OCI Generative AI - Oracle Blogs",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZFBwazdTSG9PUG5zY0pEMlZScnAtemhBV3lCUGhNbjVfb3FsMm9vSlBDSXRwZm0zLUVuVWlJLWF6WFpxc1ZhQTRSU3NVbFNmR1NDdnlVUzRDOHBieUhDUVZTNVVfUUtZZDZDRDl2REoyX3c3R3M4YjdpejBaWV9oN05xMHdFNWN5cm9tSDJtZnc4akE?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 16:07:30 GMT",
-      "summary": "LangChain Deep Agents now natively supports Oracle AI Database 26ai and OCI Generative AI &nbsp;&nbsp; Oracle Blogs",
-      "outlet": "Oracle Blogs",
-      "outletUrl": "https://blogs.oracle.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-11-10T17:43:20.720Z",
-      "lastSeenAt": "2026-11-11T11:49:46.967Z"
-    },
-    {
-      "title": "Meta Adds Muse AI Agent to Apple Watch With Text, Dictation, and Calling - Gadget Review",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXc3WllORUJodnFPYjhzYkhWbDdiZTFLNHlYRVR5ejVvU2xHYTlRN2Z4MS1pT1BvWHk2Ri16aVZKTndXUm9wODZSZm1iNTZpejR1YUdzZGZDY1oxZVZqQlRXM1RsNEo3ZEs3Unh2Yi1OZ3JyckM4ZlNWNE9ldjctenNIODNmR1lhNkx0MnA4b28xQ21vaDUtdmZyczh1a3Ny?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 16:07:12 GMT",
-      "summary": "Meta Adds Muse AI Agent to Apple Watch With Text, Dictation, and Calling &nbsp;&nbsp; Gadget Review",
-      "outlet": "Gadget Review",
-      "outletUrl": "https://www.gadgetreview.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 16,
-      "firstSeenAt": "2026-11-10T17:43:20.720Z",
-      "lastSeenAt": "2026-11-11T01:54:03.553Z"
-    },
-    {
-      "title": "CoreWeave Heads Into Earnings With AI Demand Red-Hot and Debt Under the Microscope - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPczhXUTBaQWhJcjdKS3pfOVFCZFdta1oyMU1sTlF5TEZUYkU2Y2xndzI2bU1CZ0FfR0pRbE5HNkFCMzJoVi1sTlRlQnF5SENSRGpTdXNkWEt5QzQyczhHT2dvYVVwRTlLN013bEcyUDJrb0VmNS1rYk1URzREV3YyZzFIUmcxcFRVUWpKNG9SUTVlRFo4Z0xnRUU5SjFjeUVOQS1jYU9oT3htMjRLLTFVUDh4WFg4cFVSTjU0TWYzeGtyelJaY1B2X0ljbGltYXBZ?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 16:06:13 GMT",
-      "summary": "CoreWeave Heads Into Earnings With AI Demand Red-Hot and Debt Under the Microscope &nbsp;&nbsp; Benzinga",
-      "outlet": "Benzinga",
-      "outletUrl": "https://www.benzinga.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-10T17:43:20.720Z",
-      "lastSeenAt": "2026-11-11T11:49:46.967Z"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFFDTTNsamEzRWp6RmVZemczQjAwQTlCMGhneldpY0gwUnpsS1JQY3o4NnZiSDd3bm56ZkZfM1lEZ1Y1WFN1MUNoTjV3cGNMOHdPc1NfcEhtbVNyMVlTdVpFYjlEZjczN29BUzdOdl9rUDhkNVZHY3ZIUjd1b0lOSEVhN3dMcWgxaVprSDAySnpIZWItVjhRcUg4c3NhbjBmRmh1dw?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 16:05:31 GMT",
-      "summary": "Gemini 4 Carbon is now available &nbsp;&nbsp; blog.google",
-      "outlet": "blog.google",
-      "outletUrl": "https://blog.google",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 15,
-      "firstSeenAt": "2026-11-10T17:43:20.720Z",
-      "lastSeenAt": "2026-11-12T07:32:32.958Z"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available for developers. - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaFN1RnYyNFNkSFlxekV2ajRVckpYRXZsNmN2eDZkNFNZTk1mOUh3TnJVZlVsQnV4dEp2TUlkQ04tQ1duLWE4R0V4UWswUkdURnVmRk5mbDdvRjVVWGgtblh2Ti0zTk5KSU9pbUpEdEV6Y0p6WnRWbGE3cmxseEU1MDFGWmpHOU5QT1VPdko4UnRDeUdfSmExRg?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 16:05:31 GMT",
-      "summary": "Gemini 4 Carbon is now available for developers. &nbsp;&nbsp; blog.google",
-      "outlet": "blog.google",
-      "outletUrl": "https://blog.google",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 15,
-      "firstSeenAt": "2026-11-10T17:43:20.720Z",
-      "lastSeenAt": "2026-11-11T11:49:46.967Z"
     }
   ]
 }

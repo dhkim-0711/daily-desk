@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-11-15T11:30:04.859Z",
+  "generatedAt": "2026-11-15T11:54:25.937Z",
   "news": {
     "articles": [
       {
@@ -1649,6 +1649,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
+        "title": "British AI startup may delay $35bn float as Nvidia searches for new CEO - The Observer",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3FiQzFKcS1OUkEyR0ZFQ0s0ejlxXzRjdW1pYXY3QXowVUdSajFEcUdmRU9PMkM0NzZXUVdhbTVKNWpEbEtGVDZwVzUtNkJrejMtVmYzVThGUno3OENKQUF5YmJHRTlobmJObmVLNjhiSDJJS0dBZWtSa1NlaWdtczJNUU0ybXZEZlpoR281SEZxOHNYUDBEWlpvNENVVGRlYUsxM0wyajB2dHpobVNQVmo2dzB6dw?oc=5",
+        "publishedAt": "Sun, 15 Nov 2026 05:30:11 GMT",
+        "summary": "British AI startup may delay $35bn float as Nvidia searches for new CEO &nbsp;&nbsp; The Observer",
+        "outlet": "The Observer",
+        "outletUrl": "https://observer.co.uk",
+        "source": "AI 시장·비즈니스",
+        "sourceIds": [
+          "ai-market-business"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
         "title": "NVIDIA Ousts Its \"AI Central Banker\": Behind Jensen Huang's Departure, a Chain Reaction of Compute Scramble and Export Controls - BigGo Finance",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52M21LN3JYOW1NYnBhWWFWTDNLWmRSQVRCOTZnclJkaDBadllwRzZqUm1sNVhtVkVpTUZXekc0VWpLWVRhSHhjaEdxZW5mdEZ4dVRGRlV4Z3QzLTA?oc=5",
         "publishedAt": "Sun, 15 Nov 2026 05:08:00 GMT",
@@ -1739,29 +1762,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "데이터센터",
-        "score": 23
-      },
-      {
-        "title": "NVIDIA Backs 4 Korean AI Startups at Seoul Forum - shattered.io",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR2dMMDlSM0tUbEsxMGxVMnUtSkZiNm1uemN2bjRaUmZxV3JoU2d3MXNTMm9RZjNlb3VDRmpaRjRrRXJVSWRPZ3JnV1dRNnZUVWM5X2U1SExFQWNSVHQ1RlZlVFduWmpqU3o0SlRGYjEwNWdHY3hzVlg2dm5tZW0tTw?oc=5",
-        "publishedAt": "Sun, 15 Nov 2026 03:45:41 GMT",
-        "summary": "NVIDIA Backs 4 Korean AI Startups at Seoul Forum &nbsp;&nbsp; shattered.io",
-        "outlet": "shattered.io",
-        "outletUrl": "https://shattered.io",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
         "score": 23
       },
       {
@@ -2027,6 +2027,29 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
+        "title": "NVIDIA Backs 4 Korean AI Startups at Seoul Forum - shattered.io",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR2dMMDlSM0tUbEsxMGxVMnUtSkZiNm1uemN2bjRaUmZxV3JoU2d3MXNTMm9RZjNlb3VDRmpaRjRrRXJVSWRPZ3JnV1dRNnZUVWM5X2U1SExFQWNSVHQ1RlZlVFduWmpqU3o0SlRGYjEwNWdHY3hzVlg2dm5tZW0tTw?oc=5",
+        "publishedAt": "Sat, 14 Nov 2026 21:30:06 GMT",
+        "summary": "NVIDIA Backs 4 Korean AI Startups at Seoul Forum &nbsp;&nbsp; shattered.io",
+        "outlet": "shattered.io",
+        "outletUrl": "https://shattered.io",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
         "title": "NVIDIA (NVDA): Can AI Demand Sustain Growth Through Leadership Uncertainty? - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0pZeVVHdkYxcndfVGlLN0VvdnRfZkFzZ2xpMTRUTXVNd1NTYUdyVFFPLU1xMGZXazlUSEREZk9iUDRub0o2OGlNZmVuYTJWRnk2U2ZwREpMN0t0YS03S2ExenhEMmRLZm5PeGVVeVBYLV9tNEhLLVJ2bDdqWWZtX0tSLW5lRUg0R1Iyb3NwQ3hWNEt6bTQ1NA?oc=5",
         "publishedAt": "Sat, 14 Nov 2026 19:24:30 GMT",
@@ -2045,6 +2068,29 @@ window.__DASHBOARD_DATA__ = {
         "taxonomyHits": [
           "AI시장",
           "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "AI 생태계 ‘돈줄’ 엔비디아 휘청…다가올 앤트로픽 시대, 삼전닉스 운명은? [투자360] - 헤럴드경제 미주판",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LXzhEamNqOUxEdGJZZndaSk9ONDJnenZ3QW8yb1ViRGxCbnA5ZU54Z0R4ZGQ5YkVyZ19DYWhTWlNwZHhHdms2WjY1bzAyTmFNbHFsWnNzTmlWcVlKTTVKSA?oc=5",
+        "publishedAt": "Sat, 14 Nov 2026 18:40:00 GMT",
+        "summary": "AI 생태계 ‘돈줄’ 엔비디아 휘청…다가올 앤트로픽 시대, 삼전닉스 운명은? [투자360] &nbsp;&nbsp; 헤럴드경제 미주판",
+        "outlet": "헤럴드경제 미주판",
+        "outletUrl": "https://www.heraldk.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "투자·M&A"
         ],
         "issueCategory": "AI시장",
         "score": 23
@@ -2093,29 +2139,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI인프라",
-        "score": 23
-      },
-      {
-        "title": "[로드뷰] 엔비디아가 투자한 AI 7곳에 236조… GPU 주문으로 얼마나 이어질까 - 뉴스로드",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41OWJpandpaXU5MEp4ajBvZTZqdURjVktYaGNyVE1qX1RMV1IyUTNnbTNsT0tBTXdxQ1JLT2RFbWd0Q0xtaTF1RHNkZjZ2cmRSclcwODd5ZHRXSVVKMm5DUkhwdXVhNUhKTXVZ0gFvQVVfeXFMTlJOdDA1NUViVlY0ZWlvZEpTRWg4ek8yMTVaNk9jT2pmWGg5Vk5SOTFyV2VkenVPaDhNZkpzNnItZ0xJd0ZROGtndnZIWXJPSE5FdkVCdUlfcHdEMmtaOTZ6M3NXQmdWZWhPUGhEeDhF?oc=5",
-        "publishedAt": "Sat, 14 Nov 2026 13:10:23 GMT",
-        "summary": "[로드뷰] 엔비디아가 투자한 AI 7곳에 236조… GPU 주문으로 얼마나 이어질까 &nbsp;&nbsp; 뉴스로드",
-        "outlet": "뉴스로드",
-        "outletUrl": "http://www.newsroad.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
         "score": 23
       },
       {
@@ -3018,6 +3041,29 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "AI시장",
+        "score": 22
+      },
+      {
+        "title": "Samsung & Google Finally Enter AI Glasses, Prioritizing a Focused Launch Over Scale - Counterpoint Research",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXRqMDZBV2RBaVI4dnZqS2tra0hSZFp4MmZSOTFxU0ZhVFJZbksxbkFlM1F4MnN4enV6NFlTRkJFb0VGRVBsRUYwYVM4QnpDd251c1JKdGo5VF85cktoSjgweDdhV05PZzZPMnQ4Q1hVTUM5R0dCUi1VMThscEw2TktCNU1HT1Z5M05QTlJDcC1MTDNBWTNBYTVNUkVzMktHcEdzamRLbmV3aFFxWkJqaW9YQkFCQi1KNi1MRGpjLWY?oc=5",
+        "publishedAt": "Thu, 12 Nov 2026 15:50:10 GMT",
+        "summary": "Samsung & Google Finally Enter AI Glasses, Prioritizing a Focused Launch Over Scale &nbsp;&nbsp; Counterpoint Research",
+        "outlet": "Counterpoint Research",
+        "outletUrl": "https://counterpointresearch.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google",
+          "Samsung"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
         "score": 22
       },
       {
@@ -4165,50 +4211,6 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "Google",
-        "score": 20
-      },
-      {
-        "title": "Dan Ives Says Nvidia Turmoil Could Hand Big Tech an Unexpected AI Advantage as Hyperscalers Gain, Dismiss - Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQb3Jhc0JMRGxBeFZibHhIeFdBbGJzOGZyVkJGUjEzOXQwbkxSdFh0ZGJzZng2R3pVTi1YYm56SkVrWlhvOGRwZFBDZ0RySnVCRjFic21VeDhNWUM4SHNBNlRJa01CRmw1UjNVbW0wdDM1bE1FejFKbkVpTzJ0LUh4ZnVfU01uZHpma2p6Y053d1ozRU9CS3Z5UWFtMUh0N1d1QzFYdXhWMElCcXpkRVpjNDN4YzF3VWstRnF1ZUgwRDV1UzZTYVJBQk5ydWYtcFk5OFlXMjV2RmpiVDNlMVpiVDg3SUNiQm5tUnJJUzd4WDEyOFB6cUQxMGJHRk9hdVpNUm9mUjNCUUpRUXF6TFZETWhB?oc=5",
-        "publishedAt": "Sun, 15 Nov 2026 07:29:36 GMT",
-        "summary": "Dan Ives Says Nvidia Turmoil Could Hand Big Tech an Unexpected AI Advantage as Hyperscalers Gain, Dismiss &nbsp;&nbsp; Benzinga",
-        "outlet": "Benzinga",
-        "outletUrl": "https://www.benzinga.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
-        "score": 20
-      },
-      {
-        "title": "Chinese Firms Tap Southeast Asia for NVIDIA AI Chips - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcFUzY1RySDFDLThWQjZDdzRHVlduSjZ0azBZSDQ4eG90d3NZUGVvdDR2ZXBKbENhdGIxOERyQWs3WXVaaExJcTRxSHk0YUE4RlN0cXFwRGc2Y3hLYkh4RFoxeDBoelROR09CYUdqMnlyT0lPMkp3V3htNllUUXBhZFRmV0tmOGw4?oc=5",
-        "publishedAt": "Sun, 15 Nov 2026 06:56:03 GMT",
-        "summary": "Chinese Firms Tap Southeast Asia for NVIDIA AI Chips &nbsp;&nbsp; 조선일보",
-        "outlet": "조선일보",
-        "outletUrl": "https://www.chosun.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "NVIDIA",
         "score": 20
       }
     ],
@@ -7216,7 +7218,7 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-11-15T11:30:02.985Z"
+    "generatedAt": "2026-11-15T11:54:23.685Z"
   },
   "briefing": {
     "date": "2026년 11월 15일 일요일",
@@ -7544,11 +7546,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          102
+          101
         ],
         [
           "Google",
-          36
+          37
         ],
         [
           "AMD",
@@ -7556,7 +7558,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "Samsung",
-          3
+          4
         ],
         [
           "Broadcom",
@@ -7659,7 +7661,7 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          84
+          85
         ],
         [
           "NPU",

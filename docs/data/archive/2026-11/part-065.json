@@ -1,7 +1,186 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-15T11:30:04.859Z",
+  "updatedAt": "2026-11-15T11:54:25.937Z",
   "articles": [
+    {
+      "title": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 10일) - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOUUFWU0JkMlQtZmJPNV82MzZPUnR4Yk9Qa1RrbG1RX1JLbVdaQnRqV1dncWl5VnR3U2Yya205bGx2NjBob1NFakJLVlVHQmU5blJ4dUdPMy1PQQ?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 07:21:20 GMT",
+      "summary": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 10일) &nbsp;&nbsp; 한국경제",
+      "outlet": "한국경제",
+      "outletUrl": "https://www.hankyung.com",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-11-10T07:28:40.562Z",
+      "lastSeenAt": "2026-11-12T20:46:25.042Z"
+    },
+    {
+      "title": "KT \"2031년까지 데이터센터 1GW 확충 추진, 900MW 사업 후보지 확보\" - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aZ05vQl9NR1QwQlZzdXBTcVFLVWI1RHB0bGk2dWV5U3Nic0pyYkhxM2lIT09OYldRaXNLR2lmLXF1VDNoejBfUUhSSHlPcmtfcFVQUnpTT1BzdEZPblRjQlBndE04N0V0Z2d1YU1FQlJJem8?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 07:21:09 GMT",
+      "summary": "KT \"2031년까지 데이터센터 1GW 확충 추진, 900MW 사업 후보지 확보\" &nbsp;&nbsp; 비즈니스포스트",
+      "outlet": "비즈니스포스트",
+      "outletUrl": "https://www.businesspost.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 11,
+      "firstSeenAt": "2026-11-10T07:37:39.463Z",
+      "lastSeenAt": "2026-11-11T01:54:03.553Z"
+    },
+    {
+      "title": "딥엑스, 2나노 AI 칩 ‘DX-M2’ CES 2027서 혁신상…“삼성 파운드리서 2년내 양산” - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdi1iMWszS0pDcUpMTHUtTXR5SURzSUZ6VXZlZXV0QUVNV2k4MTNRcTl4a2VWQmFzazFvTVhmbnBvYlRIdHJ0X1Q3dVRfSF9UOFFqdjcyelFTR2lvbXpnNnUxRWxKNFo1X0h5QjVyOXlIcHdHbXFzYldHR3pfRjhWSE5R0gGWAUFVX3lxTE1LeFNvWE1DQ0owR0NkTkJweHFMQkM1OVZDWW5mQjVsOUxkMEY0SlpxSjEybHRJUGZPRGVoMl9EMzNMU3RmaHpjYm9Ib2J3R0NxTzk3UTdQZERfekhEQ1NhZEdnNFM4bWdKdHVmdS1fdXNhczhheHVYMWVzdWE2M1M5WEJnUFRha1BhU3VJSkw4ZFN6MkNKdw?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 07:19:00 GMT",
+      "summary": "딥엑스, 2나노 AI 칩 ‘DX-M2’ CES 2027서 혁신상…“삼성 파운드리서 2년내 양산” &nbsp;&nbsp; Chosunbiz",
+      "outlet": "Chosunbiz",
+      "outletUrl": "https://biz.chosun.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "딥엑스"
+      ],
+      "taxonomyHits": [
+        "딥엑스",
+        "파운드리·패키징"
+      ],
+      "issueCategory": "NPU",
+      "score": 23,
+      "firstSeenAt": "2026-11-10T07:28:40.562Z",
+      "lastSeenAt": "2026-11-13T07:03:48.774Z"
+    },
+    {
+      "title": "Could an AI Spending Crunch Cause a US Recession? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaXo3MjVIOFMwUnZ6MEF2ZnlFOURObWdiVnpaUldPT2RrUzhtQUROdW5pQkNKQjlKZ2NNTFNDbUNwRmhrMmVPVGxOc3lwQWo3RlhDck5kRUo3bXRqeFNHZlVGRko5Yy0wQUtrNzRmN0dKd0l3Sk1HZUUxYkRMQ3RabV9sSEwtZERYd3otZm84WEJuamxRdVE?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 07:16:35 GMT",
+      "summary": "Could an AI Spending Crunch Cause a US Recession? &nbsp;&nbsp; Morningstar",
+      "outlet": "Morningstar",
+      "outletUrl": "https://global.morningstar.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-11-10T07:28:40.562Z",
+      "lastSeenAt": "2026-11-12T07:22:57.474Z"
+    },
+    {
+      "title": "Vontobel’s head of conviction equities: The AI capex cycle will continue - Fund Selector Asia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdDNSdDMtemN0ZVpYck9ROWRUeDJFcEFjMFdXYm01ZmRzVEJwSVNoWWxiWUZra20yaFB6N2VaNEZCZnIwczNFczA2dmhrZFZlUDJfeWZlbEF6Y1pkWEVxdHlmeEJWRU44MTJMSWxTTDZNa1pXTmo4N08xaGQyYldPR2RtQUtEQ2VTUEpteXlhdVB6dHpva0xYWFRlYzBmR21BM0E?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 07:16:29 GMT",
+      "summary": "Vontobel’s head of conviction equities: The AI capex cycle will continue &nbsp;&nbsp; Fund Selector Asia",
+      "outlet": "Fund Selector Asia",
+      "outletUrl": "https://fundselectorasia.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-11-10T07:28:40.562Z",
+      "lastSeenAt": "2026-11-10T12:59:31.488Z"
+    },
+    {
+      "title": "Vontobel’s head of conviction equities: AI capex cycle will continue - Fund Selector Asia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdDNSdDMtemN0ZVpYck9ROWRUeDJFcEFjMFdXYm01ZmRzVEJwSVNoWWxiWUZra20yaFB6N2VaNEZCZnIwczNFczA2dmhrZFZlUDJfeWZlbEF6Y1pkWEVxdHlmeEJWRU44MTJMSWxTTDZNa1pXTmo4N08xaGQyYldPR2RtQUtEQ2VTUEpteXlhdVB6dHpva0xYWFRlYzBmR21BM0E?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 07:16:29 GMT",
+      "summary": "Vontobel’s head of conviction equities: AI capex cycle will continue &nbsp;&nbsp; Fund Selector Asia",
+      "outlet": "Fund Selector Asia",
+      "outletUrl": "https://fundselectorasia.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-11-10T17:43:20.720Z",
+      "lastSeenAt": "2026-11-11T11:49:46.967Z"
+    },
+    {
+      "title": "Google adds 8tx and 8i Max TPUs - Briefs Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdF9kZ1ZSU1R3X0dIMXlSbkhZZWJWeGtCZjlRQ29rWEYyVU5qand2VktqcHVyNllLNm9BN3lFXzR6S1JqUzIzTHZTQVFKYmZ2SU5VVUwtYmtPTll6X3hocG9yamp5QVVQSWpYRWI5aXRHMzBEWUpoU0RoazdfOW9CdmpLcFI0SFct?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 07:15:00 GMT",
+      "summary": "Google adds 8tx and 8i Max TPUs &nbsp;&nbsp; Briefs Finance",
+      "outlet": "Briefs Finance",
+      "outletUrl": "https://www.briefs.co",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-11-10T12:59:31.488Z",
+      "lastSeenAt": "2026-11-10T12:59:31.488Z"
+    },
+    {
+      "title": "日소프트뱅크, 상반기 7680억엔 적자...AI 데이터센터 사업 손실 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SZ0VwTUt5TjdUZmpWdEhHQUJ2Qi1oYm9FS1VzZ0otZktYZEFKQURvQ2xCNG5tbzZZWldsVUNjdURpTk1fQnVmZHJWOFo5Z3dTczhXeDN0NExOcDVN?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 07:15:00 GMT",
+      "summary": "日소프트뱅크, 상반기 7680억엔 적자...AI 데이터센터 사업 손실 &nbsp;&nbsp; 뉴스핌",
+      "outlet": "뉴스핌",
+      "outletUrl": "https://www.newspim.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-11-10T07:28:40.562Z",
+      "lastSeenAt": "2026-11-11T06:56:02.508Z"
+    },
     {
       "title": "Nvidia CEO Inquiry Casts Uncertainty Over South Korea’s Expanding AI Partnerships - Koreabizwire",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2FjRkNMY3FBRDlKN0VIeGcteUpLdFhCbnJWbWdoS0d6VldEUVRCSnFULS1zNEYtTmY0TFRVeENFT1pwZ2NOVFhfbzNYZzJCZmhMOTNRaUw0cWhqY3MweHh4SDFmUk9LM2ktb0xHMmdyTjBFTWlxZmtLN0JoenNVVjlkLXNEREJWcndVdUFBazFBdklEVnVBV2UwOHBiWExOTWdBT1BaajlnbkhqYVhHeg?oc=5",
@@ -2105,195 +2284,6 @@
       "score": 20,
       "firstSeenAt": "2026-11-10T07:28:40.562Z",
       "lastSeenAt": "2026-11-10T07:37:39.463Z"
-    },
-    {
-      "title": "美알파벳, AI 투자 우려에 시장 변동성 커지자 아시아 통화채 발행 검토 By The Guru - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPRzVVUUItV2x6bjVCZExPYVZiallDWWFTMFJhenVlVDVpc2h0aWdTdWNRVy1TSVg5dGZwWk9jTjRnQlB5QkFIcm5ieTNYbjVJcGdDUXh1clU1bVNlNFFVVmIwNXhWb3RuZVhwMkJNZzc?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 06:15:00 GMT",
-      "summary": "美알파벳, AI 투자 우려에 시장 변동성 커지자 아시아 통화채 발행 검토 By The Guru &nbsp;&nbsp; Investing.com 한국어",
-      "outlet": "Investing.com 한국어",
-      "outletUrl": "https://kr.investing.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI시장",
-        "Google",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 26,
-      "firstSeenAt": "2026-11-10T07:28:40.562Z",
-      "lastSeenAt": "2026-11-10T17:43:20.720Z"
-    },
-    {
-      "title": "광주은행·신보, 호남 반도체 클러스터 등 지역 민자사업 발굴 맞손 - 데일리한국",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RbTBMZUlzLTE5Z3lwOE4tR010dzhZMlJuZ2pCOG9nZHYyRHhRb0tHNzQwMEMtMkFuWjRkdmRuclk4SVlDa0ZOeGx4SldPYVNBZWF4LTRmcmNzaWtfWVZsVC11LUxJdng5LVRCRVNxZ9IBc0FVX3lxTE02ajNQcGxwcnBPVFk3bEtrd3F5ZW1MaEtpSHd0SDRldjRrRVRCams4OHlDTmNRN2VEWGFPWGdRaFpkNXhaY0hVVnlfMWg2U1lkYURjd25OY2VQazFxM1B2eEs4RkJucUZNZ2VDX2dRX3JrQlk?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 06:13:53 GMT",
-      "summary": "광주은행·신보, 호남 반도체 클러스터 등 지역 민자사업 발굴 맞손 &nbsp;&nbsp; 데일리한국",
-      "outlet": "데일리한국",
-      "outletUrl": "https://daily.hankooki.com",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-11T00:54:30.056Z",
-      "lastSeenAt": "2026-11-11T01:54:03.553Z"
-    },
-    {
-      "title": "'엔비디아 스캔들' 대응이 미국 의회 우선과제로 부상, AI 데이터센터 규제에도 변수 - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WVlRHM0thaDVEV2Z3SVVUVGw1Wi1yWU9ydUpQUG9nT2wxdWlXYmFacTBfSVJTaUY2ak9oekhmV2o0SlZKckFsU3V5R0Z3b0pLVXJFd3JPV01xVUozXzhtNi0ydTdSQWktbGRuNjkxUDJ3VnM?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 06:11:26 GMT",
-      "summary": "'엔비디아 스캔들' 대응이 미국 의회 우선과제로 부상, AI 데이터센터 규제에도 변수 &nbsp;&nbsp; 비즈니스포스트",
-      "outlet": "비즈니스포스트",
-      "outletUrl": "https://www.businesspost.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 23,
-      "firstSeenAt": "2026-11-10T07:28:40.562Z",
-      "lastSeenAt": "2026-11-11T01:54:03.553Z"
-    },
-    {
-      "title": "Inside Nvidia's ‘sexpionage’ storm: Jensen Huang and the risks lurking at the top of the AI food chain - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb240aU9jdVFsaTFuQnUtTGxEWklKeTdvX29Jb1JuOXQtWTdtRjFvNm10aUJ1RmgyUllDNlJZRU85U2stY1dVaUIzWTB5blZIUTJvUkk3eVBvZE16VmZ1MmpibjI4emhIdjNKRElZUzFORUIzZ1l1SFljU1dpMEF3X0hHVUhkcU83eUMxMlgyaTBTMHUtek04bjA1M3BOdjlkT2RF0gGoAUFVX3lxTFBRY29ZaGpQTTNsVzhyUG4tMzNJaGpadzdPdGlQaS10bG0zYzFqSHg5akRzdVJCcklxZE4zclFqVXdkS3V3c3loNnBKSEtDUkRtdDNYd3FUVkJYVnp2YVUzd3g1Qk1lSW02YjU4THl6UUtOZURFcDlUcnVnUEhoTmhmbGg3aWU1cHVpQmtvRFRRQm9qdEE5MkNkZHpRNWlGbHI0OGF2WGFPMg?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 06:10:54 GMT",
-      "summary": "Inside Nvidia's ‘sexpionage’ storm: Jensen Huang and the risks lurking at the top of the AI food chain &nbsp;&nbsp; Firstpost",
-      "outlet": "Firstpost",
-      "outletUrl": "https://www.firstpost.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-10T07:28:40.562Z",
-      "lastSeenAt": "2026-11-10T08:21:30.515Z"
-    },
-    {
-      "title": "Samsung One UI 9.5 Could Turn Bixby Into an AI Agent for Handling Daily Tasks - Gadgets 360",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPalZ4eTYzQTAzb0hXV3R4cUVKQzVrYVNReTdMZW1Yem8zR2VpbDRHSURZQ1JGNk9nYjBlVjJOd1ZuVC15R0FVZWJyVVZtSEN3TC1VNmM5X1dteVlZbk1oZDFnRzQxbUgtcEJ0djNOb3E0dGRUaW9HNnJoaUZZVU9Jb290dW4xVHhKYTlrSlA2NzhoS1UzbGhKTkRDclNjUG94a1hv0gGoAUFVX3lxTE9SN2pwTGxQS2lHQ05TVWEtS25XZEtCLUtCNEJBRExSeG1hWlVtdk9Cc3ZUS0JnbEt1b3hwdjNuUEpiUVp4d3lIaS1SdWEtSHNmQkcxZzlWMi1qZHdSOHA4S3FJdVFGZ3JkVWZfbkJqa3pSWGF6VGlyck9CeGV0OVZZWi1UM29yY2FqMWR3N3YtTWJFd2htam1rLWcyZWNFUFQxeXpacF9Kaw?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 06:09:59 GMT",
-      "summary": "Samsung One UI 9.5 Could Turn Bixby Into an AI Agent for Handling Daily Tasks &nbsp;&nbsp; Gadgets 360",
-      "outlet": "Gadgets 360",
-      "outletUrl": "https://www.gadgets360.com",
-      "source": "AI 서비스·클라우드",
-      "sourceIds": [
-        "ai-agents-cloud"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Samsung"
-      ],
-      "taxonomyHits": [
-        "AI에이전트"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 20,
-      "firstSeenAt": "2026-11-10T07:28:40.562Z",
-      "lastSeenAt": "2026-11-10T08:21:30.515Z"
-    },
-    {
-      "title": "美구글, TPU 4종으로 확대…AMD와 손잡고 엔비디아 추격 - 서울이코노미뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOMHhLbW1tTHRiWG9pTlhYR293VmZFN1NubDMyRUdZbUluT2MzMmdLa1lxUHU2UHZNYndHQ3VxZUM0dHhoQ1g0NVRKVDZrb2lnRkNRQk41VGVoaDdQa2ZpVUZBWHJpMnNrUnFTSFpn?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 06:09:18 GMT",
-      "summary": "美구글, TPU 4종으로 확대…AMD와 손잡고 엔비디아 추격 &nbsp;&nbsp; 서울이코노미뉴스",
-      "outlet": "서울이코노미뉴스",
-      "outletUrl": "http://www.seouleconews.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "Google",
-        "AMD"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "Google"
-      ],
-      "issueCategory": "AI시장",
-      "score": 31,
-      "firstSeenAt": "2026-11-10T07:28:40.562Z",
-      "lastSeenAt": "2026-11-10T17:43:20.720Z"
-    },
-    {
-      "title": "김정관 산업부 장관 \"호남 반도체 클러스터 팹 배치 이달 내 마무리\" - www.ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04bzgwU1QzcktKZkhYV2FBa0xrZTlQbFZPZC14WUJ0WnZnT08tdlNjdGJQWTRQVnZhUHlLSEpmUURTTnJwTkdHYzJKRV9SNHpMUDM3SE93dUQ1V01FajFUZkhfclI5bVdP?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 06:08:44 GMT",
-      "summary": "김정관 산업부 장관 \"호남 반도체 클러스터 팹 배치 이달 내 마무리\" &nbsp;&nbsp; www.ebn.co.kr",
-      "outlet": "www.ebn.co.kr",
-      "outletUrl": "https://www.ebn.co.kr",
-      "source": "반도체 클러스터·정책 실행",
-      "sourceIds": [
-        "semiconductor-cluster-execution"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-10T07:28:40.562Z",
-      "lastSeenAt": "2026-11-13T02:35:08.855Z"
-    },
-    {
-      "title": "APAC AI infrastructure spending to exceed USD 32 bln by 2030 - IDC - Telecompaper",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd25ZWGhZWWwtalpTV1pTajJrc3I5N3JQZjlQQXlnRHJBVEFUX2lLMG9wQUFzWXVFOWg5Wk94Mk14NGl0QWNHcFlmT0E0MWduTW9MY2hoM1g2VFlGVzYxUExEVmwzNlhoMXhQN2ZPWmdFNUFhc3lrd1hSdzRWUHZ0RG5GdnNrV0lsNUhsWFo3N2YyNUstOVBqNGR6dWtMRXcwMTM4SldZRmpvU2s?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 06:08:09 GMT",
-      "summary": "APAC AI infrastructure spending to exceed USD 32 bln by 2030 - IDC &nbsp;&nbsp; Telecompaper",
-      "outlet": "Telecompaper",
-      "outletUrl": "https://www.telecompaper.com",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 16,
-      "firstSeenAt": "2026-11-10T12:59:31.488Z",
-      "lastSeenAt": "2026-11-10T17:43:20.720Z"
     }
   ]
 }
