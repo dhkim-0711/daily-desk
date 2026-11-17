@@ -1,0 +1,494 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-17",
+  "cutoff_at": "2026-11-17T09:30:00+09:00",
+  "window_start": "2026-11-16T09:30:00+09:00",
+  "created_at": "2026-11-17T09:49:24+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1
+      ],
+      "bullets": [
+        "딥엑스는 AMD의 임베디드 플랫폼·ROCm, 엔비디아 Isaac ROS, 인텔 OpenVINO와 자사 NPU를 잇는 협의를 병행하며 글로벌 반도체 3사의 개발환경과 접점을 넓혔다.",
+        "국산 NPU 경쟁의 초점이 단일 칩 성능에서 로봇·엣지 시스템의 이기종 연동과 개발자 전환비용을 낮추는 소프트웨어 호환성으로 이동하고 있다."
+      ]
+    },
+    {
+      "article_numbers": [
+        2
+      ],
+      "bullets": [
+        "NIPA의 범정부 AX 원스톱 지원에는 15개 기관 39개 수요가 접수돼 10개 과제가 선정됐고, 5개 과제가 후속 실증 연계를 희망했다.",
+        "공공 AI 수요가 단순 컨설팅에서 데이터·모델·GPU 등 연산자원 구성과 파일럿·대규모 실증을 잇는 사업 파이프라인으로 구체화되고 있다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3
+      ],
+      "bullets": [
+        "AMD는 3차원 환경 생성·시뮬레이션 모델을 개발하는 월드랩스 인수를 완료하고 페이페이 리를 수석과학자로 영입했다.",
+        "가속기 기업이 모델 연구를 내부화해 하드웨어·소프트웨어·모델을 함께 설계하려는 전략은 개방형 AI 스택 경쟁의 범위를 칩 밖으로 확장한다."
+      ]
+    },
+    {
+      "article_numbers": [
+        4
+      ],
+      "bullets": [
+        "미국 상무부 BIS는 제3국 데이터센터를 통한 첨단 AI칩·서버 원격 이용이 기존 수출통제를 우회하지 못하도록 중간최종규칙을 발표했다.",
+        "통제 단위가 물리적 칩 이동에서 원격 연산 접근까지 넓어지면서 글로벌 GPU 클라우드의 고객확인·위치관리·서비스 제공 방식이 공급망 규제의 일부가 됐다."
+      ]
+    },
+    {
+      "article_numbers": [
+        5
+      ],
+      "bullets": [
+        "마벨과 펭귄솔루션스는 CXL 기반 서버 메모리 확장과 광인터커넥트 기반 다중 랙 메모리 풀링을 결합한 AI 메모리 확장 경로를 공개했다.",
+        "가속기 증설만으로 추론 용량을 늘리기보다 HBM·DDR5를 분리·공유해 GPU 활용률과 토큰 경제성을 높이려는 시스템 아키텍처 경쟁이 본격화됐다."
+      ]
+    },
+    {
+      "article_numbers": [
+        6
+      ],
+      "bullets": [
+        "SK텔레콤과 효성중공업은 GW급 AI 데이터센터를 위해 345kV 변전소 핵심설비 공급, 800V 직류배전·반도체변압기 실증, 운영·유지보수 협력을 추진한다.",
+        "AI 데이터센터 투자의 병목이 서버 조달에서 장납기 전력설비와 전력변환 효율까지 확장돼 통신사와 전력기기 기업의 공동 사업개발이 중요해졌다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "딥엑스, AMD·엔비디아·인텔 개발환경과 NPU 연동 협력 확대",
+      "category": "국내 NPU·글로벌 생태계 협력",
+      "collected_at": "2026-11-16T12:03:12.718Z",
+      "original_published_at": "2026-11-16T17:00:00+09:00",
+      "original_url": "https://www.etnews.com/20261116000238",
+      "main_points": [
+        "딥엑스는 11월 3일 AMD 고위 임원의 본사 방문, 9일 엔비디아와의 협력 논의, 12일 인텔코리아와의 업무협약을 거치며 미국 주요 반도체 기업 3사의 컴퓨팅 플랫폼·소프트웨어 생태계와 자사 NPU를 연동하는 방안을 추진하고 있다. 인텔과는 OpenVINO 모델 변환·실행환경 최적화와 x86 프로세서·NPU 결합을 검토하고, 국내 서버기업 KTNF와 이기종 온프레미스 추론 서버 협약도 체결했다.",
+        "AMD에는 임베디드 플랫폼 Kria와 딥엑스 NPU의 결합, ROCm과 딥엑스 개발도구의 연동을 제안했다. 엔비디아와는 로보틱스 개발환경 Isaac ROS와 호환되는 자체 소프트웨어 DX-뉴턴의 1차 사내시험을 마쳤고, 12월 첫째 주 엔비디아 본사 고위 임원 면담을 예정하고 있다.",
+        "이번 기사에서 새로 공개된 핵심은 인텔 협약 자체가 아니라 AMD·엔비디아와의 구체적인 연동 제안과 후속 면담 일정이다. 세 회사와의 협력 단계는 각각 제안·초기 논의·MOU로 다르며 공동개발이나 양산 물량이 확정된 상태는 아니다."
+      ],
+      "importance": [
+        "국산 NPU가 독립된 가속기로 판매되기보다 CPU·GPU·로봇 개발환경 안에서 함께 작동해야 고객의 도입 장벽을 낮출 수 있음을 보여준다. 경쟁 관계인 글로벌 칩 기업들의 플랫폼과 동시에 접점을 넓힌 것은 딥엑스가 이기종 컴퓨팅의 보완재 위치를 확보하려는 전략적 변화다.",
+        "NPU 사업화의 기준도 TOPS나 전력효율 같은 칩 지표에서 모델 변환, 런타임, 서버 통합과 개발자 도구의 완성도로 확장된다. 실제 고객이 기존 코드를 얼마나 적은 비용으로 옮길 수 있는지가 양산 채택과 반복 구매를 가르는 요소가 된다."
+      ],
+      "implications": [
+        "후속 검증에서는 DX-뉴턴의 공개 지원범위, ROCm·OpenVINO 연동 결과, 공동 레퍼런스 시스템과 고객 PoC가 실제로 나오는지를 구분해 볼 필요가 있다. 면담과 MOU를 공급계약으로 해석하기보다 기술 호환성 시험이 고객 제품통합으로 이어지는 경로를 추적해야 한다.",
+        "국산 NPU 기업에는 모든 소프트웨어 스택을 독자 구축하기보다 글로벌 CPU·GPU 생태계의 표준 인터페이스를 활용해 전환비용을 낮추는 선택지가 커진다. 동시에 특정 플랫폼에 종속되지 않도록 모델·런타임 계층의 이식성과 성능 측정 조건을 투명하게 제시해야 한다.",
+        "공공 실증과 성능평가에서도 칩 단독 성능 외에 기존 서버·로봇 플랫폼과의 통합기간, 지원 모델 수, 운영 안정성과 개발자 작업량을 함께 측정하면 사업화 가능성을 더 정확히 판단할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "딥엑스, 美 반도체 3사와 협력 타진…NPU 생태계 확대 시동",
+          "publisher": "전자신문",
+          "published_at": "2026-11-16T17:00:00+09:00",
+          "url": "https://www.etnews.com/20261116000238",
+          "verification": "full_text",
+          "verified_at": "2026-11-17T09:47:00+09:00"
+        }
+      ],
+      "event_id": "deepx-amd-nvidia-intel-platform-cooperation-update-2026",
+      "event_first_published_at": "2026-11-16T17:00:00+09:00",
+      "event_evidence_url": "https://www.etnews.com/20261116000238",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "NIPA, 공공 AX 10개 과제 기획 완료…파일럿·실증 연계 수요 확인",
+      "category": "국내 정책·공공 AI 수요",
+      "collected_at": "2026-11-16T07:03:04.450Z",
+      "original_published_at": "2026-11-16T16:00:00+09:00",
+      "original_url": "https://www.etnews.com/20261116000407",
+      "main_points": [
+        "NIPA가 운영하는 범정부 AX 원스톱 지원에는 15개 기관이 39개 과제를 접수했고 이 가운데 환경·복지·안전 분야 10개 과제가 선정됐다. NIPA는 4월 말부터 7월 초까지 컨설팅을 진행하고 8월 기술검증과 최종 조정을 거쳐 서비스 목표, 데이터 확보, AI 모델 선정과 인프라 구성 경로를 과제 기획서로 정리했다.",
+        "지원체계는 정부 보유 GPU, 국산 AI 모델, 데이터, 클라우드, 평가검증과 전문인력 등을 과제별로 연결하는 구조다. 컨설팅 만족도는 5점 만점에 4.29점이었고 5개 과제가 후속 실증연계 사업, 8개 과제가 심층분석 보고서 지원을 희망했다.",
+        "NIPA는 AX컨설팅에서 AX파일럿과 AX플래그십으로 이어지는 구조를 추진하고 12월 과학기술관계장관회의에 성과를 보고할 계획이다. 현재 확인된 성과는 10개 과제의 기획과 후속 참여 수요이며, 각 기관의 GPU·NPU 배정이나 대규모 실증 착수는 이후 선정·예산·조달 단계에서 결정된다."
+      ],
+      "importance": [
+        "공공 AI 도입의 병목이 아이디어 부족보다 데이터, 보안, 모델과 연산자원을 하나의 실행계획으로 묶는 능력에 있음을 수요조사와 과제 진행 결과가 보여준다. 39건의 수요와 후속 실증 희망은 공공 분야의 연산자원·AI 서비스 수요가 실제 사업 파이프라인으로 전환될 가능성을 제시한다.",
+        "GPU와 국산 모델을 함께 검토하는 지원체계는 향후 국산 NPU가 공공 AX에 진입할 접점을 만들 수 있지만, 가속기 선택은 과제별 모델 호환성·성능·보안·총비용 검증을 거쳐야 한다. 공공 수요를 일괄 장비구매가 아니라 과제별 워크로드 설계에서 출발시킨다는 점이 구조적 변화다."
+      ],
+      "implications": [
+        "후속 파일럿에서 어떤 과제가 정부 GPU를 사용하고 국산 모델·가속기를 선택하는지, 실제 처리량·지연·비용과 데이터 반출 제약이 무엇인지 확인해야 한다. 컨설팅 만족도와 기술 도입 성과는 별도 지표로 관리할 필요가 있다.",
+        "국산 NPU 기업은 환경영향평가, 상담, OCR, 교통·안전 등 10개 업무의 모델 규모와 지연 요구를 분석해 범용 홍보보다 구체적인 레퍼런스 구성을 제시할 수 있다. 기존 공공 시스템과의 연계, 운영 SW와 유지보수 능력도 칩 성능만큼 중요하다.",
+        "AX360에 민간 모델·솔루션·GPU 정보와 도입사례가 축적되면 수요기관의 비교비용을 낮출 수 있다. 향후에는 NPU를 포함한 이기종 자원 정보, 검증조건과 실제 이용성과가 함께 공개되는지가 자원 다변화의 실효성을 좌우한다."
+      ],
+      "sources": [
+        {
+          "title": "[기획] NIPA, 정부 AX 기획부터 실증까지 잇는다…10개 과제 밑그림",
+          "publisher": "전자신문",
+          "published_at": "2026-11-16T16:00:00+09:00",
+          "url": "https://www.etnews.com/20261116000407",
+          "verification": "full_text",
+          "verified_at": "2026-11-17T09:47:00+09:00"
+        }
+      ],
+      "event_id": "nipa-government-ax-ten-projects-pilot-demand-2026",
+      "event_first_published_at": "2026-11-16T16:00:00+09:00",
+      "event_evidence_url": "https://www.etnews.com/20261116000407",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 3,
+      "title": "AMD, 월드랩스 인수 완료…모델 연구를 가속기·시스템 설계에 결합",
+      "category": "글로벌 가속기·전략적 인수",
+      "collected_at": "2026-11-16T22:31:13.613Z",
+      "original_published_at": "2026-11-16T23:12:39+09:00",
+      "original_url": "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/",
+      "main_points": [
+        "AMD는 11월 16일 월드랩스 인수를 완료했다고 발표했다. 월드랩스는 대화형 3차원 환경을 생성·시뮬레이션하는 AI 모델과 로봇 학습·시뮬레이션 기술을 개발하며, 창업자인 페이페이 리는 AMD 수석과학자 겸 수석부사장으로 합류해 리사 수 CEO에게 직접 보고한다.",
+        "월드랩스 연구진은 기초 모델 연구를 이어가면서 AMD 엔지니어와 협력해 차세대 하드웨어·소프트웨어·시스템 설계에 모델 능력과 워크로드 특성을 반영한다. AMD는 모델과 컴퓨팅 플랫폼을 함께 최적화해 개방형 AI 생태계의 연구자·개발자에게 인프라를 제공한다는 방향을 제시했다.",
+        "이번 발표는 인수 협상이나 계획이 아니라 거래 완료와 조직 편입을 확인한 단계다. 인수가액, 제품 로드맵과 월드랩스 모델이 적용될 구체적인 Instinct 가속기 세대·출시 일정은 공개되지 않았다."
+      ],
+      "importance": [
+        "AMD가 모델 연구조직을 내부에 편입한 것은 가속기 경쟁을 칩 사양과 ROCm 소프트웨어만의 문제가 아니라 모델·시뮬레이션·로봇 워크로드를 함께 설계하는 수직 통합으로 확장한다. 엔비디아의 CUDA·Omniverse 중심 생태계에 대응할 개발자 경험과 물리적 AI 역량을 확보하려는 전략으로 볼 수 있다.",
+        "3차원 월드모델과 로봇 학습은 연산량, 메모리 접근과 시뮬레이션 요구가 커서 향후 가속기 아키텍처와 시스템 설계에 직접 영향을 줄 수 있다. 모델 팀이 하드웨어 로드맵에 참여하면 실제 워크로드에 맞춘 공동 최적화 속도가 빨라질 가능성이 있다."
+      ],
+      "implications": [
+        "향후 AMD가 월드랩스 기술을 ROCm, Instinct와 Helios 랙 시스템에 어떤 형태로 결합하는지 확인해야 한다. 연구조직 인수 자체보다 공개 모델·개발도구, 고객 배치와 성능 개선이 실제 생태계 확장 여부를 보여줄 것이다.",
+        "국산 가속기 기업에도 칩과 컴파일러만이 아니라 대표 워크로드를 보유한 모델·로봇 기업과의 공동 설계가 중요해진다. 수요기업의 모델 구조와 데이터 흐름을 초기 아키텍처 결정에 반영하면 범용 벤치마크와 실제 서비스 성능의 차이를 줄일 수 있다.",
+        "개방형 생태계를 강조하는 AMD의 전략은 여러 가속기 간 모델 이식성과 도구 호환성 경쟁을 촉진할 수 있다. 다만 월드랩스의 연구가 상용 제품과 고객 매출로 이어지는 속도는 별도로 검증해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "AMD Completes Acquisition of World Labs",
+          "publisher": "AMD",
+          "published_at": "2026-11-16T23:12:39+09:00",
+          "url": "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-17T09:48:00+09:00"
+        }
+      ],
+      "event_id": "amd-world-labs-acquisition-completed-2026",
+      "event_first_published_at": "2026-11-16T23:12:39+09:00",
+      "event_evidence_url": "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "미국, 제3국 데이터센터 통한 첨단 AI칩 원격 접근도 수출통제",
+      "category": "글로벌 정책·AI칩 공급망",
+      "collected_at": "2026-11-16T22:31:13.613Z",
+      "original_published_at": "2026-11-15",
+      "original_url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+      "main_points": [
+        "미국 상무부 산업안보국(BIS)은 첨단 AI칩과 서버에 대한 원격 접근을 규율하는 중간최종규칙을 발표했다. 제3국 데이터센터에 설치된 미국산 첨단 연산장비를 수출통제 대상 국가의 사용자가 원격으로 이용해 물리적 수출 제한을 우회하는 경로를 차단하는 것이 목적이다.",
+        "규칙은 클라우드·원격 컴퓨팅을 통해 제공되는 첨단 연산능력의 보호 수준을 민감 기술의 물리적 선적 규제와 맞추는 방향을 제시한다. 같은 사실을 다룬 11월 16일 공개 보도는 중국 기업이 동남아시아 등 제3국 데이터센터에서 엔비디아 연산능력을 임차해 온 관행을 정책 대상으로 설명했다.",
+        "이번 조치는 원격 접근을 규제 범위에 포함하는 새 집행 단계다. 구체적인 허가 대상 국가, 사업자별 고객확인 의무와 시행 유예 등 세부 적용은 중간최종규칙 본문과 후속 지침에 따라 판단해야 한다."
+      ],
+      "importance": [
+        "AI칩 수출통제의 경계가 하드웨어의 국경 이동에서 연산 서비스의 실제 이용자와 위치로 넓어졌다. 칩을 제3국에 합법적으로 설치하더라도 원격 고객이 통제 대상이면 규제 문제가 발생할 수 있어 GPU 클라우드와 데이터센터 운영이 반도체 공급망 관리의 일부가 된다.",
+        "가속기 제조사와 클라우드 사업자는 판매처 심사뿐 아니라 재임대, 원격 세션과 최종 사용자를 계속 확인해야 한다. 규제 준수 비용과 서비스 제공 지연이 커지면 국가별 AI 연산자원 접근성과 데이터센터 입지 전략에도 영향을 줄 수 있다."
+      ],
+      "implications": [
+        "국내 클라우드·데이터센터 사업자는 미국산 첨단 가속기를 해외 고객에게 제공할 때 고객확인, 재판매·재임대 통제와 접속 위치 기록이 어떤 수준으로 요구되는지 점검해야 한다. 국내 설치 장비라는 사실만으로 수출통제 위험이 사라지지 않는다.",
+        "국산 NPU에는 특정 시장에서 대체 수요가 생길 가능성이 있지만 규제 회피 수단으로 해석해서는 안 된다. 미국 기술·소프트웨어·제조장비가 결합된 제품의 적용범위와 자체 준법체계를 별도로 확인해야 한다.",
+        "정책의 산업 효과는 허가 처리기간, 적용 국가, 클라우드 사업자의 서비스 변경과 중국 고객의 대체 가속기 채택으로 나타날 수 있다. 후속 규칙과 실제 집행사례를 통해 물리적 수출통제와 원격 서비스 통제가 어떻게 결합되는지 추적해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "BIS Issues Rule Addressing Remote Access to American Super Intelligence Technology",
+          "publisher": "U.S. Bureau of Industry and Security",
+          "published_at": "2026-11-15",
+          "url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+          "verification": "public_primary",
+          "verified_at": "2026-11-17T09:48:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "BIS 공식 보도자료는 미국 현지 2026-11-15 공개일을 표시하며 제3국 데이터센터를 통한 원격 접근 규칙의 핵심 사실을 담고 있다. 같은 규칙은 CNBC가 2026-11-16 08:47 ET에 보도했고 Daily Desk 아카이브에는 2026-11-16 22:47:23 KST 발행 기사로 저장돼 2026-11-17 09:30 KST 마감 전 공개를 확인했다."
+        }
+      ],
+      "event_id": "us-bis-remote-access-ai-chip-server-controls-2026",
+      "event_first_published_at": "2026-11-15",
+      "event_evidence_url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+      "selection_tier": "supplement",
+      "recency_evidence": "BIS 공식자료의 미국 현지 공개일은 2026-11-15로 48시간 보완범위의 날짜에 해당한다. 세부 공개시각은 표시되지 않아 supplement로 분류했고, 2026-11-16 08:47 ET CNBC 보도와 Daily Desk 아카이브의 마감 전 저장기록으로 동일 규칙의 공개 사실을 교차확인했다."
+    },
+    {
+      "number": 5,
+      "title": "마벨·펭귄솔루션스, CXL과 광연결 결합한 다중 랙 메모리 확장 추진",
+      "category": "메모리·인터커넥트·AI 인프라",
+      "collected_at": "2026-11-16T22:31:13.613Z",
+      "original_published_at": "2026-11-16T23:00:00+09:00",
+      "original_url": "https://www.marvell.com/company/newsroom/marvell-penguin-solutions-data-center-ai-memory-inference.html",
+      "main_points": [
+        "마벨과 펭귄솔루션스는 AI 추론의 메모리 병목을 줄이기 위해 서버 단위 CXL 메모리 확장과 다중 랙 광연결 메모리 풀링을 결합하는 전략적 협력을 발표했다. 단기적으로는 마벨 Structera X 컨트롤러를 펭귄의 SMART CXL 카드에 적용해 퇴역 서버의 고밀도 DDR4를 PCIe 5.0·CXL 2.0으로 재활용한다.",
+        "중장기적으로는 마벨 Photonic Fabric 기반 메모리 모듈·NIC를 펭귄의 MemoryAI 어플라이언스와 ComputeAI 시스템에 통합해 여러 랙이 저지연·고대역폭 메모리 풀을 공유하도록 개발한다. 펭귄은 별도 제품에서 어플라이언스당 최대 57.6Tbps 대역폭, 16TB DDR5와 576GB HBM3E 구성을 목표로 제시했다.",
+        "Structera X 기반 CXL 카드는 2026년 말 기업 고객의 검증·배치를 목표로 하고 광패브릭 통합 서버는 2027년 하반기 샘플링 예정이다. 공개된 수치는 제품 목표이며 고객 환경에서의 상용 성능이나 대량 배치 실적은 아직 확인되지 않았다."
+      ],
+      "importance": [
+        "긴 컨텍스트와 KV 캐시가 커지는 에이전틱 AI에서는 연산칩 수보다 메모리 용량·대역폭이 GPU 활용률과 토큰 비용을 제한할 수 있다. 두 회사의 협력은 HBM을 가속기 패키지 안에만 두는 구조에서 메모리를 서버·랙 사이에 분리하고 공유하는 방향으로 시스템 설계가 이동하고 있음을 보여준다.",
+        "CXL과 광인터커넥트를 단계적으로 결합하면 기존 DDR4 자산을 활용하는 단기 비용 절감과 다중 랙 공유메모리라는 장기 확장성을 하나의 로드맵으로 연결할 수 있다. 메모리 공급부족과 가격 상승에 대응하는 방식도 신규 생산능력 확대뿐 아니라 자원 풀링과 재사용으로 넓어진다."
+      ],
+      "implications": [
+        "실제 경쟁력은 지연시간, 일관성 유지, 장애 격리와 소프트웨어 투명성에 달려 있다. 발표된 목표 대역폭뿐 아니라 GPU가 원격 메모리를 사용할 때의 모델별 처리량, 전력과 총비용을 고객 검증에서 확인해야 한다.",
+        "국내 메모리·CXL·광인터커넥트 기업에는 HBM 공급을 넘어 컨트롤러, 광소자, 펌웨어와 메모리 관리 SW를 함께 설계할 기회가 커진다. 가속기와 메모리의 공동 최적화가 랙 단위로 확대되면 부품별 성능보다 시스템 상호운용성이 중요해진다.",
+        "국산 NPU 인프라도 HBM 탑재량을 늘리는 방식과 외부 메모리 계층을 활용하는 방식의 비용·성능을 비교할 필요가 있다. 특히 추론 서버 지원사업은 가속기 수량뿐 아니라 KV 캐시와 메모리 풀링 구조를 포함한 처리량 기준으로 평가할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "Marvell and Penguin Solutions Collaborate to Address Data Center AI Memory and Accelerate Inference at Scale",
+          "publisher": "Marvell",
+          "published_at": "2026-11-16T23:00:00+09:00",
+          "url": "https://www.marvell.com/company/newsroom/marvell-penguin-solutions-data-center-ai-memory-inference.html",
+          "verification": "public_primary",
+          "verified_at": "2026-11-17T09:48:00+09:00"
+        },
+        {
+          "title": "Penguin Solutions Unveils Industry’s First Photonics-Based HBM-Class Memory Appliance to Break the GPU Memory Wall for Agentic AI",
+          "publisher": "Penguin Solutions",
+          "published_at": "2026-11-16T23:00:00+09:00",
+          "url": "https://ir.penguinsolutions.com/news/news-details/2026/Penguin-Solutions-Unveils-Industrys-First-Photonics-Based-HBM-Class-Memory-Appliance-to-Break-the-GPU-Memory-Wall-for-Agentic-AI/default.aspx",
+          "verification": "public_primary",
+          "verified_at": "2026-11-17T09:48:00+09:00"
+        }
+      ],
+      "event_id": "marvell-penguin-cxl-photonic-memory-collaboration-2026",
+      "event_first_published_at": "2026-11-16T23:00:00+09:00",
+      "event_evidence_url": "https://www.marvell.com/company/newsroom/marvell-penguin-solutions-data-center-ai-memory-inference.html",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "SK텔레콤·효성중공업, GW급 AI 데이터센터 전력설비·직류배전 공동 추진",
+      "category": "국내 AI 인프라·전력",
+      "collected_at": "2026-11-16T06:45:13.562Z",
+      "original_published_at": "2026-11-16T11:00:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261116040300017",
+      "main_points": [
+        "SK텔레콤과 효성중공업은 GW급 AI 데이터센터 구축을 위한 전략적 파트너십 MOU를 체결했다. 효성중공업은 SK텔레콤의 AI 데이터센터용 345kV 변전소에 핵심 전력설비를 공급하고, 장납기 기자재의 생산·납품 일정을 사전에 조율해 공급체계를 마련한다.",
+        "양사는 800V 직류배전과 반도체변압기 등 차세대 전력변환 기술을 공동 검토·실증하고 변전설비 운영·유지보수 기술을 공유한다. 전력 인프라 협력을 데이터센터 개발·구축, 국내외 신규 사업기회와 사업모델 발굴로 확대한다는 계획이다.",
+        "현재 확정된 단계는 MOU와 345kV 변전소 핵심설비 공급 방향이며 GW급 전체 데이터센터의 부지·총투자액·가동시점은 공개되지 않았다. 800V 직류배전과 반도체변압기는 공동 실증을 거쳐 실제 적용 여부를 판단할 예정이다."
+      ],
+      "importance": [
+        "AI 데이터센터의 전력 수요가 커지면서 변전소와 장납기 전력설비 확보가 서버·가속기 조달에 앞선 실행조건으로 부상했다. 통신사가 전력기기 제조사와 공급일정부터 운영·유지보수까지 장기 협력을 설계한 것은 인프라 투자 병목에 대한 구체적인 대응이다.",
+        "800V 직류배전과 반도체변압기는 전력 변환단계와 손실을 줄여 고밀도 가속기 랙의 효율을 높일 수 있다. AI 인프라 경쟁이 가속기 성능뿐 아니라 전력계통 연결, 배전 아키텍처와 운영 신뢰성으로 확대되고 있다."
+      ],
+      "implications": [
+        "후속 사업에서는 345kV 설비의 발주·납품 일정, 데이터센터 위치와 확보 전력, 직류배전 실증의 효율·안전 결과를 확인해야 한다. GW급 목표와 실제 단계별 가동용량을 구분하면 인프라 수요를 과대평가하는 위험을 줄일 수 있다.",
+        "국내 가속기 기업에는 전력 한도 안에서 처리량을 높이는 서버 설계와 전력관리 SW의 중요성이 커진다. 칩의 와트당 성능이 데이터센터 배전·냉각과 결합됐을 때 실제 랙 밀도와 운영비로 이어지는지를 공동 실증할 필요가 있다.",
+        "전력기기 공급과 AIDC 사업개발이 결합되면 장납기 기자재의 생산능력과 금융조달도 프로젝트 일정의 핵심 변수가 된다. 향후 계약·착공·운영 단계별 공개정보를 통해 MOU가 실제 투자와 공급으로 전환되는지 추적해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "GW급 AI 데이터센터 전력 확보전…SKT·효성중공업 손잡았다",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-16T11:00:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261116040300017",
+          "verification": "full_text",
+          "verified_at": "2026-11-17T09:48:00+09:00"
+        },
+        {
+          "title": "SKT, 효성중공업과 GW급 AI 데이터센터 구축 맞손",
+          "publisher": "SK텔레콤",
+          "published_at": "2026-11-16",
+          "url": "https://news.sktelecom.com/233113",
+          "verification": "public_primary",
+          "verified_at": "2026-11-17T09:48:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "SK텔레콤 공식 뉴스룸은 2026-11-16 공개일을 표시하며 같은 MOU 내용을 담고 있다. 연합뉴스가 2026-11-16 11:00 KST에 동일한 345kV 설비 공급과 800V 직류배전 실증 사실을 송고해 2026-11-17 09:30 KST 마감 전 공개를 확인했다."
+        }
+      ],
+      "event_id": "skt-hyosung-gw-ai-datacenter-power-partnership-2026",
+      "event_first_published_at": "2026-11-16T11:00:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261116040300017",
+      "selection_tier": "primary"
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026-11 월 아카이브 197개 조각 19,660건을 모두 읽고 리벨리온·퓨리오사AI·딥엑스·하이퍼엑셀·모빌린트의 고객 도입, 공동개발, 실증, 사업화와 매출 후보를 확인했다. 딥엑스의 인텔 협약은 2026-11-14 원고에 게재됐으나 11월 16일 기사에서 AMD Kria·ROCm 연동 제안, 엔비디아 DX-뉴턴 시험과 본사 면담이라는 실질적 추가 사실이 공개돼 후속 선정했다. 하이퍼엑셀 SC26 발표는 최초 공식발표가 11월 12일로 48시간 밖이었고, 리벨리온·퓨리오사AI 재보도에는 새 계약·매출이 없어 제외했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP와 중앙정부·지자체·지방의회·공공기관·테크노파크의 NPU 예산, 도입·조달, K-Perf, 실증센터와 GPU·NPU 지원사업을 점검했다. NIPA AI반도체와 공공·지역기관 NPU 수요 수집원은 마지막 실행에서 empty였고, 직접 검색으로 NIPA의 39건 수요·10개 기획과 후속 실증 희망을 확인해 선정했다. 분석기간 안에 별도로 확인된 신규 국산 NPU 구매·공모선정·예산집행 사건은 없었으며 지역 특강·포상 기사는 구체적인 사업 실행 변화가 없어 제외했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·AWS Trainium·Intel과 수출통제, 자체칩·모델·개발자 생태계의 전략적 인수·제휴를 확인했다. AMD의 월드랩스 인수 완료와 BIS의 원격 AI칩 접근 규칙을 새 사건으로 선정했다. AMD MI400·MI430X와 UCIe 4.0은 11월 12일 공식발표의 재보도로 48시간 밖이었고 엔비디아 CEO·실적 관련 기사 다수는 최근 원고 사건의 반복 또는 시장 변동 기사로 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·CUDA·OpenVINO·SGLang·vLLM·컴파일러·런타임·커널·오케스트레이션·HW 연계 보안을 검색했다. SGLang 컨소시엄·NIM, OpenVINO 협약과 NVIDIA OpenShell은 최근 원고에 이미 게재됐다. 딥엑스의 ROCm 연동 제안과 DX-뉴턴의 Isaac ROS 호환 사내시험은 기존 인텔 협약을 넘어선 새 플랫폼 확장 사실로 기사 1에 반영했고, 분석기간 내 별도 고객 배치가 확인된 신규 운영 SW 릴리스는 없었다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단 패키징·CXL·UCIe·광인터커넥트, 데이터센터 전력·냉각·금융과 반도체 클러스터의 부지·전력·용수를 확인했다. 마벨·펭귄솔루션스의 CXL·광메모리 협력과 SKT·효성중공업의 345kV 설비·직류배전 실증을 선정했다. UCIe 4.0과 하이퍼엑셀 SC26은 최초 발표일이 48시간 밖이었고 통상적인 HBM 전망, 소재 증설과 지역 갈등은 더 직접적인 신규 구조 변화보다 우선순위가 낮아 제외했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국내 NPU가 AMD·엔비디아·인텔의 CPU·GPU·로봇 소프트웨어와 연동하는 구체적 제안·시험·협의 단계가 새로 공개돼 고객 제품통합과 개발자 생태계 확장 판단에 직접 관련된다."
+      },
+      {
+        "article_number": 2,
+        "reason": "NIPA가 39건의 공공 AX 수요 중 10개 과제를 기획하고 후속 파일럿·실증 수요를 확인해 공공 연산자원·모델·인프라 수요의 실제 사업화 경로를 보여준다."
+      },
+      {
+        "article_number": 3,
+        "reason": "AMD가 모델 연구조직 인수를 완료해 가속기·소프트웨어·모델 공동설계 역량을 내부화한 전략적 거래로 글로벌 AI칩 경쟁구조의 변화를 보여준다."
+      },
+      {
+        "article_number": 4,
+        "reason": "미국의 AI칩 수출통제가 제3국 데이터센터의 원격 연산 접근까지 확장돼 가속기 공급망과 글로벌 클라우드 운영에 즉시 영향을 주는 정책 변화다."
+      },
+      {
+        "article_number": 5,
+        "reason": "CXL과 광인터커넥트를 결합해 HBM·DDR을 여러 랙에서 공유하려는 새 제품·협력 로드맵이 추론 메모리 병목과 가속기 활용률을 바꾸는 구조적 기술 변화다."
+      },
+      {
+        "article_number": 6,
+        "reason": "국내 통신사와 전력기기 기업이 345kV 장납기 설비 공급과 800V 직류배전 실증을 묶어 GW급 AIDC의 전력 병목에 대응하는 구체적 인프라 협력이다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "하이퍼엑셀, 美 ‘SC26’서 LPU 기반 AI 추론 서버 공개…전력·비용 효율 3.5배 입증",
+        "url": "https://www.prnewswire.com/news-releases/hyperaccel-to-showcase-lpu-based-ai-inference-system-at-sc26-highlighting-power-and-cost-efficiency-302937584.html",
+        "reason": "국내 NPU의 서버 시연과 내부 벤치마크는 중요하지만 핵심 사실의 공식발표가 2026-11-12 09:00 ET로 48시간 보완범위 밖이며 11월 16일 재보도에 별도 고객계약·현장검증 결과가 추가되지 않았다."
+      },
+      {
+        "title": "UCIe Consortium Advances from Chiplet Connectivity to System-Level Integration with UCIe 4.0 Specification",
+        "url": "https://www.uciexpress.org/press-releases",
+        "reason": "온패키지 메모리 연결과 전력효율 개선은 구조적으로 중요하지만 UCIe 4.0 공식발표가 2026-11-12로 48시간 범위 밖이고 당일 기사는 같은 사양의 재보도였다."
+      },
+      {
+        "title": "AMD Advances the Instinct MI400 Series for AI and Scientific Computing",
+        "url": "https://newsroom.amd.com/",
+        "reason": "MI430X·MI455X와 Helios 업데이트는 중요하지만 최초 공식발표가 2026-11-12로 48시간 범위 밖이며 11월 16일 기사에는 새 출시·고객배치가 없었다."
+      },
+      {
+        "title": "젠슨 황 사임에도 리벨리온 ‘협력 변경無’…K-NPU 이기종 공존 무게",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvQmVlM2NmbV9MN1BOaW81NDlCR3N3Tk5uZ21iZjdMeXkxUFgzd25uWGk5WVZyZWtiVUJ2Wk9GMnp5SVpXdms3bEZ3VC1fSTFWYm5rR3pvdHB4TGV3?oc=5",
+        "reason": "NVIDIA-SKT-리벨리온 NVLink 협력은 2026-11-10 원고에 게재됐고 협력 유지 방침 외에 새 계약·기술검증·공급 일정이 확인되지 않았다."
+      },
+      {
+        "title": "정책자금 3700억 받은 퓨리오사AI, 워보이 적용 업체 대표가 자사 감사이자 백준호 서울대 동문",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQek45MDh6QkVyNHVGY0lmWDFlOGo0bklabzBBaHFzSHo2cXl5TTZCblZKamY3dXZCVl96dG1hUXpNaXVjcGlTRnJqRmlGSmpHNHRLb0tRdWp6c0p3dmlGN1J3VXppWFRBbWJ1a0JqeDMzdGtJeS1hbk96QklRZ0p4UGRpVjNabXRvcjlLWnJkR1pHV0ZyOVhaV1NIMUJ1SHpHU0hJTUZRdXo5NlJDcm9CeURhTzlGd0VSZkdvdUdZWjJIbXZMZ0lqbWYyZ1M5OEVackU1YjhyelpGZ1BpYmg2YlkyVlhjd3lKczdkN1Q4RThKcXlLTHlvaGNTRWJRcG1Ld0ZnVXlnYmpCTFowWEhLZ055eDQ0dzFRX2pOT0l0d3B2cnBMMUttamlfdV92bnhzNHBZWl9wMmxqQ1Q0?oc=5",
+        "reason": "정책금융과 고객 검증의 이해관계 문제는 중요하지만 단일 매체의 주장과 관계 추정에 비해 독립적인 계약·감사자료·공식 확인이 충분하지 않아 주요 사실 검증 기준을 통과하지 못했다."
+      },
+      {
+        "title": "딥엑스, 2026 ITS 세계총회서 NPU 기반 교통 영상 분석 기술 선봬",
+        "url": "https://www.koit.co.kr/news/articleView.html?idxno=209615",
+        "reason": "한국도로공사·철도공사 적용 검토와 바이다·소타텍 협력은 2026-10-22 처음 공개된 사건이며 11월 16일 아카이브 노출은 새 고객·양산 결과가 없는 과거기사 재수집이었다."
+      }
+    ],
+    "count_reason": "월별 아카이브 197개 조각 전체와 2026-11-17 collection 두 실행, 최근 14일 ready 14개, 다섯 영역의 직접 보완 검색과 공식자료를 대조했다. 최근 24시간 안에서 공개 전문·사건 독립성·마감 적합성을 통과한 5건과 48시간 내 날짜가 확인된 미국 BIS 규칙 1건을 선정해 기본 6건으로 확정했다.",
+    "company_overlap_review": "딥엑스는 기사 1에서 국내 NPU 기업으로 한 번만 중심 등장한다. AMD는 기사 1의 협력 상대와 기사 3의 인수 주체로 반복되지만 기사 1은 국내 NPU의 플랫폼 호환성 확대, 기사 3은 글로벌 가속기 기업의 모델 연구조직 인수 완료로 사건·출처·산업적 의미가 독립적이다. 마벨은 기사 5에서만 중심이고 SK그룹은 기사 6의 데이터센터 사업 주체로 등장해 전일 SK그룹 전략 기사와 달리 별도 MOU·전력설비 공급 사실을 다룬다.",
+    "candidate_counts": {
+      "discovered": 2971,
+      "time_eligible": 2050,
+      "independent_events": 16,
+      "verified": 12,
+      "selected": 6,
+      "basis": "최신 체크아웃의 python mail/candidates.py가 마감 전 72시간부터 작성시점까지 2,971건을 발견하고 48시간 발행조건에 맞는 2,050건을 집계했다. 월 아카이브 197개 조각 19,660건을 모두 읽고 고관련성 보도를 사건 단위로 묶어 16개를 비교했으며 공개 전문·공식자료로 12개를 확인한 뒤 6개를 선정했다. 09:30 전 collection은 07:30:55·07:51:43 KST 두 차례로 각각 1,263건·1,282건을 아카이브했고 한 출처 failed, 네 출처 empty가 있어 직접 검색과 공식자료로 보완했다."
+    },
+    "history_review": {
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-16",
+      "checked_dates": [
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16"
+      ],
+      "note": "최근 14일 모든 ready 원고의 제목, 주요 사실, original_url, sources와 event_id를 읽어 사건 단위로 비교했다. 딥엑스-인텔, NVIDIA-SKT-리벨리온, SGLang, 정부 GPU 공급, UCIe와 AMD MI400 관련 반복 보도를 확인했다. 딥엑스 기사만 AMD·엔비디아 연동 제안이라는 실질적 새 사실을 material_update로 구분했고 나머지 선정 5건과 동일한 과거 게재 사건은 없었다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "material_update",
+        "previous_editions": [
+          "2026-11-14"
+        ],
+        "new_fact": "AMD Kria·ROCm 연동 제안과 엔비디아 Isaac ROS 호환 DX-뉴턴 사내시험, 12월 본사 고위 임원 면담 일정이 처음 공개됐다.",
+        "evidence_url": "https://www.etnews.com/20261116000238",
+        "note": "2026-11-14 원고의 인텔 OpenVINO·KTNF 협약과 달리 AMD·엔비디아 플랫폼으로 협력범위가 확장된 구체적 추가 사실을 별도 공개 전문에서 확인했다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "NIPA의 39건 수요, 10개 과제 기획결과와 후속 실증 희망 수치가 공개된 사건은 최근 14일 원고에 없다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "AMD가 월드랩스 인수를 완료하고 모델 연구진을 하드웨어·소프트웨어 공동설계 조직으로 편입한 사건은 최근 원고에 없다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "BIS가 제3국 데이터센터의 원격 AI칩·서버 접근을 직접 규율하는 중간최종규칙을 발표한 사건은 기존 수출통제 이해상충·추적 기사와 구분되는 새 정책 단계다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "마벨·펭귄솔루션스의 CXL·광메모리 공동 로드맵과 제품 목표는 2026-11-15 원고의 마벨 SC26 연결제품 묶음에 포함되지 않았던 새 협력·제품 사건이다."
+      },
+      {
+        "article_number": 6,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "SK텔레콤과 효성중공업의 345kV 핵심설비 공급·800V 직류배전 실증 MOU는 전일 SK그룹 AI 플라이휠 전략과 별개의 실행 협력이다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "국내 NPU 리벨리온 퓨리오사AI 딥엑스 하이퍼엑셀 모빌린트 고객 도입 공동개발 실증 사업화 매출 2026-11-16 2026-11-17; 딥엑스 AMD NVIDIA Intel ROCm OpenVINO; 하이퍼엑셀 SC26 LPU",
+          "official_sources": "전자신문 딥엑스 공개 전문 https://www.etnews.com/20261116000238, 하이퍼엑셀 공식 배포문 https://www.prnewswire.com/news-releases/hyperaccel-to-showcase-lpu-based-ai-inference-system-at-sc26-highlighting-power-and-cost-efficiency-302937584.html 및 최근 14일 원고를 대조했다.",
+          "result": "딥엑스의 AMD·엔비디아 플랫폼 연동 추가 사실을 material_update로 선정했다. 하이퍼엑셀은 최초발표가 48시간 밖이었고 리벨리온·퓨리오사AI·모빌린트 후보에는 검증 가능한 새 계약·도입·매출 사실이 없었다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr AI반도체 NPU 2026-11-16; site:nipa.kr NPU 공고; site:iitp.kr AI반도체; 정부 지자체 공공기관 테크노파크 NPU 국비 예산 실증 도입 조달; NIPA 정부 AX 10개 과제 GPU 실증",
+          "official_sources": "전자신문 NIPA 공개 전문 https://www.etnews.com/20261116000407, 과기정통부·NIPA·IITP 공개 사업·공고 페이지와 아카이브의 정부·지역 NPU 수집원을 확인했다.",
+          "result": "NIPA의 10개 공공 AX 기획과 후속 실증 수요를 선정했다. 분석기간 내 신규 국산 NPU 구매·조달·공모선정은 확인되지 않았으며 지역 특강·정책 제안은 사업 실행단계가 부족했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "NVIDIA AMD Google TPU AWS Trainium Intel AI accelerator November 16 2026 official; AMD World Labs acquisition; U.S. Commerce remote access AI chips data centers rule; strategic acquisition model hardware co-design",
+          "official_sources": "AMD 공식 인수완료 자료 https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/, BIS 공식 규칙 자료 https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology 와 공개 보도를 확인했다.",
+          "result": "AMD의 월드랩스 인수 완료와 BIS 원격접근 규칙을 선정했다. MI400·UCIe 발표는 48시간 밖이었고 엔비디아 경영·주가·실적 기사에는 독립적인 새 가속기 공급사실이 없었다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "SGLang vLLM ROCm CUDA inference runtime kernel compiler heterogeneous accelerator OpenVINO security November 16 17 2026; 국내 가속기 운영 SW 런타임 커널 오케스트레이션",
+          "official_sources": "최근 원고의 SGLang·OpenShell·OpenVINO 원문과 딥엑스의 ROCm·DX-뉴턴 공개 전문을 대조하고 AMD 공식 인수자료의 모델·SW 공동설계 범위를 확인했다.",
+          "result": "독립적인 신규 운영 SW 릴리스·고객 배치는 확인되지 않았다. 딥엑스의 ROCm·Isaac ROS 연동 확대와 AMD의 모델·SW 공동설계 전략을 해당 기업 사건에 반영했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "HBM advanced packaging CXL UCIe photonic interconnect AI data center power cooling financing November 16 17 2026; Marvell Penguin photonic memory; SKT 효성중공업 345kV 800V 직류배전",
+          "official_sources": "마벨 공식자료 https://www.marvell.com/company/newsroom/marvell-penguin-solutions-data-center-ai-memory-inference.html, 펭귄솔루션스 공식자료 https://ir.penguinsolutions.com/news/news-details/2026/Penguin-Solutions-Unveils-Industrys-First-Photonics-Based-HBM-Class-Memory-Appliance-to-Break-the-GPU-Memory-Wall-for-Agentic-AI/default.aspx, SK텔레콤 공식자료 https://news.sktelecom.com/233113 과 연합뉴스 공개 전문을 확인했다.",
+          "result": "CXL·광메모리 확장 협력과 국내 GW급 AIDC 전력설비·직류배전 협력을 선정했다. UCIe 4.0은 48시간 밖이었고 통상 HBM·소재 증설과 지역 갈등은 더 직접적인 구조 변화보다 후순위였다."
+        }
+      },
+      "alternative_sources": "수집기에서 global-ai-chip 한 출처가 429로 실패하고 NIPA AI반도체·공공지역 NPU 수요 등 네 출처가 empty였으나 전체 월 아카이브와 공식 기업·정부 자료, 공개 전문 검색으로 보완했다. 유료벽·검색요약만 제공된 후보는 공식 보도자료나 공개 재배포본으로 교차확인했고 공개시각·본문·사건 독립성이 부족한 후보는 선정하지 않았다."
+    }
+  }
+}
