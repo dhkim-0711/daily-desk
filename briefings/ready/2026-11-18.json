@@ -1,0 +1,428 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-18",
+  "cutoff_at": "2026-11-18T09:30:00+09:00",
+  "window_start": "2026-11-17T09:30:00+09:00",
+  "created_at": "2026-11-18T09:48:30+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "영남대가 국비 110억 원 등 총 123억여 원 규모의 제조특화 휴머노이드 사업단을 열고 뉴로모픽 AI반도체·휴머노이드·VLA를 통합한다.",
+        "지역 제조기업이 실증·사업화·채용에 참여해 AI반도체 연구가 실제 제조 수요와 인재 정착으로 이어지는 경로를 만들었다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "세미파이브가 일본 PFN의 MN-Core L2000에 로직 다이 위 D램을 쌓는 3D-IC 구조를 적용하고 2027년 1분기 테이프아웃을 준비한다.",
+        "HBM 조달에 의존하지 않는 맞춤형 메모리 통합 플랫폼이 국내 디자인솔루션 기업의 AI칩 개발·공급망 역할을 넓힐 수 있다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "엔비디아가 삼성전기와 기존 기판 공급계약을 확대하고 암코·SPIL 등과 다년 계약·선급금 방식으로 패키징 생산능력을 확충한다.",
+        "AI 가속기 공급경쟁이 칩 설계에서 기판·패키징·시험의 장기 전용능력 확보로 이동하면서 한국 후공정 생태계의 전략적 비중이 커졌다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "AMD가 특화 추론 반도체 기업 Taalas 인수를 완료하고 기술을 Instinct GPU·EPYC·ROCm·Helios 로드맵에 결합한다.",
+        "범용 GPU와 모델·워크로드별 실리콘을 한 시스템에서 조합하는 전략이 가속기 경쟁의 하드웨어·소프트웨어 공동설계를 강화한다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "엔비디아의 2027회계연도 3분기 매출은 1,158억 달러로 전년 대비 103%, 데이터센터 매출은 1,076억 달러로 110% 증가했다.",
+        "Vera Rubin 출하와 클라우드 배치가 시작된 가운데 중국 데이터센터 매출을 제외한 다음 분기 전망도 1,300억 달러로 제시돼 AI 인프라 수요의 규모가 재확인됐다."
+      ]
+    },
+    {
+      "article_numbers": [6],
+      "bullets": [
+        "2026년 1~3분기 신규 벤처투자는 12조6,248억 원으로 28.4% 늘고, ICT 제조 투자는 64.7% 증가해 역대 최대 실적을 이끌었다.",
+        "AI반도체·로봇·첨단제조의 대형 투자와 정책금융·민간 출자 확대가 함께 나타나면서 기술기업의 자금조달이 제조·사업화 단계로 이동했다."
+      ]
+    },
+    {
+      "article_numbers": [7],
+      "bullets": [
+        "한국수자원공사가 용인 반도체산단 1단계 용수공급 1·3공구의 237억 원 규모 건설사업관리 용역 발주를 준비한다.",
+        "공급 시점을 2029년 5월로 1년 8개월 앞당긴 뒤 설계·시공 계약이 구체화되면서 반도체 클러스터의 용수 계획이 실제 조달 단계로 넘어갔다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "영남대, 123억 제조 휴머노이드 사업 착수…뉴로모픽 AI반도체 현장 실증 연계",
+      "category": "국내 정책·사업화·수요처",
+      "collected_at": "2026-11-17T08:05:43.997Z",
+      "original_published_at": "2026-11-17T13:51:33+09:00",
+      "original_url": "https://www.yu.ac.kr/pr/yunews/yu-news-room.do?articleNo=232557642&mode=view",
+      "main_points": [
+        "영남대학교는 경상북도·경산시와 지역기업이 참여하는 HuMAN 제조특화 휴머노이드 사업단을 개소했다. 과학기술정보통신부와 정보통신기획평가원의 AI최고급신진연구자지원사업 지역주도형 산학협력 트랙에 선정된 사업으로, 2031년까지 국비 110억 원을 포함해 총 123억여 원이 투입된다.",
+        "사업단은 초저전력 뉴로모픽 AI반도체를 두뇌로, 제조특화 휴머노이드 플랫폼을 몸체로, 월드모델·VLA 기반 자율작업 AI를 손으로 결합한다. 이 통합 연구를 기반으로 석·박사급 AI 인재 35명을 양성하고 지역 정착을 연계한다.",
+        "영남대는 핵심기술 개발과 인재양성을 맡고 에스앤엠·에스엘·코셀로는 현장 실증·사업화·채용을 담당한다. 경상북도와 경산시는 5년간 지방비 5억 원을 매칭하고, 경북IT융합산업기술원과 경북테크노파크는 실증 인프라와 지역기업 확산을 지원한다."
+      ],
+      "importance": [
+        "인재양성 사업에 반도체·로봇 몸체·자율작업 모델을 한 시스템으로 통합하고 제조기업의 실증·채용 역할까지 명시했다는 점이 기존 교육 중심 과제와 다르다. 국산 저전력 AI반도체가 실제 제조현장의 로봇 수요와 연결될 수 있는 지역 단위 개발·실증 경로가 구체화됐다.",
+        "현재 단계는 사업단 출범과 역할 분담이며, 산업적 성과는 향후 반도체 시제품과 휴머노이드 통합, 제조현장 실증, 참여기업의 제품·구매로 이어지는지에 따라 판가름 난다."
+      ],
+      "implications": [
+        "국내 NPU 기업에는 독립 칩 성능뿐 아니라 센서 입력, 로봇 제어, VLA 추론과 전력 제약을 함께 맞추는 시스템 통합 능력이 중요해진다. 제조기업이 초기부터 실증 주체로 참여하면 모델·칩·로봇의 요구사항을 동시에 반영하고 현장 검증 데이터를 축적할 수 있다.",
+        "사업의 진행은 뉴로모픽 칩의 설계·제작 일정, 지원 프레임워크와 개발도구, 참여기업 현장에 투입되는 통합 시제품 수, 후속 구매·사업화로 나눠 볼 필요가 있다. 인력양성 성과도 배출 인원뿐 아니라 지역기업 채용과 제품개발 참여로 연결되는지가 핵심이다.",
+        "지역 AI반도체 사업은 연구시설 구축만으로 수요를 만들기 어렵다. 이 사업처럼 수요기업·실증기관·인재양성을 하나의 과제로 묶은 구조가 반복 가능한 제조 수요와 기업 성장으로 이어지는지가 향후 유사 사업 설계의 판단 기준이 될 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "영남대, ‘HuMAN 제조특화 휴머노이드 사업단’ 개소",
+          "publisher": "영남대학교",
+          "published_at": "2026-11-17",
+          "url": "https://www.yu.ac.kr/pr/yunews/yu-news-room.do?articleNo=232557642&mode=view",
+          "verification": "public_primary",
+          "verified_at": "2026-11-18T09:42:33+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "영남대 공식 페이지는 2026-11-17 등록일과 사업 내용을 표시한다. 같은 핵심 사실을 담은 매일신문 기사가 2026-11-17 13:51:33 KST에 공개됐고 Daily Desk 아카이브가 17:05:43 KST에 수집해 2026-11-18 09:30 KST 마감 전 공개를 확인했다."
+        }
+      ],
+      "event_id": "yeungnam-human-manufacturing-humanoid-ai-chip-project-2026",
+      "event_first_published_at": "2026-11-17T13:51:33+09:00",
+      "event_evidence_url": "https://www.yu.ac.kr/pr/yunews/yu-news-room.do?articleNo=232557642&mode=view",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "세미파이브, PFN 3D-IC AI칩 2027년 1분기 테이프아웃…HBM 의존 낮춘다",
+      "category": "국내 NPU·AI반도체",
+      "collected_at": "2026-11-17T04:47:39.118Z",
+      "original_published_at": "2026-11-17T08:00:00+09:00",
+      "original_url": "https://www.thebell.co.kr/front/newsview.asp?key=202611161434253480102835",
+      "main_points": [
+        "세미파이브는 일본 프리퍼드네트웍스의 차세대 추론 칩 MN-Core L2000 설계를 진행하며 2027년 1분기 테이프아웃을 준비하고 있다. 이 칩은 대형 로직 다이 위에 D램을 수직 적층하는 3D-IC 구조를 적용해 HBM을 별도 패키지로 연결하는 방식과 다른 메모리 통합 경로를 택했다.",
+        "회사는 PFN 프로젝트에서 로직 다이 설계, TSV 적용, 패키징과 맞춤형 D램 조달을 묶은 3D-IC 특화 플랫폼을 구축했다. 플랫폼을 후속 고객 프로젝트에 재사용해 개발기간을 단축하고 공급망 관리까지 지원한다는 구상이며, 이미 복수 고객사와 신규 프로젝트를 논의 중이라고 밝혔다.",
+        "MN-Core L2000은 SC26에서 공동 전시됐고 PFN은 차차세대 MN-Core L3000도 준비하고 있다. 다만 현재 확인된 단계는 설계 막바지와 테이프아웃 예정으로, 양산성과 수율·원가·고객 납품은 후속 검증 대상이다."
+      ],
+      "importance": [
+        "AI칩의 메모리 병목을 HBM 조달 확대만으로 풀지 않고 로직과 범용 D램을 수직 통합하는 설계·패키징 방식으로 대응한다는 점이 구조적 변화다. 국내 디자인솔루션 기업이 공정 연결과 패키징, 메모리 조달을 플랫폼으로 묶으면 팹리스의 고난도 3D-IC 진입비용과 재설계 위험을 낮출 수 있다.",
+        "PFN 프로젝트가 단일 수주에 머물지 않고 복수 고객용 재사용 플랫폼으로 확장될 경우 국내 AI반도체 생태계의 경쟁 단위가 개별 칩 설계에서 검증된 칩렛·메모리 통합 공정과 공급망 운영으로 넓어진다."
+      ],
+      "implications": [
+        "국내 AI반도체 기업은 HBM 공급 여건과 목표 모델의 메모리 접근 특성에 따라 2.5D HBM, 로직 위 D램 적층, CXL 기반 외부 메모리 등 여러 구성을 비교할 수 있다. 핵심은 명목 대역폭보다 실제 추론 처리량, 전력, 열, 수율과 총비용을 함께 검증하는 것이다.",
+        "3D-IC 플랫폼이 확산되려면 설계자산뿐 아니라 TSV·패키징 공정의 검증, 열 해석, 테스트와 수율 데이터가 고객이 재사용할 수 있는 형태로 축적돼야 한다. 국내 파운드리·OSAT·메모리 업체와의 협업 깊이가 플랫폼의 납기와 경제성을 좌우한다.",
+        "향후 MN-Core L2000의 테이프아웃 결과와 양산 전환, 복수 고객 논의의 실제 계약 여부를 확인하면 기술 플랫폼이 반복 수주와 매출로 이어지는지를 판단할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "[thebell interview] 세미파이브, 일본 PFN '3D-IC' 내년 초 테이프아웃",
+          "publisher": "더벨",
+          "published_at": "2026-11-17T08:00:00+09:00",
+          "url": "https://www.thebell.co.kr/front/newsview.asp?key=202611161434253480102835",
+          "verification": "full_text",
+          "verified_at": "2026-11-18T09:42:33+09:00"
+        }
+      ],
+      "event_id": "semifive-pfn-mn-core-l2000-3d-ic-tapeout-2026",
+      "event_first_published_at": "2026-11-17T08:00:00+09:00",
+      "event_evidence_url": "https://www.thebell.co.kr/front/newsview.asp?key=202611161434253480102835",
+      "selection_tier": "supplement"
+    },
+    {
+      "number": 3,
+      "title": "엔비디아, 삼성전기 기판·한국 패키징 장기확보…AI 공급망을 다년계약으로 전환",
+      "category": "메모리·패키징·인프라",
+      "collected_at": "2026-11-17T23:10:02.013Z",
+      "original_published_at": "2026-11-18T07:18:00+09:00",
+      "original_url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+      "main_points": [
+        "엔비디아는 삼성전기·Kinsus·암코·SPIL·TSMC·폭스콘과 기판, 첨단패키징, 웨이퍼와 시스템 생산능력을 확대하는 장기 공급계획을 발표했다. 삼성전기와는 기존 기판 공급계약을 수정해 세종·부산 공장의 생산·운영 역량을 높이고 엔비디아의 컴퓨팅·고속 네트워킹 제품 공급 확대를 지원한다.",
+        "Kinsus는 엔비디아 전용 ABF 기판 생산능력을 현재의 3.5배 이상으로 확대해 2027년 하반기 생산을 시작하고 2028년 3분기 추가능력을 확보할 예정이다. 엔비디아는 미국·한국 패키징 생산 확대를 위해 암코와 약 30억 달러 규모의 다년 계약과 선급금 지원을 진행했고, SPIL에는 다년 계약과 수십억 달러 자금을 통해 2029년 중반까지 전용 패키징 능력을 늘린다.",
+        "Vera Rubin NVL72와 Vera CPU는 3분기부터 양산 출하됐으며 TSMC의 5나노·3나노 공정과 CoWoS 패키징을 활용한다. 엔비디아는 기판·패키징·시험·광엔진을 함께 늘리는 방식으로 차세대 플랫폼의 공급 병목을 선제적으로 관리하고 있다."
+      ],
+      "importance": [
+        "AI 가속기 공급망 확보 방식이 단기 주문 배분에서 다년 계약, 선급금과 전용 생산능력 확대로 바뀌고 있다. 설계기업이 패키징과 기판 투자를 함께 금융지원하면 후공정 기업의 증설 위험을 낮추는 대신 특정 고객 중심의 장기 용량 배분이 강화된다.",
+        "삼성전기와 암코의 한국 생산거점이 차세대 엔비디아 플랫폼의 기판·패키징 계획에 직접 포함돼 한국 생태계의 역할이 HBM을 넘어 고다층 기판과 조립·시험으로 넓어졌다. 이는 국내 공급사의 기술력뿐 아니라 증설 속도·수율·납기 관리가 글로벌 AI 인프라 출하에 미치는 영향이 커졌다는 뜻이다."
+      ],
+      "implications": [
+        "국내 기판·패키징 기업에는 고밀도 배선, 대형 패키지의 신뢰성, MLCC와 전력 전달을 함께 제공하는 통합 역량이 장기 수주 조건으로 부상한다. 공급사의 기술개발 일정과 엔비디아 플랫폼 전환 주기가 맞물리므로 고객 공동검증과 양산 전환 관리가 중요하다.",
+        "다년 전용계약은 투자 가시성을 높이지만 수요 집중과 제품 세대 전환 위험도 키운다. 국내 공급망은 특정 고객 물량 확대와 동시에 다른 가속기·맞춤형 XPU 고객에 적용할 수 있는 공정 자산과 설비 유연성을 확보할 필요가 있다.",
+        "후속 판단에는 삼성전기 계약의 실제 생산능력·출하 일정, 암코 한국 증설의 집행, SPIL·Kinsus와의 글로벌 용량 배분, Vera Rubin 램프업 과정의 기판·패키징 병목 여부가 핵심 지표가 된다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
+          "publisher": "NVIDIA Newsroom",
+          "published_at": "2026-11-18T07:18:00+09:00",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+          "verification": "public_primary",
+          "verified_at": "2026-11-18T09:42:33+09:00"
+        }
+      ],
+      "event_id": "nvidia-supply-chain-multiyear-substrate-packaging-expansion-2026",
+      "event_first_published_at": "2026-11-18T07:18:00+09:00",
+      "event_evidence_url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "AMD, 특화 추론칩 Taalas 인수 완료…Instinct·ROCm과 시스템 공동설계",
+      "category": "글로벌 가속기",
+      "collected_at": "2026-11-17T14:54:02.524Z",
+      "original_published_at": "2026-11-17T23:02:47+09:00",
+      "original_url": "https://newsroom.amd.com/news/amd-completes-acquisition-taalas-advance-ai-inference-innovation/",
+      "main_points": [
+        "AMD는 특화 AI 추론 실리콘 기업 Taalas 인수를 완료했다. Taalas의 기술과 엔지니어링 조직을 편입해 특정 모델과 워크로드에 최적화된 추론 성능·전력효율을 강화하고 장기 가속기 로드맵에 반영한다.",
+        "AMD는 Taalas 기술을 Instinct GPU와 함께 작동하는 시스템 수준 솔루션으로 개발할 계획이다. EPYC CPU, ROCm 소프트웨어와 Helios 랙스케일 시스템을 포함한 기존 포트폴리오에 특화 실리콘을 결합해 범용 가속기와 워크로드별 연산을 한 플랫폼에서 제공하는 구조다.",
+        "인수로 AMD의 캐나다 엔지니어링 조직도 확대된다. 인수금액과 구체적인 첫 제품·출시일은 공개되지 않았으며, 확인된 단계는 인수 완료와 통합 방향 발표다."
+      ],
+      "importance": [
+        "가속기 경쟁이 범용 GPU 성능만으로 결정되지 않고 모델별 데이터흐름과 연산패턴을 실리콘에 반영하는 특화 추론칩, CPU·GPU·네트워크·소프트웨어의 시스템 조합으로 이동하고 있다. AMD가 이를 인수로 내부화하면서 엔비디아와 자체칩 진영 사이의 제품 범위를 넓히려는 전략이 분명해졌다.",
+        "Taalas를 독립 제품으로 분리하기보다 Instinct·ROCm·Helios에 결합한다는 계획은 이기종 가속기 채택에서 공통 소프트웨어와 시스템 운영경로가 핵심이라는 점을 보여준다."
+      ],
+      "implications": [
+        "국내 NPU 기업도 모든 워크로드를 단일 칩으로 대체하기보다 GPU와 특화 NPU를 역할별로 조합하고 공통 서빙·관제 계층에서 운영하는 방식을 강화할 수 있다. 고객은 최고 성능 수치보다 기존 모델의 포팅 비용, GPU와의 작업 분배, 장애 대응과 공급 안정성을 함께 평가하게 된다.",
+        "하드웨어 차별화가 ROCm 같은 개발 생태계와 결합되면 컴파일러·커널·런타임 최적화 인력이 인수와 제휴의 핵심 자산이 된다. 국내 생태계도 칩 설계와 함께 모델 최적화·시스템 소프트웨어 인력과 검증자산을 축적해야 협력가치를 높일 수 있다.",
+        "향후 AMD가 공개할 첫 통합 제품, Taalas 기술의 Instinct·Helios 내 역할, 지원 모델과 실제 전력·처리량이 인수의 산업적 효과를 판단할 기준이다."
+      ],
+      "sources": [
+        {
+          "title": "AMD Completes Acquisition of Taalas to Advance AI Inference Innovation",
+          "publisher": "AMD Newsroom",
+          "published_at": "2026-11-17T23:02:47+09:00",
+          "url": "https://newsroom.amd.com/news/amd-completes-acquisition-taalas-advance-ai-inference-innovation/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-18T09:42:33+09:00"
+        }
+      ],
+      "event_id": "amd-completes-taalas-specialized-inference-silicon-acquisition-2026",
+      "event_first_published_at": "2026-11-17T23:02:47+09:00",
+      "event_evidence_url": "https://newsroom.amd.com/news/amd-completes-acquisition-taalas-advance-ai-inference-innovation/",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 5,
+      "title": "엔비디아 데이터센터 매출 1,076억달러…Vera Rubin 출하로 AI 수요 재확인",
+      "category": "AI반도체 시장",
+      "collected_at": "2026-11-17T23:10:02.013Z",
+      "original_published_at": "2026-11-18T06:20:00+09:00",
+      "original_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "main_points": [
+        "엔비디아의 2027회계연도 3분기 매출은 1,158억 달러로 전분기 대비 20%, 전년 동기 대비 103% 증가했다. 데이터센터 매출은 1,076억 달러로 각각 21%, 110% 늘었고 GAAP 매출총이익률은 74.8%, 순이익은 653억 달러를 기록했다.",
+        "회사는 Vera Rubin NVL72 양산과 출하를 시작했으며 CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure와 Nebius에 랙이 가동 중이라고 밝혔다. Meta·Anthropic 등 주요 고객과 차세대 아키텍처·배치 협력도 확대했다.",
+        "다음 분기 매출 전망은 1,300억 달러에서 ±3%로 제시했으며 중국 데이터센터 컴퓨팅 매출은 전망에 반영하지 않았다. 이는 강한 글로벌 수요와 함께 중국 시장 규제·접근 제한을 별도 변수로 관리하고 있음을 보여준다."
+      ],
+      "importance": [
+        "데이터센터 매출이 전년의 두 배 이상으로 늘고 차세대 플랫폼 출하가 시작된 것은 AI 인프라 투자가 단순 수주 전망을 넘어 실제 매출과 생산 램프업으로 이어지고 있다는 시장 검증이다. 같은 날 공개된 공급망 장기계약이 왜 기판·패키징·시스템 생산능력 확대로 연결되는지도 수요 수치로 설명된다.",
+        "동시에 중국 매출을 제외한 전망은 성장세가 지역별 규제와 고객 접근성에 따라 분리될 수 있음을 보여준다. 글로벌 총수요 증가가 모든 시장과 공급사에 동일하게 배분되는 것은 아니다."
+      ],
+      "implications": [
+        "국내 메모리·기판·패키징 기업에는 Vera Rubin 램프업과 클라우드 배치가 실제 주문과 설비가동으로 이어지는지가 핵심이다. 매출 성장률뿐 아니라 재고, 선급금, 장기 공급계약과 고객별 플랫폼 전환 속도를 함께 봐야 공급주기의 지속성을 판단할 수 있다.",
+        "국산 NPU 기업에는 거대한 GPU 시장을 전면 대체하는 접근보다 비용·전력·지연시간이 중요한 추론 구간에서 검증 가능한 대체가치를 제시하는 전략이 현실적이다. 고객의 GPU 투자 확대 속에서도 운영 SW 호환성과 기존 모델 포팅을 확보해야 실제 혼합 배치 기회를 만들 수 있다.",
+        "향후에는 1,300억 달러 매출 전망의 실현, Vera Rubin 공급확대 속도, 중국 제외가 다른 지역 수요와 가격에 미치는 영향, 높은 이익률이 공급망 투자와 경쟁 심화 속에서 유지되는지를 확인할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+          "publisher": "NVIDIA Newsroom",
+          "published_at": "2026-11-18T06:20:00+09:00",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+          "verification": "public_primary",
+          "verified_at": "2026-11-18T09:42:33+09:00"
+        }
+      ],
+      "event_id": "nvidia-fy2027-q3-results-vera-rubin-shipment-2026",
+      "event_first_published_at": "2026-11-18T06:20:00+09:00",
+      "event_evidence_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "벤처투자 12조6,248억원 역대 최대…AI반도체·로봇 제조투자 급증",
+      "category": "정책금융·시장",
+      "collected_at": "2026-11-17T04:47:39.118Z",
+      "original_published_at": "2026-11-17T12:00:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261117045600030",
+      "main_points": [
+        "중소벤처기업부가 집계한 2026년 1~3분기 신규 벤처투자는 12조6,248억 원으로 전년 동기 대비 28.4% 증가해 같은 기간 역대 최대를 기록했다. 기업당 평균 투자금액은 37억 원으로 19.2% 늘었고, 3년 이하 초기기업 투자도 2조5,476억 원으로 47.6% 증가했다.",
+        "ICT 제조 투자는 64.7%, 전기·기계·장비 투자는 53.1% 늘어 전체 투자 증가분 2조7,886억 원의 절반 이상을 차지했다. 중기부는 AI반도체·로보틱스·첨단제조 분야의 대형 투자가 증가를 이끌었다고 분석했다.",
+        "신규 벤처펀드 결성은 12조9,971억 원으로 29.7% 증가했다. 정책금융 출자는 2조5,522억 원으로 53.1%, 민간부문 출자는 10조4,448억 원으로 25.1% 늘었으며 비수도권 벤처투자는 1조5,199억 원으로 66.7% 증가했다."
+      ],
+      "importance": [
+        "AI반도체와 로봇을 포함한 제조 분야가 벤처투자 증가의 중심으로 이동하고 정책금융·민간 출자가 함께 늘었다. 단순 소프트웨어 서비스 유행이 아니라 칩·로봇·장비처럼 개발기간과 자본소요가 큰 분야에 대형 자금이 유입되는 구조가 확인됐다.",
+        "평균 투자금액과 초기기업 투자, 비수도권 투자가 동시에 증가한 점은 자금이 일부 후기기업에만 집중되지 않고 기술개발·지역 제조 생태계까지 넓어질 가능성을 보여준다. 다만 통계는 AI반도체 개별 기업의 금액을 분리하지 않아 산업 전체 흐름과 개별 사업성을 구분해 해석해야 한다."
+      ],
+      "implications": [
+        "국내 AI반도체 기업은 늘어난 자금공급을 양산·고객검증·소프트웨어 생태계와 반복매출로 연결해야 다음 투자단계의 평가를 받을 수 있다. 기술개발 성과만으로는 대형 제조투자의 회수기간과 후속 자금 수요를 설명하기 어렵다.",
+        "정책금융이 민간 출자와 함께 확대된 만큼 자금의 추가성, 민간 후속투자, 지역기업의 실제 수혜와 회수시장 형성을 구분해 볼 필요가 있다. 비수도권 증가가 지역 연구거점과 제조 실증을 통한 기업 성장으로 이어지는지도 중요한 지표다.",
+        "향후 업종별 투자금액과 단계, AI반도체 기업의 후속 라운드·매출 전환, 펀드 결성액의 실제 집행 속도를 확인하면 이번 기록적 자금유입이 지속 가능한 산업자본으로 자리잡는지를 판단할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "올해 1∼3분기 벤처투자 12조6천억원…역대 최대 실적 달성",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-17T12:00:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261117045600030",
+          "verification": "full_text",
+          "verified_at": "2026-11-18T09:42:33+09:00"
+        },
+        {
+          "title": "올해 1~3분기 신규 벤처투자-벤처펀드 결성 '역대 최대'",
+          "publisher": "대한민국 정책브리핑·중소벤처기업부",
+          "published_at": "2026-11-17",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975903&pWise=sub&pWiseSub=C4",
+          "verification": "public_primary",
+          "verified_at": "2026-11-18T09:42:33+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "연합뉴스 공개 본문이 중기부 발표 내용을 2026-11-17 12:00 KST에 보도했고 Daily Desk 아카이브의 뉴스1 기사도 같은 시각 공개돼 13:47:39 KST에 수집됐다. 공식 정책브리핑 페이지의 날짜만 표시된 자료가 2026-11-18 09:30 KST 이전에 공개된 사실을 동시 보도와 수집기록으로 대조했다."
+        }
+      ],
+      "event_id": "korea-venture-investment-2026-q1-q3-ai-semiconductor-manufacturing",
+      "event_first_published_at": "2026-11-17T12:00:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261117045600030",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 7,
+      "title": "용인 반도체산단 용수공급 237억원 CM 발주…2029년 조기공급 실행",
+      "category": "반도체 기반·인프라",
+      "collected_at": "2026-11-17T23:10:02.013Z",
+      "original_published_at": "2026-11-18T06:00:20+09:00",
+      "original_url": "https://cnews.co.kr/m_home/view.jsp?idxno=202611121121455440774",
+      "main_points": [
+        "한국수자원공사는 용인 반도체 산업단지 통합용수공급사업 1단계 1·3공구 시설공사의 건설사업관리 용역 사전규격을 공개했다. 설계금액은 1공구 108억 원, 3공구 약 129억 원으로 합계 237억 원이며 이달 본공고와 2027년 1월 계약을 목표로 한다.",
+        "정부가 1단계 용수공급 시점을 2031년 1월에서 2029년 5월로 약 1년 8개월 앞당기면서 공사와 CM 기간을 다시 조정했다. 1공구 2,469억 원과 3공구 2,955억 원 규모 시공사 선정도 진행 중이고, 2공구는 이미 시공권이 정해졌다.",
+        "전체 사업은 2034년까지 약 2조1,601억 원을 투입해 하루 107만2,000t의 용수공급 체계를 구축한다. 1단계에서 하루 31만t, 2단계에서 76만2,000t을 추가해 삼성전자와 SK하이닉스 등이 입주하는 국가·일반산단에 공업용수를 공급한다."
+      ],
+      "importance": [
+        "반도체 클러스터의 용수 계획이 공급시점 조정과 예산 구상에서 사전규격·입찰·계약 일정이 있는 실제 조달 단계로 이동했다. 팹 가동에 필요한 대규모 용수는 전력·부지와 함께 선행 구축돼야 하므로 CM과 시설공사 일정이 생산시설 투자 속도를 직접 제약할 수 있다.",
+        "조기공급을 위해 설계·시공·관리 기간을 압축하면서 다수 공구와 기관을 병행 관리해야 하는 실행 위험도 커졌다. 단순 총사업비보다 공구별 계약과 공정 연계가 산업기반의 현실성을 보여주는 지표다."
+      ],
+      "implications": [
+        "AI반도체 공급능력 확대는 팹 장비와 공정기술뿐 아니라 취수·도수시설, 전력망과 인허가가 같은 시점에 준비돼야 가능하다. 용수 조기공급 일정이 지연되면 입주기업의 팹 건설·가동 계획과 관련 소재·장비 업체의 투자도 연쇄적으로 영향을 받을 수 있다.",
+        "공공 발주기관과 지자체, 입주기업 간에는 공구별 공정·수요 증가 시점과 비상공급 계획을 함께 관리할 필요가 있다. 계약 체결 자체보다 설계변경, 토지·인허가, 공사기간 단축이 실제 공급 개시일까지 어떻게 통제되는지가 중요하다.",
+        "후속으로 1·3공구 CM과 시공사 선정 결과, 2029년 5월 조기공급을 뒷받침하는 공정률, 2단계 투자·인허가 진행을 확인하면 클러스터 계획이 생산능력으로 전환되는 속도를 평가할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "용인 반도체산단 용수공급 CM 발주 초읽기",
+          "publisher": "대한경제",
+          "published_at": "2026-11-18T06:00:20+09:00",
+          "url": "https://cnews.co.kr/m_home/view.jsp?idxno=202611121121455440774",
+          "verification": "full_text",
+          "verified_at": "2026-11-18T09:42:33+09:00"
+        }
+      ],
+      "event_id": "yongin-semiconductor-cluster-water-cm-tender-2026",
+      "event_first_published_at": "2026-11-18T06:00:20+09:00",
+      "event_evidence_url": "https://cnews.co.kr/m_home/view.jsp?idxno=202611121121455440774",
+      "selection_tier": "primary"
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026-11 월 아카이브 index의 213개 조각 21,234건을 모두 읽고 리벨리온·퓨리오사AI·딥엑스·하이퍼엑셀·모빌린트의 고객 도입·공동개발·실증·사업화·매출 후보를 확인했다. 분석기간 내 새 고객계약·유상 PoC·양산·반복구매 사실은 확인되지 않았다. 래블업 SC26 보도는 11월 12일 원고의 120개 사업장 운영·반복매출 사실을 재소개해 제외했고, 퓨리오사AI 투자 관련 종목상담은 독립적인 신규 투자확정이 아니었다. 세미파이브의 PFN 3D-IC 프로젝트는 국내 AI반도체 설계·패키징의 구체적 테이프아웃 일정과 재사용 플랫폼이 확인돼 선정했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP와 중앙정부·지자체·지방의회·공공기관·테크노파크의 NPU 예산·도입·조달·K-Perf·실증센터·GPU/NPU 지원사업을 확인했다. 영남대 사업은 IITP 선정과 국비 110억 원, 지방비 5억 원, 제조기업 실증·사업화 역할이 구체화돼 선정했다. NIPA AI반도체 수집원은 최신 실행에서 empty였으나 공식·공개 검색으로 보완했으며, 광주·전남 반도체 거점 기사는 토론회 제안·국비 건의 단계여서 실제 사업·예산 집행 후보보다 후순위로 뒀다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·AWS Trainium·Intel과 자체칩·수출통제·전략적 인수·제휴를 확인했다. AMD의 Taalas 인수 완료, 엔비디아의 실적·Vera Rubin 출하와 공급망 장기계약을 선정했다. 미국의 제3국 원격 AI칩 접근 규칙은 11월 17일 원고에 이미 게재됐고, 엔비디아 CEO 복귀·이사회 관련 보도는 산업 수요·기술 변화보다 경영 이슈 비중이 커 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "SGLang·vLLM·ROCm·CUDA·컴파일러·커널·런타임·오케스트레이션과 이기종 가속기 운영을 확인했다. SGLang Summit 회고와 래블업 SC26 발표는 11월 12~14일 원고의 컨소시엄·NIM 채택·고객운영 자료를 반복해 별도 선정하지 않았다. AMD가 Taalas 기술을 Instinct·ROCm·Helios에 통합하는 방향과 세미파이브의 3D-IC 플랫폼을 하드웨어·소프트웨어 공동설계 변화에 반영했으며, 분석기간 내 독립적인 신규 국내 운영 SW 고객배치는 확인되지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단패키징·CXL·인터커넥트, AIDC 전력·냉각·금융, 반도체 클러스터의 부지·전력·용수를 확인했다. 엔비디아의 삼성전기 기판·암코 한국 패키징 장기확보, 세미파이브 3D-IC, 용인 산단 237억 원 CM 발주를 선정했다. 삼성의 메타 맞춤형 HBM 보도는 공식 계약·제품 사양 확인이 부족했고, AIDC 전력수요 과다계상 분석과 지역 클러스터 지정 건의는 실제 조달 단계의 용수사업보다 후순위였다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "국비·지방비, AI반도체·로봇·VLA 통합과 지역 제조기업의 실증·사업화 역할이 확인돼 국내 현장 수요와 인재양성 판단에 직접 관련된다."},
+      {"article_number": 2, "reason": "국내 디자인솔루션 기업이 로직 위 D램 적층 3D-IC를 실제 고객칩에 적용하고 테이프아웃 일정과 복수 고객 논의를 공개한 구조적 기술 변화다."},
+      {"article_number": 3, "reason": "삼성전기 기판과 한국 패키징 생산능력이 엔비디아의 다년계약·선급금 방식 공급망 확대에 포함돼 국내 후공정 사업기회와 투자위험을 함께 보여준다."},
+      {"article_number": 4, "reason": "AMD가 특화 추론 실리콘을 인수 완료하고 Instinct·ROCm·Helios에 결합해 이기종 가속기와 풀스택 경쟁을 강화한 전략적 거래다."},
+      {"article_number": 5, "reason": "데이터센터 매출과 Vera Rubin 출하가 AI 인프라 수요를 실제 매출·배치로 검증하고 공급망 투자와 시장전망의 기준 수치를 제공한다."},
+      {"article_number": 6, "reason": "AI반도체·로봇 제조투자가 벤처투자 증가를 이끌고 정책금융·민간 출자와 비수도권 투자가 동시에 확대된 산업자금 흐름이다."},
+      {"article_number": 7, "reason": "용인 반도체산단 용수공급이 237억 원 CM 사전규격과 2027년 1월 계약 목표로 구체화돼 산업기반 계획이 실제 조달 단계로 이동했다."}
+    ],
+    "excluded": [
+      {"title": "SGLang Summit 2026 Recap: Building Open AI Infrastructure Together", "url": "https://www.lmsys.org/blog/2026-11-17-sglang-summit-recap", "reason": "SGLang 컨소시엄 출범과 NVIDIA NIM 채택은 11월 13~14일 원고에 게재됐고 회고문에 별도 제품출시·고객배치·운영성과가 추가되지 않았다."},
+      {"title": "래블업, 美 SC26 4년 연속 참가…AI 인프라 통합 운영 기술 공개", "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oTDQwdGlONnAxYmlpQjl1Q3ljeURVbDh6V1FoNldYelJMVnZNOVV0ODJjZWlYb2dGeHpIc2hJNUdWdDJrS1FRa3cxazVXQmtqVy1lX2Jn?oc=5", "reason": "SC26 전시와 토큰 팩토리 설명은 중요하지만 11월 12일 원고의 120개 사업장·GPU 활용률·반복매출 자료에 비해 새 고객계약이나 운영성과가 확인되지 않았다."},
+      {"title": "미국, 중국의 해외 AI 연산까지 통제…한국 HBM 수요에도 변수", "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5URzg1RUZCc2p5RTJaLW5RLW13d0lUZmtBSnRTRnBIZms2VFVUejhqWHl1ZjVCRVI0NHA2a2dobzg1R185eGNSZnY2Q0ZFMDFycmdoVmk0SC11cktrNURENktCTnl5RHFXTF9tTDNCNjY?oc=5", "reason": "BIS의 제3국 데이터센터 원격 접근 규칙은 11월 17일 원고에 공식자료로 이미 게재됐고 당일 재보도에 독립적인 집행사례·적용범위 변경이 없었다."},
+      {"title": "삼성전자, 메타 AI칩용 맞춤 HBM 개발 보도…2나노 베이스다이 거론", "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mQ2c4akUxWWhUQWtmVXMwbTg0NDVsWXlyNTJ4UDZrUF9WR3dwYkR6NFBTUWdUN1Q0R1U3WlhVS29FQ3FNczhWMXNYdE9uVWZQalJR0gFYQVVfeFMUDZGT212b3k2MlZpLS1yVkxtNXAxZlhtNXJMckFVVjhyQW1UY05talVNUUNaSVN0QzctRDNTY2ktU001ZTBJS1hKdHNkZFdvTUJEUFBWWFhiNw?oc=5", "reason": "맞춤형 HBM의 산업적 의미는 크지만 삼성·메타의 공식 계약, 개발단계와 물량이 확인되지 않아 확정된 삼성전기 기판계약과 세미파이브 프로젝트보다 검증 수준이 낮았다."},
+      {"title": "경기도, 8개 시 반도체클러스터 공동지정 추진…연구·설계·제조 연계", "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xZEF0LUlNU3gwMWpNTDg0Z3o4LW1rZTZweHF5eWN4cXhxd1JweGhfODVOSzFkT3c4SHJxMnlEdjM1WkVSbGpWWkxaN2Qwa2dqSEd2R0VtNTdJQkEzZ1ppOU9naDRnLUNLQlIxWXJR?oc=5", "reason": "광역 클러스터 공동지정 추진은 정책 방향이지만 지정·예산·인허가 확정 전 단계이며 용인 용수사업의 실제 발주 절차보다 실행성이 낮았다."},
+      {"title": "AIDC·반도체 산단에 ‘전력 허수 경보’…정밀 수요예측 체계 시급", "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oXzFQMkVHaWNaTVpLZ0FQRjFMb0QtNExtNEMwd3p1SjlpemRQMER4SXoza0FqT0ZYeF9FY1ItVndFR2VPNkowbEx6MXMyN01saWREX2Z0TVcycFdZSEhnWU1FMkZWMUdzTVFiSk1R?oc=5", "reason": "전력수요 예측 문제는 중요하지만 기획 분석 중심이며 당일 확인된 계약·제도 변경보다 구체성이 낮아 실제 CM 발주 후보를 우선했다."},
+      {"title": "Nvidia board rules that co-founder Jensen Huang will not return as CEO", "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUnQ0cjRjR1dHMkN4VlJSdmZVMVBrZDEtQWNSMXc4RnMzSzZJckczRjVNWmlrNXZUMEJYQTRxckJIWnJKSTNWd2lSVTR1b3JaaTFyd3Q3VDJFYVpVZ0twVFRNU2NNemZ3cjhJUWZCZ2xUQ0lWdldDVldzcWVRbXpBUWdkdGxLblFCOF9FcXRRbm56dDJTUEdtWTd3U251UDRPXzRPVmFpWXVpZWQ2Q1JNVmlrSTRNb1daM2c?oc=5", "reason": "경영진 복귀 여부는 시장 관심이 크지만 공급계약·제품출하·고객수요와 직접 연결된 새 산업 사실보다 우선순위가 낮았다."}
+    ],
+    "count_reason": "아카이브 index의 2026-11 월 213개 조각 21,234건과 2026-11-18 collection 두 실행, 최근 14일 ready 14개, 다섯 영역의 직접 보완 검색과 공식자료를 대조했다. 최근 24시간 내 검증된 6건에 더해 48시간 내 세미파이브 3D-IC가 국내 AI반도체 설계·패키징이라는 독립적인 중대 분야를 추가해 최대 7건으로 확정했다.",
+    "company_overlap_review": "엔비디아가 기사 3과 5에서 반복되지만 기사 3은 삼성전기·암코·SPIL과의 다년 공급망 계약, 기사 5는 실제 데이터센터 매출과 Vera Rubin 고객배치로 사건·출처·산업단계가 독립적이다. 같은 날 발표된 실적과 공급망 계획이 수요와 생산능력의 양면을 설명해 두 건을 유지했다. AMD는 기사 4에서만 중심이고, 국내 기사들은 영남대·세미파이브·중기부·수자원공사로 주체가 분산된다. 전일 AMD 월드랩스 인수는 모델 연구조직, 이번 Taalas 인수는 특화 추론 실리콘과 Instinct·ROCm 통합으로 대상·기술·전략이 독립적이다.",
+    "candidate_counts": {
+      "discovered": 3966,
+      "time_eligible": 2917,
+      "independent_events": 23,
+      "verified": 15,
+      "selected": 7,
+      "basis": "최신 체크아웃의 python mail/candidates.py가 마감 전 72시간부터 작성시점까지 3,966건을 발견하고 48시간 발행조건에 맞는 2,917건을 집계했다. 213개 월 조각 전체를 읽고 고관련성 후보를 23개 독립 사건으로 묶어 비교했으며 공개 전문·기업·정부·대학 공식자료로 15개를 확인한 뒤 7개를 선정했다. 09:30 전 collection은 05:09:37·08:09:58 KST 두 차례로 1,455건·1,349건을 아카이브했고 failed는 없었으나 최신 실행에서 세 수집원이 empty여서 직접 검색과 공식자료로 보완했다."
+    },
+    "history_review": {
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-17",
+      "checked_dates": ["2026-11-04", "2026-11-05", "2026-11-06", "2026-11-07", "2026-11-08", "2026-11-09", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17"],
+      "note": "최근 14일 모든 ready 원고의 제목, 주요 사실, original_url, sources와 event_id를 읽어 사건 단위로 비교했다. SGLang·래블업·미국 원격접근 수출통제와 지역 전력망 분석 등 반복 주제를 제외했다. 전일 AMD 월드랩스 인수는 모델·시뮬레이션 연구조직 인수였고 이번 Taalas는 특화 추론 실리콘 인수 완료와 Instinct·ROCm 통합으로 독립 사건이다. 선정 7건과 동일한 과거 게재 사건은 없었다."
+    },
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "국비·지방비와 뉴로모픽 AI반도체·휴머노이드·VLA 통합, 제조기업 실증 역할이 공개된 사업단 출범 사건은 최근 14일 원고에 없다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "PFN MN-Core L2000의 3D-IC 구조, 2027년 1분기 테이프아웃과 복수 고객용 플랫폼 계획은 최근 14일 원고에 없다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "삼성전기 계약 수정과 암코·SPIL·Kinsus의 다년 생산능력 확장은 이전의 일반 공급망 협력과 구분되는 신규 계약·투자 사건이다."},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "AMD의 Taalas 인수 완료와 특화 추론 실리콘의 Instinct·ROCm·Helios 통합은 11월 17일 월드랩스 인수와 대상·기술이 다른 신규 거래다."},
+      {"article_number": 5, "result": "new_event", "previous_editions": [], "note": "2027회계연도 3분기 실적과 Vera Rubin 양산·클라우드 배치, 다음 분기 전망은 최근 14일 원고에 없는 신규 실적·출하 사건이다."},
+      {"article_number": 6, "result": "new_event", "previous_editions": [], "note": "2026년 1~3분기 벤처투자·펀드 결성 통계와 AI반도체·로봇 제조투자 증가 수치는 최근 14일 원고에 없다."},
+      {"article_number": 7, "result": "new_event", "previous_editions": [], "note": "용인 통합용수공급 1·3공구 CM 사전규격과 2027년 1월 계약 목표는 기존 전력망·클러스터 분석과 구분되는 실제 조달 사건이다."}
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "국내 NPU 리벨리온 퓨리오사AI 딥엑스 하이퍼엑셀 모빌린트 고객 도입 공동개발 실증 사업화 매출 2026-11-17 2026-11-18; 세미파이브 PFN 3D-IC 테이프아웃; 래블업 SC26 token factory",
+          "official_sources": "세미파이브·PFN 프로젝트 공개 전문 https://www.thebell.co.kr/front/newsview.asp?key=202611161434253480102835, 영남대 공식자료 https://www.yu.ac.kr/pr/yunews/yu-news-room.do?articleNo=232557642&mode=view 와 최근 14일 원고를 확인했다.",
+          "result": "분석기간 내 국내 NPU 기업의 새 고객계약·양산·반복구매는 확인되지 않았다. 세미파이브의 실제 고객칩 3D-IC 테이프아웃 일정과 플랫폼 확장을 선정했고 래블업·퓨리오사AI 재보도는 새 계약사실이 없어 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "site:msit.go.kr AI반도체 NPU 2026-11-17; site:nipa.kr NPU 공고; site:iitp.kr AI반도체; 정부 지자체 공공기관 테크노파크 NPU 국비 예산 실증 도입 조달; 영남대 HuMAN 제조 휴머노이드",
+          "official_sources": "영남대 공식자료 https://www.yu.ac.kr/pr/yunews/yu-news-room.do?articleNo=232557642&mode=view, 정책브리핑·중기부 자료 https://www.korea.kr/news/policyNewsView.do?newsId=148975903&pWise=sub&pWiseSub=C4 와 과기정통부·NIPA·IITP 공개 페이지를 확인했다.",
+          "result": "영남대의 국비 110억 원·지방비·기업 실증 역할을 선정하고 AI반도체 제조투자 통계를 반영했다. 분석기간 내 별도 국산 NPU 구매·조달·공모선정은 확인되지 않았으며 광주·전남 거점 기사는 제안·건의 단계로 구분했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "NVIDIA AMD Google TPU AWS Trainium Intel AI accelerator November 17 18 2026 official; AMD Taalas acquisition; NVIDIA FY2027 Q3 Vera Rubin; NVIDIA supply chain Samsung Electro-Mechanics",
+          "official_sources": "AMD 공식 인수자료 https://newsroom.amd.com/news/amd-completes-acquisition-taalas-advance-ai-inference-innovation/, NVIDIA 실적 https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027, 공급망 자료 https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout 를 확인했다.",
+          "result": "Taalas 인수, Vera Rubin 출하·실적과 삼성전기 포함 공급망 장기계약을 선정했다. 원격접근 수출통제는 전일 중복, 엔비디아 경영진 보도는 산업 직접성이 낮아 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "SGLang vLLM ROCm CUDA inference runtime kernel compiler heterogeneous accelerator November 17 18 2026; 국내 가속기 운영 SW 래블업 SC26",
+          "official_sources": "AMD Taalas 공식자료의 Instinct·ROCm·Helios 통합 방향, LMSYS SGLang Summit 회고와 11월 13~14일 기존 SGLang 원고, 래블업 공개 보도를 대조했다.",
+          "result": "독립적인 신규 운영 SW 고객배치는 확인되지 않았다. AMD의 특화 실리콘·ROCm 통합을 선정했고 SGLang 회고와 래블업 전시 보도는 최근 사건의 반복으로 제외했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "HBM advanced packaging CXL UCIe interconnect AI data center power cooling financing November 17 18 2026; Samsung Electro-Mechanics NVIDIA substrate; Semifive 3D-IC; 용인 반도체 용수 CM",
+          "official_sources": "NVIDIA 공급망 공식자료 https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout, 세미파이브 공개 전문 https://www.thebell.co.kr/front/newsview.asp?key=202611161434253480102835, 대한경제 공개 본문 https://cnews.co.kr/m_home/view.jsp?idxno=202611121121455440774 를 확인했다.",
+          "result": "삼성전기·암코 한국 패키징 장기확보, 세미파이브 3D-IC와 용인 용수 CM 발주를 선정했다. 메타 맞춤형 HBM은 공식 계약 확인이 부족했고 전력수요 분석·지역 지정 건의는 실제 조달보다 후순위였다."
+        }
+      },
+      "alternative_sources": "최신 08:09 KST collection에서 ai-market-business·mobilint-global·nipa-ai-chip 세 출처가 empty였고 failed는 없었다. 월 아카이브 213개 조각과 기업·대학·정부 공식자료, 공개 전문을 직접 확인해 보완했다. 더벨·대한경제·영남대·정책브리핑은 공개 검색 본문과 동시 보도·수집시각으로 교차확인했고, 유료벽·검색요약만으로 사실을 확정할 수 없는 맞춤형 HBM 등 후보는 제외했다."
+    }
+  }
+}
