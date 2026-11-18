@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-11-18T07:41:04.560Z",
+  "generatedAt": "2026-11-18T07:50:21.012Z",
   "news": {
     "articles": [
       {
@@ -212,7 +212,8 @@ window.__DASHBOARD_DATA__ = {
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai",
-          "google-ai"
+          "google-ai",
+          "accelerator-strategic-deals-global"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -323,7 +324,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "\"AI 부정, 꼼짝마\"…수능 현장에 과기정통부·이통사·NIA 100여명 파견 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRa0RsLW5pb01SNlg4OXB1ZEVmTy1mYnJ4ME1SSHNyRVA4M0tBakdwM1JBUjNxZm9iMmp0Y3dSY1N3aUNFYnk1VGF0Z0xvUTdiSU1KLW5haFZBbmpQYlhMTDZ6ZExDTGFsS2pKbklMTl9BRkxp0gF6QVVfeXFMUEw5V0gwRUljMGV3dlhtSE5kaTV2akl2SW8xdHZjRmw2aGdtU292aUdwS2RjWGk0YVZxVjc5N0wxaVRJMy1xS3YzYU9DLVJ1NUFjck1XRDE4MGRVZWRxOHVQX2JiYnBsS2UyZXFVMExNSjZCdUYwUk95ckE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMOVdIMEVJYzBld3ZYbUhOZGk1dmpJdklvMXR2Y0ZsNmhnbVNvdmlHcEtkY1hpNGFWcVY3OTdMMWlUSTMtcUt2M2FPQy1SdTVBY3JNV0QxODBkVWVkcTh1UF9iYmJwbEtlMmVxVTBMTUo2QnVGMFJPeXJB0gF6QVVfeXFMUEw5V0gwRUljMGV3dlhtSE5kaTV2akl2SW8xdHZjRmw2aGdtU292aUdwS2RjWGk0YVZxVjc5N0wxaVRJMy1xS3YzYU9DLVJ1NUFjck1XRDE4MGRVZWRxOHVQX2JiYnBsS2UyZXFVMExNSjZCdUYwUk95ckE?oc=5",
         "publishedAt": "Wed, 18 Nov 2026 06:18:38 GMT",
         "summary": "\"AI 부정, 꼼짝마\"…수능 현장에 과기정통부·이통사·NIA 100여명 파견 - 머니투데이 &nbsp;&nbsp; 머니투데이",
         "outlet": "머니투데이",
@@ -829,26 +830,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "CT, 과기정통부 모두의 AI 챌린지 사업 선정…전 국민 무료 AI 체험 제공 - 헬로티",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aQWRic1F5cTRQck1wSEliVFpSSl8tVW9RWUtCRFlLNVRJT1pjNmU1MzJGWmY5MDVLS2tRQnd2d3JITUp0eXJPNkFvZGVJRUQzLTRTaGVvVlFDWlIyRTJj?oc=5",
-        "publishedAt": "Tue, 17 Nov 2026 07:49:45 GMT",
-        "summary": "CT, 과기정통부 모두의 AI 챌린지 사업 선정…전 국민 무료 AI 체험 제공 &nbsp;&nbsp; 헬로티",
-        "outlet": "헬로티",
-        "outletUrl": "https://www.hellot.net",
-        "source": "NIPA·과기정통부 정책",
-        "sourceIds": [
-          "nipa-msit-policy"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [],
-        "taxonomyHits": [
-          "정책"
-        ],
-        "issueCategory": "정책",
-        "score": 26
-      },
-      {
         "title": "AI Chip Stocks Crash: SK Hynix Falls 8%, TSMC Drops 6% Ahead of Nvidia Earnings - Coinpaper",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0o4MFVZQ2s4NFJDWU95a1JRODZ3UE5RRXJ5UzVDV1VFanVSVWFMMVlRVFVkZGt0RWZGcllmQ3VzWmNsTHVGRDB2bVMyUW4tLW80ZHVYZnhVX2k1LXo5VU9USmRvVVp5QXdNX3JYU2ZFdFNvalNMaGszVmFlbTZ4QzFLcV9XUmY3UnZsd252eVczZEdQaUJCMFlfcFNHWm5wWkpYUWJB?oc=5",
         "publishedAt": "Mon, 16 Nov 2026 16:26:36 GMT",
@@ -895,6 +876,26 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
+        "score": 25
+      },
+      {
+        "title": "CT, 과기정통부 모두의 AI 챌린지 사업 선정…전 국민 무료 AI 체험 제공 - 헬로티",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aQWRic1F5cTRQck1wSEliVFpSSl8tVW9RWUtCRFlLNVRJT1pjNmU1MzJGWmY5MDVLS2tRQnd2d3JITUp0eXJPNkFvZGVJRUQzLTRTaGVvVlFDWlIyRTJj?oc=5",
+        "publishedAt": "Tue, 17 Nov 2026 07:49:45 GMT",
+        "summary": "CT, 과기정통부 모두의 AI 챌린지 사업 선정…전 국민 무료 AI 체험 제공 &nbsp;&nbsp; 헬로티",
+        "outlet": "헬로티",
+        "outletUrl": "https://www.hellot.net",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "정책",
         "score": 25
       },
       {
@@ -1680,6 +1681,53 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
+        "title": "엔비디아, 삼성전기·앰코 등 글로벌 공급망 파트너 협력 확대 - AI타임스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3NkwwMEgxVXhsMW1lTlhKNVI5Y09WOTVVRTZJZWdaN1lqRlZMeVRja2k5WXo4X0JISXVsZnktdmhjRFk0NV9PcktDbWt1RFlNQnFiWWNHRTVsTEtmcGNhajNXak1DN0dHX3c?oc=5",
+        "publishedAt": "Wed, 18 Nov 2026 07:38:58 GMT",
+        "summary": "엔비디아, 삼성전기·앰코 등 글로벌 공급망 파트너 협력 확대 &nbsp;&nbsp; AI타임스",
+        "outlet": "AI타임스",
+        "outletUrl": "https://www.aitimes.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "엔비디아, 공급망 파트너 협력 확대로 AI 인프라 생산능력 강화 - e4ds news",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ueWhDc1dBc2FrVzZWcGYydFZnaW5ROWRfN18zV3hQQ2c4WnVYd2JwejdZQmtwR1pMSnIwN0xVVktSYWVyNVBaQnhVQmdTOWJqS1hRVk1n?oc=5",
+        "publishedAt": "Wed, 18 Nov 2026 06:57:00 GMT",
+        "summary": "엔비디아, 공급망 파트너 협력 확대로 AI 인프라 생산능력 강화 &nbsp;&nbsp; e4ds news",
+        "outlet": "e4ds news",
+        "outletUrl": "https://www.e4ds.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies",
+          "rebellions"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
         "title": "California sues OpenAI over escaped agents as Google's AI Mode cuts clicks - PPC Land",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0RfQnVPclpIN0NnS0xCSFZ6cUY3WWVJZXdYSGEwbk9FVHBVbms4OVllTjVwSFdZN1FGSlVQTGJDWDRuelh1ZEIzam5LaGV2b0dfT1JLXzZCSFp3bFV3cTZYN2M3N3RPR1RFbTY2UGZqcGJWb25kZ0xMbDNmVVMwWlJuenpyRnptclh0UlFqUEZsUHB0akE?oc=5",
         "publishedAt": "Wed, 18 Nov 2026 06:39:55 GMT",
@@ -2007,10 +2055,10 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China - Bloomberg",
+        "title": "Nvidia Stops Selling AI Chips to China Despite US Approval - Bloomberg",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5",
         "publishedAt": "Wed, 18 Nov 2026 04:10:00 GMT",
-        "summary": "Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China &nbsp;&nbsp; Bloomberg",
+        "summary": "Nvidia Stops Selling AI Chips to China Despite US Approval &nbsp;&nbsp; Bloomberg",
         "outlet": "Bloomberg",
         "outletUrl": "https://www.bloomberg.com",
         "source": "NVIDIA 이슈",
@@ -2754,29 +2802,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
-        "title": "엔비디아, 삼성전기와 AI 기판·MLCC 동맹 확대…추가 투자 검토 - 서울경제TV",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWVWlkZDRXdnZUaWotVHpjZGlfQzJKWGZpWVpRX0NaMV9HeXRocDhKMnJnQW1Bdmh4d3FHREZFOVJ5Vy10RFZmeDdYSkJBazJYaXllQnNGVmtNSU9ZOHR6bmduZXA?oc=5",
-        "publishedAt": "Tue, 17 Nov 2026 23:37:45 GMT",
-        "summary": "엔비디아, 삼성전기와 AI 기판·MLCC 동맹 확대…추가 투자 검토 &nbsp;&nbsp; 서울경제TV",
-        "outlet": "서울경제TV",
-        "outletUrl": "https://www.sentv.co.kr",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA",
-          "투자·M&A"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
         "title": "삼성전기·엔비디아, AI 반도체 동맹 확대…세종·부산에 추가 투자 추진 - 현대경제",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qaEQ4UmxlaDVHclJIZ2dLRmUyTk9ybGk2dVRkZTFBcm9SUks1Q2ZOTHlySzdxb0hCaWVES3JhZk5wWW95VHBpcUtTYW1XRHFnbS1wRlJqaUgzSDFHdC0wUmJfc3hjdGFuRTM4?oc=5",
         "publishedAt": "Tue, 17 Nov 2026 23:28:50 GMT",
@@ -3388,8 +3413,7 @@ window.__DASHBOARD_DATA__ = {
         "outletUrl": "https://e3mag.com",
         "source": "AI 서비스·클라우드",
         "sourceIds": [
-          "ai-agents-cloud",
-          "accelerator-software"
+          "ai-agents-cloud"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -3460,31 +3484,6 @@ window.__DASHBOARD_DATA__ = {
         ],
         "sourceLang": "en",
         "region": "global",
-        "companyHits": [
-          "NVIDIA",
-          "AMD"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "[美 서울상륙작전 ①] 엔비디아·AMD·인텔·퀄컴 릴레이 협약 행보… 한국이 'AI 검증 무대' 된 이유 - 디지털데일리",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5S3lGNjdaRG1wOVNYWGdrZ0dGVjZpaGV0TU8teFc3WjZOeW9kSTVvU09yQ093MFBIRGVxbjRxem91TldVZXh0VksyVVBtX1BnWkg1T1hjcUZnd21YVXhnWVpYQmQ?oc=5",
-        "publishedAt": "Mon, 16 Nov 2026 07:50:04 GMT",
-        "summary": "[美 서울상륙작전 ①] 엔비디아·AMD·인텔·퀄컴 릴레이 협약 행보… 한국이 'AI 검증 무대' 된 이유 &nbsp;&nbsp; 디지털데일리",
-        "outlet": "디지털데일리",
-        "outletUrl": "https://www.ddaily.co.kr",
-        "source": "리벨리온",
-        "sourceIds": [
-          "rebellions",
-          "msit-ai-chip",
-          "accelerator-strategic-deals-ko"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
         "companyHits": [
           "NVIDIA",
           "AMD"
@@ -4149,6 +4148,7 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "korea-npu",
           "deepx",
+          "korea-global-chip-cooperation",
           "accelerator-strategic-deals-ko"
         ],
         "sourceLang": "ko",
@@ -7048,7 +7048,7 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-11-18T07:40:58.743Z"
+    "generatedAt": "2026-11-18T07:50:19.061Z"
   },
   "briefing": {
     "date": "2026년 11월 18일 수요일",
@@ -7268,7 +7268,8 @@ window.__DASHBOARD_DATA__ = {
         "source": "NVIDIA 이슈",
         "sourceIds": [
           "nvidia-ai",
-          "google-ai"
+          "google-ai",
+          "accelerator-strategic-deals-global"
         ],
         "sourceLang": "en",
         "region": "global",
@@ -7370,7 +7371,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AMD",
-          20
+          19
         ],
         [
           "TSMC",
