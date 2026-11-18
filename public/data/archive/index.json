@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T23:10:02.013Z",
+  "updatedAt": "2026-11-18T03:40:23.097Z",
   "recovery": {
     "source": "git-history",
     "recoveredAt": "2026-08-26T04:32:26.161Z",
@@ -11,8 +11,8 @@
     "collectionStartedAt": "2026-06-12T07:01:33.269Z",
     "collectionStartMonth": "2026-06"
   },
-  "totalArticles": 70992,
-  "storedArticles": 71182,
+  "totalArticles": 71329,
+  "storedArticles": 71519,
   "months": [
     {
       "parts": [
@@ -228,12 +228,15 @@
         "2026-11/part-210.json",
         "2026-11/part-211.json",
         "2026-11/part-212.json",
-        "2026-11/part-213.json"
+        "2026-11/part-213.json",
+        "2026-11/part-214.json",
+        "2026-11/part-215.json",
+        "2026-11/part-216.json"
       ],
       "month": "2026-11",
       "file": "2026-11.json",
-      "count": 21234,
-      "newestPublishedAt": "Tue, 17 Nov 2026 23:05:00 GMT",
+      "count": 21571,
+      "newestPublishedAt": "Wed, 18 Nov 2026 03:38:52 GMT",
       "oldestPublishedAt": "Sun, 01 Nov 2026 00:00:00 GMT"
     },
     {
