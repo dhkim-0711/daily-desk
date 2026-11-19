@@ -1,0 +1,428 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-19",
+  "cutoff_at": "2026-11-19T09:30:00+09:00",
+  "window_start": "2026-11-18T09:30:00+09:00",
+  "created_at": "2026-11-19T09:52:00+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "경북 AI 클라우드팜이 GPU 112대를 기반으로 기업 173곳과 인력 996명을 지원했고, 경산에서는 퓨리오사AI NPU를 활용한 현장 추론 모델을 추진한다.",
+        "지역 공공 연산자원 사업이 GPU 교육·개발 지원에서 국산 NPU의 산업현장 추론과 제품화까지 연결되는 수요 경로를 만들기 시작했다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "대만 에이페이서의 Byclo 엣지 서버가 딥엑스 NPU 2개와 SSD 2개를 통합해 대만 경제부의 제품혁신상을 받았다.",
+        "국산 NPU가 칩 공급을 넘어 저장장치와 결합된 해외 고객 제품으로 통합되면서 저전력 엣지 추론의 상용화 경로가 구체화됐다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "모빌린트는 일본 AI 엑스포에서 현지 기업 6곳과 일본어 VLM·영상분석·안전관리 등 NPU 기반 데모 6종을 공동 공개했다.",
+        "단일 공급사 시연이 아니라 현지 모델·솔루션 기업이 직접 포팅한 사례가 늘면서 일본 시장 진입의 핵심이 파트너 개발 생태계로 이동했다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "노타는 동일한 GPU와 에이전트 모델 조건에서 추론 지연을 최대 47%, 토큰 사용량을 최대 60% 줄인 에이전트 최적화 결과를 공개했다.",
+        "AI 에이전트의 비용·응답속도 경쟁이 가속기 증설뿐 아니라 모델 호출·추론 경로를 최적화하는 운영 소프트웨어 역량으로 확장됐다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "인도 네이사가 뭄바이에 AMD Instinct MI350X GPU 8,192개와 EPYC·ROCm을 결합한 AI 클러스터를 구축해 운영에 들어갔다.",
+        "대규모 AI 인프라가 단일 GPU 생태계에서 이기종 가속기 선택으로 넓어지며 ROCm 호환성과 현지 운영 역량이 실제 수주 조건으로 부상했다."
+      ]
+    },
+    {
+      "article_numbers": [6],
+      "bullets": [
+        "미중경제안보검토위원회는 중국군이 미국 수출통제를 우회해 엔비디아 첨단 칩을 AI 무기 개발에 활용하려 한다고 분석했다.",
+        "중국산 대체 가속기의 성능·생태계 격차가 남은 가운데 통제의 실효성이 칩 규정 자체보다 우회조달·원격접근·동맹국 집행으로 이동했다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "경북 AI 클라우드팜 173개사 지원…퓨리오사 NPU 현장 추론으로 확장",
+      "category": "국내 정책·사업화·수요처",
+      "collected_at": "2026-11-18T07:41:04.560Z",
+      "original_published_at": "2026-11-18T15:25:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261118130400053",
+      "main_points": [
+        "경상북도는 2024년부터 포항·구미·경산에 조성한 AI 클라우드팜을 통해 기업 173곳과 인력 996명을 지원했다고 밝혔다. 세 거점에는 GPU 112대가 구축됐고, 지역 기업과 연구자는 최대 40% 할인된 비용으로 AI 모델 개발과 실증에 활용했다.",
+        "포항은 제조 데이터 분석, 구미는 전자·산업 현장 적용, 경산은 AI반도체 활용을 중심으로 서비스를 운영했다. 경북도는 지원기업 가운데 사업화 계약과 제품 출시 사례가 나왔으며, 후속 사업 두 건도 추가로 선정됐다고 설명했다.",
+        "경산 거점은 퓨리오사AI, 경북IT융합산업기술원과 협력해 GPU에서 모델을 학습하고 국산 NPU에서 현장 추론을 수행하는 체계를 추진한다. 이는 지역 공공 연산자원을 국산 AI반도체의 실제 적용과 연결하려는 단계다."
+      ],
+      "importance": [
+        "지역 AI 인프라 사업의 성과가 장비 구축 대수에서 지원기업·인력·사업화 사례로 구체화됐고, 후속 단계에 국산 NPU 현장 추론을 명시적으로 포함했다. GPU 학습과 NPU 추론을 분리해 연결하는 구조는 국산 가속기가 기존 GPU 환경을 대체하기보다 실제 서비스의 비용·전력 조건에 맞춰 진입할 수 있는 현실적인 수요 경로다.",
+        "공공 연산자원 지원이 기업의 일회성 사용료 할인에 머물지 않고 제품화·계약·후속 실증으로 이어지는지 확인할 수 있는 지역 단위 운영 데이터가 축적되기 시작했다."
+      ],
+      "implications": [
+        "국산 NPU 기업에는 GPU에서 개발한 모델을 최소한의 수정으로 옮길 수 있는 컴파일러·런타임과 운영도구가 고객 확보의 핵심이 된다. 경산 모델이 자리 잡으면 제조·전자 등 지역 주력산업에서 이기종 가속기 실증을 반복할 기반이 생긴다.",
+        "후속 평가는 지원기업 수보다 NPU 전환 모델 수, 실제 추론 처리량과 전력·비용, 현장 운영기간, 유상 계약과 반복 사용으로 나눠 볼 필요가 있다. GPU 할인 이용이 종료된 뒤에도 서비스가 지속되는지가 사업화의 질을 보여준다.",
+        "지역 공공 인프라를 새로 확충할 때는 장비 종류별 보유량과 함께 GPU 학습에서 국산 NPU 배포까지 이어지는 표준 개발경로와 기술지원 역량을 함께 설계하는 것이 중요하다."
+      ],
+      "sources": [
+        {
+          "title": "경북도, AI 클라우드팜 구축 사업 성과 공유",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-18T15:25:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261118130400053",
+          "verification": "full_text",
+          "verified_at": "2026-11-19T09:47:30+09:00"
+        }
+      ],
+      "event_id": "gyeongbuk-ai-cloud-farm-results-furiosa-npu-inference-2026",
+      "event_first_published_at": "2026-11-18T15:25:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261118130400053",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "딥엑스 NPU, 대만 에이페이서 엣지 서버 통합…저장·추론 일체형 제품화",
+      "category": "국내 NPU·AI반도체",
+      "collected_at": "2026-11-18T03:40:23.097Z",
+      "original_published_at": "2026-11-18T11:39:40+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261118090300017",
+      "main_points": [
+        "대만 메모리·저장장치 기업 에이페이서는 딥엑스 NPU를 탑재한 엣지 AI 서버 Byclo를 개발해 대만 경제부의 2026년 제품혁신상을 받았다. 제품에는 25TOPS급 딥엑스 NPU 2개와 SSD 2개가 결합돼 영상·센서 데이터를 현장에서 저장하고 처리한다.",
+        "각 NPU의 소비전력은 5W 수준으로 소개됐으며, 서버나 클라우드로 원본 데이터를 계속 보내지 않고 엣지에서 추론할 수 있도록 설계됐다. 에이페이서는 저장장치 역량과 AI 연산을 한 제품에 통합해 보안·지연시간·전력 제약이 있는 산업현장을 겨냥했다.",
+        "확인된 성과는 해외 고객 제품에 대한 NPU 통합과 제품혁신상 수상이다. 공개 기사에는 양산 물량, 판매계약 규모, 최종 수요처와 반복구매 실적은 제시되지 않았다."
+      ],
+      "importance": [
+        "국산 NPU의 해외 진출이 개발보드나 공동 시연을 넘어 고객사의 저장·추론 일체형 완제품 설계에 포함됐다는 점이 변화다. 엣지 AI에서는 칩 단독 성능보다 저장장치, 입출력, 발열과 애플리케이션을 묶은 제품통합이 실제 구매 결정에 더 직접적으로 연결된다.",
+        "대만 하드웨어 기업의 제품 라인에 편입된 사례는 국내 팹리스가 현지 시스템·유통 파트너를 통해 산업별 수요에 접근할 수 있음을 보여준다. 향후 양산과 고객 매출로 이어지면 해외 제품통합의 반복 가능한 사업모델을 검증하게 된다."
+      ],
+      "implications": [
+        "국내 NPU 기업은 해외 파트너가 자체 제품에 칩을 넣을 수 있도록 보드 설계자료, 드라이버, 모델 변환도구와 장기 공급계획을 함께 제공해야 한다. 특히 저장·영상처리 기업과의 결합은 보안 카메라, 공장, 리테일 등 데이터가 현장에 머무는 시장에서 유효하다.",
+        "제품혁신상은 기술·제품 인지도를 높이지만 고객 채택과 매출을 대신하지 않는다. 후속 확인 항목은 Byclo의 출시일, 인증, 실제 판매 물량, 최종 고객의 운영 성능과 에이페이서의 후속 제품 적용 여부다.",
+        "해외 공동개발 지원은 전시 참가보다 고객 제품의 양산 게이트와 판매채널을 통과하는 데 필요한 시스템 검증·현지 기술지원 비용을 중심으로 설계할 때 사업화 효과를 측정하기 쉽다."
+      ],
+      "sources": [
+        {
+          "title": "딥엑스 NPU 탑재 대만 AI 서버, 현지 정부 제품혁신상",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-18T11:39:40+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261118090300017",
+          "verification": "full_text",
+          "verified_at": "2026-11-19T09:47:30+09:00"
+        }
+      ],
+      "event_id": "deepx-apacer-byclo-edge-ai-server-integration-2026",
+      "event_first_published_at": "2026-11-18T11:39:40+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261118090300017",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 3,
+      "title": "모빌린트, 일본 파트너 6곳과 NPU 데모 6종…현지 개발 생태계 확대",
+      "category": "국내 NPU·AI반도체",
+      "collected_at": "2026-11-18T12:58:19.116Z",
+      "original_published_at": "2026-11-18T20:00:00+09:00",
+      "original_url": "https://www.mt.co.kr/future/2026/11/18/2026111810402718857",
+      "main_points": [
+        "모빌린트는 11월 11~13일 일본에서 열린 AI 엑스포에서 현지 기업 6곳과 자사 NPU를 활용한 데모 6종을 공개했다. 참여사는 SB Intuitions, Computermind, DUX, NEC Platforms, EQUES, Shikino High-Tech로, 일본어 비전언어모델과 영상분석·안전관리·유동인구 분석 등을 구현했다.",
+        "파트너들은 모빌린트의 NPU와 개발도구를 각자의 모델·카메라·산업용 시스템에 연결했다. 이는 모빌린트가 일본에서 단독 제품을 소개하는 단계를 넘어 현지 솔루션 기업이 직접 응용을 개발하는 형태로 협력 범위를 넓힌 것이다.",
+        "공개된 내용은 공동 데모와 기술 협력의 결과이며 판매계약 규모나 최종 고객 도입 수치는 포함되지 않았다. 최초 확인 가능한 보도는 11월 18일 08시 52분 공개돼 주 분석 구간 직전 48시간 보완 후보로 분류했다."
+      ],
+      "importance": [
+        "국산 NPU의 해외 시장 진입에서 현지 모델·시스템 기업이 직접 포팅하고 산업별 시나리오를 구현했다는 점이 핵심이다. 여러 파트너가 동일한 하드웨어·소프트웨어 기반에서 서로 다른 데모를 만든 것은 개발도구의 범용성과 기술지원 체계를 동시에 시험하는 과정이다.",
+        "일본 시장에서 국산 NPU가 독립 칩으로 경쟁하기보다 현지 언어모델, 카메라와 산업용 장비에 내장되는 형태로 진입하면 고객 발굴과 유지보수를 파트너 생태계와 분담할 수 있다."
+      ],
+      "implications": [
+        "데모를 상용 도입으로 전환하려면 파트너별 목표 고객, 양산 하드웨어, 모델 정확도·지연시간·전력과 지원 책임을 명확히 해야 한다. 개발자 경험과 일본어 문서, 장기 소프트웨어 업데이트도 칩 성능만큼 중요하다.",
+        "국내 기업의 해외 협력을 평가할 때 전시 참가 횟수보다 현지 파트너가 자체 인력으로 포팅한 모델 수, 후속 PoC, 유상 공급과 반복 발주를 구분해 추적할 필요가 있다. 이번 6개 데모는 그 전환의 초기 파이프라인으로 볼 수 있다.",
+        "현지 파트너 중심 전략이 확장되면 국내 NPU 기업은 소수의 직접영업 인력으로도 여러 수요산업을 탐색할 수 있지만, 파트너별 커스터마이징이 과도해지지 않도록 공통 SDK와 검증 절차를 유지해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "모빌린트, 일본 AI 엑스포서 현지 파트너 6곳과 NPU 데모 공개",
+          "publisher": "머니투데이",
+          "published_at": "2026-11-18T20:00:00+09:00",
+          "url": "https://www.mt.co.kr/future/2026/11/18/2026111810402718857",
+          "verification": "full_text",
+          "verified_at": "2026-11-19T09:47:30+09:00"
+        },
+        {
+          "title": "모빌린트, 일본 현지 6개사와 NPU 기반 AI 데모 선보여",
+          "publisher": "e4ds news",
+          "published_at": "2026-11-18T08:52:00+09:00",
+          "url": "https://www.e4ds.com/sub_view.asp?idx=24162",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-19T09:47:30+09:00"
+        }
+      ],
+      "event_id": "mobilint-japan-ai-expo-six-partner-demos-2026",
+      "event_first_published_at": "2026-11-18T08:52:00+09:00",
+      "event_evidence_url": "https://www.e4ds.com/sub_view.asp?idx=24162",
+      "selection_tier": "supplement"
+    },
+    {
+      "number": 4,
+      "title": "노타, AI 에이전트 추론시간 47%·토큰 60% 절감…운영 SW 효율 검증",
+      "category": "운영 SW",
+      "collected_at": "2026-11-18T03:40:23.097Z",
+      "original_published_at": "2026-11-18T08:49:00+09:00",
+      "original_url": "https://www.newspim.com/news/view/20261118000165",
+      "main_points": [
+        "노타는 AI 코딩 에이전트 Cline과 RTX PRO 6000 GPU 4대를 사용해 에이전트 추론 최적화 성능을 시험했다. 동일한 모델과 하드웨어 조건에서 Fast 모드는 작업시간을 32%, 토큰 사용량을 42% 줄였고 Ultra Fast 모드는 각각 47%, 60% 줄였다고 밝혔다.",
+        "평가는 Terminal-Bench 2.1과 SWE-bench Multilingual을 활용해 에이전트가 여러 단계의 도구 호출과 추론을 반복하는 워크로드를 대상으로 했다. 회사는 요청별 난이도와 지연 특성에 따라 추론경로와 자원 사용을 조정해 불필요한 토큰·대기시간을 줄였다고 설명했다.",
+        "수치는 회사가 구성한 시험환경의 결과로, 다른 모델·GPU·에이전트 프레임워크와 실제 기업 업무에서 동일하게 재현되는지는 추가 검증이 필요하다. 최초 확인 보도는 11월 18일 08시 49분으로 48시간 보완 후보에 해당한다."
+      ],
+      "importance": [
+        "에이전트형 AI는 한 번의 모델 호출보다 반복 추론과 도구 사용이 많아 GPU 성능만으로 비용과 응답속도를 설명하기 어렵다. 동일 하드웨어에서 추론경로와 토큰을 줄인 결과는 운영 소프트웨어가 연산자원 수요와 서비스 경제성에 직접 영향을 줄 수 있음을 보여준다.",
+        "국내 최적화 기업의 역할도 모델 압축이나 엣지 배포에서 에이전트 오케스트레이션과 데이터센터 GPU 운영으로 넓어지고 있다. 이는 GPU·NPU 혼합 환경에서 워크로드별 최적 경로를 선택하는 소프트웨어 시장과 연결된다."
+      ],
+      "implications": [
+        "연산자원 지원사업은 GPU 수량과 이용시간뿐 아니라 작업 완료당 토큰·전력·비용과 품질을 함께 측정하면 최적화 SW의 효과를 비교할 수 있다. 동일 모델·데이터셋·정확도 조건을 유지하는 벤치마크가 필요하다.",
+        "국산 NPU가 에이전트 워크로드에 진입하려면 개별 모델 커널 외에도 여러 모델 호출과 도구 실행을 관리하는 런타임·스케줄러와 연동돼야 한다. GPU에서 검증된 최적화 기법을 NPU와 이기종 환경으로 확장할 수 있는지가 협력 기회다.",
+        "후속 판단에는 외부 재현시험, 다양한 모델과 동시 사용자 조건, 절감된 토큰이 품질·성공률에 미치는 영향, 실제 고객의 비용 감소가 포함돼야 한다."
+      ],
+      "sources": [
+        {
+          "title": "노타, AI 에이전트 추론시간·토큰 사용량 동시 절감",
+          "publisher": "뉴스핌",
+          "published_at": "2026-11-18T08:49:00+09:00",
+          "url": "https://www.newspim.com/news/view/20261118000165",
+          "verification": "full_text",
+          "verified_at": "2026-11-19T09:47:30+09:00"
+        }
+      ],
+      "event_id": "nota-agent-inference-fast-ultra-fast-benchmark-2026",
+      "event_first_published_at": "2026-11-18T08:49:00+09:00",
+      "event_evidence_url": "https://www.newspim.com/news/view/20261118000165",
+      "selection_tier": "supplement"
+    },
+    {
+      "number": 5,
+      "title": "인도 네이사, AMD MI350X 8,192개 클러스터 가동…ROCm 대규모 수요 확보",
+      "category": "글로벌 가속기",
+      "collected_at": "2026-11-18T21:22:16.881Z",
+      "original_published_at": "2026-11-18T18:57:00+05:30",
+      "original_url": "https://www.moneycontrol.com/news/business/information-technology/neysa-deploys-8-192-amd-gpus-in-mumbai-to-scale-ai-infrastructure-14083772.html",
+      "main_points": [
+        "인도 AI 클라우드 기업 네이사는 뭄바이에 AMD Instinct MI350X GPU 8,192개를 배치한 AI 클러스터를 구축해 운영에 들어갔다. 클러스터는 AMD EPYC CPU와 ROCm 소프트웨어를 결합하며, 모델 학습·미세조정·추론을 위한 베어메탈 인프라로 제공된다.",
+        "네이사와 AMD는 단일 단계로 고밀도 인프라를 구축했고 이미 글로벌 고객과 이용계약을 맺었다고 밝혔다. 네이사는 인도 내 데이터 주권과 저지연 요구를 충족하면서 대규모 AI 연산을 공급하는 것을 목표로 한다.",
+        "공개자료는 GPU 수량과 운영 개시, 고객 계약 사실을 제시하지만 고객명·계약금액·실제 가동률은 밝히지 않았다. MI350X와 ROCm이 대형 상용 클러스터에서 운영되는 사례라는 점이 확인된 변화다."
+      ],
+      "importance": [
+        "8,192개 규모의 MI350X 배치는 대형 AI 인프라가 엔비디아 중심에서 AMD를 포함한 복수 가속기 선택으로 넓어지고 있음을 보여준다. 하드웨어 공급뿐 아니라 EPYC·ROCm과 운영서비스가 함께 채택돼 소프트웨어 호환성과 현지 운영 역량이 구매 조건이 됐다.",
+        "인도 사업자가 데이터 주권과 지역 내 연산수요를 바탕으로 대규모 클러스터를 직접 운영하면서 글로벌 AI 인프라 투자가 미국·중동을 넘어 지역 클라우드 사업자의 자산과 금융구조로 확산되고 있다."
+      ],
+      "implications": [
+        "이기종 가속기 시장 확대는 국내 NPU 기업에도 기회지만, 고객은 칩 가격보다 기존 모델·프레임워크 포팅, 클러스터 관리, 장애 대응과 가동률을 함께 본다. ROCm 생태계와의 상호운용성이나 공통 서빙계층 지원이 시장 진입비용을 낮출 수 있다.",
+        "대규모 클러스터의 경제성은 발표된 GPU 수보다 실제 고객계약, 이용률, 전력·냉각 비용과 장기 조달조건으로 판가름 난다. 네이사의 고객 가동과 추가 증설이 AMD 기반 AI 클라우드의 반복 가능성을 보여줄 지표다.",
+        "국내 연산자원 사업에서도 단일 가속기 성능 비교를 넘어 워크로드별 GPU·NPU 선택, 공통 운영 SW, 이용자 전환비용과 서비스 수준을 함께 검증할 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "Neysa deploys 8,192 AMD GPUs in Mumbai to scale AI infrastructure",
+          "publisher": "Moneycontrol",
+          "published_at": "2026-11-18T18:57:00+05:30",
+          "url": "https://www.moneycontrol.com/news/business/information-technology/neysa-deploys-8-192-amd-gpus-in-mumbai-to-scale-ai-infrastructure-14083772.html",
+          "verification": "full_text",
+          "verified_at": "2026-11-19T09:47:30+09:00"
+        },
+        {
+          "title": "Neysa Deploys 8,192 AMD Instinct MI350X GPUs in India",
+          "publisher": "Neysa",
+          "published_at": "2026-11-18",
+          "url": "https://neysa.ai/press-release/neysa-amd-mi350x-gpu-cluster-india/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-19T09:47:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "Neysa 공식자료는 2026-11-18자로 클러스터 운영 개시와 8,192개 GPU 규모를 공개한다. Moneycontrol 원문은 같은 사실을 2026-11-18 18:57 IST, 즉 22:27 KST에 공개했고 Daily Desk가 2026-11-19 06:22:16 KST에 수집해 09:30 마감 전 공개 사실을 확인했다. 확인 시 공식자료의 수정 표시는 없었다."
+        },
+        {
+          "title": "Neysa Scales AI Infrastructure in India With AMD Instinct GPUs",
+          "publisher": "AMD Newsroom",
+          "published_at": "2026-11-17",
+          "url": "https://newsroom.amd.com/news/neysa-scales-ai-infrastructure-india/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-19T09:47:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "AMD 공식 뉴스룸은 2026-11-17자로 네이사의 MI350X·EPYC·ROCm 배치와 운영 사실을 공개했다. 2026-11-18 18:57 IST의 Moneycontrol 동시 보도와 2026-11-19 06:22:16 KST 아카이브 수집 기록으로 당일 09:30 마감 전 공개를 대조했으며 확인 시 수정 표시는 없었다."
+        }
+      ],
+      "event_id": "neysa-india-8192-amd-mi350x-cluster-operational-2026",
+      "event_first_published_at": "2026-11-18T18:57:00+05:30",
+      "event_evidence_url": "https://www.moneycontrol.com/news/business/information-technology/neysa-deploys-8-192-amd-gpus-in-mumbai-to-scale-ai-infrastructure-14083772.html",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "미 의회 보고서, 중국군 엔비디아 칩 우회조달 경고…수출통제 집행 쟁점 확대",
+      "category": "글로벌 정책·공급망",
+      "collected_at": "2026-11-18T12:58:19.116Z",
+      "original_published_at": "2026-11-18T12:24:07Z",
+      "original_url": "https://www.reuters.com/world/china/china-seeks-advanced-nvidia-chips-ai-weapons-despite-us-curbs-report-says-2026-11-18/",
+      "main_points": [
+        "미중경제안보검토위원회는 연례보고서에서 중국군이 미국의 수출통제를 우회해 엔비디아의 첨단 AI 칩을 확보하고 지능화 전쟁과 AI 무기 개발에 활용하려 한다고 분석했다. 로이터는 중국 내 조달업체와 우회 공급망이 통제 대상 칩에 대한 접근을 계속 시도하고 있다고 전했다.",
+        "보고서는 화웨이 Ascend와 캠브리콘 등 중국산 대체 가속기가 성장하고 있지만 첨단 성능, 생산능력과 CUDA 중심 소프트웨어 생태계에서 여전히 격차가 있다고 평가했다. 중국은 첨단 패키징, 광자기술과 개방형 모델을 통해 제약을 줄이려 하고 있다.",
+        "위원회는 통제 대상과 우회경로를 지속적으로 갱신하고 동맹국과 집행을 조율할 필요가 있다고 제안했다. 이는 법적 권고와 분석 단계이며, 구체적인 새 규정의 확정이나 시행일을 발표한 것은 아니다."
+      ],
+      "importance": [
+        "가속기 경쟁에서 수출통제의 실효성이 칩 사양을 정하는 규정만이 아니라 제3국 유통, 원격 클라우드 접근, 최종사용자 확인과 동맹국 집행으로 이동하고 있다. 첨단 칩의 군사적 활용 가능성이 강조되면서 상업용 AI 인프라 거래의 고객검증 부담도 커질 수 있다.",
+        "중국의 자체칩이 빠르게 확대돼도 CUDA와 첨단 제조·패키징 격차가 남아 있다는 평가는 하드웨어 제약과 소프트웨어 생태계가 함께 전략적 병목으로 작동함을 보여준다."
+      ],
+      "implications": [
+        "글로벌 AI반도체 기업과 클라우드 사업자는 거래상대방, 재판매 경로와 원격사용을 추적하는 체계를 강화해야 한다. 규정 준수 비용이 커지면 공급계약, 데이터센터 위치와 서비스 제공지역이 기술선택에 직접 영향을 줄 수 있다.",
+        "한국 기업에는 미국 규정과 동맹국 조율의 변화가 메모리·패키징·서버·클라우드 공급에 미치는 범위를 제품별로 구분해 보는 것이 중요하다. 범용적인 중국 사업 축소로 단순화하기보다 최종용도와 통제 수준, 대체 수요를 함께 봐야 한다.",
+        "중장기적으로는 중국의 자체칩 성능뿐 아니라 개발도구·모델 호환성, 첨단 패키징과 생산수율의 개선 속도가 통제 효과와 글로벌 시장 분화를 좌우한다."
+      ],
+      "sources": [
+        {
+          "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
+          "publisher": "Reuters",
+          "published_at": "2026-11-18T12:24:07Z",
+          "url": "https://www.reuters.com/world/china/china-seeks-advanced-nvidia-chips-ai-weapons-despite-us-curbs-report-says-2026-11-18/",
+          "verification": "full_text",
+          "verified_at": "2026-11-19T09:47:30+09:00"
+        },
+        {
+          "title": "2026 Annual Report to Congress: Executive Summary",
+          "publisher": "U.S.-China Economic and Security Review Commission",
+          "published_at": "2026-11-18",
+          "url": "https://www.uscc.gov/sites/default/files/2026-11/2026_Executive_Summary.pdf",
+          "verification": "public_primary",
+          "verified_at": "2026-11-19T09:47:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "위원회 공식 연례보고서는 2026-11-18 공개본이다. 로이터가 보고서 핵심 내용을 2026-11-18 12:24:07 UTC, 즉 21:24:07 KST에 보도했고 Daily Desk가 21:58:19 KST에 수집해 2026-11-19 09:30 KST 마감 전 공개를 확인했다. 공식 PDF와 보도 내용의 핵심 사실을 대조했으며 확인 시 수정 표시는 없었다."
+        }
+      ],
+      "event_id": "uscc-2026-report-china-advanced-ai-chip-evasion-military-use",
+      "event_first_published_at": "2026-11-18T12:24:07Z",
+      "event_evidence_url": "https://www.reuters.com/world/china/china-seeks-advanced-nvidia-chips-ai-weapons-despite-us-curbs-report-says-2026-11-18/",
+      "selection_tier": "primary"
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "전체 아카이브와 국내 NPU 기업 뉴스룸·공개 보도를 대조했다. 딥엑스의 대만 고객 제품통합과 모빌린트의 일본 파트너 6개 데모를 선정했고, 한화·리벨리온 관련 일반 산업기사와 과거 사건 재노출은 직접적인 신규 NPU 수요·사업화 사실이 부족해 제외했다. 당일 collection에서 mobilint-global과 nipa-ai-chip 소스가 empty였으므로 공개 원문 검색으로 보완했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP, 중앙부처 공고, 경북을 포함한 지자체·지역기관의 NPU·AI반도체·국비·실증·도입·조달 보도를 확인했다. 경북 AI 클라우드팜의 지원 실적과 퓨리오사AI NPU 현장 추론 연계를 선정했다. 연세대 AI반도체 혁신연구소 기사는 2025년 9월 개소 사건의 재노출이어서 제외했고, 마감 전 새로 확정된 중앙·지역 NPU 구매·예산·조달 사건은 확인되지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "AMD·NVIDIA 공식자료와 글로벌 가속기 배치·정책 보도를 확인했다. 네이사의 MI350X 8,192개 상용 클러스터와 미 의회 보고서의 첨단칩 우회조달·통제 집행 변화를 선정했다. 엔비디아 실적·공급망과 AMD Taalas 인수는 2026-11-18 원고에 이미 선정된 사건이라 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "에이전트 추론 최적화, ROCm, 커널·런타임, SGLang과 이기종 운영 SW 후보를 확인했다. 노타의 동일 하드웨어 조건 추론시간·토큰 절감 결과와 네이사 클러스터의 ROCm 운영을 선정했다. SGLang 관련 보도는 최근 원고에서 다룬 동일 생태계 사건의 반복이어서 제외했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단패키징·광인터커넥트·AIDC 전력·용수·투자 후보를 확인했다. 엔비디아 공급망 장기계약과 용인 산단 용수 조달은 2026-11-18 원고에 이미 포함됐고, 통상적인 HBM 전망과 지역 갈등 보도는 이번 국내 NPU 제품통합·운영 SW·가속기 수요 변화보다 신규성과 업무 관련성이 낮아 선정하지 않았다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "지역 공공 GPU 지원의 이용 실적과 국산 NPU 현장 추론 연계를 함께 공개해 국내 수요창출 사업의 다음 단계를 판단할 근거가 됐다."},
+      {"article_number": 2, "reason": "국산 NPU가 해외 고객의 저장·추론 일체형 완제품에 통합된 사례로, 칩 공급에서 제품통합·양산 검증으로 넘어가는 사업화 경로를 보여준다."},
+      {"article_number": 3, "reason": "일본 현지 기업 6곳이 직접 NPU 응용 데모를 개발해 해외 파트너 생태계와 후속 PoC 가능성을 구체적으로 확인할 수 있다."},
+      {"article_number": 4, "reason": "동일 GPU·모델 조건에서 에이전트 추론시간과 토큰 사용을 줄인 수치가 운영 SW의 연산비용 절감 가치를 보여준다."},
+      {"article_number": 5, "reason": "AMD MI350X 8,192개와 ROCm이 결합된 대형 상용 클러스터가 실제 운영·고객계약 단계에 들어가 이기종 가속기 수요 변화를 입증했다."},
+      {"article_number": 6, "reason": "첨단 AI칩 통제의 쟁점이 우회조달·군사적 최종용도·동맹국 집행으로 확대돼 글로벌 공급망과 고객검증에 직접 영향을 줄 수 있다."}
+    ],
+    "excluded": [
+      {
+        "title": "연세대, AI반도체 혁신연구소 개소",
+        "url": "https://www.yonsei.ac.kr/sc/intro/pressrel.jsp?mode=view&article_no=",
+        "reason": "2026-11-18 피드에 재노출됐지만 공개 원문상 개소식은 2025-09-17에 열린 과거 사건으로 이번 마감 전 새 집행·성과가 확인되지 않았다."
+      },
+      {
+        "title": "NVIDIA 분기 실적과 AI 공급망 장기계약",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+        "reason": "2026-11-18 원고에서 실적·Vera Rubin 출하와 공급망 계약을 이미 독립 기사로 선정해 동일 사건의 반복을 피했다."
+      },
+      {
+        "title": "AMD, Taalas 인수 완료",
+        "url": "https://newsroom.amd.com/news/amd-completes-acquisition-taalas-advance-ai-inference-innovation/",
+        "reason": "2026-11-18 원고에서 인수 완료와 Instinct·ROCm 통합 방향을 다뤘고 추가 제품·계약 사실이 확인되지 않았다."
+      },
+      {
+        "title": "용인 반도체 클러스터 용수·지역 갈등 후속 보도",
+        "url": "https://www.yna.co.kr/view/AKR20261118000000000",
+        "reason": "전일 원고가 용수공급 조달 단계를 이미 다뤘으며 이번 후보에서 추가 확정 계약·공급 일정 변화보다 지역 입장 반복의 비중이 컸다."
+      },
+      {
+        "title": "SGLang 추론 프레임워크 생태계 후속 보도",
+        "url": "https://lmsys.org/blog/",
+        "reason": "최근 14일 원고에서 관련 성능·개발 생태계 사건을 연속으로 다뤘고 이번 마감 전 독립적인 신규 배포·고객 도입 사실은 확인되지 않았다."
+      }
+    ],
+    "count_reason": "최근 24시간의 국내 NPU 제품통합·공공 수요·글로벌 가속기 배치·수출통제 변화 4건에, 48시간 이내 미게재된 일본 파트너 데모와 에이전트 운영 SW 성능 2건을 보완해 서로 다른 6개 이슈를 구성했다. 낮은 관련성의 일반 HBM 전망이나 과거 사건 재노출로 수를 늘리지 않았다.",
+    "company_overlap_review": "현재 원고에서 같은 기업집단을 중심으로 한 기사는 없다. 딥엑스와 모빌린트는 최근 14일에도 등장했지만 이번에는 각각 대만 고객 완제품 통합과 일본 현지 6개 파트너의 신규 데모라는 별도 사건이며, 다른 후보보다 해외 사업화 단계와 국내 NPU 생태계 의미가 구체적이어서 선정했다.",
+    "candidate_counts": {
+      "discovered": 4518,
+      "time_eligible": 2703,
+      "independent_events": 22,
+      "verified": 14,
+      "selected": 6,
+      "basis": "python mail/candidates.py로 전체 아카이브 4,518건과 48시간 조건 적격 2,703건을 확인했다. 이 가운데 업무 관련성이 있는 22개 독립 사건을 중복 비교하고 14개 사건의 공개 본문·공식자료를 확인해 6개를 선정했다. 당일 collection의 실제 최신 저장시각은 2026-11-19 06:22:13 KST였고 09:20·09:27 실행 기록이 없어 다섯 영역을 직접 보완 검색했다."
+    },
+    "history_review": {
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-18",
+      "checked_dates": ["2026-11-05", "2026-11-06", "2026-11-07", "2026-11-08", "2026-11-09", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17", "2026-11-18"],
+      "note": "최근 14일의 모든 ready 원고에서 제목·주요 사실·출처·event_id를 읽었다. 딥엑스·모빌린트의 과거 기사와 이번 고객 제품통합·현지 파트너 데모의 독립성을 확인했고, 엔비디아 실적·공급망, AMD Taalas, 용인 용수, SGLang 반복 후보를 제외했다."
+    },
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "경북 AI 클라우드팜의 누적 지원실적과 퓨리오사AI NPU 현장 추론 연계는 최근 14일 원고에 없는 신규 공개 사건이다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "딥엑스의 기존 칩·협력 기사와 달리 대만 에이페이서 완제품 통합 및 제품혁신상 수상이라는 신규 고객 제품 사건이다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "모빌린트의 기존 국내외 사업 보도와 달리 일본 현지 기업 6곳이 공동 개발한 6개 응용 데모의 신규 공개다."},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "노타의 에이전트 추론시간·토큰 절감 시험은 최근 14일에 다루지 않은 신규 운영 SW 성능 공개다."},
+      {"article_number": 5, "result": "new_event", "previous_editions": [], "note": "네이사의 MI350X 8,192개 클러스터 운영·고객계약은 최근 14일 원고에 없는 신규 인프라 배치 사건이다."},
+      {"article_number": 6, "result": "new_event", "previous_editions": [], "note": "11월 17일 원고의 원격접근 통제 논의와 달리, USCC 연례보고서가 중국군의 첨단칩 조달과 군사적 사용을 새로 분석한 독립 사건이다."}
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "딥엑스 NPU 고객 제품통합 양산 2026-11-18; 모빌린트 일본 AI Expo 파트너 데모; 리벨리온 퓨리오사AI 해외 협력 실증",
+          "official_sources": "딥엑스·모빌린트 공개 발표를 연합뉴스, 머니투데이, e4ds 공개 본문과 대조했다. collection의 mobilint-global·nipa-ai-chip empty 상태를 별도 확인했다.",
+          "result": "딥엑스 고객 완제품 통합과 모빌린트 일본 파트너 데모를 선정했으며, 판매·양산 수치는 공개되지 않은 한계를 본문에 구분했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "과기정통부 NIPA IITP NPU 공고 2026-11-18; 지자체 AI반도체 국비 예산 실증 도입 조달; 경북 AI 클라우드팜 퓨리오사",
+          "official_sources": "과기정통부·NIPA·IITP 공개 뉴스·공고와 경북도·지역기관 관련 공개 보도를 확인하고 연합뉴스·경북일보 본문으로 경북 사업 실적을 대조했다.",
+          "result": "경북 공공 AI 인프라의 지원실적과 국산 NPU 현장 추론 연계를 선정했다. 마감 전 신규 중앙정부 NPU 구매·배정·조달 확정 후보는 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "AMD MI350X 8192 Neysa Mumbai operational; NVIDIA accelerator export control China military USCC 2026; TPU AI accelerator deployment November 18 2026",
+          "official_sources": "Neysa·AMD 뉴스룸과 Moneycontrol 원문, USCC 연례보고서와 Reuters 원문을 확인했다.",
+          "result": "네이사의 대규모 AMD 클러스터 운영과 USCC 수출통제 집행 변화를 선정하고, 전일 선정한 엔비디아·AMD 사건은 중복 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "ROCm cluster deployment November 18 2026; AI agent inference optimization tokens latency Nota; SGLang kernel runtime accelerator software",
+          "official_sources": "노타 공개 결과를 뉴스핌 전문으로 확인하고, 네이사·AMD 공식자료에서 ROCm 운영 구성을 대조했다.",
+          "result": "에이전트 추론 경로 최적화와 ROCm 대규모 운영 사례를 선정했다. 반복된 SGLang 후보는 신규성이 부족해 제외했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "HBM advanced packaging optical interconnect AI data center power finance November 18 2026; 용인 반도체 클러스터 전력 용수 인허가",
+          "official_sources": "엔비디아 공급망 공식자료와 전일 원고, 용인 산단 용수·지역 보도, HBM·광인터커넥트 공개 기사를 대조했다.",
+          "result": "전일 선정 사건의 반복과 통상적 전망이 중심이어서 이번 원고에는 포함하지 않았고, 더 직접적인 국내 NPU 제품통합·운영 SW 후보를 우선했다."
+        }
+      },
+      "alternative_sources": "유료벽이나 제한된 원문만으로 선정한 기사는 없다. 네이사는 AMD·Neysa 공식자료와 공개 기사, USCC는 공식 PDF와 Reuters, 국내 후보는 복수 공개 기사로 교차확인했다. 09:20·09:27 수집 실행 기록 부재와 두 소스 empty 상태는 직접 공개 원문 검색으로 보완했다."
+    },
+    "shared_original_reviews": []
+  }
+}
