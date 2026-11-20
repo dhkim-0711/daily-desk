@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-20",
+  "cutoff_at": "2026-11-20T09:30:00+09:00",
+  "window_start": "2026-11-19T09:30:00+09:00",
+  "created_at": "2026-11-20T09:47:00+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "전남광주와 국가AI전략위가 국산 NPU 7개사, 과기정통부·TTA, 글로벌 기업과 함께 검증·실증·인증·판로 확대 방안을 논의했다.",
+        "국가 NPU 컴퓨팅센터의 2027년 ISP 추진과 공동 구축 중인 검증센터가 기업의 초기 도입 사례와 공공·민간 수요 확보를 잇는 기반으로 제시됐다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "AMD와 Unsloth는 Ryzen AI PC의 XDNA 2 NPU를 100개 이상의 에이전트 앱·워크플로와 연결하고, Unsloth Desktop의 첫 NPU 지원 대상으로 추가했다.",
+        "OpenAI 호환 API와 모델 서빙 계층이 앱과 NPU 사이를 연결해 전용 하드웨어의 활용 범위를 개별 데모에서 범용 에이전트 생태계로 넓혔다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "LG유플러스가 파주 AIDC 4동 구축에 7,890억 원을 추가 투자해 세 차례 누적 승인액이 2조7,535억 원으로 늘었다.",
+        "200MW급 4개 동의 고객 수요를 확보한 뒤 투자기간과 승인한도를 공시해, 국내 AIDC 확대가 장기 수요에 근거한 집행 단계로 진입했음을 보여준다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "AWS는 Amazon EKS의 NVIDIA Run:ai GPU Fractioning으로 A10G 한 대에서 두 파드의 메모리 한도를 강제하고 초과 할당을 차단한 검증 절차를 공개했다.",
+        "MIG가 없는 GPU도 쿠버네티스 스케줄링·메모리 계약·사용량 지표를 결합해 공유할 수 있어, 연산자원 사업의 배정 단위를 물리 장비에서 워크로드로 세분화한다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "TSMC는 중국 고객의 16nm 이하 주문을 미국 수출허가 없이는 중단하고, 조건을 충족한 경우에도 28·40nm 공정 중심으로 제한하는 지침을 적용했다.",
+        "새 미국 규칙이 파운드리 자체 성능검증 경로를 없애면서 첨단 공정·HBM·첨단패키징과 해외 자회사까지 고객확인 범위가 넓어졌다."
+      ]
+    },
+    {
+      "article_numbers": [6],
+      "bullets": [
+        "미 하원 외교위원회는 2025년 12월부터 2026년 5월까지 중국향 AI칩 340만 개가 신청됐고 BIS가 87만9천 개 이상을 승인했다고 공개했다.",
+        "허가 수량과 수요기업별 내역이 처음 구체화되면서 수출통제의 강도는 규정 문구뿐 아니라 허가 심사와 실제 출하 여부로 평가해야 하는 사안이 됐다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "전남광주·국가AI전략위, NPU 7개사 실증·판로와 국가 컴퓨팅센터 논의",
+      "category": "국내 정책·사업화·수요처",
+      "collected_at": "2026-11-19T12:09:24.096Z",
+      "original_published_at": "2026-11-19T17:05:00+09:00",
+      "original_url": "https://www.etnews.com/20261119000422",
+      "main_points": [
+        "전남광주통합특별시와 국가인공지능전략위원회는 19일 인공지능산업융합사업단에서 국산 AI반도체 기업 간담회를 열었다. 과학기술정보통신부, 한국정보통신기술협회(TTA), 서버용 NPU 4개사와 엣지용 NPU 3개사, 한국마이크로소프트·AWS코리아·한국넷앱 등 20여 명이 참여했다.",
+        "참석자들은 국산 NPU의 성능 검증과 실증 기반, 글로벌 기업과의 인증·판로 협력, 초기 도입 사례와 수요처 확대 방안을 논의했다. 기업들은 상용화 과정의 애로와 초기 고객 확보 지원을 건의했고, 간담회 뒤 AICA와 TTA가 공동 구축 중인 NPU 검증센터의 시설과 체계를 확인했다.",
+        "전남광주는 과기정통부와 기획 중인 국가 NPU 컴퓨팅센터의 기본계획 수립 현황을 공유했다. 시는 2027년 정보화전략계획 수립을 추진하고 기업 건의사항을 관계기관과 검토하겠다고 밝혔으며, 현재 단계는 센터의 실증 방향과 사업 구체화를 논의하는 과정이다."
+      ],
+      "importance": [
+        "이번 회동은 국산 NPU의 성능평가를 독립적인 시험으로 끝내지 않고 초기 도입·인증·판로까지 연결해야 한다는 기업 수요를 중앙정부, 지역 실증기관, 글로벌 플랫폼 기업이 함께 다뤘다는 점에서 의미가 있다. 서버용과 엣지용 7개사가 동시에 참여해 공통 인프라와 서로 다른 시장 진입 경로를 함께 비교할 수 있는 협의 구조도 드러났다.",
+        "국가 NPU 컴퓨팅센터와 기존 검증센터의 역할을 어떻게 구분하고 연계할지가 향후 공공 연산자원 투자와 기업 수요창출의 효율을 좌우할 수 있다."
+      ],
+      "implications": [
+        "검증센터의 성과는 장비 설치나 시험 건수보다 검증 모델의 실제 서비스 전환, 수요기관 도입, 유상 PoC와 반복 구매로 이어지는지를 중심으로 볼 필요가 있다. 기업별 SDK와 모델 호환성 차이를 흡수할 공통 시험환경과 결과 상호인정 체계도 판로 확대의 전제다.",
+        "국가 NPU 컴퓨팅센터를 구체화할 때는 기존 AICA·TTA 인프라와의 중복을 줄이고, 서버용·엣지용 NPU별 실증 워크로드와 이용자 지원 범위를 명확히 설계하는 것이 중요하다. 글로벌 클라우드·스토리지 기업의 참여도 인증 연계나 공동 영업 같은 구체적 후속으로 이어지는지 확인해야 한다.",
+        "기업 건의사항과 2027년 ISP 결과가 공개되면 초기 도입 사례의 목표 수, 수요기관 모집 방식, 검증 후 조달·민간 계약 전환 지표를 함께 점검할 수 있다."
+      ],
+      "sources": [
+        {
+          "title": "전남광주시-국가인공지능전략위, 국산NPU 실증·판로 확대 모색",
+          "publisher": "전자신문",
+          "published_at": "2026-11-19T17:05:00+09:00",
+          "url": "https://www.etnews.com/20261119000422",
+          "verification": "full_text",
+          "verified_at": "2026-11-20T09:44:00+09:00"
+        },
+        {
+          "title": "전남광주시·AI전략위, 국산 장비 실증·판로 확대 모색",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-19T18:22:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261119165100054",
+          "verification": "full_text",
+          "verified_at": "2026-11-20T09:44:00+09:00"
+        }
+      ],
+      "event_id": "gwangju-national-ai-strategy-committee-npu-commercialization-forum-2026",
+      "event_first_published_at": "2026-11-19T17:05:00+09:00",
+      "event_evidence_url": "https://www.etnews.com/20261119000422",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 2,
+      "title": "AMD·Unsloth, XDNA 2 NPU를 100개 이상 에이전트 앱과 연결",
+      "category": "운영 SW·이기종 가속기",
+      "collected_at": "2026-11-19T20:58:56.698Z",
+      "original_published_at": "2026-11-19",
+      "original_url": "https://newsroom.amd.com/news/amd-unsloth-bring-npu-support-agentic-ai-applications/",
+      "main_points": [
+        "AMD와 Unsloth는 Unsloth Desktop에서 AMD XDNA 2 NPU를 처음 지원하고, 호환되는 100개 이상의 에이전트 AI 애플리케이션과 워크플로가 Ryzen AI PC의 로컬 추론을 이용할 수 있게 했다고 발표했다. Hermes Agent, Open WebUI, Cline, LangChain, GitHub Copilot 등이 연결 대상에 포함된다.",
+        "호환 앱은 OpenAI 호환 Unsloth Desktop API로 모델 요청을 보내고, Lemonade와 FastFlowLM이 XDNA 2 NPU에서 모델 서빙과 추론을 담당한다. 앱의 오케스트레이션과 나머지 기능은 CPU·GPU를 계속 사용해 NPU가 이기종 실행 경로의 한 부분으로 동작한다.",
+        "AMD는 지속적인 에이전트 추론을 NPU로 옮겨 CPU와 GPU를 다른 작업에 남기고 전력 효율을 높일 수 있다고 설명했다. 공개 내용은 호환 경로와 지원 앱 범위를 제시했지만 개별 모델의 성능·전력 수치나 실제 사용자 규모는 포함하지 않았다."
+      ],
+      "importance": [
+        "PC NPU 활용이 제조사가 제공하는 소수 기능에서 범용 API를 쓰는 에이전트 앱 생태계로 넓어졌다는 변화다. 하드웨어 지원을 모델 서빙 계층과 표준화된 요청 인터페이스로 추상화하면 개발자는 앱마다 NPU 전용 코드를 새로 만들지 않고도 로컬 추론 경로를 선택할 수 있다.",
+        "NPU의 경쟁축이 TOPS 중심의 칩 사양에서 지원 모델, 런타임 안정성, 앱 호환성, 업데이트 운영으로 이동하고 있음을 보여준다."
+      ],
+      "implications": [
+        "국산 NPU 생태계도 개별 데모 최적화와 함께 표준 API, 모델 서빙, 에이전트 프레임워크 연결을 묶은 배포 경로가 필요하다. CPU·GPU·NPU를 역할별로 배치하는 구조가 보편화되면 단일 가속기 성능보다 워크로드 분할과 장애 대응을 포함한 운영 SW가 고객 선택에 더 큰 영향을 미친다.",
+        "100개 이상 호환이라는 범위는 API 연결 가능성을 뜻하므로 실제 모델 지원표, 메모리 제약, 첫 토큰 지연, 지속 전력, 배터리 영향과 앱별 안정성을 별도로 검증해야 한다. 이런 공통 지표가 쌓이면 온디바이스 NPU 실증을 단순 실행 여부에서 사용자 경험과 운영비 비교로 발전시킬 수 있다.",
+        "개발자 생태계 측면에서는 널리 쓰이는 앱과 프레임워크를 먼저 연결하고, 모델·런타임 업데이트가 기존 앱을 깨뜨리지 않는 호환성 관리가 장기 채택을 좌우할 가능성이 크다."
+      ],
+      "sources": [
+        {
+          "title": "AMD and Unsloth Bring NPU Support to 100+ Agentic AI Applications",
+          "publisher": "AMD Newsroom",
+          "published_at": "2026-11-19",
+          "url": "https://newsroom.amd.com/news/amd-unsloth-bring-npu-support-agentic-ai-applications/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-20T09:44:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "AMD 뉴스룸은 공개일을 2026-11-19로 표시하고 있으며, 동일 원문이 2026-11-20 05:58:56 KST 아카이브 수집에 포함됐다. 09:30 KST 마감 전 공개 상태와 본문 핵심 사실을 직접 대조했고 수정 표시는 확인되지 않았다."
+        },
+        {
+          "title": "AMD x Unsloth: Unlocking the World's First NPU for Unsloth Desktop",
+          "publisher": "AMD",
+          "published_at": "2026-11-19",
+          "url": "https://www.amd.com/en/blogs/2026/unlocking-the-amd-ryzen-ai-npu-for-unsloth-desktop.html",
+          "verification": "public_primary",
+          "verified_at": "2026-11-20T09:44:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "AMD 공식 기술 블로그가 2026-11-19 공개일과 Unsloth Desktop API·Lemonade·FastFlowLM 연동 내용을 표시한다. 뉴스룸 원문과 함께 2026-11-20 09:30 KST 이전 공개 사실을 확인했다."
+        }
+      ],
+      "event_id": "amd-unsloth-xdna2-npu-agentic-apps-2026",
+      "event_first_published_at": "2026-11-19",
+      "event_evidence_url": "https://newsroom.amd.com/news/amd-unsloth-bring-npu-support-agentic-ai-applications/",
+      "selection_tier": "supplement",
+      "recency_evidence": "공식 페이지의 공개일은 날짜만 제공되지만, 아카이브가 2026-11-20 05:58:56 KST에 원문을 수집해 마감 전 공개를 확인했다."
+    },
+    {
+      "number": 3,
+      "title": "LG유플러스, 파주 AIDC 4동에 7,890억 원 추가 투자",
+      "category": "메모리·패키징·인프라",
+      "collected_at": "2026-11-19T07:37:18.414Z",
+      "original_published_at": "2026-11-19T16:06:57+09:00",
+      "original_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800399",
+      "main_points": [
+        "LG유플러스는 19일 이사회에서 파주 AIDC 3단계 구축을 위한 7,890억 원의 신규 시설투자를 결정했다. 금액은 2025년 연결 자기자본의 8.7%이며, 2026년 11월 23일부터 2029년 1월 31일까지 4동 구축에 투입할 계획이다.",
+        "이번 금액은 물가와 환율 변동을 고려해 예상액의 130% 수준으로 설정한 승인한도다. 앞서 1동에 6,156억 원, 2·3동에 1조3,489억 원을 승인해 파주 AIDC의 누적 시설투자 승인액은 2조7,535억 원이 됐다.",
+        "LG유플러스는 파주에 수전용량 200MW급 AIDC 4개 동을 구축하고 있으며 4개 동 모두 고객 수요를 확보했다고 설명했다. 회사는 10~15년 장기계약을 통해 일정 수준의 자본 효율성을 확보하는 구조라고 밝혔고, 3분기 AIDC 매출은 전년 동기보다 27.7% 증가한 1,317억 원이었다."
+      ],
+      "importance": [
+        "고객 수요를 확보한 뒤 대규모 투자한도와 집행기간을 이사회 결의·공시로 확정했다는 점에서 일반적인 데이터센터 건설 구상과 구별된다. 200MW급 시설을 단계별로 증설하는 구조는 AI 인프라 투자가 일괄 선투자보다 장기 고객계약과 동별 수요 확인을 바탕으로 진행되고 있음을 보여준다.",
+        "AIDC의 산업적 경쟁력이 연산장비뿐 아니라 전력 인입, 건설 일정, 장기계약, 자본비용을 묶은 금융·운영 구조에 좌우된다는 사례다."
+      ],
+      "implications": [
+        "대규모 AIDC 투자는 GPU·NPU 수요의 물리적 기반을 넓히지만, 어떤 가속기와 서비스가 들어가는지는 고객계약과 운영단계에서 결정된다. 국산 NPU가 진입하려면 데이터센터 사업자의 전력·공간 조건에 맞는 랙 단위 제품, 관리 SW, 장애 대응과 장기 유지보수 능력을 함께 입증해야 한다.",
+        "공시 승인한도와 실제 집행액, 건설 진척, 동별 가동 시점은 구분해 추적할 필요가 있다. 고객 수요가 확보됐다는 회사 설명도 계약기간, 최소 사용량, 전력·연산 용량의 확정 범위가 공개될수록 투자 회수 가능성을 더 정확히 판단할 수 있다.",
+        "정책·금융 관점에서는 AIDC 지원을 총투자액만으로 평가하기보다 전력 확보, 국내 장비·SW 도입, 가동률, 장기 고객구성과 지역 산업 연계 같은 운영 성과로 연결해 보는 것이 중요하다."
+      ],
+      "sources": [
+        {
+          "title": "LG유플러스 신규시설투자등",
+          "publisher": "금융감독원 전자공시시스템",
+          "published_at": "2026-11-19T16:06:57+09:00",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800399",
+          "verification": "public_primary",
+          "verified_at": "2026-11-20T09:44:00+09:00"
+        },
+        {
+          "title": "LGU+, 파주 AI 데이터센터에 7천890억원 추가 투자",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-19T16:53:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261119145400017",
+          "verification": "full_text",
+          "verified_at": "2026-11-20T09:44:00+09:00"
+        }
+      ],
+      "event_id": "lguplus-paju-aidc-phase3-investment-2026",
+      "event_first_published_at": "2026-11-19T16:06:57+09:00",
+      "event_evidence_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800399",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 4,
+      "title": "AWS, Amazon EKS에서 Run:ai GPU 메모리 분할 운영 검증",
+      "category": "운영 SW·이기종 가속기",
+      "collected_at": "2026-11-19T20:58:56.698Z",
+      "original_published_at": "2026-11-19",
+      "original_url": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/",
+      "main_points": [
+        "AWS는 Amazon EKS에서 오픈소스 NVIDIA Run:ai의 KAI Scheduler와 GPU Fractioning Operator를 이용해 GPU 메모리를 파드 단위로 분할하는 검증 절차를 공개했다. G5 인스턴스의 A10G GPU 한 대를 기준으로 전체 GPU만 요청하는 기본 설정과 여러 워크로드가 메모리를 나눠 쓰는 구성을 비교했다.",
+        "검증에서는 두 파드에 각각 8GiB 메모리 계약을 부여하고 6GiB 할당을 확인한 뒤, 한도를 넘는 9GiB 요청이 거부되는지 시험했다. 이 방식은 MIG를 지원하지 않는 호환 GPU에서도 쿠버네티스 스케줄링, 컨테이너별 메모리 한도 강제, 파드별 지표를 결합한다.",
+        "AWS는 메모리 한도가 비례적인 연산성능을 보장하지 않으며, 기본 공유 모드와 SM 공유 모드의 오류 격리·보안 특성도 별도 검증이 필요하다고 밝혔다. 11월 18일 재검증에서는 동일한 드라이버 이미지로 주요 절차를 반복해 결과가 일치했다고 설명했다."
+      ],
+      "importance": [
+        "GPU 공유가 단순 시분할에서 스케줄러가 인식하는 메모리 계약과 집행·관측 기능으로 발전한 사례다. 작은 추론, 평가, 노트북 작업이 GPU 한 대를 독점해 생기는 대기와 유휴 메모리를 줄일 수 있어 연산자원 접근성은 장비 보유량뿐 아니라 운영 SW의 배정 정밀도에 따라 달라진다.",
+        "클라우드 사업자가 재현 가능한 구성과 한계까지 공개하면서 GPU 분할 운영이 실험적 기능에서 운영 검토가 가능한 선택지로 이동했다."
+      ],
+      "implications": [
+        "GPU·NPU 지원사업에서 이용자에게 물리 장비 한 대를 배정하는 방식만 고집하면 소규모 워크로드의 활용률과 대기시간을 함께 악화시킬 수 있다. 메모리·처리시간·우선순위를 기준으로 자원을 나누고 사용량을 계측하는 운영 계층이 장비 증설과 같은 수준의 정책 판단 요소가 된다.",
+        "국산 NPU 클러스터도 쿠버네티스 연동, 세분화된 자원 요청, 한도 강제, 과금·사용량 지표를 제공해야 이기종 환경에서 비교 가능한 운영 대안이 될 수 있다. 특히 하드웨어 격리가 없는 공유 방식은 멀티테넌트 보안과 장애 전파, 지연시간 변동을 별도 시험해야 한다.",
+        "공공 연산자원 실증에서는 동일 워크로드를 전체 장비 할당과 분할 할당으로 비교해 대기시간, 처리량, 비용, 오류 격리와 운영 복잡성을 함께 측정하는 것이 유용하다."
+      ],
+      "sources": [
+        {
+          "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
+          "publisher": "AWS Machine Learning Blog",
+          "published_at": "2026-11-19",
+          "url": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-20T09:44:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "AWS 원문은 2026-11-19 공개일과 11월 18일 재검증 사실을 표시한다. 해당 원문은 2026-11-20 05:58:56 KST 아카이브 수집에 포함돼 09:30 KST 마감 전 공개 상태와 본문 내용을 확인했으며 수정 표시는 확인되지 않았다."
+        }
+      ],
+      "event_id": "aws-eks-nvidia-runai-gpu-fractioning-validation-2026",
+      "event_first_published_at": "2026-11-19",
+      "event_evidence_url": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/",
+      "selection_tier": "supplement",
+      "recency_evidence": "공식 페이지의 날짜는 2026-11-19이고, 아카이브 firstSeenAt은 2026-11-20 05:58:56 KST로 마감 전 공개를 확인한다."
+    },
+    {
+      "number": 5,
+      "title": "TSMC, 중국 AI칩 16nm 이하 제조에 미국 허가 요구",
+      "category": "글로벌 가속기·공급망",
+      "collected_at": "2026-11-19T20:58:56.698Z",
+      "original_published_at": "2026-11-19T12:48:00Z",
+      "original_url": "https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/",
+      "main_points": [
+        "로이터에 따르면 TSMC는 중국 칩 설계사의 일부 첨단 제조 주문을 중단하고, 영향을 받는 고객의 16nm 이하 공정 주문에는 미국 수출허가를 요구하는 지침을 적용했다. 허가가 없는 중국 고객은 일반적으로 28nm·40nm 공정으로 제한되며 HBM이나 첨단패키징을 사용하지 않는 조건도 적용된다.",
+        "11월 19일 발효된 미국 상무부 규칙은 파운드리가 칩의 연산성능과 기술특성을 자체 확인해 통제 대상 밖이라고 판단하던 경로를 없앴다. 해당 중국 고객의 첨단칩은 예외가 없으면 통제 대상이라고 추정돼 개별 허가가 필요해졌다.",
+        "TSMC의 고객확인은 운영지역, 모회사, 주요주주, 패키징 업체, 배송경로로 확대됐으며 해외 자회사나 중개자를 통한 주문도 대상에 포함된다. 로이터는 규칙 시행 전 일부 중국 설계사가 TSMC 7nm 공정에 접근했다고 전했지만 그 제조 조건은 독립적으로 확인하지 못했다고 밝혔다."
+      ],
+      "importance": [
+        "수출통제가 완성 칩 판매를 넘어 파운드리 제조서비스, HBM, 첨단패키징과 고객의 지배구조까지 연결된 공급망 통제로 확장됐다. 중국 AI칩 설계사가 자체 설계로 미국산 GPU를 대체하더라도 선단공정과 패키징을 확보하는 경로가 좁아질 수 있다.",
+        "공정 노드만이 아니라 메모리·패키징 구성과 중개법인까지 심사하는 방식은 글로벌 파운드리와 후공정 기업의 고객확인 비용과 주문 불확실성을 높인다."
+      ],
+      "implications": [
+        "AI반도체 기업은 설계 성능 외에도 최종 고객, 소유구조, 패키징·메모리 조달, 배송경로를 증빙할 수 있어야 생산 슬롯을 안정적으로 확보할 수 있다. 국내 파운드리·패키징·메모리 기업도 동일 고객에 대한 심사 기준을 정렬하지 않으면 공급망 단계별로 허가 판단이 달라질 수 있다.",
+        "중국 기업의 첨단 제조 접근 제한은 단기적으로 비중국 팹리스의 선단공정 경쟁을 완화할 수 있지만, 중국 내 성숙공정 기반 설계와 국산 장비·소프트웨어 투자를 촉진할 가능성도 있다. 시장 영향은 주문 중단 규모와 실제 허가 사례, 대체 파운드리·공정 전환 속도를 함께 봐야 한다.",
+        "국내 기업 지원과 국제협력에서는 성능 검증만큼 수출통제 준수와 고객확인 체계를 사업화 역량으로 다룰 필요가 있다."
+      ],
+      "sources": [
+        {
+          "title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+          "publisher": "Reuters",
+          "published_at": "2026-11-19T12:48:00Z",
+          "url": "https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/",
+          "verification": "full_text",
+          "verified_at": "2026-11-20T09:44:00+09:00"
+        },
+        {
+          "title": "Federal Register Vol. 91, No. 222, Rules and Regulations",
+          "publisher": "U.S. Government Publishing Office",
+          "published_at": "2026-11-19",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf",
+          "verification": "public_primary",
+          "verified_at": "2026-11-20T09:44:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "연방관보는 규칙의 공표일과 발효일을 2026-11-19로 명시하며, 로이터가 같은 날 12:48 UTC에 규칙 적용과 TSMC 지침을 공개했다. 두 원문 모두 2026-11-20 09:30 KST 이전 공개된 핵심 사실을 상호 대조했다."
+        }
+      ],
+      "event_id": "tsmc-china-ai-chip-foundry-export-license-rule-2026",
+      "event_first_published_at": "2026-11-19T12:48:00Z",
+      "event_evidence_url": "https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/",
+      "selection_tier": "primary"
+    },
+    {
+      "number": 6,
+      "title": "미 하원, 중국향 AI칩 340만 개 신청·87만9천 개 승인 내역 공개",
+      "category": "글로벌 가속기·정책",
+      "collected_at": "2026-11-19T21:26:59.908Z",
+      "original_published_at": "2026-11-19",
+      "original_url": "https://foreignaffairs.house.gov/news/press-releases/chairman-brian-mast-exercises-legislative-authority-to-publicly-release-ai-chip-license-information-for-china",
+      "main_points": [
+        "미 하원 외교위원회는 수출통제개혁법 권한에 따라 중국향 NVIDIA·AMD AI칩 수출허가 신청 정보를 공개했다. 2025년 12월부터 2026년 5월까지 기업들이 340만 개의 판매를 신청했고, 상무부 산업안보국(BIS)은 87만9천 개 이상을 승인했다.",
+        "승인 내역에는 알리바바 7만5천 개, 텐센트 15만 개, 바이두 4만3천 개, BYD 4천 개가 포함됐다. 로이터는 대상 칩에 NVIDIA H200과 AMD MI325X가 포함됐다고 전했으며, 승인 물량 가운데 실제 중국으로 출하된 수량은 확인되지 않았다고 밝혔다.",
+        "위원회는 네 기업이 미국 국방부의 중국 군사기업 명단에 포함돼 있다고 지적하고, 공개 자료가 수출통제개혁법상 가장 상세한 허가 정보 공개라고 설명했다. 수치는 허가 신청과 승인 기록을 보여주며 최종 설치·사용 현황을 뜻하지는 않는다."
+      ],
+      "importance": [
+        "첨단 AI칩 통제의 실제 운용 규모가 총량과 수요기업별로 공개돼 규정의 명목상 강도와 허가 집행 사이를 비교할 수 있게 됐다. 신청 340만 개 중 87만9천 개 이상이 승인된 사실은 중국 시장의 잠재 수요와 미국 정부가 예외 허가를 통해 관리한 공급 규모를 동시에 보여준다.",
+        "기업·제품별 허가 데이터 공개는 향후 의회의 심사 강화와 추적 의무 논의에 구체적 근거를 제공하고, 공급사의 매출 전망과 규제 위험 평가에도 영향을 줄 수 있다."
+      ],
+      "implications": [
+        "수출통제의 산업 영향은 통제 대상 목록만이 아니라 신청 대비 승인률, 승인 조건, 실제 출하, 최종 사용처 점검을 함께 봐야 한다. 허가된 칩이 대규모 데이터센터에서 어떻게 배치됐는지가 확인되지 않으면 승인 물량을 곧바로 중국의 가동 연산능력으로 환산하기 어렵다.",
+        "NVIDIA와 AMD에는 중국 매출 기회가 남아 있는 동시에 허가 취소·추적 강화·의회 감독 위험이 커진다. 고객확인과 유통경로 관리가 제품 판매 이후의 규제 책임으로 이어지면 글로벌 공급사와 클라우드·재판매 사업자의 운영비도 증가할 수 있다.",
+        "국내 AI반도체 기업은 미국산 IP·설계도구·파운드리와 연결된 공급망에서 유사 허가 요건이 적용되는지 점검하고, 해외 고객 계약 단계부터 최종사용자와 재수출 경로를 기록할 체계를 갖추는 것이 중요하다."
+      ],
+      "sources": [
+        {
+          "title": "Chairman Brian Mast Exercises Legislative Authority to Publicly Release AI Chip License Information for China",
+          "publisher": "U.S. House Foreign Affairs Committee",
+          "published_at": "2026-11-19",
+          "url": "https://foreignaffairs.house.gov/news/press-releases/chairman-brian-mast-exercises-legislative-authority-to-publicly-release-ai-chip-license-information-for-china",
+          "verification": "public_primary",
+          "verified_at": "2026-11-20T09:44:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "미 하원 외교위원회는 2026-11-19 오후 공개라고 표시했고, 동일 공개를 인용한 로이터 보도가 2026-11-20 05:45 KST에 게시돼 06:26:59 KST 아카이브에 수집됐다. 09:30 KST 마감 전 공개된 신청·승인 수량을 공식 원문과 대조했다."
+        },
+        {
+          "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says",
+          "publisher": "Reuters",
+          "published_at": "2026-11-19T20:45:04Z",
+          "url": "https://d2233.cms.socastsrm.com/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months-committee/",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-20T09:44:00+09:00"
+        }
+      ],
+      "event_id": "us-house-china-ai-chip-license-data-disclosure-2026",
+      "event_first_published_at": "2026-11-19T20:45:04Z",
+      "event_evidence_url": "https://d2233.cms.socastsrm.com/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months-committee/",
+      "selection_tier": "primary",
+      "recency_evidence": "로이터 공개시각 2026-11-19 20:45:04 UTC와 아카이브 firstSeenAt 21:26:59 UTC가 모두 2026-11-20 09:30 KST 이전이다."
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "전체 아카이브와 국내 NPU 기업·지역기관 보도를 대조했다. 전남광주 간담회에서 서버용·엣지용 NPU 7개사의 상용화 애로, 초기 도입, 검증·인증·판로 논의와 2027년 국가 NPU 컴퓨팅센터 ISP 추진이 확인돼 선정했다. 전일 원고의 퓨리오사AI·딥엑스·모빌린트 사건은 반복 제외했으며 collection의 mobilint-global과 nipa-ai-chip 소스는 empty였다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP, 국가AI전략위, 지자체·지역기관의 NPU 정책·국비·실증·도입·조달 후보를 확인했다. 전남광주 간담회의 검증센터·수요 확대·국가 NPU 컴퓨팅센터 논의를 선정했고, NIPA 통합성과보고회 안내는 예정 행사로서 새 집행·성과가 없어 제외했다. 09:20·09:27 수집 실행 기록은 없었고 최신 실제 collection은 06:26:57 KST여서 공개 원문 검색으로 보완했다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "AMD·NVIDIA 공식자료, 미 의회·상무부와 파운드리 관련 보도를 확인했다. AMD NPU 앱 생태계, TSMC 제조서비스 통제, 중국향 AI칩 허가 공개를 서로 다른 제품·제조·정책 집행 사건으로 선정했다. 전일 USCC 군사적 우회조달 보도와 원격접근 규칙은 이번 허가 통계·파운드리 지침과 사실 범위가 다름을 확인했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm, CUDA, 커널·런타임, 모델서빙, 쿠버네티스 가속기 운영 후보를 확인했다. AMD·Unsloth의 표준 API 기반 NPU 연동과 AWS의 Run:ai GPU 메모리 분할 검증을 선정했다. ROCm 10.2는 11월 18일 공개된 48시간 보완 후보였으나 이번 주 분석에서 더 신규성이 높은 실제 앱 연동·클라우드 운영 검증을 우선했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단패키징·CXL·인터커넥트와 AIDC 전력·투자·금융구조를 확인했다. 고객 수요와 투자기간을 공시한 LG유플러스의 파주 AIDC 3단계 투자를 선정했고, NVIDIA 공급망 장기계약은 11월 18일 원고 중복, 파네시아 CXL 후속 보도는 11월 13일 협력 사건의 재서술 비중이 높아 제외했다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "국산 NPU 7개사의 상용화 애로와 초기 도입 수요를 국가AI전략위·과기정통부·TTA·글로벌 기업이 함께 논의하고 검증센터와 국가 컴퓨팅센터의 후속 단계까지 공개했다."},
+      {"article_number": 2, "reason": "NPU 활용을 100개 이상 에이전트 앱과 표준 API로 연결해 칩 성능보다 모델서빙·런타임·앱 호환성이 시장 채택을 좌우하는 변화를 보여준다."},
+      {"article_number": 3, "reason": "고객 수요를 확보한 200MW AIDC에 7,890억 원의 투자한도와 기간을 공시해 인프라 투자의 실제 집행·금융구조를 확인할 수 있다."},
+      {"article_number": 4, "reason": "GPU 한 대를 여러 워크로드가 공유하면서 메모리 한도를 강제하는 재현 가능한 검증이 공개돼 연산자원 접근성과 운영 효율에 직접 관련된다."},
+      {"article_number": 5, "reason": "중국 AI칩 통제가 완성품 판매에서 파운드리 공정·HBM·첨단패키징·해외 중개법인 심사로 확장되는 중대한 공급망 변화다."},
+      {"article_number": 6, "reason": "중국향 첨단 AI칩의 신청·승인 물량과 기업별 내역이 처음 구체적으로 공개돼 수출통제 집행의 실제 규모를 판단할 근거가 생겼다."}
+    ],
+    "excluded": [
+      {"title": "Unigen Expands AI Module and Server Compute Collaboration to EdgeCortix RAIDEN Platform", "url": "https://unigen.com/unigen-expands-ai-module-and-server-compute-collaboration-to-edgecortix-raiden-platform/", "reason": "11월 19일 피드에 재노출됐지만 공식 원문 공개일은 2026-10-22로, 이번 마감 전 새 계약·샘플링·출하 사실이 확인되지 않았다."},
+      {"title": "ROCm 10.2.0: Advancing Performance, Stability, and Developer Experience", "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-10.2-blog/README.html", "reason": "48시간 보완 후보로 공식 원문을 확인했으나 프레임워크 버전 갱신 중심의 점진적 릴리스여서 이번 24시간 내 앱 연동·운영 검증 후보보다 우선순위가 낮았다."},
+      {"title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout", "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Expands-Commitments-With-Supply-Chain-Partners-to-Support-AI-Infrastructure-Buildout/default.aspx", "reason": "첨단패키징·기판 장기계약은 2026-11-18 원고에서 이미 선정해 동일 사건을 반복하지 않았다."},
+      {"title": "2026년 NIPA 통합성과 보고회 안내", "url": "https://www.nipa.kr/home/bsnsAll/0/nttDetail?bbsNo=1&bsnsDtlsIemNo=&nttNo=17007&tab=3", "reason": "11월 26일 예정 행사의 참가 안내로, 마감 전 새 사업 집행·수요 데이터·성과 내용이 공개되지 않았다."},
+      {"title": "파네시아, 차세대 CXL 스위치칩 내년 공개", "url": "https://panmnesia.com/", "reason": "11월 13일 인텔과의 CXL 협력 사건 이후 계획을 재서술한 비중이 크고, 이번 마감 전 새 제품 출시·고객 검증이 확인되지 않았다."}
+    ],
+    "count_reason": "최근 24시간의 국내 NPU 정책·수요, AIDC 투자, 파운드리 통제, 수출허가 집행 4건에, 날짜만 공개돼 보수적으로 48시간 보완 분류한 AMD·Unsloth NPU 앱 연동과 AWS GPU 자원운영 2건을 더해 서로 다른 6개 사건을 선정했다. ROCm·첨단패키징과 과거 협약 재노출은 신규성과 업무 관련성이 더 낮아 수를 늘리는 데 쓰지 않았다.",
+    "company_overlap_review": "AMD는 기사 2의 중심 주체이고 기사 6에는 허가 대상 공급사 중 하나로만 등장해 사건 중심이 다르다. NVIDIA는 기사 4의 운영 SW 구성과 기사 6의 허가 공급사로 등장하지만 각각 클라우드 자원운영과 미 의회 허가 데이터라는 독립 사건이다. 글로벌 규제 기사 5·6도 하나는 파운드리 제조경로의 새 통제, 다른 하나는 과거 6개월 허가 집행 데이터 공개로 사실·주체·산업 영향이 구별된다.",
+    "candidate_counts": {
+      "discovered": 4291,
+      "time_eligible": 2492,
+      "independent_events": 18,
+      "verified": 12,
+      "selected": 6,
+      "basis": "python mail/candidates.py로 전체 아카이브 4,291건과 48시간 조건 적격 2,492건을 확인했다. 업무 관련성이 높은 18개 독립 사건을 최근 14일 원고와 대조하고 12개 사건의 공개 본문·공식자료를 확인해 6개를 선정했다. 당일 collection의 최신 실제 저장시각은 2026-11-20 06:26:57 KST였고 09:20·09:27 실행 기록이 없어 다섯 영역을 직접 보완 검색했다."
+    },
+    "history_review": {
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-19",
+      "checked_dates": ["2026-11-06", "2026-11-07", "2026-11-08", "2026-11-09", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17", "2026-11-18", "2026-11-19"],
+      "note": "최근 14일 모든 ready 원고의 제목·주요 사실·출처·event_id를 읽었다. 전남광주 피지컬AI 협약·반도체 관문도시와 이번 NPU 7개사 정책협의의 차이를 확인했고, 전일 퓨리오사AI·딥엑스·모빌린트·NVIDIA 공급망·USCC 사건과 중복되는 후보를 제외했다."
+    },
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "국산 NPU 7개사와 국가AI전략위·과기정통부·TTA가 검증센터·초기 도입·국가 NPU 컴퓨팅센터를 함께 논의한 신규 정책협의다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "AMD XDNA 2 NPU가 Unsloth Desktop의 첫 NPU로 추가되고 100개 이상 에이전트 앱과 연결된 신규 운영 SW 사건이다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "파주 AIDC 4동의 7,890억 원 투자결정과 집행기간은 최근 14일 원고에 없는 신규 공시다."},
+      {"article_number": 4, "result": "new_event", "previous_editions": [], "note": "AWS가 Run:ai GPU 메모리 분할을 Amazon EKS에서 재현·재검증한 운영 절차는 최근 14일에 다루지 않은 사건이다."},
+      {"article_number": 5, "result": "material_update", "previous_editions": ["2026-11-17"], "note": "11월 17일 원고의 원격접근 통제와 달리 11월 19일 발효 규칙에 따른 TSMC 제조주문 중단·공정 제한·고객확인 확대가 새 사실이다.", "new_fact": "TSMC가 16nm 이하 중국 고객 주문에 미국 허가를 요구하고 28·40nm, HBM·첨단패키징 조건과 해외 중개법인 심사를 구체화했다.", "evidence_url": "https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/"},
+      {"article_number": 6, "result": "material_update", "previous_editions": ["2026-11-19"], "note": "11월 19일 원고의 USCC 우회조달·군사사용 분석과 달리 하원 외교위가 6개월간의 허가 신청·승인 수량과 기업별 내역을 새로 공개했다.", "new_fact": "중국향 340만 개 신청, 87만9천 개 이상 승인과 알리바바·텐센트·바이두·BYD별 승인량이 공개됐다.", "evidence_url": "https://foreignaffairs.house.gov/news/press-releases/chairman-brian-mast-exercises-legislative-authority-to-publicly-release-ai-chip-license-information-for-china"}
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {"status": "reviewed", "queries": "국산 NPU 실증 판로 확대 전남광주 2026-11-19; 국내 NPU 공동개발 고객 제품통합 실증 조달", "official_sources": "전남광주·국가AI전략위 간담회를 전자신문·연합뉴스 공개 전문으로 대조하고 국내 NPU 기업 최근 발표를 확인했다.", "result": "NPU 7개사의 상용화 애로와 검증·인증·초기 도입·판로 논의를 선정하고 전일 기업별 사건은 중복 제외했다."},
+        "domestic_policy_demand": {"status": "reviewed", "queries": "과기정통부 NIPA IITP NPU AI반도체 2026-11-19; 지자체 국비 예산 실증 도입 조달 NPU", "official_sources": "과기정통부·NIPA·IITP 공개 뉴스·공고, 국가AI전략위와 전남광주 관련 공개 본문을 확인했다.", "result": "국가 NPU 컴퓨팅센터 ISP와 검증센터·수요 확대 협의를 선정했으며, NIPA 성과보고회 안내는 예정 행사라 제외했다."},
+        "global_accelerators": {"status": "reviewed", "queries": "AMD Unsloth NPU 100 agentic apps; Reuters TSMC China AI chip curbs; US House 879000 AI chips China licenses", "official_sources": "AMD 뉴스룸·기술 블로그, Reuters 전문, 미 하원 외교위원회 공개자료와 연방관보를 확인했다.", "result": "NPU 앱 생태계, 파운드리 제조통제, 허가 집행 데이터라는 독립적인 세 변화를 선정했다."},
+        "operating_software": {"status": "reviewed", "queries": "Run:ai GPU Fractioning Amazon EKS 2026-11-19; ROCm 10.2 runtime kernel serving; NPU model serving agent apps", "official_sources": "AWS 기술 원문과 AMD·Unsloth 공식자료, AMD ROCm 10.2 릴리스 원문을 확인했다.", "result": "실제 재검증된 GPU 분할 운영과 표준 API 기반 NPU 앱 연동을 선정하고 ROCm 점진적 업데이트는 후순위로 뒀다."},
+        "memory_packaging_infrastructure": {"status": "reviewed", "queries": "LGU+ 파주 AIDC 7890억 공시; HBM advanced packaging interconnect 2026-11-19; CXL AI accelerator infrastructure", "official_sources": "금감원 DART 공시, LG유플러스 관련 공개 전문, NVIDIA 공급망 공식자료와 CXL 후보를 대조했다.", "result": "고객 수요·투자기간·승인한도가 확인된 파주 AIDC 투자를 선정하고 최근 원고의 패키징 계약과 과거 CXL 협력 재노출은 제외했다."}
+      },
+      "alternative_sources": "유료벽이나 검색결과 요약만으로 선정한 기사는 없다. 국내 후보는 공개 전문과 DART, 글로벌 후보는 기업·정부 공식자료와 Reuters 전문·공개 재배포본으로 핵심 사실을 확인했다. 09:20·09:27 수집 실행 기록 부재와 empty 소스는 직접 원문 검색으로 보완했다."
+    },
+    "shared_original_reviews": []
+  }
+}
