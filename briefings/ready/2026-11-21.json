@@ -1,0 +1,485 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-21",
+  "cutoff_at": "2026-11-21T09:30:00+09:00",
+  "window_start": "2026-11-20T09:30:00+09:00",
+  "created_at": "2026-11-21T09:55:30+09:00",
+  "status": "ready",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1
+      ],
+      "bullets": [
+        "피아스페이스·AIMX가 대구교통공사 중앙로역에서 국산 NPU와 VLM을 결합한 관제 시스템을 실증해, 초기 분석상 관제 확인 알림을 기존의 10분의 1 이하로 줄였다.",
+        "저전력 NPU의 상시 탐지와 VLM의 맥락 재확인을 분리한 구조가 국산 가속기의 공공 안전 현장 도입에서 정확도와 운영비를 함께 검증하는 단계로 진입했다."
+      ]
+    },
+    {
+      "article_numbers": [
+        2
+      ],
+      "bullets": [
+        "정부는 비수도권 계약전력 50MW 이하 AIDC의 전력계통영향평가 면제, 특구 내 비기술 평가 면제, 메가프로젝트·일괄처리 대상 우선 평가 방안을 공개했다.",
+        "2027년 3월 특별법 시행을 앞두고 인정 기준·신고·인허가 시한·특구 기반시설 범위까지 구체화돼 AIDC 투자의 입지와 사업 일정 판단 기준이 달라진다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3
+      ],
+      "bullets": [
+        "니케이아시아는 미국의 새 수출통제 뒤 엔비디아 서버 파트너 최소 2곳이 동남아 고객 대상 출하를 중단하고 주문을 재검토했다고 보도했다.",
+        "통제가 칩 직접 판매에서 서버 유통과 최종사용자 확인으로 번지면서 동남아 AI 데이터센터의 장비 조달·가동 일정과 메모리 수요에도 불확실성이 커졌다."
+      ]
+    },
+    {
+      "article_numbers": [
+        4
+      ],
+      "bullets": [
+        "공급망 조사에 따르면 구글은 2027년 브로드컴 설계 TPU 8i 출하 계획을 약 100만개, 약 20% 줄이는 대신 미디어텍 설계 TPU 8t 물량 확대를 검토하는 것으로 전해졌다.",
+        "추론용 8i와 학습용 8t 사이의 투자 재배분 신호는 하이퍼스케일러의 자체 가속기 포트폴리오와 ASIC 설계 파트너 경쟁이 고정되지 않았음을 보여준다."
+      ]
+    },
+    {
+      "article_numbers": [
+        5
+      ],
+      "bullets": [
+        "미국 웨스트라피엣 시의회가 SK하이닉스의 38억7000만달러 HBM 첨단 패키징 공장 부지 용도변경을 둘러싼 주민 소송 합의안을 만장일치로 승인했다.",
+        "법원 승인 뒤 사건이 종결되면 미국 내 HBM 패키징 거점의 주요 인허가 불확실성이 줄지만, 공사·전력 인프라와 지역사회 협의의 후속 이행은 계속 관찰할 사안이다."
+      ]
+    },
+    {
+      "article_numbers": [
+        6
+      ],
+      "bullets": [
+        "디노티시아는 SC26에서 ASIC 기반 VDPU로 260만여개 영상 프레임을 자연어 검색하고 호스트 CPU 사용량을 90% 이상 낮춘 실시간 시연을 공개했다.",
+        "벡터 검색을 전용 칩으로 분리하고 자체 벡터DB·에이전트 SW와 공동 최적화한 구조는 GPU·CPU·검색 가속기를 조합하는 이기종 AI 인프라의 국내 사례다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "대구 도시철도, 국산 NPU·VLM 관제로 확인 알림 90% 이상 감소",
+      "category": "NPU",
+      "collected_at": "2026-11-20T11:36:39+09:00",
+      "original_published_at": "2026-11-20T10:31:52+09:00",
+      "original_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sRnY5LXVOZ0VIWHZxWUR3cWU3cElzc3FyR2tBenhJeVR5Z3RzWXZreEpqU0dtRktGYTlCYzI0UThITGc3SEQtMzZTTUV2NzVSYlNWdmdKcEliY2xXVXhFb1ZHbDB0aFQyV2RTNlVWN1PSAXRBVV95cUxQQkU2UnZlRlRhMS1fQmVnblphOFJqbWNXcUJWdTR3djJpYktoTzZSb0RJbDV6MndfaWNwSFRhM3ZPUC1KSUNjTldGMjBwRTMyaDBVb3dlWlhQWmthN0sweHJOcG5UZmsxX05pdk42SDdYVlk1WQ?oc=5",
+      "main_points": [
+        "피아스페이스가 주관하고 AIMX가 참여하며 대구교통공사가 실증 환경을 제공하는 국산 NPU 기반 도시철도 관제 과제가 중앙로역에서 진행 중이다. 과기정통부와 NIPA의 2026년 AX디바이스 개발 실증 미니트랙 지원 과제로, 국산 NPU가 CCTV 영상을 상시 분석해 쓰러짐·침입 등 의심 장면을 찾고 VLM이 전후 맥락을 다시 판단한다.",
+        "피아스페이스는 초기 분석에서 관제 담당자가 확인해야 할 알림이 기존의 10분의 1 이하로 감소했다고 밝혔다. TTA가 쓰러짐·화재·연기·침입 등 4개 이상상황의 탐지 성능과 NPU 연산 효율을 시험 중이며, 2차년도에는 탐지 유형과 재난대응 디지털 매뉴얼을 확대할 계획이다."
+      ],
+      "importance": [
+        "국산 NPU 실증의 초점이 단순 추론 속도에서 현장 운영자가 실제로 처리해야 하는 오탐 부담과 전력·운영비 검증으로 이동했다. 공공 안전관제 수요처가 실증 환경과 데이터를 제공하고 공인시험을 병행한다는 점에서 제품 성능과 구매 판단 사이의 간극을 좁히는 사례다."
+      ],
+      "implications": [
+        "NPU가 상시 저전력 탐지를 맡고 더 큰 VLM을 필요한 장면에만 호출하는 이중 구조는 단일 가속기 성능보다 시스템 수준의 비용·정확도 최적화가 중요하다는 점을 보여준다. 유사한 철도·공항·산업현장으로 확산하려면 탐지 유형별 오탐·미탐, 지연시간, 소비전력과 운영 인력 절감 효과가 같은 조건에서 축적돼야 한다.",
+        "사업기획 관점에서는 공인시험 결과와 현장 운영 로그가 후속 조달 규격으로 연결되는지, 수요기관이 요구하는 VLM·관제 SW와 국산 NPU 런타임의 호환성이 반복 배치에서도 유지되는지를 살펴볼 필요가 있다."
+      ],
+      "event_id": "piaspace-daegu-metro-domestic-npu-vlm-pilot-2026",
+      "event_first_published_at": "2026-11-20T10:31:52+09:00",
+      "event_evidence_url": "https://it.chosun.com/news/articleView.html?idxno=3000000001290",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "피아스페이스, 국산 NPU·VLM으로 관제 오탐 90%↓",
+          "publisher": "IT조선",
+          "published_at": "2026-11-20T10:31:52+09:00",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001290",
+          "verification": "full_text",
+          "verified_at": "2026-11-21T09:47:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "정부, 비수도권 50MW 이하 AIDC 전력계통영향평가 면제 기준 마련",
+      "category": "데이터센터",
+      "collected_at": "2026-11-20T16:28:01+09:00",
+      "original_published_at": "2026-11-20T13:00:57+09:00",
+      "original_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sWlpsY0hPSDFuMlVIVnhyaFF0MzlRZUxSQW5hVWZfcFFoMmhiMVhMaXB4X3g3WXFoaUF5NUVFb2ZoYmNpVF9iUGZWbldJUEllbDg5clRtOWV5a2VjRVQ2VVpR?oc=5",
+      "main_points": [
+        "과기정통부와 기후에너지환경부는 AIDC 특별법 하위법령 제정안에서 비수도권에 신축·증축·전환되는 계약전력 50MW 이하 AIDC를 전력계통영향평가 대상에서 면제하는 기준을 제시했다. AIDC 인정 기준에는 일정 규모 이상의 AI 가속기와 필수 전력·냉각 설비, 설계전력비율 1.5 이하가 포함된다.",
+        "정부는 AIDC 특구 내 센터의 비기술적 평가를 면제하고, 메가프로젝트와 인허가 일괄처리 신청 AIDC는 규모와 관계없이 우선 평가하는 패스트트랙도 추진한다. 시행령·시행규칙은 12월 30일까지 입법예고하며 특별법은 2027년 3월 10일 시행될 예정이다."
+      ],
+      "importance": [
+        "11월 16일 시행된 수도권 데이터센터 75점 기준이 입지 억제 기준을 구체화했다면, 이번 조치는 비수도권 면제선과 특구·메가프로젝트의 처리 방식을 제시해 사업자의 입지 선택과 일정 예측에 직접 영향을 주는 후속 변화다. 전력계통 안정성과 지역 분산을 유지하면서 행정 지연을 줄이려는 제도 설계가 처음으로 수치와 절차 수준에서 드러났다."
+      ],
+      "implications": [
+        "50MW 면제선은 중형 AIDC의 비수도권 입지를 촉진할 수 있지만, 면제 여부와 별개로 실제 계통 접속 가능 용량·전력 조달 가격·용수·통신망 확보가 투자 실행을 좌우한다. 특구의 비기술 평가 면제와 우선평가가 대형 프로젝트의 대기기간을 얼마나 단축하는지는 후속 고시와 세부 매뉴얼에서 결정된다.",
+        "국산 AI 가속기 생태계에는 AIDC 인정 기준과 특구 지원시설 범위가 향후 연산자원 사업의 수요 기반이 될 수 있다. 다만 센터 지정·신고 수보다 실제 착공, 가속기 조달 구성, 지역 전력계통 부담과 임대형 센터의 활용률을 함께 추적해야 산업 효과를 판단할 수 있다."
+      ],
+      "event_id": "korea-aidc-subordinate-rules-grid-review-50mw-2026",
+      "event_first_published_at": "2026-11-20T13:00:57+09:00",
+      "event_evidence_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790061",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "과기정통부-기후부, AI 데이터센터 신속 구축을 위한 전력계통영향평가 제도 개선 추진",
+          "publisher": "대한민국 정책브리핑",
+          "published_at": "2026-11-20",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790061",
+          "verification": "public_primary",
+          "verified_at": "2026-11-21T09:47:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "2026-11-20 13:00:57 KST 공개 보도가 아카이브에 수집됐고 공식 보도자료 페이지에도 2026-11-20 게시일이 표시된다. 2026-11-21 09:30 KST 마감 전에 50MW 면제·특구 간소화·우선평가 사실이 공개됐으며 확인 시점에 수정 고지는 없었다."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "엔비디아 서버 파트너, 미국 수출통제 뒤 동남아 출하 중단",
+      "category": "NVIDIA",
+      "collected_at": "2026-11-21T06:02:10+09:00",
+      "original_published_at": "2026-11-21T05:04:00+09:00",
+      "original_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWJ2Ynl0elFmc2U2cHV6em9qVVp6SGdacE1hRjdjaEJsZExHRDhkSm95cDYwNGxDN3pwY1dBYkhSSkgzd0JveGJUMExPaDBXS2lrc0hCaUtOd09ZUUdPRWNjNHZJOXZhRkpmajhral9vZDV1WjV3UzItRnhiU3Y5NmtKV3JueDZQVHVlaEFTamxxOG1pUm9KdTlXazlOSXEtLUNFdkJmaFY0cG9td1hqV2dCLTF4b2t0ZXZBVVVQSHh0Zy1OY05EV0NwcmJ1c2Ni?oc=5",
+      "main_points": [
+        "니케이아시아는 엔비디아 서버 파트너 최소 2곳이 미국의 최신 AI칩 수출통제에 대응해 동남아시아 고객 대상 서버 출하를 중단했다고 보도했다. 관련 기업들은 주문과 최종사용자 적합성을 재검토하고 있으며, 중단된 물량·고객·기간은 공개되지 않았다.",
+        "이번 조치는 싱가포르·말레이시아·태국·인도네시아 등 제3국 데이터센터를 통한 중국 기업의 원격 연산 접근을 겨냥한 통제가 발표된 뒤 실제 서버 유통 단계에서 나타난 후속 반응이다. 일시적인 준법 점검인지 장기적인 공급 제한인지는 아직 확인되지 않았다."
+      ],
+      "importance": [
+        "수출통제의 영향이 GPU 제조사의 직접 출하를 넘어 서버 조립사와 유통 파트너의 주문 심사·납품 보류로 확산됐다는 첫 구체적 신호다. 동남아가 빠르게 성장한 AI 데이터센터 허브인 만큼 장비 공급 지연은 가동률, 임차계약, 전력 인프라 투자와 메모리 수요에 연쇄적으로 영향을 줄 수 있다."
+      ],
+      "implications": [
+        "AI 가속기 통제는 칩 사양뿐 아니라 고객 신원과 워크로드·원격접속 경로를 확인하는 운영 준법 체계로 이동하고 있다. 서버·클라우드 사업자는 라이선스 대상 판정과 고객확인 절차를 조달 단계부터 설계해야 하며, 불투명한 GPUaaS 수요가 많은 사업일수록 일정과 자금조달 위험이 커질 수 있다.",
+        "한국의 메모리·서버 부품 공급사는 출하 중단의 범위가 단기 심사 지연인지 지역 수요 축소인지 구분해야 한다. 동남아 AIDC 프로젝트의 GPU 배치 일정, 라이선스 신청 결과, 미국계 하이퍼스케일러와 중국계 수요의 대체 여부가 실제 수요 변화의 핵심 지표다."
+      ],
+      "event_id": "nvidia-server-partners-southeast-asia-shipment-pause-2026",
+      "event_first_published_at": "2026-11-21T05:04:00+09:00",
+      "event_evidence_url": "https://situation.mto.sh/read/62019123",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "Nvidia server suppliers halt Southeast Asia shipments over US curbs",
+          "publisher": "Nikkei Asia 재배포",
+          "published_at": "2026-11-21T05:07:35+09:00",
+          "url": "https://situation.mto.sh/read/62019123",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-21T09:49:00+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "구글, 2027년 브로드컴 설계 TPU 8i 출하 계획 약 20% 축소 보도",
+      "category": "AI시장",
+      "collected_at": "2026-11-21T03:50:11+09:00",
+      "original_published_at": "2026-11-21T02:42:00+09:00",
+      "original_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Cd2w3NzJtb0xha0ZJazRHS09nRUVPanNPN192RmRWOGVxdW52QThWZzVwbG9VVmNpT1F6MkZaQVdjV09aMU9razJCVUpfckppUllpQWZCN3hIeHh6VkhhLWRWRC11QWRkSjhMaFlQQ1pyWVFCZ0VsQ2RiWmw?oc=5",
+      "main_points": [
+        "TF인터내셔널증권의 공급망 조사에 따르면 구글은 브로드컴이 설계한 2027년 TPU 8i 출하 계획을 약 100만개, 전체의 약 20% 줄인 것으로 전해졌다. 축소는 가격이 높은 8i Max에 집중된 것으로 알려졌으며 구글과 브로드컴은 보도 시점에 답변하지 않았다.",
+        "같은 조사에서는 구글이 미디어텍과 설계 중인 TPU 8t의 2027년 출하를 늘릴 계획이지만 구체 물량은 확정되지 않은 것으로 제시됐다. 8i는 기존 모델 추론, 8t는 최전선 모델 학습에 초점을 둔 제품으로 설명됐다."
+      ],
+      "importance": [
+        "하이퍼스케일러의 자체 AI칩 확대가 단일 설계 파트너의 지속적인 물량 증가를 뜻하지 않으며, 워크로드 우선순위와 비용에 따라 공급사를 재배분할 수 있음을 보여주는 신호다. 맞춤형 ASIC 시장에서 브로드컴 중심 구도가 미디어텍 등으로 넓어질 가능성과 학습·추론 투자 비중 변화를 함께 드러낸다."
+      ],
+      "implications": [
+        "이번 수치는 회사 확정 주문이 아니라 공급망 조사이므로 실제 발주와 출하에서 확인될 필요가 있다. 다만 자체 가속기 채택을 평가할 때 총 TPU 물량만 볼 것이 아니라 세대별 용도, 설계 파트너, 패키징·메모리 구성의 이동을 구분해야 한다.",
+        "국내 생태계에는 특정 하이퍼스케일러의 장기 물량 전망보다 복수 설계·메모리·패키징 조합에 대응할 수 있는 개발 역량이 중요해진다. 8i 축소가 추론 수요 둔화인지, 차세대 8t나 다른 가속기로의 전환인지에 따라 관련 HBM·ASIC 설계 기회의 방향도 달라진다."
+      ],
+      "event_id": "google-broadcom-tpu8i-2027-shipment-plan-cut-2026",
+      "event_first_published_at": "2026-11-21T02:42:00+09:00",
+      "event_evidence_url": "https://www.barrons.com/articles/broadcom-stock-google-ai-chips-e75d888d",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "Broadcom Stock Falls on Report Google is Cutting AI Chip Shipments",
+          "publisher": "Barron's",
+          "published_at": "2026-11-21T02:42:00+09:00",
+          "url": "https://www.barrons.com/articles/broadcom-stock-google-ai-chips-e75d888d",
+          "verification": "full_text",
+          "verified_at": "2026-11-21T09:48:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "SK하이닉스 인디애나 HBM 공장 부지 소송, 합의 절차 진입",
+      "category": "메모리·인프라",
+      "collected_at": "2026-11-20T11:36:39+09:00",
+      "original_published_at": "2026-11-20T06:37:00+09:00",
+      "original_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jSXc1WWR3TGc5MS1DR3RkenBJcG1WVGxyVlNkWkhCTXg1dWZfQmJ5NE8xTk1FajR6VzZodktUOEJ4TTZ5SEVOVENHNDFOamp6V3lYZTgyN3RLM2RLWGwyQkJxdXA1OTZNRTdz?oc=5",
+      "main_points": [
+        "미국 인디애나주 웨스트라피엣 시의회는 SK하이닉스 HBM 첨단 패키징 공장 부지의 중공업 용도변경을 둘러싼 주민 소송 합의안을 만장일치로 승인했다. 90에이커 부지에 43만제곱피트 규모로 계획된 공장의 투자액은 38억7000만달러이며, 미국 CHIPS법에서 보조금 4억5800만달러와 대출 최대 5억7000만달러 지원이 예정돼 있다.",
+        "법원이 합의를 승인하면 동일 청구를 다시 제기할 수 없는 조건으로 사건이 종결될 예정이다. 시와 주민 간 합의가 먼저 승인됐고 SK하이닉스·퍼듀연구재단과 관련된 별도 합의 절차가 남아 있다는 현지 보도도 나왔다."
+      ],
+      "importance": [
+        "HBM 생산 자체보다 미국 내 첨단 패키징과 연구개발 거점을 구축하는 대형 프로젝트의 토지·인허가 불확실성이 완화되는 변화다. AI 메모리 공급망을 미국에 배치하려는 CHIPS법 투자가 지역 용도변경, 전력 인프라, 주민 수용성 같은 실행 조건에 좌우된다는 점도 확인시킨다."
+      ],
+      "implications": [
+        "소송 종결은 사업 일정의 위험 하나를 줄이지만 공장 건설과 전력 연결, 장비 반입, 인력 확보가 예정대로 진행되는지는 별도 확인이 필요하다. 특히 2030년 가동 목표까지 지방정부 인허가와 연방 지원의 집행 일정이 맞물려야 한다.",
+        "국내 HBM 산업에는 미국 고객과 가까운 패키징 거점이 확대되면서 연구개발·후공정 기능의 해외 배치가 늘어날 수 있다. 국내 공급망은 미국 현지 조달 확대와 국내 핵심 공정·인력 기반 유지 사이의 역할 분담을 장기적으로 살펴봐야 한다."
+      ],
+      "event_id": "sk-hynix-west-lafayette-hbm-fab-zoning-settlement-2026",
+      "event_first_published_at": "2026-11-20T06:37:00+09:00",
+      "event_evidence_url": "https://www.theindianalawyer.com/articles/west-lafayette-reaches-settlement-with-residents-who-sued-over-sk-hynix-project",
+      "selection_tier": "supplement",
+      "sources": [
+        {
+          "title": "West Lafayette reaches settlement with residents who sued over SK Hynix project",
+          "publisher": "The Indiana Lawyer",
+          "published_at": "2026-11-19",
+          "url": "https://www.theindianalawyer.com/articles/west-lafayette-reaches-settlement-with-residents-who-sued-over-sk-hynix-project",
+          "verification": "full_text",
+          "verified_at": "2026-11-21T09:49:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "현지 기사에 2026-11-19 게시일과 시의회의 합의 승인, 법원 승인 필요성이 표시됐고 2026-11-20 06:37 KST 국내 보도가 아카이브에 수집됐다. 합의 사실은 2026-11-21 09:30 KST 마감 전 공개됐으며 확인한 본문에 수정 고지는 없었다."
+        },
+        {
+          "title": "West Lafayette City Council Says Yes To SK Hynix Rezone Settlement",
+          "publisher": "InkFreeNews",
+          "published_at": "2026-11-21T05:15:00+09:00",
+          "url": "https://www.inkfreenews.com/2026/11/20/west-lafayette-city-council-says-yes-to-sk-hynix-rezone-settlement/",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-21T09:49:40+09:00"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "디노티시아, 벡터 검색 ASIC VDPU 실시간 구동 공개",
+      "category": "NPU",
+      "collected_at": "2026-11-21T09:45:00+09:00",
+      "original_published_at": "2026-11-20",
+      "original_url": "https://it.chosun.com/news/articleView.html?idxno=3000000001404",
+      "main_points": [
+        "디노티시아는 미국 시카고 SC26에서 ASIC을 탑재한 VDPU 카드로 260만여개 영상 프레임을 대상으로 자연어 벡터 검색을 실시간 수행했다. 회사는 같은 검색을 CPU만으로 처리할 때보다 성능을 높이면서 호스트 CPU 사용량을 90% 이상 줄였다고 밝혔다.",
+        "회사는 다수의 VDPU 카드를 장착한 서버 1대에서 2소켓 CPU 서버 대비 약 10배의 검색 성능을 목표로 최적화하고 있다. CPU는 서비스 실행, GPU는 모델 연산, VDPU는 벡터 검색을 맡는 구조이며 자체 벡터DB 씨홀스와 에이전트 SW를 함께 개발하고 외부 서버·스토리지 업체와 PoC를 진행 중이다."
+      ],
+      "importance": [
+        "9월 FPGA 시연에서 ASIC 실구동으로 단계가 진전됐고, 칩 단품이 아니라 벡터DB·에이전트 SW를 함께 설계해 AI 에이전트의 검색 병목을 겨냥했다. 범용 GPU와 경쟁하는 방식이 아니라 검색 연산을 분리해 전체 서버 자원 활용도를 높이는 국내 이기종 가속기 사례라는 점이 중요하다."
+      ],
+      "implications": [
+        "벡터 검색 전용 가속기는 긴 문맥과 기업 데이터 검색이 늘어날수록 메모리 이동과 비교연산 병목을 줄일 수 있다. 다만 90% CPU 사용량 감소와 10배 목표는 회사 시연·목표 수치이므로 데이터셋 구성, 정확도, 지연시간, 전력, 다중사용자 환경을 포함한 외부 검증이 뒤따라야 한다.",
+        "사업화의 관건은 기존 GPU 서버·스토리지와의 통합 편의성, 벡터DB API 호환성, 카드 여러 장을 운용하는 소프트웨어 안정성이다. 글로벌 서버·스토리지 기업과의 PoC가 반복 배치나 유상 공급으로 이어지는지 확인하면 국내 AI반도체의 SW 결합형 진입 전략을 판단하는 근거가 된다."
+      ],
+      "event_id": "dnotitia-vdpu-asic-live-demo-sc26-2026",
+      "event_first_published_at": "2026-11-19T23:00:00+09:00",
+      "event_evidence_url": "https://www.prnewswire.com/news-releases/dnotitia-presents-first-live-demonstration-of-its-vdpu-vector-search-asic-at-sc26-302945556.html",
+      "selection_tier": "supplement",
+      "sources": [
+        {
+          "title": "Dnotitia Presents First Live Demonstration of Its VDPU Vector Search ASIC at SC26",
+          "publisher": "Dnotitia",
+          "published_at": "2026-11-19T23:00:00+09:00",
+          "url": "https://www.prnewswire.com/news-releases/dnotitia-presents-first-live-demonstration-of-its-vdpu-vector-search-asic-at-sc26-302945556.html",
+          "verification": "public_primary",
+          "verified_at": "2026-11-21T09:48:00+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "기업 보도자료는 2026-11-19 09:00 ET(2026-11-19 23:00 KST)에 공개돼 2026-11-21 09:30 KST 마감 34시간 30분 전 이용 가능했다. ASIC 실구동·260만 프레임·CPU 사용량 감소 사실이 원문에 있었고 확인 시점에 수정 고지는 없었다."
+        },
+        {
+          "title": "디노티시아, VDPU ASIC 구동 공개… “CPU 사용량 90% 낮춰”",
+          "publisher": "IT조선",
+          "published_at": "2026-11-20",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001404",
+          "verification": "full_text",
+          "verified_at": "2026-11-21T09:48:10+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "검색 색인과 공개 기사 본문에 2026-11-20 게시 사실이 표시되고, 동일 핵심 사실은 2026-11-19 23:00 KST 기업 원문으로 마감 전 공개가 확인됐다. 기사 확인 시점에 수정 고지는 없었다."
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "11월 월별 아카이브 254개 조각과 국내 NPU·리벨리온·퓨리오사AI·하이퍼엑셀·딥엑스·모빌린트 수집원을 확인했다. 09:20·09:27 수집 기록은 없고 최신 실제 수집은 06:02 KST였으므로 웹 보완을 수행했다. 대구 도시철도 국산 NPU·VLM 실증과 디노티시아 VDPU ASIC을 선정했고, 전날 국가AI전략위 NPU 포럼 후속 보도는 같은 사건으로 제외했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP 공식자료와 중앙정부·지자체·지역기관의 NPU·AI반도체·국비·실증·도입·조달 후보를 아카이브 및 공개 검색으로 확인했다. 대구교통공사의 실증 환경 제공과 NIPA AX디바이스 과제의 초기 운영 결과를 선정하고, AIDC 특별법 하위법령·전력계통 평가 개선을 공식자료로 대조했다. 새로 확정된 지자체 NPU 예산·조달 후보는 확인되지 않았으며 접근 실패를 후보 없음으로 처리하지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·Google TPU·AMD·Intel·d-Matrix와 수출통제 후속을 아카이브와 공개 원문으로 비교했다. 엔비디아 서버 파트너의 동남아 출하 중단과 구글 TPU 8i 계획 축소·8t 전환 신호를 선정했고, 2025년 발표를 재소개한 d-Matrix 3D DRAM 기사와 전날 이미 게재한 AMD·Unsloth XDNA2 후속은 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·CUDA·커널·런타임·vLLM·SGLang·벡터DB·AI 스토리지 후보를 확인했다. 디노티시아가 VDPU ASIC과 씨홀스 벡터DB·에이전트 SW를 공동 최적화한 사례를 선정했다. ROCm 10.2는 사건 공개가 48시간 범위를 벗어나고 최근 SGLang·AMD 관련 사건과 겹쳐 제외했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단패키징·AIDC 전력·용수·인허가·특구·금융구조를 확인했다. AIDC 50MW 면제선·특구 간소화·패스트트랙과 SK하이닉스 인디애나 HBM 패키징 공장 소송 합의를 선정했다. 통상적인 메모리 가격·장비 공급 기사보다 사업 실행 조건이 바뀐 후보를 우선했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국산 NPU가 공공 안전관제에서 실제 오탐 부담을 줄인 초기 결과와 TTA 시험, 수요기관 참여가 함께 확인돼 실증에서 도입으로 이어질 판단 근거가 된다."
+      },
+      {
+        "article_number": 2,
+        "reason": "AIDC 입지·인허가·전력계통 평가 기준이 50MW와 특구·우선평가 절차로 구체화돼 국내 연산 인프라 투자 실행과 지역 분산에 직접 영향을 준다."
+      },
+      {
+        "article_number": 3,
+        "reason": "미국 수출통제가 서버 유통사의 실제 출하 중단으로 이어진 첫 후속 신호로, 동남아 AIDC와 한국 메모리·부품 수요의 단기 변동성을 판단하는 데 중요하다."
+      },
+      {
+        "article_number": 4,
+        "reason": "구글 자체 가속기의 세대·용도별 물량 재배분 보도는 맞춤형 ASIC 설계 파트너 경쟁과 학습·추론 투자 비중 변화를 보여주는 중요한 시장 신호다."
+      },
+      {
+        "article_number": 5,
+        "reason": "대형 HBM 패키징 공장의 토지 소송 합의는 한국 메모리 기업의 미국 생산기반 투자가 인허가 불확실성을 해소하고 실행 단계로 진전하는 변화다."
+      },
+      {
+        "article_number": 6,
+        "reason": "국내 전용 가속기가 FPGA에서 ASIC 실구동으로 진전하고 벡터DB·에이전트 SW까지 결합해 이기종 AI 인프라의 사업화 경로를 제시했다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "전남광주·국가AI전략위, NPU 7개사 실증·판로와 국가 컴퓨팅센터 논의 후속",
+        "url": "https://www.news1.kr/local/gwangju-jeonnam/5988644",
+        "reason": "2026-11-20 원고에 같은 포럼의 참여 주체·실증·판로 논의를 이미 게재했으며 이번 보도에서 별도의 확정 사업·예산·계약이 확인되지 않아 사건 중복으로 제외했다."
+      },
+      {
+        "title": "로컬 AI 에이전트 구동을 위한 NPU 가속 생태계 확장 본격화",
+        "url": "https://www.all4chip.com/archive/newsView.asp?idx=22115",
+        "reason": "전날 게재한 AMD XDNA2·Unsloth 협력의 재서술 비중이 높고 새로운 도입·출하·성능 검증 사실이 없어 제외했다."
+      },
+      {
+        "title": "d-Matrix and Alchip Announce Collaboration on World's First 3D DRAM Solution",
+        "url": "https://www.d-matrix.ai/announcements/d-matrix-and-alchip-announce-collaboration-on-worlds-first-3d-dram-solution-to-supercharge-ai-inference/",
+        "reason": "핵심 협력은 2025-11-18 발표이고 2026년 보도는 기존 사실을 재소개해 이번 회차의 신규 사건이 아니다."
+      },
+      {
+        "title": "AMD ROCm 10.2 ecosystem release",
+        "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-10.2-blog/README.html",
+        "reason": "11월 18일 공개로 48시간 사건 범위를 벗어나며 최근 AMD·SGLang 생태계 보도와 비교해 이번 회차에 넣을 새 배포·도입 사실이 부족했다."
+      },
+      {
+        "title": "Nvidia accounting is focus of US SEC investigation",
+        "url": "https://www.reuters.com/technology/artificial-intelligence/nvidias-accounting-is-focus-us-sec-investigation-2026-11-20/",
+        "reason": "법률·지배구조 후속 보도이며 최근 14일 원고의 NVIDIA 경영진·조사 사건과 이어진다. 공급망 출하 중단과 AIDC 제도 등 산업 실행 변화보다 우선순위가 낮아 제외했다."
+      },
+      {
+        "title": "Intel secures first external 18A customer",
+        "url": "https://www.cnbc.com/2026/11/19/intel-first-external-18a-customer.html",
+        "reason": "외부 고객 확보는 중요하지만 고객명·양산 일정이 공개되지 않았고, 이번 회차의 국내 수요 검증·인프라 실행·가속기 공급 변화보다 구체성이 낮아 제외했다."
+      }
+    ],
+    "count_reason": "전체 월 아카이브 25,353건과 마감 전 72시간 후보, 최근 14일 원고, 다섯 영역 보완 검색을 비교해 독립성과 공개 본문을 검증한 6건을 선정했다. 국내 현장 실증·AIDC 제도·수출통제의 실제 공급 반응·맞춤형 가속기 수요·HBM 투자 실행·이기종 가속기 SW라는 서로 다른 변화를 구성했다.",
+    "company_overlap_review": "같은 기업집단이 중심인 기사는 없다. 엔비디아 출하 중단과 구글·브로드컴 TPU 보도는 서로 다른 가속기 공급망 사건이며, SK하이닉스·피아스페이스·디노티시아·정부 AIDC 제도도 독립 주체와 사건이다.",
+    "candidate_counts": {
+      "discovered": 4119,
+      "time_eligible": 2389,
+      "independent_events": 28,
+      "verified": 12,
+      "selected": 6,
+      "basis": "mail/candidates.py가 전체 2026-11 아카이브 254개 조각과 작성 시점까지의 수집 기록에서 72시간 후보 4,119건, 48시간 시간 적합 기사 2,389건을 집계했다. 편집 검토에서는 중복 보도와 범용 AI 기사를 묶어 28개 독립 사건을 비교했고, 공개 본문·공식자료로 핵심 사실을 확인할 수 있는 12개를 검증한 뒤 6개를 선정했다. 당일 collection의 최신 실제 저장은 06:02 KST이며 09:20·09:27 실행 기록 부재는 웹 보완 검색으로 별도 점검했다."
+    },
+    "history_review": {
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-20",
+      "checked_dates": [
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20"
+      ],
+      "note": "각 날짜의 ready 원고에서 제목·주요 사실·event_id·original_url·검증 출처를 확인했다. 11월 20일 국가AI전략위 NPU 포럼과 AMD XDNA2 사건은 중복 제외했고, AIDC 전력계통 기준과 동남아 수출통제 영향은 11월 16일·17일 보도의 실질적 후속 사실으로 기록했다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 대구 도시철도 국산 NPU·VLM 관제의 초기 오탐 감소 결과와 TTA 시험 사건은 없었다."
+      },
+      {
+        "article_number": 2,
+        "result": "material_update",
+        "previous_editions": [
+          "2026-11-16"
+        ],
+        "new_fact": "수도권 데이터센터 75점 기준 이후 비수도권 50MW 이하 면제, 특구 비기술 평가 면제, 메가프로젝트 우선평가가 새로 공개됐다.",
+        "evidence_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790061",
+        "note": "11월 16일 원고의 전력계통영향평가 고시와 같은 제도 축이지만 적용 예외와 처리 절차가 새로 구체화된 후속 변화다."
+      },
+      {
+        "article_number": 3,
+        "result": "material_update",
+        "previous_editions": [
+          "2026-11-17"
+        ],
+        "new_fact": "동남아 원격접속 통제 발표 뒤 엔비디아 서버 파트너 최소 2곳이 실제 출하를 중단하고 주문을 재검토했다.",
+        "evidence_url": "https://situation.mto.sh/read/62019123",
+        "note": "11월 17일 원고의 통제 발표에서 실제 공급망 집행 반응으로 진전된 후속 사실이다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 구글의 2027년 TPU 8i 물량 축소와 TPU 8t 파트너 재배분 보도는 없었다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 SK하이닉스 인디애나 HBM 패키징 공장의 용도변경 소송 합의 사건은 없었다."
+      },
+      {
+        "article_number": 6,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 디노티시아의 ASIC 기반 VDPU 실구동과 260만 프레임 시연 사건은 없었다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026년 11월 20일 21일 국산 NPU 실증 도입 사업화; 리벨리온 퓨리오사AI 하이퍼엑셀 딥엑스 모빌린트 공식 발표",
+          "official_sources": "IT조선 피아스페이스 공개 본문, Dnotitia PRNewswire 공식 보도자료, 기업·NIPA·과기정통부 공개 채널을 확인했다.",
+          "result": "대구 도시철도 NPU·VLM 실증과 디노티시아 VDPU ASIC을 선정했고 전날 포럼·AMD NPU 재보도는 중복 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "과기정통부 NIPA IITP 2026-11-20 NPU AI반도체 공고 실증 조달; 지자체 지역기관 국비 지방비 NPU 도입",
+          "official_sources": "대한민국 정책브리핑 AIDC 특별법 하위법령·전력계통영향평가 보도자료와 NIPA 지원사업 맥락을 확인했다.",
+          "result": "대구교통공사 수요처 실증과 AIDC 제도 변화를 선정했으며 새로운 지자체 NPU 예산 확정·조달 사건은 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "November 20 2026 AI accelerator GPU NPU TPU chip official announcement; Nvidia Southeast Asia shipments; Google Broadcom TPU 8i",
+          "official_sources": "Nikkei 공개 재배포, Barron's 공개 본문, AMD·d-Matrix·Intel 공개자료를 비교했다.",
+          "result": "엔비디아 서버 출하 중단과 구글 TPU 물량 재배분을 선정하고 오래된 d-Matrix 협력과 전날 AMD 사건은 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "November 20 2026 AI inference runtime compiler ROCm CUDA SGLang vLLM vector database official",
+          "official_sources": "AMD ROCm 공식 블로그, Dnotitia 공식 보도자료와 씨홀스·VDPU 통합 설명을 확인했다.",
+          "result": "ASIC·벡터DB·에이전트 SW 공동 최적화를 선정했고 ROCm 10.2는 48시간 밖 사건으로 제외했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026년 11월 20일 AI 데이터센터 전력 인허가 특구; SK hynix Indiana HBM plant settlement",
+          "official_sources": "과기정통부·기후부 공식 보도자료, Indiana Lawyer와 현지 공개 재배포 본문을 확인했다.",
+          "result": "AIDC 50MW 면제·특구 패스트트랙과 SK하이닉스 HBM 공장 소송 합의를 선정했다."
+        }
+      },
+      "alternative_sources": "니케이아시아 접근 제한 후보는 공개 재배포문에서 출하 중단 주체 수와 범위·미공개 한계를 확인했다. SK하이닉스 소송은 Indiana Lawyer와 InkFreeNews 현지 본문을 교차 확인했고, AIDC는 언론 요약 대신 정부 원문을 사용했다. 나머지 선정 후보는 공개 전문 또는 기업 공식자료로 핵심 사실을 확인했다."
+    },
+    "shared_original_reviews": []
+  }
+}
+
