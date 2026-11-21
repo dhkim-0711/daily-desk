@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-11-21T07:22:56.393Z",
+  "generatedAt": "2026-11-21T07:34:55.438Z",
   "news": {
     "articles": [
       {
@@ -254,9 +254,33 @@ window.__DASHBOARD_DATA__ = {
         "score": 28
       },
       {
+        "title": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘Th - Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTM4eUdJa2xrQ0ZtMGNwbXVpSndJeC16b1ZHUTdfTEJib0ZZM1JLX21CNUtSbzRXTmdyXzJCOVFpalZYSzRiSGx3aDJ6dVp1YWxyNHhBeks3cms4bkp4Z01jeHlfMHZmaUlBa252LTR2Y1VGZmhLLWo3VE4wdkxCemtPX1ZpaE10RG1qaS1rSmh0eVk?oc=5",
+        "publishedAt": "Sat, 21 Nov 2026 07:25:58 GMT",
+        "summary": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘Th &nbsp;&nbsp; Benzinga",
+        "outlet": "Benzinga",
+        "outletUrl": "https://www.benzinga.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA",
+          "AMD"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "AI시장",
+        "score": 27
+      },
+      {
         "title": "AMD, Nvidia and Intel Face AI Market Test - varindia",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44Yk8tMWNYQlllYVVjMEdzUDdRVWF6bEM5MDdud3pVUWU0aW14R1IzRWxvVWIzVzRXaS1DeGdpcVpnSTU1TjhnYnNDcWNkVGxRSDJtSmNzWmVJSnd1UXFXNlJuSGFlUFB5Z183YTc1eVc0QjA0UnZJMkp3?oc=5",
-        "publishedAt": "Sat, 21 Nov 2026 07:01:39 GMT",
+        "publishedAt": "Sat, 21 Nov 2026 07:01:16 GMT",
         "summary": "AMD, Nvidia and Intel Face AI Market Test &nbsp;&nbsp; varindia",
         "outlet": "varindia",
         "outletUrl": "https://www.varindia.com",
@@ -850,30 +874,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
-        "title": "Automus Announces Partnership With Google Cloud To Help Accelerate Agentic Transformation - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUkN5cDctNFdPTTZTbzdGVzFaUWlKVTJLd3VlZnhJRnNtNVV4alZZTHRKTWtfQ0hpbHVWeDNSVXFkSjAwQzcwcXhiV0lHNVZmYVk3eFV2VFNLVkljd1M3VXF4c29KR2NURFlldUx0Mnp3T19vcVlPSXdCVHlfQzdUTXlpUUpPUEJvZGU0UlBVWUY4SjlWOXJieTFOeEx4a1ZhanQ0TnktVlVQR1NndmIzY1VHeFBEcm9wcTRMc01zRUpWTXdNUEd6Vy10ejlIVDBnMDkyU2EyRnd4R3Rmc25ZUlEtak9qX0l5UEp6Zk1rbnA?oc=5",
-        "publishedAt": "Fri, 20 Nov 2026 11:56:36 GMT",
-        "summary": "Automus Announces Partnership With Google Cloud To Help Accelerate Agentic Transformation &nbsp;&nbsp; TradingView",
-        "outlet": "TradingView",
-        "outletUrl": "https://www.tradingview.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 26
-      },
-      {
         "title": "Report: Nvidia in advanced talks to acquire Stanford-led diffusion AI startup Inception for $500M+ - Tech Funding News",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQelhTc2k2eDFkMjdJam9mM2d1RHRMWlcxZThvMU5PYXl2QkRZT2tHQ1Q4dXNlenllN0ZRcXB2TXVjc25vdkgyZ0wweGlzb09kTUdGUHRVT245OVpjRk82aTdLaF9oOW5oT2xuREdoM0ZuWnJ1ZVhJTnNIQ2xVY1Iyb3daeEg5a3N5ODhpVlZrRmU2QklYYXJWTjdUMzNxTzRvc3V4NWlfQzhUcmF3QWFtTnREcjhxX29YOUVDSklSWEV0Zw?oc=5",
         "publishedAt": "Fri, 20 Nov 2026 10:42:47 GMT",
@@ -994,6 +994,30 @@ window.__DASHBOARD_DATA__ = {
           "딥엑스"
         ],
         "issueCategory": "NPU",
+        "score": 25
+      },
+      {
+        "title": "Fujitsu and Google Cloud Expand Their Secure Enterprise AI Partnership - Kingy AI",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05U25Fb1Rad3BvWmZ2MUpEM0F1bVFjTUZmRFBab3ZyRzI1cGp2WXJEV0pPZDZnQ2xoSUlweTU2enUzckdDZUZmMFNJVDlqOFZabkcyMzZIbnNtNXh4dkd5NFR4UzhIcmJzdUxKTDlsem9sWmtxT2lIVA?oc=5",
+        "publishedAt": "Fri, 20 Nov 2026 06:24:03 GMT",
+        "summary": "Fujitsu and Google Cloud Expand Their Secure Enterprise AI Partnership &nbsp;&nbsp; Kingy AI",
+        "outlet": "Kingy AI",
+        "outletUrl": "https://kingy.ai",
+        "source": "AI 시장·비즈니스",
+        "sourceIds": [
+          "ai-market-business"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI시장",
         "score": 25
       },
       {
@@ -1683,35 +1707,35 @@ window.__DASHBOARD_DATA__ = {
         "score": 23
       },
       {
+        "title": "Nvidia Stock Crashes 43% From Peak as Anthropic's Record $93.5B IPO Fails to Stop AI Selloff - Coinpaper",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWFjcENJWUNBd3pIREMwZE1INjMtS2Z5VUE2emZfRV9xSDNFVzAwemtvbEhFN3lLdlRTR0VBMExKSjdlMW1NSlk1MjJnaGt4NjBESUZqcmFsSjFmNFhrUTlvaDVkTXdvVWk3XzMwbUZ1d3RNTHhOM3RtSGdubS15WTNJN2VwanBtWTJhVlc2MUpxT3FLbFkyeFd6SFpCLUdSUF9WX2ljdTFlR2NScVE?oc=5",
+        "publishedAt": "Fri, 20 Nov 2026 19:31:24 GMT",
+        "summary": "Nvidia Stock Crashes 43% From Peak as Anthropic's Record $93.5B IPO Fails to Stop AI Selloff &nbsp;&nbsp; Coinpaper",
+        "outlet": "Coinpaper",
+        "outletUrl": "https://coinpaper.com",
+        "source": "AI 투자·자본시장",
+        "sourceIds": [
+          "ai-investment-market"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
         "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks - Decrypt",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxZVJ1NVM2bnpUZUFJaW9fR0tLbi05ZEQ0M2R0SWNwMmtYbzNlUG1RY292a2tEaHlSdkJwZzE5cEpGaHhxTWNDdXFSZ2pNTEc3NWZtcmd4YnRjOHVENW04ZHZZUHphTWdKYmZDNWUzVjVqMkk4al8xVEEzUQ?oc=5",
         "publishedAt": "Fri, 20 Nov 2026 18:16:02 GMT",
         "summary": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks &nbsp;&nbsp; Decrypt",
         "outlet": "Decrypt",
         "outletUrl": "https://decrypt.co",
-        "source": "AI 서비스·클라우드",
-        "sourceIds": [
-          "ai-agents-cloud"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI에이전트",
-          "Google"
-        ],
-        "issueCategory": "AI에이전트",
-        "score": 23
-      },
-      {
-        "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks - Yahoo Tech",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMWVRanBVd3Q2VWZGWHBYLW9CVldaWjVFQ2IzTEltOU1FWUFzbU85U1l1YXNQSkpDWWVKU19fZkZwQkdaYVlGR1lhc3huaVh2V2kwOExBajltelBZczNfdW92MXRxeDZYQ1ZUYUVoaTlfcmF6MlZfX1E1RHRGMEk5ZG41dVlJRU9JdENvcXpMTkpwdw?oc=5",
-        "publishedAt": "Fri, 20 Nov 2026 18:16:02 GMT",
-        "summary": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks &nbsp;&nbsp; Yahoo Tech",
-        "outlet": "Yahoo Tech",
-        "outletUrl": "https://tech.yahoo.com",
         "source": "AI 서비스·클라우드",
         "sourceIds": [
           "ai-agents-cloud"
@@ -2127,6 +2151,27 @@ window.__DASHBOARD_DATA__ = {
         "summary": "충남도, ‘국가첨단전략산업 투자지원’ 공모 선정 &nbsp;&nbsp; 경충일보",
         "outlet": "경충일보",
         "outletUrl": "https://www.kcilbo.com",
+        "source": "지역 AI·반도체 산업금융",
+        "sourceIds": [
+          "regional-industry-finance"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 23
+      },
+      {
+        "title": "충북도, 국가첨단전략산업 소부장 투자지원 사업 공모 선정 - 웹이코노미",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IRnlJNTdzX3F3TE5JVS0tQm9Fa25hRjRPalB5UkFHY015VFN2WVpncS14bmMtOFg4cUJyV25jSHU4Ykd6MGNKSEFvaHJXSG9FZ1JXaXVRTnhGaXJFWGxPeC1YV0kxVldtbnBBUXdnNV93QQ?oc=5",
+        "publishedAt": "Thu, 19 Nov 2026 13:20:04 GMT",
+        "summary": "충북도, 국가첨단전략산업 소부장 투자지원 사업 공모 선정 &nbsp;&nbsp; 웹이코노미",
+        "outlet": "웹이코노미",
+        "outletUrl": "https://www.webeconomy.co.kr",
         "source": "지역 AI·반도체 산업금융",
         "sourceIds": [
           "regional-industry-finance"
@@ -2730,29 +2775,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "Own Your AI: Building Secure Enterprise AI for Real-World Impact - NVIDIA",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTTBWU2FqRGJxWFhYRG4wcTNLZE5MU2QwWXVtT0FfTEQ4VlRNRGZoaE1faWVfX3czQWZDbDVEXzR5MXlibFBwd2k3NWR2OHZUZ0RlT2wxTXhXczZzLTR2QTIyeUxONEJ3MEwwaGloTHlwMndBWVJWWThpWDlnM2xzTlJtSTFVanJJU2JvaWtpY2NmSmJRaVA3WGdBeEVpaGxnb01ybzN1QXZxQ2dXS000d3ZpSQ?oc=5",
-        "publishedAt": "Thu, 19 Nov 2026 15:35:15 GMT",
-        "summary": "Own Your AI: Building Secure Enterprise AI for Real-World Impact &nbsp;&nbsp; NVIDIA",
-        "outlet": "NVIDIA",
-        "outletUrl": "https://www.nvidia.com",
-        "source": "AI 시장·비즈니스",
-        "sourceIds": [
-          "ai-market-business"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
         "title": "AMD and Unsloth Bring NPU Support to 100+ Agentic AI Applications - AMD",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGZRaU42ZU1DeXdmUGNXaFlqZi0zcGs3V2JQcEF6ZG5GM0RUNmlfaVZrRkxhbzVOb2JxcURDU3VfaXRSd2NwV1FDWWZlSm9oTWIxTURQZ1pmcm1LajZnTklvRDJfTFFRRUY0NmY1bXc0OHJpWk1RR2d6OE9fRGtOdDJXOTRnUW8yeUJTTQ?oc=5",
         "publishedAt": "Thu, 19 Nov 2026 14:03:10 GMT",
@@ -3115,7 +3137,6 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "korea-npu",
           "hyperaccel",
-          "korea-ai-policy",
           "ai-chip-public-program",
           "government-npu-policy",
           "npu-commercialization"
@@ -3956,6 +3977,28 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
+        "title": "Ishita Jain takes on AI GTM role at Google - Exchange4Media",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXRQX2IwWDdoZkU4bTIzQWJZeXdoTTl6Ykd4RlI0VzgxWGtOTjBNMHlFejhEXzI5V2RaSXZsZ0p1M1RPZktYazN4aW1yVWQ3cGsxSHcwNWJvYjlRbWpnMW83MU4tcWhMcTdNMDlCR2FqNDdxQmZEVmhVRGcza3NSbEdoY3dvellFX3NMNmN4RDk5dU1uZGNvZW5vTm9HWVRsTmtVb0NCVkM3UQ?oc=5",
+        "publishedAt": "Sat, 21 Nov 2026 06:22:30 GMT",
+        "summary": "Ishita Jain takes on AI GTM role at Google &nbsp;&nbsp; Exchange4Media",
+        "outlet": "Exchange4Media",
+        "outletUrl": "https://www.exchange4media.com",
+        "source": "Google AI 이슈",
+        "sourceIds": [
+          "google-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "Google"
+        ],
+        "issueCategory": "Google",
+        "score": 20
+      },
+      {
         "title": "Nvidia Shakeup Sends AI Stocks Tumbling - Briefs Finance",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHMwSl9JYy1Oa3VaNG0zOTNlUzZNbHUyR0REeFFZekFrQ1JwbHdPYnh5aWNxbkI5VjNCdlFHeGc0UlRZUW92Tk1nek5DamVBX1RhbU9teHJzVmlCOW9ScHAzb0tCOUQ5aHl6XzEzcHhaNXFHQ01WYVpCd2JyanRDS0tIaHNyYWkxcGc?oc=5",
         "publishedAt": "Sat, 21 Nov 2026 05:13:27 GMT",
@@ -3976,29 +4019,6 @@ window.__DASHBOARD_DATA__ = {
           "NVIDIA"
         ],
         "issueCategory": "AI시장",
-        "score": 20
-      },
-      {
-        "title": "The new rules of AI Search: A 2027 guide to predictable ROI - Google Business Profile",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGpmclNScloyWWpzU202TzM1dmJkVVJkMVg3TkNxbUkxODh6Q21GSS12VjUzd2l2RHFGQThJSWQyenU3T3JkWnllNHg2TmoxX3h4MFpIU0V5XzQwRGhpT2QyenlGZjBIN1RZUUFSUzZnQ1dsUTZzNDZwM2l0YnZLUDUyU1B1NnE2R2lDd3pMY3NHRktxMUpMZFd2LWZVdw?oc=5",
-        "publishedAt": "Sat, 21 Nov 2026 05:01:25 GMT",
-        "summary": "The new rules of AI Search: A 2027 guide to predictable ROI &nbsp;&nbsp; Google Business Profile",
-        "outlet": "Google Business Profile",
-        "outletUrl": "https://business.google.com",
-        "source": "AI 시장·비즈니스",
-        "sourceIds": [
-          "ai-market-business",
-          "ai-agents-cloud"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
         "score": 20
       },
       {
@@ -4144,28 +4164,6 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "ai-market-business",
           "ai-agents-cloud",
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 20
-      },
-      {
-        "title": "Gemini 4 Neon Is on the $19.99 Google AI Pro Plan, Not Ultra - OrcaRouter",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QUF9lSW1QaENOLU5kRnlEZjRsSUtTMmFxeHlKd1h6UjluSGZUaVFiUWFUNnlEOTF5NGhVZ05NZUF2aDAzUWlEckp0dkxOeFZtQkxNYzlOcV9SWXBpWTZMdWJLREZfM24wX1dWRA?oc=5",
-        "publishedAt": "Sat, 21 Nov 2026 03:12:32 GMT",
-        "summary": "Gemini 4 Neon Is on the $19.99 Google AI Pro Plan, Not Ultra &nbsp;&nbsp; OrcaRouter",
-        "outlet": "OrcaRouter",
-        "outletUrl": "https://www.orcarouter.ai",
-        "source": "Google AI 이슈",
-        "sourceIds": [
           "google-ai"
         ],
         "sourceLang": "en",
@@ -7184,7 +7182,7 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-11-21T07:22:53.723Z"
+    "generatedAt": "2026-11-21T07:34:52.129Z"
   },
   "briefing": {
     "date": "2026년 11월 21일 토요일",
@@ -7449,7 +7447,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI에이전트",
-          26
+          24
         ],
         [
           "파운드리·패키징",
@@ -7479,15 +7477,15 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          70
+          71
         ],
         [
           "Google",
-          54
+          52
         ],
         [
           "AMD",
-          22
+          23
         ],
         [
           "Broadcom",
@@ -7590,7 +7588,7 @@ window.__DASHBOARD_DATA__ = {
       "metrics": [
         [
           "AI시장",
-          91
+          94
         ],
         [
           "NPU",
@@ -7602,11 +7600,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "국내 기사",
-          93
+          94
         ],
         [
           "해외 기사",
-          87
+          86
         ]
       ],
       "sections": [
