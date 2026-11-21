@@ -1,7 +1,33 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진 - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15WGxtM1llX3FHTmN5Vi1RNTF5UTg0dDJ1LXZndXpxdmI4ZHMzM0htUDB3TmdxWDVoNmd0c2NVTks4UWoyOWRaV0ZlZHBaYVhDckw1UDNQNXZmWkowdVpWaVlhRExCakNuVlE?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 08:25:00 GMT",
+      "summary": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진 &nbsp;&nbsp; AI타임스",
+      "outlet": "AI타임스",
+      "outletUrl": "https://www.aitimes.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "데이터센터",
+        "NVIDIA"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 23,
+      "firstSeenAt": "2026-11-06T11:29:45.021Z",
+      "lastSeenAt": "2026-11-09T01:41:38.129Z"
+    },
     {
       "title": "ARM, 실적 호조에도 주가 부진...\"데이터센터 사업, 스마트폰 넘는다\" - 코인리더스",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DSDhYbWg3bkczcWRPTXU1cFU5M250OHlGM1JoVU5zV0JyRVhUU1VJclg3Nzl4d0dzanY0MEtpdGN3WEZCNFU3MTZB?oc=5",
@@ -2268,30 +2294,6 @@
       ],
       "issueCategory": "AI시장",
       "score": 19,
-      "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-07T01:50:57.866Z"
-    },
-    {
-      "title": "LG전자, 구글 광고 시상식 2개 부문 수상…AI 마케팅 성과 인정 - 열린뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIVFFBZjFiaXA0ZlRpYkltWTNWb29VMmQydmpoMGhRZHFCdWl4WXBucUMtcWxZUFlYd2Vyb1Z6Q3VIR1NYTHlMUGJpU2VCNDFEd1Fsa29yR3hxTVEydlR5U1AxVkt4Zw?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:15:17 GMT",
-      "summary": "LG전자, 구글 광고 시상식 2개 부문 수상…AI 마케팅 성과 인정 &nbsp;&nbsp; 열린뉴스통신",
-      "outlet": "열린뉴스통신",
-      "outletUrl": "https://www.onews.tv",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
       "firstSeenAt": "2026-11-06T11:29:45.021Z",
       "lastSeenAt": "2026-11-07T01:50:57.866Z"
     }

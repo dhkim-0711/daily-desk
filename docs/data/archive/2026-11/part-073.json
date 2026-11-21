@@ -1,7 +1,33 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "[ESG특집] 구글클라우드·DSV의 970만리터 SAF 계약이 던지는 한국 산업·수출·투자 파장 - 데일리연합",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqQ2FBZ0d4R3BHTVJiUXR6LUtlSGFLa1UyZm5IdE9tNjd6dnFCdzdYYzJKSlFaWVZCcE1rMmZrU0NFWDRVQ0lqaU10WktySmdvMU5KQWY0VUh3QkE?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 06:40:04 GMT",
+      "summary": "[ESG특집] 구글클라우드·DSV의 970만리터 SAF 계약이 던지는 한국 산업·수출·투자 파장 &nbsp;&nbsp; 데일리연합",
+      "outlet": "데일리연합",
+      "outletUrl": "https://dailyan.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "AI인프라",
+        "Google",
+        "투자·M&A"
+      ],
+      "issueCategory": "AI시장",
+      "score": 21,
+      "firstSeenAt": "2026-11-16T12:03:12.718Z",
+      "lastSeenAt": "2026-11-16T22:51:57.682Z"
+    },
     {
       "title": "[ESG특집] 데이터센터 붐과 '그린 시멘트' 전환이 한국 산업·정책·금융에 던지는 과제 - 데일리연합",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43OXFxQmZ6MW83dzRUZGV0XzQyUlRLY1lyalNhU2Y2MF9yRExfOS01cjdGYk51V283aVVzdnZ4NjkxSVF1WkM1eTJ2T2tfZzdtMjl3LTN2R2xDRlU?oc=5",
@@ -2251,28 +2277,6 @@
       "score": 19,
       "firstSeenAt": "2026-11-16T06:45:13.562Z",
       "lastSeenAt": "2026-11-16T22:51:57.682Z"
-    },
-    {
-      "title": "LS일렉트릭, 美 AI 데이터센터 확장 사업서 1300억 수주 - 아이티데일리",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sNDNHYmNORjktcnREV0JnMVp2bjJ0akw3U18xcURWZEVRQWM1NVNRbkk2eFd1R1ZMb2llQXVOZDIxN0hTQWl6Y1NyeTFhbi1oUHRkSVltbWZMbXIzNmNCWEhHRWJYUGFZ?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 05:33:29 GMT",
-      "summary": "LS일렉트릭, 美 AI 데이터센터 확장 사업서 1300억 수주 &nbsp;&nbsp; 아이티데일리",
-      "outlet": "아이티데일리",
-      "outletUrl": "https://www.itdaily.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-16T06:45:13.562Z",
-      "lastSeenAt": "2026-11-19T03:16:29.185Z"
     }
   ]
 }

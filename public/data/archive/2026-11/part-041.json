@@ -1,7 +1,34 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "모빌린트, 도쿄 AI 엑스포서 NPU 기반 솔루션 6종 공개 - 더에이아이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hNENMU2ZBeVVzODd6Nzk3VGtILUdydmhJVUFHZ3FNSFBoWW8xNTZUaF9NWXVfN0Fib1JicXdSMHczS3p6QmVCaFpJUnNtVWZ4YVFUR0Y2TldfcHlfbUtrRTh4TmxZSng1WVdB?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 07:09:09 GMT",
+      "summary": "모빌린트, 도쿄 AI 엑스포서 NPU 기반 솔루션 6종 공개 &nbsp;&nbsp; 더에이아이",
+      "outlet": "더에이아이",
+      "outletUrl": "https://www.newstheai.com",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "mobilint",
+        "mobilint-broad"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "모빌린트"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "모빌린트"
+      ],
+      "issueCategory": "NPU",
+      "score": 23,
+      "firstSeenAt": "2026-11-19T02:49:11.378Z",
+      "lastSeenAt": "2026-11-21T00:57:38.921Z"
+    },
     {
       "title": "Nvidia Spending Pushes AI Data Center Infrastructure Stocks Into Focus - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDJKV1RUYlFWazNXQmxPd2NXTXRaQkE0Yk5MbWdIaEc1WmJ2aW1CQ3RJYWNwRnZTSDEwZHVnQmpGZmQxblJQTFZqUms4VlpRVm1FbVczVmFGQWYtSkQzdFBCbFlNNC1tcnFTQVJCeVI1TW1vY3U2SzN4eVdERW9MMV8wMEZNalJHQk9Vd3lTeVRNN3ZxZjJjUXdB?oc=5",
@@ -2290,28 +2317,6 @@
       "score": 15,
       "firstSeenAt": "2026-11-18T07:50:21.012Z",
       "lastSeenAt": "2026-11-21T03:09:46.306Z"
-    },
-    {
-      "title": "미국의 해외 AI 데이터센터 규제가 한국 반도체도 위협, 미국 기업의 '중국 수요 대체'가 관건 - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qenhuTk5SYnBSVXFBUmJ6UzN5RVFoVEw1WFR5NDlwN3RISmk0RGV2dzR1M2ljTm1SeGFVWkwwdl95Mjk3RDhsd1B4MktiUFpMZXNlcnNHV004NVdyb09EdmF4N3MyTGFPNWZHUXUzTG90ZUk?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 06:02:17 GMT",
-      "summary": "미국의 해외 AI 데이터센터 규제가 한국 반도체도 위협, 미국 기업의 '중국 수요 대체'가 관건 &nbsp;&nbsp; 비즈니스포스트",
-      "outlet": "비즈니스포스트",
-      "outletUrl": "https://www.businesspost.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-18T07:41:04.560Z",
-      "lastSeenAt": "2026-11-20T07:38:52.150Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "How Alibaba and Megaspeed accessed restricted Nvidia AI chips - Israel Hayom",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMTBDZGFsR1hPeGRoZEpSdGsyZ09IRnctOWtWSWJhbkNsX3R2eGg1UVc3UXFYenM0TGNPR2NCN255dGNzbGNtNEUzTWFiWk1qaE9zdDd2SXhOSWkwc1V1dDB5cEtTNUNLSUx2TVZnRjNmaXZ1Q2t2akFWaEh2NXhsWk9WU1VjQQ?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 03:59:14 GMT",
+      "summary": "How Alibaba and Megaspeed accessed restricted Nvidia AI chips &nbsp;&nbsp; Israel Hayom",
+      "outlet": "Israel Hayom",
+      "outletUrl": "https://www.israelhayom.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-19T12:09:24.096Z",
+      "lastSeenAt": "2026-11-19T21:26:59.908Z"
+    },
     {
       "title": "Alphabet Launches Gemini Tasks, Deepening Competition in Consumer AI Agents - NAI500",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYmxKdmdTMjhJRG1LbnpUSkhmLXVscVZ4bkpWT0VqS2M1S01BMjcxTk9JUDF0bko2X3o1MGhNdlhDVEFsZW8wYk1sRDZlMHl6dExSTFZ3T1ItNmZ5S2RYSlg0Y2gyOWlUUEJFMkstcTAzcVVlUmk3bEFGMFBWSXlsa3VfbFkxVDhhR2VmcDVEYi03RGtzY3VSQ1gzRjNGX0REaGJaM1BKV3EzbE0?oc=5",
@@ -2262,28 +2286,6 @@
       "score": 16,
       "firstSeenAt": "2026-11-19T02:49:11.378Z",
       "lastSeenAt": "2026-11-19T21:26:59.908Z"
-    },
-    {
-      "title": "‘中 스파이 의혹’ 앨리스 황, 일본에도 데이터센터 법인 설립 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVduS2tQeVlQYlU1QVRDXzZkWUVYbDZWcFU4WVBnXzZnR0dDUkI5S3JxNENsSjBOWWZGLWVLbVZjSDZPcnd4QVh4cEJtZE81WXIyeWo3cXg2YVEwTjNEa3luMW1kakRoNmpISG9Ub1lNVkhOLTl0eDBMQkJUalhfcXFfWQ?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 02:08:00 GMT",
-      "summary": "‘中 스파이 의혹’ 앨리스 황, 일본에도 데이터센터 법인 설립 &nbsp;&nbsp; 조선일보",
-      "outlet": "조선일보",
-      "outletUrl": "https://www.chosun.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-11-19T02:49:11.378Z",
-      "lastSeenAt": "2026-11-19T02:49:11.378Z"
     }
   ]
 }

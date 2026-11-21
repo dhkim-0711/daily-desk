@@ -1,7 +1,29 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "TIER raises Taiwan's 2026 growth forecast to 12.34% on AI demand - Focus Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2Y2V6c0xNNmwydHJYR0VIZEx4LXZnQjFUT0syVW5XSTgwc1dCMEUxaUVGdVlwa3g2UnBSbmR1M0d5LXFvMDkyRk5iX1l0VnlZYjA3dDF0Yw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:52:00 GMT",
+      "summary": "TIER raises Taiwan's 2026 growth forecast to 12.34% on AI demand &nbsp;&nbsp; Focus Taiwan",
+      "outlet": "Focus Taiwan",
+      "outletUrl": "https://focustaiwan.tw",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-11-09T12:07:37.377Z",
+      "lastSeenAt": "2026-11-09T22:58:16.912Z"
+    },
     {
       "title": "[포토] 국산 NPU, 엔비디아 손잡고 글로벌 AI 시장 진출 나선다 - 아시아경제",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42dE9aNElKcjV2OUJRb1BsTnVGZUZQRHFLVUtHSk9HX0dLVGowTi1XTEp4NU1IYnljX2l3a21GdDgyTWg0czFRNlNZNmNtOWNxOHVrZTE1ZUpzamNpclFIdg?oc=5",
@@ -2428,30 +2450,6 @@
       "score": 8,
       "firstSeenAt": "2026-11-09T12:07:37.377Z",
       "lastSeenAt": "2026-11-09T22:58:16.912Z"
-    },
-    {
-      "title": "Who is Alice Huang, Chinese exec accused of spying on Nvidia CEO? - France 24",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1ZsdFV6WHBaSHBkV3dON3pGR3RUVXZwenVlZTNTck1zaFpVb0dEbkxpbzdfUVV4TTdKRW52NEd2UjlWU2c2bXlEOHFjbzNna2U0UVlVZmwzV1pGUXFCYkFTajJxRzNLVkpDZGR4WWxBa2QtbFpkTU9URkJaWDI3S0hNOVlhNzdlclJtUFJfbnBKUTFITFhNUXZDc2NJcWtHMXZMUHJHUUMybjBjbm9B?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:05:55 GMT",
-      "summary": "Who is Alice Huang, Chinese exec accused of spying on Nvidia CEO? &nbsp;&nbsp; France 24",
-      "outlet": "France 24",
-      "outletUrl": "https://www.france24.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-09T12:46:06.088Z"
     }
   ]
 }

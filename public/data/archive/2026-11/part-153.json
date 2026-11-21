@@ -1,7 +1,31 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "[미국] \"AI 거부하면 구글 검색도 못 하나\"...학부모들 집단 반발 - 교육플러스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VN3h1OWd2bGhSMHJUVmdlOWpDRFo4b2ZNRlNTYWhJSldvWWdTemRXTjFpdzhGck5oSWN0SXZNWGlzOVl4b1pYN2RKbWVSQ1hFZWZad0JmemFxWjZxZzYxMjRKa01rdWM?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 00:38:54 GMT",
+      "summary": "[미국] \"AI 거부하면 구글 검색도 못 하나\"...학부모들 집단 반발 &nbsp;&nbsp; 교육플러스",
+      "outlet": "교육플러스",
+      "outletUrl": "https://www.edpl.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-11-10T04:20:56.793Z",
+      "lastSeenAt": "2026-11-10T17:43:20.720Z"
+    },
     {
       "title": "Google, 8세대 TPU에 기밀 추론용 8tx와 긴 컨텍스트용 8i Max 추가 - GeekNews",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmVnZsTHZ6bktyV2s2U0ZTU0NpOF9zcE1qZXMwZUdtUmstdklHcjNITElHWllIMUd1bkpUMjFwVFkwc0lYVkw1Y1l2NA?oc=5",
@@ -2305,30 +2329,6 @@
       "score": 15,
       "firstSeenAt": "2026-11-11T06:41:26.106Z",
       "lastSeenAt": "2026-11-11T11:49:46.967Z"
-    },
-    {
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2llVFEzTzBjQ2VGVjBFbTFScmR1NjVfbFY1MHc3eHFEc3NMWHIySnZZVEUtb2xKc0p5UmRoYkFSbWpuVldIMHNRVFJhc2tlaHUzVDNfZ3p6MkprcDZ4MTI5V2JrTDhXSG9Ja211enlHd201SmFxemZvbHF5ZTVMNHpYTmlRVDZMQmR1dG1fWGhXWnFqU1NLcy11WENrV3haVWc?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 23:08:03 GMT",
-      "summary": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang &nbsp;&nbsp; The Verge",
-      "outlet": "The Verge",
-      "outletUrl": "https://www.theverge.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-11-10T04:20:56.793Z",
-      "lastSeenAt": "2026-11-11T06:56:02.508Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "에임인텔리전스, ‘엔비디아 AI 데이’서 에이전틱 AI 보안 통제 방안 공개 - 이코노미스트",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiNk1KNnk0NDdQSUNrMjliR3hJVi1Za21LSEFkMENhdVhqTFNUaHJsMjVEdXMxX2E1aWFZdU1NUFFud0pyTVo2QXVxS2M2elp6aWFBeFZCRi1yeU1WaEQ0aU1B?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 01:47:00 GMT",
+      "summary": "에임인텔리전스, ‘엔비디아 AI 데이’서 에이전틱 AI 보안 통제 방안 공개 &nbsp;&nbsp; 이코노미스트",
+      "outlet": "이코노미스트",
+      "outletUrl": "https://economist.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-10T04:20:56.793Z",
+      "lastSeenAt": "2026-11-10T17:43:20.720Z"
+    },
     {
       "title": "KT 3분기 영업이익 5053억원 \"AI 데이터센터 1GW로 다음 판 짠다\" - ER 이코노믹리뷰",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqSWwxYXpPMjEwc2ZiNnAtRjVNZks4WnFLZkFjNWJqTXpUX0FQSlNTZFNYcXJpREdRSndjMXZmeHZYTVFnVmRyZTdBVFNqeHg0WGdUM0x3Y0tOQ2NHWHg5ZktvcFRNUXhVTWVfMA?oc=5",
@@ -2305,30 +2329,6 @@
       ],
       "issueCategory": "데이터센터",
       "score": 11,
-      "firstSeenAt": "2026-11-10T04:20:56.793Z",
-      "lastSeenAt": "2026-11-10T17:43:20.720Z"
-    },
-    {
-      "title": "[미국] \"AI 거부하면 구글 검색도 못 하나\"...학부모들 집단 반발 - 교육플러스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VN3h1OWd2bGhSMHJUVmdlOWpDRFo4b2ZNRlNTYWhJSldvWWdTemRXTjFpdzhGck5oSWN0SXZNWGlzOVl4b1pYN2RKbWVSQ1hFZWZad0JmemFxWjZxZzYxMjRKa01rdWM?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 00:38:54 GMT",
-      "summary": "[미국] \"AI 거부하면 구글 검색도 못 하나\"...학부모들 집단 반발 &nbsp;&nbsp; 교육플러스",
-      "outlet": "교육플러스",
-      "outletUrl": "https://www.edpl.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
       "firstSeenAt": "2026-11-10T04:20:56.793Z",
       "lastSeenAt": "2026-11-10T17:43:20.720Z"
     }

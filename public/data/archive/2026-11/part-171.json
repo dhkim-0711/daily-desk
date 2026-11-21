@@ -1,7 +1,29 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "[테크스냅] 안랩, 하반기 신입·경력 두 자릿수 공채 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kdmJWVFhCaXdWRXB5ZUx0YXVTajlGNU5ZTkp5dGxabWpxb04yc2RyRzMtYVFkXzVuMmpfNXh5S0lPR0RpQmdBTURtaFVBSnJjX0E?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 00:13:48 GMT",
+      "summary": "[테크스냅] 안랩, 하반기 신입·경력 두 자릿수 공채 &nbsp;&nbsp; 매일경제 마켓",
+      "outlet": "매일경제 마켓",
+      "outletUrl": "https://stock.mk.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "npu-commercialization",
+        "accelerator-software-ko"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-11-09T01:41:38.129Z",
+      "lastSeenAt": "2026-11-11T23:03:50.484Z"
+    },
     {
       "title": "US Treasuries Gain Fresh Momentum as AI Investment Cools, Midterm Results Curb Fiscal Expansion - bloomingbit",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pbDNZS0s3QUdVNmxNZjM3VW1KbVpaQnF3TlRuazZRdlIzNEtMeTRsWEJYenU1LUVsbW9JdjluekJ0UUtBWmo5eDJHc1NHNW5CWHhjMQ?oc=5",
@@ -2259,30 +2281,6 @@
       "score": 15,
       "firstSeenAt": "2026-11-08T23:08:46.201Z",
       "lastSeenAt": "2026-11-09T12:46:06.088Z"
-    },
-    {
-      "title": "Nvidia board to investigate CEO over relationship with suspected Chinese spy - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVTZRZkl3UkhITGpaSXB3cmV4R282Zm1vMi1JWWZQMS1yTjJwMzFyZ09UcHQzRkc0THA2QU0yVW0xTGtENzJ4VmhnUDBJTjJwczZXeW4xYjhyWVFuSkxud0dtTUE5el84Vmt6MHVCMW5zdzAxaXBWaWt0V3NGenRvRThONlo5UVJyRmdkWTZwX1F2MUF1cGpzZGZPc1hDYnZ6VXlLcndINWVaMjhwRVQwTGgxSDNKNjBhREVCanExZ0Y0VVo4dnV2Ri1scnU?oc=5",
-      "publishedAt": "Sun, 08 Nov 2026 22:30:32 GMT",
-      "summary": "Nvidia board to investigate CEO over relationship with suspected Chinese spy &nbsp;&nbsp; The Washington Post",
-      "outlet": "The Washington Post",
-      "outletUrl": "https://www.washingtonpost.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-11-08T23:08:46.201Z",
-      "lastSeenAt": "2026-11-09T07:00:36.604Z"
     }
   ]
 }

@@ -1,7 +1,33 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "질문은 엔비디아 GPU, 답변은 국산 칩…SKT·엔비디아·리벨리온, AI '분업 서버' 만든다 - 콕스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaUc4emxlV0lwTHhEekMxWUppTFNmOFJORWllS3BrOVRYdi15Y0ZDM3Rad0tlaU9UbERWQlBEc2ZBRnkydGszbDdSOFdGZTdHWlBBN3F5emVwbm5VaDFWQTRVazdQTVhOUnc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 09:05:44 GMT",
+      "summary": "질문은 엔비디아 GPU, 답변은 국산 칩…SKT·엔비디아·리벨리온, AI '분업 서버' 만든다 &nbsp;&nbsp; 콕스뉴스",
+      "outlet": "콕스뉴스",
+      "outletUrl": "https://www.coxnews.co.kr",
+      "source": "리벨리온",
+      "sourceIds": [
+        "rebellions"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 25,
+      "firstSeenAt": "2026-11-12T07:22:57.474Z",
+      "lastSeenAt": "2026-11-12T07:32:32.958Z"
+    },
     {
       "title": "AI Infrastructure Demand Surge: Taiwan's October Exports Hit $96.76 Billion, Topping $90 Billion for First Time - BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HNkZWOTBZNUZCUUduY3FsR1BSallldTU1VTl1M2RuSTh5RDVmYXZSdkdWZVBOWkNDa2lUWU1YbldCcjVYWU1kZXdKdWRZSkxJcFBoaEFzR0tITTAyZXpHM29fMVZwQlVncHMyZ2NmRnNyV3Yzc2c?oc=5",
@@ -2332,26 +2358,6 @@
       "score": 30,
       "firstSeenAt": "2026-11-09T12:07:37.377Z",
       "lastSeenAt": "2026-11-12T07:32:32.958Z"
-    },
-    {
-      "title": "임종국 전남광주특별시의원 “광주 수돗물 연 182억에 사서 118억은 버려” - 광주타임즈",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00b0l1SWNCdzgwTUx3bTd6SXRPd0o0RFU2aGxnUXRBRGhpbHZScl9XRU13UDZDSTRXOXRFcGVkMHpHNlNGSUZwX2lEY0lHLVlJYlFaalB4T1JHcXNWelhnZkVfWUUwTHFlemc?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 08:10:31 GMT",
-      "summary": "임종국 전남광주특별시의원 “광주 수돗물 연 182억에 사서 118억은 버려” &nbsp;&nbsp; 광주타임즈",
-      "outlet": "광주타임즈",
-      "outletUrl": "https://www.gjtnews.com",
-      "source": "지자체 NPU 정책·사업",
-      "sourceIds": [
-        "local-government-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T12:46:06.088Z",
-      "lastSeenAt": "2026-11-09T12:46:06.088Z"
     }
   ]
 }

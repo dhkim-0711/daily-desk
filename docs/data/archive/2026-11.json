@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
     {
       "title": "Stock market enters correction territory Friday amid growing investor fears about AI stocks - CBS News",
@@ -38584,31 +38584,6 @@
       "lastSeenAt": "2026-11-21T16:58:39.799Z"
     },
     {
-      "title": "NVIDIA Announces Upcoming Event for Financial Community - markets.businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGVicHVIeEJqTElDNllORGR2T3gyYVVFcnkzQy11MDZCNFRQT01zYmE2WFJveks1YXlIV1M4VzFPd2FIV1FvMHhhYm53YXkycmZIbmRCNllqdlYtcm4wMkdXYWFSQ1YwMEtZYUtpVjFoVW9oSG94Y0ZwN3dQZUduS1QxeVlpYUI2YzNPVWNvMG91Sk10V09ES09aeUFmX09qS0lGSXprQ3VVY2hQeXJwT3didDQ?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 22:03:30 GMT",
-      "summary": "NVIDIA Announces Upcoming Event for Financial Community &nbsp;&nbsp; markets.businessinsider.com",
-      "outlet": "markets.businessinsider.com",
-      "outletUrl": "https://markets.businessinsider.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai",
-        "nvidia-official-news"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-11-20T02:36:39.470Z",
-      "lastSeenAt": "2026-11-21T16:58:39.799Z"
-    },
-    {
       "title": "Google’s Gemini App Can Now Operate Apple Desktop Computers - PYMNTS.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0ZyYlM0VXdvZDcxQWxITTNoMm9UX01CWnRiWDQ2TVNKbUpiOHA2Z2lYWGdYczVHNFByWldNMmZKeU9nUDNXdmJZN3lpWldrblMxREpjbEZuSURYdGxJQ0lqTWkwaFhGdXByZV9xTlpjYWpYWTFBMVVYZ09sQ2dUYXpVUXV2b1FlZmpYMVJBYUhuQmMzX2lQT0VJWHA4T1VYeEREckt2U0J3TVcxQXI4UjlMQjF0aFU?oc=5",
       "publishedAt": "Thu, 19 Nov 2026 22:02:57 GMT",
@@ -38702,6 +38677,33 @@
       "score": 16,
       "firstSeenAt": "2026-11-20T02:36:39.470Z",
       "lastSeenAt": "2026-11-21T16:58:39.799Z"
+    },
+    {
+      "title": "NVIDIA Announces Upcoming Event for Financial Community",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
+      "publishedAt": "Thu, 19 Nov 2026 22:00:00 GMT",
+      "summary": "NVIDIA will present at the following event for the financial community",
+      "outlet": "NVIDIA Newsroom",
+      "outletUrl": "https://nvidianews.nvidia.com",
+      "source": "NVIDIA 공식 보도자료",
+      "sourceIds": [
+        "nvidia-ai",
+        "nvidia-official-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 14,
+      "firstSeenAt": "2026-11-20T02:36:39.470Z",
+      "lastSeenAt": "2026-11-21T20:04:13.961Z",
+      "fullSummary": "NVIDIA will present at the following event for the financial community: 30th Annual UBS Global Technology and AI Conference Tuesday, Dec. PT Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com . Webcast replays are available for 90 days afterward.",
+      "summarySource": "article"
     },
     {
       "title": "1조5000억弗 몸값 앤트로픽 상장…코스피 반등 불씨 될까 - 뉴시스",
@@ -41251,9 +41253,11 @@
         "NVIDIA"
       ],
       "issueCategory": "AI시장",
-      "score": 18,
+      "score": 16,
       "firstSeenAt": "2026-11-19T20:58:56.698Z",
-      "lastSeenAt": "2026-11-21T16:58:39.799Z"
+      "lastSeenAt": "2026-11-21T20:04:13.961Z",
+      "fullSummary": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs NVIDIA and Microsoft expand tools for enterprises to customize AI models and deploy applications across cloud and local infrastructure. November 19, 2026 by Dave Salvator 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite , the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding cu...",
+      "summarySource": "article"
     },
     {
       "title": "Employees Call Out Google Over AI Search In Schools - Engadget",
@@ -44612,6 +44616,33 @@
       "score": 12,
       "firstSeenAt": "2026-11-19T20:58:56.698Z",
       "lastSeenAt": "2026-11-21T16:58:39.799Z"
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "publishedAt": "Thu, 19 Nov 2026 17:00:35 +0000",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
+      "outlet": "NVIDIA Blog",
+      "outletUrl": "https://blogs.nvidia.com",
+      "source": "NVIDIA 공식 기술발표",
+      "sourceIds": [
+        "nvidia-official-blog"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 21,
+      "firstSeenAt": "2026-11-05T20:38:08.026Z",
+      "lastSeenAt": "2026-11-21T20:04:13.961Z",
+      "fullSummary": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents See how developers are combining AI agents with NVIDIA Omniverse libraries to build simulation applications, test physical behavior and guide improvements. November 19, 2026 by NVIDIA Writers 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! Your browser doesn't support HTML5 video. Here is a link to the video instead.",
+      "summarySource": "article"
     },
     {
       "title": "Hypr and Proof bring human authorization controls to AI agent workflows - Biometric Update",
@@ -48561,9 +48592,11 @@
         "NVIDIA"
       ],
       "issueCategory": "NVIDIA",
-      "score": 15,
+      "score": 13,
       "firstSeenAt": "2026-11-19T20:58:56.698Z",
-      "lastSeenAt": "2026-11-21T16:58:39.799Z"
+      "lastSeenAt": "2026-11-21T20:04:13.961Z",
+      "fullSummary": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW Plus, bring PC gaming to more Fire TV Stick devices with a special sale, and stream five Bethesda favorites from GOG as part of nine games this week. November 19, 2026 by GeForce NOW Community 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time.",
+      "summarySource": "article"
     },
     {
       "title": "AI Is Transforming Holiday Shopping: Google AI Overviews Appear in 85% of Shopping Searches, BrightEdge Reveals the Gifts and Retailers Leading AI Recommendations - WBOC TV",
@@ -452733,31 +452766,6 @@
       "score": 13,
       "firstSeenAt": "2026-11-05T20:38:08.026Z",
       "lastSeenAt": "2026-11-06T12:00:32.429Z"
-    },
-    {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "publishedAt": "Thu, 05 Nov 2026 17:00:35 +0000",
-      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
-      "outlet": "NVIDIA Blog",
-      "outletUrl": "https://blogs.nvidia.com",
-      "source": "NVIDIA 공식 기술발표",
-      "sourceIds": [
-        "nvidia-official-blog"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 23,
-      "firstSeenAt": "2026-11-05T20:38:08.026Z",
-      "lastSeenAt": "2026-11-21T16:58:39.799Z"
     },
     {
       "title": "Nvidia has lost nearly $1.4 trillion since its October record - Yahoo Finance",

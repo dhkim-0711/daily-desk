@@ -1,7 +1,31 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "지프 데이비스, 구글 검색 유입 37% 감소…\"검색 회복 기대 안 해\" - AI 매터스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YVThyY3R4YzF1aVRYcG96S2FoZ2hOLWN1SGNxUEJTZmdwQVJDS29TOUU4Qi02NWtoeHQ4U0RBcTlzNGx5cHZraTlwamRIR2NhZE1uWA?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 01:23:03 GMT",
+      "summary": "지프 데이비스, 구글 검색 유입 37% 감소…\"검색 회복 기대 안 해\" &nbsp;&nbsp; AI 매터스",
+      "outlet": "AI 매터스",
+      "outletUrl": "https://aimatters.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-11-09T01:41:38.129Z",
+      "lastSeenAt": "2026-11-09T01:41:38.129Z"
+    },
     {
       "title": "구글 비즈니스 프로필 제미나이 관리, 워크스페이스 계정으로 확대 - AI 매터스",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80YnV6dzBsLURObzJOY3g2amxKcDlWSzJPLXYxTVhWUFBFaHNHS2d5ZEVRd2h1dDJSNHkyZDA0NG1TYlRQa0xzbkJrbU10U3QxYm1JVQ?oc=5",
@@ -2267,28 +2291,6 @@
       "score": 16,
       "firstSeenAt": "2026-11-09T01:41:38.129Z",
       "lastSeenAt": "2026-11-09T12:46:06.088Z"
-    },
-    {
-      "title": "[테크스냅] 안랩, 하반기 신입·경력 두 자릿수 공채 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kdmJWVFhCaXdWRXB5ZUx0YXVTajlGNU5ZTkp5dGxabWpxb04yc2RyRzMtYVFkXzVuMmpfNXh5S0lPR0RpQmdBTURtaFVBSnJjX0E?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 00:13:48 GMT",
-      "summary": "[테크스냅] 안랩, 하반기 신입·경력 두 자릿수 공채 &nbsp;&nbsp; 매일경제 마켓",
-      "outlet": "매일경제 마켓",
-      "outletUrl": "https://stock.mk.co.kr",
-      "source": "국내 NPU 기업",
-      "sourceIds": [
-        "korea-npu",
-        "npu-commercialization",
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-09T01:41:38.129Z",
-      "lastSeenAt": "2026-11-11T23:03:50.484Z"
     }
   ]
 }

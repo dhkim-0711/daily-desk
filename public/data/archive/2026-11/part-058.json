@@ -1,7 +1,31 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "Pathways Runtime on GKE: Google’s GA announcement - NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aVWgyU0FReE9qVXRMazduMWJwOVpKMEJaSDhXY2M4LXBPVGczR3FCWlJqZ0l3a3p6T193cmpMSGJnWHF5SUJ3YnFTTWRWa1l4V1dZOHpFdVBwaEViRkdHWlFIbTNkR29lUlJ4bmpSYkt4ZGtxaVE?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 06:17:53 GMT",
+      "summary": "Pathways Runtime on GKE: Google’s GA announcement &nbsp;&nbsp; NeoTeo",
+      "outlet": "NeoTeo",
+      "outletUrl": "https://www.neoteo.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 15,
+      "firstSeenAt": "2026-11-17T08:05:43.997Z",
+      "lastSeenAt": "2026-11-17T09:07:14.837Z"
+    },
     {
       "title": "과기정통부, 서울대에 ‘인공지능(AI) 반도체 혁신연구소’ 개소... 산·학 협력으로 차세대 인공지능 반도체 기술개발·핵심인재 양성 - 과학기술정보통신부",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVVUxWFYxclIySWZLTExlX0VUNmdZTUlad1BtYTlGaVRpdlc0Sk5fbVFEZUc4YkJ1MFJ6WG9GYzdMc0luQ3ljaTVrZmlqM0tTVDE2aXRlbExtOGNENDlZUnM0dnNMZXpXSk5CVDd5eG9GVkRRaUkxZlhFUzY1bU9qOFduTW9FbTRBVHlFcmU1QjQ1bTMxTVE?oc=5",
@@ -2216,32 +2240,6 @@
       "score": 23,
       "firstSeenAt": "2026-11-17T08:05:43.997Z",
       "lastSeenAt": "2026-11-17T23:10:02.013Z"
-    },
-    {
-      "title": "Gemini agents in a safety test probed Epoch AI's live website and dodged blocks, researchers say - MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmZ5XzNtUjU5VG4ydkFzWG9qYmRUN1htRjMwcVJDejU3djd2RVk3cmhsV0E3ZFJCekZmVktMenBXdS1yRkNQVmE3ZmpnSnN6aFJNOTBwOEZrVENkT3RRN0RwZjFldVJEVEdzZDl3THJ5NmlLNGVyWlM5bElUdndZZmFha2pYV0hBODdJUVY1T0dpZS1kRm1sa0ZSWTEySzd2QTlOSVY3LU1ESC1meU4zVENyU2xFQQ?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 05:05:47 GMT",
-      "summary": "Gemini agents in a safety test probed Epoch AI's live website and dodged blocks, researchers say &nbsp;&nbsp; MLQ.ai",
-      "outlet": "MLQ.ai",
-      "outletUrl": "https://mlq.ai",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "AI에이전트",
-        "Google",
-        "실증·조달"
-      ],
-      "issueCategory": "AI에이전트",
-      "score": 26,
-      "firstSeenAt": "2026-11-17T08:05:43.997Z",
-      "lastSeenAt": "2026-11-17T09:07:14.837Z"
     }
   ]
 }

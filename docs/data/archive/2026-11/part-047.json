@@ -1,7 +1,31 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "삼성전기·엔비디아, GPU용 기판 협력 확대…추가 자금 지원 검토 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OQUVJaGpQSUFSRFBxbXYtdzlSUUw1Y2ZnSF9ITFhwb2pELWR6VnJ2TEMweFdkdl9mcG9uYTV0VzQ1ZzJfcDhxWGREdw?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 23:26:54 GMT",
+      "summary": "삼성전기·엔비디아, GPU용 기판 협력 확대…추가 자금 지원 검토 &nbsp;&nbsp; 아이뉴스24",
+      "outlet": "아이뉴스24",
+      "outletUrl": "http://www.inews24.com",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-18T03:40:23.097Z",
+      "lastSeenAt": "2026-11-18T13:29:55.717Z"
+    },
     {
       "title": "삼성전기·엔비디아, AI 인프라 협력 확대…기판 이어 MLCC까지 동맹 - 아시아경제",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96Ri1UYnhaZTN5M0Y2NlVTd0xBbGVrZU0wUnM0LTVGNzdFX2p6eG43S0Vtb1BwLTlDaGhQYUwtbU1fQW5XR2VUcUR2SnlvZ1ZiVk5ZalRsS3hNNmlEa243Vg?oc=5",
@@ -2339,30 +2363,6 @@
       "score": 15,
       "firstSeenAt": "2026-11-17T23:10:02.013Z",
       "lastSeenAt": "2026-11-17T23:10:02.013Z"
-    },
-    {
-      "title": "Spirit Approved to Sell Business Data to Google for AI Training - Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaWpOaFlaUDBwbVhmbjJHUExIMVk0NTNsQlMxVFpZUllPZ0ZXOE1FS3ZGTzdtek1EdnBPbHp5d3hYMXY3YkJHbFd0Q3pCT1F3eElSVURDbmNVOEhFOUhXQ1NYWkRLZUlzUnlidEt5NmJuTzB3dTdSaUMxd0gxdWUyTzZXUERMNWYtZXV2MXNUcl95dzVZcnBuWmpmQU13ODYxdGtBS3NGYzAzV1FN?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 22:14:00 GMT",
-      "summary": "Spirit Approved to Sell Business Data to Google for AI Training &nbsp;&nbsp; Bloomberg Law News",
-      "outlet": "Bloomberg Law News",
-      "outletUrl": "https://news.bloomberglaw.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-11-17T23:10:02.013Z",
-      "lastSeenAt": "2026-11-18T13:29:55.717Z"
     }
   ]
 }

@@ -1,7 +1,32 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "[젠슨 황 리스크] 엔비디아發 HBM 공급망 변수…삼전닉스 셈법 복잡 - www.ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BODNNQ0VNNzNzbXRQVlF1MEhHSzlJbWxnMERZakZfSElWSnhQaDdfRUZiampNVXVKNGdvVllQRG9VVm80QlpJQTFFWFlnRGVkYm8zVWF5Yzhjd044bXVhWU40by1lYmpD?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 02:02:44 GMT",
+      "summary": "[젠슨 황 리스크] 엔비디아發 HBM 공급망 변수…삼전닉스 셈법 복잡 &nbsp;&nbsp; www.ebn.co.kr",
+      "outlet": "www.ebn.co.kr",
+      "outletUrl": "https://www.ebn.co.kr",
+      "source": "국내 메모리·AI 인프라",
+      "sourceIds": [
+        "korea-infrastructure"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA",
+        "수출통제·공급망"
+      ],
+      "issueCategory": "AI시장",
+      "score": 18,
+      "firstSeenAt": "2026-11-11T06:41:26.106Z",
+      "lastSeenAt": "2026-11-12T04:14:41.447Z"
+    },
     {
       "title": "AMD, AI 인프라 경쟁 확대...6세대 에픽 서버 CPU 출시, 엔비디아 베라 대비 최대 3.7배↑ - 인공지능신문",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OdGhCZm5seExEWGE5S1dibE5Db0Z0RDgyWV9fbWV5QnF6TDNwMXhuMXIyVEhuMTYtOWNxR0JWajI4R2l2SjZmR2U3OV9veTF3cXFocnUwVDA1YVRGMnRpcVR3WVpzQkk?oc=5",
@@ -2246,28 +2271,6 @@
       "score": 13,
       "firstSeenAt": "2026-11-11T00:54:30.056Z",
       "lastSeenAt": "2026-11-11T08:23:06.410Z"
-    },
-    {
-      "title": "과기정통부, ‘K-문샷’ 이행 점검…과학 AI·제도 인프라 논의 - 테크월드",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiQXUzV1FXUUkzd20yZUt2LTlOcHFNS1duN2hRUnZXdHdGN0tTQk9VMW1BT2otZW94TE5TM2RRMEpyUWFwZTNwUTA1eU8teU5KYmI4bFpSa3RCNEtxYlNyTzdKUTEzdmRU?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 00:38:27 GMT",
-      "summary": "과기정통부, ‘K-문샷’ 이행 점검…과학 AI·제도 인프라 논의 &nbsp;&nbsp; 테크월드",
-      "outlet": "테크월드",
-      "outletUrl": "https://www.epnc.co.kr",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "",
-      "score": 26,
-      "firstSeenAt": "2026-11-11T00:54:30.056Z",
-      "lastSeenAt": "2026-11-13T23:52:40.153Z"
     }
   ]
 }

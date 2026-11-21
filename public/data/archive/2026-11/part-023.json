@@ -1,7 +1,31 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "New NVIDIA RTX Spark mini PCs for local AI are now available. - GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWlBc2RYRUM1QS1JWGk1dVJsR05Hd1FCT3lBUFhLU0M2MHJXanBjZ1JMOEhnQmFDMkdIZkhIMldLTVhOcks1elhwS3hnMTdjbnBkUjNRV21KTDF0ZmZRZDljTHNmckxTazU1Q0VfV3I1czFkdHNIenp3Wmk1a3BVZlhPbV8zSnhrcVgtMmhBX2l6aG5wV3Q2ODBtWDMzT2w5cGc0REEwZmk?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 12:33:01 GMT",
+      "summary": "New NVIDIA RTX Spark mini PCs for local AI are now available. &nbsp;&nbsp; GameGPU",
+      "outlet": "GameGPU",
+      "outletUrl": "https://en.gamegpu.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 20,
+      "firstSeenAt": "2026-11-19T12:54:22.713Z",
+      "lastSeenAt": "2026-11-19T12:54:22.713Z"
+    },
     {
       "title": "Canva introduces new controls to hide generative AI features - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMzRqZk1scndlZWQ5VTlWR09LRjJMcFppaHdReTFrS1d3ZHhFOGxqOG9Da0NTb29ram9iMjJBemt1My1WTnNnVGNSNVpoZ3ZoWmwyTUxZTmtIOWpoNk9PRFlkZDlwckdzNmoyekIyVTdDNkJyVHJIOFVneDNYeXRqMDczellPeklieHVKd2dDaENBNUZ2OUl3?oc=5",
@@ -2251,28 +2275,6 @@
       "score": 16,
       "firstSeenAt": "2026-11-19T12:09:24.096Z",
       "lastSeenAt": "2026-11-20T07:38:52.150Z"
-    },
-    {
-      "title": "인텔, 마이크로소프트를 파운드리 패키징 첫 외부 고객으로 확보…제온 CPU 다년 공급 - 이코노미블록",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2NFBFZThVdmlSWmM1NzhhdHBka1Npb0ktRExsU3FEV1ZlMWdUUWNZWE42LWEyWFpqRW1fSHdUYzFWczlyRzZiamltd1c?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 11:03:02 GMT",
-      "summary": "인텔, 마이크로소프트를 파운드리 패키징 첫 외부 고객으로 확보…제온 CPU 다년 공급 &nbsp;&nbsp; 이코노미블록",
-      "outlet": "이코노미블록",
-      "outletUrl": "https://economybloc.com",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "파운드리·패키징"
-      ],
-      "issueCategory": "AI시장",
-      "score": 9,
-      "firstSeenAt": "2026-11-21T12:32:33.070Z",
-      "lastSeenAt": "2026-11-21T16:58:39.799Z"
     }
   ]
 }

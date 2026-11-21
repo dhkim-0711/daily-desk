@@ -1,7 +1,31 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "‘엔비디아 사단’도 줄폭락…‘충격 못 견딘’ 삼전닉스 - JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pTzBRZFMtZDVvREdGN2ctTnZYZkFyZ25CcmMzbGVUOHhnaGhvUW1TakNvNnFkaGl5VFZrR00xUVNjRUNhbURyclJwV2lhRmRzRUFtLQ?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 09:53:00 GMT",
+      "summary": "‘엔비디아 사단’도 줄폭락…‘충격 못 견딘’ 삼전닉스 &nbsp;&nbsp; JTBC",
+      "outlet": "JTBC",
+      "outletUrl": "https://news.jtbc.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-11-13T12:06:19.034Z",
+      "lastSeenAt": "2026-11-14T02:18:46.312Z"
+    },
     {
       "title": "Dynatrace report flags operational gaps as enterprise AI adoption accelerates - DQ",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc1N2MjJFaEZmcl9qRk1FMU5fbFltTzFucTgyZHBDOHM3RzhNWmRYU2pJdWtWQWdoMWs3d0RSTjRLODZiZlNlS0U1UlBvUkhULXV6WWNjZll2ZF9hNTBmWVYtZ0pRdXhzZ0hCRm9pWk5saHJZWmZCXzBuMjNESXd3UGFRckI1VG1ZUlFhM0xmV1pDUjZJUGxyTE5ud3IyN09Ubk5zdEtYb9IBpwFBVV95cUxNc1N2MjJFaEZmcl9qRk1FMU5fbFltTzFucTgyZHBDOHM3RzhNWmRYU2pJdWtWQWdoMWs3d0RSTjRLODZiZlNlS0U1UlBvUkhULXV6WWNjZll2ZF9hNTBmWVYtZ0pRdXhzZ0hCRm9pWk5saHJZWmZCXzBuMjNESXd3UGFRckI1VG1ZUlFhM0xmV1pDUjZJUGxyTE5ud3IyN09Ubk5zdEtYbw?oc=5",
@@ -2281,30 +2305,6 @@
       "score": 11,
       "firstSeenAt": "2026-11-13T18:03:56.124Z",
       "lastSeenAt": "2026-11-15T23:10:49.428Z"
-    },
-    {
-      "title": "젠슨 황 없는 엔비디아, 韓에 GPU 26만장 약속대로 공급 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTE8xQ0ZOSzBvNjN2dmUzZUtWU2UtemJrb1ZvV1h3TEhva3BDNzMyQ0plVjRxNXQ4eVRHV3FKUUVuMXNsVXpOd0hVZVhsRXZHbVptTmFuakZtdw?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 08:36:39 GMT",
-      "summary": "젠슨 황 없는 엔비디아, 韓에 GPU 26만장 약속대로 공급 &nbsp;&nbsp; 한국경제",
-      "outlet": "한국경제",
-      "outletUrl": "https://www.hankyung.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 20,
-      "firstSeenAt": "2026-11-13T09:59:36.232Z",
-      "lastSeenAt": "2026-11-13T20:27:34.641Z"
     }
   ]
 }

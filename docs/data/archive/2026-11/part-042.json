@@ -1,7 +1,29 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "미국의 해외 AI 데이터센터 규제가 한국 반도체도 위협, 미국 기업의 '중국 수요 대체'가 관건 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qenhuTk5SYnBSVXFBUmJ6UzN5RVFoVEw1WFR5NDlwN3RISmk0RGV2dzR1M2ljTm1SeGFVWkwwdl95Mjk3RDhsd1B4MktiUFpMZXNlcnNHV004NVdyb09EdmF4N3MyTGFPNWZHUXUzTG90ZUk?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 06:02:17 GMT",
+      "summary": "미국의 해외 AI 데이터센터 규제가 한국 반도체도 위협, 미국 기업의 '중국 수요 대체'가 관건 &nbsp;&nbsp; 비즈니스포스트",
+      "outlet": "비즈니스포스트",
+      "outletUrl": "https://www.businesspost.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-11-18T07:41:04.560Z",
+      "lastSeenAt": "2026-11-20T07:38:52.150Z"
+    },
     {
       "title": "간삼건축, 미국 7x24 Exchange 참석…AI 데이터센터 개발 과제 점검 - 한국금융신문",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZmlNN3JpR2xMQmtjcDlHV1dkc0FlNUZBZDBaeWtrVVZhNllNWXZBQkVxa01TdG55N0J1V2pBM3BwRDRSQWc2VVA3X2pIUHZYaXZBYWVxbE5xN25Uc1J5eTJsZ0hxS001WUFZTEFDRzhtbW5BNGp5TWhxdXU?oc=5",
@@ -2284,30 +2306,6 @@
       "score": 20,
       "firstSeenAt": "2026-11-18T07:41:04.560Z",
       "lastSeenAt": "2026-11-18T07:50:21.012Z"
-    },
-    {
-      "title": "Google의 AI 답변, 검색 유입을 40% 줄임 - GeekNews",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0TS1LR0hhTDl4Y3dIblpUTE9pdmlEdFhldExxUjNRbjAwQjYyY0VUYm40S2hJeFZseTloZk9LNU9xc1kwOFVDMU9lMA?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 04:41:59 GMT",
-      "summary": "Google의 AI 답변, 검색 유입을 40% 줄임 &nbsp;&nbsp; GeekNews",
-      "outlet": "GeekNews",
-      "outletUrl": "https://news.hada.io",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-11-18T07:41:04.560Z",
-      "lastSeenAt": "2026-11-18T21:22:16.881Z"
     }
   ]
 }

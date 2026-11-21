@@ -1,7 +1,29 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "Who Checked the AI Agent’s ID at the Front Door? - Security Boulevard",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHpydnpaMVhyNkx1emxFNVFXS05fTTBHd3A4QnNNbTVLN0dYOTgwNFVQNXR5a1laemh1MkVHVG1RWFloWWVrUE0tNE0wUktQejJPSUFCOUJVdmI2ZGJlTDdDWDU3Ml96WHVvbW13Z1czRUJENlhqTF9JeGdBUXZ0Ql9TLUlncm5uMWJjMTVR?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 15:10:23 GMT",
+      "summary": "Who Checked the AI Agent’s ID at the Front Door? &nbsp;&nbsp; Security Boulevard",
+      "outlet": "Security Boulevard",
+      "outletUrl": "https://securityboulevard.com",
+      "source": "AI 서비스·클라우드",
+      "sourceIds": [
+        "ai-agents-cloud"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 16,
+      "firstSeenAt": "2026-11-10T04:20:56.793Z",
+      "lastSeenAt": "2026-11-10T12:59:31.488Z"
+    },
     {
       "title": "Cisco Systems (CSCO) Could Be 15% Undervalued As AI Earnings Focus Builds - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUZoNjY4Sy13SHlPSFN1Mno0cWtaWFVDMDhDWm90TDRVcmpTSGc3dzh3M09GZ1g0bGRDdnpGVHk0WFlDUFc0WDNkaW9DYy11b2dhV2RuUEVOTTJpa3F2ZUhOdTVFaTJyUnZvWjY0Nmp1eTBWOWdldWJqOU1heXF0MlJvcUR4T1BLTDEwdXo0OEdsbXJJOGdZ?oc=5",
@@ -2311,31 +2333,6 @@
       "score": 18,
       "firstSeenAt": "2026-11-09T22:46:16.173Z",
       "lastSeenAt": "2026-11-11T01:54:03.553Z"
-    },
-    {
-      "title": "엔비디아, 韓 정부·기업과 전방위 AI 협력...반도체부터 로봇·스타트업까지 - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTTWtOX1lZT2VrLVM4dVVic1QzSDV6cjVETlNaM09kLUNiYWRQbnhZdnBfemJiTTZuNXplNHBFQ3B5MWlmeWp3RWxLaDRMcUtUVVJjY0VFdkN5OVJSRUQtYlZvcVZoYmVwM1RXcVZYUEJ5OWc?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 13:05:59 GMT",
-      "summary": "엔비디아, 韓 정부·기업과 전방위 AI 협력...반도체부터 로봇·스타트업까지 &nbsp;&nbsp; 디지털투데이",
-      "outlet": "디지털투데이",
-      "outletUrl": "https://www.digitaltoday.co.kr",
-      "source": "AI반도체 공공사업",
-      "sourceIds": [
-        "ai-chip-public-program",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-09T22:46:16.173Z",
-      "lastSeenAt": "2026-11-12T12:34:57.116Z"
     }
   ]
 }

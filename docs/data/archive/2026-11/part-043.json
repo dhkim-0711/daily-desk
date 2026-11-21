@@ -1,7 +1,31 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "Google의 AI 답변, 검색 유입을 40% 줄임 - GeekNews",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0TS1LR0hhTDl4Y3dIblpUTE9pdmlEdFhldExxUjNRbjAwQjYyY0VUYm40S2hJeFZseTloZk9LNU9xc1kwOFVDMU9lMA?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 04:41:59 GMT",
+      "summary": "Google의 AI 답변, 검색 유입을 40% 줄임 &nbsp;&nbsp; GeekNews",
+      "outlet": "GeekNews",
+      "outletUrl": "https://news.hada.io",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-11-18T07:41:04.560Z",
+      "lastSeenAt": "2026-11-18T21:22:16.881Z"
+    },
     {
       "title": "중국, AI 칩 대신 연산 수출…화웨이로 미국 봉쇄 맞선다 - OBC 뉴스",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nT2hRbENxc2ZYWFRtZHUxT0N4TFJoMXhOUllPZzlPMlZINktrd3JQMnNMOV85SzdSOHVHeGJGa0pFNUJ5blBTT1FFS3FQczNEb3lQVlRwaTY3a0JTR2xlYzU3TThhTkh4UEE?oc=5",
@@ -2279,30 +2303,6 @@
       "score": 20,
       "firstSeenAt": "2026-11-18T03:40:23.097Z",
       "lastSeenAt": "2026-11-18T03:40:23.097Z"
-    },
-    {
-      "title": "엔비디아 이사회, 젠슨 황 CEO 복귀 거부...후임자 물색 본격화 - AI타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TdDczcm9zeW1DY1RVNDJ0U2RFNEZzQ0hWZ2hmdTBqNXp6ZkwxM2FFSXlRYUQ0TGlFVWRWQkxkM1FsQ3c2V2N1RVNyeTB1RDNrblY2UjJxb0p4MVRweXpoTVg4NnZBZGtCZlE?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 02:50:43 GMT",
-      "summary": "엔비디아 이사회, 젠슨 황 CEO 복귀 거부...후임자 물색 본격화 &nbsp;&nbsp; AI타임스",
-      "outlet": "AI타임스",
-      "outletUrl": "https://www.aitimes.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 20,
-      "firstSeenAt": "2026-11-18T03:40:23.097Z",
-      "lastSeenAt": "2026-11-18T07:50:21.012Z"
     }
   ]
 }

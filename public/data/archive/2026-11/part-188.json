@@ -1,7 +1,29 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "문서뷰어 - 대한민국 정책브리핑",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qeTFORmI2QzJJQ2M2bjNiaVFqUEZZM2ZDMnFiQVh1RlhoYTdYTkVHWW1UbG5QejFDb2M1ODZoZlhoX3poM3FMV2N3U3FnUHRWQkpwaVJTeE5BbW5YUV9sMkpsaXdqZEM5MWczX2haMW1qMU9ZSlBr?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 09:51:55 GMT",
+      "summary": "문서뷰어 &nbsp;&nbsp; 대한민국 정책브리핑",
+      "outlet": "대한민국 정책브리핑",
+      "outletUrl": "https://www.korea.kr",
+      "source": "정부·공공기관 공식자료",
+      "sourceIds": [
+        "official-korea-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "정책"
+      ],
+      "issueCategory": "",
+      "score": 11,
+      "firstSeenAt": "2026-11-06T18:27:46.627Z",
+      "lastSeenAt": "2026-11-21T16:58:39.799Z"
+    },
     {
       "title": "Huawei, Alibaba join 22 firms in releasing AI agent convention - Marketing-Interactive",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakVDZ2NLOG5aVFBqMTFycXR4VlA0cUVWMW9VQjJFT0ROSTJGZUpaWk5KM3hFQno4d2tRc2t5eUVfY0Q2Q0dIblE4bmV6WGNZb0h1ZTlHYWl4OUx6ellLZkJCT1RkSzZSWUt2REN2MWFhb2V4SjBDUkc2R205UGFfYWE2NTNNNktDdUZ5SE9qNU9hNE1lbktpSUNua05aQTJZ?oc=5",
@@ -2218,32 +2240,6 @@
       "score": 8,
       "firstSeenAt": "2026-11-06T11:29:45.021Z",
       "lastSeenAt": "2026-11-06T12:00:32.429Z"
-    },
-    {
-      "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진 - AI타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15WGxtM1llX3FHTmN5Vi1RNTF5UTg0dDJ1LXZndXpxdmI4ZHMzM0htUDB3TmdxWDVoNmd0c2NVTks4UWoyOWRaV0ZlZHBaYVhDckw1UDNQNXZmWkowdVpWaVlhRExCakNuVlE?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 08:25:00 GMT",
-      "summary": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진 &nbsp;&nbsp; AI타임스",
-      "outlet": "AI타임스",
-      "outletUrl": "https://www.aitimes.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "데이터센터",
-        "NVIDIA"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 23,
-      "firstSeenAt": "2026-11-06T11:29:45.021Z",
-      "lastSeenAt": "2026-11-09T01:41:38.129Z"
     }
   ]
 }

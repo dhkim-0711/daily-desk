@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
     {
       "title": "US Lawmakers Warn Nvidia Scandal Exposes A Bigger AI Threat - Forbes",
@@ -1340,6 +1340,33 @@
       "lastSeenAt": "2026-11-21T16:58:39.799Z"
     },
     {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "publishedAt": "Thu, 19 Nov 2026 17:00:35 +0000",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
+      "outlet": "NVIDIA Blog",
+      "outletUrl": "https://blogs.nvidia.com",
+      "source": "NVIDIA 공식 기술발표",
+      "sourceIds": [
+        "nvidia-official-blog"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "AI에이전트",
+        "NVIDIA"
+      ],
+      "issueCategory": "AI에이전트",
+      "score": 21,
+      "firstSeenAt": "2026-11-05T20:38:08.026Z",
+      "lastSeenAt": "2026-11-21T20:04:13.961Z",
+      "fullSummary": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents See how developers are combining AI agents with NVIDIA Omniverse libraries to build simulation applications, test physical behavior and guide improvements. November 19, 2026 by NVIDIA Writers 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! Your browser doesn't support HTML5 video. Here is a link to the video instead.",
+      "summarySource": "article"
+    },
+    {
       "title": "Hypr and Proof bring human authorization controls to AI agent workflows - Biometric Update",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb1VUNWFRTHFkcTVjQmZwLXFwRVZkcVpDdXhjcFYxX002R3dNcXJBZ0prZDlrcXFCM2U2Qkt5QTVjVGltakpsS0h1QkxuVmZ3RHY2UXlfOFZlbHNIenNGWnJpYU52ZDVDWXZNR1g2cUkwSXFUWmJaaFJMRllrbXB6Y3ZiZ1dvMVQxbHJCU0NuUEZNdWxhWTdTbW5FU3dTUEV3RkZJMWR1ZmJaelRzbUtr?oc=5",
       "publishedAt": "Thu, 19 Nov 2026 17:00:00 GMT",
@@ -2278,31 +2305,6 @@
       "score": 13,
       "firstSeenAt": "2026-11-20T02:36:39.470Z",
       "lastSeenAt": "2026-11-20T03:04:16.349Z"
-    },
-    {
-      "title": "RiverPark Advisors: NVIDIA Corp. (NVDA) Remains Central to AI Infrastructure Build-Out - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFB6b2tBSzlfNExHVHFiRG1LV0hYeWUyMjlMRnBXSGRaakxzZ0VGbHJLbXI4TEV2eHAxUE84aEYxVWM0dUZ6dEhsTE1fcl9Ob2tEc0laT0syNmQtTXUyVndtbHF4RWpjMTdPYUw3eEE4UWhhQ2NDQ1V2QnlzRUVvNWtzUDhfZnZidG8wT084Y0wzUUtkOGVWQUQxaWxmbHIx?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 16:16:18 GMT",
-      "summary": "RiverPark Advisors: NVIDIA Corp. (NVDA) Remains Central to AI Infrastructure Build-Out &nbsp;&nbsp; Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outletUrl": "https://finance.yahoo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "AI인프라",
-        "NVIDIA"
-      ],
-      "issueCategory": "AI인프라",
-      "score": 23,
-      "firstSeenAt": "2026-11-19T20:58:56.698Z",
-      "lastSeenAt": "2026-11-20T12:46:26.120Z"
     }
   ]
 }

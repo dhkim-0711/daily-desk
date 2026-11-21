@@ -1,7 +1,37 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "SKT, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발 협력 - www.ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Tb0Z1TzFrU1ZCRF9xR0V4Z0pSa1N4VWF2bWFnWGVCNHY4djlWZkZRZUpaUS04N3hzcjhFU20wdldiVVFfMWZXYWNNUktMWDhxR2N5Q2gxT2FPUXNEaXBRSWkzbkVveFAx?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 05:26:29 GMT",
+      "summary": "SKT, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발 협력 &nbsp;&nbsp; www.ebn.co.kr",
+      "outlet": "www.ebn.co.kr",
+      "outletUrl": "https://www.ebn.co.kr",
+      "source": "해외 빅테크 국내 보도",
+      "sourceIds": [
+        "korea-global-ai-companies",
+        "korea-npu",
+        "rebellions",
+        "korea-global-chip-cooperation"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [
+        "NVIDIA",
+        "리벨리온"
+      ],
+      "taxonomyHits": [
+        "NPU",
+        "리벨리온",
+        "NVIDIA"
+      ],
+      "issueCategory": "NPU",
+      "score": 30,
+      "firstSeenAt": "2026-11-09T06:49:11.435Z",
+      "lastSeenAt": "2026-11-12T04:14:41.447Z"
+    },
     {
       "title": "SK텔레콤, 엔비디아와 리벨리온 손잡고 소버린 AI 인프라 개발 추진 - 스마트비즈",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdXkxWU1kNXg3RWNBNHZKZkhsT2JjQUVTdWxsSmhYZFpiWXhqVkF3MEhZR08tdVR3bHBRSlp3TnVZVzIyNHo4dFBpUndlWXZDeHAtbEhPNDE5eFc0Q2g0N21oMko0a0JZNUh4MQ?oc=5",
@@ -2587,28 +2617,6 @@
       "summary": "실·국장이 직접 AI로 프로그램 만든다…과기정통부의 '바이브코딩' 실험 &nbsp;&nbsp; 뉴시스",
       "outlet": "뉴시스",
       "outletUrl": "https://www.newsis.com",
-      "source": "NIPA·과기정통부 정책",
-      "sourceIds": [
-        "nipa-msit-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "",
-      "score": 26,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-12T04:14:41.447Z"
-    },
-    {
-      "title": "과기정통부, 전직급 AI 바이브코딩 교육…'행정혁신 앞당겨' - 뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JZm9TYy1WaUJuRlg3M1NvSENERmhxQWRibUtuVUd2b0FzTDJfSkRMc0laWkVPMHBiRXNDaHVKaGtDM3l0alFoaTlzTlUzSjNKWkRpTGNMS243S3hEZ3NqUFdXdi1ETzJLTGxTczRKZ9IBc0FVX3lxTFBhVmZ1TWdPUFdqZjVOamRYQUwzUFRlcjl3c1JVdm9NeFZzMk5SUE5PdURPd2RoRlh6eVRXNmx1VVFZSFItTTZCeGdseE5tcThLRjAyWDd4Z0hCeG5YTEZjY0hhVFgwSENHRUZPRFd5Tnota1E?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:00:00 GMT",
-      "summary": "과기정통부, 전직급 AI 바이브코딩 교육…'행정혁신 앞당겨' &nbsp;&nbsp; 뉴스웍스",
-      "outlet": "뉴스웍스",
-      "outletUrl": "https://www.newsworks.co.kr",
       "source": "NIPA·과기정통부 정책",
       "sourceIds": [
         "nipa-msit-policy"

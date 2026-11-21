@@ -1,7 +1,31 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "Who is Alice Huang, Chinese exec accused of spying on Nvidia CEO? - France 24",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1ZsdFV6WHBaSHBkV3dON3pGR3RUVXZwenVlZTNTck1zaFpVb0dEbkxpbzdfUVV4TTdKRW52NEd2UjlWU2c2bXlEOHFjbzNna2U0UVlVZmwzV1pGUXFCYkFTajJxRzNLVkpDZGR4WWxBa2QtbFpkTU9URkJaWDI3S0hNOVlhNzdlclJtUFJfbnBKUTFITFhNUXZDc2NJcWtHMXZMUHJHUUMybjBjbm9B?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 06:05:55 GMT",
+      "summary": "Who is Alice Huang, Chinese exec accused of spying on Nvidia CEO? &nbsp;&nbsp; France 24",
+      "outlet": "France 24",
+      "outletUrl": "https://www.france24.com",
+      "source": "NVIDIA 이슈",
+      "sourceIds": [
+        "nvidia-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "NVIDIA"
+      ],
+      "taxonomyHits": [
+        "NVIDIA"
+      ],
+      "issueCategory": "NVIDIA",
+      "score": 15,
+      "firstSeenAt": "2026-11-09T06:49:11.435Z",
+      "lastSeenAt": "2026-11-09T12:46:06.088Z"
+    },
     {
       "title": "과기정통부, SK브로드밴드 분할 심사 착수…30일까지 의견 수렴 - 경기일보",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odllRN0VKWWF3QlVldE9qbDloOTNUdWkxT0puS3gxTW1nOHNuTFp6bnZFNzRjTUhvRTQtMm9MS1FsS19BcnYxOTdGY0Utb2hDSGdqZ1lHZFJ2djQ?oc=5",
@@ -2427,36 +2451,6 @@
       "score": 8,
       "firstSeenAt": "2026-11-09T06:49:11.435Z",
       "lastSeenAt": "2026-11-10T04:20:56.793Z"
-    },
-    {
-      "title": "SKT, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발 협력 - www.ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Tb0Z1TzFrU1ZCRF9xR0V4Z0pSa1N4VWF2bWFnWGVCNHY4djlWZkZRZUpaUS04N3hzcjhFU20wdldiVVFfMWZXYWNNUktMWDhxR2N5Q2gxT2FPUXNEaXBRSWkzbkVveFAx?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:26:29 GMT",
-      "summary": "SKT, 엔비디아·리벨리온과 GPU·NPU 통합 시스템 개발 협력 &nbsp;&nbsp; www.ebn.co.kr",
-      "outlet": "www.ebn.co.kr",
-      "outletUrl": "https://www.ebn.co.kr",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies",
-        "korea-npu",
-        "rebellions",
-        "korea-global-chip-cooperation"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [
-        "NVIDIA",
-        "리벨리온"
-      ],
-      "taxonomyHits": [
-        "NPU",
-        "리벨리온",
-        "NVIDIA"
-      ],
-      "issueCategory": "NPU",
-      "score": 30,
-      "firstSeenAt": "2026-11-09T06:49:11.435Z",
-      "lastSeenAt": "2026-11-12T04:14:41.447Z"
     }
   ]
 }

@@ -1,7 +1,29 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "Strong AI Demand Fails To Shield Super Micro Computer (NASDAQ: SMCI) From Deepening Profitability Concerns - Foreign Policy Journal",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWTgzZ3BkOGcyb3J0UWN3V0ZVR0xXQi1ZQWVsMzh3cTlIcGYxU19UaDViWTl0OHNNZGRDSk5hNWFuNFhkelhmSXRxV0h5c1JnTFB1Y1ZfblF6UFJLZGdZUWFmYXBKejdMUk5Od2dybnk1WWpMUEcxbTJMWUxOa0RDd2VCTXVIY1RROHpqRXRSaURwaVljTHRvTkkyZDkta1BYYUxUUnhoZ21jS3plUWZHN254eUR2eUQ5dUN4aVphZDJNVVdKTU5zelhnZnJBZmktUFYzYm1PTEtUUUtIQ2pxV20xX1JLYlk?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 00:42:00 GMT",
+      "summary": "Strong AI Demand Fails To Shield Super Micro Computer (NASDAQ: SMCI) From Deepening Profitability Concerns &nbsp;&nbsp; Foreign Policy Journal",
+      "outlet": "Foreign Policy Journal",
+      "outletUrl": "https://www.foreignpolicyjournal.com",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [
+        "AI시장"
+      ],
+      "issueCategory": "AI시장",
+      "score": 16,
+      "firstSeenAt": "2026-11-17T04:47:39.118Z",
+      "lastSeenAt": "2026-11-17T14:54:02.524Z"
+    },
     {
       "title": "\"HBM 없어도 AI 반도체 만든다\"…세미파이브, 차세대 3D-IC 기술 공개 - 한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYY2pST25pS2lqNjNGUWhMWmFCcG90d1JjR2lRVVVUU1lDY3gyV3Q3cFg1d1JvTWdQYjJHcEFPSld1S05BUjU5MTZzSjRNV0QybVVXOUlxUTA1UQ?oc=5",
@@ -2240,31 +2262,6 @@
       "score": 16,
       "firstSeenAt": "2026-11-17T04:47:39.118Z",
       "lastSeenAt": "2026-11-17T09:07:14.837Z"
-    },
-    {
-      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
-      "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
-      "publishedAt": "Mon, 16 Nov 2026 23:00:05 +0000",
-      "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming [&#8230;]",
-      "outlet": "NVIDIA Blog",
-      "outletUrl": "https://blogs.nvidia.com",
-      "source": "NVIDIA 공식 기술발표",
-      "sourceIds": [
-        "nvidia-official-blog",
-        "nvidia-official-news"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 15,
-      "firstSeenAt": "2026-11-17T04:47:39.118Z",
-      "lastSeenAt": "2026-11-19T21:26:59.908Z"
     }
   ]
 }

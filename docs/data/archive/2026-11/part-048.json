@@ -1,7 +1,31 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-21T16:58:39.799Z",
+  "updatedAt": "2026-11-21T20:04:13.961Z",
   "articles": [
+    {
+      "title": "Spirit Approved to Sell Business Data to Google for AI Training - Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaWpOaFlaUDBwbVhmbjJHUExIMVk0NTNsQlMxVFpZUllPZ0ZXOE1FS3ZGTzdtek1EdnBPbHp5d3hYMXY3YkJHbFd0Q3pCT1F3eElSVURDbmNVOEhFOUhXQ1NYWkRLZUlzUnlidEt5NmJuTzB3dTdSaUMxd0gxdWUyTzZXUERMNWYtZXV2MXNUcl95dzVZcnBuWmpmQU13ODYxdGtBS3NGYzAzV1FN?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 22:14:00 GMT",
+      "summary": "Spirit Approved to Sell Business Data to Google for AI Training &nbsp;&nbsp; Bloomberg Law News",
+      "outlet": "Bloomberg Law News",
+      "outletUrl": "https://news.bloomberglaw.com",
+      "source": "Google AI 이슈",
+      "sourceIds": [
+        "google-ai"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Google"
+      ],
+      "taxonomyHits": [
+        "Google"
+      ],
+      "issueCategory": "Google",
+      "score": 20,
+      "firstSeenAt": "2026-11-17T23:10:02.013Z",
+      "lastSeenAt": "2026-11-18T13:29:55.717Z"
+    },
     {
       "title": "Kayak Adds 28 AI Features, Letting Travelers Ask for the Cheapest Dates to Fly - Skift",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOajRCX1VZbWxDalRLRi10c2xLYUJHX2VhWW81dldOSUhucldDWWxDMGpTM2lMQUxDNE9XaUtTZklDU1d6aE9qUlNYZlJrQlFtTUV4Qm9McjlUOHVDaTZOOERLQ1o0YXROWi00b25hOWZWY2RjOXVwUEFOSm16RmF6Vmd6dUJqQ3ZFeVZPZGtaNUNtRmpLT25lVC0yOC1sOGhJbXlaaENDRERBLVk?oc=5",
@@ -2310,34 +2334,6 @@
       "score": 20,
       "firstSeenAt": "2026-11-17T23:10:02.013Z",
       "lastSeenAt": "2026-11-20T10:30:16.624Z"
-    },
-    {
-      "title": "How Google’s New AI Chip Software Helps It Battle Nvidia - The Information",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa21ZY2VJX2xRNEloU1c5bTFpYzhCd3Y4RGJGVDBpRlJRUFAxQ1JCSGtaZ1VPM1c1NmpnV0plWkRaY3BzY1g1SERUQ0YxUkR6cW91cXJoYXUtTEc0ZlBCWUVlNUE1UDNyR0xJNWJ4dlF4bFRJNlBuMWxHSHFjQ3FwelNQbDFHT09JTGF4NHFsT3lmWTlhc0YtRXJGbTBiUjNicjBYMQ?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 20:49:00 GMT",
-      "summary": "How Google’s New AI Chip Software Helps It Battle Nvidia &nbsp;&nbsp; The Information",
-      "outlet": "The Information",
-      "outletUrl": "https://www.theinformation.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai",
-        "google-ai",
-        "accelerator-strategic-deals-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA",
-        "Google"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "Google"
-      ],
-      "issueCategory": "NVIDIA",
-      "score": 27,
-      "firstSeenAt": "2026-11-17T23:10:02.013Z",
-      "lastSeenAt": "2026-11-20T18:50:11.817Z"
     }
   ]
 }
