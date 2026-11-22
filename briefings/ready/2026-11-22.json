@@ -1,0 +1,400 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-22",
+  "cutoff_at": "2026-11-22T09:30:00+09:00",
+  "window_start": "2026-11-21T09:30:00+09:00",
+  "created_at": "2026-11-22T09:55:00+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1
+      ],
+      "bullets": [
+        "업스테이지·퓨리오사AI·서울창조경제혁신센터가 국산 LLM ‘솔라’와 NPU ‘RNGD’를 결합해 추론 서비스를 실증할 스타트업 약 20곳을 모집한다.",
+        "모델·가속기 API 제공에서 PoC, 최적화, 공동 영업까지 연결하는 프로그램이어서 국산 AI 풀스택의 고객 발굴과 반복 사업화 구조를 함께 시험한다."
+      ]
+    },
+    {
+      "article_numbers": [
+        2
+      ],
+      "bullets": [
+        "셀빅·퓨리오사AI·메가랩은 약사 업무를 보조하는 AI를 RNGD에서 검증하고, 약국용 건강기능식품 상담 서비스와 온프레미스 운영 가능성을 공동 점검한다.",
+        "국산 NPU 평가가 범용 벤치마크를 넘어 민감정보 보호, 장시간 안정성, 전력·운영비를 포함한 약국 현장 워크플로 검증으로 확장됐다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3
+      ],
+      "bullets": [
+        "본에이아이가 2030년까지 총 107억5000만원 규모로 추진되는 피지컬 AI 시스템반도체 국책과제에서 국산 AI 칩 기반 산불 감지 드론의 현장 실증을 맡는다.",
+        "센서 융합과 엣지 판별을 실제 산림 환경의 오탐 요인까지 검증하는 구조여서 국산 시스템반도체의 재난·안전 수요처 확장 가능성을 가늠할 사례다."
+      ]
+    },
+    {
+      "article_numbers": [
+        4
+      ],
+      "bullets": [
+        "아폴로와 골드만삭스가 스페이스X의 엔비디아 Vera Rubin GPU·관련 장비 도입을 위한 약 440억달러 규모 부채 패키지의 가격 조건을 확정했다.",
+        "AI 칩 조달이 장기 리스·선순위와 후순위 채무·대형 기관투자자 자금으로 구조화되면서 가속기 경쟁의 핵심이 칩 성능뿐 아니라 자본조달 비용으로 넓어졌다."
+      ]
+    },
+    {
+      "article_numbers": [
+        5
+      ],
+      "bullets": [
+        "미국 SEC가 엔비디아의 잠재적 회계 문제를 들여다보고 있다고 로이터가 보도했으며, 조사 착수 시점과 구체 항목은 공개되지 않았다.",
+        "지역별 매출 표시 변경과 고객의 칩 구매를 지원하는 AI 인프라 금융이 함께 주목받으면서 가속기 기업의 매출 품질과 금융 노출을 판단하는 공시 기준이 산업 변수로 부상했다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "업스테이지·퓨리오사AI, 국산 LLM·NPU 결합 스타트업 PoC 20곳 모집",
+      "category": "국내 NPU·풀스택 사업화",
+      "collected_at": "2026-11-20T16:28:01.232+09:00",
+      "original_published_at": "2026-11-20T13:23:33+09:00",
+      "original_url": "https://www.donga.com/news/It/article/all/20261120/135059997/1",
+      "main_points": [
+        "서울창조경제혁신센터와 업스테이지, 퓨리오사AI, IT동아가 ‘소버린 AX 얼라이언스’를 구성해 국산 LLM과 NPU를 활용한 AI 추론 서비스 실증·사업화 프로그램을 시작했다. 12월 16일 15시까지 신청을 받아 약 20개 스타트업을 선발하며, 창업 10년 미만이면서 2025년 AI 매출 10억원 이상 또는 2026년 10월까지 누적 투자 5억원 이상을 충족하고 AI 추론 솔루션을 보유한 기업이 대상이다.",
+        "선발 기업에는 업스테이지의 ‘솔라’ 모델과 퓨리오사AI의 RNGD를 활용할 API·크레딧이 제공된다. 모델 API와 NPU에 맞춘 최적화, 국산 NPU·LLM 기반 PoC, 파트너 프로그램과 공동 영업·사업개발, 투자자 연계까지 지원 범위에 포함됐다."
+      ],
+      "importance": [
+        "국산 AI 반도체 지원이 칩 사용 기회 제공에 머물지 않고 모델·런타임·고객 솔루션을 묶어 실제 추론 서비스를 만드는 단계로 이동했다. 일정 수준의 매출·투자와 추론 제품을 갖춘 기업을 대상으로 삼은 만큼 초기 창업 지원보다 구매 가능성이 있는 고객군과 반복 활용 사례를 발굴하는 데 초점이 맞춰져 있다."
+      ],
+      "implications": [
+        "국산 NPU의 사업성은 단일 성능 수치보다 모델 호환성, 전환 비용, 최적화 기간, PoC 이후 공동 판매로 이어지는 비율에서 드러날 가능성이 크다. 선발 기업이 서로 다른 추론 워크로드를 RNGD에 이식하는 과정은 지원되는 연산자·프레임워크와 개발도구의 병목을 구체화하는 자료가 될 수 있다.",
+        "향후에는 선발 수보다 PoC 완료율, 상용 서비스 전환, 유료 사용량과 반복 구매, 해외 고객 확보 여부를 함께 추적할 필요가 있다. 모델 기업과 칩 기업이 공동으로 고객을 지원하는 방식이 정착되면 국내 풀스택의 시장 진입 비용을 낮출 수 있지만, 특정 조합에 종속되지 않는 이식성과 운영 도구도 경쟁력을 좌우한다."
+      ],
+      "event_id": "sovereign-ax-alliance-upstage-furiosa-startup-poc-2026",
+      "event_first_published_at": "2026-11-20T13:23:33+09:00",
+      "event_evidence_url": "https://www.donga.com/news/It/article/all/20261120/135059997/1",
+      "selection_tier": "supplement",
+      "sources": [
+        {
+          "title": "‘국산 LLM과 NPU로 AI 추론 실증·사업화’··· 업스테이지·퓨리오사AI, 협업 스타트업 모집",
+          "publisher": "동아일보",
+          "published_at": "2026-11-20T13:23:33+09:00",
+          "url": "https://www.donga.com/news/It/article/all/20261120/135059997/1",
+          "verification": "full_text",
+          "verified_at": "2026-11-22T09:51:24+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "셀빅·퓨리오사AI·메가랩, 약국 AI 조수의 RNGD·온프레미스 검증 추진",
+      "category": "국내 NPU·현장 수요",
+      "collected_at": "2026-11-20T16:38:52.150+09:00",
+      "original_published_at": "2026-11-20T16:30:00+09:00",
+      "original_url": "https://www.mt.co.kr/future/2026/11/20/2026112013345672197",
+      "main_points": [
+        "셀빅과 퓨리오사AI, 메가랩은 약국 업무 보조 AI의 기술 검증과 서비스 확장을 위한 3자 업무협약을 체결했다. 셀빅은 대한약사회와 함께 다제약물 관리, 복약 안내, 환자 상담 등 약사의 판단을 지원하는 AI를 개발하고 있으며, 해당 서비스를 퓨리오사AI의 추론 가속기 RNGD에서 구동하는 방안을 검증한다.",
+        "메가랩은 약국에서 활용할 건강기능식품 상담 서비스 모델을 지원한다. 세 회사는 응답 품질과 처리 성능뿐 아니라 전력·운영비, 장시간 구동 안정성을 점검하고, 민감한 정보가 외부 클라우드로 나가지 않도록 약국 내부에서 운영하는 온프레미스 구성도 함께 살펴볼 계획이다."
+      ],
+      "importance": [
+        "국산 NPU가 실제 구매 주체와 업무 절차를 가진 전문 서비스 시장에서 검증되는 사례다. 약국은 개인정보 보호와 지속 운영이 중요해 단순 데모보다 데이터 경계, 장애 대응, 총소유비용을 함께 확인해야 하므로 현장 도입 가능성을 판단하는 기준이 비교적 분명하다."
+      ],
+      "implications": [
+        "약사 보조 AI는 모델 정확도만으로 도입이 결정되지 않고 처방·복약 맥락을 안정적으로 처리하는 지연시간, 업데이트 관리, 현장 장비의 전력·공간 제약이 함께 작용한다. RNGD가 이러한 조건에서 장시간 운용 데이터를 확보하면 국산 NPU의 의료·헬스케어 엣지 시장 진입에 필요한 근거가 축적될 수 있다.",
+        "검토의 초점은 협약 체결 자체보다 검증 워크로드와 평가 기준, 실제 약국 참여 수, 서비스 이용량과 비용 절감, 유료 전환 여부에 맞출 필요가 있다. 민감정보를 로컬에서 처리하는 장점이 유지되려면 모델·소프트웨어 업데이트와 보안 패치까지 포함한 운영 체계가 함께 마련돼야 한다."
+      ],
+      "event_id": "cellbig-furiosa-megalab-pharmacy-ai-rngd-validation-2026",
+      "event_first_published_at": "2026-11-20T15:30:00+09:00",
+      "event_evidence_url": "https://www.mt.co.kr/future/2026/11/20/2026112013345672197",
+      "selection_tier": "supplement",
+      "sources": [
+        {
+          "title": "\"약사 옆에 AI 조수\"…셀빅·퓨리오사AI·메가랩, 약국 혁신 맞손",
+          "publisher": "머니투데이",
+          "published_at": "2026-11-20T16:30:00+09:00",
+          "url": "https://www.mt.co.kr/future/2026/11/20/2026112013345672197",
+          "verification": "full_text",
+          "verified_at": "2026-11-22T09:51:24+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "본에이아이, 107억5000만원 피지컬 AI 과제서 산불 감지 드론 실증",
+      "category": "국내 정책·피지컬 AI 실증",
+      "collected_at": "2026-11-20T21:46:26.120+09:00",
+      "original_published_at": "2026-11-20T17:00:00+09:00",
+      "original_url": "https://www.mt.co.kr/future/2026/11/20/2026112009383339180",
+      "main_points": [
+        "본에이아이가 과학기술정보통신부의 2026년 ‘4극3특 과학기술혁신 지원사업’ 가운데 딥테크 발굴형 시스템반도체 분야 과제에 참여한다. 대구대학교가 주관하고 본에이아이 자회사 디메이커 등 10개 기관이 참여하며, 2030년까지 총 107억5000만원을 투입해 연기·불꽃·가스 복합센서와 국산 AI 칩을 결합한 피지컬 AI 모듈을 개발한다.",
+        "모듈은 센서 데이터를 엣지에서 분류해 통신 지연과 전력 사용을 줄이는 방식으로 설계된다. 본에이아이는 이를 산불 감시 드론에 탑재하고 지상 시험, 계류 비행, 실제 비행 순으로 검증하며, 상주 산림 환경에서 햇빛·먼지로 인한 오탐과 탐지 정확도·신뢰성을 확인하는 역할을 맡는다."
+      ],
+      "importance": [
+        "시스템반도체 R&D가 칩 개발에서 끝나지 않고 센서·드론·산림이라는 구체적인 수요 환경에서 성능을 검증하도록 설계됐다. 산불 감시는 통신이 불안정하고 배터리 제약이 큰 현장이어서 엣지 추론의 저전력성과 판단 지연을 동시에 평가할 수 있는 실증 사례다."
+      ],
+      "implications": [
+        "복합센서와 AI 칩을 묶은 모듈이 현장에서 작동하려면 연산 성능 외에도 센서 보정, 날씨와 미세먼지 변화, 드론 진동, 통신 단절 상황에서의 신뢰성이 중요하다. 단계별 비행 시험에서 축적되는 오탐·미탐과 소비전력 자료는 다른 재난·안전 장비로 확장할 때 필요한 제품 규격의 기초가 될 수 있다.",
+        "과제 성과를 사업화로 연결하려면 개발 모듈의 칩·센서 구성과 성능 기준, 실증 데이터 공개 범위, 수요기관의 유지보수 요구를 함께 살펴봐야 한다. 특정 산불 시나리오의 시연을 넘어 다양한 산림 조건에서 반복 성능을 확보하고 기존 관제체계와 연동하는지가 후속 조달 가능성을 좌우한다."
+      ],
+      "event_id": "bornai-physical-ai-wildfire-drone-system-semiconductor-project-2026",
+      "event_first_published_at": "2026-11-20T09:59:10+09:00",
+      "event_evidence_url": "https://www.mt.co.kr/future/2026/11/20/2026112009383339180",
+      "selection_tier": "supplement",
+      "sources": [
+        {
+          "title": "본에이아이, 107억 규모 피지컬 AI 국책사업 참여…산불 감지 드론 실증",
+          "publisher": "머니투데이",
+          "published_at": "2026-11-20T17:00:00+09:00",
+          "url": "https://www.mt.co.kr/future/2026/11/20/2026112009383339180",
+          "verification": "full_text",
+          "verified_at": "2026-11-22T09:51:24+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "스페이스X, Vera Rubin AI 칩 도입용 440억달러 부채 패키지 가격 확정",
+      "category": "AI 인프라·금융구조",
+      "collected_at": "2026-11-21T03:50:11.817+09:00",
+      "original_published_at": "2026-11-21T02:45:52+09:00",
+      "original_url": "https://www.reuters.com/business/media-telecom/apollo-goldman-lead-44-billion-spacex-gpu-debt-financing-2026-11-20/",
+      "main_points": [
+        "아폴로와 골드만삭스가 스페이스X의 엔비디아 Vera Rubin GPU와 관련 장비 도입을 지원하는 약 440억달러 규모 부채 패키지의 가격 조건을 확정했다고 로이터가 보도했다. 투자자 수요에 따라 규모가 확대됐으며, 장비 인도는 2027년 상반기부터 진행되고 각 인도 일정에 맞춰 리스가 시작되는 구조다.",
+        "패키지에는 2033년 4월 만기 251억7000만달러 선순위 채무와 2031년 4월 만기 44억달러 채무, 2033년 만기 25억6400만달러 후순위 채무 등이 포함됐다. 보도된 수익률은 각각 8.259%, 7.66%, 8.36%이며 블랙록, 골드만삭스자산운용, KKR 자문 계정 등이 주요 투자자로 참여했다."
+      ],
+      "importance": [
+        "단일 AI 칩 조달을 위해 수백억달러의 장기 부채와 리스를 결합한 구조가 실제 가격 결정 단계에 들어갔다. AI 인프라 경쟁이 데이터센터 건설비를 넘어 가속기 자체를 담보로 한 자본시장 상품으로 확장됐고, 조달 금리와 장비 인도 일정이 연산원가를 좌우하는 핵심 변수가 됐다."
+      ],
+      "implications": [
+        "대규모 가속기 구매자는 칩 성능과 공급량뿐 아니라 부채 만기, 담보 조건, 리스 개시 시점까지 묶어 투자 판단을 하게 된다. 장비 세대교체 속도가 빠른 상황에서 2031~2033년 만기 구조가 성립하려면 GPU 활용률과 잔존가치, 장기 전력비가 금융계약의 위험 평가에 반영될 가능성이 크다.",
+        "국내 AI 인프라 투자에서도 보조금이나 직접 구매 외에 리스·프로젝트 금융·사용량 계약을 결합한 방식이 늘어날 수 있다. 다만 해외 초대형 거래를 그대로 적용하기보다 칩 소유권, 공급 지연 위험, 환율·금리와 수요기관의 장기 사용 약정을 분리해 비교해야 가속기 접근성 확대와 재무 위험을 함께 판단할 수 있다."
+      ],
+      "event_id": "spacex-44-billion-vera-rubin-gpu-debt-pricing-2026",
+      "event_first_published_at": "2026-11-21T02:45:52+09:00",
+      "event_evidence_url": "https://www.reuters.com/business/media-telecom/apollo-goldman-lead-44-billion-spacex-gpu-debt-financing-2026-11-20/",
+      "selection_tier": "supplement",
+      "sources": [
+        {
+          "title": "Apollo, Goldman lead $44 billion SpaceX GPU debt financing",
+          "publisher": "Reuters",
+          "published_at": "2026-11-21T02:45:52+09:00",
+          "url": "https://www.reuters.com/business/media-telecom/apollo-goldman-lead-44-billion-spacex-gpu-debt-financing-2026-11-20/",
+          "verification": "full_text",
+          "verified_at": "2026-11-22T09:51:24+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "미 SEC, 엔비디아 잠재적 회계 문제 조사…AI 칩 매출·금융 공시 주목",
+      "category": "글로벌 가속기·시장 투명성",
+      "collected_at": "2026-11-21T06:02:10.373+09:00",
+      "original_published_at": "2026-11-21T04:13:43+09:00",
+      "original_url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+      "main_points": [
+        "미국 증권거래위원회가 엔비디아의 잠재적 회계 문제를 조사하고 있다고 로이터가 사안에 정통한 두 명을 인용해 보도했다. SEC는 논평을 거부했고 엔비디아는 즉시 답변하지 않았으며, 조사 착수 시점과 구체적으로 들여다보는 회계 항목은 공개되지 않았다.",
+        "엔비디아는 지난해 지역별 매출 기준을 청구지에서 고객 본사 소재지로 바꾸면서 싱가포르를 지역별 내역에서 제외했다. AI 기업과 클라우드 사업자의 칩 구매·데이터센터 건설을 지원하는 투자와 보증 등 순환적 금융구조도 매출의 질과 실제 재무 노출을 파악하기 어렵게 만들 수 있다는 지적을 받고 있으며, 회사는 향후 AI 산업 금융을 더 선별적으로 진행하겠다고 밝혔다."
+      ],
+      "importance": [
+        "세계 최대 AI 가속기 공급사의 회계 표시와 고객 금융이 규제기관의 검토 대상으로 부상하면 AI 칩 수요를 평가하는 방식에도 영향을 준다. 출하량과 매출 성장만으로 시장 건전성을 판단하기보다 최종 사용 지역, 고객의 자체 자금 여력, 공급사가 부담한 보증·투자 노출을 함께 보아야 한다는 압력이 커졌다."
+      ],
+      "implications": [
+        "가속기 공급사가 고객의 인프라 투자를 지원하는 구조는 초기 시장 확대에는 유리하지만, 칩 판매와 투자 회수 위험이 연결되면 실제 수요와 금융이 유발한 수요를 구분하기 어려워진다. 지역별 매출 표시가 바뀌는 경우 수출통제 지역으로의 최종 이동과 고객 집중도 분석도 더 복잡해질 수 있다.",
+        "국내 기업과 정책기관이 글로벌 가속기 시장을 전망할 때도 공급사 발표 매출 외에 현금 회수, 리스·보증 조건, 고객별 설비 가동률을 보완 지표로 볼 필요가 있다. 이번 조사는 구체 항목과 결과가 공개될 때까지 진행 단계로 추적하되, 향후 공시 기준 변화가 AI 인프라 금융과 공급 계약에 미치는 영향을 별도로 살펴볼 사안이다."
+      ],
+      "event_id": "nvidia-sec-potential-accounting-issues-focus-2026-11-20",
+      "event_first_published_at": "2026-11-21T04:13:43+09:00",
+      "event_evidence_url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+      "selection_tier": "supplement",
+      "sources": [
+        {
+          "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
+          "publisher": "Reuters",
+          "published_at": "2026-11-21T04:13:43+09:00",
+          "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "verification": "full_text",
+          "verified_at": "2026-11-22T09:51:24+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "11월 월별 아카이브 261개 조각과 국내 NPU·리벨리온·퓨리오사AI·딥엑스·모빌린트·하이퍼엑셀 수집원을 확인했다. 당일 09:20·09:27 수집 기록은 없고 최신 실제 수집은 07:23 KST였으므로 공개 웹 보완을 수행했다. 업스테이지·퓨리오사AI의 스타트업 PoC와 약국 AI 현장 검증을 선정했고, 11월 20일 원고의 NPU 7개사 포럼과 11월 21일 원고의 대구 도시철도·디노티시아 사건은 중복 제외했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP 공식 채널과 중앙정부·지자체·공공기관·지역 진흥기관의 NPU·AI반도체·국비·실증·도입·조달 후보를 아카이브 및 공개 검색으로 확인했다. 본에이아이의 피지컬 AI 시스템반도체 과제를 선정했고, NIPA GPU 베타 서비스는 48시간 밖 사건, AIDC 50MW 제도는 11월 21일 게재 사건으로 제외했다. 새로 확정된 지자체 NPU 예산·구매·조달 후보는 확인되지 않았으며 오전 수집 공백은 후보 없음으로 처리하지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "NVIDIA·AMD·Google TPU·Intel과 수출통제·전략 인수·시장 투명성 후보를 아카이브와 공개 본문으로 비교했다. 엔비디아 회계 조사 보도의 새 초점과 스페이스X Vera Rubin 금융 가격 확정을 선정했다. 엔비디아 동남아 출하 중단과 구글 TPU 물량 조정은 11월 21일 원고와 중복됐고, 엔비디아의 Inception 인수 협상은 최초 공개시각이 48시간 범위를 벗어나 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·CUDA·커널·런타임·vLLM·SGLang·추론 최적화와 이기종 가속기 SW 후보를 확인했다. 모레의 TIDE는 SC26 발표와 이전 기술 공개시점이 48시간 보완 범위를 벗어나고, AMD·Unsloth NPU 지원은 11월 20일 원고에 게재돼 제외했다. 공개 본문과 신규성 요건을 모두 충족하는 별도 운영 SW 사건은 확인되지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·첨단패키징·CPO·AI 데이터센터 전력·용수·인허가·금융구조를 확인했다. 스페이스X의 440억달러 GPU 금융 가격 확정을 선정했다. 바커케미칼코리아 CPO 소재 과제는 최초 공개가 48시간 경계보다 앞섰고, AIDC 50MW 면제·SK하이닉스 인디애나 HBM 공장 합의·구글 TPU와 HBM 변화는 11월 21일 원고와 중복돼 제외했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국산 LLM·NPU를 실제 추론 솔루션 기업의 PoC와 공동 영업까지 연결해 고객 발굴, 최적화 병목, 유료 사업화 가능성을 함께 검증하는 프로그램이다."
+      },
+      {
+        "article_number": 2,
+        "reason": "약국이라는 구체적 수요처에서 국산 NPU의 성능·전력·안정성·온프레미스 운영을 검증해 현장 도입과 반복 구매 가능성을 판단할 근거가 된다."
+      },
+      {
+        "article_number": 3,
+        "reason": "국산 AI 칩과 복합센서를 실제 산림·드론 환경에서 검증하는 국책과제로, 피지컬 AI 수요와 시스템반도체 사업화가 연결되는 구체적 사례다."
+      },
+      {
+        "article_number": 4,
+        "reason": "440억달러 규모 GPU 조달이 실제 금리·만기·리스 조건으로 가격화돼 AI 인프라 경쟁에서 금융비용과 장비 인도 위험의 중요성을 보여준다."
+      },
+      {
+        "article_number": 5,
+        "reason": "최대 AI 가속기 공급사의 회계·고객 금융 노출이 규제 검토 대상으로 부상해 칩 수요의 질과 글로벌 가속기 시장 전망 방식에 영향을 줄 수 있다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "바커케미칼코리아, 차세대 반도체 CPO용 광인터커넥트 소재 개발 과제 선정",
+        "url": "https://m.etnews.com/20261120000176",
+        "reason": "CPO 소재 국책과제는 산업적으로 의미가 있으나 같은 사건의 최초 공개가 11월 20일 08:51 KST로 확인돼 마감 기준 48시간 보완 범위를 벗어나 제외했다."
+      },
+      {
+        "title": "모레, AI 추론 최적화 기술 TIDE를 SC26에서 공개",
+        "url": "https://www2.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02266486645647688",
+        "reason": "이기종 GPU·적응형 추론 최적화는 중요하지만 공식 SC26 발표와 선행 기술 공개가 48시간 보완 범위보다 앞서 이번 기사 날짜만으로 신규 사건화하지 않았다."
+      },
+      {
+        "title": "Nvidia nears acquisition of diffusion AI developer for $500 million",
+        "url": "https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million",
+        "reason": "전략 인수 협상은 중요하지만 최초 보도가 11월 20일 07:43 KST로 확인돼 48시간 보완 범위를 약 1시간 47분 벗어나 제외했다."
+      },
+      {
+        "title": "국산 NPU 7개사 만난 국가AI전략위, 실증부터 판로까지 지원",
+        "url": "https://www.news1.kr/local/gwangju-jeonnam/5988644",
+        "reason": "11월 20일 원고에 같은 포럼의 참여 주체와 실증·판로 논의를 이미 게재했으며 별도의 확정 사업·예산·계약이 확인되지 않아 사건 중복으로 제외했다."
+      },
+      {
+        "title": "AI 데이터센터 50MW 이하 전력계통영향평가 면제와 특구 패스트트랙",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790061",
+        "reason": "11월 21일 원고에 정부 원문과 적용 범위를 이미 게재해 같은 제도 사건의 반복 보도로 제외했다."
+      },
+      {
+        "title": "NIPA GPU 베타서비스 이용자 모집",
+        "url": "https://www.nipa.kr/home/2-2/16560",
+        "reason": "국내 연산자원 접근성에 직접 관련되지만 최초 공고가 11월 19일로 48시간 범위를 벗어나 이번 회차 보완 기사로 사용하지 않았다."
+      }
+    ],
+    "count_reason": "전체 2026년 11월 아카이브 261개 조각, 마감 전 72시간 후보, 최근 14일 원고와 다섯 영역의 최종 보완 검색을 비교했다. 공개 본문과 사건 최초 공개시각을 확인한 결과 국내 NPU 고객·현장 실증 2건, 피지컬 AI 국책과제 1건, 가속기 금융구조 1건, 글로벌 시장 투명성 1건의 독립 사건 5건을 선정했다. 여섯 번째 후보들은 48시간 범위를 벗어나거나 최근 원고와 중복돼 오래된 기사·일반 AI·통상적 소재 소식으로 수를 채우지 않았다.",
+    "company_overlap_review": "퓨리오사AI가 기사 1과 2에 반복되지만 기사 1은 약 20개 스타트업을 대상으로 한 모델·NPU 공동 PoC와 판로 프로그램이고 기사 2는 약국 업무·민감정보·온프레미스 조건을 검증하는 특정 수요처 공동개발이다. 주체 일부가 같아도 고객군·검증 항목·사업화 경로가 독립적이며, 다른 후보보다 국내 NPU의 실제 수요와 반복 매출 가능성을 판단하는 정보가 구체적이어서 함께 선정했다. 엔비디아가 기사 4와 5에 등장하지만 전자는 스페이스X 구매자의 자금조달 사건, 후자는 공급사의 회계·금융 공시 조사로 사건과 판단 지점이 다르다.",
+    "candidate_counts": {
+      "discovered": 2781,
+      "time_eligible": 990,
+      "independent_events": 19,
+      "verified": 10,
+      "selected": 5,
+      "basis": "mail/candidates.py가 전체 2026년 11월 아카이브 261개 조각과 작성 시점까지의 수집 기록에서 72시간 후보 2,781건과 48시간 시간 적합 기사 990건을 집계했다. 편집 검토에서는 중복 보도와 범용 AI 기사를 사건 단위로 묶어 19개 독립 사건을 비교했고, 공개 전문·공식자료 또는 신뢰할 수 있는 공개 재배포로 핵심 사실을 확인한 10개를 검증한 뒤 5개를 선정했다. 당일 collection의 최신 실제 저장은 07:23 KST이며 09:20·09:27 수집 기록 부재는 아카이브와 직접 보완 검색을 구분해 확인했다."
+    },
+    "history_review": {
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-21",
+      "checked_dates": [
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21"
+      ],
+      "note": "각 날짜의 ready 원고에서 제목·주요 사실·event_id·original_url·검증 출처를 확인했다. 국가AI전략위 NPU 포럼과 AMD·Unsloth NPU 지원, 대구 도시철도 NPU·VLM, 디노티시아 VDPU, AIDC 50MW 제도, 엔비디아 동남아 출하 중단, 구글 TPU 물량 조정, SK하이닉스 인디애나 공장 합의는 이미 게재된 사건으로 제외했다. 이번 5건은 같은 URL·사건·핵심 사실이 없음을 확인했다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 업스테이지·퓨리오사AI가 약 20개 추론 스타트업을 선발해 국산 LLM·NPU PoC와 공동 영업까지 지원하는 사건은 없었다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 약국 AI 조수를 RNGD와 온프레미스 환경에서 검증하는 셀빅·퓨리오사AI·메가랩 협력 사건은 없었다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 본에이아이가 피지컬 AI 시스템반도체 국책과제에서 산불 감지 드론의 실제 산림 실증을 맡는 사건은 없었다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 스페이스X의 Vera Rubin 장비 도입을 위한 440억달러 부채 패키지 가격 확정 사건은 없었다. 과거 마스터리스 구상과 달리 금리·만기·투자자 조건이 새로 구체화됐다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 SEC가 엔비디아의 잠재적 회계 문제를 검토한다는 조사 초점과 지역별 매출·AI 금융 공시 쟁점은 게재되지 않았다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026년 11월 20일 21일 국산 NPU 실증 도입 사업화; 리벨리온 퓨리오사AI 딥엑스 모빌린트 하이퍼엑셀 공식 발표",
+          "official_sources": "동아일보·머니투데이 공개 전문과 K-Startup 공고 맥락, 국내 NPU 기업·협력사 공개 채널을 확인했다.",
+          "result": "업스테이지·퓨리오사AI 스타트업 PoC와 약국 AI RNGD 검증을 선정했고, 포럼·AMD NPU·대구 도시철도·VDPU 사건은 최근 원고 중복으로 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "2026년 11월 20일 21일 과기정통부 NIPA IITP NPU AI반도체 국비 예산 실증 도입 조달; 지자체 테크노파크 지역기관 NPU",
+          "official_sources": "과기정통부·NIPA·IITP 공고·보도자료와 지역기관 공개자료, 본에이아이 과제 공개 전문을 확인했다.",
+          "result": "산불 감지 드론의 시스템반도체 현장 실증을 선정했다. NIPA GPU 베타서비스는 48시간 밖이고 AIDC 제도는 전날 게재됐으며, 신규 지자체 NPU 예산·구매 확정은 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "November 20 21 2026 AI accelerator GPU TPU chip acquisition export control SEC accounting official Reuters",
+          "official_sources": "Reuters의 스페이스X GPU 금융 및 엔비디아 SEC 조사 전문과 NVIDIA·AMD·Google 관련 공개자료·최근 원고를 대조했다.",
+          "result": "스페이스X GPU 금융 가격 확정과 엔비디아 회계 조사 초점을 선정했다. Inception 인수 협상은 48시간 밖, 동남아 출하와 TPU 물량은 최근 원고 중복으로 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "November 20 21 2026 inference runtime compiler ROCm CUDA vLLM SGLang kernel heterogeneous accelerator software; 모레 TIDE",
+          "official_sources": "AMD ROCm 공식 블로그, SC26 TIDE 논문·일정과 국내 공개 보도를 확인했다.",
+          "result": "TIDE의 공식 발표·선행 공개가 48시간 범위를 벗어나고 AMD·Unsloth는 최근 게재돼 제외했다. 신규성과 공개 본문을 모두 충족하는 별도 운영 SW 사건은 확인되지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026년 11월 20일 21일 HBM 첨단패키징 CPO AI 데이터센터 전력 용수 인허가 금융구조; GPU financing",
+          "official_sources": "Reuters GPU 금융 전문, 과기정통부 AIDC 자료, 바커케미칼 CPO 공개 보도와 최근 HBM·패키징 원고를 대조했다.",
+          "result": "440억달러 GPU 부채 패키지를 선정했다. CPO 소재 과제는 48시간 밖이고 AIDC·인디애나 HBM 공장 사건은 최근 원고와 중복돼 제외했다."
+        }
+      },
+      "alternative_sources": "Reuters 원문 접근 결과와 공개 재배포를 대조해 스페이스X 금융의 총 패키지와 채권 발행액을 구분했고, 엔비디아 조사는 조사 초점·미공개 범위·회사 및 SEC 답변 상태를 확인했다. 유료벽인 Inception 인수 협상은 공개 재배포로 핵심 사실을 확인했으나 최초 공개시각이 48시간 밖이라 제외했다. 국내 선정 후보는 공개 전문을 읽었고, 오전 수집 실패·공백이 있는 영역은 공식 채널과 대체 공개 원문으로 보완했다."
+    },
+    "shared_original_reviews": []
+  }
+}
