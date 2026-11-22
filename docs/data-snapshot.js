@@ -1,5 +1,5 @@
 window.__DASHBOARD_DATA__ = {
-  "generatedAt": "2026-11-22T07:03:33.698Z",
+  "generatedAt": "2026-11-22T07:16:30.214Z",
   "news": {
     "articles": [
       {
@@ -36,7 +36,8 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "korea-npu",
           "ai-chip-public-program",
-          "npu-commercialization"
+          "npu-commercialization",
+          "korea-global-chip-cooperation"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -84,7 +85,6 @@ window.__DASHBOARD_DATA__ = {
           "korea-ai-market",
           "msit-ai-chip",
           "government-npu-policy",
-          "npu-commercialization",
           "korea-global-chip-cooperation",
           "accelerator-strategic-deals-ko"
         ],
@@ -480,6 +480,31 @@ window.__DASHBOARD_DATA__ = {
         "score": 26
       },
       {
+        "title": "TSMC와도 계약서 없이 악수만...젠슨 황 없는 엔비디아 공급망 우려 - 이데일리TV",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BSXlPbUJQVkNLY015aUx1bXd4OFRIM2R4Z3Y5SS01LUtwazN0YkR0MUlUVE9KUnkyX1pnUzZ3c1FIR0k5SmRhZlUzSkZycnFtNWFCTVJxLTU0QlVsbmw1a2dSOEMzY3ZzbDl3N3Nsa0RfOVJ0WFdVdGk2Zw?oc=5",
+        "publishedAt": "Sun, 22 Nov 2026 04:43:00 GMT",
+        "summary": "TSMC와도 계약서 없이 악수만...젠슨 황 없는 엔비디아 공급망 우려 &nbsp;&nbsp; 이데일리TV",
+        "outlet": "이데일리TV",
+        "outletUrl": "https://tv.edaily.co.kr",
+        "source": "글로벌 기업·한국 반도체 협력",
+        "sourceIds": [
+          "korea-global-chip-cooperation"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA",
+          "TSMC"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "파운드리·패키징",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "AI시장",
+        "score": 25
+      },
+      {
         "title": "해외 파운드리·데이터센터까지 묶은 美 수출통제…中 AI칩 조달 비상 - 마켓잉크",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LdFFuQThUUmVvSno0eEFIc3pUT09hZ2ppYzNjOGcwaEdaNzlNZldhT2ptMk5rTnU1QjNBNnRhdldNbjRYVU9KV3hTQ0hFR3BaZk94eUFPWWRLYl9aaHdlWGZJX0ZVYXNjZFlLYWpPMA?oc=5",
         "publishedAt": "Sat, 21 Nov 2026 08:50:35 GMT",
@@ -814,8 +839,9 @@ window.__DASHBOARD_DATA__ = {
         "summary": "고교생부터 기업인까지 200명, 구글⁠·퓨리오사 현업자에게 AI 시대 생존법 듣는다 &nbsp;&nbsp; 코리안투데이",
         "outlet": "코리안투데이",
         "outletUrl": "https://www.thekorean.today",
-        "source": "퓨리오사AI",
+        "source": "국내 NPU 기업",
         "sourceIds": [
+          "korea-npu",
           "furiosa"
         ],
         "sourceLang": "ko",
@@ -998,6 +1024,30 @@ window.__DASHBOARD_DATA__ = {
         "score": 24
       },
       {
+        "title": "Nvidia (NVDA) Eyes $500M+ Acquisition of AI Startup Inception to Boost AI Portfolio - GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLW91NDM4Ymtnc1FiU0VQR2JoVHg5RldOUXBIRWhadlNZcmlmR1lUOTBpbXluQzU5d3pBNGMwZEdOc3RJZE9RdTBQLUh1ZWxGODFuUVpXeEdVWkJEWHR4eTFoWjFWaXU2MDVwSEdBOEpWT3pHRDhnZEpheEEzRGlTc3B0VFNvM1Z2aDdYNW5TbDlLaEZVUnh1WVZGSlg5T2ZST0tVRjhGM09RbTRXVkluMUZ3eDBaTlNfaHc?oc=5",
+        "publishedAt": "Fri, 20 Nov 2026 04:02:58 GMT",
+        "summary": "Nvidia (NVDA) Eyes $500M+ Acquisition of AI Startup Inception to Boost AI Portfolio &nbsp;&nbsp; GuruFocus",
+        "outlet": "GuruFocus",
+        "outletUrl": "https://www.gurufocus.com",
+        "source": "AI 시장·비즈니스",
+        "sourceIds": [
+          "ai-market-business"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "AI시장",
+          "NVIDIA",
+          "투자·M&A"
+        ],
+        "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
         "title": "AMD, 언슬로스 데스크톱용 세계 최초 NPU 구현…100개 이상 AI 에이전트 온디바이스 실행 지원 - 인공지능신문",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUc3BaMWtYbE9VWHBQdnBvbExtR042UmRWTWNTYVZRbTFfSGNjb0JDSndmd0p1bXhoVUU5dFlwTlltOUtBdGVlcnVDNmR0aTJhdlM0NXI0WTN0RzhYTW0xT3d4ZDVnMlk?oc=5",
         "publishedAt": "Fri, 20 Nov 2026 01:39:37 GMT",
@@ -1044,6 +1094,26 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
+        "score": 24
+      },
+      {
+        "title": "뉴로저니, 서울 AI 허브·서울대병원 KHDP 지원사업 선정 - 코리아스타트업포스트",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YOXhjNDh0c1hucGI2RkZTbXF4SUY1QzFjY3NPaVhtQW5XdTMwT0YtQUQ2Tm9SZzZJbGN1c0ZXTmJOTXBYdUtGaXhUSjA3NkZ6TV9XUA?oc=5",
+        "publishedAt": "Thu, 19 Nov 2026 07:44:32 GMT",
+        "summary": "뉴로저니, 서울 AI 허브·서울대병원 KHDP 지원사업 선정 &nbsp;&nbsp; 코리아스타트업포스트",
+        "outlet": "코리아스타트업포스트",
+        "outletUrl": "https://www.kspost.biz",
+        "source": "국내 가속기 운영 SW 보도",
+        "sourceIds": [
+          "accelerator-software-ko"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "정책",
         "score": 24
       },
       {
@@ -1425,8 +1495,9 @@ window.__DASHBOARD_DATA__ = {
         "summary": "‘대중 봉쇄’ 외치던 美...엔비디아·AMD AI칩 88만개 수출 허가 &nbsp;&nbsp; 조세일보",
         "outlet": "조세일보",
         "outletUrl": "https://m.joseilbo.com",
-        "source": "AI반도체 시장·수급",
+        "source": "해외 빅테크 국내 보도",
         "sourceIds": [
+          "korea-global-ai-companies",
           "ai-chip-capital-market-ko"
         ],
         "sourceLang": "ko",
@@ -1437,29 +1508,6 @@ window.__DASHBOARD_DATA__ = {
         ],
         "taxonomyHits": [
           "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
-        "score": 23
-      },
-      {
-        "title": "Google Said to Bypass Broadcom and Buy HBM Directly; Bernstein Estimates $50 Billion in Savings Over TPU Lifecycle - BigGo Finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nd3VWbGExTW9ReVZILWdvZDJaR0o1QmVHanZYX3NlRmdTb1AzdjFBV0JGNmFtSkpvOEtmX2lIQWhUVklJQXhXSEdmemdoamUxdEJvR0ZJTE1hbGNBdzExX0hmcWE3RlQ5MFZvMjlpZG5WM2F1MXc?oc=5",
-        "publishedAt": "Fri, 20 Nov 2026 07:40:24 GMT",
-        "summary": "Google Said to Bypass Broadcom and Buy HBM Directly; Bernstein Estimates $50 Billion in Savings Over TPU Lifecycle &nbsp;&nbsp; BigGo Finance",
-        "outlet": "BigGo Finance",
-        "outletUrl": "https://finance.biggo.com",
-        "source": "메모리·패키징·인터커넥트",
-        "sourceIds": [
-          "memory-packaging"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google",
-          "Broadcom"
-        ],
-        "taxonomyHits": [
-          "Google"
         ],
         "issueCategory": "AI시장",
         "score": 23
@@ -1792,29 +1840,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "Micron Says 75% of 2027 Memory Output Already Sold as AI Demand Tightens Supply - BigGo Finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PbWxDM1N0dmoyUk5jWXBUZVNRY21ZZWdLbWp5UG9Ccm1kVnR1RVJEc3BYTDNMZEw1cHZ2all6V3dFN1pYSlVIeG1pWWxJa1pBNDlRblNPRWxobFN5ZkJUMlJOdkNwQXpERlhMUXROMmFDNnkteFE?oc=5",
-        "publishedAt": "Fri, 20 Nov 2026 12:55:00 GMT",
-        "summary": "Micron Says 75% of 2027 Memory Output Already Sold as AI Demand Tightens Supply &nbsp;&nbsp; BigGo Finance",
-        "outlet": "BigGo Finance",
-        "outletUrl": "https://finance.biggo.com",
-        "source": "AI 시장 전체",
-        "sourceIds": [
-          "ai-market-global"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI시장",
-          "Google"
-        ],
-        "issueCategory": "AI시장",
-        "score": 22
-      },
-      {
         "title": "NVDA - NVIDIA: AI infrastructure growth with execution and policy risk - Simply Wall St",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYjRDQVE1SWpidHFrN19hQWpjQndoNlhlVjdvZkZJTUZ2NkdnLUNyODQ5MVFsQUNaajM3SC1wbUlzSnVWUmQxYmlOZ214aXZsNnZMUjJWREJDM0tkX2VpRDRRcUJ2d0x3NGN3ZjkxNmF5Ul9XaEZDc0dsUTEtUWZXbGhjejhBcWRrOUh5R0QtSDBtb2xkblgtSHNLNWhRb0ZqMHRKdDhXR3pKWWc4MlJ6TFQxdFdGSjhOQzZPWG1EdVpXSVZxWHVuUVRoSGlVZ0NLdE5RY1doQkkzTkduOHNxcHkyTmt3dw?oc=5",
         "publishedAt": "Fri, 20 Nov 2026 12:21:01 GMT",
@@ -1953,26 +1978,26 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "Trump Admin Approved Nearly 900,000 AI Chips For China, House Data Shows: Nvidia Says H200 Shipments Were ‘Legal And Authorized’ - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0Y2S1RKOVJGYkFWM1Q2SHVrU2RtTUJYMzZGdnFrSk1yaU5pOFNOTmlKVDVUNEVkM0FuTWpuU1Z1a0hZQmxJeF93UG9TNFZ3UDdPMmUyOEwwejA4SEFJcG5ndUZpcG1rc1NJdWxWZnNmWllURm1BUktFdjNTckxPa21tRktIQ0c0ZlhZbmIwU2kwWXhnYXhPZVpsMA?oc=5",
-        "publishedAt": "Fri, 20 Nov 2026 07:16:00 GMT",
-        "summary": "Trump Admin Approved Nearly 900,000 AI Chips For China, House Data Shows: Nvidia Says H200 Shipments Were ‘Legal And Authorized’ &nbsp;&nbsp; Yahoo Finance",
-        "outlet": "Yahoo Finance",
-        "outletUrl": "https://finance.yahoo.com",
-        "source": "NVIDIA 이슈",
+        "title": "Google Said to Bypass Broadcom and Buy HBM Directly; Bernstein Estimates $50 Billion in Savings Over TPU Lifecycle - BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nd3VWbGExTW9ReVZILWdvZDJaR0o1QmVHanZYX3NlRmdTb1AzdjFBV0JGNmFtSkpvOEtmX2lIQWhUVklJQXhXSEdmemdoamUxdEJvR0ZJTE1hbGNBdzExX0hmcWE3RlQ5MFZvMjlpZG5WM2F1MXc?oc=5",
+        "publishedAt": "Fri, 20 Nov 2026 07:11:23 GMT",
+        "summary": "Google Said to Bypass Broadcom and Buy HBM Directly; Bernstein Estimates $50 Billion in Savings Over TPU Lifecycle &nbsp;&nbsp; BigGo Finance",
+        "outlet": "BigGo Finance",
+        "outletUrl": "https://finance.biggo.com",
+        "source": "메모리·패키징·인터커넥트",
         "sourceIds": [
-          "nvidia-ai"
+          "memory-packaging"
         ],
         "sourceLang": "en",
         "region": "global",
         "companyHits": [
-          "NVIDIA"
+          "Google",
+          "Broadcom"
         ],
         "taxonomyHits": [
-          "NVIDIA",
-          "수출통제·공급망"
+          "Google"
         ],
-        "issueCategory": "수출통제·공급망",
+        "issueCategory": "AI시장",
         "score": 22
       },
       {
@@ -2125,31 +2150,6 @@ window.__DASHBOARD_DATA__ = {
         "score": 22
       },
       {
-        "title": "에이전트형 클라우드 거버넌스 강화: 조직 정책 관련 새로운 소식 - Google Cloud",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcjlfZUVNcVB0Q0VuSEZMODV6S0FNSXhUcXNKaldkeHBhTjFCWW5MdEZtYkE0bmhkZW5hclVmaVhyMGRlcHRjM19mektEY0FVWGhQNEh5Tml5OVdpcGktVmwwRWxXRTd2UzdxaXBxemlzejZtTVdmOUlPRU9GYjZsZkJVbHZQWkUwMlZ3MDlBeDJWRFJwT245bW5hWDRTY0hEZW9uRUdfOXNSNlVtaGFRV1NwZHl5ak96NlRyZQ?oc=5",
-        "publishedAt": "Thu, 19 Nov 2026 07:06:26 GMT",
-        "summary": "에이전트형 클라우드 거버넌스 강화: 조직 정책 관련 새로운 소식 &nbsp;&nbsp; Google Cloud",
-        "outlet": "Google Cloud",
-        "outletUrl": "https://cloud.google.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "정책",
-          "AI에이전트",
-          "AI인프라",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 22
-      },
-      {
         "title": "과기정통부, ‘팀 코리아’로 K-블록체인 아시아 시장 진출 지원 - 금융계",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wc3RMdWJobDJxT1lseXBtc0J1MkI5Q2xlekxwSDFJOGtuMVRRSVJkYkVhemZIWk9MUGlUQjhmY21Lc0d2RXh3aC1rdjlDLWo3WlkwbHZBYmEyaDViQmxvUGVHbExyRWPSAWtBVV95cUxQTEdleDRvWmJQM0xDU3lkUGVlcFFkaENGR2tQMjNNSkNEMll5QU9pdzNTbUotX00xU1BhVS1LazFuQ3UzM2E2R2hLRGd4ckREek9YeWZ0OTlnWGtDZ1MxZ1dhdWEyZkxCYjJGZw?oc=5",
         "publishedAt": "Sat, 21 Nov 2026 12:20:28 GMT",
@@ -2279,6 +2279,29 @@ window.__DASHBOARD_DATA__ = {
           "투자·M&A"
         ],
         "issueCategory": "AI시장",
+        "score": 21
+      },
+      {
+        "title": "Trump Admin Approved Nearly 900,000 AI Chips For China, House Data Shows: Nvidia Says H200 Shipments Were ‘Legal And Authorized’ - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0Y2S1RKOVJGYkFWM1Q2SHVrU2RtTUJYMzZGdnFrSk1yaU5pOFNOTmlKVDVUNEVkM0FuTWpuU1Z1a0hZQmxJeF93UG9TNFZ3UDdPMmUyOEwwejA4SEFJcG5ndUZpcG1rc1NJdWxWZnNmWllURm1BUktFdjNTckxPa21tRktIQ0c0ZlhZbmIwU2kwWXhnYXhPZVpsMA?oc=5",
+        "publishedAt": "Fri, 20 Nov 2026 07:16:00 GMT",
+        "summary": "Trump Admin Approved Nearly 900,000 AI Chips For China, House Data Shows: Nvidia Says H200 Shipments Were ‘Legal And Authorized’ &nbsp;&nbsp; Yahoo Finance",
+        "outlet": "Yahoo Finance",
+        "outletUrl": "https://finance.yahoo.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA",
+          "수출통제·공급망"
+        ],
+        "issueCategory": "수출통제·공급망",
         "score": 21
       },
       {
@@ -2740,6 +2763,28 @@ window.__DASHBOARD_DATA__ = {
         ],
         "issueCategory": "AI시장",
         "score": 21
+      },
+      {
+        "title": "엔비디아 AI 칩, 中 불법 우회 수출 주역은 50대 중국인 남성…“앨리스 황은 얼굴” - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80OFJJM2VkS2JNMVd1VDlsYjhsbjYySkpTeUdJdHBPZks2OXhIUGY3MHZFeW5uM2VFUGRpN2N5dU1mdEdETmRoY0dWQ05Samw0T3hkNG5vbEN4ZTZKZVdjOdIBeEFVX3lxTE5ucUhTYlJ4RFVVUnFLMTlPSFhBNzZXakhRTk9hbWV4bUxBYjlLNGxqUVdBVU8wbENTU2ltd0t4aHFSOWxHU1VmRmxORWZuOWlrb1ZvTzFSS2NwdlBrbmRubVl4TXU2Y1p4VHp5WGxSTUlGbmNUS2FvTQ?oc=5",
+        "publishedAt": "Sun, 22 Nov 2026 07:10:08 GMT",
+        "summary": "엔비디아 AI 칩, 中 불법 우회 수출 주역은 50대 중국인 남성…“앨리스 황은 얼굴” &nbsp;&nbsp; 뉴시스",
+        "outlet": "뉴시스",
+        "outletUrl": "https://www.newsis.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "NVIDIA",
+        "score": 20
       },
       {
         "title": "Turkey forces Google to let news sites exit AI Overviews but stay in search - PPC Land",
@@ -3362,33 +3407,11 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "title": "Google employees protest AI in schools policy - NPR",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ual9DMVdocDdqMkJ3dWc4azh4VWwyRndaZUtmZzJPM2dMa1oxWEI2dk50UTctUzF2WE9UaWQ5TTVWbUlhSl9wVTd5T0lKa1d2WThydF9ERHc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGtQWTJuRnF5bjhxcVFiQzJVaE9fSGtFTktHYzVDOTQ4Rkljem5XYklPdlR6cHdOeXMxd1BPNUhBXzlrWm1BcFBJdVFiMl9vYkRIVTNlTjVnTWhQOUwwTWI0X2pUSVRxenpYZUhkV1dobVhwRHJLVGFtVUdISURFNTNycFd0MmZnZllWcXZQNlpQeGlv?oc=5",
         "publishedAt": "Sat, 21 Nov 2026 22:01:40 GMT",
         "summary": "Google employees protest AI in schools policy &nbsp;&nbsp; NPR",
         "outlet": "NPR",
         "outletUrl": "https://www.npr.org",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
-        "score": 20
-      },
-      {
-        "title": "Google employees protest AI in schools policy - Central Florida Public Media",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkJrZC1vLTdtR3Vic1poSnlNR3hwWUZZbTJsVXVoZWRuUjVkcXNRZ0FTcFNfaTV1ekduYWxFMFAzQnBhcjBQUktWSHhUZldwY3QwOW1COGtVSWFSTlh0bkR5VUUxLVpfZFV5Uk8yaUFKNFBOWUctTTBRbTBwVFhtUDVlVVNOR0NL?oc=5",
-        "publishedAt": "Sat, 21 Nov 2026 22:01:00 GMT",
-        "summary": "Google employees protest AI in schools policy &nbsp;&nbsp; Central Florida Public Media",
-        "outlet": "Central Florida Public Media",
-        "outletUrl": "https://www.cfpublic.org",
         "source": "Google AI 이슈",
         "sourceIds": [
           "google-ai"
@@ -3446,28 +3469,6 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "Google",
-        "score": 20
-      },
-      {
-        "title": "젠슨 황 스캔들 새 국면…엔비디아 AI칩 24만개 中 우회 공급 의혹 - 쿠키뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RdFRJeXlRQVVvVjUxb2NUS044T0pPeDlDcTRUYk92SnlXR21vUHJZRmw2UF84Q0pkMkJsa0VBVWg2eXVGakdzQ2JZTC1VX0NvV2lKVDdTRFg1NTFMZVNNNG4zcw?oc=5",
-        "publishedAt": "Sat, 21 Nov 2026 18:32:24 GMT",
-        "summary": "젠슨 황 스캔들 새 국면…엔비디아 AI칩 24만개 中 우회 공급 의혹 &nbsp;&nbsp; 쿠키뉴스",
-        "outlet": "쿠키뉴스",
-        "outletUrl": "https://www.kukinews.com",
-        "source": "해외 빅테크 국내 보도",
-        "sourceIds": [
-          "korea-global-ai-companies"
-        ],
-        "sourceLang": "ko",
-        "region": "domestic",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
         "score": 20
       },
       {
@@ -3625,6 +3626,28 @@ window.__DASHBOARD_DATA__ = {
         "score": 20
       },
       {
+        "title": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPazQ2QjlWenhKR0pYTjhBSkFiZXhZcGMxRXNmb0o0aGhZNUwybVRGS2NiQVV5d0thb2ZOZll1UmtrR1ZWcW9qajloeWcxQTJWUUdPMDFtNmpUU2w4RVIxYm5MRmFFWng3T0xyWlY1TlgzVjJSR3FRaDRGU2JxNkNJLUFVQmlXbzFxT2h1Q25SS3pxbm8wWDFrTHdxbEZPSE5JZTdjVl9uOXYwTzhiYVc5djM4X1VTZktHS2lSV1RXcU8tZ3o4ODNYR0VMYVViQW5XcWlwZVdBb01USlJ0QWtwc0xsRl9lYTRHWmFLQVM5dFdiczJLLTZ4QzdzcjlTV1luaG1GdHotZWd0eVE4REk0?oc=5",
+        "publishedAt": "Sat, 21 Nov 2026 12:03:01 GMT",
+        "summary": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain &nbsp;&nbsp; The Globe and Mail",
+        "outlet": "The Globe and Mail",
+        "outletUrl": "https://www.theglobeandmail.com",
+        "source": "NVIDIA 이슈",
+        "sourceIds": [
+          "nvidia-ai"
+        ],
+        "sourceLang": "en",
+        "region": "global",
+        "companyHits": [
+          "NVIDIA"
+        ],
+        "taxonomyHits": [
+          "NVIDIA"
+        ],
+        "issueCategory": "AI시장",
+        "score": 20
+      },
+      {
         "title": "Google ties Search access to AI Overviews, and big school districts are pushing back - Crypto Briefing",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84eDM0ZnN4SDFDblU1MFJMalNFbmswWi1kay1EZ0dUV1FQR1M0a0pXSTh5cGhkdW44ZlgyVldHekJOUDhtbGx3bF81LTI1cDNtb25sblFybFFjUE12OUFydTRtbmg1TnNSRWV1UWZqLTFXcXpDMFZSNG54TQ?oc=5",
         "publishedAt": "Sat, 21 Nov 2026 11:57:11 GMT",
@@ -3666,28 +3689,6 @@ window.__DASHBOARD_DATA__ = {
           "Google"
         ],
         "issueCategory": "Google",
-        "score": 20
-      },
-      {
-        "title": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOFh5M1N3Vnp4MjdFdWZHLU9SRkZjVVY1bzJlaDdQOXA1TnI4azhfeW81TEVaWXBfNUFDQUtJR1VKbGlBczhHUVpoaDhJRDFMTHNJTHlSaEJiTXFuUFJCMmg0bmlNT0poQnNnVThJTUk3Z0xtVHZ4cXlib3NmSGFaYWxPVjZacUlRSGhaT3Ruc0U3VUxNWktWT3U5Vld6VkI4eFlRcUFvaFE4TmktdTFoQldVN2MwYjdLUi1zN3NuS2VqcWVMREVvbmFzdUV1LTJxOXhBaElDSm5UUnJKTjFqcTNMc2RCam9hdjZ4LXZCZ0EzVmxNUnQ3YzRLQUdlblpiVUthbzRfWWNvMXQ1ckE?oc=5",
-        "publishedAt": "Sat, 21 Nov 2026 11:44:06 GMT",
-        "summary": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain &nbsp;&nbsp; The Globe and Mail",
-        "outlet": "The Globe and Mail",
-        "outletUrl": "https://www.theglobeandmail.com",
-        "source": "NVIDIA 이슈",
-        "sourceIds": [
-          "nvidia-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "NVIDIA"
-        ],
-        "taxonomyHits": [
-          "NVIDIA"
-        ],
-        "issueCategory": "AI시장",
         "score": 20
       },
       {
@@ -7113,13 +7114,13 @@ window.__DASHBOARD_DATA__ = {
         ]
       }
     ],
-    "generatedAt": "2026-11-22T07:03:31.750Z"
+    "generatedAt": "2026-11-22T07:16:24.462Z"
   },
   "briefing": {
     "date": "2026년 11월 22일 일요일",
     "summary": [
       "오늘의 최상위 이슈: 역대 최대 IPO 앤트로픽, 조달 자금 상당 부분이 칩·데이터센터 대금으로…주가는 공모가 근접 - 마켓잉크",
-      "강한 기술·시장 신호: NPU 12, AI인프라 13, 데이터센터 17, 온디바이스AI 1, 추론 4",
+      "강한 기술·시장 신호: NPU 12, AI인프라 12, 데이터센터 17, 온디바이스AI 1, 추론 4",
       "주요 기업 신호: 퓨리오사AI 3, 리벨리온 1, 딥엑스 1, 하이퍼엑셀 0, 모빌린트 0"
     ],
     "leadArticles": [
@@ -7157,7 +7158,8 @@ window.__DASHBOARD_DATA__ = {
         "sourceIds": [
           "korea-npu",
           "ai-chip-public-program",
-          "npu-commercialization"
+          "npu-commercialization",
+          "korea-global-chip-cooperation"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -7205,7 +7207,6 @@ window.__DASHBOARD_DATA__ = {
           "korea-ai-market",
           "msit-ai-chip",
           "government-npu-policy",
-          "npu-commercialization",
           "korea-global-chip-cooperation",
           "accelerator-strategic-deals-ko"
         ],
@@ -7375,7 +7376,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI인프라",
-          13
+          12
         ],
         [
           "데이터센터",
@@ -7391,11 +7392,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "AI에이전트",
-          18
+          17
         ],
         [
           "파운드리·패키징",
-          4
+          5
         ]
       ],
       "companies": [
@@ -7421,11 +7422,11 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "NVIDIA",
-          86
+          88
         ],
         [
           "Google",
-          58
+          55
         ],
         [
           "AMD",
@@ -7441,7 +7442,7 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "TSMC",
-          1
+          2
         ],
         [
           "Samsung",
@@ -7544,15 +7545,15 @@ window.__DASHBOARD_DATA__ = {
         ],
         [
           "정책",
-          2
+          3
         ],
         [
           "국내 기사",
-          79
+          80
         ],
         [
           "해외 기사",
-          101
+          100
         ]
       ],
       "sections": [
