@@ -1,0 +1,446 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-23",
+  "cutoff_at": "2026-11-23T09:30:00+09:00",
+  "window_start": "2026-11-22T09:30:00+09:00",
+  "created_at": "2026-11-23T09:50:08+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "과기정통부와 국내외 AI반도체·소프트웨어·수요기업 24개사가 글로벌 협력의 실제 사업화와 HBM·LPDDR·패키지 기판 공급 문제를 함께 논의했다.",
+        "개별 기업 제휴를 넘어 공동 검증·상용화와 핵심부품 수급을 산업 공동 과제로 다뤄 국산 NPU의 고객·매출 전환 조건이 구체화됐다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "델·HPE·레노버·슈퍼마이크로 서버 구매자들이 계약 협의 뒤 25~45%의 가격 인상을 요구받았고, GPU 서버 가격도 20~30% 오른 사례가 확인됐다.",
+        "메모리 비용 급등이 완제품 조달가격과 계약 이행 위험으로 전가되면서 가속기 선택뿐 아니라 가격조정 조항·납기·부품 배정이 인프라 경쟁력을 좌우하게 됐다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "중국 국적 리밍이 메가스피드를 포함한 복수 기업망을 통해 수출 제한 대상 엔비디아 AI칩의 우회 조달을 운영했다는 구체적인 정황이 공개됐다.",
+        "수출통제 집행의 초점이 최종 구매자에서 관계사 구조·실소유자·파트너 검증으로 넓어져 동남아 공급·클라우드 채널의 준법 비용이 커질 가능성이 있다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "아마존이 자체 칩 Trainium을 조기 도입한 생성형 AI 스타트업 데카르트를 약 75억달러에 인수하는 막바지 협상을 진행 중이다.",
+        "클라우드 사업자가 칩 자체보다 워크로드 효율화 소프트웨어와 응용서비스를 확보하려는 움직임으로, 자체 가속기 경쟁이 개발자·모델 생태계 인수전으로 확장되고 있다."
+      ]
+    },
+    {
+      "article_numbers": [5],
+      "bullets": [
+        "울산 SK AI데이터센터의 공정률이 71%에 이르렀고 2027년 말 가동을 목표로 공사·전력·운영 준비 상황을 점검했다.",
+        "대형 AIDC 구상이 실제 건설 단계로 넘어가면서 전력 안정성, 전문인력, 운영 고객과 후속 투자 확보가 인프라 실행력을 가르는 핵심 변수로 드러났다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "과기정통부·AI반도체 24개사, 글로벌 협력 사업화·핵심부품 공급망 대응 논의",
+      "category": "국내 NPU·정책·공급망",
+      "collected_at": "2026-11-23T08:50:41.503+09:00",
+      "original_published_at": "2026-11-23T08:00:03+09:00",
+      "original_url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01321846645648672",
+      "main_points": [
+        "과학기술정보통신부가 23일 국내외 AI반도체 생태계 기업 24개사와 간담회를 열었다. AMD·엔비디아·인텔과 퓨리오사AI·리벨리온·하이퍼엑셀·딥엑스·모빌린트 등 NPU 기업뿐 아니라 DPU·CXL, 시스템 소프트웨어, AI 모델, 인프라, 피지컬 AI, 디자인 기업이 참여해 하드웨어부터 수요처까지 폭넓게 논의했다.",
+        "회의에서는 AMD·퓨리오사AI·망고부스트의 개방형 AI 인프라 협력, 엔비디아·SK텔레콤·리벨리온의 NVLink Fusion 협력, 인텔 중심의 23개사 얼라이언스처럼 이미 발표된 제휴를 실제 공동 검증과 상용화로 전환하는 방안이 다뤄졌다. 기업들은 HBM·LPDDR과 패키지 기판 등 핵심부품의 가격 상승과 조달난을 공유하고, 정보 공유와 공동 대응이 필요하다고 제안했다."
+      ],
+      "importance": [
+        "이번 간담회는 단일 기업 간 업무협약을 소개하는 자리를 넘어 칩·소프트웨어·모델·인프라·수요기업을 한데 모아 사업화와 부품 수급을 공동 병목으로 확인했다는 점에서 의미가 있다. 특히 구매력이 상대적으로 작은 팹리스와 소프트웨어 기업에는 글로벌 제휴 체결 이후의 고객 검증과 핵심부품 배정이 매출 전환을 결정하는 현실적인 조건으로 부상했다."
+      ],
+      "implications": [
+        "AI반도체 경쟁은 단일 칩 성능뿐 아니라 서로 다른 가속기와 인터커넥트, 모델, 운영 소프트웨어를 실제 서비스 환경에서 연결하는 역량으로 이동하고 있다. 공동 검증과 상용화 구조가 작동하면 국산 NPU가 글로벌 플랫폼에 편입되거나 복수 가속기를 지원하는 고객 환경에 진입할 가능성이 커진다.",
+        "후속 판단에서는 제휴 건수보다 공동 검증의 완료, 실제 수요기업 도입, 유상 계약과 반복 매출로 이어지는지 확인해야 한다. 동시에 HBM·LPDDR·패키지 기판의 배정량과 가격 조건이 제품 납기와 수익성에 미치는 영향을 함께 추적해야 글로벌 협력의 사업성을 평가할 수 있다."
+      ],
+      "event_id": "msit-ai-semiconductor-24-company-commercialization-supply-chain-2026",
+      "event_first_published_at": "2026-11-23T08:00:03+09:00",
+      "event_evidence_url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01321846645648672",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "과기정통부, AI반도체 기업 24곳과 글로벌 협력·공급망 대응 논의",
+          "publisher": "이데일리",
+          "published_at": "2026-11-23T08:00:03+09:00",
+          "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01321846645648672",
+          "verification": "full_text",
+          "verified_at": "2026-11-23T09:40:20+09:00"
+        },
+        {
+          "title": "AI반도체 산업 생태계 경쟁력 강화를 위한 기업 간담회 개최",
+          "publisher": "과학기술정보통신부·대한민국 정책브리핑",
+          "published_at": "2026-11-23",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156790264&pWise=mSub&pWiseSub=C2",
+          "verification": "public_primary",
+          "verified_at": "2026-11-23T09:40:42+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "이데일리 원문이 2026-11-23 08:00:03 KST에 공개됐고 아카이브가 08:50:41 KST에 수집했으며, 동일 내용의 과기정통부 보도자료를 09:30 마감 전에 대조했다. 확인 시점까지 핵심 사실을 바꾸는 본문 수정은 없었다."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "AI 서버 공급사, 계약 뒤 가격 25~45% 인상…메모리 비용이 인프라 조달로 전가",
+      "category": "AI 인프라·조달 비용",
+      "collected_at": "2026-11-22T16:03:33.698+09:00",
+      "original_published_at": "2026-11-22T14:00:06+09:00",
+      "original_url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f",
+      "main_points": [
+        "파이낸셜타임스가 AI 서버 구매자와 공급망 관계자들을 취재한 결과 델·HPE·레노버·슈퍼마이크로가 협상 또는 계약 이후 수개월 만에 25~45%의 추가 가격을 요구한 사례가 확인됐다. GPU 서버는 20~30% 올랐고, 일부 CPU 서버 노드는 기존 가격의 세 배 이상으로 제시됐다.",
+        "XTX마켓은 델과 5억4900만달러 규모 서버 공급에 합의하고 가격 확정 대가로 약 500만달러를 지급했지만, 이후 6200만~7000만달러의 추가 부담을 요구받았다고 밝혔다. JP모건은 2024년 초 이후 메모리 비용이 400% 이상 올랐다고 분석했으며, 구매자들은 연산자원 부족 때문에 가격 상승에도 서버 확보를 계속하는 상황이다."
+      ],
+      "importance": [
+        "메모리와 부품 가격 변동이 현물 칩 가격에 머물지 않고 서버 완제품의 계약 이행과 예산 확정 단계까지 전가되고 있다. 가격을 고정하기 위해 별도 비용을 지급한 대형 구매자도 추가 인상을 요구받았다는 사실은 AI 인프라 투자의 위험이 장비 선택에서 납기 중 가격 재협상과 자금조달로 이동했음을 보여준다."
+      ],
+      "implications": [
+        "AI 인프라의 총비용을 평가할 때 가속기 단가뿐 아니라 메모리 구성, 가격조정 조항, 납기 보장, 부품 배정과 위약 조건을 함께 봐야 한다. 구축 기간이 길수록 부품 가격과 환율 변동이 예산을 훼손할 수 있어 공급 계약의 구조가 실제 연산자원 확보량을 좌우할 가능성이 크다.",
+        "대체 가속기에는 높은 GPU 서버 가격이 시장 진입 기회가 될 수 있지만, 전체 시스템 원가와 소프트웨어 이식성, 유지보수, 납기 신뢰성을 함께 입증해야 한다. 메모리 병목은 GPU와 NPU 모두에 공통으로 작용하므로 칩 가격만으로 비용 우위를 주장하기보다 동일 워크로드 기준의 시스템 총비용과 공급 안정성을 비교할 필요가 있다."
+      ],
+      "event_id": "ai-server-post-contract-price-escalation-memory-cost-2026",
+      "event_first_published_at": "2026-11-22T14:00:06+09:00",
+      "event_evidence_url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "AI server suppliers demand price rises of up to 45% after deals signed",
+          "publisher": "Financial Times",
+          "published_at": "2026-11-22T14:00:06+09:00",
+          "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f",
+          "verification": "full_text",
+          "verified_at": "2026-11-23T09:41:08+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "엔비디아 AI칩 우회조달망, 메가스피드 배후 운영자·다중 기업 구조 드러나",
+      "category": "글로벌 가속기·수출통제",
+      "collected_at": "2026-11-22T16:03:33.698+09:00",
+      "original_published_at": "2026-11-22T13:34:41+09:00",
+      "original_url": "https://www.yna.co.kr/amp/view/AKR20261122025700009",
+      "main_points": [
+        "월스트리트저널과 연합뉴스는 중국 국적의 52세 리밍이 수출 제한 대상 엔비디아 AI칩을 중국으로 들여보낸 것으로 의심되는 기업망의 핵심 운영자라고 보도했다. 리밍은 싱가포르 기반 메가스피드의 주요 활동과 의사결정에 관여했고, 다른 반도체 거래회사들의 운영에도 깊숙이 관여한 것으로 전해졌다.",
+        "이번 보도는 앞서 메가스피드의 공개 대표로 알려진 인물에 더해 관계사와 의사결정을 연결하는 배후 운영 구조를 구체화했다. 다만 보도는 수사자료와 관계자 설명을 토대로 한 것이며, 리밍 개인과 관련 기업의 책임 범위 및 유통된 칩의 정확한 수량은 향후 수사와 재판 과정에서 확정될 사안이다."
+      ],
+      "importance": [
+        "수출통제 회피가 단일 판매자나 최종 구매자의 위반을 넘어 여러 국가의 거래회사와 관계사를 결합한 운영망으로 진화했음을 보여준다. 규제 집행의 판단 단위가 송장과 배송지에서 실소유자, 의사결정권자, 관계회사와 실제 설치 장소로 넓어질 수 있어 제조사·서버업체·클라우드 사업자의 파트너 관리 부담이 커진다."
+      ],
+      "implications": [
+        "AI 가속기 공급망에서는 고객확인 절차만으로 우회조달을 걸러내기 어려워질 수 있다. 관계사 그래프, 결제와 물류 경로, 장비 활성화·배치 정보, 최종 사용처의 일관성을 함께 확인하는 체계가 제조사와 유통사의 거래 승인 기준으로 자리 잡을 가능성이 있다.",
+        "동남아시아의 서버·클라우드 채널에 대한 심사가 강화되면 정상적인 역내 수요도 납기와 금융 비용의 영향을 받을 수 있다. 향후 기소·유죄 판단, 실제 칩 수량, 제조사·파트너의 통제 실패 여부를 구분해 추적해야 수출통제 강화가 시장 공급에 미치는 범위를 판단할 수 있다."
+      ],
+      "event_id": "li-ming-megaspeed-nvidia-chip-diversion-network-2026",
+      "event_first_published_at": "2026-11-22T11:00:00+09:00",
+      "event_evidence_url": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "'엔비디아칩 中밀반입 배후는 50대 중국인'…다국적 기업망 운영",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-22T13:34:41+09:00",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261122025700009",
+          "verification": "full_text",
+          "verified_at": "2026-11-23T09:41:35+09:00"
+        },
+        {
+          "title": "The Chinese Businessman Behind a Global Nvidia Chip-Smuggling Network",
+          "publisher": "The Wall Street Journal",
+          "published_at": "2026-11-22T11:00:00+09:00",
+          "url": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836",
+          "verification": "full_text",
+          "verified_at": "2026-11-23T09:41:52+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "아마존, 데카르트 75억달러 인수 막바지…Trainium 소프트웨어 역량 확보 추진",
+      "category": "글로벌 가속기·SW 생태계",
+      "collected_at": "2026-11-22T07:23:28.798+09:00",
+      "original_published_at": "2026-11-22T02:21:36+09:00",
+      "original_url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
+      "main_points": [
+        "아마존이 생성형 AI 스타트업 데카르트를 약 75억달러에 인수하는 협상을 막바지 단계에서 진행하고 있다고 파이낸셜타임스가 보도했다. 협상이 이르면 다음 주 초 마무리될 수 있지만 조건이 바뀌거나 결렬될 가능성도 남아 있으며, 데카르트는 지난 5월 40억달러 가치로 엔비디아 등이 참여한 3억달러 투자를 유치했다.",
+        "데카르트는 아마존 Trainium3의 초기 도입 기업으로, 모델의 연산 효율을 높여 칩 용량을 절감하는 소프트웨어와 실시간 영상 모델 Lucy, 게임형 생성모델 Oasis를 개발했다. 인수가 성사되면 아마존은 자체 가속기 활용을 늘리는 워크로드 최적화 기술과 응용서비스 역량을 동시에 확보하게 된다."
+      ],
+      "importance": [
+        "자체 AI칩을 보유한 클라우드 사업자가 반도체 설계회사가 아니라 칩을 효율적으로 쓰는 모델·소프트웨어 기업을 인수하려 한다는 점이 핵심이다. 이는 가속기 경쟁이 칩 공급량과 성능에서 개발자 전환, 워크로드 효율, 대표 응용서비스를 포함한 생태계 통제력으로 확장되고 있음을 보여준다."
+      ],
+      "implications": [
+        "Trainium의 활용도를 높이는 소프트웨어와 인기 응용서비스가 아마존 클라우드에 결합되면 자체 칩의 실제 사용량과 개발자 유입을 동시에 끌어올릴 수 있다. GPU 대체 경쟁에서도 하드웨어 벤치마크보다 특정 모델을 얼마나 빠르고 저렴하게 이전·운영할 수 있는지가 중요한 차별화 요소가 된다.",
+        "인수 성사 여부와 최종 가격, 데카르트 제품의 Trainium 전환 수준, 클라우드 가격·성능 변화, 다른 가속기에 대한 이식성 제한을 후속 확인할 필요가 있다. 아직은 막바지 협상 단계이므로 거래 종결과 통합 실행을 구분해서 봐야 한다."
+      ],
+      "event_id": "amazon-decart-advanced-acquisition-talks-trainium-2026",
+      "event_first_published_at": "2026-11-22T02:21:36+09:00",
+      "event_evidence_url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
+      "selection_tier": "supplement",
+      "sources": [
+        {
+          "title": "Amazon in advanced talks to buy AI start-up Decart for $7.5bn",
+          "publisher": "Financial Times",
+          "published_at": "2026-11-22T02:21:36+09:00",
+          "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
+          "verification": "full_text",
+          "verified_at": "2026-11-23T09:42:16+09:00"
+        },
+        {
+          "title": "아마존, AI 스타트업 데카르트 75억 달러 인수 협상",
+          "publisher": "SBS",
+          "published_at": "2026-11-23T07:43:05+09:00",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858180",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-23T09:42:31+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "울산 SK AI데이터센터 공정률 71%…2027년 말 첫 메가프로젝트 가동 목표",
+      "category": "국내 AI 인프라·투자 실행",
+      "collected_at": "2026-11-21T16:22:56.393+09:00",
+      "original_published_at": "2026-11-21T13:11:23+09:00",
+      "original_url": "https://www.edaily.co.kr/news/read?mediaCodeNo=257&newsid=01974566645648016",
+      "main_points": [
+        "울산 미포국가산업단지에 건설 중인 SK AI데이터센터의 공정률이 71%로 확인됐으며 2027년 말 가동을 목표로 공사가 진행되고 있다. 대통령이 현장을 찾아 공사와 운영 준비를 점검했으며, 이 시설은 SK가 구상한 총 5GW 규모 AI데이터센터 확장의 첫 대형 프로젝트로 설명됐다.",
+        "현장에서는 무정전전원장치가 정전 뒤 약 3초를 버티는 동안 비상전원이 작동하는 구조와 전력 안정성, 데이터센터 전문인력 부족, 지역 협력과 추가 투자 유치가 주요 운영 과제로 제시됐다. 단순 투자 구상보다 실제 공정과 가동 목표, 운영 병목을 함께 확인할 수 있는 단계로 진입했다."
+      ],
+      "importance": [
+        "대형 AI데이터센터 계획이 부지·투자 발표를 넘어 공정률과 가동 일정이 측정되는 건설 단계로 이동했다. 전력과 비상전원, 전문인력, 지역 연계가 동시에 점검된 것은 가속기 구매 규모만으로 설명하기 어려운 국내 AI 인프라의 실행 조건이 구체화되고 있음을 보여준다."
+      ],
+      "implications": [
+        "데이터센터가 실제로 가동되면 국내외 가속기 도입과 대규모 AI 워크로드 운영, 지역 기반의 설비·서비스 수요가 확대될 수 있다. 반대로 공정 지연이나 전력·인력 병목은 장비 투입과 고객 유치 시점을 늦출 수 있어 건설 진척과 운영 준비를 함께 살펴야 한다.",
+        "후속 판단에서는 공정 이정표, 전력 공급 계약과 냉각 설비, 가속기·서버 조달, 입주 고객과 실제 연산 사용량, 전문인력 채용을 구분해 추적할 필요가 있다. 5GW 구상 전체보다 울산 시설의 가동과 후속 프로젝트별 투자 집행이 실제 인프라 확장 속도를 보여줄 것이다."
+      ],
+      "event_id": "ulsan-sk-aidc-71-percent-progress-presidential-inspection-2026",
+      "event_first_published_at": "2026-11-21T13:11:23+09:00",
+      "event_evidence_url": "https://www.edaily.co.kr/news/read?mediaCodeNo=257&newsid=01974566645648016",
+      "selection_tier": "supplement",
+      "sources": [
+        {
+          "title": "李대통령, 울산 AI데이터센터 방문…공정률 71%·내년 말 가동",
+          "publisher": "이데일리",
+          "published_at": "2026-11-21T13:11:23+09:00",
+          "url": "https://www.edaily.co.kr/news/read?mediaCodeNo=257&newsid=01974566645648016",
+          "verification": "full_text",
+          "verified_at": "2026-11-23T09:42:54+09:00"
+        },
+        {
+          "title": "울산 AI 데이터센터 현장 방문 관련 김남준 대변인 서면 브리핑",
+          "publisher": "대한민국 대통령실",
+          "published_at": "2026-11-21",
+          "url": "https://www.president.go.kr/briefings/zXB9A2D7",
+          "verification": "public_primary",
+          "verified_at": "2026-11-23T09:43:12+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "이데일리 원문이 2026-11-21 13:11:23 KST에 공개됐고 같은 날 대통령실 브리핑이 등록돼 공정률·가동 목표·현장 논의 내용을 대조했다. 두 자료 모두 11월 23일 09:30 마감보다 앞서 공개됐으며 확인한 핵심 사실의 사후 변경 정황은 없었다."
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026년 11월 아카이브 269개 조각과 국내 NPU 기업·협력사 보도를 확인했다. 09:20·09:27 수집 기록은 없고 최신 실제 수집은 08:50:41 KST였으며 NIPA AI칩 수집원은 empty여서 공개 원문과 공식 채널을 보완 확인했다. 과기정통부·24개사 간담회를 선정했고 딥엑스·애지봇 인터뷰, 디노티시아 VDPU 등은 최근 원고 중복으로 제외했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP, 중앙정부·지자체·공공기관·지역기관의 NPU·AI반도체·국비·예산·실증·도입·조달 후보를 아카이브와 공개 검색으로 확인했다. 24개사 간담회와 울산 SK AIDC 공정 진척을 선정했다. 여수 AIDC 조례는 최초 공개가 48시간 밖이고 AIDC 50MW 제도는 11월 21일 원고 중복이며, 신규 지자체 NPU 구매·예산 확정은 확인되지 않았다. 수집 공백을 후보 없음으로 처리하지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "엔비디아·AMD·인텔·TPU, 수출통제와 전략 인수 후보를 비교했다. 메가스피드 배후 운영망과 아마존·데카르트 인수 협상을 선정했다. 엔비디아 Rubin HPC 공급은 11월 18일 원고와 겹치고 동남아 출하 중단·구글 TPU 물량 조정은 11월 21일 원고에 게재돼 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·CUDA·커널·런타임·vLLM·SGLang·추론 최적화와 이기종 가속기 소프트웨어를 점검했다. 데카르트의 Trainium3 효율화 소프트웨어를 전략적 인수 후보로 선정했다. NEAR의 SGLang 취약점은 11월 9일, AWS Lambda GPU 기능은 11월 18일 최초 공개 사건으로 48시간 밖이며, 별도 신규 운영 SW 사건은 확인되지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·메모리·첨단패키징·인터커넥트와 데이터센터 전력·용수·인허가·금융구조를 확인했다. 메모리 비용이 서버 가격과 계약 위험으로 전가된 사례와 울산 SK AIDC의 71% 공정 진척을 선정했다. 여수 조례·AIDC 50MW 제도·SK하이닉스 인디애나 HBM 공장 합의는 범위 밖 또는 최근 원고 중복으로 제외했다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국내외 칩·소프트웨어·모델·수요기업 24개사가 글로벌 제휴의 실제 사업화와 핵심부품 수급을 함께 논의해 국산 NPU의 고객·매출 전환 조건을 구체화했다."
+      },
+      {
+        "article_number": 2,
+        "reason": "메모리 비용 상승이 AI 서버 계약 뒤 가격 인상과 납기 위험으로 이어진 구체적 사례로, 인프라 투자·조달·금융구조의 변화를 보여준다."
+      },
+      {
+        "article_number": 3,
+        "reason": "엔비디아 AI칩 우회조달망의 배후 운영자와 관계사 구조가 새로 드러나 수출통제 집행과 글로벌 공급망 검증 방식에 영향을 줄 수 있다."
+      },
+      {
+        "article_number": 4,
+        "reason": "자체 가속기를 보유한 아마존이 Trainium 효율화 소프트웨어·응용기업을 인수하려는 전략으로, 칩 전환 역량과 개발자 생태계 경쟁의 변화를 보여준다."
+      },
+      {
+        "article_number": 5,
+        "reason": "울산 대형 AIDC가 71% 공정률과 가동 목표를 공개해 전력·인력·고객 확보를 포함한 국내 AI 인프라 투자의 실제 실행 단계를 판단할 근거가 된다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "트럼프, 해외 데이터센터 건설 기업에 세금 불이익 경고",
+        "url": "https://www.reuters.com/world/us/trump-says-companies-building-data-centers-abroad-will-face-tax-penalties-2026-11-20/",
+        "reason": "미국 내 AI 인프라 투자 유도에 중요한 발언이지만 최초 공개가 11월 21일 03:08 KST로 48시간 보완 범위 시작보다 앞서 제외했다."
+      },
+      {
+        "title": "딥엑스, 중국 휴머노이드 기업 애지봇과 로봇용 AI반도체 협력",
+        "url": "https://www.etnews.com/20261122000071",
+        "reason": "11월 14일 원고에 같은 협력의 제품통합·공급 목표를 이미 게재했으며 이번 보도에서 별도 계약 금액·수량·현장 결과가 확인되지 않아 중복 제외했다."
+      },
+      {
+        "title": "디노티시아, VDPU로 차세대 AI 검색 시장 공략",
+        "url": "https://www.etnews.com/20261122000063",
+        "reason": "11월 21일 원고에 같은 VDPU 아키텍처와 사업화 계획을 게재해 새로운 고객·매출·검증 결과가 없는 반복 보도로 제외했다."
+      },
+      {
+        "title": "엔비디아 Rubin 플랫폼, 고성능컴퓨팅 시장 공급 확대",
+        "url": "https://nvidianews.nvidia.com/news/vera-rubin-supercomputing",
+        "reason": "공식 발표가 11월 16일이고 11월 18일 원고에서 출하·고객 계획을 다뤄 48시간 범위와 사건 중복 기준을 모두 충족하지 못했다."
+      },
+      {
+        "title": "NEAR AI, SGLang 추론 프레임워크 취약점 공개",
+        "url": "https://near.ai/news/sglang-vulnerabilities",
+        "reason": "운영 SW 보안에 중요하지만 최초 공개가 11월 9일로 48시간 보완 범위를 벗어나 최근 재보도를 신규 사건으로 사용하지 않았다."
+      },
+      {
+        "title": "AWS Lambda, GPU 기반 서버리스 추론 기능 공개",
+        "url": "https://aws.amazon.com/blogs/aws/aws-lambda-adds-gpu-support/",
+        "reason": "이기종 가속기 운영 변화와 관련되지만 최초 공식 발표가 11월 18일로 48시간 보완 범위를 벗어났다."
+      },
+      {
+        "title": "여수시의회, AI 데이터센터 지원 조례 추진",
+        "url": "https://www.yeosunews.net/news/articleView.html?idxno=60170",
+        "reason": "지역 인프라 제도 후보로 검토했으나 조례 논의의 최초 공개가 11월 17~18일로 확인돼 최근 재게시 날짜만으로 신규 사건화하지 않았다."
+      },
+      {
+        "title": "인천, 첨단패키징 포럼 열고 산학연 협력 논의",
+        "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000000000000",
+        "reason": "패키징 생태계 협력 행사이나 새로 확정된 투자·시설·공동개발·조달 내용이 확인되지 않아 실행 단계가 구체적인 후보보다 후순위로 제외했다."
+      },
+      {
+        "title": "세미파이브, AI반도체 시장 전망 보고서 공개",
+        "url": "https://www.semi-five.com/newsroom",
+        "reason": "시장 전망과 기업 설명 중심으로 확인됐고 신규 고객 매출·설계 수주·양산 결과를 독립적으로 검증할 수 없어 선정하지 않았다."
+      },
+      {
+        "title": "AI 데이터센터 50MW 이하 전력계통영향평가 면제",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790061",
+        "reason": "11월 21일 원고에서 적용 범위와 제도 효과를 이미 게재해 같은 사건의 후속 새 사실이 없는 반복 보도로 제외했다."
+      }
+    ],
+    "count_reason": "2026년 11월 아카이브 269개 조각 전체, 마감 전 72시간 후보, 최근 14일 원고와 다섯 영역의 최종 보완 검색을 비교했다. 공개 본문과 사건 최초 공개시각을 확인한 결과 국내 생태계 사업화·공급망 1건, 인프라 조달비용 1건, 수출통제 공급망 1건, 자체 가속기·SW 전략 인수 1건, 국내 AIDC 투자 실행 1건의 독립 사건 5건을 선정했다. 여섯 번째 후보들은 48시간 범위를 벗어나거나 최근 원고와 중복되거나 실행 단계가 구체적이지 않아 오래된 기사·일반 AI·통상적 소재 소식으로 수를 채우지 않았다.",
+    "company_overlap_review": "아마존과 엔비디아 등 글로벌 기업이 여러 기사 배경에 등장하지만 동일 기업집단을 중심으로 한 기사는 없다. 기사 1은 국내외 24개사 생태계 간담회, 기사 2는 서버 조달가격, 기사 3은 우회 공급망, 기사 4는 아마존의 전략 인수, 기사 5는 SK의 국내 AIDC 건설로 주체·사건·판단 지점이 각각 독립적이다.",
+    "candidate_counts": {
+      "discovered": 2395,
+      "time_eligible": 1032,
+      "independent_events": 19,
+      "verified": 12,
+      "selected": 5,
+      "basis": "docs/data/archive/index.json의 2026년 11월 항목에 연결된 269개 조각 26,883건 전체를 읽어 마감 전 72시간 기사 2,395건과 48시간 시간 적합 기사 1,032건을 집계했다. 편집 검토에서는 중복 보도와 범용 AI 기사를 사건 단위로 묶어 19개 독립 사건을 비교했고, 공개 전문·공식자료·신뢰할 수 있는 공개 재배포로 핵심 사실과 최초 공개시점을 확인한 12개를 검증한 뒤 5개를 선정했다. 당일 collection의 실제 저장은 03:02·05:18·08:50 KST였고 09:20·09:27 실행은 없었으며, 아카이브 집계와 직접 보완 검색을 구분했다."
+    },
+    "history_review": {
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-22",
+      "checked_dates": [
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "note": "각 날짜 ready 원고의 제목·주요 사실·event_id·original_url·검증 출처를 확인했다. 딥엑스·애지봇 협력, 디노티시아 VDPU, 엔비디아 Rubin, AIDC 50MW 제도, 엔비디아 동남아 출하 중단, 구글 TPU 물량 조정, SK하이닉스 인디애나 HBM 공장, 퓨리오사AI PoC와 스페이스X GPU 금융은 이미 게재된 사건으로 제외했다. 이번 5건은 같은 URL·사건·핵심 사실이 없음을 확인했다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 과기정통부와 24개사가 글로벌 제휴 사업화와 핵심부품 공급망을 공동 논의한 사건은 없었다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 AI 서버 공급사가 계약 협의 뒤 25~45% 가격 인상을 요구하고 메모리 비용이 조달계약으로 전가된 사건은 없었다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 리밍이 메가스피드를 포함한 엔비디아 AI칩 우회조달 기업망의 배후 운영자로 구체화된 사건은 없었다."
+      },
+      {
+        "article_number": 4,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 아마존이 Trainium 조기 도입사 데카르트를 약 75억달러에 인수하는 막바지 협상은 게재되지 않았다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "최근 14일 원고에 울산 SK AI데이터센터의 공정률 71%, 2027년 말 가동 목표와 현장 운영 병목 점검은 게재되지 않았다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026년 11월 22일 23일 국산 NPU 고객 도입 실증 공동개발 사업화 매출; 리벨리온 퓨리오사AI 딥엑스 모빌린트 하이퍼엑셀 공식 발표",
+          "official_sources": "과기정통부 정책브리핑, 이데일리 공개 전문과 국내 NPU 기업·협력사 공개 채널을 확인했다.",
+          "result": "24개사 간담회의 글로벌 제휴 사업화·부품 수급 논의를 선정했다. 딥엑스·애지봇과 디노티시아는 최근 원고 중복이며 별도 신규 고객·매출 후보는 확인되지 않았다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "2026년 11월 22일 23일 과기정통부 NIPA IITP NPU AI반도체 국비 예산 실증 도입 조달; 지자체 테크노파크 지역기관 데이터센터 전력 인허가",
+          "official_sources": "과기정통부·NIPA·IITP 보도자료·공고, 대통령실 울산 AIDC 브리핑과 지역기관 공개자료를 확인했다.",
+          "result": "과기정통부 24개사 간담회와 울산 SK AIDC 공정 진척을 선정했다. NIPA AI칩 수집원은 empty였고 공식 채널 보완에서도 신규 지자체 NPU 구매·예산 확정은 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "November 22 23 2026 AI accelerator GPU TPU chip acquisition export control smuggling supply chain Amazon Decart Nvidia",
+          "official_sources": "Financial Times·Wall Street Journal 원문, 연합뉴스·SBS 공개 재배포와 관련 기업 공개자료를 대조했다.",
+          "result": "메가스피드 우회조달망과 아마존·데카르트 인수 협상을 선정했다. Rubin·동남아 출하·TPU 물량 후보는 최초 공개시점 또는 최근 원고 중복으로 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "November 22 23 2026 inference runtime compiler ROCm CUDA vLLM SGLang kernel heterogeneous accelerator software Trainium optimization",
+          "official_sources": "아마존·데카르트 관련 공개 원문, AWS·NEAR·AMD 공식 채널과 최근 원고를 확인했다.",
+          "result": "Trainium 효율화 소프트웨어를 전략 인수 사건의 핵심으로 선정했다. SGLang 취약점과 Lambda GPU는 48시간 밖이고 신규성과 공개 본문을 모두 충족하는 별도 운영 SW 사건은 확인되지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026년 11월 22일 23일 HBM LPDDR 첨단패키징 인터커넥트 AI 데이터센터 서버 가격 전력 용수 인허가 금융구조",
+          "official_sources": "Financial Times AI 서버 가격 원문, 대통령실·이데일리 울산 AIDC 자료, 과기정통부 AIDC 자료와 최근 HBM·패키징 원고를 대조했다.",
+          "result": "메모리 비용의 서버 가격 전가와 울산 AIDC 공정 진척을 선정했다. 50MW 제도·인디애나 HBM 공장·여수 조례는 중복 또는 48시간 밖으로 제외했다."
+        }
+      },
+      "alternative_sources": "유료 매체 보도는 공개된 원문 핵심 내용과 연합뉴스·SBS 등 공개 재배포를 대조했다. 과기정통부 간담회와 울산 AIDC는 공식 브리핑과 시각이 확인되는 공개 기사로 검증했다. NIPA AI칩 수집원 empty와 09:20·09:27 수집 부재는 공식 채널·공개 검색으로 보완했으며, 오류·미확인을 후보 없음으로 바꾸지 않았다."
+    },
+    "shared_original_reviews": []
+  }
+}
