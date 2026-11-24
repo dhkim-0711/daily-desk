@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-24",
+  "cutoff_at": "2026-11-24T09:30:00+09:00",
+  "window_start": "2026-11-23T09:30:00+09:00",
+  "created_at": "2026-11-24T09:52:00+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [1],
+      "bullets": [
+        "금융결제원과 NIPA가 국산 AI반도체 서버를 실제 금융거래 데이터 기반 이상탐지에 연결하고 2027년까지 K-Perf 성능·안정성을 검증하기로 했다.",
+        "국산 NPU 실증이 범용 벤치마크에서 금융결제 핵심업무의 지연시간·신뢰성 검증으로 이동해 공공·금융 수요 전환의 기준이 구체화됐다."
+      ]
+    },
+    {
+      "article_numbers": [2],
+      "bullets": [
+        "임문영 의원이 앤트로픽 고위임원 4명과 만나 광주 데이터센터·GIST를 활용한 국산 NPU 검증과 공동연구소 설립을 제안했다.",
+        "글로벌 모델 기업의 기술을 국내 가속기와 지역 인프라에서 검증하려는 협력 의제가 제시됐지만, 앤트로픽의 투자·설립 일정은 아직 논의 단계다."
+      ]
+    },
+    {
+      "article_numbers": [3],
+      "bullets": [
+        "GS건설·LS일렉트릭·LG유플러스·하니웰이 데이터센터의 사전주문부터 설계·시공·통합시운전까지 연결하는 통합엔지니어링 체계를 구축했다.",
+        "전력·건설·운영·제어 전문성을 초기 설계부터 결합해 AI 데이터센터의 공정 지연과 인수시험 재작업을 줄이려는 공급망 협력이 본격화됐다."
+      ]
+    },
+    {
+      "article_numbers": [4],
+      "bullets": [
+        "엔비디아 이사회가 젠슨 황을 사장·CEO·이사로 즉시 복귀시키고 국가안보·수출통제위원회와 최고준법책임자 선임 절차를 신설했다.",
+        "경영 복귀와 별개로 독립조사는 계속되며, 글로벌 AI칩 공급사의 중국 사업·수출통제 대응이 이사회 상설 감독 체계로 편입됐다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "금융결제원·NIPA, 국산 AI반도체로 금융거래 이상탐지 실증",
+      "category": "국내 NPU·공공수요 실증",
+      "collected_at": "2026-11-23T16:52:11.606+09:00",
+      "original_published_at": "2026-11-23T12:32:29+09:00",
+      "original_url": "https://m.etnews.com/20261123000248",
+      "main_points": [
+        "금융결제원과 정보통신산업진흥원(NIPA)은 20일 국산 AI반도체 활용 확산과 금융결제 인프라 혁신을 위한 업무협약을 체결했다. 협약 사실은 23일 처음 공개됐으며, 양 기관은 2027년까지 국산 AI반도체 서버를 금융거래 이상탐지 시스템에 연결해 실제 금융 데이터를 기반으로 검증한다.",
+        "실증에서는 K-Perf 체계를 활용해 거래 처리 속도와 지연시간을 측정하고 장시간 운영의 안정성·신뢰성을 점검한다. 금융결제원은 업무환경과 데이터를 제공하고, NIPA는 국산 AI반도체 서버와 성능검증 체계를 연계해 결과를 금융결제 인프라의 다른 업무로 확장할 수 있는지 살핀다."
+      ],
+      "importance": [
+        "이번 협력은 국산 NPU 검증이 모델 벤치마크나 단기 시연을 넘어 지연과 오류 허용범위가 엄격한 금융결제 업무로 들어간 사례다. 실제 거래 데이터와 K-Perf를 함께 사용하므로 칩 성능뿐 아니라 서버·소프트웨어·운영 안정성이 수요기관 도입 판단과 연결되는 구조가 만들어졌다."
+      ],
+      "implications": [
+        "금융 이상탐지는 짧은 응답시간과 지속적인 처리 안정성이 동시에 요구돼 국산 NPU가 공공·금융 시장에서 반복 사용될 수 있는지를 가늠하는 시험대가 될 수 있다. 실증 결과가 업무별 서비스 수준과 총운영비로 축적되면 다른 금융기관이나 공공 인프라가 제품을 비교할 때 재사용할 근거가 생긴다.",
+        "후속 판단에서는 K-Perf 점수만이 아니라 탐지 정확도, 피크 시간대 지연, 장애 복구, 기존 시스템 연동비용과 운영인력 부담을 함께 확인할 필요가 있다. 실제 적용 범위가 확대되는지, 수요기관의 구매·운영 계약과 반복 매출로 이어지는지가 사업화 성과를 구분할 핵심 지표다."
+      ],
+      "event_id": "kftc-nipa-domestic-ai-chip-financial-anomaly-detection-2026",
+      "event_first_published_at": "2026-11-23T12:32:29+09:00",
+      "event_evidence_url": "https://m.etnews.com/20261123000248",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "금융결제원, 국산 AI 반도체 금융결제 적용 실증 확대",
+          "publisher": "전자신문",
+          "published_at": "2026-11-23T12:32:29+09:00",
+          "url": "https://m.etnews.com/20261123000248",
+          "verification": "full_text",
+          "verified_at": "2026-11-24T09:48:10+09:00"
+        },
+        {
+          "title": "금융결제원, 국산 AI 반도체로 금융거래 안정성 높인다",
+          "publisher": "뉴데일리 경제",
+          "published_at": "2026-11-23T14:01:00+09:00",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/23/2026112350218.html",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-24T09:48:18+09:00"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "광주·앤트로픽 회동서 국산 NPU 검증·공동연구소 협력 제안",
+      "category": "국내 정책·글로벌 협력",
+      "collected_at": "2026-11-23T16:52:11.606+09:00",
+      "original_published_at": "2026-11-23T16:33:23+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261123142800054",
+      "main_points": [
+        "임문영 국회의원은 앤트로픽의 테레사 칼슨을 포함한 고위임원 4명과 만나 광주에 AI 연구소와 실증센터를 조성하는 협력안을 제안했다. 광주 지역 AI 데이터센터와 GIST 연구역량을 활용해 앤트로픽 기술을 국산 NPU에서 검증하고 공동연구를 수행하는 구상이다.",
+        "회동에서는 리벨리온·퓨리오사AI 등 국내 기업의 가속기와 앤트로픽 모델을 연결하는 검증, 반도체 도시·팹 및 NPU 데이터센터 구상도 논의됐다. 의원실에 따르면 앤트로픽 측은 협력 가능성을 검토할 만한 기회라는 취지로 답했으나 구체적인 투자규모·입지·설립 일정은 공개되지 않았다."
+      ],
+      "importance": [
+        "방한·회동이 일반적인 기업 소개를 넘어 글로벌 모델 기업의 기술을 국내 NPU와 지역 AI 인프라에서 시험하는 구체적 협력 의제로 발전했다는 점이 중요하다. 모델·가속기·데이터센터·대학 연구역량을 한 시험환경에 묶는다면 국산 NPU의 호환성과 실제 워크로드 성능을 글로벌 파트너와 함께 검증할 통로가 될 수 있다."
+      ],
+      "implications": [
+        "글로벌 모델 기업과의 공동 검증은 국산 NPU 기업이 개별 고객마다 반복하는 모델 이식과 최적화 비용을 줄이고, 국제 고객에게 제시할 호환성 근거를 만드는 데 도움이 될 수 있다. 반대로 모델 접근권한, 소프트웨어 지원 범위와 데이터 처리 조건이 구체화되지 않으면 제안 수준의 협력에 머물 가능성도 있다.",
+        "향후에는 앤트로픽의 공식 참여 결정, 대상 모델과 국산 NPU 범위, 검증 워크로드, 데이터센터 자원 배정, 공동연구 인력과 비용분담이 실제로 합의되는지 확인해야 한다. 특정 지역이나 기업의 참여 자체보다 재현 가능한 성능 결과와 후속 제품·서비스 계약으로 이어지는지가 산업적 성과를 좌우한다."
+      ],
+      "event_id": "anthropic-gwangju-domestic-npu-validation-research-proposal-2026",
+      "event_first_published_at": "2026-11-23T16:33:23+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261123142800054",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "임문영 의원, 앤트로픽에 광주 AI연구소·센터 건립 제안",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-23T16:33:23+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261123142800054",
+          "verification": "full_text",
+          "verified_at": "2026-11-24T09:48:26+09:00"
+        },
+        {
+          "title": "임문영 의원, 앤트로픽에 광주 AI 연구소·실증센터 설립 제안",
+          "publisher": "뉴시스",
+          "published_at": "2026-11-23T17:05:27+09:00",
+          "url": "https://nwww.newsis.com/view/NISX20261123_0003879813",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-24T09:48:31+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "GS건설·LS일렉트릭·LG유플러스·하니웰, 데이터센터 통합엔지니어링 협력",
+      "category": "AI 데이터센터·통합엔지니어링",
+      "collected_at": "2026-11-23T16:52:11.606+09:00",
+      "original_published_at": "2026-11-23T14:28:00+09:00",
+      "original_url": "https://www.yna.co.kr/view/AKR20261123109600003",
+      "main_points": [
+        "GS건설은 LS일렉트릭·LG유플러스·하니웰과 데이터센터 통합엔지니어링 체계 구축을 위한 업무협약을 체결했다. 고객의 사전주문 단계부터 설계, 전력·제어 시스템 구축, 시공과 통합시운전까지 네 회사가 공동으로 검토해 구축기간과 단계별 재작업을 줄이는 것이 핵심이다.",
+        "GS건설은 전체 건설과 협업을 조정하고, LS일렉트릭은 전력계통·설비 검토와 시운전, LG유플러스는 운영·인수 기준, 하니웰은 설계 컨설팅부터 제어·운영기술을 담당한다. 설계가 끝난 뒤 운영요건을 맞추는 방식이 아니라 발주 전부터 운영자와 전력·자동제어 기업이 참여하는 구조다."
+      ],
+      "importance": [
+        "AI 데이터센터의 병목이 부지와 장비 확보에서 전력·냉각·제어·운영 기준을 동시에 맞추는 통합 실행으로 이동하고 있음을 보여준다. 건설사 중심의 순차 발주가 아니라 운영사와 핵심 설비기업이 초기 설계부터 참여하면 대형 가속기 시스템의 전력밀도와 가동 신뢰성을 공정계획에 반영할 수 있다."
+      ],
+      "implications": [
+        "가속기 세대가 짧아지고 랙 전력밀도가 높아질수록 설계 변경과 인수시험 지연은 장비 유휴와 고객 서비스 개시 지연으로 이어진다. 통합엔지니어링이 실제 프로젝트에서 표준화되면 건설기간뿐 아니라 가동 초기의 장애와 에너지 효율을 함께 줄일 여지가 있다.",
+        "산업적 성과는 협약 체결보다 이 체계가 적용될 첫 데이터센터, 공정 단축률, 전력·냉각 성능, 통합시운전 결과와 운영 안정성으로 확인해야 한다. 특정 벤더 조합에 대한 종속과 발주 구조의 복잡성이 비용을 높이지 않는지도 실제 프로젝트 데이터를 통해 비교할 필요가 있다."
+      ],
+      "event_id": "gs-ls-lgup-honeywell-datacenter-integrated-engineering-2026",
+      "event_first_published_at": "2026-11-23T13:00:00+09:00",
+      "event_evidence_url": "https://www.yna.co.kr/view/AKR20261123109600003",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "GS건설, LS일렉트릭·LG유플러스·하니웰과 데이터센터 구축 협력",
+          "publisher": "연합뉴스",
+          "published_at": "2026-11-23T14:28:00+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261123109600003",
+          "verification": "full_text",
+          "verified_at": "2026-11-24T09:48:39+09:00"
+        },
+        {
+          "title": "GS건설, 데이터센터 구축 효율 높인다…통합엔지니어링 협약",
+          "publisher": "아시아경제",
+          "published_at": "2026-11-23T13:00:00+09:00",
+          "url": "https://view.asiae.co.kr/article/2026112310533330555",
+          "verification": "public_reprint",
+          "verified_at": "2026-11-24T09:48:44+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "엔비디아, 젠슨 황 CEO 복귀·국가안보 및 수출통제 감독위원회 신설",
+      "category": "글로벌 가속기·기업 거버넌스",
+      "collected_at": "2026-11-23T23:28:51.610+09:00",
+      "original_published_at": "2026-11-23T22:55:00+09:00",
+      "original_url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "main_points": [
+        "엔비디아 이사회는 젠슨 황을 사장·최고경영자(CEO)·이사로 즉시 복귀시키기로 만장일치 결정했다. 이사회는 정부기관의 의견과 자체 검토를 거쳐 황이 국가안보 위험을 제기하지 않는다고 판단했으며, 앞서 공개된 사안에 대한 독립조사는 계속 진행한다고 밝혔다.",
+        "회사는 이사회 산하에 국가안보 및 수출통제위원회를 신설해 중국을 포함한 글로벌 사업의 규제 준수와 위험관리를 감독하고, 새로운 최고준법책임자 선임 절차도 시작했다. 경영권 복귀와 함께 수출통제·국가안보를 상설 이사회 의제로 격상한 조치다."
+      ],
+      "importance": [
+        "세계 AI 가속기 공급을 주도하는 기업의 리더십 공백이 열흘 만에 해소됐지만, 단순한 원상복귀가 아니라 수출통제와 국가안보 감독을 이사회 구조에 편입했다. 엔비디아의 제품 로드맵·파트너십 연속성은 높아지는 반면 중국 매출과 제3국 유통망에 대한 내부 통제는 이전보다 엄격해질 가능성이 있다."
+      ],
+      "implications": [
+        "황의 복귀는 클라우드·서버·메모리 파트너가 추진하는 공동 로드맵의 단기 불확실성을 낮출 수 있다. 동시에 새 위원회와 준법책임자 체계는 고객·유통사·최종사용자 검증, 국가별 제품 공급과 계약 승인 절차를 강화해 공급 속도와 시장 접근성에 영향을 줄 수 있다.",
+        "후속 판단에서는 독립조사 결과, 위원회의 권한과 보고체계, 최고준법책임자 선임, 중국 및 동남아 고객 정책의 실제 변화를 분리해 볼 필요가 있다. 경영 복귀 자체보다 내부통제 변화가 제품 배정·파트너 계약·수출허가 대응에 어떤 영향을 주는지가 산업적 파급을 결정할 것이다."
+      ],
+      "event_id": "nvidia-jensen-huang-reinstatement-export-control-committee-2026",
+      "event_first_published_at": "2026-11-23T22:55:00+09:00",
+      "event_evidence_url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+          "publisher": "NVIDIA Newsroom",
+          "published_at": "2026-11-23T22:55:00+09:00",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+          "verification": "public_primary",
+          "verified_at": "2026-11-24T09:48:52+09:00"
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "2026년 11월 아카이브 279개 조각 27,851건 전체와 국내 NPU 기업·협력사 공개 채널을 확인했다. 당일 collection 파일과 09:20·09:27 실행 기록은 없고 최신 아카이브 수집은 11월 23일 23:28:51 KST여서 수집 공백을 기록하고 공개 원문 검색으로 보완했다. 금융결제원·NIPA의 실제 금융데이터 이상탐지 실증을 선정했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP, 중앙정부·지자체·공공기관·지역기관의 NPU·AI반도체·국비·예산·실증·도입·조달 후보를 아카이브와 공개 검색으로 확인했다. 금융결제원 실증과 앤트로픽·광주 협력 제안을 선정했으며, 신규 지자체 구매·예산 확정은 확인되지 않았다. 수집 공백을 후보 없음으로 처리하지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "엔비디아·AMD·인텔·TPU와 수출통제·기업전략 후보를 비교했다. 젠슨 황 복귀와 국가안보·수출통제위원회 신설을 11월 13일 사임 보도의 실질적 후속 변화로 선정했다. AMD Helios 검증은 중요한 후보였으나 날짜만 공개돼 09:30 마감 전 공개 근거가 충분하지 않아 제외했다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "ROCm·CUDA-X·커널·런타임·vLLM·SGLang과 이기종 가속기 운영 소프트웨어를 점검했다. 11월 23일 CUDA-X 한국어 글은 SC26 발표의 후속 소개였고, ROCm MI455X 커널 글과 AMD Helios 자료는 마감 전 공개시각을 입증하지 못해 신규 독립 기사로 선정하지 않았다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·메모리·첨단패키징·인터커넥트와 데이터센터 전력·용수·인허가·금융구조를 확인했다. GS건설 등 4개사의 통합엔지니어링 협력을 선정했다. 호남 반도체 용수 점검은 11월 20일 최초 공개, Microsoft·Intel EMIB 협력은 11월 18일 최초 공개여서 48시간 보완 범위 밖으로 제외했다."
+      }
+    },
+    "selected": [
+      {"article_number": 1, "reason": "국산 AI반도체가 실제 금융거래 데이터와 K-Perf를 이용해 이상탐지 업무의 성능·안정성을 검증하는 구체적 공공·금융 수요 사례다."},
+      {"article_number": 2, "reason": "글로벌 모델 기업·국내 NPU·지역 데이터센터·대학을 연결하는 공동 검증 의제가 실제 고위급 회동에서 제시돼 후속 사업화 가능성을 판단할 가치가 있다."},
+      {"article_number": 3, "reason": "전력·건설·운영·제어 기업이 데이터센터 전 단계를 통합해 구축 병목을 줄이려는 협력으로 AI 인프라 투자의 실제 실행방식 변화를 보여준다."},
+      {"article_number": 4, "reason": "엔비디아의 경영 공백 해소와 수출통제 감독체계 신설이 동시에 확정돼 글로벌 가속기 공급·파트너십·준법 구조에 직접 영향을 줄 수 있다."}
+    ],
+    "excluded": [
+      {"title": "Microsoft Running Workload Validation with AMD Helios Rackscale Solution", "url": "https://newsroom.amd.com/news/microsoft-running-workload-validation-amd-helios-rackscale-solution/", "reason": "Azure 연구실에서 Helios 초기 워크로드를 실행한 중요한 후보지만 공식자료가 11월 23일 날짜만 제공하고 아카이브 수집 기록이 없어 09:30 마감 전 공개 사실을 입증할 근거가 부족했다."},
+      {"title": "NVIDIA CUDA-X 라이브러리, 과학적 발견을 가속할 도구를 에이전트에 건네다", "url": "https://blogs.nvidia.co.kr/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/", "reason": "한국어 글은 11월 23일 공개됐지만 SC26에서 이미 소개된 라이브러리·도입사례의 후속 설명으로, 독립적인 신규 제품 출시나 운영 결과가 확인되지 않았다."},
+      {"title": "양승조 한국수자원공사 사장, 호남권 반도체 도약·차질 없는 용수 공급 강조", "url": "https://www.kwater.or.kr/news/repoView.do?brdId=KO26&mobileYn=Y&orderByDirection=&orderByField=&s_mid=36&seq=141188", "reason": "반도체 클러스터 용수 공급에 중요하지만 공식 최초 공개가 11월 20일로 48시간 보완 범위를 벗어났다."},
+      {"title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure", "url": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/microsoft-azure-infrastructure-collaboration.html", "reason": "EMIB와 Azure 협력은 중요한 패키징 변화지만 공식 최초 공개가 11월 18일로 시간 범위를 벗어났다."},
+      {"title": "과기정통부·AI반도체 24개사, 글로벌 협력 사업화·핵심부품 공급망 대응 논의", "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01321846645648672", "reason": "2026년 11월 23일 원고에 이미 게재된 동일 사건으로 중복 제외했다."},
+      {"title": "아마존, 데카르트 75억달러 인수 막바지", "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616", "reason": "2026년 11월 23일 원고에 전략적 인수 협상을 이미 게재했으며 거래 종결이나 조건 변경의 새 사실이 확인되지 않았다."},
+      {"title": "울산 SK AI데이터센터 공정률 71%", "url": "https://www.edaily.co.kr/news/read?mediaCodeNo=257&newsid=01974566645648016", "reason": "2026년 11월 23일 원고에 공정률·가동 목표·운영 병목을 이미 게재한 동일 사건이다."},
+      {"title": "생성형 AI 플랫폼 기반 국산 AI 반도체 NPU 서버 구매", "url": "https://bluejodal.kr/notices/2865062", "reason": "공고는 11월 18일 공개됐고 입찰 마감·개찰이 11월 24일 09:30 이후여서 이번 회차에 포함할 신규 결과가 없었다."}
+    ],
+    "count_reason": "2026년 11월 아카이브 279개 조각 전체, 마감 전 72시간 후보, 최근 14일 원고와 다섯 영역의 최종 보완 검색을 비교했다. 공개 본문과 사건 최초 공개시각을 확인한 결과 국내 NPU 금융 실증, 글로벌 협력 제안, 데이터센터 통합엔지니어링, 엔비디아 경영·준법체계 변화의 독립 사건 4건을 선정했다. 여섯 번째 후보뿐 아니라 다섯 번째 후보도 마감 전 공개 근거 부족, 최근 원고 중복 또는 48시간 범위 밖으로 확인돼 오래된 기사나 범용 AI 소식으로 수를 채우지 않았다.",
+    "company_overlap_review": "네 기사 모두 주체와 판단 지점이 독립적이다. 엔비디아는 기사 4의 직접 주체로만 다뤘고, 기사 1은 금융결제원·NIPA 실증, 기사 2는 국회·앤트로픽 회동, 기사 3은 국내 데이터센터 공급망 협력이다. 동일 기업집단 중심의 중복 기사는 없다.",
+    "candidate_counts": {
+      "discovered": 1959,
+      "time_eligible": 1454,
+      "independent_events": 18,
+      "verified": 10,
+      "selected": 4,
+      "basis": "docs/data/archive/index.json의 2026년 11월 항목에 연결된 279개 조각 27,851건 전체를 읽어 마감 전 72시간 기사 1,959건과 48시간 시간 적합 기사 1,454건을 집계했다. 중복 보도와 범용 AI 기사를 사건 단위로 묶어 18개 독립 사건을 비교했고, 공개 전문·공식자료·신뢰할 수 있는 공개 재배포로 핵심 사실과 최초 공개시점을 확인한 10개를 검증한 뒤 4개를 선정했다. 당일 collection 파일이 없어 09:20·09:27 실행과 출처별 상태를 확인할 수 없었고, 최신 아카이브 실제 수집 11월 23일 23:28:51 KST와 직접 보완 검색을 구분했다."
+    },
+    "history_review": {
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-23",
+      "checked_dates": ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-17", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"],
+      "note": "각 날짜 ready 원고의 제목·주요 사실·event_id·original_url·검증 출처를 확인했다. 11월 23일의 과기정통부 24개사 간담회·아마존 데카르트 협상·울산 AIDC 등은 중복 제외했다. 기사 4는 11월 13일 젠슨 황 사임 이후 복귀와 새 준법감독 체계가 확정된 실질적 추가 사실으로 구분했다."
+    },
+    "event_reviews": [
+      {"article_number": 1, "result": "new_event", "previous_editions": [], "note": "최근 14일 원고에 금융결제원과 NIPA가 실제 금융거래 데이터로 국산 AI반도체 이상탐지 실증을 추진한 사건은 없었다."},
+      {"article_number": 2, "result": "new_event", "previous_editions": [], "note": "최근 14일 원고에 앤트로픽 고위임원과 광주·국산 NPU 공동검증 및 연구소 구상을 논의한 실제 회동 결과는 없었다."},
+      {"article_number": 3, "result": "new_event", "previous_editions": [], "note": "최근 14일 원고에 GS건설·LS일렉트릭·LG유플러스·하니웰이 데이터센터 전 단계를 공동 엔지니어링하는 협약은 없었다."},
+      {"article_number": 4, "result": "material_update", "previous_editions": ["2026-11-13"], "new_fact": "엔비디아 이사회가 젠슨 황의 즉시 복귀를 확정하고 국가안보·수출통제위원회 신설 및 최고준법책임자 선임 절차를 발표했다.", "evidence_url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director", "note": "11월 13일 사임·임시 CEO 체제 보도와 달리 경영 복귀와 상설 감독체계가 확정된 실질적 후속 변화다."}
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026년 11월 23일 24일 국산 NPU 고객 도입 실증 공동개발 사업화 매출; 리벨리온 퓨리오사AI 딥엑스 모빌린트 하이퍼엑셀 공식 발표",
+          "official_sources": "NIPA·금융결제원 관련 공개 원문, 과기정통부·국내 NPU 기업 및 협력사 공개 채널을 확인했다.",
+          "result": "금융결제원·NIPA의 실제 금융데이터 이상탐지 실증을 선정했다. 조달 공고는 범위 밖이고 09:30 이후 결과는 이번 회차에서 제외했다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "2026년 11월 23일 24일 과기정통부 NIPA IITP NPU AI반도체 국비 예산 실증 도입 조달; 지자체 테크노파크 지역기관 데이터센터 전력 인허가",
+          "official_sources": "과기정통부·NIPA·IITP 보도자료·공고, 금융결제원 관련 공개 원문, 연합뉴스·뉴시스의 앤트로픽 회동 공개 본문을 확인했다.",
+          "result": "금융결제원 실증과 앤트로픽·광주 공동검증 제안을 선정했다. 신규 지자체 NPU 구매·예산 확정은 확인되지 않았다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "November 23 24 2026 AI accelerator GPU TPU official announcement Nvidia AMD Intel Helios export control governance",
+          "official_sources": "NVIDIA Newsroom 공식자료, AMD Newsroom Helios 자료와 최근 14일 원고를 대조했다.",
+          "result": "엔비디아 CEO 복귀와 수출통제 감독체계 신설을 material_update로 선정했다. AMD Helios는 날짜만 제공돼 마감 전 공개 근거 부족으로 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "November 23 24 2026 ROCm CUDA kernel runtime vLLM SGLang heterogeneous accelerator software official",
+          "official_sources": "AMD ROCm 블로그·Newsroom, NVIDIA CUDA-X 공식 블로그와 최근 원고를 확인했다.",
+          "result": "CUDA-X 한국어 글은 기존 SC26 발표의 후속 소개였고 ROCm MI455X 커널 글은 마감 전 공개시각을 검증하지 못해 별도 신규 사건으로 선정하지 않았다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026년 11월 23일 24일 HBM 첨단패키징 CXL 인터커넥트 AI 데이터센터 전력 용수 인허가 금융구조",
+          "official_sources": "GS건설 협약 공개 본문, K-water 호남 용수 공식자료, Intel·Microsoft EMIB 공식자료와 최근 패키징·인프라 원고를 대조했다.",
+          "result": "4개사 데이터센터 통합엔지니어링 협력을 선정했다. K-water 용수 점검과 Intel EMIB 협력은 48시간 범위 밖으로 제외했다."
+        }
+      },
+      "alternative_sources": "당일 collection 파일 부재와 최신 아카이브가 11월 23일 23:28:51 KST에 멈춘 공백을 과기정통부·NIPA·IITP, 국내 NPU 기업·협력사, NVIDIA·AMD·Intel 공식 채널 및 공개 기사 검색으로 보완했다. 오류·미확인을 후보 없음으로 바꾸지 않았고, 날짜만 확인된 AMD Helios는 cutoff_evidence가 부족해 제외했다."
+    },
+    "shared_original_reviews": []
+  }
+}
