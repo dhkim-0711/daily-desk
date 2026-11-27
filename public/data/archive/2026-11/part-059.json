@@ -1,7 +1,445 @@
 {
   "month": "2026-11",
-  "updatedAt": "2026-11-27T08:46:46.763Z",
+  "updatedAt": "2026-11-27T08:56:42.117Z",
   "articles": [
+    {
+      "title": "[현장] 한투운용, “버블 아냐···피지컬 AI 시대 온다” - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56azNMbDB3eVp4cGRoMEJVNEx4SWNsTVVVVXNXM0Z5QWxfbUk3aFQ4QnhRaklIOUY5R21iMU5EQWtjNzkzc3VObVd5NTA0dUh6MlhVQ3dJTWpSWTNtajdRN3B1LXZaYnByTll3QkQtZjY?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:24:08 GMT",
+      "summary": "[현장] 한투운용, “버블 아냐···피지컬 AI 시대 온다” &nbsp;&nbsp; 이뉴스투데이",
+      "outlet": "이뉴스투데이",
+      "outletUrl": "http://www.enewstoday.co.kr",
+      "source": "국내 AI 시장",
+      "sourceIds": [
+        "korea-ai-market"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-25T01:05:14.291Z"
+    },
+    {
+      "title": "GS건설, LS일렉트릭·LG유플러스와 맞손…AI 데이터센터 구축 속도 높인다 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wTHY4cFI3bmRGdGlhXzZFR243Tjd1UzBwZFlubUJPNzJwVXQ5a0c5bGlJbnZjQlNkN24zbDNDQTl1Y2tEVTNJdUxFOFRHUUlTSEhsbTV3bVE1Zmx4YjJ0V3ZZakQ?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:21:04 GMT",
+      "summary": "GS건설, LS일렉트릭·LG유플러스와 맞손…AI 데이터센터 구축 속도 높인다 &nbsp;&nbsp; 매일일보",
+      "outlet": "매일일보",
+      "outletUrl": "https://www.m-i.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-11-23T14:28:51.610Z",
+      "lastSeenAt": "2026-11-23T14:28:51.610Z"
+    },
+    {
+      "title": "트럼프, 자국 기업의 해외 데이터센터 건설에 과세 경고…국내 영향은 - 이코리아",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94V19XM1MzSngzQi0zNUV0TFNXNW15ZHc1d2poS2FieThBOF9kbDlMMW15elZJWGVGMUhkT090WFVybnZ5MXBFMFd5NF9uMDZ0YmFCTlU3Uk03TDF4bFVxeURPcENMS21na29zZjJqMA?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:18:36 GMT",
+      "summary": "트럼프, 자국 기업의 해외 데이터센터 건설에 과세 경고…국내 영향은 &nbsp;&nbsp; 이코리아",
+      "outlet": "이코리아",
+      "outletUrl": "https://www.ekoreanews.co.kr",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 11,
+      "firstSeenAt": "2026-11-23T14:28:51.610Z",
+      "lastSeenAt": "2026-11-23T14:28:51.610Z"
+    },
+    {
+      "title": "Visions of Japan overrun by humanoid robot imports inspire startups - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVI5NG1kS0VuZ3ZXaFBiM0hDZm9aRGt4bWY0aWFSc3Q5c0hob2tWUnBBcWZPbkpzcktXVVBid3UzMVZ6MnlUOExnaVhrcHRKR01GQlV5OTdaMmEyS3ZSQ1RtcXNzcHdFZWJfUy1kT0hYU21lczE4Y0RtRVJvMUlDMmJwV1k?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:18:00 GMT",
+      "summary": "Visions of Japan overrun by humanoid robot imports inspire startups &nbsp;&nbsp; The Japan Times",
+      "outlet": "The Japan Times",
+      "outletUrl": "https://www.japantimes.co.jp",
+      "source": "AI 시장 전체",
+      "sourceIds": [
+        "ai-market-global"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 8,
+      "firstSeenAt": "2026-11-23T14:28:51.610Z",
+      "lastSeenAt": "2026-11-23T14:28:51.610Z"
+    },
+    {
+      "title": "“값비싼 GPU 놀리지 않는다”…국산 SW, AI 반도체 가동률 99.8% 입증 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDZjZUZkNUs3LWpDRmI5T21wcVdNVGhrcW8zTFZCMFlibTJ4V01JbjBQUS01MlkzZlJISE1oNVdkSzM0SENBMjdqSHU0TWRvZDhfei1wN3RUdHhhQUUtbklsV0VkdzZ5OVJtZzB1MEJlZ1VQQ2JIRFpPVXFveV9xWQ?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:17:24 GMT",
+      "summary": "“값비싼 GPU 놀리지 않는다”…국산 SW, AI 반도체 가동률 99.8% 입증 &nbsp;&nbsp; 이데일리",
+      "outlet": "이데일리",
+      "outletUrl": "https://www.edaily.co.kr",
+      "source": "국산 NPU 실증·협력",
+      "sourceIds": [
+        "npu-commercialization"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-26T04:06:59.276Z"
+    },
+    {
+      "title": "데이터센터 건설 차질에 머스크 “내년 AI 업계 현금 부족 우려” - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM0wyV0x1c3htTERWNDdCdktQaHExYnJmNUt4dEVSQ2R1X09GN1prSU8tLUREaXZNYi00UGhsTHNwOEI4NUdUd1lvWmNHZE1jWGNUMllRQmRoQm1BdUxUdFhZdjdyU1BDdkdzMVR5dUFPQU5WempQRWM0X3Ntdm01cENB0gGWAUFVX3lxTE5NWEl2dk1GTU1oZzE4WHRGQ2piUkNwSmQtVTBseGo2VkJLVHlfVHBPZ20wa0xmdlYtMHZvOEdkQUxpYUh1MVNMZXNzOENkc2N1TThaMGpzaXhCU3J6cmV2YUtkRW9wLWRhWU9NNExfbzZoc296RHJ0UHVXaEd2WHdiY2F6TzdWdG1rLUwzU29udUdqVkVGQQ?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:17:00 GMT",
+      "summary": "데이터센터 건설 차질에 머스크 “내년 AI 업계 현금 부족 우려” &nbsp;&nbsp; Chosunbiz",
+      "outlet": "Chosunbiz",
+      "outletUrl": "https://biz.chosun.com",
+      "source": "국내 AI 정책",
+      "sourceIds": [
+        "korea-ai-policy"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [
+        "데이터센터"
+      ],
+      "issueCategory": "데이터센터",
+      "score": 16,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-23T14:28:51.610Z"
+    },
+    {
+      "title": "Global AI stocks continue to plunge sharply; where is the promised boundless potential? - 富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXZZNUQtaDhZZXZyT3VrTnpDVE1aazZaLUFnSkVFRmtPcEtGV2szNkppSGZSb1BPb1V3OVNpUXB2OFBiU1dUYl9GTU9QOHQ5UlllV2lieTliV2h6UUNyRnhTY1M0QVNKSkhHdmFVclY2eUh3SUhGR25fRkhMNlJGcnhxbkItVjNDOURIaHR3X1gwQ3pCNFZmcUJqOUVMTHpk?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:16:26 GMT",
+      "summary": "Global AI stocks continue to plunge sharply; where is the promised boundless potential? &nbsp;&nbsp; 富途牛牛",
+      "outlet": "富途牛牛",
+      "outletUrl": "https://news.futunn.com",
+      "source": "AI 투자·자본시장",
+      "sourceIds": [
+        "ai-investment-market"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 13,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-23T14:28:51.610Z"
+    },
+    {
+      "title": "Executing JMS Jobs - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeEN0Z0ptYy1uUWptc1BPWmthYW1ZQlRWS0FkamxuMEk0ODYwanlMWUMtQ2NhWEQ3RW1EWUNkTHA5OEtCRHZRN0FSYUxDRmRlUG1ScFNnR1g4Q1hwU1VxUGZXMFM1Y1JDY2dPZjk4c3E1U1NPa2dKMXpZZGtRYm9ZTmNsZzZqRWVnTVZtbWE2X0pmb1RHVUoxOGxXbG5YYlpiQ0Q3UjRHLVZBY0hnRk5UVjQ1Mm1BblNOZm5KMTUxLS01V0J2LWdaLVlVZ2NrS21kU0FzTG5yZ0hUWEVwZGN4VFQySzdTNWJxMEZ1d0w2SVRxU3Z5a0ZmeGJ2Y253eENG?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:15:45 GMT",
+      "summary": "Executing JMS Jobs &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-26T04:06:59.276Z"
+    },
+    {
+      "title": "하천 범람부터 지하차도 침수까지… 충남테크노파크, AI로 지역 안전 관리·기업 성장 지원 - AI경기방송",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WbGVRZXd3MDhSWllPb1VqTGNVeXRJalBNQ18zcGlCZVhFUUQtbTdhOVhPQ05jaERNNHJaWTYzSm56Ylk1TlhnYnV0TTZfMi1jX1E?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:15:00 GMT",
+      "summary": "하천 범람부터 지하차도 침수까지… 충남테크노파크, AI로 지역 안전 관리·기업 성장 지원 &nbsp;&nbsp; AI경기방송",
+      "outlet": "AI경기방송",
+      "outletUrl": "https://www.kfm.co.kr",
+      "source": "국내 NPU 기업",
+      "sourceIds": [
+        "korea-npu",
+        "mobilint",
+        "mobilint-broad"
+      ],
+      "sourceLang": "ko",
+      "region": "domestic",
+      "companyHits": [],
+      "taxonomyHits": [],
+      "issueCategory": "",
+      "score": 13,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-26T04:06:59.276Z"
+    },
+    {
+      "title": "Setting JMS Job Properties Through Scripts - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaEVBZ01TQWZmTU9rV0J2M1djVDh1cHJjSlJZM0tQbHU5S0x4WVdTX3prOGlabHIwTzA4RC1rb1NnY3JCOUoydDNWRm5NZlhVTE5MeDlLZWxKbmdnU3lHRFNiMFN3ZDJRRk9OQ1FpeHhMajkzUk9PYW5BS0RxY3NZRWtKYXBWX3FwVXlqWmFRWGNhQlptWHdJdm1yVUtxRWw5STdjakxmbVd1aDlVeUFHSS1NV3g1cnZHSG5tajVBMFl5R3BMV2tJTEc5TFMxMks2WmVLeFd1WGlVZldUWE9HLVZhUUVFTFBId2dLcXRUclpOV0lncnpHN0dpQ2I?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:13:45 GMT",
+      "summary": "Setting JMS Job Properties Through Scripts &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-23T14:28:51.610Z"
+    },
+    {
+      "title": "Defining JMS Sender Job Properties - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdUJfSHJ4WWdITlFvdFd0R284LTdpRVRCeENaeWVNaUlER19xOURMaGlXYlk2SWFHTV9sXzNiclNyaXR0b2JqeDVfUk5DR1haLS1ycElveXZoS05zSGYyMnBYMkNucHpycG5mOUVsSXF6NUVpWmxpVU1nMVlFb0RlTEd1MGlmRjNaOW1DS19veVk5SllDZ0NjYlpBNFRGb1FzN2cwdE5fajVCSFN3UndzLVQ4RmJ3VDA2d2ZVQnFkQjJFTkRXakpuLXVjd3hSbFV1YnZXWUpxeXplR04xR0lod2NnY2ttRjdFQjk1b2hfLXlCajQtN29VZkFlNDhOTV9NVXc?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:13:45 GMT",
+      "summary": "Defining JMS Sender Job Properties &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-26T04:06:59.276Z"
+    },
+    {
+      "title": "Implementation Overview for the SAP PaPM Agent - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOeEhIOENDbzVjMlpzU25UWEp2Nm5VWnB6LVJRYjdGVFhCRnUzWDB0dmRuUUVyaDh4S0N2bU9HZnFOSDFEQlVRUEQwOUdxNUdSUXNremdqTEtZZjZYYnNZOEVZb1RmbUdHbGplc3dJQ3d4MlZkMWdyNm5JY2ZWYURyWVlKakNzclliQmoxOWNfRDE0NWQ0RVB0VTdGdU5yZXZNekRheTAxdFdoTnI5UEdCVjhCZDdmRV9sODlRbmpsT2hIR1VUYVNaN19ZY1ByckJLSi1fS1JiS2RUc2R1dEIzREZlNDB5dHgwdEtNMFgzRUROcWtHUkxta3NlZGFlUVBqU3ZoTUd2RFJXWVBGNHR3SVMwWVhmbW8yNUtINnBRUQ?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:13:44 GMT",
+      "summary": "Implementation Overview for the SAP PaPM Agent &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-26T04:06:59.276Z"
+    },
+    {
+      "title": "Defining the JMS Agent - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaHI4MTRJM0txUm81TmxVdEg1dE4zMGJhN2FvWGZwamtEbmtuSkNNZ0JZQXBkbmx0b0x4Y21URXpXenNVNUtmQVNpdFNjdWZyYmZvcC1IV2JHZFV6SVNwTzI4Y21MUkIwaWhYNXBBMHdibjk5RmE2RFpaaUZBNEZQbUxkbS1MX3BKdlVidkNSY1F2VmFPZ0M0NVhSNFNCNV9HVjhSWDFkdWNLR3JvWHNmT01QSGNldXhhQjRpZ1lab084UW9sOW1CZXZxQ2RtQVJmUnNWVDVZQkZXZTV4MEZxUWxhTE9uUlByRldEcDdTZzR3SzN6LXhxcVFvUVJoRHNZLWw0TnZn?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:13:44 GMT",
+      "summary": "Defining the JMS Agent &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-23T14:28:51.610Z"
+    },
+    {
+      "title": "Automic Automation / SAP PaPM Agent Integration - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTXBYaEF1Q2RoQmRoVDZKQ29Obi1zaWxXUE5pNTJBWklGcE5DNlRic0xrZUZpRXdFd29vTTBMMktZczVWVW4tS3FvYWRPREx1VldwMnJkX0lkWGpSYUtZa3ZFWTJub1RzOHZSbktXd0RJNjloTU0xNk9QNjk5bFFsekNiclp0Umt1YVVaLUJwU2Z1aV9mejVmcEJ3M3dtU0pKdlAwOXo1ZGNWcnFfdEtOQlpRaWJmQ2pTdW8ta2ZOM19LaWlod09DaXN5dTFjQ0RMazZaVFpNYTRiV1phcDI2S0pqam5vZlNXSTQ0QWtBTXpXQnM2S0ltZENzaU52RFl5enBIT0hCT2d1ekk5M0FjMg?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:13:44 GMT",
+      "summary": "Automic Automation / SAP PaPM Agent Integration &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [
+        "AI에이전트"
+      ],
+      "issueCategory": "AI시장",
+      "score": 20,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-23T14:28:51.610Z"
+    },
+    {
+      "title": "Establishing the Connection to JMS - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNX0ZNaGVpN29sVnFuTVFsRHljajFuWmpUd28zM3h3MG1Yam9RUkFhTGNMOFExRlJqMmR3dkRadTNLV0ppOWRCVVR4V0xpWWU1RG5UWlE3UURxeEp6N0NCa1Z4RUtOazA1NFRZbkR6bUNiNGt6bHl6cV9FbVpWaUMxNkZ1VDhyR3FwZHdTYm1FMkU4VVVkZ0dSNjZnSmJaTm91b21YM01DbnQ4ekJhQkFydG94aVRZZVUzTnFsMlNRN3MyRWtDMGowVjRGZVNYOURsQVB1c19mbkNJbWVIakVTZnREOHJ0QWF2UDl3Ql9HMUdxenE1bGpxWXdaM2hJbXR4ODVCU0FVZlQ2a1p0NUlTRUF3?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:13:44 GMT",
+      "summary": "Establishing the Connection to JMS &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-26T04:06:59.276Z"
+    },
+    {
+      "title": "Defining SAP PaPM Jobs - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNOG5NRTh6VElBTE5rSWV3M1BiekI0RE5WMjBscWk5TUZDWVV2NnpWUXI3M21FWExIMW9ldllMSFVIU0dyUU1ueUNTbGtRZFY4NW5WQnBmQWQyMi1RdFJ1U2tyNEJIZ2U2N05NeGFtLW1qLXU0aEtRSC1oUkZEWXBsTV85dXktbnhTTUMyS2ZpZGthZUdSbWJtckNfYnVtTHFDSXk0ZzZuWktoMXZGVTNYemRYa1pTLUljOFhnNS13WXJVSmtCaGRKSGY3ZHdzTVNHdW9IUlBuMndiQUNacHU2T1REY3BEMXE2ay1fb1MzcnVxdkNVR1p3NnozeXdtdWxCVEljR1RtTlRSSldxWDdoLVM5Z3BKb2VSUXJJT3JEQjVpUklL?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:13:44 GMT",
+      "summary": "Defining SAP PaPM Jobs &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-23T14:28:51.610Z"
+    },
+    {
+      "title": "SAP PaPM: Jobs - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOM1B5VXB4VEk4eExseGZMeWNrSE11NjVYeGk2ZEY4RzBwVFZLQ3BYeDdYTUFyTnhBMEt4WndidEg1WXVnd0tIV3lZWTE5ZTRjYlNtWXBWcW5nUDJvRU02TXNlUlp0YldsTFVQZE5pV1pfNnF4d2QtTTZLNGZ1RTVKekVHU3FnUG1rNnFzQUUxS1dScHFNZjdDdVNTaHZMcnJvT3lFZE1pLWt0QUdCOTBSeTJXY0N6MFdBampOSEdCTnNtcmpnR2xZelRUQ25VbDhrR3ROUExtdkpBWE9hNVFfdGc3Q3o4aDE1VWdhZVJCdm1kWFJRZ1ZtS1ZlZWMtYzRRZUZINFJBZG1QMm1VUWQ5emllT1k?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:13:44 GMT",
+      "summary": "SAP PaPM: Jobs &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-23T14:28:51.610Z"
+    },
+    {
+      "title": "Monitoring JMS Jobs - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRVdQdUJSZTdxNjljN09meExaRklXUl9nQVVIUFVnQnZsLTVQank4NncxbnRURlBMTlZHaUZLbHMzdURWYnI4NzlucGY4MjJCbGNaQzkxSDhsQzhBdlNNMm9OMy0tY2ZENEZseS1uQ3hvSFo3Y1YyYnJFS2FKeGNpYThidGQwaGhuOWRqSy10Tkg3UzQzYUZzWVpSS0dNWlhIcXNoUXJQdWk3Zko2RFRPb3ZtTUdKdDlaRnJSZDZZU01xeTMwYUZTYUVSQTJEYkt4UTVGN09wMUhRQmtXdHQ4S08tMmlLZGFlY0V1aXNNcVhRTk50ZGxZNWN5ZEJUSWtuc1FQQU1FNA?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:13:44 GMT",
+      "summary": "Monitoring JMS Jobs &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-26T04:06:59.276Z"
+    },
+    {
+      "title": "Monitoring SAP PaPM Jobs - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTklHN2s2QXg5aEdlc252bVFRQ2had2FCWFQ0X1Z3Q2ZnX2lteVFuTDFlbHdjSkZxRTh4TEgxdURxbGloTWxKdWZQR0QxaVRPVk1NT2xadG1xa2hDdDBoNHFBRUxmQVVvek5vZjZnMmhGRWNPM0pjT1o0R3NPaS1Ya0dyd0k4WmhySXNoSU5MTFptaFY2aGdNZ2oxSFJWeGZGZ2Y2WjlNZ0w3RTRNS0hFbWxqOVg2OWpzWFZWOWt5dER2cld2eWdUUlZOZHF4bVNvdDNyMlRiYVJQNTkxUXA5NEJEa1ZaajFERUlnWWNUMFZXQWQ5TjJLQzVnZnlRS0s5eWx0ekxjU2dGMFFDTlNDQWFZaExaZw?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:13:44 GMT",
+      "summary": "Monitoring SAP PaPM Jobs &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-23T14:28:51.610Z"
+    },
+    {
+      "title": "What's New in 26 - Broadcom TechDocs",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUE9TcVk2N3A1cldMV0hUZkZTMnphU0k4Vi1nSXQ1OTRNdDNZb1NkNTNuY2pNdnlsMXNiX1o5em1tTDgwa3BkNUYwbzdyQ19RaEZLV0FtMXk2bnFZb0ZtSXVtQmFHQWlNUE1ocXh0R2dFbVFxdUVOeHAyODNQV1N6Y1BQVG4xMUJBeE93dmVpMGVvandmOXlUckVmMjBiZGdwSjlrSGF1V2FUZm1nX3ZpeTFXYzVHOFpydUt2cHNLT1RvRU5BSlBWbmxrZTJQaXNiXzdUSVYycU12QlBLcGRlMlp1N2pydG1FTHl0dFZySzVNb0hsa3NHQXFLdl9zM042TTUtTzhIVi12bUdsMTRVY3hYbF9CQQ?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:13:44 GMT",
+      "summary": "What's New in 26 &nbsp;&nbsp; Broadcom TechDocs",
+      "outlet": "Broadcom TechDocs",
+      "outletUrl": "https://techdocs.broadcom.com",
+      "source": "반도체 기업 공식발표",
+      "sourceIds": [
+        "official-chip-news"
+      ],
+      "sourceLang": "en",
+      "region": "global",
+      "companyHits": [
+        "Broadcom"
+      ],
+      "taxonomyHits": [],
+      "issueCategory": "AI시장",
+      "score": 12,
+      "firstSeenAt": "2026-11-23T07:52:11.606Z",
+      "lastSeenAt": "2026-11-26T04:06:59.276Z"
+    },
     {
       "title": "Executing SAP PaPM Jobs - Broadcom TechDocs",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZ25DRXNhUFVvbG5hcGlta2MyYVJERFVLNUtuNExUTFVvdmpGb05URmp4cGt4N3ZXZG9NNF9Kcmp6SDB6YjRsQ1dXdE1hOTNpb3k1bDAxYVhhNmlZV2lidVVxRDBCMXJVR0NoRnNHbmZFSW5JeUxmaTlCQ2hWWDhwWUpSWHZvQXlkbWF6aGlnSnVqWTEwOGktRlVCZ25vcWE2WlFxS3h1dmNfZ0dMQWFCNFhJalhSV1NEMjFGRElxc3ZGYV9vU2xRcWFNOUlXOUpWN1RYWkRfMUZhaHBWdjB2amRLMEcyN042ZDhtYnNWdmt2UzI5NjFTMXZyLUZ2Y2NEZi0xSnNhZDhIRXBPcDlHa3FqQnI?oc=5",
@@ -1771,449 +2209,6 @@
       "score": 13,
       "firstSeenAt": "2026-11-23T07:52:11.606Z",
       "lastSeenAt": "2026-11-25T01:05:14.291Z"
-    },
-    {
-      "title": "GS건설, 데이터센터 구축 효율 높인다…'통합엔지니어링' 협약 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01X09ac2hMSnRHNGx3ZWJDMFhMYUgxejZjUTVucXo1TU5jQWdtdTl6WW4yV3BEWWZmcW03djRYNVcwNG5HTjlhRkFaYjhqbGRxX0RwZDNvNXpPdnVLRWtUdw?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 04:00:00 GMT",
-      "summary": "GS건설, 데이터센터 구축 효율 높인다…'통합엔지니어링' 협약 &nbsp;&nbsp; 아시아경제",
-      "outlet": "아시아경제",
-      "outletUrl": "https://www.asiae.co.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T07:59:55.056Z"
-    },
-    {
-      "title": "GS건설, 데이터센터 구축 기간 단축 추진…전력·시공·운영 역량 결집 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qUjR4ZjdCcU9HVVNiY2dsQkJrWEhJZlBNdG8zTE95QkdyMk9nRTZfQjZ4U3pWMDlQLUsyV1VWS2twQVZ1cEdiRUt2dHBYY0ptVldFbThvWEFnb0E?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 04:00:00 GMT",
-      "summary": "GS건설, 데이터센터 구축 기간 단축 추진…전력·시공·운영 역량 결집 &nbsp;&nbsp; 뉴스1",
-      "outlet": "뉴스1",
-      "outletUrl": "https://www.news1.kr",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T07:59:55.056Z"
-    },
-    {
-      "title": "GS건설, 데이터센터 구축 속도 높인다…LS일렉트릭 등 3개사와 '맞손' - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VSE5RRkVQdWh1aV95b1VGU2JRdThkLVRXRl9uR1RNQy1kYWVoX19haER3SGFnUVdzWVJocDdPR0d6WFlmUVltUFR4WlJrdXRnNDBzUXN0MDBqcnliVmxVSdIBeEFVX3lxTE1Nem5QdDNIaVQxRy1mcDVfTXZxQmdYLUhjVG5XLUt2Sm9qRl9ETzZEeTFLa2phVFVnSmR6eG9tMUNOa213UjVjSDlXZ282dGx2cnNvZWVKRFdtRzh1TGJGck5idFRUZU5FdWNDRDBLSVp4RjA5Nl95YQ?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 04:00:00 GMT",
-      "summary": "GS건설, 데이터센터 구축 속도 높인다…LS일렉트릭 등 3개사와 '맞손' &nbsp;&nbsp; 뉴시스",
-      "outlet": "뉴시스",
-      "outletUrl": "https://www.newsis.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T14:28:51.610Z"
-    },
-    {
-      "title": "데이터센터 구축 시간 줄이자...GS-LG-LS-하니웰 맞손 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ReEhEdjU3eFNqSUxoQUx3SWotYkUwWU1FV2hFOHNYaHVLOC1UQWlGTDhwRFZ5ZXRWZUx0ekNOOGozaXpkMWstTzBlakJvbG9OV295bEdzaUNadw?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 04:00:00 GMT",
-      "summary": "데이터센터 구축 시간 줄이자...GS-LG-LS-하니웰 맞손 &nbsp;&nbsp; 파이낸셜뉴스",
-      "outlet": "파이낸셜뉴스",
-      "outletUrl": "https://www.fnnews.com",
-      "source": "국내 AI 정책",
-      "sourceIds": [
-        "korea-ai-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 11,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T07:59:55.056Z"
-    },
-    {
-      "title": "Google lets Gemini users block AI training while keeping chat history - Bangkok Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWpjZ3dOVXZMS0MtbzMwSWFHUUFQNXdILS1fMFc1VVEzdmVjZGZjNnN4MVNvZDBURHJxYTZiNHY0Rmp5QXRZQ1Vtd2F1OW5Ra1RzRkhfR3IxNE5wLUFjVno0Z1BkY3VmWUJoMVNZa09LY0lfZ0ZOam1LTzhpajh0c3FmQmhibjR5ck1LUDZuankwYUVpUTVMTWs4RE1fT0lUR0x4NVZkMFVHbEc4ZzRhQWdyeDdMUQ?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:59:00 GMT",
-      "summary": "Google lets Gemini users block AI training while keeping chat history &nbsp;&nbsp; Bangkok Post",
-      "outlet": "Bangkok Post",
-      "outletUrl": "https://www.bangkokpost.com",
-      "source": "Google AI 이슈",
-      "sourceIds": [
-        "google-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "Google"
-      ],
-      "taxonomyHits": [
-        "Google"
-      ],
-      "issueCategory": "Google",
-      "score": 20,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T14:28:51.610Z"
-    },
-    {
-      "title": "스마트인재원, AI 반도체 기반 '피지컬 AI 엔지니어 양성과정' 신규 개설 - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmUXR5MlhrYk83S1I3d2xfNUZRUjZvakZBOVdRRmNpaVFTWnJxb3dPVVc3enZkQmlKdEU0ZFFMZUFRMXliZ1J1M1pQMVVhdw?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:58:34 GMT",
-      "summary": "스마트인재원, AI 반도체 기반 '피지컬 AI 엔지니어 양성과정' 신규 개설 &nbsp;&nbsp; 전자신문",
-      "outlet": "전자신문",
-      "outletUrl": "https://www.etnews.com",
-      "source": "국산 NPU 실증·협력",
-      "sourceIds": [
-        "npu-commercialization",
-        "ai-chip-policy-finance",
-        "korea-npu"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-25T10:29:12.133Z"
-    },
-    {
-      "title": "NYT \"앨리스 황, 젠슨 황과 관계 중 中정보기관 접촉…트럼프, 사전 보고 받고도 일축\" - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NUTJEaTkxMElubVVFWDVweGlCcTFqSTZSQ2tpbUhFQXZDa3NSWkxJYVVCN2ZHd1otRWlzdnlVeGtxeU91cG9nbktkTEh1ZFJsb3dfUVNaWkhEcHRq?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:58:00 GMT",
-      "summary": "NYT \"앨리스 황, 젠슨 황과 관계 중 中정보기관 접촉…트럼프, 사전 보고 받고도 일축\" &nbsp;&nbsp; 뉴스핌",
-      "outlet": "뉴스핌",
-      "outletUrl": "https://www.newspim.com",
-      "source": "해외 빅테크 국내 보도",
-      "sourceIds": [
-        "korea-global-ai-companies"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-23T07:59:55.056Z",
-      "lastSeenAt": "2026-11-23T14:28:51.610Z"
-    },
-    {
-      "title": "데이터센터, 승부는 GPU가 아니라 시스템 역량 - OhmyNews",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbmZsdEJjV2VRWkl6a3NMaVFJZzlSeVU4aTZROXhrbzNKLWpvc1JISTZVcVpabFRiamx0VUFUZ25Sb1ZNYm11Wm92R0c1aEQ5blhWRExtZVpmTWpRZ2RhVjI4T1UyMzRvN2xGYmhpTG9GeVJQaTB0dV9pMERlU2o0ZG82LU9fZ2dfX1E?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:57:00 GMT",
-      "summary": "데이터센터, 승부는 GPU가 아니라 시스템 역량 &nbsp;&nbsp; OhmyNews",
-      "outlet": "OhmyNews",
-      "outletUrl": "https://www.ohmynews.com",
-      "source": "국내 가속기 운영 SW 보도",
-      "sourceIds": [
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "데이터센터"
-      ],
-      "issueCategory": "데이터센터",
-      "score": 16,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-26T03:06:52.789Z"
-    },
-    {
-      "title": "인천시, ‘2026 인천 반도체 글로벌 워크숍’ 개최…산·학·연 180여 명 참석 - 비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oa0dZTFVSTHRMRE4zekN2VFA5MlFNeG1IR1lqaXdxMXBQTXBKNzFVT3NOckNEVVc5LW02XzB1cFhwZlUwZVNNX1hZdG45Q1Ria3c2d1BSelZpQ3VjSUlEdzNLRnVWb2xEdUE?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:56:00 GMT",
-      "summary": "인천시, ‘2026 인천 반도체 글로벌 워크숍’ 개최…산·학·연 180여 명 참석 &nbsp;&nbsp; 비즈월드",
-      "outlet": "비즈월드",
-      "outletUrl": "http://www.bizwnews.com",
-      "source": "국내 메모리·AI 인프라",
-      "sourceIds": [
-        "korea-infrastructure"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T14:28:51.610Z"
-    },
-    {
-      "title": "Analyst Sees Musk Becoming Nvidia's Biggest Customer by 2027, With Chip Orders as Leverage to Bring Back Jensen Huang - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jZ2hBb01RSWl5dGRZQk9idmV5dTU1LVVqc1RWOWtONjRLenBTTEJKb09UaXprOG9Rc29VU3A5U3Rnc2ZIT29KQmM2U0hSU1FGX29nbllEZkdPdTJrbW54aDBmV2g5QUt1UW5SUHhIakpIbEVYNUE?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:55:00 GMT",
-      "summary": "Analyst Sees Musk Becoming Nvidia's Biggest Customer by 2027, With Chip Orders as Leverage to Bring Back Jensen Huang &nbsp;&nbsp; BigGo Finance",
-      "outlet": "BigGo Finance",
-      "outletUrl": "https://finance.biggo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T07:59:55.056Z"
-    },
-    {
-      "title": "Jensen Huang Return in Sight? US Treasury Secretary Softens Stance, Says \"He's Already on the Outside Now\" as NVIDIA Stock Halves, Down Nearly 50% This Year - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3TUxvYTZWZkhrODhwTFo2Y2lwVWkwcW0wMi1vaVRGOVpYRi1hSVJkR3I0bm95TlBMbmI5NC1Dam1nU1U0d244V2pjZGloTnR2NXpxZF9EQndtZFdtM2JPN2FoUjV6aThQcl9sdkQzMUZPbERWNWc?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:55:00 GMT",
-      "summary": "Jensen Huang Return in Sight? US Treasury Secretary Softens Stance, Says \"He's Already on the Outside Now\" as NVIDIA Stock Halves, Down Nearly 50% This Year &nbsp;&nbsp; BigGo Finance",
-      "outlet": "BigGo Finance",
-      "outletUrl": "https://finance.biggo.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA"
-      ],
-      "issueCategory": "AI시장",
-      "score": 15,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T07:59:55.056Z"
-    },
-    {
-      "title": "South Korea's Kospi drops 3% at open over AI market jitters - Bangladesh Sangbad Sangstha (BSS)",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYMkpCMDZ4eXRIdkxrNTNnT2o1d3hWTUlWWjRnNjllZjR1QnA4TmFEOEhmNGZWV1NlUG82ZEU4VVdldnRqb2s2ejdpZ3UtLTlU?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:54:26 GMT",
-      "summary": "South Korea's Kospi drops 3% at open over AI market jitters &nbsp;&nbsp; Bangladesh Sangbad Sangstha (BSS)",
-      "outlet": "Bangladesh Sangbad Sangstha (BSS)",
-      "outletUrl": "https://www.bssnews.net",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-23T02:38:09.063Z",
-      "lastSeenAt": "2026-11-23T07:59:55.056Z"
-    },
-    {
-      "title": "AI 추론을 기업 데이터 곁에 두는 윈도우 서버 2028 - www.itworld.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNSTdibXJkMWFJY1pNampteHd1MUVZLWw3d0VFNVFDaUJrUjZCeFloYjE1X01xMjhtSG55ajdlMU5sc091QTVNbG9ubXVubG5tNjF4dkZSN3JWYm5Da0VmNVhBakZYY0l0YndQUmV2cHJKcXp3UjdwYklCTlFETUNRSGFzR0xQS29sLU5DOFdPcm54dklRT2pFWHFHWlIwQ2tMaV9hMjk0eDhwS3E1VGRla3NKZHhiTG8zMURiQnBFNFJzeW1abTZMc1NodTBTRkJNNlpyQ0g1VUxtaE5XTTA5VVdoZV8wa2xLNWptRVk1cmdDSWNlSWpmVHZpV01HODBLRWMzcGNfYkhjWmYzZXpvS2lubGU3YmRwOUtxaGJXcFNQTVFnZ045eklzZ1JWYjNpOHNEZ1AwODFaQQ?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:52:58 GMT",
-      "summary": "AI 추론을 기업 데이터 곁에 두는 윈도우 서버 2028 &nbsp;&nbsp; www.itworld.co.kr",
-      "outlet": "www.itworld.co.kr",
-      "outletUrl": "https://www.itworld.co.kr",
-      "source": "국내 AI 시장",
-      "sourceIds": [
-        "korea-ai-market",
-        "accelerator-software-ko"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "추론"
-      ],
-      "issueCategory": "추론",
-      "score": 15,
-      "firstSeenAt": "2026-11-24T18:51:03.724Z",
-      "lastSeenAt": "2026-11-25T04:53:03.618Z"
-    },
-    {
-      "title": "Nvidia server partners suspend shipments to Southeast Asia amid US export controls - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1N5NVlCMklreE8weHlmaFNNRWRXUDhzN3NMUkFiV0tZa0NmdWNsb19pRDZMa3FHT3AzZTRMM0VUb0xfcDlQUEVyTkRXcDBYc3JpaG82TjBycDhjUVh6bW55eEQ1MEtSLWhGWmVCUlVEd3hZZktmb0dQMU5BdUNzNVJn?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:52:06 GMT",
-      "summary": "Nvidia server partners suspend shipments to Southeast Asia amid US export controls &nbsp;&nbsp; Crypto Briefing",
-      "outlet": "Crypto Briefing",
-      "outletUrl": "https://cryptobriefing.com",
-      "source": "NVIDIA 이슈",
-      "sourceIds": [
-        "nvidia-ai"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [
-        "NVIDIA"
-      ],
-      "taxonomyHits": [
-        "NVIDIA",
-        "수출통제·공급망"
-      ],
-      "issueCategory": "수출통제·공급망",
-      "score": 18,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T07:59:55.056Z"
-    },
-    {
-      "title": "증시 변동성 확대에 정부 대응 강화…안정펀드 가동·추가 조치 검토 - 서울뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YZElDTEhoODdKWkI0Qnk2NDYwVnNpRW9sOHkxcC1VTGs5bWhRQjJZLS0zZGI1ZDZQYlBZZjZKek9za3pNTVpobEo1bHVxdzItbzUyZXVpU3hGMW1fUElldl9MdWFlX21IQ2J3?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:51:07 GMT",
-      "summary": "증시 변동성 확대에 정부 대응 강화…안정펀드 가동·추가 조치 검토 &nbsp;&nbsp; 서울뉴스통신",
-      "outlet": "서울뉴스통신",
-      "outletUrl": "http://www.snakorea.com",
-      "source": "AI반도체 정책금융·집행",
-      "sourceIds": [
-        "ai-chip-policy-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 8,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T07:59:55.056Z"
-    },
-    {
-      "title": "AI Infrastructure Demand Should Support Malaysia’s E&E Sector Into 1Q 2027 - BusinessToday Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQc1ZsXzRVOVdQanJjTVJaU1VxN0E3M25uZTBJa2pCVVNUNlhrM3o4TlBxZTN4RmREb0t0SkQyTWxyNE13U1ZHWFpTeDhhNHhMdnVyaTZKbDBFOWVqVnR4aFlCZFo0Vm1mLVNKZFZJUWdfd0RweENHYThPaGpvYnhRaEJXTm8tLU80MlI1U0VDQWVHOHpSUUctOHBiSXlNeDZET254YkNVMkNmNzdQRjYzN2E5NWpWS1NUZldBRjE0blRNV19jbFFoWnZxVzk3UkxrYjQ2MXZ3M1RkdU84LUlpR0dyVXdOWE5SbFExd2NRbEZuT2Rsd3FLZnZqbTlVZ0U5RC1Na05uM2FSMVc4bHFuMVhYTUVoTlJUVWdYbEdGc2wyR2MzVGFWV2o5Uk1KTk9keHJKVGRRYi0xazlOVW9BZTYwTEJkX0lmS0dZV3phbmlPUnc?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:50:18 GMT",
-      "summary": "AI Infrastructure Demand Should Support Malaysia’s E&E Sector Into 1Q 2027 &nbsp;&nbsp; BusinessToday Malaysia",
-      "outlet": "BusinessToday Malaysia",
-      "outletUrl": "https://www.businesstoday.com.my",
-      "source": "해외 정책·투자",
-      "sourceIds": [
-        "global-policy"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI인프라"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-26T03:06:52.789Z"
-    },
-    {
-      "title": "Chinese AI spending to continue, but monetization remains unclear: Strategist - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZVJ4MVk0Z0JsRzBBbVJSVkFDWWhTaU5LSjZ2UERDYUg5RWUxWDlGSnZXUmVpZGRNbjFiVGE3THJ3SWRwOElZSElLOHJ2and3dG01NmxabDFJUnExRnBfWUNRVllBOE5IMHVNOE5yWWVyeWNXVnFSb1BPOTJxTm8xanVuNV9NNXc3Z3JzX3BkWk14Q0JKcjI2bEU2eXQyc01YWlk4VEpUSXkxaVBVYkd2cw?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:49:58 GMT",
-      "summary": "Chinese AI spending to continue, but monetization remains unclear: Strategist &nbsp;&nbsp; CNBC",
-      "outlet": "CNBC",
-      "outletUrl": "https://www.cnbc.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장"
-      ],
-      "issueCategory": "AI시장",
-      "score": 16,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-25T08:48:59.713Z"
-    },
-    {
-      "title": "미국발 AI·반도체 대폭락에 코스피 5%대 급락 - 머니터링",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFF2MjRLZUJ3YTk4RmYxRkJobDVFUWVtRHhTeHpXRTV0Vi13bUhCV2NrTmxMN25fNGU5TGUzNlJvUmtIeGlyMjB5ZjRZX3pMUkNreXFPbzFEcFc3TjI0X25uNFNEU0NyRDdhOWhlWU1XeXlBdlozWDY0R0p6MlRrRGhLOFk5UlRsY1UwS3pDUHZtMVN1MjhHWE9B?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:49:22 GMT",
-      "summary": "미국발 AI·반도체 대폭락에 코스피 5%대 급락 &nbsp;&nbsp; 머니터링",
-      "outlet": "머니터링",
-      "outletUrl": "https://www.moneytoring.ai",
-      "source": "AI반도체 정책금융·집행",
-      "sourceIds": [
-        "ai-chip-policy-finance"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [],
-      "issueCategory": "",
-      "score": 13,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T14:28:51.610Z"
-    },
-    {
-      "title": "한-아세안 과학기술 협력의 미래를 이끌 차세대 연구자 선정 - 과학기술정보통신부",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWkdYUjNNNzNybDlmQWlDQ3pPbUR3SkpQdl9KR2FULUNWT2RSNFkzUEE3d2RTc2stcUlpa0xOdkc5Rk5YS3ZqVDE2cTExNzZpUl9GRTdNZjZUM1hkMWVkRklTV29nOExuWXljS1RLSWE1MkMwRDlVamlGVjJkSXJLakNYYkZaeWRJVXFCU1p6YnA0ejFxemc?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:48:04 GMT",
-      "summary": "한-아세안 과학기술 협력의 미래를 이끌 차세대 연구자 선정 &nbsp;&nbsp; 과학기술정보통신부",
-      "outlet": "과학기술정보통신부",
-      "outletUrl": "https://www.msit.go.kr",
-      "source": "정부·공공기관 공식자료",
-      "sourceIds": [
-        "official-korea-policy"
-      ],
-      "sourceLang": "ko",
-      "region": "domestic",
-      "companyHits": [],
-      "taxonomyHits": [
-        "정책"
-      ],
-      "issueCategory": "정책",
-      "score": 21,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-26T04:06:59.276Z"
-    },
-    {
-      "title": "Asian stocks slide as AI investment fears deepen - National Herald",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORWxyTTNDcW5Ld2FweW5YRGxsWTRxVnBkTmJlVm1idFpnSXdjdFdHc2hLZ3BNLVY0aDhic2Fjb01JRjRON2p0djJudXVNTmpycGJ3dG1YWkdyWnhSYzVNblRydXg3Y0RmWHdoTk9lT0xReElCRVRicW54ckpZSmZsX2VxaDBkWGNkVVFVVVpqQkk1b2s3SXBVT9IBpgFBVV95cUxPMmIxWmd4M0FTTTNSaVFvYVlQc3FmcjB1M0xGNzBWQk5MSnB6TUtvUDdqVjRjZ3pJaU5KUE85TS1hNGcxRnA4ampXelVmcWlnbVFMYUxfWnJCQnBpYWlmNk9xWlJ3Qml1a3hkbXR1S21aQlNPbUpyNjBOVVhlSG51VWRsX3RidGhDM0R1cENnbVVIazRZZUt3SDFPYWRNN19xUVllWjR3?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:47:32 GMT",
-      "summary": "Asian stocks slide as AI investment fears deepen &nbsp;&nbsp; National Herald",
-      "outlet": "National Herald",
-      "outletUrl": "https://www.nationalheraldindia.com",
-      "source": "AI 시장 전체",
-      "sourceIds": [
-        "ai-market-global"
-      ],
-      "sourceLang": "en",
-      "region": "global",
-      "companyHits": [],
-      "taxonomyHits": [
-        "AI시장",
-        "투자·M&A"
-      ],
-      "issueCategory": "AI시장",
-      "score": 19,
-      "firstSeenAt": "2026-11-23T07:52:11.606Z",
-      "lastSeenAt": "2026-11-23T14:28:51.610Z"
     }
   ]
 }

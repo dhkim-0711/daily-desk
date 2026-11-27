@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:46:46.763Z",
+  "generatedAt": "2026-11-27T08:56:42.117Z",
   "news": {
     "articles": [
       {
@@ -131,6 +131,7 @@
           "nipa-msit-policy",
           "nipa-ai-chip",
           "ai-chip-public-program",
+          "government-npu-policy",
           "public-regional-npu-demand"
         ],
         "sourceLang": "ko",
@@ -323,6 +324,30 @@
         ],
         "issueCategory": "AI시장",
         "score": 27
+      },
+      {
+        "title": "에이전트 시대의 리더십: AI 에이전트를 도입할 때 사람을 우선시하는 방법 - Google Cloud",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXpXeXl4YUNNRUwtQXQ0YjhRbU1nQjVMMEJyY2pWWkZFMHZrOVdCUDBoaFJhNnA0U1hRM0o2dllYWXdBYVMtcnJua0ZLNTUtNDJyTlhsVXNaNk9vdGZpTS14cHpFa2RhYkE5blVnWFk4LTMyYnNkaUVUVkQxRDRTWXpJYnVETjI4?oc=5",
+        "publishedAt": "Fri, 27 Nov 2026 08:46:47 GMT",
+        "summary": "에이전트 시대의 리더십: AI 에이전트를 도입할 때 사람을 우선시하는 방법 &nbsp;&nbsp; Google Cloud",
+        "outlet": "Google Cloud",
+        "outletUrl": "https://cloud.google.com",
+        "source": "해외 빅테크 국내 보도",
+        "sourceIds": [
+          "korea-global-ai-companies"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [
+          "Google"
+        ],
+        "taxonomyHits": [
+          "AI에이전트",
+          "AI인프라",
+          "Google"
+        ],
+        "issueCategory": "AI인프라",
+        "score": 26
       },
       {
         "title": "슈퍼컴퓨팅과 에이전트 AI의 만남: SC26에서 발표된 Google Cloud HPC 및 AI 관련 새로운 소식 - Google Cloud",
@@ -604,14 +629,13 @@
       },
       {
         "title": "NIPA, 내년 GPU 활용률 따진다…AI 인프라 지원 개편 - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9pS1o3MzNKeHBjNDZFajRJazBweGUwRDZDQjRsRHpaT0pLSnpFa0JndE8wUzBqS3M5cVphdDVncnNZdnRjMlE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrWlNqOGo1cV9QWHZBYjh3aWQ4U1ZLVFBPNnNEZTllSk1KN3JCSlhZbFlyU0dqNUd4czZRal9nazQwQWZyeDdKVzg3OXVXQQ?oc=5",
         "publishedAt": "Thu, 26 Nov 2026 08:48:57 GMT",
         "summary": "NIPA, 내년 GPU 활용률 따진다…AI 인프라 지원 개편 &nbsp;&nbsp; 매일경제",
         "outlet": "매일경제",
-        "outletUrl": "https://m.mk.co.kr",
-        "source": "국내 NPU 기업",
+        "outletUrl": "https://www.mk.co.kr",
+        "source": "모빌린트 확장",
         "sourceIds": [
-          "korea-npu",
           "mobilint-broad",
           "nipa-msit-policy"
         ],
@@ -622,7 +646,7 @@
           "정책"
         ],
         "issueCategory": "정책",
-        "score": 26
+        "score": 25
       },
       {
         "title": "과기정통부, 적극행정 대상…AI로 보이스피싱 탐지 - 뉴스1",
@@ -1437,30 +1461,6 @@
         "score": 25
       },
       {
-        "title": "Google, Blue Origin Plan Orbital AI Compute Test - Data Center Knowledge",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObnAxWVZidTZ3UHdSbnhBNmFaSFB4cW9wQU9VeGE1RE44Umo4MHpKZEplMmdJWURJek9kdDJkbmxKcm50bDJtck9oR2dlX3d2VjhGX2R2T3dKM0dKTDh1SzF6NWtjWmJodW5mWElGV08wOTdGMU81dkNGajlQNVFMemM1VkhtZW1LVG5WZk4wc1E1dkZmb2JKa1pYTjhFMmFFVEZz?oc=5",
-        "publishedAt": "Wed, 25 Nov 2026 16:00:10 GMT",
-        "summary": "Google, Blue Origin Plan Orbital AI Compute Test &nbsp;&nbsp; Data Center Knowledge",
-        "outlet": "Data Center Knowledge",
-        "outletUrl": "https://www.datacenterknowledge.com",
-        "source": "Google AI 이슈",
-        "sourceIds": [
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "AI인프라",
-          "데이터센터",
-          "Google"
-        ],
-        "issueCategory": "AI인프라",
-        "score": 25
-      },
-      {
         "title": "과기정통부, '2026 인공지능 소프트웨어 인재 축제' 25일 개막 - 한국사회복지저널",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0UUxmMEhfZzBobWY2X0REdmJZM0NNdzA4aFRyak9wQ0FTcFNEX3dCMzhnMHk5eXdHUnhCelhNMUFoVmVzdG94WERtdFpMb05hbm9zWmZFUUJfWnFfbmU4UlpKS2xhS0xUX2NB?oc=5",
         "publishedAt": "Wed, 25 Nov 2026 12:56:38 GMT",
@@ -1508,12 +1508,12 @@
         "score": 25
       },
       {
-        "title": "과학기술정보통신부, 인공지능 자율화가 바꿀 미래 산업·사회 질서 논의 - 시민행정신문",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xRHR2Z0RablNiUzVsSllaaVRQa05nLXF0empwbEg3OEFSdXBMeUR2cnpKTzl5V2d6YUgzUXB3TFd4bDBJVjFjZUFoTl9aMU9kbmdYYUlYMmN1T1ZWQlVEM0hDckVQcWd0em9CZFdR?oc=5",
-        "publishedAt": "Wed, 25 Nov 2026 11:50:56 GMT",
-        "summary": "과학기술정보통신부, 인공지능 자율화가 바꿀 미래 산업·사회 질서 논의 &nbsp;&nbsp; 시민행정신문",
-        "outlet": "시민행정신문",
-        "outletUrl": "https://www.citizenadmnews.co.kr",
+        "title": "과학기술정보통신부, 2026 인공지능·소프트웨어 인재 축제 개최 - 뉴스체인지",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fQ2ZaUnRaVWc0bFM1ZGJ1Ymw4U0FzdDg4QU00MUVQaC1oNXpOdzdPNWVZYTY5dUNrYVd1OHlKWEhGajdtWmJ4c0x3RQ?oc=5",
+        "publishedAt": "Wed, 25 Nov 2026 10:39:00 GMT",
+        "summary": "과학기술정보통신부, 2026 인공지능·소프트웨어 인재 축제 개최 &nbsp;&nbsp; 뉴스체인지",
+        "outlet": "뉴스체인지",
+        "outletUrl": "http://www.newschange.co.kr",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy"
@@ -1528,12 +1528,12 @@
         "score": 25
       },
       {
-        "title": "과학기술정보통신부, 2026 인공지능·소프트웨어 인재 축제 개최 - 한국시사경제",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mUlVIMUx4a3lKTkJUT2toczJuYVNKQXF1TWE1OFZ3NWhSR0t4MlZ6RURJQ0UyOVdMVjlTaHM4cTloXzJjUUpnOFhlVmo2VGNLcTFOZXdvRVlhbkJxT1phd1pHckF4a3lpdUE?oc=5",
-        "publishedAt": "Wed, 25 Nov 2026 11:50:13 GMT",
-        "summary": "과학기술정보통신부, 2026 인공지능·소프트웨어 인재 축제 개최 &nbsp;&nbsp; 한국시사경제",
-        "outlet": "한국시사경제",
-        "outletUrl": "https://www.hksisaeconomy.com",
+        "title": "과학기술정보통신부, 인공지능 자율화가 바꿀 미래 산업·사회 질서 논의 - 뉴스체인지",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13bEtHSjROY0FCTm9VeGhSbDkwQkpVV200aUFqX2V4emZiQWVhVldaLXlvdkppOHVSNFQ2V3lHR0x0eFhrMGgtTTNqSQ?oc=5",
+        "publishedAt": "Wed, 25 Nov 2026 10:35:00 GMT",
+        "summary": "과학기술정보통신부, 인공지능 자율화가 바꿀 미래 산업·사회 질서 논의 &nbsp;&nbsp; 뉴스체인지",
+        "outlet": "뉴스체인지",
+        "outletUrl": "http://www.newschange.co.kr",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy"
@@ -1714,6 +1714,26 @@
         "summary": "과기정통부, AI·SW 인재페스티벌 개최…전국 60개 대학 교육성과 공유 &nbsp;&nbsp; 디지털데일리",
         "outlet": "디지털데일리",
         "outletUrl": "https://www.ddaily.co.kr",
+        "source": "NIPA·과기정통부 정책",
+        "sourceIds": [
+          "nipa-msit-policy"
+        ],
+        "sourceLang": "ko",
+        "region": "domestic",
+        "companyHits": [],
+        "taxonomyHits": [
+          "정책"
+        ],
+        "issueCategory": "",
+        "score": 24
+      },
+      {
+        "title": "미래 인재 한자리에…과기정통부, AI·SW 인재페스티벌 개최 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nVXh3MFFJMEsyMjFpMUw3UUpSdDZ5TnpEeEdvYi1wUzNQQURWOTB2YlhnRTc3c3lLTnV1TTRSaW83WWltMDFiS1BzM3RtdXc3WVJBSldTNW15dkQ4ck9XcVBvYlBzR0tQaWpZUnoyclVJVnc?oc=5",
+        "publishedAt": "Wed, 25 Nov 2026 05:00:00 GMT",
+        "summary": "미래 인재 한자리에…과기정통부, AI·SW 인재페스티벌 개최 &nbsp;&nbsp; 디지털투데이",
+        "outlet": "디지털투데이",
+        "outletUrl": "https://www.digitaltoday.co.kr",
         "source": "NIPA·과기정통부 정책",
         "sourceIds": [
           "nipa-msit-policy"
@@ -2084,7 +2104,8 @@
         "source": "국내 NPU 기업",
         "sourceIds": [
           "korea-npu",
-          "furiosa"
+          "furiosa",
+          "government-npu-policy"
         ],
         "sourceLang": "ko",
         "region": "domestic",
@@ -3952,30 +3973,6 @@
           "NVIDIA"
         ],
         "issueCategory": "NVIDIA",
-        "score": 20
-      },
-      {
-        "title": "Los Angeles disables Google AI search features as school pushback grows (GOOG:NASDAQ) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbncwUHFVdUxrWFB2SjJCaXJvOHAwRGlSNklaSEV1bVhJYm5FdHhKODR0SGJzSVM3SlVoOWhvOEVtYklwOW1zdGh5S3AwckhLeWRBSWkydXhLUHRIZ09BSktSU0IzbjMyejhvd2NOeUxod094WDkzV243aHB4bkxIZm9Ba2kxQmZFX3BqYnlrUlZZX0hDNVpNU1JwY2pqbUhCUnZIbWFFOXVOMXVGaHc?oc=5",
-        "publishedAt": "Fri, 27 Nov 2026 05:59:46 GMT",
-        "summary": "Los Angeles disables Google AI search features as school pushback grows (GOOG:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
-        "outlet": "Seeking Alpha",
-        "outletUrl": "https://seekingalpha.com",
-        "source": "AI 시장·비즈니스",
-        "sourceIds": [
-          "ai-market-business",
-          "ai-agents-cloud",
-          "google-ai"
-        ],
-        "sourceLang": "en",
-        "region": "global",
-        "companyHits": [
-          "Google"
-        ],
-        "taxonomyHits": [
-          "Google"
-        ],
-        "issueCategory": "Google",
         "score": 20
       }
     ],
@@ -6983,13 +6980,13 @@
         ]
       }
     ],
-    "generatedAt": "2026-11-27T08:46:43.523Z"
+    "generatedAt": "2026-11-27T08:56:39.734Z"
   },
   "briefing": {
     "date": "2026년 11월 27일 금요일",
     "summary": [
       "오늘의 최상위 이슈: AMD vs. NVIDIA AI chips: Helios, CUDA and TPU systems - NeoTeo",
-      "강한 기술·시장 신호: NPU 1, AI인프라 23, 데이터센터 9, 온디바이스AI 0, 추론 3",
+      "강한 기술·시장 신호: NPU 1, AI인프라 23, 데이터센터 8, 온디바이스AI 0, 추론 3",
       "주요 기업 신호: 퓨리오사AI 2, 딥엑스 1, 리벨리온 1, 하이퍼엑셀 0, 모빌린트 0"
     ],
     "leadArticles": [
@@ -7122,6 +7119,7 @@
           "nipa-msit-policy",
           "nipa-ai-chip",
           "ai-chip-public-program",
+          "government-npu-policy",
           "public-regional-npu-demand"
         ],
         "sourceLang": "ko",
@@ -7231,7 +7229,7 @@
         ],
         [
           "데이터센터",
-          9
+          8
         ],
         [
           "온디바이스AI",
@@ -7243,7 +7241,7 @@
         ],
         [
           "AI에이전트",
-          20
+          21
         ],
         [
           "파운드리·패키징",
@@ -7277,7 +7275,7 @@
         ],
         [
           "Google",
-          47
+          46
         ],
         [
           "AMD",
@@ -7400,11 +7398,11 @@
         ],
         [
           "국내 기사",
-          102
+          104
         ],
         [
           "해외 기사",
-          78
+          76
         ]
       ],
       "sections": [
