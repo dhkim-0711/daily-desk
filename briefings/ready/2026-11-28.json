@@ -1,0 +1,516 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "date": "2026-11-28",
+  "cutoff_at": "2026-11-28T09:30:00+09:00",
+  "window_start": "2026-11-27T09:30:00+09:00",
+  "created_at": "2026-11-28T09:48:30+09:00",
+  "summary_groups": [
+    {
+      "article_numbers": [
+        1
+      ],
+      "bullets": [
+        "하이퍼엑셀은 2027년 LPU 양산 초기 물량에 약 10만개의 LPDDR 칩이 필요하다며 SK하이닉스에 안정적 공급을 요청하고, 2~3년 뒤 제품을 겨냥한 가속기·차세대 메모리 공동설계를 제안했다.",
+        "국산 NPU의 병목이 설계·파운드리에서 메모리 조달과 데이터센터 통합검증으로 이동하면서 양산계획의 신뢰성과 생태계 공동개발 역량이 사업화의 핵심 변수로 떠올랐다."
+      ]
+    },
+    {
+      "article_numbers": [
+        2
+      ],
+      "bullets": [
+        "세명소프트의 테르니스 MLOps가 TTA GS인증 1등급을 받아 GPU와 국산 NPU를 한 화면에서 배포·운영하는 소프트웨어의 품질 기준을 통과했다.",
+        "가속기 도입이 늘수록 칩별 관리도구의 분절이 커지는 가운데, 이기종 자원을 공통 운영체계로 묶는 SW가 국산 NPU의 현장 도입비용과 운영 복잡도를 낮출 수 있다."
+      ]
+    },
+    {
+      "article_numbers": [
+        3
+      ],
+      "bullets": [
+        "퓨리오사AI는 RNGD와 NXT RNGD 서버가 2026년 6월 우수연구개발 혁신제품으로 지정된 뒤 공공기관 구매가 발생했다고 밝혔고, 최초 신청 때 조달 분류에 AI 가속기 항목이 없어 어려움을 겪었다고 공개했다.",
+        "제품 지정 이후에도 수요기관의 비교·문의·구매를 연결할 채널이 부족하다는 현장 경험은 국산 NPU 지원이 인증에서 반복구매와 사용자 피드백 체계로 이어져야 함을 보여준다."
+      ]
+    },
+    {
+      "article_numbers": [
+        4
+      ],
+      "bullets": [
+        "인텔은 SGLang에 제온 CPU와 인텔 GPU용 실행경로를 업스트림하며 AMX·NUMA 최적화, W8A8 INT8, Flash Attention·MoE 커널과 Xe2 MXFP4 가중치 저장을 지원하는 작업을 공개했다.",
+        "오픈소스 추론 프레임워크가 엔비디아 중심에서 CPU·다른 GPU까지 확장되면서 이기종 가속기의 경쟁력은 하드웨어 사양뿐 아니라 주류 런타임에 최적화를 얼마나 빨리 상류 반영하느냐에 좌우되고 있다."
+      ]
+    },
+    {
+      "article_numbers": [
+        5
+      ],
+      "bullets": [
+        "SemiAnalysis의 AgentX 시험에서 GLM-5.3 추론 기준 Trainium3는 사용자당 초당 153토큰 구간에서 GB300과 칩당 처리량이 비슷하면서 추정 토큰 비용은 62% 낮게 나타났다.",
+        "실제 코딩 에이전트 세션을 재생한 비용·처리량 비교는 전용 가속기가 특정 워크로드에서 GPU의 대안이 될 수 있음을 보여주지만, 결과는 모델·지연목표와 자체 가격·TCO 가정에 민감하다."
+      ]
+    },
+    {
+      "article_numbers": [
+        6
+      ],
+      "bullets": [
+        "화웨이는 ISSCC 2027에서 64채널·4,096개 데이터 연결과 5층 웨이퍼온웨이퍼 하이브리드 본딩을 적용한 맞춤형 HBM 설계를 발표할 예정이다.",
+        "HBM4의 2,048개보다 넓은 인터페이스를 택한 설계는 중국 AI칩 생태계의 공급망 우회 전략을 보여주지만 속도·용량·수율·양산 일정은 아직 공개되지 않아 경쟁력을 단정할 단계는 아니다."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "하이퍼엑셀, 2027년 LPU 양산용 LPDDR 10만개 공급 요청",
+      "category": "국내 NPU 양산·공급망",
+      "collected_at": "2026-11-28T07:57:12.928+09:00",
+      "original_published_at": "2026-11-28T05:57:45+09:00",
+      "original_url": "https://en.edaily.co.kr/news/eda202611285025/",
+      "main_points": [
+        "하이퍼엑셀은 2027년 저지연처리장치(LPU) 양산을 시작할 계획이며 초기 생산에 약 10만개의 LPDDR 메모리 칩이 필요하다고 밝혔다. 김주영 대표는 K-AI 얼라이언스 서울 밋업에서 웨이퍼 확보 전망과 달리 메모리 조달이 병목이라며 SK하이닉스에 안정적인 공급을 요청했다.",
+        "회사는 GPU를 완전히 대체하기보다 토큰당 비용과 총소유비용이 중요한 추론 수요를 겨냥하고, 10MW 미만 기업 데이터센터와 네오클라우드를 거쳐 하이퍼스케일러로 고객 범위를 넓히는 경로를 제시했다. 아울러 2~3년 뒤 제품을 목표로 AI 가속기와 차세대 메모리를 함께 설계하고 얼라이언스 구성요소를 통합한 데이터센터를 검증하자고 제안했다.",
+        "같은 행사에서 파네시아는 CXL이 NVLink·UALink와 공존하며 메모리 확장계층을 맡을 수 있다고 설명하고 PCIe 6.4·CXL 3.2 퓨전 스위치와 랙 단위 검증 계획을 공개했다. 10만개 수요와 공동설계·통합검증은 기업의 계획과 제안이며 공급계약이나 공동개발 착수 사실로 발표된 것은 아니다."
+      ],
+      "importance": [
+        "국산 NPU의 사업화 위험이 칩 설계와 파운드리 확보를 넘어 메모리 물량, 시스템 통합, 초기 고객의 경제성 검증으로 이동했음을 구체적인 수량과 양산 시점으로 드러낸 사건이다. LPDDR를 활용한 비용 중심 전략이 실제 양산으로 이어지려면 메모리 공급사와의 조달 안정성이 선행돼야 한다.",
+        "가속기·메모리·CXL 스위치·데이터센터를 별도 제품이 아니라 하나의 검증 단위로 묶자는 제안은 국내 공급망 기업들이 공동 레퍼런스를 만드는 방향을 제시한다. 이는 단일 기업의 성능 발표보다 고객이 구매 가능한 완성 시스템과 반복 가능한 공급구조가 중요해졌다는 변화다."
+      ],
+      "implications": [
+        "후속 확인의 초점은 10만개 초기 물량의 공급계약, LPU 보드와 서버의 양산 일정, 유상 고객과 반복구매로 이어지는지에 맞춰야 한다. 메모리 가격과 수급이 변할 때도 토큰당 비용 우위가 유지되는지 검증하면 사업모델의 내구성을 판단할 수 있다.",
+        "공동설계는 범용 메모리를 조달하는 관계보다 긴 개발주기와 인터페이스 조율을 요구한다. 목표 워크로드, 용량·대역폭·전력 요구와 책임주체를 구체화해야 제안이 실제 제품 로드맵으로 전환될 수 있다.",
+        "K-AI 얼라이언스의 통합 데이터센터 검증이 진행되면 개별 부품 성능뿐 아니라 가속기·메모리·인터커넥트의 병목과 운영비를 같은 환경에서 측정할 수 있다. 이 과정은 국산 시스템의 해외 데이터센터 제안에 필요한 공급능력과 상호운용성 증거를 축적하는 계기가 될 수 있다."
+      ],
+      "event_id": "hyperaccel-2027-lpu-mass-production-lpddr-supply-request-2026-11-28",
+      "event_first_published_at": "2026-11-28T05:57:45+09:00",
+      "event_evidence_url": "https://en.edaily.co.kr/news/eda202611285025/",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "HyperAccel Seeks Stable Memory Supply for AI Chip Mass Production",
+          "publisher": "이데일리",
+          "published_at": "2026-11-28T05:57:45+09:00",
+          "url": "https://en.edaily.co.kr/news/eda202611285025/",
+          "verification": "full_text",
+          "verified_at": "2026-11-28T09:47:30+09:00"
+        },
+        {
+          "title": "Panmnesia Joins AI Infrastructure Panel at SK Group's K-AI Alliance Seoul Meetup 2026",
+          "publisher": "파네시아",
+          "published_at": "2026-11-27",
+          "url": "https://panmnesia.com/news/en/2026-11-27-panmnesia-sk-panel-eng/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-28T09:47:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "파네시아 공식 본문은 2026-11-27 행사 참여와 CXL 기반 메모리 확장, PCIe 6.4·CXL 3.2 제품 및 랙 단위 검증계획을 담고 있다. 동일 내용의 BusinessKorea 보도가 2026-11-27 21:45:01 KST 전에 공개되고 아카이브에 22:48:52 KST 수집돼 11월 28일 09:30 마감 전 공개 사실을 대조했으며, 확인 시점에 수정시각 표시는 없었다."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "세명소프트, GPU·국산 NPU 통합 MLOps로 GS인증 1등급",
+      "category": "국산 NPU 운영 SW",
+      "collected_at": "2026-11-27T17:46:46.763+09:00",
+      "original_published_at": "2026-11-27T16:14:48+09:00",
+      "original_url": "https://www.mt.co.kr/amp/industry/2026/11/27/2026112609535540472",
+      "main_points": [
+        "세명소프트의 AI 인프라 통합 운영 플랫폼 테르니스 MLOps가 한국정보통신기술협회 소프트웨어 품질인증인 GS인증 1등급을 획득했다. 회사는 GPU와 국내 NPU가 함께 배치된 환경에서 모델 배포, 자원 할당, 상태 감시와 운영을 하나의 화면에서 처리하도록 설계했다고 설명했다.",
+        "기업과 기관이 국산 NPU를 추가할 때 가속기별 관리도구와 배포절차가 달라지는 문제를 공통 운영계층으로 줄이는 것이 제품의 목표다. 인증은 소프트웨어의 기능·품질 기준을 확인한 것이며 이기종 환경의 실제 성능이나 고객 도입 규모는 별도 현장 검증이 필요하다."
+      ],
+      "importance": [
+        "국산 NPU 확산의 병목이 칩 성능만이 아니라 기존 GPU 운영체계와의 공존, 모델 배포와 장애관리의 복잡성이라는 점을 겨냥한 운영 SW 사례다. 공통 MLOps 계층은 수요기관이 가속기를 바꿀 때 발생하는 전환비용을 낮추고 공급사별 도구 종속을 완화할 수 있다.",
+        "GS 1등급은 공공·기업 구매 검토에서 제품 품질의 기초 증거가 될 수 있지만 상용성을 완성하는 지표는 아니다. 실제 고객의 혼합 클러스터에서 지원 NPU 범위, 자원 이용률과 운영 안정성을 확인하는 단계가 중요해졌다."
+      ],
+      "implications": [
+        "현장 평가는 동일 모델을 여러 가속기에 배포할 때의 변환시간, 스케줄링 효율, 장애 격리와 롤백, 모니터링 지표의 일관성을 포함해야 한다. 이를 공개 가능한 레퍼런스로 축적하면 국산 NPU의 도입 판단이 칩별 벤치마크에서 운영비와 서비스 수준 비교로 확장될 수 있다.",
+        "공통 운영계층은 하드웨어 공급기업의 SDK·컴파일러가 안정된 인터페이스를 제공할 때 효과가 커진다. NPU별 버전 변경과 기능차이를 흡수하는 플러그인 구조와 지원책임이 제품의 확장성을 좌우한다.",
+        "공공 조달과 지원사업에서는 인증 취득 여부와 함께 실제 혼합자원 운영실적, 지원 가능한 모델·프레임워크, 고객의 인력 절감과 장애시간 개선을 확인할 필요가 있다. 이런 지표가 누적되면 운영 SW 기업도 국산 AI반도체 생태계의 독립적인 사업 주체로 성장할 수 있다."
+      ],
+      "event_id": "semyungsoft-ternis-mlops-gs-grade1-2026-11-27",
+      "event_first_published_at": "2026-11-27T16:14:48+09:00",
+      "event_evidence_url": "https://www.mt.co.kr/amp/industry/2026/11/27/2026112609535540472",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "세명소프트, GPU·국산 NPU 통합 AI 운영 플랫폼 GS인증 1등급 획득",
+          "publisher": "머니투데이",
+          "published_at": "2026-11-27T16:14:48+09:00",
+          "url": "https://www.mt.co.kr/amp/industry/2026/11/27/2026112609535540472",
+          "verification": "full_text",
+          "verified_at": "2026-11-28T09:47:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "퓨리오사AI, 혁신제품 지정 뒤 드러난 공공 NPU 조달 병목 공개",
+      "category": "국내 NPU 공공조달·수요",
+      "collected_at": "2026-11-27T17:46:46.763+09:00",
+      "original_published_at": "2026-11-27T11:20:32+09:00",
+      "original_url": "https://slv.kr.aving.net/news/articleView.html?idxno=1817453",
+      "main_points": [
+        "퓨리오사AI는 추론용 AI 가속기 RNGD와 이를 탑재한 NXT RNGD 서버가 2026년 6월 우수연구개발 혁신제품으로 지정된 뒤 실제 기업과 기관의 구매가 발생했다고 인터뷰에서 밝혔다. 구매기관과 물량·금액은 공개하지 않았으며, 베트남 소버린 AI 데이터센터에 한국 차관을 활용하는 공급 기회도 협의 가능성을 살피는 단계라고 설명했다.",
+        "회사는 첫 혁신제품 신청 당시 조달 카탈로그에 그래픽카드 분류만 있고 AI 가속기 항목이 없어 신청이 반려됐다고 밝혔다. 이후 과기정통부와 조달청 협의를 거쳐 AI 가속기 카드와 서버가 분류체계에 포함돼 다시 신청할 수 있었다.",
+        "제품 지정 후에도 수요기관이 성능과 적용방법을 문의하고 공급기업이 답할 상시 채널이 부족하다는 점을 사업화 애로로 제시했다. 인터뷰는 기업 경험과 설명을 담은 자료여서 구매성과와 해외사업 진척은 계약·발주 자료로 후속 확인할 필요가 있다."
+      ],
+      "importance": [
+        "국산 NPU 정책의 병목이 기술개발이나 인증 이전뿐 아니라 조달 품목분류, 수요기관의 제품 이해, 지정 이후 구매연결에 존재한다는 구체적인 현장 사례다. 제도상 제품군이 없었던 문제를 해결해 실제 구매까지 이어졌다는 회사 설명은 공공수요 창출의 절차적 조건을 보여준다.",
+        "혁신제품 지정 자체보다 어떤 기관이 어떤 업무에 도입하고 반복구매하는지가 시장 검증의 핵심이다. 익명 구매사례와 해외 협력 가능성이 공개 계약으로 전환되는지 추적해야 공공 레퍼런스의 실질적 가치를 평가할 수 있다."
+      ],
+      "implications": [
+        "조달체계는 GPU와 NPU를 같은 그래픽카드 범주로 다루기보다 추론 처리량, 전력, 메모리, SW 호환성과 운영지원 등 수요기관이 비교할 수 있는 사양을 제시할 필요가 있다. 제품군과 평가항목이 명확하면 새 가속기의 진입 때마다 분류를 다시 만드는 지연을 줄일 수 있다.",
+        "지정 이후의 문의·상담·PoC·구매 전환을 연결하는 창구가 있으면 수요기관의 불확실성과 공급기업의 영업비용을 함께 낮출 수 있다. 이때 기관명 비공개 사례만 모으기보다 실제 워크로드와 성능·운영결과를 공유할 수 있는 범위를 설계하는 것이 중요하다.",
+        "베트남 데이터센터 기회는 정책금융과 국산 시스템 수출을 결합할 가능성을 보여주지만, 차관조건·현지 수요기관·조달방식이 구체화돼야 사업성을 판단할 수 있다. 국내 공공구매의 운영성과가 축적되면 해외 금융사업에서 요구하는 납품·운영 레퍼런스로 활용될 수 있다."
+      ],
+      "event_id": "furiosa-public-procurement-category-demand-channel-disclosure-2026-11-27",
+      "event_first_published_at": "2026-11-27T11:20:32+09:00",
+      "event_evidence_url": "https://slv.kr.aving.net/news/articleView.html?idxno=1817453",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "혁신제품 특집 인터뷰 퓨리오사에이아이, 추론용 AI 반도체 레니게이드로 공공 AI 인프라 공략",
+          "publisher": "에이빙",
+          "published_at": "2026-11-27T11:20:32+09:00",
+          "url": "https://slv.kr.aving.net/news/articleView.html?idxno=1817453",
+          "verification": "full_text",
+          "verified_at": "2026-11-28T09:47:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "인텔, SGLang에 제온·GPU 실행경로와 저정밀 추론 최적화 업스트림",
+      "category": "가속기 운영 SW",
+      "collected_at": "2026-11-28T07:57:12.928+09:00",
+      "original_published_at": "2026-11-28T02:04:50+09:00",
+      "original_url": "https://www.lmsys.org/blog/2026-11-27-sglang-intel",
+      "main_points": [
+        "인텔과 SGLang 프로젝트는 제온 CPU와 인텔 GPU를 주류 추론 플랫폼으로 지원하기 위해 업스트림한 실행경로와 최적화를 공개했다. CPU 경로에는 AMX, NUMA 인식과 스레드 고정, torch.compile 기반 W8A8 INT8이 포함됐고 GPU 경로에는 Flash Attention·MLA, grouped MoE GEMM, 그래프 실행과 저정밀 커널이 추가됐다.",
+        "Xe2 GPU의 MXFP4 구현은 GPT-OSS-20B 같은 MoE 모델의 전문가 가중치를 32개당 17바이트로 압축해 BF16 원시 저장량 64바이트보다 줄인다. 다만 Xe2가 FP4 연산을 네이티브로 수행하는 것은 아니며, 패킹된 가중치를 언패킹해 계산하는 접근이다.",
+        "공개자료는 전문가 병렬화가 아직 검증되지 않았고 자동 CPU·GPU 배치나 모든 모델에서의 성능 동등성을 주장하지 않는다. 이번 작업은 11월 중순 공개된 SGLang 생태계 협력에서 인텔 하드웨어용 구체적인 상류 코드와 최적화 경로가 추가된 후속 변화다."
+      ],
+      "importance": [
+        "추론 프레임워크의 경쟁이 엔비디아 호환 여부를 넘어 CPU와 여러 GPU가 동일한 상류 프로젝트에서 유지되는 구조로 이동하고 있다. 인텔이 별도 포크가 아니라 SGLang 업스트림에 기능을 넣은 것은 개발자 접근성과 버전 유지비를 줄이는 데 의미가 있다.",
+        "저정밀 가중치, NUMA 최적화와 MoE 커널은 메모리 용량·대역폭이 병목인 대형 추론에서 하드웨어 활용률을 높이는 핵심 요소다. 아직 미검증 기능을 명시한 점도 이기종 가속기 평가에서 지원 여부와 성숙도를 구분하게 한다."
+      ],
+      "implications": [
+        "국산 NPU 운영 SW도 자체 벤치마크뿐 아니라 SGLang·vLLM 같은 주류 프로젝트에 실행경로와 커널을 상류 반영하는 능력이 중요해진다. 코드 유지주기, 모델 커버리지와 릴리스 호환성이 고객의 장기운영 위험을 결정한다.",
+        "평가는 최대 처리량만이 아니라 지연목표별 처리량, 모델 적재시간, 저정밀 정확도, 다중 소켓 NUMA 효율과 MoE 통신비용을 분리해 볼 필요가 있다. 동일 모델·동일 서비스 수준에서 CPU·GPU·NPU 조합을 비교해야 이기종 배치의 경제성이 드러난다.",
+        "FP4라는 명칭만으로 네이티브 연산지원을 추정하면 성능을 과대해석할 수 있다. 저장형식, 디코딩 비용과 실제 산술정밀도를 구분하는 검증 관행은 국내 가속기 제품과 지원사업의 기술평가에도 적용할 수 있다."
+      ],
+      "event_id": "sglang-intel-xeon-xpu-upstream-low-precision-paths-2026-11-27",
+      "event_first_published_at": "2026-11-28T02:04:50+09:00",
+      "event_evidence_url": "https://www.lmsys.org/blog/2026-11-27-sglang-intel",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "SGLang on Intel Xeon CPUs and Intel GPUs as First-Class Platforms: Execution Paths and Low-Precision Inference",
+          "publisher": "LMSYS Org",
+          "published_at": "2026-11-28T02:04:50+09:00",
+          "url": "https://www.lmsys.org/blog/2026-11-27-sglang-intel",
+          "verification": "public_primary",
+          "verified_at": "2026-11-28T09:47:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "SemiAnalysis, Trainium3가 특정 에이전트 추론에서 GB300 대비 비용 우위",
+      "category": "글로벌 가속기·비용검증",
+      "collected_at": "2026-11-28T07:57:12.928+09:00",
+      "original_published_at": "2026-11-28T00:54:59+09:00",
+      "original_url": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
+      "main_points": [
+        "SemiAnalysis는 실제 코딩 에이전트 세션을 재생하는 AgentX 시험으로 AWS Trainium3와 NVIDIA GB300의 GLM-5.3 744B FP4 추론을 비교했다. 사용자당 초당 153토큰 조건에서 GB300은 칩당 초당 2만2,379토큰, Trainium3는 2만1,440토큰을 기록했고 추정 백만 토큰당 비용은 각각 0.029달러와 0.011달러였다.",
+        "같은 분석에서 Trainium3의 추정 비용은 이 구간에서 62% 낮았고, 사용자당 초당 216토큰에서는 처리량 23% 우위와 비용 71% 절감, 279토큰에서는 처리량 6% 우위와 비용 66% 절감을 제시했다. 비용 계산은 GB300 칩당 시간당 2.31달러, Trainium3 0.83달러라는 2026년 7월 가격조사와 자체 TCO 모델을 사용했다.",
+        "AWS 공식 사양상 Trainium3는 칩당 144GB HBM3E와 4.9TB/s 대역폭을 제공하고 최대 144칩 UltraServer로 구성된다. 벤치마크 결과는 특정 모델·FP4 구현·지연목표와 SemiAnalysis의 가격가정에 따른 것이므로 다른 모델이나 공급계약 가격에 그대로 일반화할 수 없다."
+      ],
+      "importance": [
+        "전용 가속기 경쟁이 이론 성능과 클라우드 가격표를 넘어 실제 에이전트 세션의 지연목표별 처리량과 토큰 비용 비교로 이동했다. Trainium3가 일부 구간에서 GB300과 비슷하거나 높은 처리량과 낮은 추정비용을 보인 결과는 하이퍼스케일러 자체칩이 실사용 추론의 대안으로 성장했음을 보여준다.",
+        "동시에 비용 우위가 하드웨어 가격, 이용률, 모델 최적화와 서비스 수준 가정에 민감하다는 점도 분명하다. 단일 평균값보다 워크로드와 지연구간별 곡선을 보는 것이 가속기 선택과 금융·조달 판단에 더 유용하다."
+      ],
+      "implications": [
+        "국내 NPU의 경쟁력 검증도 최대 TOPS나 단일 배치 처리량보다 실제 서비스 세션, 목표 지연시간과 토큰당 총비용을 함께 측정하는 방향으로 정교화할 필요가 있다. 동일 모델에서 컴파일·커널 최적화 수준과 서버 이용률을 공개해야 비교가 재현 가능해진다.",
+        "자체칩을 운영하는 클라우드는 하드웨어와 네트워크·런타임·가격을 함께 설계해 비용우위를 만들 수 있다. 국내 기업에는 칩 판매뿐 아니라 운영 SW, 용량예약과 서비스 과금까지 포함한 사업모델이 중요해진다.",
+        "정책·사업 검토에서는 벤치마크의 가격 기준일, 감가상각·전력·네트워크 포함범위와 실제 제공지역을 확인해야 한다. 공개 비교데이터가 쌓이면 가속기 지원사업도 장비 확보량보다 워크로드별 비용·서비스 성과를 기준으로 평가할 수 있다."
+      ],
+      "event_id": "semianalysis-agentx-trainium3-gb300-cost-throughput-2026-11-27",
+      "event_first_published_at": "2026-11-28T00:54:59+09:00",
+      "event_evidence_url": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
+      "selection_tier": "primary",
+      "sources": [
+        {
+          "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
+          "publisher": "SemiAnalysis",
+          "published_at": "2026-11-28T00:54:59+09:00",
+          "url": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
+          "verification": "full_text",
+          "verified_at": "2026-11-28T09:47:30+09:00"
+        },
+        {
+          "title": "Amazon EC2 Trn3 UltraServers",
+          "publisher": "Amazon Web Services",
+          "published_at": "2025-12-02",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-trn3-ultraservers/",
+          "verification": "public_primary",
+          "verified_at": "2026-11-28T09:47:30+09:00"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "화웨이, 4,096개 데이터 연결 맞춤형 HBM 설계 공개 예고",
+      "category": "글로벌 메모리·전략경쟁",
+      "collected_at": "2026-11-27T17:46:46.763+09:00",
+      "original_published_at": "2026-11-27T09:20:00+09:00",
+      "original_url": "https://www.ajupress.com/view/20261127091538554",
+      "main_points": [
+        "화웨이는 2027년 2월 ISSCC에서 64채널과 4,096개 데이터 연결을 갖춘 맞춤형 HBM 설계를 발표할 예정이다. ISSCC 사전 프로그램은 메모리 컨트롤러와 5층 웨이퍼온웨이퍼 하이브리드 본딩을 결합한 구조로 소개했다.",
+        "4,096개 데이터 연결은 HBM4의 2,048개보다 두 배 넓지만 인터페이스 폭만으로 총대역폭이나 시스템 성능을 판단할 수는 없다. 공개자료에는 용량, 핀당 속도, 전력, 수율과 양산 일정이 제시되지 않았다.",
+        "같은 프로그램에는 삼성전자의 48GB·핀당 17Gb/s HBM4E 발표도 예고돼 서로 다른 확장 전략이 비교될 전망이다. 화웨이 설계는 정식 학회 발표 전 사전 프로그램 단계이며 제품 공급이나 고객 채택 사실이 아니다."
+      ],
+      "importance": [
+        "중국 AI칩 생태계가 기존 HBM 규격을 그대로 따라가기보다 넓은 인터페이스와 하이브리드 본딩으로 메모리 병목을 풀려는 설계 방향을 공개한 전략적 경쟁 변화다. 수출통제 아래 가속기와 메모리를 공동설계해 공급망 제약을 우회하려는 움직임으로 볼 수 있다.",
+        "다만 제조성과 양산성은 인터페이스 폭과 별개의 문제다. 실제 경쟁력은 본딩 수율, 컨트롤러 복잡도, 패키지 면적·전력과 생산 파트너 확보가 확인돼야 평가할 수 있다."
+      ],
+      "implications": [
+        "HBM 경쟁은 핀당 속도와 적층용량뿐 아니라 인터페이스 폭, 컨트롤러와 본딩 공정의 조합으로 분화될 수 있다. 가속기 설계사가 특정 메모리에 맞춘 패키지와 시스템을 함께 설계하면 표준제품 중심 공급사의 대응주기도 짧아질 수 있다.",
+        "국내 생태계는 학회 발표 뒤 실측 대역폭과 에너지 효율, 수율·양산계획을 확인하면서 기술위협과 공급능력을 분리해 볼 필요가 있다. 넓은 버스가 패키징·기판·테스트 장비에 요구하는 변화도 함께 검토해야 한다.",
+        "전략경쟁 관점에서는 중국의 설계 공개가 실제 생산으로 이어지는 시점과 고객 가속기에 통합되는지를 추적하는 것이 핵심이다. 이는 국내 메모리 기업의 제품 로드맵뿐 아니라 장비·소재의 수출통제와 대체공급망 판단에도 영향을 줄 수 있다."
+      ],
+      "event_id": "huawei-4096-dq-custom-hbm-isscc2027-advance-program-2026-11-27",
+      "event_first_published_at": "2026-11-27T09:20:00+09:00",
+      "event_evidence_url": "https://www.ajupress.com/view/20261127091538554",
+      "selection_tier": "supplement",
+      "recency_evidence": "공개 보도는 2026-11-27 09:20 KST로 주 분석구간 시작보다 10분 이르지만 48시간 이내 미게재 사건이다. 11월 27일 원고 후보 비교에서는 검증·양산정보 부족으로 제외됐으며 과거 원고에 게재되지 않아 보완 후보로 재평가했다.",
+      "sources": [
+        {
+          "title": "Huawei unveils 4,096-pin HBM design to challenge Korean chipmakers",
+          "publisher": "Aju Press",
+          "published_at": "2026-11-27T09:20:00+09:00",
+          "url": "https://www.ajupress.com/view/20261127091538554",
+          "verification": "full_text",
+          "verified_at": "2026-11-28T09:47:30+09:00"
+        },
+        {
+          "title": "ISSCC 2027 Advance Program",
+          "publisher": "IEEE International Solid-State Circuits Conference",
+          "published_at": "2026-11-26",
+          "url": "https://submissions.mirasmart.com/ISSCC2027/PDF/ISSCC2027AdvanceProgram.pdf",
+          "verification": "public_primary",
+          "verified_at": "2026-11-28T09:47:30+09:00",
+          "available_before_cutoff": true,
+          "cutoff_evidence": "ISSCC 2027 사전 프로그램 PDF는 화웨이의 64채널·4,096-DQ 맞춤형 HBM과 5층 웨이퍼온웨이퍼 본딩 발표 항목을 수록했다. Aju Press가 이를 2026-11-27 09:20 KST에 공개했고 아카이브에 같은 날 17:46:46 KST 수집돼 11월 28일 09:30 마감 전에 이용 가능했음을 대조했다. 확인 시점에 PDF 수정시각 표시는 없었다."
+        }
+      ]
+    }
+  ],
+  "selection_audit": {
+    "coverage": {
+      "domestic_npu": {
+        "result": "reviewed",
+        "note": "11월 27~28일 아카이브와 하이퍼엑셀·퓨리오사AI·세명소프트, 리벨리온·딥엑스·모빌린트 및 협력사 공개채널을 확인했다. 하이퍼엑셀의 2027년 양산용 LPDDR 10만개 수요와 공동설계 제안, 세명소프트의 이기종 MLOps GS인증, 퓨리오사AI의 조달 병목 공개를 선정했다. 가스공사 CCTV와 K-Perf는 직전 원고 게재 사건이고 다른 기업 후보는 새 고객·계약·운영성과가 제한적이었다. 당일 collection은 07:57:09 KST 한 차례로 45개 출처 중 44개 ok·1개 empty(mobilint-global)였고 09:20·09:27 실행은 없어 직접 보완검색으로 공백을 점검했다."
+      },
+      "domestic_policy_demand": {
+        "result": "reviewed",
+        "note": "과기정통부·NIPA·IITP·조달청과 중앙정부, 지자체·지방의회·공공기관·테크노파크의 NPU·AI반도체·GPU·AIDC·국비·실증·구매·조달을 확인했다. 퓨리오사AI 인터뷰에서 혁신제품 신청 당시 AI 가속기 분류 부재와 지정 뒤 구매·문의채널 문제가 처음 구체화돼 선정했다. 지역 국비·데이터센터 후보는 단계가 불명확하거나 직전 원고와 중복됐고, 마감 전 새 공모·예산집행·실증성과는 확인되지 않았다."
+      },
+      "global_accelerators": {
+        "result": "reviewed",
+        "note": "Trainium3·GB300·TPU·AMD·Intel과 전략적 인수·제휴, 수출통제 보도를 비교했다. 실제 코딩 에이전트 세션을 사용한 SemiAnalysis의 Trainium3 비용·처리량 비교를 선정했다. 엔비디아 Blackwell의 중국 유입·담보대출 보도는 새 장비 증거가 있었으나 최근 원고에서 우회 유통·금융파급을 반복 다뤘고 공급경로가 확인되지 않아 제외했다. Amazon의 Decart 인수와 AMD Taalas는 최근 게재 사건이었다."
+      },
+      "operating_software": {
+        "result": "reviewed",
+        "note": "SGLang·vLLM·ROCm·CUDA와 국내 NPU MLOps·컴파일러·런타임 최근 자료를 확인했다. SGLang의 Intel Xeon·GPU 상류 실행경로와 세명소프트 테르니스 MLOps를 선정했다. SGLang 컨소시엄 자체는 11월 13일 원고와 중복이지만 이번 Intel AMX·NUMA·W8A8·MoE·MXFP4 구현은 구체적인 후속 코드 변화로 구분했다."
+      },
+      "memory_packaging_infrastructure": {
+        "result": "reviewed",
+        "note": "HBM·LPDDR·CXL·패키징·인터커넥트와 AIDC 전력·부지·인허가·금융구조를 비교했다. 하이퍼엑셀의 양산용 LPDDR 수요와 파네시아 CXL 통합검증 맥락, 화웨이의 4,096-DQ 맞춤형 HBM 설계를 선정했다. 화웨이는 속도·수율·양산정보의 한계를 본문에 반영했고, 통상 HBM 증설·소재·장비와 단순 주가·전망은 국내 NPU 고객·운영 SW 후보보다 후순위로 뒀다."
+      }
+    },
+    "selected": [
+      {
+        "article_number": 1,
+        "reason": "국산 LPU의 2027년 양산계획이 약 10만개 LPDDR 수요와 메모리 공급 병목으로 구체화됐고, 가속기·메모리 공동설계와 통합 데이터센터 검증이라는 사업화 경로를 제시했다."
+      },
+      {
+        "article_number": 2,
+        "reason": "GPU와 국내 NPU를 공통 배포·관리하는 운영 SW가 GS인증 1등급을 받아 국산 NPU 도입의 운영복잡도와 조달품질을 함께 판단할 수 있는 신규 사실이다."
+      },
+      {
+        "article_number": 3,
+        "reason": "혁신제품 지정 과정의 품목분류 부재와 지정 후 구매·문의채널 문제, 회사가 밝힌 실제 구매를 함께 공개해 공공 NPU 수요창출의 제도·현장 병목을 구체적으로 보여준다."
+      },
+      {
+        "article_number": 4,
+        "reason": "SGLang에 Intel CPU·GPU 실행경로와 저정밀·MoE 최적화가 상류 반영돼 이기종 가속기 생태계의 실제 코드·운영 변화와 남은 기술한계를 확인할 수 있다."
+      },
+      {
+        "article_number": 5,
+        "reason": "실제 코딩 에이전트 세션과 지연목표별 처리량·추정 토큰 비용으로 Trainium3와 GB300을 비교해 가속기 경쟁을 서비스 경제성 관점에서 검증한 신규 자료다."
+      },
+      {
+        "article_number": 6,
+        "reason": "4,096-DQ 맞춤형 HBM과 웨이퍼온웨이퍼 본딩이라는 중국의 공급망 대응 설계가 공식 학회 프로그램에 나타나 전략적 경쟁 변화로 비교할 가치가 있다."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "Nvidia Blackwell chips turn up in China data center and collateral loan",
+        "url": "https://ca.finance.yahoo.com/news/nvidia-blackwell-chips-turn-china-114546617.html",
+        "reason": "GB300 NVL72·GB200 장비와 담보대출의 새 사례는 확인했지만 공급자와 유입경로가 입증되지 않았고 최근 11월 23~26일 원고에서 중국 우회유통과 데이터센터 금융파급을 연속 게재해 반복 비중을 낮췄다."
+      },
+      {
+        "title": "Panmnesia proposes memory-centric sovereign AI data-center architecture",
+        "url": "https://panmnesia.com/news/en/2026-11-27-panmnesia-sk-panel-eng/",
+        "reason": "CXL·PCIe 퓨전 스위치와 랙 검증계획은 하이퍼엑셀과 같은 K-AI 얼라이언스 행사·통합 데이터센터 제안 맥락이어서 독립 기사로 분리하지 않고 1번 기사의 공급망·시스템 배경으로 통합했다."
+      },
+      {
+        "title": "가스공사, 국산 NPU 기반 AI CCTV 후속 보도",
+        "url": "https://www.kogas.or.kr/site/koGas/bodo/selectBodoView.do?key=1162&bodoNo=705",
+        "reason": "3개 현장 시범도입은 2026-11-26 원고에 이미 게재됐고 새 공급기업·물량·운영성과가 확인되지 않았다."
+      },
+      {
+        "title": "아이에이클라우드·TTA, K-Perf 국산 NPU 풀스택 검증",
+        "url": "https://www.etnews.com/20261126000528",
+        "reason": "4개 기관 협약과 검증계획은 2026-11-27 원고에 게재됐으며 이번 시간대에 새 시험결과나 고객도입이 없었다."
+      },
+      {
+        "title": "Daesin Private Equity pursues semiconductor-focused fund",
+        "url": "https://www.koreaherald.com/article/10626064",
+        "reason": "반도체 투자재원 후보로 확인했으나 구체적인 AI반도체 투자대상·납입·집행이 공개되지 않은 일반 자금조달 단계여서 우선순위를 낮췄다."
+      },
+      {
+        "title": "SRT 데이터센터 투자 확대 전망",
+        "url": "https://www.bangkokpost.com/business/investment/3143388/srt-eyes-data-centre-revenue",
+        "reason": "토지임대와 데이터센터 수익계획은 인프라 후보이나 11월 25일 공개된 계획·전망 중심이며 국내 NPU 양산·조달과 신규 운영 SW 후보보다 직접성과 검증 수준이 낮았다."
+      },
+      {
+        "title": "Kioxia·NVIDIA SSD 확장메모리 PoC 후속 보도",
+        "url": "https://www.kioxia-holdings.com/en-jp/news/2026/20261126-1.html",
+        "reason": "GB200 NVL72와 1.1PB SSD 확장계층은 2026-11-27 원고에 이미 게재됐고 새 성능결과·제품화 일정이 확인되지 않았다."
+      },
+      {
+        "title": "통상 HBM·소재·장비 증설 및 주가 전망 보도",
+        "url": "https://news.google.com/search?q=HBM%20semiconductor%20November%2027%202026",
+        "reason": "수요전망과 개별 공급·주가 기사 다수는 확인했지만 고객검증·공동개발·정책수요 또는 산업기반의 중대한 새 실행 사실이 부족해 유력 후보를 밀어내지 않도록 제외했다."
+      }
+    ],
+    "count_reason": "최근 24시간 신규 사건과 48시간 미게재 보완 후보를 비교해 국내 NPU 양산·운영 SW·공공조달, 이기종 추론 SW, 글로벌 가속기 비용검증, 전략적 메모리 설계의 서로 독립된 6개 이슈를 선정했다. 통상 HBM·자금조달·주가, 최근 14일 중복과 반복적인 밀수 보도는 제외했으며 별도의 7번째 기사로 추가할 만큼 중요성과 공개본문 검증을 함께 충족한 후보는 없었다.",
+    "company_overlap_review": "최종 6건에서 동일 기업집단 중심 기사는 없다. 하이퍼엑셀 기사에 파네시아를 같은 행사·통합검증 맥락의 보조 근거로 포함했으며 별도 기사로 분리하지 않았다. 국내 NPU 3건은 각각 양산·메모리 조달, 이기종 운영 SW, 공공조달 병목으로 주체와 정책 판단 지점이 다르다.",
+    "candidate_counts": {
+      "discovered": 3494,
+      "time_eligible": 2026,
+      "independent_events": 28,
+      "verified": 12,
+      "selected": 6,
+      "basis": "docs/data/archive/index.json의 2026년 11월 항목에 연결된 최신 조각 가운데 마감 전 72시간을 완전히 덮는 60개 조각 6,000건을 읽어 publishedAt 기준 72시간 후보 3,494건과 48시간 적합 2,026건을 실제 집계했다. 중복보도·재보도·범용 AI 소식을 사건 단위로 합쳐 28개를 비교하고 공개 전문·공식자료로 12개를 검증해 6건을 선정했다. 11월 28일 collection은 07:57:09 KST 한 차례로 45개 출처 중 44개 ok·1개 empty(mobilint-global)·failed 0개였으며 09:20·09:27 실행은 확인되지 않았다. 전체 월 항목은 338개 조각 33,797건이며 조사 범위의 경계는 다음 조각의 발행시각으로 대조했다."
+    },
+    "history_review": {
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-27",
+      "checked_dates": [
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25",
+        "2026-11-26",
+        "2026-11-27"
+      ],
+      "note": "14개 날짜의 실제 ready 원고 80개를 제목·event_id·주요 내용·출처 URL까지 읽어 사건 단위로 대조했다. 가스공사 NPU CCTV, K-Perf, Kioxia·NVIDIA SSD 확장메모리와 Amazon·Decart 인수는 중복으로 제외했다. 하이퍼엑셀의 10만개 LPDDR 양산수요와 SGLang Intel 실행경로는 과거 행사·컨소시엄 소개와 구별되는 구체적인 새 사실을 확인해 material_update로 기록했다."
+    },
+    "event_reviews": [
+      {
+        "article_number": 1,
+        "result": "material_update",
+        "previous_editions": [
+          "2026-11-17"
+        ],
+        "new_fact": "2027년 LPU 초기 양산에 약 10만개 LPDDR가 필요하다는 수량, SK하이닉스 공급요청과 2~3년 뒤 공동설계·통합 데이터센터 검증 제안이 새로 공개됐다.",
+        "evidence_url": "https://en.edaily.co.kr/news/eda202611285025/",
+        "note": "과거 하이퍼엑셀 계약·SC26 협력 보도와 달리 메모리 조달 병목과 양산수요를 구체화한 후속 사건이다."
+      },
+      {
+        "article_number": 2,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "테르니스 MLOps의 GS인증 1등급과 GPU·국산 NPU 공통 운영기능은 최근 14일 원고에 없는 신규 제품 품질검증이다."
+      },
+      {
+        "article_number": 3,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "혁신제품 신청 당시 AI 가속기 품목분류 부재, 제도개선 과정과 지정 뒤 구매·문의채널 애로를 함께 공개한 인터뷰는 최근 14일 원고에 없는 신규 현장정보다."
+      },
+      {
+        "article_number": 4,
+        "result": "material_update",
+        "previous_editions": [
+          "2026-11-14"
+        ],
+        "new_fact": "SGLang 컨소시엄 소개 이후 Intel Xeon·GPU용 AMX·NUMA·W8A8, Flash Attention·MoE와 Xe2 MXFP4 가중치 경로가 상류 구현으로 공개됐다.",
+        "evidence_url": "https://www.lmsys.org/blog/2026-11-27-sglang-intel",
+        "note": "동일 프로젝트 명칭이지만 실행코드·지원 하드웨어·저정밀 한계가 구체화된 기술 후속이다."
+      },
+      {
+        "article_number": 5,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "AgentX 실사용 세션으로 Trainium3와 GB300의 지연목표별 처리량·비용을 비교한 결과는 최근 14일 원고에 없는 신규 검증자료다."
+      },
+      {
+        "article_number": 6,
+        "result": "new_event",
+        "previous_editions": [],
+        "note": "ISSCC 사전 프로그램에 수록된 화웨이 4,096-DQ 맞춤형 HBM 설계는 직전 원고에서 후보로만 제외됐고 게재된 적이 없는 48시간 보완 사건이다."
+      }
+    ],
+    "additional_search": {
+      "completed": true,
+      "areas": {
+        "domestic_npu": {
+          "status": "reviewed",
+          "queries": "2026년 11월 27~28일 국산 NPU 고객 도입 공동개발 양산 실증 매출; 하이퍼엑셀 SK하이닉스 메모리; 퓨리오사AI 혁신제품 조달; 세명소프트 테르니스; 리벨리온 딥엑스 모빌린트 공식 발표",
+          "official_sources": "이데일리 공개 전문, 파네시아 공식자료, 머니투데이·에이빙 공개 전문과 국내 NPU 기업·협력사 공개채널, 최근 14일 ready를 확인했다.",
+          "result": "하이퍼엑셀 양산수요, 테르니스 MLOps 인증, 퓨리오사AI 조달 현장정보를 선정했다. 가스공사·K-Perf는 중복이고 다른 후보는 마감 전 새 고객·계약·운영성과가 제한적이었다."
+        },
+        "domestic_policy_demand": {
+          "status": "reviewed",
+          "queries": "2026년 11월 27~28일 과기정통부 NIPA IITP 조달청 NPU AI반도체 GPU 국비 예산 실증 도입 구매; 지자체 테크노파크 AI반도체 AIDC 전력 인허가; 혁신제품 AI 가속기",
+          "official_sources": "과기정통부·NIPA·IITP·조달청 공개채널, 에이빙 퓨리오사AI 인터뷰와 정부·지역기관 공개 보도를 대조했다.",
+          "result": "AI 가속기 품목분류 개선과 지정 뒤 구매연결 애로를 선정했다. 마감 전 새 중앙·지역 NPU 공모·예산집행·실증성과는 확인되지 않았고 단계가 불명확한 지역 유치·국비 기사는 제외했다."
+        },
+        "global_accelerators": {
+          "status": "reviewed",
+          "queries": "November 27-28 2026 Trainium3 GB300 TPU AMD Intel AI accelerator benchmark acquisition partnership export control official",
+          "official_sources": "SemiAnalysis AgentX 원문과 InferenceX 비교페이지, AWS Trainium3 공식 사양, Intel·NVIDIA·AMD·AWS 공식채널과 공개 전문을 확인했다.",
+          "result": "Trainium3·GB300 실사용 추론비교를 선정했다. Blackwell 중국 유입은 반복 밀수·금융 사건이고 Decart·Taalas는 최근 게재 사건이어서 제외했다."
+        },
+        "operating_software": {
+          "status": "reviewed",
+          "queries": "November 27-28 2026 SGLang Intel Xeon XPU MXFP4 ROCm vLLM CUDA runtime kernel; 국산 NPU MLOps compiler orchestration security",
+          "official_sources": "LMSYS SGLang 공식 기술글, 머니투데이 테르니스 공개 전문, SGLang·vLLM·ROCm·CUDA 공개 릴리스와 최근 14일 원고를 확인했다.",
+          "result": "SGLang Intel 실행경로와 테르니스 MLOps 인증을 선정했다. 기존 SGLang 컨소시엄과 시의성 밖 릴리스는 분리·제외했다."
+        },
+        "memory_packaging_infrastructure": {
+          "status": "reviewed",
+          "queries": "2026년 11월 27~28일 HBM LPDDR CXL UCIe 패키징 인터커넥트 AI 데이터센터 전력 금융구조; Huawei 4096 DQ HBM ISSCC; HyperAccel memory supply",
+          "official_sources": "ISSCC 2027 사전 프로그램, Aju Press 공개 전문, 파네시아 공식자료와 이데일리 전문, 국내외 HBM·CXL·AIDC 공개자료를 확인했다.",
+          "result": "하이퍼엑셀 LPDDR 양산수요와 화웨이 맞춤형 HBM을 선정했다. 통상 HBM 증설·소재·장비·주가와 단계가 불명확한 AIDC 후보는 제외했다."
+        }
+      },
+      "alternative_sources": "07:57 KST 이후 09:20·09:27 collection 부재와 mobilint-global empty를 과기정통부·NIPA·IITP·조달청, 국내 NPU 기업·협력사, LMSYS·AWS·ISSCC 공식채널과 이데일리·머니투데이·에이빙·Aju Press·SemiAnalysis 공개 전문으로 보완했다. 날짜만 표시된 파네시아·ISSCC 자료는 마감 전 동시 보도시각과 아카이브 firstSeenAt으로 공개 여부를 대조했고 검색 제목·RSS 요약만으로 최종 사실을 작성하지 않았다."
+    }
+  }
+}
+
